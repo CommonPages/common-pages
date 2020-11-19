@@ -3782,27 +3782,24 @@ feed May2020
   // Small droplet aerosols in poorly ventilated spaces and SARS-CoV-2 transmission
   doi: https://doi.org/10.1016/S2213-2600(20)30245-9
   ref 'Somsen_et_al_05_27_2020
-    head = Small droplets, from submicron to approximately 10 μm diameter, produced during speech and coughing, have been shown to contain viral particles, which can remain viable and infectious in aerosols for 3 h. The droplets can be transmitted either directly by entering the airway through the air (aerosols), or indirectly by contact transfer via contaminated hands.
+    head = This study analysed droplet production due to coughs and speech by measuring the droplet size distribution, travel distance and velocity, and the airborne time in relation to the level of air ventilation.
 
     - quotes
       !a
-      !b
-      !c
-      !d
       !e
-      !f
+
 
     / May, 2020 - The Lancet
-    quote !a = The dose–response relationship of SARS-CoV-2 infection is still unclear, especially with respect to aerosol transmission of the virus. However, aerosols containing a small concentration of virus in poorly ventilated spaces, combined with low humidity and high temperature, might result in an infectious dose over time.
+    quote !a = Transmission by aerosols of the small droplets studied here can only be prevented by use of high-performance face masks; a conventional surgical mask only stops 30% of the small aerosol droplets studied here for inhaled breath; for exhaled breath the efficacy is much better
 
-    / May, 2020 - The Lancet
-    quote !b = We found two distinct types of drops, large droplets (100–1000 μm in diameter) and small droplets (1–10 μm), with the small droplets being much more prevalent. During speech, only the small droplets were found. Although large droplets have been specifically related to coughs,4 here we observe that both sizes of droplet are produced by coughing.
+    # / May, 2020 - The Lancet
+    # quote !b = We found two distinct types of drops, large droplets (100–1000 μm in diameter) and small droplets (1–10 μm), with the small droplets being much more prevalent. During speech, only the small droplets were found. Although large droplets have been specifically related to coughs,4 here we observe that both sizes of droplet are produced by coughing.
 
     / May, 2020 - The Lancet
     quote !c = Large droplets were observed to fall onto the ground rapidly. We found that although the speed of the drops ranged 2–7 m/s at the start of the cough, the visible large drops (typically 500 μm in diameter) do not travel far before their trajectory bends down due to gravity to rapidly fall onto the ground within 1 s.
 
     / May, 2020 - The Lancet
-    quote !d = These small droplets are of specific interest because they have been associated with aerosol transmission of the SARS-CoV-2. We also investigated droplets coming from the nasal cavity, and found that with normal breathing no droplets are detected above the background noise level (2·3 [SD 1·5] droplets, and 2·6 [1·7] droplets for nasal breathing). From a sneeze, we found mostly very large drops, originating from both the buccal and nasal cavities, that are not persistent.
+    quote !d = These small droplets are of specific interest because they have been associated with aerosol transmission of the SARS-CoV-2. We also investigated droplets coming from the nasal cavity, and found that with normal breathing no droplets are detected above the background noise level. From a sneeze, we found mostly very large drops, originating from both the buccal and nasal cavities, that are not persistent.
 
     / May, 2020 - The Lancet
     quote !e = In the best ventilated room, after 30 s the number of droplets had halved, whereas with no ventilation this took about 5 min, in agreement with the air drag calculation that shows that 5 μm drops from the average cough or speech height take 9 min to reach the ground. In a poorly ventilated room, the number of droplets was halved in 1·4 min.
