@@ -1,7 +1,6 @@
 index: hide
 . Triage
 
-
   # Subject Cross Immunity
   > Claim
     SARS-CoV-2 cross-reactive antibodies are non-neutralizing and do not meaningfully protect against SARS-CoV-2 infection or reduce COVID-19 severity.
@@ -11,7 +10,7 @@ index: hide
 
   # Subject protective Immunity
   > Claim
-    There is evidence to suggest that prior infection with a coronavirus, including  SARS-CoV-2, confers some level of immunity and  protection against reinfection with the  same viral species. However,the extent and duration of this protection is unknown.
+    There is evidence to suggest that prior infection with a coronavirus, including  SARS-CoV-2, confers some level of immunity and protection against reinfection with the  same viral species. However,the extent and duration of this protection is unknown.
   -
     'Bao_et_al_2020
     'Bao_et_al_05_01_2020
@@ -27,6 +26,14 @@ index: hide
   -
     'Jiang_et_al_04_02_2020
     'Rogers_et_al_06_11_2020
+
+  > Claim
+    Strong antibody response has been observed with disease severity, tho the correlation is not yet clear.
+  -
+    'Iwasaki_et_al_2020
+    'Tan_et_al_03_26_2020
+    'Tan_et_al_03_26_2020.!c
+
 
   ## subject Symptoms
   # Recently widely reported in India too

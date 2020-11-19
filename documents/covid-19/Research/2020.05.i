@@ -2522,7 +2522,7 @@ feed May2020
   // SARS-CoV-2 infection protects against rechallenge in rhesus macaques
   doi: https://doi.org/10.1126/science.abc4776
   ref 'Chandrashekar_et_al_05_20_2020
-    head =  In summary, SARS-CoV-2 infection in rhesus macaques induced humoral and cellular immune responses and provided protective efficacy against SARS-CoV-2 rechallenge. These data raise the possibility that immunologic approaches to the prevention and treatment of SARS-CoV-2 infection may in fact be possible. However, it is critical to emphasize that there are important differences between SARS-CoV-2 infection in macaques and humans, with many parameters still yet to be defined in both species, and thus our data should be interpreted cautiously. Rigorous clinical studies will be required to determine whether SARS-CoV-2 infection effectively protects against SARS-CoV-2 re-exposure in humans.
+    head =  SARS-CoV-2 infection in rhesus macaques induced humoral and cellular immune responses and provided protective efficacy against SARS-CoV-2 rechallenge.  Data show that SARS-CoV-2 infection induced protective immunity against re-exposure in nonhuman primates.
 
     > Abstract
       An understanding of protective immunity to SARS-CoV-2 is critical for vaccine and public health strategies aimed at ending the global COVID-19 pandemic. A key unanswered question is whether infection with SARS-CoV-2 results in protective immunity against re-exposure. We developed a rhesus macaque model of SARS-CoV-2 infection and observed that macaques had high viral loads in the upper and lower respiratory tract, humoral and cellular immune responses, and pathologic evidence of viral pneumonia. Following initial viral clearance, animals were rechallenged with SARS-CoV-2 and showed 5 log10 reductions in median viral loads in bronchoalveolar lavage and nasal mucosa compared with primary infection. Anamnestic immune responses following rechallenge suggested that protection was mediated by immunologic control. These data show that SARS-CoV-2 infection induced protective immunity against re-exposure in nonhuman primates.
@@ -2682,6 +2682,7 @@ feed May2020
       !a
       !b
       !c
+      !d
 
     / May, 2020 - Nature
     quote !a =  We found that P2B-2F6 failed to cross react with SARS-CoV RBD. Only four of the 12 epitope residues recognized by P2B-2F6 are conserved which likely to explain the lacking cross-reactivity to SARS-CoV by P2B-2F6. Cross-recognition between RBDs was also absent in plasma assays, further highlighting the immunological distinctions of RBDs from the three viruses.
@@ -2691,6 +2692,9 @@ feed May2020
 
     / May, 2020 - Nature
     quote !c = Although we failed to obtain crystal structures of two other potent neutralizing antibodies (P2C-1F11 and P2C-1A3), however, given their strong competition with P2B-2F6, it is reasonable to hypothesize that they also act through interference of the RBD and ACE2 interaction.
+
+    / May, 2020 - Nature
+    quote !d = Competition with ACE2 is a better predictor than binding affinity for antibody virus-neutralizing potency. The most potent neutralizing antibodies (P2C-1F11, P2B-2F6 and P2C-1A3) were the most competitive with ACE2, indicating that blocking the interaction between RBD and ACE2 is a useful surrogate for neutralization.
 
 
   # Immune Response head !c , !a !b Frontiers - Vaccine
@@ -3212,7 +3216,7 @@ feed May2020
   // Collection of SARS-CoV-2 Virus from the Air of a Clinic within a University Student Health Care Center and Analyses of the Viral Genomic Sequence
   doi: https://doi.org/10.4209/aaqr.2020.02.0202
   ref 'Lednicky_et_al_05_22_2020
-    head = To determine whether the virus detected was viable (‘live’), attempts were made to isolate the virus in cell cultures. Virus-induced cytopathic effects (CPE) were observed within two days post-inoculation of Vero E6 cells with collection media from air samples; however, rtRT-PCR tests for SARS-CoV-2 vRNA from cell culture were negative.
+    head = To determine whether the virus detected was viable (‘live’), attempts were made to isolate the virus in cell cultures. Collection of a positive sample from a distance more than 2 m away from the nearest patient traffic implies the virus was in an aerosol.
 
     > Abstract
       The progression of COVID-19 worldwide can be tracked by identifying mutations within the genomic sequence of SARS-CoV-2 that occur as a function of time. Such efforts currently rely on sequencing the genome of SARS-CoV-2 in patient specimens (direct sequencing) or of virus isolated from patient specimens in cell cultures. A pilot SARS-CoV-2 air sampling study conducted at a clinic within a university student health care center detected the virus vRNA, with an estimated concentration of 0.87 virus genomes L–1 air. To determine whether the virus detected was viable (‘live’), attempts were made to isolate the virus in cell cultures. Virus-induced cytopathic effects (CPE) were observed within two days post-inoculation of Vero E6 cells with collection media from air samples; however, rtRT-PCR tests for SARS-CoV-2 vRNA from cell culture were negative. Instead, three other fast-growing human respiratory viruses were isolated and subsequently identified, illustrating the challenge in isolating SARS-CoV-2 when multiple viruses are present in a test sample. The complete SAR-CoV-2 genomic sequence was nevertheless determined by Sanger sequencing and most closely resembles SARS-CoV-2 genomes previously described in Georgia, USA. Results of this study illustrate the feasibility of tracking progression of the COVID-19 pandemic using environmental aerosol samples instead of human specimens. Collection of a positive sample from a distance more than 2 m away from the nearest patient traffic implies the virus was in an aerosol.
@@ -3393,13 +3397,16 @@ feed May2020
   // A human neutralizing antibody targets the receptor binding site of SARS-CoV-2
   doi: https://doi.org/10.1038/s41586-020-2381-y
   ref 'Shi_et_al_05_26_2020
-    head = Our data indicated CB6, a neutralizing MAb (monoclonal antibodies) isolated from a convalescent COVID-19 patient, could be a potential therapeutic agent for COVID-19 and deserves further translational development.
+    head = We report the isolation of two specific human monoclonal antibodies (termed CA1 and CB6) from a patient convalescing from COVID-19. CA1 and CB6 demonstrated potent SARS-CoV-2-specific neutralization activity in vitro. In addition, CB6 inhibited infection with SARS-CoV-2 in rhesus monkeys in both prophylactic and treatment settings.
 
     > Abstract
       An outbreak of the coronavirus disease 2019 (COVID-19)1–3, caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)4 spread globally. Countermeasures are needed to treat and prevent further dissemination of the virus. In this study, we report the isolation of 2 specific human monoclonal antibodies (MAbs) from a convalescent COVID-19 patient. CA1 and CB6 demonstrated potent SARS-CoV-2-specific neutralization activity in vitro against SARS-CoV-2. In addition, CB6 inhibited SARS-CoV-2 infection in rhesus monkeys at both prophylactic and treatment settings. Further structural studies revealed that CB6 recognizes an epitope that overlaps with angiotensin converting enzyme 2 (ACE2)-binding sites in SARS-CoV-2 receptor binding domain (RBD), thereby interfering with the virus/receptor interactions by both steric hindrance and direct interface-residue competition. Our results suggest CB6 deserves further clinical translation.
 
-    # / May, 2020 - Nature
-    # quote !a =
+    - quotes
+      !a
+
+    / May, 2020 - Nature
+    quote !a = We performed structural studies, which revealed that CB6 recognizes an epitope that overlaps with angiotensin-converting enzyme 2 (ACE2)-binding sites in the SARS-CoV-2 receptor-binding domain, and thereby interferes with virus–receptor interactions by both steric hindrance and direct competition for interface residues. Our results suggest that CB6 deserves further study as a candidate for translation to the clinic.
 
   # Tranmission
   // Shared SARS-CoV-2 diversity suggests localised transmission of minority variants

@@ -503,7 +503,7 @@ feed July2020
   // Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care
   doi: https://doi.org/10.1038/s41598-020-69286-3
   ref 'Santarpia_et_al_07_2020
-    head = The study points to nature of viral shedding for patients in quarantine and the results indicate airborne spread of the virus.
+    head = we collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, supporting the use of airborne isolation precautions when caring for COVID-19 patients.
 
     > Abstract
       The novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) originated in Wuhan, China in late 2019, and its resulting coronavirus disease, COVID-19, was declared a pandemic by the World Health Organization on March 11, 2020. The rapid global spread of COVID-19 represents perhaps the most significant public health emergency in a century. As the pandemic progressed, a continued paucity of evidence on routes of SARS-CoV-2 transmission has resulted in shifting infection prevention and control guidelines between classically-defined airborne and droplet precautions. During the initial isolation of 13 individuals with COVID-19 at the University of Nebraska Medical Center, we collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, supporting the use of airborne isolation precautions when caring for COVID-19 patients.
@@ -627,7 +627,7 @@ feed July2020
   doi: https://doi.org/10.1016/S1473-3099(20)30561-2
   ref 'Goldman_et_al_07_03_2020
     head = A clinically significant risk of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission by fomites (inanimate surfaces or objects) has been assumed on the basis of studies that have little resemblance to real-life scenarios.
-    
+
     - quotes
       !a
       !b

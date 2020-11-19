@@ -13,6 +13,119 @@ feed Sangeeta
 
 
   #
+  #
+  // Viral Kinetics and Antibody Responses in Patients with COVID-19
+  doi: https://doi.org/10.1101/2020.03.24.20042382
+  ref 'Tan_et_al_03_26_2020
+    head = Nasopharyngeal, sputum and stools rather than blood and urine, were the major shedding routes for SARS-CoV-2, and meanwhile sputum had a prolonged viral shedding. Symptom cough seems to be aligned with viral shedding in clinical respiratory and fecal specimens. Stronger antibody response was associated with delayed viral clearance and disease severity.
+
+    >>> Background
+      A pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been spreading over the world. However, the viral dynamics, host serologic responses, and their associations with clinical manifestations, have not been well described in prospective cohort.
+
+    >>> Methods
+      We conducted a prospective cohort and enrolled 67 COVID-19 patients admitting between Jan 26 and Feb 5, 2020. Clinical specimens including nasopharyngeal swab, sputum, blood, urine and stool were tested periodically according to standardized case report form with final follow-up on February 27. The routes and duration of viral shedding, antibody response, and their associations with disease severity and clinical manifestations were systematically evaluated. Coronaviral particles in clinical specimens were observed by transmission electron microscopy (TEM).
+
+    >>> Results
+      The median duration of SARS-CoV-2 RNA shedding were 12 (3-38), 19 (5-37), and 18 (7-26) days in nasopharyngeal swabs, sputum and stools, respectively. Only 13 urines (5.6%) and 12 plasmas (5.7%) were viral positive. Prolonged viral shedding was observed in severe patients than that of non-severe patients. Cough but not fever, aligned with viral shedding in clinical respiratory specimens, meanwhile the positive stool-RNA appeared to align with the proportion who concurrently had cough and sputum production, but not diarrhea. Typical coronaviral particles could be found directly in sputum by TEM. The anti-nucleocapsid-protein IgM started on day 7 and positive rate peaked on day 28, while that of IgG was on day 10 and day 49 after illness onset. IgM and IgG appear earlier, and their titers are significantly higher in severe patients than non-severe patients (p<0.05). The weak responders for IgG had a significantly higher viral clearance rate than that of strong responders (p= 0.011).
+
+    >>> Conclusions
+      Nasopharyngeal, sputum and stools rather than blood and urine, were the major shedding routes for SARS-CoV-2, and meanwhile sputum had a prolonged viral shedding. Symptom cough seems to be aligned with viral shedding in clinical respiratory and fecal specimens. Stronger antibody response was associated with delayed viral clearance and disease severity.
+
+    -- quotes
+      !a
+      !b
+      !c
+
+    / March, 2020 - medRxiv
+    quote !a = Our analysis suggests that the viral RNA shedding pattern of patients infected with SARS-CoV-2 resembles that of patients with influenza and appears different from that seen in patients infected with SARS-CoV14 and MERS-CoV.
+
+    / March, 2020 - medRxiv
+    quote !b = Our data implicates the stool SARS-CoV-2 viral RNA may directly from swallowed sputum, not from infected intestinal mucosa or bile ducts
+
+    / March, 2020 - medRxiv
+    quote !c = We observed three types of antibody responses in COVID-19 patients, strong, weak and non-response. We found that the earlier response, higher antibody titer and higher proportion of strong responders for IgM and IgG were significantly associated with disease severity. The weak responders for IgG antibodies had a significantly higher viral clearance rate than that of strong responders. These data indicates strong antibody response is associated with disease severity, and weak antibody response is associated with viral clearance, which resembles SARS21 and MERS.
+
+
+
+  #
+  // Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+  # Mouse rechallenge - reinfection
+  // Primary exposure to SARS-CoV-2 protects against reinfection in rhesus macaques
+  doi: https://doi.org/10.1126/science.abc5343
+  ref 'Deng_et_al_08_14_2020
+    head = Rhesus macaques reinfected with the identical SARS-CoV-2 strain during the early recovery phase of the initial SARS-CoV-2 infection did not show detectable viral dissemination, clinical manifestations of viral disease, or histopathological changes. Comparing the humoral and cellular immunity between primary infection and rechallenge revealed notably enhanced neutralizing antibody and immune responses. Our results suggest that primary SARS-CoV-2 exposure protects against subsequent reinfection in rhesus macaques.
+
+    > Abstract
+      Coronavirus disease 2019 (COVID-19), which is caused by infection with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become a global pandemic. It is unclear whether convalescing patients have a risk of reinfection. We generated a rhesus macaque model of SARS-CoV-2 infection that was characterized by interstitial pneumonia and systemic viral dissemination mainly in the respiratory and gastrointestinal tracts. Rhesus macaques reinfected with the identical SARS-CoV-2 strain during the early recovery phase of the initial SARS-CoV-2 infection did not show detectable viral dissemination, clinical manifestations of viral disease, or histopathological changes. Comparing the humoral and cellular immunity between primary infection and rechallenge revealed notably enhanced neutralizing antibody and immune responses. Our results suggest that primary SARS-CoV-2 exposure protects against subsequent reinfection in rhesus macaques.
+
+    / August, 2020 - Science
+    quote !a =
+
+
+  # B - Cell
+  // Potent Neutralizing Antibodies against SARS-CoV-2 Identified by High-Throughput Single-Cell Sequencing of Convalescent Patients’ B Cells
+  doi: https://doi.org/10.1016/j.cell.2020.05.025
+  ref 'Cao_et_al_05_17_2020
+    head = From 8,558 antigen-binding IgG1+ clonotypes, 14 potent neutralizing antibodies were identified, with the most potent one. BD-368-2 also displayed strong therapeutic and prophylactic efficacy in SARS-CoV-2-infected hACE2-transgenic mice.
+
+    > Summary
+      The COVID-19 pandemic urgently needs therapeutic and prophylactic interventions. Here, we report the rapid identification of SARS-CoV-2-neutralizing antibodies by high-throughput single-cell RNA and VDJ sequencing of antigen-enriched B cells from 60 convalescent patients. From 8,558 antigen-binding IgG1+ clonotypes, 14 potent neutralizing antibodies were identified, with the most potent one, BD-368-2, exhibiting an IC50 of 1.2 and 15 ng/mL against pseudotyped and authentic SARS-CoV-2, respectively. BD-368-2 also displayed strong therapeutic and prophylactic efficacy in SARS-CoV-2-infected hACE2-transgenic mice. Additionally, the 3.8 Å cryo-EM structure of a neutralizing antibody in complex with the spike-ectodomain trimer revealed the antibody’s epitope overlaps with the ACE2 binding site. Moreover, we demonstrated that SARS-CoV-2-neutralizing antibodies could be directly selected based on similarities of their predicted CDR3H structures to those of SARS-CoV-neutralizing antibodies. Altogether, we showed that human neutralizing antibodies could be efficiently discovered by high-throughput single B cell sequencing in response to pandemic infectious diseases.
+
+    - quotes
+      !a
+      !b
+
+    / May, 2020 - Cell
+    quote !a = BD-368-2, exhibiting an IC50 of 1.2 and 15 ng/mL against pseudotyped and authentic SARS-CoV-2, respectively.
+
+    / May, 2020 - Cell
+    quote !b = SARS-CoV-2-neutralizing antibodies could be directly selected based on similarities of their predicted CDR3H structures to those of SARS-CoV-neutralizing antibodies.
+
+
+  # Waning Antibodies
+  // Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection
+  doi: https://doi.org/10.1101/2020.07.09.20148429
+  ref 'Seow_et_al_07_11_2020
+    head = Using sequential samples from SARS-CoV-2-infected individuals collected up to 94 d post onset of symptoms (POS), we demonstrate a typical antibody response after an acute viral infection where a peak response was detected 3–4 weeks post-infection, which then wanes. The magnitude of this peak is dependent on disease severity. For those who develop a low neutralizing antibody response (ID50 100–300), titres can return to baseline over a relatively short period, whereas those who develop a robust neutralizing antibody response maintain titres >1,000 despite the initial decline.
+
+    > Abstract
+      Antibody (Ab) responses to SARS-CoV-2 can be detected in most infected individuals 10-15 days following the onset of COVID-19 symptoms. However, due to the recent emergence of this virus in the human population it is not yet known how long these Ab responses will be maintained or whether they will provide protection from re-infection. Using sequential serum samples collected up to 94 days post onset of symptoms (POS) from 65 RT-qPCR confirmed SARS-CoV-2-infected individuals, we show seroconversion in >95% of cases and neutralizing antibody (nAb) responses when sampled beyond 8 days POS. We demonstrate that the magnitude of the nAb response is dependent upon the disease severity, but this does not affect the kinetics of the nAb response. Declining nAb titres were observed during the follow up period. Whilst some individuals with high peak ID50 (>10,000) maintained titres >1,000 at >60 days POS, some with lower peak ID50 had titres approaching baseline within the follow up period. A similar decline in nAb titres was also observed in a cohort of seropositive healthcare workers from Guy′s and St Thomas′ Hospitals. We suggest that this transient nAb response is a feature shared by both a SARS-CoV-2 infection that causes low disease severity and the circulating seasonal coronaviruses that are associated with common colds. This study has important implications when considering widespread serological testing, Ab protection against re-infection with SARS-CoV-2 and the durability of vaccine protection.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / July, 2020 - medRxiv
+    quote !a = The average nAb titre was higher in those with more severe disease, the average time to reach peak neutralization did not differ between the 0-3 nd 4/5 severity groups. This suggests that disease severity enhances the magnitude of the nAb response but to a lesser extent the kinetics of the nAb response
+
+    / July, 2020 - medRxiv
+    quote !b = Comparison of the peak ID50 for each individual, and ID50 at the final timepoint collected, showed a decline in neutralizing titres regardless of disease severity. The decline in neutralizing antibodies was mirrored in the reduction in IgG-binding titres (EC50) to S glycoprotein and RBD and also IgM and IgA binding to S glycoprotein and RBD (OD values) for the PCR+ cohort
+
+    / July, 2020 - medRxiv
+    quote !c = We observed a wide range of peak neutralizing antibody titres (98–32,000), similar to other cross-sectional cohorts, and disease severity was associated with higher neutralizing antibody titres. It is not clear yet why neutralizing antibody responses correlate with disease severity.
+
+    / July, 2020 - medRxiv
+    quote !d = Whilst some individuals with high peak ID50 (>10,000) maintained titres >1,000 at >60 days POS, some with lower peak ID50 had titres approaching baseline within the follow up period. A similar decline in nAb titres was also observed in a cohort of seropositive healthcare workers from Guy’s and St Thomas’ Hospitals.
+
+    / July, 2020 - medRxiv
+    quote !e = The rapid decline observed in IgM and IgA specific responses to S, RBD and N after 20-30 days demonstrates the value of measuring longer lasting SARS-CoV-2 specific IgG in diagnostic tests and seroprevalence studies.
+
+
+  #
   // COVID-19 CG: Tracking SARS-CoV-2 mutations by locations and dates of interest
   doi: https://doi.org/10.1101/2020.09.23.310565
   ref 'Chen_et_al_09_28_2020
@@ -47,7 +160,7 @@ feed Sangeeta
 
 
 
-  #
+  # Rt -Pcr
   // Identification of a polymorphism in the N gene of SARS-CoV-2 that adversely impacts detection by a widely-used RT-PCR assay
   doi: https://doi.org/10.1101/2020.08.25.265074
   ref 'Vanaerschot_et_al_08_26_2020

@@ -635,6 +635,7 @@ subject module Disease
               'Wu_et_al_04_20_2020b.!c
               'Seow_et_al_10_26_2020
               'Seow_et_al_10_26_2020.!a
+              'Seow_et_al_07_11_2020
 
           claim !Mers = MERS antibodies have been shown to last for 18 months
             -
@@ -728,65 +729,65 @@ subject module Disease
 
     / Reinfection
     subject Reinfection
-     # The first few known case of reinfection with SARS-CoV-2 has been documented [182]. Only limited information is available on the interpretation of SARS-CoV-2 antibody tests after a previous infection with SARS-CoV-2 and on the dynamics of SARS-CoV-2 serology if a subsequent infection with another coronavirus occurs. In these two sets of circumstances interpretation of serology may be extremely challenging.
-      head = Reinfection cannot occur if neutralizing antibodies are produced during a primary infection. Reinfection immunity to adults has been studied using laboratory animal models, showing that with models demonstrating resistance to reinfection. However, there have been reports of mild and severe re-infection.
+      head =  Reinfection with SARS-CoV-2 seems unlikely taking into consideration our knowledge on viral neutralizing antibody duration from past respiratory illnesses and reassurance from the animal studies on SARS-CoV-2. However, there have been reports of few patients with SARS-CoV-2 reinfection.
 
+      # Context / Background
       >
         Symptomatic reinfections with human non-SARS coronaviruses are common and not atypical within 1 year after initial infection, despite the presence of antibodies. Reinfections with human common cold coronaviruses are, however, typically milder than the primary infections.
       -
         'Galanti_et_al_05_03_2020
         'Edridge_et_al_09_14_2020
 
-      # Generic Paper raising concern on reinfection
       -
-        'Iwasaki_et_al_10_12_2020
-      >
-        Reinfection didn't occur on animals
+        !ReinfectionAnimal
       -
-        'Bao_et_al_2020
-        'Bao_et_al_2020.!a
-        'Jiang_et_al_04_27_2020.!b
+        !CovidReinfection
 
-      >
-        Case reports adds to rapidly growing evidence of COVID-19 reinfection, in which viral genomic sequences were used to confirm infections by distinct isolates of SARS-CoV-2. Some reinfections result in milder disease, whereas others are more severe. Further investigation is needed of pre-existing immune responses before second exposure, and viral inoculum load.
+      claim !ReinfectionAnimal = Immunity from reinfection has been studied using animal models. Animals showed resistance to Reinfection during challenge and rechallenge trials.
+        -
+          'Bao_et_al_2020
+          'Bao_et_al_2020.!a
+          'Deng_et_al_08_14_2020
+          'Jiang_et_al_04_27_2020.!b
+          'Chandrashekar_et_al_05_20_2020
 
-      - Reports of mild symptoms with reinfection with SARS-CoV-2
-        'WangTo_et_al_08_25_2020
-        'Elslande_et_al_09_05_2020
-      - Reports of increased symptom severity in their second infection
-        'Tillett_et_al_10_12_2020
-        'Prado-Vivar_et_al_09_08_2020
-        'Iwasaki_et_al_10_12_2020
-        'Iwasaki_et_al_10_12_2020.!g
-      - Patients was infected by SARS-CoV-2 on two separate occasions by a genetically distinct virus.
-        'WangTo_et_al_08_25_2020.!d
-        'Tillett_et_al_10_12_2020
-        'Elslande_et_al_09_05_2020.!a
-        'Prado-Vivar_et_al_09_08_2020
-        'Prado-Vivar_et_al_09_08_2020.!a
+      claim !CovidReinfection = There has been few reports of mild and severe reinfection. Genetically distinct virus led to reinfection in few cases. Responses among few patients with Reinfection have been heterogenous. Immunity from pre-existing immune response before second exposure has not been well documented.
+        - Reports of mild symptoms with reinfection with SARS-CoV-2
+          'WangTo_et_al_08_25_2020
+          'Elslande_et_al_09_05_2020
+        - Reports of increased symptom severity in their second infection
+          'Tillett_et_al_10_12_2020
+          'Prado-Vivar_et_al_09_08_2020
+          'Iwasaki_et_al_10_12_2020
+          'Iwasaki_et_al_10_12_2020.!g
+        - Patients was infected by SARS-CoV-2 on two separate occasions by a genetically distinct virus.
+          'WangTo_et_al_08_25_2020.!d
+          'Tillett_et_al_10_12_2020
+          'Elslande_et_al_09_05_2020.!a
+          'Prado-Vivar_et_al_09_08_2020
+          'Prado-Vivar_et_al_09_08_2020.!a
+        - SARS-CoV-2 specific IgM and IgG were observed during the second episode of infection.
+          'Tillett_et_al_10_12_2020.!d
+          'WangTo_et_al_08_25_2020.!e
+          'Prado-Vivar_et_al_09_08_2020.!b
 
-      >
-         Weaker immune response after the first infection might have caused re-infection.
-      -
-        'Iwasaki_et_al_10_12_2020.!b
-        'Iwasaki_et_al_10_12_2020.!c
-
-      - SARS-CoV-2 specific IgM and IgG were observed during the second episode of infection.
-        'Tillett_et_al_10_12_2020.!d
-        'WangTo_et_al_08_25_2020.!e
-        'Prado-Vivar_et_al_09_08_2020.!b
+      # Weaker immune response after the first infection might have caused re-infection. (Find papers and quotes for this)
 
     / Relapse
     subject Relapse
-      head = Reports suggest that the tests which declared relapse were giving false negative reactions. Other findings hint that the diagnostic tests are picking up on the genetic material from noninfectious viruses, which means people are not infected nor they are infectious to others.
+      head = There have been reports of patients who tested positive for SARS-CoV-2 after clinical recovery and initial recovery of virus, though it is unclear if it was persistant infection or cases of relapse.
 
-      # This case was reported in media as relapse but it was testing error
-      -
+      - Reports of Relpase Cases
+        'Gousseff_et_al_06_30_2020
+        'Elsayed_et_al_09_05_2020
         'Yuan_et_al_2020
-
-      # This was also reported as relpase but it was just a case of prolonged disease or delayed viral clearance. We can use these papers for PCR Testing
-      -
         'Lan_et_al_2020
+      >
+        Past studies have suggested a potential link with use of corticosteroids with the relapse. However in relation to SARS-CoV-2 its still to be studied.
+      -
+        'Chien_et_al_05_01_2004
+        'Elsayed_et_al_09_05_2020.!a
+
 
     # Old Papers
     # triage

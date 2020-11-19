@@ -510,3 +510,8 @@ index: hide
  #   'Jiang_et_al_04_02_2020
  #   'Wang_et_al_07_14_2020
  #   'WangTo_et_al_03_23_2020.!f
+
+#  Neutralizing monoclonal antibodies (mAbs) isolated from SARS-CoV-2 infected individuals can protect from disease in animal challenge models in a dose dependant manner.9,28,29
+# --
+#   'Shi_et_al_05_26_2020
+#   'Cao_et_al_05_17_2020

@@ -154,39 +154,36 @@ subject module Virus
 
       >
         SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours.
-      >
-        the sizes of the aerosols and the amount of the virus exhaled vary with the stage of infection and from person to person. They also vary with individual activity, with many fewer from breathing and many more from talking, singing, shouting and (very likely) aerobic exercise.
-
-      >
-        Temperature and Humidity can have an effect on survival of virus in the air
-
-      # >
-      #   How long virus can stay in the air depends upon indoor environment. It can stay longer in closed low ventilated space.
-
-      - Viability
+      -
         'van_Doremalen_et_al_2020
         'van_Doremalen_et_al_2020.!a
         'Lu_et_al_2020
-        'Somsen_et_al_05_27_2020
+        'Allen_et_al_05_06_2020
         'Johnson_et_al_06_21_2011
         'Doremalen_et_al_03_17_2020
         'Guo_et_al_07_26_2020
-      - Aerosol Transmission
-        'Allen_et_al_05_06_2020
         'Lednicky_et_al_05_22_2020
+        'Santarpia_et_al_07_29_2020
+        'Liu_et_al_03_10_2020
+        'Liu_et_al_2020bb
+
+      >
+        the sizes of the aerosols and the amount of the virus exhaled vary with the stage of infection and from person to person. They also vary with individual activity, with many fewer from breathing and many more from talking, singing, shouting and (very likely) aerobic exercise.
+      -
         'Asadi_et_al_2019
         'Stadnytskyi_et_al_06_02_2020
-        'Vuorinen_et_al_05_31_2020
-        'Santarpia_et_al_07_29_2020
-        # Edit head
-        'Liu_et_al_03_10_2020
-        # add quotes
-        'Liu_et_al_2020bb
+      >
+        Temperature and Humidity can have an effect on survival of virus in the air
+      -
         'Ahlawat_et_al_07_21_2020
+      >
+        How long virus can stay in the air depends upon indoor environment. It can stay longer in closed low ventilated space.
+      -
+        'Somsen_et_al_05_27_2020
+      - Aerosol Transmission Dynamics
+        'Vuorinen_et_al_05_31_2020
+
       - Latest papers on Aerosol
-        # add quotes
-        'Santarpia_et_al_07_2020
-        # Edit head
         'Anfinrud_04_06_2020
         'Asadi_et_al_2019
         'Fabian_et_al_07_16_2008
