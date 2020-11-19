@@ -298,6 +298,12 @@ subject Masking
     'Leffler_et_al_08_05_2020
     'MacIntyre_et_al_12_02_2016
     'Leung_et_al_2020
+    # > Theoritical study (Source control + Disease severity)
+    #   Masking limits the spread of viral load therefore may impact transmission risk and disease severity
+    # -
+    'Goyal_et_al_02_20_2020
+    'Goyal_et_al_02_20_2020.!a
+    'Goyal_et_al_02_20_2020.!b
 
   # -- risks
   #   'Li_et_al_05_26_2005

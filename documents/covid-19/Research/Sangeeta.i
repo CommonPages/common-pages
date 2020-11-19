@@ -1113,22 +1113,6 @@ feed Sangeeta
 
 
 
-  #
-  // Viral RNA load as determined by cell culture as a management tool for discharge of SARS-CoV-2 patients from infectious disease wards.
-  doi: https://dx.doi.org/10.1007%2Fs10096-020-03913-9
-  ref 'Scola_et_al_04_27_2020
-    head = We observe a strong correlation between Ct value and sample infectivity in a cell culture model. We can deduce that with our system, patients with Ct values equal or above 34 do not excrete infectious viral particles- are not contagious and thus can be discharged from hospital care or strict confinement for non-hospitalized patients.
-
-    > Abstract
-      In a preliminary clinical study, we observed that the combination of hydroxychloroquine and azithromycin was effective against SARS-CoV-2 by shortening the duration of viral load in Covid-19 patients. It is of paramount importance to define when a treated patient can be considered as no longer contagious. Correlation between successful isolation of virus in cell culture and Ct value of quantitative RT-PCR targeting E gene suggests that patients with Ct above 33–34 using our RT-PCR system are not contagious and thus can be discharged from hospital care or strict confinement for non-hospitalized patients.
-
-    - quotes
-      !a
-
-    / April, 2020 - Eur J Clin Microbiol Infect Dis.
-    quote !a = The combination of hydroxychloroquine and azithromycin was effective against SARS-CoV-2 by shortening the duration of viral load in Covid-19 patients.
-
-
 
   #
   // Shedding of infectious virus in hospitalized patients with coronavirus disease-2019 (COVID19): duration and key determinants

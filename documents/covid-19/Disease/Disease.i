@@ -17,27 +17,50 @@ subject module Disease
 
     -
       !Incubation
+      !Severity
+      !Age
+    -
       ?Course
       ?Recovery
 
-    / Incubation
     claim !Incubation = Researchers have produced multiple estimates for the incubation period of SARS-CoV-2, with mean values ranging from 4 to 6 days, and the 95th percentile approaching 14 days.
       -
-      # -- IncubationPeriod of other Respiratory Viral infection
-      #   'Lessler_et_al_2013
-      # -- COVID-19
+        'Wiersinga_et_al_07_10_2020
+        'Wiersinga_et_al_07_10_2020.!a
+      -
+        'Lauer_et_al_05_05_2020
+        'Lauer_et_al_05_05_2020.!b
+      -
+        'Guan_et_al_04_30_2020
+        'Guan_et_al_04_30_2020.!a
+      -
+        'Li_et_al_03_26_2020
+        'Li_et_al_03_26_2020.!b
+      -
+        'Liu_et_al_03_03_2020.
+        'Liu_et_al_03_03_2020.!d
+      -
+        'Backer_et_al_02_06_2020
+        'Sanche_et_al_2020
+        'Linton_et_al_2020
         'Tindale_et_al_2020
         'Nishiura_et_al_2020
-        'Linton_et_al_2020
-        'Liu_et_al_03_03_2020.!d
-        'Sanche_et_al_2020
+
+    claim !Severity = There appears to be an association between the severity of an infectious disease and the length of incubation period. Patients with a shorter incubation period went on to have more severe disease.
+      -
+        'Lai_et_al_10_27_2020
+        'Cai_et_al_09_23_2020
+
+    claim !Age = One report found that the incubation period tended to be longer in adult males.
+      -
+        'Kong_et_al_05_22_2020
 
     question ?Course = What is known about the statistical distribution of symptom duration?
 
     question ?Recovery = What is known about the statistical distribution of recovery time?
 
   / Course
-  // Symptoms and Complications
+  // Symptoms, Complications and Consequences
   subject Course
     head = A minority of COVID-19 cases are asymptomatic, however asymptomatic and presymptomatic carriers may still be infectious. The most commonly reported symptom is fever, among others. In cases of severe disease, many serious and life threatening complications have been observed. The prevalence of complications is still being researched.
 
@@ -45,6 +68,7 @@ subject module Disease
       !AsymptomaticCases
       !SymptomaticCases
       !SevereCases
+      !LongTermConsequences
 
     / Asymptomatic Cases
     claim !AsymptomaticCases = A minority of cases do not develop noticeable symptoms at any point in time. Asymtomatic and presymptomatic carriers can however experience high viral load, and can transmit the virus.
@@ -60,7 +84,7 @@ subject module Disease
       # 'Graham_et_al_05_16_2020.!b
 
     / Symptomatic Cases
-    claim !SymptomaticCases = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash and neurological manifestations have also been reported.
+    claim !SymptomaticCases = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash and neurological manifestations, and psychiatric effects have also been reported.
       -
         'Chen_et_al_2020d
         'Ragona_et_al_2020
@@ -71,6 +95,8 @@ subject module Disease
         'Kluytmans_et_al_2020
         'Siddiqi_et_al_2020
         'Berlin_et_al_2020
+        # Psychiatric sequelae - Anxiety disorders, insomnia, and dementia reported
+        'Taquet_et_al_11_09_2020
 
     / Severe Cases
     claim !SevereCases = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others.
@@ -128,6 +154,14 @@ subject module Disease
       claim !CNS = The exact mechanism by which SARS-CoV-2 invades the central nervous system remains unclear. Though there is evidence that SARS-CoV-2 neuroinvasion occurs at the neuro-mucosal interface which would explain some of the well-documented neurological symptoms including loss of smell and taste.
         -
           'Meinhardt_et_al_06_04_2020
+
+    / Long Term Consequences
+    claim !LongTermConsequences = COVID-19 is too new to be sure of any long term consequnces, but some researchers have speculated over reports of persistent fatigue and a possible increased disposition for Parkinson's disease.
+      -
+        'Townsend_et_al_11_09_2020
+        'Townsend_et_al_11_09_2020.!a
+      -
+        'Brundin_et_al_10_21_2020
 
   / Severity
   // Susceptibility and Severity
@@ -596,15 +630,15 @@ subject module Disease
         head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. There is, however, a wide diversity in the antibody response among recovered patients. The longevity of COVID-19 antibodies is not yet clear.
 
         -
-          !CvAbDetection
-          !CvAbCaveats
-          !CvAbPotency
-          !CvAbLongevity
-          !CvAbStability
-          !CvAbDiversity
-          !CvAbPrevalence
+          !Detection
+          !Caveats
+          !Potency
+          !Longevity
+          !Stability
+          !Diversity
+          !Prevalence
 
-        claim !CvAbDetection = IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized. IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
+        claim !Detection = IgM antibodies to SARS-CoV-2 are generally detectable several days after initial infection, although levels over the course of infection are not well characterized. IgG antibodies generally become detectable 10–14 days after infection, sometimes earlier, and normally peak around 28 days after infection onset.
           -
             'Zhao_et_al_2020
             'Zhao_et_al_2020.!a
@@ -617,16 +651,16 @@ subject module Disease
             'Wu_et_al_2020b
             'To_et_al_05_20_2020.!a
 
-        claim !CvAbCaveats = While antibodies that bind to SARS-CoV-2 have been detected, their presence alone would not necessarily indicate that they are neutralizing antibodies, or that they offer protective immunity.
+        claim !Caveats = While antibodies that bind to SARS-CoV-2 have been detected, their presence alone would not necessarily indicate that they are neutralizing antibodies, or that they offer protective immunity.
           -
             'European_Centre_for_Disease_Prevention_and_Control_2020
 
-        claim !CvAbPotency = Independent evidence demonstrating the protective properties of the detected COVID-19 antibodies is growing.
+        claim !Potency = Independent evidence demonstrating the protective properties of the detected COVID-19 antibodies is growing.
           -
             'Robbiani_et_al_06_18_2020
             'Wu_et_al_2020b
 
-        claim !CvAbLongevity = There are some reports of SARS-CoV-2 antibodies waning. Their longevity is still unknown. Antibodies to other coronaviruses are also known wane over time.
+        claim !Longevity = There are some reports of SARS-CoV-2 antibodies waning. Their longevity is still unknown. Antibodies to other coronaviruses are also known wane over time.
 
           claim !Cv2Waning = There have been several reports already of the waning of neutralizing antibodies in SARS-CoV-2 patients.
             -
@@ -651,11 +685,11 @@ subject module Disease
             -
               'Callow_et_al_1990
 
-        claim !CvAbStability = Despite evidence of waning antibody protection, at least one study has indicated that some individuals have maintain stable IgG.
+        claim !Stability = Despite evidence of waning antibody protection, at least one study has indicated that some individuals have maintain stable IgG.
           -
             'Chen_et_al_11_03_2020
 
-        claim !CvAbDiversity = Many studies have noted a diversity of antibody responses in COVID-19 patients; antibodies appear to vary widely in their efficacy and targeting. Responses differ among patients based on sex as well as the severity of infection.
+        claim !Diversity = Many studies have noted a diversity of antibody responses in COVID-19 patients; antibodies appear to vary widely in their efficacy and targeting. Responses differ among patients based on sex as well as the severity of infection.
 
           claim !Gender = A number of studies have noted varying antibody responses by gender.
             -
@@ -663,11 +697,12 @@ subject module Disease
               # -- Antibody response differ based on Gender
               'Jiang_et_al_2020.!e
 
-          claim !Age = Differences in antibody responses have been noted between children and adults. A less significant response was noted among children.
+          claim !Age = Differences in antibody responses have been noted between children and adults. Children appear to generate more antibodies for the spike (S), than nucleocapsid (N) protein.
             -
               'Weisberg_et_al_11_05_2020
+              'Tosif_et_al_11_11_2020
 
-          claim !Severity = There has been some speculation that mild cases may result in a weaker immune response, and in turn weaker antibody protection.
+          claim !WeakResponse = There has been some speculation that mild cases may result in a weaker immune response, and in turn weaker antibody protection.
             # This paper reports waning antibodies and suggest that Asymtomatic may have weaker immune response
             -
               'Xin-Long_et_al_06_18_2020
@@ -675,6 +710,13 @@ subject module Disease
               'Ibarrondo_et_al_09_10_2020
               'WangTo_et_al_08_25_2020.!e
               'Prado-Vivar_et_al_09_08_2020.!b
+
+          claim !StrongResponse = Strong antibody responses have been observed in cases of severe disease, though the correlation is not yet clear.
+            -
+              'Iwasaki_et_al_2020
+            -
+              'Tan_et_al_03_26_2020
+              'Tan_et_al_03_26_2020.!c
 
           claim !TargetingA = In one study antibody responses against SARS-CoV-2’s spike protein were stronger among COVID-19 survivors, whereas antibody responses targeting the virus’s nucleocapsid protein were elevated in patients who died.
             -
@@ -688,7 +730,7 @@ subject module Disease
             -
               'Jiang_et_al_2020
 
-        claim !CvAbPrevalence = As of September 2020, one study indicated that fewer than 10% of the US adult population formed antibodies against SARS-CoV-2, and fewer than 10% of those with antibodies had been diagnosed.
+        claim !Prevalence = As of September 2020, one study indicated that fewer than 10% of the US adult population formed antibodies against SARS-CoV-2, and fewer than 10% of those with antibodies had been diagnosed.
           -
             'Anand_et_al_02_20_2020
 
@@ -710,8 +752,27 @@ subject module Disease
     subject CrossImmunity
       head = A number of studies have discussed the possibility of long-lasting, cross-reactive T-cell immunity, i.e. acquired immunity from prior infections. These discussions are so far inconclusive.
 
-      # T-cells
       -
+        !Protection
+        !NonNeutralizing
+
+      claim !Protection = There is some evidence to suggest that prior infection with a coronavirus, including SARS-CoV-2, confers some level of immunity and protection against reinfection with the same viral species. However, the extent and duration of this protection is unknown.
+        -
+          'Bao_et_al_2020
+          'Bao_et_al_05_01_2020
+          'Edridge_et_al_09_11_2020
+          # More than 90% of seroconverters make detectible neutralizing antibody responses for a long duration
+          'Wajnberg_et_al_10_26_2020
+        -
+          'Callow_et_al_1990
+
+      claim !NonNeutralizing = Some studies have asserted that SARS-CoV-2 cross-reactive antibodies are non-neutralizing and do not meaningfully protect against SARS-CoV-2 infection or reduce COVID-19 severity.
+        -
+          'Lv_et_al_06_02_2020
+          'Anderson_et_al_11_10_2020
+
+      # T-cells
+      triage
         # SARS
         'Bert_et_al_05_27_2020
         'Bert_et_al_05_27_2020.!a
@@ -728,22 +789,41 @@ subject module Disease
         'Lv_et_al_06_02_2020
 
     / Reinfection
-    subject Reinfection
-      head =  Reinfection with SARS-CoV-2 seems unlikely taking into consideration our knowledge on viral neutralizing antibody duration from past respiratory illnesses and reassurance from the animal studies on SARS-CoV-2. However, there have been reports of few patients with SARS-CoV-2 reinfection.
+    question ?Reinfection
+      head = Are there any case reports describing SARS-CoV-2 reinfections? Have any studies investigated reinfection specifically? Are these genetically distinct viruses?
 
-      # Context / Background
       >
         Symptomatic reinfections with human non-SARS coronaviruses are common and not atypical within 1 year after initial infection, despite the presence of antibodies. Reinfections with human common cold coronaviruses are, however, typically milder than the primary infections.
+
+      # Genetically distinct virus led to reinfection in few cases. Responses among few patients with Reinfection have been heterogenous. Immunity from pre-existing immune response before second exposure has not been well documented.
+
+      -
+        !AnimalReinfection
+      -
+        'Iwasaki_et_al_10_12_2020
+        'Iwasaki_et_al_10_12_2020.!g
+      -
+        'Tillett_et_al_10_12_2020
+        'Tillett_et_al_10_12_2020.!d
+      -
+        'Gupta_et_al_09_23_2020
+      -
+        'Edridge_et_al_09_14_2020
+      -
+        'Prado-Vivar_et_al_09_08_2020
+        'Prado-Vivar_et_al_09_08_2020.!a
+        'Prado-Vivar_et_al_09_08_2020.!b
+      -
+        'Elslande_et_al_09_05_2020.
+        'Elslande_et_al_09_05_2020.!a
+      -
+        'WangTo_et_al_08_25_2020
+        'WangTo_et_al_08_25_2020.!d
+        'WangTo_et_al_08_25_2020.!e
       -
         'Galanti_et_al_05_03_2020
-        'Edridge_et_al_09_14_2020
 
-      -
-        !ReinfectionAnimal
-      -
-        !CovidReinfection
-
-      claim !ReinfectionAnimal = Immunity from reinfection has been studied using animal models. Animals showed resistance to Reinfection during challenge and rechallenge trials.
+      claim !AnimalReinfection = Immunity from reinfection has been studied using animal models. Animals showed resistance to reinfection during challenge and rechallenge trials.
         -
           'Bao_et_al_2020
           'Bao_et_al_2020.!a
@@ -751,40 +831,20 @@ subject module Disease
           'Jiang_et_al_04_27_2020.!b
           'Chandrashekar_et_al_05_20_2020
 
-      claim !CovidReinfection = There has been few reports of mild and severe reinfection. Genetically distinct virus led to reinfection in few cases. Responses among few patients with Reinfection have been heterogenous. Immunity from pre-existing immune response before second exposure has not been well documented.
-        - Reports of mild symptoms with reinfection with SARS-CoV-2
-          'WangTo_et_al_08_25_2020
-          'Elslande_et_al_09_05_2020
-        - Reports of increased symptom severity in their second infection
-          'Tillett_et_al_10_12_2020
-          'Prado-Vivar_et_al_09_08_2020
-          'Iwasaki_et_al_10_12_2020
-          'Iwasaki_et_al_10_12_2020.!g
-        - Patients was infected by SARS-CoV-2 on two separate occasions by a genetically distinct virus.
-          'WangTo_et_al_08_25_2020.!d
-          'Tillett_et_al_10_12_2020
-          'Elslande_et_al_09_05_2020.!a
-          'Prado-Vivar_et_al_09_08_2020
-          'Prado-Vivar_et_al_09_08_2020.!a
-        - SARS-CoV-2 specific IgM and IgG were observed during the second episode of infection.
-          'Tillett_et_al_10_12_2020.!d
-          'WangTo_et_al_08_25_2020.!e
-          'Prado-Vivar_et_al_09_08_2020.!b
-
       # Weaker immune response after the first infection might have caused re-infection. (Find papers and quotes for this)
 
     / Relapse
-    subject Relapse
-      head = There have been reports of patients who tested positive for SARS-CoV-2 after clinical recovery and initial recovery of virus, though it is unclear if it was persistant infection or cases of relapse.
+    question ?Relapse
+      head = There have been reports of patients who tested positive for SARS-CoV-2 after an initial clinical recovery from previous infections (presumed). Has relapse been investigated, or are these simply cases of persistent infection?
 
-      - Reports of Relpase Cases
+      -
         'Gousseff_et_al_06_30_2020
         'Elsayed_et_al_09_05_2020
         'Yuan_et_al_2020
         'Lan_et_al_2020
-      >
-        Past studies have suggested a potential link with use of corticosteroids with the relapse. However in relation to SARS-CoV-2 its still to be studied.
-      -
+        # >
+        #   Past studies have suggested a potential link with use of corticosteroids with the relapse. However in relation to SARS-CoV-2 its still to be studied.
+        # -
         'Chien_et_al_05_01_2004
         'Elsayed_et_al_09_05_2020.!a
 

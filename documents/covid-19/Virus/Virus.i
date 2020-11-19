@@ -97,46 +97,125 @@ subject module Virus
     head = SARS-CoV-2 actively replicates in the upper respiratory tract. Shedding begins prior to symptom onset, and may continue for a prolonged time after symptoms end, including in stool.
 
     -
-      !Load
-      !Resp
+      !Upper
+      !Peak
+      !Duration
+      !Lower
+      !Variation
+      !Nose
+      !Severity
+      !Infectiousness
+      !SevereShedding
       !Others
 
-    claim !Load = The highest viral load during a SARS-CoV-2 infection is observed in throat swabs at the time of symptom onset, suggesting that infectiousness peaks on or before symptom onset.
+    claim !Upper = SARS-CoV-2 can be detected upper respiratory tract (URT) 1-3 days days before the onset of symptoms. The concentration of SARS-CoV-2 in the URT is highest around the time of symptom onset, after which it gradually declines.
+      -
+        'He_et_al_2020
+        'He_et_al_2020.!b
+      -
+        'Woelfel_et_al_2020b
+        'Woelfel_et_al_2020b.!b
+      -
+        'Weiss_et_al_07_22_2020
+        'Zou_et_al_2020
+
+    claim !Peak = The highest viral load during a SARS-CoV-2 infection is observed in throat swabs at the time of symptom onset, suggesting that infectiousness peaks on or before symptom onset.
       -
         'Benefield_et_al_09_30_2020
         'Liu_et_al_2020c
+      --
+        'Joynt_et_al_2020
         'Joynt_et_al_2020.!a
+      --
         'Zou_et_al_2020
         'Zou_et_al_2020.!a
         'He_et_al_2020
+      --
+        'Woelfel_et_al_2020b
         'Woelfel_et_al_2020b.!b
+      --
+        'Kujawski_et_al_2020.
         'Kujawski_et_al_2020.!t
         'Kujawski_et_al_2020.!u
+      --
         'Kim_et_al_2020b
         'Kim_et_al_2020b.!b
         'Kim_et_al_2020b.!c
         'Kim_et_al_2020b.!d
+      --
         'Pan_et_al_2020b
 
-
-    claim !Resp = Viral RNA can be detected in the upper respiratory tract long after the disappearance of infectious virus.
+    claim !Duration = Viral RNA can be detected in the upper respiratory tract long after the disappearance of infectious virus.
       -
         'Woelfel_et_al_2020
         'Atkinson_et_al_2020
+      -
+        'He_et_al_2020
         'He_et_al_2020.!b
+      -
         'Woelfel_et_al_2020b
         'Yang_et_al_2020
         'Xu_et_al_2020b
         'Liu_et_al_2020c
         'Benefield_et_al_09_30_2020
 
+    claim !Lower = There have been reports that viral RNA in the lower respiratory tract (LRT)—and for a subset of individuals in the faeces—increases during the second week of illness.
+      -
+        'Woelfel_et_al_2020b
+        'Weiss_et_al_07_22_2020
+
+    claim !Variation = In some patients viral RNA has been detectable only for several days, while in other patients it has be detected for several weeks, and even months. However the prolonged presence of viral RNA does not necessarily signify prolonged infectiousness.
+      -
+        'Woelfel_et_al_2020b
+        'Weiss_et_al_07_22_2020
+        'WangTo_et_al_03_23_2020.!b
+        'Li_et_al_04_29_2020
+        'Zhou_et_al_04_17_2020
+        'Xu_et_al_2020b
+        'Pan_et_al_2020b
+
+    claim !Nose = Some studies have reported higher viral loads in the nose than in the throat.
+      -
+        'Zou_et_al_2020.!a
+        'Weiss_et_al_07_22_2020
+
+    claim !Severity = Some studies report higher viral loads in the severely ill compared with patients with mild disease, while others have found higher load in mild and asymptomatic cases.
+
+      claim !Severe = Some studies report higher viral loads in the severely ill compared with patients with mild disease.
+        -
+          'He_et_al_2020
+          'He_et_al_2020.!b
+          'Liu_et_al_03_19_2020
+
+      claim !Mild = Some studies have reported higher load in mild and asymptomatic cases.
+        -
+          'Kam_et_al_02_28_2020
+          'Lavezzo_et_al_04_18_2020.!h
+          'WangTo_et_al_03_23_2020.!a
+
+    claim !Infectiousness = Several studies have described a correlation between reduced infectiousness and decreased viral load in respiratory secretions.
+      -
+       'Wölfel_et_al_2020
+       'Kampen_et_al_06_09_2020
+       'Perera_et_al_08_04_2020
+
+    claim !SevereShedding = One study observed that severe or critical COVID-19 patients may shed infectious virus for longer periods of time.
+      -
+        'Kampen_et_al_06_09_2020
+
     claim !Others = Some studies have found SARS-CoV-2 in feces and semen, though the research on its infectiousness is still ongoing.
       -
         'Li_et_al_2020d
         'Wu_et_al_2020d
+      -
+        'Pan_et_al_2020b
         'Pan_et_al_2020b.!f
+      -
+        'Woelfel_et_al_2020b
         'Woelfel_et_al_2020b.!i
+      -
         'Gupta_et_al_05_17_2020
+      -
         'Chen_et_al_04_03_2020
         'Chen_et_al_04_03_2020.!a
 

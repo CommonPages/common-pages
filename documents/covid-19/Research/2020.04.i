@@ -111,18 +111,20 @@ feed April2020
   // Viral RNA load as determined by cell culture as a management tool for discharge of SARS-CoV-2 patients from infectious disease wards
   doi: https://doi.org/10.1007/s10096-020-03913-9
   ref 'Scola_et_al_04_27_2020
-    head = Correlation between successful isolation of virus in cell culture and Ct value of quantitative RT-PCR targeting E gene suggests that patients with Ct above 33–34 using our RT-PCR system are not contagious and thus can be discharged from hospital care or strict confinement for non-hospitalized patients.
+    head = In a preliminary clinical study, we observed that the combination of hydroxychloroquine and azithromycin was effective against SARS-CoV-2 by shortening the duration of viral load in Covid-19 patients.
 
     > Abstract
       In a preliminary clinical study, we observed that the combination of hydroxychloroquine and azithromycin was effective against SARS-CoV-2 by shortening the duration of viral load in Covid-19 patients. It is of paramount importance to define when a treated patient can be considered as no longer contagious. Correlation between successful isolation of virus in cell culture and Ct value of quantitative RT-PCR targeting E gene suggests that patients with Ct above 33–34 using our RT-PCR system are not contagious and thus can be discharged from hospital care or strict confinement for non-hospitalized patients.
 
-
-
     - quotes
       !a
+      !b
+
+    / April, 2020 - Eur J Clin Microbiol Infect Dis.
+    quote !a = The combination of hydroxychloroquine and azithromycin was effective against SARS-CoV-2 by shortening the duration of viral load in Covid-19 patients.
 
     / April, 2020 - Eur J Clin Microbiol Infect Dis
-    quote !a =
+    quote !b = Correlation between successful isolation of virus in cell culture and Ct value of quantitative RT-PCR targeting E gene suggests that patients with Ct above 33–34 using our RT-PCR system are not contagious and thus can be discharged from hospital care or strict confinement for non-hospitalized patients.
 
   # Antigen, PCR
   // Assay Techniques and Test Development for COVID-19 Diagnosis
