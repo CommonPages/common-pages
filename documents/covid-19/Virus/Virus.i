@@ -221,6 +221,7 @@ subject module Virus
 
   / Viability
   subject Viability
+    head =
 
     -
       Droplets
@@ -230,9 +231,14 @@ subject module Virus
 
     / Aerosol
     subject Aerosol
+      head =
+
+      # Background Content Difference b/w droplet and Aersol
+      # -
+      #   'Milton_et_al_07_24_2020
 
       >
-        SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours.
+        SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours. Viable Aersol particles have also found more than 6 feet away from patients.
       -
         'van_Doremalen_et_al_2020
         'van_Doremalen_et_al_2020.!a
@@ -245,75 +251,49 @@ subject module Virus
         'Santarpia_et_al_07_29_2020
         'Liu_et_al_03_10_2020
         'Liu_et_al_2020bb
+        'Bahl_et_al_04_16_2020
+        'Anderson_et_al_05_01_2020.!a
+        'Ding_et_al_08_15_2020
+        'Guo_et_al_07_26_2020
+        'Fears_et_al_04_18_2020
+        'Ma_et_al_06_02_2020
+        'Chia_et_al_05_29_2020
+      # Disputes?
+      >
+        While in some studies, viable viruses in the air was not found.
+      -
+        'Cheng_et_al_06_08_2020
+        'Carraturo_et_al_06_09_2020
+        'Wu_et_al_05_11_2020
+      >
+        Viable Aerosols particles have been found in other Respiratory virus too
+      -
+        'Gralton_et_al_08_19_2013
+        'Kim_et_al_08_01_2016
 
       >
-        the sizes of the aerosols and the amount of the virus exhaled vary with the stage of infection and from person to person. They also vary with individual activity, with many fewer from breathing and many more from talking, singing, shouting and (very likely) aerobic exercise.
+        The sizes of the aerosols and the amount of the virus exhaled vary with the stage of infection and from person to person. They also vary with individual activity, with fewer from breathing and more from talking, singing, shouting and aerobic exercise.
       -
         'Asadi_et_al_2019
         'Stadnytskyi_et_al_06_02_2020
+        'Anfinrud_04_06_2020
+        'Fabian_et_al_07_16_2008
+        'Morawska_et_al_11_18_2008
+        'Wang_et_al_04_05_2011
+        'Echternach_et_al_07_24_2020
+        'Bourouiba_et_al_03_26_2020
+        'Luoma_et_al_07_07_2008
+        'Chen_et_al_08_01_2020
       >
         Temperature and Humidity can have an effect on survival of virus in the air
       -
         'Ahlawat_et_al_07_21_2020
       >
-        How long virus can stay in the air depends upon indoor environment. It can stay longer in closed low ventilated space.
+        Aerosols can remain viable for longer duration in poorly ventilated environment.
       -
         'Somsen_et_al_05_27_2020
-      - Aerosol Transmission Dynamics
-        'Vuorinen_et_al_05_31_2020
-
-      - Latest papers on Aerosol
-        'Anfinrud_04_06_2020
-        'Asadi_et_al_2019
-        'Fabian_et_al_07_16_2008
-        'Morawska_et_al_11_18_2008
+        'Somsen_et_al_05_27_2020.!e
         'Jankovic_et_al_06_25_2020
-        'Somsen_et_al_05_27_2020
-        'Doremalen_et_al_03_17_2020
-        'Bahl_et_al_04_16_2020
-        'Gralton_et_al_08_19_2013
-        'Doremalen_et_al_03_17_2020
-        #  Mention quotes
-        'Anderson_et_al_05_01_2020
-        'Ding_et_al_08_15_2020
-        'Wu_et_al_05_11_2020
-        'Guo_et_al_07_26_2020
-        'Echternach_et_al_07_24_2020
-        'Fears_et_al_04_18_2020
-        # Check and redo this paper again
-        'Milton_et_al_07_24_2020
-      - Mechanism/ Common pathogen exchange pathways and mechanisms
-        'Wang_et_al_04_05_2011
-        'Morawska_et_al_06_09_2006
-        'Jankovic_et_al_06_25_2020
-        'Ahlawat_et_al_07_21_2020
-        'Chen_et_al_08_01_2020
-        # Viability at indoors
-        'Zhang_et_al_04_07_2020
-        'Bourouiba_et_al_03_26_2020
-        'Jones_et_al_08_25_2020
-        'Luoma_et_al_07_07_2008
-      - Airborne Transmission
-        'Chia_et_al_05_29_2020
-        'Ma_et_al_06_02_2020
-        'Richard_et_al_07_08_2020
-        'Jayaweera_et_al_06_10_2020.!a
-      - Latest papers on Airborne
-        'Wang_et_al_04_05_2011
-        'Holmberg_et_al_05_19_2003
-        'Asadi_et_al_2019
-        'Carraturo_et_al_06_09_2020
-        'Somsen_et_al_05_27_2020
-        'Gralton_et_al_08_19_2013
-        'Kim_et_al_08_01_2016
-        'Ahlawat_et_al_07_21_2020
-        'Chen_et_al_08_01_2020
-        'Chia_et_al_05_29_2020
-        'Ma_et_al_06_02_2020
-      - Dispute not Airborne
-        'Cheng_et_al_06_08_2020
-        'Carraturo_et_al_06_09_2020
-        'Wu_et_al_05_11_2020
 
     / Feces
     subject Feces
@@ -324,7 +304,7 @@ subject module Virus
         'Ong_et_al_03_04_2020
       - Viability of Fecal Aerosolization
         'Ding_et_al_08_15_2020
-      # plumbing system - fecal aerosols
+      # plumbing system - fecal aerosols case report
         'Kang_et_al_09_01_2020
         'Lin_et_al_01_26_2017
         'Johnson_et_al_10_05_2012

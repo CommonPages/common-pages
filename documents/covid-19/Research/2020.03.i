@@ -765,7 +765,7 @@ feed March2020
   // Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
   doi: https://doi.org/10.1056/NEJMc2004973
   ref 'Doremalen_et_al_03_17_2020
-    head = ARS-CoV-2 remained viable in aerosols throughout the duration of our experiment (3 hours), with a reduction in infectious titer from 103.5 to 102.7 TCID50 per liter of air. This reduction was similar to that observed with SARS-CoV-1, from 104.3 to 103.5 TCID50 per milliliter
+    head = SARS-CoV-2 remained viable in aerosols throughout the duration of our experiment (3 hours), with a reduction in infectious titer from 103.5 to 102.7 TCID50 per liter of air. This reduction was similar to that observed with SARS-CoV-1, from 104.3 to 103.5 TCID50 per milliliter
 
     - quotes
       !a

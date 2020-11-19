@@ -304,6 +304,8 @@ subject Masking
     'Goyal_et_al_02_20_2020
     'Goyal_et_al_02_20_2020.!a
     'Goyal_et_al_02_20_2020.!b
+    'Somsen_et_al_05_27_2020
+    'Somsen_et_al_05_27_2020.!a  
 
   # -- risks
   #   'Li_et_al_05_26_2005

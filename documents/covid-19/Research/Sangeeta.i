@@ -2946,11 +2946,7 @@ feed Sangeeta
     head = The numerical results indicate that when settling (re-suspended) particles occur in the room they can easily be brought into the breathing zone by the strong convective heat plumes around persons. Our results indicate that an additional exhaust outlet below the breathing zone can control high particle concentrations in the breathing zone.
 
     > Abstract
-      Most ventilation and air conditioning systems are designed without much concern about how
-      settling particles behave in ventilation air flows. For displacement ventilation systems,
-      designers normally assume that all pollutants follow the buoyant air flow into an upper zone,
-      where they are evacuated. This is, however, not always true. Previous studies show that high
-      concentrations of settling respirable particles can be found in the breathing zone, and that the exposure rates can be a health hazard to occupants. The emphasis here is on how ventilation systems should be designed to minimise respirable airborne particles in the breathing zone. The supply and exhaust conditions of the ventilation air flow are shown to play an important role in the control of air quality. Computer simulation programs of CFD (Computational Fluid Dynamics) type are used. Particle concentrations, thermal conditions and modified ventilation system solutions are reported.
+      Most ventilation and air conditioning systems are designed without much concern about how settling particles behave in ventilation air flows. For displacement ventilation systems, designers normally assume that all pollutants follow the buoyant air flow into an upper zone, where they are evacuated. This is, however, not always true. Previous studies show that high concentrations of settling respirable particles can be found in the breathing zone, and that the exposure rates can be a health hazard to occupants. The emphasis here is on how ventilation systems should be designed to minimise respirable airborne particles in the breathing zone. The supply and exhaust conditions of the ventilation air flow are shown to play an important role in the control of air quality. Computer simulation programs of CFD (Computational Fluid Dynamics) type are used. Particle concentrations, thermal conditions and modified ventilation system solutions are reported.
 
 
     / May, 2003 - Indoor Air
