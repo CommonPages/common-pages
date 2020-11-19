@@ -499,7 +499,7 @@ subject module Disease
   / Immunity
   // Immunopathology and Immunity
   subject module Immunity
-    head = Dysregulated immune responses appear to be a key feature of severe COVID-19. Many researchers have speculated, but not yet concluded, that individuals who have previously recovered from certain other coronavirus infections may be protected by prior immunity. Recovered COVID-19 patients do appear to acquire protective antibodies, but the duration of acquired immunity is unclear.
+    head = Dysregulated immune responses appear to be a key feature of severe COVID-19. Recovered COVID-19 patients do appear to acquire protective antibodies, but the duration of acquired immunity is unclear. Researchers have speculated that individuals who have previously recovered from other coronavirus infections may be protected by prior immunity. 
 
     / Immunopathology
     subject Immunopathology

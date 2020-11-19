@@ -4,69 +4,99 @@ subject module Containment
   head = Many community mitigation strategies above and beyond the adoption of individual infection prevention measures have been proposed and disputed. These include various forms of social restrictions, closures, and test and trace approaches. Meanwhile, other researchers have suggested strategies to achieve herd immunity in a controlled fashion.
 
   / Universal Masking
-  subject UniversalMasking
-    head = Many researchers and public health advocates have called for policies and influence campaigns to encourage or require all members of the public to wear masks in community settings during the COVID-19 pandemic. They suggest the possibility of lower infection rates, the conservation of masks for frontline health care workers, and social and economic benefits.
-    -
-      'Gandhi_et_al_09_08_2020
-    -
-      'Li_et_al_08_14_2020
-      'Li_et_al_08_14_2020.!a
-    -
-      'Leffler_et_al_08_05_2020
-      'Leffler_et_al_08_05_2020.!c
-    -
-      'Stutt_et_al_06_10_2020
-      'Stutt_et_al_06_10_2020.!b
-      'Stutt_et_al_06_10_2020.!c
-    -
-      'Klompas_et_al_06_03_2020
-      'Klompas_et_al_06_03_2020.!a
-    -
-      'Howard_et_al_05_13_2020
-      'Howard_et_al_05_13_2020.!a
-    -
-      'Sergi_et_al_05_13_2020
-    -
-      'Chowell_et_al_05_2020
-      'Chowell_et_al_05_2020.!a
-    -
-      'Eikenberry_et_al_04_21_2020
-      'Eikenberry_et_al_04_21_2020.!a
-      'Eikenberry_et_al_04_21_2020.!b
-      'Eikenberry_et_al_04_21_2020.!c
-      'Eikenberry_et_al_04_21_2020.!d
-    -
-      'MacIntyre_et_al_04_21_2020
-      'MacIntyre_et_al_04_21_2020.!c
-      'MacIntyre_et_al_04_21_2020.!b
-    -
-      'Abaluck_04_2020
-      'Abaluck_04_2020.!a
-      'Abaluck_04_2020.!b
-    -
-      'Feng_et_al_03_20_2020
-      'Feng_et_al_03_20_2020.!a
-      'Feng_et_al_03_20_2020.!c
+  dispute UniversalMasking
+    head = Many researchers and public health advocates have called for policies and influence campaigns to encourage or require all members of the public to wear masks in community settings during the COVID-19 pandemic, citing a range of possible benefits. However little evidence exists as to the direct benefits of universal masking.
 
-  —
+    claim !Pro = Many researchers and public health advocates have advocated for universal masking during the COVID-19 pandemic, citing a range of possible benefits. They suggest the possibility of lower infection rates, the conservation of masks for frontline health care workers, and social and economic benefits.
+      -
+        'Gandhi_et_al_09_08_2020
+      -
+        'Li_et_al_08_14_2020
+        'Li_et_al_08_14_2020.!a
+      -
+        'Leffler_et_al_08_05_2020
+        'Leffler_et_al_08_05_2020.!c
+      -
+        'Stutt_et_al_06_10_2020
+        'Stutt_et_al_06_10_2020.!b
+        'Stutt_et_al_06_10_2020.!c
+      -
+        'Klompas_et_al_06_03_2020
+        'Klompas_et_al_06_03_2020.!a
+      -
+        'Howard_et_al_05_13_2020
+        'Howard_et_al_05_13_2020.!a
+      -
+        'Sergi_et_al_05_13_2020
+      -
+        'Chowell_et_al_05_2020
+        'Chowell_et_al_05_2020.!a
+      -
+        'Eikenberry_et_al_04_21_2020
+        'Eikenberry_et_al_04_21_2020.!a
+        'Eikenberry_et_al_04_21_2020.!b
+        'Eikenberry_et_al_04_21_2020.!c
+        'Eikenberry_et_al_04_21_2020.!d
+      -
+        'MacIntyre_et_al_04_21_2020
+        'MacIntyre_et_al_04_21_2020.!c
+        'MacIntyre_et_al_04_21_2020.!b
+      -
+        'Abaluck_04_2020
+        'Abaluck_04_2020.!a
+        'Abaluck_04_2020.!b
+      -
+        'Feng_et_al_03_20_2020
+        'Feng_et_al_03_20_2020.!a
+        'Feng_et_al_03_20_2020.!c
+
+    claim !Con = Little evidence exists as to the direct effectiveness of universal masking in reducing transmission of SARS-CoV-2. The only clinical trial to test the effectiveness of masking in community settings did not detect a statistically significant benefit to mask wearers. This does not, however, suggest anything about the effectiveness of masks for source control.
+      -
+        'Bundgaard_et_al_11_18_2020
+        'Bundgaard_et_al_11_18_2020.!a
+        'Bundgaard_et_al_11_18_2020.!b
+
+    let !initial_recommendation mean Timeline.Response.WHOMaskingGuidelines.!InitialMaskingGuidelines
+
+    question ?Evidence = Many of the letters and papers advocating for universal masking have cited observational evidence of its benefits. What evidence are they referring to?
+
+    question ?Against = Aside from the WHO's !initial_recommendation against universal masking, have any researchers come out against such a policy?
+
   / Social Restrictions
-  subject SocialNetwork
-    # head = The restriction of interactions within a social network has shown to reduce and slow the spread of infection.
+  question ?SocialRestrictions = What studies have investigated the effect of social restrictions during epidemics?
+    -
+      'gracia_et_al_2017
+      'gracia_et_al_2017b
+      'Fu_et_al_2017
+      'Christakis_et_al_2010
+      'Mossong_et_al_2008
     -
       'Keeling_et_al_2005
       'Keeling_et_al_2005.!a
       'Keeling_et_al_2005.!b
       'Keeling_et_al_2005.!c
-      'Mossong_et_al_2008
-      'Christakis_et_al_2010
-      'Fu_et_al_2017
-      'gracia_et_al_2017
-      'gracia_et_al_2017b
 
-  —
+  / School Closures
+  question ?SchoolClosure = What evidence exists as to the benefit of closing schools during past epidemics?
+    # head = Based on past studies, earlier schools were closed, the lower the number of excess death in past epidemics
+    -
+      # - Past Model Studies
+      'Sebastiani_et_al_2006
+      'Fergusion_et_al_2006
+      'Kawano_et_al_2015
+      'Ciavarella_et_al_2016
+      # - Past studies
+      'Market_et_al_2007
+      # - Important conduit for the initial spread of close contact infections
+      'Mossong_et_al_2008.!a
+      # - School Reopening
+      'Gaffney_et_al_08_21_2020
+      'Levinson_et_al_07_29_2020
+      # - Context
+      'Fine_et_al_2011.!d
+
   / Quarantine
-  subject Quarantine
-    # head = Studies state that voluntary individual quarantine and voluntary active monitoring of contacts are core disease control strategies for emerging infectious diseases such as COVID-19.
+  claim !Quarantine = Numerous studies have asserted that voluntary individual quarantine and voluntary active monitoring of contacts are core disease control strategies for emerging infectious diseases such as COVID-19.
     -
       'Dandekar_et_al_2020
       'Xia_et_al_2020
@@ -80,39 +110,20 @@ subject module Containment
       'Adam_et_al_2020.!g
       'Miller_et_al_2020b
       'Tom_et_al_2020.!i
-    - chains of transmission did not terminate in quarantine
+      # - chains of transmission did not terminate in quarantine
       'Adam_et_al_2020.!i
 
-  —
-  / School Closure
-  subject SchoolClosure
-    # head = Based on past studies, earlier schools were closed, the lower the number of excess death in past epidemics
-    - Past Model Studies
-      'Sebastiani_et_al_2006
-      'Fergusion_et_al_2006
-      'Kawano_et_al_2015
-      'Ciavarella_et_al_2016
-    - Past studies
-      'Market_et_al_2007
-    - Important conduit for the initial spread of close contact infections
-      'Mossong_et_al_2008.!a
-    - School Reopening
-      'Gaffney_et_al_08_21_2020
-      'Levinson_et_al_07_29_2020
-    - Context
-      'Fine_et_al_2011.!d
-
-  —
   / Contact Tracing
-  subject ContactTracing
-    # head = Testing and Tracing is an effective containment strategy at the start of an outbreak when there are just a few chains of transmission of the disease. Countries that persisted with expanded, continuous and rigorous testing and tracing have fared better with lower death rates than those which did not.
+  claim !ContactTracing = Depending on the virus, “testing and tracing” is an effective containment strategy at the start of an outbreak when there the chains of disease transmission are limited. Countries that persisted with continuous and rigorous testing and tracing have fared better with lower death rates than those which did not.
     -
       'Ferretti_et_al_2020
       'Liu_et_al_03_03_2020.!f
-    - Modeling paper
+    # - Modeling paper
+    -
       'Dufresne_et_al_2020
       'Dufresne_et_al_2020.!e
-    - Effectiveness of contact tracing also dependant on the number of asymptomatic cases
+    # - Effectiveness of contact tracing also dependant on the number of asymptomatic cases
+    -
       'Sanche_et_al_2020.!f
       'Bi_et_al_04_27_2020
 

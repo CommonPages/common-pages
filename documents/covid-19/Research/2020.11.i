@@ -2,7 +2,47 @@
 feed November2020
 
 
-  #
+  // Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers: A Randomized Controlled Trial
+  ref 'Bundgaard_et_al_11_18_2020
+    head = Objective: to assess whether recommending surgical mask use outside the home reduces wearers' risk for SARS-CoV-2 infection in a setting where masks were uncommon and not among recommended public health measures.
+
+    > Background
+      Observational evidence suggests that mask wearing mitigates transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It is uncertain if this observed association arises through protection of uninfected wearers (protective effect), via reduced transmission from infected mask wearers (source control), or both.
+
+    > Objective
+      To assess whether recommending surgical mask use outside the home reduces wearers' risk for SARS-CoV-2 infection in a setting where masks were uncommon and not among recommended public health measures.
+
+    > Design
+      Randomized controlled trial (DANMASK-19 [Danish Study to Assess Face Masks for the Protection Against COVID-19 Infection]). (ClinicalTrials.gov: NCT04337541)
+
+    > Setting
+      Denmark, April and May 2020.
+
+    > Participants
+      Adults spending more than 3 hours per day outside the home without occupational mask use.
+
+    > Intervention
+      Encouragement to follow social distancing measures for coronavirus disease 2019, plus either no mask recommendation or a recommendation to wear a mask when outside the home among other persons together with a supply of 50 surgical masks and instructions for proper use.
+
+    > Measurements
+      The primary outcome was SARS-CoV-2 infection in the mask wearer at 1 month by antibody testing, polymerase chain reaction (PCR), or hospital diagnosis. The secondary outcome was PCR positivity for other respiratory viruses.
+
+    > Results
+      A total of 3030 participants were randomly assigned to the recommendation to wear masks, and 2994 were assigned to control; 4862 completed the study. Infection with SARS-CoV-2 occurred in 42 participants recommended masks (1.8%) and 53 control participants (2.1%). The between-group difference was −0.3 percentage point (95% CI, −1.2 to 0.4 percentage point; P = 0.38) (odds ratio, 0.82 [CI, 0.54 to 1.23]; P = 0.33). Multiple imputation accounting for loss to follow-up yielded similar results. Although the difference observed was not statistically significant, the 95% CIs are compatible with a 46% reduction to a 23% increase in infection.
+
+    > Limitation
+      Inconclusive results, missing data, variable adherence, patient-reported findings on home tests, no blinding, and no assessment of whether masks could decrease disease transmission from mask wearers to others.
+
+    > Conclusion
+      The recommendation to wear surgical masks to supplement other public health measures did not reduce the SARS-CoV-2 infection rate among wearers by more than 50% in a community with modest infection rates, some degree of social distancing, and uncommon general mask use. The data were compatible with lesser degrees of self-protection.
+
+    -- quotes
+      !a
+      !b
+
+    quote !a = Observational evidence suggests that mask wearing mitigates transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It is uncertain if this observed association arises through protection of uninfected wearers (protective effect), via reduced transmission from infected mask wearers (source control), or both.
+
+    quote !b = Infection with SARS-CoV-2 occurred in 42 participants recommended masks (1.8%) and 53 control participants (2.1%). Although the difference observed was not statistically significant, the 95% CIs are compatible with a 46% reduction to a 23% increase in infection.
 
   # Formite Transmission
   // Longitudinal monitoring of SARS-CoV-2 RNA on high-touch surfaces in a community setting

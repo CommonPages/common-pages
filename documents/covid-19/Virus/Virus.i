@@ -159,12 +159,12 @@ subject module Virus
         'Liu_et_al_2020c
         'Benefield_et_al_09_30_2020
 
-    claim !Lower = There have been reports that viral RNA in the lower respiratory tract (LRT)—and for a subset of individuals in the faeces—increases during the second week of illness.
+    claim !Lower = There have been reports that viral RNA in the lower respiratory tract (LRT)—and for a subset of individuals, in feces—increases during the second week of illness.
       -
         'Woelfel_et_al_2020b
         'Weiss_et_al_07_22_2020
 
-    claim !Variation = In some patients viral RNA has been detectable only for several days, while in other patients it has be detected for several weeks, and even months. However the prolonged presence of viral RNA does not necessarily signify prolonged infectiousness.
+    claim !Variation = In some patients viral RNA has been detectable only for several days, while in other patients it has be detected for several weeks, and even months. However, the prolonged presence of viral RNA does not necessarily signify prolonged infectiousness.
       -
         'Woelfel_et_al_2020b
         'Weiss_et_al_07_22_2020
@@ -221,150 +221,166 @@ subject module Virus
 
   / Viability
   subject Viability
-    head =
+    head = SARS-CoV-2 is presumably viable in heavy respiratory droplets, and can remain viable on some surfaces for several hours. It is also viabile in smaller respiratory particles (aerosols) though the extent of viability is disputed. The virus has been detected in feces, though its ability to infect is unclear.
 
     -
-      Droplets
-      Fomite
-      Aerosol
-      Feces
+      ?Droplets
+      !Fomites
+      !Aerosol
+      !Feces
 
-    / Aerosol
-    subject Aerosol
-      head =
+    / Droplets
+    // Viability in Droplets
+    question ?Droplets
+      head = SARS-CoV-2 is widely presumed to be transmissable via heavy respiratory droplets. What direct and indirect evidence indicates this? What evidence exists as to the mechanics of events which create heavy respiratory droplets?
 
-      # Background Content Difference b/w droplet and Aersol
-      # -
-      #   'Milton_et_al_07_24_2020
+      question ?DirectEvidence = What direct evidence exists indicating that SARS-CoV-2 is viable in heavy droplets? Is this primarily extrapolated from case reports?
 
-      >
-        SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours. Viable Aersol particles have also found more than 6 feet away from patients.
-      -
-        'van_Doremalen_et_al_2020
-        'van_Doremalen_et_al_2020.!a
-        'Lu_et_al_2020
-        'Allen_et_al_05_06_2020
-        'Johnson_et_al_06_21_2011
-        'Doremalen_et_al_03_17_2020
-        'Guo_et_al_07_26_2020
-        'Lednicky_et_al_05_22_2020
-        'Santarpia_et_al_07_29_2020
-        'Liu_et_al_03_10_2020
-        'Liu_et_al_2020bb
-        'Bahl_et_al_04_16_2020
-        'Anderson_et_al_05_01_2020.!a
-        'Ding_et_al_08_15_2020
-        'Guo_et_al_07_26_2020
-        'Fears_et_al_04_18_2020
-        'Ma_et_al_06_02_2020
-        'Chia_et_al_05_29_2020
-      # Disputes?
-      >
-        While in some studies, viable viruses in the air was not found.
-      -
-        'Cheng_et_al_06_08_2020
-        'Carraturo_et_al_06_09_2020
-        'Wu_et_al_05_11_2020
-      >
-        Viable Aerosols particles have been found in other Respiratory virus too
-      -
-        'Gralton_et_al_08_19_2013
-        'Kim_et_al_08_01_2016
+      question ?IndirectEvidence = What indirect evidence exists suggesting that SARS-CoV-2 is viable in heavy droplets? Is this presumed from the behavior of other respiratory viruses?
+        -
+          'Gralton_et_al_08_19_2013
 
-      >
-        The sizes of the aerosols and the amount of the virus exhaled vary with the stage of infection and from person to person. They also vary with individual activity, with fewer from breathing and more from talking, singing, shouting and aerobic exercise.
-      -
-        'Asadi_et_al_2019
-        'Stadnytskyi_et_al_06_02_2020
-        'Anfinrud_04_06_2020
-        'Fabian_et_al_07_16_2008
-        'Morawska_et_al_11_18_2008
-        'Wang_et_al_04_05_2011
-        'Echternach_et_al_07_24_2020
-        'Bourouiba_et_al_03_26_2020
-        'Luoma_et_al_07_07_2008
-        'Chen_et_al_08_01_2020
-      >
-        Temperature and Humidity can have an effect on survival of virus in the air
-      -
-        'Ahlawat_et_al_07_21_2020
-      >
-        Aerosols can remain viable for longer duration in poorly ventilated environment.
-      -
-        'Somsen_et_al_05_27_2020
-        'Somsen_et_al_05_27_2020.!e
-        'Jankovic_et_al_06_25_2020
+      question ?Mechanics = What evidence exists as to the mechanics of heavy respiratory droplets (their travel distance during speech, sneezing and coughing)?
+        -
+          # - Speech (Speaking Loud)
+          'Anfinrud_04_06_2020
+          'Anfinrud_et_al_04_15_2020
+          'Papineni_et_al_01_30_2009
+          # - Sneezing and Coughing
+          'Jayaweera_et_al_06_10_2020
+          'Duguid_et_al_05_15_2009
+          'Bourouiba_et_al_04_25_2004
+          'Papineni_et_al_01_30_2009
+          # - Travelling Distance
+          'Bahl_et_al_04_16_2020
+          'Bourouiba_et_al_03_26_2020
+          'Bourouiba_et_al_08_25_2016
+          # - Host Mechanism
+          'Morawska_et_al_11_18_2008.!a
+          'Scharfman_et_al_01_20_2016
 
-    / Feces
-    subject Feces
-      head = SARS-CoV-2 has been detected on feces but the infectiousness of it is unclear. Flushing a toilet can generate aerosol. Certain kinds of toilet can generate more aerosols. It is also possible for fecal aerosols to spread through the plumbing system. SARS-CoV-2 has also been detected on wastewater and sewage.
-      - Viability of Feces
-        'Xiao_et_al_05_18_2020
-        'Wu_et_al_2020d
-        'Ong_et_al_03_04_2020
-      - Viability of Fecal Aerosolization
-        'Ding_et_al_08_15_2020
-      # plumbing system - fecal aerosols case report
-        'Kang_et_al_09_01_2020
-        'Lin_et_al_01_26_2017
-        'Johnson_et_al_10_05_2012
-      # Flushing
-      - Aerosol Toilet
-        'Lai_et_al_07_06_2017
-        'Best_et_al_12_05_2011
-        'Barker_et_al_06_16_2005
-        'Johnson_et_al_10_08_2012
-      - Environment (Sewage and Wastewater)
-        'Carraturo_et_al_06_09_2020
-        'Hoseinzadeh_et_al_07_09_2020
-        'Cahill_et_al_06_11_2020
-
-    / Fomite
-    subject Fomite
-      head = Viable viruses have been detected on various surfaces. SARS-CoV-2 can be stable in favorable environmental conditions and can last for several hours.
+    / Fomites
+    // Viability in Fomites
+    claim !Fomites = Viable SARS-CoV-2 virus has been detected on various surfaces. The virus can remain stable in favorable conditions, though the duration of viability varies widely by surface and environment.
       -
         'van_Doremalen_et_al_2020
         'van_Doremalen_et_al_2020.!b
         'van_Doremalen_et_al_2020.!c
+      -
+        'Doremalen_et_al_03_17_2020
         'Doremalen_et_al_03_17_2020.!a
+      -
         'Harbourt_et_al_07_03_2020
         'Harbourt_et_al_07_03_2020.!a
         'Harbourt_et_al_07_03_2020.!b
         'Harbourt_et_al_07_03_2020.!c
+      -
         'Chin_et_al_04_02_2020
         'Verani_et_al_05_09_2014
         'Santarpia_et_al_2020
-        'Ong_et_al_03_04_2020
         'Santarpia_et_al_07_29_2020
+        'Ong_et_al_03_04_2020
         'Bean_et_al_07_01_2020
         'Guo_et_al_07_26_2020
         # These paper claims that even tho its viable. Infectiousness is low through fomite
         'Goldman_et_al_07_03_2020
         'Harvey_et_al_11_01_2020
 
-    / Droplets
-    subject Droplets
-      head = Viable viruses have been detected on respiratory droplets. The size of the droplet and amount of virus contained in the droplet varies from person to person. They also vary with individual activity. Sneezing and Coughing produces more droplets than speech. Viable droplets have been found to travel more than 2m (6 feet).
+    / Aerosols
+    // Viability in Aerosols
+    dispute !Aerosol = Viable SARS-CoV-2 has been identified in aerosols and can stay floating in the air for minutes to hours. The extent of its viability in this mode is disputed.
 
-      - Speech (Speaking Loud)
-        'Anfinrud_04_06_2020
-        'Anfinrud_et_al_04_15_2020
-        'Gralton_et_al_08_19_2013
-        'Papineni_et_al_01_30_2009
-      - Sneezing and Coughing
-        'Jayaweera_et_al_06_10_2020
-        'Duguid_et_al_05_15_2009
-        'Gralton_et_al_08_19_2013
-        'Bourouiba_et_al_04_25_2004
-        'Papineni_et_al_01_30_2009
-      - Travelling Distance
-        'Bahl_et_al_04_16_2020
-        'Bourouiba_et_al_03_26_2020
-        'Bourouiba_et_al_08_25_2016
-      - Host Mechanism
-        'Morawska_et_al_11_18_2008.!a
-        'Scharfman_et_al_01_20_2016
+      # Background Content Difference b/w droplet and Aersol
+      # -
+      #   'Milton_et_al_07_24_2020
 
+      question ?EvidenceOfViability = What studies have suggested that SARS-CoV-2 is viable in aerosols?
+        >
+          SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours. Viable aersol particles have also detected at distances greater than 6 feet from their source.
+        -
+          'van_Doremalen_et_al_2020
+          'van_Doremalen_et_al_2020.!a
+          'Lu_et_al_2020
+          'Allen_et_al_05_06_2020
+          'Johnson_et_al_06_21_2011
+          'Doremalen_et_al_03_17_2020
+          'Guo_et_al_07_26_2020
+          'Lednicky_et_al_05_22_2020
+          'Santarpia_et_al_07_29_2020
+          'Liu_et_al_03_10_2020
+          'Liu_et_al_2020bb
+          'Bahl_et_al_04_16_2020
+          'Anderson_et_al_05_01_2020.!a
+          'Ding_et_al_08_15_2020
+          'Guo_et_al_07_26_2020
+          'Fears_et_al_04_18_2020
+          'Ma_et_al_06_02_2020
+          'Chia_et_al_05_29_2020
+
+      question ?EvidenceAgainstViability = What studies have suggested that SARS-CoV-2 is not viable in aerosols?
+        -
+          'Cheng_et_al_06_08_2020
+          'Carraturo_et_al_06_09_2020
+          'Wu_et_al_05_11_2020
+
+      question ?ProxyEvidence = Is there any evidence of aerosol viability from other respiratory viruses?
+        -
+          'Gralton_et_al_08_19_2013
+          'Kim_et_al_08_01_2016
+
+      question ?MecahnicalEvidence = What mechanical evidence exists that would be relevant in assessing risks of aerosol transmission per setting?
+        # >
+        #   The sizes of the aerosols and the amount of the virus exhaled vary with the stage of infection and from person to person. They also vary with individual activity, with fewer from breathing and more from talking, singing, shouting and aerobic exercise.
+        -
+          'Asadi_et_al_2019
+          'Stadnytskyi_et_al_06_02_2020
+          'Anfinrud_04_06_2020
+          'Fabian_et_al_07_16_2008
+          'Morawska_et_al_11_18_2008
+          'Wang_et_al_04_05_2011
+          'Echternach_et_al_07_24_2020
+          'Bourouiba_et_al_03_26_2020
+          'Luoma_et_al_07_07_2008
+          'Chen_et_al_08_01_2020
+
+      claim !Temperature = Temperature and humidity can have an effect on survival of SARS-CoV-2 in the air.
+        -
+          'Ahlawat_et_al_07_21_2020
+
+      claim !Ventilation = Aerosols can remain viable for longer duration in poorly ventilated environment.
+        -
+          'Somsen_et_al_05_27_2020
+          'Somsen_et_al_05_27_2020.!e
+          'Jankovic_et_al_06_25_2020
+
+    / Feces
+    // Viability in Feces
+    claim !Feces = SARS-CoV-2 has been detected in feces, but whether or not it is infectious is unclear. Its viability in this mode is particularly important, because toilet flushes can generate aerosols. It is also possible for fecal aerosols to spread through the plumbing system.
+
+      # SARS-CoV-2 has also been detected on wastewater and sewage.
+      # Certain kinds of toilet can generate more aerosols.
+
+      -
+        # - Viability of Feces
+        'Xiao_et_al_05_18_2020
+        'Wu_et_al_2020d
+        'Ong_et_al_03_04_2020
+        # - Viability of Fecal Aerosolization
+        'Ding_et_al_08_15_2020
+        # plumbing system - fecal aerosols case report
+        'Kang_et_al_09_01_2020
+        'Lin_et_al_01_26_2017
+        'Johnson_et_al_10_05_2012
+        # Flushing
+        # - Aerosol Toilet
+        'Lai_et_al_07_06_2017
+        'Best_et_al_12_05_2011
+        'Barker_et_al_06_16_2005
+        'Johnson_et_al_10_08_2012
+        # - Environment (Sewage and Wastewater)
+        'Carraturo_et_al_06_09_2020
+        'Hoseinzadeh_et_al_07_09_2020
+        'Cahill_et_al_06_11_2020
 
   / Genetics
   subject Genetics
