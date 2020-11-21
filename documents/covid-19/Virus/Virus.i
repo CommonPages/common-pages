@@ -353,6 +353,7 @@ subject module Virus
           'Somsen_et_al_05_27_2020.!e
           'Jankovic_et_al_06_25_2020
 
+
     / Feces
     // Viability in Feces
     claim !Feces = SARS-CoV-2 has been detected in feces, but whether or not it is infectious is unclear. Its viability in this mode is particularly important, because toilet flushes can generate aerosols. It is also possible for fecal aerosols to spread through the plumbing system.
