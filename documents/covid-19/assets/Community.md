@@ -1,3 +1,4 @@
+public: process
 name: Process
 title: Claimspace COVID-19: Process & Principles
 lead: The objective of this document is to continuously reflect the current state of the COVID-19 information space in a medium that scales for contributors and readers alike.

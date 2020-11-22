@@ -1,3 +1,4 @@
+public: contact
 name: Contact & Follow
 lead: Claimspace COVID-19 is shepherded by a small group of committed sense-makers, but we're looking to scale our community. We have a handful of social media accounts which we'll use to broadcast updates.
 

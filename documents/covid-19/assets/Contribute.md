@@ -1,3 +1,4 @@
+public: contribute
 name: Contribute
 title: How to Contribute to Claimspace COVID-19
 lead: Anyone can contribute. For now, all proposed revisions pass through a small group of document shepherds, though we hope to scale this over time.
