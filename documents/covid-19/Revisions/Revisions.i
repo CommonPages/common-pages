@@ -1,11 +1,11 @@
 
 / Revision Feed
 revision feed Revisions
-  head = The first draft of Claimspace COVID-19 was published on November 21, 2020. It was last revised on November 21 with new research under the Treatment modules.
+  head = The first draft of Claimspace COVID-19 was published on November 21, 2020, seeded with nearly 1,000 references.
 
   / November 21, 2020
   revision November_21
-    head = This is the seed version of Claimspace COVID-19. It contains over 900 references under key subjects, but many of the areas need work and   review.
+    head = The seed version of Claimspace COVID-19 was released on November 21, 2020, with 180 claims derived from nearly 1,000 references.
 
     >
       The seed version contains drafts of {Timeline}, {Virus}, {Disease}, {Testing}, {Prevention} and {Containment}. It also contains concept modules for {Virology} and {Immunology}, and a bare-bones path for {paths.Masking} (a theme which spans many subjects).
