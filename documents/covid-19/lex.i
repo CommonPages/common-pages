@@ -1,4 +1,6 @@
 
+import Foundations._
+
 import Foundations.Virology._
 import Foundations.Immunology._
 import Foundations.Epidemiology._
