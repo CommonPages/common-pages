@@ -457,7 +457,7 @@ feed April2020
   // Cluster of Coronavirus Disease 2019 (COVID-19) in the French Alps, February 2020
   doi: https://doi.org/10.1093/cid/ciaa424
   ref 'Danis_et_al_04_11_2020
-    head = The investigation of this cluster of COVID-19 in France indicated the occurrence of 1 asymptomatic infection with similar viral load as a symptomatic case, suggesting a transmission potential of asymptomatic cases.
+    head = The investigation of this cluster of COVID-19 in France indicated the occurrence of 1 asymptomatic case with similar viral load as a symptomatic patient suggesting a transmission potential of asymptomatic individuals. The fact that an infected child did not transmit the disease despite close interactions with a large number of contacts in different schools, suggests potential different transmission dynamics in children
 
     > Background
       On 7 February 2020, French Health authorities were informed of a confirmed case of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in an Englishman infected in Singapore who had recently stayed in a chalet in the French Alps. We conducted an investigation to identify secondary cases and interrupt transmission.
@@ -476,7 +476,7 @@ feed April2020
       !a
 
     / April, 2020 - Clinical Infectious Diseases
-    quote !a =  The occurrence of a case in a child, coinfected with other respiratory viruses, who did not transmit the disease despite interactions with his classmates suggests that children might not be an important source of transmission of this novel virus.
+    quote !a = The occurrence of a case in a child, coinfected with other respiratory viruses, who did not transmit the disease despite interactions with his classmates suggests that children might not be an important source of transmission of this novel virus.
 
 
 

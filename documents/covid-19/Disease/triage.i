@@ -23,3 +23,8 @@ index: hide
   #   More importantly, incubation period is the interaction of pathogen and host immunity. The length of incubation period is closely linked to immunological state.
   # -
   #   'Hermesh_et_al_11_18_2010
+
+
+  # Relapse
+  # -
+  #   'Liotti_et_al_11_12_2020

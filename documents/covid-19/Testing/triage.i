@@ -43,3 +43,10 @@ index: hide
     Efficiency greater than 96% in Rt-PCR kit can be used for routine diagnostics
   -
     'Kasteren_et_al_05_08_2020
+
+
+  # SEROLOGY 11/24
+
+  # Recentstudy brings caution against the use of serology tests that rely only on detection of binding antibodies against N-protein to measure potential COVID-19 immunity.
+    # -
+    #  'McAndrews_et_al_08_14_2020

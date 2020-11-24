@@ -1,4 +1,4 @@
-—
+
 subject module Transmission
   head = Evidence of SARS-CoV-2 transmission patterns comes from a wealth of case reports, but few studies have described transmission comprehensively. Nevertheless, reports have confirmed transmission in a wide variety of modes and settings. The primary mode of transmission has been disputed, and there are open questions about risk in many settings.
 
