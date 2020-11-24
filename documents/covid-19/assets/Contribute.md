@@ -17,6 +17,6 @@ Responses will be collected under the question until there's enough material to 
 
 ### Make Corrections
 
-Hover over any node to reveal a faint comment bubble to the right beneath the node's head text. Click this node to pre-populate our feedback form with the targeted node ID:
+Hover over any element to reveal a faint comment bubble to the right beneath the element's text. Click this element to pre-populate our feedback form with the targeted element ID:
 
 {image:'Corrections}

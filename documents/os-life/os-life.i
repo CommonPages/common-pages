@@ -1,4 +1,5 @@
 
+/ Life
 document $os-life
   -
     basis

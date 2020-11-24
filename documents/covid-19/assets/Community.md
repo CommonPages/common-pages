@@ -9,9 +9,9 @@ Claimspace documents reimagine knowledge-bases as code-bases, to achieve:
   2. Continuous rework to improve quality
   3. Balanced benefits of both broad contributor base and accountable owners
 
-A document is tree of nodes. Each node contains a short piece of information, and a reference to a sequence of child nodes. The information in each node reflects as much meaning as possible about its child nodes in two to three concise sentences.
+A document is tree of elements. Each element contains a short piece of information, and a reference to a sequence of child elements. The information in each element reflects as much meaning as possible about its child elements in two to three concise sentences.
 
-Each node has a type which reflects some its role in the sense making process:
+Each element has a type which reflects its role in the sense making process:
 
 <div style="margin-left: 16px;">{image:'Process}</div>
 
@@ -19,7 +19,7 @@ Documents are seeded with *questions*. The objective is to eliminate questions b
 
 *Note that adjudication of disputes is an explicit non-goal. The intention of this document is merely to reflect the state of the information space with complete transparency and without judgment.*
 
-Documents are written in a simple notation called **I**. **I-files** contain hierarchical declarations of nodes and relationships between them:
+Documents are written in a simple notation called **I**. **I-files** contain hierarchical declarations of elements and relationships between them:
 
 <pre>
 document $COVID-19
@@ -39,6 +39,6 @@ document $COVID-19
     dispute Origin = SARS-CoV-2 likely arose in October ...
 </pre>
 
-Nodes in I-files can be shared across documents, in the same way that software packages can depend on each other.
+Elements in I-files can be shared across documents, in the same way that software packages can depend on each other.
 
 Anyone can {Contribute contribute}, but for now all proposed revisions pass through a small group of document shepherds who are dedicated to the long run vision and fluent with the project's principles. We are looking to grow our community so please reach out to covid-19@claimspace.org to contact the document leads.
