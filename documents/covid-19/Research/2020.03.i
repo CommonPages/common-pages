@@ -2819,6 +2819,8 @@ feed March2020
     quote !e = Although the use of chloroquine may be supported by expert opinion, clinical use of this drug in patients with COVID-19 should adhere to the MEURI framework or after ethical approval as a trial as stated by the WHO.
 
 
+  @@MichelleHolshue
+  @@ChasDebolt
   # Epidemic
   // First Case of 2019 Novel Coronavirus in the United States
   doi: https://doi.org/10.1056/NEJMoa2001191

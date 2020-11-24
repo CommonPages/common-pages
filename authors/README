@@ -1,6 +1,32 @@
 
-# Example:
-username: "@jeffmagee"
-password: falafel
-fullname: Jeff Magee
-    
+Within each section:
+
+  1. Click through to reference
+  2. Use "/*" link to copy reference
+  3. Open atom. Control-T to open file, paste reference, hit enter.
+  4. Copy doi
+  5. Open doi with https://api.crossref.org/works/<DOI HERE>
+  6. Find author field.
+  7. Google search each author until you find one with an attached email
+  8. Go to authors/covid-19.authors
+  9. Add an entry in the following format
+
+    GivenFamily:
+      fullname: Given Family
+      email: given.family@gmail.com
+
+  10. Go back to reference (step 3)
+  11. Add @@GivenFamily annotation above ref, like so
+
+      @@GivenFamily
+      ref 'Family_et_al_2020
+
+Section priorities:
+
+  1. Virus / Viral Load and Shedding
+  2. Virus / Viability
+  3. Virus / Genetics
+  4. Prevention / Social Distancing
+  5. Prevention / Hand Washing
+  6. Prevention / Masking
+  7. Containment / Universal Masking
