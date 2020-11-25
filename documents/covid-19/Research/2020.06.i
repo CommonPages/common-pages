@@ -321,7 +321,7 @@ feed June2020
   // A Cluster of Novel Coronavirus Disease 2019 Infections Indicating Person-to-Person Transmission Among Casual Contacts From Social Gatherings: An Outbreak Case-Contact Investigation
   doi: https://doi.org/10.1093/ofid/ofaa231
   ref 'Shen_et_al_06_12_2020
-    head = We report several transmission events to both close and casual contacts. Transmission efficiency among close contacts was higher than among casual contacts.
+    head = We report several transmission events to both close and casual contacts from a cluster. Transmission efficiency among close contacts was higher than among casual contacts; however, transmission from second-generation cases may help spread the virus during the incubation period.
 
     > Background
       Severe acute respiratory syndrome coronavirus 2, the pathogen causing novel coronavirus disease of 2019 (COVID-19), efficiently spreads from person to person in close contact settings. Transmission among casual contacts in settings such as during social gatherings is not well understood.
@@ -1427,13 +1427,13 @@ feed June2020
   // Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event
   doi: https://doi.org/10.1101/2020.06.15.20132027
   ref 'Miller_et_al_06_18_2020
-    head = 53 of the 61 members of the SVC contracted COVID-19 and two died. One person is the presumed index case. The secondary infection attack rate is in the range 53-87%. Inhalation of respiratory aerosol most likely dominated infection transmission during this event, as other modes of transmission are unlikely to account for the high secondary attack rate.
+    head = 53 of the 61 members of the SVC contracted COVID-19 and two died. One person is the presumed index case. Inhalation of respiratory aerosol most likely dominated infection transmission during this event.
 
     > Abstract
       During the 2020 COVID-19 pandemic, an outbreak occurred following attendance of a symptomatic index case at a regular weekly rehearsal on 10 March of the Skagit Valley Chorale (SVC). After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely. It is vital to identify features of cases such as this so as to better understand the factors that promote superspreading events. Based on a conditional assumption that transmission during this outbreak was by inhalation of respiratory aerosol, we use the available evidence to infer the emission rate of airborne infectious quanta from the primary source. We also explore how the risk of infection would vary with several influential factors: the rates of removal of respiratory aerosol by ventilation; deposition onto surfaces; and viral decay. The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
 
     / June, 2020 - medRxiv
-    quote !a =
+    quote !a = Risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
 
 
 

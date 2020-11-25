@@ -1,7 +1,45 @@
 / November, 2020
 feed November2020
 
+  #
 
+  // Antibodies to SARS-CoV-2 are associated with protection against reinfection
+  doi: https://doi.org/10.1101/2020.11.18.20234369
+  ref 'Lumley_et_al_11_19_2020
+    head = We investigated the incidence of SARS-CoV-2 PCR-positive results in seropositive and seronegative healthcare workers (HCWs) attending asymptomatic and symptomatic staff. Positive baseline anti-spike antibodies were associated with lower rates of PCR-positivity. Rate ratios were similar using anti-nucleocapsid IgG alone or combined with anti-spike IgG to determine baseline status.
+
+    > Background
+      It is critical to understand whether infection with Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) protects from subsequent reinfection.
+    > Methods
+      We investigated the incidence of SARS-CoV-2 PCR-positive results in seropositive and seronegative healthcare workers (HCWs) attending asymptomatic and symptomatic staff testing at Oxford University Hospitals, UK. Baseline antibody status was determined using anti-spike and/or anti-nucleocapsid IgG assays and staff followed for up to 30 weeks. We used Poisson regression to estimate the relative incidence of PCR-positive results and new symptomatic infection by antibody status, accounting for age, gender and changes in incidence over time.
+    > Results
+      A total of 12219 HCWs participated and had anti-spike IgG measured, 11052 were followed up after negative and 1246 after positive antibody results including 79 who seroconverted during follow up. 89 PCR-confirmed symptomatic infections occurred in seronegative individuals (0.46 cases per 10,000 days at risk) and no symptomatic infections in those with anti-spike antibodies. Additionally, 76 (0.40/10,000 days at risk) anti-spike IgG seronegative individuals had PCR-positive tests in asymptomatic screening, compared to 3 (0.21/10,000 days at risk) seropositive individuals. Overall, positive baseline anti-spike antibodies were associated with lower rates of PCR-positivity (with or without symptoms) (adjusted rate ratio 0.24 [95%CI 0.08-0.76, p=0.015]). Rate ratios were similar using anti-nucleocapsid IgG alone or combined with anti-spike IgG to determine baseline status.
+    > Conclusions
+      Prior SARS-CoV-2 infection that generated antibody responses offered protection from reinfection for most people in the six months following infection. Further work is required to determine the long-term duration and correlates of post-infection immunity.
+
+    - quotes
+      !a
+
+    / November, 2020 - medRxiv
+    quote !a =  Prior SARS-CoV-2 infection that generated antibody responses offered protection from reinfection for most people in the six months following infection.
+
+
+  # Long term adaptive immunity
+  // Immunological memory to SARS-CoV-2 assessed for greater than six months after infection
+  doi: https://doi.org/10.1101/2020.11.15.383323
+  ref 'Dan_et_al_11_16_2020
+    head = We analyzed multiple compartments of circulating immune memory to SARS-CoV-2 in 185 COVID-19 cases, including 41 cases at ≥6 months post-infection. Spike IgG was relatively stable over 6+ months. Spike-specific memory B cells were more abundant at 6 months than at 1 month.
+
+    > Abstract
+      Understanding immune memory to SARS-CoV-2 is critical for improving diagnostics and vaccines, and for assessing the likely future course of the pandemic. We analyzed multiple compartments of circulating immune memory to SARS-CoV-2 in 185 COVID-19 cases, including 41 cases at ≥6 months post-infection. Spike IgG was relatively stable over 6+ months. Spike-specific memory B cells were more abundant at 6 months than at 1 month. SARS-CoV-2-specific CD4+ T cells and CD8+ T cells declined with a half-life of 3-5 months. By studying antibody, memory B cell, CD4+ T cell, and CD8+ T cell memory to SARS-CoV-2 in an integrated manner, we observed that each component of SARS-CoV-2 immune memory exhibited distinct kinetics.
+
+    - quotes
+      !a
+
+    / November, 2020 - bioRxiv
+    quote !a = There is a high degree of heterogeneity in the magnitude of adaptive immune responses.  It may be expected that at least a fraction of the SARS-CoV-2-infected population with particularly low immune memory would be susceptible to re-infection relatively quickly.
+
+  # Mask
   // Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers: A Randomized Controlled Trial
   ref 'Bundgaard_et_al_11_18_2020
     head = Objective: to assess whether recommending surgical mask use outside the home reduces wearers' risk for SARS-CoV-2 infection in a setting where masks were uncommon and not among recommended public health measures.
@@ -36,7 +74,7 @@ feed November2020
     > Conclusion
       The recommendation to wear surgical masks to supplement other public health measures did not reduce the SARS-CoV-2 infection rate among wearers by more than 50% in a community with modest infection rates, some degree of social distancing, and uncommon general mask use. The data were compatible with lesser degrees of self-protection.
 
-    -- quotes
+    - quotes
       !a
       !b
 

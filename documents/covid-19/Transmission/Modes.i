@@ -100,8 +100,6 @@ subject module Modes
         >
           However the infectivity of these
 
-        >
-
 
         - Viability
           'van_Doremalen_et_al_2020

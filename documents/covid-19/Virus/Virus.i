@@ -221,7 +221,7 @@ subject module Virus
 
   / Viability
   subject Viability
-    head = SARS-CoV-2 is presumably viable in heavy respiratory droplets, and can remain viable on some surfaces for several hours. It is also viabile in smaller respiratory particles (aerosols) though the extent of viability is disputed. The virus has been detected in feces, though its ability to infect is unclear.
+    head = SARS-CoV-2 is presumably viable in heavy respiratory droplets, and can remain viable on some surfaces for several hours. It is also viable in smaller respiratory particles (aerosols) though the extent of viability is disputed. The virus has been detected in feces, though its ability to infect is unclear.
 
     -
       ?Droplets
@@ -596,8 +596,8 @@ subject module Virus
   #     / Weather Conditions
   #     subject WeatherConditions
   #       -- Weather Influence
-  #         'want_et_at_2020
-  #         'luo_et_al_2020
+  #         'Want_et_at_2020
+  #         'Luo_et_al_2020
   #         'Moriyama_et_al_2020
   #         'Notari_et_al_2020
   #         'Ficetola_et_al_04_20_2020

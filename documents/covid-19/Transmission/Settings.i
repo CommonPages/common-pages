@@ -683,8 +683,8 @@ subject module Settings
     subject HeatwaveSeason
       head = Seasonal factors like heat and coldness can influence the spread of the virus.
       - Weather Influence
-        'want_et_at_2020
-        'luo_et_al_2020
+        'Want_et_at_2020
+        'Luo_et_al_2020
         'Moriyama_et_al_2020
         'Notari_et_al_2020
         'Ficetola_et_al_04_20_2020

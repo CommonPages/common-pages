@@ -511,7 +511,7 @@ feed May2020
   // Epidemiological characteristics of infection in COVID-19 close contacts in Ningbo city
   doi: https://doi.org/10.3760/cma.j.cn112338-20200304-00251
   ref 'Chen_et_al_05_10_2020
-    head = The infection rate of close contacts of COVID-19 cases is high, and isolation medical observation measures should be implemented in strict accordance with the close contact management plan.
+    head = A total of 2 147 close contacts were tracked and investigated. Among close contacts of different relationships, friends/pilgrims, family members, and relatives have a higher infection rate, and close contacts of medical staff were not infected. Living with the case, taking the same transportation, and dining together are high risk factors for infection.
 
     > Objective
       To estimate the infection rate of close contacts of COVID-19 cases, and to evaluate the risk of COVID-19 under different exposure conditions.
@@ -4567,7 +4567,7 @@ feed May2020
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://doi.org/10.3201/eid2607.200764
   ref 'Lu_et_al_2020
-    head = Virus-laden small (<5 μm) aerosolized droplets can remain in the air and travel long distances, >1 m. To prevent the spread of the virus in restaurants, we recommend increasing the distance between tables and improving ventilation.
+    head = We conclude that in this outbreak, droplet transmission was prompted by air-conditioned ventilation. The key factor for infection was the direction of the airflow.
 
     > Abstract
       During January 26–February 10, 2020, an outbreak of 2019 novel coronavirus disease in an air-conditioned restaurant in Guangzhou, China, involved 3 family clusters. The airflow direction was consistent with droplet transmission. To prevent the spread of the virus in restaurants, we recommend increasing the distance between tables and improving ventilation.

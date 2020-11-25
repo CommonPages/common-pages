@@ -76,30 +76,30 @@ subject module Spreading
     subject CloseContactOnly
       head = The spread could be confined to only 1-2 people in close contact.
       -
-      'Wang_et_al_04_10_2020
-      'Nishiura_et_al_03_03_2020
-      'Zhang_et_al_04_07_2020
-      'Wei_et_al_09_02_2016
-      'Bi_et_al_04_27_2020
-      'Li_et_al_04_17_2020
-      'Chaw_et_al_07_10_2020
-      'Bi_et_al_04_27_2020
-      'Pung_et_al_03_28_2020
-      'Chen_et_al_08_01_2020
-      'Li_et_al_04_22_2020
-      'Döhla_et_al_06_02_2020
-      'Cai_et_al_06_26_2020
-      'Burke_et_al_05_03_2020
-      'Wong_et_al_06_01_2020
-      'Burke_et_al_05_03_2020
-      'Cheng_et_al_03_19_2020
-      'Yong_et_al_04_21_2020
-      'Shen_et_al_06_12_2020
-      'Chen_et_al_05_10_2020
-      'Zhao_et_al_06_03_2020
-      'Kang_et_al_09_01_2020
-      'Shen_et_al_09_01_2020
-      'Lei_et_al_12_15_2017
+        'Wang_et_al_04_10_2020
+        'Nishiura_et_al_03_03_2020
+        'Zhang_et_al_04_07_2020
+        'Wei_et_al_09_02_2016
+        'Bi_et_al_04_27_2020
+        'Li_et_al_04_17_2020
+        'Chaw_et_al_07_10_2020
+        'Bi_et_al_04_27_2020
+        'Pung_et_al_03_28_2020
+        'Chen_et_al_08_01_2020
+        'Li_et_al_04_22_2020
+        'Döhla_et_al_06_02_2020
+        'Cai_et_al_06_26_2020
+        'Burke_et_al_05_03_2020
+        'Wong_et_al_06_01_2020
+        'Burke_et_al_05_03_2020
+        'Cheng_et_al_03_19_2020
+        'Yong_et_al_04_21_2020
+        'Shen_et_al_06_12_2020
+        'Chen_et_al_05_10_2020
+        'Zhao_et_al_06_03_2020
+        'Kang_et_al_09_01_2020
+        'Shen_et_al_09_01_2020
+        'Lei_et_al_12_15_2017
 
     / Within Family
     subject HouseholdFamilySpouse

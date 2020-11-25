@@ -26,8 +26,8 @@ feed February2020
     'Zhang_et_al_2020g
     'Porcheddu_et_al_2020
     'Liu_et_al_2020d
-    'luo_et_al_2020
-    'want_et_at_2020
+    'Luo_et_al_2020
+    'Want_et_at_2020
     'Zheng_et_al_2020
     'Hui_et_al_2020
     'Watanabe_et_al_2020
@@ -739,8 +739,8 @@ feed February2020
   # Tag - Weather Influence
   // The role of absolute humidity on transmission rates of the COVID-19 outbreak
   doi: https://doi.org/10.1101/2020.02.12.20022467
-  ref 'luo_et_al_2020
-    head = Changes in weather alone will not necessarily lead to declines in COVID-19 case counts without the implementation of extensive public health interventions.
+  ref 'Luo_et_al_2020
+    head = we examine province-level variability of the basic reproductive numbers of COVID-19 across China and find that changes in weather alone (i.e., increase of temperature and humidity as spring and summer months arrive in the North Hemisphere) will not necessarily lead to declines in COVID-19 case counts without the implementation of extensive public health interventions.
 
     > Abstract
       A novel coronavirus (COVID-19) was identified in Wuhan, Hubei Province, China, in December 2019 and has caused over 40,000 cases worldwide to date. Previous studies have supported an epidemiological hypothesis that cold and dry (low absolute humidity) environments facilitate the survival and spread of droplet-mediated viral diseases, and warm and humid (high absolute humidity) environments see attenuated viral transmission (i.e., influenza). However, the role of absolute humidity in transmission of COVID-19 has not yet been established. Here, we examine province-level variability of the basic reproductive numbers of COVID-19 across China and find that changes in weather alone (i.e., increase of temperature and humidity as spring and summer months arrive in the North Hemisphere) will not necessarily lead to declines in COVID-19 case counts without the implementation of extensive public health interventions.
@@ -755,7 +755,7 @@ feed February2020
   # tag - Weather Influence
   // Temperature significant change COVID-19 Transmission in 429 cities
   doi: https://doi.org/10.1101/2020.02.22.20025791
-  ref 'want_et_at_2020
+  ref 'Want_et_at_2020
     head = Temperature has significant impact on the transmission of COVID-19. There might be nonlinear dose-response relationship between the two, indicating that there is a best temperature contributing to its transmission and that low temperature is beneficial to the viral transmission.
 
     - quotes

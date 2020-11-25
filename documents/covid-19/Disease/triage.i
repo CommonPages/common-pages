@@ -9,6 +9,15 @@ index: hide
     'Jiang_et_al_04_02_2020
     'Rogers_et_al_06_11_2020
 
+  # Proof that antibodies provide protective immunity for atleast 6 months
+  > Claim
+    Antibodies offer protection against Reinfection
+  -
+    'Lumley_et_al_11_19_2020
+    'Lumley_et_al_11_19_2020.!a
+
+
+
   # > Claim / Background
   #   Estimated mean incubation period of approximately 5 days is comparable to known mean values of the incubation period for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome
   # -
@@ -19,12 +28,10 @@ index: hide
   #   'Backer_et_al_02_06_2020
 
 
-  # >
-  #   More importantly, incubation period is the interaction of pathogen and host immunity. The length of incubation period is closely linked to immunological state.
-  # -
-  #   'Hermesh_et_al_11_18_2010
-
-
-  # Relapse
-  # -
+  #
+  # - Relapse Report
   #   'Liotti_et_al_11_12_2020
+
+  # Stable adaptive Immune Response for 90% patient for over 6 months. However response is heterogenous which means some proportion of population will always be prone to reinfection
+  # -
+  #   'Dan_et_al_11_16_2020

@@ -885,8 +885,8 @@ subject module Transmission_old
       / Seasonal Varaiations
       subject HeatwaveSeason
         - Weather Influence
-          'want_et_at_2020
-          'luo_et_al_2020
+          'Want_et_at_2020
+          'Luo_et_al_2020
           'Moriyama_et_al_2020
           'Notari_et_al_2020
           'Ficetola_et_al_04_20_2020

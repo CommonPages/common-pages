@@ -2983,7 +2983,7 @@ feed Sangeeta
   // The Potential Role of Particulate Matter in the Spreading of COVID-19 in Northern Italy: First Evidence-Based Research Hypotheses.
   doi: https://doi.org/10.1101/2020.04.11.20061713
   ref 'Setti_et_al_04_17_2020
-    head = The acceleration of the growth rate observed in Milan could be attributed to a “boost effect” (a kind of exceptional “super-spread event”) on the viral infectivity of COVID-19, corresponding to the peaks of particulate matter. Particulate matter could be regarded as an indicator of the severity of COVID-19 infection in terms of diffusion and health outcomes.
+    head = We presented a Position Paper proposing a research hypothesis concerning the association between higher mortality rates due to COVID-19 observed in Northern Italy and the peaks of particulate matter concentrations, frequently exceeding the legal limit of 50 micrograms/m3 as PM10 daily average
 
 
     > Background
@@ -3000,7 +3000,7 @@ feed Sangeeta
       !b
 
     / April, 2020 - medRxiv
-    quote !a = The infection rate of disease has been higher in Milan, (1.35 million inhabitants, Northern Italy) than in Rome (2.87 million inhabitants, Southern Italy), even if there has not been a substantial difference in urban management and social confinement as well as in ageing index of the two populations.
+    quote !a = High frequency of PM10 concentration peaks (exceeding 50 µg/m3 result in a spread acceleration of COVID-19, suggesting a “boost effect” for the viral infectivity. We found significance differences both in PM10 exceedances and COVID-19 spreading between Northern and Southern Italian regions, and we made a focus on Milan and Rome.
 
     / April, 2020 - medRxiv
     quote !b = In Milan, the average growth rate before the lockdown was significantly higher than Rome (0.34 vs. 0.27 per day, with a doubling time of 2.0 days vs. 2.6), suggesting a basic reproductive number R0>6.0, comparable with the highest values estimated for China.
@@ -3124,7 +3124,7 @@ feed Sangeeta
   // Close contact behavior in indoor environment and transmission of respiratory infection
   doi: https://doi.org/10.1111/ina.12673
   ref 'Zhang_et_al_04_07_2020
-    head = We synthesize the existing understanding of the mechanisms of close contact transmission. We propose the existence of three sub‐routes: short‐range airborne, large droplets, and immediate body‐surface contact; and demonstrate that the short‐range airborne sub‐route may be most common.
+    head = We focus on two issues: the mechanism of transmission in close contact, namely the transmission of the expired particles between two people, and the physical parameters of close contact that affect the exposure of particles from one individual to another, or how the nature of close contact plays a role in transmission.
 
     > Abstract
       Close contact was first identified as the primary route of transmission for most respiratory infections in the early 20th century. In this review, we synthesize the existing understanding of the mechanisms of close contact transmission. We focus on two issues: the mechanism of transmission in close contact, namely the transmission of the expired particles between two people, and the physical parameters of close contact that affect the exposure of particles from one individual to another, or how the nature of close contact plays a role in transmission. We propose the existence of three sub-routes of transmission: short-range airborne, large droplets, and immediate body-surface contact. We also distinguish a "body contact," which is defined with an interpersonal distance of zero, from a close contact. We demonstrate herein that the short-range airborne sub-route may be most common. The timescales over which data should be collected to assess the transmission risk during close contact events are much shorter than those required for the distant airborne or fomite routes. The current paucity of high-resolution data over short distances and timescales makes it very difficult to assess the risk of infection in these circumstances.
@@ -4350,7 +4350,7 @@ feed Sangeeta
   // Transmission of Multidrug-Resistant Mycobacterium tuberculosis during a Long Airplane Flight
   doi: https://doi.org/10.1056/NEJM199604113341501
   ref 'Kenyon_et_al_04_11_1996
-    head = The transmission of Mycobacterium tuberculosis that we describe aboard a commercial aircraft involved a highly infectious passenger, a long flight, and close proximity of contacts to the index patient.
+    head = Passengers and crew were identified from airline records and were notified of their exposure, asked to complete a questionnaire, and screened by tuberculin skin tests. Passengers seated within two rows of the index patient were more likely to have positive tuberculin skin tests than those in the rest of the section
 
     > BACKGROUND
       In April 1994, a passenger with infectious multidrug-resistant tuberculosis traveled on commercial-airline flights from Honolulu to Chicago and from Chicago to Baltimore and returned one month later. We sought to determine whether she had infected any of her contacts on this extensive trip.
@@ -4463,8 +4463,7 @@ feed Sangeeta
   // COVID-19 Outbreak Among Three Affiliated Homeless Service Sites - King County, Washington, 2020
   doi: https://doi.org/10.15585/mmwr.mm6917e2
   ref 'Tobolowsky_et_al_05_01_2020
-    head = This COVID-19 outbreak involved transmission among residents and staff members of three affiliated homeless shelters in Seattle, Washington.
-
+    head = Conditions that might have contributed to SARS-CoV-2 transmission in these sites include 1) the mobile nature of the community and use of multiple homeless service sites among residents; 2) crowding and use of congregate sleeping arrangements; 3) challenges enforcing physical distancing; 4) possible asymptomatic transmission; and 5) unavailability of face coverings for residents before public health intervention.
 
     / May, 2020 - MMWR
     quote !a =
@@ -4499,7 +4498,7 @@ feed Sangeeta
   // Coronavirus Disease Outbreak in Call Center, South Korea
   doi: https://doi.org/10.3201/eid2608.201274
   ref 'Park_et_al_04_23_2020
-    head = Of 1,143 persons who were tested for COVID-19, a total of 97 (8.5%) had confirmed cases. Of these, 94 were working in an 11th-floor call center with 216 employees, translating to an attack rate of 43.5%. This outbreak shows alarmingly that SARS-CoV-2 can be exceptionally contagious in crowded office settings such as a call center.
+    head = We describe the epidemiology of a coronavirus disease (COVID-19) outbreak in a call center in South Korea. Of 1,143 persons who were tested, a total of 97 (8.5%) had confirmed cases. Of these, 94 were working in an 11th-floor call center with 216 employees, translating to an attack rate of 43.5%. This outbreak shows alarmingly that SARS-CoV-2 can be exceptionally contagious in crowded office settings such as a call center.
 
     > Abstract
       We describe the epidemiology of a coronavirus disease (COVID-19) outbreak in a call center in South Korea. We obtained information on demographic characteristics by using standardized epidemiologic investigation forms. We performed descriptive analyses and reported the results as frequencies and proportions for categoric variables. Of 1,143 persons who were tested for COVID-19, a total of 97 (8.5%, 95% CI 7.0%–10.3%) had confirmed cases. Of these, 94 were working in an 11th-floor call center with 216 employees, translating to an attack rate of 43.5% (95% CI 36.9%–50.4%). The household secondary attack rate among symptomatic case-patients was 16.2% (95% CI 11.6%– 22.0%). Of the 97 persons with confirmed COVID-19, only 4 (1.9%) remained asymptomatic within 14 days of quarantine, and none of their household contacts acquired secondary infections. Extensive contact tracing, testing all contacts, and early quarantine blocked further transmission and might be effective for containing rapid outbreaks in crowded work settings.
@@ -4541,7 +4540,7 @@ feed Sangeeta
   // A large COVID-19 outbreak in a high school 10 days after schools' reopening, Israel, May 2020
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.29.2001352
   ref 'Stein-Zamir_et_al_07_21_2020
-    head = The circumstances promoting infection spread involved return of teenage students to their regular classes after a 2-month closure and an extreme heatwave with temperatures rising to 40 °C and above that involved exemption from facemasks and continuous air-conditioning.
+    head = Overall, some 260 persons were infected (students, staff members, relatives and friends). In this report, we aim to describe the investigation and epidemiological characteristics of the school's outbreak.
 
 
     / July, 2020 - bioRxiv
