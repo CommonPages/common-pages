@@ -16,6 +16,23 @@ index: hide
     'Lumley_et_al_11_19_2020
     'Lumley_et_al_11_19_2020.!a
 
+  > Claim
+    Stable adaptive Immune Response for 90% patient for over 6 months. However response is heterogenous which means some proportion of population will always be prone to reinfection
+  -
+    'Dan_et_al_11_16_2020
+
+  # To be added on Relapse
+  - Relapse Report
+    'Liotti_et_al_11_12_2020
+
+
+  # Interesting Stat - Overall 20% of cases are asymptotic - can go on Asymtomatic Phase   
+  >
+    The summary proportion of SARS-CoV-2 that is asymptomatic throughout the course of infection was estimated, across all study settings, to be 20%.
+  -
+    'Buitrago-Garcia_et_al_09_22_2020.!a
+    'Buitrago-Garcia_et_al_09_22_2020.!e
+
 
 
   # > Claim / Background
@@ -28,9 +45,6 @@ index: hide
   #   'Backer_et_al_02_06_2020
 
 
-  #
-  # - Relapse Report
-  #   'Liotti_et_al_11_12_2020
 
   # Stable adaptive Immune Response for 90% patient for over 6 months. However response is heterogenous which means some proportion of population will always be prone to reinfection
   # -
