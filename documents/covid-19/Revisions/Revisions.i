@@ -3,9 +3,9 @@
 revision feed Revisions
   head = The first draft of Claimspace COVID-19 was published on November 21, 2020, seeded with nearly 1,000 references.
 
-  public: november-26-2020
-  / November 26, 2020
-  revision November_26
+  public: november-25-2020
+  / November 25, 2020
+  revision November_25
     let *prevention mean Prevention.Masking
     let *containment mean Containment.UniversalMasking
 
