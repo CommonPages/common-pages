@@ -2217,7 +2217,7 @@ feed Pre2019
   // Effectiveness of precautions against droplets and contact in prevention of nosocomial transmission of severe acute respiratory syndrome (SARS)
   doi: https://doi.org/10.1016/S0140-6736(03)13168-6
   ref 'Seto_et_al_2003
-    head = Practice of droplets precaution and contact precaution is adequate in significantly reducing the risk of infection after exposures to patients with SARS. The protective role of the mask suggests that in hospitals, infection is transmitted by droplets. This finding fits well with droplets transmission because droplets are generated at the face level making the mask crucial for protection.
+    head = We did a case-control study in five Hong Kong hospitals, with 241 non-infected and 13 infected staff with documented exposures to 11 index patients with severe acute respiratory syndrome (SARS) during patient care. All participants were surveyed about use of mask, gloves, gowns, and hand-washing, as recommended under droplets and contact precautions when caring for index patients with SARS.
 
     - quotes
       !a

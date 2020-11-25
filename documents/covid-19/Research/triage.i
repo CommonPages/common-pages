@@ -119,6 +119,18 @@ index: hide
   ref 'WHO_04_06_2020
     head = This document provides advice on the use of masks in communities, during home care, and in health care settings in areas that have reported cases of COVID-19. It is intended for individuals in the community, public health and infection prevention and control (IPC) professionals, health care managers, health care workers (HCWs), and community health workers. It will be revised as more data become available.
 
+    -- quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
     quote !a = Wearing a medical mask is one of the prevention measures that can limit the spread of certain respiratory viral diseases, including COVID-19. However, the use of a mask alone is insufficient to provide an adequate level of protection, and other measures should also be adopted.
 
     quote !b = Studies of influenza, influenza-like illness, and human coronaviruses provide evidence that the use of a medical mask can prevent the spread of infectious droplets from an infected person to someone else and potential contamination of the environment by these droplets.

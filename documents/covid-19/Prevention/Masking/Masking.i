@@ -1,30 +1,34 @@
 
 / Masking
 subject Masking
-  head = Mask effectiveness is highly dependent on the type of mask, the usage patterns of the wearer, and on each virus' transmissability. Their applicability in health care settings is unchallenged, but their protective efficacy for healthy individuals in community settings is disputed.
-
-  -
-    ?Observations
-    ?EvidenceHCW
+  head = Mask effectiveness is highly dependent on the type of mask, the usage patterns of the wearer, and on each virus' transmissability. Their applicability in health care settings is unchallenged, but the value of masking healthy individuals in community settings is disputed.
 
   < See also
     Timeline.Response.WHOMaskingGuidelines
     Containment.UniversalMasking
 
-  - Direct Evidence
-    !DirectEvidence
+  >
+    Masks can be used both as {*PPE protective equipment} (to protect the wearer from the environment) and as {*source_control} (to protect the environment from the wearer. Their efficacy in either role varies widely depending on the type of mask, the setting, compliance with protocols, and specific details of the targeted pathogen (particularly the duration of its {Virus.Viability viability} in droplets and aerosols of various sizes). Masks are frequently used in combination with other interventions such as {HandWashing increased hand washing} and {SocialDistancing social distancing}. These complexities present substantial challenges for researchers attempting to isolate the effect of masks in a diverse range of applications.
+
+    These challenges and uncertainties leave much room for interpretation and argument, not all of which is represented here. Here, we organize the evidence as it exists in its various forms, both for COVID-19 and other respiratory viruses.
+
+    <small>* Note that masks have also been proposed for their potential social benefits, which are not discussed in this subject.</small>
 
   - Expert Opinion
     !ExpertOpinionForHCW
     !ExpertOpinionForSymptomatic
     !ExpertOpinionForPublic
-    !COVID-19_Review
 
-  - Trial Evidence
+  - Trial and Observational Evidence
+    !DirectCommunityEvidence
+    !DirectHealthCareEvidence
+    !IndirectHealthCareEvidence
+    !COVID-19_Review
     !MaskReviewPre2020
     !Trials
-    !N95vSurgicalTrial
     !ClothTrial
+    !SourceControl
+    !ObservationalEvidence
 
   - Mechanical Evidence
     !Simulations
@@ -35,22 +39,27 @@ subject Masking
     !FitAndProtocol
     !Decontamination
     !Speech
+    # !N95vSurgicalTrial
 
-  question ?Observations = What observational studies have been done to evaluate the effect of community masking for respiratory viruses in general, and COVID-19 in particular?
-    responses
-      'Seto_et_al_2003
-
-  question ?EvidenceHCW = Is there any direct evidence of efficacy of masking health care workers for COVID-19?
-    responses
-      'Brooks_et_al_07_14_2020
-      'Brooks_et_al_07_14_2020.!a
-
-  claim !DirectEvidence = To date, there is no direct evidence from studies comparing the effectiveness of masks in reducing the risk of COVID-19 infection. This gap applies to health care and community settings alike, creating space for a range of interpretations of the available indirect evidence.
+  claim !DirectCommunityEvidence = To date, there is no direct evidence from studies as to the effectiveness of masks in reducing the risk of COVID-19 infection in community settings.
     -
       'Sommerstein_et_al_07_06_2020.!c
       'WHO_06_05_2020.!NoDirectStudies
       'WHO_06_05_2020.!LackOfCommunityEvidence
 
+  claim !DirectHealthCareEvidence = In health care settings, there is some observational evidence that masks have been effective in reducing COVID-19 transmission. This evidence does not come from a randomized trial, and while the authors support universal masking in health care settings they caution that the observed effect may be attributable to a variety of concurrent factors.
+    -
+      'Wang_et_al_07_14_2020
+      'Wang_et_al_07_14_2020.!Effect
+      'Wang_et_al_07_14_2020.!Caveat
+      'Wang_et_al_07_14_2020.!Support
+
+  claim !IndirectHealthCareEvidence = One case-control study investigated the protective efficacy of masks in hospitals during the 2003 SARS epidemic. They found that surgical and N95 masks were protective, but not paper masks.
+    -
+      'Seto_et_al_2003
+      'Seto_et_al_2003.!b
+      'Seto_et_al_2003.!c
+      'Seto_et_al_2003.!d
 
   claim !ExpertOpinionForHCW = The opinions expressed in relevant research have been consistently supportive of mask usage for the protection of health care workers, regardless of the availability of direct evidence for COVID-19.
     -
@@ -60,9 +69,11 @@ subject Masking
       'Lynch_et_al_06_27_2020.!d
       'MacIntyre_et_al_04_21_2020.!f
 
-  claim !ExpertOpinionForSymptomatic = The opinions expressed in relevant research have been consistently supportive of mask usage for symptomatic individuals, to reduce the risk of outgoing transmission.
+  claim !ExpertOpinionForSymptomatic = The opinions expressed in relevant research have been consistently supportive of mask usage for infected individuals, to reduce the risk of outgoing transmission.
     -
       'WHO_04_06_2020.!b
+      # Contradiction?
+      # 'MacIntyre_et_al_04_21_2020.!f
 
   dispute !ExpertOpinionForPublic = The effectiveness of masks for the protection of well individuals in community settings during COVID-19 is actively disputed among researchers. Some have emphasized the lack of available evidence and potential harms, while others argue that masks may offer protective benefits.
 
@@ -84,7 +95,7 @@ subject Masking
           'WHO_04_06_2020.!h
           'WHO_04_06_2020.!e
 
-      claim !Updated = Despite update their guidance to recommend widespread community mask usage during the COVID-19 pandemic, the WHO continued to emphasize the lack of evidence and the counter-indications, particularly for cloth masks.
+      claim !Updated = Despite updating their guidance to recommend widespread community mask usage during the COVID-19 pandemic, the WHO continued to emphasize the lack of evidence and the counter-indications, particularly for cloth masks.
         -
           'WHO_06_05_2020
           'WHO_06_05_2020.!LackOfCommunityEvidence
@@ -133,8 +144,6 @@ subject Masking
 
   claim !MaskReviewPre2020 = Prior to the COVID-19 pandemic, literature reviews on the effectiveness of masks in reducing the risk of respiratory infection produced mixed results, but generally suggest that mask use would be most effective in combination with other measures (particularly hand hygiene).
     -
-      'Cowling_et_al_10_06_2009.!c
-    -
       'Reza_et_al_2011
       'Reza_et_al_2011.!a
       'Reza_et_al_2011.!b
@@ -149,7 +158,10 @@ subject Masking
   claim !Trials = A number of randomized trials investigated the efficacy of masks for other coronaviruses and respiratory infections generally. Consistent with recent !literature_reviews, these yielded a range of outcomes. Some trials found no benefits, while others found modest improvements in outcomes. Isolating the contribution of masks to improved outcomes can be a challenge.
     -
       'Long_et_al_03_13_2020
+      'Long_et_al_03_13_2020.!d
+    -
       'RadonovichJr_et_al_09_03_2019
+      'RadonovichJr_et_al_09_03_2019.!a
     -
       'Suess_et_al_01_26_2012
       'Suess_et_al_01_26_2012.!a
@@ -172,8 +184,6 @@ subject Masking
       'MacIntyre_et_al_2009
       'MacIntyre_et_al_2009.!a
       'MacIntyre_et_al_2009.!b
-    -
-      'Cowling_et_al_10_06_2009.!c
 
   claim !N95vSurgicalTrial = Notably, evidence from multiple trials suggest that there is little difference in outcome when comparing N95 masks to surgical masks. This finding was in the context of influenza, however, and may not apply to COVID-19.
     -
@@ -183,7 +193,7 @@ subject Masking
       'RadonovichJr_et_al_09_03_2019
       'RadonovichJr_et_al_09_03_2019.!a
 
-  claim !ClothTrial = The only clinical trial assessing the efficacy of cloth masks compared to medical masks found that cloth masks increased the risk of infection relative to both medical mask arm and the control arm (as referenced in the WHO guidance). The study's authors replied with additional caveats at the outset of the COVID-19 epidemic.
+  claim !ClothTrial = The only clinical trial assessing the efficacy of cloth masks compared to medical masks found that cloth masks increased the risk of infection relative to both the medical mask arm and the control arm (as referenced in the WHO guidance). The study's authors replied with additional caveats at the outset of the COVID-19 epidemic.
     -
       'MacIntyre1_et_al_04_22_2015
       'MacIntyre1_et_al_04_22_2015.!a
@@ -284,28 +294,48 @@ subject Masking
       'Liao_et_al_05_05_2020.!b
       'Liao_et_al_05_05_2020.!c
 
-  claim !Speech = Some researchers have investigated the possibility that during masked speech, larger particles may disperse into smaller particles which may become aeresolized, and thus more readily transmissable. All such evidence is merely mechanistic as of now.
+  claim !Speech = Some researchers have investigated the possibility that during masked speech, larger particles may disperse into smaller particles which may become aeresolized, and thus more readily transmissable.
     -
       'Fischer_et_al_08_2020
       'Fischer_et_al_08_2020.!a
       'Fischer_et_al_08_2020.!b
       'Fischer_et_al_08_2020.!c
 
+  claim !SourceControl = Some researchers have argued that masks are likely effective as *source_control for COVID-19. At least one previous trial failed to find a statistically significant benefit of masking for source control in other respiratory infections.
+    -
+      'Howard_et_al_05_13_2020
+      'Howard_et_al_05_13_2020.!a
+      'Howard_et_al_05_13_2020.!b
+    -
+      'Leung_et_al_2020
+      'Leung_et_al_2020.!a
+    -
+      'MacIntyre_et_al_12_02_2016
+      'MacIntyre_et_al_12_02_2016.!a
+      'MacIntyre_et_al_12_02_2016.!b
+
+  claim !ObservationalEvidence = In one analysis investigating country level mortality relative to the prevalence of masks and other factors, the authors concluded that societal norms and government policies supporting the wearing of masks by the public are independently associated with lower per-capita mortality from COVID-19.
+    -
+      'Leffler_et_al_08_05_2020
+      'Leffler_et_al_08_05_2020.!c
+      'Leffler_et_al_08_05_2020.!d
+
+
   triage
     'Schiling_et_al_07_27_2020
     'Simha_et_al_08_25_2020
-    'Howard_et_al_05_13_2020
-    'Leffler_et_al_08_05_2020
-    'MacIntyre_et_al_12_02_2016
-    'Leung_et_al_2020
+    # 'Howard_et_al_05_13_2020
+    # 'Leffler_et_al_08_05_2020
+    # 'MacIntyre_et_al_12_02_2016
+    # 'Leung_et_al_2020
     # > Theoritical study (Source control + Disease severity)
     #   Masking limits the spread of viral load therefore may impact transmission risk and disease severity
-    # -
+    # More appropriate in universal masking?
     'Goyal_et_al_02_20_2020
     'Goyal_et_al_02_20_2020.!a
     'Goyal_et_al_02_20_2020.!b
     'Somsen_et_al_05_27_2020
-    'Somsen_et_al_05_27_2020.!a  
+    'Somsen_et_al_05_27_2020.!a
 
   # -- risks
   #   'Li_et_al_05_26_2005

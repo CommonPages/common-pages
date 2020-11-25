@@ -17,6 +17,9 @@ subject module Containment
         'Leffler_et_al_08_05_2020
         'Leffler_et_al_08_05_2020.!c
       -
+        'Brooks_et_al_07_14_2020
+        'Brooks_et_al_07_14_2020.!b
+      -
         'Stutt_et_al_06_10_2020
         'Stutt_et_al_06_10_2020.!b
         'Stutt_et_al_06_10_2020.!c
@@ -25,7 +28,8 @@ subject module Containment
         'Klompas_et_al_06_03_2020.!a
       -
         'Howard_et_al_05_13_2020
-        'Howard_et_al_05_13_2020.!a
+        'Howard_et_al_05_13_2020.!c
+        'Howard_et_al_05_13_2020.!d
       -
         'Sergi_et_al_05_13_2020
       -

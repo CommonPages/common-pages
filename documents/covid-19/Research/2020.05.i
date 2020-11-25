@@ -3662,7 +3662,7 @@ feed May2020
   // Face Masks Against COVID-19: An Evidence Review
   doi: https://doi.org/10.20944/preprints202004.0203.v2
   ref 'Howard_et_al_05_13_2020
-    head = Here,we develop an analytical framework to examine an overlooked aspect of mask usage: masks as source-control targeting egress from the wearer with benefits at the population-level, rather than as PPE used for ingress control for health-care workers with focus on individual outcomes. We consider and synthesize the relevant literature.
+    head = Here, we develop an analytical framework to examine an overlooked aspect of mask usage: masks as source-control targeting egress from the wearer with benefits at the population-level, rather than as PPE used for ingress control for health-care workers with focus on individual outcomes. We consider and synthesize the relevant literature.
 
     > Abstract
       The science around the use of masks by the general public to impede COVID-19 transmission is advancing rapidly. Policymakers need guidance on how masks should be used by the general population to combat the COVID-19 pandemic. Here,we develop an analytical framework to examine an overlooked aspect of mask usage: masks as source-control targeting egress from the wearer with benefits at the population-level, rather than as PPE used for ingress control for health-care workers with focus on individual outcomes. We consider and synthesize the relevant literature to inform multiple areas: 1) transmission characteristics of COVID-19, 2) filtering characteristics and efficacy of masks, 3) estimated population impacts of widespread community mask use, and 4) sociological considerations for policies concerning mask-wearing. A primary route of transmission of COVID-19 is likely via respiratory droplets, and is known to be transmissible from presymptomatic and asymptomatic individuals. Reducing disease spread requires two things: first, limit contacts of infected individuals via physical distancing and other measures, and second, reduce the transmission probability per contact. The preponderance of evidence indicates that mask wearing reduces the transmissibility per contact by reducing transmission of infected droplets in both laboratory and clinical contexts. Public mask wearing is most effective at reducing spread of the virus when compliance is high. The decreased transmissibility could substantially reduce the death toll and economic impact while the cost of the intervention is low. Given the current shortages of medical masks we recommend the adoption of public cloth mask wearing, as an effective form of source control for now, in conjunction with existing hygiene, distancing, and contact tracing strategies. We recommend that public officials and governments strongly encourage the use of widespread face masks in public, including the use of appropriate regulation.
@@ -3670,6 +3670,8 @@ feed May2020
     - quotes
       !a
       !b
+      !c
+      !d
 
     / Preprints.org — April 10, 2020
     quote !a = The preponderance of evidence indicates that mask wearing reduces the transmissibility per contact by reducing transmission of infected droplets in both laboratory and clinical contexts.

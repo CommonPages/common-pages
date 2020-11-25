@@ -830,7 +830,7 @@ feed WHO
   // Effectiveness of N95 respirators versus surgical masks against influenza: A systematic review and meta-analysis
   doi: https://doi.org/10.1111/jebm.12381
   ref 'Long_et_al_03_13_2020
-    head = We aimed to assess the effectiveness of N95 respirators versus surgical masks for prevention of influenza by collecting randomized controlled trials (RCTs). A total of six RCTs involving 9 171 participants were included. There were no statistically significant differences in preventing infections using N95 respirators and surgical masks.
+    head = We aimed to assess the effectiveness of N95 respirators versus surgical masks for prevention of influenza by collecting randomized controlled trials (RCTs). A total of six RCTs involving 9 171 participants were included.
 
     > Objective
       Previous meta‐analyses concluded that there was insufficient evidence to determine the effect of N95 respirators. We aimed to assess the effectiveness of N95 respirators versus surgical masks for prevention of influenza by collecting randomized controlled trials (RCTs).
@@ -953,8 +953,9 @@ feed WHO
   // Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial.
   doi: https://doi.org/10.1001/jama.2019.11645
   ref 'RadonovichJr_et_al_09_03_2019
-    head = Among 2862 randomized health care personnel in this trial, there was no significant difference in the incidence of laboratory-confirmed influenza among health care personnel with the use of N95 respirators (8.2%) vs medical masks (7.2%).
+    head = Objective: to compare the effect of N95 respirators vs medical masks for prevention of influenza and other viral respiratory infections among HCP. Interventions: 1993 participants in 189 clusters were randomly assigned to wear N95 respirators and 2058 in 191 clusters were randomly assigned to wear medical masks when near patients with respiratory illness.
 
+      # Among 2862 randomized health care personnel in this trial, there was no significant difference in the incidence of laboratory-confirmed influenza among health care personnel with the use of N95 respirators (8.2%) vs medical masks (7.2%).
 
     > Importance
       Clinical studies have been inconclusive about the effectiveness of N95 respirators and medical masks in preventing health care personnel (HCP) from acquiring workplace viral respiratory infections.
@@ -1202,7 +1203,7 @@ feed WHO
   // Cluster randomised controlled trial to examine medical mask use as source control for people with respiratory illness.
   doi: https://doi.org/10.1136/bmjopen-2016-012330
   ref 'MacIntyre_et_al_12_02_2016
-    head = Objective: Determine whether medical mask use by sick individuals with ILI protects well contacts from related respiratory infections.We did not find a significant benefit of medical masks as source control, but rates of CRI and ILI in household members were consistently lower in the mask arm compared with the control arm. The study was underpowered to detect a statistically significant difference.
+    head = Objective: Determine whether medical mask use by sick individuals with ILI protects well contacts from related respiratory infections. Design: cluster randomised controlled trial. Setting: 6 major hospitals in 2 districts of Beijing, China.
 
     > Rationale
       Medical masks are commonly used by sick individuals with influenza-like illness (ILI) to prevent spread of infections to others, but clinical efficacy data are absent.
@@ -1233,9 +1234,13 @@ feed WHO
 
     - quotes
       !a
+      !b
 
     / BMJ Open — December 2, 2016
     quote !a = The study indicates a potential benefit of medical masks for source control, but is limited by small sample size and low secondary attack rates. Larger trials are needed to confirm efficacy of medical masks as source control.
+
+    / BMJ Open — December 2, 2016
+    quote !b = We did not find a significant benefit of medical masks as source control, but rates of CRI and ILI in household members were consistently lower in the mask arm compared with the control arm. The study was underpowered to detect a statistically significant difference.
 
 
   # 56

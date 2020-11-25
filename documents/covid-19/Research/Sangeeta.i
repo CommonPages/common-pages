@@ -1701,11 +1701,35 @@ feed Sangeeta
   ref 'Brooks_et_al_07_14_2020
     head = In the largest health care system in Massachusetts with more than 75,000 employees, in tandem with routine symptom screening and diagnostic testing of symptomatic HCWs for SARS-CoV-2 infection, leadership mandated a policy of universal masking for all HCWs as well as for all patients.
 
+    -- quotes
+      !a
+      !b
 
     / July, 2020 - JAMA.
     quote !a = Prior to implementation of universal masking in late March 2020, new infections among HCWs with direct or indirect patient contact were increasing exponentially, from 0% to 21.3% (a mean increase of 1.16% per day). However, after the universal masking policy was in place, the proportion of symptomatic HCWs with positive test results steadily declined, from 14.7% to 11.5% (a mean decrease of 0.49% per day).
 
+    / July, 2020 - JAMA.
+    quote !b = At this critical juncture when COVID-19 is resurging, broad adoption of cloth face coverings is a civic duty, a small sacrifice reliant on a highly effective low-tech solution that can help turn the tide favorably in national and global efforts against COVID-19.
 
+
+  // Association Between Universal Masking in a Health Care System and SARS-CoV-2 Positivity Among Health Care Workers
+  doi: https://doi.org/10.1001/jama.2020.12897
+  ref 'Wang_et_al_07_14_2020
+    head = Mass General Brigham (MGB) is the largest health care system in Massachusetts, with 12 hospitals and more than 75,000 employees. In March 2020, MGB implemented a multipronged infection reduction strategy involving systematic testing of symptomatic HCWs and universal masking of all HCWs and patients with surgical masks. This study assessed the association of hospital masking policies with the SARS-CoV-2 infection rate among HCWs.
+
+    -- quotes
+      !Effect
+      !Caveat
+      !Support
+
+    / JAMA — July 14, 2020
+    quote !Effect = Universal masking at MGB was associated with a significantly lower rate of SARS-CoV-2 positivity among HCWs. This association may be related to a decrease in transmission between patients and HCWs and among HCWs.
+
+    / JAMA — July 14, 2020
+    quote !Caveat = The decrease in HCW infections could be confounded by other interventions inside and outside of the health care system, such as restrictions on elective procedures, social distancing measures, and increased masking in public spaces, which are limitations of this study.
+
+    / JAMA — July 14, 2020
+    quote !Support = Randomized trials of universal masking of HCWs during a pandemic are likely not feasible. Nonetheless, these results support universal masking as part of a multipronged infection reduction strategy in health care settings.
 
   # facemasks, risk, physical exercise
   // Effects of surgical and FFP2/N95 face masks on cardiopulmonary exercise capacity

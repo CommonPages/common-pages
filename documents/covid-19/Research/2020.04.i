@@ -203,7 +203,7 @@ feed April2020
   // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
   doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
   ref 'MacIntyre_et_al_04_21_2020
-    head = A systematic review of randomized controlled clinical trials on use of respiratory protection by healthcare workers, sick patients and community members was conducted. Community mask use by well people could be beneficial, particularly for Covid-19, where transmission may be pre-symptomatic. Trials in healthcare workers support the use of respirators continuously during a shift.
+    head = A systematic review of randomized controlled clinical trials on use of respiratory protection by healthcare workers, sick patients and community members was conducted. 
 
     > Background
       The pandemic of COVID-19 is growing, and a shortage of masks and respirators has been reported globally. Policies of health organizations for healthcare workers are inconsistent, with a change in policy in the US for universal face mask use. The aim of this study was to review the evidence around the efficacy of masks and respirators for healthcare workers, sick patients and the general public.
@@ -243,7 +243,7 @@ feed April2020
     / April, 2020 - International Journal of Nursing Studies
     quote !e = Targeted use of respirator protected against bacterial and droplet infections, but not against viral infections, suggesting viral infections may be more likely to be airborne in the hospital setting.
 
-    / Efficacy of respirators, medical and cloth masks
+    / April, 2020 - International Journal of Nursing Studies
     quote !f = Randomised controlled trials in health care workers showed that respirators, if worn continually during a shift, were effective but not if worn intermittently. Medical masks were not effective, and cloth masks even less effective. When used by sick patients randomised controlled trials suggested protection of well contacts.
 
     / April, 2020 - International Journal of Nursing Studies
@@ -3831,17 +3831,19 @@ feed April2020
     head = The current pandemic of COVID-19 has lead to conflicting opinions on whether wearing facemasks outside of health care facilities protects against the infection. To better understand the value of wearing facemasks we undertook a rapid systematic review of existing scientific evidence about development of respiratory illness, linked to use of facemasks in community settings.
 
     - quotes
-
-    quote !TrialEvidence = Based on the RCTs we would conclude that wearing facemasks can be very slightly protective against primary infection from casual community contact, and modestly protective against household infections when both infected and uninfected members wear facemasks. However, the RCTs often suffered from poor compliance and controls using facemasks.
-
-    - quotes
       !ObservationalEvidence
       !Estimations
       !Conclusion
       !TrialEvidence
 
+    / medRxiv — April 6, 2020
+    quote !TrialEvidence = Based on the RCTs we would conclude that wearing facemasks can be very slightly protective against primary infection from casual community contact, and modestly protective against household infections when both infected and uninfected members wear facemasks. However, the RCTs often suffered from poor compliance and controls using facemasks.
+
+    / medRxiv — April 6, 2020
     quote !ObservationalEvidence = Across observational studies the evidence in favour of wearing facemasks was stronger.
 
+    / medRxiv — April 6, 2020
     quote !Estimations = We expect RCTs to under-estimate the protective effect and observational studies to exaggerate it.
 
+    / medRxiv — April 6, 2020
     quote !Conclusion = The evidence is not sufficiently strong to support widespread use of facemasks as a protective measure against COVID-19. However, there is enough evidence to support the use of facemasks for short periods of time by particularly vulnerable individuals when in transient higher risk situations.
