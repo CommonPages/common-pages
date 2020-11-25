@@ -1013,7 +1013,7 @@ feed WHO
 
   # 47
   # facemasks, hospitals, public spaces
-  / Universal Masking in Hospitals in the Covid-19 Era
+  // Universal Masking in Hospitals in the Covid-19 Era
   doi: https://doi.org/10.1056/NEJMc2020836
   ref 'Klompas_et_al_06_03_2020
     head = This correspondence clarifies the author's statement in their Perspective article that “wearing a mask outside health care facilities offers little, if any, protection from infection," that some people are citing as support for discrediting widespread masking. We intended this statement to apply to passing encounters in public spaces, not sustained interactions within closed environments.
@@ -1021,6 +1021,7 @@ feed WHO
     - quotes
       !a
 
+    / New England Journal of Medicine — June 3, 2020
     quote !a = We therefore strongly support the calls of public health agencies for all people to wear masks when circumstances compel them to be within 6 ft of others for sustained periods.
 
 

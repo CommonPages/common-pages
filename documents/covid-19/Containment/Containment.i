@@ -5,24 +5,32 @@ subject module Containment
 
   / Universal Masking
   dispute UniversalMasking
-    head = Many researchers and public health advocates have called for policies and influence campaigns to encourage or require all members of the public to wear masks in community settings during the COVID-19 pandemic, citing a range of possible benefits. However little evidence exists as to the direct benefits of universal masking.
+    head = Many researchers and public health advocates have called for policies and influence campaigns to encourage or require all members of the public to wear masks in community settings during the COVID-19 pandemic, citing a range of possible benefits. However others have cited a lack of evidence as to the direct benefits of universal masking.
 
-    claim !Pro = Many researchers and public health advocates have advocated for universal masking during the COVID-19 pandemic, citing a range of possible benefits. They suggest the possibility of lower infection rates, the conservation of masks for frontline health care workers, and social and economic benefits.
+    < see also
+      Timeline.Response.WHOMaskingGuidelines
+
+    >
+      Note that this subject reflects arguments for universal masking as a norm or policy. Evidence as to the direct effectiveness of masking for either {*PPE protection} or {*source_control} is discussed seperately under {Prevention.Masking prevention}. 
+
+    -
+      !Advocates
+      !Models
+      !Con
+
+    -
+      ?Evidence
+      ?Against
+
+    claim !Advocates = Many researchers and public health advocates have argued for universal masking during the COVID-19 pandemic, citing a range of potential benefits. They suggest the possibility of lower infection rates, the conservation of masks for frontline health care workers, and social and economic benefits.
       -
         'Gandhi_et_al_09_08_2020
-      -
-        'Li_et_al_08_14_2020
-        'Li_et_al_08_14_2020.!a
       -
         'Leffler_et_al_08_05_2020
         'Leffler_et_al_08_05_2020.!c
       -
         'Brooks_et_al_07_14_2020
         'Brooks_et_al_07_14_2020.!b
-      -
-        'Stutt_et_al_06_10_2020
-        'Stutt_et_al_06_10_2020.!b
-        'Stutt_et_al_06_10_2020.!c
       -
         'Klompas_et_al_06_03_2020
         'Klompas_et_al_06_03_2020.!a
@@ -36,12 +44,6 @@ subject module Containment
         'Chowell_et_al_05_2020
         'Chowell_et_al_05_2020.!a
       -
-        'Eikenberry_et_al_04_21_2020
-        'Eikenberry_et_al_04_21_2020.!a
-        'Eikenberry_et_al_04_21_2020.!b
-        'Eikenberry_et_al_04_21_2020.!c
-        'Eikenberry_et_al_04_21_2020.!d
-      -
         'MacIntyre_et_al_04_21_2020
         'MacIntyre_et_al_04_21_2020.!c
         'MacIntyre_et_al_04_21_2020.!b
@@ -54,11 +56,32 @@ subject module Containment
         'Feng_et_al_03_20_2020.!a
         'Feng_et_al_03_20_2020.!c
 
-    claim !Con = Little evidence exists as to the direct effectiveness of universal masking in reducing transmission of SARS-CoV-2. The only clinical trial to test the effectiveness of masking in community settings did not detect a statistically significant benefit to mask wearers. This does not, however, suggest anything about the effectiveness of masks for source control.
+    claim !Models = A number of researchers have used epidemiological models to suggest that masks could play an important role in slowing transmission.
       -
-        'Bundgaard_et_al_11_18_2020
-        'Bundgaard_et_al_11_18_2020.!a
-        'Bundgaard_et_al_11_18_2020.!b
+        'Li_et_al_08_14_2020
+        'Li_et_al_08_14_2020.!a
+      -
+        'Stutt_et_al_06_10_2020
+        'Stutt_et_al_06_10_2020.!b
+        'Stutt_et_al_06_10_2020.!c
+      -
+        'Eikenberry_et_al_04_21_2020
+        'Eikenberry_et_al_04_21_2020.!a
+        'Eikenberry_et_al_04_21_2020.!b
+        'Eikenberry_et_al_04_21_2020.!c
+        'Eikenberry_et_al_04_21_2020.!d
+
+    claim !Con = Early in the COVID-19 pandemic, many organizations (including the WHO) advocated against community masking, citing a lack of evidence of value, potential risks to the wearer, and potential waste of a limited mask supply.
+      -
+        'WHO_04_06_2020.
+        'WHO_04_06_2020.!d
+        'WHO_04_06_2020.!e
+        'WHO_04_06_2020.!g
+        'WHO_04_06_2020.!h
+
+      < see
+        Timeline.Response.WHOMaskingGuidelines
+
 
     let !initial_recommendation mean Timeline.Response.WHOMaskingGuidelines.!InitialMaskingGuidelines
 

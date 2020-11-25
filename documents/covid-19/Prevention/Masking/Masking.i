@@ -22,10 +22,10 @@ subject Masking
   - Trial and Observational Evidence
     !DirectCommunityEvidence
     !DirectHealthCareEvidence
-    !IndirectHealthCareEvidence
     !COVID-19_Review
     !MaskReviewPre2020
     !Trials
+    !IndirectHealthCareEvidence
     !ClothTrial
     !SourceControl
     !ObservationalEvidence
@@ -41,11 +41,20 @@ subject Masking
     !Speech
     # !N95vSurgicalTrial
 
-  claim !DirectCommunityEvidence = To date, there is no direct evidence from studies as to the effectiveness of masks in reducing the risk of COVID-19 infection in community settings.
-    -
-      'Sommerstein_et_al_07_06_2020.!c
-      'WHO_06_05_2020.!NoDirectStudies
-      'WHO_06_05_2020.!LackOfCommunityEvidence
+  claim !DirectCommunityEvidence = There is little direct evidence as to the effectiveness of masks in reducing the risk of COVID-19 infection in community settings. One clinical trial conducted during the 2020 pandemic did not detect a statistically significant benefit to mask wearers, but the authors did not rule out benefits from source control.
+
+    claim !First = Early in the COVID-19 pandemic, a number of researchers and organizations addressing the applicability of masks highlighted the lack of direct evidence as to the effectiveness of masks in general, and for COVID-19 in particular.
+      -
+        'Sommerstein_et_al_07_06_2020.!c
+        'WHO_06_05_2020.!NoDirectStudies
+        'WHO_06_05_2020.!LackOfCommunityEvidence
+
+    claim !Later = The first direct study investigating the value of masks to healthy individuals in community settings was conducted in Denmark, and published in November, 2020. The authors did not find a significant benefit for mask wearers, but did not rule out the value of masks for source control. The study had important limitations.
+      -
+        'Bundgaard_et_al_11_18_2020
+        'Bundgaard_et_al_11_18_2020.!e
+        'Bundgaard_et_al_11_18_2020.!c
+        'Bundgaard_et_al_11_18_2020.!d
 
   claim !DirectHealthCareEvidence = In health care settings, there is some observational evidence that masks have been effective in reducing COVID-19 transmission. This evidence does not come from a randomized trial, and while the authors support universal masking in health care settings they caution that the observed effect may be attributable to a variety of concurrent factors.
     -

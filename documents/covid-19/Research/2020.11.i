@@ -41,8 +41,9 @@ feed November2020
 
   # Mask
   // Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers: A Randomized Controlled Trial
+  doi: https://doi.org/10.7326/M20-6817
   ref 'Bundgaard_et_al_11_18_2020
-    head = Objective: to assess whether recommending surgical mask use outside the home reduces wearers' risk for SARS-CoV-2 infection in a setting where masks were uncommon and not among recommended public health measures.
+    head = We report a randomized controlled trial that assessed whether a recommendation to wear a surgical mask when outside the home among others reduced wearers' risk for SARS-CoV-2 infection in a setting where public health measures were in effect but community mask wearing was uncommon and not recommended.
 
     > Background
       Observational evidence suggests that mask wearing mitigates transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It is uncertain if this observed association arises through protection of uninfected wearers (protective effect), via reduced transmission from infected mask wearers (source control), or both.
@@ -77,10 +78,22 @@ feed November2020
     - quotes
       !a
       !b
+      !c
 
+    / Annals of Internal Medicine — November 18, 2020
     quote !a = Observational evidence suggests that mask wearing mitigates transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It is uncertain if this observed association arises through protection of uninfected wearers (protective effect), via reduced transmission from infected mask wearers (source control), or both.
 
+    / Annals of Internal Medicine — November 18, 2020
     quote !b = Infection with SARS-CoV-2 occurred in 42 participants recommended masks (1.8%) and 53 control participants (2.1%). Although the difference observed was not statistically significant, the 95% CIs are compatible with a 46% reduction to a 23% increase in infection.
+
+    / Annals of Internal Medicine — November 18, 2020
+    quote !c = The findings, however, should not be used to conclude that a recommendation for everyone to wear masks in the community would not be effective in reducing SARS-CoV-2 infections, because the trial did not test the role of masks in source control of SARS-CoV-2 infection.
+
+    / Annals of Internal Medicine — November 18, 2020
+    quote !d = The most important limitation is that the findings are inconclusive, with CIs compatible with a 46% decrease to a 23% increase in infection.
+
+    / Annals of Internal Medicine — November 18, 2020
+    quote !e = Our results suggest that the recommendation to wear a surgical mask when outside the home among others did not reduce, at conventional levels of statistical significance, the incidence of SARS-CoV-2 infection in mask wearers in a setting where social distancing and other public health measures were in effect, mask recommendations were not among those measures, and community use of masks was uncommon.
 
   # Formite Transmission
   // Longitudinal monitoring of SARS-CoV-2 RNA on high-touch surfaces in a community setting
