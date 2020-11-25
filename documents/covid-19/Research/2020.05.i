@@ -115,6 +115,28 @@ feed May2020
 
   #
 
+
+  // Early viral clearance and antibody kinetics of COVID-19 among asymptomatic carriers
+  doi: https://doi.org/xyz
+  ref 'Zhang_et_al_05_02_2020
+    head = A total of 56 COVID-19 patients without symptoms at admission and 19 age-matched symptomatic patients were enrolled. RNA of SARS-CoV-2 and total antibodies was tested. Young COVID-19 patients seem to be asymptomatic cases with early clearance of SARS-CoV-2
+
+    > Background
+      Asymptomatic carriers contribute to the spread of Coronavirus Disease 2019 (COVID-19), but their clinical characteristics, viral kinetics, and antibody responses remain unclear.
+    > Methods
+      A total of 56 COVID-19 patients without symptoms at admission and 19 age-matched symptomatic patients were enrolled. RNA of SARS-CoV-2 was tested using transcriptase quantitative PCR, and the total antibodies (Ab), IgG, IgA and IgM against the SARS-CoV-2 were tested using Chemiluminescence Microparticle Immuno Assay.
+    >  Results
+      Among 56 patients without symptoms at admission, 33 cases displayed symptoms and 23 remained asymptomatic throughout the follow-up period. 43.8% of the asymptomatic carriers were children and none of the asymptomatic cases had recognizable changes in C-reactive protein or interleukin-6, except one 64-year-old patient. The initial threshold cycle value of nasopharyngeal SARS-CoV-2 in asymptomatic carriers was similar to that in pre-symptomatic and symptomatic patients, but the communicable period of asymptomatic carriers (9.63 days) was shorter than pre-symptomatic patients (13.6 days). There was no obvious differences of the seropositive conversion rate of total Ab, IgG, and IgA among the three groups, though the rates of IgM varied largely. The average peak IgG and IgM COI of asymptomatic cases was 3.5 and 0.8, respectively, which is also lower than those in symptomatic patients with peaked IgG and IgM COI of 4.5 and 2.4 (p <0.05).
+    > Conclusion
+      Young COVID-19 patients seem to be asymptomatic cases with early clearance of SARS-CoV-2 and low levels of IgM generation but high total Ab, IgG and IgA. Our findings provide empirical information for viral clearance and antibody kinetics of asymptomatic COVID-19 patients.
+
+    - quotes
+      !a
+
+    / May, 2020 - medRxiv
+    quote !a = It could be concluded that asymptomatic carriers show an earlier viral clearance.
+
+  #
   // Variation in False-Negative Rate of Reverse Transcriptase Polymerase Chain Reaction–Based SARS-CoV-2 Tests by Time Since Exposure
   doi: https://dx.doi.org/10.7326%2FM20-1495
   ref 'Kucirka_et_al_05_13_2020

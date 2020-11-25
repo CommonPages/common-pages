@@ -199,9 +199,10 @@ subject module Virus
        'Kampen_et_al_06_09_2020
        'Perera_et_al_08_04_2020
 
-    claim !SevereShedding = One study observed that severe or critical COVID-19 patients may shed infectious virus for longer periods of time.
+    claim !SevereShedding = Studies observed that severe or critical COVID-19 patients may shed infectious virus for longer periods of time. Although No live virus was isolated from any respiratory samples taken after day 8 of symptoms.
       -
         'Kampen_et_al_06_09_2020
+        'Cevik_et_al_11_19_2020
 
     claim !Others = Some studies have found SARS-CoV-2 in feces and semen, though the research on its infectiousness is still ongoing.
       -
@@ -296,26 +297,34 @@ subject module Virus
 
       question ?EvidenceOfViability = What studies have suggested that SARS-CoV-2 is viable in aerosols?
         >
-          SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours. Viable aersol particles have also detected at distances greater than 6 feet from their source.
-        -
+          SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours. Viable aersol particles have also detected at distances greater than 6 feet from their source. SARS-CoV-2 RNA has been recovered from air samples in hospitals. Poor ventilation prolongs the amount of time that aerosols remain airborne.
+        -  Duration
           'van_Doremalen_et_al_2020
           'van_Doremalen_et_al_2020.!a
           'Lu_et_al_2020
           'Allen_et_al_05_06_2020
-          'Johnson_et_al_06_21_2011
           'Doremalen_et_al_03_17_2020
+          'Fears_et_al_04_18_2020
+        -  Size
+          'Lu_et_al_2020
+          'Allen_et_al_05_06_2020
+          'Johnson_et_al_06_21_2011
+          'Anderson_et_al_05_01_2020.!a
+          'Chia_et_al_05_29_2020
+          'Smither_et_al_06_22_2020
+          'Smither_et_al_06_22_2020.!a
+        -  Distance
+          'Lu_et_al_2020
+          'Allen_et_al_05_06_2020
           'Guo_et_al_07_26_2020
           'Lednicky_et_al_05_22_2020
+          'Bahl_et_al_04_16_2020
+        -
           'Santarpia_et_al_07_29_2020
           'Liu_et_al_03_10_2020
           'Liu_et_al_2020bb
-          'Bahl_et_al_04_16_2020
-          'Anderson_et_al_05_01_2020.!a
           'Ding_et_al_08_15_2020
-          'Guo_et_al_07_26_2020
-          'Fears_et_al_04_18_2020
           'Ma_et_al_06_02_2020
-          'Chia_et_al_05_29_2020
 
       question ?EvidenceAgainstViability = What studies have suggested that SARS-CoV-2 is not viable in aerosols?
         -
@@ -343,9 +352,13 @@ subject module Virus
           'Luoma_et_al_07_07_2008
           'Chen_et_al_08_01_2020
 
-      claim !Temperature = Temperature and humidity can have an effect on survival of SARS-CoV-2 in the air.
+      claim !Temperature = Temperature and humidity can have an effect on survival of SARS-CoV-2 in the air. Low temperatures can greatly increase the survival of the virus, while high temperatures reduce it.
         -
           'Ahlawat_et_al_07_21_2020
+          'Smither_et_al_06_22_2020
+          'Schuit_et_al_06_11_2020
+          'Schuit_et_al_06_11_2020.!c
+
 
       claim !Ventilation = Aerosols can remain viable for longer duration in poorly ventilated environment.
         -
