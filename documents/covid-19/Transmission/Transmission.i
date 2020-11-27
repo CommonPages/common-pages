@@ -124,14 +124,14 @@ subject module Transmission
           'Arons_et_al_03_28_2020
           'He_et_al_2020.!a
 
-      / Frontiers
+      / Close contacts & Children
       subject Frontiers
         head =
         >
           Reports on several transmission events and clusters found transmission efficiency among close contacts for prolonged duration to be higher than among casual contacts.
         -
-         'Wang_et_al_05_28_2020.!f
-         'Chen_et_al_05_10_2020
+          'Wang_et_al_05_28_2020.!f
+          'Chen_et_al_05_10_2020
 
         >
           Several reports observed that the secondary attack rate of SARS-CoV-2 to spouses of index cases was  significantly higher than that to other family members.
@@ -141,7 +141,7 @@ subject module Transmission
         >
           Household secondary attack rate (SARs) were significantly higher from symptomatic index cases than asymptomatic index cases.
         -
-        'Zachary_et_al_08_01_2020.!b
+          'Zachary_et_al_08_01_2020.!b
 
         >
           Secondary attack rate (SARs) were significantly higher to adult contacts than children contacts.
@@ -201,6 +201,7 @@ subject module Transmission
           Aerosol-based transmission has been documented in clusters of infections. It has also been doumented among animal studies.
         - Airborne Tranmission in animal when they were kept separate
           'Richard_et_al_07_08_2020
+          'Kutter_et_al_10_19_2020
         - These reports provides evidence of Aerosol transmission
           'Miller_et_al_06_18_2020
           'Li_et_al_04_22_2020
@@ -226,10 +227,9 @@ subject module Transmission
         -
           'Wong_et_al_02_10_2004
 
-        # REFER THIS - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293495/table/tbl1/
+        # REFER THIS (Interesting) - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293495/table/tbl1/
         -
           'Jayaweera_et_al_06_10_2020
-
 
       / Surface, Fomite or Environmental
       subject SurfaceTransmission
@@ -285,14 +285,58 @@ subject module Transmission
       subject AnimalTransmission
         head =
         >
-          There has been studies on susceptibility of SARS-CoV-2 among animals. Cats and ferrets have high susceptibility while dogs, pigs, chickens and ducks are less susceptibility to SARS-CoV-2 infection.
+          Pets could play an important role in SARS-CoV-2 disease transmission.
+        -
+          'Kiros_et_al_10_02_2020
+        >
+          There has been studies on susceptibility of SARS-CoV-2 among animals. Cats and ferrets have high susceptibility while dogs, pigs, chickens and ducks are less susceptible to SARS-CoV-2 infection.
         -
           'Sun_et_al_2020
           'Chen_et_al_2020b
         >
-          High Transmission has been observed in minks and SARS-CoV-2 has been circulating in several Mink Farms. Infection was introduced by a human. Mink to human transmission has also been documented.
+          One study found infection in dogs. It is unclear whether infected dogs can transmit the virus to other animals or back to humans.
         -
-          'Munnink_et_al_09_01_2020
+          'Sit_et_al_05_14_2020
+        >
+          Pigs are unlikely to be significant carriers of SARS-CoV-2.
+        -
+          'Meekins_et_al_08_16_2020
+        >
+          Efficient transmission between ferrets has been shown in experimental infections, with spread to naive animals through direct contact but also through indirect airborne spread
+        -
+          'Kim_et_al_04_06_2020
+          'Richard_et_al_07_08_2020
+          'Kutter_et_al_10_19_2020
+
+        -
+          Minks
+
+        / Minks
+        subject Minks
+          head = High Transmission has been observed in minks and SARS-CoV-2 has been circulating in several Mink Farms. Infection was introduced by a human. Mink to human transmission has also been documented.
+
+          >
+            Minks are the first animal species for which SARS-CoV-2 outbreaks have been reported. Sequence analysis of mink-derived viruses pointed at humans as the probable source of the initial infection and demonstrated transmission between minks.
+          -
+            'Oreshkova_et_al_06_04_2020
+            'Munnink_et_al_09_01_2020
+
+          >
+            Recent studies on outbreaks in Denmark provide evidence of animal to human transmission of SARS-CoV-2 within mink farms.
+          -
+            'Munnink_et_al_11_10_2020
+            'Munnink_et_al_09_01_2020
+            'Kiros_et_al_10_02_2020
+            'WHO_et_al_11_06_2020
+
+
+          # Skip this temporarily
+          # >
+          #   Genomic analysis have revealed that the virus had accumulated mutations but did not reveal any systematic mutations.
+          # -
+          #   'Munnink_et_al_11_10_2020.!c
+          #   'WHO_et_al_11_06_2020.!b
+
 
     / Risk Factors
     subject TransmissionRisk
@@ -519,7 +563,7 @@ subject module Transmission
 
       / Cluster and case reports on various settings
       subject Settings
-        head =
+        head = There has been several outbreaks documented in churches, nursing homes, call centers, cruise-ships and restaurants. Several transmission route has been suggested but it remains inconclusive.
         - Household Transmission Reports
           'Wang_et_al_04_10_2020
           'Huang_et_al_02_28_2020
