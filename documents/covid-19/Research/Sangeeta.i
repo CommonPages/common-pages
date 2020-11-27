@@ -9,7 +9,7 @@ feed Sangeeta
       !a
 
     / February, 2020 - bioRxiv
-    quote !a
+    quote !a =
   #
   // DUMMY TITLE
   doi: https://doi.org/xyz
@@ -21,36 +21,7 @@ feed Sangeeta
 
     / February, 2020 - bioRxiv
     quote !a =
-
-
   #
-
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-  #
-
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-  #
-
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -75,7 +46,6 @@ feed Sangeeta
     quote !a =
 
   #
-
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -85,12 +55,318 @@ feed Sangeeta
       !a
 
     / February, 2020 - bioRxiv
+    quote !a =
+
+
+
+  # facemasks
+  // Inward and outward effectiveness of cloth masks, a surgical mask, and a face shield
+  doi: https://doi.org/10.1101/2020.11.18.20233353
+  ref 'Pan_et_al_11_20_2020
+    head = We evaluated the material filtration efficiency, inward protection efficiency, and outward protection efficiency of 10 masks and a face shield on a manikin, using NaCl aerosols over the size range of 0.04 µm to >100 µm. Based on our findings, we recommend a three-layer mask consisting of outer layers of a flexible, tightly woven fabric and an inner layer consisting of a material designed to filter out particles. This combination should produce an overall efficiency of >70% at the most penetrating particle size and >90% for particles 1 μm and larger if the mask fits well.
+
+    > Abstract
+      We evaluated the effectiveness of 11 face coverings for material filtration efficiency, inward protection efficiency on a manikin, and outward protection efficiency on a manikin. At the most penetrating particle size, the vacuum bag, microfiber cloth, and surgical mask had material filtration efficiencies >50%, while the other materials had much lower filtration efficiencies. However, these efficiencies increased rapidly with particle size, and many materials had efficiencies >50% at 2 μm and >75% at 5 μm. The vacuum bag performed best, with efficiencies of 54-96% for all three metrics, depending on particle size. The thin acrylic and face shield performed worst. Inward protection efficiency and outward protection efficiency were similar for many masks; the two efficiencies diverged for stiffer materials and those worn more loosely (e.g., bandana) or more tightly (e.g., wrapped around the head) compared to a standard earloop mask. Discrepancies between material filtration efficiency and inward/outward protection efficiency indicated that the fit of the mask was important. We calculated that the particle size most likely to deposit in the respiratory tract when wearing a mask is ∼2 μm. Based on these findings, we recommend a three-layer mask consisting of outer layers of a flexible, tightly woven fabric and an inner layer consisting of a material designed to filter out particles. This combination should produce an overall efficiency of >70% at the most penetrating particle size and >90% for particles 1 μm and larger if the mask fits well.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / November, 2020 - medRxiv
+    quote !a = Inward protection efficiency and outward protection efficiency were similar for many masks; the two efficiencies diverged for stiffer materials and those worn more loosely (e.g., bandana) or more tightly (e.g., wrapped around the head) compared to a standard earloop mask.
+
+    / November, 2020 - medRxiv
+    quote !b = The vacuum bag performed best on all three metrics; it was capable of filtering out 60–96% of particles, and achieved an outward protection efficiency of 50%–95%% and an inward protection efficiency of 75%–96%% for particles of aerodynamic diameter 0.5 μm and greater.
+
+    / November, 2020 - medRxiv
+    quote !c = The thin acrylic performed worst, with a material filtration efficiency of <25% for particles at 0.1 μm and larger, and inward and outward protection efficiencies of <50%.
+
+    / November, 2020 - medRxiv
+    quote !d = The MERV 12 filter, surgical mask, thin cotton, and CDC sewn mask also had decent material filtration efficiencies, outward protection efficiency (OPEs), and Inward protection efficiency (IPEs).
+
+    / November, 2020 - medRxiv
+    quote !e = We calculated that the particle size most likely to deposit in the respiratory tract when wearing a mask is ∼2 μm.
+
+    / November, 2020 - medRxiv
+    quote !f = Discrepancies between material filtration efficiency and inward/outward protection efficiency indicated that the fit of the mask was important.
+
+    # / November, 2020 - medRxiv
+    # quote !a = We propose that the stiffness of the material impacts the fit of the mask and can be responsible for large discrepancies between the material filtration efficiency and outward protection efficiency (OPEs) and inward protection efficiency (IPEs). Additionally, differences in mask use among individuals will lead to variability in fit and thus effectiveness.
+
+    / November, 2020 - medRxiv
+    quote !g = The fabrics (e.g., thin cotton and thin acrylic) and coffee filter were wetted easily by droplets, whereas the filter materials, including the vacuum bag and the MERV 12 filter, were hydrophobic and kept the droplets on the surface of the material.
+
+    / November, 2020 - medRxiv
+    quote !h = The CDC non-sewn mask had a higher OPE than its material filtration efficiency.
+
+    # / November, 2020 - medRxiv
+    # quote !a = The material filtration efficiency was generally positively correlated with either inward or outward protection effectiveness, but stiffer materials were an exception to this relationship as they did not fit as closely to the manikin.
+
+    / November, 2020 - medRxiv
+    quote !i = Factors including stiffness of the material, the way of wearing the mask (e.g., earloops vs. tied around the head), and material hydrophobicity affected the fit of the mask and thus its performance.
+
+
+
+  #
+  // Infection and rapid transmission of SARS-CoV-2 in Ferrets.
+  doi: https://doi.org/10.1016/j.chom.2020.03.023
+  ref 'Kim_et_al_04_06_2020
+    head = We report a ferret model of SARS-CoV-2 infection and transmission that recapitulates aspects of human disease. SARS-CoV-2-infected ferrets exhibit elevated body temperatures and virus replication. Although fatalities were not observed, SARS-CoV-2-infected ferrets shed virus in nasal washes, saliva, urine, and feces up to 8 days post-infection.
+
+    > Summary
+      The outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in China and rapidly spread worldwide. To prevent SARS-CoV-2 dissemination, understanding the in vivo characteristics of SARS-CoV-2 is a high priority. We report a ferret model of SARS-CoV-2 infection and transmission that recapitulates aspects of human disease. SARS-CoV-2-infected ferrets exhibit elevated body temperatures and virus replication. Although fatalities were not observed, SARS-CoV-2-infected ferrets shed virus in nasal washes, saliva, urine, and feces up to 8 days post-infection. At 2 days post-contact, SARS-CoV-2 was detected in all naive direct contact ferrets. Furthermore, a few naive indirect contact ferrets were positive for viral RNA, suggesting airborne transmission. Viral antigens were detected in nasal turbinate, trachea, lungs, and intestine with acute bronchiolitis present in infected lungs. Thus, ferrets represent an infection and transmission animal model of COVID-19 that may facilitate development of SARS-CoV-2 therapeutics and vaccines.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2020 - Cell Host & Microbe
+    quote !a = SARS-CoV-2 is effectively transmitted to naive ferrets by direct contact.
+
+    / April, 2020 - Cell Host & Microbe
+    quote !b = A few naive indirect contact ferrets were positive for viral RNA, suggesting airborne transmission.
+
+    / April, 2020 - Cell Host & Microbe
+    quote !c = SARS-CoV-2 infection leads acute bronchiolitis in infected ferrets.
+
+    / April, 2020 - Cell Host & Microbe
+    quote !d = Ferrets represent an infection and transmission animal model of COVID-19 that may facilitate development of SARS-CoV-2 therapeutics and vaccines.
+
+
+
+  #
+  // SARS-CoV and SARS-CoV-2 are transmitted through the air between ferrets over more than one meter distance
+  doi: https://doi.org/10.1101/2020.10.19.345363
+  ref 'Kutter_et_al_10_19_2020
+    head = Although the experiments did not discriminate between transmission via small aerosols, large droplets and fomites, our results demonstrate that SARS-CoV and SARS-CoV-2 can remain infectious when transmitted through the air over more than one meter distance. Efficient virus transmission between ferrets is in agreement with frequent SARS-CoV-2 outbreaks in mink farms.
+
+
+    > Abstract
+      SARS-CoV-2 emerged in late 2019 and caused a pandemic, whereas the closely related SARS-CoV was contained rapidly in 2003. Here, a newly developed experimental set-up was used to study transmission of SARS-CoV and SARS-CoV-2 through the air between ferrets over more than a meter distance. Both viruses caused a robust productive respiratory tract infection resulting in transmission of SARS-CoV-2 to two of four indirect recipient ferrets and SARS-CoV to all four. A control pandemic A/H1N1 influenza virus also transmitted efficiently. Serological assays confirmed all virus transmission events. Although the experiments did not discriminate between transmission via small aerosols, large droplets and fomites, these results demonstrate that SARS-CoV and SARS-CoV-2 can remain infectious while travelling through the air. Efficient virus transmission between ferrets is in agreement with frequent SARS-CoV-2 outbreaks in mink farms. Although the evidence for airborne virus transmission between humans under natural conditions is absent or weak for SARS-CoV and SARS-CoV-2, ferrets may represent a sensitive model to study interventions aimed at preventing virus transmission.
+
+    - quotes
+      !a
+
+    / October, 2020 - bioRxiv
+    quote !a = Although the evidence for airborne virus transmission between humans under natural conditions is absent or very weak for both SARS-CoV and SARS-CoV-2, ferrets may represent a sensitive model to study intervention strategies aimed at preventing virus transmission.
+
+
+
+  #
+  // Transmission of SARS-CoV-2 in domestic cats imposes a narrow bottleneck
+  doi: https://doi.org/10.1101/2020.11.16.384917
+  ref 'Braun_et_al_11_17_2020
+    head = We use six domestic cats to show how SARS-CoV-2 genetic variation is predominantly influenced by genetic drift and purifying selection within individual hosts. We speculate that narrow transmission bottlenecks and the lack of pervasive positive selection combine to constrain the pace of ongoing SARS-CoV-2 adaptive evolution in mammalian hosts.
+
+    > Abstract
+      The evolutionary mechanisms by which SARS-CoV-2 viruses adapt to mammalian hosts and, potentially, escape human immunity depend on the ways genetic variation is generated and selected within and between individual hosts. Using domestic cats as a model, we show that SARS-CoV-2 consensus sequences remain largely unchanged over time within hosts, but dynamic sub-consensus diversity reveals processes of genetic drift and weak purifying selection. Transmission bottlenecks in this system appear narrow, with new infections being founded by fewer than ten viruses. We identify a notable variant at amino acid position 655 in Spike (H655Y) which arises rapidly in index cats and becomes fixed following transmission in two of three pairs, suggesting this site may be under positive selection in feline hosts. We speculate that narrow transmission bottlenecks and the lack of pervasive positive selection combine to constrain the pace of ongoing SARS-CoV-2 adaptive evolution in mammalian hosts
+
+    - quotes
+      !a
+      !b
+
+    / November, 2020 - bioRxiv
+    quote !a = Transmission bottlenecks in this system appear narrow, with new infections being founded by fewer than ten viruses.
+
+    / November, 2020 - bioRxiv
+    quote !b = We identify a notable variant at amino acid position 655 in Spike (H655Y) which arises rapidly in index cats and becomes fixed following transmission in two of three pairs, suggesting this site may be under positive selection in feline hosts.
+
+
+
+  #
+  // Susceptibility of swine cells and domestic pigs to SARS-CoV-2
+  doi: https://dx.doi.org/10.1101%2F2020.08.15.252395
+  ref 'Meekins_et_al_08_16_2020
+    head = None of the SARS-CoV-2-inoculated pigs showed evidence of clinical signs, viral replication or SARS-CoV-2-specific antibody responses. Moreover, none of the sentinel pigs displayed markers of SARS-CoV-2 infection. Pigs are therefore unlikely to be significant carriers of SARS-CoV-2 and are not a suitable pre-clinical animal model to study SARS-CoV-2 pathogenesis or efficacy of respective vaccines or therapeutics.
+
+    > Abstract
+      The emergence of SARS-CoV-2 has resulted in an ongoing global pandemic with significant morbidity, mortality, and economic consequences. The susceptibility of different animal species to SARS-CoV-2 is of concern due to the potential for interspecies transmission, and the requirement for pre-clinical animal models to develop effective countermeasures. In the current study, we determined the ability of SARS-CoV-2 to (i) replicate in porcine cell lines, (ii) establish infection in domestic pigs via experimental oral/intranasal/intratracheal inoculation, and (iii) transmit to co-housed naive sentinel pigs. SARS-CoV-2 was able to replicate in two different porcine cell lines with cytopathic effects. Interestingly, none of the SARS-CoV-2-inoculated pigs showed evidence of clinical signs, viral replication or SARS-CoV-2-specific antibody responses. Moreover, none of the sentinel pigs displayed markers of SARS-CoV-2 infection. These data indicate that although different porcine cell lines are permissive to SARS-CoV-2, five-week old pigs are not susceptible to infection via oral/intranasal/intratracheal challenge. Pigs are therefore unlikely to be significant carriers of SARS-CoV-2 and are not a suitable pre-clinical animal model to study SARS-CoV-2 pathogenesis or efficacy of respective vaccines or therapeutics.
+
+    - quotes
+      !a
+
+    / August, 2020 - bioRxiv
+    quote !a = These data indicate that although different porcine cell lines are permissive to SARS-CoV-2, five-week old pigs are not susceptible to infection via oral/intranasal/intratracheal challenge.
+
+
+
+  #
+  // Recurrent mutations in SARS-CoV-2 genomes isolated from mink point to rapid host-adaptation
+  doi: https://doi.org/10.1101/2020.11.16.384743
+  ref 'Drop_et_al_11_16_2020
+    head = By analysing SARS-CoV-2 isolated from minks, we identified 23 recurrent mutations including three nonsynonymous mutations in the Receptor Binding Domain of the SARS-CoV-2 spike protein that independently emerged at least four times but are only rarely observed in human lineages. The repeat emergence of mutations across phylogenetically distinct lineages of the virus isolated from minks points to ongoing adaptation of SARS-CoV-2 to a new host.
+
+    > Abstract
+      Severe acute respiratory coronavirus 2 (SARS-CoV-2), the agent of the ongoing COVID-19 pandemic, jumped into humans from an unknown animal reservoir in late 2019. In line with other coronaviruses, SARS-CoV-2 has the potential to infect a broad range of hosts. SARS-CoV-2 genomes have now been isolated from cats, dogs, lions, tigers and minks. SARS-CoV-2 seems to transmit particularly well in mink farms with outbreaks reported in Spain, Sweden, the Netherlands, Italy, the USA and Denmark. Genomic data from SARS-CoV-2 isolated from infected minks provides a natural case study of a secondary host jump of the virus, in this case from humans to animals, and occasionally back again. We screened published SARS-CoV-2 genomes isolated from minks for the presence of recurrent mutations common in mink but infrequent in SARS-CoV-2 genomes isolated from human infections. We identify 23 recurrent mutations including three nonsynonymous mutations in the Receptor Binding Domain of the SARS-CoV-2 spike protein that independently emerged at least four times but are only rarely observed in human lineages. The repeat emergence of mutations across phylogenetically distinct lineages of the virus isolated from minks points to ongoing adaptation of SARS-CoV-2 to a new host. The rapid acquisition and spread of SARS-CoV-2 mutations in minks suggests that if a similar phenomenon of host adaptation had occurred upon its jump into humans, those human-specific mutations would likely have reached fixation already before the first SARS-CoV-2 genomes were generated.
+
+    - quotes
+      !a
+      !b
+
+    / November, 2020 - bioRxiv
+    quote !a = The low prevalence of mink-adapted candidate mutations in strains in circulation in humans to date (November 2020) suggests they are not expected to increase transmission of the virus in humans. However, mutations located within the RBD of the SARS-CoV-2 spike protein do warrant careful monitoring.
+
+    / November, 2020 - bioRxiv
+    quote !b = The rapid acquisition and spread of SARS-CoV-2 mutations in minks suggests that if a similar phenomenon of host adaptation had occurred upon its jump into humans, those human-specific mutations would likely have reached fixation already before the first SARS-CoV-2 genomes were generated.
+
+
+
+  #
+  // The S1/S2 boundary of SARS-CoV-2 spike protein modulates cell entry pathways and transmission
+  doi: https://doi.org/10.1101/2020.08.25.266775
+  ref 'Zhu_et_al_08_25_2020
+    head = We found that the virus with intact spike (Sfull) preferentially enters cells via fusion at the plasma membrane, whereas a clone (Sdel) with deletion disrupting the multi-basic S1/S2 site instead utilizes a less efficient endosomal entry pathway. Using a hamster model, animal-to-animal transmission with the Sdel virus was almost completely abrogated, unlike with Sfull. These findings highlight the critical role of the S1/S2 boundary of the SARS-CoV-2 spike protein in modulating virus entry and transmission.
+
+
+    > Summary
+      The global spread of SARS-CoV-2 is posing major public health challenges. One unique feature of SARS-CoV-2 spike protein is the insertion of multi-basic residues at the S1/S2 subunit cleavage site, the function of which remains uncertain. We found that the virus with intact spike (Sfull) preferentially enters cells via fusion at the plasma membrane, whereas a clone (Sdel) with deletion disrupting the multi-basic S1/S2 site instead utilizes a less efficient endosomal entry pathway. This idea was supported by the identification of a suite of endosomal entry factors specific to Sdel virus by a genome-wide CRISPR-Cas9 screen. A panel of host factors regulating the surface expression of ACE2 was identified for both viruses. Using a hamster model, animal-to-animal transmission with the Sdel virus was almost completely abrogated, unlike with Sfull. These findings highlight the critical role of the S1/S2 boundary of the SARS-CoV-2 spike protein in modulating virus entry and transmission.
+
+    / August, 2020 - bioRxiv
+    quote !a =
+
+
+
+  #
+  // The furin cleavage site of SARS-CoV-2 spike protein is a key determinant for transmission due to enhanced replication in airway cells.
+  doi: https://doi.org/10.1101/2020.09.30.318311
+  ref 'Peacock_et_al_09_30_2020
+    head = SARS-CoV-2 has a unique polybasic insertion at the S1/S2 CS, which we demonstrate can be cleaved by furin. SARS-CoV-2 virus lacking the S1/S2 furin CS was shed to lower titres from infected ferrets and was not transmitted to cohoused sentinel animals. Thus, the polybasic CS is a key determinant for efficient SARS-CoV-2 transmission.
+
+    > Summary
+      SARS-CoV-2 enters cells via its spike glycoprotein which must be cleaved sequentially at the S1/S2, then the S2’ cleavage sites (CS) to mediate membrane fusion. SARS-CoV-2 has a unique polybasic insertion at the S1/S2 CS, which we demonstrate can be cleaved by furin. Using lentiviral pseudotypes and a cell-culture adapted SARS-CoV-2 virus with a S1/S2 deletion, we show that the polybasic insertion is selected for in lung cells and primary human airway epithelial cultures but selected against in Vero E6, a cell line used for passaging SARS-CoV-2. We find this selective advantage depends on expression of the cell surface protease, TMPRSS2, that allows virus entry independent of endosomes thus avoiding antiviral IFITM proteins. SARS-CoV-2 virus lacking the S1/S2 furin CS was shed to lower titres from infected ferrets and was not transmitted to cohoused sentinel animals. Thus, the polybasic CS is a key determinant for efficient SARS-CoV-2 transmission.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / September, 2020 - bioRxiv
+    quote !a = Our study confirms TMPRSS2 as a potential drug target. Whilst inhibition of TMPRSS2 protease activity would not prevent infection via the endosome, using this pathway is detrimental to virus replication in airway cells.
+
+    / September, 2020 - bioRxiv
+    quote !b = We have shown in this study that the protease inhibitor, camostat, is highly efficient at blocking SARS-CoV-2 replication in human airway cells.
+
+    / September, 2020 - bioRxiv
+    quote !c = Our study also confirms the limitations of relying on Vero E6 cells as a system for developing classes of drugs such as entry inhibitors as they do not accurately reflect the preferred entry mechanism of SARS-CoV-2 into human airway cells (Hoffmann, Mosbauer, et al., 2020; T. Ou et al., 2020)
+
+    / September, 2020 - bioRxiv
+    quote !d = We note only 2 recorded genomes on GISAID out of 100,690 (as of 16/9/20) with furin CS deletions. Given the ease of loss of the furin CS in cell culture, the lack of these mutants in sequenced isolates is further evidence that the furin CS is essential for sustained transmission of SARS-CoV-2 in humans.
+
+    / September, 2020 - bioRxiv
+    quote !e = We did not find that SARS-CoV-2 induced significant clinical signs in ferrets, so were unable to assess the effect of the CS mutation on viral pathogenesis here. Nonetheless, we did observe transmission between ferrets suggesting clinical signs are not required for transmission.
+
+
+
+  #
+  // COVID-19 pandemic: current knowledge about the role of pets and other animals in disease transmission
+  doi: https://doi.org/10.1186/s12985-020-01416-9
+  ref 'Kiros_et_al_10_02_2020
+    head = We reviewed the latest updates about SARS-CoV-2 with special emphasis on the role of pets and other animals on disease transmission, which will have implications for prevention and control of the disease. Animals could play an important role in SARS-CoV-2 disease transmission. The recently confirmed COVID-19 cases in the Netherlands due to mink could suggest that animal to human viral spillover is possible.
+
+    > Abstract
+      On 11 March 2020, the World Health Organization (WHO) announced Corona Virus Disease (COVID-19), a disease caused by a pathogen called Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), a pandemic. This ongoing pandemic has now been reported in 215 countries with more than 23 million confirmed cases and more than 803 thousand deaths worldwide as of August 22, 2020. Although efforts are undergoing, there is no approved vaccine or any specific antiretroviral drug to treat COVID-19 so far. It is now known that SARS-CoV-2 can affect not only humans but also pets and other domestic and wild animals, making it a one health global problem. Several published scientific evidence has shown that bats are the initial reservoir hosts of SARS-CoV-2, and pangolins are suggested as an intermediate hosts. So far, little is known concerning the role of pets and other animals in the transmission of COVID-19. Therefore, updated knowledge about the potential role of pets in the current outbreak will be of paramount importance for effective prevention and control of the disease. This review summarized the current evidence about the role of pets and other animals in the transmission of COVID-19.
+
+    - quotes
+      !a
+
+    / October, 2020 - Virology Journal
+    quote !a = Tracing of SARS-CoV-2 infection of pets especially for those whose owners are positive and consecutive isolation would also be important for preventing the resurgence of COVID-19. Unwanted abandonment of companion animals should be avoided. Rather tracing of infected animals and surveillance should be there to prevent further transmission.
+
+
+
+  # mink
+  // SARS-CoV-2 mink-associated variant strain – Denmark
+  doi: https://www.who.int/csr/don/06-november-2020-mink-associated-sars-cov2-denmark/en/
+  ref 'WHO_et_al_11_06_2020
+    head = Since June 2020, 214 human cases of COVID-19 have been identified in Denmark with SARS-CoV-2 variants associated with farmed minks, including 12 cases with a unique variant, reported on 5 November. All 12 cases were identified in September 2020 in North Jutland, Denmark. The cases ranged in age from 7 to 79 years, and eight had a link to the mink farming industry and four cases were from the local community.
+
+    - quotes
+      !a
+      !b
+
+    / Novemeber, 2020 - World Health Organization
+    quote !a = Preliminary findings indicate that this particular mink-associated variant identified in both minks and the 12 human cases has moderately decreased sensitivity to neutralizing antibodies.
+
+    / Novemeber, 2020 - World Health Organization
+    quote !b = Initial observations suggest that the clinical presentation, severity and transmission among those infected are similar to that of other circulating SARS-CoV-2 viruses. However, this variant, referred to as the "cluster 5" variant, had a combination of mutations, or changes that have not been previously observed.
+
+
+
+  #
+  // SARS-CoV-2 infection in farmed minks, the Netherlands, April and May 2020.
+  doi: https://doi.org/10.2807/1560-7917.ES.2020.25.23.2001005
+  ref 'Oreshkova_et_al_06_04_2020
+    head = We report SARS-CoV-2 infection of minks on two farms in the Netherlands.  Sequence analysis of mink-derived viruses pointed at humans as the probable source of the initial infection and demonstrated transmission between minks. Furthermore, the presence of viral RNA in inhalable dust collected from the farms indicated a possible exposure of workers to virus excreted by minks.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2020 - Eurosurveillance
+    quote !a = While this manuscript was being prepared, similar SARS-CoV-2 outbreaks occurred on another nine farms in the Netherlands, eight in the province Noord Brabant and one in the province Limburg. On farms NB1 and NB2 described here, coronavirus disease (COVID-19)-like symptoms were present in people working on the farms before signs were seen in the minks, and SARS-CoV-2 infection was confirmed in one hospitalised person.
+
+    / June, 2020 - Eurosurveillance
+    quote !b = The viral sequences obtained from the mink samples were closely related to sequences of human-derived isolates. The distance between the two sequence clusters originating from the two farms suggests separate introductions.
+
+    / June, 2020 - Eurosurveillance
+    quote !c = Detection of viral RNA in the airborne inhalable dust on the mink farms clearly suggests dust and/or droplets as means of transmission between the minks and occupational risk of exposure for the workers on the farms.
+
+
+
+  #
+  // Transmission of SARS-CoV-2 on mink farms between humans and mink and back to humans
+  doi: https://doi.org/10.1126/science.abe5901
+  ref 'Munnink_et_al_11_10_2020
+    head = We describe an in-depth investigation using whole genome sequencing of outbreaks on 16 mink farms and the humans living or working on these farms. 68% of the tested mink farm residents, employees and/or contacts had evidence of SARS-CoV-2 infection. Where whole genomes were available, these persons were infected with strains with an animal sequence signature, providing evidence of animal to human transmission of SARS-CoV-2 within mink farms.
+
+    > Abstract
+      Animal experiments have shown that non-human primates, cats, ferrets, hamsters, rabbits and bats can be infected by SARS-CoV-2. In addition, SARS-CoV-2 RNA has been detected in felids, mink and dogs in the field. Here, we describe an in-depth investigation using whole genome sequencing of outbreaks on 16 mink farms and the humans living or working on these farms. We conclude that the virus was initially introduced from humans and has since evolved, most likely reflecting widespread circulation among mink in the beginning of the infection period several weeks prior to detection. Despite enhanced biosecurity, early warning surveillance and immediate culling of infected farms, transmission occurred between mink farms in three big transmission clusters with unknown modes of transmission. Sixty-eight percent (68%) of the tested mink farm residents, employees and/or contacts had evidence of SARS-CoV-2 infection. Where whole genomes were available, these persons were infected with strains with an animal sequence signature, providing evidence of animal to human transmission of SARS-CoV-2 within mink farms.
+
+    - quotes
+      !b
+      !c
+
+    # / November, 2020 - Science
+    # quote !a = The virus was initially introduced from humans and has since evolved, most likely reflecting widespread circulation among mink in the beginning of the infection period several weeks prior to detection. Despite enhanced biosecurity, early warning surveillance and immediate culling of infected farms, transmission occurred between mink farms in three big transmission clusters with unknown modes of transmission.
+
+    / November, 2020 - Science
+    quote !b = Phylogenetic analysis of the mink SARS-CoV-2 genomes showed that mink sequences of 16 farms grouped into 5 different clusters. Viruses from farms NB1, NB3, NB4, NB8, NB12, NB13 and NB16 belonged to cluster A, sequences from NB2 formed a distinct cluster (B), those from farms NB6, NB7, NB9 and NB14 formed cluster C, NB5, NB8, NB10 and NB15 formed cluster D, and NB11 had sequences designated as cluster E. On farm NB8, SARS-CoV-2 viruses were found from cluster A and cluster D.
+
+    / November, 2020 - Science
+    quote !c = Several non-synonymous mutations were identified among the mink sequences compared to the Wuhan reference sequence NC_045512.2. However, no particular amino acid substitutions were found in all mink samples. Of note, three of the clusters had the position 614G variant (clusters A, C and E), and two had the original variant.
+
+
+
+
+  # animal transmission 11/26
+  // Infection of dogs with SARS-CoV-2
+  doi: https://doi.org/10.1038/s41586-020-2334-5
+  ref 'Sit_et_al_05_14_2020
+    head = Viral genetic sequences of viruses from the two dogs were identical to the virus detected in the respective human cases. The dogs remained asymptomatic during quarantine. The evidence suggests that these are instances of human-to-animal transmission of SARS-CoV-2. It is unclear whether infected dogs can transmit the virus to other animals or back to humans.
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was first detected in Wuhan in December 2019 and caused coronavirus disease 2019 (COVID-19)1,2. In 2003, the closely related SARS-CoV had been detected in domestic cats and a dog3. However, little is known about the susceptibility of domestic pet mammals to SARS-CoV-2. Here, using PCR with reverse transcription, serology, sequencing the viral genome and virus isolation, we show that 2 out of 15 dogs from households with confirmed human cases of COVID-19 in Hong Kong were found to be infected with SARS-CoV-2. SARS-CoV-2 RNA was detected in five nasal swabs collected over a 13-day period from a 17-year-old neutered male Pomeranian. A 2.5-year-old male German shepherd was positive for SARS-CoV-2 RNA on two occasions and virus was isolated from nasal and oral swabs. Antibody responses were detected in both dogs using plaque-reduction-neutralization assays. Viral genetic sequences of viruses from the two dogs were identical to the virus detected in the respective human cases. The dogs remained asymptomatic during quarantine. The evidence suggests that these are instances of human-to-animal transmission of SARS-CoV-2. It is unclear whether infected dogs can transmit the virus to other animals or back to humans.
+
+
+    / May, 2020 - Nature
     quote !a =
 
 
   #
   // Jumping back and forth: anthropozoonotic and zoonotic transmission of SARS-CoV-2 on mink farms
-  doi: https://doi.org/xyz
+  doi: https://doi.org/10.1101/2020.09.01.277152
   ref 'Munnink_et_al_09_01_2020
     head = We describe an in-depth investigation of outbreaks on 16 mink farms and humans living or working on these farms, using whole genome sequencing. We conclude that the virus was initially introduced from humans and has evolved, most likely reflecting widespread circulation among mink in the beginning of the infection period several weeks prior to detection. At the moment, despite enhanced biosecurity, early warning surveillance and immediate culling of infected farms, there is ongoing transmission between mink farms with three big transmission clusters with unknown modes of transmission. We also describe the first animal to human transmissions of SARS-CoV-2 in mink farms.
 

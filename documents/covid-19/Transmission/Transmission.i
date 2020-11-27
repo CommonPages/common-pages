@@ -364,7 +364,7 @@ subject module Transmission
         'Asadi_et_al_2019
         'Shim_et_al_03_17_2020
       >
-        Subsequent research also shows evidence of 20/80 rule of transmission. Model studies have emphasized to include to transmission heterogeneity to accurately portray pathogen dynamics.
+        Subsequent research also shows evidence of 20/80 rule of transmission. Model studies have emphasized to include transmission heterogeneity to accurately portray pathogen dynamics.
       - Overdispersion & 80/20 Rule of COVID-19
         'Adam_et_al_2020
         'Adam_et_al_2020.!a

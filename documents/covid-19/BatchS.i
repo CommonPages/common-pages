@@ -249,9 +249,54 @@
 
   ############################################################################################
   # Everything below in this section is not updated claims.
-  ############################################################################################
+  ############################################################################################ 11/26
+
+  # VACCINES
+  # Pigs are therefore unlikely to be significant carriers of SARS-CoV-2 and are not a suitable pre-clinical animal model to study SARS-CoV-2 pathogenesis or efficacy of respective vaccines or therapeutics.
+  # -
+  #   # 'Meekins_et_al_08_16_2020
+      # 'Kim_et_al_04_06_2020
+      # 'Kim_et_al_04_06_2020.!d
+
+  # ferrets may represent a sensitive model to study intervention strategies aimed at preventing virus transmission.
+    # -
+    #  'Kutter_et_al_10_19_2020
+    #  'Kutter_et_al_10_19_2020.!a
 
 
+  #### FACEMASKS
+  # l-Atab et al. developed a reusable hydrophobic mask and proposed that the hydrophobicity of the mask material might contribute to repelling the droplet (El-Atab et al. 2020). However, the role of hydrophobicity in filtration efficiency, IPE, and OPE remains unclear. Future studies may focus on the influence of material properties on the fit of the mask, and how the transmission of real viruses, including SARS-CoV-2, is altered by wearing the masks.
+
+
+  # ### THERAPEUTIC quotes
+  # -
+  #   'Peacock_et_al_09_30_2020
+
+
+  # Two studies suggest that the furin cleavage peptide motifs at the S1/S2 CS enables WT SARS318 CoV-2 virus to utilise neuropilin as a cellular attachment/entry factor (Cantuti-Castelvetri et al., 2020; Daly et al., 2020). However, since 293T cells express neuropilin and lentiviral pseudotypes (PV) lacking the furin CS enter these cells more efficiently than PV containing it, this suggests that neuropilin is not responsible for the entry differences between furin cleavage mutants.
+  #
+  #
+  # It has been reported that TMPRSS2 is enriched in nasal and bronchial tissues(Qi et al., 2020; Sungnak et al., 2020a; Sungnak et al., 2020b), implying that the transmission of SARS-CoV-2 by respiratory droplets might be enhanced for virus bearing an intact versus a deleted S1/S2 boundary
+
+
+  #################
+
+  ### ANIMAL TRANSMISSION HEAD
+  # Available evidence suggests that the virus is predominantly transmitted between people through respiratory droplets and close contact, but there are also examples of transmission between humans and animals. Several animals that have been in contact with infected humans, such as minks, dogs, domestic cats, lions and tigers, have tested positive for SARS-CoV-2.
+
+#####
+
+
+  # Ongoing SARS-CoV-2 transmission in mink farms and spill-over events to humans.
+
+
+
+####
+  # >
+    # Transmission of SARS-CoV-2 in domestic cats imposes a narrow bottleneck- paper
+    # The relationship between SARS-CoV-2 viral genetic diversity and COVID-19 severity has been discussed, but remains unclearr 53,54
+    
+    # SARS-CoV-2 and the human-animal interface: outbreaks on mink farms
 
   #################### 11/21#############
 
@@ -378,32 +423,6 @@
   #
   # 11/23
   #
-  #
-  # ANIMALS - vaccine frontiers
-  # Severe acute respiratory syndrome coronavirus‐2 natural animal reservoirs and experimental models: systematic review
-  #
-  #
-  #
-  # https://virologydownunder.com/the-false-positive-pcr-problem-is-not-a-problem/
-  #
-  # SARS-CoV-2 mRNA vaccines foster potent antigen-specific germinal center responses associated with neutralizing antibody generation
-  #
-  # Antibody potency, effector function, and combinations in protection and therapy for SARS-CoV-2 infection in vivo
-  #
-  # TMPRSS2 and TMPRSS4 promote SARS-CoV-2 infection of human small intestinal enterocytes
-  # Case Study: Prolonged infectious SARS-CoV-2 shedding from an asymptomatic immunocompromised cancer patient.
-  #
-  # https://www.news4teachers.de/2020/11/groesster-ausbruch-an-schule-in-deutschland-ausgerechnet-in-hamburg-wo-der-bildungssenator-am-vortag-die-schulen-fuer-sicher-erklaert-hat/
-  #
-  # VACCINES
-  # Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine
-  # administered in a prime-boost regimen in young and old
-  # adults(COV002): a single-blind, randomised, controlled,
-  # phase 2/3 trial
-  #
-  # https://www.cell.com/COVID-19
-  #
-  # https://www.biocentury.com/article/632064
   #
   #
   #
