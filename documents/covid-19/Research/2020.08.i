@@ -6,7 +6,28 @@ feed August2020
 
   #
 
+  // Clinical, immunological and virological characterization of COVID-19 patients that test re-positive for SARS-CoV-2 by RT-PCR
+  doi: https://doi.org/10.1016/j.ebiom.2020.102960
+  ref 'Lu_et_al_08_24_2020
+    head = SARS-CoV-2 RNA was detected. Among 619 discharged COVID-19 cases, 87 re-tested as SARS-CoV-2 positive in circumstances of social isolation. Re-positive cases exhibited similar neutralization antibodies to other COVID-19 cases. No infectious strain could be obtained by culture and no full-length viral genomes could be sequenced from re-positive cases.
 
+    > Background
+      Some COVID-19 cases test positive again for SARS-CoV-2 RNA following negative test results and discharge, raising questions about the meaning of virus detection. Better characterization of re-positive cases is urgently needed.
+    >  Methods
+      Clinical data were obtained through Guangdong's COVID-19 surveillance network. Neutralization antibody titre was determined using microneutralization assays. Potential infectivity of clinical samples was evaluated by cell inoculation. SARS-CoV-2 RNA was detected using three different RT-PCR kits and multiplex PCR with nanopore sequencing.
+    > Findings
+      Among 619 discharged COVID-19 cases, 87 re-tested as SARS-CoV-2 positive in circumstances of social isolation. All re-positive cases had mild or moderate symptoms at initial diagnosis and were younger on average (median, 28). Re-positive cases (n = 59) exhibited similar neutralization antibodies (NAbs) titre distributions to other COVID-19 cases (n = 218) tested here. No infectious strain could be obtained by culture and no full-length viral genomes could be sequenced from re-positive cases.
+    >  Interpretation
+      Re-positive SARS-CoV-2 cases do not appear to be caused by active reinfection and were identified in ~14% of discharged cases. A robust NAb response and potential virus genome degradation were detected in almost all re-positive cases, suggesting a substantially lower transmission risk, especially through respiratory routes.
+
+    - quotes
+      !a
+
+    / August, 2020 - The Lancet
+    quote !a = Re-positive SARS-CoV-2 cases do not appear to be caused by active reinfection. A robust NAb response and potential virus genome degradation were detected in almost all re-positive cases, suggesting a substantially lower transmission risk, especially through respiratory routes.
+
+
+  # Antigen
   // Clinical Evaluation of Self-Collected Saliva by Quantitative Reverse Transcription-PCR (RT-qPCR), Direct RT-qPCR, Reverse Transcription-Loop-Mediated Isothermal Amplification, and a Rapid Antigen Test To Diagnose COVID-19
   doi: https://doi.org/10.1128/jcm.01438-20
   ref 'Nagura-Ikeda_et_al_08_24_2020

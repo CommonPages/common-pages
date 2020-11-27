@@ -1,11 +1,15 @@
 index: hide
 . Triage
 
-  # STRUCTURE
+  # STRUCTURE - Furin clevage mutation may effect transmission 
   # furin CS is essential for sustained transmission of SARS-CoV-2 in humans
   -
     'Peacock_et_al_09_30_2020
 
-  # A further single study also found a CS deletion mutant virus did not transmit between hamsters (Y. Zhu et al., 2020)
+  # A further single study also found a CS deletion mutant virus did not transmit between hamsters
   -
     'Zhu_et_al_08_25_2020
+
+  # claim !SevereShedding - has similar claim .. can be merged
+  -
+    'Lu_et_al_08_24_2020

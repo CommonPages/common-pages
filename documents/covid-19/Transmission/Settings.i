@@ -171,7 +171,6 @@ subject module Settings
         / Shopping Place
         subject ShoppingPlace
           head = There are reports on the spread of nCov-2 in shopping places like stores, malls, etc
-
           - Stores
             'Yang_et_al_03_08_2020
             'Tariq_et_al_02_20_2020

@@ -22,7 +22,7 @@ subject module Transmission
     subject Path
       head = Context / Background / things you need to know
 
-      # Viral dynamics - reported viral load kinetics, duration of viral shedding, or viable virus are important Determinants for disease Tranmission.
+      # Viral dynamics - reported viral load kinetics, duration of viral shedding, or viable virus are important Determinants for disease Tranmission., infectious dose required to iniate infection in an individual.
 
       # Infectiousness period of Asymtomatic is lower than symptomatic
       >
@@ -63,6 +63,7 @@ subject module Transmission
     / Nature
     subject Nature
       head =
+      # To what extent are Asymtomatic / Presymptomatic / Children / Close contact are responsible for SARS-CoV-2 transmission?
 
       / Asymtomatic Transmission
       subject AsymtomaticTransmission
@@ -123,6 +124,51 @@ subject module Transmission
           'Arons_et_al_03_28_2020
           'He_et_al_2020.!a
 
+      / Frontiers
+      subject Frontiers
+        head =
+        >
+          Reports on several transmission events and clusters found transmission efficiency among close contacts for prolonged duration to be higher than among casual contacts.
+        -
+         'Wang_et_al_05_28_2020.!f
+         'Chen_et_al_05_10_2020
+
+        >
+          Several reports observed that the secondary attack rate of SARS-CoV-2 to spouses of index cases was  significantly higher than that to other family members.
+        -
+          'Li_et_al_04_17_2020
+          'Burke_et_al_05_03_2020
+        >
+          Household secondary attack rate (SARs) were significantly higher from symptomatic index cases than asymptomatic index cases.
+        -
+        'Zachary_et_al_08_01_2020.!b
+
+        >
+          Secondary attack rate (SARs) were significantly higher to adult contacts than children contacts.
+        -
+          'Zachary_et_al_08_01_2020.!b
+          'Zhu_et_al_03_30_2020
+
+        # Children - Role of children in Transmission
+        >
+          Accumulating reports suggest that children (particularly school-aged children), are not significant drivers of SARS-CoV-2 transmission compared to adults.
+        -
+          'Klara_et_al_07_31_2020
+          'Klara_et_al_07_31_2020.!a
+          'Wu_et_al_07_01_2020.!a
+          'Lee_et_al_07_31_2020
+          'Danis_et_al_04_11_2020
+
+        >
+          There has been no evidence showing the virus was transmitted from children to others. Transmission of SARS-CoV-2 by children outside household settings seems uncommon, although information is limited.
+        -
+          'Danis_et_al_04_11_2020
+          'Lee_et_al_07_31_2020
+        >
+          Examination of all Irish paediatric cases of COVID-19 attending school identified no cases of onward transmission to other children or adults within the school and a variety of other settings.
+        -
+          'Heavey_et_al_05_28_2020
+
     / Routes
     subject Routes
       head =
@@ -153,7 +199,7 @@ subject module Transmission
 
         >
           Aerosol-based transmission has been documented in clusters of infections. It has also been doumented among animal studies.
-        - Aersol Tranmission in animal when they were kept separate
+        - Airborne Tranmission in animal when they were kept separate
           'Richard_et_al_07_08_2020
         - These reports provides evidence of Aerosol transmission
           'Miller_et_al_06_18_2020
@@ -164,6 +210,8 @@ subject module Transmission
           One study suggest short‐range airborne sub‐route may be most common mode of tranmission
         -
           'Zhang_et_al_04_07_2020
+
+        # While CDC and WHO thinks droplet is more common
 
         >
           Exposure time and settings have an impact on airborne transmission. Closed confined space and prolonged exposure increases the risk of airborne transmission.
@@ -215,6 +263,8 @@ subject module Transmission
           'Wang_et_al_05_28_2020.!f
           'Xiao_et_al_05_18_2020
           'Wang_et_al_03_11_2020
+
+        # Tho several studies found no viable virus in feces (Link fecal viability)
 
 
         >  FECAL AEROSOL
@@ -279,7 +329,6 @@ subject module Transmission
           'Yong_et_al_04_21_2020.!b
           'Xu_et_al_04_14_2020
 
-
       / Interaction in confined space and within close proximity
       subject ConfinedSpaces
         head =  Many case reports suggest that COVID-19 is largely transmitted, particularly when contact occurs over a prolonged period and in close congregation. Superspreading events has also been documented in confined spaces with large crowd.
@@ -307,7 +356,8 @@ subject module Transmission
 
       / Seasonality, Temperature, Humidity & Air Pollution
       subject Humidity&Temperature
-        head = Low temperatures can greatly increase the survival of the virus and thereby increase the risk of transmission. Effects of Seasonality, Temperature and Humidity
+        head = Low temperatures can greatly increase the survival of the virus and thereby increase the risk of transmission.
+        # Effects of Seasonality, Temperature and Humidity
 
         >
           Impact of effect of temperature and humidity is well documented for other pathogens.
@@ -341,44 +391,59 @@ subject module Transmission
           'Setti_et_al_04_17_2020
           'Setti_et_al_04_17_2020.!a
 
-    —
+
     / Superspreader
     subject Superspreader
-      head = Superspreaders are particular types of people and particular events/congregations which are highly probable to spread the infection very widely. There has been several documented superspreading events for Covid19
+      head =
+
+      # Superspreaders are particular types of people and particular events/congregations which are highly probable to spread the infection very widely. There has been several documented superspreading events for Covid19
 
       >
-        Previous studies on superspeading events.
+        Previous reports of superspeading events.
       -
         Contextsuperspreader
-
-      - Superspreading Reports
+      - Superspreading Reports for SARS-CoV-2
         'Hamner_et_al_2020
         'Guenther_et_al_07_23_2020
-      - Events in China
-        'Xu_et_al_03_30_2020
-      - Latest papers on Superspreaders
-        'Pung_et_al_03_28_2020
         'Ju-Kim_et_al_04_08_2020
-        'Nishiura_et_al_03_03_2020
+      -
         'Miller_et_al_06_18_2020
+        # this paper explains this superspeading event
         'Asadi_et_al_2019
-        'Shim_et_al_03_17_2020
+
+      ##### Background for 80/20 Rule, Heterogeneity , Overdispersion ####
+
+      # https://en.wikipedia.org/wiki/Superspreading_event - 80/20 rule
+      # A superspreading event (SSEV) is an event in which an infectious disease is spread much more than usual, while an unusually contagious organism infected with a disease is known as a superspreader.
+      # Some cases of superspreading conform to the 80/20 rule, where approximately 20% of infected individuals are responsible for 80% of transmissions, although superspreading can still be said to occur when superspreaders account for a higher or lower percentage of transmissions.
+      # Overdispersion - https://en.wikipedia.org/wiki/Overdispersion
+      # Overdispersion is the presence of greater variability (statistical dispersion) in a data set than would be expected based on a given statistical model.  Overdispersion is a very common feature in applied data analysis because in practice, populations are frequently heterogeneous (non-uniform) contrary to the assumptions implicit within widely used simple parametric models.
+
+      # The transmission of infectious agents within host populations is influenced by many different sources of heterogeneity ranging from genetic via behavioral factors to spatial factors. A consequence of such heterogeneity is the commonly observed aggregated (clumped) distributions of infection and/or disease within the host population such that a few hosts are rapidly, frequently, or heavily infected, while the majority either evade infection or suffer infrequent or light infections
+      # Theoretical studies suggest that heterogeneity in exposure to infection is a key factor for the optimal design of disease control programs
+      # The results suggest that heterogeneous contact is likely to be an important determinant of the epidemiology of vector-borne diseases and STDs.
+      -
+        'Lloyd-Smith_et_al_2005
+        'Woolhouse_et_al_1997
+
       >
-        Subsequent research also shows evidence of 20/80 rule of transmission. Model studies have emphasized to include transmission heterogeneity to accurately portray pathogen dynamics.
-      - Overdispersion & 80/20 Rule of COVID-19
+        Several research has shown evidence of 20/80 rule of transmission for Covid19.
+      # Model studies have emphasized to include to transmission heterogeneity to accurately portray pathogen dynamics.
+      # https://pubmed.ncbi.nlm.nih.gov/32685698/
+      - Overdispersion
         'Adam_et_al_2020
         'Adam_et_al_2020.!a
         'Miller_et_al_2020b
         'Endo_et_al_04_09_2020
+      >
+        While overdispersion was not observed in superspeading studies of Japan, Hong Kong and Singapore.
       - No overdispersion
         'Kwok_et_al_05_21_2020
 
+
       / Superspreaders in other infectious diseases
       subject Contextsuperspreader
-        head =
-        - Context
-          'Lloyd-Smith_et_al_2005
-          'Woolhouse_et_al_1997
+        head = Several superspeading events have been documented in other infectious diseases where one individual or an event was responsible for many tranmissions.
         - Superspreading in SARS
           'Lee_et_al_2003.!a
           'Shen_et_al_2004
@@ -477,48 +542,3 @@ subject module Transmission
           'Zhao_et_al_01_30_2020
         - Airlines is low risk
           'Schwartz_et_al_04_14_2020
-
-      / Frontiers
-      subject Frontiers
-        head =
-        >
-          Reports on several transmission events and clusters found transmission efficiency among close contacts for prolonged duration to be higher than among casual contacts.
-        -
-         'Wang_et_al_05_28_2020.!f
-         'Chen_et_al_05_10_2020
-
-        >
-          Several reports observed that the secondary attack rate of SARS-CoV-2 to spouses of index cases was  significantly higher than that to other family members.
-        -
-          'Li_et_al_04_17_2020
-          'Burke_et_al_05_03_2020
-        >
-          Household secondary attack rate (SARs) were significantly higher from symptomatic index cases than asymptomatic index cases.
-        -
-        'Zachary_et_al_08_01_2020.!b
-
-        >
-          Secondary attack rate (SARs) were significantly higher to adult contacts than children contacts.
-        -
-          'Zachary_et_al_08_01_2020.!b
-          'Zhu_et_al_03_30_2020
-
-        # Children
-        >
-          Accumulating reports suggest that children (particularly school-aged children), are not significant drivers of SARS-CoV-2 transmission compared to adults.
-        -
-          'Klara_et_al_07_31_2020
-          'Klara_et_al_07_31_2020.!a
-          'Wu_et_al_07_01_2020.!a
-          'Lee_et_al_07_31_2020
-          'Danis_et_al_04_11_2020
-
-        >
-          There has been no evidence showing the virus was transmitted from children to others. Transmission of SARS-CoV-2 by children outside household settings seems uncommon, although information is limited.
-        -
-          'Danis_et_al_04_11_2020
-          'Lee_et_al_07_31_2020
-        >
-          Examination of all Irish paediatric cases of COVID-19 attending school identified no cases of onward transmission to other children or adults within the school and a variety of other settings.
-        -
-          'Heavey_et_al_05_28_2020
