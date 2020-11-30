@@ -14,6 +14,7 @@ Within each section:
     GivenFamily:
       fullname: Given Family
       email: given.family@gmail.com
+      link: https://link.to/author
 
   10. Go back to reference (step 3)
   11. Add @@GivenFamily annotation above ref, like so

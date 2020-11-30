@@ -1701,6 +1701,7 @@ feed Sangeeta
 
 
   # Viral dynamics
+  @@MortenSommer
   // Spatial and temporal dynamics of SARS-CoV-2 in COVID-19 patients: A systematic review and meta-analysis
   doi: https://doi.org/10.1016/j.ebiom.2020.102916
   ref 'Weiss_et_al_07_22_2020

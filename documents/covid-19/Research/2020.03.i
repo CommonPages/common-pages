@@ -2473,6 +2473,7 @@ feed March2020
 
 
   # Shedding , AsymptomaticCarriers, secondary cases, presymptomatic stage
+  @@JessicaWong
   // Temporal dynamics in viral shedding and transmissibility of COVID-19
   doi: https://doi.org/10.1101/2020.03.15.20036707
   ref 'He_et_al_2020
