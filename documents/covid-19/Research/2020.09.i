@@ -99,6 +99,7 @@ feed September2020
     quote !a =
 
   # Viral Load , Shedding
+  @@AmyBenefield
   // SARS-CoV-2 viral load peaks prior to symptom onset: a systematic review and individual-pooled analysis of coronavirus viral load from 66 studies
   doi: https://doi.org/10.1101/2020.09.28.20202028
   ref 'Benefield_et_al_09_30_2020
