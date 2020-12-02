@@ -3843,6 +3843,7 @@ feed Sangeeta
 
 
   # airborne transmission, nonsomical, droplets,
+  @@MaheshJayaweera
   // Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy
   doi: https://doi.org/10.1016/j.envres.2020.109819
   ref 'Jayaweera_et_al_06_10_2020

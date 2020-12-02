@@ -430,6 +430,7 @@ feed May2020
     quote !a = Worn as designed both commercial surgical masks and cloth masks had widely varying effectiveness (53-75% and 28-90% filtration efficiency, respectively). Most surgical-style masks improved with the nylon overlayer, indicating poor fit.
 
   # Droplet Mechanism
+  @@PhilipAnfinrud
   // Visualizing Speech-Generated Oral Fluid Droplets with Laser Light Scattering
   doi: https://doi.org/10.1056/NEJMc2007800
   ref 'Anfinrud_et_al_04_15_2020

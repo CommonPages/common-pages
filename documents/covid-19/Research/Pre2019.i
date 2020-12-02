@@ -577,6 +577,7 @@ feed Pre2019
     quote !a = Speech produced additional particles in modes near 3.5 and 5 μm and these modes became more prominent during sustained vocalization, with average concentrations of 0.04 and 0.16 cm−3, respectively.
 
   # Droplet size
+  @@RaoPapineni
   // The Size Distribution of Droplets in the Exhaled Breath of Healthy Human Subjects
   doi: https://doi.org/10.1089/jam.1997.10.105
   ref 'Papineni_et_al_01_30_2009

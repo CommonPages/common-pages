@@ -83,6 +83,7 @@ feed DPResearch
   #  ------------
 
   ## Droplet, Fomite, Aerosol, speech, coughing, sneezing, asymptomatic  Transmission
+  @@AdriaanBax
   // Could SARS-CoV-2 be transmitted via speech droplets?
   doi: https://doi.org/10.1101/2020.04.02.20051177
   ref 'Anfinrud_04_06_2020
