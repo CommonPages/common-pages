@@ -558,6 +558,7 @@ feed Pre2019
     quote !a =
 
   # Aerosol Size
+  @@Morawska
   // Size distribution and sites of origin of droplets expelled from the human respiratory tract during expiratory activities
   doi: https://doi.org/10.1016/j.jaerosci.2008.11.002
   ref 'Morawska_et_al_11_18_2008
@@ -591,6 +592,7 @@ feed Pre2019
     quote !a =
 
   # Droplet
+  @@LydiaBourouiba
   // A Sneeze
   doi: https://doi.org/10.1056/NEJMicm1501197
   ref 'Bourouiba_et_al_08_25_2016
@@ -685,6 +687,7 @@ feed Pre2019
     quote !a =
 
   # Tranmission Modes
+  @@LydiaBourouiba
   // Violent expiratory events: on coughing and sneezing
   doi: https://doi.org/10.1017/jfm.2014.88
   ref 'Bourouiba_et_al_04_25_2004

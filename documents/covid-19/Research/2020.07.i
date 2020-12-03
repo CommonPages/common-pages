@@ -923,6 +923,7 @@ feed July2020
     quote !a = SARS-CoV-2 was efficiently transmitted via the air between ferrets, as demonstrated by long-term virus shedding and the presence of infectious virus in the indirect recipient animals, which is comparable to the transmissibility of pandemic influenza viruses in the ferret model.
 
   # Surface transmission
+  @@DavidHarbourt
   // Modeling the Stability of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) on Skin, Currency, and Clothing
   doi: https://doi.org/10.1101/2020.07.01.20144253
   ref 'Harbourt_et_al_07_03_2020

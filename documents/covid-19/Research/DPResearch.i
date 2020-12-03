@@ -44,6 +44,7 @@ feed DPResearch
   #  ------------
 
   ## Droplet, coughing, sneezing
+  @@LydiaBourouiba
   doi: https://doi.org/10.1007/s00348-015-2078-4
   // Visualization of sneeze ejecta: Steps of fluid fragmentation leading to respiratory droplets.
   ref 'Scharfman_et_al_01_20_2016

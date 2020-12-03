@@ -762,6 +762,7 @@ feed March2020
 
 
   # Aersol and Surface Viability
+  @@EmmieWit
   // Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
   doi: https://doi.org/10.1056/NEJMc2004973
   ref 'Doremalen_et_al_03_17_2020
@@ -3117,6 +3118,7 @@ feed March2020
 
 
   # viability
+  @@EmmieWit
   // Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1
   doi: https://doi.org/10.1056/NEJMc2004973
   ref 'van_Doremalen_et_al_2020

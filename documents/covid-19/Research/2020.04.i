@@ -203,7 +203,7 @@ feed April2020
   // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
   doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
   ref 'MacIntyre_et_al_04_21_2020
-    head = A systematic review of randomized controlled clinical trials on use of respiratory protection by healthcare workers, sick patients and community members was conducted. 
+    head = A systematic review of randomized controlled clinical trials on use of respiratory protection by healthcare workers, sick patients and community members was conducted.
 
     > Background
       The pandemic of COVID-19 is growing, and a shortage of masks and respirators has been reported globally. Policies of health organizations for healthcare workers are inconsistent, with a change in policy in the US for universal face mask use. The aim of this study was to review the evidence around the efficacy of masks and respirators for healthcare workers, sick patients and the general public.
@@ -285,6 +285,7 @@ feed April2020
 
 
   # 6 Feet rule - Aerosol
+  @@RainaMacIntyre
   // Airborne or Droplet Precautions for Health Workers Treating Coronavirus Disease 2019?
   doi: https://doi.org/10.1093/infdis/jiaa189
   ref 'Bahl_et_al_04_16_2020

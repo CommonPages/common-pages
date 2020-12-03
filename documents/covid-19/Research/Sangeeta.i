@@ -3309,6 +3309,7 @@ feed Sangeeta
 
 
   # Head is taken from somewhere else, written in own language, Droplets, mechanism, facemasks, 3-6ft dist
+  @@LydiaBourouiba
   // Turbulent Gas Clouds and Respiratory Pathogen Emissions: Potential Implications for Reducing Transmission of COVID-19.
   doi: https://doi.org/10.1001/jama.2020.4756
   ref 'Bourouiba_et_al_03_26_2020
