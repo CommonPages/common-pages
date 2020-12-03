@@ -1,7 +1,8 @@
 
-id: claimspace.org
-name: claimspace.org
+id: common.page
+name: common.page
 hosts:
+  - common.page
   - www.claimspace.org
   - claimspace.org
   - claimspace.test

@@ -1,6 +1,6 @@
 
 id: "$os-figures"
 name: "Figures"
-network: "claimspace.org"
+network: "common.page"
 authorize:
 use:

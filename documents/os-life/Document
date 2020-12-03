@@ -1,7 +1,7 @@
 
 id: "$os-life"
 name: "Life"
-network: "claimspace.org"
+network: "common.page"
 authorize:
 use:
   - "$os-figures"
