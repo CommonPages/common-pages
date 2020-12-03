@@ -41,4 +41,4 @@ document $COVID-19
 
 Elements in I-files can be shared across documents, in the same way that software packages can depend on each other.
 
-Anyone can {Contribute contribute}, but for now all proposed revisions pass through a small group of document shepherds who are dedicated to the long run vision and fluent with the project's principles. We are looking to grow our community so please reach out to covid-19@common.page to contact the document leads.
+Anyone can {Contribute contribute}, but for now all proposed revisions pass through a small group of document shepherds who are dedicated to the long run vision and fluent with the project's principles. We are looking to grow our community so please reach out to covid-19@claimspace.org to contact the document leads.
