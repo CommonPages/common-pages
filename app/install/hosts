@@ -1,7 +1,3 @@
 #!/bin/bash
 
 echo "127.0.0.1 common.test" >> /etc/hosts
-echo "127.0.0.1 theinsight.test" >> /etc/hosts
-echo "127.0.0.1 whatis.test" >> /etc/hosts
-echo "127.0.0.1 insight-apps.test" >> /etc/hosts
-echo "127.0.0.1 claimspace.test" >> /etc/hosts
