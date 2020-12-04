@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./app/versions/current/bin/insight-app \
+./app/versions/current/bin/common-app \
   -Dhttp.port=8080 \
   -Dapp.environment=author \
   -J-Xmx3072m \
