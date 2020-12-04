@@ -3,13 +3,13 @@
 mkdir ./app/versions
 
 echo "Downloading latest application..."
-curl http://dist.claimspace.cloud/app/insight-app.tar --output ./app/versions/insight-app.tar
+curl https://static.common.page/app/common-app.tar --output ./app/versions/common-app.tar
 
 echo "Removing old version..."
 rm -rf ./app/versions/current
 
 echo "Unzipping archive..."
-tar -xzvf ./app/versions/insight-app.tar -C ./app/versions/
+tar -xzvf ./app/versions/common-app.tar -C ./app/versions/
 
 echo "Installing current version..."
 mv ./app/versions/data/dist-release ./app/versions/current
