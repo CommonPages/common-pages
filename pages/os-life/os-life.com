@@ -1,6 +1,6 @@
 
 / Life
-document $os-life
+page $os-life
   -
     basis
 

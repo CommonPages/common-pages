@@ -1,4 +1,4 @@
 
-document $os-figures
+page $os-figures
   >
     Hello, world!
