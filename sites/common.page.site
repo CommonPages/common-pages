@@ -3,6 +3,7 @@ id: common.page
 name: common.page
 hosts:
   - common.page
+  - common.test
   - www.claimspace.org
   - claimspace.org
   - claimspace.test
