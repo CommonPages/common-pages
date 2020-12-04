@@ -3,17 +3,17 @@
 
 space Figures
 
-  url: http://static.theinsight.cloud/projects/covid-19/Process.png
+  url: http://static.common.page/projects/covid-19/Process.png
   width: 540
   height: 34
   image 'Process
 
-  url: http://static.theinsight.cloud/projects/covid-19/Corrections.png
+  url: http://static.common.page/projects/covid-19/Corrections.png
   width: 616
   height: 182
   image 'Corrections
 
-  url: http://static.theinsight.cloud/projects/covid-19/Questions.png
+  url: http://static.common.page/projects/covid-19/Questions.png
   width: 637
   height: 158
   image 'Questions
