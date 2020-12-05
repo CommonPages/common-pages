@@ -249,7 +249,411 @@
 
   ############################################################################################
   # Everything below in this section is not updated claims.
-  ############################################################################################ 11/26
+  #########################################################################################
+    #12/20
+
+   # >
+   #  The assays developed and validated in this study could be instrumental for patient contact tracing, serosurveillance studies, and vaccine evaluation studies.
+   #
+   # >
+   #  S1 is a specific antigen for SARS-CoV-2 diagnostics.
+   #  -
+   #    Okba_et_al_04_08_2020.!a
+   #  IgG seroconversion can be reliably confirmed in the second week after disease onset
+   #  -
+   #    Okba_et_al_04_08_2020.!b
+
+
+
+  # 11/30
+  #  Molecular platform
+  # Non-replicating viral vector
+  # RNA-based
+  # Inactivated virus
+  # Protein subunit
+  # DNA-based
+  # Replicating viral vector
+  # Virus-like particle
+  # Live attenuated virus
+
+
+   # Phase I trials test primarily for safety and preliminary dosing in a few dozen healthy subjects, while Phase II trials – following success in Phase I – evaluate immunogenicity, dose levels (efficacy based on biomarkers) and adverse effects of the candidate vaccine, typically in hundreds of people.[77][78] A Phase I–II trial consists of preliminary safety and immunogenicity testing, is typically randomized, placebo-controlled, while determining more precise, effective doses.[78] Phase III trials typically involve more participants at multiple sites, include a control group, and test effectiveness of the vaccine to prevent the disease (an "interventional" or "pivotal" trial), while monitoring for adverse effects at the optimal dose.[77][78] Definition of vaccine safety, efficacy, and clinical endpoints in a Phase III trial may vary between the trials of different companies, such as defining the degree of side effects, infection or amount of transmission, and whether the vaccine prevents moderate or severe COVID‑19 infection
+   # https://en.wikipedia.org/wiki/COVID-19_vaccine#cite_note-NCT04368728-85
+
+   # RNA VACCINE
+  # MODERNA
+
+    # Phase I (45 participants) : Dose-dependent neutralizing antibody response on two-dose schedule; undetermined durability. Adverse effects: fever, fatigue, headache, muscle ache, and pain at the injection site
+    # -
+    #   'Jackson_et_al_07_14_2020
+  # >
+  #   A phase 2 trial of mRNA-1273 in 600 healthy adults, evaluating doses of 50 μg and 100 μg, is ongoing
+  #   -
+  #     A Phase 2a, Randomized, Observer-Blind, Placebo Controlled, Dose-Confirmation Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of mRNA-1273 SARS-COV-2 Vaccine in Adults Aged 18 Years and Older
+  #     Brief Summary:
+  #     This clinical study will assess the safety, reactogenicity, and immunogenicity of 2 dose levels of mRNA-1273 SARS-COV-2 vaccine in adults 18 years of age or older.
+  #     https://clinicaltrials.gov/ct2/show/NCT04405076
+  #
+  # >
+  #   "mRNA-1273 Moderna, NIAID, BARDA" - PHASE 3
+  #   Phase III (30,000) Interventional; randomized, placebo-controlled study for efficacy, safety, and immunogenicity.Positive results from an interim analysis were announced on 15 November 2020.
+  #   -
+  #     A Phase 3, Randomized, Stratified, Observer-Blind, Placebo-Controlled Study to Evaluate the Efficacy, Safety, and Immunogenicity of mRNA-1273 SARS-CoV-2 Vaccine in Adults Aged 18 Years and Older
+  #     https://clinicaltrials.gov/ct2/show/NCT04470427
+  #     Brief Summary:
+  #     The mRNA-1273 vaccine is being developed to prevent COVID-19, the disease resulting from Severe Acute Respiratory Syndrome coronavirus (SARS-CoV-2) infection. The study is designed to primarily evaluate the efficacy, safety, and immunogenicity of mRNA-1273 to prevent COVID-19 for up to 2 years after the second dose of mRNA-1273.
+  #
+  #     "mRNA-1273 Moderna, NIAID, BARDA" - PHASE 3
+  #    Phase III (30,000) Interventional; randomized, placebo-controlled study for efficacy, safety, and immunogenicity.
+  #    An independent data and safety monitoring board (DSMB) overseeing the Phase 3 trial of the investigational COVID-19 vaccine known as mRNA-1273 reviewed trial data and shared its interim analysis with the trial oversight group on Nov. 15, 2020. This interim review of the data suggests that the vaccine is safe and effective at preventing symptomatic COVID-19 in adults. The interim analysis comprised 95 cases of symptomatic COVID-19 among volunteers. The DSMB reported that the candidate was safe and well-tolerated and noted a vaccine efficacy rate of 94.5%. The findings are statistically significant, meaning they are likely not due to chance. 90 of the cases occurred in the placebo group and 5 occurred in the vaccinated group. There were 11 cases of severe COVID-19 out of the 95 total, all of which occurred in the placebo group.
+  #
+  #    The mRNA-1273 vaccine candidate was co-developed by the Cambridge, Massachusetts-based biotechnology company Moderna, Inc., and the National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health. It combines Moderna’s mRNA (messenger RNA) delivery platform with the stabilized SARS-CoV-2 spike immunogen (S-2P) developed by NIAID scientists.
+  #    -
+  #     'Wrapp_et_al_2020
+  #
+  #     https://www.nih.gov/news-events/news-releases/promising-interim-results-clinical-trial-nih-moderna-covid-19-vaccine
+  #
+  #     Context
+  #     The Moderna vaccine is a new kind of vaccine based on the genetic material that makes up the coronavirus. Snippets of RNA (a chemical cousin of DNA) are enclosed in a nano-capsule and injected into someone's arm. The RNA contains instructions to make a protein found of the outer surface of the coronavirus. This protein is what stimulates the immune system to make antibodies against the virus. The idea is that if this harmless protein in the vaccine can generate those antibodies, then if the vaccinated individual is exposed to the virus, their immune system will be able to fight it off.
+  #     https://www.npr.org/sections/coronavirus-live-updates/2020/07/27/895672859/us-vaccine-candidate-heads-to-widespread-testing-in-people
+
+
+
+
+####### DNA VACCINES- non replicating viral vector #########
+
+  # VACCINE: Gam-COVID-Vac (Sputnik V), RUSSIA
+  # Gamaleya Research Institute of Epidemiology and Microbiology; trade name: Sputnik V
+  # TECH: Non-replicating viral vector, recombinant adenoviral vectors, DNA Vaccine,  Moscow
+  # COUNTRY: Moscow, RUSSIA
+
+  # model : Recombinant DNA (rDNA) molecules are DNA molecules formed by laboratory methods of genetic recombination to bring together genetic material from multiple sources, creating sequences that would not otherwise be found in the genome.
+
+  # Phase I–II (76): Neutralizing antibody and T cell responses. Adverse effects: pain at injection site, fever, headache, weakness, and muscle/joint pain
+  # -
+  #   'Logunov_et_al_09_04_2020
+
+  # Limitations : short duration of follow-up (42 days), inclusion of only male volunteers in some parts of phase 1, the low number of participants (n=76), and no placebo or control vaccine. Despite planning to recruit healthy volunteers aged 18–60 years, in general, our study included fairly young volunteers.
+
+  # "Phase III (40,000): Randomized double-blind, placebo-controlled to evaluate efficacy, immunogenicity, and safety[127]"
+  # -
+  #   Clinical Trial of Efficacy, Safety, and Immunogenicity of Gam-COVID-Vac Vaccine Against COVID-19 (RESIST)
+  #   Brief Summary:
+  #   Randomized, double-blind (blinded for the trial subject and the study physician), placebo controlled, multi-center clinical trial in parallel assignment of efficacy, immunogenicity, and safety of the Gam-COVID-Vac combined vector vaccine against the SARS-CoV-2-induced coronavirus infection in adults in the SARS-СoV-2 infection prophylactic treatment.
+
+  # >
+  #  Possible issues with using Adenovirus as vaccine vectors include: the human body develops immunity to the vector itself, making subsequent booster shots difficult or impossible. In some cases, people have pre-existing immunity to Adenoviruses, making vector delivery ineffective
+  #  -
+  #   'Logunov_et_al_09_04_2020.!d
+  #   'Bovendo_et_al_11_01_2014.!a
+  #   'Bovendo_et_al_11_01_2014.!b
+  #   'Bovendo_et_al_11_01_2014.!c
+  #   'Bovendo_et_al_11_01_2014.!d
+  #   'Bovendo_et_al_11_01_2014.!e
+  # >
+  #   The immune response generated by prime-boost regimens may be sufficient to induce full protection despite pre-existing Ad immunity./ alternating the immunization route has bypassed pre-existing Ad immunity
+  #   -
+  #     'Logunov_et_al_09_04_2020.!d
+  #     'Bovendo_et_al_11_01_2014.!f
+  #     'Bovendo_et_al_11_01_2014.!g
+  #
+  # >
+  #   ChAd-SARS-CoV-2-S, which was reported as a vaccine preventing mice mutants with human ACE2 (hACE2) receptors to be infected by SARS-CoV-2.[40][41]
+  #
+  #   Intranasal delivery of ChAd-SARS-CoV-2-S is a promising platform for preventing SARS-CoV-2 infection, disease, and upper airway transmission and thus warrants clinical evaluation in humans.
+  #  -
+  #   'Hassan_et_al_08_19_2020
+  #   'Bovendo_et_al_11_01_2014.!f
+  #
+  # # Context
+  #   Adenoviruses are the basis for many investigational vaccines for COVID-19 and other infectious diseases, such as Ebola virus and tuberculosis, and they have good safety and efficacy records, but not much research has been done with nasal delivery of these vaccines. All of the other adenovirus vaccines in development for COVID-19 are delivered by injection into the arm or thigh muscle. The nose is a novel route, so our results are surprising and promising. In another innovation beyond nasal delivery, the ChAd-SARS-CoV-2-S vaccine incorporates two mutations into the spike protein that stabilize it in a specific shape that is most conducive to forming antibodies against it.
+  #
+  #   The harmless adenovirus carries the spike protein into the nose, enabling the body to mount an immune defense against the SARS-CoV-2 virus without becoming sick.
+  #   http://www.sci-news.com/medicine/nasal-vaccine-sars-cov-2-08786.html
+
+
+   # 12/1 #### ####### DNA VACCINES- non replicating viral vector #########
+
+   # VACCINE: "Ad26.COV2.S Janssen Pharmaceutica (Johnson & Johnson), BIDMC"
+   # TECH:DNA VACCINES- non replicating viral vector
+   # COUNTRY: US, Argentina, Brazil, Chile, Colombia, Mexico, Peru, Philippines, South Africa and Ukraine
+  #  >
+  #   Phase I–II (1,045) Preprint. Seroconversion for S antibodies over 95%. Adverse effects: injection site pain, fatigue, headache and myalgia
+  #   -
+  #     'Sadoff_et_al_09_25_2020
+  #     A Study of Ad26.COV2.S in Adults (COVID-19)
+  #     Brief Summary:
+  #     The purpose of the study is to assess the safety, reactogenicity, and immunogenicity of Ad26.COV2.S at 2 dose levels, administered intramuscularly (IM) as a single-dose or 2-dose schedule, with a single booster vaccination administered in one cohort, in healthy adults aged greater than or equal to 18 to less than or equal to 55 years and in adults aged greater than or equal to 65 years in good health with or without stable underlying conditions.
+  #     https://clinicaltrials.gov/ct2/show/NCT04436276
+  #
+  # >
+  #   "Phase III (60,000) Randomized, double-blinded, placebo-controlled Temporarily paused on 13 October 2020, due to an unexplained illness in a participant. Johnson & Johnson announced, on 23 October, that they are preparing to resume the trial in the US."
+  #   -
+  #     A Study of Ad26.COV2.S for the Prevention of SARS-CoV-2-Mediated COVID-19 in Adult Participants (ENSEMBLE)
+  #     Brief Summary:
+  #     The study will enroll up to 60,000 participants in order to evaluate the efficacy of Ad26.COV2.S in the prevention of molecularly confirmed moderate to severe/critical COVID-19, as compared to placebo, in adult participants.
+  #     https://clinicaltrials.gov/ct2/show/NCT04505722
+
+
+
+  # >
+  #   Our data extend recent preclinical studies of inactivated virus vaccines and DNA vaccines for SARS-CoV-2 in non-human primates. Whereas inactivated virus vaccines and nucleic acid vaccines typically require two or more immunizations, some adenovirus vectors can induce robust and durable neutralizing antibody responses after a single immunization
+  #   -
+  # >
+  #   The potency of a single vaccination with our Ad26.COV2.S COVID-19 vaccine candidate is supported by our recently reported study in non-human primates where a single dose provided complete protection against SARS-CoV-2 replication in the lung and near complete protection against viral replication in the nose. In this prior preclinical study, all sham vaccinated control animals had detectable virus in both lung and nose for 7–14 days. In vaccinated non-human primates, protection against SARS-CoV-2 infection was correlated with neutralizing antibody titers.
+  #
+  #   Though correlates of protection from SARS-CoV-2 infection have not yet been determined, measurement of serum neutralizing activity has been shown to be a mechanistic correlate of protection for other respiratory viruses, such as influenza14 and respiratory syncytial virus,15 and is generally accepted as a functional biomarker of the in vivo humoral response.16 In rhesus macaques given DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike protein, post-vaccination neutralizing antibody titers were correlated with protection against SARS-CoV-2 challenge.17 Humoral and cell-mediated immune responses have been associated with vaccine-induced protection against challenge18 or subsequent rechallenge after SARS-CoV-2 infection in a rhesus macaque model.19
+  #
+  #    Tsang and colleagues [14] have recently reported similar results regarding the ability of MN and HAI titres to predict protection against infection in a large cohort of children and adults. They found that the age-adjusted HAI and MN titres corresponding to 50% protection against seasonal H3N2 influenza was 1:260 and 1:42, respectively.
+  #   -
+  #    'Jackson_et_al_07_14_2020
+  #    'Verschoor_et_al_09_22_2016.!a
+  #    'Verschoor_et_al_09_22_2016.!b
+  #    'Tsang_et_al_03_26_2014.!a
+  #    'Tsang_et_al_03_26_2014
+  #    'Yu_et_al_08_14_2020
+  #    'Kulkarni_et_al_02_20_2020
+  #    'Chandrashekar_et_al_05_20_2020
+  #     Severe acute respiratory syndrome coronavirus 2-specific antibody responses in coronavirus disease patients.
+  #     ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques.
+  #     https://www.nejm.org/doi/10.1056/NEJMoa2022483
+  #
+  #
+  #   Data suggest that serum titres of neutralizing antibodies may be a potential biomarker for vaccine protection. / protection against SARS-CoV-2 infection was correlated with neutralizing antibody titers.
+  #   -
+  #     'Mercado_et_al_07_2020
+  #     'Kulkarni_et_al_02_20_2020.!a
+  #
+  #    And is generally accepted as a functional biomarker of the in vivo humoral response.
+  #
+  #
+  #   Previous studies have established that antibody titer measured by the hemagglutination-inhibiting (HAI) assay is correlated with protection against influenza virus infection, with an HAI titer of 1:40 generally associated with 50% protection.
+  #
+  #  >
+  #   Johnson & Johnson has paused the large late-stage clinical trial of its coronavirus vaccine because of an “unexplained illness” in one of the volunteers.
+  #   Johnson & Johnson’s is not the first trial to be paused because of safety concerns. Two participants in AstraZeneca’s trial became seriously ill after getting its vaccine. That trial was halted twice — most recently last month — and has still not resumed in the United States, though locations abroad swiftly broke the pause.
+  #
+  #   Both Johnson & Johnson and AstraZeneca developed their vaccines using adenovirus vectors, modified viruses engineered to carry coronavirus genes into human cells. AstraZeneca’s vaccine used an adenovirus that causes common colds in chimpanzees. Johnson & Johnson’s used another adenovirus, called Ad26, which has also been used in its approved vaccine for Ebola.
+
+
+
+  # 12/2
+
+   # VACCINE: BBV152 (Covaxin) Bharat Biotech, Indian Council of Medical Research,
+   # TECH: Inactivated SARS-CoV-2
+   # Country: INDIA
+
+   # >
+   #  Pending Phase I–II report
+   # >
+   #  Phase III (25,800) Randomized, double-blinded, placebo-controlled
+   #  -
+   #    An Efficacy and Safety Clinical Trial of an Investigational COVID-19 Vaccine (BBV152) in Adult Volunteers
+   #    Brief Summary:
+   #    The BBV152 vaccine is being developed to prevent COVID-19, the disease resulting from Severe Acute Respiratory Syndrome coronavirus (SARS-CoV-2) infection. The study is designed to primarily evaluate the efficacy, safety, and immunogenicity of BBV152 to prevent COVID-19 for up to 1 year after the second dose of BBV152.
+
+
+
+   # VACCINE: NVX-CoV2373 Novavax
+   # TECH: SARS-CoV-2 recombinant spike protein nanoparticle with adjuvant
+   # Country: UK
+
+  #  >
+  #   Phase I–II (131) IgG and neutralizing antibody response with adjuvant after booster dose. Adverse effects: short-duration, low grade, local pain, headache, fatigue, myalgia.
+  #   -
+  #   'Keech_et_al_09_02_2020
+  #   Evaluation of the Safety and Immunogenicity of a SARS-CoV-2 rS Nanoparticle Vaccine With/Without Matrix-M Adjuvant
+  #   Brief Summary:
+  #   2019nCoV-101 is a 2-part, randomized, observer-blinded, placebo-controlled, Phase 1/2 trial. Part 1 (Phase 1) of the study is designed to evaluate the safety and immunogenicity of SARS-CoV-2 rS nanoparticle vaccine with or without Matrix-M adjuvant in 131 healthy participants ≥ 18 to 59 (inclusive) years of age at 2 sites in Australia. An interim analysis of Part 1 safety and immunogenicity will be performed prior to optional expansion to Part 2. Part 2 (Phase 2) of the study is designed to evaluate the immunogenicity, safety, and preliminary efficacy of a single construct of SARS-CoV-2 rS nanoparticle vaccine with Matrix-M adjuvant in up to 1,500 healthy participants ≥ 18 to 84 (inclusive) years of age at up to 40 sites across Australia and/or the United States.
+  #
+  # >
+  #   Phase III (15,000) Randomised, observer-blinded, placebo-controlled trial
+  #   -
+  #     A Study Looking at the Effectiveness, Immune Response, and Safety of a COVID-19 Vaccine in Adults in the United Kingdom
+  #     Brief Summary:
+  #     This is a study to evaluate the efficacy, immune response, and safety of a coronavirus disease 2019 (COVID-19) vaccine called SARS-CoV-2 rS with Matrix-M1 adjuvant in adults aged 18-84 years in the United Kingdom. A vaccine causes the body to have an immune response that may help prevent the infection or reduce the severity of symptoms. An adjuvant is something that can make a vaccine work better. This study will look at the protective effect, body's immune response, and safety of SARS-CoV-2 rS with Matrix-M1 adjuvant in the study population. Participants in the study will randomly be assigned to receive SARS-CoV-2 rS with Matrix-M1 adjuvant or placebo. Each participant in the study will receive a total of 2 intramuscular injections over the course of the study. Approximately 15,000 participants will take part in the study. The first 400 participants who meet additional criteria will receive a flu vaccine, in addition to the SARS-CoV-2 rS vaccine or placebo, as part of a sub-study.
+  #
+  #     An effort will be made to enroll a target of at least 25% of participants who are ≥ 65 years of age, as well as prioritizing other groups that are most affected by COVID-19, including racial and ethnic minorities.
+
+
+
+
+  # VACCINE: CoronaVac Sinovac
+  # TECH: Inactivated SARS-CoV-2
+  # Country: 2 in China; 22 in Brazil; Bandung, Indonesia
+  # >
+  # "Phase II (600) Immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days; Adverse effects: mild in severity, pain at injection site[126]"
+  # -
+      #'Zhang_et_al_11_17_2020
+  #   Safety and Immunogenicity Study of Inactivated Vaccine for Prevention of SARS-CoV-2 Infection(COVID-19)
+  #   Brief Summary:
+  #   This study is a randomized, double-blinded, and placebo controlled phase 1&2 clinical trial of the SARS-CoV-2 inactivated vaccine manufactured by Sinovac Research & Development Co., Ltd. The purpose of this study is to evaluate the safety and immunogenicity of the experimental vaccine in healthy adults aged≥60 years.
+  #
+  # >
+  #   Phase III (33,620) Double-blind, randomized, placebo-controlled to evaluate efficacy and safety in Brazil (15,000);[122] Chile (3,000);[123] Indonesia (1,620); Turkey (13,000)[124]
+  # Brazil paused Phase III trials on November 10 after the suicide of a volunteer in the trials before resuming them on November 11.[125]
+
+  # CoronaVac was well tolerated and induced humoral responses against SARS-CoV-2, which supported the approval of emergency use of CoronaVac in China, and three phase 3 clinical trials that are ongoing in Brazil (NCT04456595), Indonesia (NCT04508075), and Turkey (NCT04582344).
+  #   -
+      #
+      # Clinical Trial of Efficacy and Safety of Sinovac's Adsorbed COVID-19 (Inactivated) Vaccine in Healthcare Professionals (PROFISCOV)- brazil
+      # Brief Summary:
+      # This is a phase III clinical trial to assess efficacy and safety of the Adsorbed COVID-19 (inactivated) vaccine manufactured by Sinovac in health care professionals
+      #
+      # A PHASE III, OBSERVER-BLIND, RANDOMIZED, PLACEBO-CONTROLLED STUDY OF THE EFFICACY, SAFETY AND IMMUNOGENICITY OF SARS-COV-2 INACTIVATED VACCINE IN HEALTHY ADULTS AGED 18-59 YEARS IN INDONESIA
+      # To evaluate the efficacy of SARS-CoV-2 vaccine in preventing suspected cases. - To evaluate the safety of the SARS-CoV-2 vaccine. - To evaluate the immunogenicity of the SARS-CoV-2 vaccine - To evaluate lot-to-lot consistency using 3 batches of SARS-CoV-2 vaccine by assessment of serum immune response
+      #
+      # Clinical Trial For SARS-CoV-2 Vaccine (COVID-19)
+      # Brief Summary, health institute of turkey:
+      # This study is a randomized, double-blinded, and placebo controlled phase III clinical trial of the SARS-CoV-2 inactivated vaccine manufactured by Sinovac Research & Development Co., Ltd. The purpose of this study is to evaluate the efficacy, safety and immunogenicity of the experimental vaccine in healthy adults aged 18~59 Years.
+      #
+      # Efficacy, Safety and Immunogenicity Study of SARS-CoV-2 Inactivated Vaccine (COVID-19) INDONESIA
+      # Brief Summary:
+      # This phase III trial aims to assess the efficacy, safety and immunogenicity of SARS-CoV-2 Vaccine (inactivated) and lot-to-lot consistency evaluation
+
+
+      #
+      # That said, all of those vaccines in each of those cases are rather similar to each other, and we now have the unusual – very, very unusual – situation of several different vaccine platforms coming into potential use against the same virus at almost the same time. By the spring we may well have two mRNA vaccines (Pfizer/BioNTech and Moderna), two different adenovirus vaccines (Oxford/AZ and J&J), and a recombinant protein vaccine (Novavax). We don’t have efficacy data on the J&J and Novavax candidates yet (numbers are on the way), and we can argue about the data for Oxford/AZ, but it’s certainly possible that all of them will be out there simultaneously. Putting one of these on top of the other is a step into the unknown.
+      # https://blogs.sciencemag.org/pipeline/archives/2020/12/02/taking-two-different-vaccines
+
+
+      # 12/3
+
+      # VACCINE: BCG
+      # TECH: live attenuated Mycobacterium
+      # Country:
+
+      # The consistent association between BCG vaccination and reduced severity of COVID-19 observed in these and other epidemiological explorations is remarkable, but not sufficient to establish causality between BCG vaccination and protection from severe COVID-19.  Randomized clinical trials, such as those ongoing in Holland (47) and Australia (48), in which health workers are administered either the BCG vaccine or a placebo saline injection, will determine the extent to which BCG vaccination in adults confers protection from COVID-19.
+      # -
+      #   'Escober_et_al_07_28_2020
+      #   'Escober_et_al_07_28_2020.!a
+      #   'Escober_et_al_07_28_2020.!b
+      #   'Escober_et_al_07_28_2020.!c
+      #   'Escober_et_al_07_28_2020.!d
+
+
+      # The lack of apparent protection observed in the United Kingdom and France, where BCG vaccination was administered to older children, suggests that either trained immunity observed when infants are vaccinated is no longer achieved in older children or it may be of shorter duration. There may be a “critical window” early in life where BCG vaccination can result in lifelong enhanced immune surveillance. It is also possible that the BCG strains used, or the administration route, also affect the innate immune response to vaccination
+
+      # The COVID-19 pandemic is one of the most devastating in recent history. The bacillus Calmette−Guérin (BCG) vaccine against tuberculosis also confers broad protection against other infectious diseases, and it has been proposed that it could reduce the severity of COVID-19. This epidemiological study assessed the global linkage between BCG vaccination and COVID-19 mortality. Signals of BCG vaccination effect on COVID-19 mortality are influenced by social, economic, and demographic differences between countries. After mitigating multiple confounding factors, several significant associations between BCG vaccination and reduced COVID-19 deaths were observed. This study highlights the need for mechanistic studies behind the effect of BCG vaccination on COVID-19, and for clinical evaluation of the effectiveness of BCG vaccination to protect from severe COVID-19.
+
+
+      # VACCINE:
+      # TECH: live INACTIVATED
+      # Country:
+
+     #    >
+     #      # Gao et al. report preclinical results of an early vaccine candidate called PiCoVacc, which protected rhesus macaque monkeys against SARS-CoV-2 infection when analyzed in short-term studies.
+     #      # -
+     #      #'Gao_et_al_2020
+     #
+     #    >
+     #      phase 1 and phase 2 trials of an inactivated COVID-19 vaccine, patients had a low rate of adverse reactions and demonstrated immunogenicity;
+     #      -
+     #        'Xia_et_al_08_13_2020
+     #    >
+     #      In this phase 1/2 trial, the BBIBP-CorV inactivated vaccine, given as a two-dose immunisation, was safe and well tolerated at all three doses in both age groups. A robust humoral immune response was observed in 100% of vaccine recipients.
+     #      -
+     #       'Xia_et_al_10_15_2020
+     #       'Xia_et_al_10_15_2020.!a
+     #       'Xia_et_al_10_15_2020.!b
+     #
+     #       In preclinical studies, we showed that immunisation with BBIBP-CorV can induce high levels of neutralising antibody titres in mice, rats, guinea pigs, rabbits, and non-human primates (cynomolgus monkeys and rhesus macaques) to provide protection against SARS-CoV-2.
+     #       -
+     #        'Xia_et_al_10_15_2020.!c
+     #
+     # >
+     #  Safety and efficacy are essential for vaccine development at both preclinical studies and clinical trials.
+     #
+     #
+     # >
+     #  Although it is still too early to define the best animal model for studying SARS-CoV-2 infections, rhesus macaques, which mimic COVID-19–like symptoms after SARS-CoV-2 infection, appear to be promising candidates.
+     #
+
+     # 'Mercado_et_al_07_2020 - check this paper
+     # Provides data on trials of a single-shot vector based vaccine in animals. The data showed positive results for 5 out of 6 monkeys with minimal to no virus replication in the sample. The vaccine provided complete or near-complete protection against the SARS Cov-2 challege in the monkey. The clinical trials as ongoing when the study was reported.
+     #
+     # 'Gao_et_al_2020
+     # A purified inactivated SARS-CoV-2 virus vaccine candidate (PiCoVacc) confers complete protection in non-human primates against SARS-CoV-2 strains circulating worldwide by eliciting potent humoral responses devoid of immunopathology.
+     # vidence for the safety of PiCoVacc in macaques, and did not observe infection enhancement or immunopathological exacerbation in our studies. Our data also demonstrate complete protection against SARS-CoV-2 challenge with a 6-μg dose of PiCoVacc in macaques.
+
+     # 'Jackson_et_al_07_14_2020
+     # Though correlates of protection from SARS-CoV-2 infection have not yet been determined, measurement of serum neutralizing activity has been shown to be a mechanistic correlate of protection for other respiratory viruses, such as influenza14 and respiratory syncytial virus,15 and is generally accepted as a functional biomarker of the in vivo humoral response.
+
+     # 'Logunov_et_al_09_04_2020
+     # Possible issues with using Adenovirus as vaccine vectors include: the human body develops immunity to the vector itself, making subsequent booster shots difficult or impossible
+     #
+     # The main issue that can limit use of vectors based on recombinant adenoviruses is widespread pre-existing immunity in the human population. After vaccination with an adenoviral vector, immune responses form not only to the target antigen but also to the vector proteins (particularly in case of pre-existing immunity).
+
+
+############
+  #
+  #
+  #  we tested several published SARS-CoV RBD-specific monoclonal antibodies and found that they do not have appreciable binding to 2019-nCoV S, suggesting that antibody cross-reactivity may be limited between the two RBDs.
+  #
+  # We tested several published SARS-CoV RBD-specific monoclonal antibodies and found that despite the relatively high degree of structural homology between the 2019-nCoV RBD and the SARS-CoV RBD, no binding to the 2019-nCoV RBD could be detected for any of the three mAbs at the concentration tested (1 μM), in contrast to the strong binding that we observed to the SARS-CoV RBD. Although the epitopes of these three antibodies represent a relatively small percentage of the surface area of the 2019-nCoV RBD, the lack of observed binding suggests that SARS-directed mAbs will not necessarily be cross-reactive and that future antibody isolation and therapeutic design efforts will benefit from using 2019-nCoV S proteins as probes.
+  #
+  #
+  # #####
+  # Modified (recombinant) adenovirus vectors, including replication incompetent types, can deliver DNA coding for specific antigens. Recombinant adenovirus type-5 (Ad5) and adenovirus type-26 (Ad26) are being used as vectors in candidate COVID-19 vaccines.[37][38] The goal is to express the spike glycoprotein of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). A replication-deficient chimpanzee adenovirus vaccine vector (ChAdOx1) is being used in a trial of a COVID-19 vaccine.[39] The vaccine is known as ChAdOx1 nCoV-19 (Jenner Institute) or AZD1222 (AstraZeneca). Another one is ChAd-SARS-CoV-2-S, which was reported as a vaccine preventing mice mutants with human ACE2 (hACE2) receptors to be infected by SARS-CoV-2.[40][41]
+  #
+  # Possible issues with using Adenovirus as vaccine vectors include: the human body develops immunity to the vector itself, making subsequent booster shots difficult or impossible.[42] In some cases, people have pre-existing immunity to Adenoviruses, making vector delivery ineffective.[43]
+  #
+  #
+  # https://www.vaccines.gov/basics/types
+  #
+  #
+  # 4/12######################## SUPERSPREADING ################
+
+#   There are COVID-19 incidents in which a single person likely infected 80 percent or more of the people in the room in just a few hours
+#   -
+#     'Hamner_et_al_2020
+#
+#   Our finding of a highly-overdispersed offspring distribution highlights a potential benefit to focusing intervention efforts on superspreading. As most infected individuals do not contribute to the expansion of an epidemic, the effective reproduction number could be drastically reduced by preventing relatively rare superspreading events.
+#   'Endo_et_al_04_09_2020
+#
+#   Overdispersion and super-spreading of this virus are found in research across the globe.
+#   -
+#   'Lau_et_al_09_08_2020
+#   'Hassan_et_al_07_24_2020
+#   'Zhang_et_al_05_24_2020
+#
+#   >
+#    However, it should be noted that the large-scale spread of COVID-19 is likely to be heterogeneous because many extrinsic factors, such as weather and control measures, may affect the transmission of pathogen. The transmission heterogeneity revealed in the current study was in a local outbreak, which indicates that some intrinsic properties of the pathogen might have contributed to the heterogeneity. This finding is more meaningful for the development of targeted control measures.
+#   >
+#    The basic reproduction number, which has been widely used and misused to characterize the transmissibility of the virus, hides the fact that transmission is stochastic, is dominated by a small number of individuals, and is driven by super-spreading events (SSEs). The distinct transmission features, such as high stochasticity under low prevalence, and the central role played by SSEs on transmission dynamics, should not be overlooked. Many explosive SSEs have occurred in indoor settings stoking the pandemic and shaping its spread, such as long-term care facilities, prisons, meat-packing plants, fish factories, cruise ships, family gatherings, parties and night clubs.
+#
+#    Multiple lines of evidence at the individual- and population-level strongly indicate the role of SSEs in the transmission dynamics of SARS-CoV-2 and that we should not overlook the heterogeneity in numbers of secondary infections57. Our mental picture should not be that most people transmit to two or three other people, but instead a small number of infections dominate the transmission while most others fail to have secondary infections. The distribution of R0 is over-dispersed with a high probability of extinction on the lower end, and a long tail on the higher end
+#
+#    Our mental picture should not be that most people transmit to two or three other people, but instead a small number of infections dominate the transmission while most others fail to have secondary infections.
+#
+#    https://www.theatlantic.com/health/archive/2020/09/k-overlooked-variable-driving-pandemic/616548/
+#
+#    It has become increasingly clear that the COVID-19 epidemic is characterized by overdispersion whereby the majority of the transmission is driven by a minority of infected individuals.
+#
+#
+#    https://theconversation.com/is-the-k-number-the-new-r-number-what-you-need-to-know-140286
+#    Dispersion parameter, K
+#
+#    Dispersion parameter, K
+# Different pathogens will have different ways in which they spread and statisticians use K, the so-called dispersion parameter, to describe how variable the infection can be. For some diseases, the variation will not be large, as shown below.Simply put, a low K value suggests that a small number of infected people are responsible for large amounts of disease transmission. For the 1918 influenza, the number K is thought to be around 1, and perhaps 40% of infected people might not pass on the virus to anybody else. But for diseases like Sars, Mers and COVID-19 with K as low as 0.1, this proportion rises to 70%. In contrast, large outbreaks will be initiated by only few super-spreaders, as shown below.
+#
+# Why is K so important?
+# There are two reasons why scientists are looking into the role of variability in controlling coronavirus transmission. First, super-spreading events are critical in the late stages of the epidemic when the virus is almost eradicated. Small values of K mean that one infected person can trigger many new cases in a very short time. If this happens, the epidemic can quickly rebound, even if locally eradicated.
+#
+# Outbreaks in Seoul nightclubs in South Korea, meatpacking plants in the US, and coal mines in Poland show how damaging super-spreading events can be. So governments need to be diligent in identifying the risks associated with the reopening of industries and entertainment. A way to identify and track potential super-spreaders is fundamental to prevent future outbreaks.
+#
+# But there is also a glimmer of hope. If indeed K is as low as 0.1, 70% of infected individuals fail to pass on the virus.
+# -
+#    'Endo_et_al_04_09_2020
+#
+#
+# As a result, most cases arriving from outside the country or region might recover without starting a new outbreak. It might, therefore, be easier to eradicate the disease and to maintain the disease-free status than suggested by the average reproductive number, R.
+#
+# While R is not going to be replaced by K in the daily press briefing, both are needed to understand how COVID-19 spreads.
+
+ #########4/12######################## SUPERSPREADING ################
+
+  ### 11/26################################################
 
   # VACCINES
   # Pigs are therefore unlikely to be significant carriers of SARS-CoV-2 and are not a suitable pre-clinical animal model to study SARS-CoV-2 pathogenesis or efficacy of respective vaccines or therapeutics.
@@ -295,7 +699,7 @@
   # >
     # Transmission of SARS-CoV-2 in domestic cats imposes a narrow bottleneck- paper
     # The relationship between SARS-CoV-2 viral genetic diversity and COVID-19 severity has been discussed, but remains unclearr 53,54
-    
+
     # SARS-CoV-2 and the human-animal interface: outbreaks on mink farms
 
   #################### 11/21#############
