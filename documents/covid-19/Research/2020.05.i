@@ -2545,7 +2545,7 @@ feed May2020
   // SARS-CoV-2 infection protects against rechallenge in rhesus macaques
   doi: https://doi.org/10.1126/science.abc4776
   ref 'Chandrashekar_et_al_05_20_2020
-    head =  SARS-CoV-2 infection in rhesus macaques induced humoral and cellular immune responses and provided protective efficacy against SARS-CoV-2 rechallenge.  Data show that SARS-CoV-2 infection induced protective immunity against re-exposure in nonhuman primates.
+    head = SARS-CoV-2 infection in rhesus macaques induced humoral and cellular immune responses and provided protective efficacy against SARS-CoV-2 rechallenge. Data show that SARS-CoV-2 infection induced protective immunity against re-exposure in nonhuman primates.
 
     > Abstract
       An understanding of protective immunity to SARS-CoV-2 is critical for vaccine and public health strategies aimed at ending the global COVID-19 pandemic. A key unanswered question is whether infection with SARS-CoV-2 results in protective immunity against re-exposure. We developed a rhesus macaque model of SARS-CoV-2 infection and observed that macaques had high viral loads in the upper and lower respiratory tract, humoral and cellular immune responses, and pathologic evidence of viral pneumonia. Following initial viral clearance, animals were rechallenged with SARS-CoV-2 and showed 5 log10 reductions in median viral loads in bronchoalveolar lavage and nasal mucosa compared with primary infection. Anamnestic immune responses following rechallenge suggested that protection was mediated by immunologic control. These data show that SARS-CoV-2 infection induced protective immunity against re-exposure in nonhuman primates.
