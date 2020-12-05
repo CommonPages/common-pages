@@ -4117,57 +4117,20 @@ feed May2020
 
   # super spreading, transmission, public health, disease control, mitigation, non-pharmaceutical interventions, social distancing, hygiene, contact tracing
   // Clustering and superspreading potential of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections in Hong Kong
-  doi: https://doi.org/10.21203/rs.3.rs-29548/v1
+  doi: https://doi.org/10.1038/s41591-020-1092-0
   ref 'Adam_et_al_2020
-    head = Given a superspreading threshold of 6-8 secondary cases, we identified 5-7 probable superspreading events and evidence of substantial overdispersion in transmissibility, and estimated that 20% of cases were responsible for 80% of local transmission.
+    head = We identified 4–7 Superspreading events (SSEs) across 51 clusters and observed that 19% (15–24%) of cases were responsible for 80% of all SARS-CoV-2 transmission, while 69% (65–71%) of cases did not transmit to anyone. Public health authorities should focus on rapidly tracing and quarantining contacts, along with implementing restrictions targeting social settings to reduce the risk of SSEs.
 
     > Abstract
-      Superspreading events have characterised previous epidemics of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) infections. Using contact tracing data, we identified and characterized SARS-CoV-2 clusters in Hong Kong. Given a superspreading threshold of 6-8 secondary cases, we identified 5-7 probable superspreading events and evidence of substantial overdispersion in transmissibility, and estimated that 20% of cases were responsible for 80% of local transmission. Among terminal cluster cases, 27% (45/167) ended in quarantine. Social exposures produced a greater number of secondary cases compared to family or work exposures (p<0.001) while delays between symptom onset and isolation did not reliably predict the number of individual secondary cases or resulting cluster sizes. Public health authorities should focus on rapid tracing and quarantine of contacts, along with physical distancing to prevent superspreading events in high-risk social environments.
+      Superspreading events (SSEs) have characterized previous epidemics of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) infections1,2,3,4,5,6. For SARS-CoV-2, the degree to which SSEs are involved in transmission remains unclear, but there is growing evidence that SSEs might be a typical feature of COVID-197,8. Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection. We identified 4–7 SSEs across 51 clusters (n = 309 cases) and estimated that 19% (95% confidence interval, 15–24%) of cases seeded 80% of all local transmission. Transmission in social settings was associated with more secondary cases than households when controlling for age (P = 0.002). Decreasing the delay between symptom onset and case confirmation did not result in fewer secondary cases (P = 0.98), although the odds that an individual being quarantined as a contact interrupted transmission was 14.4 (95% CI, 1.9–107.2). Public health authorities should focus on rapidly tracing and quarantining contacts, along with implementing restrictions targeting social settings to reduce the risk of SSEs and suppress SARS-CoV-2 transmission.
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
 
-    / May, 2020 - Epidemiology
-    quote !a = Our results indicate 5-7 probable SSEs in Hong Kong, and substantial individual heterogeneity in the transmissibility of SARS-CoV-2 infection and therefore potential for future superspreading, albeit less than SARS-CoV and MERS-CoV.
 
-    / May, 2020 - Epidemiology
-    quote !b = We estimated that approximately 20% of cases were responsible for 80% of all SARS-CoV-2 transmission in Hong Kong. These results however should be interpreted in the context of constrained community transmission given moderate levels of physical distancing currently practiced in Hong Kong, including school closures, some adults working at home, cancellation of mass gatherings, as well as improved hygiene and universal mask wearing.
+    / September, 2020 - Epidemiology
+    quote !a = Transmission in social settings was associated with more secondary cases than households when controlling for age.
 
-    / May, 2020 - Epidemiology
-    quote !c = Superspreading is considered a function of both variations in individual transmissibility and individual susceptibility or exposure. Our results show that the number of individual secondary cases was significantly higher within social settings such as bars and restaurants compared to family or work exposures (p<0.001). This is certainly due to the greater numbers of contacts expected in such settings. Targeted interventions should therefore focus on reducing extreme numbers of social contacts at high-risk venues such as bars, nightclubs and restaurants, which also appear at increased risk of SSE, either via closures or physical distancing policies, both of which currently remain implemented in Hong Kong.
-
-    / May, 2020 - Epidemiology
-    quote !d = Previous modelling has suggested that reduced delays between symptom onset and isolation are important indicators for the control of SARS-CoV-2 outbreaks however this did not appear to play a major role in Hong Kong: in our analysis, delay from symptom onset to isolation were not associated with the number of individual secondary cases, nor the final cluster size.
-
-    / May, 2020 - Epidemiology
-    quote !e = Public health authorities should focus on rapid tracing and quarantine of contacts, along with physical distancing to prevent superspreading events in high-risk social environments.
-
-    / May, 2020 - Epidemiology
-    quote !f = Given a coefficient of variation of 2.5 from our study this roughly corresponds to an adjusted herd immunity threshold of 20%, which is consistent with our estimate that 20% of individuals are responsible for 80% of transmission in Hong Kong. This compares to a herd-immunity threshold of 60-70% via vaccine-acquired immunity.
-
-    / May, 2020 - Epidemiology
-    quote !g = For COVID-19, confirmation and isolation of symptomatic cases will have a limited effect on reducing overall SARS-CoV-2 transmission in the community unless done very quickly, noting the growing body of evidence of substantial transmission during the pre-symptomatic and early symptomatic period.
-
-    / May, 2020 - Epidemiology
-    quote !h = In Hong Kong, the average delay to isolation was 5.6 days for cluster cases, and by this time most onwards transmission had perhaps already occurred. The most important public health measures therefore are likely to be case identification followed by rapid and parallel (e.g. before contacts are confirmed as cases) contact tracing and quarantine.
-
-    / May, 2020 - Epidemiology
-    quote !h1 =  Some degree of intermittent physical distancing may also be required to supress potential local transmission from unidentified infections and pre-symptomatic transmission, but must necessarily be balanced with the social, economic and educational costs associated with such policies.
-
-    / May, 2020 - Epidemiology
-    quote !i = Secondly, our results also suggest a potential caveat: despite evidence supporting rapid contact tracing and the effectiveness of quarantine, in our analysis, most chains of transmission did not terminate in quarantine. This however must be interpreted in the context of moderate physical distancing in Hong Kong as highlighted previously, rather than a suggestion that quarantine was not essential.
-
-    / May, 2020 - Epidemiology
-    quote !j = In the absence of non-pharmaceutical interventions such as physical distancing implemented in Hong Kong, the potential for SSEs is likely greater than observed in our study. Assuming local elimination is not possible, disease control efforts should focus on rapid tracing and quarantine of confirmed contacts, along with the implementation of physical distancing policies or closures targeting high risk social exposures such as bars, nightclubs and restaurants to prevent the occurrence of SSEs.
 
 
   # public policy, mitigation, non-pharmaceutical interventions, social distancing, hygiene, contact tracing

@@ -3,6 +3,14 @@ feed November2020
 
   #
 
+  // COVID mink analysis shows mutations are not dangerous — yet
+  doi: https://doi.org/10.1038/d41586-020-03218-z
+  ref 'Mallapaty_et_al_11_16_2020
+    head = The analysis found the mutations probably won’t jeopardize vaccines, but scientists say the rampant spread means the animals still need to be killed.
+
+    / November, 2020 - Nature
+    quote !a =
+
   // Antibodies to SARS-CoV-2 are associated with protection against reinfection
   doi: https://doi.org/10.1101/2020.11.18.20234369
   ref 'Lumley_et_al_11_19_2020

@@ -3259,16 +3259,16 @@ feed Pre2019
     > Abstract
       Population-level analyses often use average quantities to describe heterogeneous systems, particularly when variation does not arise from identifiable groups. A prominent example, central to our current understanding of epidemic spread, is the basic reproductive number, R0, which is defined as the mean number of infections caused by an infected individual in a susceptible population. Population estimates of R0 can obscure considerable individual variation in infectiousness, as highlighted during the global emergence of severe acute respiratory syndrome (SARS) by numerous ‘superspreading events’ in which certain individuals infected unusually large numbers of secondary cases. For diseases transmitted by non-sexual direct contacts, such as SARS or smallpox, individual variation is difficult to measure empirically, and thus its importance for outbreak dynamics has been unclear. Here we present an integrated theoretical and statistical analysis of the influence of individual variation in infectiousness on disease emergence. Using contact tracing data from eight directly transmitted diseases, we show that the distribution of individual infectiousness around R0 is often highly skewed. Model predictions accounting for this variation differ sharply from average-based approaches, with disease extinction more likely and outbreaks rarer but more explosive. Using these models, we explore implications for outbreak control, showing that individual-specific control measures outperform population-wide measures. Moreover, the dramatic improvements achieved through targeted control policies emphasize the need to identify predictive correlates of higher infectiousness. Our findings indicate that superspreading is a normal feature of disease spread, and to frame ongoing discussion we propose a rigorous definition for superspreading events and a method to predict their frequency.
 
-    - quotes
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
+    # - quotes
+    #   !a
+    #   !b
+    #   !c
+    #   !d
+    #   !e
+    #   !f
+    #   !g
+    #   !h
+    #   !i
 
     / November, 2005 - Nature
     quote !a = According to this analysis, the great majority of SARS cases in Singapore were barely infectious (73% had ν < 1) but a small proportion were highly infectious (6% had ν > 8). This is consistent with field reports from SARS-afflicted regions5,6 but contrasts with published SARS models.

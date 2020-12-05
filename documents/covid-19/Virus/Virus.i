@@ -297,7 +297,7 @@ subject module Virus
 
       question ?EvidenceOfViability = What studies have suggested that SARS-CoV-2 is viable in aerosols?
         >
-          SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours. Viable aersol particles have also detected at distances greater than 6 feet from their source. SARS-CoV-2 RNA has been recovered from air samples in hospitals. Poor ventilation prolongs the amount of time that aerosols remain airborne.
+          SARS-CoV-2 has been found to be viable on aerosols and can stay floating in the air for minutes to hours.  Poor ventilation prolongs the amount of time that aerosols remain airborne.
         -  Duration
           'van_Doremalen_et_al_2020
           'van_Doremalen_et_al_2020.!a
@@ -313,6 +313,8 @@ subject module Virus
           'Chia_et_al_05_29_2020
           'Smither_et_al_06_22_2020
           'Smither_et_al_06_22_2020.!a
+        >
+          Viable aersol particles have also detected at distances greater than 6 feet from their source.
         -  Distance
           'Lu_et_al_2020
           'Allen_et_al_05_06_2020
@@ -325,6 +327,14 @@ subject module Virus
           'Liu_et_al_2020bb
           'Ding_et_al_08_15_2020
           'Ma_et_al_06_02_2020
+        >
+          There are several studies in hospital wards have detected SARS-CoV-2 RNA both in vent openings and in the air
+        -
+          'Guo_et_al_07_26_2020
+          'Ong_et_al_03_04_2020
+          'Chia_et_al_05_29_2020
+          'Liu_et_al_2020bb
+          'Nissen_et_al_11_11_2020
 
       question ?EvidenceAgainstViability = What studies have suggested that SARS-CoV-2 is not viable in aerosols?
         -
