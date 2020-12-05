@@ -21,14 +21,6 @@ subject module Effects
     'Wadhera_et_al_2020
   - Ensuring the resilience of clinical cancer research and optimize patient-centered care.
     'Dohery_et_al_05_29_2020
-  - Superspreading prevention in Hong Kong
-    'Adam_et_al_2020.!b
-    'Adam_et_al_2020.!c
-    'Adam_et_al_2020.!d
-    'Adam_et_al_2020.!e
-    'Adam_et_al_2020.!h
-    'Adam_et_al_2020.!i
-    'Adam_et_al_2020.!j
   - Mitigation
     'Zhang_et_al_06_11_2020.!r
   - School reopening

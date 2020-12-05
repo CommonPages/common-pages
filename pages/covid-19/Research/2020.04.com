@@ -2943,16 +2943,19 @@ feed April2020
 
 
   # Vaccine Prospects - PiCoVacc
-  //  Rapid development of an inactivated vaccine for SARS-CoV-2
+  // Rapid development of an inactivated vaccine for SARS-CoV-2
   doi: https://doi.org/10.1101/2020.04.17.046375
   ref 'Gao_et_al_2020
-    head = A purified inactivated SARS-CoV-2 virus vaccine candidate (PiCoVacc) confers complete protection in non-human primates against SARS-CoV-2 strains circulating worldwide by eliciting potent humoral responses devoid of immunopathology
+    head = We developed a pilot-scale production of PiCoVacc, a purified inactivated SARS-CoV-2 virus vaccine candidate, which induced SARS-CoV-2–specific neutralizing antibodies in mice, rats, and nonhuman primates. Our results confers complete protection in non-human primates against SARS-CoV-2 strains circulating worldwide by eliciting potent humoral responses devoid of immunopathology.
 
     > Abstract
       The COVID-19 pandemic caused by SARS-CoV-2 has brought about an unprecedented crisis, taking a heavy toll on human health, lives as well as the global economy. There are no SARS-CoV-2-specific treatments or vaccines available due to the novelty of this virus. Hence, rapid development of effective vaccines against SARS-CoV-2 is urgently needed. Here we developed a pilot-scale production of a purified inactivated SARS-CoV-2 virus vaccine candidate (PiCoVacc), which induced SARS-CoV-2-specific neutralizing antibodies in mice, rats and non-human primates. These antibodies potently neutralized 10 representative SARS-CoV-2 strains, indicative of a possible broader neutralizing ability against SARS-CoV-2 strains circulating worldwide. Immunization with two different doses (3μg or 6 μg per dose) provided partial or complete protection in macaques against SARS-CoV-2 challenge, respectively, without any antibody-dependent enhancement of infection. Systematic evaluation of PiCoVacc via monitoring clinical signs, hematological and biochemical index, and histophathological analysis in macaques suggests that it is safe. These data support the rapid clinical development of SARS-CoV-2 vaccines for humans.
 
-    # / April, 2020 - bioRxiv
-    # quote !a =
+    - quotes
+     !a
+
+    / April, 2020 - bioRxiv
+    quote !a = Our data also demonstrate complete protection against SARS-CoV-2 challenge with a 6-μg dose of PiCoVacc in macaques.
 
 
   # Vaccines, Frontiers?

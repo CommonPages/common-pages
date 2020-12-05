@@ -11,7 +11,7 @@ subject module Containment
       Timeline.Response.WHOMaskingGuidelines
 
     >
-      Note that this subject reflects arguments for universal masking as a norm or policy. Evidence as to the direct effectiveness of masking for either {*PPE protection} or {*source_control} is discussed seperately under {Prevention.Masking prevention}. 
+      Note that this subject reflects arguments for universal masking as a norm or policy. Evidence as to the direct effectiveness of masking for either {*PPE protection} or {*source_control} is discussed seperately under {Prevention.Masking prevention}.
 
     -
       !Advocates
@@ -134,11 +134,10 @@ subject module Containment
       'Chan_et_al_2020.!k
       'Bi_et_al_04_27_2020.!k
       'Cheng_et_al_03_19_2020
-      'Adam_et_al_2020.!g
       'Miller_et_al_2020b
       'Tom_et_al_2020.!i
       # - chains of transmission did not terminate in quarantine
-      'Adam_et_al_2020.!i
+
 
   / Contact Tracing
   claim !ContactTracing = Depending on the virus, “testing and tracing” is an effective containment strategy at the start of an outbreak when there the chains of disease transmission are limited. Countries that persisted with continuous and rigorous testing and tracing have fared better with lower death rates than those which did not.
@@ -215,7 +214,6 @@ subject module Containment
       'Britton_et_al_2020
     - 20/80 rule - herd-immunity threshold of 60-70% via vaccine-acquired immunity
       'Woolhouse_et_al_1997
-      'Adam_et_al_2020.!f
       'Miller_et_al_2020b
       'Sanche_et_al_2020.!e
     - beyond R0 when predicting epidemic size

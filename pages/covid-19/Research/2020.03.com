@@ -2933,20 +2933,26 @@ feed March2020
     #   Most notably, our analyses revealed that ACE2 expression levels are particularly high in cats and dogs. Especially in cats, expression levels in top four ACE2 expression hotspot tissues are all magnitudes higher than any other mammals examined. Intriguingly, in the ACE2 phylogenic tree, both cats and dogs are also cluster closer to humans than other mammals, suggesting potentially higher affinity to coronaviruses in these pets. SARS-CoV is known to infect cats, while SARS-CoV-2 positive cats and dogs had also been reported, therefore our analyses suggest high possibility that cats and dogs can host SARS-CoV-2. Furthermore, in both cats and dogs, skin had high abundant ACE2 expression, so did ear tip in cats and retina in dogs. High ACE2 expression levels in these exterior body parts makes them particularly likely to host SARS-CoV-2 and pass on to humans via skin to skin contact. Stray animals can even be more serious transmitters of coronaviruses. It is estimated that there are approximately 500 million stray dogs and similar number of stray cats worldwide. Cats and dogs are sometimes slaughtered for meat, including a large proportion of stray ones. Therefore, it is likely that cats and dogs may have contributed to the COVID-19 pandemic. For the least, people should also be vigilant with handling of pets in the effort of containing the spread of SARS-CoV-2.
 
 
-  # Strucure
+  # Structure
   // Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation
   doi: https://doi.org/10.1126/science.abb2507
   ref 'Wrapp_et_al_2020
-    head = We determined a 3.5-angstrom-resolution cryo–electron microscopy structure of the 2019-nCoV S trimer in the prefusion conformation. The predominant state of the trimer has one of the three receptor-binding domains (RBDs) rotated up in a receptor-accessible conformation.
+    head = We determined a 3.5-angstrom-resolution cryo–electron microscopy structure of the 2019-nCoV S trimer in the prefusion conformation. Using biophysical assays, we provide evidence that this protein (2019-nCoV S protein) binds angiotensin-converting enzyme 2 (ACE2) with higher affinity (at least 10 times more tightly) than does severe acute respiratory syndrome (SARS)-CoV S.
 
     > Abstract
       The outbreak of a novel coronavirus (2019-nCoV) represents a pandemic threat that has been declared a public health emergency of international concern. The CoV spike (S) glycoprotein is a key target for vaccines, therapeutic antibodies, and diagnostics. To facilitate medical countermeasure development, we determined a 3.5-angstrom-resolution cryo–electron microscopy structure of the 2019-nCoV S trimer in the prefusion conformation. The predominant state of the trimer has one of the three receptor-binding domains (RBDs) rotated up in a receptor-accessible conformation. We also provide biophysical and structural evidence that the 2019-nCoV S protein binds angiotensin-converting enzyme 2 (ACE2) with higher affinity than does severe acute respiratory syndrome (SARS)-CoV S. Additionally, we tested several published SARS-CoV RBD-specific monoclonal antibodies and found that they do not have appreciable binding to 2019-nCoV S, suggesting that antibody cross-reactivity may be limited between the two RBDs. The structure of 2019-nCoV S should enable the rapid development and evaluation of medical countermeasures to address the ongoing public health crisis.
 
     - quotes
       !a
+      !b
 
     / March, 2020 - Science
     quote !a = The structure of 2019-nCoV S should enable the rapid development and evaluation of medical countermeasures to address the ongoing public health crisis.
+
+    / March, 2020 - Science
+    quote !b = We tested several published SARS-CoV RBD-specific monoclonal antibodies and found that despite the relatively high degree of structural homology between the 2019-nCoV RBD and the SARS-CoV RBD, no binding to the 2019-nCoV S could be detected for any of the three mAbs, suggesting that SARS-directed mAbs will not necessarily be cross-reactive.
+
+
 
 
   #  Digital tracing

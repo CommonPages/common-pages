@@ -10,28 +10,6 @@ feed Sangeeta
 
     / February, 2020 - bioRxiv
     quote !a =
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
 
   #
   // DUMMY TITLE
@@ -56,6 +34,680 @@ feed Sangeeta
 
     / February, 2020 - bioRxiv
     quote !a =
+
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+
+  # Durability of Responses after SARS-CoV-2 mRNA-1273 Vaccination
+  doi: https://doi.org/10.1056/NEJMc2032195
+  ref 'Widge_et_al_12_03_2020
+    head = We describe immunogenicity data 119 days after the first vaccination (90 days after the second vaccination) in 34 healthy adult participants in the same trial who received two injections of vaccine at a dose of 100 μg. Although correlates of protection against SARS-CoV-2 infection in humans are not yet established, these results show that despite a slight expected decline in titers of binding and neutralizing antibodies, mRNA-1273 has the potential to provide durable humoral immunity.
+
+    - quotes
+      !a
+
+    / December, 2020 - The New England Journal of Medicine
+    quote !a = Our findings provide support for the use of a 100-μg dose of mRNA-1273 in an ongoing phase 3 trial, which has recently shown a 94.5% efficacy rate in an interim analysis.
+
+
+
+  #
+  // Stochasticity and heterogeneity in the transmission dynamics of SARS-CoV-2
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head = The basic reproduction number, which has been widely used and misused to characterize the transmissibility of the virus, hides the fact that transmission is stochastic, is dominated by a small number of individuals, and is driven by super-spreading events (SSEs). Many explosive SSEs have occurred in indoor settings such as long-term care facilities, prisons, meat-packing plants, fish factories, cruise ships, family gatherings, parties and night clubs. These SSEs demonstrate the urgent need to understand routes of transmission, while posing an opportunity that outbreak can be effectively contained with targeted interventions to eliminate SSEs.
+
+    > Abstract
+      SARS-CoV-2 causing COVID-19 disease has moved rapidly around the globe, infecting millions and killing hundreds of thousands. The basic reproduction number, which has been widely used and misused to characterize the transmissibility of the virus, hides the fact that transmission is stochastic, is dominated by a small number of individuals, and is driven by super-spreading events (SSEs). The distinct transmission features, such as high stochasticity under low prevalence, and the central role played by SSEs on transmission dynamics, should not be overlooked. Many explosive SSEs have occurred in indoor settings stoking the pandemic and shaping its spread, such as long-term care facilities, prisons, meat-packing plants, fish factories, cruise ships, family gatherings, parties and night clubs. These SSEs demonstrate the urgent need to understand routes of transmission, while posing an opportunity that outbreak can be effectively contained with targeted interventions to eliminate SSEs. Here, we describe the potential types of SSEs, how they influence transmission, and give recommendations for control of SARS-CoV-2.
+
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+  #
+  // Evaluating Transmission Heterogeneity and Super-Spreading Event of COVID-19 in a Metropolis of China
+  doi: https://doi.org/10.3390/ijerph17103705
+  ref 'Zhang_et_al_05_24_2020
+    head = Based on individual-level information of COVID-19 infection cases in Tianjin, we discovered significant transmission heterogeneity (k=0.25) and subcritical transmission potential (R=0.67), and we identified one super-spreader who infected 6 individuals, suggesting that the local outbreak in Tianjin was considerably heterogeneous even though it would finally die out.
+
+    > Abstract
+      COVID-19 caused rapid mass infection worldwide. Understanding its transmission characteristics, including heterogeneity and the emergence of super spreading events (SSEs) where certain individuals infect large numbers of secondary cases, is of vital importance for prediction and intervention of future epidemics. Here, we collected information of all infected cases (135 cases) between 21 January and 26 February 2020 from official public sources in Tianjin, a metropolis of China, and grouped them into 43 transmission chains with the largest chain of 45 cases and the longest chain of four generations. Utilizing a heterogeneous transmission model based on branching process along with a negative binomial offspring distribution, we estimated the reproductive number R and the dispersion parameter k (lower value indicating higher heterogeneity) to be 0.67 (95% CI: 0.54–0.84) and 0.25 (95% CI: 0.13–0.88), respectively. A super-spreader causing six infections was identified in Tianjin. In addition, our simulation allowing for heterogeneity showed that the outbreak in Tianjin would have caused 165 infections and sustained for 7.56 generations on average if no control measures had been taken by local government since 28 January. Our results highlighted more efforts are needed to verify the transmission heterogeneity of COVID-19 in other populations and its contributing factors.
+
+    - quotes
+      !a
+
+    / May, 2020 - Int J Environ Res Public Health.
+    quote !a = Our numerical results successfully verify the effectiveness of government control deployed on 28 January in Tianjin.
+
+
+
+  # check the head with Ayush, BCG
+  // BCG vaccine protection from severe coronavirus disease 2019 (COVID-19)
+  doi: https://doi.org/10.1073/pnas.2008410117
+  ref 'Escober_et_al_07_28_2020
+    head = We review evidence for a potential biological basis of BCG cross-protection from severe COVID-19, and after mitigating multiple confounding factors (e.g., stage of the COVID-19 epidemic, development, rurality, population density, and age structure), several significant associations between BCG vaccination and reduced COVID-19 deaths were observed.
+
+    > Abstract
+      A series of epidemiological explorations has suggested a negative association between national bacillus Calmette–Guérin (BCG) vaccination policy and the prevalence and mortality of coronavirus disease 2019 (COVID-19). However, these comparisons are difficult to validate due to broad differences between countries such as socioeconomic status, demographic structure, rural vs. urban settings, time of arrival of the pandemic, number of diagnostic tests and criteria for testing, and national control strategies to limit the spread of COVID-19. We review evidence for a potential biological basis of BCG cross-protection from severe COVID-19, and refine the epidemiological analysis to mitigate effects of potentially confounding factors (e.g., stage of the COVID-19 epidemic, development, rurality, population density, and age structure). A strong correlation between the BCG index, an estimation of the degree of universal BCG vaccination deployment in a country, and COVID-19 mortality in different socially similar European countries was observed (r2 = 0.88; P = 8 × 10−7), indicating that every 10% increase in the BCG index was associated with a 10.4% reduction in COVID-19 mortality. Results fail to confirm the null hypothesis of no association between BCG vaccination and COVID-19 mortality, and suggest that BCG could have a protective effect. Nevertheless, the analyses are restricted to coarse-scale signals and should be considered with caution. BCG vaccination clinical trials are required to corroborate the patterns detected here, and to establish causality between BCG vaccination and protection from severe COVID-19. Public health implications of a plausible BCG cross-protection from severe COVID-19 are discussed.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+
+    / July, 2020 - PNAS
+    quote !a = Results fail to confirm the null hypothesis of no association between BCG vaccination and COVID-19 mortality, and suggest that BCG could have a protective effect. Nevertheless, the analyses are restricted to coarse-scale signals and should be considered with caution.
+
+    / July, 2020 - PNAS
+    quote !b = A strong correlation between the BCG index, an estimation of the degree of universal BCG vaccination deployment in a country, and COVID-19 mortality in different socially similar European countries was observed, indicating that every 10% increase in the BCG index was associated with a 10.4% reduction in COVID-19 mortality.
+
+    / July, 2020 - PNAS
+    quote !c = There is limited information on the safety of administering BCG to senior persons, since BCG is a vaccine based on a live attenuated Mycobacterium that should not be administered to immunocompromised individuals (49). M. tuberculosis infection can remain latent for decades and reactivate in the elderly when a senescent immune system loses the ability to contain the infection.
+
+    / July, 2020 - PNAS
+    quote !d = The possibility that a single exposure to an attenuated pathogen during infancy could result in lifelong enhancement in immune surveillance is remarkable, but the available epidemiological data, in the absence of direct evidence from clinical trials, is not sufficient to recommend the use of BCG for the control and prevention of COVID-19 or other emerging infectious diseases.
+
+
+
+  # superspreading
+  // Superspreading in Early Transmissions of COVID-19 in Indonesia
+  doi: https://doi.org/10.1101/2020.06.28.20142133
+  ref 'Hassan_et_al_07_24_2020
+    head = Based on the first 1288 confirmed cases in both regions, we find a high degree of individual-level variation in the transmission. Our results suggests that superspreading events played a key role in the early stage of the outbreak, i.e., a small number of infected individuals are responsible for large amounts of COVID-19 transmission.
+
+    > Abstract
+      We estimate the basic reproduction number R0 and the overdispersion parameter K at two regions in Indonesia: JakartaDepok and Batam. Based on the first 1288 confirmed cases in both regions, we find a high degree of individual-level variation in the transmission. The basic reproduction number R0 is estimated at 6.79 and 2.47, while the overdispersion parameter K of a negative-binomial distribution is estimated at 0.06 and 0.2 for Jakarta-Depok and Batam, respectively. This suggests that superspreading events played a key role in the early stage of the outbreak, i.e., a small number of infected individuals are responsible for large amounts of COVID-19 transmission.
+
+    - quotes
+      !a
+
+    / July, 2020 - medRxiv
+    quote !a = The basic reproduction number R0 is estimated at 6.79 and 2.47, while the overdispersion parameter K of a negative-binomial distribution is estimated at 0.06 and 0.2 for Jakarta-Depok and Batam, respectively.
+
+
+
+  # superspreading
+  // Characterizing superspreading events and age-specific infectiousness of SARS-CoV-2 transmission in Georgia, USA
+  doi: https://doi.org/10.1073/pnas.2011802117
+  ref 'Lau_et_al_09_08_2020
+    head = We statistically synthesize multiple valuable data streams, including surveillance data and mobility data, that are available during the current COVID-19 pandemic. We show that age is an important factor in the transmission of the virus. Superspreading is ubiquitous over space and time, and has particular importance in rural areas and later stages of an outbreak.
+
+    > Abstract
+      It is imperative to advance our understanding of heterogeneities in the transmission of SARS-CoV-2 such as age-specific infectiousness and superspreading. To this end, it is important to exploit multiple data streams that are becoming abundantly available during the pandemic. In this paper, we formulate an individual-level spatiotemporal mechanistic framework to integrate individual surveillance data with geolocation data and aggregate mobility data, enabling a more granular understanding of the transmission dynamics of SARS-CoV-2. We analyze reported cases, between March and early May 2020, in five (urban and rural) counties in the state of Georgia. First, our results show that the reproductive number reduced to below one in about 2 wk after the shelter-in-place order. Superspreading appears to be widespread across space and time, and it may have a particularly important role in driving the outbreak in rural areas and an increasing importance toward later stages of outbreaks in both urban and rural settings. Overall, about 2% of cases were directly responsible for 20% of all infections. We estimate that the infected nonelderly cases (<60 y) may be 2.78 [2.10, 4.22] times more infectious than the elderly, and the former tend to be the main driver of superspreading. Our results improve our understanding of the natural history and transmission dynamics of SARS-CoV-2. More importantly, we reveal the roles of age-specific infectiousness and characterize systematic variations and associated risk factors of superspreading. These have important implications for the planning of relaxing social distancing and, more generally, designing optimal control measures.
+
+    - quotes
+      !a
+      !b
+
+    / September, 2020 - PNAS
+    quote !a = We find that infected younger cases (<60 y) tend to be more infectious and to promote superspreading.
+
+    / September, 2020 - PNAS
+    quote !b = About 2% of cases were directly responsible for 20% of all infections.
+
+
+
+  # Inactivated COVID-19 vaccine
+  // Effect of an Inactivated Vaccine Against SARS-CoV-2 on Safety and Immunogenicity Outcomes. Interim Analysis of 2 Randomized Clinical Trials
+  doi: https://doi.org/10.1001/jama.2020.15543
+  ref 'Xia_et_al_08_13_2020
+    head = In this interim report of the phase 1 and phase 2 trials of an inactivated COVID-19 vaccine, patients had a low rate of adverse reactions and demonstrated immunogenicity; the study is ongoing. Efficacy and longer-term adverse event assessment will require phase 3 trials.
+
+    > Objective
+      To evaluate the safety and immunogenicity of an investigational inactivated whole-virus COVID-19 vaccine in China.
+
+    > Interventions
+      In the phase 1 trial, 96 participants were assigned to 1 of the 3 dose groups (2.5, 5, and 10 μg/dose) and an aluminum hydroxide (alum) adjuvant–only group (n = 24 in each group), and received 3 intramuscular injections at days 0, 28, and 56. In the phase 2 trial, 224 adults were randomized to 5 μg/dose in 2 schedule groups (injections on days 0 and 14 [n = 84] vs alum only [n = 28], and days 0 and 21 [n = 84] vs alum only [n = 28]).
+
+    > Design, Setting, and Participants
+      Interim analysis of ongoing randomized, double-blind, placebo-controlled, phase 1 and 2 clinical trials to assess an inactivated COVID-19 vaccine. The trials were conducted in Henan Province, China, among 96 (phase 1) and 224 (phase 2) healthy adults aged between 18 and 59 years. Study enrollment began on April 12, 2020. The interim analysis was conducted on June 16, 2020, and updated on July 27, 2020.
+
+    > Main Outcomes and Measures
+      The primary safety outcome was the combined adverse reactions 7 days after each injection, and the primary immunogenicity outcome was neutralizing antibody response 14 days after the whole-course vaccination, which was measured by a 50% plaque reduction neutralization test against live severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+    > Results
+      Among 320 patients who were randomized (mean age, 42.8 years; 200 women [62.5%]), all completed the trial up to 28 days after the whole-course vaccination. The 7-day adverse reactions occurred in 3 (12.5%), 5 (20.8%), 4 (16.7%), and 6 (25.0%) patients in the alum only, low-dose, medium-dose, and high-dose groups, respectively, in the phase 1 trial; and in 5 (6.0%) and 4 (14.3%) patients who received injections on days 0 and 14 for vaccine and alum only, and 16 (19.0%) and 5 (17.9%) patients who received injections on days 0 and 21 for vaccine and alum only, respectively, in the phase 2 trial. The most common adverse reaction was injection site pain, followed by fever, which were mild and self-limiting; no serious adverse reactions were noted. The geometric mean titers of neutralizing antibodies in the low-, medium-, and high-dose groups at day 14 after 3 injections were 316 (95% CI, 218-457), 206 (95% CI, 123-343), and 297 (95% CI, 208-424), respectively, in the phase 1 trial, and were 121 (95% CI, 95-154) and 247 (95% CI, 176-345) at day 14 after 2 injections in participants receiving vaccine on days 0 and 14 and on days 0 and 21, respectively, in the phase 2 trial. There were no detectable antibody responses in all alum-only groups.
+
+    > Conclusions and Relevance
+      In this interim report of the phase 1 and phase 2 trials of an inactivated COVID-19 vaccine, patients had a low rate of adverse reactions and demonstrated immunogenicity; the study is ongoing. Efficacy and longer-term adverse event assessment will require phase 3 trials.
+
+    - quotes
+      !a
+
+    / August, 2020 - JAMA
+    quote !a = The most common adverse reaction was injection site pain, followed by fever, which were mild and self-limiting; no serious adverse reactions were noted.
+
+
+  # ASK AYUSH IF HE HAS DONE THIS PAPER
+  // Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial
+  doi: https://doi.org/10.1016/S0140-6736(20)31604-4
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+
+  #
+  // Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBIBP-CorV: a randomised, double-blind, placebo-controlled, phase 1/2 trial
+  doi: https://doi.org/10.1016/S1473-3099(20)30831-8
+  ref 'Xia_et_al_10_15_2020
+    head = In this phase 1/2 trial, the BBIBP-CorV inactivated vaccine, given as a two-dose immunisation, was safe and well tolerated at all three doses in two age groups (18–59 years and ≥60 years). A robust humoral immune response was observed in 100% of vaccine recipients on day 42.
+
+    > Background
+      The ongoing COVID-19 pandemic warrants accelerated efforts to test vaccine candidates. We aimed to assess the safety and immunogenicity of an inactivated severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) vaccine candidate, BBIBP-CorV, in humans.
+
+    > Methods
+      We did a randomised, double-blind, placebo-controlled, phase 1/2 trial at Shangqiu City Liangyuan District Center for Disease Control and Prevention in Henan Province, China. In phase 1, healthy people aged 18–80 years, who were negative for serum-specific IgM/IgG antibodies against SARS-CoV-2 at the time of screening, were separated into two age groups (18–59 years and ≥60 years) and randomly assigned to receive vaccine or placebo in a two-dose schedule of 2 μg, 4 μg, or 8 μg on days 0 and 28. In phase 2, healthy adults (aged 18–59 years) were randomly assigned (1:1:1:1) to receive vaccine or placebo on a single-dose schedule of 8 μg on day 0 or on a two-dose schedule of 4 μg on days 0 and 14, 0 and 21, or 0 and 28. Participants within each cohort were randomly assigned by stratified block randomisation (block size eight) and allocated (3:1) to receive vaccine or placebo. Group allocation was concealed from participants, investigators, and outcome assessors. The primary outcomes were safety and tolerability. The secondary outcome was immunogenicity, assessed as the neutralising antibody responses against infectious SARS-CoV-2. This study is registered with www.chictr.org.cn, ChiCTR2000032459.
+
+    > Findings
+      In phase 1, 192 participants were enrolled (mean age 53·7 years [SD 15·6]) and were randomly assigned to receive vaccine (2 μg [n=24], 4 μg [n=24], or 8 μg [n=24] for both age groups [18–59 years and ≥60 years]) or placebo (n=24). At least one adverse reaction was reported within the first 7 days of inoculation in 42 (29%) of 144 vaccine recipients. The most common systematic adverse reaction was fever (18–59 years, one [4%] in the 2 μg group, one [4%] in the 4 μg group, and two [8%] in the 8 μg group; ≥60 years, one [4%] in the 8 μg group). All adverse reactions were mild or moderate in severity. No serious adverse event was reported within 28 days post vaccination. Neutralising antibody geometric mean titres were higher at day 42 in the group aged 18–59 years (87·7 [95% CI 64·9–118·6], 2 μg group; 211·2 [158·9–280·6], 4 μg group; and 228·7 [186·1–281·1], 8 μg group) and the group aged 60 years and older (80·7 [65·4–99·6], 2 μg group; 131·5 [108·2–159·7], 4 μg group; and 170·87 [133·0–219·5], 8 μg group) compared with the placebo group (2·0 [2·0–2·0]). In phase 2, 448 participants were enrolled (mean age 41·7 years [SD 9·9]) and were randomly assigned to receive the vaccine (8 μg on day 0 [n=84] or 4 μg on days 0 and 14 [n=84], days 0 and 21 [n=84], or days 0 and 28 [n=84]) or placebo on the same schedules (n=112). At least one adverse reaction within the first 7 days was reported in 76 (23%) of 336 vaccine recipients (33 [39%], 8 μg day 0; 18 [21%], 4 μg days 0 and 14; 15 [18%], 4 μg days 0 and 21; and ten [12%], 4 μg days 0 and 28). One placebo recipient in the 4 μg days 0 and 21 group reported grade 3 fever, but was self-limited and recovered. All other adverse reactions were mild or moderate in severity. The most common systematic adverse reaction was fever (one [1%], 8 μg day 0; one [1%], 4 μg days 0 and 14; three [4%], 4 μg days 0 and 21; two [2%], 4 μg days 0 and 28). The vaccine-elicited neutralising antibody titres on day 28 were significantly greater in the 4 μg days 0 and 14 (169·5, 95% CI 132·2–217·1), days 0 and 21 (282·7, 221·2–361·4), and days 0 and 28 (218·0, 181·8–261·3) schedules than the 8 μg day 0 schedule (14·7, 11·6–18·8; all p<0·001).
+
+    > Interpretation
+      The inactivated SARS-CoV-2 vaccine, BBIBP-CorV, is safe and well tolerated at all tested doses in two age groups. Humoral responses against SARS-CoV-2 were induced in all vaccine recipients on day 42. Two-dose immunisation with 4 μg vaccine on days 0 and 21 or days 0 and 28 achieved higher neutralising antibody titres than the single 8 μg dose or 4 μg dose on days 0 and 14.
+
+    - quotes
+      !a
+
+
+    / October, 2020 - The Lancet Infectious Diseases
+    quote !a = Two-dose immunisation with 4 μg vaccine on days 0 and 21 or days 0 and 28 achieved higher neutralising antibody titres than the single 8 μg dose or 4 μg dose on days 0 and 14.
+
+    / October, 2020 - The Lancet Infectious Diseases
+    quote !b = The most common adverse reactions were pain and fever, which were reported in small proportions of vaccine recipients and with no significant difference across the groups. All adverse events were mild or moderate in severity.
+
+    / October, 2020 - The Lancet Infectious Diseases
+    quote !c = In preclinical studies, we showed that immunisation with BBIBP-CorV can induce high levels of neutralising antibody titres in mice, rats, guinea pigs, rabbits, and non-human primates (cynomolgus monkeys and rhesus macaques) to provide protection against SARS-CoV-2.
+
+
+
+
+
+  # recombinant adenovirus type-5 vectored COVID-19 vaccine
+  // Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial
+  doi: https://doi.org/10.1016/S0140-6736(20)31208-3
+  ref 'Zhu_et_al_05_22_2020
+    head =  This is the first report on a first-inhuman clinical trial of a novel Ad5 vectored COVID-19 vaccine. The Ad5 vectored COVID-19 vaccine is tolerable and immunogenic at 28 days post-vaccination. Humoral responses against SARS-CoV-2 peaked at day 28 post-vaccination in healthy adults, and rapid specific T-cell responses were noted from day 14 post-vaccination. Our findings suggest that the Ad5 vectored COVID-19 vaccine warrants further investigation.
+
+    > Background
+      A vaccine to protect against COVID-19 is urgently needed. We aimed to assess the safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 (Ad5) vectored COVID-19 vaccine expressing the spike glycoprotein of a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) strain.
+
+    > Methods
+      We did a dose-escalation, single-centre, open-label, non-randomised, phase 1 trial of an Ad5 vectored COVID-19 vaccine in Wuhan, China. Healthy adults aged between 18 and 60 years were sequentially enrolled and  allocated to one of three dose groups (5×10¹⁰, 1×10¹¹, and 1·5×10¹¹ viral particles) to receive an intramuscular  injection of vaccine. The primary outcome was adverse events in the 7 days post-vaccination. Safety was assessed over 28 days post-vaccination. Specific antibodies were measured with ELISA, and the neutralising antibody responses induced by vaccination were detected with SARS-CoV-2 virus neutralisation and pseudovirus neutralisation tests. T-cell responses were assessed by enzyme-linked immunospot and flow-cytometry assays. This study is registered with ClinicalTrials.gov, NCT04313127.
+
+    > Findings
+      Between March 16 and March 27, 2020, we screened 195 individuals for eligibility. Of them, 108 participants (51% male, 49% female; mean age 36·3 years) were recruited and received the low dose (n=36), middle dose (n=36), or high dose (n=36) of the vaccine. All enrolled participants were included in the analysis. At least one adverse reaction within the first 7 days after the vaccination was reported in 30 (83%) participants in the low dose group, 30 (83%) participants in the middle dose group, and 27 (75%) participants in the high dose group. The most common injection site adverse reaction was pain, which was reported in 58 (54%) vaccine recipients, and the most commonly reported systematic adverse reactions were fever (50 [46%]), fatigue (47 [44%]), headache (42 [39%]), and muscle pain (18 [17%]. Most adverse reactions that were reported in all dose groups were mild or moderate in severity. No serious adverse event was noted within 28 days post-vaccination. ELISA antibodies and neutralising antibodies increased significantly at day 14, and peaked 28 days post-vaccination. Specific T-cell response peaked at day 14 post-vaccination.
+
+    > Interpretation
+      The Ad5 vectored COVID-19 vaccine is tolerable and immunogenic at 28 days post-vaccination. Humoral responses against SARS-CoV-2 peaked at day 28 post-vaccination in healthy adults, and rapid specific T-cell responses were noted from day 14 post-vaccination. Our findings suggest that the Ad5 vectored COVID-19 vaccine warrants further investigation.
+
+    - quotes
+      !a
+
+    / May, 2020 - Lancet
+    quote !a =  The most common adverse reactions were fever, fatigue, headache, and muscle pain with no significant difference in the incidence of adverse reactions across the groups. Most adverse events reported were mild or moderate in severity.
+
+
+
+  #
+  // Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18–59 years: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial
+  doi: https://doi.org/10.1016/S1473-3099(20)30843-4
+  ref 'Zhang_et_al_11_17_2020
+    head = CoronaVac was well tolerated and induced humoral responses against SARS-CoV-2, which suppored the approval of emergency use of CoronaVac in China and in three phase 3 studies. The protective efficacy of CoronaVac remains to be determined.
+
+    > Background
+      With the unprecedented morbidity and mortality associated with the COVID-19 pandemic, a vaccine against COVID-19 is urgently needed. We investigated CoronaVac (Sinovac Life Sciences, Beijing, China), an inactivated vaccine candidate against COVID-19, containing inactivated severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), for its safety, tolerability and immunogenicity.
+
+    > Methods
+      In this randomised, double-blind, placebo-controlled, phase 1/2 clinical trial, healthy adults aged 18–59 years were recruited from the community in Suining County of Jiangsu province, China. Adults with SARS-CoV-2 exposure or infection history, with axillary temperature above 37·0°C, or an allergic reaction to any vaccine component were excluded. The experimental vaccine for the phase 1 trial was manufactured using a cell factory process (CellSTACK Cell Culture Chamber 10, Corning, Wujiang, China), whereas those for the phase 2 trial were produced through a bioreactor process (ReadyToProcess WAVE 25, GE, Umea, Sweden). The phase 1 trial was done in a dose-escalating manner. At screening, participants were initially separated (1:1), with no specific randomisation, into two vaccination schedule cohorts, the days 0 and 14 vaccination cohort and the days 0 and 28 vaccination cohort, and within each cohort the first 36 participants were assigned to block 1 (low dose CoronaVac [3 μg per 0·5 mL of aluminium hydroxide diluent per dose) then another 36 were assigned to block 2 (high-dose Coronavc [6 μg per 0·5 mL of aluminium hydroxide diluent per dse]). Within each block, participants were randomly assigned (2:1), using block randomisation with a block size of six, to either two doses of CoronaVac or two doses of placebo. In the phase 2 trial, at screening, participants were initially separated (1:1), with no specific randomisation, into the days 0 and 14 vaccination cohort and the days 0 and 28 vaccination cohort, and participants were randomly assigned (2:2:1), using block randomisation with a block size of five, to receive two doses of either low-dose CoronaVac, high-dose CoronaVac, or placebo. Participants, investigators, and laboratory staff were masked to treatment allocation. The primary safety endpoint was adverse reactions within 28 days after injection in all participants who were given at least one dose of study drug (safety population). The primary immunogenic outcome was seroconversion rates of neutralising antibodies to live SARS-CoV-2 at day 14 after the last dose in the days 0 and 14 cohort, and at day 28 after the last dose in the days 0 and 28 cohort in participants who completed their allocated two-dose vaccination schedule (per-protocol population). This trial is registered with ClinicalTrials.gov, NCT04352608, and is closed to accrual.
+
+    > Findings
+      Between April 16 and April 25, 2020, 144 participants were enrolled in the phase 1 trial, and between May 3 and May 5, 2020, 600 participants were enrolled in the phase 2 trial. 743 participants received at least one dose of investigational product (n=143 for phase 1 and n=600 for phase 2; safety population). In the phase 1 trial, the incidence of adverse reactions for the days 0 and 14 cohort was seven (29%) of 24 participants in the 3 ug group, nine (38%) of 24 in the 6 μg group, and two (8%) of 24 in the placebo group, and for the days 0 and 28 cohort was three (13%) of 24 in the 3 μg group, four (17%) of 24 in the 6 μg group, and three (13%) of 23 in the placebo group. The seroconversion of neutralising antibodies on day 14 after the days 0 and 14 vaccination schedule was seen in 11 (46%) of 24 participants in the 3 μg group, 12 (50%) of 24 in the 6 μg group, and none (0%) of 24 in the placebo group; whereas at day 28 after the days 0 and 28 vaccination schedule, seroconversion was seen in 20 (83%) of 24 in the 3 μg group, 19 (79%) of 24 in the 6 μg group, and one (4%) of 24 in the placebo group. In the phase 2 trial, the incidence of adverse reactions for the days 0 and 14 cohort was 40 (33%) of 120 participants in the 3 μg group, 42 (35%) of 120 in the 6 μg group, and 13 (22%) of 60 in the placebo group, and for the days 0 and 28 cohort was 23 (19%) of 120 in the 3 μg group, 23 (19%) of 120 in the 6 μg group, and 11 (18%) of 60 for the placebo group. Seroconversion of neutralising antibodies was seen for 109 (92%) of 118 participants in the 3 μg group, 117 (98%) of 119 in the 6 μg group, and two (3%) of 60 in the placebo group at day 14 after the days 0 and 14 schedule; whereas at day 28 after the days 0 and 28 schedule, seroconversion was seen in 114 (97%) of 117 in the 3 μg group, 118 (100%) of 118 in the 6 μg group, and none (0%) of 59 in the placebo group.
+
+    > Interpretation
+      Taking safety, immunogenicity, and production capacity into account, the 3 μg dose of CoronaVac is the suggested dose for efficacy assessment in future phase 3 trials.
+
+    - quotes
+      !a
+      !b
+
+
+    / November, 2020 - The Lancet Infectious Diseases
+    quote !a = Taking safety, immunogenicity, and production capacity into account, the 3 μg dose of CoronaVac is the suggested dose for efficacy assessment in future phase 3 trials.
+
+    / November, 2020 - The Lancet Infectious Diseases
+    quote !b = Most adverse reactions were mild, with the most common symptom being injection-site pain. Compared with other COVID-19 vaccine candidates, such as viral-vectored vaccines or DNA or RNA vaccines, the occurrence of fever after vaccination with CoronaVac was relatively low.
+
+
+
+
+
+
+  # Recombinant Spike Protein Nanoparticle Vaccine, UK, NVX-CoV2373 Novavax
+  // Phase 1–2 Trial of a SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine
+  doi: https://doi.org/10.1056/NEJMoa2026920
+  ref 'Keech_et_al_09_02_2020
+    head = The primary safety and immunogenicity analyses indicate that in healthy adult participants 18 to 59 years of age, two-dose regimens of 5 μg and 25 μg of rSARS-CoV-2 plus the Matrix-M1 adjuvant had acceptable safety findings and induced high immune responses, with levels of neutralizing antibodies that closely correlated with anti-spike IgG. The value of the second dose on day 21 for the two-dose rSARS-CoV-2 plus Matrix-M1 regimen is clearly demonstrated and warrants the use of this vaccination schedule.
+
+
+    > Background
+      NVX-CoV2373 is a recombinant severe acute respiratory syndrome coronavirus 2 (rSARS-CoV-2) nanoparticle vaccine composed of trimeric full-length SARS-CoV-2 spike glycoproteins and Matrix-M1 adjuvant.
+
+    > Methods
+      We initiated a randomized, placebo-controlled, phase 1–2 trial to evaluate the safety and immunogenicity of the rSARS-CoV-2 vaccine (in 5-μg and 25-μg doses, with or without Matrix-M1 adjuvant, and with observers unaware of trial-group assignments) in 131 healthy adults. In phase 1, vaccination comprised two intramuscular injections, 21 days apart. The primary outcomes were reactogenicity; laboratory values (serum chemistry and hematology), according to Food and Drug Administration toxicity scoring, to assess safety; and IgG anti–spike protein response (in enzyme-linked immunosorbent assay [ELISA] units). Secondary outcomes included unsolicited adverse events, wild-type virus neutralization (microneutralization assay), and T-cell responses (cytokine staining). IgG and microneutralization assay results were compared with 32 (IgG) and 29 (neutralization) convalescent serum samples from patients with Covid-19, most of whom were symptomatic. We performed a primary analysis at day 35.
+
+    > Results
+      After randomization, 83 participants were assigned to receive the vaccine with adjuvant and 25 without adjuvant, and 23 participants were assigned to receive placebo. No serious adverse events were noted. Reactogenicity was absent or mild in the majority of participants, more common with adjuvant, and of short duration (mean, ≤2 days). One participant had mild fever that lasted 1 day. Unsolicited adverse events were mild in most participants; there were no severe adverse events. The addition of adjuvant resulted in enhanced immune responses, was antigen dose–sparing, and induced a T helper 1 (Th1) response. The two-dose 5-μg adjuvanted regimen induced geometric mean anti-spike IgG (63,160 ELISA units) and neutralization (3906) responses that exceeded geometric mean responses in convalescent serum from mostly symptomatic Covid-19 patients (8344 and 983, respectively).
+
+    > Conclusions
+      At 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum. The Matrix-M1 adjuvant induced CD4+ T-cell responses that were biased toward a Th1 phenotype.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / September, 2020 - The New England Journal of Medicine
+    quote !a = Unsolicited adverse events were mild in most participants; there were no severe adverse events. Reactogenicity events (fatigue, malaise, and tenderness) was absent or mild in the majority of participants, more common with adjuvant, and of short duration (mean, ≤2 days).
+
+    / September, 2020 - The New England Journal of Medicine
+    quote !b = Neutralizing antibody responses after the second vaccination with rSARS-CoV-2 plus Matrix-M1 exceeded values seen in symptomatic Covid-19 outpatients and were of the magnitude seen in convalescent serum from hospitalized patients with Covid-19.
+
+    / September, 2020 - The New England Journal of Medicine
+    quote !c = The benefit of the Matrix-M1 adjuvant was clear in the magnitude of the antibody and the T-cell response, the induction of functional antibodies, and antigen dose sparing.
+
+
+
+  #
+  // Severe Acute Respiratory Syndrome Coronavirus 2−Specific Antibody Responses in Coronavirus Disease Patients
+  doi: https://doi.org/10.3201/eid2607.200841
+  ref 'Okba_et_al_04_08_2020
+    head = We developed serologic assays for detection of SARS-CoV-2 neutralizing, spike protein–specific, and nucleocapsid-specific antibodies. Using serum samples from patients with PCR-confirmed SARS-CoV-2 infections, other coronaviruses, or other respiratory pathogenic infections, we validated and tested various antigens in different in-house and commercial ELISAs. We demonstrated that most PCR-confirmed SARS-CoV-2–infected persons seroconverted by 2 weeks after disease onset.
+
+    - quotes
+      !a
+      !b
+
+
+    / April, 2020 - Emerging Infectious Diseases
+    quote !a = Among the S antigens tested, S1 was more specific than S in detecting SARS-CoV-2 antibodies, as MERS-CoV S cross-reactive antibodies were detected in serum of 1 of the COVID-19 patients, which was not seen when MERS-CoV S1 was used for testing. This finding could be explained by the high degree of conservation in the coronavirus S2 subunit relative to S1. Therefore, consistent with our earlier findings for serologic analysis of MERS-CoV, S1 is a specific antigen for SARS-CoV-2 diagnostics.
+
+    / April, 2020 - Emerging Infectious Diseases
+    quote !b = IgG seroconversion can be reliably confirmed in the second week after disease onset
+
+  #
+  // DNA vaccine protection against SARS-CoV-2 in rhesus macaques
+  doi: https://doi.org/10.1126/science.abc6284
+  ref 'Yu_et_al_08_14_2020
+    head = We developed a series of DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike (S) protein and evaluated them in 35 rhesus macaques.Vaccine-elicited neutralizing antibody titers correlated with protective efficacy, suggesting an immune correlate of protection. These data demonstrate vaccine protection against SARS-CoV-2 in nonhuman primates.
+
+    > Abstract
+      The global coronavirus disease 2019 (COVID-19) pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has made the development of a vaccine a top biomedical priority. In this study, we developed a series of DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike (S) protein and evaluated them in 35 rhesus macaques. Vaccinated animals developed humoral and cellular immune responses, including neutralizing antibody titers at levels comparable to those found in convalescent humans and macaques infected with SARS-CoV-2. After vaccination, all animals were challenged with SARS-CoV-2, and the vaccine encoding the full-length S protein resulted in >3.1 and >3.7 log10 reductions in median viral loads in bronchoalveolar lavage and nasal mucosa, respectively, as compared with viral loads in sham controls. Vaccine-elicited neutralizing antibody titers correlated with protective efficacy, suggesting an immune correlate of protection. These data demonstrate vaccine protection against SARS-CoV-2 in nonhuman primates.
+
+    - quotes
+      !a
+
+    / August, 2020 - Science
+    quote !a =
+
+
+
+  #
+  // Establishing Correlates of Protection for Vaccine Development: Considerations for the Respiratory Syncytial Virus Vaccine Field
+  doi: https://doi.org/10.1089/vim.2017.0147
+  ref 'Kulkarni_et_al_02_20_2020
+    head = Correlates of protection (CoPs) can play a significant role in vaccine development by assisting the selection of vaccine candidates for clinical trials, supporting clinical trial design and implementation, and simplifying tests of vaccine modifications. It is essential that CoPs be defined by well-designed immunogenicity and efficacy studies, with attention paid to benefits and limitations.
+
+    > Abstract
+      Correlates of protection (CoPs) can play a significant role in vaccine development by assisting the selection of vaccine candidates for clinical trials, supporting clinical trial design and implementation, and simplifying tests of vaccine modifications. Because of this important role in vaccine development, it is essential that CoPs be defined by well-designed immunogenicity and efficacy studies, with attention paid to benefits and limitations. The respiratory syncytial virus (RSV) field is unique in that a great deal of information about the humoral response is available from basic research and clinical studies. Polyclonal and monoclonal antibodies have been used routinely in the clinic to protect vulnerable infants from infection, providing a wealth of information about correlations between neutralizing antibodies and disease prevention. Considerations for the establishment of future CoPs to support RSV vaccine development in different populations are therefore discussed.
+
+    - quotes
+      !a
+
+    / February, 2020 - Viral Immunol.
+    quote !a = Polyclonal and monoclonal antibodies have been used routinely in the clinic to protect vulnerable infants from infection, providing a wealth of information about correlations between neutralizing antibodies and disease prevention. Considerations for the establishment of future CoPs to support RSV vaccine development in different populations are therefore discussed.
+
+
+
+  #
+  // Association between antibody titers and protection against influenza virus infection within households.
+  doi: https://doi.org/10.1093/infdis/jiu186
+  ref 'Tsang_et_al_03_26_2014
+    head = We demonstrated that an HAI titer of 1:40 was not sufficient to provide 50% protection against PCR-confirmed influenza virus infection in households, potentially because of exposures of greater duration or intensity in that confined setting. We also demonstrated that MN titers were statistically significantly correlated with protection against infection.
+
+    > Background
+      Previous studies have established that antibody titer measured by the hemagglutination-inhibiting (HAI) assay is correlated with protection against influenza virus infection, with an HAI titer of 1:40 generally associated with 50% protection.
+
+    > Methods
+      We recruited index cases with confirmed influenza virus infection from outpatient clinics, and followed up their household contacts for 7–10 days to identify secondary infections. Serum samples collected from a subset of household contacts were tested by HAI and microneutralization (MN) assays against prevalent influenza viruses. We analyzed the data using an individual hazard-based transmission model that adjusted for age and vaccination history.
+
+    > Results 
+      Compared to a reference group with antibody titers <1:10, we found that HAI titers of 1:40 against influenza A(H1N1) and A(H3N2) were associated with 31% (95% confidence interval [CI], 13%–46%) and 31% (CI, 1%–53%) protection against polymerase chain reaction (PCR)–confirmed A(H1N1) and A(H3N2) virus infection, respectively, while an MN titer of 1:40 against A(H3N2) was associated with 49% (95% CI, 7%–81%) protection against PCR-confirmed A(H3N2) virus infection.
+
+    > Conclusions 
+      An HAI titer of 1:40 was associated with substantially less than 50% protection against PCR-confirmed influenza virus infection within households, perhaps because of exposures of greater duration or intensity in that confined setting.
+
+    - quotes
+      !a
+
+    / March, 2014 - The Journal of Infectious Diseases
+    quote !a = We demonstrated that the MN titer was also correlated with protection against seasonal influenza A(H3N2) virus infection. While antibody titers measured by MN may not be directly compared with those measured by HAI, our results on the protection associated with HAI and MN titers suggest that an MN titer of 1:42 is equivalent to an HAI titer of 1:260 for people with naturally acquired seasonal A(H3N2) influenza virus infection.
+
+
+  # DISCUSS WITH AYUSH- THIS PAPER WAS CORRECTED- SO I PUT THE CORRECTED DOI
+  // Microneutralization Assay Titres Correlate with Protection against Seasonal Influenza H1N1 and H3N2 in Children
+  doi: https://doi.org/10.1371/journal.pone.0163830
+  ref 'Verschoor_et_al_09_22_2016
+    head = Compared to hemagglutination inhibition (HAI), the microneutralization (MN) assay is more sensitive in detecting serum antibodies and estimates of protective effectiveness against PCR-confirmed infection were higher for both subtypes. Given our findings, the MN assay warrants further consideration as a formal tool for the routine evaluation of vaccine-induced antibody responses.
+
+    > Abstract
+      Although the microneutralization (MN) assay has been shown to be more sensitive than the hemagglutination inhibition (HAI) assay for the measurement of humoral immunity against influenza viruses, further evidence relating MN titres to protective efficacy against infection is needed. Serum antibodies against seasonal H1N1 and H3N2 influenza were measured in children and adolescents (n = 656) by MN and hemagglutination inhibition (HAI) assays. Compared to HAI, the MN assay is more sensitive in detecting serum antibodies and estimates of protective effectiveness against PCR-confirmed infection were higher for both subtypes. Given our findings, the MN assay warrants further consideration as a formal tool for the routine evaluation of vaccine-induced antibody responses.
+
+
+
+    - quotes
+      !a
+      !b
+
+    / September, 2016 - PLOS ONE
+    quote !a = Microneutralization (MN) titres not only correlate with protection against H1N1 and H3N2 infection, but the protective efficacy estimates for the MN assay were consistently higher than hemagglutination inhibition (HAI).
+
+    / September, 2016 - PLOS ONE
+    quote !b = The microneutralization (MN) assay is not only more sensitive in the detection of both H1N1 and H3N2 antibodies, protection effectiveness estimates against H3N2 PCR-confirmed influenza infection are higher with the MN assay at similar titre thresholds.
+
+
+
+  # Safety and immunogenicity of the Ad26.COV2.S COVID-19 vaccine candidate: interim results of a phase 1/2a, double-blind, randomized, placebo-controlled trial.
+  doi: https://doi.org/10.1101/2020.09.23.20199604
+  ref 'Sadoff_et_al_09_25_2020
+    head = The interim analysis of our Phase 1/2a study indicates that a single dose of Ad26.COV2.S, either 5x1010 365 vp or 1x1011 366 vp, is safe, well tolerated and highly immunogenic. Based on similar immunogenicity ofboth dose levels, we have selected the lower dose for further clinical evaluation.
+
+    > Background
+      The ongoing coronavirus disease (COVID)-19 pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) might be controlled by an efficacious vaccine. Multiple vaccines are in development, but no efficacious vaccine is currently available.
+
+    > Methods
+      We designed a multi-center phase 1/2a randomized, double-blinded, placebo-controlled clinical study to assesses the safety, reactogenicity and immunogenicity of Ad26.COV2.S, a non-replicating adenovirus 26 based vector expressing the stabilized pre-fusion spike (S) protein of SARS-CoV-2. Ad26.COV2.S was administered at a dose level of 5x1010 or 1x1011 viral particles (vp) per vaccination, either as a single dose or as a two-dose schedule spaced by 56 days in healthy adults (18-55 years old; cohort 1a & 1b; n= 402 and healthy elderly >65 years old; cohort 3; n=394). Vaccine elicited S specific antibody levels were measured by ELISA and neutralizing titers were measured in a wild-type virus neutralization assay (wtVNA). CD4+ T-helper (Th)1 and Th2, and CD8+ immune responses were assessed by intracellular cytokine staining (ICS).
+
+    > Results
+      We here report interim analyses after the first dose of blinded safety data from cohorts 1a, 1b and 3 and group unblinded immunogenicity data from cohort 1a and 3. In cohorts 1 and 3 solicited local adverse events were observed in 58% and 27% of participants, respectively. Solicited systemic adverse events were reported in 64% and 36% of participants, respectively. Fevers occurred in both cohorts 1 and 3 in 19% (5% grade 3) and 4% (0% grade 3), respectively, were mostly mild or moderate, and resolved within 1 to 2 days after vaccination. The most frequent local adverse event (AE) was injection site pain and the most frequent solicited AEs were fatigue, headache and myalgia. After only a single dose, seroconversion rate in wtVNA (50% inhibitory concentration - IC50) at day 29 after immunization in cohort 1a already reached 92% with GMTs of 214 (95% CI: 177; 259) and 92% with GMTs of 243 (95% CI: 200; 295) for the 5x1010 and 1x1011vp dose levels, respectively. A similar immunogenicity profile was observed in the first 15 participants in cohort 3, where 100% seroconversion (6/6) (GMTs of 196 [95%CI: 69; 560]) and 83% seroconversion (5/6) (GMTs of 127 [95% CI: <58; 327]) were observed for the 5x1010 or 1x1011 vp dose level, respectively. Seroconversion for S antibodies as measured by ELISA (ELISA Units/mL) was observed in 99% of cohort 1a participants (GMTs of 528 [95% CI: 442; 630) and 695 (95% CI: 596; 810]), for the 5x1010 or 1x1011 vp dose level, respectively, and in 100% (6/6 for both dose levels) of cohort 3 with GMTs of 507 (95% CI: 181; 1418) and 248 (95% CI: 122; 506), respectively. On day 14 post immunization, Th1 cytokine producing S-specific CD4+ T cell responses were measured in 80% and 83% of a subset of participants in cohort 1a and 3, respectively, with no or very low Th2 responses, indicative of a Th1-skewed phenotype in both cohorts. CD8+ T cell responses were also robust in both cohort 1a and 3, for both dose levels.
+
+    > Conclusions
+      The safety profile and immunogenicity after only a single dose are supportive for further clinical development of Ad26.COV2.S at a dose level of 5x1010 vp, as a potentially protective vaccine against COVID-19. Trial registration number: NCT04436276
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / September, 2020 - medRxiv
+    quote !a = Finding suggests that the vaccine candidate is less reactogenic in older adults. The safety profile is acceptable at any age given the seriousness of the disease the vaccine can potentially protect against and the nature of the pandemic, especially in the elderly which is the most vulnerable population to COVID-19.
+
+    / September, 2020 - medRxiv
+    quote !b = While reactogenicity was acceptable in all groups, there was a trend for higher reactogenicity with the higher vaccine dose (data not shown) and with younger age.
+
+    / September, 2020 - medRxiv
+    quote !c = The most frequent local adverse event (AE) was injection site pain and the most frequent solicited AEs were fatigue, headache and myalgia. Fevers occurred in both cohorts 1 and 3 in 19% (5% grade 3) and 4% (0% grade 3), respectively, were mostly mild or moderate, and resolved within 1 to 2 days after vaccination.
+
+    / September, 2020 - medRxiv
+    quote !d = Seroconversion for S antibodies was observed in 99% of cohort 1a participants, for the 5x1010 or 1x1011 vp dose level, respectively, and in 100% (6/6 for both dose levels) of cohort 3, respectively.
+
+
+
+
+
+  # ask ayush
+  // A Single-Dose Intranasal ChAd Vaccine Protects Upper and Lower Respiratory Tracts against SARS-CoV-2
+  doi: https://doi.org/10.1016/j.cell.2020.08.026
+  ref 'Hassan_et_al_08_19_2020
+    head = Our studies establish that immunization with ChAd-SARS-CoV-2-S induces both neutralizing antibody and antigen-specific CD8+ T cell responses. Although a single intramuscular immunization of ChAd-SARS-CoV-2-S confers protection against SARS-CoV-2 infection and inflammation in the lungs, intranasal delivery of ChAd-SARS-CoV-2-S induces mucosal immunity, provides superior protection, and possibly promotes sterilizing immunity, at least in mice that transiently or stably express the hACE2 receptor.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / August, 2020 - Cell
+    quote !a = We suggest that intranasal delivery of ChAd-SARS-CoV-2-S is a promising platform for preventing SARS-CoV-2 infection, disease, and upper airway transmission and thus warrants clinical evaluation in humans.
+
+    / August, 2020 - Cell
+    quote !a = Chimpanzee adenoviral vaccines encoding stabilized S induce neutralizing Abs.
+
+    / August, 2020 - Cell
+    quote !b = Chimpanzee adenoviral vaccines protect against SARS-CoV-2 infection and pneumonia.
+
+    / August, 2020 - Cell
+    quote !c = Intranasal vaccine delivery generates robust mucosal B and T cell responses
+
+    / August, 2020 - Cell
+    quote !d = Intranasal vaccination, however, generated robust IgA and neutralizing antibody responses that likely protected against both upper and lower respiratory tract SARS-CoV-2 infection and inhibited infection of both wild-type and D614G variant viruses.
+
+
+
+    # DNA vaccine,
+    // Pre-existing immunity against Ad vectors Humoral, cellular, and innate response, what's important?
+    doi: https://doi.org/10.4161/hv.29594
+    ref 'Bovendo_et_al_11_01_2014
+      head = This review will first summarize the contributions of the different arms of the immune system toward pre-existing immunity against Ad vectors. Then, the mechanisms of evasion of the main strategies developed to circumvent pre-existing Ad immunity will be reviewed.
+
+      > Abstract
+        Pre-existing immunity against human adenovirus (HAd) serotype 5 derived vector in the human population is widespread, thus hampering its clinical use. Various components of the immune system, including neutralizing antibodies (nAbs), Ad specific T cells and type I IFN activated NK cells, contribute to dampening the efficacy of Ad vectors in individuals with pre-existing Ad immunity. In order to circumvent pre-existing immunity to adenovirus, numerous strategies, such as developing alternative Ad serotypes, varying immunization routes and utilizing prime-boost regimens, are under pre-clinical or clinical phases of development. However, these strategies mainly focus on one arm of pre-existing immunity. Selection of alternative serotypes has been largely driven by the absence in the human population of nAbs against them with little attention paid to cross-reactive Ad specific T cells. Conversely, varying the route of immunization appears to mainly rely on avoiding Ad specific tissue-resident T cells. Finally, prime-boost regimens do not actually circumvent pre-existing immunity but instead generate immune responses of sufficient magnitude to confer protection despite pre-existing immunity. Combining the above strategies and thus taking into account all components regulating pre-existing Ad immunity will help further improve the development of Ad vectors for animal and human use.
+
+      - quotes
+        !a
+        !b
+        !c
+        !d
+        !e
+        !f
+        !g
+        !h
+
+      / November, 2020 - Hum Vaccin Immunother.
+      quote !a = Adenovirus (Ad) derived vectors have been shown to successfully elicit strong cellular and humoral immune responses in rodents, non-human primates (NHP) as well as in humans after a single injection. In preclinical studies, among all human Ad vectors tested, those derived from human adenovirus serotype 5 (HAd5) have emerged as the gold standard for immunization due to their superior immunogenicity. However, although HAd5 vectors were highly efficacious in pre-clinical studies, they did not perform as anticipated in clinical trials due to pre-existing HAd5 immunity in the participants from natural exposure.
+
+      / November, 2020 - Hum Vaccin Immunother.
+      quote !b = Adenoviruses are some of the pathogens that can cause the common cold and a significant proportion of the human population have antibodies against these viruses due to past infections naturally acquired in the community, notably during childhood. These natural exposures can be responsible for long-lasting immunity (pre-existing immunity) that can interfere with HAd-based vaccines.
+
+      / November, 2020 - Hum Vaccin Immunother.
+      quote !c = In a phase I trial, individuals with pre-existing HAd5 immunity mounted lower immune responses compared with participants without pre-existing immunity. Pre-existing immunity to HAd5 was even associated with undesirable effects beyond neutralization of the benefits intended from vaccination.
+
+      / November, 2020 - Hum Vaccin Immunother.
+      quote !d = The negative impact of pre-existing HAd5 immunity was illustrated in the infamous STEP trial during which a lower frequency of individuals with high HAd5 Ab titers developed a cellular response to the transgenes (HIV Gag, Pol and Nef). Furthermore, pre-existing HAd5 immunity was associated with an increase in HIV acquisition in vaccinated participants in comparison to the placebo.
+
+      / November, 2020 - Hum Vaccin Immunother.
+      quote !e = Pre-existing HAd5 immunity was not taken into account in pre-clinical studies as animals used in these studies, such as mice and NHPs, are not naturally infected by HAd5 or other human Ads.
+
+      / November, 2020 - Hum Vaccin Immunother.
+      quote !f = In pre-clinical studies, alternating the immunization route has bypassed pre-existing Ad immunity. Immunization through the airway holds promise and may turn out to be a delivery method of choice for inducing potent and long lasting protective immune responses from an Ad vector.
+
+      / November, 2020 - Hum Vaccin Immunother.
+      quote !g = The immune response generated by prime-boost regimens may be sufficient to induce full protection despite pre-existing Ad immunity. Developing prime-boost regimens using Ad vectors where limited to no nAbs or cross-reactive T cells in the target population should further increase the chance of success.
+
+      / November, 2020 - Hum Vaccin Immunother.
+      quote !h = Optimization of prime-boost regimens will be labor intensive due to the increasing number of available vaccine platforms. Useful data regarding the ability of prime-boost regimens to overcome pre-existing HAd immunity will certainly be generated by clinical trials involving ChAd/MVA prime-boost. Careful analysis of these trials should provide crucial protection information in the presence or absence of pre-existing Ad immunity.
+
+
+
+    # recombinant adenoviral vectors
+    // Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia.
+    doi: https://doi.org/10.1016/S0140-6736(20)31866-3
+    ref 'Logunov_et_al_09_04_2020
+      head = These findings of two open, phase 1/2 non-randomised studies of a heterologous prime-boost COVID-19 vaccine based on recombinant adenoviral vectors rAd26-S and rAd5-S show that the vaccine is safe, well tolerated, highly immunogenic and induces strong humoral and cellular immune responses in 100% of healthy participants. All reported adverse events were mostly mild.
+
+      > Background
+        We developed a heterologous COVID-19 vaccine consisting of two components, a recombinant adenovirus type 26 (rAd26) vector and a recombinant adenovirus type 5 (rAd5) vector, both carrying the gene for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike glycoprotein (rAd26-S and rAd5-S). We aimed to assess the safety and immunogenicity of two formulations (frozen and lyophilised) of this vaccine.
+
+      > Methods
+        We did two open, non-randomised phase 1/2 studies at two hospitals in Russia. We enrolled healthy adult volunteers (men and women) aged 18–60 years to both studies. In phase 1 of each study, we administered intramuscularly on day 0 either one dose of rAd26-S or one dose of rAd5-S and assessed the safety of the two components for 28 days. In phase 2 of the study, which began no earlier than 5 days after phase 1 vaccination, we administered intramuscularly a prime-boost vaccination, with rAd26-S given on day 0 and rAd5-S on day 21. Primary outcome measures were antigen-specific humoral immunity (SARS-CoV-2-specific antibodies measured by ELISA on days 0, 14, 21, 28, and 42) and safety (number of participants with adverse events monitored throughout the study). Secondary outcome measures were antigen-specific cellular immunity (T-cell responses and interferon-γ concentration) and change in neutralising antibodies (detected with a SARS-CoV-2 neutralisation assay). These trials are registered with ClinicalTrials.gov, NCT04436471 and NCT04437875.
+
+      > Findings
+        Between June 18 and Aug 3, 2020, we enrolled 76 participants to the two studies (38 in each study). In each study, nine volunteers received rAd26-S in phase 1, nine received rAd5-S in phase 1, and 20 received rAd26-S and rAd5-S in phase 2. Both vaccine formulations were safe and well tolerated. The most common adverse events were pain at injection site (44 [58%]), hyperthermia (38 [50%]), headache (32 [42%]), asthenia (21 [28%]), and muscle and joint pain (18 [24%]). Most adverse events were mild and no serious adverse events were detected. All participants produced antibodies to SARS-CoV-2 glycoprotein. At day 42, receptor binding domain-specific IgG titres were 14 703 with the frozen formulation and 11 143 with the lyophilised formulation, and neutralising antibodies were 49·25 with the frozen formulation and 45·95 with the lyophilised formulation, with a seroconversion rate of 100%. Cell-mediated responses were detected in all participants at day 28, with median cell proliferation of 2·5% CD4+ and 1·3% CD8+ with the frozen formulation, and a median cell proliferation of 1·3% CD4+ and 1·1% CD8+ with the lyophilised formulation.
+
+      > Interpretation
+        The heterologous rAd26 and rAd5 vector-based COVID-19 vaccine has a good safety profile and induced strong humoral and cellular immune responses in participants. Further investigation is needed of the effectiveness of this vaccine for prevention of COVID-19.
+
+
+      - quotes
+        !a
+        !b
+        !c
+        !d
+
+      / September, 2020 - The Lancet
+      quote !a = The most common systemic and local reactions were pain at the injection site, hyperthermia (body temperature 37–38°C), headache, asthenia, and muscle and joint pain, which are typical for vaccines based on recombinant viral vectors. No serious adverse events were reported during the study.
+
+      / September, 2020 - The Lancet
+      quote !b = We showed that volunteers who received the heterologous rAd26 and rAd5 vaccine elicited the same titre of SARS-CoV-2 neutralising antibodies as did people who had recovered from COVID-19.
+
+      / September, 2020 - The Lancet
+      quote !c = The vaccine showed 100% protectivity in a lethal model of SARS-CoV-2 challenge in immunosuppressed hamsters. No antibody-dependent enhancement of infection was seen in vaccinated and SARS-CoV-2-challenged animals.
+
+      / September, 2020 - The Lancet
+      quote !d = Despite formation of neutralising antibodies to recombinant adenoviruses after vaccination with rAd26 and rAd5, formation of a humoral immune response to target antigen (SARS-CoV-2 glycoprotein S) in vaccinated volunteers was not affected. Moreover, neutralising antibodies to rAd26 did not neutralise rAd5 when serum samples from vaccinated volunteers were obtained and analysed 28 days after immunisation (and vice versa). Thus, use of a heterologous prime-boost immunisation, when rAd26-S is used for priming and rAd5-S is used for boosting, is an effective approach to elicit a robust immune response and to overcome the immune response that is formed to the components of a viral vector.
+
+
+
+  # mRNA-1273 vaccine, moderna, phase 1, USA, 89 clinical Trials
+  // An mRNA Vaccine against SARS-CoV-2 — Preliminary Report
+  doi: https://doi.org/10.1056/NEJMoa2022483
+  ref 'Jackson_et_al_07_14_2020
+    head = We report interim findings from this phase 1 clinical trial of the mRNA-1273 SARS-CoV-2 vaccine encoding a stabilized prefusion spike trimer, S-2P. The mRNA-1273 vaccine was immunogenic, inducing robust binding antibody responses to both full-length S-2P and receptor-binding domain in all participants after the first vaccination in a time- and dose-dependent fashion. High neutralizing antibody responses were also elicited in a dose-dependent fashion. No trial-limiting safety concerns were identified. These findings support further development of this vaccine.
+
+    > Background
+      The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in late 2019 and spread globally, prompting an international effort to accelerate development of a vaccine. The candidate vaccine mRNA-1273 encodes the stabilized prefusion SARS-CoV-2 spike protein.
+
+    > Methods
+      We conducted a phase 1, dose-escalation, open-label trial including 45 healthy adults, 18 to 55 years of age, who received two vaccinations, 28 days apart, with mRNA-1273 in a dose of 25 μg, 100 μg, or 250 μg. There were 15 participants in each dose group.
+
+    > Results
+      After the first vaccination, antibody responses were higher with higher dose (day 29 enzyme-linked immunosorbent assay anti–S-2P antibody geometric mean titer [GMT], 40,227 in the 25-μg group, 109,209 in the 100-μg group, and 213,526 in the 250-μg group). After the second vaccination, the titers increased (day 57 GMT, 299,751, 782,719, and 1,192,154, respectively). After the second vaccination, serum-neutralizing activity was detected by two methods in all participants evaluated, with values generally similar to those in the upper half of the distribution of a panel of control convalescent serum specimens. Solicited adverse events that occurred in more than half the participants included fatigue, chills, headache, myalgia, and pain at the injection site. Systemic adverse events were more common after the second vaccination, particularly with the highest dose, and three participants (21%) in the 250-μg dose group reported one or more severe adverse events.
+
+    > Conclusions
+      The mRNA-1273 vaccine induced anti–SARS-CoV-2 immune responses in all participants, and no trial-limiting safety concerns were identified. These findings support further development of this vaccine. (Funded by the National Institute of Allergy and Infectious Diseases and others; mRNA-1273 ClinicalTrials.gov number, NCT04283461. opens in new tab).
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / July, 2020 - N Engl J Med
+    quote !a = Solicited adverse events that occurred in more than half the participants included fatigue, chills, headache, myalgia, and pain at the injection site. Systemic adverse events were more common after the second vaccination, particularly with the highest dose, and three participants (21%) in the 250-μg dose group reported one or more severe adverse events.
+
+    / July, 2020 - N Engl J Med
+    quote !b = Seroconversion was rapid for binding antibodies, occurring within 2 weeks after the first vaccination, but pseudovirus neutralizing activity was low before the second vaccination, which supports the need for a two-dose vaccination schedule.
+
+    / July, 2020 - N Engl J Med
+    quote !c = The two-dose vaccine series was generally without serious toxicity; systemic adverse events after the first vaccination, when reported, were all graded mild or moderate. Greater reactogenicity followed the second vaccination, particularly in the 250-μg group. Across the three dose groups, local injection-site reactions were primarily mild.
+
+    / July, 2020 - N Engl J Med
+    quote !d = Of the three doses evaluated, the 100-μg dose elicits high neutralization responses and Th1-skewed CD4 T cell responses, coupled with a reactogenicity profile that is more favorable than that of the higher dose.
+
+    / July, 2020 - N Engl J Med
+    quote !e = In this interim report of follow-up of participants through day 57, we were not able to assess the durability of the immune responses.
+
+    / July, 2020 - N Engl J Med
+    quote !f = It is important to note that both binding and neutralizing antibody titers induced by the two-dose schedule were similar to those found in convalescent serum specimens.
 
 
 

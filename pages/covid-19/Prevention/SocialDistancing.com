@@ -64,5 +64,4 @@ subject SocialDistancing
     'Chu_et_al_06_01_2020
     'Cheng_et_al_03_19_2020
     'Doung-ngern_et_al_08_14_2020
-    'Adam_et_al_2020.!j
     'Miller_et_al_2020b
