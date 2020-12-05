@@ -14,7 +14,7 @@ model Elements
 
 /// A compound is a substance composed of two or more elements joined by chemical bonds. In nature, elements rarely occur alone. Instead, they combine to form compounds.
 model Compounds
-  <<
+  <
     Compound
 
   >
@@ -63,7 +63,7 @@ model Molecule
 
 /// When a molecule is made up of two or more atoms of different elements, it is called a chemical compound.
 model Compound
-  <<
+  <
     Compounds
 
   >
@@ -86,17 +86,17 @@ model Ion
 
   /// A positively charged ion is known as a cation. A cation is indicated by a plus sign, as in: K<sup>+</sup>.
   model Cation
-    <<
+    <
       Ion
 
   /// A negatively charged ion is known as an anion. An anion is indicated by a minus sign, as in: F<sup>-</sup>.
   model Anion
-    <<
+    <
       Ion
 
 /// An  ionic bond is an ongoing, close association between ions of opposite charge.
 model IonicBond
-  <<
+  <
     Ion
 
   >
@@ -154,13 +154,13 @@ model HydrogenBond
 
 /// A peptide bond is a covalent bond between two amino acids that forms by dehydration synthesis.
 model PeptideBond
-  <<
+  <
     CovalentBond
     AminoAcid
 
 /// A disulfide bond is a covalent bond between sulfur atoms in a polypeptide.
 model DisulfideBond
-  <<
+  <
     Polypeptide
 
 /// Chemical reactions that release more energy than they absorb are characterized as exergonic.

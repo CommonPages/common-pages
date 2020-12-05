@@ -119,7 +119,7 @@ index: hide
   ref 'WHO_04_06_2020
     head = This document provides advice on the use of masks in communities, during home care, and in health care settings in areas that have reported cases of COVID-19. It is intended for individuals in the community, public health and infection prevention and control (IPC) professionals, health care managers, health care workers (HCWs), and community health workers. It will be revised as more data become available.
 
-    -- quotes
+    - quotes
       !a
       !b
       !c

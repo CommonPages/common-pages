@@ -42,7 +42,7 @@ model AreolarTissue
 model ReticularTissue
   # https://en.wikipedia.org/wiki/Reticular_connective_tissue
 
-  <<
+  <
     ConnectiveTissue
     ReticularFiber
     Stroma

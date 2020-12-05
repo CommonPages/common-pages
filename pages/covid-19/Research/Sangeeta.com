@@ -1483,7 +1483,7 @@ feed Sangeeta
     > Results
       The median duration of SARS-CoV-2 RNA shedding were 12 (3-38), 19 (5-37), and 18 (7-26) days in nasopharyngeal swabs, sputum and stools, respectively. Only 13 urines (5.6%) and 12 plasmas (5.7%) were viral positive. Prolonged viral shedding was observed in severe patients than that of non-severe patients. Cough but not fever, aligned with viral shedding in clinical respiratory specimens, meanwhile the positive stool-RNA appeared to align with the proportion who concurrently had cough and sputum production, but not diarrhea. Typical coronaviral particles could be found directly in sputum by TEM. The anti-nucleocapsid-protein IgM started on day 7 and positive rate peaked on day 28, while that of IgG was on day 10 and day 49 after illness onset. IgM and IgG appear earlier, and their titers are significantly higher in severe patients than non-severe patients (p<0.05). The weak responders for IgG had a significantly higher viral clearance rate than that of strong responders (p= 0.011).
 
-    >>> Conclusions
+    > Conclusions
       Nasopharyngeal, sputum and stools rather than blood and urine, were the major shedding routes for SARS-CoV-2, and meanwhile sputum had a prolonged viral shedding. Symptom cough seems to be aligned with viral shedding in clinical respiratory and fecal specimens. Stronger antibody response was associated with delayed viral clearance and disease severity.
 
     - quotes
@@ -2630,7 +2630,7 @@ feed Sangeeta
   ref 'Brooks_et_al_07_14_2020
     head = In the largest health care system in Massachusetts with more than 75,000 employees, in tandem with routine symptom screening and diagnostic testing of symptomatic HCWs for SARS-CoV-2 infection, leadership mandated a policy of universal masking for all HCWs as well as for all patients.
 
-    -- quotes
+    - quotes
       !a
       !b
 
@@ -2646,7 +2646,7 @@ feed Sangeeta
   ref 'Wang_et_al_07_14_2020
     head = Mass General Brigham (MGB) is the largest health care system in Massachusetts, with 12 hospitals and more than 75,000 employees. In March 2020, MGB implemented a multipronged infection reduction strategy involving systematic testing of symptomatic HCWs and universal masking of all HCWs and patients with surgical masks. This study assessed the association of hospital masking policies with the SARS-CoV-2 infection rate among HCWs.
 
-    -- quotes
+    - quotes
       !Effect
       !Caveat
       !Support

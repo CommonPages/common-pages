@@ -525,7 +525,7 @@ feed June2020
     > Conclusions
       We identified a 3p21.31 gene cluster as a genetic susceptibility locus in patients with Covid-19 with respiratory failure and confirmed a potential involvement of the ABO blood-group system.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -1258,7 +1258,7 @@ feed June2020
     > Abstract
       Antibodies targeting the spike protein of SARS-CoV-2 present a promising approach to combat the COVID19 pandemic; however, concerns remain that mutations can yield antibody resistance. We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population. However, novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
 
-    # -- quotes
+    # - quotes
     #   !a
     #
     # / June, 2020 - American Association for the Advancement of Science
@@ -1997,7 +1997,7 @@ feed June2020
       Our serological data suggest that SARS-CoV-2 is a new emerging virus. The seropositivity rate in Hubei returnees indicates that RT-PCR-confirmed patients only represent a small proportion of the total number of cases. The low seroprevalence suggests that most of the Hong Kong and Hubei population remain susceptible to COVID-19. Future waves of the outbreak are inevitable without a vaccine or antiviral prophylaxis. The role of age-related cross reactive non-neutralising antibodies in the pathogenesis of COVID-19 warrants further investigation.
 
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -2051,7 +2051,7 @@ feed June2020
     > Abstract
       The coronavirus disease 2019 (COVID-19) pandemic has highlighted the need for different types of diagnostics, comparative validation of new tests, faster approval by federal agencies, and rapid production of test kits to meet global demands. In this Perspective, we discuss the utility and challenges of current diagnostics for COVID-19.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -2294,7 +2294,7 @@ feed June2020
   #     The findings of this systematic review and meta-analysis support physical distancing of 1 m or more and provide quantitative estimates for models and contact tracing to inform policy. Optimum use of face masks, respirators, and eye protection in public and health-care settings should be informed by these findings and contextual factors. Robust randomised trials are needed to better inform the evidence for these interventions, but this systematic appraisal of currently best available evidence might inform interim guidance.
   #
   #
-  #   -- quotes
+  #   - quotes
   #     !a
   #     !b
   #     !c

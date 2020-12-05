@@ -35,14 +35,14 @@
     / Rough Endoplasmic Reticulum
     /// Rough ER (RER) is a form of Endoplasmoc Reticulum whose membrane is dotted with embedded granules—organelles called ribosomes, giving the RER a bumpy appearance.
     model RoughEndoplasmicReticulum
-      <<
+      <
         EndoplasmicReticulum
         Ribosome
 
     / Smooth Endoplasmic Reticulum
     /// Smooth ER (SER) is a form of Endoplasmic Reticulum whose membrane is not embedded with ribosomes.
     model SmoothEndoplasmicReticulum
-      <<
+      <
         EndoplasmicReticulum
         Ribosome
 

@@ -629,7 +629,7 @@ feed April2020
     > Abstract
       Pandemics originating from pathogen transmission between animals and humans highlight the broader need to understand how natural hosts have evolved in response to emerging human pathogens and which groups may be susceptible to infection. Here, we investigate angiotensin-converting enzyme 2 (ACE2), the host protein bound by SARS-CoV and SARS-CoV-2. We find that the ACE2 gene is under strong selection pressure in bats, the group in which the progenitors of SARS-CoV and SARS-CoV-2 are hypothesized to have evolved, particularly in residues that contact SARS-CoV and SARS-CoV-2. We detect positive selection in non-bat mammals in ACE2 but in a smaller proportion of branches than in bats, without enrichment of selection in residues that contact SARS-CoV or SARS-CoV-2. Additionally, we evaluate similarity between humans and other species in residues that contact SARS-CoV or SARS-CoV-2, revealing potential susceptible species but also highlighting the difficulties of predicting spillover events. This work increases our understanding of the relationship between mammals, particularly bats, and coronaviruses, and provides data that can be used in functional studies of how host proteins are bound by SARS-CoV and SARS-CoV-2 strains.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -717,7 +717,7 @@ feed April2020
     > Abstract
       The novel coronavirus SARS-CoV-2 is the cause of Coronavirus Disease-2019 (COVID-19). The main receptor of SARS-CoV-2, angiotensin I converting enzyme 2 (ACE2), is now undergoing extensive scrutiny to understand the routes of transmission and sensitivity in different species. Here, we utilized a unique dataset of 410 vertebrates, including 252 mammals, to study cross-species conservation of ACE2 and its likelihood to function as a SARS-CoV-2 receptor. We designed a five-category ranking score based on the conservation properties of 25 amino acids important for the binding between receptor and virus, classifying all species from very high to very low. Only mammals fell into the medium to very high categories, and only catarrhine primates in the very high category, suggesting that they are at high risk for SARS-CoV-2 infection. We employed a protein structural analysis to qualitatively assess whether amino acid changes at variable residues would be likely to disrupt ACE2/SARS-CoV-2 binding, and found the number of predicted unfavorable changes significantly correlated with the binding score. Extending this analysis to human population data, we found only rare (<0.1%) variants in 10/25 binding sites. In addition, we observed evidence of positive selection in ACE2 in multiple species, including bats. Utilized appropriately, our results may lead to the identification of intermediate host species for SARS-CoV-2, justify the selection of animal models of COVID-19, and assist the conservation of animals both in native habitats and in human care.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -949,7 +949,7 @@ feed April2020
     > Abstract
       The pandemic of the COVID-19 disease extended from China across the north-temperate zone, and more recently to the tropics and southern hemisphere. We find no evidence that spread rates decline with temperatures above 20 oC, suggesting that the COVID-19 disease is unlikely to behave as a seasonal respiratory virus.
 
-    # -- quotes
+    # - quotes
     #   !d
 
     # / April, 2020 - MedRxiv
@@ -1071,7 +1071,7 @@ feed April2020
     > Abstract
       The novel coronavirus SARS-CoV-2, the causative agent of COVID-19 respiratory disease, has infected over 2.3 million people, killed over 160,000, and caused worldwide social and economic disruption1,2. There are currently no antiviral drugs with proven clinical efficacy, nor are there vaccines for its prevention, and these efforts are hampered by limited knowledge of the molecular details of SARS-CoV-2 infection. To address this, we cloned, tagged and expressed 26 of the 29 SARS-CoV-2 proteins in human cells and identified the human proteins physically associated with each using affinity-purification mass spectrometry (AP-MS), identifying 332 high-confidence SARS-CoV-2-human protein-protein interactions (PPIs). Among these, we identify 66 druggable human proteins or host factors targeted by 69 compounds (29 FDA-approved drugs, 12 drugs in clinical trials, and 28 preclinical compounds). Screening a subset of these in multiple viral assays identified two sets of pharmacological agents that displayed antiviral activity: inhibitors of mRNA translation and predicted regulators of the Sigma1 and Sigma2 receptors. Further studies of these host factor targeting agents, including their combination with drugs that directly target viral enzymes, could lead to a therapeutic regimen to treat COVID-19.
 
-    # -- quotes
+    # - quotes
     #    !a
     #    !b
     #    !c
@@ -1402,7 +1402,7 @@ feed April2020
     > Abstract
       Intense non-pharmaceutical interventions were put in place in China to stop transmission of the novel coronavirus disease (COVID-19). As transmission intensifies in other countries, the interplay between age, contact patterns, social distancing, susceptibility to infection, and COVID-19 dynamics remains unclear. To answer these questions, we analyze contact surveys data for Wuhan and Shanghai before and during the outbreak and contact tracing information from Hunan Province. Daily contacts were reduced 7-8-fold during the COVID-19 social distancing period, with most interactions restricted to the household. We find that children 0-14 years are less susceptible to SARS-CoV-2 infection than adults 15-64 years of age (odds ratio 0.34, 95%CI 0.24-0.49), while in contrast, individuals over 65 years are more susceptible to infection (odds ratio 1.47, 95%CI: 1.12-1.92). Based on these data, we build a transmission model to study the impact of social distancing and school closure on transmission. We find that social distancing alone, as implemented in China during the outbreak, is sufficient to control COVID-19. While proactive school closures cannot interrupt transmission on their own, they can reduce peak incidence by 40-60% and delay the epidemic.
 
-    # -- quotes
+    # - quotes
     #   !b
     #   !c
     #   !d
@@ -1534,7 +1534,7 @@ feed April2020
   # ref 'Bae_et_al_04_06_2020
   #   head = In conclusion, both surgical and cotton masks seem to be ineffective in preventing the dissemination of SARS–CoV-2 from the coughs of patients with COVID-19 to the environment and external mask surface.
   #
-  #   -- quotes
+  #   - quotes
   #     !a
   #     !b
   #
@@ -2081,7 +2081,7 @@ feed April2020
     > Abstract
       The rapid spread of COVID-19 in many areas of the world calls for preventive health measures. Although basic guidelines on infection control are suggested, treatment has remained the best choice to avert mortality. However, for the time being, there are no known vaccines for the disease. In this paper, a multinomial logistic regression was used to predict clinical outcomes of patients infected with COVID-19 based on 25-hydroxyvitamin D [25(OH)D] levels, the barometer for Vitamin D status. A retrospective multicentre study of 212 cases with laboratory-confirmed infection of SARS-CoV-2 was conducted. Data pertaining to clinical features and serum 25(OH)D levels were extracted from the medical records. For statistical analysis, Mann-Whitney U and χ² tests were used to compare differences in the clinical outcomes. Multinomial logistic regression was used to explore the association between serum 25(OH)D level and clinical outcomes of the cases. Frequency and percentage were used for categorical variables. Mean was used for continuous variables. A p-value below 0.01 was considered statistically significant. Of the 212 cases of COVID-19, majority had ordinary clinical outcome. Mean serum 25(OH)D level was 23.8 ng/ml. Serum 25(OH)D level was lowest in critical cases, but highest in mild cases. Serum 25(OH)D levels were statistically significant among clinical outcomes. Majority had insufficient Vitamin D status, most of them were not severe. Vitamin D status is significantly associated with clinical outcomes. A multinomial logistic regression analysis reported that for each standard deviation increase in serum 25(OH)D, the odds of having a mild clinical outcome rather than a severe outcome were approximately 7.94 times (OR=0.126, p<0.001) while interestingly, the odds of having a mild clinical outcome rather than a critical outcome were approximately 19.61 times (OR=0.051, p<0.001). The results suggest that an increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes, while a decrease in serum 25(OH)D level in the body could worsen clinical outcomes of COVID-2019 patients. In conclusion, this study provides substantial information to clinicians and health policy-makers. Vitamin D supplementation could possibly improve clinical outcomes of patients infected with COVID-19. Further research should conduct randomized controlled trials and large population studies to evaluate this recommendation.
 
-    # -- quotes
+    # - quotes
     #   !a
 
     / April, 2020 - SSRN
@@ -2149,7 +2149,7 @@ feed April2020
     > Abstract
       In response to antigen challenge, B cells clonally expand, undergo selection and differentiate to produce mature B cell subsets and high affinity antibodies. However, the interplay between dynamic B cell states and their antibody-based selection is challenging to decipher in primary human tissue. We have applied an integrated analysis of bulk and single-cell antibody repertoires paired with single-cell transcriptomics of human B cells undergoing affinity maturation. We define unique gene expression and antibody repertoires of known and novel B cell states, including a pre-germinal centre state primed to undergo class switch recombination. We dissect antibody class-dependent gene expression of germinal centre and memory B cells to find that class switching prior to germinal centre entry dictates the capacity of B cells to undergo antibody-based selection and differentiate. Together, our analyses provide unprecedented resolution into the gene expression and selection dynamics that shape B cell-mediated immunity.
 
-    # -- quotes
+    # - quotes
     #   !a
 
     / April, 2020 - bioRxiv
@@ -2328,7 +2328,7 @@ feed April2020
     > Abstract
       Coronavirus disease 2019 (COVID-19) or severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a novel coronavirus strain disease, has recently emerged in China and rapidly spread worldwide. This novel strain is highly transmittable and severe disease has been reported in up to 16% of hospitalized cases. More than 600,000 cases have been confirmed and the number of deaths is constantly increasing. COVID-19 hospitalized patients, especially those suffering from severe respiratory or systemic manifestations, fall under the spectrum of the acutely ill medical population, which is at increased venous thromboembolism risk. Thrombotic complications seem to emerge as an important issue in patients infected with COVID-19. Preliminary reports on COVID-19 patients’ clinical and laboratory findings include thrombocytopenia, elevated D-dimer, prolonged prothrombin time, and disseminated intravascular coagulation. As the pandemic is spreading and the whole picture is yet unknown, we highlight the importance of coagulation disorders in COVID-19 infected patients and review relevant data of previous coronavirus epidemics caused by the severe acute respiratory syndrome coronavirus 1 (SARS-CoV-1) and the Middle East Respiratory Syndrome coronavirus (MERS-CoV).
 
-    # -- quotes
+    # - quotes
     #  !a
 
     # / April, 2020 - Journal of Clinical Virology
@@ -2353,7 +2353,7 @@ feed April2020
     > Conclusions
        Emergency clinicians should be aware of these cardiovascular complications when evaluating and managing the patient with COVID-19.
 
-    # -- quotes
+    # - quotes
     #  !a
 
     # / April, 2020 - Am J Emerg Med
@@ -2412,7 +2412,7 @@ feed April2020
     / April, 2020 - Journal of Virology
     quote !a = Understanding how variation in HLA may affect the course of COVID-19 could help identify individuals at higher risk from the disease. HLA typing can be fast and inexpensive. Pairing HLA typing with COVID-19 testing where feasible could improve assessment of viral severity in the population.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -2861,7 +2861,7 @@ feed April2020
     > Abstract
       Rapid and accurate SARS-CoV-2 diagnostic testing is essential for controlling the ongoing COVID-19 pandemic. The current gold standard for COVID-19 diagnosis is real-time RT-PCR detection of SARS-CoV-2 from nasopharyngeal swabs. Low sensitivity, exposure risks to healthcare workers, and global shortages of swabs and personal protective equipment, however, necessitate the validation of new diagnostic approaches. Saliva is a promising candidate for SARS-CoV-2 diagnostics because collection is minimally invasive and can reliably be self-administered and saliva has exhibited comparable sensitivity to nasopharyngeal swabs in detection of other respiratory pathogens, including endemic human coronaviruses, in previous studies. To validate the use of saliva for SARS-CoV-2 detection, we tested nasopharyngeal and saliva samples from confirmed COVID-19 patients and self-collected samples from healthcare workers on COVID-19 wards. When we compared SARS-CoV-2 detection from patient-matched nasopharyngeal and saliva samples, we found that saliva yielded greater detection sensitivity and consistency throughout the course of infection. Furthermore, we report less variability in self-sample collection of saliva. Taken together, our findings demonstrate that saliva is a viable and more sensitive alternative to nasopharyngeal swabs and could enable at-home self-administered sample collection for accurate large-scale SARS-CoV-2 testing.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -3133,7 +3133,7 @@ feed April2020
     > Abstract
       Due to urgency and demand, numerous severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) immunoassays are rapidly being developed and placed on the market with limited validation on clinical samples. Thorough validation of serological tests are required to facilitate their use in the accurate diagnosis of SARS-CoV-2 infection, confirmation of molecular results, contact tracing, and epidemiological studies. This study evaluated the sensitivity and specificity of nine commercially available serological tests. These included three enzyme-linked immunosorbent assays (ELISAs) and six point-of-care (POC) lateral flow tests. The assays were validated using serum samples from: i) SARS-CoV-2 PCR-positive patients with a documented first day of disease; ii) archived sera obtained from healthy individuals before the emergence of SARS-CoV-2 in China; iii) sera from patients with acute viral respiratory tract infections caused by other coronaviruses or non-coronaviruses; and iv) sera from patients positive for dengue virus, cytomegalovirus and Epstein Barr virus. The results showed 100% specificity for the Wantai SARS-CoV-2 Total Antibody ELISA, 93% for the Euroimmun IgA ELISA, and 96% for the Euroimmun IgG ELISA with sensitivities of 90%, 90%, and 65%, respectively. The overall performance of the POC tests according to manufacturer were in the rank order of AutoBio Diagnostics > Dynamiker Biotechnology = CTK Biotech > Artron Laboratories > Acro Biotech ≥ Hangzhou Alltest Biotech. Overall, these findings will facilitate selection of serological assays for the detection SARS-CoV-2-specific antibodies towards diagnosis as well as sero-epidemiological and vaccine development studies.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -3419,7 +3419,7 @@ feed April2020
   ref 'Dandekar_et_al_2020
     head = We focus our analysis on four locales: Wuhan, Italy, South Korea and the United States of America, and compare the role played by the quarantine and isolation measures. The countries in which rapid government interventions and strict public health measures for quarantine and isolation were implemented were successful in halting the spread of infection and prevent it from exploding exponentially.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !c
     #   !d

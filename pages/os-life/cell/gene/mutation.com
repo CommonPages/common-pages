@@ -8,7 +8,7 @@ model Mutation
 /// A mutation is a change in the nucleotide sequence in a gene within a cell’s DNA, potentially altering the protein coded by that gene.
 model GeneMutation
   # https://en.wikipedia.org/wiki/Mutation
-  <<
+  <
     Gene
     Nucleotide
     DNA
@@ -128,7 +128,7 @@ model NonsynonymousSubstitution
 /// ndel is a molecular biology term for an insertion or deletion of bases in the genome of an organism.
 model Indel
   # https://en.wikipedia.org/wiki/Indel
-  <<
+  <
     Insertion
     Deletion
 
@@ -157,7 +157,7 @@ model Indel
 # /// A frameshift mutation is a genetic mutation caused by insertions or deletions of a number of nucleotides in a DNA sequence that is not divisible by three. Due to the triplet nature of gene expression by codons, the insertion or deletion can change the reading frame (the grouping of the codons), resulting in a completely different translation from the original.
 # model FrameshiftMutation
 #   #  https://en.wikipedia.org/wiki/Frameshift_mutation
-#   <<
+#   <
 #     GeneMutation
 #     Insertion
 #     Deletion

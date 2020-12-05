@@ -12,7 +12,7 @@ module basis
   /// Life processes of the human body are maintained at several levels of structural organization. These include the chemical, cellular, tissue, organ, organ system, and the organism level.
   model Structure
 
-    ^^
+    ^
       InBrief
 
     path InBrief
@@ -43,7 +43,7 @@ module basis
       // The body is made of organ systems.
       /// An organ system is a group of organs that work together to perform major functions or meet physiological needs of the body.
       step
-        <<
+        <
           SystemLevel
           system
 
@@ -56,7 +56,7 @@ module basis
       // Organ systems are made of organs.
       /// An organ is an anatomically distinct structure of the body. Each organ performs one or more specific physiological functions.
       step
-        <<
+        <
           OrganLevel
 
         >
@@ -68,7 +68,7 @@ module basis
       // Organs are made of tissues.
       /// A tissue is a group of many similar cells and surrounding chemicals that work together to perform a specific function.
       step
-        <<
+        <
           TissueLevel
           tissue
 
@@ -79,7 +79,7 @@ module basis
       // Tissues are made of cells.
       /// A cell is the smallest independently functioning unit of a living organism. Cells are the building blocks of life.
       step
-        <<
+        <
           CellularLevel
           cell
 
@@ -90,7 +90,7 @@ module basis
       // Cells are made of chemicals.
       /// Chemicals form all parts of the cell, from its walls to its internal fluids, and the genetic code that determines its form and function.
       step
-        <<
+        <
           ChemicalLevel
           chem
 
@@ -114,7 +114,7 @@ module basis
     / The Chemical Level
     /// All matter in the universe is composed of one or more unique pure substances called elements. The smallest unit of any of these pure substances (elements) is an atom. Two or more atoms combine to form a molecule. Molecules are the chemical building blocks of all body structures.
     model ChemicalLevel
-      <<
+      <
         chem
 
       >
@@ -123,7 +123,7 @@ module basis
     / The Cellular Level
     /// A cell is the smallest independently functioning unit of a living organism. In humans, as in all organisms, cells perform all functions of life.
     model CellularLevel
-      <<
+      <
         Functions
         cell
 
@@ -135,7 +135,7 @@ module basis
     / The Tissue Level
     /// A tissue is a group of many similar cells (though sometimes composed of a few related types) that work together to perform a specific function.
     model TissueLevel
-      <<
+      <
         tissue
 
     / The Organ Level
@@ -145,7 +145,7 @@ module basis
     / The Organ Systems Level
     /// An organ system is a group of organs that work together to perform major functions or meet physiological needs of the body.
     model SystemLevel
-      <<
+      <
         system
 
       >
@@ -154,7 +154,7 @@ module basis
     / The Organism Level
     /// The organism level is the highest level of organization. An organism is a living being that has a cellular structure and that can independently perform all physiologic functions necessary for life.
     model OrganismLevel
-      <<
+      <
         organism
 
       >
@@ -331,17 +331,16 @@ module basis
         ControlCenter
         Effector
 
-      >>
-        partial.negativefeedback
+      insert partial.negativefeedback
 
       /// A  sensor, also referred to a receptor, is a component of a feedback system that monitors a physiological value. This value is reported to the control center.
       model Sensor
-        <<
+        <
           ControlCenter
 
       /// The  control center is the component in a feedback system that compares the value to the normal range. If the value deviates too much from the set point, then the control center activates an effector.
       model ControlCenter
-        <<
+        <
           Effector
 
       /// An  effector is the component in a feedback system that causes a change to reverse the situation and return the value to the normal range.
@@ -349,5 +348,4 @@ module basis
 
     /// Positive feedback intensifies a change in the body’s physiological condition rather than reversing it.
     model PositiveFeedback
-      >>
-        partial.positivefeedback
+      insert partial.positivefeedback

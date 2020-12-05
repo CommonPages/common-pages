@@ -57,7 +57,7 @@
 
   /// Phospholipids are a class of lipids that are a major component of all cell membranes.
   model PhospholipidMolecule
-    <<
+    <
       Lipid
     # https://en.wikipedia.org/wiki/Phospholipid
 
@@ -91,7 +91,7 @@
   # There it releases the oxygen to permit aerobic respiration to provide energy to power the functions of the organism in the process called metabolism.
   model Hemoglobin
     # https://en.wikipedia.org/wiki/Hemoglobin
-    <<
+    <
       Metalloprotein
 
   /// The globins are a superfamily of heme-containing globular proteins, involved in binding and/or transporting oxygen.
@@ -132,7 +132,7 @@
 
   /// An antibody (Ab) is a large, Y-shaped protein produced mainly by plasma cells that is used by the immune system to neutralize pathogens such as pathogenic bacteria and viruses.
   model Antibody
-    <<
+    <
       PlasmaCells
       *ImmuneSys
       Pathogen
@@ -223,7 +223,7 @@
   /// Erythropoietin, also known as haematopoietin or haemopoietin, is a glycoprotein cytokine secreted by the kidney in response to cellular hypoxia; it stimulates red blood cell production in the bone marrow.
   model Erythropoietin
     # https://en.wikipedia.org/wiki/Erythropoietin
-    <<
+    <
       Glycoproteins
       Cytokines
       Erythropoiesis
@@ -239,7 +239,7 @@
   /// Interleukins (ILs) are a group of cytokines that were first seen to be expressed by white blood cells. The function of the immune system depends in a large part on interleukins.
   model Interleukins
     #
-    <<
+    <
       Cytokines
       WBCs
 
@@ -250,7 +250,7 @@
   /// Chemokines are a family of small cytokines, or signaling proteins secreted by cells. Their name is derived from their ability to induce directed chemotaxis in nearby responsive cells.
   model Chemokine
     # https://en.wikipedia.org/wiki/Chemokine
-    <<
+    <
       Cytokines
       Chemotaxis
 
@@ -324,7 +324,7 @@
   / Transporter associated with antigen processing
   /// Transporter associated with antigen processing (TAP) protein complex belongs to the ATP-binding-cassette transporter family. It delivers cytosolic peptides into the endoplasmic reticulum (ER), where they bind to nascent MHC class I molecules.
   model TAP
-    <<
+    <
       ATP
       EndoplasmicReticulum
       MHCI

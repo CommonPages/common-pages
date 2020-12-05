@@ -2,7 +2,7 @@
 /// Lymph is the fluid that flows through the lymphatic system. Its composition continually changes as the blood and the surrounding cells continually exchange substances with the interstitial fluid. Lymph has a composition similar but not identical to that of blood plasma.
 model Lymph
   # https://en.wikipedia.org/wiki/Lymph
-  <<
+  <
     *LymphSys
     *plasma
 

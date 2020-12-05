@@ -2,7 +2,7 @@
 /// A synovial joint, also known as diarthrosis, joins bones with a fibrous joint capsule that is continuous with the periosteum of the joined bones, constitutes the outer boundary of a synovial cavity, and surrounds the bones' articulating surfaces. The synovial cavity/joint is filled with synovial fluid.
 model SynovialJoint
   # https://en.wikipedia.org/wiki/Synovial_joint
-  <<
+  <
     SynovialFluid
 
 /// The endocrine system is a chemical messenger system comprising feedback loops of hormones released by internal glands of an organism directly into the circulatory system, regulating distant target organs.
@@ -16,7 +16,7 @@ model EndocrineSystem
 /// A hormone is any member of a class of signaling molecules produced by glands that are transported by the circulatory system to target distant organs to regulate physiology and behavior.
 model Hormone
   # https://en.wikipedia.org/wiki/Hormone
-  <<
+  <
     Gland
 
   >
@@ -30,7 +30,7 @@ model Myelin
 /// Colony-stimulating factors (CSFs) are secreted glycoproteins that bind to receptor proteins on the surfaces of hemopoietic stem cells, thereby activating intracellular signaling pathways that can cause the cells to proliferate and differentiate into a specific kind of blood cell.
 model CSFs
   # https://en.wikipedia.org/wiki/Colony-stimulating_factor
-  <<
+  <
     Glycoproteins
     HematopoieticStemCell
 
@@ -41,7 +41,7 @@ model VascularSystem
 /// The gastric mucosa is the mucous membrane layer of the stomach, which contains the glands and the gastric pits. It consists of simple columnar epithelium, lamina propria, and the muscularis mucosae.
 model GasticMucosa
   # https://en.wikipedia.org/wiki/Gastric_mucosa
-  <<
+  <
     SimpleColumnarEpithelium
     LaminaPropria
     MuscularisMucosae

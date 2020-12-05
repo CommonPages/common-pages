@@ -44,7 +44,7 @@ module cardio
 
           Cross matching to determine blood type is necessary before transfusing blood, unless the patient is experiencing hemorrhage that is an immediate threat to life, in which case type O<sup>−</sup> blood may be transfused.
 
-    ^^
+    ^
       InBrief
 
     >
@@ -156,7 +156,7 @@ module cardio
 
             {image:'Figure_19_1_1}
 
-      ^^
+      ^
         BloodTests
 
       / Blood Plasma
@@ -232,7 +232,7 @@ module cardio
             >
               Platelets are fragments of cells known as megakaryocytes that dwell within the bone marrow. While many platelets are stored in the spleen, others enter the circulation and are essential for hemostasis; they also produce several growth factors important for repair and healing.
 
-        ^^
+        ^
           InBrief
 
         -
@@ -246,7 +246,7 @@ module cardio
         / Red Blood Cells
         /// Red blood cells (RBCs or erythrocytes) are the most common type of blood cell and the principal means of delivering oxygen to the body tissues—via blood flow through the circulatory system. RBCs take up oxygen in the lungs and release it into tissues while squeezing through the body's capillaries.
         module rbcs
-          <<
+          <
             RBCs
 
           -
@@ -305,7 +305,7 @@ module cardio
         / White Blood Cells
         /// The  leukocyte, commonly known as a white blood cell (or WBC), is a major component of the body’s defenses against disease. Leukocytes protect the body against invading microorganisms and body cells with mutated DNA, and they clean up debris.
         module wbcs
-          <<
+          <
             WBCs
             DNA
 
@@ -375,13 +375,13 @@ module cardio
         / Platelets
         /// Platelets (sometimes called thrombocytes) are a component of blood whose function is to react to bleeding from blood vessel injury by clumping, thereby initiating a blood clot.
         module platelets
-          <<
+          <
             Platelets
 
           / Characteristics
           /// A platelet is not a cell but rather a fragment of the cytoplasm of a cell called a megakaryocyte that is surrounded by a plasma membrane.
           module characteristics
-            <<
+            <
               Megakaryocyte
 
             >
@@ -481,7 +481,7 @@ module cardio
           >
             The arterial system is a relatively high-pressure system, so arteries have thick walls that appear round in cross section. The venous system is a lower-pressure system, containing veins that have larger lumens and thinner walls. They often appear flattened. Arteries, arterioles, venules, and veins are composed of three tunics known as the tunica intima, tunica media, and tunica externa. Capillaries have only a tunica intima layer. The tunica intima is a thin layer composed of a simple squamous epithelium known as endothelium and a small amount of connective tissue. The tunica media is a thicker area composed of variable amounts of smooth muscle and connective tissue. It is the thickest layer in all but the largest arteries. The tunica externa is primarily a layer of connective tissue, although in veins, it also contains some smooth muscle. Blood flow through vessels can be dramatically influenced by vasoconstriction and vasodilation in their walls.
 
-      ^^
+      ^
         InBrief
 
       >

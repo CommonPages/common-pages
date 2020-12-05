@@ -36,7 +36,7 @@
     let *cell mean cell
     = Cell division is the process by which a parent *cell divides into two or more daughter cells. Cell division usually occurs as part of a larger cell cycle.
     # https://en.wikipedia.org/wiki/Cell_division
-    <<
+    <
       cell.celldiv
 
     >
@@ -193,7 +193,7 @@
   model CellCycle
     # https://en.wikipedia.org/wiki/Cell_cycle
 
-    <<
+    <
       Cell
       DNAReplication
       CellDivision
@@ -255,7 +255,7 @@
 
   /// Oxidative stress is the term used to describe damage to cellular components caused by ROS.
   model OxidativeStress
-    <<
+    <
       ROS
 
   /// Contact inhibition is a regulatory mechanism that functions to keep cells growing into a layer one cell thick. If a cell has plenty of available substrate space, it replicates rapidly and moves freely. This process continues until the cells occupy the entire substratum. At this point, normal cells will stop replicating.

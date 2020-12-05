@@ -58,7 +58,7 @@ feed February2020
     > Interpretation:
       Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs. Detection of viral RNAs in BLAF is necessary for diagnosis and monitoring of viruses in severe cases. CT scan could serve as an important make up for the diagnosis of NCP.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -775,7 +775,7 @@ feed February2020
   ref 'Zheng_et_al_2020
     head = The study indicates significantly different clinical features between 2019-nCoV-caused and non-2019-nCoV-caused pneumonia, especially in terms of lymphocytopenia and organ injury. Tissue damage in COVID-19 patients is attributed to virus infection itself rather than uncontrolled inflammatory responses ("cytokine storm").
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -965,7 +965,7 @@ feed February2020
     > Abstract
       In 2019, a new coronavirus (2019-nCoV) infecting Humans has emerged in Wuhan, China. Its genome has been sequenced and the genomic information promptly released. Despite a high similarity with the genome sequence of SARS-CoV and SARS-like CoVs, we identified a peculiar furin-like cleavage site in the Spike protein of the 2019-nCoV, lacking in the other SARS-like CoVs. In this article, we discuss the possible functional consequences of this cleavage site in the viral cycle, pathogenicity and its potential implication in the development of antivirals.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c

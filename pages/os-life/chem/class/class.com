@@ -42,12 +42,12 @@
 
   /// A peptide is a very short chain of amino acids.
   model Peptide
-    <<
+    <
       AminoAcid
 
   /// Chains of fewer than about 100 amino acids are generally referred to as polypeptides rather than proteins.
   model Polypeptide
-    <<
+    <
       AminoAcid
       Protein
 

@@ -3,7 +3,7 @@
 model Endothelium
   # https://en.wikipedia.org/wiki/Endothelium
 
-  <<
+  <
     Epithelium
     Lumen
     SimpleEpithelium
@@ -16,7 +16,7 @@ model Mesothelium
 /// Squamous epithelium has cells that are wider than their height (flat and scale-like).
 model SquamousEpithelium
   # https://en.wikipedia.org/wiki/Epithelium#Classification
-  <<
+  <
     Epithelium
 
   # This is found as the lining of the mouth, oesophagus, the blood vessels and in the alveoli of the lungs.
@@ -24,21 +24,21 @@ model SquamousEpithelium
 /// Cuboidal epithelium has cells whose height and width are approximately the same (cube shaped).
 model CuboidalEpithelium
   # https://en.wikipedia.org/wiki/Epithelium#Classification
-  <<
+  <
     Epithelium
 
 /// Columnar epithelium has cells taller than they are wide (column-shaped).
 model ColumnarEpithelium
   # https://en.wikipedia.org/wiki/Epithelium#Classification
 
-  <<
+  <
     Epithelium
 
 /// Simple epithelium is a single layer of cells with every cell in direct contact with the basement membrane that separates it from the underlying connective tissue. In general, it is found where absorption and filtration occur. The thinness of the epithelial barrier facilitates these processes.
 model SimpleEpithelium
   # https://en.wikipedia.org/wiki/Epithelium#Simple_epithelium
 
-  <<
+  <
     Epithelium
 
   >
@@ -55,7 +55,7 @@ model SimpleSquamousEpithelium
   # https://en.wikipedia.org/wiki/Simple_squamous_epithelium
   # https://en.wikipedia.org/wiki/Epithelium#Simple_epithelium
 
-  <<
+  <
     Epithelium
     SimpleEpithelium
     SquamousEpithelium
@@ -72,7 +72,7 @@ model SimpleCuboidalEpithelium
   # https://en.wikipedia.org/wiki/Simple_cuboidal_epithelium
   # https://en.wikipedia.org/wiki/Epithelium#Simple_epithelium
 
-  <<
+  <
     Epithelium
     SimpleEpithelium
     CuboidalEpithelium
@@ -84,7 +84,7 @@ model SimpleCuboidalEpithelium
 model SimpleColumnarEpithelium
   # https://en.wikipedia.org/wiki/Simple_columnar_epithelium
 
-  <<
+  <
     Epithelium
     SimpleEpithelium
     ColumnarEpithelium
@@ -96,7 +96,7 @@ model SimpleColumnarEpithelium
 
 /// Pseudostratified epithelium is a type of epithelium that, though comprising only a single layer of cells, has its cell nuclei positioned in a manner suggestive of stratified epithelia.
 model PseudostratifiedEpithelium
-  <<
+  <
     Epithelium
     SimpleEpithelium
     StratifiedEpithelium
@@ -111,7 +111,7 @@ model PseudostratifiedEpithelium
 /// Stratified epithelium differs from simple epithelium in that it is multilayered. It is therefore found where body linings have to withstand mechanical or chemical insult such that layers can be abraded and lost without exposing subepithelial layers.
 model StratifiedEpithelium
   # https://en.wikipedia.org/wiki/Epithelium#Stratified_epithelium
-  <<
+  <
     Epithelium
     SimpleEpithelium
 
@@ -148,7 +148,7 @@ model TransitionalEpithelium
 /// Glandular tissue is the type of epithelium that forms the glands from the infolding of epithelium and subsequent growth in the underlying connective tissue.
 model GlandularEpithelium
   # https://en.wikipedia.org/wiki/Epithelium#Glandular_tissue
-  <<
+  <
     Gland
     EpithelialTissue
     ConnectiveTissue

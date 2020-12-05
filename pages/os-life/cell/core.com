@@ -6,7 +6,7 @@ index: hide
     = The *cell is the basic structural, functional, and biological unit of all known living organisms. A cell is the smallest unit of life.
 
     # https://en.wikipedia.org/wiki/Cell_(biology)
-    # <<
+    # <
     #   cell
 
     >

@@ -5,7 +5,7 @@
   /// Perfusion is the passage of fluid through the circulatory system or lymphatic system to an organ or a tissue, usually referring to the delivery of blood to a capillary bed in tissue.
   model Perfusion
     # https://en.wikipedia.org/wiki/Perfusion
-    <<
+    <
       Blood
       Metarteriole.CapillaryBed
 
@@ -13,7 +13,7 @@
   model Microcirculation
     # https://en.wikipedia.org/wiki/Microcirculation
 
-    <<
+    <
       Arteriole
       Metarteriole
       Capillary
@@ -37,13 +37,13 @@
   /// Antigen processing is an immunological process that prepares antigens for presentation to special cells of the immune system called T lymphocytes. It is considered to be a stage of antigen presentation pathways.
   model AntigenProcessing
     # https://en.wikipedia.org/wiki/Antigen_processing
-    <<
+    <
       AntigenPresentation
 
   /// Antigen presentation describes a vital immune process which is essential for T cell immune response triggering.
   model AntigenPresentation
     # https://en.wikipedia.org/wiki/Antigen_presentation
-    <<
+    <
       Antigen
     >
        Because {TCells T cells} recognise only fragmented antigens displayed on cell surfaces, antigen processing must occur before the antigen fragment, now bound to the major histocompatibility complex ({MHC}), is transported to the surface of the cell, a process known as presentation, where it can be recognized by a {TCellReceptor T cell receptor}. If there has been an infection with viruses or bacteria, the cell will present an endogenous or exogenous peptide fragment derived from the antigen bound to MHC molecules.
@@ -51,13 +51,13 @@
   /// Central tolerance, also known as negative selection, is the process of eliminating any developing T or B lymphocytes that are reactive to self. Through elimination of autoreactive lymphocytes, tolerance ensures that the immune system does not attack self peptides. Central tolerance is not perfect, so peripheral tolerance exists as a secondary mechanism.
   model CentralTolerance
     # https://en.wikipedia.org/wiki/Central_tolerance#T_cell_tolerance
-    <<
+    <
       PeripheralTolerance
 
   /// Peripheral tolerance is the second branch of immunological tolerance, after central tolerance. Its main purpose is to ensure that self-reactive T and B cells which escaped central tolerance do not cause autoimmune disease.
   model PeripheralTolerance
     # https://en.wikipedia.org/wiki/Peripheral_tolerance
-    <<
+    <
       CentralTolerance
 
   /// In a pre-existing group of lymphocytes (specifically B cells), a specific antigen only activates (i.e. selects) its counter-specific cell so that particular cell is induced to multiply (producing its clones) for antibody production. This process is called clonal selection.
@@ -92,7 +92,7 @@
   /// Hematopoiesis (also hemopoiesis) is the formation of blood cellular components. All cellular blood components are derived from hematopoietic stem cells, which reside in the bone marrow and have the unique ability to give rise to all of the different mature blood cell types and tissues.
   model Hematopoiesis
     # https://en.wikipedia.org/wiki/Haematopoiesis
-    <<
+    <
       HematopoieticStemCell
 
   /// Hemostasis is a process which causes bleeding to stop, meaning to keep blood within a damaged blood vessel. It is the first stage of wound healing, and involves coagulation, blood changing from a liquid to a gel.

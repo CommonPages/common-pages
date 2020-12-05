@@ -27,7 +27,7 @@ module chem
   / Chemical Composition
   /// The substance of the universe is matter. All matter is composed of one or more of the 92 fundamental substances called elements. An atom is the smallest quantity of an element that retains the unique properties of that element.
   module basics
-    ^^
+    ^
       InBrief
 
     path InBrief
@@ -47,7 +47,7 @@ module chem
   / Chemical Bonds
   /// Atoms link by forming chemical bonds. Three types of chemical bonds important in human physiology are ionic bonds, covalent bonds, and hydrogen bonds.
   module bonds
-    ^^
+    ^
       InBrief
 
     >
@@ -93,7 +93,7 @@ module chem
         >
           The rate at which chemical reactions occur is influenced by several properties of the reactants: temperature, concentration and pressure, and the presence or absence of a catalyst. An enzyme is a catalytic protein that speeds up chemical reactions in the human body.
 
-    ^^
+    ^
       InBrief
 
     >
@@ -197,7 +197,7 @@ module chem
         >
           The pH of any solution is its relative concentration of H+. A solution with pH 7 is neutral. Solutions with pH below 7 are acids, and solutions with pH above 7 are bases. A change in a single digit on the pH scale (e.g., from 7 to 8) represents a ten-fold increase or decrease in the concentration of H+. In a healthy adult, the pH of blood ranges from 7.35 to 7.45. Homeostatic control mechanisms important for keeping blood in a healthy pH range include chemicals called buffers, weak acids and weak bases released when the pH of blood or other body fluids fluctuates in either direction outside of this normal range.
 
-    ^^
+    ^
       InBrief
 
     -
@@ -236,7 +236,7 @@ module chem
         >
           Nucleotides are compounds with three building blocks: one or more phosphate groups, a pentose sugar, and a nitrogen-containing base. DNA and RNA are nucleic acids that function in protein synthesis. ATP is the body’s fundamental molecule of energy transfer. Removal or addition of phosphates releases or invests energy.
 
-    ^^
+    ^
       InBrief
 
     >

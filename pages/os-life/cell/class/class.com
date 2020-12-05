@@ -33,7 +33,7 @@
   / Antigen-presenting Cell
   /// An antigen-presenting cell (APC) is a cell that displays antigen complexed with major histocompatibility complexes (MHCs) on their surfaces; this process is known as antigen presentation. T cells may recognize these complexes using their T cell receptors (TCRs). APCs process antigens and present them to T-cells.
   model APC
-    <<
+    <
       system.fluid.proc.AntigenPresentation
     # https://en.wikipedia.org/wiki/Antigen-presenting_cell
 

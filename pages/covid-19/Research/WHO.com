@@ -411,7 +411,7 @@ feed WHO
   # ref 'Wölfel_et_al_04_01_2020
   #   head =
   #
-  #   -- quotes
+  #   - quotes
   #     !a
   #
   #   / February, 2020 - bioRxiv
@@ -1592,7 +1592,7 @@ feed WHO
   ref 'WHO_05_26_2020
     head = Public use of masks as source control during the COVID-19 pandemic: key considerations from social science.
 
-    # -- quotes
+    # - quotes
     #   !a
     #
     # / February, 2020 - bioRxiv

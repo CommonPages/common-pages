@@ -23,7 +23,7 @@
 
   /// The microtubule is a structural filament composed of subunits of a protein called tubulin. Microtubules maintain cell shape and structure, help resist compression of the cell, and play a role in positioning the organelles within the cell.
   model Microtubule
-    <<
+    <
       Tubulin
 
   /// Microfilaments, also called actin filaments, are filaments in the cytoplasm of eukaryotic cells that form part of the cytoskeleton and are primarily composed of polymers of actin.
@@ -95,7 +95,7 @@
   /// The lipid bilayer (or phospholipid bilayer) is a thin polar membrane made of two layers of phospholipid molecules. Lipid bilayers occur when hydrophobic tails line up against one another, forming a membrane of hydrophilic heads on both sides facing the water.
   model LipidBilayer
     # https://en.wikipedia.org/wiki/Lipid_bilayer
-    <<
+    <
       PhospholipidMolecule
 
   /// Pattern recognition receptors (PRRs) play a crucial role in the proper function of the innate immune system. PRRs are germline-encoded host sensors, which detect molecules typical for the pathogens. They are proteins expressed, mainly, by cells of the innate immune system.

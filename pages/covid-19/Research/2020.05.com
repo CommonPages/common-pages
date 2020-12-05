@@ -822,7 +822,7 @@ feed May2020
     > Summary
       The novel coronavirus SARS-CoV-2 was first detected in the Pacific Northwest region of the United States in January 2020, with subsequent COVID-19 outbreaks detected in all 50 states by early March. To uncover the sources of SARS-CoV-2 introductions and patterns of spread within the United States, we sequenced nine viral genomes from early reported COVID-19 patients in Connecticut. Our phylogenetic analysis places the majority of these genomes with viruses sequenced from Washington state. By coupling our genomic data with domestic and international travel patterns, we show that early SARS-CoV-2 transmission in Connecticut was likely driven by domestic introductions. Moreover, the risk of domestic importation to Connecticut exceeded that of international importation by mid-March regardless of our estimated effects of federal travel restrictions. This study provides evidence of widespread sustained transmission of SARS-CoV-2 within the United States and highlights the critical need for local surveillance.
 
-    # -- quotes
+    # - quotes
     #   !d
     #   !h
 
@@ -1231,7 +1231,7 @@ feed May2020
     > Abstract
       Viral infections during pregnancy can have devastating consequences on pregnancy outcomes, fetal development, and maternal health. In this review, we examine fetal and maternal immune defense mechanisms that mediate resistance against viral infections and discuss the range of syndromes that ensue when such mechanisms fail, from fetal developmental defects to establishment of chronic infection. Further, we highlight the role of maternal immune activation, or uncontrolled inflammation triggered by viral infections during pregnancy, and its potential downstream pathological effects, including tissue damage and fetal demise. Insights into the respective contributions of direct viral toxicity versus fetal and maternal immune responses that underlie the pathogenesis of congenital disease will guide future treatment strategies.
 
-    # -- quotes
+    # - quotes
     #   !a
 
     # / May, 2020 - Science
@@ -1386,7 +1386,7 @@ feed May2020
     > Abstract
       We provide research findings on the physics of aerosol and droplet dispersion relevant to the hypothesized aerosol transmission of SARS-CoV-2 during the current pandemic. We utilize physics-based modeling at different levels of complexity, along with previous literature on coronaviruses, to investigate the possibility of airborne transmission. The previous literature, our 0D-3D simulations by various physics-based models, and theoretical calculations, indicate that the typical size range of speech and cough originated droplets () allows lingering in the air for ) so that they could be inhaled. Consistent with the previous literature, numerical evidence on the rapid drying process of even large droplets, up to sizes , into droplet nuclei/aerosols is provided. Based on the literature and the public media sources, we provide evidence that the individuals, who have been tested positive on COVID-19, could have been exposed to aerosols/droplet nuclei by inhaling them in significant numbers e.g. . By 3D scale-resolving computational fluid dynamics (CFD) simulations, we give various examples on the transport and dilution of aerosols () over distances  in generic environments. We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The developed model takes into account the locally varying aerosol concentration levels which the susceptible accumulate via inhalation. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from  to  or even to  depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
 
-    # -- quotes
+    # - quotes
     #   !a
 
     / May, 2020 - Safety Science
@@ -1469,7 +1469,7 @@ feed May2020
     > CONCLUSIONS
       A panel of circulating cytokines could be used to predict disease deterioration and inform clinical interventions. Severe pulmonary damage was predominantly attributed to both cytopathy caused by SARS-CoV-2 and immunopathologic damage. Strategies that prohibit pulmonary recruitment and overactivation of inflammatory cells by suppressing cytokine storm might improve the outcomes of patients with severe COVID-19.
 
-    # -- quotes
+    # - quotes
     #    !a
     #    !b
     #    !c
@@ -2183,7 +2183,7 @@ feed May2020
     > Abstract
       Bats are presumed reservoirs of diverse coronaviruses (CoVs) including progenitors of Severe Acute Respiratory Syndrome (SARS)-CoV and SARS-CoV-2, the causative agent of COVID-19. However, the evolution and diversification of these coronaviruses remains poorly understood. We used a Bayesian statistical framework and sequence data from all known bat-CoVs (including 630 novel CoV sequences) to study their macroevolution, cross-species transmission, and dispersal in China. We find that host-switching was more frequent and across more distantly related host taxa in alpha-than beta-CoVs, and more highly constrained by phylogenetic distance for beta-CoVs. We show that inter-family and -genus switching is most common in Rhinolophidae and the genus Rhinolophus. Our analyses identify the host taxa and geographic regions that define hotspots of CoV evolutionary diversity in China that could help target bat-CoV discovery for proactive zoonotic disease surveillance. Finally, we present a phylogenetic analysis suggesting a likely origin for SARS-CoV-2 in Rhinolophus spp. bats.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -2729,7 +2729,7 @@ feed May2020
     > Abstract
       Understanding adaptive immunity to SARS-CoV-2 is important for vaccine development, interpreting coronavirus disease 2019 (COVID-19) pathogenesis, and calibration of pandemic control measures. Using HLA class I and II predicted peptide ‘‘megapools,’’ circulating SARS-CoV-2-specific CD8+ and CD4+ T cells were identified in 70% and 100% of COVID-19 convalescent patients, respectively. CD4+ T cell responses to spike, the main target of most vaccine efforts, were robust and correlated with the magnitude of the antiSARS-CoV-2 IgG and IgA titers. The M, spike, and N proteins each accounted for 11%–27% of the total CD4+ response, with additional responses commonly targeting nsp3, nsp4, ORF3a, and ORF8, among others. For CD8+ T cells, spike and M were recognized, with at least eight SARS-CoV-2 ORFs targeted. Importantly, we detected SARS-CoV-2-reactive CD4+ T cells in 40%–60% of unexposed individuals, suggesting crossreactive T cell recognition between circulating ‘‘common cold’’ coronaviruses and SARS-CoV-2.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -3096,7 +3096,7 @@ feed May2020
     > Abstract
       Virus neutralization remains the gold standard for determining antibody efficacy. Therefore, a high-throughput assay to measure SARS-CoV-2 neutralizing antibodies is urgently needed for COVID-19 serodiagnosis, convalescent plasma therapy, and vaccine development. Here we report on a fluorescence-based SARS-CoV-2 neutralization assay that detects SARS-CoV-2 neutralizing antibodies in COVID-19 patient specimens and yields comparable results to plaque reduction neutralizing assay, the gold standard of serological testing. Our approach offers a rapid platform that can be scaled to screen people for antibody protection from COVID-19, a key parameter necessary to safely reopen local communities.
 
-    # -- quotes
+    # - quotes
     #   !a
 
     / May, 2020 - bioRxiv
@@ -3125,7 +3125,7 @@ feed May2020
     > Abstract
       COVID-19 has become a global pandemic. Immune dysregulation has been implicated, but immune responses remain poorly understood. We analyzed 71 COVID-19 patients compared to recovered and healthy subjects using high dimensional cytometry. Integrated analysis of ∼200 immune and >30 clinical features revealed activation of T cell and B cell subsets, but only in some patients. A subgroup of patients had T cell activation characteristic of acute viral infection and plasmablast responses could reach >30% of circulating B cells. However, another subgroup had lymphocyte activation comparable to uninfected subjects. Stable versus dynamic immunological signatures were identified and linked to trajectories of disease severity change. These analyses identified three “immunotypes” associated with poor clinical trajectories versus improving health. These immunotypes may have implications for therapeutics and vaccines.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -3784,7 +3784,7 @@ feed May2020
     > Abstract
       Severe Acute Respiratory Syndrome- Coronavirus 2 (SARS-Cov-2) has caused over 5,000,000 cases of Coronavirus disease (COVID-19) with significant fatality rate. Due to the urgency of this global pandemic, numerous therapeutic and vaccine trials have begun without customary safety and efficacy studies. Laboratory mice have been the stalwart of these types of studies; however, they do not support infection by SARS-CoV-2 due to the inability of its spike (S) protein to engage the mouse ortholog of its human entry receptor angiotensin-converting enzyme 2 (hACE2). While hACE2 transgenic mice support infection and pathogenesis, these mice are currently limited in availability and are restricted to a single genetic background. Here we report the development of a mouse model of SARS-CoV-2 based on adeno associated virus (AAV)-mediated expression of hACE2. These mice support viral replication and antibody production and exhibit pathologic findings found in COVID-19 patients as well as non-human primate models. Moreover, we show that type I interferons are unable to control SARS-CoV2 replication and drive pathologic responses. Thus, the hACE2-AAV mouse model enables rapid deployment for in-depth analysis following robust SARS-CoV-2 infection with authentic patient-derived virus in mice of diverse genetic backgrounds. This represents a much-needed platform for rapidly testing prophylactic and therapeutic strategies to combat COVID-19.
 
-    # -- quotes
+    # - quotes
     #   !a1
     #   !a
     #   !b
@@ -4651,7 +4651,7 @@ feed May2020
   ref 'Riphagen_et_al_2020
     head = We noted an unprecedented cluster of eight children with hyperinflammatory shock, showing features similar to atypical Kawasaki disease. Clinical presentations were similar, with unrelenting fever (38–40°C), variable rash, conjunctivitis, peripheral oedema, and generalised extremity pain with significant gastrointestinal symptoms.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c

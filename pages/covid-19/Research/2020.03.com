@@ -478,7 +478,7 @@ feed March2020
     > Abstract
       We examined 169 genomes of SARS-CoV-2 and found that they can be classified into two major genotypes, Type I and Type II. Type I can be further divided into Type IA and IB. Our phylogenetic analysis showed that the Type IA resembles the ancestral SARS-CoV-2 most. Type II was likely evolved from Type I and predominant in the infections. Our results suggest that Type II SARS-CoV-2 was the source of the outbreak in the Wuhan Huanan market and it was likely originated from a super-spreader. The outbreak caused by the Type I virus should have occurred somewhere else, because the patients had no direct link to the market. Furthermore, by analyzing three genomic sites that distinguish Type I and Type II strains, we found that synonymous changes at two of the three sites confer higher protein translational efficiencies in Type II strains than in Type I strains, which might explain why Type II strains are predominant, implying that Type II is more contagious (transmissible) than Type I. These findings could be valuable for the current epidemic prevention and control.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -1261,7 +1261,7 @@ feed March2020
     > Abstract
       The emergence of a novel coronavirus, termed SARS-CoV-2, and the potentially life-threating respiratory disease that it can produce, COVID-19, has rapidly spread across the globe creating a massive public health problem. Previous epidemics of many emerging viral infections have typically resulted in poor obstetrical outcomes including maternal morbidity and mortality, maternal-fetal transmission of the virus, and perinatal infections and death. This communication reviews the effects of two previous coronavirus infections - severe acute respiratory syndrome (SARS) caused by SARS-CoV and Middle East respiratory syndrome (MERS) caused by MERS-CoV - on pregnancy outcomes. In addition, it analyzes literature describing 38 pregnant women with COVID-19 and their newborns in China to assess the effects of SARS-CoV-2 on the mothers and infants including clinical, laboratory and virologic data, and the transmissibility of the virus from mother to fetus. This analysis reveals that unlike coronavirus infections of pregnant women caused by SARS and MERS, in these 38 pregnant women COVID-19 did not lead to maternal deaths. Importantly, and similar to pregnancies with SARS and MERS, there were no confirmed cases of intrauterine transmission of SARS-CoV-2 from mothers with COVID-19 to their fetuses. All neonatal specimens tested, including in some cases placentas, were negative by rt-PCR for SARS-CoV-2. At this point in the global pandemic of COVID-19 infection there is no evidence that SARSCoV-2 undergo intrauterine or transplacental transmission from infected pregnant women to their fetuses. Analysis of additional cases is necessary to determine if this remains true.
 
-    # -- quotes
+    # - quotes
     #  !a
     #  !b
     #  !c
@@ -1294,7 +1294,7 @@ feed March2020
   ref 'Zheng_et_al_2020b
     head = COVID-19, similar to some chronic infections, damages the function of CD4+ T cells and promotes excessive activation and possibly subsequent exhaustion of CD8+ T cells. Together, these perturbations of T cell subsets may eventually diminish host antiviral immunity. It also indicates that SARS-CoV-2 may possess a unique immune pathology compared to other coronaviruses.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -1849,7 +1849,7 @@ feed March2020
     > Abstract
       SARS-Cov-2 (severe acute respiratory disease coronavirus 2), which causes Coronavirus Disease 2019 (COVID19) was first detected in China in late 2019 and has since then caused a global pandemic. While molecular assays to directly detect the viral genetic material are available for the diagnosis of acute infection, we currently lack serological assays suitable to specifically detect SARS-CoV-2 antibodies. Here we describe serological enzyme-linked immunosorbent assays (ELISA) that we developed using recombinant antigens derived from the spike protein of SARS-CoV-2. Using negative control samples representing pre-COVID 19 background immunity in the general adult population as well as samples from COVID19 patients, we demonstrate that these assays are sensitive and specific, allowing for screening and identification of COVID19 seroconverters using human plasma/serum as early as two days post COVID19 symptoms onset. Importantly, these assays do not require handling of infectious virus, can be adjusted to detect different antibody types and are amendable to scaling. Such serological assays are of critical importance to determine seroprevalence in a given population, define previous exposure and identify highly reactive human donors for the generation of convalescent serum as therapeutic. Sensitive and specific identification of coronavirus SARS-Cov-2 antibody titers may, in the future, also support screening of health care workers to identify those who are already immune and can be deployed to care for infected patients minimizing the risk of viral spread to colleagues and other patients.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -1920,7 +1920,7 @@ feed March2020
     > Interpretation
       Within two weeks after the first Dutch case was detected, a substantial proportion of HCWs with fever or respiratory symptoms were infected with SARS-CoV-2, probably caused by acquisition of the virus in the community during the early phase of local spread. The high prevalence of mild clinical presentations, frequently not including fever, asks for less stringent use of the currently recommended case-definition for suspected COVID-19.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -2664,7 +2664,7 @@ feed March2020
     > Abstract
       A novel betacoronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which caused a large respiratory outbreak in Wuhan, China in December 2019, is currently spreading across many countries globally. Here, we show that a TMPRSS2-expressing VeroE6 cell line is highly susceptible to SARS-CoV-2 infection, making it useful for isolating and propagating SARS-CoV-2. Our results reveal that, in common with SARS- and Middle East respiratory syndrome-CoV, SARS-CoV-2 infection is enhanced by TMPRSS2.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
 
@@ -3067,7 +3067,7 @@ feed March2020
   ref 'Santarpia_et_al_2020
     head = We collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, indicating that SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
 
-    # -- quotes
+    # - quotes
     #   !a
 
     # / bioRxiv - March, 2020

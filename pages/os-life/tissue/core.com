@@ -4,7 +4,7 @@
   /// A tissue is an ensemble of similar cells and surrounding molecules that together carry out a specific function.
   model Tissue
     # https://simple.wikipedia.org/wiki/Tissue
-    <<
+    <
       tissue
       cell
       chem
@@ -76,7 +76,7 @@
 
   /// A gland is a group of cells in an animal's body that synthesizes substances (such as hormones) for release into the bloodstream (endocrine gland) or into cavities inside the body or its outer surface (exocrine gland).
   model Gland
-    <<
+    <
       EndocrineGland
       ExocrineGland
 

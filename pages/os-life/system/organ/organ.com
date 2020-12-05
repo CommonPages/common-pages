@@ -30,7 +30,7 @@
   /// The spleen is an organ that acts primarily as a blood filter. It is similar in structure to a large lymph node.
   model Spleen
     # https://en.wikipedia.org/wiki/Lymph_node
-    <<
+    <
       *Blood
       LymphNode
 
@@ -38,21 +38,21 @@
 
   /// The primary lymphoid organs are those that generate lymphocytes from immature progenitor cells. These include the thymus and bone marrow.
   model PrimaryLymphoidOrgans
-    <<
+    <
       Lymphocytes
       Thymus
       BoneMarrow
 
   /// Secondary lymphoid organs maintain mature naive lymphocytes and initiate an adaptive immune response. They are the sites of lymphocyte activation by antigens. They include lymph nodes and the spleen.
   model SecondaryLymphoidOrgans
-    <<
+    <
       Lymphocytes
       LymphNode
       Spleen
 
   /// Tertiary lymphoid organs (TLOs) are abnormal lymph node–like structures that form in peripheral tissues at sites of chronic inflammation. TLOs typically contains far fewer lymphocytes, and assumes an immune role only when challenged with antigens that result in inflammation.
   model TertiaryLymphoidOrgans
-    <<
+    <
       LymphNode
       Lymphocytes
 

@@ -559,7 +559,7 @@ feed July2020
     > Conclusion
       Most COVID-19 patients already have high neutralizing antibody titers at hospital admission. Screening for antibodies and prioritizing convalescent plasma to risk groups with recent symptom onset will be key to identify patients that may benefit from convalescent plasma.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -723,7 +723,7 @@ feed July2020
     > Abstract
       SARS-CoV-2 is thought to have emerged from bats, possibly via a secondary host. Here, we investigate the relationship of spike (S) glycoprotein from SARS-CoV-2 with the S protein of a closely related bat virus, RaTG13. We determined cryo-EM structures for RaTG13 S and for both furin-cleaved and uncleaved SARS-CoV-2 S; we compared these with recently reported structures for uncleaved SARS-CoV-2 S. We also biochemically characterized their relative stabilities and affinities for the SARS-CoV-2 receptor ACE2. Although the overall structures of human and bat virus S proteins are similar, there are key differences in their properties, including a more stable precleavage form of human S and about 1,000-fold tighter binding of SARS-CoV-2 to human receptor. These observations suggest that cleavage at the furin-cleavage site decreases the overall stability of SARS-CoV-2 S and facilitates the adoption of the open conformation that is required for S to bind to the ACE2 receptor.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -797,7 +797,7 @@ feed July2020
     > Abstract
       Multiple publications have independently described pangolin CoV genomes from the same batch of smuggled pangolins confiscated in Guangdong province in March, 2019. We analyzed the three metagenomic datasets that sampled this batch of pangolins and found that the two complete pangolin CoV genomes, GD_1 by Xiao et al. Nature and MP789 by Liu et al. PLoS Pathogens, were both built primarily using the 2019 dataset first described by Liu et al. Viruses. Other publications, such as Zhang et al. Current Biology and Lam et al. Nature, have also relied on this same dataset by Liu et al. Viruses for their assembly of pangolin CoV sequences and comparisons to SARS-CoV-2. To our knowledge, all of the published pangolin CoV genome sequences that share a nearly identical Spike receptor binding domain with SARS-CoV-2 originate from this single batch of smuggled pangolins. This raises the question of whether pangolins are truly reservoirs or hosts of SARS-CoV-2-related coronaviruses in the wild, or whether the pangolins may have contracted the CoV from another host species during trafficking. Our observations highlight the importance of requiring authors to publish their complete genome assembly pipeline and all contributing raw sequence data, particularly those supporting epidemiological investigations, in order to empower peer review and independent analysis of the sequence data.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -902,7 +902,7 @@ feed July2020
   ref 'Houlihan_et_al_07_09_2020
     head = Our finding that 44% of HCWs show evidence of SARS-CoV-2 infection either by RT-PCR or serology in a frontline setting is higher than reported by others in the UK and worldwide. Differences with Chinese and Dutch data might be explained by the different study designs and the extent of implementation (or not) of both PPE and community lockdown measures. Evidence of infection in our central London HCWs was more than double that of the London population.
 
-    # -- quotes
+    # - quotes
     #   !a
 
     / July, 2020 - The Lancet

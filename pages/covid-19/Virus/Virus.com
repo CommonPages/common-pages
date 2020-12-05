@@ -85,7 +85,7 @@ subject module Virus
     # / Neuropilin
     # subject Neuropilin
     #   head = S1 binding to Neuropilin may therefore contribute to viral entry
-    #   --
+    #   -
     #     'Daly_et_al_06_05_2020
 
     claim !Temperature = In contrast to SARS-CoV, SARS-CoV-2 replicates more efficiently at temperatures encountered in the upper respiratory tract, and displays higher sensitivity to type I and type III IFNs.
@@ -123,26 +123,26 @@ subject module Virus
       -
         'Benefield_et_al_09_30_2020
         'Liu_et_al_2020c
-      --
+      -
         'Joynt_et_al_2020
         'Joynt_et_al_2020.!a
-      --
+      -
         'Zou_et_al_2020
         'Zou_et_al_2020.!a
         'He_et_al_2020
-      --
+      -
         'Woelfel_et_al_2020b
         'Woelfel_et_al_2020b.!b
-      --
+      -
         'Kujawski_et_al_2020.
         'Kujawski_et_al_2020.!t
         'Kujawski_et_al_2020.!u
-      --
+      -
         'Kim_et_al_2020b
         'Kim_et_al_2020b.!b
         'Kim_et_al_2020b.!c
         'Kim_et_al_2020b.!d
-      --
+      -
         'Pan_et_al_2020b
 
     claim !Duration = Viral RNA can be detected in the upper respiratory tract long after the disappearance of infectious virus.
@@ -448,22 +448,22 @@ subject module Virus
   #
   #   >
   #     Human-to-human transmission of SARS-CoV-2 has been confirmed. Transmission occurs primarily via respiratory droplets from coughs and sneezes. Indirect contact via contaminated surfaces is another possible cause of infection.
-  #   --
+  #   -
   #     Routes
   #     # independent
-  #   --
+  #   -
   #     Environment
   #     # together
-  #   --
+  #   -
   #     AsymptomaticTransmission
   #     # independent
-  #   --
+  #   -
   #     Superspreaders
   #     # with Ayush and Sangeeta
-  #   --
+  #   -
   #     Ro
   #     # with Ayush and Sangeeta
-  #   --
+  #   -
   #     HumanAnimalTransmission
   #     # independent
   #
@@ -475,7 +475,7 @@ subject module Virus
   #       Human to Human contact and Indirect contact via contaminated surfaces is cause of infection. Faecal-oral and Aerosol routes are also suspected to transmit the virus. {ViralShedding Shedding} of SARS Cov-2 can happen in multiple modes, and all these can be potential route of transmission of the virus.
   #     >
   #       Viral RNA can be detected long after the disappearance of infectious virus. However, if these are infectious is yet to be established.
-  #     --
+  #     -
   #       SurfaceTransmission
   #       AerosolTransmission
   #       FaecalTransmission
@@ -491,7 +491,7 @@ subject module Virus
   #       >
   #          Research indicates that the virus may remain viable on plastic and stainless steel for up to 3 days, on cardboard for upto 1 day and on copper for about 4 hours.
   #
-  #       -- Neutral (later refine)
+  #       - Neutral (later refine)
   #         'van_Doremalen_et_al_2020
   #         'van_Doremalen_et_al_2020.!b
   #         'van_Doremalen_et_al_2020.!c
@@ -514,13 +514,13 @@ subject module Virus
   #       # Counter for viability / Stability
   #       >
   #         Whereas there are arguments which call such studies exaggerated  as these were in lab-based conditions and far from real-life conditions.
-  #       --
+  #       -
   #         'Goldman_et_al_07_03_2020
   #
   #     / Aerosol Transmission
   #     subject AerosolTransmission
   #       head = SARS-CoV-2 viral RNA in air has been detected in several studies and remain vialble upto "x" hrs. Study found that the majority of these viruses were associated with aerosols.
-  #       -- Viability
+  #       - Viability
   #         'van_Doremalen_et_al_2020
   #         'van_Doremalen_et_al_2020.!a
   #         'Lu_et_al_2020
@@ -529,7 +529,7 @@ subject module Virus
   #         'Johnson_et_al_06_21_2011
   #         'Doremalen_et_al_03_17_2020
   #         'Guo_et_al_07_26_2020
-  #       -- Aerosol Transmission
+  #       - Aerosol Transmission
   #         'Allen_et_al_05_06_2020
   #         'Lednicky_et_al_05_22_2020
   #         'Miller_et_al_06_18_2020
@@ -542,7 +542,7 @@ subject module Virus
   #         'Ahlawat_et_al_07_21_2020
   #         'Guenther_et_al_07_23_2020
   #         'Li_et_al_04_22_2020
-  #       -- Mechanism/ Common pathogen exchange pathways and mechanisms
+  #       - Mechanism/ Common pathogen exchange pathways and mechanisms
   #         'Wang_et_al_04_05_2011
   #         'Morawska_et_al_06_09_2006
   #         'Dietz_et_al_05_05_2020
@@ -555,10 +555,10 @@ subject module Virus
   #         'Jones_et_al_08_25_2020
   #         'Luoma_et_al_07_07_2008
   #
-  #       --
+  #       -
   #         AerosolToilet
   #       # Close Enviornment
-  #       -- Airborne Transmission
+  #       - Airborne Transmission
   #         'Allen_et_al_06_19_2020
   #         'Chia_et_al_05_29_2020
   #         'Shen_et_al_04_03_2020
@@ -569,14 +569,14 @@ subject module Virus
   #         'Morawska_et_al_04_10_2020
   #         'Wei_et_al_09_02_2016
   #         'Hoseinzadeh_et_al_07_09_2020
-  #       -- Dispute not Airborne
+  #       - Dispute not Airborne
   #         'Cheng_et_al_06_08_2020
   #         'Carraturo_et_al_06_09_2020
   #         'Wong_et_al_06_01_2020
   #         'Wu_et_al_05_11_2020
   #       / Aerosol Activation in Toilet
   #       subject AerosolToilet
-  #         --
+  #         -
   #           'Lai_et_al_07_06_2017
   #           'Best_et_al_12_05_2011
   #           'Barker_et_al_06_16_2005
@@ -588,12 +588,12 @@ subject module Virus
   #       head = Viral RNA has been found in stool samples of infected individuals. However, these being infectious is yet to be established conclusively.
   #       >
   #         Aerosolization through toilet flushing can possibly transmit the virus. For more refer {AerosolTransmission.AerosolToilet}
-  #       --
+  #       -
   #         'Xiao_et_al_05_18_2020
   #         'Wu_et_al_2020d
   #         'Lin_et_al_01_26_2017
   #         'Johnson_et_al_10_05_2012
-  #       -- Sewage
+  #       - Sewage
   #         'Carraturo_et_al_06_09_2020
   #         'Hoseinzadeh_et_al_07_09_2020
   #         'Cahill_et_al_06_11_2020
@@ -606,25 +606,25 @@ subject module Virus
   #     / Mechanical Transmission
   #     subject MechanicalTransmission
   #       head = Mechanical transmission means the transfer of pathogens from an infected host or a contaminated substrate to the suspectible host, where a biological association between the pathogen and vector is not necessary.
-  #       -- Cockraches and Houseflies
+  #       - Cockraches and Houseflies
   #         'Dehghani_et_al_03_24_2020
   #
   #
   #   / Environmental Settings
   #   subject module Environment
   #     head = Studies suggest that temperature has impact on tranmission of COVID-19. Low temperature is beneficial to viral tranmission.
-  #     --
+  #     -
   #       WeatherConditions
   #       Settings
   #     / Weather Conditions
   #     subject WeatherConditions
-  #       -- Weather Influence
+  #       - Weather Influence
   #         'Want_et_at_2020
   #         'Luo_et_al_2020
   #         'Moriyama_et_al_2020
   #         'Notari_et_al_2020
   #         'Ficetola_et_al_04_20_2020
-  #       -- Humidity & Temperature dependence
+  #       - Humidity & Temperature dependence
   #         'Lin_et_al_12_30_2019
   #         'Qi_et_al_03_20_2020
   #         'Islam_et_al_03_31_2020
@@ -632,9 +632,9 @@ subject module Virus
   #         'Droegemeier_et_al_04_07_2020
   #         'Ahlawat_et_al_07_21_2020
   #       # Counter to temperature dependence
-  #       --
+  #       -
   #         'Jamil_et_al_04_19_2020
-  #       -- Air Pollution
+  #       - Air Pollution
   #         'Wu_et_al_2020c
   #         'Setti_et_al_04_17_2020
   #         'Carraturo_et_al_06_09_2020
@@ -646,7 +646,7 @@ subject module Virus
   #       / Nosocomial Transmission
   #       subject HospitalTransmission
   #         head = SARS-CoV-2 viral RNA in air has been detected in several studies in hospitals, including at distances greater than 2 m from patients and in outdoor air in crowded areas near a hospital
-  #         --
+  #         -
   #           'Horve_et_al_06_28_2020
   #           'Liu_et_al_2020bb
   #           'Pan_et_al_2020.!c
@@ -665,7 +665,7 @@ subject module Virus
   #       / Indoor Tranmission/ Indoor Settings
   #       subject IndoorTransmission
   #         head = Based on studies close contact in the family is the main transmission route of infection.
-  #         -- Indoor Tranmission
+  #         - Indoor Tranmission
   #           'Chan_et_al_2020
   #           'Qian_et_al_2020
   #           'Allen_et_al_06_19_2020
@@ -684,7 +684,7 @@ subject module Virus
   #           'Ahlawat_et_al_07_21_2020
   #           'Leclerc_et_al_06_05_2020
   #
-  #         --
+  #         -
   #           HouseholdTransmission
   #           CloseContact
   #           RestaurantsTransmission
@@ -708,7 +708,7 @@ subject module Virus
   #         / Household Transmission
   #         subject HouseholdTransmission
   #           head =
-  #           -- Household Transmission
+  #           - Household Transmission
   #             'Jing_et_al_2020
   #             'Bi_et_al_04_27_2020.!g
   #             'Peng-Li_et_al_2020
@@ -730,7 +730,7 @@ subject module Virus
   #         / Restaurant/ Nightclubs
   #         subject RestaurantsTransmission
   #           head =
-  #           -- Restaurant/ Nightclubs
+  #           - Restaurant/ Nightclubs
   #             'Lu_et_al_04_02_2020
   #             'Kang_et_al_07_07_2020
   #             'Li_et_al_04_22_2020
@@ -738,7 +738,7 @@ subject module Virus
   #         / Gyms/ Sports / Exercise
   #         subject GymsTransmission
   #           head =
-  #           -- Gyms/ Sports/ Exercise
+  #           - Gyms/ Sports/ Exercise
   #             'Jang_et_al_05_15_2020
   #             'Andrade_et_al_05_07_2018
   #             'Brlek_et_al_06_19_2020
@@ -746,7 +746,7 @@ subject module Virus
   #         / Transmission Reports
   #         subject TransmissionReports
   #           head =
-  #           -- Transmission Reports
+  #           - Transmission Reports
   #             'Lewis_et_al_06_24_2020
   #             'Furuse_et_al_06_10_2020
   #             'Tobolowsky_et_al_05_01_2020
@@ -763,14 +763,14 @@ subject module Virus
   #         / Public transport
   #         subject PublicTransport
   #           head =
-  #           -- Public transport
+  #           - Public transport
   #             'Zhao_et_al_01_30_2020
   #             'Zheng_et_al_03_14_2020
   #
   #         / School Transmission
   #         subject SchoolTransmission
   #           head =
-  #           -- School transmission
+  #           - School transmission
   #             'Stein-Zamir_et_al_07_21_2020
   #             'Heavey_et_al_05_28_2020
   #             'Yung_et_al_06_25_2020
@@ -780,73 +780,73 @@ subject module Virus
   #         / Hair Salon
   #         subject HairSalon
   #           head =
-  #           -- Hair salon
+  #           - Hair salon
   #             'Hendrix_et_al_07_14_2020
   #
   #         / Longterm Care Facilities
   #         subject LongtermCareFacilities
   #           head =
-  #           -- Longterm Care Facilities
+  #           - Longterm Care Facilities
   #             'Hoxha_et_al_07_03_2020
   #             'Kimball_et_al_04_03_2020
   #
   #         / Municipality
   #         subject Municipality
   #           head =
-  #           -- Municipality
+  #           - Municipality
   #             'Lavezzo_et_al_04_18_2020
   #
   #         / Religious Gatherings/ Mass Gatherings
   #         subject MassGatherings
   #           head =
-  #           -- Religious Gatherings/ Mass Gatherings
+  #           - Religious Gatherings/ Mass Gatherings
   #             'Thuan-Hoang_et_al_08_28_2018
   #             'Sassano_et_al_05_29_2020
   #             'Chaw_et_al_07_10_2020
-  #           -- Churh
+  #           - Churh
   #             'Yong_et_al_04_21_2020.!a
   #
   #         / Customs, traditions and social environmental factors
   #         subject Customs
   #           head =
-  #           -- Customs, traditions and social environmental factors
+  #           - Customs, traditions and social environmental factors
   #             'Amoatey_et_al_05_12_2020
   #
   #         / Police Force
   #         subject PoliceForce
   #           head =
-  #           -- Police force
+  #           - Police force
   #             'Kokane_et_al_06_16_2020
   #
   #         / Dental Practice
   #         subject DentalPractice
   #           head =
-  #           -- Dental Practice
+  #           - Dental Practice
   #             'Izzetti_et_al_04_17_2020
   #             'Peng_et_al_03_03_2020
   #
   #         / Choir
   #         subject Choir
-  #           -- Choir
+  #           - Choir
   #             'Miller_et_al_06_18_2020
   #
   #         / Cruise Ship
   #         subject CruiseShip
   #           head =
-  #           -- Cruise ship
+  #           - Cruise ship
   #             'Xu_et_al_04_14_2020
   #
   #         / Meat Processing Plants
   #         subject MeatProcessingPlants
   #           head =
-  #           -- Meat Processing Plants
+  #           - Meat Processing Plants
   #             'Guenther_et_al_07_23_2020
   #             'Dyal_et_al_05_08_2020
   #
   #         / Frontiers
   #         subject Frontiers
   #           head =
-  #           -- Frontiers
+  #           - Frontiers
   #             'Aliverti_et_al_06_2016
   #             'Carlisle_et_al_02_20_2020
   #             'Murphy_et_al_06_21_2008
@@ -854,7 +854,7 @@ subject module Virus
   #
   #         / Close Contact
   #         subject CloseContact
-  #           --
+  #           -
   #             'Chen_et_al_05_10_2020
   #             'Shen_et_al_06_12_2020
   #             'Yong_et_al_04_21_2020.!b
@@ -862,13 +862,13 @@ subject module Virus
   #       / Outdoor Transmission/ Outdoor Settings
   #       subject OutdoorTransmission
   #         head = Based on data collected so far, Outdoor Tranmission is possible but seems to be rare.
-  #         --
+  #         -
   #           'Qian_et_al_2020.!h
   #
   #       / Airline Transmission
   #       subject AirlineTransmission
   #         head = The transmission routes in air cabins are probably the close contact route and the formite route.
-  #         --
+  #         -
   #           'Lei_et_al_01_06_2020
   #           'Moser_et_al_1979
   #           'Olsen_et_al_2003
@@ -881,19 +881,19 @@ subject module Virus
   #       / Wet Markets and Meat processing plants
   #       subject WetMarkets
   #         head = Wet markets could be the possible route of transmission.
-  #         --
+  #         -
   #           'Webster_et_al_01_17_2004
   #
   #       / Poultry
   #       subject Poultry
   #         head =
-  #         -- Poultry
+  #         - Poultry
   #           'Dhingra_et_al_06_05_2018
   #
   #       / Slums
   #       subject Slums
   #         head = Little is known about the spectrum and burden of disease morbidity in urban slums of the world. With 1 billion people currently estimated to live in such communities, this neglected population has become a major reservoir for a wide spectrum of health conditions.
-  #         --
+  #         -
   #           'Corburn_et_al_04_24_2020
   #           'Riley_et_al_03_07_2007
   #           'Mahabir_et_al_09_22_2016
@@ -906,13 +906,13 @@ subject module Virus
   #     # Distinction between pre-symptomatic vs asymptomatic... Link AsymptomaticPhase...
   #     >
   #       By speech, touching your face, contact
-  #     --
+  #     -
   #       'Nishiura_et_al_2020
   #       'Russell_et_al_2020.!a
   #       'Dong_et_al_2020b
   #       'He_et_al_2020.!a
   #       'Danis_et_al_04_11_2020
-  #     -- Reports
+  #     - Reports
   #       'Qian_et_al_03_23_2020
   #       'Zhang_et_al_03_27_2020
   #       'Hoxha_et_al_07_03_2020
@@ -926,24 +926,24 @@ subject module Virus
   #     >
   #       Previous studies on superspeading events.
   #     # foundational concept
-  #     --
+  #     -
   #       Contextsuperspreader
   #     / Past studies on Superspreader
   #     subject Contextsuperspreader
-  #       -- Context
+  #       - Context
   #         'Lloyd-Smith_et_al_2005
   #         'Woolhouse_et_al_1997
   #       # Examples of Superspreading events
-  #       -- Superspreading in SARS
+  #       - Superspreading in SARS
   #         'Lee_et_al_2003.!a
   #         'Shen_et_al_2004
   #         'Stein_et_al_2011
   #         'Wang_et_al_2005.!h
-  #       -- Superspreading in TB
+  #       - Superspreading in TB
   #         'Kline_et_al_1995
   #     >
   #       Based on studies the Wuhan market was the site of an early superspreading event.
-  #     -- Superspreading Events of COVID-19
+  #     - Superspreading Events of COVID-19
   #       'Hoehl_et_al_2020
   #       'Hamner_et_al_2020
   #       'Kwok_et_al_05_21_2020
@@ -951,7 +951,7 @@ subject module Virus
   #     >
   #       Subsequent research also shows evidence of 20/80 rule of transmission. Model studies have emphasized to include to transmission heterogeneity to accurately portray pathogen dynamics.
   #
-  #     -- Overdispersion & 80/20 Rule of COVID-19
+  #     - Overdispersion & 80/20 Rule of COVID-19
   #       'Adam_et_al_2020
   #       'Adam_et_al_2020.!a
   #       'Miller_et_al_2020b
@@ -961,10 +961,10 @@ subject module Virus
   #   / R<sub>0</sub>
   #   subject Ro
   #     head = Estimates of the number of people infected by one person with COVID-19 (the R0) have varied widely. The WHO's initial estimates of the R0 were 1.4-2.5 (average 1.95), however a more recent review found the basic R0 (without control measures) to be higher at 3.28 and the median R0 to be 2.79.
-  #     -- Context
+  #     - Context
   #       'Heffernan_et_al_2007
   #       'Heffernan_et_al_2007.!a
-  #     -- Estimating R<sub>0</sub>
+  #     - Estimating R<sub>0</sub>
   #       'Liu_et_al_2020e
   #       'Sanche_et_al_2020
   #       'Miller_et_al_2020b.!d
@@ -977,12 +977,12 @@ subject module Virus
   #     >
   #       Dispersion factor k number indicates how often an illness occurs and where potential clusters appear. As with the rate of R, it's better to have a low value for k. That would indicate that the potential for distribution is small and the infection can be traced back to a few people or even a single person. But scientists have yet to work out the dispersion factor k for the novel coronavirus.
   #     # Overdispersion & 80/20 Rule of COVID-19 correlates with superspreading
-  #     --
+  #     -
   #       'Endo_et_al_04_09_2020
   #
   #   / Human-to-animal Tranmission
   #   subject HumanAnimalTransmission
   #     head = There is some evidence of human-to-animal transmission of SARS-CoV-2, including examples in felids. Some institutions have advised those infected with SARS-CoV-2 to restrict contact with animals.
-  #     --
+  #     -
   #       'Sun_et_al_2020
   #       'Chen_et_al_2020b

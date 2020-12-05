@@ -2,7 +2,7 @@
 /// Proteins are long-chain molecules built from small units known as amino acids. They are joined together with peptide bonds. Proteins are essential to all cells.
 model Protein
   # https://simple.wikipedia.org/wiki/Protein
-  <<
+  <
     Molecule
     AminoAcid
     PeptideBond

@@ -17,7 +17,7 @@
   /// Hematopoietic stem cells (HSCs) are the stem cells that give rise to other blood cells, in the process called hematopoiesis.
   model HematopoieticStemCell
     # https://en.wikipedia.org/wiki/Hematopoietic_stem_cell
-    <<
+    <
       Hematopoiesis
 
   /// A progenitor cell is a biological cell that, like a stem cell, has a tendency to differentiate into a specific type of cell, but is already more specific than a stem cell and is pushed to differentiate into its "target" cell. The most important difference between stem cells and progenitor cells is that stem cells can replicate indefinitely, whereas progenitor cells can divide only a limited number of times.
@@ -261,7 +261,7 @@
   /// Thymocytes are hematopoietic progenitor cells present in the thymus. The primary function of thymocytes is the generation of T lymphocytes (T cells).
   model Thymocytes
     # https://en.wikipedia.org/wiki/Thymocyte
-    <<
+    <
       Thymus
       Lymphocytes
       TCells

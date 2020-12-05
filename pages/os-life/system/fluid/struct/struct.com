@@ -11,7 +11,7 @@
   model TunicaIntima
     # https://en.wikipedia.org/wiki/Tunica_intima
 
-    <<
+    <
       Tunica
 
     >
@@ -26,7 +26,7 @@
   /// The tunica media, or media for short, is the middle tunica (layer) of an artery or vein. It lies between the tunica intima on the inside and the tunica externa on the outside. Tunica media is made up of smooth muscle cells, elastic tissue and collagen.
   model TunicaMedia
     # https://en.wikipedia.org/wiki/Tunica_media
-    <<
+    <
       Tunica
 
     >
@@ -38,7 +38,7 @@
   model TunicaExterna
     # https://en.wikipedia.org/wiki/Tunica_externa
 
-    <<
+    <
       Tunica
 
     >
@@ -238,7 +238,7 @@
   /// A lymph duct is a great lymphatic vessel that empties lymph into one of the subclavian veins of the vascular system. There are two lymph ducts in the body—the right lymphatic duct and the thoracic duct.
   model LymphaticDuct
     # https://en.wikipedia.org/wiki/Lymph_duct
-    <<
+    <
       VascularSystem
 
     >
@@ -259,7 +259,7 @@
     /// The right duct drains lymph fluid from the upper right section of the trunk, the right arm, the right side of the head and neck, and in some individuals, the lower lobe of the left lung.
     model RightLymphaticDuct
       # https://en.wikipedia.org/wiki/Right_lymphatic_duct
-      <<
+      <
         *LymphSys
         Lymph
         LymphaticDuct
@@ -267,7 +267,7 @@
     /// The thoracic duct is the larger of the two lymph ducts of the lymphatic system. It carries chyle, a liquid containing both lymph and emulsified fats, rather than pure lymph. It collects most of the lymph in the body other than from the right thorax, arm, head, and neck which are drained by the right lymphatic duct.
     model ThoracicDuct
       # https://en.wikipedia.org/wiki/Thoracic_duct
-      <<
+      <
         LymphaticDuct
         *LymphSys
         Chyle

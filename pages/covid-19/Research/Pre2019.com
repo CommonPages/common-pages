@@ -930,7 +930,7 @@ feed Pre2019
     > Abstract
       We report the isolation and characterization of a novel bat coronavirus which is much closer to the severe acute respiratory syndrome coronavirus (SARS-CoV) in genomic sequence than others previously reported, particularly in its S gene. Cell entry and susceptibility studies indicated that this virus can use ACE2 as a receptor and infect animal and human cell lines. Our results provide further evidence of the bat origin of the SARS-CoV and highlight the likelihood of future bat coronavirus emergence in humans.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -1108,7 +1108,7 @@ feed Pre2019
     > Abstract
       The origin of the severe acute respiratory syndrome‐coronavirus (SARS‐CoV) remains unclear. Evidence based on Bayesian scanning plots and phylogenetic analysis using maximum likelihood (ML) and Bayesian methods indicates that SARS‐CoV, for the largest part of the genome (∼80%), is more closely related to Group II coronaviruses sequences, whereas in three regions in the ORF1ab gene it shows no apparent similarity to any of the previously characterized groups of coronaviruses. There is discordant phylogenetic clustering of SARS‐CoV and coronaviruses sequences, throughout the genome, compatible with either ancient recombination events or altered evolutionary rates in different lineages, or a combination of both.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -1182,7 +1182,7 @@ feed Pre2019
     > Abstract
       The coronavirus spike protein (S) plays a key role in the early steps of viral infection, with the S1 domain responsible for receptor binding and the S2 domain mediating membrane fusion. In some cases, the S protein is proteolytically cleaved at the S1–S2 boundary. In the case of the severe acute respiratory syndrome coronavirus (SARS-CoV), it has been shown that virus entry requires the endosomal protease cathepsin L; however, it was also found that infection of SARS-CoV could be strongly induced by trypsin treatment. Overall, in terms of how cleavage might activate membrane fusion, proteolytic processing of the SARS-CoV S protein remains unclear. Here, we identify a proteolytic cleavage site within the SARS-CoV S2 domain (S2′, R797). Mutation of R797 specifically inhibited trypsin-dependent fusion in both cell–cell fusion and pseudovirion entry assays. We also introduced a furin cleavage site at both the S2′ cleavage site within S2 793-KPTKR-797 (S2′), as well as at the junction of S1 and S2. Introduction of a furin cleavage site at the S2′ position allowed trypsin-independent cell–cell fusion, which was strongly increased by the presence of a second furin cleavage site at the S1–S2 position. Taken together, these data suggest a novel priming mechanism for a viral fusion protein, with a critical proteolytic cleavage event on the SARS-CoV S protein at position 797 (S2′), acting in concert with the S1–S2 cleavage site to mediate membrane fusion and virus infectivity.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -1279,7 +1279,7 @@ feed Pre2019
     > Abstract
       The Middle East respiratory syndrome-related coronavirus (MERS-CoV) can cause severe disease and has pandemic potential. Therefore, development of antiviral strategies is an important task. The activation of the viral spike protein (S) by host cell proteases is essential for viral infectivity and the responsible enzymes are potential therapeutic targets. The cellular proteases furin, cathepsin L and TMPRSS2 can activate MERS-S and may cleave the S protein at two distinct sites, termed S1/S2 and S2′. Moreover, a potential cathepsin L cleavage site in MERS-S has been reported. However, the relative importance of these sites for MERS-S activation is incompletely understood. Here, we used mutagenic analysis and MERS-S-bearing vectors to study the contribution of specific cleavage sites to S protein-driven entry. We found that an intact S1/S2 site was only required for efficient entry into cells expressing endogenous TMPRSS2. In keeping with a previous study, pre-cleavage at the S1/S2 motif (RSVR) was important although not essential for subsequent MERS-S activation by TMPRSS2, and indirect evidence was obtained that this motif is processed by a protease depending on an intact RXXR motif, most likely furin. In contrast, the S2′ site (RSAR) was required for robust viral entry into all cell lines tested and the integrity of one of the two arginines was sufficient for efficient entry. These findings suggest that cleavage at S2′ is carried out by proteases recognizing a single arginine, most likely TMPRSS2 and cathepsin L. Finally, mutation of the proposed cathepsin L site did not impact viral entry and double mutation of S1/S2 and S2′ site was compatible with cathepsin L- but not TMPRSS2-dependent host cell entry, indicating that cathepsin L can process the S protein at auxiliary sites. Collectively, our results indicate a rigid sequence requirement for S protein activation by TMPRSS2 but not cathepsin L.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -1557,7 +1557,7 @@ feed Pre2019
     > Abstract
       The flushing of toilets generates contaminated aerosols, the transmission of which may cause the spread of disease, particularly in the immunocompromised or the elderly. This study investigated the emission strength of three types of airborne bacteria, namely Staphylococcus epidermidis , Escherichia coli, and Pseudomonas alcaligenes , during toilet flushing in a custom‐built toilet under a controlled environment. Flushing was activated by a flushometer operated at two pressure levels, 400 kP a (high pressure [HP ]) and 200 kP a (low pressure [LP ]), and by a water cistern tank placed 95 cm (high tank [HT ]) and 46 cm (low tank [LT ]) above the toilet seat. The pathogens emitted by the first flush were calculated, with the correlations between airborne pathogen emissions and droplet concentration (HP , r =0.944, P <.001; LP , r =0.803, P <.001, HT , r =0.885, P <.05) and bacterial size (HP , r =−0.919, P <.001; LP , r =−0.936, P <.001; HT , r =−0.967, P <.05) in the different conditions then tested. The emission strength in the HP condition was statistically greater than that in the LP condition, whereas the cistern tank system produced less emissions than the flushometer system, and tank height was not found to be a sensitive parameter.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -1905,7 +1905,7 @@ feed Pre2019
     > Abstract
       IFN-λ is a cytokine expressed in epithelial tissues and plays a central role in antiviral mucosal immune response. The expression of IFN-λ in the airway is impaired in chronic airway diseases (e.g., asthma, chronic obstructive pulmonary disease), which renders patients susceptible to viral infection. IL-17A is associated with asthma and chronic obstructive pulmonary disease pathogenesis; however, IL-17A regulation of IFN-λ expression remains unclear. The aim of the current study is to clarify IL-17A–mediated regulatory mechanisms of IFN-λ expression in human airway epithelial cells. In this study, we have shown that polyinosinic:polycytidylic acid (polyI:C) and influenza A virus (IAV) infection increased IFN-λ expression at mRNA and protein levels in primary cultures of normal human bronchial epithelial cells, whereas IL-17A attenuated polyI:C- or IAV-induced IFN-λ expression. IFN-λ receptor 1 knockdown and a JAK inhibitor, ruxolitinib, attenuated polyI:C-induced IFN-λ expression, confirming that a positive autocrine feedback loop, the IFN-λ receptor–JAK–STAT pathway, was involved in IFN-λ expression. In Western blotting analysis, we demonstrated that polyI:C and IAV infection induced STAT1 phosphorylation in normal human bronchial epithelial cells, whereas IL-17A suppressed polyI:C- or IAV-mediated STAT1 phosphorylation. Furthermore, we found that cotreatment with IL-17A and polyI:C or IAV infection synergistically increased suppressor of cytokine signaling (SOCS)1 and SOCS3 expression. SOCS1 small interfering RNA and SOCS3 small interfering RNA negated the inhibitory effect of IL-17A in polyI:C-induced IFN-λ expression by restoring attenuated STAT1 phosphorylation. Taken together, these findings indicate that IL-17A attenuates virus-induced IFN-λ expression by enhancing SOCS1 and SOCS3 expression to inhibit autocrine signaling loops in human airway epithelial cells.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -2572,7 +2572,7 @@ feed Pre2019
   ref 'Xiong_et_al_2020
     head = Increasing values of D‐D and PT support the notion that disseminated intravascular coagulation (DIC) may be common in COVID‐19 patients. In addition, the rise of D‐D level also indicates secondary fibrinolysis conditions in these patients.
 
-    # -- quotes
+    # - quotes
     #  !a
 
     # / April, 2020 -  Br J Haematol
@@ -2611,7 +2611,7 @@ feed Pre2019
     > Abstract
       Airborne-mediated microbial diseases such as influenza and tuberculosis represent major public health challenges. A direct approach to prevent airborne transmission is inactivation of airborne pathogens, and the airborne antimicrobial potential of UVC ultraviolet light has long been established; however, its widespread use in public settings is limited because conventional UVC light sources are both carcinogenic and cataractogenic. By contrast, we have previously shown that far-UVC light (207–222 nm) efficiently inactivates bacteria without harm to exposed mammalian skin. This is because, due to its strong absorbance in biological materials, far-UVC light cannot penetrate even the outer (non living) layers of human skin or eye; however, because bacteria and viruses are of micrometer or smaller dimensions, far-UVC can penetrate and inactivate them. We show for the first time that far-UVC efficiently inactivates airborne aerosolized viruses, with a very low dose of 2 mJ/cm2 of 222-nm light inactivating >95% of aerosolized H1N1 influenza virus. Continuous very low dose-rate far-UVC light in indoor public locations is a promising, safe and inexpensive tool to reduce the spread of airborne-mediated microbial diseases.
 
-    # -- quotes
+    # - quotes
     #  !a
 
     # / Feb, 2018 -  Sci Rep
@@ -3118,7 +3118,7 @@ feed Pre2019
     > Conclusions
       Implementation of a handwashing program in this population of healthy young adults was associated with a marked reduction in outpatient visits for respiratory illness. Despite its success, maintenance of the handwashing program has been challenging in the time-constrained setting of military training.
 
-    # -- quotes
+    # - quotes
     #   !a
     #   !b
     #   !c
@@ -3814,7 +3814,7 @@ feed Pre2019
   ref 'Noyce_et_al_2007
     head = Influenza A virus particles (2 × 106) were inoculated onto copper or stainless steel and incubated at 22°C at 50 to 60% relative humidity. After incubation for 24 h on stainless steel, 500,000 virus particles were still infectious. After incubation for 6 h on copper, only 500 particles were active. Simply replacing steel fittings with copper will not prevent the transmission of influenza.
 
-    # -- quotes
+    # - quotes
     #   !a
     #
     # / April, 2007 - Appl Environ Microbiol

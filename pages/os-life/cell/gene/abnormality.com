@@ -92,7 +92,7 @@ model LOH
 /// A fusion gene is a hybrid gene formed from two previously separate genes. It can occur as a result of: translocation, interstitial deletion, or chromosomal inversion.
 model FusionGene
   #  https://en.wikipedia.org/wiki/Fusion_gene
-  <<
+  <
     Translocation
     ChromosomalDeletion
     ChromosomalInversion

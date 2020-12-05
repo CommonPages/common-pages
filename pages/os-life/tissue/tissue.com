@@ -27,7 +27,7 @@ module tissue
     # The study of the shape and arrangement of cells in tissue is called histology. All cells and tissues in the body derive from three germ layers in the embryo: the ectoderm, mesoderm, and endoderm.
     # Different types of tissues form membranes that enclose organs, provide a friction-free interaction between organs, and keep organs together. Synovial membranes are connective tissue membranes that protect and line the joints. Epithelial membranes are formed from epithelial tissue attached to a layer of connective tissue. There are three types of epithelial membranes: mucous, which contain glands; serous, which secrete fluid; and cutaneous which makes up the skin.
 
-  ^^
+  ^
     Introduction
 
   >
@@ -86,7 +86,7 @@ module tissue
     / Connective Tissue Membrane
     /// The connective tissue membrane is formed solely from connective tissue. These membranes encapsulate organs, such as the kidneys, and line our movable joints.
     module connectivemem
-      <<
+      <
         ConnectiveTissue
 
       >
@@ -153,7 +153,7 @@ module tissue
         >
           Glands are secretory tissues and organs that are derived from epithelial tissues. Exocrine glands release their products through ducts. Endocrine glands secrete hormones directly into the interstitial fluid and blood stream. Glands are classified both according to the type of secretion and by their structure. Merocrine glands secrete products as they are synthesized. Apocrine glands release secretions by pinching off the apical portion of the cell, whereas holocrine gland cells store their secretions until they rupture and release their contents. In this case, the cell becomes part of the secretion.
 
-    ^^
+    ^
       Introduction
       InBrief
 
@@ -376,7 +376,7 @@ module tissue
         >
           The major types of connective tissue are connective tissue proper, supportive tissue, and fluid tissue. Loose connective tissue proper includes adipose tissue, areolar tissue, and reticular tissue. These serve to hold organs and other tissues in place and, in the case of adipose tissue, isolate and store energy reserves. The matrix is the most abundant feature for loose tissue although adipose tissue does not have much extracellular matrix. Dense connective tissue proper is richer in fibers and may be regular, with fibers oriented in parallel as in ligaments and tendons, or irregular, with fibers oriented in several directions. Organ capsules (collagenous type) and walls of arteries (elastic type) contain dense irregular connective tissue. Cartilage and bone are supportive tissue. Cartilage contains chondrocytes and is somewhat flexible. Hyaline cartilage is smooth and clear, covers joints, and is found in the growing portion of bones. Fibrocartilage is tough because of extra collagen fibers and forms, among other things, the intervertebral discs. Elastic cartilage can stretch and recoil to its original shape because of its high content of elastic fibers. The matrix contains very few blood vessels. Bones are made of a rigid, mineralized matrix containing calcium salts, crystals, and osteocytes lodged in lacunae. Bone tissue is highly vascularized. Cancellous bone is spongy and less solid than compact bone. Fluid tissue, for example blood and lymph, is characterized by a liquid matrix and no supporting fibers.
 
-    ^^
+    ^
       InBrief
 
     >
@@ -398,12 +398,14 @@ module tissue
     >
       Connective tissues perform many functions in the body, but most importantly, they support and connect other tissues; from the connective tissue sheath that surrounds muscle cells, to the tendons that attach muscles to bones, and to the skeleton that supports the positions of the body. Protection is another major function of connective tissue, in the form of fibrous capsules and bones that protect delicate organs and, of course, the skeletal system. Specialized cells in connective tissue defend the body from microorganisms that enter the body. Transport of fluid, nutrients, waste, and chemical messengers is ensured by specialized fluid connective tissues, such as blood and lymph. Adipose cells store surplus energy in the form of fat and contribute to the thermal insulation of the body.
 
-    let classif >
+    # let classif
+    >
       The three broad categories of connective tissue are classified according to the characteristics of their ground substance and the types of fibers found within the matrix.
 
-    >>
-      classif
-      partial.connectivetab
+    # >
+    #  classif
+
+    insert partial.connectivetab
 
     -
       proper
@@ -678,7 +680,7 @@ module tissue
         >
           The three types of muscle cells are skeletal, cardiac, and smooth. Their morphologies match their specific functions in the body. Skeletal muscle is voluntary and responds to conscious stimuli. The cells are striated and multinucleated appearing as long, unbranched cylinders. Cardiac muscle is involuntary and found only in the heart. Each cell is striated with a single nucleus and they attach to one another to form long fibers. Cells are attached to one another at intercalated disks. The cells are interconnected physically and electrochemically to act as a syncytium. Cardiac muscle cells contract autonomously and involuntarily. Smooth muscle is involuntary. Each cell is a spindle-shaped fiber and contains a single nucleus. No striations are evident because the actin and myosin filaments do not align in the cytoplasm.
 
-    ^^
+    ^
       InBrief
 
     >
@@ -750,7 +752,7 @@ module tissue
         >
           The most prominent cell of the nervous tissue, the neuron, is characterized mainly by its ability to receive stimuli and respond by generating an electrical signal, known as an action potential, which can travel rapidly over great distances in the body. A typical neuron displays a distinctive morphology: a large cell body branches out into short extensions called dendrites, which receive chemical signals from other neurons, and a long tail called an axon, which relays signals away from the cell to other neurons, muscles, or glands. Many axons are wrapped by a myelin sheath, a lipid derivative that acts as an insulator and speeds up the transmission of the action potential. Other cells in the nervous tissue, the neuroglia, include the astrocytes, microglia, oligodendrocytes, and Schwann cells.
 
-    ^^
+    ^
       InBrief
 
     >

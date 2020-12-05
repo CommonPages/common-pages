@@ -3,7 +3,7 @@
 
   /// Deoxyribonucleic acid (DNA) is a unique molecule that carries genetic instructions for the development, functioning, growth and reproduction of all known organisms.
   model DNA
-    <<
+    <
       Molecule
       GeneticCode
       chem.organic.nucleotides
@@ -15,7 +15,7 @@
   / DNA Base Pair
   /// A base pair is a unit consisting of two nucleobases bound to each other by hydrogen bonds. They form the building blocks of the DNA double helix and contribute to the folded structure of both DNA and RNA.
   model DNABasePair
-    <<
+    <
       DNA
       Nucleotide
 
@@ -45,7 +45,7 @@
   /// A chromosome is a DNA molecule with part or all of the genetic material (genome) of an organism.
   # Most chromosomes include packaging proteins which bind to and condense the DNA molecule to prevent it from becoming an unmanageable tangle.
   model Chromosome
-    <<
+    <
       DNA
 
     url: https://upload.wikimedia.org/wikipedia/commons/e/e2/Eukaryote_DNA-en.svg
@@ -77,7 +77,7 @@
 
   /// A gene is a functional segment of DNA that provides the genetic information necessary to build a protein. Each particular gene provides the code necessary to construct a particular protein.
   model Gene
-    <<
+    <
       DNA
       GeneticCode
       Protein
@@ -95,7 +95,7 @@
 
   /// Gene expression is the process by which information from a gene is used in the synthesis of a functional gene product.
   model GeneExpression
-    <<
+    <
       Gene
       cell.proteinsynth
 
@@ -107,7 +107,7 @@
   # These products are often proteins, but in non-protein coding genes such as transfer RNA (tRNA) or small nuclear RNA (snRNA) genes, the product is a functional RNA.
   model GeneProduct
     # https://en.wikipedia.org/wiki/Gene_product
-    <<
+    <
       RNA
       Protein
       GeneExpression
@@ -158,7 +158,7 @@
   # Homologs have the same genes in the same loci where they provide points along each chromosome which enable a pair of chromosomes to align correctly with each other before separating during meiosis. One homologous chromosome is inherited from the organism's mother; the other is inherited from the organism's father.
   model HomologousChromosomes
     # https://en.wikipedia.org/wiki/Homologous_chromosome
-    <<
+    <
       Chromosome
     >
       {image:'Figure_3_5_2}
@@ -175,7 +175,7 @@
   /// Dominance is the phenomenon of one variant (allele) of a gene on a chromosome masking or overriding the effect of a different variant of the same gene on the other copy of the chromosome.
   model Dominance
     #
-    <<
+    <
       Allele
       Gene
       Chromosome
@@ -189,14 +189,14 @@
   /// Wild type is a term in genetics for the most common type in a natural population. It is generally applied to alleles of a gene, to contrast normal alleles with mutant alleles.
   model WildType
     # https://simple.wikipedia.org/wiki/Wild_type
-    <<
+    <
       Allele
       GeneMutation
 
   /// The genotype is the genetic constitution of an organism, mainly its genome.
   model Genotype
     # https://simple.wikipedia.org/wiki/Genotype
-    <<
+    <
       Genome
 
   /// The phenotype of an organism is the composite of the organism's observable characteristics or traits, including its form and structure, its developmental processes, its biochemical and physiological properties, and its behavior.
