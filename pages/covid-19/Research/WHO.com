@@ -498,42 +498,13 @@ feed WHO
   #   quote !a =
 
 
-  # 25
-  # asymptomatic, community transmission
-  // Estimating the extent of true asymptomatic COVID-19 and its potential for community transmission: systematic review and metaanalysis.
-  doi: https://doi.org/10.1101/2020.05.10.20097543
-  ref 'Byambasuren_et_al_06_04_2020
-    head = Our estimates of the proportion of asymptomatic cases and their transmission rates suggest that asymptomatic spread is unlikely to be a major driver of clusters or community transmission of infection, but the extent for pre-symptomatic and minor symptomatic transmission remains unknown.
-
-
-    > Background
-      The prevalence of true asymptomatic COVID-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesize all available research on the asymptomatic rates and transmission rates where possible.
-
-    > Methods
-      We searched PubMed, Embase, Cochrane COVID-19 trials, and Europe PMC (which covers pre-print platforms such as MedRxiv). We included primary studies reporting on asymptomatic prevalence where: (a) the sample frame includes at-risk population, and (b) there was sufficiently long follow up to identify pre-symptomatic cases. Meta-analysis used fixed effect and random effects models. We assessed risk of bias by combination of questions adapted from risk of  bias tools for prevalence and diagnostic accuracy studies.
-
-    > Results
-      We screened 998 articles and included nine low risk-of-bias studies from six countries that
-      tested 21,035 at-risk people, of which 559 were positive and 83 were asymptomatic. Diagnosis in all
-      studies was confirmed using a RT-qPCR test. The proportion of asymptomatic cases ranged from 4%
-      to 41%. Meta-analysis (fixed effect) found that the proportion of asymptomatic cases was 15% (95%
-      CI: 12% - 18%) overall; higher in non-aged care 16% (13% - 19%), and lower in long-term aged care
-      8% (3% - 18%). Four studies provided direct evidence of forward transmission of the infection by
-      asymptomatic cases but suggested considerably lower rates than symptomatic cases.
-
-    > Discussion
-      Our estimates of the prevalence of asymptomatic COVID-19 cases and asymptomatic transmission rates are lower than many highly publicized studies, but still sufficient to warrant policy attention. Further robust epidemiological evidence is urgently needed, including in sub-populations such as children, to better understand the importance of asymptomatic cases for driving spread of the pandemic.
-
-    / June, 2020 - bioRxiv
-    quote !a = Estimates of asymptomatic transfer are lower, but still might be consderable.
-
 
   # 26
   # staff people, presymptomatic, nursing facility
   // Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility.
   doi: https://doi.org/10.1056/NEJMoa2008457
   ref 'Arons_et_al_03_28_2020
-    head = Rapid and widespread transmission of SARS-CoV-2 was demonstrated in this skilled nursing facility. More than half of residents with positive test results were asymptomatic at the time of testing and most likely contributed to transmission. Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after SARS-CoV-2 introduction into this facility.
+    head = After identification of a case of Covid-19 in a skilled nursing facility, we assessed transmission and evaluated the adequacy of symptom-based screening to identify infections in residents. We conducted two serial point-prevalence surveys, 1 week apart, in which assenting residents of the facility underwent testing for SARS-CoV-2.
 
     > Background
       Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection can spread rapidly within skilled nursing facilities. After identification of a case of Covid-19 in a skilled nursing facility, we assessed transmission and evaluated the adequacy of symptom-based screening to identify infections in residents.
@@ -546,15 +517,16 @@ feed WHO
 
     > Conclusions
       Rapid and widespread transmission of SARS-CoV-2 was demonstrated in this skilled nursing facility. More than half of residents with positive test results were asymptomatic at the time of testing and most likely contributed to transmission. Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after SARS-CoV-2 introduction into this facility.
+
     - quotes
       !a
       !b
 
-    / Just focusing on symptomatic patients for prevention may not be enough
-    quote !a = Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after Covid-19 introduction into this facility.
-    / Asymptomatic transmission
-    quote !b =  After identification of a case of Covid-19 in a skilled nursing facility, we assessed transmission and evaluated the adequacy of symptom-based screening to identify infections in residents. More than half of residents with positive test results were asymptomatic at the time of testing and most likely contributed to transmission.
+    / March 28, 2020 — New England Journal of Medicine
+    quote !a =  After identification of a case of Covid-19 in a skilled nursing facility, we assessed transmission and evaluated the adequacy of symptom-based screening to identify infections in residents. More than half of residents with positive test results were asymptomatic at the time of testing and most likely contributed to transmission.
 
+    / March 28, 2020 — New England Journal of Medicine
+    quote !b = Infection-control strategies focused solely on symptomatic residents were not sufficient to prevent transmission after Covid-19 introduction into this facility.
 
 
   # 27
@@ -671,7 +643,7 @@ feed WHO
   // Contact Tracing Assessment of COVID-19 Transmission Dynamics in Taiwan and Risk at Different Exposure Periods Before and After Symptom Onset.
   doi: https://doi.org/10.1001/jamainternmed.2020.2020
   ref 'Cheng_et_al_05_01_2020
-    head = Findings suggest that most transmission of COVID-19 occurred at the very early stage of the disease or even before the onset of symptoms, and the secondary clinical attack rate among contacts decreased over time as symptoms developed and progressed. High transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
+    head = Objective: to delineate the transmission dynamics of COVID-19 and evaluate the transmission risk at different exposure window periods before and after symptom onset. This prospective case-ascertained study in Taiwan included laboratory-confirmed cases of COVID-19 and their contacts.
 
     > Importance
       The dynamics of coronavirus disease 2019 (COVID-19) transmissibility are yet to be fully understood. Better understanding of the transmission dynamics is important for the development and evaluation of effective control policies.
@@ -691,12 +663,12 @@ feed WHO
     > Conclusions and Relevance
       In this study, high transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
 
-
     - quotes
       !a
       !b
       !c
       !d
+      !f
       !e
 
     / May, 2020 - JAMA Intern Med.
@@ -711,8 +683,11 @@ feed WHO
     / May, 2020 - JAMA Intern Med.
     quote !d = The attack rates were higher among those aged 40 to 59 years (1.1% [95% CI, 0.6%-2.1%]) and those aged 60 years and older (0.9% [95% CI, 0.3%-2.6%]).
 
-    / Only isolating symptomatic patients may not be sufficiently
-    quote !e = In this study, high transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
+    / May, 2020 - JAMA Intern Med.
+    quote !e = High transmissibility of COVID-19 before and immediately after symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized measures may be required, such as social distancing.
+
+    / May, 2020 - JAMA Intern Med.
+    quote !f = Findings suggest that most transmission of COVID-19 occurred at the very early stage of the disease or even before the onset of symptoms, and the secondary clinical attack rate among contacts decreased over time as symptoms developed and progressed.
 
 
 

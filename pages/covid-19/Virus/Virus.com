@@ -129,7 +129,9 @@ subject module Virus
       -
         'Zou_et_al_2020
         'Zou_et_al_2020.!a
+      -
         'He_et_al_2020
+        'He_et_al_2020.!a
       -
         'Woelfel_et_al_2020b
         'Woelfel_et_al_2020b.!b

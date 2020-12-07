@@ -254,7 +254,7 @@ feed March2020
   // High transmissibility of COVID-19 near symptom onset
   doi: https://doi.org/10.1101/2020.03.18.20034561
   ref 'Cheng_et_al_03_19_2020
-    head = High transmissibility of COVID-19 near symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized social distancing measures are required.
+    head = The dynamics of coronavirus disease 2019 (COVID-19) transmissibility after symptom onset remains unknown. We conducted a prospective case-ascertained study on laboratory-confirmed COVID-19 cases and their contacts.
 
     > Background
       The dynamics of coronavirus disease 2019 (COVID-19) transmissibility after symptom onset remains unknown.
@@ -265,9 +265,15 @@ feed March2020
     > Conclusions
       High transmissibility of COVID-19 near symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized social distancing measures are required. Rapid reduction of transmissibility over time implies that prolonged hospitalization of mild cases might not be necessary in large epidemics.
 
+    - quotes
+      !a
+      !b
 
     / March, 2020 - medRxiv
-    quote !a =
+    quote !a = High transmissibility of COVID-19 near symptom onset suggests that finding and isolating symptomatic patients alone may not suffice to contain the epidemic, and more generalized social distancing measures are required.
+
+    / March, 2020 - medRxiv
+    quote !b = Rapid reduction of transmissibility over time implies that prolonged hospitalization of mild cases might not be necessary in large epidemics.
 
 
 
@@ -2479,17 +2485,20 @@ feed March2020
   // Temporal dynamics in viral shedding and transmissibility of COVID-19
   doi: https://doi.org/10.1101/2020.03.15.20036707
   ref 'He_et_al_2020
-    head = We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset. We estimated that 44% of secondary cases were infected during the index cases’ presymptomatic stage, in settings with substantial household clustering, active case finding and quarantine outside the home.
-
+    head = We report temporal patterns of viral shedding in 94 laboratory-confirmed COVID-19 patients and modelled COVID-19 infectiousness profile from a separate sample of 77 infector-infectee transmission pairs.
 
     - quotes
+      !c
       !a
       !b
 
-    / March, 2020 - MedRixiv
+    / March, 2020 - MedRxiv
+    quote !c = We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset.
+
+    / March, 2020 - MedRxiv
     quote !a = We estimated that 44% of transmission could occur before first symptoms of the index. Disease control measures should be adjusted to account for probable substantial pre-symptomatic transmission.
 
-    / March, 2020 - MedRixiv
+    / March, 2020 - MedRxiv
     quote !b = Viral shedding may begin 2-3 days before showing first symptoms. After symptom onset, viral loads decreased monotonically, consistent with a recent study of 17 patients from another hospital in Guangdong. Infectiousness profile may more closely resemble that of influenza than of SARS.
 
 

@@ -532,9 +532,9 @@ feed May2020
 
   # Close Contact
   // Epidemiological characteristics of infection in COVID-19 close contacts in Ningbo city
-  doi: https://doi.org/10.3760/cma.j.cn112338-20200304-00251
+  link: https://pubmed.ncbi.nlm.nih.gov/32447904
   ref 'Chen_et_al_05_10_2020
-    head = A total of 2 147 close contacts were tracked and investigated. Among close contacts of different relationships, friends/pilgrims, family members, and relatives have a higher infection rate, and close contacts of medical staff were not infected. Living with the case, taking the same transportation, and dining together are high risk factors for infection.
+    head = A prospective study was used to conduct continuous quarantine medical observations of close contacts of people infected with COVID-19, collect epidemiological, clinical manifestations, and laboratory test data to estimate the infection rate of close contacts under different exposures. A total of 2,147 close contacts were tracked and investigated.
 
     > Objective
       To estimate the infection rate of close contacts of COVID-19 cases, and to evaluate the risk of COVID-19 under different exposure conditions.
@@ -545,8 +545,11 @@ feed May2020
     > Conclusion
       The infection rate of close contacts of COVID-19 cases is high, and isolation medical observation measures should be implemented in strict accordance with the close contact management plan.
 
+    - quotes
+      !a
+
     / February, 2020 - bioRxiv
-    quote !a =
+    quote !a = Among close contacts of different relationships, friends/pilgrims, family members, and relatives have a higher infection rate, and close contacts of medical staff were not infected. Living with the case, taking the same transportation, and dining together are high risk factors for infection.
 
 
   # Hydroxychloroquine

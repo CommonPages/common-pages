@@ -1183,7 +1183,7 @@ feed Sangeeta
   // Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China
   doi: 10.1136/bmjgh-2020-002794
   ref 'Wang_et_al_05_28_2020
-    head = A retrospective cohort study of 335 people in 124 families and with at least one laboratory confirmed COVID-19 case was conducted. The study confirms the highest risk of transmission prior to symptom onset, and provides the first evidence of the effectiveness of mask use, disinfection and social distancing in preventing COVID-19. We also found evidence of faecal transmission.
+    head = A retrospective cohort study of 335 people in 124 families and with at least one laboratory confirmed COVID-19 case was conducted.
 
     - quotes
       !a
@@ -1192,6 +1192,7 @@ feed Sangeeta
       !d
       !e
       !f
+      !g
 
     / May, 2020 - BMJ Glob Health
     quote !a = The overall secondary attack rate in households was 23.0%.
@@ -1210,6 +1211,9 @@ feed Sangeeta
 
     / May, 2020 - BMJ Glob Health
     quote !f = The risk of household transmission was 18 times higher with frequent daily close contact with the primary case, and four times higher if the primary case had diarrhoea.
+
+    / May, 2020 - BMJ Glob Health
+    quote !g = The study confirms the highest risk of transmission prior to symptom onset, and provides the first evidence of the effectiveness of mask use, disinfection and social distancing in preventing COVID-19.
 
     # / May, 2020 - BMJ Glob Health
     # quote !g = Household crowding was not significant.
@@ -1261,21 +1265,21 @@ feed Sangeeta
   // The relative transmissibility of asymptomatic COVID-19 infections among close contacts
   doi: https://doi.org/10.1016/j.ijid.2020.04.034
   ref 'He_et_al_04_18_2020
-    head = A recent study in China showed that transmissibility of the asymptomatic cases is comparable to that of symptomatic cases. Here, we re-analysed their dataset and conclude that the relatively transmissibility of asymptomatic case could be significantly smaller than that of the symptomatic cases.
+    head = A recent study in China showed that transmissibility of the asymptomatic cases is comparable to that of symptomatic cases. Here, we discuss that the conclusion may depend on how we interpret the data.
 
     > Abstract
       Asymptomatic transmission of the coronavirus disease 2019 is an important topic. A recent study in China showed that transmissibility of the asymptomatic cases is comparable to that of symptomatic cases. Here, we discuss that the conclusion may depend on how we interpret the data. To the best of our knowledge, this is the first time the relative transmissibility of asymptomatic COVID-19 infections is quantified.
 
     / April, 2020 - Int. J. Infect. Dis.
-    quote !a =
+    quote !a = We conclude that the relative transmissibility of asymptomatic cases could be significantly smaller than that of the symptomatic cases.
 
 
 
   #
   // Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China
   doi: https://doi.org/10.1038/s41467-020-19802-w
-  ref 'Cao_et_al_011_20_2020
-    head = The citywide nucleic acid screening of SARS-CoV-2 infection in Wuhan recruited nearly 10 million people, and found no newly confirmed cases with COVID-19. The detection rate of asymptomatic positive cases was very low, and there was no evidence of transmission from asymptomatic positive persons to traced close contacts. There were no asymptomatic positive cases in 96.4% of the residential communities.
+  ref 'Cao_et_al_11_20_2020
+    head = Stringent COVID-19 control measures were imposed in Wuhan between January 23 and April 8, 2020. Estimates of the prevalence of infection following the release of restrictions could inform post-lockdown pandemic management. Here, we describe a city-wide SARS-CoV-2 nucleic acid screening programme between May 14 and June 1, 2020 in Wuhan.
 
     > Abstract
       Stringent COVID-19 control measures were imposed in Wuhan between January 23 and April 8, 2020. Estimates of the prevalence of infection following the release of restrictions could inform post-lockdown pandemic management. Here, we describe a city-wide SARS-CoV-2 nucleic acid screening programme between May 14 and June 1, 2020 in Wuhan. All city residents aged six years or older were eligible and 9,899,828 (92.9%) participated. No new symptomatic cases and 300 asymptomatic cases (detection rate 0.303/10,000, 95% CI 0.270–0.339/10,000) were identified. There were no positive tests amongst 1,174 close contacts of asymptomatic cases. 107 of 34,424 previously recovered COVID-19 patients tested positive again (re-positive rate 0.31%, 95% CI 0.423–0.574%). The prevalence of SARS-CoV-2 infection in Wuhan was therefore very low five to eight weeks after the end of lockdown.
@@ -1291,7 +1295,7 @@ feed Sangeeta
   // Coinfection and Other Clinical Characteristics of COVID-19 in Children
   doi: https://doi.org/10.1542/peds.2020-0961
   ref 'Wu_et_al_07_01_2020
-    head = We reviewed and analyzed clinical, laboratory, treatment, and outcome data of 74 pediatric cases of COVID-19 from 2 children’s hospitals within and beyond the epidemic center (from southern China and northern China, respectively). Pediatric patients with COVID-19 presented with distinct epidemiological, clinical, and radiologic characteristics from adult patients. Nearly one-half of the infected children had coinfection with other common respiratory pathogens.
+    head = In this study, we aimed to determine epidemiological characteristics and clinical features of pediatric patients with COVID-19. We reviewed and analyzed clinical, laboratory, treatment, and outcome data of 74 pediatric cases of COVID-19 from 2 children’s hospitals within and beyond the epidemic center (from southern China and northern China, respectively).
 
     > Background and Objectives
       Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a newly identified pathogen that mainly spreads by droplets. Most published studies have been focused on adult patients with coronavirus disease 2019 (COVID-19), but data concerning pediatric patients are limited. In this study, we aimed to determine epidemiological characteristics and clinical features of pediatric patients with COVID-19.
@@ -1307,7 +1311,6 @@ feed Sangeeta
 
     - quotes
       !a
-      !a
       !b
 
     / July, 2020 - Pediatrics
@@ -1322,13 +1325,12 @@ feed Sangeeta
   // COVID-19 in Children and the Dynamics of Infection in Families
   doi: https://doi.org/10.1542/peds.2020-1576
   ref 'Klara_et_al_07_31_2020
-    head = This study describes the clinical presentation of the first 40 pediatric cases of COVID-19 in Geneva, Switzerland and the dynamics of their familial clusters. In 79% of households, ≥1 adult family member was suspected or confirmed for COVID-19 before symptom onset in the study child, confirming that children are infected mainly inside familial clusters.
-
+    head = This study describes the clinical presentation of the first 40 pediatric cases of COVID-19 in Geneva, Switzerland and the dynamics of their familial clusters.
 
     - quotes
       !a
+      !c
       !b
-
 
     / July, 2020 - Pediatrics
     quote !a = In only 8% of households did a child develop symptoms before any other HHC, which is in line with previous data in which it is shown that children are index cases in <10% of SARS-CoV-2 familial clusters.
@@ -1336,16 +1338,8 @@ feed Sangeeta
     / July, 2020 - Pediatrics
     quote !b = Most children in our study had mild or atypical presentations: headache and nasal discharge were described in more than half of cases, and anosmia and abdominal symptoms were described in <20%, which is more frequent than previously described.
 
-
-  #
-  // COVID-19 Transmission and Children: The Child Is Not to Blame
-  doi: https://doi.org/10.1542/peds.2020-004879
-  ref 'Lee_et_al_07_31_2020
-    head = A major question remains unanswered: to what extent are children responsible for SARS-CoV-2 transmission? Resolving this issue is central to making informed public health decisions, ranging from how to safely re-open schools, child care facilities, and summer camps down to the precautions needed to obtain a throat culture in an uncooperative child. To date, few published data are available to help guide these decisions.
-
     / July, 2020 - Pediatrics
-    quote !a =
-
+    quote !c = In 79% of households, ≥1 adult family member was suspected or confirmed for COVID-19 before symptom onset in the study child, confirming that children are infected mainly inside familial clusters.
 
 
   #
@@ -1375,7 +1369,7 @@ feed Sangeeta
   // Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate
   doi: https://doi.org/10.1101/2020.07.29.20164590
   ref 'Zachary_et_al_08_01_2020
-    head = We identified 40 relevant published studies that report household secondary transmission. The estimated overall household SAR was 18.8%, which is higher than previously observed SARs for SARS-CoV and MERS-CoV.
+    head = We performed a meta-analysis through July 29, 2020 of SARS-CoV-2 household secondary attack rate. We identified 40 relevant published studies that report household secondary transmission.
 
     > Background
       Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is spread by direct, indirect, or close contact with infected people via infected respiratory droplets or saliva. Crowded indoor environments with sustained close contact and conversations are a particularly high-risk setting.
@@ -1390,6 +1384,7 @@ feed Sangeeta
       To prevent the spread of SARS-CoV-2, people are being asked to stay at home worldwide. With suspected or confirmed infections referred to isolate at home, household transmission will continue to be a significant source of transmission.
 
     - quotes
+      !d
       !a
       !b
       !c
@@ -1402,6 +1397,9 @@ feed Sangeeta
 
     / August, 2020 - medRxiv
     quote !c = We found some limited evidence of overdispersion in the number of infections caused by index cases, highlighting potential heterogeneity in transmissibility of index cases.
+
+    / August, 2020 - medRxiv
+    quote !d = The estimated overall household SAR was 18.8%, which is higher than previously observed SARs for SARS-CoV and MERS-CoV.
 
 
 
@@ -1709,7 +1707,7 @@ feed Sangeeta
   // Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis
   doi: https://doi.org/10.1101/2020.05.10.20097543
   ref 'Byambasuren_et_al_09_13_2020
-    head = Our estimates of the proportion of asymptomatic cases and their risk of transmission suggest that asymptomatic spread is unlikely to be a major driver of clusters or community transmission of infection, but the extent of transmission risk for pre-symptomatic and minor symptomatic cases remains unknown.
+    head = The prevalence of true asymptomatic COVID-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesize all available research on the asymptomatic rates and transmission rates where possible.
 
     > Background
       The prevalence of true asymptomatic COVID-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesize all available research on the asymptomatic rates and transmission rates where possible.
@@ -1723,16 +1721,22 @@ feed Sangeeta
     > Discussion
       Our estimates of the prevalence of asymptomatic COVID-19 cases and asymptomatic transmission rates are lower than many highly publicized studies, but still sufficient to warrant policy attention. Further robust epidemiological evidence is urgently needed, including in sub-populations such as children, to better understand the importance of asymptomatic cases for driving spread of the pandemic.
 
+    - quotes
+      !a
+      !b
 
     / September, 2020 - medRxiv
-    quote !a =
+    quote !a = Overall, there was a 42% lower relative risk of asymptomatic transmission compared to symptomatic transmission.
+
+    / September, 2020 - medRxiv
+    quote !b = Our estimates of the proportion of asymptomatic cases and their risk of transmission suggest that asymptomatic spread is unlikely to be a major driver of clusters or community transmission of infection, but the extent of transmission risk for pre-symptomatic and minor symptomatic cases remains unknown.
 
 
   # check date
   // A Rapid Review of the Asymptomatic Proportion of PCR-Confirmed  SARS-CoV-2 Infections in Community Settings
   doi: https://doi.org/10.1101/2020.05.20.20108183
   ref 'Beale_et_al_05_23_2020
-    head = Asymptomatic viral shedding comprises a substantial minority of SARS-CoV-2 infections when estimated using methodologically-appropriate studies.
+    head = Accurate estimates of the asymptomatic proportion require systematic detection and follow-up to differentiate between truly asymptomatic and pre-symptomatic cases. We conducted a rapid review and meta-analysis of the asymptomatic proportion of PCR-confirmed SARS-CoV-2 infections based on methodologically-appropriate studies in community settings.
 
     > Background
       Up to 80% of active SARS-CoV-2 infections are proposed to be asymptomatic based on cross-sectional studies. However, accurate estimates of the asymptomatic proportion require systematic detection and follow-up to differentiate between truly asymptomatic and pre-symptomatic cases. We conducted a rapid review and meta-analysis of the asymptomatic proportion of PCR-confirmed SARS-CoV-2 infections based on methodologically-appropriate studies in community settings.
@@ -1746,9 +1750,15 @@ feed Sangeeta
     > Conclusion
       Asymptomatic viral shedding comprises a substantial minority of SARS-CoV-2 infections when estimated using methodologically-appropriate studies. Further investigation into variation in the asymptomatic proportion by testing context, the degree and duration of infectiousness for asymptomatic infections, and demographic predictors of symptom status are warranted.
 
+    - quotes
+      !a
+      !b
 
     / May, 2020 - medRxiv
-    quote !a =
+    quote !a = Asymptomatic viral shedding comprises a substantial minority of SARS-CoV-2 infections when estimated using methodologically-appropriate studies.
+
+    / May, 2020 - medRxiv
+    quote !b = Estimates of viral load and duration of viral shedding appeared to be similar for asymptomatic and symptomatic cases based on available data, though detailed reporting of viral load and natural history of viral shedding by symptom status were limited.
 
 
 
@@ -1756,16 +1766,24 @@ feed Sangeeta
   // Proportion of asymptomatic coronavirus disease 2019: A systematic review and meta‐analysis
   doi: https://doi.org/10.1002/jmv.26326
   ref 'He_et_al_07_21_2020
-    head = About 15.6% of confirmed COVID‐19 patients are asymptomatic. Nearly half of the patients with no symptoms at detection time will develop symptoms later. Children are likely to have a higher proportion of asymptomatic infection than adults. Asymptomatic COVID‐19 patients could have abnormal laboratory and radiational manifestations, which can be used as screening strategies to identify asymptomatic infection.
+    head = We aim to systematically review the characteristics of asymptomatic infection in COVID‐19. PubMed and EMBASE were electronically searched to identify original studies containing the rate of asymptomatic infection in COVID‐19 patients before 20 May 2020.
 
     >
       We aim to systematically review the characteristics of asymptomatic infection in the coronavirus disease 2019 (COVID‐19). PubMed and EMBASE were electronically searched to identify original studies containing the rate of asymptomatic infection in COVID‐19 patients before 20 May 2020. Then mate‐analysis was conducted using R version 3.6.2. A total of 50 155 patients from 41 studies with confirmed COVID‐19 were included. The pooled percentage of asymptomatic infection is 15.6% (95% CI, 10.1%‐23.0%). Ten included studies contain the number of presymptomatic patients, who were asymptomatic at screening point and developed symptoms during follow‐up. The pooled percentage of presymptomatic infection among 180 initially asymptomatic patients is 48.9% (95% CI, 31.6%‐66.2%). The pooled proportion of asymptomatic infection among 1152 COVID‐19 children from 11 studies is 27.7% (95% CI, 16.4%‐42.7%), which is much higher than patients from all aged groups. Abnormal CT features are common in asymptomatic COVID‐19 infection. For 36 patients from 4 studies that CT results were available, 15 (41.7%) patients had bilateral involvement and 14 (38.9%) had unilateral involvement in CT results. Reduced white blood cell count, increased lactate dehydrogenase, and increased C‐reactive protein were also recorded. About 15.6% of confirmed COVID‐19 patients are asymptomatic. Nearly half of the patients with no symptoms at detection time will develop symptoms later. Children are likely to have a higher proportion of asymptomatic infection than adults. Asymptomatic COVID‐19 patients could have abnormal laboratory and radiational manifestations, which can be used as screening strategies to identify asymptomatic infection.
 
     - quotes
       !a
+      !b
+      !c
 
     / July, 2020 - Journal of Medical Virology
     quote !a = Clinical manifestations of asymptomatic patients show that most asymptomatic patients were moderate in their clinical manifestations and stay asymptomatic until their RNA testing turned negative.
+
+    / July, 2020 - Journal of Medical Virology
+    quote !b = About 15.6% of confirmed COVID‐19 patients are asymptomatic. Nearly half of the patients with no symptoms at detection time will develop symptoms later.
+
+    / July, 2020 - Journal of Medical Virology
+    quote !c = Children are likely to have a higher proportion of asymptomatic infection than adults.
 
 
 
@@ -1788,10 +1806,13 @@ feed Sangeeta
   // Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany
   doi: https://doi.org/10.1056/NEJMc2001468
   ref 'Rothe_et_al_03_05_2020
-    head = This case of 2019-nCoV infection was diagnosed in Germany and transmitted outside Asia. However, it is notable that the infection appears to have been transmitted during the incubation period of the index patient, in whom the illness was brief and nonspecific.
+    head = We are reporting a case of 2019-nCoV infection acquired outside Asia in which transmission appears to have occurred during the incubation period in the index patient.
+
+    - quotes
+      !a
 
     / March, 2020 - N Engl J Med
-    quote !a =
+    quote !a = The infection appears to have been transmitted during the incubation period of the index patient, in whom the illness was brief and nonspecific.
 
 
 
@@ -1799,10 +1820,13 @@ feed Sangeeta
   // Presumed Asymptomatic Carrier Transmission of COVID-19
   doi: https://doi.org/10.1001/jama.2020.2565
   ref 'Bai_et_al_02_21_2020
-    head = A familial cluster of 5 patients with COVID-19 pneumonia in Anyang, China, had contact before their symptom onset with an asymptomatic family member who had traveled from the epidemic center of Wuhan. The sequence of events suggests that the coronavirus may have been transmitted by the asymptomatic carrier.
+    head = A familial cluster of 5 patients with COVID-19 pneumonia in Anyang, China, had contact before their symptom onset with an asymptomatic family member who had traveled from the epidemic center of Wuhan.
+
+    - quotes
+      !a
 
     / February, 2020 - JAMA
-    quote !a =
+    quote !a = The sequence of events suggests that the coronavirus may have been transmitted by the asymptomatic carrier.
 
 
 
@@ -1810,7 +1834,7 @@ feed Sangeeta
   // Secondary Transmission of Coronavirus Disease from Presymptomatic Persons, China
   doi: https://dx.doi.org/10.3201/eid2608.201142
   ref 'Zhang_et_al_05_26_2020
-    head = Our findings substantiate previous reports from China and Germany and show that SARS-CoV-2 can be transmitted during asymptomatic COVID-19 infection period. The probability of infection increased substantially among close contacts who shared living environments or had frequent contact with an index case-patient.
+    head = We explored the secondary attack rate in different types of contact with persons presymptomatic for coronavirus disease (COVID-19). Our findings provide population-based evidence for transmission from persons with presymptomatic COVID-19 infections.
 
     > Abstract
       We explored the secondary attack rate in different types of contact with persons presymptomatic for coronavirus disease (COVID-19). Close contacts who lived with or had frequent contact with an index case-patient had a higher risk for COVID-19. Our findings provide population-based evidence for transmission from persons with presymptomatic COVID-19 infections.
@@ -1818,12 +1842,19 @@ feed Sangeeta
     - quotes
       !a
       !b
+      !c
 
     / May, 2020 - Emerging Infectious Diseases
-    quote !a = Our results also showed most secondary infections occurred in confined familial clusters and that persons >60 years of age appear to be more vulnerable to being infected.
+    quote !a = Our findings substantiate previous reports from China and Germany and show that SARS-CoV-2 can be transmitted during asymptomatic COVID-19 infection period.
 
     / May, 2020 - Emerging Infectious Diseases
     quote !b = We noted that persons with asymptomatic infections appeared to be less effective in transmitting the virus.
+
+    / May, 2020 - Emerging Infectious Diseases
+    quote !c = Our results also showed most secondary infections occurred in confined familial clusters and that persons >60 years of age appear to be more vulnerable to being infected.
+
+    / May, 2020 - Emerging Infectious Diseases
+    quote !d = The probability of infection increased substantially among close contacts who shared living environments or had frequent contact with an index case-patient.
 
 
 
@@ -1831,7 +1862,7 @@ feed Sangeeta
   // Occurrence and transmission potential of asymptomatic and presymptomatic SARS-CoV-2 infections: A living systematic review and meta-analysis
   doi: https://doi.org/10.1371/journal.pmed.1003346
   ref 'Buitrago-Garcia_et_al_09_22_2020
-    head = The findings of this living systematic review suggest that most people who become infected with SARS-CoV-2 will not remain asymptomatic throughout the course of the infection. The contribution of presymptomatic and asymptomatic infections to overall SARS-CoV-2 transmission means that combination prevention measures, with enhanced hand hygiene, masks, testing tracing, and isolation strategies and social distancing, will continue to be needed.
+    head = There is disagreement about the level of asymptomatic SARS-CoV-2 infection. We conducted a living systematic review and meta-analysis to assess the proportion of cases without symptoms, and the contribution of presymptomatic and asymptomatic infections to overall SARS-CoV-2 transmission.
 
     > Background
       There is disagreement about the level of asymptomatic severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. We conducted a living systematic review and meta-analysis to address three questions: (1) Amongst people who become infected with SARS-CoV-2, what proportion does not experience symptoms at all during their infection? (2) Amongst people with SARS-CoV-2 infection who are asymptomatic when diagnosed, what proportion will develop symptoms later? (3) What proportion of SARS-CoV-2 transmission is accounted for by people who are either asymptomatic throughout infection or presymptomatic?
@@ -1849,7 +1880,6 @@ feed Sangeeta
       !e
       !f
 
-
     / September, 2020 - PLOS Medicine
     quote !a = The summary proportion of SARS-CoV-2 that is asymptomatic throughout the course of infection was estimated, across all study settings, to be 20% (95% CI 17%–25%, 79 studies), with a prediction interval of 3%–67%.
 
@@ -1860,15 +1890,13 @@ feed Sangeeta
     # quote !c = In studies that identified SARS-CoV-2 infection through screening of defined populations, the proportion of asymptomatic infections was 31%.
 
     / September, 2020 - PLOS Medicine
-    quote !d = The secondary attack rate from asymptomatic infections may be lower than that from symptomatic infections (relative risk 0.35, 95% CI 0.1–1.27).
+    quote !d = The secondary attack rate from asymptomatic infections may be lower than that from symptomatic infections.
 
     / September, 2020 - PLOS Medicine
     quote !e = Since all people infected with SARS-CoV-2 are initially asymptomatic, the proportion that will go on to develop symptoms can be derived by subtraction from the estimated proportion with true asymptomatic infections; from our review, we would estimate this fraction to be 80%.
 
     / September, 2020 - PLOS Medicine
     quote !f = Since SARS-CoV-2 can be transmitted a few days before the onset of symptoms, presymptomatic transmission likely contributes substantially to overall SARS-CoV-2 epidemics.
-
-
 
 
   # comparison
@@ -3862,7 +3890,7 @@ feed Sangeeta
   // Enhanced Contact Investigations for Nine Early Travel-Related Cases of SARS-CoV-2 in the United States
   doi: https://doi.org/10.1101/2020.04.27.20081901
   ref 'Burke_et_al_05_03_2020
-    head = The enhanced contact tracing investigations identified two cases of secondary transmission, both spouses. The results suggest that the risk of secondary COVID-19 infection is high among close household contacts of confirmed COVID-19 patients, especially significant others.
+    head = As part of initial response activities in the United States, enhanced contact investigations were conducted. Close contacts of nine early travel-related cases in the United States were identified. 404 close contacts underwent active monitoring.
 
     > Background
       Coronavirus disease 2019 (COVID-19), the respiratory disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was first identified in Wuhan, China and has since become pandemic. As part of initial response activities in the United States, enhanced contact investigations were conducted to enable early identification and isolation of additional cases and to learn more about risk factors for transmission.
@@ -3878,9 +3906,13 @@ feed Sangeeta
 
     - quotes
       !a
+      !b
 
     / May, 2020 - medRxiv
     quote !a = The secondary attack rate among household members, all of whom had at least 1 respiratory sample tested, was 13%.
+
+    / May, 2020 - medRxiv
+    quote !b = The risk of secondary COVID-19 infection is high among close household contacts of confirmed COVID-19 patients, especially significant others.
 
 
 
@@ -4228,14 +4260,16 @@ feed Sangeeta
   // Potential Presymptomatic Transmission of SARS-CoV-2, Zhejiang Province, China, 2020
   doi: https://doi.org/10.3201/eid2605.200198
   ref 'Tong_et_al_03_09_2020
-    head = We identified 2 persons with confirmed cases of symptomatic COVID-19 after their exposure to a potentially presymptomatic person who was later diagnosed with laboratory-confirmed COVID-19. These 2 persons later transmitted SARS-CoV-2 to 3 family members, who did not report symptoms at the time their SARS-CoV-2 infections were detected.
+    head = We report a 2-family cluster of persons infected with severe acute respiratory syndrome coronavirus 2 in the city of Zhoushan, Zhejiang Province, China, during January 2020.
 
     > Abstract
       We report a 2-family cluster of persons infected with severe acute respiratory syndrome coronavirus 2 in the city of Zhoushan, Zhejiang Province, China, during January 2020. The infections resulted from contact with an infected but potentially presymptomatic traveler from the city of Wuhan in Hubei Province.
 
-    / March, 2020 - Emerging Infectious Diseases
-    quote !a =
+    - quotes
+      !a
 
+    / March, 2020 - Emerging Infectious Diseases
+    quote !a = We identified 2 persons with confirmed cases of symptomatic COVID-19 after their exposure to a potentially presymptomatic person who was later diagnosed with laboratory-confirmed COVID-19. These 2 persons later transmitted SARS-CoV-2 to 3 family members, who did not report symptoms at the time their SARS-CoV-2 infections were detected.
 
 
   # asymptomatic, Outbreak, Symptomatic
@@ -4298,8 +4332,11 @@ feed Sangeeta
   ref 'Hijnen_et_al_05_11_2020
     head = During a meeting at a hotel in Munich, Germany, a presymptomatic attendee with SARS-Cov2 infected at least 11 of 13 other participants. Our findings indicate that hand shaking, aerosolization, and face-to-face contact may be relevant modes of transmission in this COVID-19 outbreak.
 
+    - quotes
+      !a
+
     / May, 2020 - Emerg Infect Dis.
-    quote !a =
+    quote !a = The index patient was most likely infected by an outpatient he had examined in Milan, Italy, on February 18. The index patient reported that he had experienced no symptoms when attending the meeting.
 
 
 
@@ -4394,7 +4431,7 @@ feed Sangeeta
   // Characteristics of Household Transmission of COVID-19
   doi: https://doi.org/10.1093/cid/ciaa450
   ref 'Li_et_al_04_17_2020
-    head = We used a household cohort study to determine the features of household transmission of COVID-19. Secondary transmission of SARS-CoV-2 developed in 64 of 392 household contacts (16.3%). Age of household contacts and spousal relationship to the index case are risk factors for transmission of SARS-CoV-2 within a household.
+    head = We used a household cohort study to determine the features of household transmission of COVID-19. A total of 105 index patients and 392 household contacts were enrolled.
 
     > Background
       Since December 2019, SARS-CoV-2 has extended to most parts of China with >80 000 cases and to at least 100 countries with >60 000 international cases as of 15 March 2020. Here we used a household cohort study to determine the features of household transmission of COVID-19.
@@ -4409,8 +4446,12 @@ feed Sangeeta
       The secondary attack rate of SARS-CoV-2 in household is 16.3%. Age of household contacts and spousal relationship to the index case are risk factors for transmission of SARS-CoV-2 within a household. Quarantine of index patients at home since onset of symptoms is useful to prevent the transmission of SARS-Co-2 within a household.
 
     - quotes
+      !c
       !a
       !b
+
+    / April, 2020 - Clinical Infectious Diseases
+    quote !c = Secondary transmission of SARS-CoV-2 developed in 64 of 392 household contacts (16.3%). Age of household contacts and spousal relationship to the index case are risk factors for transmission of SARS-CoV-2 within a household.
 
     / April, 2020 - Clinical Infectious Diseases
     quote !a = Quarantine of index patients at home since onset of symptoms is useful to prevent the transmission of SARS-Co-2 within a household.
@@ -5027,8 +5068,11 @@ feed Sangeeta
   ref 'Zhang_et_al_03_27_2020
     head = We report a familial cluster case of five patients infected with COVID-19 from an asymptomatic confirmed case in Beijing.
 
+    - quotes
+      !a
+
     / March, 2020 - Critical Care
-    quote !a =
+    quote !a = The familial cluster of five patients (index patient to patient 4) was infected with COVID-19, and just the index patient had been to Wuhan, who had no symptoms before his family members started to get sick one after another.
 
 
 
@@ -5100,15 +5144,20 @@ feed Sangeeta
   // A COVID-19 Transmission Within a Family Cluster by Presymptomatic Infectors in China
   doi: https://doi.org/10.1093/cid/ciaa316
   ref 'Qian_et_al_03_23_2020
-    head = We report a family cluster of coronavirus disease 2019 (COVID-19) caused by a presymptomatic case. There are variations across individuals in the clinical manifestations of COVID-19, indicating that we should pay attention to how to prevent people from being infected by asymptomatic patients and patients who are in the incubation period.
-
+    head = We report a family cluster of coronavirus disease 2019 (COVID-19) caused by a presymptomatic case.
 
     > Abstract
       We report a family cluster of coronavirus disease 2019 (COVID-19) caused by a presymptomatic case. There were 9 family members, including 8 laboratory-confirmed with COVID-19, and a 6-year-old child had no evidence of infection. Among the 8 patients, 1 adult and a 13-month-old infant were asymptomatic, and 1 adult was diagnosed as having severe pneumonia.
 
+    - quotes
+      !a
+      !b
 
-    / March, 2020 - Clinical Infectious Diseases,
-    quote !a =
+    / March, 2020 - Clinical Infectious Diseases
+    quote !a = This cluster demonstrated that COVID-19 is transmittable during the incubation period.
+
+    / March, 2020 - Clinical Infectious Diseases
+    quote !b = There are variations across individuals in the clinical manifestations of COVID-19, indicating that we should pay attention to how to prevent people from being infected by asymptomatic patients and patients who are in the incubation period.
 
 
   # family cluster, social activity cluster
@@ -5160,8 +5209,11 @@ feed Sangeeta
   ref 'Huang_et_al_02_28_2020
     head = We report a family cluster of SARS-CoV-2 infection involving 11 patients in Nanjing, China. The family cluster of patients we describe provides evidence that asymptomatic people can be potential sources of SARS-CoV-2 infection.
 
+    - quotes
+      !a
+
     / February, 2020 - The Lancet
-    quote !a =
+    quote !a = On Jan 24, two patients (patients 6 and 7) who had been well without any symptoms attended another family dinner with 13 relatives. Three of the relatives (patients 8–10) were diagnosed with SARS-CoV-2 infection within 2 weeks.
 
 
   # indoor, secondary transmission
@@ -5418,7 +5470,9 @@ feed Sangeeta
   // COVID-19 Outbreak Among Three Affiliated Homeless Service Sites - King County, Washington, 2020
   doi: https://doi.org/10.15585/mmwr.mm6917e2
   ref 'Tobolowsky_et_al_05_01_2020
-    head = Conditions that might have contributed to SARS-CoV-2 transmission in these sites include 1) the mobile nature of the community and use of multiple homeless service sites among residents; 2) crowding and use of congregate sleeping arrangements; 3) challenges enforcing physical distancing; 4) possible asymptomatic transmission; and 5) unavailability of face coverings for residents before public health intervention.
+    head = On April 1, 2020, a COVID-19 outbreak was detected at three affiliated homeless shelters. Testing for SARS-CoV-2 immediately offered to all residents and staff members identified additional unrecognized COVID-19 cases. Enhanced surveillance and repeat testing identified and confirmed COVID-19 in 43 persons at these sites.
+
+    # Conditions that might have contributed to SARS-CoV-2 transmission in these sites include 1) the mobile nature of the community and use of multiple homeless service sites among residents; 2) crowding and use of congregate sleeping arrangements; 3) challenges enforcing physical distancing; 4) possible asymptomatic transmission; and 5) unavailability of face coverings for residents before public health intervention.
 
     / May, 2020 - MMWR
     quote !a =
@@ -5441,11 +5495,13 @@ feed Sangeeta
   // No evidence of secondary transmission of COVID-19 from children attending school in Ireland, 2020.
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.21.2000903
   ref 'Heavey_et_al_05_28_2020
-    head = Examination of all Irish paediatric cases of COVID-19 attending school identified no cases of onward transmission to other children or adults within the school and a variety of other settings. These included music lessons and choir practice.
+    head = We aimed to examine the evidence of paediatric transmission in the Republic of Ireland in the school setting.
 
+    - quotes
+      !a
 
     / May, 2020 - Euro Surveill
-    quote !a =
+    quote !a = Examination of all Irish paediatric cases of COVID-19 attending school identified no cases of onward transmission to other children or adults within the school and a variety of other settings. These included music lessons and choir practice.
 
 
 
@@ -5486,8 +5542,19 @@ feed Sangeeta
     > Abstract
       We analyzed 3,184 cases of coronavirus disease in Japan and identified 61 case-clusters in healthcare and other care facilities, restaurants and bars, workplaces, and music events. We also identified 22 probable primary case-patients for the clusters; most were 20–39 years of age and presymptomatic or asymptomatic at virus transmission.
 
+    - quotes
+      !a
+      !b
+      !c
+
     / June, 2020 - Emerging Infectious Diseases
-    quote !a =
+    quote !a = For 16 clusters, we determined the date of transmission from probable primary case-patients to other case-patients in a cluster and found 41% of probable primary case-patients were presymptomatic or asymptomatic at the time of transmission; only 1 had a cough at the time of transmission.
+
+    / June, 2020 - Emerging Infectious Diseases
+    quote !b = Of the 16 probable primary case-patients with the determined date of transmission, transmission occurred one day before illness onset for 5 (31%) case-patients and on the same day of illness onset for 4 (25%) case-patients.
+
+    / June, 2020 - Emerging Infectious Diseases
+    quote !c = We noted many COVID-19 clusters were associated with heavy breathing in close proximity, such as singing at karaoke parties, cheering at clubs, having conversations in bars, and exercising in gymnasiums.
 
 
 

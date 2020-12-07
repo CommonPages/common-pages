@@ -458,7 +458,7 @@ feed April2020
   // Cluster of Coronavirus Disease 2019 (COVID-19) in the French Alps, February 2020
   doi: https://doi.org/10.1093/cid/ciaa424
   ref 'Danis_et_al_04_11_2020
-    head = The investigation of this cluster of COVID-19 in France indicated the occurrence of 1 asymptomatic case with similar viral load as a symptomatic patient suggesting a transmission potential of asymptomatic individuals. The fact that an infected child did not transmit the disease despite close interactions with a large number of contacts in different schools, suggests potential different transmission dynamics in children
+    head = On 7 February 2020, French Health authorities were informed of a confirmed case of SARS-CoV-2 in an Englishman infected in Singapore who had recently stayed in a chalet in the French Alps. We conducted an investigation to identify secondary cases and interrupt transmission.
 
     > Background
       On 7 February 2020, French Health authorities were informed of a confirmed case of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in an Englishman infected in Singapore who had recently stayed in a chalet in the French Alps. We conducted an investigation to identify secondary cases and interrupt transmission.
@@ -474,10 +474,14 @@ feed April2020
 
 
     - quotes
+      !b
       !a
 
     / April, 2020 - Clinical Infectious Diseases
     quote !a = The occurrence of a case in a child, coinfected with other respiratory viruses, who did not transmit the disease despite interactions with his classmates suggests that children might not be an important source of transmission of this novel virus.
+
+    / April, 2020 - Clinical Infectious Diseases
+    quote !b = The occurrence in this cluster of 1 asymptomatic case with similar viral load as a symptomatic patient suggests transmission potential of asymptomatic individuals.
 
 
 
@@ -2688,7 +2692,7 @@ feed April2020
   // Suppression of COVID-19 outbreak in the municipality of Vo, Italy
   doi: https://doi.org/10.1101/2020.04.17.20053157
   ref 'Lavezzo_et_al_04_18_2020
-    head = 42.5% of all confirmed SARS-CoV-2 infections across the two surveys were asymptomatic. Our study sheds new light on the frequency of asymptomatic SARS-CoV-2 infection and their infectivity (as measured by the viral load) and provides new insights into its transmission dynamics, the duration of viral load detectability and demonstrates that combining early active case detection and social distancing the transmission of SARS-CoV-2 was effectively suppressed in Vo.
+    head = Regional authorities in Italy imposed a lockdown for an entire municipality for 14 days. We collected information on the demography, clinical presentation, hospitalization, contact network and presence of SARS-CoV-2 infection in nasopharyngeal swabs for the population at two consecutive time points.
 
     > Abstract
       On the 21st of February 2020 a resident of the municipality of Vo, a small town near Padua, died of pneumonia due to SARS-CoV-2 infection. This was the first COVID-19 death detected in Italy since the emergence of SARS-CoV-2 in the Chinese city of Wuhan, Hubei province. In response, the regional authorities imposed the lockdown of the whole municipality for 14 days. We collected information on the demography, clinical presentation, hospitalization, contact network and presence of SARS-CoV-2 infection in nasopharyngeal swabs for 85.9% and 71.5% of the population of Vo at two consecutive time points. On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%). On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%). Notably, 43.2% (95% CI 32.2-54.7%) of the confirmed SARS-CoV-2 infections detected across the two surveys were asymptomatic. The mean serial interval was 6.9 days (95% CI 2.6-13.4). We found no statistically significant difference in the viral load (as measured by genome equivalents inferred from cycle threshold data) of symptomatic versus asymptomatic infections (p-values 0.6 and 0.2 for E and RdRp genes, respectively, Exact Wilcoxon-Mann-Whitney test). Contact tracing of the newly infected cases and transmission chain reconstruction revealed that most new infections in the second survey were infected in the community before the lockdown or from asymptomatic infections living in the same household. This study sheds new light on the frequency of asymptomatic SARS-CoV-2 infection and their infectivity (as measured by the viral load) and provides new insights into its transmission dynamics, the duration of viral load detectability and the efficacy of the implemented control measures.
@@ -2706,7 +2710,7 @@ feed April2020
     quote !a = On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%). On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%).
 
     / April, 2020 - MedRxiv
-    quote !b = Notably, 43.2% of the confirmed SARS-CoV-2 infections detected across the two surveys were asymptomatic.
+    quote !b = 42.5% of all confirmed SARS-CoV-2 infections across the two surveys were asymptomatic. 
 
     / April, 2020 - MedRxiv
     quote !c = Among confirmed SARS-CoV-2 infections, we did not observe significant differences in the frequency of asymptomatic infection in the different age groups.
