@@ -104,35 +104,80 @@ feed Sangeeta
 
 
   #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  // What the data say about asymptomatic COVID infections
+  doi: https://doi.org/10.1038/d41586-020-03141-3
+  ref 'Nogrady_et_al_11_23_2020
+    head = People without symptoms can pass on the virus, but estimating their contribution to outbreaks is challenging.
 
     - quotes
       !a
+      !b
+      !c
+      !d
 
-    / February, 2020 - bioRxiv
-    quote !a =
+    / November, 2020 - Nature
+    quote !a = A meta-analysis published last month, which included 13 studies involving 21,708 people, calculated the rate of asymptomatic presentation to be 17%. The analysis defined asymptomatic people as those who showed none of the key COVID-19 symptoms during the entire follow-up period, and the authors included only studies that followed participants for at least seven days. Evidence suggests that most people develop symptoms in 7–13 days.
+
+    / November, 2020 - Nature
+    quote !b = Byambasuren’s review also found that asymptomatic individuals were 42% less likely to transmit the virus than symptomatic people.
+
+    / November, 2020 - Nature
+    quote !c = As part of a large population study in Geneva, Switzerland, researchers modelled viral spread among people living together. In a manuscript posted on medRxiv this month, they report that the risk of an asymptomatic person passing the virus to others in their home is about one-quarter of the risk of transmission from a symptomatic person.
+
+    / November, 2020 - Nature
+    quote !d = A systematic review and meta-analysis3 of 79 studies on the viral dynamics and transmissibility of SARS-CoV-2, which is posted on social-sciences preprint server SSRN. Some studies showed that those without symptoms had similar initial viral loads — the number of viral particles present in a throat swab — when compared with people with symptoms. But asymptomatic people seem to clear the virus faster and are infectious for a shorter period.
+
+
 
   #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  // Household Transmission of SARS-COV-2: Insights from a Population-based Serological Survey
+  doi: https://doi.org/10.1101/2020.11.04.20225573
+  ref 'Bi_et_al_11_04_2020
+    head = The risk of infection from exposure to a single infected household member was four-times that of extra-household exposures over the first wave of the pandemic. Young children had a lower risk from infection from household members. Asymptomatic infections are far less likely to transmit than symptomatic ones but do cause infections. While the small households in Geneva limit the contribution of household spread, household transmission likely plays a greater role in other settings.
+
+    > Importance
+      Knowing the transmissibility of asymptomatic infections and risk of infection from household and community exposures is critical to SARS-CoV-2 control. Limited previous evidence is based primarily on virologic testing, which disproportionately misses mild and asymptomatic infections. Serologic measures are more likely to capture all previously infected individuals.
+
+    > Objective
+      Estimate the risk of SARS-CoV-2 infection from household and community exposures, and identify key risk factors for transmission and infection.
+
+    > Design
+      Household serosurvey and transmission model.
+
+    > Setting
+      Population-based serosurvey in Geneva, Switzerland
+
+    > Participants
+      4,524 household members five years and older from 2,267 households enrolled April-June 2020.
+
+    > Exposures
+      SARS-CoV-2 infected (seropositive) household members and background risk of community transmission.
+
+    > Main outcomes and measures
+      Past SARS-CoV-2 infection confirmed through anti-SARS-CoV-2 IgG antibodies by ELISA. Chain-binomial models based on the number of infections within households were used to estimate extra-household infection risk by demographics and reported extra-household contacts, and infection risk from exposure to an infected household member by demographics and infector’s symptoms. Infections attributable to exposure to different types of infectious individuals were estimated.
+
+    > Results
+      The chance of being infected by a single SARS-CoV-2 infected household member was 17.2% (95%CrI 13.6-21.5%) compared to a cumulative extra-household infection risk of 5.1% (95%CrI 4.5-5.8%). Infection risk from an infected household member increased with age, from 7.5% (95%CrI 1.3-20.3%) among 5-9 years to 30.2% (95%CrI 14.3-48.2%) among those ≥65 years. Working-age adults (20-49 years) had the highest extra-household infection risk. Seropositive household members not reporting symptoms had 74.8% lower odds (95%CrI 43.8-90.3%) of infecting another household member compared to those reporting symptoms, accounting for 19.6% (95%CrI 12.9-24.5%) of all household infections.
+
+    > Conclusions and Relevance
+      The risk of infection from exposure to a single infected household member was four-times that of extra-household exposures over the first wave of the pandemic. Young children had a lower risk from infection from household members. Asymptomatic infections are far less likely to transmit than symptomatic ones but do cause infections. While the small households in Geneva limit the contribution of household spread, household transmission likely plays a greater role in other settings.
 
     - quotes
       !a
 
-    / February, 2020 - bioRxiv
-    quote !a =
+    / November, 2020 - medRxiv
+    quote !a = We show an approximate 1 in 5 risk of being infected by a single SARS-CoV-2 infected household member. This contrasts with a 1 in 20 chance of being infected in the community over most of the first epidemic wave in Geneva, a period of roughly 2 months.
+
+    / November, 2020 - medRxiv
+    quote !a = Asymptomatic individuals are responsible for one-fifth of within-household transmission.
+
 
 
 
   # Durability of Responses after SARS-CoV-2 mRNA-1273 Vaccination
   doi: https://doi.org/10.1056/NEJMc2032195
   ref 'Widge_et_al_12_03_2020
-    head = We describe immunogenicity data 119 days after the first vaccination (90 days after the second vaccination) in 34 healthy adult participants in the same trial who received two injections of vaccine at a dose of 100 μg. Although correlates of protection against SARS-CoV-2 infection in humans are not yet established, these results show that despite a slight expected decline in titers of binding and neutralizing antibodies, mRNA-1273 has the potential to provide durable humoral immunity.
+    head = We describe immunogenicity data 119 days after the first vaccination (90 days after the second vaccination) in 34 healthy adult participants in the same trial who received two injections of vaccine at a dose of 100 μg. At the 100-μg dose, mRNA-1273 produced high levels of binding and neutralizing antibodies that declined slightly over time, as expected, but they remained elevated in all participants 3 months after the booster vaccination.
 
     - quotes
       !a
@@ -1224,7 +1269,7 @@ feed Sangeeta
   // SARS-CoV-2, SARS-CoV, and MERS-CoV viral load dynamics, duration of viral shedding, and infectiousness: a systematic review and meta-analysis
   doi: https://doi.org/10.1016/S2666-5247(20)30172-5
   ref 'Cevik_et_al_11_19_2020
-    head = This systematic review and meta-analysis provides comprehensive data on the viral dynamics of SARS-CoV-2, including the duration of RNA shedding and viable virus isolation. Our findings suggest that, although patients with SARS-CoV-2 infection might have prolonged RNA shedding of up to 83 days in upper respiratory tract infection, no live virus was isolated from culture beyond day 9 of symptoms despite persistently high viral RNA loads.
+    head = This systematic review and meta-analysis provides comprehensive data on the viral dynamics of SARS-CoV-2, including the duration of RNA shedding and viable virus isolation. Our findings suggest that, although patients with SARS-CoV-2 infection might have prolonged RNA shedding of up to 83 days in upper respiratory tract infection, median time to live virus clearance from upper and lower respiratory tract samples were 3.5 days and 6 days, respectively. No live virus was isolated from culture beyond day 9 of symptoms despite persistently high viral RNA loads.
 
 
     > Background
@@ -1240,6 +1285,7 @@ feed Sangeeta
       Although SARS-CoV-2 RNA shedding in respiratory and stool samples can be prolonged, duration of viable virus is relatively short-lived. SARS-CoV-2 titres in the upper respiratory tract peak in the first week of illness. Early case finding and isolation, and public education on the spectrum of illness and period of infectiousness are key to the effective containment of SARS-CoV-2.
 
     - quotes
+      !b
       !d
       !e
 
@@ -1247,8 +1293,8 @@ feed Sangeeta
     # / November, 2020 - The Lancet Microbe
     # quote !a = Mean duration of SARS-CoV-2 RNA shedding was 17·0 days in upper respiratory tract, 14·6 days in lower respiratory tract, 17·2 days in stool, and 16·6 days in serum samples.
 
-    # / November, 2020 - The Lancet Microbe
-    # quote !b = Maximum shedding duration was 83 days in the upper respiratory tract, 59 days in the lower respiratory tract, 126 days in stools, and 60 days in serum.
+    / November, 2020 - The Lancet Microbe
+    quote !b = Viral loads appear to be comparable between asymptomatic and symptomatic patients infected with SARS-CoV-2. Nevertheless, most studies demonstrate faster viral clearance among asymptomatic individuals.
 
     # / November, 2020 - The Lancet Microbe
     # quote !c = Pooled mean SARS-CoV-2 shedding duration was positively associated with age.
@@ -1259,7 +1305,7 @@ feed Sangeeta
     / November, 2020 - The Lancet Microbe
     quote !e = Findings highlight that isolation practices should be commenced with the start of first symptoms, including mild and atypical symptoms that precede more typical COVID-19 symptoms.
 
-
+    
 
   #
   // The relative transmissibility of asymptomatic COVID-19 infections among close contacts
