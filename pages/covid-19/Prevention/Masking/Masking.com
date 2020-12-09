@@ -1,4 +1,5 @@
 
+seo: #masks
 / Masking
 subject Masking
   head = Mask effectiveness is highly dependent on the type of mask, the usage patterns of the wearer, and on each virus' transmissability. Their applicability in health care settings is unchallenged, but the value of masking healthy individuals in community settings is disputed.

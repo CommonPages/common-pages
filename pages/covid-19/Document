@@ -1,6 +1,8 @@
 id: "$covid-19"
 name: "COVID-19"
 network: "common.page"
-authorize:
+seo:
+  masks: >
+    mask, facemask, masking, n95, cloth mask, surgical mask, surgical mask, community mask, universal mask, community masking, universal masking
 use:
   - "$os-life"

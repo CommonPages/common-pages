@@ -3,6 +3,7 @@
 subject module Containment
   head = Many community mitigation strategies above and beyond the adoption of individual infection prevention measures have been proposed and disputed. These include various forms of social restrictions, closures, and test and trace approaches. Meanwhile, other researchers have suggested strategies to achieve herd immunity in a controlled fashion.
 
+  seo: mask
   / Universal Masking
   dispute UniversalMasking
     head = Many researchers and public health advocates have called for policies and influence campaigns to encourage or require all members of the public to wear masks in community settings during the COVID-19 pandemic, citing a range of possible benefits. However others have cited a lack of evidence as to the direct benefits of universal masking.
