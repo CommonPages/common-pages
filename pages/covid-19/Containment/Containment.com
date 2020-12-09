@@ -161,7 +161,6 @@ subject module Containment
     - The SARS/ reducing the risk of infection after exposures to patients with SARS.
       'Wang_et_al_2005.!f
       'Wang_et_al_2005.!g
-      'Lee_et_al_2003.!b
     - Facemasks - reducing the risk of infection SARS
       'Seto_et_al_2003
     -

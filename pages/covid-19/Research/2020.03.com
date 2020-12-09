@@ -3099,13 +3099,13 @@ feed March2020
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center
   doi: https://doi.org/10.1101/2020.03.23.20039446
   ref 'Santarpia_et_al_2020
-    head = We collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, indicating that SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
+    head = We collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples. SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
 
-    # - quotes
-    #   !a
+    - quotes
+      !a
 
-    # / bioRxiv - March, 2020
-    # quote !a = Our study indicates SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated, supporting the use of airborne isolation precautions.
+    / bioRxiv - March, 2020
+    quote !a = SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
 
 
   # Aerosol transmission
@@ -3212,7 +3212,8 @@ feed March2020
   // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
   doi: https://doi.org/10.1001/jama.2020.3227
   ref 'Ong_et_al_03_04_2020
-    head = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission and supports the need for strict adherence to environmental and hand hygiene.
+    head = 3 patients at the dedicated SARS-CoV-2 outbreak center in Singapore in airborne infection isolation rooms (12 air exchanges per hour) with anterooms and bathrooms had surface environmental samples taken at 26 sites. Personal protective equipment (PPE) samples from study physicians exiting the patient rooms also were collected. There was extensive environmental contamination by 1 SARS-CoV-2 patient with mild upper respiratory tract involvement.
+
 
     - quotes
       !a

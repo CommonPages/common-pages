@@ -305,13 +305,13 @@ feed July2020
   // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020
   doi: https://doi.org/10.3201/eid2607.200885
   ref 'Guo_et_al_07_26_2020
-    head = Environmental contamination was greater in intensive care units than general wards. Virus was widely distributed in the air and on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
+    head = To determine distribution of severe acute respiratory syndrome coronavirus 2 in hospital wards in Wuhan, China, we tested air and surface samples.
 
     > Abstract
       To determine distribution of severe acute respiratory syndrome coronavirus 2 in hospital wards in Wuhan, China, we tested air and surface samples. Contamination was greater in intensive care units than general wards. Virus was widely distributed on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
 
     / July, 2020 - Emerg Infect Dis
-    quote !a =
+    quote !a = Environmental contamination was greater in intensive care units than general wards. Virus was widely distributed in the air and on floors, computer mice, trash cans, and sickbed handrails and was detected in air ≈4 m from patients.
 
 
   # Environmental Route - waste water, Sewage
@@ -636,17 +636,16 @@ feed July2020
 
     - quotes
       !a
-      !b
-      !c
+      
 
     / July, 2020 - Lancet Infect Dis
-    quote !a = The longest survival (6 days) of severe acute respiratory syndrome coronavirus (SARS-CoV) on surfaces was done by placing a very large initial virus titre sample (10⁷ infectious virus particles) on the surface being tested. Another study that claimed survival of 4 days used a similarly large sample (10⁶ infectious virus particles) on the surface. A report by van Doremalen and colleagues found survival of both SARS-CoV and SARS-CoV-2 of up to 2 days (on surfaces) and 3 days (in aerosols generated in the laboratory), but again with a large inoculum (10⁵–10⁷ infectious virus particles per mL in aerosols, 10⁴ infectious virus particles on surfaces).
+    quote !a =  The chance of transmission through inanimate surfaces is very small, and only in instances where an infected person coughs or sneezes on the surface, and someone else touches that surface soon after the cough or sneeze (within 1–2 h).
 
-    / July, 2020 - Lancet Infect Dis
-    quote !b = By contrast, one study found human coronavirus 229E to survive for only 3 h, and human coronavirus OC43 to survive for 1 h, after drying on various surfaces including aluminum, sterile latex surgical gloves, and sterile sponges.
-
-    / July, 2020 - Lancet Infect Dis
-    quote !c = In a study in which the authors tried to mimic actual conditions in which a surface might be contaminated by a patient, no viable SARS-CoV was detected on surfaces.
+    # / July, 2020 - Lancet Infect Dis
+    # quote !b = By contrast, one study found human coronavirus 229E to survive for only 3 h, and human coronavirus OC43 to survive for 1 h, after drying on various surfaces including aluminum, sterile latex surgical gloves, and sterile sponges.
+    #
+    # / July, 2020 - Lancet Infect Dis
+    # quote !c = In a study in which the authors tried to mimic actual conditions in which a surface might be contaminated by a patient, no viable SARS-CoV was detected on surfaces.
 
   # BCG, CQ and HCQ
   // BCG vaccination policy and preventive chloroquine usage: do they have an impact on COVID-19 pandemic?
@@ -913,7 +912,7 @@ feed July2020
   // SARS-CoV-2 is transmitted via contact and via the air between ferrets
   doi: https://doi.org/10.1038/s41467-020-17367-2
   ref 'Richard_et_al_07_08_2020
-    head = Here we provide the first experimental evidence that SARS-CoV-2 can be transmitted efficiently via the air between ferrets, resulting in a productive infection and the detection of infectious virus in indirect recipients, as a model for human-to-human transmission.
+    head = We show that SARS-CoV-2 is transmitted efficiently via direct contact and via the air (via respiratory droplets and/or aerosols) between ferrets, 1 to 3 days and 3 to 7 days after exposure respectively.
 
     > Abstract
       SARS-CoV-2, a coronavirus that emerged in late 2019, has spread rapidly worldwide, and information about the modes of transmission of SARS-CoV-2 among humans is critical to apply appropriate infection control measures and to slow its spread. Here we show that SARS-CoV-2 is transmitted efficiently via direct contact and via the air (via respiratory droplets and/or aerosols) between ferrets, 1 to 3 days and 3 to 7 days after exposure respectively. The pattern of virus shedding in the direct contact and indirect recipient ferrets is similar to that of the inoculated ferrets and infectious virus is isolated from all positive animals, showing that ferrets are productively infected via either route. This study provides experimental evidence of robust transmission of SARS-CoV-2 via the air, supporting the implementation of community-level social distancing measures currently applied in many countries in the world and informing decisions on infection control measures in healthcare settings.

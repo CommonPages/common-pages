@@ -1678,7 +1678,7 @@ feed April2020
   // Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China
   doi: https://doi.org/10.12688/wellcomeopenres.15842.1
   ref 'Endo_et_al_04_09_2020
-    head = Our model suggested a high degree of individual-level variation in the transmission of COVID-19. Within the current consensus range of R0 (2-3), the overdispersion parameter k of a negative-binomial distribution was estimated to be around 0.1, suggesting that 80% of secondary transmissions may have been caused by a small fraction of infectious individuals (~10%).
+    head = We quantified individual-level variation in COVID-19 transmission by applying a mathematical model to observed outbreak sizes in affected countries.
 
     > Background
       A novel coronavirus disease (COVID-19) outbreak has now spread to a number of countries worldwide. While sustained transmission chains of human-to-human transmission suggest high basic reproduction number R0, variation in the number of secondary transmissions (often characterised by so-called superspreading events) may be large as some countries have observed fewer local transmissions than others.
@@ -1692,8 +1692,11 @@ feed April2020
     > Conclusions
       Our finding of a highly-overdispersed offspring distribution highlights a potential benefit to focusing intervention efforts on superspreading. As most infected individuals do not contribute to the expansion of an epidemic, the effective reproduction number could be drastically reduced by preventing relatively rare superspreading events.
 
-    # / April, 2020 - Welcome Open Research
-    # quote !a =
+    - quotes
+      !a
+        
+    / April, 2020 - Welcome Open Research
+    quote !a = Our model suggested a high degree of individual-level variation in the transmission of COVID-19. Within the current consensus range of R0 (2-3), the overdispersion parameter k of a negative-binomial distribution was estimated to be around 0.1, suggesting that 80% of secondary transmissions may have been caused by a small fraction of infectious individuals (~10%).
 
 
   # Immune Response
