@@ -151,6 +151,9 @@ subject module Transmission
           'Beale_et_al_05_23_2020
           'Beale_et_al_05_23_2020.!a
           'Beale_et_al_05_23_2020.!b
+        -
+          'Nogrady_et_al_11_23_2020
+          'Nogrady_et_al_11_23_2020.!b  
 
     / Close Contacts
     claim !CloseContacts = Transmission efficiency among close contacts is higher than among casual contacts. Transmission within the household is likely a significant driver of infection, with higher attack rates for symptomatic cases than asymptomatic cases.
@@ -311,6 +314,7 @@ subject module Transmission
         -
           'Beggs_et_al_05_26_2020
           'Beggs_et_al_05_26_2020.!a
+          'Beggs_et_al_05_26_2020.!b
 
     / Droplet Transmission
     claim !DropletTransmission = Transmission of SARS-CoV-2 can occur through infected secretions such as saliva and respiratory secretions or their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
