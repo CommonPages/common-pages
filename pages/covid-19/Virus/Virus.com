@@ -201,10 +201,14 @@ subject module Virus
        'Kampen_et_al_06_09_2020
        'Perera_et_al_08_04_2020
 
-    claim !SevereShedding = Studies observed that severe or critical COVID-19 patients may shed infectious virus for longer periods of time. Although No live virus was isolated from any respiratory samples taken after day 8 of symptoms.
+    claim !SevereShedding = Studies observed that severe or critical COVID-19 patients may shed infectious virus for longer periods of time.
+      -
+        'Cevik_et_al_11_19_2020
+        'Cevik_et_al_11_19_2020.!a
       -
         'Kampen_et_al_06_09_2020
-        'Cevik_et_al_11_19_2020
+        'Kampen_et_al_06_09_2020.!d
+        'Kampen_et_al_06_09_2020.!e
 
     claim !Others = Some studies have found SARS-CoV-2 in feces and semen, though the research on its infectiousness is still ongoing.
       -

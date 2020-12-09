@@ -1297,7 +1297,7 @@ feed Sangeeta
   // SARS-CoV-2, SARS-CoV, and MERS-CoV viral load dynamics, duration of viral shedding, and infectiousness: a systematic review and meta-analysis
   doi: https://doi.org/10.1016/S2666-5247(20)30172-5
   ref 'Cevik_et_al_11_19_2020
-    head = This systematic review and meta-analysis provides comprehensive data on the viral dynamics of SARS-CoV-2, including the duration of RNA shedding and viable virus isolation. Our findings suggest that, although patients with SARS-CoV-2 infection might have prolonged RNA shedding of up to 83 days in upper respiratory tract infection, median time to live virus clearance from upper and lower respiratory tract samples were 3.5 days and 6 days, respectively. No live virus was isolated from culture beyond day 9 of symptoms despite persistently high viral RNA loads.
+    head = This systematic review and meta-analysis provides comprehensive data on the viral dynamics of SARS-CoV-2, including the duration of RNA shedding and viable virus isolation.
 
 
     > Background
@@ -1313,6 +1313,7 @@ feed Sangeeta
       Although SARS-CoV-2 RNA shedding in respiratory and stool samples can be prolonged, duration of viable virus is relatively short-lived. SARS-CoV-2 titres in the upper respiratory tract peak in the first week of illness. Early case finding and isolation, and public education on the spectrum of illness and period of infectiousness are key to the effective containment of SARS-CoV-2.
 
     - quotes
+      !a
       !b
       !d
       !e
@@ -1320,6 +1321,9 @@ feed Sangeeta
 
     # / November, 2020 - The Lancet Microbe
     # quote !a = Mean duration of SARS-CoV-2 RNA shedding was 17·0 days in upper respiratory tract, 14·6 days in lower respiratory tract, 17·2 days in stool, and 16·6 days in serum samples.
+
+    / November, 2020 - The Lancet Microbe
+    quote !a = Our findings suggest that, although patients with SARS-CoV-2 infection might have prolonged RNA shedding of up to 83 days in upper respiratory tract infection, median time to live virus clearance from upper and lower respiratory tract samples were 3.5 days and 6 days, respectively. No live virus was isolated from culture beyond day 9 of symptoms despite persistently high viral RNA loads.
 
     / November, 2020 - The Lancet Microbe
     quote !b = Viral loads appear to be comparable between asymptomatic and symptomatic patients infected with SARS-CoV-2. Nevertheless, most studies demonstrate faster viral clearance among asymptomatic individuals.
@@ -2676,7 +2680,7 @@ feed Sangeeta
   // Shedding of infectious virus in hospitalized patients with coronavirus disease-2019 (COVID19): duration and key determinants
   doi: https://doi.org/10.1101/2020.06.08.20125310
   ref 'Kampen_et_al_06_09_2020
-    head = Patients with severe or critical COVID-19 may shed infectious virus for longer periods of time compared to what has been reported for in patients with mild COVID-19. Infectious virus shedding drops to undetectable levels when viral RNA load is low and serum neutralizing antibodies are present, which warrants the use of quantitative viral RNA load assays and serological assays in test-based strategies to discontinue or de-escalate infection prevention and control precautions.
+    head = We assessed the duration and determinants of infectiousness using virus cultures of respiratory tract samples from hospitalized COVID-19 patients as a proxy for infectious virus shedding.
 
     > Abstract
       Background Long-term shedding of viral RNA in COVID-19 prevents timely discharge from the hospital or de-escalation of infection prevention and control practices. Key questions are the duration and determinants of infectious virus shedding. We assessed these questions using virus cultures of respiratory tract samples from hospitalized COVID-19 patients as a proxy for infectious virus shedding. Methods Clinical and virological data were obtained from 129 hospitalized COVID-19 patients (89 intensive care, 40 medium care). Generalized estimating equations were used to identify if viral RNA load, detection of viral subgenomic RNA, serum neutralizing antibody response, duration of symptoms, or immunocompromised status were predictive for a positive virus culture. Findings Infectious virus shedding was detected in 23 of the 129 patients (17,8%). The median duration of shedding was 8 days post onset of symptoms (IQR 5-11) and the probability of detecting infectious virus dropped below 5% after 15,2 days post onset of symptoms (95% confidence interval (CI) 13,4-17,2). Multivariate analyses identified viral loads above 7 log10 RNA copies/mL (odds ratio [OR]; CI 14,7 (3,57-58,1; p<0,001) as independently associated with isolation of infectious SARS-CoV-2 from the respiratory tract. A serum neutralizing antibody titre of at least 1:20 (OR of 0,01 (CI 0,003-0,08; p<0,001) was independently associated with non-infectious SARS-CoV-2. Interpretation Infection prevention and control guidelines should take into account that patients with severe or critical COVID-19 may shed infectious virus for longer periods of time compared to what has been reported for in patients with mild COVID-19. Infectious virus shedding drops to undetectable levels below a viral RNA load threshold and once serum neutralizing antibodies are present, which warrants the use of quantitative viral RNA load assays and serological assays in test-based strategies to discontinue or de-escalate infection prevention and control precautions.
@@ -2685,6 +2689,8 @@ feed Sangeeta
       !a
       !b
       !c
+      !d
+      !e
 
     / June, 2020 - MedRxiv
     quote !a = The probability of isolating infectious virus was less than 5% when viral RNA load was below 6,63 Log10 RNA copies/mL.
@@ -2695,6 +2701,11 @@ feed Sangeeta
     / June, 2020 - MedRxiv
     quote !c = Viral RNA load cut-offs could be used in test-based strategies to discontinue infection prevention and control precautions.
 
+    / June, 2020 - MedRxiv
+    quote !d = The median duration of shedding was 8 days post onset of symptoms and the probability of detecting infectious virus dropped below 5% after 15.2 days post onset of symptoms.
+
+    / June, 2020 - MedRxiv
+    quote !e = Infection prevention and control guidelines should take into account that patients with severe or critical COVID-19 may shed infectious virus for longer periods of time compared to what has been reported for in patients with mild COVID-19.
 
 
   #
@@ -4172,8 +4183,7 @@ feed Sangeeta
   // Investigation of a superspreading event preceding the largest meat processing plant-related SARS-Coronavirus 2 outbreak in Germany
   doi: http://dx.doi.org/10.2139/ssrn.3654517
   ref 'Guenther_et_al_07_23_2020
-    head = Transmissions occurred in a confined area of a meat processing plant in which air is constantly re-circulated and cooled to 10°C. Index case transmitted the virus to co-workers in a radius of more than 8 meters during work-shifts on 3 consecutive days.
-
+    head = Here, we describe a multifactorial investigation of the events of a SARS-CoV-2 outbreak in the largest meat processing complex in Germany.
 
     > Background
       Here, we describe a multifactorial investigation of the events of a SARS-CoV-2 outbreak in the largest meat processing complex in Germany.
@@ -4188,10 +4198,15 @@ feed Sangeeta
       Our results indicate climate conditions and airflow as factors that can promote efficient spread of SARS-CoV-2 via distances of more than 8 meters and provide insights into possible requirements for pandemic mitigation strategies in industrial workplace settings.
 
     - quotes
+      !b
       !a
 
     / July, 2020 - SSRN
-    quote !a = Results collectively point towards a superspreading event in the MPP-R beef processing plant that originated from a single employee. Our study indicates that transmission of SARS-CoV-2 can occur over distances of at least 8m in confined spaces under conditions of relatively low air exchange rates and high rates of recirculated unfiltered air. It points to the importance of air quality/flow in confined spaces to prevent future superspreading events.
+    quote !a = Our study indicates that transmission of SARS-CoV-2 can occur over distances of at least 8m in confined spaces under conditions of relatively low air exchange rates and high rates of recirculated unfiltered air. It points to the importance of air quality/flow in confined spaces to prevent future superspreading events.
+
+    / July, 2020 - SSRN
+    quote !b = Transmissions occurred in a confined area of a meat processing plant in which air is constantly re-circulated and cooled to 10°C. Index case transmitted the virus to co-workers in a radius of more than 8 meters during work-shifts on 3 consecutive days.
+
 
     # / July, 2020 - SSRN
     # quote !b = In contrast to work-related exposure, shared apartments, bedrooms, or carpools appear not to have played a major role in the initial outbreak described in this study. Nevertheless, later viral transmission within shared living quarters or work rides very well may have been a confounding factor in context of the second, larger outbreak occurring one month after the first outbreak.
@@ -5543,8 +5558,11 @@ feed Sangeeta
 
     # Conditions that might have contributed to SARS-CoV-2 transmission in these sites include 1) the mobile nature of the community and use of multiple homeless service sites among residents; 2) crowding and use of congregate sleeping arrangements; 3) challenges enforcing physical distancing; 4) possible asymptomatic transmission; and 5) unavailability of face coverings for residents before public health intervention.
 
+    - quotes
+      !a
+
     / May, 2020 - MMWR
-    quote !a =
+    quote !a = Homeless service sites are densely populated environments, similar to long-term care facilities, which can amplify infectious disease outbreaks, including COVID-19
 
 
 

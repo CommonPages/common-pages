@@ -16,7 +16,7 @@ subject SocialDistancing
       'Centre_for_Evidence-Based_Medicine_06_22_2020
       'Centre_for_Evidence-Based_Medicine_06_22_2020.!d
 
-  claim !ThreeFootRule = Prior to SARS pandemic of 2003, the WHO recommended maintaining physical distances of three feet to reduce the risk of transmission of respiratory viruses. This guidance was originally based on estimates of respiratory droplet travel given by a tuberculosis researcher in 1930.
+  claim !ThreeFootRule = Prior to the SARS pandemic of 2003, the WHO recommended maintaining physical distances of three feet to reduce the risk of transmission of respiratory viruses. This guidance was originally based on estimates of respiratory droplet travel given by a tuberculosis researcher in 1930.
     -
       'Wells_11_01_1934
 

@@ -59,6 +59,7 @@ subject module Disease
 
     question ?Recovery = What is known about the statistical distribution of recovery time?
 
+  seo: symptoms
   / Course
   // Symptoms, Complications and Consequences
   subject Course

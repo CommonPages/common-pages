@@ -3218,5 +3218,5 @@ feed March2020
     - quotes
       !a
 
-    / Respiratory shedding and feces as spread mechanism
+    / JAMA Network — March 4, 2020
     quote !a = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission

@@ -3,6 +3,18 @@
 revision feed Revisions
   head = The first draft of Claimspace COVID-19 was published on November 21, 2020, seeded with nearly 1,000 references.
 
+  public: december-8-2020
+  / December 8, 2020
+  revision December_8
+    let *asymptomatic_transmission mean Transmission.Sources.!AsymptomaticCases
+    let *aerosol_transmission mean Transmission.Routes.!AirborneTransmission
+    let *settings mean Transmission.Settings
+
+    head = A first draft of the dedicated section on transmission is now available, seeded with 115 papers on key topics such as *asymptomatic_transmission, *aerosol_transmission, and risks associated with *settings of transmission generally.
+
+    -
+      Transmission
+
   public: november-25-2020
   / November 25, 2020
   revision November_25

@@ -211,7 +211,7 @@ feed June2020
   // SARS-CoV-2 in environmental samples of quarantined households
   doi: https://doi.org/10.1101/2020.05.28.20114041
   ref 'Döhla_et_al_06_02_2020
-    head = 21 households under quarantine conditions were randomly selected for this study. Air, wastewater samples and surface swabs (commodities) were obtained and analysed by RT-PCR. 10 of 66 wastewater samples were positive for SARS-CoV-2 as well as 4 of 119 object samples.
+    head = The aim of this study was to investigate the whereabouts of the virus and whether useful precautions to prevent the dissemination can be given. 21 households under quarantine conditions were randomly selected for this study. Air, wastewater samples and surface swabs were obtained and analysed by RT-PCR.
 
     > Abstract
       The role of environmental transmission of SARS-CoV-2 remains unclear. Particularly the close contact of persons living together or cohabitating in domestic quarantine could result in high risk for exposure to the virus within the households. Therefore, the aim of this study was to investigate the whereabouts of the virus and whether useful precautions to prevent the dissemination can be given. 21 households under quarantine conditions were randomly selected for this study. All persons living in each household were recorded in terms of age, sex and time of household quarantine. Throat swabs for analysis were obtained from all adult individuals and most of the children. Air, wastewater samples and surface swabs (commodities) were obtained and analysed by RT-PCR. Positive swabs were cultivated to analyse for viral infectivity. 26 of all 43 tested adults (60.47 %) tested positive by RT-PCR. All 15 air samples were PCR-negative. 10 of 66 wastewater samples were positive for SARS-CoV-2 (15.15 %) as well as 4 of 119 object samples (3.36 %). No statistically significant correlation between PCR-positive environmental samples and the extent of infection spread inside the household could be observed. No infectious virus could be isolated under cell culture conditions. As we cannot rule out transmission through surfaces, hygienic behavioural measures are important in the households of SARS-CoV-2 infected individuals to avoid potential transmission through surfaces. The role of the domestic environment, in particular the wastewater load in washbasins and showers, in the transmission of SARS CoV-2 should be further clarified.
@@ -220,7 +220,7 @@ feed June2020
       !a
 
     / June, 2020 - medRxiv
-    quote !a =
+    quote !a = No statistically significant correlation between PCR-positive environmental samples and the extent of infection spread inside the household could be observed.
 
 
   # Close contact . Indirect Tranmission
