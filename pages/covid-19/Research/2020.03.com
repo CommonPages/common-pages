@@ -646,11 +646,10 @@ feed March2020
   // High Temperature and High Humidity Reduce the Transmission of COVID-19
   doi: http://dx.doi.org/10.2139/ssrn.3551767
   ref 'Wang_et_al_03_10_2020
-    head = We found robust negative associations between temperature as well as humidity and COVID-19 transmission before the large-scale public-health interventions in China and the U.S. The temperature & relative humidity has a consistent influence on the R values, for both China and U.S. After the lockdowns, temperature and relative humidity still play an important role in reducing the R values but to a less extent.
+    head = We have identified robust negative associations between temperature/humidity and COVID-19 transmission using samples of the daily transmissibility of COVID-19, temperature and humidity for 100 Chinese cities and 1,005 U.S. counties.
 
     > Abstract
       With the ongoing global pandemic of COVID-19, a question is whether the coming summer in the northern hemisphere will reduce the transmission intensity of COVID-19 with increased humidity and temperature. In this paper, we investigate this problem using the data from the cases with symptom-onset dates from January 19 to February 10, 2020 for 100 Chinese cities, and cases with confirmed dates from March 15 to April 25 for 1,005 U.S. counties. Statistical analysis is performed to assess the relationship between the transmissibility of COVID-19 and the temperature/humidity, by controlling for various demographic, socio-economic, geographic, healthcare and policy factors and correcting for cross-sectional correlation. We find a similar influence of the temperature and relative humidity on effective reproductive number (R values) of COVID-19 for both China and the U.S. before lockdown in both countries: one-degree Celsius increase in temperature reduces R value by about 0.023 (0.026 (95% CI [-0.0395,-0.0125]) in China and 0.020 (95% CI [-0.0311, -0.0096]) in the U.S.), and one percent relative humidity rise reduces R value by 0.0078 (0.0076 (95% CI [-0.0108,-0.0045]) in China and 0.0080 (95% CI [-0.0150,-0.0010]) in the U.S.). If assuming a 30 degree and 25 percent increase in temperature and relative humidity from winter to summer in the northern hemisphere, we expect the R values to decline about 0.89 (0.69 by temperature and 0.20 by humidity). Moreover, after the lockdowns in China and the U.S., temperature and relative humidity still play an important role in reducing the R values but to a less extent. Given the notion that the non-intervened R values are around 2.5 to 3, only weather factors cannot make the R values below their critical condition of R<1, under which the epidemic diminishes gradually. Therefore, public health intervention such as social distancing is crucial to block the transmission of COVID-19 even in summer.
-
 
     - weather
       !a
@@ -665,6 +664,13 @@ feed March2020
       !l
     - policies
       !j
+
+
+    / March, 2020 - SSRN
+    quote !m = The temperature & relative humidity has a consistent influence on the R values, for both China and U.S.
+
+    / March, 2020 - SSRN
+    quote !n = After the lockdowns, temperature and relative humidity still play an important role in reducing the R values but to a less extent.
 
     / March, 2020 - SSRN
     quote !a = Our study suggests that the arrival of summer and rainy season in the northern hemisphere can potentially reduce the transmissibility of the COVID-19, but it is unlikely that the COVID-19 pandemic will “automatically” diminish when summer comes, because temperature and humidity alone are not sufficient to make the R value less than the critical value of 1 based on their effect estimates.
@@ -706,6 +712,8 @@ feed March2020
     quote !l = For the U.S., we use the M50 index, the fraction of daily median of maximum moving distance over that in the normal time (workdays between February 17 and March 7), as the proxy of mobility. It has a positive relationship with R value for both overall and after lockdown time period with p-values lower than 0.01, which demonstrates that counties with more social movements would have higher R values than others.
 
 
+
+
   # weather influence- pro, temperature
   // Temperature, humidity, and wind speed are associated with lower Covid-19 incidence
   doi: https://doi.org/10.1101/2020.03.27.20045658
@@ -731,19 +739,21 @@ feed March2020
     # quote !d = An inverse association with wind speed may indicate a shorter suspending time in the air due to dilution and removal of Covid-19.
 
     / March, 2020 - MedRxiv
-    quote !e =  An inverse association with a higher UV index would suggest viral destruction at higher temperature, but the association did not hold with the concurrent or 7-day UV index.
+    quote !e = An inverse association with a higher UV index would suggest viral destruction at higher temperature, but the association did not hold with the concurrent or 7-day UV index.
 
 
   # weather influence- pro
   // COVID-19 transmission in Mainland China is associated with temperature and humidity: a time-series analysis
   doi: https://doi.org/10.1101/2020.03.30.20044099
   ref 'Qi_et_al_03_20_2020
-    head = Our study suggests that both daily temperature and relative humidity influenced the occurrence of COVID-19 in Hubei province and in some other provinces. However, the association between COVID-19 and average temperature (AT) and relative humidity (ARH) across the provinces was not consistent. There were spatial and temporal heterogeneities in COVID-19 occurrence, which could be attributed to meteorological factors (daily AT and ARH) as well as interventions measures across provinces.
+    head = This study sought to examine the associations of daily average temperature (AT) and relative humidity (ARH) with the daily count of COVID-19 cases in 30 Chinese provinces (in Hubei from December 1, 2019 to February 11, 2020 and in other provinces from January 20, 2020 to Februarys 11, 2020).
 
     > Abstract
       COVID-19 has become a pandemic. The influence of meteorological factors on the transmission and spread of COVID-19 if of interest. This study sought to examine the associations of daily average temperature (AT) and relative humidity (ARH) with the daily count of COVID-19 cases in 30 Chinese provinces (in Hubei from December 1, 2019 to February 11, 2020 and in other provinces from January 20, 2020 to Februarys 11, 2020). A Generalized Additive Model (GAM) was fitted to quantify the province-specific associations between meteorological variables and the daily cases of COVID-19 during the study periods. In the model, the 14-day exponential moving averages (EMAs) of AT and ARH, and their interaction were included with time trend and health-seeking behavior adjusted. Their spatial distributions were visualized. AT and ARH showed significantly negative associations with COVID-19 with a significant interaction between them (0.04, 95% confidence interval: 0.004-0.07) in Hubei. Every 1°C increase in the AT led to a decrease in the daily confirmed cases by 36% to 57% when ARH was in the range from 67% to 85.5%. Every 1% increase in ARH led to a decrease in the daily confirmed cases by 11% to 22% when AT was in the range from 5.04°C to 8.2°C. However, these associations were not consistent throughout Mainland China.
 
     - quotes
+      !d
+      !e
       !b
       !c
 
@@ -756,6 +766,13 @@ feed March2020
 
     / March, 2020 - MedRxiv
     quote !c = Every 1% increase in ARH led to a decrease in the daily confirmed cases by 11% to 22% when AT was in the range from 5.04°C to 8.2°C. However, these associations were not consistent throughout Mainland China.
+
+    / March, 2020 - MedRxiv
+    quote !d = Our study suggests that both daily temperature and relative humidity influenced the occurrence of COVID-19 in Hubei province and in some other provinces. However, the association between COVID-19 and average temperature (AT) and relative humidity (ARH) across the provinces was not consistent.
+
+    / March, 2020 - MedRxiv
+    quote !e = There were spatial and temporal heterogeneities in COVID-19 occurrence, which could be attributed to meteorological factors (daily AT and ARH) as well as interventions measures across provinces.
+
 
     # / March, 2020 - MedRxiv
     # quote !d = With ARH fixed at its 25th, 50th, and 75th percentiles, AT showed a negative association with COVID-19, with the IRRs being 0.43 (95% CI: 0.25–0.73), 0.5 (95% CI: 0.32–0.78), and 0.64 (95% CI: 0.43–0.94), respectively. Similarly, there was a negative relationship between ARH and COVID-19 with the AT fixed at its 25th, 50th, and 75th percentiles. The IRRs here were 0.78 (95% CI: 0.69–0.89), 0.84 (95% CI: 0.75–0.93), and 0.89 (95% CI: 0.8–1).
@@ -926,8 +943,7 @@ feed March2020
   // Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures
   doi: https://doi.org/10.1016/S0140-6736(20)30528-6
   ref 'Pung_et_al_03_28_2020
-    head = 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore (a Chinese tour group, company conference, and a church). Direct or prolonged close contact was reported among affected individuals, although indirect transmission (eg, via fomites and shared food) could not be excluded.
-
+    head = As of Feb 15, 2020, 36 cases of COVID-19 were linked epidemiologically to the first three clusters of circumscribed local transmission in Singapore (a Chinese tour group, company conference, and a church) and show the transmissibility of COVID-19 in community settings beyond household clusters.
 
     > Background
       Three clusters of coronavirus disease 2019 (COVID-19) linked to a tour group from China, a company conference, and a church were identified in Singapore in February, 2020.
@@ -942,10 +958,14 @@ feed March2020
       SARS-CoV-2 is transmissible in community settings, and local clusters of COVID-19 are expected in countries with high travel volume from China before the lockdown of Wuhan and institution of travel restrictions. Enhanced surveillance and contact tracing is essential to minimise the risk of widespread transmission in the community.
 
     - quotes
+      !b
       !a
 
     / March, 2020 - Lancet
     quote !a = This finding highlights the importance of emphasising personal and hand hygiene as a key public-health message that countries should adopt.
+
+    / March, 2020 - Lancet
+    quote !b = Direct or prolonged close contact was reported among affected individuals, although indirect transmission (eg, via fomites and shared food) could not be excluded.
 
 
   # Epidemic
@@ -2198,12 +2218,13 @@ feed March2020
   // Seasonality of Respiratory Viral Infections
   doi: https://doi.org/10.1146/annurev-virology-012420-022445
   ref 'Moriyama_et_al_2020
-    head =  The two major contributing factors are the changes in environmental parameters and human behavior. Studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates. We review evidence of how outdoor and indoor climates are linked to the seasonality of viral respiratory infections.
+    head = We review evidence of how outdoor and indoor climates are linked to the seasonality of viral respiratory infections. We further discuss determinants of host response in the seasonality of respiratory viruses by highlighting recent studies in the field.
 
     > Abstract
       The seasonal cycle of respiratory viral diseases has been widely recognized for thousands of years, as annual epidemics of the common cold and influenza disease hit the human population like clockwork in the winter season in temperate regions. Moreover, epidemics caused by viruses such as severe acute respiratory syndrome coronavirus (SARS-CoV) and the newly emerging SARS-CoV-2 occur during the winter months. The mechanisms underlying the seasonal nature of respiratory viral infections have been examined and debated for many years. The two major contributing factors are the changes in environmental parameters and human behavior. Studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates. More recent research highlights the importance of the environmental factors, especially temperature and humidity, in modulating host intrinsic, innate, and adaptive immune responses to viral infections in the respiratory tract. Here we review evidence of how outdoor and indoor climates are linked to the seasonality of viral respiratory infections. We further discuss determinants of host response in the seasonality of respiratory viruses by highlighting recent studies in the field.
 
     - quotes
+      !m
       !a
       !b
       !c
@@ -2216,6 +2237,9 @@ feed March2020
       !j
       !k
       !l
+
+    / March, 2020 - Annual Review of Virology
+    quote !m = The two major contributing factors are the changes in environmental parameters and human behavior. Studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates. More recent research highlights the importance of the environmental factors, especially temperature and humidity, in modulating host intrinsic, innate, and adaptive immune responses to viral infections in the respiratory tract.
 
     / March, 2020 - Annual Review of Virology
     quote !a = By virtue of being exposed to ambient air by breathing, the nasal and tracheal mucosal surface of the respiratory tract is affected by ambient temperature and the water content of the inhaled air. Inhalation of dry air causes epithelial damage, MCC impairment, and increased mucin production. Impaired ISG expression and tissue repair and increased viral burden and mortality after influenza virus infection have been proven in mice exposed to 7 days of low RH of10–20%. Devastating disease course following dry air exposure is mediated by inflammasome caspase activation.
@@ -2236,7 +2260,7 @@ feed March2020
     quote !f = Since the respiratory airways, where the type I and II alveolar cells are located, are not reachable by respiratory droplets with a diameter of more than 5 micrometers, it appears likely that at least the severe cases of COVID-19 with viral pneumonia are the result of airborne transmission events.
 
     / March, 2020 - Annual Review of Virology
-    quote !g = A recent study that examined province-level variability of the basic reproductive numbers of COVID-19 across China found that not only dry and cold locations experience high viral spread, but certain locations with high AH also have higher viral transmission within the population. The precise relationship between temperature, humidity, and COVID-19 will become more evident as the Northern Hemisphere reaches the summer months
+    quote !g = A recent study that examined province-level variability of the basic reproductive numbers of COVID-19 across China found that not only dry and cold locations experience high viral spread, but certain locations with high AH also have higher viral transmission within the population. The precise relationship between temperature, humidity, and COVID-19 will become more evident as the Northern Hemisphere reaches the summer months.
 
     / March, 2020 - Annual Review of Virology
     quote !h = Seasonal changes in the environmental factors can affect not only local defense mechanisms but also systemic physiological changes. Thermoneutral temperature housing potentiates antitumor immunity and GVHD onset in mice. In addition, a short daylight period and consequent deficiency of vitamin D impair nonspecific immune responses. In conclusion, the combination of low humidity, temperature, and sunlight may trigger an impairment of the local and systemic antiviral defense mechanisms, leading to the increased host susceptibility to the respiratory viruses in winter.
@@ -2245,13 +2269,14 @@ feed March2020
     quote !i = Collectively, we can begin to assemble the factors that promote viral spread and disease in the winter months for cold and influenza viruses. However, other respiratory virus infections peak in spring or summer. One of the possible explanations is the replication conflict among respiratory viruses. Co-infection of winter respiratory viruses and spring respiratory viruses in the animal model may provide insights into the unknown mechanisms of spring-to-summer epidemics.
 
     / March, 2020 - Annual Review of Virology
-    quote !j = Another unresolved issue is the observation that even in the highly controlled environment of the animal housing setting (22.2°C, 50% RH, controlled light/dark cycle) using the same viral stock, rate of transmission of influenza virus was higher when the experiments were carried out in the winter (November to April, 58.2%) versus summer (May to October, 34.1%). Thus, in addition to temperature, lighting, and humidity, there may be other environmental factors controlled by the seasons that contribute to higher levels of influenza virus infections in the winter months.
+    quote !j = In the highly controlled environment of the animal housing setting (22.2°C, 50% RH, controlled light/dark cycle) using the same viral stock, rate of transmission of influenza virus was higher when the experiments were carried out in the winter (November to April, 58.2%) versus summer (May to October, 34.1%). Thus, in addition to temperature, lighting, and humidity, there may be other environmental factors controlled by the seasons that contribute to higher levels of influenza virus infections in the winter months.
 
     / March, 2020 - Annual Review of Virology
     quote !k = In addition to vaccines and antiviral drugs, nonpharmaceutical interventions to prevent respiratory infections are gaining attention. Lifestyle (eating healthy, sleeping more than 7 h/day) and hygiene practices (washing hands, wearing facemasks) are known to increase antimicrobial resistance and prevent transmission, respectively (118–121). In addition to these measures, we might consider controlling the indoor environment to combat respiratory infections. Such interventions with humidifiers have been realized since the 1960s with promising results
 
     / March, 2020 - Annual Review of Virology
-    quote !l = More recently, a study in Minnesota found that humidifying preschool classrooms during January to March to ∼45% RH results in a significant reduction in the total number of influenza virus and viral genome copies found in the air and on objects compared to control classrooms. Such nonpharmaceutical interventions can be combined with vaccination strategies to achieve better prevention of respiratory viral infections.
+    quote !l = More recently, a study in Minnesota found that humidifying preschool classrooms during January to March to ∼45% RH results in a significant reduction in the total number of influenza virus and viral genome copies found in the air and on objects compared to control classrooms.
+
 
 
   # Tag - Antibodies, How long Immunity Last
@@ -3074,13 +3099,13 @@ feed March2020
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center
   doi: https://doi.org/10.1101/2020.03.23.20039446
   ref 'Santarpia_et_al_2020
-    head = We collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, indicating that SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
+    head = We collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples. SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
 
-    # - quotes
-    #   !a
+    - quotes
+      !a
 
-    # / bioRxiv - March, 2020
-    # quote !a = Our study indicates SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated, supporting the use of airborne isolation precautions.
+    / bioRxiv - March, 2020
+    quote !a = SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
 
 
   # Aerosol transmission
@@ -3187,7 +3212,8 @@ feed March2020
   // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
   doi: https://doi.org/10.1001/jama.2020.3227
   ref 'Ong_et_al_03_04_2020
-    head = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission and supports the need for strict adherence to environmental and hand hygiene.
+    head = 3 patients at the dedicated SARS-CoV-2 outbreak center in Singapore in airborne infection isolation rooms (12 air exchanges per hour) with anterooms and bathrooms had surface environmental samples taken at 26 sites. Personal protective equipment (PPE) samples from study physicians exiting the patient rooms also were collected. There was extensive environmental contamination by 1 SARS-CoV-2 patient with mild upper respiratory tract involvement.
+
 
     - quotes
       !a

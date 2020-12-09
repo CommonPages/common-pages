@@ -218,6 +218,11 @@
   # Everything below in this section is not updated claims.
   ############################################################################################
 
+
+
+
+
+
         ######### 11/17 #####
 
 
@@ -252,7 +257,49 @@
   #########################################################################################
     #12/20
 
-   # >
+
+    #### 12/8 ##
+
+    # Is airborne transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) a potential means of spreading coronavirus disease 2019 (COVID-19)?
+    #
+    #
+    # Growing evidence supports a view that inhaling respiratory aerosol is an important route for transmission of SARS-CoV-2 under certain conditions.
+
+
+    # Claim : Multiple reports have documented events involving superspreading of COVID-19 (2–5); however, few have documented a community-based point-source exposure (5). This cluster of 52 secondary cases of COVID-19 presents a unique opportunity for understanding SARS-CoV-2 transmission following a likely point-source exposure event.
+    # -
+    #   'Hamner_et_al_2020
+    #   'Guenther_et_al_07_23_2020
+    #   'Miller_et_al_06_18_2020
+    #   'Miller_et_al_06_18_2020.!b
+
+
+
+    ### 12/6 #####
+
+    # Asymptomatic trasmission - check the dates with Ayush
+    # Research early in the pandemic suggested that the rate of asymptomatic infections could be as high as 81%. But a meta-analysis published last month1, which included 13 studies involving 21,708 people, calculated the rate of asymptomatic presentation to be 17%.
+    #-
+     # Estimating the Extent of True Asymptomatic COVID-19 and Its Potential for Community Transmission: Systematic Review and Meta-Analysis
+     # 'Nogrady_et_al_11_23_2020
+    # 'Nogrady_et_al_11_23_2020.!a
+
+
+
+    #  Viral dynamics
+    # To understand what is happening in people with no symptoms, Cevik and colleagues conducted a systematic review and meta-analysis3 of 79 studies on the viral dynamics and transmissibility of SARS-CoV-2, which is posted on social-sciences preprint server SSRN. Some studies showed that those without symptoms had similar initial viral loads — the number of viral particles present in a throat swab — when compared with people with symptoms.But asymptomatic people seem to clear the virus faster and are infectious for a shorter period.
+    #-
+     #'Cevik_et_al_11_19_2020.!b
+     #'Nogrady_et_al_11_23_2020
+
+     # CHECK THIS PAPER WITH AYUSH:'Nogrady_et_al_11_23_2020
+
+
+
+   # TESTING ########
+   # 12/06
+
+
    #  The assays developed and validated in this study could be instrumental for patient contact tracing, serosurveillance studies, and vaccine evaluation studies.
    #
    # >
@@ -265,7 +312,9 @@
 
 
 
-  # 11/30
+
+
+  # 11/30 VACCINES
   #  Molecular platform
   # Non-replicating viral vector
   # RNA-based
@@ -310,6 +359,10 @@
   #    The mRNA-1273 vaccine candidate was co-developed by the Cambridge, Massachusetts-based biotechnology company Moderna, Inc., and the National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health. It combines Moderna’s mRNA (messenger RNA) delivery platform with the stabilized SARS-CoV-2 spike immunogen (S-2P) developed by NIAID scientists.
   #    -
   #     'Wrapp_et_al_2020
+  #  Although correlates of protection against SARS-CoV-2 infection in humans are not yet established, these results show that despite a slight expected decline in titers of binding and neutralizing antibodies, mRNA-1273 has the potential to provide durable humoral immunity.
+        # -
+        #'Widge_et_al_12_03_2020
+        #'Widge_et_al_12_03_2020.!a
   #
   #     https://www.nih.gov/news-events/news-releases/promising-interim-results-clinical-trial-nih-moderna-covid-19-vaccine
   #
@@ -600,7 +653,21 @@
   #
   #
   # https://www.vaccines.gov/basics/types
+  # RNA: http://sitn.hms.harvard.edu/flash/2015/rna-vaccines-a-novel-technology-to-prevent-and-treat-disease/
   #
+
+  # The concerns are directed in particular to the following pointsDr Yeadon’s (former Pfizer VP) Coronavirus Vaccine Safety Petition:
+  # https://dryburgh.com/mike-yeadon-coronavirus-vaccine-safety-concerns-petition/
+
+  # The formation of so-called “non-neutralizing antibodies” can lead to an exaggerated immune reaction, especially when the test person is confronted with the real, “wild” virus after vaccination. This so-called antibody-dependent amplification, ADE, has long been known from experiments with corona vaccines in cats, for example. In the course of these studies all cats that initially tolerated the vaccination well died after catching the wild virus.
+  # The vaccinations are expected to produce antibodies against spike proteins of SARS-CoV-2. However, spike proteins also contain syncytin-homologous proteins, which are essential for the formation of the placenta in mammals such as humans. It must be absolutely ruled out that a vaccine against SARS-CoV-2 could trigger an immune reaction against syncytin-1, as otherwise infertility of indefinite duration could result in vaccinated women.
+  #  The mRNA vaccines from BioNTech/Pfizer contain polyethylene glycol (PEG). 70% of people develop antibodies against this substance – this means that many people can develop allergic, potentially fatal reactions to the vaccination.
+  # The much too short duration of the study does not allow a realistic estimation of the late effects. As in the narcolepsy cases after the swine flu vaccination, millions of healthy people would be exposed to an unacceptable risk if an emergency approval were to be granted and the possibility of observing the late effects of the vaccination were to follow. Nevertheless, BioNTech/Pfizer apparently submitted an application for emergency approval on December 1, 2020.
+
+
+
+
+
   #
   # 4/12######################## SUPERSPREADING ################
 

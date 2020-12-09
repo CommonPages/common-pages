@@ -211,7 +211,7 @@ feed June2020
   // SARS-CoV-2 in environmental samples of quarantined households
   doi: https://doi.org/10.1101/2020.05.28.20114041
   ref 'Döhla_et_al_06_02_2020
-    head = The domestic environment predominantly does not seem to pose a high risk for transmission of SARS-CoV-2. Surfaces in the domestic environment did not show a high contamination rate, whereas the detection of viral RNA in wastewater of washbasins, showers and toilets showed a significantly higher contamination with SARS-CoV-2.
+    head = 21 households under quarantine conditions were randomly selected for this study. Air, wastewater samples and surface swabs (commodities) were obtained and analysed by RT-PCR. 10 of 66 wastewater samples were positive for SARS-CoV-2 as well as 4 of 119 object samples.
 
     > Abstract
       The role of environmental transmission of SARS-CoV-2 remains unclear. Particularly the close contact of persons living together or cohabitating in domestic quarantine could result in high risk for exposure to the virus within the households. Therefore, the aim of this study was to investigate the whereabouts of the virus and whether useful precautions to prevent the dissemination can be given. 21 households under quarantine conditions were randomly selected for this study. All persons living in each household were recorded in terms of age, sex and time of household quarantine. Throat swabs for analysis were obtained from all adult individuals and most of the children. Air, wastewater samples and surface swabs (commodities) were obtained and analysed by RT-PCR. Positive swabs were cultivated to analyse for viral infectivity. 26 of all 43 tested adults (60.47 %) tested positive by RT-PCR. All 15 air samples were PCR-negative. 10 of 66 wastewater samples were positive for SARS-CoV-2 (15.15 %) as well as 4 of 119 object samples (3.36 %). No statistically significant correlation between PCR-positive environmental samples and the extent of infection spread inside the household could be observed. No infectious virus could be isolated under cell culture conditions. As we cannot rule out transmission through surfaces, hygienic behavioural measures are important in the households of SARS-CoV-2 infected individuals to avoid potential transmission through surfaces. The role of the domestic environment, in particular the wastewater load in washbasins and showers, in the transmission of SARS CoV-2 should be further clarified.
@@ -321,7 +321,7 @@ feed June2020
   // A Cluster of Novel Coronavirus Disease 2019 Infections Indicating Person-to-Person Transmission Among Casual Contacts From Social Gatherings: An Outbreak Case-Contact Investigation
   doi: https://doi.org/10.1093/ofid/ofaa231
   ref 'Shen_et_al_06_12_2020
-    head = We report several transmission events to both close and casual contacts from a cluster. Transmission efficiency among close contacts was higher than among casual contacts; however, transmission from second-generation cases may help spread the virus during the incubation period.
+    head = We report several transmission events to both close and casual contacts from a cluster of 7 COVID-19 cases occurring from mid-January to early February 2020. A total of 539 social and family contacts of the index patient’s, including members of a 2-day wedding and a family party, were contacted and screened through epidemiologic surveys.
 
     > Background
       Severe acute respiratory syndrome coronavirus 2, the pathogen causing novel coronavirus disease of 2019 (COVID-19), efficiently spreads from person to person in close contact settings. Transmission among casual contacts in settings such as during social gatherings is not well understood.
@@ -337,9 +337,16 @@ feed June2020
 
     - quotes
       !a
+      !b
 
     / June, 2020 - Open Forum Infectious Diseases
     quote !a = Person-to-person transmission among casual contacts can and does occur at social gatherings with congregation of large groups of susceptible individuals. More importantly, from an individual perspective, the attack rate from casual contact was much lower than through close contact.
+
+    / June, 2020 - Open Forum Infectious Diseases
+    quote !b = Transmission efficiency among close contacts was higher than among casual contacts; however, transmission from second-generation cases may help spread the virus during the incubation period.
+
+
+
 
   # Transmission Cluster - Household, Close contact, Shared food, Public transport , Airline , Malls
   // A Comparison of Infection Venues of COVID-19 Case Clusters in Northeast China
@@ -1342,7 +1349,7 @@ feed June2020
 
     / June, 2020 - National Academy of Sciences
     quote !a = In a closed, stagnant air environment, they disappear from the window of view with time constants in the range of 8 to 14 min, which corresponds to droplet nuclei of ca. 4 μm diameter, or 12- to 21-μm droplets prior to dehydration.
-    
+
 
 
   // Evaluation of decontamination methods for commercial and alternative respirator and mask materials – view from filtration aspect
@@ -1427,14 +1434,23 @@ feed June2020
   // Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event
   doi: https://doi.org/10.1101/2020.06.15.20132027
   ref 'Miller_et_al_06_18_2020
-    head = 53 of the 61 members of the SVC contracted COVID-19 and two died. One person is the presumed index case. Inhalation of respiratory aerosol most likely dominated infection transmission during this event.
+    head = We report an outbreak occurred following attendance of a symptomatic index case at a regular weekly rehearsal. After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely.
 
     > Abstract
       During the 2020 COVID-19 pandemic, an outbreak occurred following attendance of a symptomatic index case at a regular weekly rehearsal on 10 March of the Skagit Valley Chorale (SVC). After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely. It is vital to identify features of cases such as this so as to better understand the factors that promote superspreading events. Based on a conditional assumption that transmission during this outbreak was by inhalation of respiratory aerosol, we use the available evidence to infer the emission rate of airborne infectious quanta from the primary source. We also explore how the risk of infection would vary with several influential factors: the rates of removal of respiratory aerosol by ventilation; deposition onto surfaces; and viral decay. The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
 
-    / June, 2020 - medRxiv
-    quote !a = Risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
+    - quotes
+      !b
+      !a
 
+    / June, 2020 - medRxiv
+    quote !a = The results demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, duration of shared presence with an infectious individual and loud vocalization.
+
+    / June, 2020 - medRxiv
+    quote !b = 53 of the 61 members of the SVC contracted COVID-19 and two died. One person is the presumed index case. Inhalation of respiratory aerosol most likely dominated infection transmission during this event
+
+    # / June, 2020 - medRxiv
+    # quote !a = Given the circumstances of the rehearsal, such a high secondary attack rate by the close-contact route would have necessitated effective transmission based largely on brief proximate encounters. That interpretation of the high attack rate in this event seems much less probable than the alternative explanation, i.e. that inhalation of infectious respiratory aerosol from “shared air” was the leading mode of transmission.
 
 
   # Face Mask - Humidity and deposition for viral inactivation, Resue, decontamination strategies for N95 respirators

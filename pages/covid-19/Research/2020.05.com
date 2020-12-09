@@ -467,28 +467,37 @@ feed May2020
   // Is there an airborne component to the transmission of COVID-19? : a quantitative analysis study
   doi: https://doi.org/10.1101/2020.05.22.20109991
   ref 'Beggs_et_al_05_26_2020
-    head = Those sharing enclosed spaces with infectors for long periods may be at risk of contracting COVID-19 by the aerosol route, even when practicing social distancing.
+    head = Respiratory droplet data from four published datasets were analysed to quantify the number and volume of droplets <100μm diameter produced by a typical cough and speaking event. Several scenarios were simulated that mimicked the presence of both symptomatic and asymptomatic COVID-19 infectors.
 
     > Objectives
       While COVID-19 is known to be spread by respiratory droplets (which travel <2m horizontally), much less is known about its transmission via aerosols, which can become airborne and widely distributed throughout room spaces. In order to quantify the risk posed by COVID-19 infectors exhaling respiratory aerosols in enclosed spaces, we undertook a computer modelling study to simulate transmission in an office building.
+
     >  Methods
       Respiratory droplet data from four published datasets were analysed to quantify the number and volume of droplets <100μm diameter produced by a typical cough and speaking event (i.e. counting from 1 to 100). This was used in a stochastic model to simulate (10000 simulations) the number of respiratory particles, originating from a COVID-19 infector, that would be inhaled in one hour by a susceptible individual practicing socially distancing in a 4 x 4 x 2.5m office space. Several scenarios were simulated that mimicked the presence of both symptomatic and asymptomatic COVID-19 infectors.
+
     >  Results
       On average, each cough and speaking event produced similar numbers of droplets <100μm diameter (median range = 971.9-1013.4). Computer simulations (ventilation rate=2AC/h) revealed that sharing the office space with a symptomatic COVID-19 infector (4 coughs and 10 speaking events per hour) for one hour resulted in the inhalation of 16.9 (25-75th range = 8.1-33.9) aerosolised respiratory droplets, equating to about 280-1190 particles inhaled over a 35-hour working week. Sharing with an asymptomatic infector (10 speaking events per hour) resulted in the about 196-875 particles inhaled over 35 hours.
+
     > Conclusions
       Given that live SARS-CoV-2 virions are known to be shed in high concentrations from the nasal cavity of both symptomatic and asymptomatic COVID-19 patients, the results suggest that those sharing enclosed spaces with infectors for long periods may be at risk of contracting COVID-19 by the aerosol route, even when practicing social distancing.
 
     - quotes
       !a
+      !b
 
     / May, 2020 - medRxiv
-    quote !a =
+    quote !a = Those sharing enclosed spaces with infectors for long periods may be at risk of contracting COVID-19 by the aerosol route, even when practicing social distancing.
+
+    / May, 2020 - medRxiv
+    quote !b = Our study suggests that the aerial dissemination of small aerosol particles containing SARS-CoV-2 virions is probably a feature of COVID-19. These particles can be suspended in air for considerable periods of time and thus can be widely dispersed.
+
+
 
   # Surface Viability
   // Environmental sampling for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during a coronavirus disease (COVID-19) outbreak aboard a commercial cruise ship
   doi: https://doi.org/10.1101/2020.05.02.20088567
   ref 'Yamagishi_et_al_05_08_2020
-    head = The environment around the COVID-19 cases was extensively contaminated from SARS-CoV-2 during COVID-19 outbreak in the cruise ship. Transmission risk of SARS-CoV-2 from symptomatic and asymptomatic patients seems to be similar and the environmental surface could involve viral transmission through direct contact.
+    head = We sampled environmental surfaces including air from common areas in the cruise ship and cabins in which confirmed COVID-19 cases and non-cases had stayed after they left the cabins. We tested the samples for SARS-CoV-2 by rt-PCR and conducted viral isolation.
 
     > Background
       A COVID-19 outbreak occurred in a cruise ship with 3711 passengers and crew in 2020. This study is to test the hypothesis that environmental surfaces played important roles in transmission for SARS-CoV-2 during this outbreak.
@@ -499,9 +508,11 @@ feed May2020
     > nterpretation
       The environment around the COVID-19 cases was extensively contaminated from SARS-CoV-2 during COVID-19 outbreak in the cruise ship. Transmission risk of SARS-CoV-2 from symptomatic and asymptomatic patients seems to be similar and the environmental surface could involve viral transmission through direct contact.
 
+    - quotes
+      !a
 
     / May, 2020 - medRxiv
-    quote !a =
+    quote !a = The environment around the COVID-19 cases was extensively contaminated from SARS-CoV-2 during COVID-19 outbreak in the cruise ship. Transmission risk of SARS-CoV-2 from symptomatic and asymptomatic patients seems to be similar and the environmental surface could involve viral transmission through direct contact.
 
 
   # Nosocomial - No Aersol - Surface
@@ -538,10 +549,13 @@ feed May2020
 
     > Objective
       To estimate the infection rate of close contacts of COVID-19 cases, and to evaluate the risk of COVID-19 under different exposure conditions.
+
     > Methods
       A prospective study was used to conduct continuous quarantine medical observations of close contacts of people infected with COVID-19, collect epidemiological, clinical manifestations, and laboratory test data to estimate the infection rate of close contacts under different exposures.
+
     > Results
       The epidemiological curve of COVID-19 in Ningbo showed persistent human-to-human characteristics. A total of 2 147 close contacts were tracked and investigated. The total infection rate was 6.15%. The infection rates of confirmed cases and positive contacts were 6.30% and 4.11%, respectively. The difference was not statistically significant (P>0.05). Among close contacts of different relationships, friends/pilgrims (22.31%), family members (18.01%), and relatives (4.73%) have a higher infection rate, and close contacts of medical staff were not infected. Differences in infection rates among the close contacts were statistically significant (P<0.005). Living with the case (13.26%), taking the same transportation (11.91%), and dining together (7.18%) are high risk factors for infection. Cross-infection in the hospital should not be ignored (1.94%). The median of incubation period is 5 days.
+
     > Conclusion
       The infection rate of close contacts of COVID-19 cases is high, and isolation medical observation measures should be implemented in strict accordance with the close contact management plan.
 
@@ -1382,18 +1396,19 @@ feed May2020
 
   # Aersol
   // Modelling aerosol transport and virus exposure with numerical simulations in relation to SARS-CoV-2 transmission by inhalation indoors
-  doi: https://doi.org/xyz
+  doi: https://doi.org/10.1016/j.ssci.2020.104866
   ref 'Vuorinen_et_al_05_31_2020
-    head = We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from  to or even to depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
+    head = We utilize physics-based modeling at different levels of complexity, along with previous literature on coronaviruses, to investigate the possibility of airborne transmission. By 3D scale-resolving computational fluid dynamics (CFD) simulations, we give various examples on the transport and dilution of aerosols over distances in generic environments. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking.
 
     > Abstract
-      We provide research findings on the physics of aerosol and droplet dispersion relevant to the hypothesized aerosol transmission of SARS-CoV-2 during the current pandemic. We utilize physics-based modeling at different levels of complexity, along with previous literature on coronaviruses, to investigate the possibility of airborne transmission. The previous literature, our 0D-3D simulations by various physics-based models, and theoretical calculations, indicate that the typical size range of speech and cough originated droplets () allows lingering in the air for ) so that they could be inhaled. Consistent with the previous literature, numerical evidence on the rapid drying process of even large droplets, up to sizes , into droplet nuclei/aerosols is provided. Based on the literature and the public media sources, we provide evidence that the individuals, who have been tested positive on COVID-19, could have been exposed to aerosols/droplet nuclei by inhaling them in significant numbers e.g. . By 3D scale-resolving computational fluid dynamics (CFD) simulations, we give various examples on the transport and dilution of aerosols () over distances  in generic environments. We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The developed model takes into account the locally varying aerosol concentration levels which the susceptible accumulate via inhalation. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from  to  or even to  depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
+      We provide research findings on the physics of aerosol and droplet dispersion relevant to the hypothesized aerosol transmission of SARS-CoV-2 during the current pandemic. We utilize physics-based modeling at different levels of complexity, along with previous literature on coronaviruses, to investigate the possibility of airborne transmission. The previous literature, our 0D-3D simulations by various physics-based models, and theoretical calculations, indicate that the typical size range of speech and cough originated droplets () allows lingering in the air for ) so that they could be inhaled. Consistent with the previous literature, numerical evidence on the rapid drying process of even large droplets, up to sizes , into droplet nuclei/aerosols is provided. Based on the literature and the public media sources, we provide evidence that the individuals, who have been tested positive on COVID-19, could have been exposed to aerosols/droplet nuclei by inhaling them in significant numbers e.g. . By 3D scale-resolving computational fluid dynamics (CFD) simulations, we give various examples on the transport and dilution of aerosols () over distances  in generic environments. We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The developed model takes into account the locally varying aerosol concentration levels which the susceptible accumulate via inhalation. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from to or even to  depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
 
-    # - quotes
-    #   !a
+    - quotes
+      !a
 
     / May, 2020 - Safety Science
-    quote !a = Considering previous literature, we found that typical cough or speech generated droplets (e.g. d<20μm) are certainly airborne from the view point of physics. Even in the upper limit, an example on initially  droplets was provided which can linger in still air for 20min-1hr. We showed that droplets with diameter up to 50 μm could stay airborne for approximately 3min-20sec due to the rapid drying so that they could be inhaled.
+    quote !a = We showed that droplets with diameter up to 50um-100um could stay airborne for approximately 3min - 20s due to the rapid drying so that they could be inhaled. In practice, air flows may carry such aerosols for much longer times but that time depends on the premise in question.
+
 
 
 
@@ -2886,7 +2901,7 @@ feed May2020
   // Infectious SARS-CoV-2 in Feces of Patient with Severe COVID-19
   doi: https://doi.org/10.3201/eid2608.200681
   ref 'Xiao_et_al_05_18_2020
-    head = Isolation of infectious SARS-CoV-2 in feces indicates the possibility of fecal–oral transmission or fecal–respiratory transmission through aerosolized feces.
+    head = Severe acute respiratory syndrome coronavirus 2 was isolated from feces of a patient in China with coronavirus disease who died.
 
     > Abstract
       Severe acute respiratory syndrome coronavirus 2 was isolated from feces of a patient in China with coronavirus disease who died. Confirmation of infectious virus in feces affirms the potential for fecal–oral or fecal–respiratory transmission and warrants further study.
@@ -2895,7 +2910,7 @@ feed May2020
       !a
 
     / May, 2020 - Emerg Infect Dis.
-    quote !a = Our findings indicate the need for appropriate precautions to avoid potential transmission of SARS-CoV-2 from feces. Discharge and hospital cleaning practices should consider this possibility for critically ill patients or those who died who had high viral loads and are more likely to shed infectious virus.
+    quote !a = Isolation of infectious SARS-CoV-2 in feces indicates the possibility of fecal–oral transmission or fecal–respiratory transmission through aerosolized feces.
 
 
   # Mortality Rate - Prediction
@@ -4079,60 +4094,58 @@ feed May2020
   // Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel
   doi: https://doi.org/10.1101/2020.05.21.20104521
   ref 'Miller_et_al_2020b
-    head = Returning travelers from the U.S. contributed dramatically more to viral spread relative to their proportion in incoming infected travelers. We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness. High levels of transmission heterogeneity was indicated in SARS-CoV-2 spread, with between 1-10% of infected individuals resulting in 80% of secondary infections.
+    head = We sequenced 212 SARS-CoV-2 sequences and use them to perform a comprehensive analysis to trace the origins and spread of the virus. A phylogenetic analysis including thousands of globally sampled sequences allowed us to infer multiple independent introductions into Israel, followed by local transmission.
 
     > Abstract
       Full genome sequences are increasingly used to track the geographic spread and transmission dynamics of viral pathogens. Here, with a focus on Israel, we sequenced 212 SARS-CoV-2 sequences and use them to perform a comprehensive analysis to trace the origins and spread of the virus. A phylogenetic analysis including thousands of globally sampled sequences allowed us to infer multiple independent introductions into Israel, followed by local transmission. Returning travelers from the U.S. contributed dramatically more to viral spread relative to their proportion in incoming infected travelers. Using phylodynamic analysis, we estimated that the basic reproduction number of the virus was initially around ~2.0-2.6, dropping by two-thirds following the implementation of social distancing measures. A comparison between reported and model-estimated case numbers indicated high levels of transmission heterogeneity in SARS-CoV-2 spread, with between 1-10% of infected individuals resulting in 80% of secondary infections. Overall, our findings underscore the ability of this virus to efficiently transmit between and within countries, as well as demonstrate the effectiveness of social distancing measures for reducing its spread.
 
     - quotes
       !a
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
+      !b
 
     / May, 2020 - Medrxiv
-    quote !a = We found multiple introductions into Israel from both the U.S and Europe, the latter including mainly the U.K., France and Belgium. Over 70% of the clade introductions into Israel were inferred to have occurred from the U.S., while the remaining were mainly from Europe. Reports show that only ~27% of infected returning travelers were from the U.S. Moreover, this suggests that had flights from the U.S. been arrested at the same time that flights from Europe were arrested (between February 26 and March 4, instead of by March 9), a substantial fraction of the transmission chains in Israel would have been prevented.
+    quote !a = Returning travelers from the U.S. contributed dramatically more to viral spread relative to their proportion in incoming infected travelers. We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness.
+
+    / May, 2020 - Medrxiv
+    quote !b = High levels of transmission heterogeneity was indicated in SARS-CoV-2 spread, with between 1-10% of infected individuals resulting in 80% of secondary infections.
 
     # / May, 2020 - Medrxiv
-    # quote !b = Our phylodynamic analysis indicates that between 5-9% of infections are responsible for 80% of secondary infections; with lower assumed levels of case reporting, between 1-5% of infections would be responsible for this 80% of secondary infections.
-
-    / May, 2020 - Medrxiv
-    quote !c = Under the most extreme scenario (1% superspreaders) we find cumulative incidence of ~1% of Israeli population, and this is our upper bound estimate. Far from herd immunity.
-
-    / May, 2020 - Medrxiv
-    quote !d = We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness.
-
-    / May, 2020 - Medrxiv
-    quote !e = A total of 224 unique single nucleotide variants (SNVs) were identified between the Wuhan reference sequence and this set of sequences from Israel. Of these SNVs (single nucleotide variants), 141 were non-synonymous, 72 were synonymous, and the remaining 11 were in noncoding regions. One of the most abundantly detected SNVs was a non-synonymous variant D614G found in the spike protein, which was present in 90% of the sequences. This variant has generated much interest as it has been reported to potentially increase the transmissibility of the virus.
-
-    / May, 2020 - Medrxiv
-    quote !f = We also found five different high confidence genomic deletions, spanning between one and eighteen nucleotides, each of which was found in one to two samples. Three of these five deletions occurred in multiples of three and were in-frame deletions or affected non-coding regions. Of the remaining two deletions, deletion 3 spanned ten nucleotides, and likely prevents the translation of ORF7a. Deletion 4 occurred at the end of ORF8 and causes the replacement of the last amino acid with an additional five amino acids. Notably, an 81 nt in-frame deletion in ORF7a has been previously reported (Holland, et al. 2020), as has been a 382 nt deletion in ORF8, suggesting that the virus is to some extent tolerant to deletions in these ORFs.
-
-    / May, 2020 - Medrxiv
-    quote !g = When focusing on deletions that occurred in two samples, we noted that the two samples bearing deletion 1 were located in very remote clades on the phylogeny, suggesting that the deletion occurred two independent times. Deletion 5 on the other hand was present in two related samples that were sampled five days apart from each other. Deletions 2, 3 and 4 revealed an intriguing pattern: three independent deletions (one of which was present in two samples) were all part of the same clade that included eighteen samples. One non-synonymous SNV (single nucleotide variants) defined this clade: S2430R in ORF1b which affects the nonstructural protein NSP16. This protein has been reported to be a 2ʹO-methyl-transferase that enhances evasion of the innate immune system.
-
-    / May, 2020 - Medrxiv
-    quote !h = At this point we conjecture that the deletions we detected are neutral or to some extent deleterious, and that deletions in SARS-CoV-2 are likely to occur frequently given the number of deletions detected in our samples.
+    # quote !c = Under the most extreme scenario (1% superspreaders) we find cumulative incidence of ~1% of Israeli population, and this is our upper bound estimate. Far from herd immunity.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !d = We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !e = A total of 224 unique single nucleotide variants (SNVs) were identified between the Wuhan reference sequence and this set of sequences from Israel. Of these SNVs (single nucleotide variants), 141 were non-synonymous, 72 were synonymous, and the remaining 11 were in noncoding regions. One of the most abundantly detected SNVs was a non-synonymous variant D614G found in the spike protein, which was present in 90% of the sequences. This variant has generated much interest as it has been reported to potentially increase the transmissibility of the virus.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !f = We also found five different high confidence genomic deletions, spanning between one and eighteen nucleotides, each of which was found in one to two samples. Three of these five deletions occurred in multiples of three and were in-frame deletions or affected non-coding regions. Of the remaining two deletions, deletion 3 spanned ten nucleotides, and likely prevents the translation of ORF7a. Deletion 4 occurred at the end of ORF8 and causes the replacement of the last amino acid with an additional five amino acids. Notably, an 81 nt in-frame deletion in ORF7a has been previously reported (Holland, et al. 2020), as has been a 382 nt deletion in ORF8, suggesting that the virus is to some extent tolerant to deletions in these ORFs.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !g = When focusing on deletions that occurred in two samples, we noted that the two samples bearing deletion 1 were located in very remote clades on the phylogeny, suggesting that the deletion occurred two independent times. Deletion 5 on the other hand was present in two related samples that were sampled five days apart from each other. Deletions 2, 3 and 4 revealed an intriguing pattern: three independent deletions (one of which was present in two samples) were all part of the same clade that included eighteen samples. One non-synonymous SNV (single nucleotide variants) defined this clade: S2430R in ORF1b which affects the nonstructural protein NSP16. This protein has been reported to be a 2ʹO-methyl-transferase that enhances evasion of the innate immune system.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !h = At this point we conjecture that the deletions we detected are neutral or to some extent deleterious, and that deletions in SARS-CoV-2 are likely to occur frequently given the number of deletions detected in our samples.
 
 
   # super spreading, transmission, public health, disease control, mitigation, non-pharmaceutical interventions, social distancing, hygiene, contact tracing
   // Clustering and superspreading potential of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections in Hong Kong
   doi: https://doi.org/10.1038/s41591-020-1092-0
   ref 'Adam_et_al_2020
-    head = We identified 4–7 Superspreading events (SSEs) across 51 clusters and observed that 19% (15–24%) of cases were responsible for 80% of all SARS-CoV-2 transmission, while 69% (65–71%) of cases did not transmit to anyone. Public health authorities should focus on rapidly tracing and quarantining contacts, along with implementing restrictions targeting social settings to reduce the risk of SSEs.
+    head = We identified 4–7 Superspreading events (SSEs) across 51 clusters and observed that 19% (15–24%) of cases were responsible for 80% of all SARS-CoV-2 transmission, while 69% (65–71%) of cases did not transmit to anyone.
 
     > Abstract
       Superspreading events (SSEs) have characterized previous epidemics of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) infections1,2,3,4,5,6. For SARS-CoV-2, the degree to which SSEs are involved in transmission remains unclear, but there is growing evidence that SSEs might be a typical feature of COVID-197,8. Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection. We identified 4–7 SSEs across 51 clusters (n = 309 cases) and estimated that 19% (95% confidence interval, 15–24%) of cases seeded 80% of all local transmission. Transmission in social settings was associated with more secondary cases than households when controlling for age (P = 0.002). Decreasing the delay between symptom onset and case confirmation did not result in fewer secondary cases (P = 0.98), although the odds that an individual being quarantined as a contact interrupted transmission was 14.4 (95% CI, 1.9–107.2). Public health authorities should focus on rapidly tracing and quarantining contacts, along with implementing restrictions targeting social settings to reduce the risk of SSEs and suppress SARS-CoV-2 transmission.
 
     - quotes
       !a
-
+      !b
 
     / September, 2020 - Epidemiology
-    quote !a = Transmission in social settings was associated with more secondary cases than households when controlling for age.
+    quote !a = Public health authorities should focus on rapidly tracing and quarantining contacts, along with implementing restrictions targeting social settings to reduce the risk of SSEs.
+
+    / September, 2020 - Epidemiology
+    quote !b = Transmission in social settings was associated with more secondary cases than households when controlling for age.
 
 
 
@@ -4364,42 +4377,38 @@ feed May2020
   // High SARS-CoV-2 Attack Rate Following Exposure at a Choir Practice — Skagit County, Washington, March 2020
   doi: https://dx.doi.org/10.15585/mmwr.mm6919e6
   ref 'Hamner_et_al_2020
-    head = Following a 2.5-hour choir practice attended by 61 persons, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet) during practice and augmented by the act of singing.
+    head = Following a 2.5-hour choir practice attended by 61 persons, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred; three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet) during practice and augmented by the act of singing.
+
+    > Abstract
+      On March 17, 2020, a member of a Skagit County, Washington, choir informed Skagit County Public Health (SCPH) that several members of the 122-member choir had become ill. Three persons, two from Skagit County and one from another area, had test results positive for SARS-CoV-2, the virus that causes coronavirus disease 2019 (COVID-19). Another 25 persons had compatible symptoms. SCPH obtained the choir’s member list and began an investigation on March 18. Among 61 persons who attended a March 10 choir practice at which one person was known to be symptomatic, 53 cases were identified, including 33 confirmed and 20 probable cases (secondary attack rates of 53.3% among confirmed cases and 86.7% among all cases). Three of the 53 persons who became ill were hospitalized (5.7%), and two died (3.7%). The 2.5-hour singing practice provided several opportunities for droplet and fomite transmission, including members sitting close to one another, sharing snacks, and stacking chairs at the end of the practice. The act of singing, itself, might have contributed to transmission through emission of aerosols, which is affected by loudness of vocalization (1). Certain persons, known as superemitters, who release more aerosol particles during speech than do their peers, might have contributed to this and previously reported COVID-19 superspreading events (2–5). These data demonstrate the high transmissibility of SARS-CoV-2 and the possibility of superemitters contributing to broad transmission in certain unique activities and circumstances. It is recommended that persons avoid face-to-face contact with others, not gather in groups, avoid crowded places, maintain physical distancing of at least 6 feet to reduce transmission, and wear cloth face coverings in public settings where other social distancing measures are difficult to maintain.
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
 
     / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !a = This cluster of 52 secondary cases of COVID-19 presents a unique opportunity for understanding SARS-CoV-2 transmission following a likely point-source exposure event.The index patient developed symptoms on March 7, which could have placed the patient within this infectious period during the March 10 practice. Choir members who developed symptoms on March 11 (three) and March 12 (seven) attended both the March 3 and March 10 practices and thus could have been infected earlier and might have been infectious in the 2 days preceding symptom onset (i.e., as early as March 9).
+    quote !a = Certain persons, known as superemitters, who release more aerosol particles during speech than do their peers, might have contributed to this. These data demonstrate the high transmissibility of SARS-CoV-2 and the possibility of superemitters contributing to broad transmission in certain unique activities and circumstances.
 
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !b = Among the 61 choir members who attended the March 10 practice, the median age was 69 years (range = 31–83 years); 84% were women. Median age of those who became ill was 69 years, and 85% of cases occurred in women. Excluding the laboratory-confirmed index patient, 52 (86.7%) of 60 attendees became ill; 32 (61.5%) of these cases were confirmed by RT-PCR testing and 20 (38.5%) persons were considered to have probable infections.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !c = The attack rate in this group (53.3% and 86.7% among confirmed cases and all cases, respectively) was higher than that seen in other clusters, and the March 10 practice could be considered a superspreading event. The median incubation period of COVID-19 is estimated to be 5.1 days. The median interval from exposure during the March 10 practice to onset of illness was 3 days, indicating a more rapid onset. Attendees developed symptoms 1 to 12 days after the practice (median = 3 days). The first SARS-CoV-2 test was performed on March 13. The last person was tested on March 26.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !d = Choir practice attendees had multiple opportunities for droplet transmission from close contact or fomite transmission, and the act of singing itself might have contributed to SARS-CoV-2 transmission. Aerosol emission during speech has been correlated with loudness of vocalization, and certain persons, who release an order of magnitude more particles than their peers, have been referred to as superemitters and have been hypothesized to contribute to superspeading events. Members had an intense and prolonged exposure, singing while sitting 6–10 inches from one another, possibly emitting aerosols.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !e = The 19 choir members classified as having probable cases did not seek testing to confirm their illness. One person classified as having probable COVID-19 did seek testing 10 days after symptom onset and received a negative test result. It is possible that persons designated as having probable cases had another illness.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !f = Three of the 53 patients were hospitalized (5.7%), including two who died (3.8%). The mean interval from illness onset to hospitalization was 12 days. The intervals from onset to death were 14 and 15 days for the two patients who died.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !g = SCPH collected information about patient signs and symptoms from patient interviews and hospital records. Among persons with confirmed infections, the most common signs and symptoms reported at illness onset and at any time during the course of illness were cough (54.5% and 90.9%, respectively), fever (45.5%, 75.8%), myalgia (27.3%, 75.0%), and headache (21.2%, 60.6%). Several patients later developed gastrointestinal symptoms, including diarrhea (18.8%), nausea (9.4%), and abdominal cramps or pain (6.3%). One person experienced only loss of smell and taste. The most severe complications reported were viral pneumonia (18.2%) and severe hypoxemic respiratory failure (9.1%).
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !h = Among the recognized risk factors for severe illness, the most common was age, with 75.5% of patients aged ≥65 years. Most patients (67.9%) did not report any underlying medical conditions, 9.4% had one underlying medical condition, and 22.6% had two or more underlying medical conditions. All three hospitalized patients had two or more underlying medical conditions.
-
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !b = Among the 61 choir members who attended the March 10 practice, the median age was 69 years (range = 31–83 years); 84% were women. Median age of those who became ill was 69 years, and 85% of cases occurred in women. Excluding the laboratory-confirmed index patient, 52 (86.7%) of 60 attendees became ill; 32 (61.5%) of these cases were confirmed by RT-PCR testing and 20 (38.5%) persons were considered to have probable infections.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !c = The attack rate in this group (53.3% and 86.7% among confirmed cases and all cases, respectively) was higher than that seen in other clusters, and the March 10 practice could be considered a superspreading event. The median incubation period of COVID-19 is estimated to be 5.1 days. The median interval from exposure during the March 10 practice to onset of illness was 3 days, indicating a more rapid onset. Attendees developed symptoms 1 to 12 days after the practice (median = 3 days). The first SARS-CoV-2 test was performed on March 13. The last person was tested on March 26.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !d = Choir practice attendees had multiple opportunities for droplet transmission from close contact or fomite transmission, and the act of singing itself might have contributed to SARS-CoV-2 transmission. Aerosol emission during speech has been correlated with loudness of vocalization, and certain persons, who release an order of magnitude more particles than their peers, have been referred to as superemitters and have been hypothesized to contribute to superspeading events. Members had an intense and prolonged exposure, singing while sitting 6–10 inches from one another, possibly emitting aerosols.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !e = The 19 choir members classified as having probable cases did not seek testing to confirm their illness. One person classified as having probable COVID-19 did seek testing 10 days after symptom onset and received a negative test result. It is possible that persons designated as having probable cases had another illness.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !f = Three of the 53 patients were hospitalized (5.7%), including two who died (3.8%). The mean interval from illness onset to hospitalization was 12 days. The intervals from onset to death were 14 and 15 days for the two patients who died.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !g = SCPH collected information about patient signs and symptoms from patient interviews and hospital records. Among persons with confirmed infections, the most common signs and symptoms reported at illness onset and at any time during the course of illness were cough (54.5% and 90.9%, respectively), fever (45.5%, 75.8%), myalgia (27.3%, 75.0%), and headache (21.2%, 60.6%). Several patients later developed gastrointestinal symptoms, including diarrhea (18.8%), nausea (9.4%), and abdominal cramps or pain (6.3%). One person experienced only loss of smell and taste. The most severe complications reported were viral pneumonia (18.2%) and severe hypoxemic respiratory failure (9.1%).
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !h = Among the recognized risk factors for severe illness, the most common was age, with 75.5% of patients aged ≥65 years. Most patients (67.9%) did not report any underlying medical conditions, 9.4% had one underlying medical condition, and 22.6% had two or more underlying medical conditions. All three hospitalized patients had two or more underlying medical conditions.
+    #
 
 
   #  mortality rate, Sweden
@@ -4558,15 +4567,17 @@ feed May2020
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://doi.org/10.3201/eid2607.200764
   ref 'Lu_et_al_2020
-    head = We conclude that in this outbreak, droplet transmission was prompted by air-conditioned ventilation. The key factor for infection was the direction of the airflow.
+    head = During January 26–February 10, 2020, an outbreak of 2019 novel coronavirus disease in an air-conditioned restaurant in Guangzhou, China, involved 3 family clusters.
 
     > Abstract
       During January 26–February 10, 2020, an outbreak of 2019 novel coronavirus disease in an air-conditioned restaurant in Guangzhou, China, involved 3 family clusters. The airflow direction was consistent with droplet transmission. To prevent the spread of the virus in restaurants, we recommend increasing the distance between tables and improving ventilation.
 
+    - quotes
+     !a
 
     # scheduled for july release
-    # / May, 2020 - Emerging Infect Dis.
-    # quote !a =
+    / May, 2020 - Emerging Infect Dis.
+    quote !a = We conclude that in this outbreak, droplet transmission was prompted by air-conditioned ventilation. The key factor for infection was the direction of the airflow.
 
 
   # herd immunity, herd immunity model, pandemic control,heterogenity in host susceptibility
