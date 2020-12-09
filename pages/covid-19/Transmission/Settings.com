@@ -639,7 +639,7 @@ subject module Settings
         'Beggs_et_al_05_26_2020
         'Liu_et_al_2020bb
         'Correia_et_al_04_25_2020
-        'Xiao_et_al_08_05_2020
+        'RezaPourkarim_et_al_08_03_2020
         'Li_et_al_02_08_1999
 
     / Humidity and Temperature
@@ -656,7 +656,7 @@ subject module Settings
         'Anderson_et_al_05_01_2020
         'Ahlawat_et_al_07_21_2020
         'Casanova_et_al_04_21_2010
-        'Xiao_et_al_08_05_2020
+        'RezaPourkarim_et_al_08_03_2020
       - Latest papers on Temperature
         'Carraturo_et_al_06_09_2020
         'Tang_et_al_08_17_2006
@@ -675,7 +675,7 @@ subject module Settings
         'Andrade_et_al_05_07_2018
         'Holmberg_et_al_05_19_2003
         'Correia_et_al_04_25_2020
-        'Xiao_et_al_08_05_2020
+        'RezaPourkarim_et_al_08_03_2020
         'Shen_et_al_09_01_2020
 
     / Seasonal Variations

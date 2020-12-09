@@ -704,14 +704,30 @@ feed Pre2019
   // Effects of air temperature and relative humidity on coronavirus survival on surfaces
   doi: https://doi.org/10.1128/AEM.02291-09
   ref 'Casanova_et_al_04_21_2010
-    head = When high numbers of viruses are deposited, TGEV (transmissible gastroenteritis virus) and MHV (mouse hepatitis virus)  may survive for days on surfaces at ATs (air temperature) and RHs (relative humidity) typical of indoor environments.
+    head = This was the first study to examine the individual and synergistic effects of AT (air temperature) and RH (relative humidity) on coronavirus survival on surfaces. Two potential surrogates were evaluated in this study; transmissible gastroenteritis virus (TGEV) and mouse hepatitis virus (MHV).
 
     > Abstract
       Assessment of the risks posed by severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV) on surfaces requires data on survival of this virus on environmental surfaces and on how survival is affected by environmental variables, such as air temperature (AT) and relative humidity (RH). The use of surrogate viruses has the potential to overcome the challenges of working with SARS-CoV and to increase the available data on coronavirus survival on surfaces. Two potential surrogates were evaluated in this study; transmissible gastroenteritis virus (TGEV) and mouse hepatitis virus (MHV) were used to determine effects of AT and RH on the survival of coronaviruses on stainless steel. At 4 degrees C, infectious virus persisted for as long as 28 days, and the lowest level of inactivation occurred at 20% RH. Inactivation was more rapid at 20 degrees C than at 4 degrees C at all humidity levels; the viruses persisted for 5 to 28 days, and the slowest inactivation occurred at low RH. Both viruses were inactivated more rapidly at 40 degrees C than at 20 degrees C. The relationship between inactivation and RH was not monotonic, and there was greater survival or a greater protective effect at low RH (20%) and high RH (80%) than at moderate RH (50%). There was also evidence of an interaction between AT and RH. The results show that when high numbers of viruses are deposited, TGEV and MHV may survive for days on surfaces at ATs and RHs typical of indoor environments. TGEV and MHV could serve as conservative surrogates for modeling exposure, the risk of transmission, and control measures for pathogenic enveloped viruses, such as SARS-CoV and influenza virus, on health care surfaces.
 
+    - quotes
+      !a
+      !b
+      !c
+      !d
 
     / April, 2010 - American Society for Microbiology Journals
-    quote !a =
+    quote !a = The results show that when high numbers of viruses are deposited, TGEV (transmissible gastroenteritis virus) and MHV (mouse hepatitis virus) may survive for days on surfaces at ATs (air temperature) and RHs (relative humidity) typical of indoor environments.
+
+    / April, 2010 - American Society for Microbiology Journals
+    quote !b = At 4 degrees C, infectious virus persisted for as long as 28 days, and the lowest level of inactivation occurred at 20% RH.
+
+    / April, 2010 - American Society for Microbiology Journals
+    quote !c = Inactivation was more rapid at 20°C than at 4°C at all humidity levels; the viruses persisted for 5 to 28 days, and the slowest inactivation occurred at low RH.
+
+    / April, 2010 - American Society for Microbiology Journals
+    quote !d = The relationship between inactivation and RH was not monotonic, and there was greater survival or a greater protective effect at low RH (20%) and high RH (80%) than at moderate RH (50%).
+
+
 
   # Hydroxychloroquine
   // Pharmacokinetics of hydroxychloroquine and its clinical implications in chemoprophylaxis against malaria caused by Plasmodium vivax

@@ -305,7 +305,7 @@ feed April2020
   // Airborne route and bad use of ventilation systems as non-negligible factors in SARS-CoV-2 transmission
   doi: https://doi.org/10.1016/j.mehy.2020.109781
   ref 'Correia_et_al_04_25_2020
-    head = The authors address HVAC (Heating, Ventilation and Air Conditioning Systems) as major source for indoor and environmental contamination that can explain the swift viral spread. The confirmation of such way of transmission can constitute a major shift in the battle against the pandemic.
+    head = The authors reviewed the possible impact of Heating, Ventilation and Air Conditioning Systems (HVAC) in buildings, such as hospitals or other healthcare facilities, as contributors for the spread of the virus.
 
     > Abstract
       The world is facing a pandemic of unseen proportions caused by a corona virus named SARS-CoV-2 with unprecedent worldwide measures being taken to tackle its contagion. Person-to-person transmission is accepted but WHO only considers aerosol transmission when procedures or support treatments that produce aerosol are performed. Transmission mechanisms are not fully understood and there is evidence for an airborne route to be considered, as the virus remains viable in aerosols for at least 3 h and that mask usage was the best intervention to prevent infection.
@@ -317,7 +317,9 @@ feed April2020
       !a
 
     / April, 2020 - Medical Hypotheses
-    quote !a =
+    quote !a = The authors address HVAC (Heating, Ventilation and Air Conditioning Systems) as major source for indoor and environmental contamination that can explain the swift viral spread. The confirmation of such way of transmission can constitute a major shift in the battle against the pandemic.
+
+
 
   # Modes - Mobile Phones
   // Mobile phones represent a pathway for microbial transmission: A scoping review
@@ -433,14 +435,17 @@ feed April2020
   // Connecting clusters of COVID-19: an epidemiological and serological investigation
   doi: https://doi.org/10.1016/S1473-3099(20)30273-5
   ref 'Yong_et_al_04_21_2020
-    head =  SARS-CoV-2 serological analysis, in addition to use of traditional epidemiological methods, was important in establishing links among locally transmitted COVID-19 cases and tracing the transmission chain to an imported source.
+    head = We describe an epidemiological investigation that, with use of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) serological assays, established links between three clusters of COVID-19 and  traced the transmission chain to an imported source.
 
     > Background
       Elucidation of the chain of disease transmission and identification of the source of coronavirus disease 2019 (COVID-19) infections are crucial for effective disease containment. We describe an epidemiological investigation that, with use of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) serological assays, established links between three clusters of COVID-19.
+
     > Methods
       In Singapore, active case-finding and contact tracing were undertaken for all COVID-19 cases. Diagnosis for acute disease was confirmed with RT-PCR testing. When epidemiological information suggested that people might have been nodes of disease transmission but had recovered from illness, SARS-CoV-2 IgG serology testing was used to establish past infection.
+
     > Findings
       Three clusters of COVID-19, comprising 28 locally transmitted cases, were identified in Singapore; these clusters were from two churches (Church A and Church B) and a family gathering. The clusters in Church A and Church B were linked by an individual from Church A (A2), who transmitted SARS-CoV-2 infection to the primary case from Church B (F1) at a family gathering they both attended on Jan 25, 2020. All cases were confirmed by RT-PCR testing because they had active disease, except for A2, who at the time of testing had recovered from their illness and tested negative. This individual was eventually diagnosed with past infection by serological testing. ELISA assays showed an optical density of more than 1·4 for SARS-CoV-2 nucleoprotein and receptor binding domain antigens in titres up to 1/400, and viral neutralisation was noted in titres up to 1/320.
+
     > Interpretation
       Development and application of a serological assay has helped to establish connections between COVID-19 clusters in Singapore. Serological testing can have a crucial role in identifying convalescent cases or people with milder disease who might have been missed by other surveillance methods.
 
@@ -453,6 +458,8 @@ feed April2020
 
     / April, 2020 - The Lancet
     quote !b = Our findings suggest that COVID-19 is largely transmitted by close contact, particularly when contact occurs over a prolonged period and in close congregation.
+
+
 
   # Asymptomatic Tranmission , Children Tranmission
   // Cluster of Coronavirus Disease 2019 (COVID-19) in the French Alps, February 2020
@@ -948,7 +955,7 @@ feed April2020
   // No Evidence for Temperature-Dependence of the COVID-19 Epidemic
   doi: https://doi.org/10.1101/2020.03.29.20046706
   ref 'Jamil_et_al_04_19_2020
-    head = Our results show that there is no evidence that spread rates decline with temperatures above 20 degrees Celcius. This suggests that the COVID-19 disease is unlikely to behave as a seasonal respiratory virus.
+    head = The pandemic of the COVID-19 disease extended from China across the north-temperate zone, and more recently to the tropics and southern hemisphere. Our results show that there is no evidence that spread rates decline with temperatures above 20 degrees Celcius. This suggests that the COVID-19 disease is unlikely to behave as a seasonal respiratory virus.
 
     > Abstract
       The pandemic of the COVID-19 disease extended from China across the north-temperate zone, and more recently to the tropics and southern hemisphere. We find no evidence that spread rates decline with temperatures above 20 oC, suggesting that the COVID-19 disease is unlikely to behave as a seasonal respiratory virus.
@@ -973,14 +980,21 @@ feed April2020
   // Climate affects global patterns of COVID-19 early outbreak dynamics
   doi: https://doi.org/10.1101/2020.03.23.20040501
   ref 'Ficetola_et_al_04_20_2020
-    head = The strong relationship between local climate and Covid-19 growth rates suggests the possibility of seasonal variation in the spatial pattern of outbreaks, with temperate regions of the Southern Hemisphere becoming at particular risk of severe outbreaks during the austral autumn-winter. Nevertheless, in the absence of containment actions, growth rates can be substantial even in warm climates.
+    head = We assessed the impact of temperature and humidity on the global patterns of Covid-19 early outbreak dynamics during January-March 2020.
 
     > Abstract
       Environmental factors, including seasonal climatic variability, can strongly impact on spatio-temporal patterns of infectious disease outbreaks, but relationships between Covid-19 dynamics and climate remain controversial. We assessed the impact of temperature and humidity on the global patterns of Covid-19 early outbreak dynamics during January-March 2020. Here we show that Covid-19 growth rates peaked in temperate regions of the Northern Hemisphere with mean temperature of ~5 C, and specific humidity of 4-6 g/m3 during the outbreak period, while they were lower both in warmer/wetter and colder/dryer regions. Relationships between Covid-19 and climate were robust to the potential confounding effects of air pollution and socio-economic variables, including population size, density and health expenditure. The strong relationship between local climate and Covid-19 growth rates suggests the possibility of seasonal variation in the spatial pattern of outbreaks, with temperate regions of the Southern Hemisphere becoming at particular risk of severe outbreaks during the austral autumn-winter.
 
     - quotes
+      !c
+      !b
       !a
 
+    / April, 2020 - MedRxiv
+    quote !b = Temperature and humidity strongly impact the variation of the growth rate of Covid-19 cases   across the globe. The strong relationship between local climate and Covid-19 growth rates suggests the possibility of seasonal variation in the spatial pattern of outbreaks, with temperate regions of the Southern Hemisphere becoming at particular risk of severe outbreaks during the austral autumn-winter. Nevertheless, in the absence of containment actions, growth rates can be substantial even in warm climates.
+
+    / April, 2020 - MedRxiv
+    quote !c = We show that Covid-19 growth rates peaked in temperate regions of the Northern Hemisphere with mean temperature of ~5°C, and specific humidity of 4-6 g/m3 during the outbreak period, while they were lower both in warmer/wetter and colder/dryer regions.
 
     / April, 2020 - MedRxiv
     quote !a = Relationships between Covid-19 and climate were robust to the potential confounding effects of air pollution and socio-economic variables, including population size, density and health expenditure.
@@ -2710,7 +2724,7 @@ feed April2020
     quote !a = On the first survey, which was conducted around the time the town lockdown started, we found a prevalence of infection of 2.6% (95% confidence interval (CI) 2.1-3.3%). On the second survey, which was conducted at the end of the lockdown, we found a prevalence of 1.2% (95% CI 0.8-1.8%).
 
     / April, 2020 - MedRxiv
-    quote !b = 42.5% of all confirmed SARS-CoV-2 infections across the two surveys were asymptomatic. 
+    quote !b = 42.5% of all confirmed SARS-CoV-2 infections across the two surveys were asymptomatic.
 
     / April, 2020 - MedRxiv
     quote !c = Among confirmed SARS-CoV-2 infections, we did not observe significant differences in the frequency of asymptomatic infection in the different age groups.
@@ -3503,25 +3517,27 @@ feed April2020
   // Temperature dependence of COVID-19 transmission
   doi: https://doi.org/10.1101/2020.03.26.20044529
   ref 'Notari_et_al_2020
-    head = Our findings give hope that, for northern hemisphere countries, the growth rate should significantly decrease as a result of both warmer weather and lockdown policies. In general the propagation should be hopefully stopped by strong lockdown, testing and tracking policies, before the arrival of the next cold season.
+    head = We have collected data for countries that had at least 12 days of data after a starting point, which we fixed to be at the threshold of 30 confirmed cases. We considered three datates: a base dataset with 42 countries, collected on March 26th, an intermediate dataset with a total of 88 countries, collected on April 1st, and an extended dataset with a total of 125 countries, collected on April 14th.
 
     - quotes
       !a
-      !b
-      !c
-      !d
 
     / April, 2020 - medRxiv
-    quote !a = For base dataset (42 countries) we have shown that the growth rate of the transmission of the COVID-19 has a decreasing trend, as a function of T, at 99.66% C.L. (p-value 0.0034). In this fit R2 = 0.196. In addition, using a quadratic fit, we have shown that a peak of maximal transmission seems to be present in this dataset at around (7.7 ± 3.6)◦C.
+    quote !a = Our findings show that, for northern hemisphere countries, the growth rate should significantly decrease as a result of both warmer weather and lockdown policies.
 
-    / April, 2020 - medRxiv
-    quote !b = For the extended dataset (all 88 countries) we also found a decreasing slope β. This is smaller in absolute value, but the significance remains high, since a zero slope is excluded at 99.86% C.L. (p-value 0.0014). For this fit we found R2 = 0.11.
+    # / April, 2020 - medRxiv
+    # quote !a = For base dataset (42 countries) we have shown that the growth rate of the transmission of the COVID-19 has a decreasing trend, as a function of T, at 99.66% C.L. (p-value 0.0034). In this fit R2 = 0.196. In addition, using a quadratic fit, we have shown that a peak of maximal transmission seems to be present in this dataset at around (7.7 ± 3.6)◦C.
+    #
+    # / April, 2020 - medRxiv
+    # quote !b = For the extended dataset (all 88 countries) we also found a decreasing slope β. This is smaller in absolute value, but the significance remains high, since a zero slope is excluded at 99.86% C.L. (p-value 0.0014). For this fit we found R2 = 0.11.
 
-    / April, 2020 - medRxiv
-    quote !c = The decrease at high temperatures is expected, since the same happens also for other coronaviruses. It is unclear instead how to interpret the decrease at low temperature (less than 8◦C),present in the base dataset. This could be a statistical fluctuation, since it is not present in the extended dataset. One possible reason for this decrease, if real, could be the lower degree of interaction among people in countries with very low temperatures, which could slow down the propagation of the virus.
+    # / April, 2020 - medRxiv
+    # quote !c = The decrease at high temperatures is expected, since the same happens also for other coronaviruses. It is unclear instead how to interpret the decrease at low temperature (less than 8◦C),present in the base dataset. This could be a statistical fluctuation, since it is not present in the extended dataset. One possible reason for this decrease, if real, could be the lower degree of interaction among people in countries with very low temperatures, which could slow down the propagation of the virus.
 
-    / April, 2020 - medRxiv
-    quote !d = A general observation is also that a large scatter in the residual data is present, clearly due to many other systematic factors, such as variations in the methods and resources used for collecting data and variations in the amount of social interactions, due to cultural reasons. It is also possible that variations in resources bias the testing procedure (i.e. poorer countries have less intense testing), which might be partially degenerate with effects of temperature. Further study would be required to assess such factors
+    # / April, 2020 - medRxiv
+    # quote !d = A general observation is also that a large scatter in the residual data is present, clearly due to many other systematic factors, such as variations in the methods and resources used for collecting data and variations in the amount of social interactions, due to cultural reasons. It is also possible that variations in resources bias the testing procedure (i.e. poorer countries have less intense testing), which might be partially degenerate with effects of temperature. Further study would be required to assess such factors
+
+
 
 
   # Symptom Smell, Loss of smell, hyposmia

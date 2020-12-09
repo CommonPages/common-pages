@@ -425,9 +425,8 @@ feed August2020
   # Ventilation - Air conditioning system - Public Policy
   // Air conditioning system usage and SARS-CoV-2 transmission dynamics in Iran
   doi: https://dx.doi.org/10.1016%2Fj.mehy.2020.110164
-  ref 'Xiao_et_al_08_05_2020
+  ref 'RezaPourkarim_et_al_08_03_2020
     head = Cooling systems could contribute to the spread of SARS-CoV-2 in Iran. Besides creating air circulation in closed environments, these systems also reduce air humidity, which promotes the spread of virus-laden micro-droplets. We urgently advise health policy makers to regard the role of ventilation systems in the guidelines for controlling the epidemic.
-
 
     / August, 2020 - Med Hypotheses
     quote !a =

@@ -256,6 +256,25 @@
   # Everything below in this section is not updated claims.
   #########################################################################################
     #12/20
+
+
+    #### 12/8 ##
+
+    # Is airborne transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) a potential means of spreading coronavirus disease 2019 (COVID-19)?
+    #
+    #
+    # Growing evidence supports a view that inhaling respiratory aerosol is an important route for transmission of SARS-CoV-2 under certain conditions.
+
+
+    # Claim : Multiple reports have documented events involving superspreading of COVID-19 (2–5); however, few have documented a community-based point-source exposure (5). This cluster of 52 secondary cases of COVID-19 presents a unique opportunity for understanding SARS-CoV-2 transmission following a likely point-source exposure event.
+    # -
+    #   'Hamner_et_al_2020
+    #   'Guenther_et_al_07_23_2020
+    #   'Miller_et_al_06_18_2020
+    #   'Miller_et_al_06_18_2020.!b
+
+
+
     ### 12/6 #####
 
     # Asymptomatic trasmission - check the dates with Ayush
@@ -263,17 +282,9 @@
     #-
      # Estimating the Extent of True Asymptomatic COVID-19 and Its Potential for Community Transmission: Systematic Review and Meta-Analysis
      # 'Nogrady_et_al_11_23_2020
-
-    # Byambasuren’s review also found that asymptomatic individuals were 42% less likely to transmit the virus than symptomatic people
-    # As part of a large population study in Geneva, Switzerland, researchers modelled viral spread among people living together. In a manuscript posted on medRxiv this month2, they report that the risk of an asymptomatic person passing the virus to others in their home is about one-quarter of the risk of transmission from a symptomatic person.
-    # Asymptomatic infections are far less likely to transmit than symptomatic ones but do cause infections.
-    #-
-      # 'Bi_et_al_11_04_2020
-      # 'Bi_et_al_11_04_2020.!b
-      # 'Nogrady_et_al_11_23_2020
+    # 'Nogrady_et_al_11_23_2020.!a
 
 
-    # But other researchers disagree about the extent to which asymptomatic infections are contributing to community transmission. If the studies are correct in finding that asymptomatic people are a low transmission risk, “these people are not the secret drivers of this pandemic”, says Byambasuren. They “are not coughing or sneezing as much, they’re probably not contaminating as much surfaces as other people”.
 
     #  Viral dynamics
     # To understand what is happening in people with no symptoms, Cevik and colleagues conducted a systematic review and meta-analysis3 of 79 studies on the viral dynamics and transmissibility of SARS-CoV-2, which is posted on social-sciences preprint server SSRN. Some studies showed that those without symptoms had similar initial viral loads — the number of viral particles present in a throat swab — when compared with people with symptoms.But asymptomatic people seem to clear the virus faster and are infectious for a shorter period.

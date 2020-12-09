@@ -103,16 +103,22 @@ feed 2019
   // Humidity-Dependent Decay of Viruses, but Not Bacteria, in Aerosols and Droplets Follows Disinfection Kinetics
   doi: https://doi.org/10.1021/acs.est.9b04959
   ref 'Lin_et_al_12_30_2019
-    head = Our results show that the viability of bacteria and viruses in suspended aerosols and droplets is RH (Relative Humidity) dependent, varying by over 3 orders of magnitude for bacteria and up to 2 orders of magnitude for viruses. These results suggest that environmental conditions have the potential to influence transmission of certain pathogens by affecting their viability while they are transmitting between hosts.
+    head = We investigated the effects of RH on the viability of bacteria and viruses in both suspended aerosols and stationary droplets using traditional culture-based approaches.
 
     > Abstract
       The transmission of some infectious diseases requires that pathogens can survive (i.e., remain infectious) in the environment, outside the host. Relative humidity (RH) is known to affect the survival of some microorganisms in the environment; however, the mechanism underlying the relationship has not been explained, particularly for viruses. We investigated the effects of RH on the viability of bacteria and viruses in both suspended aerosols and stationary droplets using traditional culture-based approaches. Results showed that viability of bacteria generally decreased with decreasing RH. Viruses survived well at RHs lower than 33% and at 100%, whereas their viability was reduced at intermediate RHs. We then explored the evaporation rate of droplets consisting of culture media and the resulting changes in solute concentrations over time; as water evaporates from the droplets, solutes such as sodium chloride in the media become more concentrated. Based on the results, we suggest that inactivation of bacteria is influenced by osmotic pressure resulting from elevated concentrations of salts as droplets evaporate. We propose that the inactivation of viruses is governed by the cumulative dose of solutes or the product of concentration and time, as in disinfection kinetics. These findings emphasize that evaporation kinetics play a role in modulating the survival of microorganisms in droplets.
 
     - quotes
       !a
+      !b
 
     / Dec, 2019 - Environ. Sci. Technol
-    quote !a = While bacteria survived better at humid conditions than dry conditions, viruses survived best at both low and extremely high RHs while experiencing greater decay at intermediate RHs. The difference in viability patterns suggests that different mechanisms may dominate the humidity-dependent decay of bacteria and viruses.
+    quote !a = Our results show that the viability of bacteria and viruses in suspended aerosols and droplets is RH (Relative Humidity) dependent, varying by over 3 orders of magnitude for bacteria and up to 2 orders of magnitude for viruses. These results suggest that environmental conditions have the potential to influence transmission of certain pathogens by affecting their viability while they are transmitting between hosts.
+
+    / Dec, 2019 - Environ. Sci. Technol
+    quote !b = While bacteria survived better at humid conditions than dry conditions, viruses survived best at both low and extremely high RHs while experiencing greater decay at intermediate RHs. The difference in viability patterns suggests that different mechanisms may dominate the humidity-dependent decay of bacteria and viruses.
+
+
 
 
   # Entry - Antibody - Frontiers

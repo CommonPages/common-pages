@@ -467,22 +467,31 @@ feed May2020
   // Is there an airborne component to the transmission of COVID-19? : a quantitative analysis study
   doi: https://doi.org/10.1101/2020.05.22.20109991
   ref 'Beggs_et_al_05_26_2020
-    head = Those sharing enclosed spaces with infectors for long periods may be at risk of contracting COVID-19 by the aerosol route, even when practicing social distancing.
+    head = In order to quantify the risk posed by COVID-19 infectors exhaling respiratory aerosols in enclosed spaces, we undertook a computer modelling study to simulate transmission in an office building.
 
     > Objectives
       While COVID-19 is known to be spread by respiratory droplets (which travel <2m horizontally), much less is known about its transmission via aerosols, which can become airborne and widely distributed throughout room spaces. In order to quantify the risk posed by COVID-19 infectors exhaling respiratory aerosols in enclosed spaces, we undertook a computer modelling study to simulate transmission in an office building.
+
     >  Methods
       Respiratory droplet data from four published datasets were analysed to quantify the number and volume of droplets <100μm diameter produced by a typical cough and speaking event (i.e. counting from 1 to 100). This was used in a stochastic model to simulate (10000 simulations) the number of respiratory particles, originating from a COVID-19 infector, that would be inhaled in one hour by a susceptible individual practicing socially distancing in a 4 x 4 x 2.5m office space. Several scenarios were simulated that mimicked the presence of both symptomatic and asymptomatic COVID-19 infectors.
+
     >  Results
       On average, each cough and speaking event produced similar numbers of droplets <100μm diameter (median range = 971.9-1013.4). Computer simulations (ventilation rate=2AC/h) revealed that sharing the office space with a symptomatic COVID-19 infector (4 coughs and 10 speaking events per hour) for one hour resulted in the inhalation of 16.9 (25-75th range = 8.1-33.9) aerosolised respiratory droplets, equating to about 280-1190 particles inhaled over a 35-hour working week. Sharing with an asymptomatic infector (10 speaking events per hour) resulted in the about 196-875 particles inhaled over 35 hours.
+
     > Conclusions
       Given that live SARS-CoV-2 virions are known to be shed in high concentrations from the nasal cavity of both symptomatic and asymptomatic COVID-19 patients, the results suggest that those sharing enclosed spaces with infectors for long periods may be at risk of contracting COVID-19 by the aerosol route, even when practicing social distancing.
 
     - quotes
       !a
+      !b
 
     / May, 2020 - medRxiv
-    quote !a =
+    quote !a = Those sharing enclosed spaces with infectors for long periods may be at risk of contracting COVID-19 by the aerosol route, even when practicing social distancing.
+
+    / May, 2020 - medRxiv
+    quote !b = Our study suggests that the aerial dissemination of small aerosol particles containing SARS-CoV-2 virions is probably a feature of COVID-19. These particles can be suspended in air for considerable periods of time and thus can be widely dispersed.
+
+
 
   # Surface Viability
   // Environmental sampling for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during a coronavirus disease (COVID-19) outbreak aboard a commercial cruise ship
@@ -538,10 +547,13 @@ feed May2020
 
     > Objective
       To estimate the infection rate of close contacts of COVID-19 cases, and to evaluate the risk of COVID-19 under different exposure conditions.
+
     > Methods
       A prospective study was used to conduct continuous quarantine medical observations of close contacts of people infected with COVID-19, collect epidemiological, clinical manifestations, and laboratory test data to estimate the infection rate of close contacts under different exposures.
+
     > Results
       The epidemiological curve of COVID-19 in Ningbo showed persistent human-to-human characteristics. A total of 2 147 close contacts were tracked and investigated. The total infection rate was 6.15%. The infection rates of confirmed cases and positive contacts were 6.30% and 4.11%, respectively. The difference was not statistically significant (P>0.05). Among close contacts of different relationships, friends/pilgrims (22.31%), family members (18.01%), and relatives (4.73%) have a higher infection rate, and close contacts of medical staff were not infected. Differences in infection rates among the close contacts were statistically significant (P<0.005). Living with the case (13.26%), taking the same transportation (11.91%), and dining together (7.18%) are high risk factors for infection. Cross-infection in the hospital should not be ignored (1.94%). The median of incubation period is 5 days.
+
     > Conclusion
       The infection rate of close contacts of COVID-19 cases is high, and isolation medical observation measures should be implemented in strict accordance with the close contact management plan.
 
@@ -4366,39 +4378,29 @@ feed May2020
   ref 'Hamner_et_al_2020
     head = Following a 2.5-hour choir practice attended by 61 persons, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet) during practice and augmented by the act of singing.
 
-    - quotes
-      !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !a = This cluster of 52 secondary cases of COVID-19 presents a unique opportunity for understanding SARS-CoV-2 transmission following a likely point-source exposure event. The index patient developed symptoms on March 7, which could have placed the patient within this infectious period during the March 10 practice. Choir members who developed symptoms on March 11 (three) and March 12 (seven) attended both the March 3 and March 10 practices and thus could have been infected earlier and might have been infectious in the 2 days preceding symptom onset (i.e., as early as March 9).
 
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !a = This cluster of 52 secondary cases of COVID-19 presents a unique opportunity for understanding SARS-CoV-2 transmission following a likely point-source exposure event.The index patient developed symptoms on March 7, which could have placed the patient within this infectious period during the March 10 practice. Choir members who developed symptoms on March 11 (three) and March 12 (seven) attended both the March 3 and March 10 practices and thus could have been infected earlier and might have been infectious in the 2 days preceding symptom onset (i.e., as early as March 9).
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !b = Among the 61 choir members who attended the March 10 practice, the median age was 69 years (range = 31–83 years); 84% were women. Median age of those who became ill was 69 years, and 85% of cases occurred in women. Excluding the laboratory-confirmed index patient, 52 (86.7%) of 60 attendees became ill; 32 (61.5%) of these cases were confirmed by RT-PCR testing and 20 (38.5%) persons were considered to have probable infections.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !c = The attack rate in this group (53.3% and 86.7% among confirmed cases and all cases, respectively) was higher than that seen in other clusters, and the March 10 practice could be considered a superspreading event. The median incubation period of COVID-19 is estimated to be 5.1 days. The median interval from exposure during the March 10 practice to onset of illness was 3 days, indicating a more rapid onset. Attendees developed symptoms 1 to 12 days after the practice (median = 3 days). The first SARS-CoV-2 test was performed on March 13. The last person was tested on March 26.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !d = Choir practice attendees had multiple opportunities for droplet transmission from close contact or fomite transmission, and the act of singing itself might have contributed to SARS-CoV-2 transmission. Aerosol emission during speech has been correlated with loudness of vocalization, and certain persons, who release an order of magnitude more particles than their peers, have been referred to as superemitters and have been hypothesized to contribute to superspeading events. Members had an intense and prolonged exposure, singing while sitting 6–10 inches from one another, possibly emitting aerosols.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !e = The 19 choir members classified as having probable cases did not seek testing to confirm their illness. One person classified as having probable COVID-19 did seek testing 10 days after symptom onset and received a negative test result. It is possible that persons designated as having probable cases had another illness.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !f = Three of the 53 patients were hospitalized (5.7%), including two who died (3.8%). The mean interval from illness onset to hospitalization was 12 days. The intervals from onset to death were 14 and 15 days for the two patients who died.
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !g = SCPH collected information about patient signs and symptoms from patient interviews and hospital records. Among persons with confirmed infections, the most common signs and symptoms reported at illness onset and at any time during the course of illness were cough (54.5% and 90.9%, respectively), fever (45.5%, 75.8%), myalgia (27.3%, 75.0%), and headache (21.2%, 60.6%). Several patients later developed gastrointestinal symptoms, including diarrhea (18.8%), nausea (9.4%), and abdominal cramps or pain (6.3%). One person experienced only loss of smell and taste. The most severe complications reported were viral pneumonia (18.2%) and severe hypoxemic respiratory failure (9.1%).
-
-    / May, 2020 - Morbidity and Mortality Weekly Report
-    quote !h = Among the recognized risk factors for severe illness, the most common was age, with 75.5% of patients aged ≥65 years. Most patients (67.9%) did not report any underlying medical conditions, 9.4% had one underlying medical condition, and 22.6% had two or more underlying medical conditions. All three hospitalized patients had two or more underlying medical conditions.
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !b = Among the 61 choir members who attended the March 10 practice, the median age was 69 years (range = 31–83 years); 84% were women. Median age of those who became ill was 69 years, and 85% of cases occurred in women. Excluding the laboratory-confirmed index patient, 52 (86.7%) of 60 attendees became ill; 32 (61.5%) of these cases were confirmed by RT-PCR testing and 20 (38.5%) persons were considered to have probable infections.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !c = The attack rate in this group (53.3% and 86.7% among confirmed cases and all cases, respectively) was higher than that seen in other clusters, and the March 10 practice could be considered a superspreading event. The median incubation period of COVID-19 is estimated to be 5.1 days. The median interval from exposure during the March 10 practice to onset of illness was 3 days, indicating a more rapid onset. Attendees developed symptoms 1 to 12 days after the practice (median = 3 days). The first SARS-CoV-2 test was performed on March 13. The last person was tested on March 26.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !d = Choir practice attendees had multiple opportunities for droplet transmission from close contact or fomite transmission, and the act of singing itself might have contributed to SARS-CoV-2 transmission. Aerosol emission during speech has been correlated with loudness of vocalization, and certain persons, who release an order of magnitude more particles than their peers, have been referred to as superemitters and have been hypothesized to contribute to superspeading events. Members had an intense and prolonged exposure, singing while sitting 6–10 inches from one another, possibly emitting aerosols.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !e = The 19 choir members classified as having probable cases did not seek testing to confirm their illness. One person classified as having probable COVID-19 did seek testing 10 days after symptom onset and received a negative test result. It is possible that persons designated as having probable cases had another illness.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !f = Three of the 53 patients were hospitalized (5.7%), including two who died (3.8%). The mean interval from illness onset to hospitalization was 12 days. The intervals from onset to death were 14 and 15 days for the two patients who died.
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !g = SCPH collected information about patient signs and symptoms from patient interviews and hospital records. Among persons with confirmed infections, the most common signs and symptoms reported at illness onset and at any time during the course of illness were cough (54.5% and 90.9%, respectively), fever (45.5%, 75.8%), myalgia (27.3%, 75.0%), and headache (21.2%, 60.6%). Several patients later developed gastrointestinal symptoms, including diarrhea (18.8%), nausea (9.4%), and abdominal cramps or pain (6.3%). One person experienced only loss of smell and taste. The most severe complications reported were viral pneumonia (18.2%) and severe hypoxemic respiratory failure (9.1%).
+    #
+    # / May, 2020 - Morbidity and Mortality Weekly Report
+    # quote !h = Among the recognized risk factors for severe illness, the most common was age, with 75.5% of patients aged ≥65 years. Most patients (67.9%) did not report any underlying medical conditions, 9.4% had one underlying medical condition, and 22.6% had two or more underlying medical conditions. All three hospitalized patients had two or more underlying medical conditions.
 
 
 
@@ -4558,15 +4560,17 @@ feed May2020
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://doi.org/10.3201/eid2607.200764
   ref 'Lu_et_al_2020
-    head = We conclude that in this outbreak, droplet transmission was prompted by air-conditioned ventilation. The key factor for infection was the direction of the airflow.
+    head = During January 26–February 10, 2020, an outbreak of 2019 novel coronavirus disease in an air-conditioned restaurant in Guangzhou, China, involved 3 family clusters.
 
     > Abstract
       During January 26–February 10, 2020, an outbreak of 2019 novel coronavirus disease in an air-conditioned restaurant in Guangzhou, China, involved 3 family clusters. The airflow direction was consistent with droplet transmission. To prevent the spread of the virus in restaurants, we recommend increasing the distance between tables and improving ventilation.
 
+    - quotes
+     !a
 
     # scheduled for july release
-    # / May, 2020 - Emerging Infect Dis.
-    # quote !a =
+    / May, 2020 - Emerging Infect Dis.
+    quote !a = We conclude that in this outbreak, droplet transmission was prompted by air-conditioned ventilation. The key factor for infection was the direction of the airflow.
 
 
   # herd immunity, herd immunity model, pandemic control,heterogenity in host susceptibility

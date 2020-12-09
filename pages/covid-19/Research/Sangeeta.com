@@ -76,31 +76,52 @@ feed Sangeeta
 
 
   #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  // Low risk of transmission of severe acute respiratory syndrome on airplanes: the Singapore experience
+  doi: https://doi.org/10.1046/j.1360-2276.2003.01133.x
+  ref 'Wilder-Smith_et_al_10_22_2003
+    head = We examined data from flights to Singapore with SARS patients on board in order to assess this risk.
+
+    > Summary
+      The risk of transmission of severe acute respiratory syndrome (SARS) on airplanes is of major concern to the public and airline industry. We examined data from flights to Singapore with SARS patients on board in order to assess this risk. In‐flight transmission occurred only in one of the three flights with symptomatic SARS patients on board. The incidence was estimated to be 1 out of 156 passengers. The risk of in‐flight transmission of SARS appears to be far lower than that reported for influenza, but may be increased with superspreaders on board.
 
     - quotes
       !a
+      !b
 
-    / February, 2020 - bioRxiv
-    quote !a =
+    / October, 2003 - Tropical Medicine and International Health
+    quote !a = The risk of in‐flight transmission of SARS appears to be far lower than that reported for influenza, but may be increased with superspreaders on board.
+
+    / October, 2003 - Tropical Medicine and International Health
+    quote !b = In‐flight transmission occurred only in one of the three flights with symptomatic SARS patients on board. The incidence was estimated to be 1 out of 156 passengers.
 
 
 
 
   #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  // A one-dimensional analytical model for airborne contaminant transport in airliner cabins
+  doi: https://doi.org/10.1111/j.1600-0668.2008.00553.x
+  ref 'Mazumdar_et_al_05_29_2008
+    head = This paper presents a one-dimensional analytical model to predict longitudinal transport of airborne contaminants inside an airliner cabin. It analyzes different scenarios of contaminant transport in an airliner cabin with 30 rows of all-economy-class seats with uniform inlet flow conditions.
 
     - quotes
       !a
+      !b
+      !c
+      !d
 
-    / February, 2020 - bioRxiv
-    quote !a =
+    / May, 2008 - Indoor Air
+    quote !a =  When the HEPA filter efficiency is 94%, the contaminant concentration could only be reduced by three orders of magnitude from its peak. With a 99.9% efficient filter, the reduction is five orders of magnitude. Further increase of the filter efficiency is not very effective.
+
+    / May, 2008 - Indoor Air
+    quote !b = A contaminant released near cabin ends would contaminate only half of the passengers compared with a release near the middle.
+
+    / May, 2008 - Indoor Air
+    quote !c = If a contaminant is released in the cabin for 5 min, the peak contaminant concentration reduced by two orders of magnitude every 10 min.
+
+    / May, 2008 - Indoor Air
+    quote !d = The decay of contaminant concentration with a source in the middle of the cabin to either end is of six orders of magnitude. Conceivably for other cabins, this result would be different.
+
+
 
 
   #
@@ -1305,7 +1326,7 @@ feed Sangeeta
     / November, 2020 - The Lancet Microbe
     quote !e = Findings highlight that isolation practices should be commenced with the start of first symptoms, including mild and atypical symptoms that precede more typical COVID-19 symptoms.
 
-    
+
 
   #
   // The relative transmissibility of asymptomatic COVID-19 infections among close contacts
@@ -3794,7 +3815,7 @@ feed Sangeeta
   // Community Outbreak Investigation of SARS-CoV-2 Transmission Among Bus Riders in Eastern China
   doi: https://doi.org/10.1001/jamainternmed.2020.5225
   ref 'Shen_et_al_09_01_2020
-    head = In this cohort study of 128 individuals who rode 1 of 2 buses and attended a worship event, those who rode a bus with air recirculation and with a patient with COVID-19 had an increased risk of SARS-CoV-2 infection compared with those who rode a different bus. Airborne spread of SARS-CoV-2 seems likely to have contributed to the high attack rate in the exposed bus. Future efforts at prevention and control must consider the potential for airborne spread of the virus.
+    head = In this cohort study of 128 individuals who rode 1 of 2 buses and attended a worship event, those who rode a bus with air recirculation and with a patient with COVID-19 had an increased risk of SARS-CoV-2 infection compared with those who rode a different bus.
 
     > Importance
       Evidence of whether severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19), can be transmitted as an aerosol (ie, airborne) has substantial public health implications.
@@ -3816,14 +3837,20 @@ feed Sangeeta
 
 
     - quotes
-      !a
-      !b
+      !c
+      !d
+
+    #/ September, 2020 - JAMA Intern Med.
+    # quote !a = Passengers sitting closer to the index patient on the exposed bus did not have statistically higher risks of COVID-19 as those sitting further away. If COVID-19 transmission occurred solely through close contact or respiratory droplets during this outbreak, the risk of COVID-19 would likely be associated with distance from the index patient, and high-risk zones on the bus would have more infected cases.
+
+    # / September, 2020 - JAMA Intern Med.
+    # quote !b = These data suggest that forced, circulating air might play an important role in airborne spread of the virus, and gatherings in enclosed settings with minimal air ventilation should be limited.
 
     / September, 2020 - JAMA Intern Med.
-    quote !a = Passengers sitting closer to the index patient on the exposed bus did not have statistically higher risks of COVID-19 as those sitting further away. If COVID-19 transmission occurred solely through close contact or respiratory droplets during this outbreak, the risk of COVID-19 would likely be associated with distance from the index patient, and high-risk zones on the bus would have more infected cases.
+    quote !c = The investigations suggest that, in closed environments with air recirculation, SARS-CoV-2 is a highly transmissible pathogen.
 
     / September, 2020 - JAMA Intern Med.
-    quote !b = These data suggest that forced, circulating air might play an important role in airborne spread of the virus, and gatherings in enclosed settings with minimal air ventilation should be limited
+    quote !d = Airborne spread of SARS-CoV-2 seems likely to have contributed to the high attack rate in the exposed bus.
 
 
 
@@ -3966,8 +3993,7 @@ feed Sangeeta
   // Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant
   doi: https://doi.org/10.1101/2020.04.16.20067728
   ref 'Li_et_al_04_22_2020
-    head = We analysed an outbreak involving three non-associated families in Restaurant X in Guangzhou, China. Our results support the probability of an extended short-range aerosol spread of the SARSCoV-2 having occurred in the poorly ventilated and crowded Restaurant.
-
+    head = We analysed an outbreak involving three non-associated families in Restaurant X in Guangzhou, China, and assessed the possibility of aerosol transmission of SARS-CoV-2 and characterize the associated environmental conditions.
 
     > Background
       The role of aerosols in the transmission of SARS-CoV-2 remains debated. We analysed an outbreak involving three non-associated families in Restaurant X in Guangzhou, China, and assessed the possibility of aerosol transmission of SARS-CoV-2 and characterize the associated environmental conditions.
@@ -3981,9 +4007,11 @@ feed Sangeeta
     > Conclusions
       Aerosol transmission of SARS-CoV-2 due to poor ventilation may explain the community spread of COVID-19.
 
+    - quotes
+      !a
 
     / April, 2020 - medRxiv
-    quote !a =
+    quote !a = Our results support the probability of an extended short-range aerosol spread of the SARSCoV-2 having occurred in the poorly ventilated and crowded Restaurant.
 
 
 
@@ -3991,7 +4019,7 @@ feed Sangeeta
   // Transmission routes of Covid-19 virus in the Diamond Princess Cruise ship.
   doi: https://doi.org/10.1101/2020.04.09.20059113
   ref 'Xu_et_al_04_14_2020
-    head = We infer that the ship central air conditioning system did not play a role, i.e. the long-range airborne route was absent in the outbreak. Most transmission appears to have occurred through close contact and fomites.
+    head = We analysed information about cases to infer transmission dynamics and potential modes of transmission.
 
     > Background
       An outbreak of COVID-19 occurred on the Diamond Princess cruise ship in January and February 2020. We analysed information about cases to infer transmission dynamics and potential modes of transmission.
@@ -4005,8 +4033,15 @@ feed Sangeeta
     > Conclusions
       We infer that the ship central air conditioning system did not play a role, i.e. the long-range airborne route was absent in the outbreak. Most transmission appears to have occurred through close contact and fomites.
 
+    - quotes
+      !a
+      !b
+
     / April, 2020 - medRxiv
-    quote !a =
+    quote !a = We infer that the ship central air conditioning system did not play a role, i.e. the long-range airborne route was absent in the outbreak.
+
+    / April, 2020 - medRxiv
+    quote !b = Most transmission appears to have occurred through close contact and fomites.
 
 
 
@@ -4015,7 +4050,6 @@ feed Sangeeta
   doi: https://doi.org/10.1101/2020.04.11.20061713
   ref 'Setti_et_al_04_17_2020
     head = We presented a Position Paper proposing a research hypothesis concerning the association between higher mortality rates due to COVID-19 observed in Northern Italy and the peaks of particulate matter concentrations, frequently exceeding the legal limit of 50 micrograms/m3 as PM10 daily average
-
 
     > Background
       An epidemic model based only on respiratory droplets and close contact could not fully explain the regional differences in the spread of the recent severe acute respiratory syndrome COVID-19 in Italy, which was fast and dramatic only in Lombardy and Po Valley. On March 16th 2020, we presented a Position Paper proposing a research hypothesis concerning the association between higher mortality rates due to COVID-19 observed in Northern Italy and the peaks of particulate matter concentrations, frequently exceeding the legal limit of 50 micrograms/m3 as PM10 daily average
@@ -4172,8 +4206,7 @@ feed Sangeeta
   // Investigation of a superspreading event preceding the largest meat processing plant-related SARS-Coronavirus 2 outbreak in Germany
   doi: http://dx.doi.org/10.2139/ssrn.3654517
   ref 'Guenther_et_al_07_23_2020
-    head = Results collectively point towards a superspreading event in the MPP-R beef processing plant that originated from a single employee. Our study indicates that transmission of SARS-CoV-2 can occur over distances of at least 8m in confined spaces under conditions of relatively low air exchange rates and high rates of recirculated unfiltered air. It points to the importance of air quality/flow in confined spaces to prevent future superspreading events.
-
+    head = Our results collectively point towards a superspreading event in the MPP-R beef processing plant that originated from a single employee. Our findings suggest that the facilities’ environmental conditions, including low temperature, low air exchange rates, and constant air re-circularization, together with relatively close distance between workers and demanding physical work, created an unfavorable mix of factors promoting efficient aerosol transmission of SARS-CoV-2 particles.
 
     > Background
       Here, we describe a multifactorial investigation of the events of a SARS-CoV-2 outbreak in the largest meat processing complex in Germany.
@@ -4189,9 +4222,13 @@ feed Sangeeta
 
     - quotes
       !a
+      !b
 
     / July, 2020 - SSRN
-    quote !a = In contrast to work-related exposure, shared apartments, bedrooms, or carpools appear not to have played a major role in the initial outbreak described in this study. Nevertheless, later viral transmission within shared living quarters or work rides very well may have been a confounding factor in context of the second, larger outbreak occurring one month after the first outbreak.
+    quote !a = Our study indicates that transmission of SARS-CoV-2 can occur over distances of at least 8m in confined spaces under conditions of relatively low air exchange rates and high rates of recirculated unfiltered air. It points to the importance of air quality/flow in confined spaces to prevent future superspreading events.
+
+    / July, 2020 - SSRN
+    quote !b = In contrast to work-related exposure, shared apartments, bedrooms, or carpools appear not to have played a major role in the initial outbreak described in this study. Nevertheless, later viral transmission within shared living quarters or work rides very well may have been a confounding factor in context of the second, larger outbreak occurring one month after the first outbreak.
 
 
 
@@ -4258,7 +4295,7 @@ feed Sangeeta
   // Short-range airborne route dominates exposure of respiratory infection during close contact
   doi: https://doi.org/10.1016/j.buildenv.2020.106859
   ref 'Chen_et_al_08_01_2020
-    head = The large droplet route has been shown to be negligible compared with the short-range airborne route, at least for expired droplets smaller than 100 μm in size at the mouth of the infected.
+    head = In this study, the exposure to exhaled droplets during close contact (<2 m) via both the short-range airborne and large droplet sub-routes is studied using a simple mathematical model of expired flows and droplet dispersion/deposition/inhalation, which enables the calculation of exposure due to both deposition and inhalation.
 
     > Abstract
       A susceptible person experiences the highest exposure risk of respiratory infection when he or she is in close proximity with an infected person. The large droplet route has been commonly believed to be dominant for most respiratory infections since the early 20th century, and the associated droplet precaution is widely known and practiced in hospitals and in the community. The mechanism of exposure to droplets expired at close contact, however, remains surprisingly unexplored. In this study, the exposure to exhaled droplets during close contact (<2 m) via both the short-range airborne and large droplet sub-routes is studied using a simple mathematical model of expired flows and droplet dispersion/deposition/inhalation, which enables the calculation of exposure due to both deposition and inhalation. The short-range airborne route is found to dominate at most distances studied during both talking and coughing. The large droplet route only dominates when the droplets are larger than 100 μm and when the subjects are within 0.2 m while talking or 0.5 m while coughing. The smaller the exhaled droplets, the more important the short-range airborne route. The large droplet route contributes less than 10% of exposure when the droplets are smaller than 50 μm and when the subjects are more than 0.3 m apart, even while coughing.
@@ -4291,14 +4328,20 @@ feed Sangeeta
   // An Overview on the Role of Relative Humidity in Airborne Transmission of SARS-CoV-2 in Indoor Environments
   doi: https://doi.org/10.4209/aaqr.2020.06.0302
   ref 'Ahlawat_et_al_07_21_2020
-    head = In dry indoor places i.e., less humidity (< 40% RH), the chances of airborne transmission of SARS-CoV-2 are higher than that of humid places (i.e., > 90% RH). Based on earlier studies, a relative humidity of 40–60% was found to be optimal for human health in indoor places.
+    head = We explore the role of relative humidity in airborne transmission of SARS-CoV-2 virus in indoor environments based on recent studies around the world.
 
     > Abstract
       COVID-19 disease is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which originated in Wuhan, China and spread with an astonishing rate across the world. The transmission routes of SARS-CoV-2 are still debated, but recent evidence strongly suggests that COVID-19 could be transmitted via air in poorly ventilated places. Some studies also suggest the higher surface stability of SARS-CoV-2 as compared to SARS-CoV-1. It is also possible that small viral particles may enter into indoor environments from the various emission sources aided by environmental factors such as relative humidity, wind speed, temperature, thus representing a type of an aerosol transmission. Here, we explore the role of relative humidity in airborne transmission of SARS-CoV-2 virus in indoor environments based on recent studies around the world. Humidity affects both the evaporation kinematics and particle growth. In dry indoor places i.e., less humidity (< 40% RH), the chances of airborne transmission of SARS-CoV-2 are higher than that of humid places (i.e., > 90% RH). Based on earlier studies, a relative humidity of 40–60% was found to be optimal for human health in indoor places. Thus, it is extremely important to set a minimum relative humidity standard for indoor environments such as hospitals, offices and public transports for minimization of airborne spread of SARS-CoV-2.
 
+    - quotes
+      !a
+      !b
 
     / July, 2020 - Aerosol Air Qual. Res
-    quote !a =
+    quote !a = In dry indoor places i.e., less humidity (< 40% RH), the chances of airborne transmission of SARS-CoV-2 are higher than that of humid places (i.e., > 90% RH).
+
+    / July, 2020 - Aerosol Air Qual. Res
+    quote !b = Based on earlier studies, a relative humidity of 40–60% was found to be optimal for human health in indoor places.
 
 
 
@@ -4943,7 +4986,7 @@ feed Sangeeta
   // What settings have been linked to SARS-CoV-2 transmission clusters?
   doi: https://doi.org/10.12688/wellcomeopenres.15889.2
   ref 'Leclerc_et_al_06_05_2020
-    head = In this review, we found that clusters of cases were reported in many, predominantly indoor settings (such as hospitals and elderly care, large religious gatherings, food processing plants, schools, shopping, and worker dormitories, prisons and ships, weddings, sport, bar). The majority of our reports are from China and Singapore.
+    head =  We performed a systematic review of available literature and media reports to find settings reported in peer reviewed articles and media with these characteristics.
 
     > Background
       Concern about the health impact of novel coronavirus SARS-CoV-2 has resulted in widespread enforced reductions in people’s movement (“lockdowns”). However, there are increasing concerns about the severe economic and wider societal consequences of these measures. Some countries have begun to lift some of the rules on physical distancing in a stepwise manner, with differences in what these “exit strategies” entail and their timeframes. The aim of this work was to inform such exit strategies by exploring the types of indoor and outdoor settings where transmission of SARS-CoV-2 has been reported to occur and result in clusters of cases. Identifying potential settings that result in transmission clusters allows these to be kept under close surveillance and/or to remain closed as part of strategies that aim to avoid a resurgence in transmission following the lifting of lockdown measures.
@@ -4958,9 +5001,9 @@ feed Sangeeta
       We identified possible places that are linked to clusters of COVID-19 cases and could be closely monitored and/or remain closed in the first instance following the progressive removal of lockdown restrictions. However, in part due to the limits in surveillance capacities in many settings, the gathering of information such as cluster sizes and attack rates is limited in several ways: inherent recall bias, biased media reporting and missing data.
 
     - quotes
+      !o
       !a
       !b
-      !c
       !d
       !e
       !f
@@ -4973,14 +5016,18 @@ feed Sangeeta
       !m
       !n
 
+
+    / June, 2020 - bioRxiv
+    quote !o = We found that clusters of cases were reported in many, predominantly indoor settings (such as hospitals and elderly care, large religious gatherings, food processing plants, schools, shopping, and worker dormitories, prisons and ships, weddings, sport, bar). The majority of our reports are from China and Singapore.
+
     / June, 2020 - bioRxiv
     quote !a = Large clusters, such as those linked to churches and ships, were infrequently reported. Almost all clusters involved fewer than 100 cases (181/201), with the outliers being transmission in hospitals, elderly care, worker dormitories, food processing plants, prisons, schools, shopping and ship settings. Religious venues provided a further setting with large cluster sizes: there were separate clusters in South Korea, France, India and Malaysia
 
     / June, 2020 - bioRxiv
     quote !b = In addition to these settings with maximum cluster sizes of more than 100 cases per cluster, we identified five further settings with maximum cluster sizes between 50 and 100: sport (65 cases) (Korean Centre for Diease Control & Prevention, 2020), bar (80 cases) (Sim, 2020), wedding (98 cases) (Ministry of Health – New Zealand, 2020), work (97 cases) (Park et al., 2020) and conference (89 cases) (Marcelo & O'brien, 2020).
 
-    / June, 2020 - bioRxiv
-    quote !c = We found a notably high number of transmission events reported in worker dormitories (21/201), although all of these were from Singapore. This type of setting had the second highest total cluster size out of all the recorded events we found, with 797 cases reported in the S11 dormitory cluster in Singapore (Data Against COVID19 SG, 2020).
+    # / June, 2020 - bioRxiv
+    # quote !c = We found a notably high number of transmission events reported in worker dormitories (21/201), although all of these were from Singapore. This type of setting had the second highest total cluster size out of all the recorded events we found, with 797 cases reported in the S11 dormitory cluster in Singapore (Data Against COVID19 SG, 2020).
 
     / June, 2020 - bioRxiv
     quote !d = We found only a small number of clusters linked to schools (8/201), and there the SARS-CoV-2 cases reported were most often in teachers or other staff. For example, for two school clusters in Singapore (Ministry of Health - Singapore, 2020), 16/26 and 7/8 cases were staff. Some children were also found to be infected in these clusters, as was the case in the Salanter Akiba Riverdale school in New York, USA (Ailworth & Berzon (2020)), although testing for infection was not always universal. In a retrospective close cohort study in a French high school however, 133 children and staff were seropositive for anti-SARS-CoV-2 antibodies, 92 of whom were pupils (Fontanet et al., 2020).
@@ -5098,7 +5145,7 @@ feed Sangeeta
   // Coronavirus Disease Exposure and Spread from Nightclubs, South Korea
   doi: https://doi.org/10.3201/eid2610.202573
   ref 'Kang_et_al_07_07_2020
-    head = We identified 246 COVID-19 cases associated with the reopening of nightclubs in Seoul.
+    head = We identified 246 COVID-19 cases associated with the reopening of nightclubs in Seoul. During the April 30–May 5 holiday, young adults from across the country who visited nightclubs in Seoul contracted COVID-19 and spread it nationally.
 
     > Abstract
       At least 246 cases of coronavirus disease (COVID-19) have been linked to nightclubs in Seoul, South Korea. During the April 30–May 5 holiday, young adults from across the country who visited nightclubs in Seoul contracted COVID-19 and spread it nationally. Nightclubs were temporarily closed to limit COVID-19 spread.
@@ -5266,14 +5313,16 @@ feed Sangeeta
   // Closed environments facilitate secondary transmission of coronavirus disease 2019 (COVID-19)
   doi: https://doi.org/10.1101/2020.02.28.20029272
   ref 'Nishiura_et_al_03_03_2020
-    head = Closed environments contribute to secondary transmission of COVID-19 and promote superspreading events. It is also consistent with the declining incidence of COVID-19 cases in China, as gathering in closed environments was prohibited in the wake of the rapid spread of the disease
+    head = A total of 110 cases were examined among eleven clusters and sporadic cases, and investigated who acquired infection from whom. The clusters included four in Tokyo and one each in Aichi, Fukuoka, Hokkaido, Ishikawa, Kanagawa and Wakayama prefectures. The number of secondary cases generated by each primary case was calculated using contact tracing data.
 
     > Abstract
       Commissioned by the Minister of the Ministry of Health, Labour, and Welfare of Japan, we collected secondary transmission data with the aim of identifying high risk transmission settings. We show that closed environments contribute to secondary transmission of COVID-19 and promote superspreading events. Closed environments are consistent with large-scale COVID-19 transmission events such as that of the ski chalet-associated cluster in France and the church- and hospital-associated clusters in South Korea. Our findings are also consistent with the declining incidence of COVID-19 cases in China, as gathering in closed environments was prohibited in the wake of the rapid spread of the disease. Reduction of unnecessary close contact in closed environments may help prevent large case clusters and superspreading events.
 
+    - quotes
+      !a
 
     / March, 2020 - bioRxiv
-    quote !a =
+    quote !a = Closed environments contribute to secondary transmission of COVID-19 and promote superspreading events. It is also consistent with the declining incidence of COVID-19 cases in China, as gathering in closed environments was prohibited in the wake of the rapid spread of the disease
 
 
   # Slums
@@ -5465,8 +5514,7 @@ feed Sangeeta
   // Cluster of Coronavirus Disease Associated with Fitness Dance Classes, South Korea
   doi: https://doi.org/10.3201/eid2608.200633
   ref 'Jang_et_al_05_15_2020
-    head = During 24 days in Cheonan, South Korea, 112 persons were infected with SARS-CoV-2  associated with fitness dance classes at 12 sports facilities. Intense physical exercise in densely populated sports facilities could increase risk for infection.
-
+    head = During 24 days in Cheonan, South Korea, 112 persons were infected with SARS-CoV-2 associated with fitness dance classes at 12 sports facilities. Intense physical exercise in densely populated sports facilities could increase risk for infection.
 
     > Abstract
       During 24 days in Cheonan, South Korea, 112 persons were infected with severe acute respiratory syndrome coronavirus 2 associated with fitness dance classes at 12 sports facilities. Intense physical exercise in densely populated sports facilities could increase risk for infection. Vigorous exercise in confined spaces should be minimized during outbreaks.
@@ -5555,16 +5603,21 @@ feed Sangeeta
   // Coronavirus Disease Outbreak in Call Center, South Korea
   doi: https://doi.org/10.3201/eid2608.201274
   ref 'Park_et_al_04_23_2020
-    head = We describe the epidemiology of a coronavirus disease (COVID-19) outbreak in a call center in South Korea. Of 1,143 persons who were tested, a total of 97 (8.5%) had confirmed cases. Of these, 94 were working in an 11th-floor call center with 216 employees, translating to an attack rate of 43.5%. This outbreak shows alarmingly that SARS-CoV-2 can be exceptionally contagious in crowded office settings such as a call center.
+    head = We describe the epidemiology of a coronavirus disease (COVID-19) outbreak in a call center in South Korea. Of 1,143 persons who were tested, a total of 97 (8.5%) had confirmed cases. Of these, 94 were working in an 11th-floor call center with 216 employees, translating to an attack rate of 43.5%.
 
     > Abstract
       We describe the epidemiology of a coronavirus disease (COVID-19) outbreak in a call center in South Korea. We obtained information on demographic characteristics by using standardized epidemiologic investigation forms. We performed descriptive analyses and reported the results as frequencies and proportions for categoric variables. Of 1,143 persons who were tested for COVID-19, a total of 97 (8.5%, 95% CI 7.0%–10.3%) had confirmed cases. Of these, 94 were working in an 11th-floor call center with 216 employees, translating to an attack rate of 43.5% (95% CI 36.9%–50.4%). The household secondary attack rate among symptomatic case-patients was 16.2% (95% CI 11.6%– 22.0%). Of the 97 persons with confirmed COVID-19, only 4 (1.9%) remained asymptomatic within 14 days of quarantine, and none of their household contacts acquired secondary infections. Extensive contact tracing, testing all contacts, and early quarantine blocked further transmission and might be effective for containing rapid outbreaks in crowded work settings.
 
     - quotes
       !a
+      !b
 
     / April, 2020 - Emerging Infectious Diseases
     quote !a = The household secondary attack rate among symptomatic case-patients was 16.2%.
+
+    / April, 2020 - Emerging Infectious Diseases
+    quote !b = This outbreak shows alarmingly that SARS-CoV-2 can be exceptionally contagious in crowded office settings such as a call center.
+
 
 
   # poultry
