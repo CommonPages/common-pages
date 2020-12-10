@@ -14,6 +14,7 @@ subject module Transmission
     Sources
     Routes
     Risks
+    Climate
     Dynamics
 
   path Context
@@ -49,7 +50,7 @@ subject module Transmission
       # claim !SevereShedding - Subject viral load
 
   / Transmission Sources
-  subject Sources = Most SARS-CoV-2 infections are the result of close contact with an infected individual in the days prior to, or shortly following, symptom onset. True asymptomatic cases may not be major drivers of infection. The risk of transmission within households is high, but children are not a significant source of infection.
+  subject Sources = Most SARS-CoV-2 infections are the result of close contact with an infected individual in the days prior to, or shortly following, symptom onset. True asymptomatic cases may not be major drivers of transmission. The risk of transmission within households is high, though children do not seem to be significant sources.
 
     / Presymptomatic Cases
     claim !PresymptomaticCases = There mave been many case and cluster reports of presymptomatic transmission, suggesting that transmissability begins in the days leading up to symptom onset. Presymptomatic transmission may be a significant driver of infection.
@@ -269,7 +270,7 @@ subject module Transmission
             'Mallapaty_et_al_11_16_2020
 
   / Transmission Routes
-  subject Routes = Transmission can occur via both heavy respiratory droplets and smaller aerosol particles which can remain in the air, but the extent of airborne transmission is disputed. Transmission has also been confirmed via contact with infected surfaces, but the significance of these routes is unclear.
+  subject Routes = Transmission can occur via both heavy respiratory droplets and smaller aerosol particles which can remain in the air, but the extent of airborne transmission is disputed. Transmission may also result from contact with infected surfaces, but the significance of this route is unclear.
 
     / Airborne and Aerosol Transmission
     claim !AirborneTransmission = Evidence of SARS-CoV-2 transmission via aerosols comes from cluster reports and experiments with animal models. Researchers have suggested that exposure time in closed confined spaces may increase the risk of airborne transmission.
@@ -328,17 +329,21 @@ subject module Transmission
     / Droplet Transmission
     claim !DropletTransmission = Transmission of SARS-CoV-2 can occur through infected secretions such as saliva and respiratory secretions or respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
 
+      < See also
+        Virus.Viability.?Droplets
+
+      # REFER THIS (Interesting) - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293495/table/tbl1/
+      -
+        'Jayaweera_et_al_06_10_2020
+        'Jayaweera_et_al_06_10_2020.!a
+
+
       # https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html
       # https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations
 
       # # Evidence from past Coronavirus
       # -
       #   'Wong_et_al_02_10_2004
-
-      # REFER THIS (Interesting) - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293495/table/tbl1/
-      -
-        'Jayaweera_et_al_06_10_2020
-        'Jayaweera_et_al_06_10_2020.!a
 
     / Surface Tranmission
     claim !SurfaceTransmission = Several studies have found that environmental contamination around COVID-19 patients is extensive, though the extent to which fomites are driving infection is still unclear.
@@ -505,71 +510,72 @@ subject module Transmission
       # - Close proximity in TB led to several infection
       #   'Kenyon_et_al_04_11_1996
 
-    / Seasonality, Temperature, Humidity & Air Pollution
-    claim !HumidityAndTemperature = Low temperatures can greatly increase the survival of the virus and thereby increase the risk of transmission. The seasonality of SARS-CoV-2 is disputed. Air pollution may accelerate the spread of COVID-19.
+  = Temperature and humidity both influence the viability of the virus. owever, the seasonality of SARS-CoV-2 is disputed. Air pollution may accelerate the spread of COVID-19.
 
-      claim !TemperatureOtherViruses = The effects of temperature and humidity are well documented for other pathogens.
+  / Climate and Seasonality
+  subject Climate = Temperature and humidity both influence the viability of the virus. However, the seasonality of SARS-CoV-2 is disputed. Air pollution may accelerate the spread of COVID-19.
+
+    claim !TemperatureOtherViruses = The effects of temperature and humidity are well documented for other pathogens.
+      -
+        'Moriyama_et_al_2020
+        'Moriyama_et_al_2020.!d
+        'Moriyama_et_al_2020.!l
+        'Moriyama_et_al_2020.!j
+      -
+        'Lin_et_al_12_30_2019
+        'Lin_et_al_12_30_2019.!a
+      -
+        'Want_et_at_2020
+        'Want_et_at_2020.!a
+        'Want_et_at_2020.!b
+      -
+        'Casanova_et_al_04_21_2010
+        'Casanova_et_al_04_21_2010.!a
+        'Casanova_et_al_04_21_2010.!b
+        'Casanova_et_al_04_21_2010.!c
+        'Casanova_et_al_04_21_2010.!d
+
+    dispute !TemperatureCovid = A number of studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates of SARS-CoV-2; while others have argued that there is no evidence that the rate of transmission is impacted by changes in temperature and weather.
+
+      claim !Effect = Several studies have emphasized the effect of temperature and humidity on transmission of SARS-CoV-2. They claim that higher temperatures appear to reduce the risk of COVID-19 transmission.
         -
-          'Moriyama_et_al_2020
-          'Moriyama_et_al_2020.!d
-          'Moriyama_et_al_2020.!l
-          'Moriyama_et_al_2020.!j
+          'Ficetola_et_al_04_20_2020
+          'Ficetola_et_al_04_20_2020.!c
+          'Ficetola_et_al_04_20_2020.!b
         -
-          'Lin_et_al_12_30_2019
-          'Lin_et_al_12_30_2019.!a
+          'Qi_et_al_03_20_2020
+          'Qi_et_al_03_20_2020.!d
+        -
+          'Islam_et_al_03_31_2020
+        -
+          'Wang_et_al_03_10_2020
+          'Wang_et_al_03_10_2020.!a
         -
           'Want_et_at_2020
-          'Want_et_at_2020.!a
-          'Want_et_at_2020.!b
+          'Want_et_at_2020.!c
         -
-          'Casanova_et_al_04_21_2010
-          'Casanova_et_al_04_21_2010.!a
-          'Casanova_et_al_04_21_2010.!b
-          'Casanova_et_al_04_21_2010.!c
-          'Casanova_et_al_04_21_2010.!d
-
-      dispute !TemperatureCovid = A number of studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates of SARS-CoV-2; while others have argued that there is no evidence that the rate of transmission is impacted by changes in temperature and weather.
-
-        claim !Effect = Several studies have emphasized the effect of temperature and humidity on transmission of SARS-CoV-2. They claim that higher temperatures appear to reduce the risk of COVID-19 transmission.
-          -
-            'Ficetola_et_al_04_20_2020
-            'Ficetola_et_al_04_20_2020.!c
-            'Ficetola_et_al_04_20_2020.!b
-          -
-            'Qi_et_al_03_20_2020
-            'Qi_et_al_03_20_2020.!d
-          -
-            'Islam_et_al_03_31_2020
-          -
-            'Wang_et_al_03_10_2020
-            'Wang_et_al_03_10_2020.!a
-          -
-            'Want_et_at_2020
-            'Want_et_at_2020.!c
-          -
-            'Notari_et_al_2020
-            'Notari_et_al_2020.!a
-          -
-            'Ahlawat_et_al_07_21_2020
-            'Ahlawat_et_al_07_21_2020.!a
-          -
-            'Moriyama_et_al_2020
-            'Moriyama_et_al_2020.!m
-            'Moriyama_et_al_2020.!g
-
-        claim !NoEffect = Some studies have argued that changes in weather alone (increase of temperature) will not necessarily lead to declines in COVID-19 case counts.
-          -
-            'Jamil_et_al_04_19_2020
-          -
-            'Luo_et_al_2020
-            'Luo_et_al_2020.!a
-
-      claim !AirPollution = At least one study suggests that high frequency of Air Pollution (PM10) has accelerates the spread of COVID-19.
+          'Notari_et_al_2020
+          'Notari_et_al_2020.!a
         -
-          'Setti_et_al_04_17_2020
-          'Setti_et_al_04_17_2020.!a
+          'Ahlawat_et_al_07_21_2020
+          'Ahlawat_et_al_07_21_2020.!a
+        -
+          'Moriyama_et_al_2020
+          'Moriyama_et_al_2020.!m
+          'Moriyama_et_al_2020.!g
 
-  —
+      claim !NoEffect = Some studies have argued that changes in weather alone (increase of temperature) will not necessarily lead to declines in COVID-19 case counts.
+        -
+          'Jamil_et_al_04_19_2020
+        -
+          'Luo_et_al_2020
+          'Luo_et_al_2020.!a
+
+    claim !AirPollution = At least one study suggests that high frequency of Air Pollution (PM10) has accelerates the spread of COVID-19.
+      -
+        'Setti_et_al_04_17_2020
+        'Setti_et_al_04_17_2020.!a
+
   / Transmission Dynamics
   subject Dynamics = Estimates of the average number of people infected by one person—the R<sub>0</sub>—have varied widely, and depend on the control measures in place. The COVID-19 epidemic may be characterized by overdispersion, whereby the majority of the transmission is driven by a minority of infected individuals (i.e. “superspreaders”).
 
