@@ -1,7 +1,7 @@
 
 / Revision Feed
 revision feed Revisions
-  head = The first draft of Claimspace COVID-19 was published on November 21, 2020, seeded with nearly 1,000 references.
+  head = The first draft of Common COVID-19 was published on November 21, 2020, seeded with nearly 1,000 references.
 
   public: december-8-2020
   / December 8, 2020
@@ -62,7 +62,7 @@ revision feed Revisions
   public: november-21-2020
   / November 21, 2020
   revision November_21
-    head = The seed version of Claimspace COVID-19 was released on November 21, 2020, with 180 claims derived from nearly 1,000 references.
+    head = The seed version of Common COVID-19 was released on November 21, 2020, with 180 claims derived from nearly 1,000 references.
 
     >
       The seed version contains drafts of {Timeline}, {Virus}, {Disease}, {Testing}, {Prevention} and {Containment}. It also contains concept modules for {Virology} and {Immunology}, and a bare-bones path for {paths.Masking} (a theme which spans many subjects).
