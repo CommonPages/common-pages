@@ -847,7 +847,7 @@ feed June2020
   // Prevalence of IgG antibodies to SARS-CoV-2 in Wuhan - implications for the ability to produce long-lasting protective antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.06.13.20130252
   ref 'Liu_et_al_06_16_2020
-    head = Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. More than 10% of COVID-19 patients did not have those antibodies after 21 days post symptom onset. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
+    head = This study was to explore to explore the outcomes of IgG antibodies to SARS-CoV-2 in four groups of individuals in Wuhan, China. 
 
     > Background
       It is to be determined whether people infected with SARS-CoV-2 will develop long-term immunity against SARS-CoV-2 and retain long-lasting protective antibodies after the infection is resolved. This study was to explore to explore the outcomes of IgG antibodies to SARS-CoV-2 in four groups of individuals in Wuhan, China.
@@ -861,23 +861,21 @@ feed June2020
     > Conclusions
       Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
 
+
     - quotes
       !a
-      !b
-      !c
-      !d
 
     / June, 2020 - medRxiv
-    quote !a = IgG prevalence was 89.8% in COVID-19 patients, 4.0% in healthcare providers, 4.6 in general workers, and 1.0% in other patients (p all <0.001 for comparisons with COVID-19 patients).
+    quote !a = Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
 
-    / June, 2020 - medRxiv
-    quote !b = IgG prevalence increased significantly by age among healthcare workers, and was 2.8% in those <30 years old, 9.6% in those 60-69 years old and 10.0% in those ≥70 years old (p<0.001 for trend). IgG prevalence also increased significantly by age among general workers.
-
-    / June, 2020 - medRxiv
-    quote !c = Prevalence of IgM antibodies to SARS-CoV-2 was 31.4% in COVID-19 patients, 1.5% in healthcare providers, 1.3% in general workers, and 0.2% in other patients.
-
-    / June, 2020 - medRxiv
-    quote !d = Mortality rate was 1.3% in those with IgG antibodies to SARS-CoV-2 and was 3.3% in those without. Mortality risks were similar between hospitalized COVID19 patients with IgG antibodies to SARS-CoV-2 and those without, which indicates that absence of IgG antibodies may not affect clinical end outcome and IgG antibodies may even not be part of short-term protective immune response against SARS-CoV-2.
+    # / June, 2020 - medRxiv
+    # quote !b = IgG prevalence increased significantly by age among healthcare workers, and was 2.8% in those <30 years old, 9.6% in those 60-69 years old and 10.0% in those ≥70 years old (p<0.001 for trend). IgG prevalence also increased significantly by age among general workers.
+    #
+    # / June, 2020 - medRxiv
+    # quote !c = Prevalence of IgM antibodies to SARS-CoV-2 was 31.4% in COVID-19 patients, 1.5% in healthcare providers, 1.3% in general workers, and 0.2% in other patients.
+    #
+    # / June, 2020 - medRxiv
+    # quote !d = Mortality rate was 1.3% in those with IgG antibodies to SARS-CoV-2 and was 3.3% in those without. Mortality risks were similar between hospitalized COVID19 patients with IgG antibodies to SARS-CoV-2 and those without, which indicates that absence of IgG antibodies may not affect clinical end outcome and IgG antibodies may even not be part of short-term protective immune response against SARS-CoV-2.
 
 
 
@@ -1260,16 +1258,17 @@ feed June2020
   // Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
   doi: https://doi.org/10.1126/science.abd0831
   ref 'Baum_et_al_06_11_2020
-    head = Novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
+    head = We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population.
+
 
     > Abstract
       Antibodies targeting the spike protein of SARS-CoV-2 present a promising approach to combat the COVID19 pandemic; however, concerns remain that mutations can yield antibody resistance. We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population. However, novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
 
-    # - quotes
-    #   !a
-    #
-    # / June, 2020 - American Association for the Advancement of Science
-    # quote !a =
+    - quotes
+      !a
+
+    / June, 2020 - American Association for the Advancement of Science
+    quote !a = Novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
 
 
   # FaceMask, mathematical modeling

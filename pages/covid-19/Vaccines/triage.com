@@ -1,18 +1,22 @@
 index: hide
 . Triage
 
-  > Phizer
-    Technology - mRNA
-    Trials in US and Germany
+  subject Phizer
+    head =
+    >
+      Phizer is using mRN. Trials in US and Germany. THere are several on going{Link:https://clinicaltrials.gov/ct2/show/study/NCT04368728} trials
 
-  # On going Clinical trials
-  # - https://clinicaltrials.gov/ct2/show/study/NCT04368728
-  # - https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001038-36/DE#summary
+    # On going Clinical trials
+    # - https://clinicaltrials.gov/ct2/show/study/NCT04368728
+    # - https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001038-36/DE#summary
 
-  > Phase I-II
-    Strong RBD-binding IgG and neutralizing antibody response peaked 7 days after a booster dose, robust CD4+ and CD8+ T cell responses, undetermined durability. Adverse effects observed were dose-dependent and moderate including pain at the injection site, fatigue, headache, chills, muscle and joint pain, fever.
-  -
-    'Mulligan_et_al_08_12_2020
+    claim !Phase12Phizer = Strong RBD-binding IgG and neutralizing antibody response peaked 7 days after a booster dose, robust CD4+ and CD8+ T cell responses, undetermined durability. Adverse effects observed were dose-dependent and moderate including pain at the injection site, fatigue, headache, chills, muscle and joint pain, fever.
+      -
+        'Mulligan_et_al_08_12_2020
+
+    claim !Phase3 =
+
+    claim !Reasoning =   
 
 
   >  ChAdOx1 (AstraZeneca)
@@ -43,4 +47,4 @@ index: hide
   -
     'Zhu_et_al_08_15_2020
     'Zhu_et_al_08_15_2020.!a
-    'Zhu_et_al_08_15_2020.!b  
+    'Zhu_et_al_08_15_2020.!b

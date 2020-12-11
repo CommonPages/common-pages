@@ -125,7 +125,7 @@ feed 2019
   // Molecular Mechanism for Antibody-Dependent Enhancement of Coronavirus Entry
   doi: https://doi.org/10.1128/JVI.02015-19
   ref 'Wan_et_al_2019
-    head = We first demonstrated that a MERS-CoV RBD-specific neutralizing MAb binds to the RBD region of MERS-CoV spike and further showed that the MAb mediates MERS-CoV pseudovirus entry into Fc receptor-expressing human cells. Moreover, a SARS-CoV RBD-specific neutralizing MAb mediates ADE of SARS-CoV pseudovirus entry. These results demonstrated that ADE of coronaviruses is mediated by neutralizing MAbs that target the RBD of coronavirus spikes.
+    head =  We investigated how a neutralizing monoclonal antibody (MAb), which targets the receptor-binding domain (RBD) of Middle East respiratory syndrome (MERS) coronavirus spike, mediates viral entry using pseudovirus entry and biochemical assays.
 
     >
       Antibody-dependent enhancement (ADE) of viral entry has been a major concern for epidemiology, vaccine development, and antibody-based drug therapy. However, the molecular mechanism behind ADE is still elusive. Coronavirus spike protein mediates viral entry into cells by first binding to a receptor on the host cell surface and then fusing viral and host membranes. In this study, we investigated how a neutralizing monoclonal antibody (MAb), which targets the receptor-binding domain (RBD) of Middle East respiratory syndrome (MERS) coronavirus spike, mediates viral entry using pseudovirus entry and biochemical assays. Our results showed that MAb binds to the virus surface spike, allowing it to undergo conformational changes and become prone to proteolytic activation. Meanwhile, MAb binds to cell surface IgG Fc receptor, guiding viral entry through canonical viral-receptor-dependent pathways. Our data suggest that the antibody/Fc-receptor complex functionally mimics viral receptor in mediating viral entry. Moreover, we characterized MAb dosages in viral-receptor-dependent, Fc-receptor-dependent, and both-receptors-dependent viral entry pathways, delineating guidelines on MAb usages in treating viral infections. Our study reveals a novel molecular mechanism for antibody-enhanced viral entry and can guide future vaccination and antiviral strategies.
@@ -133,28 +133,13 @@ feed 2019
     - quotes
       !a
       !b
-      !c
-      !d
-      !e
-      !f
+      
 
     / Dec, 2019 - American Society for Microbiology Journals
-    quote !a =  In addition, the same coronavirus strains that led to the production of fully neutralizing MAbs can be mediated to go through ADE by these neutralizing MAbs. Our results differ from previously observed ADE of flaviviruses in which primary infections and secondary infections are caused by two different viral strains and in which ADE-mediating MAbs are only subneutralizing or nonneutralizing for secondary viral infections.
+    quote !a = Our findings not only reveal a novel molecular mechanism for ADE of coronaviruses but also provide general guidelines on viral vaccine design and antibody-based antiviral drug therapy.
 
     / Dec, 2019 - American Society for Microbiology Journals
-    quote !b = We showed that the MAb binds to the tip of MERS-CoV spike trimer, where the RBD is located. MAb binding likely stabilizes the RBD in the standing-up position, triggers a conformational change of MERS-CoV spike, and exposes the previously inaccessible S2′ site to proteases.
-
-    / Dec, 2019 - American Society for Microbiology Journals
-    quote !c = SARS-CoV RBD-specific MAb (named S230) bound to the ACE2-binding region in SARS-CoV RBD, stabilized the RBD in the standing-up position, and triggered conformational changes of SARS-CoV spike.
-
-    / Dec, 2019 - American Society for Microbiology Journals
-    quote !d =  In order to trigger conformational changes of coronavirus spikes, MAbs need to bind to the receptor-binding region in their RBD and stabilize the RBD in the standing-up position. Moreover, our study revealed that ADE of MERS-CoV entry follows the same entry pathways as DPP4-dependent MERS-CoV entry. Specifically, proprotein convertases partially activate MERS-CoV spike.
-
-    / Dec, 2019 - American Society for Microbiology Journals
-    quote !e = RBD-specific neutralizing MAbs bind to the same region on coronavirus spikes as viral receptors do, trigger conformational changes of the spikes as viral receptors do, and mediate ADE through the same pathways as viral-receptor-dependent viral entry. In other words, RBD-specific neutralizing MAbs mediate ADE of coronavirus entry by functionally mimicking viral receptors.
-
-    / Dec, 2019 - American Society for Microbiology Journals
-    quote !f = Our findings not only reveal a novel molecular mechanism for ADE of coronaviruses but also provide general guidelines on viral vaccine design and antibody-based antiviral drug therapy. As we have shown here, RBD-specific neutralizing MAbs may mediate ADE of viruses by mimicking the functions of viral receptors. Neutralizing MAbs targeting other parts of viral spikes would be less likely to mediate ADE if they do not trigger the conformational changes of the spikes.
+    quote !b = RBD-specific neutralizing MAbs may mediate ADE of viruses by mimicking the functions of viral receptors. Neutralizing MAbs targeting other parts of viral spikes would be less likely to mediate ADE if they do not trigger the conformational changes of the spikes.
 
 # Bats - Antiviral
   // Bat IFITM3 restriction depends on S-palmitoylation and a polymorphic site within the CD225 domain

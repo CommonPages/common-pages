@@ -1112,16 +1112,16 @@ feed May2020
   // Attenuated SARS-CoV-2 Variants With Deletions at the S1/S2 Junction
   doi: https://doi.org/10.1080/22221751.2020.1756700
   ref 'Lau_et_al_05_04_2020
-    head = We observed a series of deleted mutants (Del-muts) and point mutation variants in Vero-E6 cell cultures of a clinical isolate. In a challenging trial in hamsters, Del-mut-1 variant in infected hamsters does not cause the body weight loss or more severe pathological changes in the lungs that is associated with wild type virus infection. It would be important to screen the prevalence of these variants in asymptomatic infected cases, and a potential as an attenuated vaccine or laboratory tool.
+    head = We found a series of variants which contain 15-30-bp deletions (Del-mut) or point mutations respectively at the S1/S2 junction. Examination of the original clinical specimen from which the isolate was derived, and 26 additional SARS-CoV-2 positive clinical specimens, failed to detect these variants.
 
     > Abstract
       The emergence of SARS-CoV-2 has led to the current global coronavirus pandemic and more than one million infections since December 2019. The exact origin of SARS-CoV-2 remains elusive, but the presence of a distinct motif in the S1/S2 junction region suggests the possible acquisition of cleavage site(s) in the spike protein that promoted cross-species transmission. Through plaque purification of Vero-E6 cultured SARS-CoV-2, we found a series of variants which contain 15-30-bp deletions (Del-mut) or point mutations respectively at the S1/S2 junction. Examination of the original clinical specimen from which the isolate was derived, and 26 additional SARS-CoV-2 positive clinical specimens, failed to detect these variants. Infection of hamsters shows that one of the variants (Del-mut-1) which carries deletion of 10 amino acids (30bp) does not cause the body weight loss or more severe pathological changes in the lungs that is associated with wild type virus infection. We suggest that the unique cleavage motif promoting SARS-CoV-2 infection in humans may be under strong selective pressure, given that replication in permissive Vero-E6 cells leads to the loss of this adaptive function. It would be important to screen the prevalence of these variants in asymptomatic infected cases. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
 
-    - therpeutics frontiers
-      !g
+    - quotes
+      !a
 
-    # / May, 2020 - Emerging Microbes & Infections
-    # quote !a = We found multiple variants containing in-frame deletions from 15 to 30 nucleotides and point mutations in the S1/S2 junction. One of the variants contains an in-frame 30-bp deletion which spanned genome coordinates 2035–2064 of the spike region in all small plaque-forming viruses sequenced (Del-mut-1), while no deletion was found in isolates that formed large plaques (WT). Besides this 30-bp deletion, no other deletion or mutation was found in Del-mut-1. Sequence alignment of amino acids shows that this 30-bp deletion is located at the S1/S2 junction. Notably, this deletion removes the PRRA motif from the S1/S2 junction region of the spike protein.
+    / May, 2020 - Emerging Microbes & Infections
+    quote !a = We suggest that the unique cleavage motif promoting SARS-CoV-2 infection in humans may be under strong selective pressure, given that replication in permissive Vero-E6 cells leads to the loss of this adaptive function. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
 
     # / May, 2020 - Emerging Microbes & Infections
     # quote !b = We could not detect this variant in the original clinical specimen from which this isolate was cultured, nor from another 26 clinical specimens confirmed to be positive for SARS-CoV-2. Interestingly, deletion of these 30 base pairs appears to enhance Del-mut-1 variant growth in the mixed population and promote stability through multiple passages in Vero-E6, but not in other human cell lines.
@@ -1138,8 +1138,8 @@ feed May2020
     # / May, 2020 - Emerging Microbes & Infections
     # quote !f = The examination of Del-mut-1 variant virus isolated from infected hamsters did not detect restoration of the deleted 30-bp sequence. Continued passage of Del-mut-1 variant indicates that the mutant virus is stable and increasing population along the passages in Vero-E6 cells, supporting the contention that the acquired function of the S1/S2 junction insertion is only needed for non-permissive replication.
 
-    / May, 2020 - Emerging Microbes & Infections
-    quote !g = Given its inability to cause severe disease in an animal model, and dependent on safety testing, this attenuated Del-mut-1 variant may prove to be useful for conducting drug screening research or functional studies on SARS-CoV-2 in laboratories where a high-level biosafety facility is not available. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
+    # / May, 2020 - Emerging Microbes & Infections
+    # quote !g = Given its inability to cause severe disease in an animal model, and dependent on safety testing, this attenuated Del-mut-1 variant may prove to be useful for conducting drug screening research or functional studies on SARS-CoV-2 in laboratories where a high-level biosafety facility is not available. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
 
     # / May, 2020 - Emerging Microbes & Infections
     # quote !h = We suggest that the unique cleavage motif promoting SARS-CoV-2 infection in humans may be under strong selective pressure, given that replication in permissive Vero-E6 cells leads to the loss of this adaptive function. It would be important to screen the prevalence of these variants in asymptomatic infected cases.
@@ -2742,24 +2742,24 @@ feed May2020
   // Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals
   doi: https://doi.org/10.1016/j.cell.2020.05.015
   ref 'Grifoni_et_al_05_04_2020
-    head = We detected SARS-CoV-2-reactive CD4+ T cells in 40%–60% of unexposed individuals, suggesting crossreactive T cell recognition between circulating ‘‘common cold’’ coronaviruses and SARS-CoV-2.
+    head = Using HLA class I and II predicted peptide ‘‘megapools,’’ circulating SARS-CoV-2-specific CD8+ and CD4+ T cells were identified in 70% and 100% of COVID-19 convalescent patients, respectively.
 
     > Abstract
       Understanding adaptive immunity to SARS-CoV-2 is important for vaccine development, interpreting coronavirus disease 2019 (COVID-19) pathogenesis, and calibration of pandemic control measures. Using HLA class I and II predicted peptide ‘‘megapools,’’ circulating SARS-CoV-2-specific CD8+ and CD4+ T cells were identified in 70% and 100% of COVID-19 convalescent patients, respectively. CD4+ T cell responses to spike, the main target of most vaccine efforts, were robust and correlated with the magnitude of the antiSARS-CoV-2 IgG and IgA titers. The M, spike, and N proteins each accounted for 11%–27% of the total CD4+ response, with additional responses commonly targeting nsp3, nsp4, ORF3a, and ORF8, among others. For CD8+ T cells, spike and M were recognized, with at least eight SARS-CoV-2 ORFs targeted. Importantly, we detected SARS-CoV-2-reactive CD4+ T cells in 40%–60% of unexposed individuals, suggesting crossreactive T cell recognition between circulating ‘‘common cold’’ coronaviruses and SARS-CoV-2.
 
-    # - quotes
-    #   !a
-    #   !b
-    #   !c
+    - quotes
+      !a
+      !b
+      !c
 
     / June, 2020 - Cell
-    quote !a = Significant CD4+ T cell responses were also directed against nsp3, nsp4, ORF3s, ORF7a, nsp12, and ORF8. These data suggest that a candidate COVID-19 vaccine consisting only of SARSCoV-2 spike would be capable of eliciting SARS-CoV-2-specific CD4+ T cell responses of similar representation to that of natural COVID-19 disease, but the data also indicate that there are many potential CD4+ T cell targets in SARS-CoV-2, and inclusion of additional SARS-CoV-2 structural antigens such as M and N would better mimic the natural SARS-CoV2-specific CD4+ T cell response observed in mild to moderate COVID-19 disease.
+    quote !a =  A candidate COVID-19 vaccine consisting only of SARSCoV-2 spike would be capable of eliciting SARS-CoV-2-specific CD4+ T cell responses of similar representation to that of natural COVID-19 disease. Inclusion of additional SARS-CoV-2 structural antigens such as M and N would better mimic the natural SARS-CoV2-specific CD4+ T cell response observed in mild to moderate COVID-19 disease.
 
     / June, 2020 - Cell
-    quote !b = The spike protein was a target of human SARS-CoV-2 CD8+ T cell responses, but it is not dominant. SARS-CoV-2 M was just as strongly recognized, and significant reactivity was noted for other antigens, mostly nsp6, ORF3a, and N, which comprised nearly 50% of the total CD8+ T cell response, on average. Thus, these data indicate that candidate COVID-19 vaccines endeavoring to elicit CD8+ T cell responses against the spike protein will be eliciting a relatively narrow CD8+ T cell response compared to the natural CD8+ T cell response observed in mild to moderate COVID-19 disease.
+    quote !b = Candidate COVID-19 vaccines endeavoring to elicit CD8+ T cell responses against the spike protein will be eliciting a relatively narrow CD8+ T cell response compared to the natural CD8+ T cell response observed in mild to moderate COVID-19 disease.
 
     / June, 2020 - Cell
-    quote !c = A key step in developing that understanding is to examine antigen-specific CD4+ and CD8+ T cells in COVID-19 cases and in unexposed healthy controls, utilizing the exact same antigens and series of experimental techniques. CD4+ T cell responses were detected in 40%–60% of unexposed individuals. This may be reflective of some degree of cross-reactive, preexisting immunity to SARS-CoV-2 in some, but not all, individuals.
+    quote !c = We detected SARS-CoV-2-reactive CD4+ T cells in 40%–60% of unexposed individuals, suggesting crossreactive T cell recognition between circulating ‘‘common cold’’ coronaviruses and SARS-CoV-2.
 
 
 
@@ -2811,56 +2811,46 @@ feed May2020
   // Convergent Antibody Responses to SARS-CoV-2 Infection in Convalescent Individuals
   doi: https://doi.org/10.1101/2020.05.13.092619
   ref 'Robbiani_et_al_05_22_2020
-    head = The observation that plasma neutralizing activity is low in most convalescent individuals, but that recurrent anti-SARS-CoV-2 RBD antibodies with potent neutralizing activity can be found in individuals with unexceptional plasma neutralizing activity suggests that humans are intrinsically capable of generating anti-RBD antibodies that potently neutralize SARS-CoV-2. Thus, vaccines that selectively and efficiently induce antibodies targeting the SARS-CoV-2 RBD may be especially effective.
+    head = Here we report on 149 COVID-19 convalescent individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal neutralizing titers ranging from undetectable in 33% to below 1:1000 in 79%, while only 1% showed titers >1:5000.
 
     > Abstract
       During the COVID-19 pandemic, SARS-CoV-2 infected millions of people and claimed hundreds of thousands of lives. Virus entry into cells depends on the receptor binding domain (RBD) of the SARS-CoV-2 spike protein (S). Although there is no vaccine, it is likely that antibodies will be essential for protection. However, little is known about the human antibody response to SARS-CoV-21–5. Here we report on 149 COVID-19 convalescent individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal neutralizing titers ranging from undetectable in 33% to below 1:1000 in 79%, while only 1% showed titers >1:5000. Antibody cloning revealed expanded clones of RBD-specific memory B cells expressing closely related antibodies in different individuals. Despite low plasma titers, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50s) as low as single digit ng/mL. Thus, most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
-      !k
 
     / May, 2020 - bioRxiv
-    quote !a = Plasmas collected an average of 39 days after the onset of symptoms- the overall level of neutralizing activity in the cohort, as measured by the half-maximal neutralizing titer (NT50) was generally low, with 33% undetectable and 79% below 1,000. The geometric mean NT50 was 121 (arithmetic mean = 714), and only 2 individuals reached NT50s above 5,000.
+    quote !a = Most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.
 
-    / May, 2020 - bioRxiv
-    quote !b = Antibodies expressed by clonally expanded B cells with IGHV1-58/IGKV3-20 and IGHV3-30-3/IGKV1-39 found repeatedly in different individuals had amino acid sequence identities of up to 99% and 92%, respectively. We conclude that the IgG memory response to the SARS-CoV-2 RBD is rich in recurrent and clonally expanded antibody sequences.
-
-    / May, 2020 - bioRxiv
-    quote !c = ELISA assays showed that 94% (79 out of 84) of the antibodies tested including clonal and unique sequences bound to the SARS-CoV-2 RBD with an average half-maximal effective concentration (EC50) of 6.1 ng/mL. A fraction of those (7 out of 79, or 9%) cross-reacted with the RBD of SARS-CoV with a mean EC50 of 120.1 ng/mL. No significant cross-reactivity was noted to the RBDs of MERS, HCoV-OC43, HCoV133 229E or HCoV-NL63.
-
-    / May, 2020 - bioRxiv
-    quote !d = Despite low plasma titers, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50s) as low as single digit ng/mL.
-
-    / May, 2020 - bioRxiv
-    quote !e = Overall, 78% and 70% of the plasma samples tested showed anti-RBD and anti-S IgG AUCs that were at least 2 standard deviations above the control. In contrast, only 15% and 34% of the plasma samples showed IgM responses to anti-RBD and anti-S that were at least 2 standard deviations above control, respectively. There was no positive correlation between anti-RBD or -S IgG or IgM levels and duration of symptoms or the timing of sample collection relative to onset of symptoms. On the contrary, as might be expected, anti-RBD IgM titers were negatively correlated with duration of symptoms and the timing of sample collection. Anti-RBD IgG levels were modestly correlated to age, and the severity of symptoms including hospitalization. Interestingly, females had lower anti-RBD and -S IgG titers than males.
-
-    / May, 2020 - bioRxiv
-    quote !f = Levels of anti-RBD- and -S IgG antibodies correlated strongly with NT50. Consistent with this observation, hospitalized individuals with longer symptom duration showed slightly higher average levels of neutralizing activity than non hospitalized individuals (p=0.0495). Finally, we observed a significant difference in neutralizing activity between males and females (p=0.0031). The difference between males and females was consistent with higher anti-RBD and -S IgG titers in males, and could not be attributed to age, severity, timing of sample collection relative to onset of symptoms or duration of symptoms.
-
-    / May, 2020 - bioRxiv
-    quote !g = The frequency of antigen-specific B cells, identified by their ability to bind to both Phycoerythrin (PE)and AF647-labeled RBD, ranged from 0.07 to 0.005% of all circulating B cells in COVID-19 convalescents but they were undetectable in pre-COVID-19 controls We obtained 534 paired IgG heavy and light chain (IGH and IGL) sequences by reverse transcription and subsequent PCR from individual RBD-binding B cells from the 6 convalescent individuals. When compared to the human antibody repertoire, several IGHV and IGLV genes were significantly over-represented.
-
-    / May, 2020 - bioRxiv
-    quote !h =  The average number of V genes nucleotide mutations for IGH and IGL was 4.2 and 2.8, respectively, which is lower than in antibodies cloned from individuals suffering from chronic infections such as Hepatitis B or HIV-1, and similar to antibodies derived from primary malaria infection or non-antigen-enriched circulating IgG memory cells. Among other antibody features, IGH CDR3 length was indistinguishable from the reported norm and hydrophobicity was below average.
-
-    / May, 2020 - bioRxiv
-    quote !i = Potent neutralizing antibodies were found in individuals irrespective of their plasma NT50s. For example, C121, C144, and C135 with IC50s of 1.64, 2.55 and 2.98 ng/mL against authentic SARS144 CoV-2, respectively, were obtained from individuals COV107, COV47, and COV72 whose plasma NT50 values were of 297, 10,433 and 3,138, respectively. Finally, clones of antibodies with shared IGHV and IGLV genes were among the best neutralizers, e.g., antibody C002 composed of IGHV3-30/IGKV1-39 is shared by the 2 donors with the best plasma neutralizing activity. We conclude that even individuals with modest plasma neutralizing activity harbor rare IgG memory B cells that produce potent SARS150 CoV-2 neutralizing antibodies.
-
-    / May, 2020 - bioRxiv
-    quote !j = The antibodies tested comprised 3 groups, all of which differ in their binding properties from CR3022, an antibody that neutralizes SARS-CoV and binds to, but does not neutralize SARS-CoV-2. Representatives of each of the 3 groups include: C144 and C101 in Group 1; C121 and C009 in Group 2; C135 in Group 3. All of these antibodies can bind after CR3022. Groups 1 and 2 also bind after Group 3, and Groups 1 and 2 differ in that Group 1 can bind after Group 2 but not vice versa. We conclude that similar to SARS-CoV, there are multiple distinct neutralizing epitopes on the RBD of SARS-CoV-2.
-
-    / May, 2020 - bioRxiv
-    quote !k = Consistent with the conformational flexibility of the RBD, 2D class averages showed heterogeneity in both occupancy and conformation of bound Fabs for both groups. The 3D reconstructions of S-Fab complexes revealed both a fully-occupied RBD and partial density for a second bound Fab, suggesting that Fabs from both groups are able to recognize “up” and “down” states of the RBD as previously described for some of the antibodies targeting this epitope. The 3D reconstructions are also consistent with BLI measurements indicating that Groups 1 and 2 antibodies bind a RBD epitope distinct from antibody CR3022, which is only accessible on the RBD “up” conformational state11 174 , and bind the RBD with different angles of approach, with Group 1 antibodies most similar to the approach angle of the SARS-CoV antibody S230.
+    # / May, 2020 - bioRxiv
+    # quote !b = Antibodies expressed by clonally expanded B cells with IGHV1-58/IGKV3-20 and IGHV3-30-3/IGKV1-39 found repeatedly in different individuals had amino acid sequence identities of up to 99% and 92%, respectively. We conclude that the IgG memory response to the SARS-CoV-2 RBD is rich in recurrent and clonally expanded antibody sequences.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !c = ELISA assays showed that 94% (79 out of 84) of the antibodies tested including clonal and unique sequences bound to the SARS-CoV-2 RBD with an average half-maximal effective concentration (EC50) of 6.1 ng/mL. A fraction of those (7 out of 79, or 9%) cross-reacted with the RBD of SARS-CoV with a mean EC50 of 120.1 ng/mL. No significant cross-reactivity was noted to the RBDs of MERS, HCoV-OC43, HCoV133 229E or HCoV-NL63.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !d = Despite low plasma titers, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50s) as low as single digit ng/mL.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !e = Overall, 78% and 70% of the plasma samples tested showed anti-RBD and anti-S IgG AUCs that were at least 2 standard deviations above the control. In contrast, only 15% and 34% of the plasma samples showed IgM responses to anti-RBD and anti-S that were at least 2 standard deviations above control, respectively. There was no positive correlation between anti-RBD or -S IgG or IgM levels and duration of symptoms or the timing of sample collection relative to onset of symptoms. On the contrary, as might be expected, anti-RBD IgM titers were negatively correlated with duration of symptoms and the timing of sample collection. Anti-RBD IgG levels were modestly correlated to age, and the severity of symptoms including hospitalization. Interestingly, females had lower anti-RBD and -S IgG titers than males.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !f = Levels of anti-RBD- and -S IgG antibodies correlated strongly with NT50. Consistent with this observation, hospitalized individuals with longer symptom duration showed slightly higher average levels of neutralizing activity than non hospitalized individuals (p=0.0495). Finally, we observed a significant difference in neutralizing activity between males and females (p=0.0031). The difference between males and females was consistent with higher anti-RBD and -S IgG titers in males, and could not be attributed to age, severity, timing of sample collection relative to onset of symptoms or duration of symptoms.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !g = The frequency of antigen-specific B cells, identified by their ability to bind to both Phycoerythrin (PE)and AF647-labeled RBD, ranged from 0.07 to 0.005% of all circulating B cells in COVID-19 convalescents but they were undetectable in pre-COVID-19 controls We obtained 534 paired IgG heavy and light chain (IGH and IGL) sequences by reverse transcription and subsequent PCR from individual RBD-binding B cells from the 6 convalescent individuals. When compared to the human antibody repertoire, several IGHV and IGLV genes were significantly over-represented.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !h =  The average number of V genes nucleotide mutations for IGH and IGL was 4.2 and 2.8, respectively, which is lower than in antibodies cloned from individuals suffering from chronic infections such as Hepatitis B or HIV-1, and similar to antibodies derived from primary malaria infection or non-antigen-enriched circulating IgG memory cells. Among other antibody features, IGH CDR3 length was indistinguishable from the reported norm and hydrophobicity was below average.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !i = Potent neutralizing antibodies were found in individuals irrespective of their plasma NT50s. For example, C121, C144, and C135 with IC50s of 1.64, 2.55 and 2.98 ng/mL against authentic SARS144 CoV-2, respectively, were obtained from individuals COV107, COV47, and COV72 whose plasma NT50 values were of 297, 10,433 and 3,138, respectively. Finally, clones of antibodies with shared IGHV and IGLV genes were among the best neutralizers, e.g., antibody C002 composed of IGHV3-30/IGKV1-39 is shared by the 2 donors with the best plasma neutralizing activity. We conclude that even individuals with modest plasma neutralizing activity harbor rare IgG memory B cells that produce potent SARS150 CoV-2 neutralizing antibodies.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !j = The antibodies tested comprised 3 groups, all of which differ in their binding properties from CR3022, an antibody that neutralizes SARS-CoV and binds to, but does not neutralize SARS-CoV-2. Representatives of each of the 3 groups include: C144 and C101 in Group 1; C121 and C009 in Group 2; C135 in Group 3. All of these antibodies can bind after CR3022. Groups 1 and 2 also bind after Group 3, and Groups 1 and 2 differ in that Group 1 can bind after Group 2 but not vice versa. We conclude that similar to SARS-CoV, there are multiple distinct neutralizing epitopes on the RBD of SARS-CoV-2.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !k = Consistent with the conformational flexibility of the RBD, 2D class averages showed heterogeneity in both occupancy and conformation of bound Fabs for both groups. The 3D reconstructions of S-Fab complexes revealed both a fully-occupied RBD and partial density for a second bound Fab, suggesting that Fabs from both groups are able to recognize “up” and “down” states of the RBD as previously described for some of the antibodies targeting this epitope. The 3D reconstructions are also consistent with BLI measurements indicating that Groups 1 and 2 antibodies bind a RBD epitope distinct from antibody CR3022, which is only accessible on the RBD “up” conformational state11 174 , and bind the RBD with different angles of approach, with Group 1 antibodies most similar to the approach angle of the SARS-CoV antibody S230.
 
 
 
@@ -3056,7 +3046,7 @@ feed May2020
       !a
 
     / May, 2020 - bioRxiv
-    quote !a = The availability of a highly infectious rVSV surrogate that can be scaled up with relative ease to produce standardized batches for antiviral screening and readily deployed in reporter-based microneutralization assays will facilitate these efforts.
+    quote !a = Our findings underscore the utility of rVSV-SARS-CoV-2 S for the development of spike-specific vaccines and therapeutics and for mechanistic studies of viral entry and its inhibition.
 
 
   # Immune Response - !a - Frontiers Antiviral
@@ -3170,7 +3160,7 @@ feed May2020
   // Certainty of success: three critical parameters in coronavirus vaccine development
   doi: https://doi.org/10.1038/s41541-020-0193-6
   ref 'Kaslow_et_al_05_07_2020
-    head = The one factor that emerges for consideration in SARS-CoV-2 vaccine development and implementation is reducing the infectious inoculum intensity (and force of infection, at a population-level) to lengthen the incubation period, reduce the severity of illness, and increase the opportunity for an anamnestic response upon exposure to the circulating virus.
+    head = Previously, two critical biological parameters of the pathogen and the host–pathogen interaction—incubation period and broadly protective, relative immunogenicity—were proposed to account for much of the past successes in vaccine development. In considering for SARS-CoV-2, a third, related critical parameter is proposed—infectious inoculum intensity, at an individual-level, and force of infection, at a population-level.
 
     > Abstract
       Vaccines for 17 viral pathogens have been licensed for use in humans. Previously, two critical biological parameters of the pathogen and the host–pathogen interaction—incubation period and broadly protective, relative immunogenicity—were proposed to account for much of the past successes in vaccine development, and to be useful in estimating the “certainty of success” of developing an effective vaccine for viral pathogens for which a vaccine currently does not exist. In considering the “certainty of success” in development of human coronavirus vaccines, particularly SARS-CoV-2, a third, related critical parameter is proposed—infectious inoculum intensity, at an individual-level, and force of infection, at a population-level. Reducing the infectious inoculum intensity (and force of infection, at a population-level) is predicted to lengthen the incubation period, which in turn is predicted to reduce the severity of illness, and increase the opportunity for an anamnestic response upon exposure to the circulating virus. Similarly, successfully implementing individual- and population-based behaviors that reduce the infectious inoculum intensity and force of infection, respectively, while testing and deploying COVID-19 vaccines is predicted to increase the “certainty of success” of demonstrating vaccine efficacy and controlling SARS-CoV-2 infection, disease, death, and the pandemic itself.
@@ -3179,7 +3169,7 @@ feed May2020
       !a
 
     / May, 2020 - npj Vaccines
-    quote !a = Successfully implementing individual- and population-based behaviors that reduce the infectious inoculum intensity and force of infection, respectively, while testing and deploying COVID-19 vaccines may be a critical human-controlled factor in assuring the “certainty of success” through immunization in controlling and eliminating SARS-CoV-2 infection, disease, death, and the pandemic itself.
+    quote !a = Reducing the infectious inoculum intensity (and force of infection, at a population-level) is predicted to lengthen the incubation period, which in turn is predicted to reduce the severity of illness, and increase the opportunity for an anamnestic response upon exposure to the circulating virus.
 
 
   # Variant Population - Kids

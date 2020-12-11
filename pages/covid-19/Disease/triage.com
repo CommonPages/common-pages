@@ -8,6 +8,7 @@ index: hide
   -
     'Jiang_et_al_04_02_2020
     'Rogers_et_al_06_11_2020
+    'Rogers_et_al_06_11_2020.!b
 
   # Proof that antibodies provide protective immunity for atleast 6 months
   > Claim
@@ -26,7 +27,7 @@ index: hide
     'Liotti_et_al_11_12_2020
 
 
-  # Interesting Stat - Overall 20% of cases are asymptotic - can go on Asymtomatic Phase   
+  # Interesting Stat - Overall 20% of cases are asymptotic - can go on Asymtomatic Phase
   >
     The summary proportion of SARS-CoV-2 that is asymptomatic throughout the course of infection was estimated, across all study settings, to be 20%.
   -

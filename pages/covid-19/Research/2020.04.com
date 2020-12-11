@@ -1694,7 +1694,7 @@ feed April2020
 
     - quotes
       !a
-        
+
     / April, 2020 - Welcome Open Research
     quote !a = Our model suggested a high degree of individual-level variation in the transmission of COVID-19. Within the current consensus range of R0 (2-3), the overdispersion parameter k of a negative-binomial distribution was estimated to be around 0.1, suggesting that 80% of secondary transmissions may have been caused by a small fraction of infectious individuals (~10%).
 
@@ -3340,25 +3340,18 @@ feed April2020
   // The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement
   doi: https://doi.org/10.1101/2020.04.10.036418
   ref 'Quinlan_et_al_2020
-    head = Importantly, anti-sera from immunized animals did not mediate antibody-dependent enhancement (ADE) of S-protein-mediated entry under conditions in which Zika virus ADE was readily observed. These data suggest that an RBD-based vaccine for SARS-CoV-2 could be safe and effective, With no-ADE response from an RBD antigen vaccination.
+    head = We show that immunization with the SARS-CoV-2 RBD elicits a robust neutralizing antibody response in rodents, comparable to 100 µg/ml of ACE2-Ig, a potent SARS-CoV-2 entry inhibitor. Importantly, anti-sera from immunized animals did not mediate antibody-dependent enhancement (ADE) of S-protein-mediated entry under conditions in which Zika virus ADE was readily observed.
+
+    > Abstract
+      The SARS-coronavirus 2 (SARS-CoV-2) spike (S) protein mediates entry of SARS-CoV-2 into cells expressing the angiotensin-converting enzyme 2 (ACE2). The S protein engages ACE2 through its receptor-binding domain (RBD), an independently folded 197-amino acid fragment of the 1273-amino acid S-protein protomer. Antibodies to the RBD domain of SARS-CoV (SARS-CoV-1), a closely related coronavirus which emerged in 2002-2003, have been shown to potently neutralize SARS-CoV-1 S-protein-mediated entry, and the presence of anti-RBD antibodies correlates with neutralization in SARS-CoV-2 convalescent sera. Here we show that immunization with the SARS-CoV-2 RBD elicits a robust neutralizing antibody response in rodents, comparable to 100 µg/ml of ACE2-Ig, a potent SARS-CoV-2 entry inhibitor. Importantly, anti-sera from immunized animals did not mediate antibody-dependent enhancement (ADE) of S-protein-mediated entry under conditions in which Zika virus ADE was readily observed. These data suggest that an RBD-based vaccine for SARS-CoV-2 could be safe and effective.
 
     - quotes
       !a
-      !b
-      !c
-      !d
+    
+
 
     / April, 2020 - bioRxiv
-    quote !a = We conclude that the SARS-CoV-2 RBD can elicit a neutralizing response in vaccinated rats comparable to a 100 µg/ml (1 µM) concentration of an inhibitor with a 1 nM IC50.
-
-    / April, 2020 - bioRxiv
-    quote !b = The ability of each pooled serum to displace ACE2-rIg correlated with its ability to neutralize SARS2-PV. Specifically, day-40 sera displaced ACE2-rIg more efficiently than preimmune sera containing 100 µg/ml ACE2-Ig, and day-15 sera displaced ACE2-rIg more efficiently than preimmune sera containing 10 µg/ml ACE2-Ig. Thus immunization with SARSCoV-2 RBD elicits antibodies that potently neutralize S-protein mediated entry by directly binding the S protein.
-
-    / April, 2020 - bioRxiv
-    quote !c = Day-40 sera did not enhance entry SARS-PV entry, but rat anti-ZIKV antisera again robustly promoted ZIKV-VLP infection (Figure 3E and 3F). Collectively the data of Figure 3 suggest that antibodies elicited by an RBD-based vaccine are likely to neutralize more efficiently than they would mediate ADE
-
-    / April, 2020 - bioRxiv
-    quote !d = Given the exposure of this key neutralizing epitope, the ease with which this compact domain can be produced and presented, and its clear immunogenicity, we propose that the RBD be considered asa key component of any SARS-CoV-2 vaccine strategy.
+    quote !a = We propose that the RBD be considered as a key component of any SARS-CoV-2 vaccine strategy.
 
 
   # Tag - Serological assay, testing

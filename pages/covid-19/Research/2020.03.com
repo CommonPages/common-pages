@@ -2410,27 +2410,32 @@ feed March2020
       !a
 
     / March, 2020 - National Academy of Sciences
-    quote !a = Experts agree a careful assessment of possible immune complications before releasing the vaccine to the public. If any of the mechanisms under investigation are indeed involved, they say, the resulting risks are real.
+    quote !a = 
 
   # Vaccine
   // Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design
   doi: https://doi.org/10.1101/2020.03.30.016832
   ref 'Kames_et_al_2020
-    head = Study's analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
+    head = We performed comprehensive in silico analyses of several features of SARS-CoV-2 genomic sequence in comparison with other members of the coronaviridae family of viruses, the overall human genome, and the transcriptome of specific human tissues such as lung, which are primarily targeted by the virus.
+
     > Abstract
       As the SARS-CoV-2 pandemic is rapidly progressing, the need for the development of an effective vaccine is critical. A promising approach for vaccine development is to generate, through codon pair deoptimization, an attenuated virus. This approach carries the advantage that it only requires limited knowledge specific to the virus in question, other than its genome sequence. Therefore, it is well suited for emerging viruses for which we may not have extensive data. We performed comprehensive in silico analyses of several features of SARS-CoV-2 genomic sequence (e.g., codon usage, codon pair usage, dinucleotide/junction dinucleotide usage, RNA structure around the frameshift region) in comparison with other members of the coronaviridae family of viruses, the overall human genome, and the transcriptome of specific human tissues such as lung, which are primarily targeted by the virus. Our analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
+
+    / March, 2020 - bioRxiv
+    quote !a = Our analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
 
 
   # Vaccine, Antibodies
   // Fully human single-domain antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.30.015990
   ref 'Wu_et_al_2020b
-    head = A variety of single-domain antibodies have been isolated targeting five types of epitopes on SARS-CoV-2, and the antibody n3130 was found to potently neutralize both pseudotyped and live virus. These antibodies may represent promising candidates for prophylaxis and therapy of COVID-19, and also serve as reagents to facilitate the vaccine development.
+    head = We describe here the development of a phage-displayed single-domain antibody library by grafting naïve CDRs into framework regions of an identified human germline IGHV allele. This study also reports unique immunogenic profile of SARS-CoV-2 RBD compared to that of SARS-CoV and MERS-CoV.
 
     > Abstract
       The COVID-19 pandemic is spreading rapidly, highlighting the urgent need for an efficient approach to rapidly develop therapeutics and prophylactics against SARS-CoV-2. We describe here the development of a phage-displayed single-domain antibody library by grafting naïve CDRs into framework regions of an identified human germline IGHV allele. This enabled the isolation of high-affinity single-domain antibodies of fully human origin. The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. These fully human single-domain antibodies bound specifically to SARS-CoV-2 RBD with subnanomolar to low nanomolar affinities. Some of them were found to potently neutralize pseudotyped and live virus, and therefore may represent promising candidates for prophylaxis and therapy of COVID-19. This study also reports unique immunogenic profile of SARS-CoV-2 RBD compared to that of SARS-CoV and MERS-CoV, which may have important implications for the development of effective vaccines against SARS-CoV-2.
 
-
+    / March, 2020 - bioRxiv
+    quote !a = The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. The antibody n3130 was found to potently neutralize both pseudotyped and live virus. These antibodies may serve as reagents to facilitate the vaccine development.
 
   # Serology, antibodies
   // Global profiling of SARS-CoV-2 specific IgG/IgM responses of convalescents using a proteome microarray

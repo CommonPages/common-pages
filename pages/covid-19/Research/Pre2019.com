@@ -1619,7 +1619,7 @@ feed Pre2019
   // Isolation of potent SARS-CoV-2 neutralizing antibodies and protection from disease in a small animal model
   doi: https://doi.org/10.1126/science.abc7520
   ref 'Rogers_et_al_06_11_2020
-    head = The results suggest a focus on the RBD and indeed strong nAb responses have been described by immunizing mice with a multivalent presentation of RBD.
+    head = We enrolled a cohort of SARS-CoV-2-recovered participants, developed neutralization assays to interrogate antibody responses, adapted our high-throughput antibody generation pipeline to rapidly screen over 1800 antibodies, and established an animal model to test protection.
 
     > Abstract
       Countermeasures to prevent and treat COVID-19 are a global health priority. We enrolled a cohort of SARS-CoV-2-recovered participants, developed neutralization assays to interrogate antibody responses, adapted our high-throughput antibody generation pipeline to rapidly screen over 1800 antibodies, and established an animal model to test protection. We isolated potent neutralizing antibodies (nAbs) to two epitopes on the receptor binding domain (RBD) and to distinct non-RBD epitopes on the spike (S) protein. We showed that passive transfer of a nAb provides protection against disease in high-dose SARS-CoV-2 challenge in Syrian hamsters, as revealed by maintained weight and low lung viral titers in treated animals. The study suggests a role for nAbs in prophylaxis, and potentially therapy, of COVID-19. The nAbs define protective epitopes to guide vaccine design.
@@ -1627,40 +1627,38 @@ feed Pre2019
     - quotes
       !a
       !b
-      !c
-      !d
 
     / June, 2020 - American Association for the Advancement of Science
-    quote !a = The recombinant S protein that we used to select B cells is a poor representation of the native spike on virions. In other words, there may be many nAbs to S but we failed to isolate them because of the selecting antigen.
+    quote !a = We showed that passive transfer of a nAb provides protection against disease in high-dose SARS-CoV-2 challenge in Syrian hamsters, as revealed by maintained weight and low lung viral titers in treated animals. The study suggests a role for nAbs in prophylaxis, and potentially therapy, of COVID-19. The nAbs define protective epitopes to guide vaccine design.
 
     / June, 2020 - American Association for the Advancement of Science
-    quote !b = The recombinant S protein that we used is close to native but non-neutralizing antibodies bind to sites on S that do not interfere with viral entry
+    quote !b = The results suggest a focus on the RBD and indeed strong nAb responses have been described by immunizing mice with a multivalent presentation of RBD.
 
-    / June, 2020 - American Association for the Advancement of Science
-    quote !c = The S protein in natural infection disassembles readily generating a strong Ab response to “viral debris” that is non-neutralizing because the antibodies recognize protein surfaces that are not exposed on the native spike.
-
-    / June, 2020 - American Association for the Advancement of Science
-    quote !d = Importantly, the availability of both neutralizing and non-neutralizing antibodies generated in this study will facilitate evaluation of S protein immunogens for presentation of neutralizing and non-neutralizing epitopes and promote effective vaccine design. The design of an immunogen that improves on the quality of nAbs elicited by natural infection may well emerge as an important goal of vaccine efforts.
+    # / June, 2020 - American Association for the Advancement of Science
+    # quote !c = The S protein in natural infection disassembles readily generating a strong Ab response to “viral debris” that is non-neutralizing because the antibodies recognize protein surfaces that are not exposed on the native spike.
+    #
+    # / June, 2020 - American Association for the Advancement of Science
+    # quote !d = Importantly, the availability of both neutralizing and non-neutralizing antibodies generated in this study will facilitate evaluation of S protein immunogens for presentation of neutralizing and non-neutralizing epitopes and promote effective vaccine design. The design of an immunogen that improves on the quality of nAbs elicited by natural infection may well emerge as an important goal of vaccine efforts.
 
 
   # Frontiers Vaccine
   // Potent neutralizing antibodies from COVID-19 patients define multiple targets of vulnerability
   doi: https://doi.org/10.1126/science.abc5902
   ref 'Brouwer_et_al_06_10_2020
-    head = Convalescent COVID-19 patients showed strong anti-SARS-CoV-2 S protein specific B cell responses and developed memory and antibody producing B cells that may have participated in the control of infection and the establishment of humoral immunity. We isolated 19 NAbs that target a diverse range of antigenic sites on the S protein, of which two showed picomolar neutralizing activities  against authentic SARS-CoV-2 virus.
+    head =  We isolated 19 NAbs (Neutralizing Antibodies) that target a diverse range of antigenic sites on the S protein, of which two showed picomolar neutralizing activities against authentic SARS-CoV-2 virus. The antibodies described here are promising candidates for COVID-19 treatment and prevention.
 
     > Abstract
       The rapid spread of SARS-CoV-2 has a significant impact on global health, travel and economy. Therefore, preventative and therapeutic measures are urgently needed. Here, we isolated monoclonal antibodies from three convalescent COVID-19 patients using a SARS-CoV-2 stabilized prefusion spike protein. These antibodies had low levels of somatic hypermutation and showed a strong enrichment in VH1-69, VH3-30-3 and VH1-24 gene usage. A subset of the antibodies were able to potently inhibit authentic SARS-CoV-2 infection as low as 0.007 μg/mL. Competition and electron microscopy studies illustrate that the SARS-CoV-2 spike protein contains multiple distinct antigenic sites, including several receptor-binding domain (RBD) epitopes as well as non-RBD epitopes. In addition to providing guidance for vaccine design, the antibodies described here are promising candidates for COVID-19 treatment and prevention.
 
     - quotes
       !a
-      !b
+
 
     / June, 2020 - American Association for the Advancement of Science
-    quote !a = SARS-CoV-2 infection elicits high-affinity and cross-reactive mAbs targeting the RBD as well as other sites on the S protein. Several of the potent NAbs had VH segments virtually identical to their germline origin, which holds promise for the induction of similar NAbs by vaccination as extensive affinity maturation does not appear to be a requirement for potent neutralization. Interestingly, the most potent NAbs both target the RBD on the S protein and fall within the same competition cluster, but are isolated from two different individuals and bear little resemblance genotypically.
+    quote !a = SARS-CoV-2 spike protein contains multiple distinct antigenic sites, including several receptor-binding domain (RBD) epitopes as well as non-RBD epitopes.
 
-    / June, 2020 - American Association for the Advancement of Science
-    quote !b = hrough large-scale SPR-based competition assays, we defined NAbs that target multiple sites of vulnerability on the RBD as well as additional previously undefined non-RBD epitopes on SARS-CoV-2. This is consistent with the identification of multiple antigenic RBD sites for SARS-CoV-2 and the presence of additional non-RBD sites on the S protein of SARS-CoV and MERS-CoV. Subsequent structural characterization of these potent NAbs will guide vaccine design, while simultaneous targeting of multiple non-RBD and RBD epitopes with mAb cocktails paves the way for safe and effective COVID-19 prevention and treatment.
+    # / June, 2020 - American Association for the Advancement of Science
+    # quote !b = Through large-scale SPR-based competition assays, we defined NAbs that target multiple sites of vulnerability on the RBD as well as additional previously undefined non-RBD epitopes on SARS-CoV-2. This is consistent with the identification of multiple antigenic RBD sites for SARS-CoV-2 and the presence of additional non-RBD sites on the S protein of SARS-CoV and MERS-CoV. Subsequent structural characterization of these potent NAbs will guide vaccine design, while simultaneous targeting of multiple non-RBD and RBD epitopes with mAb cocktails paves the way for safe and effective COVID-19 prevention and treatment.
 
   # Airborne
   // Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients
@@ -5553,7 +5551,7 @@ feed Pre2019
       !a
 
     / April, 2013 - Journal of Virology
-    quote !a = By explicitly modeling variation in the strength of natural selection over time and thereby improving the modeling of substitution saturation, we found that the time to the most recent ancestor common for all coronaviruses is likely far greater (millions of years) than the previously inferred range.
+    quote !a = We found that the time to the most recent ancestor common for all coronaviruses is likely far greater (millions of years) than the previously inferred range.
 
   # Tag ACE2 inhibitor at Remediation
   // The first-in-class peptide binder to the SARS-CoV-2 spike protein

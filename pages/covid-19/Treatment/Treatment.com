@@ -558,6 +558,9 @@ subject module Treatment
       'Jing_et_al_2009
     -
       'Takahashi_et_al_06_09_2020.!j
+    ## Use of Plants as Medicine for Infectious Diseases
+    -
+      'Weng_et_al_05_19_2020  
 
   —
   / Clinical Management
