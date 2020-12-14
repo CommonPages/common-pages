@@ -117,6 +117,7 @@ subject module Testing
           -
             'Berenger_et_al_05_08_2020
             'Yang_et_al_2020
+            'Yang_et_al_2020.!d
 
         / Saliva Samples
         claim !Saliva = Several studies have suggested that saliva samples are at least as sensitive as nasopharyngeal in detecting SARS-CoV-2.
@@ -364,9 +365,6 @@ subject module Testing
       'Blackwell_et_al_2009
       'Paul_et_al_2013
       'Nguyen_et_al_2020.!a
-    # -- Detection
-      'Yang_et_al_2020.!a
-      'Yang_et_al_2020.!b
     # -- Lymphocytes as a reference index- diagnosis of covid19
       'Chen_et_al_2020c.!g
       'Yuan_et_al_2020.!j

@@ -2455,15 +2455,12 @@ feed Sangeeta
   quote !a = The low prevalence of high viral load samples further limits the use of RAD test in clinical setting.
 
 
-
-
-
   # Viral dynamics
   @@MortenSommer
   // Spatial and temporal dynamics of SARS-CoV-2 in COVID-19 patients: A systematic review and meta-analysis
   doi: https://doi.org/10.1016/j.ebiom.2020.102916
   ref 'Weiss_et_al_07_22_2020
-    head = Our analysis showed consistent viral detection from specimen from the upper respiratory tract (URT), the lower respiratory tract (LRT), and faeces, irrespective of the clinical severity of COVID-19. It suggests that SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients. Further, viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
+    head = We pooled the data of selected studies (22/7226 (650 patients) for meta-analysis) to estimate duration of viral detection and visualized viral load over time.
 
     > Background
       The spatial and temporal dynamics of SARS-CoV-2 have been described in case series and retrospective studies. In this study, we provide a coherent overview of the duration of viral detection and viral RNA load in COVID-19 patients, stratified by specimen type, clinical severity, and age.
@@ -2479,9 +2476,13 @@ feed Sangeeta
 
     - quotes
       !a
+      !b
 
     / July, 2020 - EbioMedicine
-    quote !a = The differences in the duration of viral detection between mild and moderate-severe patients is limited in the LRT, but an indication of longer duration of viral detection for moderate-severe patients was observed in feces (15 days in mild vs. 21 days in moderate-severe patients) and the URT (12 days in mild vs. 16 days in moderate-severe patients).
+    quote !a = Our analysis showed consistent viral detection from specimen from the URT, LRT, and faeces, irrespective of the clinical severity. SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients. Further, viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
+
+    / July, 2020 - EbioMedicine
+    quote !b = The differences in the duration of viral detection between mild and moderate-severe patients is limited in the LRT, but an indication of longer duration of viral detection for moderate-severe patients was observed in feces (15 days in mild vs. 21 days in moderate-severe patients) and the URT (12 days in mild vs. 16 days in moderate-severe patients).
 
 
   #
@@ -4663,7 +4664,7 @@ feed Sangeeta
   // COVID-19 and the Ocular Surface: A Review of Transmission and Manifestations
   doi: https://doi.org/10.1080/09273948.2020.1772313
   ref 'Ho_et_al_06_16_2020
-    head = The exact pathophysiology of ocular transmission of the virus remains incompletely understood, although there is preliminary evidence of SARS-CoV-2 being detected in ocular secretions. Ocular surface manifestations such as conjunctivitis are more commonly reported.
+    head = In this article, the current evidence related to ocular transmission and ocular manifestations is reviewed.
 
     > Purpose
       The outbreak of coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has reached pandemic proportions within an unprecedented span of time. It is controversial whether the virus can be transmitted via tears and its ocular implications have not been widely studied. In this article, the current evidence related to ocular transmission and ocular manifestations is reviewed.
@@ -4675,7 +4676,7 @@ feed Sangeeta
       The exact pathophysiology of ocular transmission of the virus remains incompletely understood, although there is preliminary evidence of SARS-CoV-2 being detected in ocular secretions. The ocular tropism of the virus and its potential to cause localized ocular disease are worth considering.
 
     / June, 2020 - Ocular Immunology and Inflammation
-    quote !a =
+    quote !a = The exact pathophysiology of ocular transmission of the virus remains incompletely understood, although there is preliminary evidence of SARS-CoV-2 being detected in ocular secretions. Ocular surface manifestations such as conjunctivitis are more commonly reported.
 
 
 

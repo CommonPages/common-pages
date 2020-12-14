@@ -49,7 +49,7 @@ feed February2020
   // Evaluating the accuracy of different respiratory specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections
   doi: https://doi.org/10.1101/2020.02.11.20021493
   ref 'Yang_et_al_2020
-    head = Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases. CT scan of three cases showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples. Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs.
+    head = Respiratory samples including nasal swabs, throat swabs, sputum and bronchoalveolar lavage fluid (BALF) were collected from Guangdong CDC confirmed NCP patients, and viral RNAs were detected using a CFDA approved detection kit. Results were analyzed in combination with sample collection date and clinical information
 
     > Methods:
       Respiratory samples including nasal swabs, throat swabs, sputum and bronchoalveolar lavage fluid (BALF) were collected from Guangdong CDC confirmed NCP patients, and viral RNAs were detected using a CFDA approved detection kit. Results were analyzed in combination with sample collection date and clinical information
@@ -58,10 +58,11 @@ feed February2020
     > Interpretation:
       Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs. Detection of viral RNAs in BLAF is necessary for diagnosis and monitoring of viruses in severe cases. CT scan could serve as an important make up for the diagnosis of NCP.
 
-    # - quotes
-    #   !a
-    #   !b
-    #   !c
+    - quotes
+      !a
+      !b
+      !c
+      !d
 
     / Feb, 2020 - medRxiv
     quote !a = The positive rate of throat swab varied in the severe and mild cases. For the severe cases, the positive rates were similar in samples collected 0~7 and 8~14 d.a.o, while low in samples collected ≥ 15 d.a.o. For the mild cases, it showed the highest positive rate in samples collected 0~7 d.a.o, however, very low positive rate in samples collected 8~14 and ≥15 d.a.o. The results indicate that sputum may serve as the most sensitive samples for the virus detection, and followed by nasal swabs.
@@ -70,7 +71,10 @@ feed February2020
     quote !b = As a result, nasal swabs may be the most widely applicable samples for virus detection. On the contrary, throat swabs were not recommended for the viruses detection, especially the samples collected 8~14 and ≥ 15 d.a.o from mild cases, which may result in a large proportion of false negative results.
 
     / Feb, 2020 - medRxiv
-    quote !c = Although the sample size was small, it also suggests that the viral distribution is associated with diseases severity. More importantly, why the viruses in some individuals retained in the upper respiratory tract merits further elucidation.
+    quote !c = Viral RNAs could be detected in all the lower respiratory tract of severe cases, but not the mild cases.
+
+    / Feb, 2020 - medRxiv
+    quote !d = CT scan of three cases showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples. Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs.
 
   # SARS-CoV2 indicate that furin is more dispensable than TMPRSS2 for viral entry, furin
   // Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses
@@ -966,7 +970,7 @@ feed February2020
   // The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade
   doi: https://doi.org/10.1016/j.antiviral.2020.104742
   ref 'Coutard_et_al_2020
-    head = A peculiar furin-like cleavage site in the Spike protein of the 2019-nCoV, lacking in the other SARS-like CoVs. The genomic sequence of 2019-nCoV indicates that the virus clusters with betacoronaviruses of lineage b. S-protein sequence has a specific furin-like cleavage site absent in lineage b CoV including SARS-CoV sequences.
+    head = We identified a peculiar furin-like cleavage site in the Spike protein of the 2019-nCoV, lacking in the other SARS-like CoVs. We discuss the possible functional consequences of this cleavage site in the viral cycle, pathogenicity and its potential implication in the development of antivirals.
 
     > Abstract
       In 2019, a new coronavirus (2019-nCoV) infecting Humans has emerged in Wuhan, China. Its genome has been sequenced and the genomic information promptly released. Despite a high similarity with the genome sequence of SARS-CoV and SARS-like CoVs, we identified a peculiar furin-like cleavage site in the Spike protein of the 2019-nCoV, lacking in the other SARS-like CoVs. In this article, we discuss the possible functional consequences of this cleavage site in the viral cycle, pathogenicity and its potential implication in the development of antivirals.

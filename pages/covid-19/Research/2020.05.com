@@ -1020,7 +1020,7 @@ feed May2020
   // SARS-CoV-2 spike protein binds heparan sulfate in a length- and sequence-dependent manner
   doi: https://doi.org/10.1101/2020.05.10.087288
   ref 'Liu_et_al_05_10_2020
-    head = Our data supports a model in which the RBD (receptor binding domain) of the spike of SARS-CoV-2 confers sequence specificity for HS (heparan sulfate) expressed by target cells whereas an additional HS binding site in the S1/S2 proteolytic cleavage site enhances the avidity of binding. Collectively, our results highlight the potential of using HS oligosaccharides as a therapeutic agent by inhibiting SARS-CoV-2 binding to target cells.
+    head = Microarray binding experiments using an extensive heparan sulfate (HS) oligosaccharide library showed the spike of SARS-CoV-2 can bind HS in a length- and sequence-dependent manner. Surface plasma resonance (SPR) showed the SARS-CoV-2 spike protein binds with higher affinity to heparin (KD 55 nM) compared to the receptor binding domain (RBD, KD 1 µM) alone.
 
     > Abstract
       Severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) is causing an unprecedented global pandemic demanding the urgent development of therapeutic strategies. Microarray binding experiments using an extensive heparan sulfate (HS) oligosaccharide library showed the spike of SARS-CoV-2 can bind HS in a length- and sequence-dependent manner. Hexa- and octasaccharides composed of IdoA2S-GlcNS6S repeating units were identified as optimal ligands. Surface plasma resonance (SPR) showed the SARS-CoV-2 spike protein binds with higher affinity to heparin (KD 55 nM) compared to the receptor binding domain (RBD, KD 1 µM) alone. An octasaccharide composed of IdoA2S-GlcNS6S could inhibit spike-heparin interaction with an IC50 of 38 nM. Our data supports a model in which the RBD of the spike of SARS-CoV-2 confers sequence specificity for HS expressed by target cells whereas an additional HS binding site in the S1/S2 proteolytic cleavage site enhances the avidity of binding. Collectively, our results highlight the potential of using HS oligosaccharides as a therapeutic agent by inhibiting SARS-CoV-2 binding to target cells.
@@ -2940,17 +2940,27 @@ feed May2020
   // Chemistry and Biology of SARS-CoV-2
   doi: https://doi.org/10.1016/j.chempr.2020.04.023
   ref 'Domling_et_al_05_20_2020
-    head = Despite the rather large size of the RNA virus genome of ~30,000 bases, the SARS-CoV-2 genome encodes for few proteins the structural spike (S) protein, nucleocapsid (N) protein, membrane (M) protein, and the envelope (E) protein, which are needed to produce a structurally complete viral particle. Additionally, the SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
+    head = The genetic fingerprint was shared, and the 3D structure of key proteins was rapidly solved, which can be used for the discovery of potential treatments. An overview is given on the current knowledge of the spread, disease course, and molecular biology of SARS-CoV-2.
 
-    # / May, 2020 - Chem
-    #  quote !a =
+    > Abstract
+      SARS-CoV-2 (previously 2019-nCoV or Wuhan coronavirus) caused an unprecedented fast-spreading worldwide pandemic. Although currently with a rather low mortality rate, the virus spread rapidly over the world using the modern world’s traffic highways. The coronavirus (CoV) family members were responsible for several deadly outbreaks and epidemics during the last decade. Not only governments but also the scientific community reacted promptly to the outbreak, and information is shared quickly. For example, the genetic fingerprint was shared, and the 3D structure of key proteins was rapidly solved, which can be used for the discovery of potential treatments. An overview is given on the current knowledge of the spread, disease course, and molecular biology of SARS-CoV-2. We discuss potential treatment developments in the context of recent outbreaks, drug repurposing, and development timelines.
+
+    - quotes
+      !a
+      !b
+
+    / May, 2020 - Chem
+     quote !a = Despite the rather large size of the RNA virus genome of ~30,000 bases, the SARS-CoV-2 genome encodes for few proteins the structural spike (S) protein, nucleocapsid (N) protein, membrane (M) protein, and the envelope (E) protein, which are needed to produce a structurally complete viral particle.
+
+    / May, 2020 - Chem
+     quote !b = The SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
 
 
   # Pneumonia , !a, !b, !c - Immune Response , !d - Entry - ACE 2
   // Respiratory Virus Infections: Understanding COVID-19
   doi: https://doi.org/10.1016/j.immuni.2020.05.004
   ref 'Subbarao_et_al_05_19_2020
-    head = COVID-19 pneumonia differs from that caused by other respiratory viruses in the severity and duration of inflammation, which appears to be driven by an exuberant innate immune response, a flood of proinflammatory cytokines, and multiorgan dysfunction, driven by derangements in pulmonary and clotting physiology.
+    head = Here we explain what happens when we are infected by respiratory viruses, including SARS-CoV-2, which causes COVID-19.
 
     > Abstract
       Respiratory viruses affect us throughout our lives, from infancy to old age, causing illnesses ranging from a common cold to severe pneumonia. They belong to several virus families, and although many features of infection with these diverse viruses are shared, some have unique characteristics. Here we explain what happens when we are infected by respiratory viruses, including SARS-CoV-2, which causes COVID-19.
@@ -2962,7 +2972,10 @@ feed May2020
       !d
 
     / May, 2020 - Immunity
-    quote !a = Innate responses are activated when macrophages encounter damage-associated molecular patterns (DAMPs), such as intracellular contents released from dying cells or proteins released by tissue injury, or pathogen-associated molecular patterns (PAMPs), such as viral RNA or oxidized phospholipids from invading pathogens.
+    quote !a = COVID-19 pneumonia differs from that caused by other respiratory viruses in the severity and duration of inflammation, which appears to be driven by an exuberant innate immune response, a flood of proinflammatory cytokines, and multiorgan dysfunction, driven by derangements in pulmonary and clotting physiology.
+
+    / May, 2020 - Immunity
+    quote !a1 = Innate responses are activated when macrophages encounter damage-associated molecular patterns (DAMPs), such as intracellular contents released from dying cells or proteins released by tissue injury, or pathogen-associated molecular patterns (PAMPs), such as viral RNA or oxidized phospholipids from invading pathogens.
 
     / May, 2020 - Immunity
     quote !b = DAMPs and PAMPs released during initial infection and lysis of pneumocytes (surface epithelial cells of the alveoli) activate multiple innate immune pathways through Toll-like receptors (TLRs), NLRP3 and/or inflammasome activation, or triggering of cytoplasmic DNA sensors such as RIG-I-MAVS and cGAS-STING.
@@ -2977,13 +2990,21 @@ feed May2020
   // Multiorgan and Renal Tropism of SARS-CoV-2
   doi: https://doi.org/10.1056/NEJMc2011400
   ref 'Puelles_et_al_05_13_2020
-    head = Renal tropism is a potential explanation of commonly reported new clinical signs of kidney injury in patients with Covid-19, even in patients with SARS-CoV-2 infection who are not critically ill. Our results indicate that SARS-CoV-2 has an organotropism beyond the respiratory tract, including the kidneys, liver, heart, and brain, and we speculate that organotropism influences the course of Covid-19 disease and, possibly, aggravates preexisting conditions.
+    head = We present data from an autopsy series of 27 patients that show that SARS-CoV-2 can be detected in multiple organs, including the lungs, pharynx, heart, liver, brain, and kidneys.
 
     - quotes
       !a
+      !b
+      !c
 
     / May, 2020 - NEJM
-    quote !a =  The highest levels of SARS-CoV-2 copies per cell were detected in the respiratory tract, and lower levels were detected the kidneys, liver, heart, brain, and blood.
+    quote !a =  Renal tropism is a potential explanation of commonly reported new clinical signs of kidney injury in patients with Covid-19, even in patients with SARS-CoV-2 infection who are not critically ill.
+
+    / May, 2020 - NEJM
+    quote !b = SARS-CoV-2 has an organotropism beyond the respiratory tract, including the kidneys, liver, heart, and brain, and we speculate that organotropism influences the course of Covid-19 disease and, possibly, aggravates preexisting conditions.
+
+    / May, 2020 - NEJM
+    quote !c = The highest levels of SARS-CoV-2 copies per cell were detected in the respiratory tract, and lower levels were detected the kidneys, liver, heart, brain, and blood.
 
   # Frontiers - bats
   // The Potential Role of Endogenous Viral Elements in the Evolution of Bats as Reservoirs for Zoonotic Viruses

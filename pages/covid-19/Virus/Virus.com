@@ -27,18 +27,32 @@ subject module Virus
     claim !StructuralProtein = SARS-CoV-2 has four structural proteins, known as the S, E, M, and N proteins (spike, envelope, membrane, and nucleocapsid). The N protein holds the RNA genome, and the S, E, and M proteins together create the *viral_envelope.
       -
         'Domling_et_al_05_20_2020
+        'Domling_et_al_05_20_2020.!a
 
     claim !SpikeProtein = The Spike Protein allows SARS-CoV-2 to attach and fuse with the membrane of a host cell; specifically, its S1 subunit catalyzes attachment, the S2 subunit fusion.
       -
         'Walls_et_al_2020
+        'Walls_et_al_2020.!a
+        'Walls_et_al_2020.!b
+      -
         'Wrapp_et_al_2020
+        'Wrapp_et_al_2020.!a
+      -
         'Coutard_et_al_2020
+      -
         'Liu_et_al_05_10_2020
+        'Liu_et_al_05_10_2020.!a
+      -
+        'Anderson_et_al_2020
         'Anderson_et_al_2020.!c
 
     claim !NonStructuralProteins = The SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
       -
+        'Domling_et_al_05_20_2020
+        'Domling_et_al_05_20_2020.!b
+      -
         'Gao_et_al_2020b
+      -
         'Hillen_et_al_05_15_2020
 
   / Entry and Replication
@@ -56,30 +70,57 @@ subject module Virus
     claim !RespiratoryTransmission = SARS-CoV-2 primarily enters the human body through the nose and mouth.
       -
         'Sungnak_et_al_04_23_2020
+        'Sungnak_et_al_04_23_2020.!a
+      -
         'Gengler_et_al_02_20_2020
         'Gengler_et_al_02_20_2020.!a
+        'Gengler_et_al_02_20_2020.!b
 
     claim !OcularTransmission = Entry of SARS-CoV-2 to the human body via the eyes (ocular transmission) is still unclear. It is hypothesized to occur via drainage of virus‐laden tears into the nasal cavity through the nasolacrimal duct.
       -
         'Ho_et_al_06_16_2020
+        'Ho_et_al_06_16_2020.!a
+      -
         'Sun_et_al_03_24_2020
         'Sun_et_al_03_24_2020.!a
+        'Sun_et_al_03_24_2020.!b
 
     claim !CellEntry = Once in the body, SARS-CoV-2 enters human cells by binding to the ACE2 receptor. After a SARS-CoV-2 virion attaches to a target cell, the cell's protease TMPRSS2 cuts open the spike protein of the virus, exposing a fusion peptide in the S2 subunit, and the host receptor ACE2.
       -
-        'Hoffman_et_al_2020
-        'Matsuyama_et_al_2020
         'Wan_et_al_2020
+        'Wan_et_al_2020.!a
+        'Wan_et_al_2020.!b
+        'Wan_et_al_2020.!c
+      -
+        'Wrapp_et_al_2020
+        'Wrapp_et_al_2020.!a
+      -
+        'Hoffman_et_al_2020
+      -
+        'Matsuyama_et_al_2020
+        'Matsuyama_et_al_2020.!a
 
     claim !Replication = After the SARS-CoV-2 spike protein is cut, its virion releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
+      -
+        'Vkovski_et_al_10_28_2020
+      # Link : https://www.nature.com/articles/s41579-020-00468-6/figures/1
       -
         'Figure_Virus_Replication
 
     claim !OrganEntry = SARS-CoV-2 may enter the central nervous system through the ACE-2 receptor, invading organs, including the brain.
       -
         'Chen_et_al_05_19_2020
+        'Chen_et_al_05_19_2020.!a
+      -
         'Puelles_et_al_05_13_2020
+        'Puelles_et_al_05_13_2020.!a
+        'Puelles_et_al_05_13_2020.!b
+        'Puelles_et_al_05_13_2020.!c
+      -
         'Meinhardt_et_al_06_04_2020
+        'Meinhardt_et_al_06_04_2020.!a
+      -
+        'Subbarao_et_al_05_19_2020
         'Subbarao_et_al_05_19_2020.!d
 
     # / Neuropilin
@@ -91,6 +132,7 @@ subject module Virus
     claim !Temperature = In contrast to SARS-CoV, SARS-CoV-2 replicates more efficiently at temperatures encountered in the upper respiratory tract, and displays higher sensitivity to type I and type III IFNs.
       -
         'Vkovski_et_al_2020
+        'Vkovski_et_al_2020.!a
 
   / Viral Load and Shedding
   subject Shedding
@@ -111,24 +153,27 @@ subject module Virus
     claim !Upper = SARS-CoV-2 can be detected upper respiratory tract (URT) 1-3 days days before the onset of symptoms. The concentration of SARS-CoV-2 in the URT is highest around the time of symptom onset, after which it gradually declines.
       -
         'He_et_al_2020
+        'He_et_al_2020.!c
         'He_et_al_2020.!b
       -
         'Woelfel_et_al_2020b
+        'Woelfel_et_al_2020b.!a
         'Woelfel_et_al_2020b.!b
       -
         'Weiss_et_al_07_22_2020
-        'Zou_et_al_2020
+        'Weiss_et_al_07_22_2020.!a
 
     claim !Peak = The highest viral load during a SARS-CoV-2 infection is observed in throat swabs at the time of symptom onset, suggesting that infectiousness peaks on or before symptom onset.
       -
         'Benefield_et_al_09_30_2020
-        'Liu_et_al_2020c
+        'Benefield_et_al_09_30_2020.!a
+        'Benefield_et_al_09_30_2020.!b
       -
         'Joynt_et_al_2020
         'Joynt_et_al_2020.!a
       -
         'Zou_et_al_2020
-        'Zou_et_al_2020.!a
+        'Zou_et_al_2020.!b
       -
         'He_et_al_2020
         'He_et_al_2020.!a
@@ -146,25 +191,42 @@ subject module Virus
         'Kim_et_al_2020b.!d
       -
         'Pan_et_al_2020b
+      -
+        'Liu_et_al_2020c
+        'Liu_et_al_2020c.!a
 
     claim !Duration = Viral RNA can be detected in the upper respiratory tract long after the disappearance of infectious virus.
       -
         'Woelfel_et_al_2020
-        'Atkinson_et_al_2020
+        'Woelfel_et_al_2020.!a
+      -
+        'Benefield_et_al_09_30_2020
+        'Benefield_et_al_09_30_2020.!a
+      -
+        'Atkinson_et_al_2020.!a
       -
         'He_et_al_2020
         'He_et_al_2020.!b
       -
         'Woelfel_et_al_2020b
+        'Woelfel_et_al_2020b.!a
+      -
         'Yang_et_al_2020
+        'Yang_et_al_2020.!c
+      -
         'Xu_et_al_2020b
+        'Xu_et_al_2020b.!a
+      -
         'Liu_et_al_2020c
-        'Benefield_et_al_09_30_2020
+        'Liu_et_al_2020c.!a
 
     claim !Lower = There have been reports that viral RNA in the lower respiratory tract (LRT)—and for a subset of individuals, in feces—increases during the second week of illness.
       -
         'Woelfel_et_al_2020b
+        'Woelfel_et_al_2020b.!a
+      -
         'Weiss_et_al_07_22_2020
+        'Weiss_et_al_07_22_2020.!a
 
     claim !Variation = In some patients viral RNA has been detectable only for several days, while in other patients it has be detected for several weeks, and even months. However, the prolonged presence of viral RNA does not necessarily signify prolonged infectiousness.
       -
@@ -173,12 +235,15 @@ subject module Virus
         'WangTo_et_al_03_23_2020.!b
         'Li_et_al_04_29_2020
         'Zhou_et_al_04_17_2020
+      -
         'Xu_et_al_2020b
+        'Xu_et_al_2020b.!a
+      -
         'Pan_et_al_2020b
 
     claim !Nose = Some studies have reported higher viral loads in the nose than in the throat.
       -
-        'Zou_et_al_2020.!a
+        'Zou_et_al_2020.!b
         'Weiss_et_al_07_22_2020
 
     claim !Severity = Some studies report higher viral loads in the severely ill compared with patients with mild disease, while others have found higher load in mild and asymptomatic cases.
@@ -219,6 +284,7 @@ subject module Virus
         'Pan_et_al_2020b.!f
       -
         'Woelfel_et_al_2020b
+        'Woelfel_et_al_2020b.!a
         'Woelfel_et_al_2020b.!i
       -
         'Gupta_et_al_05_17_2020

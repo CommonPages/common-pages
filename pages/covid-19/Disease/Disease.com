@@ -91,7 +91,10 @@ subject module Disease
         'Chen_et_al_2020d
         'Ragona_et_al_2020
         'Zubair_et_al_05_29_2020
+      -
         'Meinhardt_et_al_06_04_2020
+        'Meinhardt_et_al_06_04_2020.!b
+      -
         'Recalcati_et_al_2020
         'Joob_et_al_2020
         'Kluytmans_et_al_2020
@@ -124,6 +127,8 @@ subject module Disease
       claim !Pneumonia = Severe inflammation in the lungs is a common complication of COVID-19, and can lead to tissue damage.
         -
           'Subbarao_et_al_05_19_2020
+          'Subbarao_et_al_05_19_2020.!a
+        -
           'Li_et_al_2020b
           'Zheng_et_al_2020
           'Jiang_et_al_04_27_2020
@@ -535,6 +540,7 @@ subject module Disease
         claim !KeyFeature = A number of studies have proposed that exuberant inflammatory cytokine production is one of the defining and driving features of COVID-19.
           -
             'Melo_et_al_05_15_2020
+          -  
             'Subbarao_et_al_05_19_2020
             'Subbarao_et_al_05_19_2020.!c
 
@@ -669,7 +675,7 @@ subject module Disease
             -
               'Liu_et_al_06_16_2020
               'Liu_et_al_06_16_2020.!a
-            -  
+            -
               'Robbiani_et_al_05_22_2020
               'Wu_et_al_04_20_2020b.!c
               'Seow_et_al_10_26_2020

@@ -5,6 +5,22 @@ feed October2020
 
   #
 
+  // Coronavirus biology and replication: implications for SARS-CoV-2
+  doi: https://doi.org/10.1038/s41579-020-00468-6
+  ref 'Vkovski_et_al_10_28_2020
+    head = We summarize the first discoveries that shape our current understanding of SARS-CoV-2 infection throughout the intracellular viral life cycle and relate that to our knowledge of coronavirus biology. 
+
+    > Abstract
+      The SARS-CoV-2 pandemic and its unprecedented global societal and economic disruptive impact has marked the third zoonotic introduction of a highly pathogenic coronavirus into the human population. Although the previous coronavirus SARS-CoV and MERS-CoV epidemics raised awareness of the need for clinically available therapeutic or preventive interventions, to date, no treatments with proven efficacy are available. The development of effective intervention strategies relies on the knowledge of molecular and cellular mechanisms of coronavirus infections, which highlights the significance of studying virus–host interactions at the molecular level to identify targets for antiviral intervention and to elucidate critical viral and host determinants that are decisive for the development of severe disease. In this Review, we summarize the first discoveries that shape our current understanding of SARS-CoV-2 infection throughout the intracellular viral life cycle and relate that to our knowledge of coronavirus biology. The elucidation of similarities and differences between SARS-CoV-2 and other coronaviruses will support future preparedness and strategies to combat coronavirus infections.
+
+    - quotes
+      !a
+
+    / October, 2020 - Nature
+    quote !a =
+
+
+  #
   // Robust neutralizing antibodies to SARS-CoV-2 infection persist for months
   doi: https://doi.org/10.1126/science.abd7728
   ref 'Wajnberg_et_al_10_26_2020
