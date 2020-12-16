@@ -302,6 +302,7 @@ feed July2020
 
 
   # Aersol and Surface Transmission, Nosocomial
+  @@YuWeiGao
   // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020
   doi: https://doi.org/10.3201/eid2607.200885
   ref 'Guo_et_al_07_26_2020
@@ -500,6 +501,7 @@ feed July2020
     quote !a =
 
   # Aerosol
+  @@JoshuaSantarpia
   // Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care
   doi: https://doi.org/10.1038/s41598-020-69286-3
   ref 'Santarpia_et_al_07_2020
@@ -636,7 +638,7 @@ feed July2020
 
     - quotes
       !a
-      
+
 
     / July, 2020 - Lancet Infect Dis
     quote !a =  The chance of transmission through inanimate surfaces is very small, and only in instances where an infected person coughs or sneezes on the surface, and someone else touches that surface soon after the cough or sneeze (within 1–2 h).

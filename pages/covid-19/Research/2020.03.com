@@ -3245,6 +3245,7 @@ feed March2020
 
 
   # droplets, fecal, fomite transmission, nonsomical
+  @@KalisvarMarimuthu
   // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
   doi: https://doi.org/10.1001/jama.2020.3227
   ref 'Ong_et_al_03_04_2020

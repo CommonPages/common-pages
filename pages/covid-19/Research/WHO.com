@@ -260,6 +260,7 @@ feed WHO
 
   # 13
   # aerosol, surface, nonsomical
+  @@YuWeiGao
   // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020.
    doi: https://doi.org/10.3201/eid2607.200885
   ref 'Guo_et_al_04_10_2020

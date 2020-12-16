@@ -104,6 +104,7 @@ feed November2020
     quote !e = Our results suggest that the recommendation to wear a surgical mask when outside the home among others did not reduce, at conventional levels of statistical significance, the incidence of SARS-CoV-2 infection in mask wearers in a setting where social distancing and other public health measures were in effect, mask recommendations were not among those measures, and community use of masks was uncommon.
 
   # Formite Transmission
+  @@AmyPickering
   // Longitudinal monitoring of SARS-CoV-2 RNA on high-touch surfaces in a community setting
   doi: https://doi.org/10.1101/2020.10.27.20220905
   ref 'Harvey_et_al_11_01_2020

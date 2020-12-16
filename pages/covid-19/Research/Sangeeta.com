@@ -4253,6 +4253,7 @@ feed Sangeeta
 
 
   # stainless steel, cloth, paper, and tissues, evironmental contamination
+  @@HenryBalfour
   // Survival of influenza viruses on environmental surfaces.
   doi: https://doi.org/10.1093/infdis/146.1.47
   ref 'Bean_et_al_07_01_2020
@@ -5081,6 +5082,7 @@ feed Sangeeta
 
 
   # fomite transmission, airborne transmission, Nonsomical
+  @@JoshuaSantarpia
   // Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care
   doi: https://doi.org/10.1038/s41598-020-69286-3
   ref 'Santarpia_et_al_07_29_2020
