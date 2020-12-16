@@ -3124,6 +3124,7 @@ feed March2020
 
 
   # Transmission - Air and Surface
+  @@JoshuaSantarpia
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center
   doi: https://doi.org/10.1101/2020.03.23.20039446
   ref 'Santarpia_et_al_2020

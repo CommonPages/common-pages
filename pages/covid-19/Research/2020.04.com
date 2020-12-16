@@ -923,6 +923,7 @@ feed April2020
 
 
   # temperature- pro, surface viability, MASK
+  @@LeoPoon
   // Stability of SARS-CoV-2 in different environmental conditions
   doi: https://doi.org/10.1016/S2666-5247(20)30003-3
   ref 'Chin_et_al_04_02_2020

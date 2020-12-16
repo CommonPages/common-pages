@@ -1386,6 +1386,7 @@ feed Pre2019
 
 
   # transmission via toilet flushing of aerosols
+  @@AnnalauraCarducci
   // Viral Contamination of Aerosol and Surfaces Through Toilet Use in Health Care and Other Settings
   doi: https://doi.org/10.1016/j.ajic.2014.03.026
   ref 'Verani_et_al_05_09_2014

@@ -284,6 +284,7 @@ feed WHO
 
   # 15
   # toilet, fomite, respiration, direct transmission (droplet and person-to-person), indirect transmission, Nonsomical, Nebraska, USA
+  @@JoshuaSantarpia
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center.
   doi: https://doi.org/10.1101/2020.03.23.20039446
   ref 'Santarpia_et_al_06_03_2020
