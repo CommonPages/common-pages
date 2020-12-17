@@ -520,6 +520,7 @@ feed April2020
 
 
   # Indoortransmission, restaurant
+  @@ZhicongYang
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://10.3201/eid2607.200764
   ref 'Lu_et_al_04_02_2020
@@ -2212,6 +2213,7 @@ feed April2020
 
   # DEDUPE(Liu_et_al_2020bb)
   # Aerosol, Nosocomial, airborne, toilet
+  @@ZhiNingS
   // Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals
   doi: https://doi.org/10.1038/s41586-020-2271-3
   ref 'Liu_et_al_2020bb

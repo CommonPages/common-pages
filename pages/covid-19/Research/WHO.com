@@ -330,6 +330,7 @@ feed WHO
 
   # 18
   # aerosol, Viability
+  @@Roy
   // Comparative dynamic aerosol efficiencies of three emergent coronaviruses and the unusual persistence of SARS-CoV-2 in aerosol suspensions.
   doi: https://doi.org/10.1101/2020.04.13.20063784
   ref 'Fears_et_al_04_18_2020

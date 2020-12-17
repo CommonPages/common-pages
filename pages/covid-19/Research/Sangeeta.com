@@ -1528,6 +1528,7 @@ feed Sangeeta
 
 
   #
+  @@SophieSmither
   // Experimental aerosol survival of SARS-CoV-2 in artificial saliva and tissue culture media at medium and high humidity
   doi: https://doi.org/10.1080/22221751.2020.1777906
   ref 'Smither_et_al_06_22_2020
@@ -4888,6 +4889,7 @@ feed Sangeeta
 
 
   # Aerosol, Nonsomical, surface - b, a- toilets aerosols, c- aerosol toilet, mitigation- ventilation, e- asymptomatic
+  @@ZhiNing
   // Aerodynamic characteristics and RNA concentration of SARS-CoV-2 aerosol in Wuhan hospitals during COVID-19 outbreak.
   doi: https://doi.org/10.1101/2020.03.08.982637
   ref 'Liu_et_al_03_10_2020

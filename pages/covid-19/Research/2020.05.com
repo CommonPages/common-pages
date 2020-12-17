@@ -441,6 +441,7 @@ feed May2020
 
 
   # Aersol
+  @@ElizabethAnderson
   // Consideration of the Aerosol Transmission for COVID‐19 and Public Health
   doi: https://doi.org/10.1111/risa.13500
   ref 'Anderson_et_al_05_01_2020
@@ -3241,6 +3242,7 @@ feed May2020
 
 
   # Tranmission - Aerosol
+  @@LinseyMarr
   // Re-thinking the Potential for Airborne Transmission of SARS-CoV-2
   doi: https://doi.org/10.20944/preprints202005.0126.v1
   ref 'Allen_et_al_05_06_2020
@@ -3265,6 +3267,7 @@ feed May2020
 
 
   # Aerosol Tranmission - Mitigation Measures
+  @@ChangYuWu
   // Collection of SARS-CoV-2 Virus from the Air of a Clinic within a University Student Health Care Center and Analyses of the Viral Genomic Sequence
   doi: https://doi.org/10.4209/aaqr.2020.02.0202
   ref 'Lednicky_et_al_05_22_2020
@@ -4575,6 +4578,7 @@ feed May2020
 
 
   # Aerosol, Indoor Tranmission
+  @@ZhicongYang
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://doi.org/10.3201/eid2607.200764
   ref 'Lu_et_al_2020
