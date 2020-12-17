@@ -517,6 +517,7 @@ feed May2020
 
 
   # Nosocomial - No Aersol - Surface
+  @@YipingMao
   // Environmental contamination by SARS-CoV-2 in a designated hospital for coronavirus disease 2019
   doi: https://doi.org/10.1016/j.ajic.2020.05.003
   ref 'Wu_et_al_05_11_2020
@@ -3836,6 +3837,7 @@ feed May2020
 
 
   # Aersol - Assertions are better than head , !f - nosocomial mitigation
+  @@DanielBonn
   // Small droplet aerosols in poorly ventilated spaces and SARS-CoV-2 transmission
   doi: https://doi.org/10.1016/S2213-2600(20)30245-9
   ref 'Somsen_et_al_05_27_2020

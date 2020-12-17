@@ -133,7 +133,7 @@ feed 2019
     - quotes
       !a
       !b
-      
+
 
     / Dec, 2019 - American Society for Microbiology Journals
     quote !a = Our findings not only reveal a novel molecular mechanism for ADE of coronaviruses but also provide general guidelines on viral vaccine design and antibody-based antiviral drug therapy.
@@ -504,6 +504,7 @@ feed 2019
 
 
   # Aerosol Emission
+  @@WilliamRistenpart
   // Aerosol Emission and Superemission During Human Speech Increase With Voice Loudness
   doi: https://doi.org/10.1038/s41598-019-38808-z
   ref 'Asadi_et_al_2019

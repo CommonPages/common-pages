@@ -240,6 +240,7 @@ feed July2020
 
 
   # Aersol viability? or Mechanism !b - Aersol Mitigation in public places
+  @@MatthiasEchternach
   // Impulse dispersion of aerosols during singing and speaking
   doi: https://doi.org/10.1101/2020.07.21.20158832
   ref 'Echternach_et_al_07_24_2020

@@ -540,6 +540,7 @@ feed Pre2019
 
 
   # Aersol Influenza
+  @@PatriciaFabian
   // Influenza virus in human exhaled breath: an observational study
   doi: https://doi.org/10.1371/journal.pone.0002691
   ref 'Fabian_et_al_07_16_2008
@@ -666,6 +667,7 @@ feed Pre2019
     quote !a = Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
 
   # Airborne
+  @@SoChang
   // Extensive Viable Middle East Respiratory Syndrome (MERS) Coronavirus Contamination in Air and Surrounding Environment in MERS Isolation Wards
   doi: https://doi.org/10.1093/cid/ciw239
   ref 'Kim_et_al_08_01_2016

@@ -1303,6 +1303,7 @@ feed June2020
 
 
   # Airborne Transmission
+  @@JianxinMa
   // Exhaled breath is a significant source of SARS-CoV-2 emission
   doi: https://doi.org/10.1101/2020.05.31.20115154
   ref 'Ma_et_al_06_02_2020
@@ -1335,6 +1336,7 @@ feed June2020
 
 
   # Airborne Tranmission
+  @@AdriaanBax
   // The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission
   doi: https://doi.org/10.1073/pnas.2006874117
   ref 'Stadnytskyi_et_al_06_02_2020
@@ -1473,6 +1475,7 @@ feed June2020
 
 
   # Dispute not airborne
+  @@KwokYuen
   // Air and environmental sampling for SARS-CoV-2 around hospitalized patients with coronavirus disease 2019 (COVID-19)
   doi: https://doi.org/10.1017/ice.2020.282
   ref 'Cheng_et_al_06_08_2020
@@ -1791,7 +1794,7 @@ feed June2020
     #
     / June, 2020 - bioRxiv
     quote !b = Out of 32 COVID-19 autopsy cases, either proven to be RT-qPCR-positive for SARS-CoV-2 prior to death (N=29 of 32), or with clinical presentation highly suggestive of COVID-19 (N=3 of 32), four patients (corresponding to 13%) presented with acute infarction due to ischemia caused by (micro)thrombotic/thromboembolic events within the CNS. Similarly, microthrombotic events were also detectable in the olfactory mucosa.
-    
+
     #
     # / June, 2020 - bioRxiv
     # quote !b = Assessment of viral load by means of RT-qPCR in regionally well-defined tissue samples including olfactory mucosa (region (R1), olfactory bulb (R2), oral mucosa (uvula; R3), trigeminal ganglion (R4) and medulla oblongata (R5) demonstrated highest levels of SARS-CoV-2 copies per cell within the olfactory mucosa sampled directly beneath the cribriform plate (N=13 of 22). Lower levels of viral RNA were found in the cornea, conjunctiva and oral mucosa, highlighting the oral and ophthalmic routes as additional potential sites of SARS-CoV-2 CNS entry. Only in few cases the cerebellum was also positive (N=2 of 21), while the wall of the internal carotid artery, which served as an internal negative control, was found to be negative in all investigated cases.

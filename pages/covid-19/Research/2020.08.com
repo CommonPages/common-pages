@@ -465,6 +465,7 @@ feed August2020
 
 
   # Nosocomial
+  @@YuguoLi
   // Toilets dominate environmental detection of severe acute respiratory syndrome coronavirus 2 in a hospital
   doi: https://doi.org/10.1016/j.scitotenv.2020.141710
   ref 'Ding_et_al_08_15_2020

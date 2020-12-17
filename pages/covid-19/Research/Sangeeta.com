@@ -1503,6 +1503,7 @@ feed Sangeeta
 
 
   #
+  @@PaulDabisch
   // Airborne SARS-CoV-2 Is Rapidly Inactivated by Simulated Sunlight
   doi: https://doi.org/10.1093/infdis/jiaa334
   ref 'Schuit_et_al_06_11_2020
@@ -3845,6 +3846,7 @@ feed Sangeeta
 
 
   # Disinfection, Wastewater, Airborne, counter to airbourne
+  @@FedericaCarraturo
   // Persistence of SARS-CoV-2 in the environment and COVID-19 transmission risk from environmental matrices and surfaces
   doi: https://doi.org/10.1016/j.envpol.2020.115010
   ref 'Carraturo_et_al_06_09_2020
@@ -4276,6 +4278,7 @@ feed Sangeeta
 
 
   # transmission, Close contact, Short-range airborne, Large droplet, Droplet, Airborne, talking, coughing- i have put it in mechanism
+  @@YuguoLi
   // Short-range airborne route dominates exposure of respiratory infection during close contact
   doi: https://doi.org/10.1016/j.buildenv.2020.106859
   ref 'Chen_et_al_08_01_2020
@@ -4793,6 +4796,7 @@ feed Sangeeta
 
 
   # mechanism
+  @@LjubomirJankovic
   // Experiments with Self-Organised Simulation of Movement of Infectious Aerosols in Buildings
   doi:  https://doi.org/10.3390/su12125204
   ref 'Jankovic_et_al_06_25_2020
@@ -5056,6 +5060,7 @@ feed Sangeeta
 
 
   # mechanism of aerosol spread
+  @@TinChow
   // Numerical investigation of influence of human walking on dispersion and deposition of expiratory droplets in airborne infection isolation room
   doi: https://doi.org/10.1016/j.buildenv.2011.04.008
   ref 'Wang_et_al_04_05_2011
