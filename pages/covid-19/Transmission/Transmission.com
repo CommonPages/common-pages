@@ -14,6 +14,7 @@ subject module Transmission
     Sources
     Routes
     Risks
+    Climate
     Dynamics
 
   path Context
@@ -49,7 +50,7 @@ subject module Transmission
       # claim !SevereShedding - Subject viral load
 
   / Transmission Sources
-  subject Sources = Most SARS-CoV-2 infections are the result of close contact with an infected individual in the days prior to, or shortly following, symptom onset. True asymptomatic cases may not be major drivers of infection. The risk of transmission within households is high, but children are not a significant source of infection.
+  subject Sources = Most SARS-CoV-2 infections are the result of close contact with an infected individual in the days prior to, or shortly following, symptom onset. True asymptomatic cases may not be major drivers of transmission. The risk of transmission within households is high, though children do not seem to be significant sources.
 
     / Presymptomatic Cases
     claim !PresymptomaticCases = There mave been many case and cluster reports of presymptomatic transmission, suggesting that transmissability begins in the days leading up to symptom onset. Presymptomatic transmission may be a significant driver of infection.
@@ -81,12 +82,19 @@ subject module Transmission
         'He_et_al_2020.!a
 
     / Symptomatic Cases
-    claim !SymptomaticCases = Transmissability appears to peak around symptom onset. There have been reports that the risk of transmission declines after the first 5 days of symptoms.
-      < Triage
+    claim !SymptomaticCases = Transmissability appears to peak around symptom onset. There have been reports that the risk of transmission declines after the first 5 days of symptoms, though infectiousness may last longer, particularly in cases of severe disease.
+      < See also
         Virus.Shedding
       -
         'Cheng_et_al_05_01_2020
         'Cheng_et_al_05_01_2020.!b
+      -
+        'Cevik_et_al_11_19_2020
+        'Cevik_et_al_11_19_2020.!a
+      -
+        'Kampen_et_al_06_09_2020
+        'Kampen_et_al_06_09_2020.!d
+        'Kampen_et_al_06_09_2020.!e
 
     / Asymptomatic Cases
     claim !AsymptomaticCases = True asymptomatic cases have been confirmed but their extent is difficult to establish. Asymptomatic transmission has been confirmed, but there is evidence that transmissability is lower. Asymptomatic transmission unlikely to be a major driver of infection.
@@ -151,6 +159,9 @@ subject module Transmission
           'Beale_et_al_05_23_2020
           'Beale_et_al_05_23_2020.!a
           'Beale_et_al_05_23_2020.!b
+        -
+          'Nogrady_et_al_11_23_2020
+          'Nogrady_et_al_11_23_2020.!b
 
     / Close Contacts
     claim !CloseContacts = Transmission efficiency among close contacts is higher than among casual contacts. Transmission within the household is likely a significant driver of infection, with higher attack rates for symptomatic cases than asymptomatic cases.
@@ -259,10 +270,10 @@ subject module Transmission
             'Mallapaty_et_al_11_16_2020
 
   / Transmission Routes
-  subject Routes = Transmission can occur via both heavy respiratory droplets and smaller aerosol particles which can remain in the air, but the extent of airborne transmission is disputed. Transmission has also been confirmed via contact with infected surfaces, but the significance of these routes is unclear.
+  subject Routes = Transmission can occur via both heavy respiratory droplets and smaller aerosol particles which can remain in the air, but the extent of airborne transmission is disputed. Transmission may also result from contact with infected surfaces, but the significance of this route is unclear.
 
     / Airborne and Aerosol Transmission
-    claim !AirborneTransmission = Airborne Transmission via aerosols has been found in clusters of infection. Exposure time and closed confined space increases the risk of airborne transmission. The extent of airborne being the dominant mode of transmission is disputed.
+    claim !AirborneTransmission = Evidence of SARS-CoV-2 transmission via aerosols comes from cluster reports and experiments with animal models. Researchers have suggested that exposure time in closed confined spaces may increase the risk of airborne transmission.
 
       >
         Viable SARS-CoV-2 has been identified in aerosols and can stay floating in the air for minutes to hours. Several studies in hospital wards also have detected SARS-CoV-2 RNA both in vent openings and in the air.
@@ -280,39 +291,62 @@ subject module Transmission
       # # https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations
 
       claim !AerosolTransmission = Aerosol-based transmission has been documented in clusters of infections. It has also been documented in animal studies.
-        - Airborne Tranmission in animal when they were kept separate
-          'Richard_et_al_07_08_2020
-          'Kutter_et_al_10_19_2020
-        - These reports provides evidence of Aerosol transmission
-          'Miller_et_al_06_18_2020
-          'Li_et_al_04_22_2020
-          'Shen_et_al_09_01_2020
+
+        claim !Ferrets = Two studies have documented transmission between ferrets at distances exceeding six feet, suggesting that the virus may be airborne.
+          -
+            'Richard_et_al_07_08_2020
+            'Richard_et_al_07_08_2020.!a
+          -
+            'Kutter_et_al_10_19_2020
+            'Kutter_et_al_10_19_2020.!a
+            'Kutter_et_al_10_19_2020.!b
+
+        claim !Reports = There have been a number of case and cluster reports suggesting that infection may have resulted from airborne transmission in humans.
+          -
+            'Miller_et_al_06_18_2020
+            'Miller_et_al_06_18_2020.!a
+          -
+            'Li_et_al_04_22_2020
+            'Li_et_al_04_22_2020.!a
+          -
+            'Shen_et_al_09_01_2020
+            'Shen_et_al_09_01_2020.!a
 
       claim !ShortRangeTransmission = At least one study suggests short‐range airborne sub‐route may be the most common mode of transmission.
         -
           'Zhang_et_al_04_07_2020
+          'Zhang_et_al_04_07_2020.!a
 
       claim !AerosolRisk = Exposure time and settings have an impact on airborne transmission. Closed confined spaces and prolonged exposure increase the risk of airborne transmission.
         -
           'Vuorinen_et_al_05_31_2020
+          'Vuorinen_et_al_05_31_2020.!a
+        -
           'Beggs_et_al_05_26_2020
+          'Beggs_et_al_05_26_2020.!a
+          'Beggs_et_al_05_26_2020.!b
 
     / Droplet Transmission
-    claim !DropletTransmission = Transmission of SARS-CoV-2 can occur through infected secretions such as saliva and respiratory secretions or their respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
+    claim !DropletTransmission = Transmission of SARS-CoV-2 can occur through infected secretions such as saliva and respiratory secretions or respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
 
-      # https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html
-      # https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations
-
-      # Evidence from past Coronavirus
-      -
-        'Wong_et_al_02_10_2004
+      < See also
+        Virus.Viability.?Droplets
 
       # REFER THIS (Interesting) - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293495/table/tbl1/
       -
         'Jayaweera_et_al_06_10_2020
+        'Jayaweera_et_al_06_10_2020.!a
+
+
+      # https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html
+      # https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations
+
+      # # Evidence from past Coronavirus
+      # -
+      #   'Wong_et_al_02_10_2004
 
     / Surface Tranmission
-    claim !SurfaceTransmission = Several studies have found that environmental contamination around COVID-19 patients is extensive, though the extent of fomites as a medium of transmission is still unclear.
+    claim !SurfaceTransmission = Several studies have found that environmental contamination around COVID-19 patients is extensive, though the extent to which fomites are driving infection is still unclear.
 
       >
         Viable SARS-CoV-2 virus has been detected on various surfaces. The virus can remain stable in favorable conditions, though the duration of viability varies widely by surface and environmental conditions.
@@ -328,18 +362,35 @@ subject module Transmission
       claim !FomiteEvidence = Viable SARS-CoV-2 virus has been identified on various surfaces in the environments surrounding infectious individuals.
         -
           'Xu_et_al_04_14_2020
-          'Döhla_et_al_06_02_2020
+          'Xu_et_al_04_14_2020.!a
+        -
           'Yamagishi_et_al_05_08_2020
+          'Yamagishi_et_al_05_08_2020.!a
+        -
+          'Santarpia_et_al_2020
+          'Santarpia_et_al_2020.!a
+        -
+          'Ong_et_al_03_04_2020
+          'Ong_et_al_03_04_2020.!a
+        -
+          'Guo_et_al_07_26_2020
+          'Guo_et_al_07_26_2020.!a
 
-      claim !FomiteExtent = Even though viable viruses have been found on surfaces, some studies suggest that infectiousness through fomites is rare.
+      claim !FomiteExtent = Even though viable viruses have been found on surfaces, some researchers suggest that infectiousness through fomites is rare.
         -
           'Goldman_et_al_07_03_2020
+          'Goldman_et_al_07_03_2020.!a
+        -
           'Harvey_et_al_11_01_2020
+          'Harvey_et_al_11_01_2020.!a
+        -
+          'Döhla_et_al_06_02_2020
+          'Döhla_et_al_06_02_2020.!a
 
       question ?SurfaceExtent = Are there case reports that show evidence of fomite tranmission?
 
     / Fecal Transmission
-    claim !FecalTransmission = Fecal shedding has been reported from some patients, although the viability of the virus has been evidenced at low levels. Environment contamination through feces may be a mode of transmission. Long-range transmission of COVID-19 involving fecal aerosols have been documented. SARS-CoV-2 might spread through sewage.
+    claim !FecalTransmission = Viable SARS-CoV-2 has been found in feces, and a number of studies have suggested that fecal contamination may be a source of infection.
 
       < See also
         Virus.Viability.!Feces
@@ -349,31 +400,40 @@ subject module Transmission
         !FecalAerosol
         !Sewage
 
-      claim !FecalEniornmentRoute = Enviornment contamination through feces could be a possible mode of transmission
+      claim !FecalEniornmentRoute = Viable SARS-CoV-2 has been found in feces, and at least one study has found indirect evidence of transmission via fecal contamination.
         -
           'Wang_et_al_05_28_2020
           'Wang_et_al_05_28_2020.!f
+        -
           'Xiao_et_al_05_18_2020
+          'Xiao_et_al_05_18_2020.!a
+        -
           'Wang_et_al_03_11_2020
+          'Wang_et_al_03_11_2020.!a
 
       # Tho several studies found no viable virus in feces (Link fecal viability)
 
-      claim !FecalAerosol = One study has documented long-range transmission, and they appear to involve fecal aerosols transmitted through the sewer lines of high-rise buildings.
+      claim !FecalAerosol = One study has identified a possible case of long-range transmission involveing fecal aerosols transmitted through the sewer lines of a high-rise building.
         -
           'Kang_et_al_09_01_2020
+          'Kang_et_al_09_01_2020.!a
 
-      claim !Sewage = SARS-CoV-2 might spread through sewage.
+      claim !Sewage = A number of studies have suggested that SARS-CoV-2 might spread through sewage.
         -
           'Yuan_et_al_10_12_2020
+          'Yuan_et_al_10_12_2020.!a
+        -
           'Carraturo_et_al_06_09_2020
+          'Carraturo_et_al_06_09_2020.!a
 
   / Transmission Settings
   subject Risks = The risk of transmission is higher in poorly ventilated spaces, and environments in which air is recirculated. Prolonged interaction with infected individuals and interactions in closed and confined spaces are particularly problematic.
 
     / Air Conditioning and Recirculation
-    claim !Recirculation = The recirculation of air through air conditioning in poor ventilated areas inceases the risk of transmission. There are documented reports where poor ventilation and same air circulation has led to outrbeaks.
+    claim !Recirculation = The recirculation of air through air conditioning in poorly ventilated areas may increase the risk of transmission. There have been reports in which researchers suggest that poor ventilation and same air circulation have led to outrbeaks.
       -
         'RezaPourkarim_et_al_08_03_2020
+        'RezaPourkarim_et_al_08_03_2020.!a
       -
         'Amoatey_et_al_05_12_2020
       -
@@ -384,8 +444,10 @@ subject module Transmission
         'Correia_et_al_04_25_2020.!a
       -
         'Guenther_et_al_07_23_2020
+        'Guenther_et_al_07_23_2020.!b
+        'Guenther_et_al_07_23_2020.!a
 
-    question ?Ventilation = Are there reports where poor ventilation and same air circulating led to outbreaks?
+    question ?Ventilation = Are there reports of poor ventilation and air circulating leading to outbreaks?
       -
         'Lu_et_al_2020
         'Lu_et_al_2020.!a
@@ -394,7 +456,7 @@ subject module Transmission
         'Li_et_al_04_22_2020.!a
       -
         'Shen_et_al_09_01_2020
-        'Shen_et_al_09_01_2020.!c
+        'Shen_et_al_09_01_2020.!b
       -
         'Miller_et_al_06_18_2020
         'Miller_et_al_06_18_2020.!a
@@ -418,106 +480,102 @@ subject module Transmission
         'Xu_et_al_04_14_2020.!a
 
     / Confined Spaces
-    claim !ConfinedSpaces = Many case reports suggest that COVID-19 is largely transmitted, particularly when contact occurs over a prolonged period and in close congregation. Superspreading events have also been documented in confined spaces with large crowd.
-
-      claim !ConfinedConcern = One study has raised concern towards rapid spread of the virus in confined spaces.
-        -
-          'Nishiura_et_al_03_03_2020
-          'Nishiura_et_al_03_03_2020.!a
-
-      claim !ConfinedReports = Multiple reports have documented events on the spread of SARS-CoV-2 in confined spaces. Superspreading events have also been documented.
-        -
-          'Jang_et_al_05_15_2020
-        -
-          'Tobolowsky_et_al_05_01_2020
-        -
-          'Leclerc_et_al_06_05_2020
-          'Leclerc_et_al_06_05_2020.!o
-          'Leclerc_et_al_06_05_2020.!j
-          'Leclerc_et_al_06_05_2020.!k
-        -
-          'Miller_et_al_06_18_2020
-          'Miller_et_al_06_18_2020.!a
-        -
-          'Guenther_et_al_07_23_2020
-          'Guenther_et_al_07_23_2020.!a
-          'Guenther_et_al_07_23_2020.!b
-        -
-          'Kang_et_al_07_07_2020
-        -
-          'Hamner_et_al_2020
-        -
-          'Park_et_al_04_23_2020
-          'Park_et_al_04_23_2020.!b
+    claim !ConfinedSpaces = Many case reports suggest that COVID-19 is largely transmitted when contact occurs over a prolonged period and in close congregation. Superspreading events have also been documented in confined spaces with large crowds.
+      -
+        'Nishiura_et_al_03_03_2020
+        'Nishiura_et_al_03_03_2020.!a
+      -
+        'Jang_et_al_05_15_2020
+      -
+        'Tobolowsky_et_al_05_01_2020
+        'Tobolowsky_et_al_05_01_2020.!a
+      -
+        'Leclerc_et_al_06_05_2020
+        'Leclerc_et_al_06_05_2020.!o
+        'Leclerc_et_al_06_05_2020.!j
+      -
+        'Miller_et_al_06_18_2020
+        'Miller_et_al_06_18_2020.!a
+      -
+        'Guenther_et_al_07_23_2020
+        'Guenther_et_al_07_23_2020.!a
+      -
+        'Kang_et_al_07_07_2020
+      -
+        'Hamner_et_al_2020
+      -
+        'Park_et_al_04_23_2020
+        'Park_et_al_04_23_2020.!b
 
       # - Close proximity in TB led to several infection
       #   'Kenyon_et_al_04_11_1996
 
-    / Seasonality, Temperature, Humidity & Air Pollution
-    claim !HumidityAndTemperature = Low temperatures can greatly increase the survival of the virus and thereby increase the risk of transmission. The seasonality of SARS-CoV-2 is disputed. High frequency of air pollution (PM10) can accelerate COVID-19 spread.
+  = Temperature and humidity both influence the viability of the virus. owever, the seasonality of SARS-CoV-2 is disputed. Air pollution may accelerate the spread of COVID-19.
 
-      claim !TemperatureOtherViruses = The effects of temperature and humidity are well documented for other pathogens.
+  / Climate and Seasonality
+  subject Climate = Temperature and humidity both influence the viability of the virus. However, the seasonality of SARS-CoV-2 is disputed. Air pollution may accelerate the spread of COVID-19.
+
+    claim !TemperatureOtherViruses = The effects of temperature and humidity are well documented for other pathogens.
+      -
+        'Moriyama_et_al_2020
+        'Moriyama_et_al_2020.!d
+        'Moriyama_et_al_2020.!l
+        'Moriyama_et_al_2020.!j
+      -
+        'Lin_et_al_12_30_2019
+        'Lin_et_al_12_30_2019.!a
+      -
+        'Want_et_at_2020
+        'Want_et_at_2020.!a
+        'Want_et_at_2020.!b
+      -
+        'Casanova_et_al_04_21_2010
+        'Casanova_et_al_04_21_2010.!a
+        'Casanova_et_al_04_21_2010.!b
+        'Casanova_et_al_04_21_2010.!c
+        'Casanova_et_al_04_21_2010.!d
+
+    dispute !TemperatureCovid = A number of studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates of SARS-CoV-2; while others have argued that there is no evidence that the rate of transmission is impacted by changes in temperature and weather.
+
+      claim !Effect = Several studies have emphasized the effect of temperature and humidity on transmission of SARS-CoV-2. They claim that higher temperatures appear to reduce the risk of COVID-19 transmission.
         -
-          'Lin_et_al_12_30_2019
-          'Lin_et_al_12_30_2019.!a
+          'Ficetola_et_al_04_20_2020
+          'Ficetola_et_al_04_20_2020.!c
+          'Ficetola_et_al_04_20_2020.!b
+        -
+          'Qi_et_al_03_20_2020
+          'Qi_et_al_03_20_2020.!d
+        -
+          'Islam_et_al_03_31_2020
+        -
+          'Wang_et_al_03_10_2020
+          'Wang_et_al_03_10_2020.!a
         -
           'Want_et_at_2020
-          'Want_et_at_2020.!a
-          'Want_et_at_2020.!b
+          'Want_et_at_2020.!c
         -
-          'Casanova_et_al_04_21_2010
-          'Casanova_et_al_04_21_2010.!a
-          'Casanova_et_al_04_21_2010.!b
-          'Casanova_et_al_04_21_2010.!c
-          'Casanova_et_al_04_21_2010.!d
+          'Notari_et_al_2020
+          'Notari_et_al_2020.!a
+        -
+          'Ahlawat_et_al_07_21_2020
+          'Ahlawat_et_al_07_21_2020.!a
         -
           'Moriyama_et_al_2020
-          'Moriyama_et_al_2020.!d
-          'Moriyama_et_al_2020.!l
-          'Moriyama_et_al_2020.!j
+          'Moriyama_et_al_2020.!m
+          'Moriyama_et_al_2020.!g
 
-      dispute !TemperatureCovid = A number of studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates of SARS-CoV-2; while others have argued that there is no evidence that rate of transmission changes with changes in temperature and weather.
-
-        claim !Effect = Several studies have emphasized on the effect of temperature and humidity on transmission of SARS-CoV-2. They claim that higher temperatures appear to reduce the risk of COVID-19 transmission.
-          -
-            'Ficetola_et_al_04_20_2020
-            'Ficetola_et_al_04_20_2020.!c
-            'Ficetola_et_al_04_20_2020.!b
-          -
-            'Qi_et_al_03_20_2020
-            'Qi_et_al_03_20_2020.!d
-          -
-            'Islam_et_al_03_31_2020
-          -
-            'Wang_et_al_03_10_2020
-            'Wang_et_al_03_10_2020.!a
-          -
-            'Want_et_at_2020
-            'Want_et_at_2020.!c
-          -
-            'Notari_et_al_2020
-            'Notari_et_al_2020.!a
-          -
-            'Ahlawat_et_al_07_21_2020
-            'Ahlawat_et_al_07_21_2020.!a
-          -
-            'Moriyama_et_al_2020
-            'Moriyama_et_al_2020.!m
-            'Moriyama_et_al_2020.!g
-
-        claim !NoEffect = Some studies have argued changes in weather alone (increase of temperature) will not necessarily lead to declines in COVID-19 case counts.
-          -
-            'Jamil_et_al_04_19_2020
-          -
-            'Luo_et_al_2020
-            'Luo_et_al_2020.!a
-
-      claim !AirPollution = At least one study suggest that high frequency of Air Pollution (PM10) has resulted in acceleration of COVID-19 spread.
+      claim !NoEffect = Some studies have argued that changes in weather alone (increase of temperature) will not necessarily lead to declines in COVID-19 case counts.
         -
-          'Setti_et_al_04_17_2020
-          'Setti_et_al_04_17_2020.!a
+          'Jamil_et_al_04_19_2020
+        -
+          'Luo_et_al_2020
+          'Luo_et_al_2020.!a
 
-  —
+    claim !AirPollution = At least one study suggests that high frequency of Air Pollution (PM10) has accelerates the spread of COVID-19.
+      -
+        'Setti_et_al_04_17_2020
+        'Setti_et_al_04_17_2020.!a
+
   / Transmission Dynamics
   subject Dynamics = Estimates of the average number of people infected by one person—the R<sub>0</sub>—have varied widely, and depend on the control measures in place. The COVID-19 epidemic may be characterized by overdispersion, whereby the majority of the transmission is driven by a minority of infected individuals (i.e. “superspreaders”).
 
@@ -539,40 +597,68 @@ subject module Transmission
         !NotoverDispersed
 
       claim !Contextsuperspreader = Several superspeading events have been documented in other infectious diseases where one individual or an event was responsible for many tranmissions.
-        - Superspreading in SARS
+        > Superspreading in SARS
+        -
+          'Lee_et_al_2003
           'Lee_et_al_2003.!a
+        -
           'Shen_et_al_2004
+          'Shen_et_al_2004.!a
+        -
           'Stein_et_al_2011
+        -
+          'Wang_et_al_2005
           'Wang_et_al_2005.!h
         - Superspreading in TB
           'Kline_et_al_1995
+          'Kline_et_al_1995.!a
 
-      claim !SuperspreadingCovid = There are documented Superspreading events for SARS-CoV-2 where one individual was responsible for transmission to many.
+      claim !SuperspreadingCovid = Multiple reports have documented Superspreading events for SARS-CoV-2 where one individual was responsible for transmission to many.
         -
           'Hamner_et_al_2020
+          'Hamner_et_al_2020.!a
+        -
           'Guenther_et_al_07_23_2020
+          'Guenther_et_al_07_23_2020.!a
+        -
           'Ju-Kim_et_al_04_08_2020
+          'Ju-Kim_et_al_04_08_2020.!a
+        -
           'Miller_et_al_06_18_2020
 
       claim !Paststudies = According to Past studies in an epidemic, small number of infections dominate the transmission while most others fail to have secondary infections.
         -
           'Lloyd-Smith_et_al_2005
+          'Lloyd-Smith_et_al_2005.!a
+        -
           'Woolhouse_et_al_1997
 
       claim !8020Rule = Several research across the globe are showing evidence that Covid19 epidemic is characterized by overdispersion whereby the majority of the transmission is driven by a minority of infected individuals (80/20 Rule).
         -
+          'Endo_et_al_04_09_2020
+          'Endo_et_al_04_09_2020.!a
+        -
           'Adam_et_al_2020
-        # 'Lau_et_al_09_08_2020
-        # 'Hassan_et_al_07_24_2020
-        # 'Zhang_et_al_05_24_2020
+        -
+          'Lau_et_al_09_08_2020
+          'Lau_et_al_09_08_2020.!b
+        -
+          'Hassan_et_al_07_24_2020
+          'Hassan_et_al_07_24_2020.!a
+        -
+          'Zhang_et_al_05_24_2020
+          'Zhang_et_al_05_24_2020.!a
         -
           'Miller_et_al_2020b
-          'Endo_et_al_04_09_2020
+          'Miller_et_al_2020b.!b
+
 
       claim !NotoverDispersed = While in one study, Transmission in Hong Kong, Japan and Singapore was not over-dispersed, so there was no strong evidence for the presence of Super spreading events.
         -
           'Kwok_et_al_05_21_2020
+          'Kwok_et_al_05_21_2020.!a
 
+    —
     / R<sub>0</sub>
     subject Ro = Estimates of the number of people infected by one person with COVID-19 (the R0) have varied widely. The WHO's initial estimates of the R0 were 1.4-2.5 (average 1.95), however a more recent review found the basic R0 (without control measures) to be higher at 3.28 and the median R0 to be 2.79.
       - Context
@@ -581,7 +667,6 @@ subject module Transmission
       - Estimating R<sub>0</sub>
         'Liu_et_al_2020e
         'Sanche_et_al_2020
-        'Miller_et_al_2020b.!d
         'Salje_et_al_04_20_2020.!d
         'Bi_et_al_04_27_2020.!l
         'Bi_et_al_04_27_2020.!m

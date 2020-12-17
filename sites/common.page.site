@@ -7,7 +7,7 @@ hosts:
   - www.claimspace.org
   - claimspace.org
   - claimspace.test
-documents:
+pages:
   - "$os-figures"
   - "$os-life"
   - "$covid-19"

@@ -447,7 +447,7 @@ subject module Treatment
       -
         'Berlin_et_al_2020.!x
         'Berlin_et_al_2020.!y
-        'Xu_et_al_2020b.!k
+        # 'Xu_et_al_2020b.!k
       - Counter
         'Li_et_al_05_05_2020
       - Dexamethasone
@@ -558,6 +558,9 @@ subject module Treatment
       'Jing_et_al_2009
     -
       'Takahashi_et_al_06_09_2020.!j
+    ## Use of Plants as Medicine for Infectious Diseases
+    -
+      'Weng_et_al_05_19_2020
 
   —
   / Clinical Management

@@ -178,16 +178,22 @@ feed March2020
   // Role of the Eye in Transmitting Human Coronavirus: What We Know and What We Do Not Know
   doi: https://doi.org/10.20944/preprints202003.0271.v2
   ref 'Sun_et_al_03_24_2020
-    head = Pathogens exposed to the eye might be transported to nasal and nasopharyngeal mucosa by constant tear rinsing through lacrimal duct, and then cause respiratory tract infection.
+    head = In this review, we describe the genomics and morphology of human CoVs, the epidemiology, systemic and ophthalmic manifestations, mechanisms of human CoVs infection, and infection control procedures. The role of the eye in the transmission of SARS-CoV and 2019-nCOV is discussed.
+
+
 
     > Abstract
       The outbreak of recently identified 2019 novel coronavirus (2019-nCOV) infection has become a world-wide health threat. Currently, more information is needed for further understanding the transmission, clinical characteristics, and infection control procedures of 2019-nCOV. Recently, the role of the eye in transmitting 2019-nCOV has been intensively discussed. Previous investigations about other high infectious human COVs, that is, severe acute respiratory syndrome coronavirus (SARS-CoV) and the Middle East respiratory syndrome coronavirus (MERS-CoV), may provide helpful information. In this review, we describe the genomics and morphology of human CoVs, the epidemiology, systemic and ophthalmic manifestations, mechanisms of human CoVs infection, and infection control procedures. The role of the eye in the transmission of SARS-CoV and 2019-nCOV is discussed. Although the conjunctiva is directly exposed to extraocular pathogens, and the mucosa of ocular surface and upper respiratory tract is connected by nasolacrimal duct and share same entry receptors for some respiratory viruses. The eye is rarely involved in human CoVs infection, conjunctivitis is quite rare in patients with SARS-CoV and 2019-nCoV infection, and COV RNA positive rate by RT-PCR test in tears and conjunctival secretions from patients with SARS-CoV and 2019-nCoV infection is also very low, which imply that the eye is neither a preferred organ of human COVs infection, nor is a preferred gateway of entry for human COVs to infect respiratory tract. However, pathogens exposed to the ocular surface might be transported to nasal and nasopharyngeal mucosa by constant tear rinsing through lacrimal duct, and then cause respiratory tract infection. Considering close doctor-patient contact is quite common in ophthalmic practice which are apt to transmit human COVs by droplets and fomites, hand hygiene and personal protection are still highly recommended for health care workers to avoid hospital-related viral transmission during ophthalmic practice.
 
     - quotes
       !a
+      !b
 
     / March, 2020 - Pre-Prints
-    quote !a = Due to low sensitivity of Rt-PCR current negative RT-PCR results can not exclude the possibility of presence of SARS-CoV and 2019- nCoV in tears and conjunctival secretions.
+    quote !a = Pathogens exposed to the eye might be transported to nasal and nasopharyngeal mucosa by constant tear rinsing through lacrimal duct, and then cause respiratory tract infection.
+
+    / March, 2020 - Pre-Prints
+    quote !b = Due to low sensitivity of Rt-PCR current negative RT-PCR results can not exclude the possibility of presence of SARS-CoV and 2019- nCoV in tears and conjunctival secretions.
 
   # Face Mask use, Policy - Relevant in timeline?
   // COVID-19: Facemask use prevalence in international airports in Asia, Europe and the Americas, March 2020
@@ -1220,10 +1226,16 @@ feed March2020
   // Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster
   doi: https://doi.org/10.1101/2020.03.05.20030502
   ref 'Woelfel_et_al_2020b
-    head = The present study shows that COVID-19 can often present as a common cold-like illness. SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
+    head = We studied viral load courses by RT-PCR in oro- and nasopharyngeal swabs, sputum, stool, blood, and urine in nine hospitalized cases. Infectious virus was detected by cell culture. Active replication was demonstrated by analysis of viral subgenomic replicative intermediates. Serology including neutralization testing was done to characterize immune response.
 
-    > Abstract
-      Background: In coronavirus disease 2019 (COVID-19), current case definitions presume mainly lower respiratory tract infection. However, cases seen outside the epicenter of the epidemic may differ in their overall clinical appearance due to more sensitive case finding. Methods: We studied viral load courses by RT-PCR in oro- and nasopharyngeal swabs, sputum, stool, blood, and urine in nine hospitalized cases. Infectious virus was detected by cell culture. Active replication was demonstrated by analysis of viral subgenomic replicative intermediates. Serology including neutralization testing was done to characterize immune response. Results: Seven cases had upper respiratory tract disease. Lower respiratory tract symptoms seen in two cases were limited. Clinical sensitivity of RT-PCR on swabs taken on days 1-5 of symptoms was 100%, with no differences comparing swab and sputum samples taken simultaneously. Average viral load was 6.76x10E5 copies per swab during the first 5 days. Live virus isolates were obtained from swabs during the first week of illness. Proof of active viral replication in upper respiratory tract tissues was obtained by detection of subgenomic viral RNA. Shedding of viral RNA from sputum outlasted the end of symptoms. Seroconversion occurred after about one week. Conclusions: The present study shows that COVID-19 can often present as a common cold-like illness. SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool. These findings suggest adjustments of current case definitions and re-evaluation of the prospects of outbreak containment.
+    > Background:
+      In coronavirus disease 2019 (COVID-19), current case definitions presume mainly lower respiratory tract infection. However, cases seen outside the epicenter of the epidemic may differ in their overall clinical appearance due to more sensitive case finding.
+    > Methods:
+      We studied viral load courses by RT-PCR in oro- and nasopharyngeal swabs, sputum, stool, blood, and urine in nine hospitalized cases. Infectious virus was detected by cell culture. Active replication was demonstrated by analysis of viral subgenomic replicative intermediates. Serology including neutralization testing was done to characterize immune response.
+    > Results:
+      Seven cases had upper respiratory tract disease. Lower respiratory tract symptoms seen in two cases were limited. Clinical sensitivity of RT-PCR on swabs taken on days 1-5 of symptoms was 100%, with no differences comparing swab and sputum samples taken simultaneously. Average viral load was 6.76x10E5 copies per swab during the first 5 days. Live virus isolates were obtained from swabs during the first week of illness. Proof of active viral replication in upper respiratory tract tissues was obtained by detection of subgenomic viral RNA. Shedding of viral RNA from sputum outlasted the end of symptoms. Seroconversion occurred after about one week.
+    > Conclusions:
+      The present study shows that COVID-19 can often present as a common cold-like illness. SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool. These findings suggest adjustments of current case definitions and re-evaluation of the prospects of outbreak containment.
 
     - quotes
       !a
@@ -1239,10 +1251,10 @@ feed March2020
       !m
 
     / March, 2020 - Medrxiv
-    quote !a = Diagnostic testing suggests that simple throat swabs will provide sufficient sensitivity at this stage of infection. This is in stark contrast to SARS.
+    quote !a = SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
 
     / March, 2020 - Medrxiv
-    quote !b = Viral load differed considerably. In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher. Average viral load was 6.76x10E5 copies per swab during the first 5 days
+    quote !b = In SARS, Viral load took 7 to 10 days after onset until peak RNA concentrations were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher.
 
     / March, 2020 - Medrxiv
     quote !c = Successful live virus isolation from throat swabs is another striking difference from SARS, for which such isolation was rarely successful. Altogether, this suggests active virus replication in upper respiratory tract tissues, where only minimal ACE-2 expression is found and SARS-CoV is therefore not thought to replicate.
@@ -1251,7 +1263,7 @@ feed March2020
     # quote !d = Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARSCoV-2 with replication in the throat is strongly supported by our studies of sgRNA transcribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung.
 
     / March, 2020 - Medrxiv
-    quote !e = The majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms. Together, these findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection.
+    quote !e = The majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms.
 
     # / March, 2020 - Medrxiv
     # quote !f = Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum.
@@ -2410,27 +2422,32 @@ feed March2020
       !a
 
     / March, 2020 - National Academy of Sciences
-    quote !a = Experts agree a careful assessment of possible immune complications before releasing the vaccine to the public. If any of the mechanisms under investigation are indeed involved, they say, the resulting risks are real.
+    quote !a =
 
   # Vaccine
   // Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design
   doi: https://doi.org/10.1101/2020.03.30.016832
   ref 'Kames_et_al_2020
-    head = Study's analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
+    head = We performed comprehensive in silico analyses of several features of SARS-CoV-2 genomic sequence in comparison with other members of the coronaviridae family of viruses, the overall human genome, and the transcriptome of specific human tissues such as lung, which are primarily targeted by the virus.
+
     > Abstract
       As the SARS-CoV-2 pandemic is rapidly progressing, the need for the development of an effective vaccine is critical. A promising approach for vaccine development is to generate, through codon pair deoptimization, an attenuated virus. This approach carries the advantage that it only requires limited knowledge specific to the virus in question, other than its genome sequence. Therefore, it is well suited for emerging viruses for which we may not have extensive data. We performed comprehensive in silico analyses of several features of SARS-CoV-2 genomic sequence (e.g., codon usage, codon pair usage, dinucleotide/junction dinucleotide usage, RNA structure around the frameshift region) in comparison with other members of the coronaviridae family of viruses, the overall human genome, and the transcriptome of specific human tissues such as lung, which are primarily targeted by the virus. Our analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
+
+    / March, 2020 - bioRxiv
+    quote !a = Our analysis identified the spike (S) and nucleocapsid (N) proteins as promising targets for deoptimization and suggests a roadmap for SARS-CoV-2 vaccine development, which can be generalizable to other viruses.
 
 
   # Vaccine, Antibodies
   // Fully human single-domain antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.30.015990
   ref 'Wu_et_al_2020b
-    head = A variety of single-domain antibodies have been isolated targeting five types of epitopes on SARS-CoV-2, and the antibody n3130 was found to potently neutralize both pseudotyped and live virus. These antibodies may represent promising candidates for prophylaxis and therapy of COVID-19, and also serve as reagents to facilitate the vaccine development.
+    head = We describe here the development of a phage-displayed single-domain antibody library by grafting naïve CDRs into framework regions of an identified human germline IGHV allele. This study also reports unique immunogenic profile of SARS-CoV-2 RBD compared to that of SARS-CoV and MERS-CoV.
 
     > Abstract
       The COVID-19 pandemic is spreading rapidly, highlighting the urgent need for an efficient approach to rapidly develop therapeutics and prophylactics against SARS-CoV-2. We describe here the development of a phage-displayed single-domain antibody library by grafting naïve CDRs into framework regions of an identified human germline IGHV allele. This enabled the isolation of high-affinity single-domain antibodies of fully human origin. The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. These fully human single-domain antibodies bound specifically to SARS-CoV-2 RBD with subnanomolar to low nanomolar affinities. Some of them were found to potently neutralize pseudotyped and live virus, and therefore may represent promising candidates for prophylaxis and therapy of COVID-19. This study also reports unique immunogenic profile of SARS-CoV-2 RBD compared to that of SARS-CoV and MERS-CoV, which may have important implications for the development of effective vaccines against SARS-CoV-2.
 
-
+    / March, 2020 - bioRxiv
+    quote !a = The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. The antibody n3130 was found to potently neutralize both pseudotyped and live virus. These antibodies may serve as reagents to facilitate the vaccine development.
 
   # Serology, antibodies
   // Global profiling of SARS-CoV-2 specific IgG/IgM responses of convalescents using a proteome microarray
@@ -2476,13 +2493,17 @@ feed March2020
   // SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients
   doi: https://doi.org/10.1056/NEJMc2001737
   ref 'Zou_et_al_2020
-    head = The viral load that was detected in the asymptomatic patient was similar to that in the symptomatic patients, which suggests the transmission potential of asymptomatic or minimally symptomatic patients
+    head = We monitored SARS-CoV-2 viral loads in upper respiratory specimens obtained from 18 patients (9 men and 9 women; median age, 59 years; range, 26 to 76) in Zhuhai, Guangdong, China, including 4 patients with secondary infections (1 of whom never had symptoms) within two family clusters.
 
     - quotes
       !a
+      !b
 
     / March, 2020 - The New England journal of medicine
-    quote !a = We analyzed the viral load in nasal and throat swabs obtained from the 17 symptomatic patients and found higher viral loads were detected soon after symptom onset, with higher viral loads detected in the nose than in the throat.
+    quote !a = The viral load that was detected in the asymptomatic patient was similar to that in the symptomatic patients, which suggests the transmission potential of asymptomatic or minimally symptomatic patients
+
+    / March, 2020 - The New England journal of medicine
+    quote !b = We analyzed the viral load in nasal and throat swabs obtained from the 17 symptomatic patients and found higher viral loads were detected soon after symptom onset, with higher viral loads detected in the nose than in the throat.
 
 
   # Disease feature
@@ -2502,7 +2523,13 @@ feed March2020
   // Viral dynamics in mild and severe cases of COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30232-2
   ref 'Liu_et_al_2020c
-    head = Our data indicate that, patients with severe COVID-19 tend to have a high viral load and a long virus-shedding period. This finding suggests that the viral load of SARS-CoV-2 might be a useful marker for assessing disease severity and prognosis.
+    head = We report the viral RNA shedding patterns observed in patients with mild and severe COVID-19.
+
+    - quotes
+      !a
+
+    / March, 2020 - The Lancet
+    quote !a = Patients with severe COVID-19 tend to have a high viral load and a long virus-shedding period. This finding suggests that the viral load of SARS-CoV-2 might be a useful marker for assessing disease severity and prognosis.
 
 
   # Shedding , AsymptomaticCarriers, secondary cases, presymptomatic stage
@@ -2518,13 +2545,14 @@ feed March2020
       !b
 
     / March, 2020 - MedRxiv
-    quote !c = We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset.
-
-    / March, 2020 - MedRxiv
     quote !a = We estimated that 44% of transmission could occur before first symptoms of the index. Disease control measures should be adjusted to account for probable substantial pre-symptomatic transmission.
 
     / March, 2020 - MedRxiv
     quote !b = Viral shedding may begin 2-3 days before showing first symptoms. After symptom onset, viral loads decreased monotonically, consistent with a recent study of 17 patients from another hospital in Guangdong. Infectiousness profile may more closely resemble that of influenza than of SARS.
+
+    / March, 2020 - MedRxiv
+    quote !c = We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset.
+
 
 
   # Shedding - PCR
@@ -2693,20 +2721,20 @@ feed March2020
   // Enhanced isolation of SARS-CoV-2 by TMPRSS2-expressing cells
   doi: https://doi.org/10.1073/pnas.2002589117
   ref 'Matsuyama_et_al_2020
-    head = TMPRSS2-expressing VeroE6 cell line is highly susceptible to SARS-CoV-2 infection, making it useful for isolating and propagating SARS-CoV-2. Our results reveal that, in common with SARS- and Middle East respiratory syndrome-CoV, SARS-CoV-2 infection is enhanced by TMPRSS2.
+    head = We show that a TMPRSS2-expressing VeroE6 cell line is highly susceptible to SARS-CoV-2 infection, making it useful for isolating and propagating SARS-CoV-2.
 
     > Abstract
       A novel betacoronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which caused a large respiratory outbreak in Wuhan, China in December 2019, is currently spreading across many countries globally. Here, we show that a TMPRSS2-expressing VeroE6 cell line is highly susceptible to SARS-CoV-2 infection, making it useful for isolating and propagating SARS-CoV-2. Our results reveal that, in common with SARS- and Middle East respiratory syndrome-CoV, SARS-CoV-2 infection is enhanced by TMPRSS2.
 
-    # - quotes
-    #   !a
+    - quotes
+      !a
     #   !b
 
     / March, 2020 - National Academy of Sciences
-    quote !a = TMPRSS2-expressing cell lines are highly susceptible to SARS-CoV, MERS-CoV, and SARS-CoV-2, making the VeroE6/TMPRSS2 cell line a suitable contributor to the global surveillance of high-risk CoVs.
+    quote !a = In common with SARS- and Middle East respiratory syndrome-CoV, SARS-CoV-2 infection is enhanced by TMPRSS2.
 
-    / March, 2020 - National Academy of Sciences
-    quote !b = VeroE6/TMPRSS2 cells are easily maintained, suitable for large-scale propagation, and now available from Japanese Collection of Research Bioresources (JCRB) Cell Bank in Japan (https://cellbank.nibiohn.go.jp/english/) (JCRB no. JCRB1819).
+    # / March, 2020 - National Academy of Sciences
+    # quote !b = VeroE6/TMPRSS2 cells are easily maintained, suitable for large-scale propagation, and now available from Japanese Collection of Research Bioresources (JCRB) Cell Bank in Japan (https://cellbank.nibiohn.go.jp/english/) (JCRB no. JCRB1819).
 
 
   # This paper is already put
@@ -2981,7 +3009,7 @@ feed March2020
       !b
 
     / March, 2020 - Science
-    quote !a = The structure of 2019-nCoV S should enable the rapid development and evaluation of medical countermeasures to address the ongoing public health crisis.
+    quote !a = We also provide biophysical and structural evidence that the 2019-nCoV S protein binds angiotensin-converting enzyme 2 (ACE2) with higher affinity than does severe acute respiratory syndrome (SARS)-CoV S.
 
     / March, 2020 - Science
     quote !b = We tested several published SARS-CoV RBD-specific monoclonal antibodies and found that despite the relatively high degree of structural homology between the 2019-nCoV RBD and the SARS-CoV RBD, no binding to the 2019-nCoV S could be detected for any of the three mAbs, suggesting that SARS-directed mAbs will not necessarily be cross-reactive.
@@ -3096,16 +3124,17 @@ feed March2020
 
 
   # Transmission - Air and Surface
+  @@JoshuaSantarpia
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center
   doi: https://doi.org/10.1101/2020.03.23.20039446
   ref 'Santarpia_et_al_2020
-    head = We collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, indicating that SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
+    head = We collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples. SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
 
-    # - quotes
-    #   !a
+    - quotes
+      !a
 
-    # / bioRxiv - March, 2020
-    # quote !a = Our study indicates SARS-CoV-2 is shed to the environment as expired particles, during toileting, and through contact with fomites. Disease spread through both direct (droplet and person-to-person) as well as indirect contact (contaminated objects and airborne transmission) are indicated, supporting the use of airborne isolation precautions.
+    / bioRxiv - March, 2020
+    quote !a = SARS-CoV-2 may spread through both direct (droplet and person-to-person) as well as indirect mechanisms (contaminated objects and airborne transmission).
 
 
   # Aerosol transmission
@@ -3136,7 +3165,7 @@ feed March2020
   // Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein
   doi: http://dx.doi.org/10.1016/j.cell.2020.02.058
   ref 'Walls_et_al_2020
-    head = SARS-CoV-2 S uses ACE2 to enter cells and that the receptor-binding domains of SARS-CoV-2 S and SARS-CoV S bind with similar affinities to human ACE2, correlating with the efficient spread of SARS-CoV-2 among humans.
+    head = We show that SARS-CoV-2 S uses ACE2 to enter cells and that the receptor-binding domains of SARS-CoV-2 S and SARS-CoV S bind with similar affinities to human ACE2, correlating with the efficient spread of SARS-CoV-2 among humans.
 
     > Abstract
       The emergence of SARS-CoV-2 has resulted in >90,000 infections and >3,000 deaths. Coronavirus spike (S) glycoproteins promote entry into cells and are the main target of antibodies. We show that SARS-CoV-2 S uses ACE2 to enter cells and that the receptor-binding domains of SARS-CoV-2 S and SARS-CoV S bind with similar affinities to human ACE2, correlating with the efficient spread of SARS-CoV-2 among humans. We found that the SARS-CoV-2 S glycoprotein harbors a furin cleavage site at the boundary between the S1/S2 subunits, which is processed during biogenesis and sets this virus apart from SARS-CoV and SARS-related CoVs. We determined cryo-EM structures of the SARS-CoV-2 S ectodomain trimer, providing a blueprint for the design of vaccines and inhibitors of viral entry. Finally, we demonstrate that SARS-CoV S murine polyclonal antibodies potently inhibited SARS-CoV-2 S mediated entry into cells, indicating that cross-neutralizing antibodies targeting conserved S epitopes can be elicited upon vaccination.
@@ -3183,14 +3212,18 @@ feed March2020
   // Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster
   doi: https://doi.org/10.1101/2020.03.05.20030502
   ref 'Woelfel_et_al_2020
-    head = SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
+    head = We provide a detailed virological analysis of nine cases, providing proof of active virus replication in upper respiratory tract tissues.
+
+    > Abstract
+      Coronavirus disease 2019 (COVID-19) is an acute respiratory tract infection that emerged in late 20191,2. Initial outbreaks in China involved 13.8% cases with severe-, and 6.1% with critical courses. This severe presentation corresponds to the usage of a virus receptor that is expressed predominantly in the lung. By causing an early onset of severe symptoms, this same receptor tropism is thought to have determined pathogenicity but also aided the control of severe acute respiratory syndrome (SARS) in 2003. However, there are reports of COVID-19 cases with mild upper respiratory tract symptoms, suggesting a potential for pre- or oligosymptomatic transmission. There is an urgent need for information on body site - specific virus replication, immunity, and infectivity. Here we provide a detailed virological analysis of nine cases, providing proof of active virus replication in upper respiratory tract tissues. Pharyngeal virus shedding was very high during the first week of symptoms (peak at 7.11 × 108 RNA copies per throat swab, day 4). Infectious virus was readily isolated from throat- and lung-derived samples, but not from stool samples in spite of high virus RNA concentration. Blood and urine never yielded virus. Active replication in the throat was confirmed by viral replicative RNA intermediates in throat samples. Sequence-distinct virus populations were consistently detected in throat- and lung samples of one same patient. Shedding of viral RNA from sputum outlasted the end of symptoms. Seroconversion occurred after 6-12 days, but was not followed by a rapid decline of viral loads. COVID-19 can present as a mild upper respiratory tract illness. Active virus replication in the upper respiratory tract puts prospects of COVID-19 containment in perspective.
 
     - quotes
       !a
       !b
 
     / medRxiv - March, 2020
-    quote !a = COVID-19 can often present as a common cold-like illness.
+    quote !a = SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
+
     / medRxiv - March, 2020
     quote !b = SARS-CoV-2 can actively replicate in the upper respiratory tract, and is shed for a prolonged time after symptoms end, including in stool.
 
@@ -3200,22 +3233,27 @@ feed March2020
   doi: https://doi.org/10.1016/j.cell.2020.02.052
   citation: Hoffmann, Markus et al. Cell, Volume 0, Issue 0
   ref 'Hoffman_et_al_2020
-    head = SARS-CoV-2 uses the SARS-CoV receptor ACE2 for host cell entry. The spike protein of SARS-CoV-2 is primed by TMPRSS2.
+    head = We demonstrate that SARS-CoV-2 uses the SARS-CoV receptor ACE2 for entry and the serine protease TMPRSS2 for S protein priming. We show that the sera from convalescent SARS patients cross-neutralized SARS-2-S-driven entry.
 
-    - quotes
-      !a
+    > Abstract
+      The recent emergence of the novel, pathogenic SARS-coronavirus 2 (SARS-CoV-2) in China and its rapid national and international spread pose a global health emergency. Cell entry of coronaviruses depends on binding of the viral spike (S) proteins to cellular receptors and on S protein priming by host cell proteases. Unravelling which cellular factors are used by SARS-CoV-2 for entry might provide insights into viral transmission and reveal therapeutic targets. Here, we demonstrate that SARS-CoV-2 uses the SARS-CoV receptor ACE2 for entry and the serine protease TMPRSS2 for S protein priming. A TMPRSS2 inhibitor approved for clinical use blocked entry and might constitute a treatment option. Finally, we show that the sera from convalescent SARS patients cross-neutralized SARS-2-S-driven entry. Our results reveal important commonalities between SARS-CoV-2 and SARS-CoV infection and identify a potential target for antiviral intervention
+
+    # - quotes
+    #   !a
 
     quote !a = The sera from convalescent SARS patients cross-neutralized SARS-2-S-driven entry. Our results reveal important commonalities between SARS-CoV-2 and SARS-CoV infection and identify a potential target for antiviral intervention.
 
 
   # droplets, fecal, fomite transmission, nonsomical
+  @@KalisvarMarimuthu
   // Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient
   doi: https://doi.org/10.1001/jama.2020.3227
   ref 'Ong_et_al_03_04_2020
-    head = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission and supports the need for strict adherence to environmental and hand hygiene.
+    head = 3 patients at the dedicated SARS-CoV-2 outbreak center in Singapore in airborne infection isolation rooms (12 air exchanges per hour) with anterooms and bathrooms had surface environmental samples taken at 26 sites. Personal protective equipment (PPE) samples from study physicians exiting the patient rooms also were collected. There was extensive environmental contamination by 1 SARS-CoV-2 patient with mild upper respiratory tract involvement.
+
 
     - quotes
       !a
 
-    / Respiratory shedding and feces as spread mechanism
+    / JAMA Network — March 4, 2020
     quote !a = Significant environmental contamination by patients with SARS-CoV-2 through respiratory droplets and fecal shedding suggests the environment as a potential medium of transmission

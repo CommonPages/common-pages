@@ -540,6 +540,7 @@ feed Pre2019
 
 
   # Aersol Influenza
+  @@PatriciaFabian
   // Influenza virus in human exhaled breath: an observational study
   doi: https://doi.org/10.1371/journal.pone.0002691
   ref 'Fabian_et_al_07_16_2008
@@ -657,15 +658,16 @@ feed Pre2019
   // Cluster of SARS among Medical Students Exposed to Single Patient, Hong Kong
   doi: https://dx.doi.org/10.3201%2Feid1002.030452
   ref 'Wong_et_al_02_10_2004
-    head =  Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
+    head =  We studied transmission patterns of severe acute respiratory syndrome (SARS) among medical students exposed exclusively to the first SARS patient, before his illness was recognized.
 
     > Abstract
       We studied transmission patterns of severe acute respiratory syndrome (SARS) among medical students exposed exclusively to the first SARS patient in the Prince of Wales Hospital in Hong Kong, before his illness was recognized. We conducted a retrospective cohort study of 66 medical students who visited the index patient’s ward, including 16 students with SARS and 50 healthy students. The risk of contracting SARS was sevenfold greater among students who definitely visited the index case’s cubicle than in those who did not (10/27 [41%] versus 1/20 [5%], relative risk [RR] 7.4; 95% confidence interval [CI] 1.0 to 53.3). Illness rates increased directly with proximity of exposure to the index case. However, four of eight students who were in the same cubicle, but were not within 1 m of the index case-patient, contracted SARS. Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
 
     / February, 2004 - Emerg Infect Dis
-    quote !a =
+    quote !a = Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
 
   # Airborne
+  @@SoChang
   // Extensive Viable Middle East Respiratory Syndrome (MERS) Coronavirus Contamination in Air and Surrounding Environment in MERS Isolation Wards
   doi: https://doi.org/10.1093/cid/ciw239
   ref 'Kim_et_al_08_01_2016
@@ -1386,6 +1388,7 @@ feed Pre2019
 
 
   # transmission via toilet flushing of aerosols
+  @@AnnalauraCarducci
   // Viral Contamination of Aerosol and Surfaces Through Toilet Use in Health Care and Other Settings
   doi: https://doi.org/10.1016/j.ajic.2014.03.026
   ref 'Verani_et_al_05_09_2014
@@ -1619,7 +1622,7 @@ feed Pre2019
   // Isolation of potent SARS-CoV-2 neutralizing antibodies and protection from disease in a small animal model
   doi: https://doi.org/10.1126/science.abc7520
   ref 'Rogers_et_al_06_11_2020
-    head = The results suggest a focus on the RBD and indeed strong nAb responses have been described by immunizing mice with a multivalent presentation of RBD.
+    head = We enrolled a cohort of SARS-CoV-2-recovered participants, developed neutralization assays to interrogate antibody responses, adapted our high-throughput antibody generation pipeline to rapidly screen over 1800 antibodies, and established an animal model to test protection.
 
     > Abstract
       Countermeasures to prevent and treat COVID-19 are a global health priority. We enrolled a cohort of SARS-CoV-2-recovered participants, developed neutralization assays to interrogate antibody responses, adapted our high-throughput antibody generation pipeline to rapidly screen over 1800 antibodies, and established an animal model to test protection. We isolated potent neutralizing antibodies (nAbs) to two epitopes on the receptor binding domain (RBD) and to distinct non-RBD epitopes on the spike (S) protein. We showed that passive transfer of a nAb provides protection against disease in high-dose SARS-CoV-2 challenge in Syrian hamsters, as revealed by maintained weight and low lung viral titers in treated animals. The study suggests a role for nAbs in prophylaxis, and potentially therapy, of COVID-19. The nAbs define protective epitopes to guide vaccine design.
@@ -1627,40 +1630,38 @@ feed Pre2019
     - quotes
       !a
       !b
-      !c
-      !d
 
     / June, 2020 - American Association for the Advancement of Science
-    quote !a = The recombinant S protein that we used to select B cells is a poor representation of the native spike on virions. In other words, there may be many nAbs to S but we failed to isolate them because of the selecting antigen.
+    quote !a = We showed that passive transfer of a nAb provides protection against disease in high-dose SARS-CoV-2 challenge in Syrian hamsters, as revealed by maintained weight and low lung viral titers in treated animals. The study suggests a role for nAbs in prophylaxis, and potentially therapy, of COVID-19. The nAbs define protective epitopes to guide vaccine design.
 
     / June, 2020 - American Association for the Advancement of Science
-    quote !b = The recombinant S protein that we used is close to native but non-neutralizing antibodies bind to sites on S that do not interfere with viral entry
+    quote !b = The results suggest a focus on the RBD and indeed strong nAb responses have been described by immunizing mice with a multivalent presentation of RBD.
 
-    / June, 2020 - American Association for the Advancement of Science
-    quote !c = The S protein in natural infection disassembles readily generating a strong Ab response to “viral debris” that is non-neutralizing because the antibodies recognize protein surfaces that are not exposed on the native spike.
-
-    / June, 2020 - American Association for the Advancement of Science
-    quote !d = Importantly, the availability of both neutralizing and non-neutralizing antibodies generated in this study will facilitate evaluation of S protein immunogens for presentation of neutralizing and non-neutralizing epitopes and promote effective vaccine design. The design of an immunogen that improves on the quality of nAbs elicited by natural infection may well emerge as an important goal of vaccine efforts.
+    # / June, 2020 - American Association for the Advancement of Science
+    # quote !c = The S protein in natural infection disassembles readily generating a strong Ab response to “viral debris” that is non-neutralizing because the antibodies recognize protein surfaces that are not exposed on the native spike.
+    #
+    # / June, 2020 - American Association for the Advancement of Science
+    # quote !d = Importantly, the availability of both neutralizing and non-neutralizing antibodies generated in this study will facilitate evaluation of S protein immunogens for presentation of neutralizing and non-neutralizing epitopes and promote effective vaccine design. The design of an immunogen that improves on the quality of nAbs elicited by natural infection may well emerge as an important goal of vaccine efforts.
 
 
   # Frontiers Vaccine
   // Potent neutralizing antibodies from COVID-19 patients define multiple targets of vulnerability
   doi: https://doi.org/10.1126/science.abc5902
   ref 'Brouwer_et_al_06_10_2020
-    head = Convalescent COVID-19 patients showed strong anti-SARS-CoV-2 S protein specific B cell responses and developed memory and antibody producing B cells that may have participated in the control of infection and the establishment of humoral immunity. We isolated 19 NAbs that target a diverse range of antigenic sites on the S protein, of which two showed picomolar neutralizing activities  against authentic SARS-CoV-2 virus.
+    head =  We isolated 19 NAbs (Neutralizing Antibodies) that target a diverse range of antigenic sites on the S protein, of which two showed picomolar neutralizing activities against authentic SARS-CoV-2 virus. The antibodies described here are promising candidates for COVID-19 treatment and prevention.
 
     > Abstract
       The rapid spread of SARS-CoV-2 has a significant impact on global health, travel and economy. Therefore, preventative and therapeutic measures are urgently needed. Here, we isolated monoclonal antibodies from three convalescent COVID-19 patients using a SARS-CoV-2 stabilized prefusion spike protein. These antibodies had low levels of somatic hypermutation and showed a strong enrichment in VH1-69, VH3-30-3 and VH1-24 gene usage. A subset of the antibodies were able to potently inhibit authentic SARS-CoV-2 infection as low as 0.007 μg/mL. Competition and electron microscopy studies illustrate that the SARS-CoV-2 spike protein contains multiple distinct antigenic sites, including several receptor-binding domain (RBD) epitopes as well as non-RBD epitopes. In addition to providing guidance for vaccine design, the antibodies described here are promising candidates for COVID-19 treatment and prevention.
 
     - quotes
       !a
-      !b
+
 
     / June, 2020 - American Association for the Advancement of Science
-    quote !a = SARS-CoV-2 infection elicits high-affinity and cross-reactive mAbs targeting the RBD as well as other sites on the S protein. Several of the potent NAbs had VH segments virtually identical to their germline origin, which holds promise for the induction of similar NAbs by vaccination as extensive affinity maturation does not appear to be a requirement for potent neutralization. Interestingly, the most potent NAbs both target the RBD on the S protein and fall within the same competition cluster, but are isolated from two different individuals and bear little resemblance genotypically.
+    quote !a = SARS-CoV-2 spike protein contains multiple distinct antigenic sites, including several receptor-binding domain (RBD) epitopes as well as non-RBD epitopes.
 
-    / June, 2020 - American Association for the Advancement of Science
-    quote !b = hrough large-scale SPR-based competition assays, we defined NAbs that target multiple sites of vulnerability on the RBD as well as additional previously undefined non-RBD epitopes on SARS-CoV-2. This is consistent with the identification of multiple antigenic RBD sites for SARS-CoV-2 and the presence of additional non-RBD sites on the S protein of SARS-CoV and MERS-CoV. Subsequent structural characterization of these potent NAbs will guide vaccine design, while simultaneous targeting of multiple non-RBD and RBD epitopes with mAb cocktails paves the way for safe and effective COVID-19 prevention and treatment.
+    # / June, 2020 - American Association for the Advancement of Science
+    # quote !b = Through large-scale SPR-based competition assays, we defined NAbs that target multiple sites of vulnerability on the RBD as well as additional previously undefined non-RBD epitopes on SARS-CoV-2. This is consistent with the identification of multiple antigenic RBD sites for SARS-CoV-2 and the presence of additional non-RBD sites on the S protein of SARS-CoV and MERS-CoV. Subsequent structural characterization of these potent NAbs will guide vaccine design, while simultaneous targeting of multiple non-RBD and RBD epitopes with mAb cocktails paves the way for safe and effective COVID-19 prevention and treatment.
 
   # Airborne
   // Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients
@@ -2096,6 +2097,7 @@ feed Pre2019
 
 
   # Aersol
+  @@Morawska
   // Modality of human expired aerosol size distributions
   doi: https://doi.org/10.1016/j.jaerosci.2011.07.009
   ref 'Johnson_et_al_06_21_2011
@@ -3205,7 +3207,7 @@ feed Pre2019
   // A Major Outbreak of Severe Acute Respiratory Syndrome in Hong Kong
   doi: https://doi.org/10.1056/NEJMoa030685
   ref 'Lee_et_al_2003
-    head = We report an outbreak in the Prince of Wales Hospital, Hong Kong. The patients were either health care workers in a medical ward of the hospital or persons who had a history of contact with an index patient or exposure to the same medical ward. Our findings suggest SARS is a serious respiratory illness that led to significant morbidity and mortality in our cohort.
+    head = We report an outbreak in the Prince of Wales Hospital, Hong Kong. All patients with suspected SARS after exposure to an index patient or ward were admitted to the isolation wards. Their demographic, clinical, laboratory, and radiologic characteristics were analyzed.
 
     > Background
       There has been an outbreak of the severe acute respiratory syndrome (SARS) worldwide. We report the clinical, laboratory, and radiologic features of 138 cases of suspected SARS during a hospital outbreak in Hong Kong.
@@ -3221,73 +3223,58 @@ feed Pre2019
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
-      !k
+
 
     / May, 2003 - N Engl J Med
     quote !a = SARS developed in 69 health care workers and 16 medical students, all with unremarkable medical histories, after exposure at work in the medical ward for men where our index patient was hospitalized. The high infectivity was also demonstrated by the fact that there were 26 tertiary cases, which included family members of the infected health care workers.
 
-    / May, 2003 - N Engl J Med
-    quote !b = We suspected that the infection was transmitted by droplets and possibly by fomites, and we therefore instituted both airborne precautions (e.g., use of the N-95 respirator) and contact precautions (e.g., use of gowns and gloves), as recommended by the CDC. However, the use of a jet nebulizer to administer aerosolized albuterol in the index patient had probably aggravated the spread of the disease by droplet infections.
-
-    / May, 2003 - N Engl J Med
-    quote !c = In our cohort, most of the common bacterial pathogens were ruled out, in addition to viral diseases such as influenza and respiratory syncytial virus infection. Moreover, lack of a response to the initial antimicrobial treatment we provided led to the suspicion that we were dealing with a novel virus that causes lower respiratory tract infection.
-
-    / May, 2003 - N Engl J Med
-    quote !d = In the first 138 cases, we have identified several cardinal symptoms of SARS. Besides fever, chills, and rigor, which were present in more than 70 percent of cases, cough was present in more than 50 percent and dizziness in more than 40 percent of cases. Rigor may represent the viremic phase of the disease, which subsided gradually as the illness progressed. In addition, moderate lymphopenia and its subsequent progression, thrombocytopenia, a prolonged activated partial-thromboplastin time, elevated lactate dehydrogenase and creatine kinase levels, and elevated alanine aminotransferase levels were prevalent in the early phase of the illness in our cohort; all these findings are quite different from those associated with pneumonia caused by usual bacterial pathogens.
-
-    / May, 2003 - N Engl J Med
-    quote !e = We have also found that the chest radiograph offers an important diagnostic clue to this condition. In cases in which plain chest radiographs appeared normal in the presence of a high spiking fever and lymphopenia, CT of the thorax was a sensitive imaging approach for the diagnosis. The characteristic finding on CT was bilateral peripheral air-space ground-glass consolidation mimicking that in bronchiolitis obliterans with organizing pneumonia.
-
-    / May, 2003 - N Engl J Med
-    quote !f = In fact, the similarity of this radiographic picture to that of bronchiolitis obliterans with organizing pneumonia and the similarity of the histologic features to those of early ARDS in postmortem studies have prompted us to use corticosteroids in combination with ribavirin for the treatment of SARS. The majority of our cohort appeared to have a response to corticosteroid therapy, in addition to ribavirin, with resolution of fever and lung opacities within two weeks.
-
-    / May, 2003 - N Engl J Med
-    quote !g = Univariate analyses showed that advanced age, male sex, a high neutrophil count, a high peak creatine kinase level, high initial and peak lactate dehydrogenase levels, and a low serum sodium level were associated with an adverse outcome.
-
-    / May, 2003 - N Engl J Med
-    quote !h = Only advanced age, a high neutrophil count, and a high peak lactate dehydrogenase level were independent predictors. Since high lactate dehydrogenase levels are often seen in association with tissue damage, we propose that this finding indicates more extensive lung injury. The significant association between a high neutrophil count and an adverse outcome remains to be explained.
-
-    / May, 2003 - N Engl J Med
-    quote !i = A total of 32 patients (23.2 percent) were admitted to the intensive care unit; 5 patients died, all of whom had coexisting conditions (in our analyses, coexisting illness was not correlated with a poor outcome, probably because of the small number of such patients).
-
-    / May, 2003 - N Engl J Med
-    quote !j = In a multivariate analysis, the independent predictors of an adverse outcome were advanced age, a high peak lactate dehydrogenase level, and an absolute neutrophil count that exceeded the upper limit of the normal range on presentation.
-
-    / May, 2003 - N Engl J Med
-    quote !k = A reliable, rapid diagnostic test, based on blood samples or nasopharyngeal aspirates, is of great importance in the future management of this disease.  Early recognition, prompt isolation, and appropriate therapy are the keys in combating this deadly infection.
+    # / May, 2003 - N Engl J Med
+    # quote !b = We suspected that the infection was transmitted by droplets and possibly by fomites, and we therefore instituted both airborne precautions (e.g., use of the N-95 respirator) and contact precautions (e.g., use of gowns and gloves), as recommended by the CDC. However, the use of a jet nebulizer to administer aerosolized albuterol in the index patient had probably aggravated the spread of the disease by droplet infections.
+    #
+    # / May, 2003 - N Engl J Med
+    # quote !c = In our cohort, most of the common bacterial pathogens were ruled out, in addition to viral diseases such as influenza and respiratory syncytial virus infection. Moreover, lack of a response to the initial antimicrobial treatment we provided led to the suspicion that we were dealing with a novel virus that causes lower respiratory tract infection.
+    #
+    # / May, 2003 - N Engl J Med
+    # quote !d = In the first 138 cases, we have identified several cardinal symptoms of SARS. Besides fever, chills, and rigor, which were present in more than 70 percent of cases, cough was present in more than 50 percent and dizziness in more than 40 percent of cases. Rigor may represent the viremic phase of the disease, which subsided gradually as the illness progressed. In addition, moderate lymphopenia and its subsequent progression, thrombocytopenia, a prolonged activated partial-thromboplastin time, elevated lactate dehydrogenase and creatine kinase levels, and elevated alanine aminotransferase levels were prevalent in the early phase of the illness in our cohort; all these findings are quite different from those associated with pneumonia caused by usual bacterial pathogens.
+    #
+    # / May, 2003 - N Engl J Med
+    # quote !e = We have also found that the chest radiograph offers an important diagnostic clue to this condition. In cases in which plain chest radiographs appeared normal in the presence of a high spiking fever and lymphopenia, CT of the thorax was a sensitive imaging approach for the diagnosis. The characteristic finding on CT was bilateral peripheral air-space ground-glass consolidation mimicking that in bronchiolitis obliterans with organizing pneumonia.
+    #
+    # / May, 2003 - N Engl J Med
+    # quote !f = In fact, the similarity of this radiographic picture to that of bronchiolitis obliterans with organizing pneumonia and the similarity of the histologic features to those of early ARDS in postmortem studies have prompted us to use corticosteroids in combination with ribavirin for the treatment of SARS. The majority of our cohort appeared to have a response to corticosteroid therapy, in addition to ribavirin, with resolution of fever and lung opacities within two weeks.
+    #
+    # / May, 2003 - N Engl J Med
+    # quote !g = Univariate analyses showed that advanced age, male sex, a high neutrophil count, a high peak creatine kinase level, high initial and peak lactate dehydrogenase levels, and a low serum sodium level were associated with an adverse outcome.
+    #
+    # / May, 2003 - N Engl J Med
+    # quote !h = Only advanced age, a high neutrophil count, and a high peak lactate dehydrogenase level were independent predictors. Since high lactate dehydrogenase levels are often seen in association with tissue damage, we propose that this finding indicates more extensive lung injury. The significant association between a high neutrophil count and an adverse outcome remains to be explained.
+    #
+    # / May, 2003 - N Engl J Med
+    # quote !i = A total of 32 patients (23.2 percent) were admitted to the intensive care unit; 5 patients died, all of whom had coexisting conditions (in our analyses, coexisting illness was not correlated with a poor outcome, probably because of the small number of such patients).
+    #
+    # / May, 2003 - N Engl J Med
+    # quote !j = In a multivariate analysis, the independent predictors of an adverse outcome were advanced age, a high peak lactate dehydrogenase level, and an absolute neutrophil count that exceeded the upper limit of the normal range on presentation.
+    #
+    # / May, 2003 - N Engl J Med
+    # quote !k = A reliable, rapid diagnostic test, based on blood samples or nasopharyngeal aspirates, is of great importance in the future management of this disease.  Early recognition, prompt isolation, and appropriate therapy are the keys in combating this deadly infection.
 
 
   # heterogenoustransmission, superspreader, emerging disease epidemiology, Social networks, Realization of targeted control measures requires a better understanding of factors determining individual infectiousness.
   // Superspreading and the effect of individual variation on disease emergence
   doi: https://doi.org/10.1038/nature04153
   ref 'Lloyd-Smith_et_al_2005
-    head = Our findings indicate that superspreading is a normal feature of disease spread, and to frame ongoing discussion we propose a rigorous definition for superspreading events and a method to predict their frequency.
+    head = We present an integrated theoretical and statistical analysis of the influence of individual variation in infectiousness on disease emergence. Using contact tracing data from eight directly transmitted diseases, we show that the distribution of individual infectiousness around R0 is often highly skewed.
 
     > Abstract
       Population-level analyses often use average quantities to describe heterogeneous systems, particularly when variation does not arise from identifiable groups. A prominent example, central to our current understanding of epidemic spread, is the basic reproductive number, R0, which is defined as the mean number of infections caused by an infected individual in a susceptible population. Population estimates of R0 can obscure considerable individual variation in infectiousness, as highlighted during the global emergence of severe acute respiratory syndrome (SARS) by numerous ‘superspreading events’ in which certain individuals infected unusually large numbers of secondary cases. For diseases transmitted by non-sexual direct contacts, such as SARS or smallpox, individual variation is difficult to measure empirically, and thus its importance for outbreak dynamics has been unclear. Here we present an integrated theoretical and statistical analysis of the influence of individual variation in infectiousness on disease emergence. Using contact tracing data from eight directly transmitted diseases, we show that the distribution of individual infectiousness around R0 is often highly skewed. Model predictions accounting for this variation differ sharply from average-based approaches, with disease extinction more likely and outbreaks rarer but more explosive. Using these models, we explore implications for outbreak control, showing that individual-specific control measures outperform population-wide measures. Moreover, the dramatic improvements achieved through targeted control policies emphasize the need to identify predictive correlates of higher infectiousness. Our findings indicate that superspreading is a normal feature of disease spread, and to frame ongoing discussion we propose a rigorous definition for superspreading events and a method to predict their frequency.
 
-    # - quotes
-    #   !a
-    #   !b
-    #   !c
-    #   !d
-    #   !e
-    #   !f
-    #   !g
-    #   !h
-    #   !i
+    - quotes
+      !a
+
 
     / November, 2005 - Nature
-    quote !a = According to this analysis, the great majority of SARS cases in Singapore were barely infectious (73% had ν < 1) but a small proportion were highly infectious (6% had ν > 8). This is consistent with field reports from SARS-afflicted regions5,6 but contrasts with published SARS models.
+    quote !a = Our findings indicate that superspreading is a normal feature of disease spread, and to frame ongoing discussion we propose a rigorous definition for superspreading events and a method to predict their frequency.
+
 
     / November, 2005 - Nature
     quote !b = Comparing results for eight directly transmitted infections reveals the differing degree of individual variation among diseases and outbreak settings. The Poisson offspring distribution is almost always strongly rejected. The geometric model has considerable support for several data sets, which indicates significant individual variation in transmission rates because real infectious periods are less dispersed than the exponential distribution. The negative binomial model is selected decisively for several data sets, and enables comparative study of diseases through the dispersion parameter.
@@ -3318,7 +3305,7 @@ feed Pre2019
   // Outbreak of Tuberculosis among Regular Patrons of a Neighborhood Bar
   doi: https://doi.org/10.1056/NEJM199507273330404
   ref 'Kline_et_al_1995
-    head = A highly infectious person with cavitary tuberculosis spent much of his time at the bar for several months. The result was an outbreak of tuberculosis among those who frequented the bar. The outbreak had a substantial impact on community health, contributing 35 percent of all new active cases of tuberculosis in Minneapolis during 1992.
+    head = We report a nonresidential outbreak of tuberculosis that originated in a neighborhood bar.
 
     > Background
       Outbreaks of tuberculosis have been reported in prisons, nursing homes, urban homeless shelters, and other crowded settings. We report a nonresidential outbreak of tuberculosis that originated in a neighborhood bar.
@@ -3334,82 +3321,45 @@ feed Pre2019
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
-      !k
-      !l
 
     / July, 1995 - N Engl J Med
-    quote !a = The index patient had a progressively worsening cough, and over a period of six months his weight declined from 80 to 49 kg. There was no intervention, however, even though he was eligible for health care under government programs. There was a public clinic within six blocks of the bar and a public hospital within three miles, yet he did not seek health care, nor did any of the bars employees or customers intervene.
+    quote !a = The outbreak had a substantial impact on community health, contributing 35 percent of all new active cases of tuberculosis in Minneapolis during 1992.
 
-    / July, 1995 - N Engl J Med
-    quote !b = Instead, the patient went untreated until he could barely stand unassisted, had extensive destruction of lung tissue, and had infected numerous others. His alcoholism and mental health problems were a highly effective barrier to health care. Though it would have been difficult, early intervention would probably have reduced the extent of the outbreak.
-
-    / July, 1995 - N Engl J Med
-    quote !c = The index patient proved highly infectious. Forty-one of 97 contacts (42 percent) interviewed at the bar were infected. Active tuberculosis developed in 14 of 97 (14 percent). These numbers are higher than expected. In a typical contact investigation, approximately 20 to 30 percent of the close contacts have positive tuberculin skin tests and in only 1 or 2 percent does active tuberculosis develop.
-
-    / July, 1995 - N Engl J Med
-    quote !d = Also higher than expected was the proportion of the people we surveyed who were infected but without disease initially (i.e., they had positive tuberculin skin tests, normal chest films, and no symptoms), yet who later progressed to active disease.
-
-    / July, 1995 - N Engl J Med
-    quote !e = Nineteen such people were offered isoniazid prophylaxis. Six completed therapy and remained well, but 13 refused preventive therapy or were noncompliant. In 3 of these 13 (23 percent), active tuberculosis developed within two years.
-
-    / July, 1995 - N Engl J Med
-    quote !f = Typically, in approximately 5 percent of the people who convert to positive tuberculin skin tests, active tuberculosis develops in one year, and in an additional 5 percent it develops at some time during their lives.10 A higher rate of active disease after conversion of the tuberculin test is expected among people infected in infancy, during puberty and adolescence, and in senescence, and those infected with HIV.10,11 However, all the contacts at the bar in whom active tuberculosis developed were adults, and only one was HIV-positive.
-
-    / July, 1995 - N Engl J Med
-    quote !g = Our study suggests that initial infection may progress to active disease more frequently in heavy alcohol users. Another factor contributing to the high incidence of both infection and active disease at the bar may have been the high infectivity of the index patient.
-
-    / July, 1995 - N Engl J Med
-    quote !h = RFLP analysis proved very useful in our investigation and supplemented standard epidemiologic procedures. The same 15 repeats of the insertion sequence were found in all the isolates we tested. The genetic fingerprint of the outbreak strain helped prove linkage among the infected people, including one person with exogenous reinfection, four with upper-lobe disease that resembled endogenous reactivation, and two who were missed by the contact investigation and presented more than two years later.
-
-    / July, 1995 - N Engl J Med
-    quote !i = In a study of an outbreak of tuberculosis in a homeless shelter, Nardell and colleagues also identified cases of exogenous reinfection and of upper-lobe disease resembling endogenous reinfection. They used phage typing and the resistance patterns of culture isolates to link cases to the outbreak. Our findings support their conclusion that the radiographic pattern of disease may not distinguish reactivation tuberculosis from primary infection acquired during an outbreak.
-
-    / July, 1995 - N Engl J Med
-    quote !j = Four symptomatic participants had positive sputum cultures but negative chest films. Active pulmonary tuberculosis in patients with negative chest films, an underappreciated combination, has been reported, particularly in immunocompromised patients. In the context of a contact investigation, a negative chest film in a tuberculin-positive subject does not rule out active tuberculosis.
-
-    / July, 1995 - N Engl J Med
-    quote !k = The cost of failing to complete prophylactic treatment was very high. Of 13 tuberculin-positive contacts who refused isoniazid prophylaxis or did not comply with the regimen, 3 had their conditions progress to active tuberculosis within two years.
-
-    / July, 1995 - N Engl J Med
-    quote !l = Our experience suggests that chronic alcoholism is such a high-risk factor for progression to active disease that major efforts to ensure completion of six months of isoniazid therapy are worthwhile for tuberculin-positive heavy drinkers who are close contacts of people with active disease.
 
 
   # R0, Heterogeneities, targeting control interventions, mitigation, superspreader
   // Heterogeneities in the transmission of infectious agents: implications for the design of control programs.
   doi: https://doi.org/10.1073/pnas.94.1.338
   ref 'Woolhouse_et_al_1997
-    head = From an analysis of the distributions of measures of transmission rates among hosts, we identify an empirical relationship suggesting that, typically, 20% of the host population contributes at least 80% of the net transmission potential, as measured by the basic reproduction number, R0. This is an example of a statistical pattern known as the 20/80 rule. The rule applies to a variety of disease systems, including vector-borne parasites and sexually transmitted pathogens.
+    head = From an analysis of the distributions of measures of transmission rates among hosts, we identify an empirical relationship suggesting that, typically, 20% of the host population contributes at least 80% of the net transmission potential, as measured by the basic reproduction number, R0. The rule applies to a variety of disease systems, including vector-borne parasites and sexually transmitted pathogens.
+
+    > Abstract
+      From an analysis of the distributions of measures of transmission rates among hosts, we identify an empirical relationship suggesting that, typically, 20% of the host population contributes at least 80% of the net transmission potential, as measured by the basic reproduction number, R0. This is an example of a statistical pattern known as the 20/80 rule. The rule applies to a variety of disease systems, including vector-borne parasites and sexually transmitted pathogens. The rule implies that control programs targeted at the “core” 20% group are potentially highly effective and, conversely, that programs that fail to reach all of this group will be much less effective than expected in reducing levels of infection in the population as a whole.
+
+    - quotes
+      !a
 
 
     / January, 1997 - The National Academy of Sciences of the USA
     quote !a = The results suggest that heterogeneities in contact rates lead to consistent and substantial increases in the value of R0, by factors in the range 2 to 4 for vector-borne infections and considerably higher for STDs. This may well apply to other infectious agents where “contact” is less easy to quantify. In practice, additional heterogeneities are also likely to contribute to the effects on R0.
 
-    / January, 1997 - The National Academy of Sciences of the USA
-    quote !b = In the case of the STD study from France, only 13% of the adult population had any new sexual partners during 1 year and thus made any contribution to R0 over that time scale. For all other nine data sets, Rc can reduced by more than 80% of R0 by removing 20% of households or individuals; we refer to this empirical observation as the 20/80 rule.
-
-    / January, 1997 - The National Academy of Sciences of the USA
-    quote !c = Biting by mosquitoes of humans is not random, and attractiveness may be related to sex, skin surface area (hence age), and other factors. Susceptibility to schistosome infection varies with the nature of contacts, possibly with skin thickness and lipid content and may be related to genetic factors. Risk of STD transmission is affected by the frequency and type of sexual acts and by cofactors. Acquired immunity may also affect host susceptibility to infection (55, 56), but this is not relevant to analyses of R0, which is defined with respect to a fully susceptible (naive) population. The magnitude of the effect of these other heterogeneities at the population level is unknown; but they will not decrease R0 unless negatively correlated with the variables analyzed here.
-
-    / January, 1997 - The National Academy of Sciences of the USA
-    quote !d = There may also be effects of “higher order” heterogeneities, all of which may further increase R0: heterogeneities in the distribution of vectors; differing usage of different water contact sites; patterns of contact between highly sexually active and less sexually active groups, and differences between the sexes (58). Consistency through time of the heterogeneities in transmission rates is also important.
-
-    / January, 1997 - The National Academy of Sciences of the USA
-    quote !e = Clearly, if the relative contribution of each host subgroup to R0 is itself variable then the fraction to be targeted must be continually reappraised. For human malaria in Tanzania over 12 months and in Papua New Guinea over 28 months, and for canine leishmaniasis over consecutive years, there is little variation in the relative abundance of vectors compared across households. Such information is not available for behaviors associated with the transmission of either schistosomiasis or STDs. It is important that the time scale of the observation of contact rates is sufficient to properly characterize their distribution across the host population
-
-    / January, 1997 - The National Academy of Sciences of the USA
-    quote !f = Although the actual values of R0 for any given infectious agent will vary between locations and through time, the heterogeneities in transmission rates recorded in this study suggest that targeted interventions can, in principle, induce very substantial reductions in rates of infection. This has been suggested before, but the novelty of the result lies in the apparent conformity with the 20/80 rule found across widely different host–parasite associations and in the relative magnitude of the contribution to the transmission potential (over 80%) made by a small fraction (20%) of the host population.
-
-    / January, 1997 - The National Academy of Sciences of the USA
-    quote !g = In the application of this empirical rule the key issues will be the methods used and the costs entailed in identifying the “core” transmitters. Put simply, if the cost of identifying and treating the core 20% is less than the cost of treating the entire population then targeting control interventions such as vaccination, drug treatment, or exposure protection may be preferred to nontargeted interventions on economic grounds. What is lacking in public health research into disease control is a quantitative assessment of the relative costs and effects. The 20/80 rule should encourage efforts to make such assessments.
+    # / January, 1997 - The National Academy of Sciences of the USA
+    # quote !b = In the case of the STD study from France, only 13% of the adult population had any new sexual partners during 1 year and thus made any contribution to R0 over that time scale. For all other nine data sets, Rc can reduced by more than 80% of R0 by removing 20% of households or individuals; we refer to this empirical observation as the 20/80 rule.
+    #
+    # / January, 1997 - The National Academy of Sciences of the USA
+    # quote !c = Biting by mosquitoes of humans is not random, and attractiveness may be related to sex, skin surface area (hence age), and other factors. Susceptibility to schistosome infection varies with the nature of contacts, possibly with skin thickness and lipid content and may be related to genetic factors. Risk of STD transmission is affected by the frequency and type of sexual acts and by cofactors. Acquired immunity may also affect host susceptibility to infection (55, 56), but this is not relevant to analyses of R0, which is defined with respect to a fully susceptible (naive) population. The magnitude of the effect of these other heterogeneities at the population level is unknown; but they will not decrease R0 unless negatively correlated with the variables analyzed here.
+    #
+    # / January, 1997 - The National Academy of Sciences of the USA
+    # quote !d = There may also be effects of “higher order” heterogeneities, all of which may further increase R0: heterogeneities in the distribution of vectors; differing usage of different water contact sites; patterns of contact between highly sexually active and less sexually active groups, and differences between the sexes (58). Consistency through time of the heterogeneities in transmission rates is also important.
+    #
+    # / January, 1997 - The National Academy of Sciences of the USA
+    # quote !e = Clearly, if the relative contribution of each host subgroup to R0 is itself variable then the fraction to be targeted must be continually reappraised. For human malaria in Tanzania over 12 months and in Papua New Guinea over 28 months, and for canine leishmaniasis over consecutive years, there is little variation in the relative abundance of vectors compared across households. Such information is not available for behaviors associated with the transmission of either schistosomiasis or STDs. It is important that the time scale of the observation of contact rates is sufficient to properly characterize their distribution across the host population
+    #
+    # / January, 1997 - The National Academy of Sciences of the USA
+    # quote !f = Although the actual values of R0 for any given infectious agent will vary between locations and through time, the heterogeneities in transmission rates recorded in this study suggest that targeted interventions can, in principle, induce very substantial reductions in rates of infection. This has been suggested before, but the novelty of the result lies in the apparent conformity with the 20/80 rule found across widely different host–parasite associations and in the relative magnitude of the contribution to the transmission potential (over 80%) made by a small fraction (20%) of the host population.
+    #
+    # / January, 1997 - The National Academy of Sciences of the USA
+    # quote !g = In the application of this empirical rule the key issues will be the methods used and the costs entailed in identifying the “core” transmitters. Put simply, if the cost of identifying and treating the core 20% is less than the cost of treating the entire population then targeting control interventions such as vaccination, drug treatment, or exposure protection may be preferred to nontargeted interventions on economic grounds. What is lacking in public health research into disease control is a quantitative assessment of the relative costs and effects. The 20/80 rule should encourage efforts to make such assessments.
 
 
   # RO, superspreader
@@ -3636,13 +3586,16 @@ feed Pre2019
   // Superspreading SARS Events, Beijing, 2003
   doi: https://dx.doi.org/10.3201/eid1002.030732
   ref 'Shen_et_al_2004
-    head = Our investigation highlights several features of SARS transmission observed in multiple outbreaks, including the central role of hospitals in disease transmission, the difficulty in distinguishing SARS from other clinical symptoms, and the danger associated with delayed case detection and isolation. Our investigation suggests that superspreading was related to both the environment and host.
+    head = We investigated superspreading in one transmission chain early in Beijing’s epidemic. Superspreading was defined as transmission of SARS to at least eight contacts.
 
     > Abstract
       Superspreading events were pivotal in the global spread of severe acute respiratory syndrome (SARS). We investigated superspreading in one transmission chain early in Beijing’s epidemic. Superspreading was defined as transmission of SARS to at least eight contacts. An index patient with onset of SARS 2 months after hospital admission was the source of four generations of transmission to 76 case-patients, including 12 healthcare workers and several hospital visitors. Four (5%) case circumstances met the superspreading definition. Superspreading appeared to be associated with older age (mean 56 vs. 44 years), case fatality (75% vs. 16%, p = 0.02, Fisher exact test), number of close contacts (36 vs. 0.37) and attack rate among close contacts (43% vs. 18.5%, p < 0.025). Delayed recognition of SARS in a hospitalized patient permitted transmission to patients, visitors, and healthcare workers. Older age and number of contacts merit investigation in future studies of superspreading.
 
-    # / Feb, 2004 - Emerg Infect Dis
-    # quote !a =
+    - quotes
+      !a
+
+    / Feb, 2004 - Emerg Infect Dis
+    quote !a = An index patient with onset of SARS 2 months after hospital admission was the source of four generations of transmission to 76 case-patients, including 12 healthcare workers and several hospital visitors.
 
   # Public Policy? Mitigation measure by banning travel, Forecast? Outbreak Detection - Social network
   // The role of the airline transportation network in the prediction and predictability of global epidemics
@@ -5602,7 +5555,7 @@ feed Pre2019
       !a
 
     / April, 2013 - Journal of Virology
-    quote !a = By explicitly modeling variation in the strength of natural selection over time and thereby improving the modeling of substitution saturation, we found that the time to the most recent ancestor common for all coronaviruses is likely far greater (millions of years) than the previously inferred range.
+    quote !a = We found that the time to the most recent ancestor common for all coronaviruses is likely far greater (millions of years) than the previously inferred range.
 
   # Tag ACE2 inhibitor at Remediation
   // The first-in-class peptide binder to the SARS-CoV-2 spike protein

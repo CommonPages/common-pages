@@ -403,10 +403,13 @@ feed August2020
   // Air conditioning system usage and SARS-CoV-2 transmission dynamics in Iran
   doi: https://dx.doi.org/10.1016%2Fj.mehy.2020.110164
   ref 'RezaPourkarim_et_al_08_03_2020
-    head = Cooling systems could contribute to the spread of SARS-CoV-2 in Iran. Besides creating air circulation in closed environments, these systems also reduce air humidity, which promotes the spread of virus-laden micro-droplets. We urgently advise health policy makers to regard the role of ventilation systems in the guidelines for controlling the epidemic.
+    head = Based on the current evidence and the pattern of the epidemic, we believe that cooling systems could contribute to the spread of SARS-CoV-2 in Iran.
+
+    - quotes
+      !a
 
     / August, 2020 - Med Hypotheses
-    quote !a =
+    quote !a = Besides creating air circulation in closed environments, these systems also reduce air humidity, which promotes the spread of virus-laden micro-droplets.
 
 
   # Side effects Hydroxychloroquine
@@ -439,6 +442,7 @@ feed August2020
 
 
   # Nosocomial
+  @@YuguoLi
   // Toilets dominate environmental detection of severe acute respiratory syndrome coronavirus 2 in a hospital
   doi: https://doi.org/10.1016/j.scitotenv.2020.141710
   ref 'Ding_et_al_08_15_2020

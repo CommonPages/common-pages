@@ -55,7 +55,6 @@ subject module TransMechanism
     - Estimating R<sub>0</sub>
       'Liu_et_al_2020e
       'Sanche_et_al_2020
-      'Miller_et_al_2020b.!d
       'Salje_et_al_04_20_2020.!d
       'Bi_et_al_04_27_2020.!l
       'Bi_et_al_04_27_2020.!m

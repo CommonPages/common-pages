@@ -51,7 +51,6 @@ index: hide
 
     quote !Priors = Guidance and recommendations included in this document are based on 'previous_WHO_Guidelines (in particular the WHO Guidelines on infection prevention and control of epidemic- and pandemic-prone acute respiratory infections in health care) and the evaluation of current evidence by the WHO ad hoc COVID-19 IPC Guidance Development Group (COVID-19 IPC GDG).
 
-    / Protection and Source Control
     quote !ProtectionAndSourceControl = Masks can be used either for protection of healthy persons (worn to protect oneself when in contact with an infected individual) or for source control (worn by an infected individual to prevent onward transmission).
 
     quote !SymptomaticTransmission = Current evidence suggests that most transmission of COVID19 is occurring from symptomatic people to others in close contact, when not wearing appropriate PPE.

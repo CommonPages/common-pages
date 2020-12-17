@@ -260,6 +260,7 @@ feed WHO
 
   # 13
   # aerosol, surface, nonsomical
+  @@YuWeiGao
   // Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020.
    doi: https://doi.org/10.3201/eid2607.200885
   ref 'Guo_et_al_04_10_2020
@@ -284,6 +285,7 @@ feed WHO
 
   # 15
   # toilet, fomite, respiration, direct transmission (droplet and person-to-person), indirect transmission, Nonsomical, Nebraska, USA
+  @@JoshuaSantarpia
   // Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center.
   doi: https://doi.org/10.1101/2020.03.23.20039446
   ref 'Santarpia_et_al_06_03_2020
@@ -328,6 +330,7 @@ feed WHO
 
   # 18
   # aerosol, Viability
+  @@Roy
   // Comparative dynamic aerosol efficiencies of three emergent coronaviruses and the unusual persistence of SARS-CoV-2 in aerosol suspensions.
   doi: https://doi.org/10.1101/2020.04.13.20063784
   ref 'Fears_et_al_04_18_2020

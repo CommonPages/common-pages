@@ -116,7 +116,6 @@ subject module Settings
             'Houlihan_et_al_07_09_2020
             'Santarpia_et_al_07_29_2020
             'Liu_et_al_03_10_2020
-            'Jayaweera_et_al_06_10_2020.!b
             'Lai_et_al_05_21_2020
             'Sr_et_al_04_01_2020
             'Heinzerling_et_al_04_14_2020

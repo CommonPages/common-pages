@@ -441,6 +441,7 @@ feed May2020
 
 
   # Aersol
+  @@ElizabethAnderson
   // Consideration of the Aerosol Transmission for COVID‐19 and Public Health
   doi: https://doi.org/10.1111/risa.13500
   ref 'Anderson_et_al_05_01_2020
@@ -467,7 +468,7 @@ feed May2020
   // Is there an airborne component to the transmission of COVID-19? : a quantitative analysis study
   doi: https://doi.org/10.1101/2020.05.22.20109991
   ref 'Beggs_et_al_05_26_2020
-    head = In order to quantify the risk posed by COVID-19 infectors exhaling respiratory aerosols in enclosed spaces, we undertook a computer modelling study to simulate transmission in an office building.
+    head = Respiratory droplet data from four published datasets were analysed to quantify the number and volume of droplets <100μm diameter produced by a typical cough and speaking event. Several scenarios were simulated that mimicked the presence of both symptomatic and asymptomatic COVID-19 infectors.
 
     > Objectives
       While COVID-19 is known to be spread by respiratory droplets (which travel <2m horizontally), much less is known about its transmission via aerosols, which can become airborne and widely distributed throughout room spaces. In order to quantify the risk posed by COVID-19 infectors exhaling respiratory aerosols in enclosed spaces, we undertook a computer modelling study to simulate transmission in an office building.
@@ -497,7 +498,7 @@ feed May2020
   // Environmental sampling for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during a coronavirus disease (COVID-19) outbreak aboard a commercial cruise ship
   doi: https://doi.org/10.1101/2020.05.02.20088567
   ref 'Yamagishi_et_al_05_08_2020
-    head = The environment around the COVID-19 cases was extensively contaminated from SARS-CoV-2 during COVID-19 outbreak in the cruise ship. Transmission risk of SARS-CoV-2 from symptomatic and asymptomatic patients seems to be similar and the environmental surface could involve viral transmission through direct contact.
+    head = We sampled environmental surfaces including air from common areas in the cruise ship and cabins in which confirmed COVID-19 cases and non-cases had stayed after they left the cabins. We tested the samples for SARS-CoV-2 by rt-PCR and conducted viral isolation.
 
     > Background
       A COVID-19 outbreak occurred in a cruise ship with 3711 passengers and crew in 2020. This study is to test the hypothesis that environmental surfaces played important roles in transmission for SARS-CoV-2 during this outbreak.
@@ -508,12 +509,15 @@ feed May2020
     > nterpretation
       The environment around the COVID-19 cases was extensively contaminated from SARS-CoV-2 during COVID-19 outbreak in the cruise ship. Transmission risk of SARS-CoV-2 from symptomatic and asymptomatic patients seems to be similar and the environmental surface could involve viral transmission through direct contact.
 
+    - quotes
+      !a
 
     / May, 2020 - medRxiv
-    quote !a =
+    quote !a = The environment around the COVID-19 cases was extensively contaminated from SARS-CoV-2 during COVID-19 outbreak in the cruise ship. Transmission risk of SARS-CoV-2 from symptomatic and asymptomatic patients seems to be similar and the environmental surface could involve viral transmission through direct contact.
 
 
   # Nosocomial - No Aersol - Surface
+  @@YipingMao
   // Environmental contamination by SARS-CoV-2 in a designated hospital for coronavirus disease 2019
   doi: https://doi.org/10.1016/j.ajic.2020.05.003
   ref 'Wu_et_al_05_11_2020
@@ -1018,7 +1022,7 @@ feed May2020
   // SARS-CoV-2 spike protein binds heparan sulfate in a length- and sequence-dependent manner
   doi: https://doi.org/10.1101/2020.05.10.087288
   ref 'Liu_et_al_05_10_2020
-    head = Our data supports a model in which the RBD (receptor binding domain) of the spike of SARS-CoV-2 confers sequence specificity for HS (heparan sulfate) expressed by target cells whereas an additional HS binding site in the S1/S2 proteolytic cleavage site enhances the avidity of binding. Collectively, our results highlight the potential of using HS oligosaccharides as a therapeutic agent by inhibiting SARS-CoV-2 binding to target cells.
+    head = Microarray binding experiments using an extensive heparan sulfate (HS) oligosaccharide library showed the spike of SARS-CoV-2 can bind HS in a length- and sequence-dependent manner. Surface plasma resonance (SPR) showed the SARS-CoV-2 spike protein binds with higher affinity to heparin (KD 55 nM) compared to the receptor binding domain (RBD, KD 1 µM) alone.
 
     > Abstract
       Severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) is causing an unprecedented global pandemic demanding the urgent development of therapeutic strategies. Microarray binding experiments using an extensive heparan sulfate (HS) oligosaccharide library showed the spike of SARS-CoV-2 can bind HS in a length- and sequence-dependent manner. Hexa- and octasaccharides composed of IdoA2S-GlcNS6S repeating units were identified as optimal ligands. Surface plasma resonance (SPR) showed the SARS-CoV-2 spike protein binds with higher affinity to heparin (KD 55 nM) compared to the receptor binding domain (RBD, KD 1 µM) alone. An octasaccharide composed of IdoA2S-GlcNS6S could inhibit spike-heparin interaction with an IC50 of 38 nM. Our data supports a model in which the RBD of the spike of SARS-CoV-2 confers sequence specificity for HS expressed by target cells whereas an additional HS binding site in the S1/S2 proteolytic cleavage site enhances the avidity of binding. Collectively, our results highlight the potential of using HS oligosaccharides as a therapeutic agent by inhibiting SARS-CoV-2 binding to target cells.
@@ -1110,16 +1114,16 @@ feed May2020
   // Attenuated SARS-CoV-2 Variants With Deletions at the S1/S2 Junction
   doi: https://doi.org/10.1080/22221751.2020.1756700
   ref 'Lau_et_al_05_04_2020
-    head = We observed a series of deleted mutants (Del-muts) and point mutation variants in Vero-E6 cell cultures of a clinical isolate. In a challenging trial in hamsters, Del-mut-1 variant in infected hamsters does not cause the body weight loss or more severe pathological changes in the lungs that is associated with wild type virus infection. It would be important to screen the prevalence of these variants in asymptomatic infected cases, and a potential as an attenuated vaccine or laboratory tool.
+    head = We found a series of variants which contain 15-30-bp deletions (Del-mut) or point mutations respectively at the S1/S2 junction. Examination of the original clinical specimen from which the isolate was derived, and 26 additional SARS-CoV-2 positive clinical specimens, failed to detect these variants.
 
     > Abstract
       The emergence of SARS-CoV-2 has led to the current global coronavirus pandemic and more than one million infections since December 2019. The exact origin of SARS-CoV-2 remains elusive, but the presence of a distinct motif in the S1/S2 junction region suggests the possible acquisition of cleavage site(s) in the spike protein that promoted cross-species transmission. Through plaque purification of Vero-E6 cultured SARS-CoV-2, we found a series of variants which contain 15-30-bp deletions (Del-mut) or point mutations respectively at the S1/S2 junction. Examination of the original clinical specimen from which the isolate was derived, and 26 additional SARS-CoV-2 positive clinical specimens, failed to detect these variants. Infection of hamsters shows that one of the variants (Del-mut-1) which carries deletion of 10 amino acids (30bp) does not cause the body weight loss or more severe pathological changes in the lungs that is associated with wild type virus infection. We suggest that the unique cleavage motif promoting SARS-CoV-2 infection in humans may be under strong selective pressure, given that replication in permissive Vero-E6 cells leads to the loss of this adaptive function. It would be important to screen the prevalence of these variants in asymptomatic infected cases. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
 
-    - therpeutics frontiers
-      !g
+    - quotes
+      !a
 
-    # / May, 2020 - Emerging Microbes & Infections
-    # quote !a = We found multiple variants containing in-frame deletions from 15 to 30 nucleotides and point mutations in the S1/S2 junction. One of the variants contains an in-frame 30-bp deletion which spanned genome coordinates 2035–2064 of the spike region in all small plaque-forming viruses sequenced (Del-mut-1), while no deletion was found in isolates that formed large plaques (WT). Besides this 30-bp deletion, no other deletion or mutation was found in Del-mut-1. Sequence alignment of amino acids shows that this 30-bp deletion is located at the S1/S2 junction. Notably, this deletion removes the PRRA motif from the S1/S2 junction region of the spike protein.
+    / May, 2020 - Emerging Microbes & Infections
+    quote !a = We suggest that the unique cleavage motif promoting SARS-CoV-2 infection in humans may be under strong selective pressure, given that replication in permissive Vero-E6 cells leads to the loss of this adaptive function. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
 
     # / May, 2020 - Emerging Microbes & Infections
     # quote !b = We could not detect this variant in the original clinical specimen from which this isolate was cultured, nor from another 26 clinical specimens confirmed to be positive for SARS-CoV-2. Interestingly, deletion of these 30 base pairs appears to enhance Del-mut-1 variant growth in the mixed population and promote stability through multiple passages in Vero-E6, but not in other human cell lines.
@@ -1136,8 +1140,8 @@ feed May2020
     # / May, 2020 - Emerging Microbes & Infections
     # quote !f = The examination of Del-mut-1 variant virus isolated from infected hamsters did not detect restoration of the deleted 30-bp sequence. Continued passage of Del-mut-1 variant indicates that the mutant virus is stable and increasing population along the passages in Vero-E6 cells, supporting the contention that the acquired function of the S1/S2 junction insertion is only needed for non-permissive replication.
 
-    / May, 2020 - Emerging Microbes & Infections
-    quote !g = Given its inability to cause severe disease in an animal model, and dependent on safety testing, this attenuated Del-mut-1 variant may prove to be useful for conducting drug screening research or functional studies on SARS-CoV-2 in laboratories where a high-level biosafety facility is not available. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
+    # / May, 2020 - Emerging Microbes & Infections
+    # quote !g = Given its inability to cause severe disease in an animal model, and dependent on safety testing, this attenuated Del-mut-1 variant may prove to be useful for conducting drug screening research or functional studies on SARS-CoV-2 in laboratories where a high-level biosafety facility is not available. The potential of the Del-mut variants as an attenuated vaccine or laboratory tool should be evaluated.
 
     # / May, 2020 - Emerging Microbes & Infections
     # quote !h = We suggest that the unique cleavage motif promoting SARS-CoV-2 infection in humans may be under strong selective pressure, given that replication in permissive Vero-E6 cells leads to the loss of this adaptive function. It would be important to screen the prevalence of these variants in asymptomatic infected cases.
@@ -1394,18 +1398,19 @@ feed May2020
 
   # Aersol
   // Modelling aerosol transport and virus exposure with numerical simulations in relation to SARS-CoV-2 transmission by inhalation indoors
-  doi: https://doi.org/xyz
+  doi: https://doi.org/10.1016/j.ssci.2020.104866
   ref 'Vuorinen_et_al_05_31_2020
-    head = We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from  to or even to depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
+    head = We utilize physics-based modeling at different levels of complexity, along with previous literature on coronaviruses, to investigate the possibility of airborne transmission. By 3D scale-resolving computational fluid dynamics (CFD) simulations, we give various examples on the transport and dilution of aerosols over distances in generic environments. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking.
 
     > Abstract
-      We provide research findings on the physics of aerosol and droplet dispersion relevant to the hypothesized aerosol transmission of SARS-CoV-2 during the current pandemic. We utilize physics-based modeling at different levels of complexity, along with previous literature on coronaviruses, to investigate the possibility of airborne transmission. The previous literature, our 0D-3D simulations by various physics-based models, and theoretical calculations, indicate that the typical size range of speech and cough originated droplets () allows lingering in the air for ) so that they could be inhaled. Consistent with the previous literature, numerical evidence on the rapid drying process of even large droplets, up to sizes , into droplet nuclei/aerosols is provided. Based on the literature and the public media sources, we provide evidence that the individuals, who have been tested positive on COVID-19, could have been exposed to aerosols/droplet nuclei by inhaling them in significant numbers e.g. . By 3D scale-resolving computational fluid dynamics (CFD) simulations, we give various examples on the transport and dilution of aerosols () over distances  in generic environments. We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The developed model takes into account the locally varying aerosol concentration levels which the susceptible accumulate via inhalation. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from  to  or even to  depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
+      We provide research findings on the physics of aerosol and droplet dispersion relevant to the hypothesized aerosol transmission of SARS-CoV-2 during the current pandemic. We utilize physics-based modeling at different levels of complexity, along with previous literature on coronaviruses, to investigate the possibility of airborne transmission. The previous literature, our 0D-3D simulations by various physics-based models, and theoretical calculations, indicate that the typical size range of speech and cough originated droplets () allows lingering in the air for ) so that they could be inhaled. Consistent with the previous literature, numerical evidence on the rapid drying process of even large droplets, up to sizes , into droplet nuclei/aerosols is provided. Based on the literature and the public media sources, we provide evidence that the individuals, who have been tested positive on COVID-19, could have been exposed to aerosols/droplet nuclei by inhaling them in significant numbers e.g. . By 3D scale-resolving computational fluid dynamics (CFD) simulations, we give various examples on the transport and dilution of aerosols () over distances  in generic environments. We study susceptible and infected individuals in generic public places by Monte-Carlo modelling. The developed model takes into account the locally varying aerosol concentration levels which the susceptible accumulate via inhalation. The introduced concept, ’exposure time’ to virus containing aerosols is proposed to complement the traditional ’safety distance’ thinking. We show that the exposure time to inhale  aerosols could range from to or even to  depending on the situation. The Monte-Carlo simulations, along with the theory, provide clear quantitative insight to the exposure time in different public indoor environments.
 
-    # - quotes
-    #   !a
+    - quotes
+      !a
 
     / May, 2020 - Safety Science
-    quote !a = Considering previous literature, we found that typical cough or speech generated droplets (e.g. d<20μm) are certainly airborne from the view point of physics. Even in the upper limit, an example on initially  droplets was provided which can linger in still air for 20min-1hr. We showed that droplets with diameter up to 50 μm could stay airborne for approximately 3min-20sec due to the rapid drying so that they could be inhaled.
+    quote !a = We showed that droplets with diameter up to 50um-100um could stay airborne for approximately 3min - 20s due to the rapid drying so that they could be inhaled. In practice, air flows may carry such aerosols for much longer times but that time depends on the premise in question.
+
 
 
 
@@ -2739,24 +2744,24 @@ feed May2020
   // Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals
   doi: https://doi.org/10.1016/j.cell.2020.05.015
   ref 'Grifoni_et_al_05_04_2020
-    head = We detected SARS-CoV-2-reactive CD4+ T cells in 40%–60% of unexposed individuals, suggesting crossreactive T cell recognition between circulating ‘‘common cold’’ coronaviruses and SARS-CoV-2.
+    head = Using HLA class I and II predicted peptide ‘‘megapools,’’ circulating SARS-CoV-2-specific CD8+ and CD4+ T cells were identified in 70% and 100% of COVID-19 convalescent patients, respectively.
 
     > Abstract
       Understanding adaptive immunity to SARS-CoV-2 is important for vaccine development, interpreting coronavirus disease 2019 (COVID-19) pathogenesis, and calibration of pandemic control measures. Using HLA class I and II predicted peptide ‘‘megapools,’’ circulating SARS-CoV-2-specific CD8+ and CD4+ T cells were identified in 70% and 100% of COVID-19 convalescent patients, respectively. CD4+ T cell responses to spike, the main target of most vaccine efforts, were robust and correlated with the magnitude of the antiSARS-CoV-2 IgG and IgA titers. The M, spike, and N proteins each accounted for 11%–27% of the total CD4+ response, with additional responses commonly targeting nsp3, nsp4, ORF3a, and ORF8, among others. For CD8+ T cells, spike and M were recognized, with at least eight SARS-CoV-2 ORFs targeted. Importantly, we detected SARS-CoV-2-reactive CD4+ T cells in 40%–60% of unexposed individuals, suggesting crossreactive T cell recognition between circulating ‘‘common cold’’ coronaviruses and SARS-CoV-2.
 
-    # - quotes
-    #   !a
-    #   !b
-    #   !c
+    - quotes
+      !a
+      !b
+      !c
 
     / June, 2020 - Cell
-    quote !a = Significant CD4+ T cell responses were also directed against nsp3, nsp4, ORF3s, ORF7a, nsp12, and ORF8. These data suggest that a candidate COVID-19 vaccine consisting only of SARSCoV-2 spike would be capable of eliciting SARS-CoV-2-specific CD4+ T cell responses of similar representation to that of natural COVID-19 disease, but the data also indicate that there are many potential CD4+ T cell targets in SARS-CoV-2, and inclusion of additional SARS-CoV-2 structural antigens such as M and N would better mimic the natural SARS-CoV2-specific CD4+ T cell response observed in mild to moderate COVID-19 disease.
+    quote !a =  A candidate COVID-19 vaccine consisting only of SARSCoV-2 spike would be capable of eliciting SARS-CoV-2-specific CD4+ T cell responses of similar representation to that of natural COVID-19 disease. Inclusion of additional SARS-CoV-2 structural antigens such as M and N would better mimic the natural SARS-CoV2-specific CD4+ T cell response observed in mild to moderate COVID-19 disease.
 
     / June, 2020 - Cell
-    quote !b = The spike protein was a target of human SARS-CoV-2 CD8+ T cell responses, but it is not dominant. SARS-CoV-2 M was just as strongly recognized, and significant reactivity was noted for other antigens, mostly nsp6, ORF3a, and N, which comprised nearly 50% of the total CD8+ T cell response, on average. Thus, these data indicate that candidate COVID-19 vaccines endeavoring to elicit CD8+ T cell responses against the spike protein will be eliciting a relatively narrow CD8+ T cell response compared to the natural CD8+ T cell response observed in mild to moderate COVID-19 disease.
+    quote !b = Candidate COVID-19 vaccines endeavoring to elicit CD8+ T cell responses against the spike protein will be eliciting a relatively narrow CD8+ T cell response compared to the natural CD8+ T cell response observed in mild to moderate COVID-19 disease.
 
     / June, 2020 - Cell
-    quote !c = A key step in developing that understanding is to examine antigen-specific CD4+ and CD8+ T cells in COVID-19 cases and in unexposed healthy controls, utilizing the exact same antigens and series of experimental techniques. CD4+ T cell responses were detected in 40%–60% of unexposed individuals. This may be reflective of some degree of cross-reactive, preexisting immunity to SARS-CoV-2 in some, but not all, individuals.
+    quote !c = We detected SARS-CoV-2-reactive CD4+ T cells in 40%–60% of unexposed individuals, suggesting crossreactive T cell recognition between circulating ‘‘common cold’’ coronaviruses and SARS-CoV-2.
 
 
 
@@ -2808,56 +2813,46 @@ feed May2020
   // Convergent Antibody Responses to SARS-CoV-2 Infection in Convalescent Individuals
   doi: https://doi.org/10.1101/2020.05.13.092619
   ref 'Robbiani_et_al_05_22_2020
-    head = The observation that plasma neutralizing activity is low in most convalescent individuals, but that recurrent anti-SARS-CoV-2 RBD antibodies with potent neutralizing activity can be found in individuals with unexceptional plasma neutralizing activity suggests that humans are intrinsically capable of generating anti-RBD antibodies that potently neutralize SARS-CoV-2. Thus, vaccines that selectively and efficiently induce antibodies targeting the SARS-CoV-2 RBD may be especially effective.
+    head = Here we report on 149 COVID-19 convalescent individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal neutralizing titers ranging from undetectable in 33% to below 1:1000 in 79%, while only 1% showed titers >1:5000.
 
     > Abstract
       During the COVID-19 pandemic, SARS-CoV-2 infected millions of people and claimed hundreds of thousands of lives. Virus entry into cells depends on the receptor binding domain (RBD) of the SARS-CoV-2 spike protein (S). Although there is no vaccine, it is likely that antibodies will be essential for protection. However, little is known about the human antibody response to SARS-CoV-21–5. Here we report on 149 COVID-19 convalescent individuals. Plasmas collected an average of 39 days after the onset of symptoms had variable half-maximal neutralizing titers ranging from undetectable in 33% to below 1:1000 in 79%, while only 1% showed titers >1:5000. Antibody cloning revealed expanded clones of RBD-specific memory B cells expressing closely related antibodies in different individuals. Despite low plasma titers, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50s) as low as single digit ng/mL. Thus, most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
-      !k
 
     / May, 2020 - bioRxiv
-    quote !a = Plasmas collected an average of 39 days after the onset of symptoms- the overall level of neutralizing activity in the cohort, as measured by the half-maximal neutralizing titer (NT50) was generally low, with 33% undetectable and 79% below 1,000. The geometric mean NT50 was 121 (arithmetic mean = 714), and only 2 individuals reached NT50s above 5,000.
+    quote !a = Most convalescent plasmas obtained from individuals who recover from COVID-19 do not contain high levels of neutralizing activity. Nevertheless, rare but recurring RBD-specific antibodies with potent antiviral activity were found in all individuals tested, suggesting that a vaccine designed to elicit such antibodies could be broadly effective.
 
-    / May, 2020 - bioRxiv
-    quote !b = Antibodies expressed by clonally expanded B cells with IGHV1-58/IGKV3-20 and IGHV3-30-3/IGKV1-39 found repeatedly in different individuals had amino acid sequence identities of up to 99% and 92%, respectively. We conclude that the IgG memory response to the SARS-CoV-2 RBD is rich in recurrent and clonally expanded antibody sequences.
-
-    / May, 2020 - bioRxiv
-    quote !c = ELISA assays showed that 94% (79 out of 84) of the antibodies tested including clonal and unique sequences bound to the SARS-CoV-2 RBD with an average half-maximal effective concentration (EC50) of 6.1 ng/mL. A fraction of those (7 out of 79, or 9%) cross-reacted with the RBD of SARS-CoV with a mean EC50 of 120.1 ng/mL. No significant cross-reactivity was noted to the RBDs of MERS, HCoV-OC43, HCoV133 229E or HCoV-NL63.
-
-    / May, 2020 - bioRxiv
-    quote !d = Despite low plasma titers, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50s) as low as single digit ng/mL.
-
-    / May, 2020 - bioRxiv
-    quote !e = Overall, 78% and 70% of the plasma samples tested showed anti-RBD and anti-S IgG AUCs that were at least 2 standard deviations above the control. In contrast, only 15% and 34% of the plasma samples showed IgM responses to anti-RBD and anti-S that were at least 2 standard deviations above control, respectively. There was no positive correlation between anti-RBD or -S IgG or IgM levels and duration of symptoms or the timing of sample collection relative to onset of symptoms. On the contrary, as might be expected, anti-RBD IgM titers were negatively correlated with duration of symptoms and the timing of sample collection. Anti-RBD IgG levels were modestly correlated to age, and the severity of symptoms including hospitalization. Interestingly, females had lower anti-RBD and -S IgG titers than males.
-
-    / May, 2020 - bioRxiv
-    quote !f = Levels of anti-RBD- and -S IgG antibodies correlated strongly with NT50. Consistent with this observation, hospitalized individuals with longer symptom duration showed slightly higher average levels of neutralizing activity than non hospitalized individuals (p=0.0495). Finally, we observed a significant difference in neutralizing activity between males and females (p=0.0031). The difference between males and females was consistent with higher anti-RBD and -S IgG titers in males, and could not be attributed to age, severity, timing of sample collection relative to onset of symptoms or duration of symptoms.
-
-    / May, 2020 - bioRxiv
-    quote !g = The frequency of antigen-specific B cells, identified by their ability to bind to both Phycoerythrin (PE)and AF647-labeled RBD, ranged from 0.07 to 0.005% of all circulating B cells in COVID-19 convalescents but they were undetectable in pre-COVID-19 controls We obtained 534 paired IgG heavy and light chain (IGH and IGL) sequences by reverse transcription and subsequent PCR from individual RBD-binding B cells from the 6 convalescent individuals. When compared to the human antibody repertoire, several IGHV and IGLV genes were significantly over-represented.
-
-    / May, 2020 - bioRxiv
-    quote !h =  The average number of V genes nucleotide mutations for IGH and IGL was 4.2 and 2.8, respectively, which is lower than in antibodies cloned from individuals suffering from chronic infections such as Hepatitis B or HIV-1, and similar to antibodies derived from primary malaria infection or non-antigen-enriched circulating IgG memory cells. Among other antibody features, IGH CDR3 length was indistinguishable from the reported norm and hydrophobicity was below average.
-
-    / May, 2020 - bioRxiv
-    quote !i = Potent neutralizing antibodies were found in individuals irrespective of their plasma NT50s. For example, C121, C144, and C135 with IC50s of 1.64, 2.55 and 2.98 ng/mL against authentic SARS144 CoV-2, respectively, were obtained from individuals COV107, COV47, and COV72 whose plasma NT50 values were of 297, 10,433 and 3,138, respectively. Finally, clones of antibodies with shared IGHV and IGLV genes were among the best neutralizers, e.g., antibody C002 composed of IGHV3-30/IGKV1-39 is shared by the 2 donors with the best plasma neutralizing activity. We conclude that even individuals with modest plasma neutralizing activity harbor rare IgG memory B cells that produce potent SARS150 CoV-2 neutralizing antibodies.
-
-    / May, 2020 - bioRxiv
-    quote !j = The antibodies tested comprised 3 groups, all of which differ in their binding properties from CR3022, an antibody that neutralizes SARS-CoV and binds to, but does not neutralize SARS-CoV-2. Representatives of each of the 3 groups include: C144 and C101 in Group 1; C121 and C009 in Group 2; C135 in Group 3. All of these antibodies can bind after CR3022. Groups 1 and 2 also bind after Group 3, and Groups 1 and 2 differ in that Group 1 can bind after Group 2 but not vice versa. We conclude that similar to SARS-CoV, there are multiple distinct neutralizing epitopes on the RBD of SARS-CoV-2.
-
-    / May, 2020 - bioRxiv
-    quote !k = Consistent with the conformational flexibility of the RBD, 2D class averages showed heterogeneity in both occupancy and conformation of bound Fabs for both groups. The 3D reconstructions of S-Fab complexes revealed both a fully-occupied RBD and partial density for a second bound Fab, suggesting that Fabs from both groups are able to recognize “up” and “down” states of the RBD as previously described for some of the antibodies targeting this epitope. The 3D reconstructions are also consistent with BLI measurements indicating that Groups 1 and 2 antibodies bind a RBD epitope distinct from antibody CR3022, which is only accessible on the RBD “up” conformational state11 174 , and bind the RBD with different angles of approach, with Group 1 antibodies most similar to the approach angle of the SARS-CoV antibody S230.
+    # / May, 2020 - bioRxiv
+    # quote !b = Antibodies expressed by clonally expanded B cells with IGHV1-58/IGKV3-20 and IGHV3-30-3/IGKV1-39 found repeatedly in different individuals had amino acid sequence identities of up to 99% and 92%, respectively. We conclude that the IgG memory response to the SARS-CoV-2 RBD is rich in recurrent and clonally expanded antibody sequences.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !c = ELISA assays showed that 94% (79 out of 84) of the antibodies tested including clonal and unique sequences bound to the SARS-CoV-2 RBD with an average half-maximal effective concentration (EC50) of 6.1 ng/mL. A fraction of those (7 out of 79, or 9%) cross-reacted with the RBD of SARS-CoV with a mean EC50 of 120.1 ng/mL. No significant cross-reactivity was noted to the RBDs of MERS, HCoV-OC43, HCoV133 229E or HCoV-NL63.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !d = Despite low plasma titers, antibodies to three distinct epitopes on RBD neutralized at half-maximal inhibitory concentrations (IC50s) as low as single digit ng/mL.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !e = Overall, 78% and 70% of the plasma samples tested showed anti-RBD and anti-S IgG AUCs that were at least 2 standard deviations above the control. In contrast, only 15% and 34% of the plasma samples showed IgM responses to anti-RBD and anti-S that were at least 2 standard deviations above control, respectively. There was no positive correlation between anti-RBD or -S IgG or IgM levels and duration of symptoms or the timing of sample collection relative to onset of symptoms. On the contrary, as might be expected, anti-RBD IgM titers were negatively correlated with duration of symptoms and the timing of sample collection. Anti-RBD IgG levels were modestly correlated to age, and the severity of symptoms including hospitalization. Interestingly, females had lower anti-RBD and -S IgG titers than males.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !f = Levels of anti-RBD- and -S IgG antibodies correlated strongly with NT50. Consistent with this observation, hospitalized individuals with longer symptom duration showed slightly higher average levels of neutralizing activity than non hospitalized individuals (p=0.0495). Finally, we observed a significant difference in neutralizing activity between males and females (p=0.0031). The difference between males and females was consistent with higher anti-RBD and -S IgG titers in males, and could not be attributed to age, severity, timing of sample collection relative to onset of symptoms or duration of symptoms.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !g = The frequency of antigen-specific B cells, identified by their ability to bind to both Phycoerythrin (PE)and AF647-labeled RBD, ranged from 0.07 to 0.005% of all circulating B cells in COVID-19 convalescents but they were undetectable in pre-COVID-19 controls We obtained 534 paired IgG heavy and light chain (IGH and IGL) sequences by reverse transcription and subsequent PCR from individual RBD-binding B cells from the 6 convalescent individuals. When compared to the human antibody repertoire, several IGHV and IGLV genes were significantly over-represented.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !h =  The average number of V genes nucleotide mutations for IGH and IGL was 4.2 and 2.8, respectively, which is lower than in antibodies cloned from individuals suffering from chronic infections such as Hepatitis B or HIV-1, and similar to antibodies derived from primary malaria infection or non-antigen-enriched circulating IgG memory cells. Among other antibody features, IGH CDR3 length was indistinguishable from the reported norm and hydrophobicity was below average.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !i = Potent neutralizing antibodies were found in individuals irrespective of their plasma NT50s. For example, C121, C144, and C135 with IC50s of 1.64, 2.55 and 2.98 ng/mL against authentic SARS144 CoV-2, respectively, were obtained from individuals COV107, COV47, and COV72 whose plasma NT50 values were of 297, 10,433 and 3,138, respectively. Finally, clones of antibodies with shared IGHV and IGLV genes were among the best neutralizers, e.g., antibody C002 composed of IGHV3-30/IGKV1-39 is shared by the 2 donors with the best plasma neutralizing activity. We conclude that even individuals with modest plasma neutralizing activity harbor rare IgG memory B cells that produce potent SARS150 CoV-2 neutralizing antibodies.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !j = The antibodies tested comprised 3 groups, all of which differ in their binding properties from CR3022, an antibody that neutralizes SARS-CoV and binds to, but does not neutralize SARS-CoV-2. Representatives of each of the 3 groups include: C144 and C101 in Group 1; C121 and C009 in Group 2; C135 in Group 3. All of these antibodies can bind after CR3022. Groups 1 and 2 also bind after Group 3, and Groups 1 and 2 differ in that Group 1 can bind after Group 2 but not vice versa. We conclude that similar to SARS-CoV, there are multiple distinct neutralizing epitopes on the RBD of SARS-CoV-2.
+    #
+    # / May, 2020 - bioRxiv
+    # quote !k = Consistent with the conformational flexibility of the RBD, 2D class averages showed heterogeneity in both occupancy and conformation of bound Fabs for both groups. The 3D reconstructions of S-Fab complexes revealed both a fully-occupied RBD and partial density for a second bound Fab, suggesting that Fabs from both groups are able to recognize “up” and “down” states of the RBD as previously described for some of the antibodies targeting this epitope. The 3D reconstructions are also consistent with BLI measurements indicating that Groups 1 and 2 antibodies bind a RBD epitope distinct from antibody CR3022, which is only accessible on the RBD “up” conformational state11 174 , and bind the RBD with different angles of approach, with Group 1 antibodies most similar to the approach angle of the SARS-CoV antibody S230.
 
 
 
@@ -2898,7 +2893,7 @@ feed May2020
   // Infectious SARS-CoV-2 in Feces of Patient with Severe COVID-19
   doi: https://doi.org/10.3201/eid2608.200681
   ref 'Xiao_et_al_05_18_2020
-    head = Isolation of infectious SARS-CoV-2 in feces indicates the possibility of fecal–oral transmission or fecal–respiratory transmission through aerosolized feces.
+    head = Severe acute respiratory syndrome coronavirus 2 was isolated from feces of a patient in China with coronavirus disease who died.
 
     > Abstract
       Severe acute respiratory syndrome coronavirus 2 was isolated from feces of a patient in China with coronavirus disease who died. Confirmation of infectious virus in feces affirms the potential for fecal–oral or fecal–respiratory transmission and warrants further study.
@@ -2907,7 +2902,7 @@ feed May2020
       !a
 
     / May, 2020 - Emerg Infect Dis.
-    quote !a = Our findings indicate the need for appropriate precautions to avoid potential transmission of SARS-CoV-2 from feces. Discharge and hospital cleaning practices should consider this possibility for critically ill patients or those who died who had high viral loads and are more likely to shed infectious virus.
+    quote !a = Isolation of infectious SARS-CoV-2 in feces indicates the possibility of fecal–oral transmission or fecal–respiratory transmission through aerosolized feces.
 
 
   # Mortality Rate - Prediction
@@ -2947,17 +2942,27 @@ feed May2020
   // Chemistry and Biology of SARS-CoV-2
   doi: https://doi.org/10.1016/j.chempr.2020.04.023
   ref 'Domling_et_al_05_20_2020
-    head = Despite the rather large size of the RNA virus genome of ~30,000 bases, the SARS-CoV-2 genome encodes for few proteins the structural spike (S) protein, nucleocapsid (N) protein, membrane (M) protein, and the envelope (E) protein, which are needed to produce a structurally complete viral particle. Additionally, the SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
+    head = The genetic fingerprint was shared, and the 3D structure of key proteins was rapidly solved, which can be used for the discovery of potential treatments. An overview is given on the current knowledge of the spread, disease course, and molecular biology of SARS-CoV-2.
 
-    # / May, 2020 - Chem
-    #  quote !a =
+    > Abstract
+      SARS-CoV-2 (previously 2019-nCoV or Wuhan coronavirus) caused an unprecedented fast-spreading worldwide pandemic. Although currently with a rather low mortality rate, the virus spread rapidly over the world using the modern world’s traffic highways. The coronavirus (CoV) family members were responsible for several deadly outbreaks and epidemics during the last decade. Not only governments but also the scientific community reacted promptly to the outbreak, and information is shared quickly. For example, the genetic fingerprint was shared, and the 3D structure of key proteins was rapidly solved, which can be used for the discovery of potential treatments. An overview is given on the current knowledge of the spread, disease course, and molecular biology of SARS-CoV-2. We discuss potential treatment developments in the context of recent outbreaks, drug repurposing, and development timelines.
+
+    - quotes
+      !a
+      !b
+
+    / May, 2020 - Chem
+     quote !a = Despite the rather large size of the RNA virus genome of ~30,000 bases, the SARS-CoV-2 genome encodes for few proteins the structural spike (S) protein, nucleocapsid (N) protein, membrane (M) protein, and the envelope (E) protein, which are needed to produce a structurally complete viral particle.
+
+    / May, 2020 - Chem
+     quote !b = The SARS-CoV-2 genome encodes 16–17 non-structural proteins (ns1 to ns17), such as 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), helicase, and RNA-dependent RNA polymerase (RdRp).
 
 
   # Pneumonia , !a, !b, !c - Immune Response , !d - Entry - ACE 2
   // Respiratory Virus Infections: Understanding COVID-19
   doi: https://doi.org/10.1016/j.immuni.2020.05.004
   ref 'Subbarao_et_al_05_19_2020
-    head = COVID-19 pneumonia differs from that caused by other respiratory viruses in the severity and duration of inflammation, which appears to be driven by an exuberant innate immune response, a flood of proinflammatory cytokines, and multiorgan dysfunction, driven by derangements in pulmonary and clotting physiology.
+    head = Here we explain what happens when we are infected by respiratory viruses, including SARS-CoV-2, which causes COVID-19.
 
     > Abstract
       Respiratory viruses affect us throughout our lives, from infancy to old age, causing illnesses ranging from a common cold to severe pneumonia. They belong to several virus families, and although many features of infection with these diverse viruses are shared, some have unique characteristics. Here we explain what happens when we are infected by respiratory viruses, including SARS-CoV-2, which causes COVID-19.
@@ -2969,7 +2974,10 @@ feed May2020
       !d
 
     / May, 2020 - Immunity
-    quote !a = Innate responses are activated when macrophages encounter damage-associated molecular patterns (DAMPs), such as intracellular contents released from dying cells or proteins released by tissue injury, or pathogen-associated molecular patterns (PAMPs), such as viral RNA or oxidized phospholipids from invading pathogens.
+    quote !a = COVID-19 pneumonia differs from that caused by other respiratory viruses in the severity and duration of inflammation, which appears to be driven by an exuberant innate immune response, a flood of proinflammatory cytokines, and multiorgan dysfunction, driven by derangements in pulmonary and clotting physiology.
+
+    / May, 2020 - Immunity
+    quote !a1 = Innate responses are activated when macrophages encounter damage-associated molecular patterns (DAMPs), such as intracellular contents released from dying cells or proteins released by tissue injury, or pathogen-associated molecular patterns (PAMPs), such as viral RNA or oxidized phospholipids from invading pathogens.
 
     / May, 2020 - Immunity
     quote !b = DAMPs and PAMPs released during initial infection and lysis of pneumocytes (surface epithelial cells of the alveoli) activate multiple innate immune pathways through Toll-like receptors (TLRs), NLRP3 and/or inflammasome activation, or triggering of cytoplasmic DNA sensors such as RIG-I-MAVS and cGAS-STING.
@@ -2984,13 +2992,21 @@ feed May2020
   // Multiorgan and Renal Tropism of SARS-CoV-2
   doi: https://doi.org/10.1056/NEJMc2011400
   ref 'Puelles_et_al_05_13_2020
-    head = Renal tropism is a potential explanation of commonly reported new clinical signs of kidney injury in patients with Covid-19, even in patients with SARS-CoV-2 infection who are not critically ill. Our results indicate that SARS-CoV-2 has an organotropism beyond the respiratory tract, including the kidneys, liver, heart, and brain, and we speculate that organotropism influences the course of Covid-19 disease and, possibly, aggravates preexisting conditions.
+    head = We present data from an autopsy series of 27 patients that show that SARS-CoV-2 can be detected in multiple organs, including the lungs, pharynx, heart, liver, brain, and kidneys.
 
     - quotes
       !a
+      !b
+      !c
 
     / May, 2020 - NEJM
-    quote !a =  The highest levels of SARS-CoV-2 copies per cell were detected in the respiratory tract, and lower levels were detected the kidneys, liver, heart, brain, and blood.
+    quote !a =  Renal tropism is a potential explanation of commonly reported new clinical signs of kidney injury in patients with Covid-19, even in patients with SARS-CoV-2 infection who are not critically ill.
+
+    / May, 2020 - NEJM
+    quote !b = SARS-CoV-2 has an organotropism beyond the respiratory tract, including the kidneys, liver, heart, and brain, and we speculate that organotropism influences the course of Covid-19 disease and, possibly, aggravates preexisting conditions.
+
+    / May, 2020 - NEJM
+    quote !c = The highest levels of SARS-CoV-2 copies per cell were detected in the respiratory tract, and lower levels were detected the kidneys, liver, heart, brain, and blood.
 
   # Frontiers - bats
   // The Potential Role of Endogenous Viral Elements in the Evolution of Bats as Reservoirs for Zoonotic Viruses
@@ -3053,7 +3069,7 @@ feed May2020
       !a
 
     / May, 2020 - bioRxiv
-    quote !a = The availability of a highly infectious rVSV surrogate that can be scaled up with relative ease to produce standardized batches for antiviral screening and readily deployed in reporter-based microneutralization assays will facilitate these efforts.
+    quote !a = Our findings underscore the utility of rVSV-SARS-CoV-2 S for the development of spike-specific vaccines and therapeutics and for mechanistic studies of viral entry and its inhibition.
 
 
   # Immune Response - !a - Frontiers Antiviral
@@ -3167,7 +3183,7 @@ feed May2020
   // Certainty of success: three critical parameters in coronavirus vaccine development
   doi: https://doi.org/10.1038/s41541-020-0193-6
   ref 'Kaslow_et_al_05_07_2020
-    head = The one factor that emerges for consideration in SARS-CoV-2 vaccine development and implementation is reducing the infectious inoculum intensity (and force of infection, at a population-level) to lengthen the incubation period, reduce the severity of illness, and increase the opportunity for an anamnestic response upon exposure to the circulating virus.
+    head = Previously, two critical biological parameters of the pathogen and the host–pathogen interaction—incubation period and broadly protective, relative immunogenicity—were proposed to account for much of the past successes in vaccine development. In considering for SARS-CoV-2, a third, related critical parameter is proposed—infectious inoculum intensity, at an individual-level, and force of infection, at a population-level.
 
     > Abstract
       Vaccines for 17 viral pathogens have been licensed for use in humans. Previously, two critical biological parameters of the pathogen and the host–pathogen interaction—incubation period and broadly protective, relative immunogenicity—were proposed to account for much of the past successes in vaccine development, and to be useful in estimating the “certainty of success” of developing an effective vaccine for viral pathogens for which a vaccine currently does not exist. In considering the “certainty of success” in development of human coronavirus vaccines, particularly SARS-CoV-2, a third, related critical parameter is proposed—infectious inoculum intensity, at an individual-level, and force of infection, at a population-level. Reducing the infectious inoculum intensity (and force of infection, at a population-level) is predicted to lengthen the incubation period, which in turn is predicted to reduce the severity of illness, and increase the opportunity for an anamnestic response upon exposure to the circulating virus. Similarly, successfully implementing individual- and population-based behaviors that reduce the infectious inoculum intensity and force of infection, respectively, while testing and deploying COVID-19 vaccines is predicted to increase the “certainty of success” of demonstrating vaccine efficacy and controlling SARS-CoV-2 infection, disease, death, and the pandemic itself.
@@ -3176,7 +3192,7 @@ feed May2020
       !a
 
     / May, 2020 - npj Vaccines
-    quote !a = Successfully implementing individual- and population-based behaviors that reduce the infectious inoculum intensity and force of infection, respectively, while testing and deploying COVID-19 vaccines may be a critical human-controlled factor in assuring the “certainty of success” through immunization in controlling and eliminating SARS-CoV-2 infection, disease, death, and the pandemic itself.
+    quote !a = Reducing the infectious inoculum intensity (and force of infection, at a population-level) is predicted to lengthen the incubation period, which in turn is predicted to reduce the severity of illness, and increase the opportunity for an anamnestic response upon exposure to the circulating virus.
 
 
   # Variant Population - Kids
@@ -3227,6 +3243,7 @@ feed May2020
 
 
   # Tranmission - Aerosol
+  @@LinseyMarr
   // Re-thinking the Potential for Airborne Transmission of SARS-CoV-2
   doi: https://doi.org/10.20944/preprints202005.0126.v1
   ref 'Allen_et_al_05_06_2020
@@ -3251,6 +3268,7 @@ feed May2020
 
 
   # Aerosol Tranmission - Mitigation Measures
+  @@ChangYuWu
   // Collection of SARS-CoV-2 Virus from the Air of a Clinic within a University Student Health Care Center and Analyses of the Viral Genomic Sequence
   doi: https://doi.org/10.4209/aaqr.2020.02.0202
   ref 'Lednicky_et_al_05_22_2020
@@ -3819,6 +3837,7 @@ feed May2020
 
 
   # Aersol - Assertions are better than head , !f - nosocomial mitigation
+  @@DanielBonn
   // Small droplet aerosols in poorly ventilated spaces and SARS-CoV-2 transmission
   doi: https://doi.org/10.1016/S2213-2600(20)30245-9
   ref 'Somsen_et_al_05_27_2020
@@ -4091,60 +4110,58 @@ feed May2020
   // Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel
   doi: https://doi.org/10.1101/2020.05.21.20104521
   ref 'Miller_et_al_2020b
-    head = Returning travelers from the U.S. contributed dramatically more to viral spread relative to their proportion in incoming infected travelers. We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness. High levels of transmission heterogeneity was indicated in SARS-CoV-2 spread, with between 1-10% of infected individuals resulting in 80% of secondary infections.
+    head = We sequenced 212 SARS-CoV-2 sequences and use them to perform a comprehensive analysis to trace the origins and spread of the virus. A phylogenetic analysis including thousands of globally sampled sequences allowed us to infer multiple independent introductions into Israel, followed by local transmission.
 
     > Abstract
       Full genome sequences are increasingly used to track the geographic spread and transmission dynamics of viral pathogens. Here, with a focus on Israel, we sequenced 212 SARS-CoV-2 sequences and use them to perform a comprehensive analysis to trace the origins and spread of the virus. A phylogenetic analysis including thousands of globally sampled sequences allowed us to infer multiple independent introductions into Israel, followed by local transmission. Returning travelers from the U.S. contributed dramatically more to viral spread relative to their proportion in incoming infected travelers. Using phylodynamic analysis, we estimated that the basic reproduction number of the virus was initially around ~2.0-2.6, dropping by two-thirds following the implementation of social distancing measures. A comparison between reported and model-estimated case numbers indicated high levels of transmission heterogeneity in SARS-CoV-2 spread, with between 1-10% of infected individuals resulting in 80% of secondary infections. Overall, our findings underscore the ability of this virus to efficiently transmit between and within countries, as well as demonstrate the effectiveness of social distancing measures for reducing its spread.
 
     - quotes
       !a
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
+      !b
 
     / May, 2020 - Medrxiv
-    quote !a = We found multiple introductions into Israel from both the U.S and Europe, the latter including mainly the U.K., France and Belgium. Over 70% of the clade introductions into Israel were inferred to have occurred from the U.S., while the remaining were mainly from Europe. Reports show that only ~27% of infected returning travelers were from the U.S. Moreover, this suggests that had flights from the U.S. been arrested at the same time that flights from Europe were arrested (between February 26 and March 4, instead of by March 9), a substantial fraction of the transmission chains in Israel would have been prevented.
+    quote !a = Returning travelers from the U.S. contributed dramatically more to viral spread relative to their proportion in incoming infected travelers. We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness.
+
+    / May, 2020 - Medrxiv
+    quote !b = High levels of transmission heterogeneity was indicated in SARS-CoV-2 spread, with between 1-10% of infected individuals resulting in 80% of secondary infections.
 
     # / May, 2020 - Medrxiv
-    # quote !b = Our phylodynamic analysis indicates that between 5-9% of infections are responsible for 80% of secondary infections; with lower assumed levels of case reporting, between 1-5% of infections would be responsible for this 80% of secondary infections.
-
-    / May, 2020 - Medrxiv
-    quote !c = Under the most extreme scenario (1% superspreaders) we find cumulative incidence of ~1% of Israeli population, and this is our upper bound estimate. Far from herd immunity.
-
-    / May, 2020 - Medrxiv
-    quote !d = We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness.
-
-    / May, 2020 - Medrxiv
-    quote !e = A total of 224 unique single nucleotide variants (SNVs) were identified between the Wuhan reference sequence and this set of sequences from Israel. Of these SNVs (single nucleotide variants), 141 were non-synonymous, 72 were synonymous, and the remaining 11 were in noncoding regions. One of the most abundantly detected SNVs was a non-synonymous variant D614G found in the spike protein, which was present in 90% of the sequences. This variant has generated much interest as it has been reported to potentially increase the transmissibility of the virus.
-
-    / May, 2020 - Medrxiv
-    quote !f = We also found five different high confidence genomic deletions, spanning between one and eighteen nucleotides, each of which was found in one to two samples. Three of these five deletions occurred in multiples of three and were in-frame deletions or affected non-coding regions. Of the remaining two deletions, deletion 3 spanned ten nucleotides, and likely prevents the translation of ORF7a. Deletion 4 occurred at the end of ORF8 and causes the replacement of the last amino acid with an additional five amino acids. Notably, an 81 nt in-frame deletion in ORF7a has been previously reported (Holland, et al. 2020), as has been a 382 nt deletion in ORF8, suggesting that the virus is to some extent tolerant to deletions in these ORFs.
-
-    / May, 2020 - Medrxiv
-    quote !g = When focusing on deletions that occurred in two samples, we noted that the two samples bearing deletion 1 were located in very remote clades on the phylogeny, suggesting that the deletion occurred two independent times. Deletion 5 on the other hand was present in two related samples that were sampled five days apart from each other. Deletions 2, 3 and 4 revealed an intriguing pattern: three independent deletions (one of which was present in two samples) were all part of the same clade that included eighteen samples. One non-synonymous SNV (single nucleotide variants) defined this clade: S2430R in ORF1b which affects the nonstructural protein NSP16. This protein has been reported to be a 2ʹO-methyl-transferase that enhances evasion of the innate immune system.
-
-    / May, 2020 - Medrxiv
-    quote !h = At this point we conjecture that the deletions we detected are neutral or to some extent deleterious, and that deletions in SARS-CoV-2 are likely to occur frequently given the number of deletions detected in our samples.
+    # quote !c = Under the most extreme scenario (1% superspreaders) we find cumulative incidence of ~1% of Israeli population, and this is our upper bound estimate. Far from herd immunity.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !d = We estimate R0 dropped from 2-2.6 down to about 0.7 following shelter-in-place restrictions, quarantine, and social distancing, enforcing their effectiveness.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !e = A total of 224 unique single nucleotide variants (SNVs) were identified between the Wuhan reference sequence and this set of sequences from Israel. Of these SNVs (single nucleotide variants), 141 were non-synonymous, 72 were synonymous, and the remaining 11 were in noncoding regions. One of the most abundantly detected SNVs was a non-synonymous variant D614G found in the spike protein, which was present in 90% of the sequences. This variant has generated much interest as it has been reported to potentially increase the transmissibility of the virus.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !f = We also found five different high confidence genomic deletions, spanning between one and eighteen nucleotides, each of which was found in one to two samples. Three of these five deletions occurred in multiples of three and were in-frame deletions or affected non-coding regions. Of the remaining two deletions, deletion 3 spanned ten nucleotides, and likely prevents the translation of ORF7a. Deletion 4 occurred at the end of ORF8 and causes the replacement of the last amino acid with an additional five amino acids. Notably, an 81 nt in-frame deletion in ORF7a has been previously reported (Holland, et al. 2020), as has been a 382 nt deletion in ORF8, suggesting that the virus is to some extent tolerant to deletions in these ORFs.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !g = When focusing on deletions that occurred in two samples, we noted that the two samples bearing deletion 1 were located in very remote clades on the phylogeny, suggesting that the deletion occurred two independent times. Deletion 5 on the other hand was present in two related samples that were sampled five days apart from each other. Deletions 2, 3 and 4 revealed an intriguing pattern: three independent deletions (one of which was present in two samples) were all part of the same clade that included eighteen samples. One non-synonymous SNV (single nucleotide variants) defined this clade: S2430R in ORF1b which affects the nonstructural protein NSP16. This protein has been reported to be a 2ʹO-methyl-transferase that enhances evasion of the innate immune system.
+    #
+    # / May, 2020 - Medrxiv
+    # quote !h = At this point we conjecture that the deletions we detected are neutral or to some extent deleterious, and that deletions in SARS-CoV-2 are likely to occur frequently given the number of deletions detected in our samples.
 
 
   # super spreading, transmission, public health, disease control, mitigation, non-pharmaceutical interventions, social distancing, hygiene, contact tracing
   // Clustering and superspreading potential of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections in Hong Kong
   doi: https://doi.org/10.1038/s41591-020-1092-0
   ref 'Adam_et_al_2020
-    head = We identified 4–7 Superspreading events (SSEs) across 51 clusters and observed that 19% (15–24%) of cases were responsible for 80% of all SARS-CoV-2 transmission, while 69% (65–71%) of cases did not transmit to anyone. Public health authorities should focus on rapidly tracing and quarantining contacts, along with implementing restrictions targeting social settings to reduce the risk of SSEs.
+    head = We identified 4–7 Superspreading events (SSEs) across 51 clusters and observed that 19% (15–24%) of cases were responsible for 80% of all SARS-CoV-2 transmission, while 69% (65–71%) of cases did not transmit to anyone.
 
     > Abstract
       Superspreading events (SSEs) have characterized previous epidemics of severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV) infections1,2,3,4,5,6. For SARS-CoV-2, the degree to which SSEs are involved in transmission remains unclear, but there is growing evidence that SSEs might be a typical feature of COVID-197,8. Using contact tracing data from 1,038 SARS-CoV-2 cases confirmed between 23 January and 28 April 2020 in Hong Kong, we identified and characterized all local clusters of infection. We identified 4–7 SSEs across 51 clusters (n = 309 cases) and estimated that 19% (95% confidence interval, 15–24%) of cases seeded 80% of all local transmission. Transmission in social settings was associated with more secondary cases than households when controlling for age (P = 0.002). Decreasing the delay between symptom onset and case confirmation did not result in fewer secondary cases (P = 0.98), although the odds that an individual being quarantined as a contact interrupted transmission was 14.4 (95% CI, 1.9–107.2). Public health authorities should focus on rapidly tracing and quarantining contacts, along with implementing restrictions targeting social settings to reduce the risk of SSEs and suppress SARS-CoV-2 transmission.
 
     - quotes
       !a
-
+      !b
 
     / September, 2020 - Epidemiology
-    quote !a = Transmission in social settings was associated with more secondary cases than households when controlling for age.
+    quote !a = Public health authorities should focus on rapidly tracing and quarantining contacts, along with implementing restrictions targeting social settings to reduce the risk of SSEs.
+
+    / September, 2020 - Epidemiology
+    quote !b = Transmission in social settings was associated with more secondary cases than households when controlling for age.
 
 
 
@@ -4376,10 +4393,16 @@ feed May2020
   // High SARS-CoV-2 Attack Rate Following Exposure at a Choir Practice — Skagit County, Washington, March 2020
   doi: https://dx.doi.org/10.15585/mmwr.mm6919e6
   ref 'Hamner_et_al_2020
-    head = Following a 2.5-hour choir practice attended by 61 persons, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet) during practice and augmented by the act of singing.
+    head = Following a 2.5-hour choir practice attended by 61 persons, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred; three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet) during practice and augmented by the act of singing.
 
-    # / May, 2020 - Morbidity and Mortality Weekly Report
-    # quote !a = This cluster of 52 secondary cases of COVID-19 presents a unique opportunity for understanding SARS-CoV-2 transmission following a likely point-source exposure event. The index patient developed symptoms on March 7, which could have placed the patient within this infectious period during the March 10 practice. Choir members who developed symptoms on March 11 (three) and March 12 (seven) attended both the March 3 and March 10 practices and thus could have been infected earlier and might have been infectious in the 2 days preceding symptom onset (i.e., as early as March 9).
+    > Abstract
+      On March 17, 2020, a member of a Skagit County, Washington, choir informed Skagit County Public Health (SCPH) that several members of the 122-member choir had become ill. Three persons, two from Skagit County and one from another area, had test results positive for SARS-CoV-2, the virus that causes coronavirus disease 2019 (COVID-19). Another 25 persons had compatible symptoms. SCPH obtained the choir’s member list and began an investigation on March 18. Among 61 persons who attended a March 10 choir practice at which one person was known to be symptomatic, 53 cases were identified, including 33 confirmed and 20 probable cases (secondary attack rates of 53.3% among confirmed cases and 86.7% among all cases). Three of the 53 persons who became ill were hospitalized (5.7%), and two died (3.7%). The 2.5-hour singing practice provided several opportunities for droplet and fomite transmission, including members sitting close to one another, sharing snacks, and stacking chairs at the end of the practice. The act of singing, itself, might have contributed to transmission through emission of aerosols, which is affected by loudness of vocalization (1). Certain persons, known as superemitters, who release more aerosol particles during speech than do their peers, might have contributed to this and previously reported COVID-19 superspreading events (2–5). These data demonstrate the high transmissibility of SARS-CoV-2 and the possibility of superemitters contributing to broad transmission in certain unique activities and circumstances. It is recommended that persons avoid face-to-face contact with others, not gather in groups, avoid crowded places, maintain physical distancing of at least 6 feet to reduce transmission, and wear cloth face coverings in public settings where other social distancing measures are difficult to maintain.
+
+    - quotes
+      !a
+
+    / May, 2020 - Morbidity and Mortality Weekly Report
+    quote !a = Certain persons, known as superemitters, who release more aerosol particles during speech than do their peers, might have contributed to this. These data demonstrate the high transmissibility of SARS-CoV-2 and the possibility of superemitters contributing to broad transmission in certain unique activities and circumstances.
 
     # / May, 2020 - Morbidity and Mortality Weekly Report
     # quote !b = Among the 61 choir members who attended the March 10 practice, the median age was 69 years (range = 31–83 years); 84% were women. Median age of those who became ill was 69 years, and 85% of cases occurred in women. Excluding the laboratory-confirmed index patient, 52 (86.7%) of 60 attendees became ill; 32 (61.5%) of these cases were confirmed by RT-PCR testing and 20 (38.5%) persons were considered to have probable infections.
@@ -4401,7 +4424,7 @@ feed May2020
     #
     # / May, 2020 - Morbidity and Mortality Weekly Report
     # quote !h = Among the recognized risk factors for severe illness, the most common was age, with 75.5% of patients aged ≥65 years. Most patients (67.9%) did not report any underlying medical conditions, 9.4% had one underlying medical condition, and 22.6% had two or more underlying medical conditions. All three hospitalized patients had two or more underlying medical conditions.
-
+    #
 
 
   #  mortality rate, Sweden
@@ -4557,6 +4580,7 @@ feed May2020
 
 
   # Aerosol, Indoor Tranmission
+  @@ZhicongYang
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://doi.org/10.3201/eid2607.200764
   ref 'Lu_et_al_2020

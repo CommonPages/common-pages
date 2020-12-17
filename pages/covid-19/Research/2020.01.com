@@ -165,7 +165,7 @@ feed January2020
   // Receptor Recognition by the Novel Coronavirus from Wuhan: an Analysis Based on Decade-Long Structural Studies of SARS Coronavirus
   doi: https://doi.org/10.1128/JVI.00127-20
   ref 'Wan_et_al_2020
-    head = 2019-nCoV likely uses human ACE2 less efficiently than human SARS-CoV (year 2002) but more efficiently than human SARS-CoV (year 2003). A single N501T mutation (corresponding to the S487T mutation in SARS-CoV) may significantly enhance the binding affinity between 2019-nCoV RBD and human ACE2.
+    head = we analyzed the potential receptor usage by 2019-nCoV, based on the rich knowledge about SARS-CoV and the newly released sequence of 2019-nCoV.
 
     > Abstract
       Recently, a novel coronavirus (2019-nCoV) has emerged from Wuhan, China, causing symptoms in humans similar to those caused by severe acute respiratory syndrome coronavirus (SARS-CoV). Since the SARS-CoV outbreak in 2002, extensive structural analyses have revealed key atomic-level interactions between the SARS-CoV spike protein receptor-binding domain (RBD) and its host receptor angiotensin-converting enzyme 2 (ACE2), which regulate both the cross-species and human-to-human transmissions of SARS-CoV. Here, we analyzed the potential receptor usage by 2019-nCoV, based on the rich knowledge about SARS-CoV and the newly released sequence of 2019-nCoV. First, the sequence of 2019-nCoV RBD, including its receptor-binding motif (RBM) that directly contacts ACE2, is similar to that of SARS-CoV, strongly suggesting that 2019-nCoV uses ACE2 as its receptor. Second, several critical residues in 2019-nCoV RBM (particularly Gln493) provide favorable interactions with human ACE2, consistent with 2019-nCoV’s capacity for human cell infection. Third, several other critical residues in 2019-nCoV RBM (particularly Asn501) are compatible with, but not ideal for, binding human ACE2, suggesting that 2019-nCoV has acquired some capacity for human-to-human transmission. Last, while phylogenetic analysis indicates a bat origin of 2019-nCoV, 2019-nCoV also potentially recognizes ACE2 from a diversity of animal species (except mice and rats), implicating these animal species as possible intermediate hosts or animal models for 2019-nCoV infections. These analyses provide insights into the receptor usage, cell entry, host cell infectivity and animal origin of 2019-nCoV and may help epidemic surveillance and preventive measures against 2019-nCoV.
@@ -173,12 +173,16 @@ feed January2020
     - quotes
       !a
       !b
+      !a
 
     / Jan, 2020 - American Society for Microbiology Journals
-    quote !a = What is the source of 2019-nCoV, and did a key intermediate host play an important role in the current 2019-nCoV outbreak? Similarly to SARS-CoV, 2019-nCoV most likely has originated from bats, given its close phylogenetic relationship with other β-genus lineage b bat SARS-CoV. Moreover, 2019-nCoV likely recognizes ACE2 from a diversity of animal species, including palm civets, as its receptor.
+    quote !a =  The sequence of 2019-nCoV RBD, including its receptor-binding motif (RBM) that directly contacts ACE2, is similar to that of SARS-CoV, strongly suggesting that 2019-nCoV uses ACE2 as its receptor.
 
     / Jan, 2020 - American Society for Microbiology Journals
-    quote !b =  In the case of 2019-nCoV, however, there is no strong evidence for adaptive mutations in its critical RBM residues that specifically promote viral binding to civet ACE2. Hence, either palm civets were not intermediate hosts for 2019-nCoV, or they passed 2019-nCoV to humans quickly before 2019-nCoV had any chance to adapt to civet ACE2.
+    quote !b = Several critical residues in 2019-nCoV RBM (particularly Gln493) provide favorable interactions with human ACE2, consistent with 2019-nCoV’s capacity for human cell infection.
+
+    / Jan, 2020 - American Society for Microbiology Journals
+    quote !c = Several other critical residues in 2019-nCoV RBM (particularly Asn501) are compatible with, but not ideal for, binding human ACE2, suggesting that 2019-nCoV has acquired some capacity for human-to-human transmission.
 
   # Origin, Strucure
   // The 2019‐new coronavirus epidemic: Evidence for virus evolution

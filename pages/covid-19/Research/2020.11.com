@@ -104,16 +104,20 @@ feed November2020
     quote !e = Our results suggest that the recommendation to wear a surgical mask when outside the home among others did not reduce, at conventional levels of statistical significance, the incidence of SARS-CoV-2 infection in mask wearers in a setting where social distancing and other public health measures were in effect, mask recommendations were not among those measures, and community use of masks was uncommon.
 
   # Formite Transmission
+  @@AmyPickering
   // Longitudinal monitoring of SARS-CoV-2 RNA on high-touch surfaces in a community setting
   doi: https://doi.org/10.1101/2020.10.27.20220905
   ref 'Harvey_et_al_11_01_2020
-    head = Twenty-nine of 348 (8.3 %) surface samples were positive for SARS-CoV-2, including crosswalk buttons, trash can handles, and door handles of essential business entrances (grocery store, liquor store, bank, and gas station). The estimated risk of infection from touching a contaminated surface was low (less than 5 in 10,000), suggesting fomites play a minimal role in SARS-CoV-2 community transmission.
+    head =  We conducted longitudinal swab sampling of high-touch non-porous surfaces. Twenty-nine of 348 (8.3 %) surface samples were positive for SARS-CoV-2, including crosswalk buttons, trash can handles, and door handles of essential business entrances (grocery store, liquor store, bank, and gas station).
 
     > Abstract
       Environmental surveillance of surface contamination is an unexplored tool for understanding transmission of SARS-CoV-2 in community settings. We conducted longitudinal swab sampling of high-touch non-porous surfaces in a Massachusetts town during a COVID-19 outbreak from April to June 2020. Twenty-nine of 348 (8.3 %) surface samples were positive for SARS-CoV-2, including crosswalk buttons, trash can handles, and door handles of essential business entrances (grocery store, liquor store, bank, and gas station). The estimated risk of infection from touching a contaminated surface was low (less than 5 in 10,000), suggesting fomites play a minimal role in SARS-CoV-2 community transmission. The weekly percentage of positive samples (out of n=33 unique surfaces per week) best predicted variation in city-level COVID-19 cases using a 7-day lead time. Environmental surveillance of SARS-CoV-2 RNA on high-touch surfaces could be a useful tool to provide early warning of COVID-19 case trends.
 
+    - quotes
+      !a
+
     / November, 2020 - medRxiv
-    quote !a =
+    quote !a = The estimated risk of infection from touching a contaminated surface was low (less than 5 in 10,000), suggesting fomites play a minimal role in SARS-CoV-2 community transmission.
 
   # Antibody Response Children
   // Immune responses to SARS-CoV-2 in three children of parents with symptomatic COVID-19

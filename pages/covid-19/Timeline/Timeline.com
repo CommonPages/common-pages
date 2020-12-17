@@ -180,10 +180,6 @@ subject module Timeline
       -
         'Bhattacharyya_et_al_2020
         'Miller_et_al_2020b
-        'Miller_et_al_2020b.!e
-        'Miller_et_al_2020b.!f
-        'Miller_et_al_2020b.!g
-        'Miller_et_al_2020b.!h
         'Gudbjartsson_et_al_2020.!i
         'Gudbjartsson_et_al_2020.!j
         'Gudbjartsson_et_al_2020.!n

@@ -820,7 +820,7 @@ feed Sangeeta
   // Evaluating Transmission Heterogeneity and Super-Spreading Event of COVID-19 in a Metropolis of China
   doi: https://doi.org/10.3390/ijerph17103705
   ref 'Zhang_et_al_05_24_2020
-    head = Based on individual-level information of COVID-19 infection cases in Tianjin, we discovered significant transmission heterogeneity (k=0.25) and subcritical transmission potential (R=0.67), and we identified one super-spreader who infected 6 individuals, suggesting that the local outbreak in Tianjin was considerably heterogeneous even though it would finally die out.
+    head = We collected information of all infected cases (135 cases) between 21 January and 26 February 2020 from official public sources in Tianjin, a metropolis of China, and grouped them into 43 transmission chains with the largest chain of 45 cases and the longest chain of four generations.
 
     > Abstract
       COVID-19 caused rapid mass infection worldwide. Understanding its transmission characteristics, including heterogeneity and the emergence of super spreading events (SSEs) where certain individuals infect large numbers of secondary cases, is of vital importance for prediction and intervention of future epidemics. Here, we collected information of all infected cases (135 cases) between 21 January and 26 February 2020 from official public sources in Tianjin, a metropolis of China, and grouped them into 43 transmission chains with the largest chain of 45 cases and the longest chain of four generations. Utilizing a heterogeneous transmission model based on branching process along with a negative binomial offspring distribution, we estimated the reproductive number R and the dispersion parameter k (lower value indicating higher heterogeneity) to be 0.67 (95% CI: 0.54–0.84) and 0.25 (95% CI: 0.13–0.88), respectively. A super-spreader causing six infections was identified in Tianjin. In addition, our simulation allowing for heterogeneity showed that the outbreak in Tianjin would have caused 165 infections and sustained for 7.56 generations on average if no control measures had been taken by local government since 28 January. Our results highlighted more efforts are needed to verify the transmission heterogeneity of COVID-19 in other populations and its contributing factors.
@@ -829,7 +829,7 @@ feed Sangeeta
       !a
 
     / May, 2020 - Int J Environ Res Public Health.
-    quote !a = Our numerical results successfully verify the effectiveness of government control deployed on 28 January in Tianjin.
+    quote !a = Based on individual-level information of COVID-19 infection cases in Tianjin, we discovered significant transmission heterogeneity (k=0.25) and subcritical transmission potential (R=0.67), and we identified one super-spreader who infected 6 individuals, suggesting that the local outbreak in Tianjin was considerably heterogeneous even though it would finally die out.
 
 
 
@@ -867,7 +867,7 @@ feed Sangeeta
   // Superspreading in Early Transmissions of COVID-19 in Indonesia
   doi: https://doi.org/10.1101/2020.06.28.20142133
   ref 'Hassan_et_al_07_24_2020
-    head = Based on the first 1288 confirmed cases in both regions, we find a high degree of individual-level variation in the transmission. Our results suggests that superspreading events played a key role in the early stage of the outbreak, i.e., a small number of infected individuals are responsible for large amounts of COVID-19 transmission.
+    head = We estimate the basic reproduction number R0 and the overdispersion parameter K at two regions in Indonesia: JakartaDepok and Batam.
 
     > Abstract
       We estimate the basic reproduction number R0 and the overdispersion parameter K at two regions in Indonesia: JakartaDepok and Batam. Based on the first 1288 confirmed cases in both regions, we find a high degree of individual-level variation in the transmission. The basic reproduction number R0 is estimated at 6.79 and 2.47, while the overdispersion parameter K of a negative-binomial distribution is estimated at 0.06 and 0.2 for Jakarta-Depok and Batam, respectively. This suggests that superspreading events played a key role in the early stage of the outbreak, i.e., a small number of infected individuals are responsible for large amounts of COVID-19 transmission.
@@ -876,7 +876,7 @@ feed Sangeeta
       !a
 
     / July, 2020 - medRxiv
-    quote !a = The basic reproduction number R0 is estimated at 6.79 and 2.47, while the overdispersion parameter K of a negative-binomial distribution is estimated at 0.06 and 0.2 for Jakarta-Depok and Batam, respectively.
+    quote !a = Based on the first 1288 confirmed cases in both regions, we find a high degree of individual-level variation in the transmission. Our results suggests that superspreading events played a key role in the early stage of the outbreak, i.e., a small number of infected individuals are responsible for large amounts of COVID-19 transmission.
 
 
 
@@ -884,7 +884,7 @@ feed Sangeeta
   // Characterizing superspreading events and age-specific infectiousness of SARS-CoV-2 transmission in Georgia, USA
   doi: https://doi.org/10.1073/pnas.2011802117
   ref 'Lau_et_al_09_08_2020
-    head = We statistically synthesize multiple valuable data streams, including surveillance data and mobility data, that are available during the current COVID-19 pandemic. We show that age is an important factor in the transmission of the virus. Superspreading is ubiquitous over space and time, and has particular importance in rural areas and later stages of an outbreak.
+    head = We formulate an individual-level spatiotemporal mechanistic framework to integrate individual surveillance data with geolocation data and aggregate mobility data, enabling a more granular understanding of the transmission dynamics of SARS-CoV-2.
 
     > Abstract
       It is imperative to advance our understanding of heterogeneities in the transmission of SARS-CoV-2 such as age-specific infectiousness and superspreading. To this end, it is important to exploit multiple data streams that are becoming abundantly available during the pandemic. In this paper, we formulate an individual-level spatiotemporal mechanistic framework to integrate individual surveillance data with geolocation data and aggregate mobility data, enabling a more granular understanding of the transmission dynamics of SARS-CoV-2. We analyze reported cases, between March and early May 2020, in five (urban and rural) counties in the state of Georgia. First, our results show that the reproductive number reduced to below one in about 2 wk after the shelter-in-place order. Superspreading appears to be widespread across space and time, and it may have a particularly important role in driving the outbreak in rural areas and an increasing importance toward later stages of outbreaks in both urban and rural settings. Overall, about 2% of cases were directly responsible for 20% of all infections. We estimate that the infected nonelderly cases (<60 y) may be 2.78 [2.10, 4.22] times more infectious than the elderly, and the former tend to be the main driver of superspreading. Our results improve our understanding of the natural history and transmission dynamics of SARS-CoV-2. More importantly, we reveal the roles of age-specific infectiousness and characterize systematic variations and associated risk factors of superspreading. These have important implications for the planning of relaxing social distancing and, more generally, designing optimal control measures.
@@ -894,10 +894,10 @@ feed Sangeeta
       !b
 
     / September, 2020 - PNAS
-    quote !a = We find that infected younger cases (<60 y) tend to be more infectious and to promote superspreading.
+    quote !a =  The reproductive number reduced to below one in about 2 wk after the shelter-in-place order.
 
     / September, 2020 - PNAS
-    quote !b = About 2% of cases were directly responsible for 20% of all infections.
+    quote !b = Superspreading appears to be widespread across space and time, and it may have a particularly important role in driving the outbreak in rural areas and an increasing importance toward later stages of outbreaks in both urban and rural settings. About 2% of cases were directly responsible for 20% of all infections.
 
 
 
@@ -1479,7 +1479,7 @@ feed Sangeeta
   // SARS-CoV and SARS-CoV-2 are transmitted through the air between ferrets over more than one meter distance
   doi: https://doi.org/10.1101/2020.10.19.345363
   ref 'Kutter_et_al_10_19_2020
-    head = Although the experiments did not discriminate between transmission via small aerosols, large droplets and fomites, our results demonstrate that SARS-CoV and SARS-CoV-2 can remain infectious when transmitted through the air over more than one meter distance. Efficient virus transmission between ferrets is in agreement with frequent SARS-CoV-2 outbreaks in mink farms.
+    head = A newly developed experimental set-up was used to study transmission of SARS-CoV and SARS-CoV-2 through the air between ferrets over more than a meter distance. Both viruses caused a robust productive respiratory tract infection resulting in transmission of SARS-CoV-2 to two of four indirect recipient ferrets and SARS-CoV to all four.
 
 
     > Abstract
@@ -1487,9 +1487,13 @@ feed Sangeeta
 
     - quotes
       !a
+      !b
 
     / October, 2020 - bioRxiv
-    quote !a = Although the evidence for airborne virus transmission between humans under natural conditions is absent or very weak for both SARS-CoV and SARS-CoV-2, ferrets may represent a sensitive model to study intervention strategies aimed at preventing virus transmission.
+    quote !a = Although the experiments did not discriminate between transmission via small aerosols, large droplets and fomites, these results demonstrate that SARS-CoV and SARS-CoV-2 can remain infectious while travelling through the air.
+
+    / October, 2020 - bioRxiv
+    quote !b = The efficiency of transmission via the air depends on the anatomical site of virus excretion, the amount and duration of infectious virus shedding in the air, the ability of the virus to remain infectious in the air, and the infectious dose required to initiate an infection in an individual.
 
 
 
@@ -1815,7 +1819,7 @@ feed Sangeeta
   // Sewage as a Possible Transmission Vehicle During a Coronavirus Disease 2019 Outbreak in a Densely populated Community: Guangzhou, China, April 2020
   doi: https://doi.org/10.1093/cid/ciaa1494
   ref 'Yuan_et_al_10_12_2020
-    head = We investigated this outbreak to identify the mode of transmission. Our investigation has for the first time pointed to the possibility that SARS-CoV-2 might spread by sewage. This finding highlighted the importance of sewage management, especially in densely-populated places with poor hygiene and sanitation measures, such as urban slums and other low-income communities in developing countries.
+    head = SARS-CoV-2 has been identified in the fecal matter of COVID-19 patients. However, sewage transmission has never been shown. We investigated this outbreak to identify the mode of transmission.
 
     > Background
       SARS-CoV-2 has been identified in the fecal matter of COVID-19 patients. However, sewage transmission has never been shown. In April 2020, a COVID-19 outbreak occurred in a densely populated community in Guangzhou, China. We investigated this outbreak to identify the mode of transmission.
@@ -1829,8 +1833,11 @@ feed Sangeeta
     > Conclusion
       Our investigation has for the first time pointed to the possibility that SARS-CoV-2 might spread by sewage. This finding highlighted the importance of sewage management, especially in densely-populated places with poor hygiene and sanitation measures, such as urban slums and other low-income communities in developing countries.
 
+    - quotes
+      !a
+
     / October, 2020 - Clinical Infectious Diseases
-    quote !a =
+    quote !a = Our investigation has for the first time pointed to the possibility that SARS-CoV-2 might spread by sewage. This finding highlighted the importance of sewage management, especially in densely-populated places with poor hygiene and sanitation measures, such as urban slums and other low-income communities in developing countries.
 
 
 
@@ -1849,13 +1856,13 @@ feed Sangeeta
   // Detection of SARS-CoV-2 in Different Types of Clinical Specimens
   doi: https://doi.org/10.1001/jama.2020.3786
   ref 'Wang_et_al_03_11_2020
-    head = In this study, SARS-CoV-2 was detected in specimens from multiple sites of 205 patients with COVID-19, with lower respiratory tract samples most often testing positive for the virus. The live virus was detected in feces, implying that SARS-CoV-2 may be transmitted by the fecal route.
+    head = We investigated the biodistribution of SARS-CoV-2 among different tissues of inpatients with coronavirus disease 2019 (COVID-19) diagnosed based on symptoms and radiology and confirmed by SARS-CoV-2 detection.
 
     - quotes
       !a
 
     / March, 2020 - JAMA
-    quote !a = A small percentage of blood samples had positive PCR test results, suggesting that infection sometimes may be systemic.
+    quote !a = The live virus was detected in feces, implying that SARS-CoV-2 may be transmitted by the fecal route.
 
 
 
@@ -1904,7 +1911,7 @@ feed Sangeeta
   // SARS-CoV-2, SARS-CoV, and MERS-CoV viral load dynamics, duration of viral shedding, and infectiousness: a systematic review and meta-analysis
   doi: https://doi.org/10.1016/S2666-5247(20)30172-5
   ref 'Cevik_et_al_11_19_2020
-    head = This systematic review and meta-analysis provides comprehensive data on the viral dynamics of SARS-CoV-2, including the duration of RNA shedding and viable virus isolation. Our findings suggest that, although patients with SARS-CoV-2 infection might have prolonged RNA shedding of up to 83 days in upper respiratory tract infection, median time to live virus clearance from upper and lower respiratory tract samples were 3.5 days and 6 days, respectively. No live virus was isolated from culture beyond day 9 of symptoms despite persistently high viral RNA loads.
+    head = This systematic review and meta-analysis provides comprehensive data on the viral dynamics of SARS-CoV-2, including the duration of RNA shedding and viable virus isolation.
 
 
     > Background
@@ -1920,6 +1927,7 @@ feed Sangeeta
       Although SARS-CoV-2 RNA shedding in respiratory and stool samples can be prolonged, duration of viable virus is relatively short-lived. SARS-CoV-2 titres in the upper respiratory tract peak in the first week of illness. Early case finding and isolation, and public education on the spectrum of illness and period of infectiousness are key to the effective containment of SARS-CoV-2.
 
     - quotes
+      !a
       !b
       !d
       !e
@@ -1927,6 +1935,9 @@ feed Sangeeta
 
     # / November, 2020 - The Lancet Microbe
     # quote !a = Mean duration of SARS-CoV-2 RNA shedding was 17·0 days in upper respiratory tract, 14·6 days in lower respiratory tract, 17·2 days in stool, and 16·6 days in serum samples.
+
+    / November, 2020 - The Lancet Microbe
+    quote !a = Our findings suggest that, although patients with SARS-CoV-2 infection might have prolonged RNA shedding of up to 83 days in upper respiratory tract infection, median time to live virus clearance from upper and lower respiratory tract samples were 3.5 days and 6 days, respectively. No live virus was isolated from culture beyond day 9 of symptoms despite persistently high viral RNA loads.
 
     / November, 2020 - The Lancet Microbe
     quote !b = Viral loads appear to be comparable between asymptomatic and symptomatic patients infected with SARS-CoV-2. Nevertheless, most studies demonstrate faster viral clearance among asymptomatic individuals.
@@ -2106,6 +2117,7 @@ feed Sangeeta
 
 
   #
+  @@PaulDabisch
   // Airborne SARS-CoV-2 Is Rapidly Inactivated by Simulated Sunlight
   doi: https://doi.org/10.1093/infdis/jiaa334
   ref 'Schuit_et_al_06_11_2020
@@ -2131,6 +2143,7 @@ feed Sangeeta
 
 
   #
+  @@SophieSmither
   // Experimental aerosol survival of SARS-CoV-2 in artificial saliva and tissue culture media at medium and high humidity
   doi: https://doi.org/10.1080/22221751.2020.1777906
   ref 'Smither_et_al_06_22_2020
@@ -3058,15 +3071,12 @@ feed Sangeeta
   quote !a = The low prevalence of high viral load samples further limits the use of RAD test in clinical setting.
 
 
-
-
-
   # Viral dynamics
   @@MortenSommer
   // Spatial and temporal dynamics of SARS-CoV-2 in COVID-19 patients: A systematic review and meta-analysis
   doi: https://doi.org/10.1016/j.ebiom.2020.102916
   ref 'Weiss_et_al_07_22_2020
-    head = Our analysis showed consistent viral detection from specimen from the upper respiratory tract (URT), the lower respiratory tract (LRT), and faeces, irrespective of the clinical severity of COVID-19. It suggests that SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients. Further, viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
+    head = We pooled the data of selected studies (22/7226 (650 patients) for meta-analysis) to estimate duration of viral detection and visualized viral load over time.
 
     > Background
       The spatial and temporal dynamics of SARS-CoV-2 have been described in case series and retrospective studies. In this study, we provide a coherent overview of the duration of viral detection and viral RNA load in COVID-19 patients, stratified by specimen type, clinical severity, and age.
@@ -3082,9 +3092,13 @@ feed Sangeeta
 
     - quotes
       !a
+      !b
 
     / July, 2020 - EbioMedicine
-    quote !a = The differences in the duration of viral detection between mild and moderate-severe patients is limited in the LRT, but an indication of longer duration of viral detection for moderate-severe patients was observed in feces (15 days in mild vs. 21 days in moderate-severe patients) and the URT (12 days in mild vs. 16 days in moderate-severe patients).
+    quote !a = Our analysis showed consistent viral detection from specimen from the URT, LRT, and faeces, irrespective of the clinical severity. SARS-CoV-2 persists for a longer duration in the LRT compared to the URT in adult patients. Further, viral load was demonstrated to peak in earlier stages of infection in the URT compared to LRT.
+
+    / July, 2020 - EbioMedicine
+    quote !b = The differences in the duration of viral detection between mild and moderate-severe patients is limited in the LRT, but an indication of longer duration of viral detection for moderate-severe patients was observed in feces (15 days in mild vs. 21 days in moderate-severe patients) and the URT (12 days in mild vs. 16 days in moderate-severe patients).
 
 
   #
@@ -3283,7 +3297,7 @@ feed Sangeeta
   // Shedding of infectious virus in hospitalized patients with coronavirus disease-2019 (COVID19): duration and key determinants
   doi: https://doi.org/10.1101/2020.06.08.20125310
   ref 'Kampen_et_al_06_09_2020
-    head = Patients with severe or critical COVID-19 may shed infectious virus for longer periods of time compared to what has been reported for in patients with mild COVID-19. Infectious virus shedding drops to undetectable levels when viral RNA load is low and serum neutralizing antibodies are present, which warrants the use of quantitative viral RNA load assays and serological assays in test-based strategies to discontinue or de-escalate infection prevention and control precautions.
+    head = We assessed the duration and determinants of infectiousness using virus cultures of respiratory tract samples from hospitalized COVID-19 patients as a proxy for infectious virus shedding.
 
     > Abstract
       Background Long-term shedding of viral RNA in COVID-19 prevents timely discharge from the hospital or de-escalation of infection prevention and control practices. Key questions are the duration and determinants of infectious virus shedding. We assessed these questions using virus cultures of respiratory tract samples from hospitalized COVID-19 patients as a proxy for infectious virus shedding. Methods Clinical and virological data were obtained from 129 hospitalized COVID-19 patients (89 intensive care, 40 medium care). Generalized estimating equations were used to identify if viral RNA load, detection of viral subgenomic RNA, serum neutralizing antibody response, duration of symptoms, or immunocompromised status were predictive for a positive virus culture. Findings Infectious virus shedding was detected in 23 of the 129 patients (17,8%). The median duration of shedding was 8 days post onset of symptoms (IQR 5-11) and the probability of detecting infectious virus dropped below 5% after 15,2 days post onset of symptoms (95% confidence interval (CI) 13,4-17,2). Multivariate analyses identified viral loads above 7 log10 RNA copies/mL (odds ratio [OR]; CI 14,7 (3,57-58,1; p<0,001) as independently associated with isolation of infectious SARS-CoV-2 from the respiratory tract. A serum neutralizing antibody titre of at least 1:20 (OR of 0,01 (CI 0,003-0,08; p<0,001) was independently associated with non-infectious SARS-CoV-2. Interpretation Infection prevention and control guidelines should take into account that patients with severe or critical COVID-19 may shed infectious virus for longer periods of time compared to what has been reported for in patients with mild COVID-19. Infectious virus shedding drops to undetectable levels below a viral RNA load threshold and once serum neutralizing antibodies are present, which warrants the use of quantitative viral RNA load assays and serological assays in test-based strategies to discontinue or de-escalate infection prevention and control precautions.
@@ -3292,6 +3306,8 @@ feed Sangeeta
       !a
       !b
       !c
+      !d
+      !e
 
     / June, 2020 - MedRxiv
     quote !a = The probability of isolating infectious virus was less than 5% when viral RNA load was below 6,63 Log10 RNA copies/mL.
@@ -3302,6 +3318,11 @@ feed Sangeeta
     / June, 2020 - MedRxiv
     quote !c = Viral RNA load cut-offs could be used in test-based strategies to discontinue infection prevention and control precautions.
 
+    / June, 2020 - MedRxiv
+    quote !d = The median duration of shedding was 8 days post onset of symptoms and the probability of detecting infectious virus dropped below 5% after 15.2 days post onset of symptoms.
+
+    / June, 2020 - MedRxiv
+    quote !e = Infection prevention and control guidelines should take into account that patients with severe or critical COVID-19 may shed infectious virus for longer periods of time compared to what has been reported for in patients with mild COVID-19.
 
 
   #
@@ -4298,7 +4319,7 @@ feed Sangeeta
   // Probable Evidence of Fecal Aerosol Transmission of SARS-CoV-2 in a High-Rise Building
   doi: https://doi.org/10.7326/M20-0928
   ref 'Kang_et_al_09_01_2020
-    head = We report an outbreak of 9 confirmed cases of COVID-19 between 26 January 2020 and 13 February 2020 in 3 vertically aligned flats in a high-rise building (block X) in Guangzhou, China, during a period of social distancing. The infection source for patients in flat 2502 and 2702 was probably the master bathroom of flat 1502, and virus-containing fecal aerosols were probably produced in the associated vertical stack during toilet flushing after use by the index patients. Wastewater plumbing systems, particularly those in high-rise buildings, deserve closer investigation, both immediately in the context of SARS-CoV-2 and in the long term, because they may be a reservoir for other harmful pathogens.
+    head = We report an outbreak of 9 confirmed cases of COVID-19 in 3 vertically aligned flats in a high-rise building during a period of social distancing. 9 infected patients in 3 families were identified. No evidence was found for transmission via the elevator or elsewhere. The families lived in 3 vertically aligned flats connected by drainage pipes in the master bathrooms.
 
     > Background
       The role of fecal aerosols in the transmission of severe acute respiratory syndrome coronavirus 2 has been suspected.
@@ -4329,33 +4350,9 @@ feed Sangeeta
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
-
-    # / September, 2020 - Annals of Internal Medicine
-    # quote !a = 3 other block X residents - shared the elevators with at least 1 family A member, but none had become infected. Residents who used the elevator after members of family A might also have been exposed via fomites or recirculated air inside the elevator, but the exposure risks for the infected and noninfected families were not substantially different.
 
     / September, 2020 - Annals of Internal Medicine
-    quote !a = Dried floor drains have been a common hygiene issue that has led to vertical transmission of SARS-CoV-1 and SARS-CoV-2 in similar high-rise apartment buildings in southern China. In 2003, fecal aerosols were found to transmit SARS-CoV-1 to more than 300 residents in the Amoy Gardens outbreak.
-
-    / September, 2020 - Annals of Internal Medicine
-    quote !b = These bioaerosols probably entered some master bathrooms through dried-out floor or bathtub drains, generated during toilet flushing and then spread via the drainage stacks and vents with minimum dilution. This behavior differs from that of expired jets or puffs in open space, where the concentration of virus-containing droplets rapidly decreases as the distance from infected persons increases, because of jets or puffs mixing with room air. The concentration of virus in drainage pipes can remain very high even after the virus travels a long distance. These bioaerosols might be inhaled directly by a bathroom's occupants or be deposited on room surfaces, which might later be touched by occupants. With positive surface samples in the 2 master bathrooms (1502 and 1602), a possibility exists of surface contamination by aerosols and subsequent mucous membrane infection, rather than inhalation.
-
-    / September, 2020 - Annals of Internal Medicine
-    quote !c = To prevent such transmission, bioaerosols can be controlled at the source by avoiding any potential gas leaks from the drainage system to indoor spaces. For example, to block fecal aerosol transmission, drainage traps, such as U-shaped water traps, should not be allowed to dry out. Adequate hygiene in sanitary drainage is known to prevent the transmission of diarrheal diseases by the fecal–oral route.
-
-    / September, 2020 - Annals of Internal Medicine
-    quote !d = Adequate hygiene in sanitary drainage is known to prevent the transmission of diarrheal diseases by the fecal–oral route. Our study also indirectly suggests the importance of bathroom ventilation and hygiene, because toilet flushing may generate fecal aerosols.
-
-    / September, 2020 - Annals of Internal Medicine
-    quote !e = In addition to the buoyancy effect, the suction flow rate for each flat depends on the negative pressure in its bathroom. Negative pressure may be caused by the use of an exhaust fan or by a northerly wind that creates a wake flow when the bathroom has a window onto a balcony. The occupants in flats 2502 and 2702 never open the window of their master bathrooms, and the use of an exhaust fan might create a negative pressure and impose a higher fecal aerosol infiltration risk compared with the master bathrooms in other flats. Computational fluid dynamics simulations showed that the negative pressure in the flats may be as high as 16.8 Pa. 
-
-    / September, 2020 - Annals of Internal Medicine
-    quote !f = Most upper -02 flats with dried-out traps probably have a similar risk for infection if the wind or fan pressures are similar when the buoyancy (chimney) effect is absent. 
-
+    quote !a = The infection source for patients in flat 2502 and 2702 was probably the master bathroom of flat 1502, and virus-containing fecal aerosols were probably produced in the associated vertical stack during toilet flushing after use by the index patients. Fecal aerosol transmission may have caused the community outbreak of COVID-19 in this high-rise building.
 
 
   # no mask, Dinner, Toilet, Trip, temple, Travel, Bus, China, Outdoor, Air Condition,Close contact, Outbreak, Spouse, Airborne
@@ -4384,45 +4381,32 @@ feed Sangeeta
 
 
     - quotes
-      !c
-      !d
-
-    #/ September, 2020 - JAMA Intern Med.
-    # quote !a = Passengers sitting closer to the index patient on the exposed bus did not have statistically higher risks of COVID-19 as those sitting further away. If COVID-19 transmission occurred solely through close contact or respiratory droplets during this outbreak, the risk of COVID-19 would likely be associated with distance from the index patient, and high-risk zones on the bus would have more infected cases.
-
-    # / September, 2020 - JAMA Intern Med.
-    # quote !b = These data suggest that forced, circulating air might play an important role in airborne spread of the virus, and gatherings in enclosed settings with minimal air ventilation should be limited.
+      !a
+      !b
 
     / September, 2020 - JAMA Intern Med.
-    quote !c = The investigations suggest that, in closed environments with air recirculation, SARS-CoV-2 is a highly transmissible pathogen.
+    quote !a = Airborne spread of SARS-CoV-2 seems likely to have contributed to the high attack rate in the exposed bus. Future efforts at prevention and control must consider the potential for airborne spread of SARS-CoV-2, which is a highly transmissible pathogen in closed environments with air recirculation.
 
     / September, 2020 - JAMA Intern Med.
-    quote !d = Airborne spread of SARS-CoV-2 seems likely to have contributed to the high attack rate in the exposed bus.
+    quote !b = Forced, circulating air might play an important role in airborne spread of the virus, and gatherings in enclosed settings with minimal air ventilation should be limited.
 
 
 
   # Disinfection, Wastewater, Airborne, counter to airbourne
+  @@FedericaCarraturo
   // Persistence of SARS-CoV-2 in the environment and COVID-19 transmission risk from environmental matrices and surfaces
   doi: https://doi.org/10.1016/j.envpol.2020.115010
   ref 'Carraturo_et_al_06_09_2020
-    head = COVID-19 airborne transmission has not been yet demonstrated; fecal shedding has been reported from some patients, although the viability of the virus has been evidenced at low levels. Virus persistance in water, wastewater, and sludge results very low with temperatures higher than 20 °C, and the inactivation rate of Coronavirus is usually higher than other examined viruses.
+    head = SARS-CoV-2 viral shedding strategies in the environment, either through animate and unanimate matrices, or exploiting the organic matter in water, wastewater, and waste in general, have been discussed in the present article.
 
     > Abstract
       The Coronavirus disease 2019 (COVID-19) is spreading around the world, representing a global pandemic, counting, as of June 5th, 2020, over 6,600,000 confirmed cases and more than 390,000 deaths, with exponentially increasing numbers. In the first half of 2020, because of the widespread of the COVID-19, researches were focused on the monitoring of SARS-CoV-2 in water, wastewater, sludge, air, and on surfaces, in order to assess the risk of contracting the viral infection from contaminated environments. So far, the survival of the novel Coronavirus out of the human body has been reported for short time periods (from hours to few days, in optimized in vitro conditions), mainly because of the need of an host organism which could consent the viral attack, and due to the weak external membrane of the virus. SARS-CoV-2 viral shedding strategies in the environment, either through animate and unanimate matrices, or exploiting the organic matter in water, wastewater, and waste in general, have been discussed in the present article. We concluded that, besides the high infectuousness of the novel Coronavirus, the transmission of the pathogen may be efficiently contained applying the adequate preventive measures (e.g., personal protection equipments, and disinfecting agents), indicated by national and international health authories.
 
     - quotes
       !a
-      !b
-      !c
 
     / June, 2020 - Environmental Pollution
-    quote !a = The same consideration could be made for the risk coming from potentially contaminated food, for which Coronavirus persistance was reported for not more than 72 h of storage at 4 °C
-
-    / June, 2020 - Environmental Pollution
-    quote !b = On inanimate surfaces, strains of Coronavirus genus are capable to surviving up to nine days, but result extremely labile, being inactivated with really low concentrations of disinfectants.
-
-    / June, 2020 - Environmental Pollution
-    quote !c = A prolonged exposure to contaminated environmental sources, such as the exploitation of air pollutants (e.g., PM10), the extended contact with aerosols produced from wastewater and surface water plants treatment, the inadequate detergency processes of food and surfaces, may potentially lead to an augmented transmission risk, also in non immunocompromised individuals.
+    quote !a = Based on the studies on surface water, wastewater, sludge and bio-solid waste, the survival of SARS-CoV-2 would result very low with temperatures higher than 20 °C, and the inactivation rate of Coronavirus is usually higher than other examined viruses.
 
 
 
@@ -4540,7 +4524,8 @@ feed Sangeeta
   // Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant
   doi: https://doi.org/10.1101/2020.04.16.20067728
   ref 'Li_et_al_04_22_2020
-    head = We analysed an outbreak involving three non-associated families in Restaurant X in Guangzhou, China, and assessed the possibility of aerosol transmission of SARS-CoV-2 and characterize the associated environmental conditions.
+    head = We analysed an outbreak involving three non-associated families in Restaurant X in Guangzhou, China. No close contact or fomite contact was observed, aside from back-to-back sitting by some patrons.
+
 
     > Background
       The role of aerosols in the transmission of SARS-CoV-2 remains debated. We analysed an outbreak involving three non-associated families in Restaurant X in Guangzhou, China, and assessed the possibility of aerosol transmission of SARS-CoV-2 and characterize the associated environmental conditions.
@@ -4558,7 +4543,7 @@ feed Sangeeta
       !a
 
     / April, 2020 - medRxiv
-    quote !a = Our results support the probability of an extended short-range aerosol spread of the SARSCoV-2 having occurred in the poorly ventilated and crowded Restaurant.
+    quote !a = Our results support the probability of an extended short-range aerosol spread of the SARS-CoV-2 having occurred in the poorly ventilated and crowded Restaurant.
 
 
 
@@ -4566,7 +4551,7 @@ feed Sangeeta
   // Transmission routes of Covid-19 virus in the Diamond Princess Cruise ship.
   doi: https://doi.org/10.1101/2020.04.09.20059113
   ref 'Xu_et_al_04_14_2020
-    head = We analysed information about cases to infer transmission dynamics and potential modes of transmission.
+    head = We analysed information about cases to infer transmission dynamics and potential modes of transmission. We collected the daily number of 197 symptomatic cases, and that of the 146 passenger cases in two categories, i.e. those who stayed and did not stay in the same stateroom.
 
     > Background
       An outbreak of COVID-19 occurred on the Diamond Princess cruise ship in January and February 2020. We analysed information about cases to infer transmission dynamics and potential modes of transmission.
@@ -4582,13 +4567,9 @@ feed Sangeeta
 
     - quotes
       !a
-      !b
 
     / April, 2020 - medRxiv
-    quote !a = We infer that the ship central air conditioning system did not play a role, i.e. the long-range airborne route was absent in the outbreak.
-
-    / April, 2020 - medRxiv
-    quote !b = Most transmission appears to have occurred through close contact and fomites.
+    quote !a = We infer that the ship central air conditioning system did not play a role, i.e. the long-range airborne route was absent in the outbreak. Most transmission appears to have occurred through close contact and fomites.
 
 
 
@@ -4737,7 +4718,7 @@ feed Sangeeta
   // Close contact behavior in indoor environment and transmission of respiratory infection
   doi: https://doi.org/10.1111/ina.12673
   ref 'Zhang_et_al_04_07_2020
-    head = We focus on two issues: the mechanism of transmission in close contact, namely the transmission of the expired particles between two people, and the physical parameters of close contact that affect the exposure of particles from one individual to another, or how the nature of close contact plays a role in transmission.
+    head = We propose the existence of three sub-routes of transmission: short-range airborne, large droplets, and immediate body-surface contact.
 
     > Abstract
       Close contact was first identified as the primary route of transmission for most respiratory infections in the early 20th century. In this review, we synthesize the existing understanding of the mechanisms of close contact transmission. We focus on two issues: the mechanism of transmission in close contact, namely the transmission of the expired particles between two people, and the physical parameters of close contact that affect the exposure of particles from one individual to another, or how the nature of close contact plays a role in transmission. We propose the existence of three sub-routes of transmission: short-range airborne, large droplets, and immediate body-surface contact. We also distinguish a "body contact," which is defined with an interpersonal distance of zero, from a close contact. We demonstrate herein that the short-range airborne sub-route may be most common. The timescales over which data should be collected to assess the transmission risk during close contact events are much shorter than those required for the distant airborne or fomite routes. The current paucity of high-resolution data over short distances and timescales makes it very difficult to assess the risk of infection in these circumstances.
@@ -4746,14 +4727,14 @@ feed Sangeeta
       !a
 
     / February, 2020 - Indoor Air
-    quote !a = The timescales over which data should be collected to assess the transmission risk during close contact events are much shorter than those required for the distant airborne or fomite routes.
+    quote !a = We demonstrate herein that the short-range airborne sub-route may be most common.
 
 
   # Meat Processing Plant, Secondary, Cluster, Outbreak, Superspread, aerosol transmission, shared living
   // Investigation of a superspreading event preceding the largest meat processing plant-related SARS-Coronavirus 2 outbreak in Germany
   doi: http://dx.doi.org/10.2139/ssrn.3654517
   ref 'Guenther_et_al_07_23_2020
-    head = Our results collectively point towards a superspreading event in the MPP-R beef processing plant that originated from a single employee. Our findings suggest that the facilities’ environmental conditions, including low temperature, low air exchange rates, and constant air re-circularization, together with relatively close distance between workers and demanding physical work, created an unfavorable mix of factors promoting efficient aerosol transmission of SARS-CoV-2 particles.
+    head = Here, we describe a multifactorial investigation of the events of a SARS-CoV-2 outbreak in the largest meat processing complex in Germany.
 
     > Background
       Here, we describe a multifactorial investigation of the events of a SARS-CoV-2 outbreak in the largest meat processing complex in Germany.
@@ -4768,14 +4749,18 @@ feed Sangeeta
       Our results indicate climate conditions and airflow as factors that can promote efficient spread of SARS-CoV-2 via distances of more than 8 meters and provide insights into possible requirements for pandemic mitigation strategies in industrial workplace settings.
 
     - quotes
-      !a
       !b
+      !a
 
     / July, 2020 - SSRN
     quote !a = Our study indicates that transmission of SARS-CoV-2 can occur over distances of at least 8m in confined spaces under conditions of relatively low air exchange rates and high rates of recirculated unfiltered air. It points to the importance of air quality/flow in confined spaces to prevent future superspreading events.
 
     / July, 2020 - SSRN
-    quote !b = In contrast to work-related exposure, shared apartments, bedrooms, or carpools appear not to have played a major role in the initial outbreak described in this study. Nevertheless, later viral transmission within shared living quarters or work rides very well may have been a confounding factor in context of the second, larger outbreak occurring one month after the first outbreak.
+    quote !b = Transmissions occurred in a confined area of a meat processing plant in which air is constantly re-circulated and cooled to 10°C. Index case transmitted the virus to co-workers in a radius of more than 8 meters during work-shifts on 3 consecutive days.
+
+
+    # / July, 2020 - SSRN
+    # quote !b = In contrast to work-related exposure, shared apartments, bedrooms, or carpools appear not to have played a major role in the initial outbreak described in this study. Nevertheless, later viral transmission within shared living quarters or work rides very well may have been a confounding factor in context of the second, larger outbreak occurring one month after the first outbreak.
 
 
 
@@ -4818,6 +4803,7 @@ feed Sangeeta
 
 
   # stainless steel, cloth, paper, and tissues, evironmental contamination
+  @@HenryBalfour
   // Survival of influenza viruses on environmental surfaces.
   doi: https://doi.org/10.1093/infdis/146.1.47
   ref 'Bean_et_al_07_01_2020
@@ -4839,6 +4825,7 @@ feed Sangeeta
 
 
   # transmission, Close contact, Short-range airborne, Large droplet, Droplet, Airborne, talking, coughing- i have put it in mechanism
+  @@YuguoLi
   // Short-range airborne route dominates exposure of respiratory infection during close contact
   doi: https://doi.org/10.1016/j.buildenv.2020.106859
   ref 'Chen_et_al_08_01_2020
@@ -5184,13 +5171,13 @@ feed Sangeeta
 
     - quotes
       !a
-      !b
+
 
     / June, 2020 - Environmental Research
-    quote !a = The case studies found worldwide indicate that the behavior of the SARS-CoV-2 virus has been unprecedentedly unique with more survival and viable rates in the air and believed to linger in the air for an extended period.
-
-    / June, 2020 - Environmental Research
-    quote !b = The nosocomial transmission by airborne SARS-CoV-2 virus-laden aerosols in healthcare facilities may be plausible.
+    quote !a = Droplets and aerosols generated from non-violent and violent expirations of SARS-CoV-2-infected people may be responsible for the airborne transmission of COVID-19 disease.
+    #
+    # / June, 2020 - Environmental Research
+    # quote !b = The nosocomial transmission by airborne SARS-CoV-2 virus-laden aerosols in healthcare facilities may be plausible.
 
 
 
@@ -5212,10 +5199,16 @@ feed Sangeeta
   // Inferring super-spreading from transmission clusters of COVID-19 in Hong Kong, Japan, and Singapore
   doi: https://doi.org/10.1016/j.jhin.2020.05.027
   ref 'Kwok_et_al_05_21_2020
-    head = Results suggest that SARS-CoV-2 transmission in HK, JP and SG was not over-dispersed as of March 3rd, 2020 (with relatively large values of k), so there was no strong evidence for the presence of Super spreading events.
+    head = We estimated the basic reproductive number (R0) and the dispersion factor (k) from empirical data on clusters of epidemiologically linked coronavirus disease 2019 (COVID-19) cases in Hong Kong, Japan and Singapore.
+
+    > Abstract
+      Super-spreading events in an outbreak can change the nature of an epidemic. Therefore, it is useful for public health teams to determine whether an ongoing outbreak has any contribution from such events, which may be amenable to interventions. We estimated the basic reproductive number (R0) and the dispersion factor (k) from empirical data on clusters of epidemiologically linked coronavirus disease 2019 (COVID-19) cases in Hong Kong, Japan and Singapore. This allowed us to infer the presence or absence of super-spreading events during the early phase of these outbreaks. The relatively large values of k implied that large cluster sizes, compatible with super-spreading, were unlikely.
+
+    - quotes
+      !a
 
     / May, 2020 - The Healthcare Infection Society
-    quote !a =
+    quote !a = Results suggest that SARS-CoV-2 transmission in HK, JP and SG was not over-dispersed as of March 3rd, 2020 (with relatively large values of k), so there was no strong evidence for the presence of Super spreading events.
 
 
 
@@ -5223,7 +5216,7 @@ feed Sangeeta
   // COVID-19 and the Ocular Surface: A Review of Transmission and Manifestations
   doi: https://doi.org/10.1080/09273948.2020.1772313
   ref 'Ho_et_al_06_16_2020
-    head = The exact pathophysiology of ocular transmission of the virus remains incompletely understood, although there is preliminary evidence of SARS-CoV-2 being detected in ocular secretions. Ocular surface manifestations such as conjunctivitis are more commonly reported.
+    head = In this article, the current evidence related to ocular transmission and ocular manifestations is reviewed.
 
     > Purpose
       The outbreak of coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has reached pandemic proportions within an unprecedented span of time. It is controversial whether the virus can be transmitted via tears and its ocular implications have not been widely studied. In this article, the current evidence related to ocular transmission and ocular manifestations is reviewed.
@@ -5235,7 +5228,7 @@ feed Sangeeta
       The exact pathophysiology of ocular transmission of the virus remains incompletely understood, although there is preliminary evidence of SARS-CoV-2 being detected in ocular secretions. The ocular tropism of the virus and its potential to cause localized ocular disease are worth considering.
 
     / June, 2020 - Ocular Immunology and Inflammation
-    quote !a =
+    quote !a = The exact pathophysiology of ocular transmission of the virus remains incompletely understood, although there is preliminary evidence of SARS-CoV-2 being detected in ocular secretions. Ocular surface manifestations such as conjunctivitis are more commonly reported.
 
 
 
@@ -5350,6 +5343,7 @@ feed Sangeeta
 
 
   # mechanism
+  @@LjubomirJankovic
   // Experiments with Self-Organised Simulation of Movement of Infectious Aerosols in Buildings
   doi:  https://doi.org/10.3390/su12125204
   ref 'Jankovic_et_al_06_25_2020
@@ -5446,6 +5440,7 @@ feed Sangeeta
 
 
   # Aerosol, Nonsomical, surface - b, a- toilets aerosols, c- aerosol toilet, mitigation- ventilation, e- asymptomatic
+  @@ZhiNing
   // Aerodynamic characteristics and RNA concentration of SARS-CoV-2 aerosol in Wuhan hospitals during COVID-19 outbreak.
   doi: https://doi.org/10.1101/2020.03.08.982637
   ref 'Liu_et_al_03_10_2020
@@ -5612,6 +5607,7 @@ feed Sangeeta
 
 
   # mechanism of aerosol spread
+  @@TinChow
   // Numerical investigation of influence of human walking on dispersion and deposition of expiratory droplets in airborne infection isolation room
   doi: https://doi.org/10.1016/j.buildenv.2011.04.008
   ref 'Wang_et_al_04_05_2011
@@ -5640,10 +5636,11 @@ feed Sangeeta
 
 
   # fomite transmission, airborne transmission, Nonsomical
+  @@JoshuaSantarpia
   // Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care
   doi: https://doi.org/10.1038/s41598-020-69286-3
   ref 'Santarpia_et_al_07_29_2020
-    head = During the initial isolation of 13 individuals with COVID-19, we collected air and surface samples. Our study suggests that SARS-CoV-2 environmental contamination around COVID-19 patients is extensive, and hospital IPC procedures should account for the risk of fomite, and potentially airborne, transmission of the virus.
+    head = We collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, supporting the use of airborne isolation precautions when caring for COVID-19 patients.
 
     > Abstract
       The novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) originated in Wuhan, China in late 2019, and its resulting coronavirus disease, COVID-19, was declared a pandemic by the World Health Organization on March 11, 2020. The rapid global spread of COVID-19 represents perhaps the most significant public health emergency in a century. As the pandemic progressed, a continued paucity of evidence on routes of SARS-CoV-2 transmission has resulted in shifting infection prevention and control guidelines between classically-defined airborne and droplet precautions. During the initial isolation of 13 individuals with COVID-19 at the University of Nebraska Medical Center, we collected air and surface samples to examine viral shedding from isolated individuals. We detected viral contamination among all samples, supporting the use of airborne isolation precautions when caring for COVID-19 patients.
@@ -6087,7 +6084,7 @@ feed Sangeeta
   // The Delay in Confirming COVID-19 Cases Linked to a Religious Group in Korea
   doi: https://doi.org/10.3961/jpmph.20.088
   ref 'Ju-Kim_et_al_04_08_2020
-    head = The Shincheonji religious group accounted for the majority of Korean cases of COVID-19. There was a delay in COVID-19 confirmation from the date of illness onset among the cases linked to the Shincheonji religious group. This delay likely contributed to the occurrence of many cases.
+    head = We obtained data of laboratory-confirmed cases related to the Shincheonji religious group from press releases by Korean public health authorities and news reports. We measured the period from the date of illness onset to the date of COVID-19 confirmation.
 
     > Objectives
       As of March 3, 2020, the Shincheonji religious group accounted for the majority of Korean cases of coronavirus disease 2019 (COVID-19). Nonetheless, the most likely cause of the broad spread of COVID-19 among members of the Shincheonji religious group remains largely unknown.
@@ -6101,9 +6098,12 @@ feed Sangeeta
     > Conclusions
       There was a delay in COVID-19 confirmation from the date of illness onset among the cases linked to the Shincheonji religious group. This delay likely contributed to the occurrence of many cases of COVID-19 in the group.
 
+    - quotes
+      !a
 
     / April, 2020 - J Prev Med Public Health
-    quote !a =
+    quote !a = There was a delay in COVID-19 confirmation from the date of illness onset among the cases linked to the Shincheonji religious group. This delay likely contributed to the occurrence of many cases of COVID-19 in the group.
+
 
 
 
@@ -6115,8 +6115,11 @@ feed Sangeeta
 
     # Conditions that might have contributed to SARS-CoV-2 transmission in these sites include 1) the mobile nature of the community and use of multiple homeless service sites among residents; 2) crowding and use of congregate sleeping arrangements; 3) challenges enforcing physical distancing; 4) possible asymptomatic transmission; and 5) unavailability of face coverings for residents before public health intervention.
 
+    - quotes
+      !a
+
     / May, 2020 - MMWR
-    quote !a =
+    quote !a = Homeless service sites are densely populated environments, similar to long-term care facilities, which can amplify infectious disease outbreaks, including COVID-19
 
 
 

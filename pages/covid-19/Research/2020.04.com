@@ -140,7 +140,7 @@ feed April2020
   // Sinonasal pathophysiology of SARS‐CoV‐2 and COVID‐19: A systematic review of the current evidence
   doi: https://dx.doi.org/10.1002%2Flio2.384
   ref 'Gengler_et_al_02_20_2020
-    head = The sinonasal tract may be an important site of infection while sinonasal viral shedding may be an important transmission mechanism—including HAI. Anosmia without nasal obstruction may be a highly specific indicator of COVID‐19.
+    head = The role of the nasal and paranasal sinus cavities is increasingly recognized for COVID‐19 symptomatology and transmission. We therefore conducted a systematic review, synthesizing existing scientific evidence about sinonasal pathophysiology in COVID‐19.
 
     > Objective
       The ongoing pandemic of coronavirus disease (2019 coronavirus disease [COVID‐19]), caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS‐CoV‐2) virus, is highly contagious with high morbidity and mortality. The role of the nasal and paranasal sinus cavities is increasingly recognized for COVID‐19 symptomatology and transmission. We therefore conducted a systematic review, synthesizing existing scientific evidence about sinonasal pathophysiology in COVID‐19.
@@ -154,10 +154,12 @@ feed April2020
     > Conclusion
       Sinonasal pathophysiology is increasingly important in our understanding of COVID‐19. The sinonasal tract may be an important site of infection while sinonasal viral shedding may be an important transmission mechanism—including HAI. Anosmia without nasal obstruction may be a highly specific indicator of COVID‐19.
 
-
-
     - quotes
       !a
+      !b
+
+    / April, 2020 - Laryngoscope Investig Otolaryngol
+    quote !b = The sinonasal tract may be an important site of infection while sinonasal viral shedding may be an important transmission mechanism—including HAI. Anosmia without nasal obstruction may be a highly specific indicator of COVID‐19.
 
     / April, 2020 - Laryngoscope Investig Otolaryngol
     quote !a = Infection by SARS‐CoV‐2 may occur via inhaled particles as small as aerosol (less than 5 μm in size) up to droplets (measuring greater than 20 μm in size), or by direct inoculation of the respiratory epithelium (ie, touching a surface with live virus and then touching one's face).
@@ -166,7 +168,7 @@ feed April2020
   // SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells together with innate immune genes
   doi: https://doi.org/10.1038/s41591-020-0868-6
   ref 'Sungnak_et_al_04_23_2020
-    head = We explored multiple scRNA-seq datasets generated within the Human Cell Atlas (HCA) consortium and other resources and found that the SARS-CoV-2 entry receptor ACE2 and viral entry-associated protease TMPRSS2 are highly expressed in nasal goblet and ciliated cells.
+    head = We investigated SARS-CoV-2 potential tropism by surveying expression of viral entry-associated genes in single-cell RNA-sequencing data from multiple tissues from healthy human donors.
 
     > Abstract
       We investigated SARS-CoV-2 potential tropism by surveying expression of viral entry-associated genes in single-cell RNA-sequencing data from multiple tissues from healthy human donors. We co-detected these transcripts in specific respiratory, corneal and intestinal epithelial cells, potentially explaining the high efficiency of SARS-CoV-2 transmission. These genes are co-expressed in nasal epithelial cells with genes involved in innate immunity, highlighting the cells’ potential role in initial viral infection, spread and clearance. The study offers a useful resource for further lines of inquiry with valuable clinical samples from COVID-19 patients and we provide our data in a comprehensive, open and user-friendly fashion at www.covid19cellatlas.org.
@@ -175,7 +177,7 @@ feed April2020
       !a
 
     / April, 2020 - Nature
-    quote !a = These cells as loci of original infection and possible reservoirs for dissemination within and between individuals.
+    quote !a = The SARS-CoV-2 entry receptor ACE2 and viral entry-associated protease TMPRSS2 are highly expressed in nasal goblet and ciliated cells.
 
   # Who should wear Mask, Policy,
   // Facemask shortage and the novel coronavirus disease (COVID-19) outbreak: Reflections on public health measures
@@ -518,6 +520,7 @@ feed April2020
 
 
   # Indoortransmission, restaurant
+  @@ZhicongYang
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://10.3201/eid2607.200764
   ref 'Lu_et_al_04_02_2020
@@ -921,6 +924,7 @@ feed April2020
 
 
   # temperature- pro, surface viability, MASK
+  @@LeoPoon
   // Stability of SARS-CoV-2 in different environmental conditions
   doi: https://doi.org/10.1016/S2666-5247(20)30003-3
   ref 'Chin_et_al_04_02_2020
@@ -1605,28 +1609,25 @@ feed April2020
   // The spatial and cell-type distribution of SARS-CoV-2 receptor ACE2 in human and mouse brain
   doi: https://doi.org/10.1101/2020.04.07.030650
   ref 'Chen_et_al_05_19_2020
-    head = Our results reveal an outline of ACE2 distribution in the human and mouse brain. SARS-CoV-2 may be capable of infecting the brain, resulting in serious CNS symptoms in COVID-19 patients. The finding of high ACE2 expression of in central glial substance and brain ventricles suggest two potential novel routes for the SARS-CoV-2 entering the CSF and/or spreading around the brain.
+    head = We investigated the ACE2 expression in the brain. Our results reveal an outline of ACE2 distribution in the human and mouse brain.
 
     > Abstract
       By engaging angiotensin-converting enzyme 2 (ACE2 or Ace2), the novel pathogenic SARS-coronavirus 2 (SARS-CoV-2) may invade host cells in many organs, including the brain. However, the distribution of ACE2 in the brain is still obscure. Here we investigated the ACE2 expression in the brain by analyzing data from publicly available brain transcriptome databases. According to our spatial distribution analysis, ACE2 was relatively highly expressed in some important brain areas, such as the substantia nigra and brain ventricles. According to our cell-type distribution analysis, the expression of ACE2 were found in many neurons (both excitatory and inhibitory neurons) and some non-neuron cells (mainly astrocytes and oligodendrocytes) in human middle temporal gyrus and posterior cingulate cortex, but the ACE2-expressing cells was none in the prefrontal cortex and very few in the hippocampus. Except for the additional high expression of Ace2 in the olfactory bulb areas for spatial distribution as well as in the pericytes and endothelial cells for cell-type distribution, the distribution of Ace2 in mouse brain was similar to that in the human brain. Thus, our results reveal an outline of ACE2/Ace2 distribution in the human and mouse brain, which indicates the brain infection of SARS-CoV-2 may be capable to result in serious central nervous system symptoms in coronavirus disease 2019 (COVID-19) patients.
 
     - quotes
       !a
-      !b
-      !c
-      !d
 
     / April, 2020 - bioRxiv
-    quote !a = The expression of ACE2 was relatively high in several specific brain areas in human, such as such as the substantia nigra and brain ventricles; the expression of ACE2 located in many neurons (both excitatory and inhibitory neurons) and some non-neuron cells (mainly astrocytes and ODCs) in human middle temporal gyrus and posterior cingulate cortex, but the ACE2-expressing cells was none in PFC and very few in hippocampus.
+    quote !a = SARS-CoV-2 may be capable of infecting the brain, resulting in serious CNS symptoms in COVID-19 patients. The finding of high ACE2 expression of in central glial substance and brain ventricles suggest two potential novel routes for the SARS-CoV-2 entering the CSF and/or spreading around the brain.
 
-    / April, 2020 - bioRxiv
-    quote !b =  Our results reveal an outline of ACE2 distribution in the human and mouse brain, which support the hypotheses that the SARS-CoV-2 is capable to infect the brain and may result in serious CNS symptoms in COVID-19 patients.
-
-    / April, 2020 - bioRxiv
-    quote !c = We found the expression ACE2 was relatively highly expressed in some special brain regions in human, though the total expression of ACE2 is low and similar in most brain areas. Even more, the percent of ACE2 positive samples of substantial nigra was almost comparable to that of lung (3.60% vs 6.57%), though the total expression in substantial nigra seems much lower than that in the lung
-
-    / April, 2020 - bioRxiv
-    quote !d = In human brain, we found piriform cortex, a brain area directly connected with olfactory bulb, were ACE2 high-expression. Though no ACE2 expression data of olfactory bulb in human was available, our results indirectly support the hypothesis that SARS-CoV-2 might enter the human brain by olfactory nerves. On the other hand, we additionally found the central glial substance and choroid plexus of lateral ventricle were with very high ACE2 expression (Z score > 5) in the human brain
+    # / April, 2020 - bioRxiv
+    # quote !b =  Our results reveal an outline of ACE2 distribution in the human and mouse brain, which support the hypotheses that the SARS-CoV-2 is capable to infect the brain and may result in serious CNS symptoms in COVID-19 patients.
+    #
+    # / April, 2020 - bioRxiv
+    # quote !c = We found the expression ACE2 was relatively highly expressed in some special brain regions in human, though the total expression of ACE2 is low and similar in most brain areas. Even more, the percent of ACE2 positive samples of substantial nigra was almost comparable to that of lung (3.60% vs 6.57%), though the total expression in substantial nigra seems much lower than that in the lung
+    #
+    # / April, 2020 - bioRxiv
+    # quote !d = In human brain, we found piriform cortex, a brain area directly connected with olfactory bulb, were ACE2 high-expression. Though no ACE2 expression data of olfactory bulb in human was available, our results indirectly support the hypothesis that SARS-CoV-2 might enter the human brain by olfactory nerves. On the other hand, we additionally found the central glial substance and choroid plexus of lateral ventricle were with very high ACE2 expression (Z score > 5) in the human brain
 
 
   # Mutation - Genetic Diversity - Frontiers for finding out the mutation
@@ -1678,7 +1679,7 @@ feed April2020
   // Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China
   doi: https://doi.org/10.12688/wellcomeopenres.15842.1
   ref 'Endo_et_al_04_09_2020
-    head = Our model suggested a high degree of individual-level variation in the transmission of COVID-19. Within the current consensus range of R0 (2-3), the overdispersion parameter k of a negative-binomial distribution was estimated to be around 0.1, suggesting that 80% of secondary transmissions may have been caused by a small fraction of infectious individuals (~10%).
+    head = We quantified individual-level variation in COVID-19 transmission by applying a mathematical model to observed outbreak sizes in affected countries.
 
     > Background
       A novel coronavirus disease (COVID-19) outbreak has now spread to a number of countries worldwide. While sustained transmission chains of human-to-human transmission suggest high basic reproduction number R0, variation in the number of secondary transmissions (often characterised by so-called superspreading events) may be large as some countries have observed fewer local transmissions than others.
@@ -1692,8 +1693,11 @@ feed April2020
     > Conclusions
       Our finding of a highly-overdispersed offspring distribution highlights a potential benefit to focusing intervention efforts on superspreading. As most infected individuals do not contribute to the expansion of an epidemic, the effective reproduction number could be drastically reduced by preventing relatively rare superspreading events.
 
-    # / April, 2020 - Welcome Open Research
-    # quote !a =
+    - quotes
+      !a
+
+    / April, 2020 - Welcome Open Research
+    quote !a = Our model suggested a high degree of individual-level variation in the transmission of COVID-19. Within the current consensus range of R0 (2-3), the overdispersion parameter k of a negative-binomial distribution was estimated to be around 0.1, suggesting that 80% of secondary transmissions may have been caused by a small fraction of infectious individuals (~10%).
 
 
   # Immune Response
@@ -1770,7 +1774,7 @@ feed April2020
   // Factors associated with prolonged viral RNA shedding in patients with COVID-19.
   doi: https://doi.org/10.1093/cid/ciaa351
   ref 'Xu_et_al_2020b
-    head = We found that the median duration from onset of symptoms to RNA clearance was 17 days. Male sex, delayed admission to hospital after illness onset, and invasive mechanical ventilation were associated with prolonged SARS-CoV-2 RNA shedding.
+    head = Risk factors associated with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA shedding were evaluated in a cohort of 113 symptomatic patients from 2 hospitals outside Wuhan.
 
     > Background
       An outbreak of coronavirus disease 2019 (COVID-19) is becoming a public health emergency. Data are limited on the duration and host factors related to viral shedding.
@@ -1786,53 +1790,53 @@ feed April2020
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
-      !k
-      !l
+      # !b
+      # !c
+      # !d
+      # !e
+      # !f
+      # !g
+      # !h
+      # !i
+      # !j
+      # !k
+      # !l
 
     / April, 2020 - Clinical Infectious Diseases
-    quote !a = The median (interquartile range) duration of SARS-CoV-2 RNA detection was 17 (13–22) days as measured from illness onset.
+    quote !a = Male sex, delayed admission to hospital after illness onset, and invasive mechanical ventilation were associated with prolonged SARS-CoV-2 RNA shedding.
 
-    / April, 2020 - Clinical Infectious Diseases
-    quote !b = When comparing patients with early (<15 days) and late (≥15 days after illness onset) viral RNA clearance, prolonged SARS-CoV-2 RNA shedding was associated with male sex (P = .009), old age (P = .033), concomitant hypertension (P = .009). The proportion of patients with severe disease at admission in the group with prolonged shedding was significantly higher than that in the group with early viral RNA clearance (34.2% vs 16.2%, P = .049). Corticosteroid (P = .025) and invasive mechanical ventilation (P = .006) treatments were related to prolonged viral RNA shedding time.
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !c = Prolonged RNA shedding was associated with delayed recovery on radiological imaging (median days, 12 vs 16; P < .001), delayed recovery of body temperature (median days, 7 vs 11; P < .001), and prolonged hospital stay (median days, 13.5 vs 22; P < .001). More patients recovered and were released by 21 days after illness onset (91.9% vs 46.1%, P = .023) in the group with early viral RNA clearance than in the group with prolonged viral RNA shedding.
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !d = Male sex (OR, 3.24; 95% CI, 1.31–8.02), delayed hospital admission (OR, 1.30; 95% CI, 1.10–1.54), and invasive mechanical ventilation (OR, 9.88; 95% CI, 1.11–88.02) were independent risk factors for prolonged SARS-CoV-2 RNA shedding.
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !e = The median duration of SARS-CoV-2 RNA shedding was 15 days (IQR, 12–17 days) in the female group and 18.5 days (IQR, 15–25 days) in the male group (P = .013). The proportion of patients with severe disease at admission in the male group (37.9%) was significantly higher than that in the female group (14.9%, P = .010). The median length of hospital stay was longer in the male group than in the female group (median days, 15 vs 22; P = .002). The cumulative probability of viral negative conversion was slightly higher in the female group than that in the male group (P = .043)
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !f = Early (≤5 days) versus later (>5 days) hospital admission was significantly associated with viral RNA clearance speed (P = .004). Late hospital admission was associated with a higher proportion of patients with severe disease at admission (43.4% vs 15.0%, P = .001) and a higher frequency of critically severe illness during hospitalization (30.2% vs 11.7%, P = .019) than was early hospital admission. Our findings also suggest that symptomatic patients should be admitted to the hospital as early as possible if SARS-CoV-2 infection is confirmed. Delayed hospital admission was associated with more severe conditions at admission and worse treatment outcomes.
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !g = SARS-CoV-2 RNA clearance was significantly delayed in patients who underwent invasive mechanical ventilation during hospitalization (OR, 9.88; 95% CI, 1.11–88.02; P = .04) compared with those who did not undergo invasive mechanical ventilation.
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !h = The smoking rates were comparable between the early-clearance group and the prolonged-shedding group in this study.
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !i = There was a higher percentage of patients with hypertension in the prolonged-viral-RNA-shedding group than in the early-clearance group; however, hypertension was not a significant risk factor in the logistic regression model. Thus, it was suggested that sex itself is the influencing factor of disease progression.
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !j = In our study, lopinavir-ritonavir and interferon-α were the most frequently used antiviral regimens. It was hard to evaluate the efficacy of these 2-drug combination because of the lack of controls.
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !k = Corticosteroid usage was related to prolonged viral RNA shedding time in this report as well, as patients with early RNA clearance had lower proportion of patients using corticosteroid compared with patients with late RNA clearance (40.5% vs 64.5%, P = .025). However, this difference can be influenced by disease severity, as patients who were given corticosteroids usually had more severe disease than those who did not. Furthermore, corticosteroid use was not found to be an independent risk factor for prolonged viral RNA shedding in the multivariable model conducted in this report. Thus, a definitive conclusion that corticosteroid treatment is associated with prolonged viral RNA shedding duration in patients with COVID-19 cannot be drawn. The reason for the inconsistent results might be that the corticosteroid doses in this report were relatively low (0.5–1 mg methylprednisolone/kg body weight) for patients with COVID-19.
-
-    / April, 2020 - Clinical Infectious Diseases
-    quote !l = Invasive mechanical ventilator support was found to be another important independent predictor of prolonged viral RNA shedding. Another potential reason for prolonged duration of viral RNA shedding is the emergence of drug resistance during antiviral treatment, since most of the patients who underwent invasive mechanical ventilation had a longer hospital stay.
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !b = When comparing patients with early (<15 days) and late (≥15 days after illness onset) viral RNA clearance, prolonged SARS-CoV-2 RNA shedding was associated with male sex (P = .009), old age (P = .033), concomitant hypertension (P = .009). The proportion of patients with severe disease at admission in the group with prolonged shedding was significantly higher than that in the group with early viral RNA clearance (34.2% vs 16.2%, P = .049). Corticosteroid (P = .025) and invasive mechanical ventilation (P = .006) treatments were related to prolonged viral RNA shedding time.
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !c = Prolonged RNA shedding was associated with delayed recovery on radiological imaging (median days, 12 vs 16; P < .001), delayed recovery of body temperature (median days, 7 vs 11; P < .001), and prolonged hospital stay (median days, 13.5 vs 22; P < .001). More patients recovered and were released by 21 days after illness onset (91.9% vs 46.1%, P = .023) in the group with early viral RNA clearance than in the group with prolonged viral RNA shedding.
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !d = Male sex (OR, 3.24; 95% CI, 1.31–8.02), delayed hospital admission (OR, 1.30; 95% CI, 1.10–1.54), and invasive mechanical ventilation (OR, 9.88; 95% CI, 1.11–88.02) were independent risk factors for prolonged SARS-CoV-2 RNA shedding.
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !e = The median duration of SARS-CoV-2 RNA shedding was 15 days (IQR, 12–17 days) in the female group and 18.5 days (IQR, 15–25 days) in the male group (P = .013). The proportion of patients with severe disease at admission in the male group (37.9%) was significantly higher than that in the female group (14.9%, P = .010). The median length of hospital stay was longer in the male group than in the female group (median days, 15 vs 22; P = .002). The cumulative probability of viral negative conversion was slightly higher in the female group than that in the male group (P = .043)
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !f = Early (≤5 days) versus later (>5 days) hospital admission was significantly associated with viral RNA clearance speed (P = .004). Late hospital admission was associated with a higher proportion of patients with severe disease at admission (43.4% vs 15.0%, P = .001) and a higher frequency of critically severe illness during hospitalization (30.2% vs 11.7%, P = .019) than was early hospital admission. Our findings also suggest that symptomatic patients should be admitted to the hospital as early as possible if SARS-CoV-2 infection is confirmed. Delayed hospital admission was associated with more severe conditions at admission and worse treatment outcomes.
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !g = SARS-CoV-2 RNA clearance was significantly delayed in patients who underwent invasive mechanical ventilation during hospitalization (OR, 9.88; 95% CI, 1.11–88.02; P = .04) compared with those who did not undergo invasive mechanical ventilation.
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !h = The smoking rates were comparable between the early-clearance group and the prolonged-shedding group in this study.
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !i = There was a higher percentage of patients with hypertension in the prolonged-viral-RNA-shedding group than in the early-clearance group; however, hypertension was not a significant risk factor in the logistic regression model. Thus, it was suggested that sex itself is the influencing factor of disease progression.
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !j = In our study, lopinavir-ritonavir and interferon-α were the most frequently used antiviral regimens. It was hard to evaluate the efficacy of these 2-drug combination because of the lack of controls.
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !k = Corticosteroid usage was related to prolonged viral RNA shedding time in this report as well, as patients with early RNA clearance had lower proportion of patients using corticosteroid compared with patients with late RNA clearance (40.5% vs 64.5%, P = .025). However, this difference can be influenced by disease severity, as patients who were given corticosteroids usually had more severe disease than those who did not. Furthermore, corticosteroid use was not found to be an independent risk factor for prolonged viral RNA shedding in the multivariable model conducted in this report. Thus, a definitive conclusion that corticosteroid treatment is associated with prolonged viral RNA shedding duration in patients with COVID-19 cannot be drawn. The reason for the inconsistent results might be that the corticosteroid doses in this report were relatively low (0.5–1 mg methylprednisolone/kg body weight) for patients with COVID-19.
+    #
+    # / April, 2020 - Clinical Infectious Diseases
+    # quote !l = Invasive mechanical ventilator support was found to be another important independent predictor of prolonged viral RNA shedding. Another potential reason for prolonged duration of viral RNA shedding is the emergence of drug resistance during antiviral treatment, since most of the patients who underwent invasive mechanical ventilation had a longer hospital stay.
 
 
 
@@ -2139,10 +2143,10 @@ feed April2020
   // SARS-CoV-2 shedding and infectivity
   doi: https://doi.org/10.1016/S0140-6736(20)30868-0
   ref 'Atkinson_et_al_2020
-    head = Viral RNA can be detected long after the disappearance of infectious virus. With measles virus, viral RNA can still be detected 6–8 weeks after the clearance of infectious virus.  The immune system can neutralise viruses by lysing their envelope or aggregating virus particles; these processes prevent subsequent infection but do not eliminate nucleic acid, which degrades slowly over time.
+    head = For many viral diseases, Viral RNA can be detected long after the disappearance of infectious virus. With measles virus, viral RNA can still be detected 6–8 weeks after the clearance of infectious virus.
 
-    # / April, 2020 - Lancet
-    # quote !a =
+    / April, 2020 - Lancet
+    quote !a = The immune system can neutralise viruses by lysing their envelope or aggregating virus particles; these processes prevent subsequent infection but do not eliminate nucleic acid, which degrades slowly over time.
 
 
   # Frontiers - Protease
@@ -2192,19 +2196,24 @@ feed April2020
   // Disparate temperature-dependent virus – host dynamics for SARS-CoV-2 and SARS-CoV in the human respiratory epithelium
   doi: https://doi.org/10.1101/2020.04.27.062315
   ref 'Vkovski_et_al_2020
-    head = We provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics. SARS-CoV-2, in contrast to SARS-CoV, replicated more efficiently at temperatures encountered in the upper respiratory tract, and displayed higher sensitivity to type I and type III IFNs than SARS-CoV.
+    head =  We employed the human airway epithelial cell (hAEC) culture model to investigate the impact of ambient temperatures found in the upper and lower respiratory tract, 33°C and 37°C, respectively, on the viral replication kinetics and host innate immune response dynamics during SARS-CoV-2 and SARS-CoV infections.
 
     > Abstract
       The human conductive respiratory tract spans a long anatomical distance and represents an important barrier to constrain invading respiratory pathogens. The disparate ambient temperatures found in the upper and lower respiratory tract have been demonstrated to influence the replication kinetics of common cold viruses as well as the associated host responses. Here, we employed the human airway epithelial cell (hAEC) culture model to investigate the impact of ambient temperatures found in the upper and lower respiratory tract, 33°C and 37°C, respectively, on the viral replication kinetics and host innate immune response dynamics during SARS-CoV-2 and SARS-CoV infections. Strikingly, SARS-CoV-2, in contrast to SARS-CoV, replicated more efficiently at temperatures encountered in the upper respiratory tract, and displayed higher sensitivity to type I and type III IFNs than SARS-CoV. Time-resolved transcriptome analysis highlighted a temperature-dependent induction of IFN-mediated antiviral response, whose amplitude inversely correlated with the replication kinetic efficiencies of both SARS-CoV-2 and SARS-CoV at temperatures found in the upper and lower respiratory tract. Altogether, these data reflect clinical features of SARS-CoV-2 and SARS-CoV and subsequently, their associated human-to-human transmission efficiencies. They provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics. This knowledge can be exploited for the development of novel intervention strategies against SARS-CoV-2.
 
-
+    - quotes
+      !a
 
     / April, 2020 - bioRxiv
-    quote !a = Altogether, these data reflect clinical features of SARS-CoV-2 and SARS-CoV and subsequently, their associated human-to-human transmission efficiencies. They provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics.
+    quote !a = SARS-CoV-2, in contrast to SARS-CoV, replicated more efficiently at temperatures encountered in the upper respiratory tract, and displayed higher sensitivity to type I and type III IFNs than SARS-CoV.
+
+    # / April, 2020 - bioRxiv
+    # quote !b = Altogether, these data reflect clinical features of SARS-CoV-2 and SARS-CoV and subsequently, their associated human-to-human transmission efficiencies. They provide crucial insights of the profound impact of ambient temperatures on viral replication and associated pivotal virus - host interaction dynamics.
 
 
   # DEDUPE(Liu_et_al_2020bb)
   # Aerosol, Nosocomial, airborne, toilet
+  @@ZhiNingS
   // Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals
   doi: https://doi.org/10.1038/s41586-020-2271-3
   ref 'Liu_et_al_2020bb
@@ -3337,25 +3346,18 @@ feed April2020
   // The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement
   doi: https://doi.org/10.1101/2020.04.10.036418
   ref 'Quinlan_et_al_2020
-    head = Importantly, anti-sera from immunized animals did not mediate antibody-dependent enhancement (ADE) of S-protein-mediated entry under conditions in which Zika virus ADE was readily observed. These data suggest that an RBD-based vaccine for SARS-CoV-2 could be safe and effective, With no-ADE response from an RBD antigen vaccination.
+    head = We show that immunization with the SARS-CoV-2 RBD elicits a robust neutralizing antibody response in rodents, comparable to 100 µg/ml of ACE2-Ig, a potent SARS-CoV-2 entry inhibitor. Importantly, anti-sera from immunized animals did not mediate antibody-dependent enhancement (ADE) of S-protein-mediated entry under conditions in which Zika virus ADE was readily observed.
+
+    > Abstract
+      The SARS-coronavirus 2 (SARS-CoV-2) spike (S) protein mediates entry of SARS-CoV-2 into cells expressing the angiotensin-converting enzyme 2 (ACE2). The S protein engages ACE2 through its receptor-binding domain (RBD), an independently folded 197-amino acid fragment of the 1273-amino acid S-protein protomer. Antibodies to the RBD domain of SARS-CoV (SARS-CoV-1), a closely related coronavirus which emerged in 2002-2003, have been shown to potently neutralize SARS-CoV-1 S-protein-mediated entry, and the presence of anti-RBD antibodies correlates with neutralization in SARS-CoV-2 convalescent sera. Here we show that immunization with the SARS-CoV-2 RBD elicits a robust neutralizing antibody response in rodents, comparable to 100 µg/ml of ACE2-Ig, a potent SARS-CoV-2 entry inhibitor. Importantly, anti-sera from immunized animals did not mediate antibody-dependent enhancement (ADE) of S-protein-mediated entry under conditions in which Zika virus ADE was readily observed. These data suggest that an RBD-based vaccine for SARS-CoV-2 could be safe and effective.
 
     - quotes
       !a
-      !b
-      !c
-      !d
+
+
 
     / April, 2020 - bioRxiv
-    quote !a = We conclude that the SARS-CoV-2 RBD can elicit a neutralizing response in vaccinated rats comparable to a 100 µg/ml (1 µM) concentration of an inhibitor with a 1 nM IC50.
-
-    / April, 2020 - bioRxiv
-    quote !b = The ability of each pooled serum to displace ACE2-rIg correlated with its ability to neutralize SARS2-PV. Specifically, day-40 sera displaced ACE2-rIg more efficiently than preimmune sera containing 100 µg/ml ACE2-Ig, and day-15 sera displaced ACE2-rIg more efficiently than preimmune sera containing 10 µg/ml ACE2-Ig. Thus immunization with SARSCoV-2 RBD elicits antibodies that potently neutralize S-protein mediated entry by directly binding the S protein.
-
-    / April, 2020 - bioRxiv
-    quote !c = Day-40 sera did not enhance entry SARS-PV entry, but rat anti-ZIKV antisera again robustly promoted ZIKV-VLP infection (Figure 3E and 3F). Collectively the data of Figure 3 suggest that antibodies elicited by an RBD-based vaccine are likely to neutralize more efficiently than they would mediate ADE
-
-    / April, 2020 - bioRxiv
-    quote !d = Given the exposure of this key neutralizing epitope, the ease with which this compact domain can be produced and presented, and its clear immunogenicity, we propose that the RBD be considered asa key component of any SARS-CoV-2 vaccine strategy.
+    quote !a = We propose that the RBD be considered as a key component of any SARS-CoV-2 vaccine strategy.
 
 
   # Tag - Serological assay, testing

@@ -103,7 +103,7 @@ feed September2020
   // SARS-CoV-2 viral load peaks prior to symptom onset: a systematic review and individual-pooled analysis of coronavirus viral load from 66 studies
   doi: https://doi.org/10.1101/2020.09.28.20202028
   ref 'Benefield_et_al_09_30_2020
-    head = SARS-CoV-2 viral load peaks prior to symptom onset and remains elevated for up to three weeks, while MERS-CoV and SARS-CoV viral loads peak after symptom onset. SARS-CoV-2, MERS-CoV, and SARS-CoV had median viral shedding durations of 4.8, 4.2, and 1.2 days after symptom onset. Disease severity, age, and specimen type all have an effect on viral load, but sex does not.
+    head = We analyzed viral load trajectories using a series of generalized additive models, and the duration of viral shedding by fitting log-normal models accounting for interval censoring.
 
     > Background:
       Since the emergence of COVID-19, tens of millions of people have been infected, and the global death toll approached 1 million by September 2020. Understanding the transmission dynamics of emerging pathogens, such as SARS-CoV-2 and other novel human coronaviruses is imperative in designing effective control measures. Viral load contributes to the transmission potential of the virus, but findings around the temporal viral load dynamics, particularly the peak of transmission potential, remain inconsistent across studies due to limited sample sizes.
@@ -114,9 +114,15 @@ feed September2020
     > Discussion:
       Using a pooled analysis of the largest collection of IPD on viral load to date, we are the first to report that SARS-CoV-2 viral load peaks prior to not at symptom onset. Detailed estimation of the trajectories of viral load and virus shedding can inform the transmission, mathematical modeling, and clinical implications of SARS-CoV-2, MERS, and SARS infection.
 
+    - quotes
+      !a
+      !b
 
     / September, 2020 - medRxiv
-    quote !a =
+    quote !a = SARS-CoV-2 viral load peaks prior to symptom onset and remains elevated for up to three weeks, while MERS-CoV and SARS-CoV viral loads peak after symptom onset.
+
+    / September, 2020 - medRxiv
+    quote !b = SARS-CoV-2, MERS-CoV, and SARS-CoV had median viral shedding durations of 4.8, 4.2, and 1.2 days after symptom onset. Disease severity, age, and specimen type all have an effect on viral load, but sex does not.
 
   #  Hydroxychloroquine Prophylaxis
   // Randomized Controlled Trials of Early Ambulatory Hydroxychloroquine in the Prevention of COVID-19 Infection, Hospitalization, and Death: Meta-Analysis

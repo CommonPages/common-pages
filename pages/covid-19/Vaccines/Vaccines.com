@@ -104,26 +104,60 @@ subject module Vaccines
   / Frontiers
   subject Vaccinefrontiers
     head =
+    ## Targeting Spike and N Protien should be the aim for vaccines
+    -
+      'Kames_et_al_2020
+      'Kames_et_al_2020.!a
+    ## Anti S protien
+    -
+      'Brouwer_et_al_06_10_2020
+      'Brouwer_et_al_06_10_2020.!a
+    ## antibody n3130 - Anti SARS-CoV-2 RBD and S1
     -
       'Wu_et_al_2020b
-      'Kames_et_al_2020
-      'Peeples_et_al_2020
+      'Wu_et_al_2020b.!a
+    ## Anti Sars-Cov-2 RBD
+    -
       'Quinlan_et_al_2020
+      'Quinlan_et_al_2020.!a
+    # RBD specific will be helpful in neutralizing the virus
+    -
+      'Robbiani_et_al_05_22_2020
+      'Robbiani_et_al_05_22_2020.!a
+    -
+      'Rogers_et_al_06_11_2020
+      'Rogers_et_al_06_11_2020.!a
+    ## Monoclonal antibodies against RBD for MERS
+    -
+      'Wan_et_al_2019
+      'Wan_et_al_2019.!a
+      'Wan_et_al_2019.!b
+    ## Several scientists have raised concern towards immune complications that could happen by use of vaccines
+    -
+      'Peeples_et_al_2020
+    ## Concern towards suboptimal immune response (ADE - Antibody enhancement)
+    -
       'Iwasaki_et_al_2020
       'Iwasaki_et_al_2020.!a
-      'Wan_et_al_2019
-      'Wan_et_al_2019.!f
+    ## Understanding T Cell response via disease and vaccines
+    -
+      'Grifoni_et_al_05_04_2020
       'Grifoni_et_al_05_04_2020.!a
       'Grifoni_et_al_05_04_2020.!b
+    ## Vaccine should also increase incubation period which helps in reducing disease severity
+    -
       'Kaslow_et_al_05_07_2020
+      'Kaslow_et_al_05_07_2020.!a
+    ## Using rVSV-SARS-CoV-2 S for the development of spike-specific vaccines (vesicular stomatitis virus)
+    -
       'Dieterle_et_al_05_20_2020
-      'Weng_et_al_05_19_2020
-      'Robbiani_et_al_05_22_2020
-      'Lv_et_al_06_02_2020
-      'Brouwer_et_al_06_10_2020
-      'Rogers_et_al_06_11_2020
+      'Dieterle_et_al_05_20_2020.!a
+    ## Mutations can yield antibody resistance
+    -
       'Baum_et_al_06_11_2020
-      'Robbiani_et_al_06_18_2020
+      'Baum_et_al_06_11_2020.!a
+    ## Concern towards deleted Mutation for attenuated vaccines
+    -
       'Lau_et_al_05_04_2020
       'Liu_et_al_06_16_2020
 

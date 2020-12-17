@@ -211,7 +211,7 @@ feed June2020
   // SARS-CoV-2 in environmental samples of quarantined households
   doi: https://doi.org/10.1101/2020.05.28.20114041
   ref 'Döhla_et_al_06_02_2020
-    head = The domestic environment predominantly does not seem to pose a high risk for transmission of SARS-CoV-2. Surfaces in the domestic environment did not show a high contamination rate, whereas the detection of viral RNA in wastewater of washbasins, showers and toilets showed a significantly higher contamination with SARS-CoV-2.
+    head = The aim of this study was to investigate the whereabouts of the virus and whether useful precautions to prevent the dissemination can be given. 21 households under quarantine conditions were randomly selected for this study. Air, wastewater samples and surface swabs were obtained and analysed by RT-PCR.
 
     > Abstract
       The role of environmental transmission of SARS-CoV-2 remains unclear. Particularly the close contact of persons living together or cohabitating in domestic quarantine could result in high risk for exposure to the virus within the households. Therefore, the aim of this study was to investigate the whereabouts of the virus and whether useful precautions to prevent the dissemination can be given. 21 households under quarantine conditions were randomly selected for this study. All persons living in each household were recorded in terms of age, sex and time of household quarantine. Throat swabs for analysis were obtained from all adult individuals and most of the children. Air, wastewater samples and surface swabs (commodities) were obtained and analysed by RT-PCR. Positive swabs were cultivated to analyse for viral infectivity. 26 of all 43 tested adults (60.47 %) tested positive by RT-PCR. All 15 air samples were PCR-negative. 10 of 66 wastewater samples were positive for SARS-CoV-2 (15.15 %) as well as 4 of 119 object samples (3.36 %). No statistically significant correlation between PCR-positive environmental samples and the extent of infection spread inside the household could be observed. No infectious virus could be isolated under cell culture conditions. As we cannot rule out transmission through surfaces, hygienic behavioural measures are important in the households of SARS-CoV-2 infected individuals to avoid potential transmission through surfaces. The role of the domestic environment, in particular the wastewater load in washbasins and showers, in the transmission of SARS CoV-2 should be further clarified.
@@ -220,7 +220,7 @@ feed June2020
       !a
 
     / June, 2020 - medRxiv
-    quote !a =
+    quote !a = No statistically significant correlation between PCR-positive environmental samples and the extent of infection spread inside the household could be observed.
 
 
   # Close contact . Indirect Tranmission
@@ -847,7 +847,7 @@ feed June2020
   // Prevalence of IgG antibodies to SARS-CoV-2 in Wuhan - implications for the ability to produce long-lasting protective antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.06.13.20130252
   ref 'Liu_et_al_06_16_2020
-    head = Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. More than 10% of COVID-19 patients did not have those antibodies after 21 days post symptom onset. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
+    head = This study was to explore to explore the outcomes of IgG antibodies to SARS-CoV-2 in four groups of individuals in Wuhan, China.
 
     > Background
       It is to be determined whether people infected with SARS-CoV-2 will develop long-term immunity against SARS-CoV-2 and retain long-lasting protective antibodies after the infection is resolved. This study was to explore to explore the outcomes of IgG antibodies to SARS-CoV-2 in four groups of individuals in Wuhan, China.
@@ -861,23 +861,21 @@ feed June2020
     > Conclusions
       Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
 
+
     - quotes
       !a
-      !b
-      !c
-      !d
 
     / June, 2020 - medRxiv
-    quote !a = IgG prevalence was 89.8% in COVID-19 patients, 4.0% in healthcare providers, 4.6 in general workers, and 1.0% in other patients (p all <0.001 for comparisons with COVID-19 patients).
+    quote !a = Very few healthcare providers had IgG antibodies to SARS-CoV-2, though a significant proportion of them had been infected with the virus. After SARS-CoV-2 infection, people are unlikely to produce long-lasting protective antibodies against this virus.
 
-    / June, 2020 - medRxiv
-    quote !b = IgG prevalence increased significantly by age among healthcare workers, and was 2.8% in those <30 years old, 9.6% in those 60-69 years old and 10.0% in those ≥70 years old (p<0.001 for trend). IgG prevalence also increased significantly by age among general workers.
-
-    / June, 2020 - medRxiv
-    quote !c = Prevalence of IgM antibodies to SARS-CoV-2 was 31.4% in COVID-19 patients, 1.5% in healthcare providers, 1.3% in general workers, and 0.2% in other patients.
-
-    / June, 2020 - medRxiv
-    quote !d = Mortality rate was 1.3% in those with IgG antibodies to SARS-CoV-2 and was 3.3% in those without. Mortality risks were similar between hospitalized COVID19 patients with IgG antibodies to SARS-CoV-2 and those without, which indicates that absence of IgG antibodies may not affect clinical end outcome and IgG antibodies may even not be part of short-term protective immune response against SARS-CoV-2.
+    # / June, 2020 - medRxiv
+    # quote !b = IgG prevalence increased significantly by age among healthcare workers, and was 2.8% in those <30 years old, 9.6% in those 60-69 years old and 10.0% in those ≥70 years old (p<0.001 for trend). IgG prevalence also increased significantly by age among general workers.
+    #
+    # / June, 2020 - medRxiv
+    # quote !c = Prevalence of IgM antibodies to SARS-CoV-2 was 31.4% in COVID-19 patients, 1.5% in healthcare providers, 1.3% in general workers, and 0.2% in other patients.
+    #
+    # / June, 2020 - medRxiv
+    # quote !d = Mortality rate was 1.3% in those with IgG antibodies to SARS-CoV-2 and was 3.3% in those without. Mortality risks were similar between hospitalized COVID19 patients with IgG antibodies to SARS-CoV-2 and those without, which indicates that absence of IgG antibodies may not affect clinical end outcome and IgG antibodies may even not be part of short-term protective immune response against SARS-CoV-2.
 
 
 
@@ -1260,16 +1258,17 @@ feed June2020
   // Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
   doi: https://doi.org/10.1126/science.abd0831
   ref 'Baum_et_al_06_11_2020
-    head = Novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
+    head = We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population.
+
 
     > Abstract
       Antibodies targeting the spike protein of SARS-CoV-2 present a promising approach to combat the COVID19 pandemic; however, concerns remain that mutations can yield antibody resistance. We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population. However, novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
 
-    # - quotes
-    #   !a
-    #
-    # / June, 2020 - American Association for the Advancement of Science
-    # quote !a =
+    - quotes
+      !a
+
+    / June, 2020 - American Association for the Advancement of Science
+    quote !a = Novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
 
 
   # FaceMask, mathematical modeling
@@ -1304,6 +1303,7 @@ feed June2020
 
 
   # Airborne Transmission
+  @@JianxinMa
   // Exhaled breath is a significant source of SARS-CoV-2 emission
   doi: https://doi.org/10.1101/2020.05.31.20115154
   ref 'Ma_et_al_06_02_2020
@@ -1336,6 +1336,7 @@ feed June2020
 
 
   # Airborne Tranmission
+  @@AdriaanBax
   // The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission
   doi: https://doi.org/10.1073/pnas.2006874117
   ref 'Stadnytskyi_et_al_06_02_2020
@@ -1434,7 +1435,7 @@ feed June2020
   // Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event
   doi: https://doi.org/10.1101/2020.06.15.20132027
   ref 'Miller_et_al_06_18_2020
-    head = This modeling analysis has explored the very probable situation in which transmission by inhaling respiratory aerosol that were released during singing caused a large COVID19 outbreak.
+    head = We report an outbreak occurred following attendance of a symptomatic index case at a regular weekly rehearsal. After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely.
 
     > Abstract
       During the 2020 COVID-19 pandemic, an outbreak occurred following attendance of a symptomatic index case at a regular weekly rehearsal on 10 March of the Skagit Valley Chorale (SVC). After that rehearsal, 53 members of the SVC among 61 in attendance were confirmed or strongly suspected to have contracted COVID-19 and two died. Transmission by the airborne route is likely. It is vital to identify features of cases such as this so as to better understand the factors that promote superspreading events. Based on a conditional assumption that transmission during this outbreak was by inhalation of respiratory aerosol, we use the available evidence to infer the emission rate of airborne infectious quanta from the primary source. We also explore how the risk of infection would vary with several influential factors: the rates of removal of respiratory aerosol by ventilation; deposition onto surfaces; and viral decay. The results indicate an emission rate of the order of a thousand quanta per hour (mean [interquartile range] for this event = 970 [680-1190] quanta per hour) and demonstrate that the risk of infection is modulated by ventilation conditions, occupant density, and duration of shared presence with an infectious individual.
@@ -1449,6 +1450,8 @@ feed June2020
     / June, 2020 - medRxiv
     quote !b = 53 of the 61 members of the SVC contracted COVID-19 and two died. One person is the presumed index case. Inhalation of respiratory aerosol most likely dominated infection transmission during this event
 
+    # / June, 2020 - medRxiv
+    # quote !a = Given the circumstances of the rehearsal, such a high secondary attack rate by the close-contact route would have necessitated effective transmission based largely on brief proximate encounters. That interpretation of the high attack rate in this event seems much less probable than the alternative explanation, i.e. that inhalation of infectious respiratory aerosol from “shared air” was the leading mode of transmission.
 
 
   # Face Mask - Humidity and deposition for viral inactivation, Resue, decontamination strategies for N95 respirators
@@ -1472,6 +1475,7 @@ feed June2020
 
 
   # Dispute not airborne
+  @@KwokYuen
   // Air and environmental sampling for SARS-CoV-2 around hospitalized patients with coronavirus disease 2019 (COVID-19)
   doi: https://doi.org/10.1017/ice.2020.282
   ref 'Cheng_et_al_06_08_2020
@@ -1767,7 +1771,7 @@ feed June2020
   // Olfactory transmucosal SARS-CoV-2 invasion as port of Central Nervous System entry in COVID-19 patients
   doi: https://doi.org/10.1101/2020.06.04.135012
   ref 'Meinhardt_et_al_06_04_2020
-    head = SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
+    head = By precisely investigating and anatomically mapping oro- and pharyngeal regions and brains of 32 patients dying from COVID-19, we not only describe CNS infarction due to cerebral thromboembolism, but also demonstrate SARS-CoV-2 neurotropism.
 
     > Abstract
       The newly identified severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes COVID-19, a pandemic respiratory disease presenting with fever, cough, and often pneumonia. Moreover, thromboembolic events throughout the body including the central nervous system (CNS) have been described. Given first indication for viral RNA presence in the brain and cerebrospinal fluid and in light of neurological symptoms in a large majority of COVID-19 patients, SARS-CoV-2-penetrance of the CNS is likely. By precisely investigating and anatomically mapping oro- and pharyngeal regions and brains of 32 patients dying from COVID-19, we not only describe CNS infarction due to cerebral thromboembolism, but also demonstrate SARS-CoV-2 neurotropism. SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
@@ -1775,44 +1779,49 @@ feed June2020
     - quotes
       !a
       !b
-      !c
-      !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
+      # !c
+      # !d
+      # !e
+      # !f
+      # !g
+      # !h
+      # !i
+      # !j
 
     / June, 2020 - bioRxiv
-    quote !a = Out of 32 COVID-19 autopsy cases, either proven to be RT-qPCR-positive for SARS-CoV-2 prior to death (N=29 of 32), or with clinical presentation highly suggestive of COVID-19 (N=3 of 32), four patients (corresponding to 13%) presented with acute infarction due to ischemia caused by (micro)thrombotic/thromboembolic events within the CNS. Similarly, microthrombotic events were also detectable in the olfactory mucosa.
+    quote !a = SARS-CoV-2 enters the nervous system via trespassing the neuro-mucosal interface in the olfactory mucosa by exploiting the close vicinity of olfactory mucosal and nervous tissue including delicate olfactory and sensitive nerve endings. Subsequently, SARS-CoV-2 follows defined neuroanatomical structures, penetrating defined neuroanatomical areas, including the primary respiratory and cardiovascular control center in the medulla oblongata.
 
+    #
     / June, 2020 - bioRxiv
-    quote !b = Assessment of viral load by means of RT-qPCR in regionally well-defined tissue samples including olfactory mucosa (region (R1), olfactory bulb (R2), oral mucosa (uvula; R3), trigeminal ganglion (R4) and medulla oblongata (R5) demonstrated highest levels of SARS-CoV-2 copies per cell within the olfactory mucosa sampled directly beneath the cribriform plate (N=13 of 22). Lower levels of viral RNA were found in the cornea, conjunctiva and oral mucosa, highlighting the oral and ophthalmic routes as additional potential sites of SARS-CoV-2 CNS entry. Only in few cases the cerebellum was also positive (N=2 of 21), while the wall of the internal carotid artery, which served as an internal negative control, was found to be negative in all investigated cases.
+    quote !b = Out of 32 COVID-19 autopsy cases, either proven to be RT-qPCR-positive for SARS-CoV-2 prior to death (N=29 of 32), or with clinical presentation highly suggestive of COVID-19 (N=3 of 32), four patients (corresponding to 13%) presented with acute infarction due to ischemia caused by (micro)thrombotic/thromboembolic events within the CNS. Similarly, microthrombotic events were also detectable in the olfactory mucosa.
 
-    / June, 2020 - bioRxiv
-    quote !c = Patients with shorter disease duration were more likely to be tested positive for viral RNA in the CNS tissue.
-
-    / June, 2020 - bioRxiv
-    quote !d = The anatomical proximity between neurons, nerve fibers and mucosa within the oro- and nasopharynx and the reported clinical-neurological signs related to alteration in smell and taste perception suggest that SARS-CoV-2 exploits this neuro-mucosal interface as port of CNS entry. On the apical side of the olfactory mucosa, dendrites of olfactory receptor neurons (ORNs) project into the nasal cavity, while on the basal side axons of olfactory receptor neurons merge into fila, which protrude through the cribriform plate directly into the olfactory bulb, thereby also having contact with the CSF.
-
-    / June, 2020 - bioRxiv
-    quote !e = Cells of the olfactory mucosa showed strong immunoreactivity in a characteristic perinuclear pattern when an antibody against the SARS-CoV spike protein was used. Furthermore, early activated macrophages formed small cell clusters in the epithelium expressing myeloid-related protein 14 (MRP14), initiating and regulating an immune cascade, which e.g. upon influenza virus infection, has been shown to orchestrate virus-associated inflammation by acting as endogenous damage-associated molecular pattern (DAMP), ultimately initiating TLR4-MyD88 signalling.
-
-    / June, 2020 - bioRxiv
-    quote !f = Additional support for SARS-CoV-2 persistence was provided by ultrastructural analyses of ultrathin sections. We found Coronavirus-like particles – despite subtle ultrastructural differences compared to coronavirus derived from infected cell cultures providing a somewhat different milieu - fulfilling the criteria of size, shape, substructure (membrane, surface projections and internal electron dense material, resembling ribonucleoprotein) and intracellular localization of Coronavirus particles, while being clearly distinct from intrinsic cellular structures resembling Coronavirus particles
-
-    / June, 2020 - bioRxiv
-    quote !g = The presence of genuine virus in the olfactory mucosa with its delicate olfactory and sensitive – partially axonally damaged nerves in conjunction with SARS CoV-2 RNA manifestation preferentially in those neuroanatomical areas receiving olfactory tract projections may speak in favor of SARS-CoV-2 neuroinvasion occurring via axonal transport. However, several other mechanisms or routes, including transsynaptic transfer across infected neurons, infection of vascular endothelium, or leukocyte migration across the blood-brain barrier (BBB), or combinations thereof, be it in addition or exclusive, cannot be excluded at present.
-
-    / June, 2020 - bioRxiv
-    quote !h = The detection of - compared to values measured in the lower respiratory tract - persistently high levels of SARS-CoV-2 RNA in the olfactory mucosa (124% as mean value compared to lower respiratory tract) up to 53 days after initial symptoms, including the detection of sgRNA suggests that olfactory mucosa remains a region of continuous SARS-CoV-2 replication and persistence, thus enabling a constant viral replenishment for the CNS.
-
-    / June, 2020 - bioRxiv
-    quote !i = In line with our findings there is a comparable SARS-CoV-2 infection gradient from the nose to the lungs which is paralleled by expression of the receptor molecule ACE228. Although this remains to be speculation and widespread dysregulation of homeostasis of cardiovascular, pulmonal and renal systems has to be regarded as the leading cause in fatal COVID-19 cases, previous findings of SARS-CoV infection and other coronaviruses in the nervous system as well as the herein described presence of SARS-CoV-2 RNA in the medulla oblongata comprising the primary respiratory and cardiovascular control center bring to mind the possibility that SARS-CoV2  infection, at least in some instances, can aggravate respiratory or cardiac problems - or even cause failure - in a CNS-mediated manner.
-
-     / June, 2020 - bioRxiv
-     quote !j = Even when following distinct routes upon first CNS entry and - based on our findings - in the absence of clear signs of widespread distribution of SARS-CoV-2 in the CNS (i.e. no signs of meningitis/encephalitis in COVID-19 cases), it cannot be excluded that the virus may spread more widely to other brain regions, thus eventually contributing to a more severe or even chronic disease course, depending on various factors such as the time of virus persistence, viral load, and immune status, amongst others.
+    #
+    # / June, 2020 - bioRxiv
+    # quote !b = Assessment of viral load by means of RT-qPCR in regionally well-defined tissue samples including olfactory mucosa (region (R1), olfactory bulb (R2), oral mucosa (uvula; R3), trigeminal ganglion (R4) and medulla oblongata (R5) demonstrated highest levels of SARS-CoV-2 copies per cell within the olfactory mucosa sampled directly beneath the cribriform plate (N=13 of 22). Lower levels of viral RNA were found in the cornea, conjunctiva and oral mucosa, highlighting the oral and ophthalmic routes as additional potential sites of SARS-CoV-2 CNS entry. Only in few cases the cerebellum was also positive (N=2 of 21), while the wall of the internal carotid artery, which served as an internal negative control, was found to be negative in all investigated cases.
+    #
+    # / June, 2020 - bioRxiv
+    # quote !c = Patients with shorter disease duration were more likely to be tested positive for viral RNA in the CNS tissue.
+    #
+    # / June, 2020 - bioRxiv
+    # quote !d = The anatomical proximity between neurons, nerve fibers and mucosa within the oro- and nasopharynx and the reported clinical-neurological signs related to alteration in smell and taste perception suggest that SARS-CoV-2 exploits this neuro-mucosal interface as port of CNS entry. On the apical side of the olfactory mucosa, dendrites of olfactory receptor neurons (ORNs) project into the nasal cavity, while on the basal side axons of olfactory receptor neurons merge into fila, which protrude through the cribriform plate directly into the olfactory bulb, thereby also having contact with the CSF.
+    #
+    # / June, 2020 - bioRxiv
+    # quote !e = Cells of the olfactory mucosa showed strong immunoreactivity in a characteristic perinuclear pattern when an antibody against the SARS-CoV spike protein was used. Furthermore, early activated macrophages formed small cell clusters in the epithelium expressing myeloid-related protein 14 (MRP14), initiating and regulating an immune cascade, which e.g. upon influenza virus infection, has been shown to orchestrate virus-associated inflammation by acting as endogenous damage-associated molecular pattern (DAMP), ultimately initiating TLR4-MyD88 signalling.
+    #
+    # / June, 2020 - bioRxiv
+    # quote !f = Additional support for SARS-CoV-2 persistence was provided by ultrastructural analyses of ultrathin sections. We found Coronavirus-like particles – despite subtle ultrastructural differences compared to coronavirus derived from infected cell cultures providing a somewhat different milieu - fulfilling the criteria of size, shape, substructure (membrane, surface projections and internal electron dense material, resembling ribonucleoprotein) and intracellular localization of Coronavirus particles, while being clearly distinct from intrinsic cellular structures resembling Coronavirus particles
+    #
+    # / June, 2020 - bioRxiv
+    # quote !g = The presence of genuine virus in the olfactory mucosa with its delicate olfactory and sensitive – partially axonally damaged nerves in conjunction with SARS CoV-2 RNA manifestation preferentially in those neuroanatomical areas receiving olfactory tract projections may speak in favor of SARS-CoV-2 neuroinvasion occurring via axonal transport. However, several other mechanisms or routes, including transsynaptic transfer across infected neurons, infection of vascular endothelium, or leukocyte migration across the blood-brain barrier (BBB), or combinations thereof, be it in addition or exclusive, cannot be excluded at present.
+    #
+    # / June, 2020 - bioRxiv
+    # quote !h = The detection of - compared to values measured in the lower respiratory tract - persistently high levels of SARS-CoV-2 RNA in the olfactory mucosa (124% as mean value compared to lower respiratory tract) up to 53 days after initial symptoms, including the detection of sgRNA suggests that olfactory mucosa remains a region of continuous SARS-CoV-2 replication and persistence, thus enabling a constant viral replenishment for the CNS.
+    #
+    # / June, 2020 - bioRxiv
+    # quote !i = In line with our findings there is a comparable SARS-CoV-2 infection gradient from the nose to the lungs which is paralleled by expression of the receptor molecule ACE228. Although this remains to be speculation and widespread dysregulation of homeostasis of cardiovascular, pulmonal and renal systems has to be regarded as the leading cause in fatal COVID-19 cases, previous findings of SARS-CoV infection and other coronaviruses in the nervous system as well as the herein described presence of SARS-CoV-2 RNA in the medulla oblongata comprising the primary respiratory and cardiovascular control center bring to mind the possibility that SARS-CoV2  infection, at least in some instances, can aggravate respiratory or cardiac problems - or even cause failure - in a CNS-mediated manner.
+    #
+    #  / June, 2020 - bioRxiv
+    #  quote !j = Even when following distinct routes upon first CNS entry and - based on our findings - in the absence of clear signs of widespread distribution of SARS-CoV-2 in the CNS (i.e. no signs of meningitis/encephalitis in COVID-19 cases), it cannot be excluded that the virus may spread more widely to other brain regions, thus eventually contributing to a more severe or even chronic disease course, depending on various factors such as the time of virus persistence, viral load, and immune status, amongst others.
 
 
   # neuropilins are emerging targets- research and treatment of COVID-19, viral entry, therapeutic frontier

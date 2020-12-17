@@ -59,6 +59,7 @@ subject module Disease
 
     question ?Recovery = What is known about the statistical distribution of recovery time?
 
+  seo: symptoms
   / Course
   // Symptoms, Complications and Consequences
   subject Course
@@ -90,7 +91,10 @@ subject module Disease
         'Chen_et_al_2020d
         'Ragona_et_al_2020
         'Zubair_et_al_05_29_2020
+      -
         'Meinhardt_et_al_06_04_2020
+        'Meinhardt_et_al_06_04_2020.!b
+      -
         'Recalcati_et_al_2020
         'Joob_et_al_2020
         'Kluytmans_et_al_2020
@@ -123,6 +127,8 @@ subject module Disease
       claim !Pneumonia = Severe inflammation in the lungs is a common complication of COVID-19, and can lead to tissue damage.
         -
           'Subbarao_et_al_05_19_2020
+          'Subbarao_et_al_05_19_2020.!a
+        -
           'Li_et_al_2020b
           'Zheng_et_al_2020
           'Jiang_et_al_04_27_2020
@@ -534,6 +540,7 @@ subject module Disease
         claim !KeyFeature = A number of studies have proposed that exuberant inflammatory cytokine production is one of the defining and driving features of COVID-19.
           -
             'Melo_et_al_05_15_2020
+          -  
             'Subbarao_et_al_05_19_2020
             'Subbarao_et_al_05_19_2020.!c
 
@@ -648,7 +655,7 @@ subject module Disease
             'Zhang_et_al_2020g.!a
           -
             'Jiang_et_al_2020
-            'Robbiani_et_al_06_18_2020
+            'Robbiani_et_al_05_22_2020
             'Wu_et_al_2020b
             'To_et_al_05_20_2020.!a
 
@@ -658,7 +665,8 @@ subject module Disease
 
         claim !Potency = Independent evidence demonstrating the protective properties of the detected COVID-19 antibodies is growing.
           -
-            'Robbiani_et_al_06_18_2020
+            'Robbiani_et_al_05_22_2020
+            'Robbiani_et_al_05_22_2020.!a
             'Wu_et_al_2020b
 
         claim !Longevity = There are some reports of SARS-CoV-2 antibodies waning. Their longevity is still unknown. Antibodies to other coronaviruses are also known wane over time.
@@ -666,7 +674,9 @@ subject module Disease
           claim !Cv2Waning = There have been several reports already of the waning of neutralizing antibodies in SARS-CoV-2 patients.
             -
               'Liu_et_al_06_16_2020
-              'Robbiani_et_al_06_18_2020.!c
+              'Liu_et_al_06_16_2020.!a
+            -
+              'Robbiani_et_al_05_22_2020
               'Wu_et_al_04_20_2020b.!c
               'Seow_et_al_10_26_2020
               'Seow_et_al_10_26_2020.!a
@@ -780,6 +790,7 @@ subject module Disease
         'Braun_et_al_04_22_2020
         # -- Cross Reactive T-Cell via common cold coronavirus
         'Grifoni_et_al_05_04_2020
+        'Grifoni_et_al_05_04_2020.!c
         'Nelde_et_al_06_16_2020
         'Petrova_et_al_02_20_2012
         # # Cross Reactive T Cell

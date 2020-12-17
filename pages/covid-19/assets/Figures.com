@@ -60,7 +60,7 @@ space Figures
   image 'Figure_Face_Shield
 
   name: Figure:
-  url: https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/Covid__Replication.jpg
+  url: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41579-020-00468-6/MediaObjects/41579_2020_468_Fig1_HTML.png?as=webp
   width: 640
   height: 417
   caption: SARS-CoV-2 Replication
