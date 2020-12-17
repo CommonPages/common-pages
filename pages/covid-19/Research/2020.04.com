@@ -2213,7 +2213,7 @@ feed April2020
 
   # DEDUPE(Liu_et_al_2020bb)
   # Aerosol, Nosocomial, airborne, toilet
-  @@ZhiNingS
+  @@ZhiNing
   // Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals
   doi: https://doi.org/10.1038/s41586-020-2271-3
   ref 'Liu_et_al_2020bb

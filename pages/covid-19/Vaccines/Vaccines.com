@@ -163,8 +163,8 @@ subject module Vaccines
 
   subject VaccineNew
     head =
-   # That said, all of those vaccines in each of those cases are rather similar to each other, and we now have the unusual – very, very unusual – situation of several different vaccine platforms coming into potential use against the same virus at almost the same time. By the spring we may well have two mRNA vaccines (Pfizer/BioNTech and Moderna), two different adenovirus vaccines (Oxford/AZ and J&J), and a recombinant protein vaccine (Novavax). We don’t have efficacy data on the J&J and Novavax candidates yet (numbers are on the way), and we can argue about the data for Oxford/AZ, but it’s certainly possible that all of them will be out there simultaneously. Putting one of these on top of the other is a step into the unknown.
-   # https://blogs.sciencemag.org/pipeline/archives/2020/12/02/taking-two-different-vaccines
+    # That said, all of those vaccines in each of those cases are rather similar to each other, and we now have the unusual – very, very unusual – situation of several different vaccine platforms coming into potential use against the same virus at almost the same time. By the spring we may well have two mRNA vaccines (Pfizer/BioNTech and Moderna), two different adenovirus vaccines (Oxford/AZ and J&J), and a recombinant protein vaccine (Novavax). We don’t have efficacy data on the J&J and Novavax candidates yet (numbers are on the way), and we can argue about the data for Oxford/AZ, but it’s certainly possible that all of them will be out there simultaneously. Putting one of these on top of the other is a step into the unknown.
+    # https://blogs.sciencemag.org/pipeline/archives/2020/12/02/taking-two-different-vaccines
 
     subject Tozinameran
       head = Tozinameran (INN), codenamed BNT162b2 and more commonly known as the Pfizer COVID-19 vaccine, is a COVID-19 vaccine developed by BioNTech and manufactured and distributed by Pfizer, which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the spike protein of SARS-CoV-2, and is encapsulated in lipid nanoparticles. By December 2020, Tozinameran was under evaluation for emergency use authorisation for widespread use, by several global medicines regulators; emergency authorisation is required as the phase III trials are still ongoing, and monitoring the primary outcomes continues until August 2021, and the secondary outcomes to January 2023.
@@ -188,22 +188,21 @@ subject module Vaccines
       # https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-choose-lead-mrna-vaccine-candidate-0
 
 
-        claim !SafetyandImmunogenicity = Favorable safety profile was observed during phase 1 testing of BNT162b2, supporting the selection of BNT162b2 (30-μg dose level) for advancement to the phase 2–3, international trial to evaluate its safety and efficacy in participants 18 to 85 years of age.
+      claim !SafetyandImmunogenicity = Favorable safety profile was observed during phase 1 testing of BNT162b2, supporting the selection of BNT162b2 (30-μg dose level) for advancement to the phase 2–3, international trial to evaluate its safety and efficacy in participants 18 to 85 years of age.
 
-        # Comparison clinical data obtained after vaccination with BNT162b1, which encodes the RBD, with data obtained after vaccination with BNT162b2, which encodes the full-length spike supports the selection of BNT162b2 (30-μg dose level) for advancement to the phase 2–3, international trial to evaluate its safety and efficacy in participants 18 to 85 years of age.
-        #
-        # These results support selection of the BNT162b2 vaccine candidate for Phase 2/3 large−scale safety and efficacy evaluation, currently underway.
-          -
-            'Walsh_et_al_10_14_2020
-            'Walsh_et_al_10_14_2020.!a
-            'Walsh_et_al_10_14_2020.!b
+      # Comparison clinical data obtained after vaccination with BNT162b1, which encodes the RBD, with data obtained after vaccination with BNT162b2, which encodes the full-length spike supports the selection of BNT162b2 (30-μg dose level) for advancement to the phase 2–3, international trial to evaluate its safety and efficacy in participants 18 to 85 years of age.
+      #
+      # These results support selection of the BNT162b2 vaccine candidate for Phase 2/3 large−scale safety and efficacy evaluation, currently underway.
+        -
+          'Walsh_et_al_10_14_2020
+          'Walsh_et_al_10_14_2020.!a
+          'Walsh_et_al_10_14_2020.!b
 
 
       claim !Phase3 = First interim safety and efficacy data from phase 3 study (preliminary high-level results) showed more than 90% efficacy reported for the lipid nanoparticle mRNA vaccine BNT162b2. Pfizer and BioNTech announce vaccine candidate against COVID-19 achieved success in first interim analysis from phase 3 study.
 
-
-      # Randomized, placebo-controlled Positive results from an interim analysis were announced on 18 November 2020 and published on 10 December 2020 reporting an overall efficacy of 95%.
-      # https://www.fda.gov/media/144337/download
+        # Randomized, placebo-controlled Positive results from an interim analysis were announced on 18 November 2020 and published on 10 December 2020 reporting an overall efficacy of 95%.
+        # https://www.fda.gov/media/144337/download
 
         >
           First interim analysis from phase 3 study (preliminary high-level results) showed more than 90% efficacy reported for the lipid nanoparticle mRNA vaccine BNT162b2. Pfizer and BioNTech announce vaccine candidate against COVID-19 achieved success in first interim analysis from phase 3 study.
@@ -236,7 +235,7 @@ subject module Vaccines
         Viral vector
         The Oxford–AstraZeneca vaccine is made from a cold-causing adenovirus that was isolated from the stool of chimpanzees and modified so that it no longer replicates in cells. When injected, the vaccine instructs human cells to produce the SARS-CoV-2 spike protein — the immune system’s main target in coronaviruses. The vaccine entered phase III efficacy trials before other front runners, including Pfizer and Moderna, and trials are continuing in countries including the United States, South Africa, Japan and Russia. The 23 November analysis is based on 131 COVID-19 cases among more than 11,000 trial participants in the United Kingdom and Brazil, up to 4 November.
 
-         the Oxford–AstraZeneca vaccine could see wider roll-out than some other COVID-19 immunizations. The vaccine is stable at refrigerator temperatures, in contrast to the Pfizer and BioNTech vaccine, which must be stored at −70 ºC until hours before vaccination.
+        the Oxford–AstraZeneca vaccine could see wider roll-out than some other COVID-19 immunizations. The vaccine is stable at refrigerator temperatures, in contrast to the Pfizer and BioNTech vaccine, which must be stored at −70 ºC until hours before vaccination.
 
          Another lingering question is whether the vaccine is capable of fighting asymptomatic infections; an immunization that could do that could be key to shaping the course of the pandemic.
 
@@ -270,10 +269,10 @@ subject module Vaccines
 
       # Safetyandefficacy
       claim !Phase3Oxford–AstraZeneca = The first interim safety and efficacy data for a viral vector coronavirus vaccine: ChAdOx1 nCoV-19, evaluated in four trials across three continents, showing significant vaccine efficacy of 70·4% after two doses and protection of 64·1% after at least one standard dose, against symptomatic disease, with no safety concerns.
-      # We have previously reported on the local and systemic reactogenicity of ChAdOx1 nCoV-19 and shown that it is tolerated and that the side-effects are less both in intensity and number in older adults, with lower doses, and after the second dose.
-      # Preliminary data suggest that the immunization was more effective in trial participants who received a lower dose.
-      #
-      # The vaccine developed by the University of Oxford, UK, and pharmaceutical giant AstraZeneca was found to be, on average, 70% effective in a preliminary analysis of phase III trial data.But the analysis found a striking difference in efficacy depending on the amount of vaccine delivered to a participant. A regimen consisting of 2 full doses given a month apart seemed to be just 62% effective. But, surprisingly, participants who received a lower amount of the vaccine in the first dose and then the full amount in the second dose were 90% less likely to develop COVID-19 than were participants in the placebo arm.
+        # We have previously reported on the local and systemic reactogenicity of ChAdOx1 nCoV-19 and shown that it is tolerated and that the side-effects are less both in intensity and number in older adults, with lower doses, and after the second dose.
+        # Preliminary data suggest that the immunization was more effective in trial participants who received a lower dose.
+        #
+        # The vaccine developed by the University of Oxford, UK, and pharmaceutical giant AstraZeneca was found to be, on average, 70% effective in a preliminary analysis of phase III trial data.But the analysis found a striking difference in efficacy depending on the amount of vaccine delivered to a participant. A regimen consisting of 2 full doses given a month apart seemed to be just 62% effective. But, surprisingly, participants who received a lower amount of the vaccine in the first dose and then the full amount in the second dose were 90% less likely to develop COVID-19 than were participants in the placebo arm.
 
         -
           'Voysey_et_al_12_08_2020
@@ -291,11 +290,11 @@ subject module Vaccines
 
       claim !Reasoning2 = There had been initial concern that the LD/SD regimen might have lower efficacy than SD/SD, and the regulatory authority acceptance of the inclusion of the two trial regimens (LD/SD and SD/SD) in analysis was based on the observation that these regimens generated similar levels of binding antibody, and would therefore increase the sample size available for analysis without compromising efficacy.
       # A reduced number or type of priming dose in infancy can lead to higher responses to a booster vaccine.
-      -
-        'Voysey_et_al_12_08_2020
-        'Voysey_et_al_12_08_2020.!b
-        'Ramasamy_et_al_11_18_2020
-        'Ramasamy_et_al_11_18_2020.!c
+        -
+          'Voysey_et_al_12_08_2020
+          'Voysey_et_al_12_08_2020.!b
+          'Ramasamy_et_al_11_18_2020
+          'Ramasamy_et_al_11_18_2020.!c
 
       # QUESTION: why the vaccine seems to have performed so much better with a lower first dose.
       claim !Reasoning3 = Potential dosing regimen explanations/ theories are given by researchers for why a lower first dose might have led to better protection against COVID-19.
@@ -319,9 +318,9 @@ subject module Vaccines
       >
         Janssen Pharmaceutica (Johnson & Johnson), BIDMC" is using non replicating viral vector. Trials are ongoing in  US, Argentina, Brazil, Chile, Colombia, Mexico, Peru, Philippines, South Africa and Ukraine
 
-     # Ongoing trials
-     # https://clinicaltrials.gov/ct2/show/NCT04436276
-     # https://clinicaltrials.gov/ct2/show/NCT04505722
+      # Ongoing trials
+      # https://clinicaltrials.gov/ct2/show/NCT04436276
+      # https://clinicaltrials.gov/ct2/show/NCT04505722
 
        # SafetyandImmunogenicity
       claim !Phase12Johnson&Johnson = Phase I–II (1,045): Seroconversion for S antibodies over 95%. Adverse effects: injection site pain, fatigue, headache and myalgia
@@ -346,8 +345,8 @@ subject module Vaccines
 
         >
           Though correlates of protection from SARS-CoV-2 infection have not yet been determined, measurement of serum neutralizing activity has been shown to be a mechanistic correlate of protection for other respiratory viruses, such as influenza and respiratory syncytial virus, and is generally accepted as a functional biomarker of the in vivo humoral response.
-        -
-          'Jackson_et_al_07_14_2020
+        # -
+        #   'Jackson_et_al_07_14_2020
 
         >
           In rhesus macaques given DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike protein, post-vaccination neutralizing antibody titers were correlated with protection against SARS-CoV-2 challenge.
@@ -363,7 +362,7 @@ subject module Vaccines
         >
           Tsang and colleagues [14] have recently reported similar results regarding the ability of MN and HAI titres to predict protection against infection in a large cohort of children and adults. They found that the age-adjusted HAI and MN titres corresponding to 50% protection against seasonal H3N2 influenza was 1:260 and 1:42, respectively.
         -
-          'Jackson_et_al_07_14_2020
+          # 'Jackson_et_al_07_14_2020
           'Verschoor_et_al_09_22_2016.!a
           'Verschoor_et_al_09_22_2016.!b
           'Tsang_et_al_03_26_2014.!a
@@ -430,15 +429,15 @@ subject module Vaccines
       # Increasing age and high pre-existing anti-Ad5 immunity were found to be able to significantly reduce the immune responses to the vaccine.
 
       claim !Reasoning1 = Pre-existing Ad5 immunity could slow down the rapid immune responses to SARS-CoV-2 and also lower the peak of the responses, particularly for humoral immunity. The high pre-existing Ad5 immunity might also have a negative effect on the persistence of the vaccine-elicited immune responses.
-      # Possible issues with using Adenovirus as vaccine vectors include: the human body develops immunity to the vector itself, making subsequent booster shots difficult or impossible. In some cases, people have pre-existing immunity to Adenoviruses, making vector delivery ineffective
-      #
-      # One of the main issues limiting the use of vectors based on Ad5 is widespread pre-existing immunity to Ad5.
-      #
-      # The main issue that can limit use of vectors based on recombinant adenoviruses is widespread pre-existing immunity in the human population.
+        # Possible issues with using Adenovirus as vaccine vectors include: the human body develops immunity to the vector itself, making subsequent booster shots difficult or impossible. In some cases, people have pre-existing immunity to Adenoviruses, making vector delivery ineffective
+        #
+        # One of the main issues limiting the use of vectors based on Ad5 is widespread pre-existing immunity to Ad5.
+        #
+        # The main issue that can limit use of vectors based on recombinant adenoviruses is widespread pre-existing immunity in the human population.
 
-      # Possible issues with using Adenovirus as vaccine vectors include: the human body develops immunity to the vector itself, making subsequent booster shots difficult or impossible
-      #
-      # The main issue that can limit use of vectors based on recombinant adenoviruses is widespread pre-existing immunity in the human population. After vaccination with an adenoviral vector, immune responses form not only to the target antigen but also to the vector proteins (particularly in case of pre-existing immunity).
+        # Possible issues with using Adenovirus as vaccine vectors include: the human body develops immunity to the vector itself, making subsequent booster shots difficult or impossible
+        #
+        # The main issue that can limit use of vectors based on recombinant adenoviruses is widespread pre-existing immunity in the human population. After vaccination with an adenoviral vector, immune responses form not only to the target antigen but also to the vector proteins (particularly in case of pre-existing immunity).
         -
           'Logunov_et_al_09_04_2020
           'Logunov_et_al_09_04_2020.!d

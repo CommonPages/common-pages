@@ -1,67 +1,4 @@
 feed Sangeeta
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-
 
   #
   // ChAdOx1 nCoV-19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaques
@@ -1254,87 +1191,87 @@ feed Sangeeta
 
 
 
-    # DNA vaccine,
-    // Pre-existing immunity against Ad vectors Humoral, cellular, and innate response, what's important?
-    doi: https://doi.org/10.4161/hv.29594
-    ref 'Bovendo_et_al_11_01_2014
-      head = This review will first summarize the contributions of the different arms of the immune system toward pre-existing immunity against Ad vectors. Then, the mechanisms of evasion of the main strategies developed to circumvent pre-existing Ad immunity will be reviewed.
+  # DNA vaccine,
+  // Pre-existing immunity against Ad vectors Humoral, cellular, and innate response, what's important?
+  doi: https://doi.org/10.4161/hv.29594
+  ref 'Bovendo_et_al_11_01_2014
+    head = This review will first summarize the contributions of the different arms of the immune system toward pre-existing immunity against Ad vectors. Then, the mechanisms of evasion of the main strategies developed to circumvent pre-existing Ad immunity will be reviewed.
 
-      > Abstract
-        Pre-existing immunity against human adenovirus (HAd) serotype 5 derived vector in the human population is widespread, thus hampering its clinical use. Various components of the immune system, including neutralizing antibodies (nAbs), Ad specific T cells and type I IFN activated NK cells, contribute to dampening the efficacy of Ad vectors in individuals with pre-existing Ad immunity. In order to circumvent pre-existing immunity to adenovirus, numerous strategies, such as developing alternative Ad serotypes, varying immunization routes and utilizing prime-boost regimens, are under pre-clinical or clinical phases of development. However, these strategies mainly focus on one arm of pre-existing immunity. Selection of alternative serotypes has been largely driven by the absence in the human population of nAbs against them with little attention paid to cross-reactive Ad specific T cells. Conversely, varying the route of immunization appears to mainly rely on avoiding Ad specific tissue-resident T cells. Finally, prime-boost regimens do not actually circumvent pre-existing immunity but instead generate immune responses of sufficient magnitude to confer protection despite pre-existing immunity. Combining the above strategies and thus taking into account all components regulating pre-existing Ad immunity will help further improve the development of Ad vectors for animal and human use.
+    > Abstract
+      Pre-existing immunity against human adenovirus (HAd) serotype 5 derived vector in the human population is widespread, thus hampering its clinical use. Various components of the immune system, including neutralizing antibodies (nAbs), Ad specific T cells and type I IFN activated NK cells, contribute to dampening the efficacy of Ad vectors in individuals with pre-existing Ad immunity. In order to circumvent pre-existing immunity to adenovirus, numerous strategies, such as developing alternative Ad serotypes, varying immunization routes and utilizing prime-boost regimens, are under pre-clinical or clinical phases of development. However, these strategies mainly focus on one arm of pre-existing immunity. Selection of alternative serotypes has been largely driven by the absence in the human population of nAbs against them with little attention paid to cross-reactive Ad specific T cells. Conversely, varying the route of immunization appears to mainly rely on avoiding Ad specific tissue-resident T cells. Finally, prime-boost regimens do not actually circumvent pre-existing immunity but instead generate immune responses of sufficient magnitude to confer protection despite pre-existing immunity. Combining the above strategies and thus taking into account all components regulating pre-existing Ad immunity will help further improve the development of Ad vectors for animal and human use.
 
-      - quotes
-        !a
-        !b
-        !c
-        !d
-        !e
-        !f
-        !g
-        !h
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !a = Adenovirus (Ad) derived vectors have been shown to successfully elicit strong cellular and humoral immune responses in rodents, non-human primates (NHP) as well as in humans after a single injection. In preclinical studies, among all human Ad vectors tested, those derived from human adenovirus serotype 5 (HAd5) have emerged as the gold standard for immunization due to their superior immunogenicity. However, although HAd5 vectors were highly efficacious in pre-clinical studies, they did not perform as anticipated in clinical trials due to pre-existing HAd5 immunity in the participants from natural exposure.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !a = Adenovirus (Ad) derived vectors have been shown to successfully elicit strong cellular and humoral immune responses in rodents, non-human primates (NHP) as well as in humans after a single injection. In preclinical studies, among all human Ad vectors tested, those derived from human adenovirus serotype 5 (HAd5) have emerged as the gold standard for immunization due to their superior immunogenicity. However, although HAd5 vectors were highly efficacious in pre-clinical studies, they did not perform as anticipated in clinical trials due to pre-existing HAd5 immunity in the participants from natural exposure.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !b = Adenoviruses are some of the pathogens that can cause the common cold and a significant proportion of the human population have antibodies against these viruses due to past infections naturally acquired in the community, notably during childhood. These natural exposures can be responsible for long-lasting immunity (pre-existing immunity) that can interfere with HAd-based vaccines.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !b = Adenoviruses are some of the pathogens that can cause the common cold and a significant proportion of the human population have antibodies against these viruses due to past infections naturally acquired in the community, notably during childhood. These natural exposures can be responsible for long-lasting immunity (pre-existing immunity) that can interfere with HAd-based vaccines.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !c = In a phase I trial, individuals with pre-existing HAd5 immunity mounted lower immune responses compared with participants without pre-existing immunity. Pre-existing immunity to HAd5 was even associated with undesirable effects beyond neutralization of the benefits intended from vaccination.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !c = In a phase I trial, individuals with pre-existing HAd5 immunity mounted lower immune responses compared with participants without pre-existing immunity. Pre-existing immunity to HAd5 was even associated with undesirable effects beyond neutralization of the benefits intended from vaccination.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !d = The negative impact of pre-existing HAd5 immunity was illustrated in the infamous STEP trial during which a lower frequency of individuals with high HAd5 Ab titers developed a cellular response to the transgenes (HIV Gag, Pol and Nef). Furthermore, pre-existing HAd5 immunity was associated with an increase in HIV acquisition in vaccinated participants in comparison to the placebo.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !d = The negative impact of pre-existing HAd5 immunity was illustrated in the infamous STEP trial during which a lower frequency of individuals with high HAd5 Ab titers developed a cellular response to the transgenes (HIV Gag, Pol and Nef). Furthermore, pre-existing HAd5 immunity was associated with an increase in HIV acquisition in vaccinated participants in comparison to the placebo.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !e = Pre-existing HAd5 immunity was not taken into account in pre-clinical studies as animals used in these studies, such as mice and NHPs, are not naturally infected by HAd5 or other human Ads.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !e = Pre-existing HAd5 immunity was not taken into account in pre-clinical studies as animals used in these studies, such as mice and NHPs, are not naturally infected by HAd5 or other human Ads.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !f = In pre-clinical studies, alternating the immunization route has bypassed pre-existing Ad immunity. Immunization through the airway holds promise and may turn out to be a delivery method of choice for inducing potent and long lasting protective immune responses from an Ad vector.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !f = In pre-clinical studies, alternating the immunization route has bypassed pre-existing Ad immunity. Immunization through the airway holds promise and may turn out to be a delivery method of choice for inducing potent and long lasting protective immune responses from an Ad vector.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !g = The immune response generated by prime-boost regimens may be sufficient to induce full protection despite pre-existing Ad immunity. Developing prime-boost regimens using Ad vectors where limited to no nAbs or cross-reactive T cells in the target population should further increase the chance of success.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !g = The immune response generated by prime-boost regimens may be sufficient to induce full protection despite pre-existing Ad immunity. Developing prime-boost regimens using Ad vectors where limited to no nAbs or cross-reactive T cells in the target population should further increase the chance of success.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !h = Optimization of prime-boost regimens will be labor intensive due to the increasing number of available vaccine platforms. Useful data regarding the ability of prime-boost regimens to overcome pre-existing HAd immunity will certainly be generated by clinical trials involving ChAd/MVA prime-boost. Careful analysis of these trials should provide crucial protection information in the presence or absence of pre-existing Ad immunity.
-
-
-
-    # recombinant adenoviral vectors
-    // Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia.
-    doi: https://doi.org/10.1016/S0140-6736(20)31866-3
-    ref 'Logunov_et_al_09_04_2020
-      head = These findings of two open, phase 1/2 non-randomised studies of a heterologous prime-boost COVID-19 vaccine based on recombinant adenoviral vectors rAd26-S and rAd5-S show that the vaccine is safe, well tolerated, highly immunogenic and induces strong humoral and cellular immune responses in 100% of healthy participants. All reported adverse events were mostly mild.
-
-      > Background
-        We developed a heterologous COVID-19 vaccine consisting of two components, a recombinant adenovirus type 26 (rAd26) vector and a recombinant adenovirus type 5 (rAd5) vector, both carrying the gene for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike glycoprotein (rAd26-S and rAd5-S). We aimed to assess the safety and immunogenicity of two formulations (frozen and lyophilised) of this vaccine.
-
-      > Methods
-        We did two open, non-randomised phase 1/2 studies at two hospitals in Russia. We enrolled healthy adult volunteers (men and women) aged 18–60 years to both studies. In phase 1 of each study, we administered intramuscularly on day 0 either one dose of rAd26-S or one dose of rAd5-S and assessed the safety of the two components for 28 days. In phase 2 of the study, which began no earlier than 5 days after phase 1 vaccination, we administered intramuscularly a prime-boost vaccination, with rAd26-S given on day 0 and rAd5-S on day 21. Primary outcome measures were antigen-specific humoral immunity (SARS-CoV-2-specific antibodies measured by ELISA on days 0, 14, 21, 28, and 42) and safety (number of participants with adverse events monitored throughout the study). Secondary outcome measures were antigen-specific cellular immunity (T-cell responses and interferon-γ concentration) and change in neutralising antibodies (detected with a SARS-CoV-2 neutralisation assay). These trials are registered with ClinicalTrials.gov, NCT04436471 and NCT04437875.
-
-      > Findings
-        Between June 18 and Aug 3, 2020, we enrolled 76 participants to the two studies (38 in each study). In each study, nine volunteers received rAd26-S in phase 1, nine received rAd5-S in phase 1, and 20 received rAd26-S and rAd5-S in phase 2. Both vaccine formulations were safe and well tolerated. The most common adverse events were pain at injection site (44 [58%]), hyperthermia (38 [50%]), headache (32 [42%]), asthenia (21 [28%]), and muscle and joint pain (18 [24%]). Most adverse events were mild and no serious adverse events were detected. All participants produced antibodies to SARS-CoV-2 glycoprotein. At day 42, receptor binding domain-specific IgG titres were 14 703 with the frozen formulation and 11 143 with the lyophilised formulation, and neutralising antibodies were 49·25 with the frozen formulation and 45·95 with the lyophilised formulation, with a seroconversion rate of 100%. Cell-mediated responses were detected in all participants at day 28, with median cell proliferation of 2·5% CD4+ and 1·3% CD8+ with the frozen formulation, and a median cell proliferation of 1·3% CD4+ and 1·1% CD8+ with the lyophilised formulation.
-
-      > Interpretation
-        The heterologous rAd26 and rAd5 vector-based COVID-19 vaccine has a good safety profile and induced strong humoral and cellular immune responses in participants. Further investigation is needed of the effectiveness of this vaccine for prevention of COVID-19.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !h = Optimization of prime-boost regimens will be labor intensive due to the increasing number of available vaccine platforms. Useful data regarding the ability of prime-boost regimens to overcome pre-existing HAd immunity will certainly be generated by clinical trials involving ChAd/MVA prime-boost. Careful analysis of these trials should provide crucial protection information in the presence or absence of pre-existing Ad immunity.
 
 
-      - quotes
-        !a
-        !b
-        !c
-        !d
 
-      / September, 2020 - The Lancet
-      quote !a = The most common systemic and local reactions were pain at the injection site, hyperthermia (body temperature 37–38°C), headache, asthenia, and muscle and joint pain, which are typical for vaccines based on recombinant viral vectors. No serious adverse events were reported during the study.
+  # recombinant adenoviral vectors
+  // Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia.
+  doi: https://doi.org/10.1016/S0140-6736(20)31866-3
+  ref 'Logunov_et_al_09_04_2020
+    head = These findings of two open, phase 1/2 non-randomised studies of a heterologous prime-boost COVID-19 vaccine based on recombinant adenoviral vectors rAd26-S and rAd5-S show that the vaccine is safe, well tolerated, highly immunogenic and induces strong humoral and cellular immune responses in 100% of healthy participants. All reported adverse events were mostly mild.
 
-      / September, 2020 - The Lancet
-      quote !b = We showed that volunteers who received the heterologous rAd26 and rAd5 vaccine elicited the same titre of SARS-CoV-2 neutralising antibodies as did people who had recovered from COVID-19.
+    > Background
+      We developed a heterologous COVID-19 vaccine consisting of two components, a recombinant adenovirus type 26 (rAd26) vector and a recombinant adenovirus type 5 (rAd5) vector, both carrying the gene for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike glycoprotein (rAd26-S and rAd5-S). We aimed to assess the safety and immunogenicity of two formulations (frozen and lyophilised) of this vaccine.
 
-      / September, 2020 - The Lancet
-      quote !c = The vaccine showed 100% protectivity in a lethal model of SARS-CoV-2 challenge in immunosuppressed hamsters. No antibody-dependent enhancement of infection was seen in vaccinated and SARS-CoV-2-challenged animals.
+    > Methods
+      We did two open, non-randomised phase 1/2 studies at two hospitals in Russia. We enrolled healthy adult volunteers (men and women) aged 18–60 years to both studies. In phase 1 of each study, we administered intramuscularly on day 0 either one dose of rAd26-S or one dose of rAd5-S and assessed the safety of the two components for 28 days. In phase 2 of the study, which began no earlier than 5 days after phase 1 vaccination, we administered intramuscularly a prime-boost vaccination, with rAd26-S given on day 0 and rAd5-S on day 21. Primary outcome measures were antigen-specific humoral immunity (SARS-CoV-2-specific antibodies measured by ELISA on days 0, 14, 21, 28, and 42) and safety (number of participants with adverse events monitored throughout the study). Secondary outcome measures were antigen-specific cellular immunity (T-cell responses and interferon-γ concentration) and change in neutralising antibodies (detected with a SARS-CoV-2 neutralisation assay). These trials are registered with ClinicalTrials.gov, NCT04436471 and NCT04437875.
 
-      / September, 2020 - The Lancet
-      quote !d = Despite formation of neutralising antibodies to recombinant adenoviruses after vaccination with rAd26 and rAd5, formation of a humoral immune response to target antigen (SARS-CoV-2 glycoprotein S) in vaccinated volunteers was not affected. Moreover, neutralising antibodies to rAd26 did not neutralise rAd5 when serum samples from vaccinated volunteers were obtained and analysed 28 days after immunisation (and vice versa). Thus, use of a heterologous prime-boost immunisation, when rAd26-S is used for priming and rAd5-S is used for boosting, is an effective approach to elicit a robust immune response and to overcome the immune response that is formed to the components of a viral vector.
+    > Findings
+      Between June 18 and Aug 3, 2020, we enrolled 76 participants to the two studies (38 in each study). In each study, nine volunteers received rAd26-S in phase 1, nine received rAd5-S in phase 1, and 20 received rAd26-S and rAd5-S in phase 2. Both vaccine formulations were safe and well tolerated. The most common adverse events were pain at injection site (44 [58%]), hyperthermia (38 [50%]), headache (32 [42%]), asthenia (21 [28%]), and muscle and joint pain (18 [24%]). Most adverse events were mild and no serious adverse events were detected. All participants produced antibodies to SARS-CoV-2 glycoprotein. At day 42, receptor binding domain-specific IgG titres were 14 703 with the frozen formulation and 11 143 with the lyophilised formulation, and neutralising antibodies were 49·25 with the frozen formulation and 45·95 with the lyophilised formulation, with a seroconversion rate of 100%. Cell-mediated responses were detected in all participants at day 28, with median cell proliferation of 2·5% CD4+ and 1·3% CD8+ with the frozen formulation, and a median cell proliferation of 1·3% CD4+ and 1·1% CD8+ with the lyophilised formulation.
+
+    > Interpretation
+      The heterologous rAd26 and rAd5 vector-based COVID-19 vaccine has a good safety profile and induced strong humoral and cellular immune responses in participants. Further investigation is needed of the effectiveness of this vaccine for prevention of COVID-19.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / September, 2020 - The Lancet
+    quote !a = The most common systemic and local reactions were pain at the injection site, hyperthermia (body temperature 37–38°C), headache, asthenia, and muscle and joint pain, which are typical for vaccines based on recombinant viral vectors. No serious adverse events were reported during the study.
+
+    / September, 2020 - The Lancet
+    quote !b = We showed that volunteers who received the heterologous rAd26 and rAd5 vaccine elicited the same titre of SARS-CoV-2 neutralising antibodies as did people who had recovered from COVID-19.
+
+    / September, 2020 - The Lancet
+    quote !c = The vaccine showed 100% protectivity in a lethal model of SARS-CoV-2 challenge in immunosuppressed hamsters. No antibody-dependent enhancement of infection was seen in vaccinated and SARS-CoV-2-challenged animals.
+
+    / September, 2020 - The Lancet
+    quote !d = Despite formation of neutralising antibodies to recombinant adenoviruses after vaccination with rAd26 and rAd5, formation of a humoral immune response to target antigen (SARS-CoV-2 glycoprotein S) in vaccinated volunteers was not affected. Moreover, neutralising antibodies to rAd26 did not neutralise rAd5 when serum samples from vaccinated volunteers were obtained and analysed 28 days after immunisation (and vice versa). Thus, use of a heterologous prime-boost immunisation, when rAd26-S is used for priming and rAd5-S is used for boosting, is an effective approach to elicit a robust immune response and to overcome the immune response that is formed to the components of a viral vector.
 
 
 
