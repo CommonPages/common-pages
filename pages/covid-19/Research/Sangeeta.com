@@ -989,8 +989,6 @@ feed Sangeeta
   ref 'Zhu_et_al_05_22_2020
     head = We did a dose-escalation, single-centre, open-label, non-randomised, phase 1 trial of an Ad5 vectored COVID-19 vaccine expressing the spike glycoprotein of a SARS-CoV-2 strain in Wuhan, China. Healthy adults aged between 18 and 60 years were sequentially enrolled and  allocated to one of three dose groups (5×10¹⁰, 1×10¹¹, and 1·5×10¹¹ viral particles) to receive an intramuscular  injection of vaccine.
 
-    We aimed to assess the safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 (Ad5) vectored COVID-19 vaccine expressing the spike glycoprotein of a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) strain.
-
     > Background
       A vaccine to protect against COVID-19 is urgently needed. We aimed to assess the safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 (Ad5) vectored COVID-19 vaccine expressing the spike glycoprotein of a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) strain.
 

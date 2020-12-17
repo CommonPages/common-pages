@@ -2,12 +2,12 @@
 subject module Vaccines
   head = The appearance of COVID-19 inspired an unprecedented investment in coronavirus vaccine development. At the moment, no vaccine has completed clinical trials. In November of 2020, an mRNA vaccine from Pfizer reported strong results in a phase 3 trial, though the trial is still ongoing. It may be the first to market, though many other prospects are under active development.
 
-    claim = A modelling study found that a vaccine with efficacy of 60–80% could allow reduction in physical distancing measures, but this would still require high coverage.
-      -
-       'Bartsch_et_al_07_15_2020
-       'Bartsch_et_al_07_15_2020.!a
-       'Bartsch_et_al_07_15_2020.!b
-       'Bartsch_et_al_07_15_2020.!c
+    # claim = A modelling study found that a vaccine with efficacy of 60–80% could allow reduction in physical distancing measures, but this would still require high coverage.
+    #   -
+    #    'Bartsch_et_al_07_15_2020
+    #    'Bartsch_et_al_07_15_2020.!a
+    #    'Bartsch_et_al_07_15_2020.!b
+    #    'Bartsch_et_al_07_15_2020.!c
 
      # The US Food and Drug Administration's guidelines indicate that they would license a vaccine against the pandemic virus that showed at least 50% efficacy and WHO have indicated a minimum efficacy of 50% in its target product profile.
      # -
@@ -162,7 +162,7 @@ subject module Vaccines
       'Liu_et_al_06_16_2020
 
   subject VaccineNew
-   head =
+    head =
    # That said, all of those vaccines in each of those cases are rather similar to each other, and we now have the unusual – very, very unusual – situation of several different vaccine platforms coming into potential use against the same virus at almost the same time. By the spring we may well have two mRNA vaccines (Pfizer/BioNTech and Moderna), two different adenovirus vaccines (Oxford/AZ and J&J), and a recombinant protein vaccine (Novavax). We don’t have efficacy data on the J&J and Novavax candidates yet (numbers are on the way), and we can argue about the data for Oxford/AZ, but it’s certainly possible that all of them will be out there simultaneously. Putting one of these on top of the other is a step into the unknown.
    # https://blogs.sciencemag.org/pipeline/archives/2020/12/02/taking-two-different-vaccines
 
@@ -308,81 +308,81 @@ subject module Vaccines
 
 
       claim !Reasoning4 = Similar results have been seen for other vaccines where a reduced number or type of priming dose in infancy can lead to higher responses to a booster vaccine.
-      -
-       'Pace_et_al_02_17_2015
-       'Pace_et_al_02_17_2015.!a
-       'Pace_et_al_02_17_2015.!b
+        -
+          'Pace_et_al_02_17_2015
+          'Pace_et_al_02_17_2015.!a
+          'Pace_et_al_02_17_2015.!b
 
-    subject Ad26.COV2.S
-     head =
+    subject Ad26COV2S
+      head =
 
-     >
-       Janssen Pharmaceutica (Johnson & Johnson), BIDMC" is using non replicating viral vector. Trials are ongoing in  US, Argentina, Brazil, Chile, Colombia, Mexico, Peru, Philippines, South Africa and Ukraine
+      >
+        Janssen Pharmaceutica (Johnson & Johnson), BIDMC" is using non replicating viral vector. Trials are ongoing in  US, Argentina, Brazil, Chile, Colombia, Mexico, Peru, Philippines, South Africa and Ukraine
 
      # Ongoing trials
      # https://clinicaltrials.gov/ct2/show/NCT04436276
      # https://clinicaltrials.gov/ct2/show/NCT04505722
 
        # SafetyandImmunogenicity
-       claim !Phase12Johnson&Johnson = Phase I–II (1,045): Seroconversion for S antibodies over 95%. Adverse effects: injection site pain, fatigue, headache and myalgia
-         -
-           'Sadoff_et_al_09_25_2020
+      claim !Phase12Johnson&Johnson = Phase I–II (1,045): Seroconversion for S antibodies over 95%. Adverse effects: injection site pain, fatigue, headache and myalgia
+        -
+          'Sadoff_et_al_09_25_2020
 
-       claim !Phase2Johnson&Johnson =
+      claim !Phase2Johnson&Johnson =
 
-       # Safetyandefficacy
-       claim !Phase3Johnson&Johnson =
-
-
-       claim !Reasoning3 =
-
-       >
-         Our data extend recent preclinical studies of inactivated virus vaccines and DNA vaccines for SARS-CoV-2 in non-human primates. Whereas inactivated virus vaccines and nucleic acid vaccines typically require two or more immunizations, some adenovirus vectors can induce robust and durable neutralizing antibody responses after a single immunization
-
-       >
-         The potency of a single vaccination with our Ad26.COV2.S COVID-19 vaccine candidate is supported by our recently reported study in non-human primates where a single dose provided complete protection against SARS-CoV-2 replication in the lung and near complete protection against viral replication in the nose. In this prior preclinical study, all sham vaccinated control animals had detectable virus in both lung and nose for 7–14 days. In vaccinated non-human primates, protection against SARS-CoV-2 infection was correlated with neutralizing antibody titers.
-      -
-        'Mercado_et_al_07_2020
-
-      >
-        Though correlates of protection from SARS-CoV-2 infection have not yet been determined, measurement of serum neutralizing activity has been shown to be a mechanistic correlate of protection for other respiratory viruses, such as influenza and respiratory syncytial virus, and is generally accepted as a functional biomarker of the in vivo humoral response.
-      -
-        'Jackson_et_al_07_14_2020
-
-      >
-        In rhesus macaques given DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike protein, post-vaccination neutralizing antibody titers were correlated with protection against SARS-CoV-2 challenge.
-      -
-        'Yu_et_al_08_14_2020
-
-      >
-        Humoral and cell-mediated immune responses have been associated with vaccine-induced protection against challenge18 or subsequent rechallenge after SARS-CoV-2 infection in a rhesus macaque model.
-      -
-       'Chandrashekar_et_al_05_20_2020
-       'Doremalen_et_al_07_30_2020
-
-      >
-        Tsang and colleagues [14] have recently reported similar results regarding the ability of MN and HAI titres to predict protection against infection in a large cohort of children and adults. They found that the age-adjusted HAI and MN titres corresponding to 50% protection against seasonal H3N2 influenza was 1:260 and 1:42, respectively.
-      -
-        'Jackson_et_al_07_14_2020
-        'Verschoor_et_al_09_22_2016.!a
-        'Verschoor_et_al_09_22_2016.!b
-        'Tsang_et_al_03_26_2014.!a
-        'Tsang_et_al_03_26_2014
+      # Safetyandefficacy
+      claim !Phase3Johnson&Johnson =
 
 
-      >
-        Data suggest that serum titres of neutralizing antibodies may be a potential biomarker for vaccine protection. / protection against SARS-CoV-2 infection was correlated with neutralizing antibody titers.
-      -
-        'Mercado_et_al_07_2020
-        'Kulkarni_et_al_02_20_2020.!a
+      claim !Reasoning3 =
 
-       # And is generally accepted as a functional biomarker of the in vivo humoral response.
+        >
+          Our data extend recent preclinical studies of inactivated virus vaccines and DNA vaccines for SARS-CoV-2 in non-human primates. Whereas inactivated virus vaccines and nucleic acid vaccines typically require two or more immunizations, some adenovirus vectors can induce robust and durable neutralizing antibody responses after a single immunization
+
+        >
+          The potency of a single vaccination with our Ad26.COV2.S COVID-19 vaccine candidate is supported by our recently reported study in non-human primates where a single dose provided complete protection against SARS-CoV-2 replication in the lung and near complete protection against viral replication in the nose. In this prior preclinical study, all sham vaccinated control animals had detectable virus in both lung and nose for 7–14 days. In vaccinated non-human primates, protection against SARS-CoV-2 infection was correlated with neutralizing antibody titers.
+        -
+          'Mercado_et_al_07_2020
+
+        >
+          Though correlates of protection from SARS-CoV-2 infection have not yet been determined, measurement of serum neutralizing activity has been shown to be a mechanistic correlate of protection for other respiratory viruses, such as influenza and respiratory syncytial virus, and is generally accepted as a functional biomarker of the in vivo humoral response.
+        -
+          'Jackson_et_al_07_14_2020
+
+        >
+          In rhesus macaques given DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike protein, post-vaccination neutralizing antibody titers were correlated with protection against SARS-CoV-2 challenge.
+        -
+          'Yu_et_al_08_14_2020
+
+        >
+          Humoral and cell-mediated immune responses have been associated with vaccine-induced protection against challenge18 or subsequent rechallenge after SARS-CoV-2 infection in a rhesus macaque model.
+        -
+          'Chandrashekar_et_al_05_20_2020
+          'Doremalen_et_al_07_30_2020
+
+        >
+          Tsang and colleagues [14] have recently reported similar results regarding the ability of MN and HAI titres to predict protection against infection in a large cohort of children and adults. They found that the age-adjusted HAI and MN titres corresponding to 50% protection against seasonal H3N2 influenza was 1:260 and 1:42, respectively.
+        -
+          'Jackson_et_al_07_14_2020
+          'Verschoor_et_al_09_22_2016.!a
+          'Verschoor_et_al_09_22_2016.!b
+          'Tsang_et_al_03_26_2014.!a
+          'Tsang_et_al_03_26_2014
+
+
+        >
+          Data suggest that serum titres of neutralizing antibodies may be a potential biomarker for vaccine protection. / protection against SARS-CoV-2 infection was correlated with neutralizing antibody titers.
+        -
+          'Mercado_et_al_07_2020
+          'Kulkarni_et_al_02_20_2020.!a
+
+        # And is generally accepted as a functional biomarker of the in vivo humoral response.
 
 
         # Previous studies have established that antibody titer measured by the hemagglutination-inhibiting (HAI) assay is correlated with protection against influenza virus infection, with an HAI titer of 1:40 generally associated with 50% protection.
 
 
-       claim !Reasoning4 =
+        claim !Reasoning4 =
 
 
     subject Ad5-nCoV(CanSinoBIO)
@@ -399,9 +399,9 @@ subject module Vaccines
 
       claim !Phase1 = The Ad5 vectored COVID-19 vaccine is tolerable and immunogenic at 28 days post-vaccination. Humoral responses against SARS-CoV-2 peaked at day 28 post-vaccination in healthy adults, and rapid specific T-cell responses were noted from day 14 post-vaccination. Most adverse events reported were mild or moderate in severity.
         -
-         'Zhu_et_al_05_22_2020
-         'Zhu_et_al_05_22_2020.!a
-         'Zhu_et_al_05_22_2020.!b
+          'Zhu_et_al_05_22_2020
+          'Zhu_et_al_05_22_2020.!a
+          'Zhu_et_al_05_22_2020.!b
 
 
       claim !Phase2 = This clinical trial designed to evaluate the immunogenicity and safety of Ad5-nCoV which encodes for a full-length spike (S) protein of SARS-CoV-2 showed that the Ad5-vectored COVID-19 vaccine at 5 × 1010 viral particles is safe, and induced significant immune responses in the majority of recipients after a single immunisation.
@@ -443,7 +443,7 @@ subject module Vaccines
           'Logunov_et_al_09_04_2020
           'Logunov_et_al_09_04_2020.!d
           'Bovendo_et_al_11_01_2014.!a
-          'Bovendo_et_al_11_01_2014.!b
+          # 'Bovendo_et_al_11_01_2014.!b
           'Bovendo_et_al_11_01_2014.!c
           'Bovendo_et_al_11_01_2014.!d
           'Bovendo_et_al_11_01_2014.!e
@@ -534,8 +534,8 @@ subject module Vaccines
         'Widge_et_al_12_03_2020.!a
 
       claim !Phase12Moderna = Phase I (45 participants): Dose-dependent neutralizing antibody response on two-dose schedule; undetermined durability. Adverse effects: fever, fatigue, headache, muscle ache, and pain at the injection site.
-        -
-          'Jackson_et_al_07_14_2020
+        # -
+        #   'Jackson_et_al_07_14_2020
 
         claim !Olderpeople = In phase 1, small study involving population of older participants (≥56 years of age), the two-dose vaccine series had an acceptable safety and reactogenicity profile with mostly mild-to-moderate local and systemic adverse events of short duration, which occurred predominantly after the second dose. The 100-μg dose induced higher binding- and neutralizing-antibody titers than the 25-μg dose, which supports the use of the 100-μg dose in a phase 3 vaccine trial. These data suggest that a second dose of vaccine is needed to achieve neutralizing antibodies in participants after the age of 56 years, and titers rapidly increased by 7 days after the booster vaccination.
           -
@@ -587,20 +587,20 @@ subject module Vaccines
       # Ongoing trials
       # https://clinicaltrials.gov/ct2/show/NCT04530396
 
-        # SafetyandImmunogenicity
-        claim !Phase12SputnikV = Phase I–II (76): Neutralizing antibody and T cell responses. Adverse effects: pain at injection site, fever, headache, weakness, and muscle/joint pain.
-          -
-            'Logunov_et_al_09_04_2020
+      # SafetyandImmunogenicity
+      claim !Phase12SputnikV = Phase I–II (76): Neutralizing antibody and T cell responses. Adverse effects: pain at injection site, fever, headache, weakness, and muscle/joint pain.
+        -
+          'Logunov_et_al_09_04_2020
 
-        claim !Phase2SputnikV =
+      claim !Phase2SputnikV =
 
-        # Safetyandefficacy
-        claim !Phase3SputnikV =  First interim analysis from phase 3 study: 92% efficacy for the Sputnik V vaccine (developed at the National Research Centre for Epidemiology and Microbiology). The Sputnik V vaccine efficacy amounted to 92% (calculation based on the 20 confirmed COVID-19 cases split between vaccinated individuals and those who received the placebo). Currently 40,000 volunteers are taking part in double-blind, randomized, placebo-controlled Phase III of Sputnik V clinical trials, out of which over 20,000 have been vaccinated with the first dose of the vaccine and more than 16,000 with both the first and second doses of the vaccine.Efficacy was demonstrated on the basis of a first interim analysis obtained 21 days after the first injection. There were no unexpected adverse events during the trials. Monitoring of the participants is ongoing.
-        # https://sputnikvaccine.com/newsroom/pressreleases/the-first-interim-data-analysis-of-the-sputnik-v-vaccine-against-covid-19-phase-iii-clinical-trials-/
+      # Safetyandefficacy
+      claim !Phase3SputnikV =  First interim analysis from phase 3 study: 92% efficacy for the Sputnik V vaccine (developed at the National Research Centre for Epidemiology and Microbiology). The Sputnik V vaccine efficacy amounted to 92% (calculation based on the 20 confirmed COVID-19 cases split between vaccinated individuals and those who received the placebo). Currently 40,000 volunteers are taking part in double-blind, randomized, placebo-controlled Phase III of Sputnik V clinical trials, out of which over 20,000 have been vaccinated with the first dose of the vaccine and more than 16,000 with both the first and second doses of the vaccine.Efficacy was demonstrated on the basis of a first interim analysis obtained 21 days after the first injection. There were no unexpected adverse events during the trials. Monitoring of the participants is ongoing.
+      # https://sputnikvaccine.com/newsroom/pressreleases/the-first-interim-data-analysis-of-the-sputnik-v-vaccine-against-covid-19-phase-iii-clinical-trials-/
 
-        claim !Reasoning3 =
+      claim !Reasoning3 =
 
-        claim !Reasoning4 =
+      claim !Reasoning4 =
 
 
 
@@ -620,22 +620,23 @@ subject module Vaccines
       # https://clinicaltrials.gov/ct2/show/NCT04641481
 
 
-        # SafetyandImmunogenicity
-        claim !Phase12JBharatBiotech =
-            'Sadoff_et_al_09_25_2020
+      # SafetyandImmunogenicity
+      claim !Phase12JBharatBiotech =
+        -
+          'Sadoff_et_al_09_25_2020
 
-        claim !Phase2BharatBiotech =
+      claim !Phase2BharatBiotech =
 
-        # Safetyandefficacy
-        claim !Phase3BharatBiotech =
-
-
-            claim !Reasoning3 =
-
-            claim !Reasoning4 =
+      # Safetyandefficacy
+      claim !Phase3BharatBiotech =
 
 
-    subject NVX-CoV2373 Novavax
+      claim !Reasoning3 =
+
+      claim !Reasoning4 =
+
+
+    subject NVX-CoV2373Novavax
       head =
 
       >
@@ -646,20 +647,20 @@ subject module Vaccines
       # https://clinicaltrials.gov/ct2/show/NCT04583995
 
 
-        # SafetyandImmunogenicity
-        claim !Phase12JNovavax = Phase I–II (131) IgG and neutralizing antibody response with adjuvant after booster dose. Adverse effects: short-duration, low grade, local pain, headache, fatigue, myalgia.
-          -
-            'Keech_et_al_09_02_2020
+      # SafetyandImmunogenicity
+      claim !Phase12JNovavax = Phase I–II (131) IgG and neutralizing antibody response with adjuvant after booster dose. Adverse effects: short-duration, low grade, local pain, headache, fatigue, myalgia.
+        -
+          'Keech_et_al_09_02_2020
 
-        claim !Phase2Novavax =
+      claim !Phase2Novavax =
 
-        # Safetyandefficacy
-        claim !Phase3Novavax =
+      # Safetyandefficacy
+      claim !Phase3Novavax =
 
 
-            claim !Reasoning3 =
+      claim !Reasoning3 =
 
-            claim !Reasoning4 =
+      claim !Reasoning4 =
 
     subject CoronaVac
       head =
@@ -680,20 +681,20 @@ subject module Vaccines
       # Turkey - https://clinicaltrials.gov/ct2/show/NCT04582344
 
 
-        # SafetyandImmunogenicity
-        claim !Phase12CoronaVac = Phase II (600) Immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days; Adverse effects: mild in severity, pain at injection site
-          -
-            'Zhang_et_al_11_17_2020
+      # SafetyandImmunogenicity
+      claim !Phase12CoronaVac = Phase II (600) Immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days; Adverse effects: mild in severity, pain at injection site
+        -
+          'Zhang_et_al_11_17_2020
 
-        claim !Phase2CoronaVac =
+      claim !Phase2CoronaVac =
 
-        # Safetyandefficacy
-        claim !Phase3CoronaVac =
+      # Safetyandefficacy
+      claim !Phase3CoronaVac =
 
 
-            claim !Reasoning3 =
+      claim !Reasoning3 =
 
-            claim !Reasoning4 =
+      claim !Reasoning4 =
 
     subject BCG
       head =
@@ -746,9 +747,9 @@ subject module Vaccines
 
       claim !Tozinameran = Two-dose mRNA vaccine has shown immunogenicity in older adults, but absolute neutralising antibody responses in adults aged 65–85 years were lower than in those aged 18–55 years.
         -
-         'Walsh_et_al_10_14_2020
-         'Walsh_et_al_10_14_2020.!c
-         'Walsh_et_al_10_14_2020.!f
+          'Walsh_et_al_10_14_2020
+          'Walsh_et_al_10_14_2020.!c
+          'Walsh_et_al_10_14_2020.!f
 
          # By contrast with our observations, in both these studies, reactogenicity was more common after the second dose of an mRNA vaccine
          #

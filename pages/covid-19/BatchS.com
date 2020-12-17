@@ -648,7 +648,7 @@
      # The main issue that can limit use of vectors based on recombinant adenoviruses is widespread pre-existing immunity in the human population. After vaccination with an adenoviral vector, immune responses form not only to the target antigen but also to the vector proteins (particularly in case of pre-existing immunity).
 
 
-     12/11###### DONE #######
+     # 12/11###### DONE #######
 
      # VACCINE:ChAdOx1 nCoV-19 vaccine (AZD1222)
      # TECH:  viral-vectored coronavirus vaccine
