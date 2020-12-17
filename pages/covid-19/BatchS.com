@@ -352,11 +352,11 @@
   #     Brief Summary:
   #     The mRNA-1273 vaccine is being developed to prevent COVID-19, the disease resulting from Severe Acute Respiratory Syndrome coronavirus (SARS-CoV-2) infection. The study is designed to primarily evaluate the efficacy, safety, and immunogenicity of mRNA-1273 to prevent COVID-19 for up to 2 years after the second dose of mRNA-1273.
   #
-  #     "mRNA-1273 Moderna, NIAID, BARDA" - PHASE 3
+  #    "mRNA-1273 Moderna, NIAID, BARDA" - PHASE 3
   #    Phase III (30,000) Interventional; randomized, placebo-controlled study for efficacy, safety, and immunogenicity.
   #    An independent data and safety monitoring board (DSMB) overseeing the Phase 3 trial of the investigational COVID-19 vaccine known as mRNA-1273 reviewed trial data and shared its interim analysis with the trial oversight group on Nov. 15, 2020. This interim review of the data suggests that the vaccine is safe and effective at preventing symptomatic COVID-19 in adults. The interim analysis comprised 95 cases of symptomatic COVID-19 among volunteers. The DSMB reported that the candidate was safe and well-tolerated and noted a vaccine efficacy rate of 94.5%. The findings are statistically significant, meaning they are likely not due to chance. 90 of the cases occurred in the placebo group and 5 occurred in the vaccinated group. There were 11 cases of severe COVID-19 out of the 95 total, all of which occurred in the placebo group.
-  #
-  #    The mRNA-1273 vaccine candidate was co-developed by the Cambridge, Massachusetts-based biotechnology company Moderna, Inc., and the National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health. It combines Moderna’s mRNA (messenger RNA) delivery platform with the stabilized SARS-CoV-2 spike immunogen (S-2P) developed by NIAID scientists.
+
+  # The mRNA-1273 vaccine candidate was co-developed by the Cambridge, Massachusetts-based biotechnology company Moderna, Inc., and the National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health. It combines Moderna’s mRNA (messenger RNA) delivery platform with the stabilized SARS-CoV-2 spike immunogen (S-2P) developed by NIAID scientists.
   #    -
   #     'Wrapp_et_al_2020
   #  Although correlates of protection against SARS-CoV-2 infection in humans are not yet established, these results show that despite a slight expected decline in titers of binding and neutralizing antibodies, mRNA-1273 has the potential to provide durable humoral immunity.
@@ -394,7 +394,9 @@
   #   Brief Summary:
   #   Randomized, double-blind (blinded for the trial subject and the study physician), placebo controlled, multi-center clinical trial in parallel assignment of efficacy, immunogenicity, and safety of the Gam-COVID-Vac combined vector vaccine against the SARS-CoV-2-induced coronavirus infection in adults in the SARS-СoV-2 infection prophylactic treatment.
 
-  # >
+
+
+  # ####### DONE 13/12 #####
   #  Possible issues with using Adenovirus as vaccine vectors include: the human body develops immunity to the vector itself, making subsequent booster shots difficult or impossible. In some cases, people have pre-existing immunity to Adenoviruses, making vector delivery ineffective
   #  -
   #   'Logunov_et_al_09_04_2020.!d
@@ -414,15 +416,22 @@
   #   ChAd-SARS-CoV-2-S, which was reported as a vaccine preventing mice mutants with human ACE2 (hACE2) receptors to be infected by SARS-CoV-2.[40][41]
   #
   #   Intranasal delivery of ChAd-SARS-CoV-2-S is a promising platform for preventing SARS-CoV-2 infection, disease, and upper airway transmission and thus warrants clinical evaluation in humans.
+  # Study found that the nasal delivery route created a strong immune response throughout the body, but it was particularly effective in the nose and respiratory tract, preventing the infection from taking hold in the body.
   #  -
   #   'Hassan_et_al_08_19_2020
   #   'Bovendo_et_al_11_01_2014.!f
   #
   # # Context
   #   Adenoviruses are the basis for many investigational vaccines for COVID-19 and other infectious diseases, such as Ebola virus and tuberculosis, and they have good safety and efficacy records, but not much research has been done with nasal delivery of these vaccines. All of the other adenovirus vaccines in development for COVID-19 are delivered by injection into the arm or thigh muscle. The nose is a novel route, so our results are surprising and promising. In another innovation beyond nasal delivery, the ChAd-SARS-CoV-2-S vaccine incorporates two mutations into the spike protein that stabilize it in a specific shape that is most conducive to forming antibodies against it.
+
+  # All of the other adenovirus vaccines in development for COVID-19 are delivered by injection into the arm or thigh muscle. The nose is a novel route, so our results are surprising and promising. It's also important that a single dose produced such a robust immune response. Vaccines that require two doses for full protection are less effective because some people, for various reasons, never receive the second dose."
   #
   #   The harmless adenovirus carries the spike protein into the nose, enabling the body to mount an immune defense against the SARS-CoV-2 virus without becoming sick.
   #   http://www.sci-news.com/medicine/nasal-vaccine-sars-cov-2-08786.html
+
+  ### DONE 13/12 ########
+
+
 
 
    # 12/1 #### ####### DNA VACCINES- non replicating viral vector #########
@@ -590,7 +599,7 @@
       # The COVID-19 pandemic is one of the most devastating in recent history. The bacillus Calmette−Guérin (BCG) vaccine against tuberculosis also confers broad protection against other infectious diseases, and it has been proposed that it could reduce the severity of COVID-19. This epidemiological study assessed the global linkage between BCG vaccination and COVID-19 mortality. Signals of BCG vaccination effect on COVID-19 mortality are influenced by social, economic, and demographic differences between countries. After mitigating multiple confounding factors, several significant associations between BCG vaccination and reduced COVID-19 deaths were observed. This study highlights the need for mechanistic studies behind the effect of BCG vaccination on COVID-19, and for clinical evaluation of the effectiveness of BCG vaccination to protect from severe COVID-19.
 
 
-      # VACCINE:
+      # VACCINE: HAVE TO DONE
       # TECH: live INACTIVATED
       # Country:
 
@@ -617,9 +626,10 @@
      # >
      #  Safety and efficacy are essential for vaccine development at both preclinical studies and clinical trials.
      #
-     #
+     ######### HAVE TO DONE #######
      # >
      #  Although it is still too early to define the best animal model for studying SARS-CoV-2 infections, rhesus macaques, which mimic COVID-19–like symptoms after SARS-CoV-2 infection, appear to be promising candidates.
+
      #
 
      # 'Mercado_et_al_07_2020 - check this paper
@@ -636,6 +646,158 @@
      # Possible issues with using Adenovirus as vaccine vectors include: the human body develops immunity to the vector itself, making subsequent booster shots difficult or impossible
      #
      # The main issue that can limit use of vectors based on recombinant adenoviruses is widespread pre-existing immunity in the human population. After vaccination with an adenoviral vector, immune responses form not only to the target antigen but also to the vector proteins (particularly in case of pre-existing immunity).
+
+
+     # 12/11###### DONE #######
+
+     # VACCINE:ChAdOx1 nCoV-19 vaccine (AZD1222)
+     # TECH:  viral-vectored coronavirus vaccine
+     # Country:
+
+    #  We present the first interim safety and efficacy data for a viral vector coronavirus vaccine, ChAdOx1 nCoV-19, evaluated in four trials across three continents, showing significant vaccine efficacy of 70·4% after two doses and protection of 64·1% after at least one standard dose, against symptomatic disease, with no safety concerns.
+    #  -
+    #   'Voysey_et_al_12_08_2020
+    #   'Voysey_et_al_12_08_2020.!a
+    #   'Voysey_et_al_12_08_2020.!b
+    #
+    #
+    #  determine the mechanism of the increased efficacy with a LD/SD regimen, which might be due to higher levels of neutralising antibody, lower levels of anti-vector immunity with lower vector-derived antigen content of the first dose, or differential antibody functionality or cellular immunity, including altered avidity or immunodominance.
+    #
+    #  # There had been initial concern that the LD/SD regimen might have lower efficacy than SD/SD, and the regulatory authority acceptance of the inclusion of the two trial regimens (LD/SD and SD/SD) in analysis was based on the observation that these regimens generated similar levels of binding antibody, and would therefore increase the sample size available for analysis without compromising efficacy.
+    #  A reduced number or type of priming dose in infancy can lead to higher responses to a booster vaccine.
+    #  -
+    #   'Voysey_et_al_12_08_2020.!b
+    #
+    # Similar results have been seen for other vaccines where a reduced number or type of priming dose in infancy can lead to higher responses to a booster vaccine.
+    # -
+    #   'Pace_et_al_02_17_2015
+    #   'Pace_et_al_02_17_2015.!a
+    #   'Pace_et_al_02_17_2015.!b
+    #
+    #  An important public health consideration is the morbidity and mortality of the disease in an older adult population and thus the potential efficacy in this age group.
+    #
+    #
+    #  Three cases of transverse myelitis were initially reported as suspected unexpected serious adverse reactions, with two in the ChAdOx1 nCoV-19 vaccine study arm, triggering a study pause for careful review in each case.
+
+
+    ################## 11/12 ###### DONE #############
+
+
+    #  A modelling study found that a vaccine with efficacy of 60–80% could allow reduction in physical distancing measures, but this would still require high coverage.
+    #  -
+    #   'Bartsch_et_al_07_15_2020
+    #   'Bartsch_et_al_07_15_2020.!a
+    #   'Bartsch_et_al_07_15_2020.!b
+    #   'Bartsch_et_al_07_15_2020.!c
+    #
+    # The US Food and Drug Administration's guidelines indicate that they would license a vaccine against the pandemic virus that showed at least 50% efficacy and WHO have indicated a minimum efficacy of 50% in its target product profile.
+    # -
+    #  Center for Biologics Evaluation and Research Development and licensure of vaccines to prevent COVID-19.
+    #  https://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19
+    #  WHO target product profiles for COVID-19 vaccines.
+    #  https://www.who.int/publications/m/item/who-target-product-profiles-for-covid-19-vaccines
+
+     ########### DONE  ##################
+
+
+    ########### 11/12 ##################
+    # Other coronavirus vaccine developers have released preliminary high-level results in public statements, including more than 90% efficacy reported for the lipid nanoparticle mRNA vaccine BNT162b2
+    # >
+    #  First interim analysis from phase 3 study: More than 90% efficacy reported for the lipid nanoparticle mRNA vaccine BNT162b2 (developed by Pfizer and BioNTech)
+    # -
+    #  Pfizer and BioNTech announce vaccine candidate against COVID-19 achieved success in first interim analysis from phase 3 study.
+    #  https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-vaccine-candidate-against
+    #
+    # >
+    #   First interim analysis from phase 3 study: 92% efficacy for the Sputnik V vaccine (developed at the National Research Centre for Epidemiology and Microbiology)
+    # -
+    # The Gamaleya National Centre The first interim data analysis of the Sputnik V vaccine against COVID-19 phase III clinical trials in the Russian Federation demonstrated 92% efficacy.
+    # https://sputnikvaccine.com/newsroom/pressreleases/the-first-interim-data-analysis-of-the-sputnik-v-vaccine-against-covid-19-phase-iii-clinical-trials-/
+    #
+    # >
+    #   First interim analysis from phase 3 COVE study: 94·5% for the Moderna lipid nanoparticle mRNA-1273 vaccine (developed by Moderna)
+    # -
+    #  Moderna's COVID-19 vaccine candidate meets its primary efficacy endpoint in the first interim analysis of the phase 3 COVE study.
+    #  https://investors.modernatx.com/news-releases/news-release-details/modernas-covid-19-vaccine-candidate-meets-its-primary-efficacy
+
+
+   ##### DONE #######
+    # https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32466-1/fulltext#seccestitle160
+    # >
+    #  Other clinical trials have also assessed safety, tolerability, and immunogenicity of SARS-CoV-2 vaccines in older adults. An adenovirus 5 vector-based vaccine also had reduced reactogenicity in adults aged 55 years and older compared with adults aged 18–54 years after a single dose of vaccine, although immunogenicity was concurrently reduced in this older age group.
+    # -
+    #   'Zhu_et_al_07_20_2020
+    #   'Zhu_et_al_07_20_2020.!e
+    #
+    # >
+    #  A two-dose mRNA vaccine has also been shown to be immunogenic in adults older than 56 years with dose-dependent immune responses and similar neutralising antibody titres and cellular immune responses to younger adults.
+    # -
+    #   'Anderson_et_al_09_29_2020
+    #   neutralizing-antibody levels have been shown to correlate with protection against many viruses in humans14 and have correlated with protection against SARS-CoV-2 in animal challenges.3,15
+    #
+    # >
+    #  Another two-dose mRNA vaccine has shown immunogenicity in older adults, but absolute neutralising antibody responses in adults aged 65–85 years were lower than in those aged 18–55 years.
+    # -
+    #
+    #  'Walsh_et_al_10_14_2020
+    #
+    #
+    #  By contrast with our observations, in both these studies, reactogenicity was more common after the second dose of an mRNA vaccine
+    #
+    # >
+    #  A two-dose inactivated virus vaccine has also shown lower absolute neutralising antibody titres in adults aged 60 years and older than in adults aged 18–59 years, but reactogenicity was not formally compared between the first and second doses in this study
+    # -
+    #  'Logunov_et_al_09_04_2020
+
+
+  ##### DONE ######
+
+  ###### 13/12 #########
+
+
+    # > DISCUSS TEH CLAIMS OF THIS PAPER: // Immunogenicity and safety of a recombinant adenovirus type-5-vectored COVID-19 vaccine in healthy adults aged 18 years or older: a randomised, double-blind, placebo-controlled, phase 2 trial
+    # doi: https://doi.org/10.1016/S0140-6736(20)31605-6
+    # ref 'Zhu_et_al_08_15_2020
+
+    ###### 13/ 12 #######
+    # Vector-Based Vaccines CONTEXT
+    # https://www.the-scientist.com/news-opinion/vector-based-vaccines-come-to-the-fore-in-the-covid-19-pandemic-67915
+    # Vector-Based Vaccines Come to the Fore in the COVID-19 Pandemic
+    #
+    # Six vaccine candidates in clinical trials for COVID-19 employ viruses to deliver genetic cargo that, once inside our cells, instructs them to make SARS-CoV-2 protein. This stimulates an immune response that ideally would protect recipients from future encounters with the actual virus. Three candidates rely on weakened human adenoviruses to deliver the recipe for the spike protein of the pandemic coronavirus, while two use primate adenoviruses and one uses measles virus.
+    # Most viral vaccines are based on attenuated or inactivated viruses. An upside of using vectored vaccines is that they are easy and relatively cheap to make. The adenovirus vector, for example, can be grown up in cells and used for various vaccines. Once you make a viral vector, it is the same for all vaccines, says Florian Krammer, a vaccinologist at the Icahn School of Medicine at Mount Sinai. “It is just the genetic information in it that is different,” he explains.
+    # Once inside a cell, viral vectors hack into the same molecular system as SARS-CoV-2 and faithfully produce the spike protein in its three dimensions. This resembles a natural infection, which provokes a robust innate immune response, triggering inflammation and mustering B and T cells.
+    # But the major downside to the human adenoviruses is that they circulate widely, causing the common cold, and some people harbor antibodies that will target the vaccine, making it ineffective
+    #
+    # . In any case, it is necessary to directly compare different vaccines based on Ad5, VSV, chimpanzee adenovirus serotype 3, Ad26, and modified vaccinia Ankara, in order to identify optimal vaccine vector(s).
+    # Heterologous prime-boost vaccine regimens deliver the same or similar antigens through different vaccine types, the first to prime and the second to boost the immune system.
+
+
+    ########## 11/12 ############
+
+
+    # WHO
+    # WHO target product profiles for COVID-19 vaccines: version 3.
+    # World Health Organization, GenevaApril 29, 2020
+    # https://www.who.int/docs/default-source/blue-print/who-target-product-profiles-for-covid-19-vaccines.pdf?sfvrsn=1d5da7ca_5
+    #
+    #
+    #  control of pandemic coronavirus will only be achieved if the licensure, manufacturing, and distribution of these vaccines can be achieved at an unprecedented scale and vaccination is rolled out to all those who are vulnerable.
+    #
+    #
+    #  The findings here indicate that the efficacy of ChAdOx1 nCoV-19 exceeds these thresholds and has the potential to have a public health impact.
+    #
+    #
+    #  FIND PAPERS :
+    #
+    #  There are circumstances in which a vaccine with an efficacy between 40% and 70% could prevent an epidemic and between 60% and 80% could extinguish an ongoing epidemic, but these would require a potentially unachievable 100% coverage of the population. All of this suggests that a vaccine alone may not allow everything to return to normal immediately (i.e., stop social distancing) unless both vaccine efficacy and vaccination coverage are fairly high.
+    #
+    #   this does not mean that a vaccine with a lower efficacy may not be useful. For example, a vaccine could also help reduce the burden on the healthcare system so that it is not overwhelmed (e.g., a vaccine efficacy of 40% could prevent ≥2.8 million patients from requiring a ventilator and ≥89.5 million hospital bed days). In addition, vaccination could be combined with other control measures (e.g., test–trace–isolate, mandatory masking).
+    #
+    #   A vaccine with a lower efficacy could also be used for targeted vaccination (e.g., response to a local outbreak or to protect certain groups). As this study shows, even if a vaccine does not prevent or extinguish an epidemic, it can still save a considerable number of lives, hospitalizations, and costs.
+    #   https://doi.org/10.1016/j.amepre.2020.06.011
+    #
+
 
 
 ############

@@ -16,7 +16,7 @@ index: hide
 
     claim !Phase3 =
 
-    claim !Reasoning =   
+    claim !Reasoning =
 
 
   >  ChAdOx1 (AstraZeneca)
@@ -44,7 +44,7 @@ index: hide
   # On going Trials - https://clinicaltrials.gov/ct2/show/NCT04540419
   # https://clinicaltrials.gov/ct2/show/NCT04526990
 
-  -
-    'Zhu_et_al_08_15_2020
-    'Zhu_et_al_08_15_2020.!a
-    'Zhu_et_al_08_15_2020.!b
+  # -
+  #   'Zhu_et_al_08_15_2020
+  #   'Zhu_et_al_08_15_2020.!a
+  #   'Zhu_et_al_08_15_2020.!b

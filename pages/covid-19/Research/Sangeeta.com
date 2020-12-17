@@ -1,6 +1,573 @@
 feed Sangeeta
+
   #
-  // DUMMY TITLE
+  // ChAdOx1 nCoV-19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaques
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head = We show that a single vaccination with ChAdOx1 nCoV-19 is effective in preventing damage to the lungs after challenging non-human primates (NHPs) with a high dose of SARS-CoV-2 to both upper and lower respiratory tract, and a prime–boost regimen significantly increased humoral immune responses.
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in December 20191,2 and is responsible for the coronavirus disease 2019 (COVID-19) pandemic. Vaccines are an essential countermeasure and are urgently needed to control the pandemic. Here we show that the adenovirus-vector-based vaccine ChAdOx1 nCoV-19, which encodes the spike protein of SARS-CoV-2, is immunogenic in mice and elicites a robust humoral and cell-mediated response. This response was predominantly mediated by type-1 T helper cells, as demonstrated by the profiling of the IgG subclass and the expression of cytokines. Vaccination with ChAdOx1 nCoV-19 (using either a prime-only or a prime–boost regimen) induced a balanced humoral and cellular immune response of type-1 and type-2 T helper cells in rhesus macaques. We observed a significantly reduced viral load in the bronchoalveolar lavage fluid and lower respiratory tract tissue of vaccinated rhesus macaques that were challenged with SARS-CoV-2 compared with control animals, and no pneumonia was observed in vaccinated SARS-CoV-2-infected animals. However, there was no difference in nasal shedding between vaccinated and control SARS-CoV-2-infected macaques. Notably, we found no evidence of immune-enhanced disease after viral challenge in vaccinated SARS-CoV-2-infected animals. The safety, immunogenicity and efficacy profiles of ChAdOx1 nCoV-19 against symptomatic PCR-positive COVID-19 disease will now be assessed in randomized controlled clinical trials in humans.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / July, 2020 - Nature
+    quote !a = We observed a significantly reduced viral load in the bronchoalveolar lavage fluid and lower respiratory tract tissue of vaccinated rhesus macaques that were challenged with SARS-CoV-2 compared with control animals, and no pneumonia was observed in vaccinated SARS-CoV-2-infected animals.
+
+    / July, 2020 - Nature
+    quote !b = Vaccination with ChAdOx1 nCoV-19 (using either a prime-only or a prime–boost regimen) induced a balanced humoral and cellular immune response of type-1 and type-2 T helper cells in rhesus macaques.
+
+    / July, 2020 - Nature
+    quote !c = We found no evidence of immune-enhanced disease after viral challenge in vaccinated SARS-CoV-2-infected animals.
+
+
+
+
+  #
+  // Recombinant adenovirus type 5 HIV gag/pol/nef vaccine in South Africa: unblinded, long-term follow-up of the phase 2b HVTN 503/Phambili study
+  doi: https://doi.org/10.1016/S1473-3099(14)70020-9
+  ref 'Gray_et_al_02_20_2014
+    head = The increased risk of HIV-1 acquisition in vaccine recipients, irrespective of number of doses received, warrants further investigation to understand the biological mechanism. We caution against further use of the Ad5 vector for HIV vaccines.
+
+    > Background
+      The HVTN 503/Phambili study, which assessed the efficacy of the Merck Ad5 gag/pol/nef subtype B HIV-1 preventive vaccine in South Africa, was stopped when futility criteria in the Step study (assessing the same vaccine in the Americas, Caribbean, and Australia) were met. Here we report long-term follow-up data.
+
+    > Methods
+      HVTN 503/Phambili was a double-blind, placebo-controlled, randomised trial that recruited HIV-1 uninfected, sexually active adults aged 18–35 years from five sites in South Africa. Eligible participants were randomly assigned (1:1) by computer-generated random numbers to either vaccine or placebo, stratified by site and sex. Cox proportional hazards models were used to estimate HIV-1 infection in the modified intention-to-treat cohort, all of whom were unmasked early in follow-up. The trial is registered with ClinicalTrials.gov, number NCT00413725 and the South African National Health Research Database, number DOH-27-0207-1539.
+
+    > Findings
+      Between Jan 24, 2007, and Sept 19, 2007, 801 participants (26·7%) of a planned 3000 were randomly assigned (400 to vaccine, 401 to placebo); 216 (27%) received only one injection, 529 (66%) received only two injections, and 56 (7%) received three injections. At a median follow-up of 42 months (IQR 31–42), 63 vaccine recipients (16%) had HIV-1 infection compared with 37 placebo recipients (9%; adjusted HR 1·70, 95% CI 1·13–2·55; p=0·01). Risk for HIV-1 infection did not differ according to the number of vaccinations received, sex, circumcision, or adenovirus type 5 (Ad5) serostatus. Differences in risk behaviour at baseline or during the study, or annualised dropout rate (7·7% [95% CI 6·2–9·5] for vaccine recipients vs 8·8% [7·1–10·7] for placebo recipients; p=0·40) are unlikely explanations for the increased rate of HIV-1 infections seen in vaccine recipients.
+
+    > Interpretation
+      The increased risk of HIV-1 acquisition in vaccine recipients, irrespective of number of doses received, warrants further investigation to understand the biological mechanism. We caution against further use of the Ad5 vector for HIV vaccines.
+
+    - quotes
+      !a
+
+    / February, 2014 - The Lancet Infectious Diseases
+    quote !a =
+
+
+
+
+  #
+  // Safety and Immunogenicity of SARS-CoV-2 mRNA-1273 Vaccine in Older Adults
+  doi: https://doi.org/10.1056/NEJMoa2028436
+  ref 'Anderson_et_al_09_29_2020
+    head = We conducted a phase 1, dose-escalation, open-label trial of a messenger RNA vaccine, mRNA-1273, which encodes the stabilized prefusion SARS-CoV-2 spike protein (S-2P) in healthy adults. The trial was expanded to include 40 older adults, who were stratified according to age (56 to 70 years or ≥71 years).
+
+    > Background
+      Testing of vaccine candidates to prevent infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in an older population is important, since increased incidences of illness and death from coronavirus disease 2019 (Covid-19) have been associated with an older age.
+
+    > Methods
+      We conducted a phase 1, dose-escalation, open-label trial of a messenger RNA vaccine, mRNA-1273, which encodes the stabilized prefusion SARS-CoV-2 spike protein (S-2P) in healthy adults. The trial was expanded to include 40 older adults, who were stratified according to age (56 to 70 years or ≥71 years). All the participants were assigned sequentially to receive two doses of either 25 μg or 100 μg of vaccine administered 28 days apart.
+
+    > Results
+      Solicited adverse events were predominantly mild or moderate in severity and most frequently included fatigue, chills, headache, myalgia, and pain at the injection site. Such adverse events were dose-dependent and were more common after the second immunization. Binding-antibody responses increased rapidly after the first immunization. By day 57, among the participants who received the 25-μg dose, the anti–S-2P geometric mean titer (GMT) was 323,945 among those between the ages of 56 and 70 years and 1,128,391 among those who were 71 years of age or older; among the participants who received the 100-μg dose, the GMT in the two age subgroups was 1,183,066 and 3,638,522, respectively. After the second immunization, serum neutralizing activity was detected in all the participants by multiple methods. Binding- and neutralizing-antibody responses appeared to be similar to those previously reported among vaccine recipients between the ages of 18 and 55 years and were above the median of a panel of controls who had donated convalescent serum. The vaccine elicited a strong CD4 cytokine response involving type 1 helper T cells.
+
+    > Conclusions
+      In this small study involving older adults, adverse events associated with the mRNA-1273 vaccine were mainly mild or moderate. The 100-μg dose induced higher binding- and neutralizing-antibody titers than the 25-μg dose, which supports the use of the 100-μg dose in a phase 3 vaccine trial. (Funded by the National Institute of Allergy and Infectious Diseases and others; mRNA-1273 Study ClinicalTrials.gov number, NCT04283461. opens in new tab.)
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / September, 2020 - The New England Journal of Medicine
+    quote !a = In our study population of older participants (≥56 years of age), the two-dose vaccine series had an acceptable safety and reactogenicity profile with mostly mild-to-moderate local and systemic adverse events of short duration, which occurred predominantly after the second dose.
+
+    / September, 2020 - The New England Journal of Medicine
+    quote !b = The 100-μg dose induced higher binding- and neutralizing-antibody titers than the 25-μg dose, which supports the use of the 100-μg dose in a phase 3 vaccine trial.
+
+    / September, 2020 - The New England Journal of Medicine
+    quote !c = These data also suggest that a second dose of vaccine is needed to achieve neutralizing antibodies in participants after the age of 56 years, and titers rapidly increased by 7 days after the booster vaccination.
+
+    / September, 2020 - The New England Journal of Medicine
+    quote !d = Our assessments of antibody responses have focused on the 614D strain (the initial Wuhan-1 strain sequence), although the 614G polymorphism in SARS-CoV-2 spike has rapidly spread to become the globally predominant isoform, which suggests a selective advantage. However, we observed an increase in neutralizing activity on the pseudovirus neutralization assay when 614G was substituted for 614D. These data are consistent with results in mice that were vaccinated with mRNA-127316 and with observations from convalescent donor serum. These data are reassuring that immune responses to mRNA-1273 may not be compromised by the presence of the 614G strain.
+
+
+
+  // Immunogenicity and safety of a recombinant adenovirus type-5-vectored COVID-19 vaccine in healthy adults aged 18 years or older: a randomised, double-blind, placebo-controlled, phase 2 trial
+  doi: https://doi.org/10.1016/S0140-6736(20)31605-6
+  ref 'Zhu_et_al_07_20_2020
+    head = 508 eligible participants consented to participate in the trial and were randomly assigned to receive the vaccine (1 × 1011 viral particles n=253; 5 × 1010 viral particles n=129) or placebo (n=126). In the 1 × 1011 and 5 × 1010 viral particles dose groups, the RBD-specific ELISA antibodies peaked, with seroconversion rates at 96% and 97%, respectively, at day 28.
+
+    > Background
+      This is the first randomised controlled trial for assessment of the immunogenicity and safety of a candidate non-replicating adenovirus type-5 (Ad5)-vectored COVID-19 vaccine, aiming to determine an appropriate dose of the candidate vaccine for an efficacy study.
+
+    > Methods
+      This randomised, double-blind, placebo-controlled, phase 2 trial of the Ad5-vectored COVID-19 vaccine was done in a single centre in Wuhan, China. Healthy adults aged 18 years or older, who were HIV-negative and previous severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection-free, were eligible to participate and were randomly assigned to receive the vaccine at a dose of 1 × 1011 viral particles per mL or 5 × 1010 viral particles per mL, or placebo. Investigators allocated participants at a ratio of 2:1:1 to receive a single injection intramuscularly in the arm. The randomisation list (block size 4) was generated by an independent statistician. Participants, investigators, and staff undertaking laboratory analyses were masked to group allocation. The primary endpoints for immunogenicity were the geometric mean titres (GMTs) of specific ELISA antibody responses to the receptor binding domain (RBD) and neutralising antibody responses at day 28. The primary endpoint for safety evaluation was the incidence of adverse reactions within 14 days. All recruited participants who received at least one dose were included in the primary and safety analyses. This study is registered with ClinicalTrials.gov, NCT04341389.
+
+    >  Findings
+      603 volunteers were recruited and screened for eligibility between April 11 and 16, 2020. 508 eligible participants (50% male; mean age 39·7 years, SD 12·5) consented to participate in the trial and were randomly assigned to receive the vaccine (1 × 1011 viral particles n=253; 5 × 1010 viral particles n=129) or placebo (n=126). In the 1 × 1011 and 5 × 1010 viral particles dose groups, the RBD-specific ELISA antibodies peaked at 656·5 (95% CI 575·2–749·2) and 571·0 (467·6–697·3), with seroconversion rates at 96% (95% CI 93–98) and 97% (92–99), respectively, at day 28. Both doses of the vaccine induced significant neutralising antibody responses to live SARS-CoV-2, with GMTs of 19·5 (95% CI 16·8–22·7) and 18·3 (14·4–23·3) in participants receiving 1 × 1011 and 5 × 1010 viral particles, respectively. Specific interferon γ enzyme-linked immunospot assay responses post vaccination were observed in 227 (90%, 95% CI 85–93) of 253 and 113 (88%, 81–92) of 129 participants in the 1 × 1011 and 5 × 1010 viral particles dose groups, respectively. Solicited adverse reactions were reported by 183 (72%) of 253 and 96 (74%) of 129 participants in the 1 × 1011 and 5 × 1010 viral particles dose groups, respectively. Severe adverse reactions were reported by 24 (9%) participants in the 1 × 1011 viral particles dose group and one (1%) participant in the 5 × 1010 viral particles dose group. No serious adverse reactions were documented.
+
+    > Interpretation
+      The Ad5-vectored COVID-19 vaccine at 5 × 1010 viral particles is safe, and induced significant immune responses in the majority of recipients after a single immunisation.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / July, 2020 - The Lancet
+    quote !a = Severe adverse reactions were reported by 24 (9%) participants in the 1 × 1011 viral particles dose group and one (1%) participant in the 5 × 1010 viral particles dose group.
+
+    / July, 2020 - The Lancet
+    quote !b = The Ad5-vectored COVID-19 vaccine at 5 × 1010 viral particles is safe, and induced significant immune responses in the majority of recipients after a single immunisation.
+
+    / July, 2020 - The Lancet
+    quote !c = Most reactions reported post vaccination were mild or moderate. Although the proportions of participants who had adverse reactions such as fever, fatigue, and injection site pain were significantly higher in vaccine recipients than those in placebo recipients, adverse reactions within 28 days were generally not severe, and resolved within a short period of time (no more than 48 h).
+
+    / July, 2020 - The Lancet
+    quote !d = The occurrence of fever was associated with decreasing age and low pre-existing immunity to the vaccine vector Ad5 virus. 19 (90%) of the 21 participants who experienced grade 3 fever had no pre-existing immunity to Ad5, with a neutralising antibody titre below detection.
+
+    / July, 2020 - The Lancet
+    quote !e = Increasing age and high pre-existing anti-Ad5 immunity were found to be able to significantly reduce the immune responses to the vaccine. In some participants with high pre-existing anti-Ad5 immunity, one injection of the vaccine might be inadequate to induce a high level of humoral immune responses, particularly for people aged 55 years or older.
+
+    / July, 2020 - The Lancet
+    quote !f = The vaccine recipients in this study showed increased anti-Ad5 neutralising antibodies, by 5·0-times and 3·8-times in the 1 × 1011 viral particles and 5 × 1010 viral particles dose groups, respectively, at day 28 post vaccination. The high level of anti-Ad5 immunity could affect the boosting effect of the vaccine.
+
+
+
+  #
+  // Immunity duration of a recombinant adenovirus type-5 vector-based Ebola vaccine and a homologous prime-boost immunisation in healthy adults in China: final report of a randomised, double-blind, placebo-controlled, phase 1 trial
+  doi: https://doi.org/10.1016/s2214-109x(16)30367-9
+  ref 'Li_et_al_12_22_2016
+    head = In a randomised, double-blind, placebo-controlled, phase 1 clinical trial in one site in Jiangsu Province, China, 120 healthy adults aged 18–60 years received an initial dose of intramuscular adenovirus type-5 Ebola virus vaccine of 4·0 × 1010 viral particles, 1·6 × 1011 viral particles, or placebo, and were followed up to day 168. Participants were subsequently re-recruited to receive a booster dose of the same vaccine or placebo, in the same dose, at month 6.
+
+    > Background
+      The 2013–15 Ebola virus disease epidemic in west Africa greatly accelerated the development of Ebola vaccine. We aimed to analyse the immune persistence induced by one shot of an adenovirus type-5 vector-based Ebola virus vaccine up to 6 months and the effect of boosting with a homologous vector in healthy adults in China.
+
+    > Methods
+      In a randomised, double-blind, placebo-controlled, phase 1 clinical trial in one site in Jiangsu Province, China, 120 healthy adults aged 18–60 years received an initial dose of intramuscular adenovirus type-5 Ebola virus vaccine of 4·0 × 1010 viral particles, 1·6 × 1011 viral particles, or placebo, and were followed up to day 168. Participants were subsequently re-recruited to receive a booster dose of the same vaccine or placebo, in the same dose, at month 6. Women who were pregnant, breastfeeding, or planned to become pregnant during the next month were excluded. Randomisation was conducted by computer-generated block randomisation. Randomisation data were unmasked for interim analysis of the data obtained between days 0–28 but not disclosed to participants or site staff. Safety and immunogenicity analysis were done on the intention-to-treat population. We aimed to assess the safety profile of the experimental vaccine and the immunity responses to a single-dose immunisation or a homologous prime-boost regimen. Primary outcomes were Ebola glycoprotein-specific ELISA antibody responses 28 days post-boost and the occurrences of adverse reactions post-boost. The original trial and the extended booster study were registered with ClinicalTrials.gov, numbers NCT02326194 and NCT02533791, respectively.
+
+    > Findings
+      Between Dec 28, 2014, and Jan 9, 2015, we enrolled 210 volunteers. 90 participants were not randomised due to not meeting inclusion criteria (61), meeting exclusion criteria (4), or withdrawal of consent (25). 120 people were randomly assigned to receive intramuscular Ebola vaccine at 4·0 × 1010 viral particles (low dose, n=40), Ebola vaccine at 1·6 × 1011 viral particles (high dose, n=40), or placebo (n=40, in two groups of 20). After prime vaccination, the geometric mean titer (GMT) of ELISA EC90 peaked at 682·7 (95% CI 424·3–1098·5) in the low-dose vaccine group and 1305·7 (970·1–1757·2) in the high-dose vaccine group at day 28, and then fell gradually through the next a few months to 575·5 (394·8–838·8) in the high-dose vaccine group and 197·9 (107·9–362·7) in the low-dose vaccine group at day 168. No specific response was recorded in the placebo group with a GMT of 5·0. Of the 120 participants involved in the initial trial, ten participants declined to participate, and 110 were included in the boost immunisation: 38 received the low dose, 35 received the high dose, and 37 received the placebo. At day 28 after boost vaccination, the ELISA EC90 titres rapidly rose to 6110 (95% CI 4705–7935) in the low-dose group and to 11825 (8904–15705) in the high dose group. 78 of 110 participants reported at least one solicited adverse reaction within the first 7 days after booster administration. Both of the groups who received vaccine showed significantly higher incidence of mild or moderate solicited adverse reactions than did the placebo group.
+
+    > Interpretation
+      The adenovirus 5-vectored Ebola vaccine of 1·6 × 1011 viral particles was highly immunogenic and safe. The lower dose of 4·0 × 1010 viral particles was also safe, but immunogenicity seemed to be more vulnerable to the pre-existing immunity of adenovirus 5. A homologous priming-boosting regimen with adenovirus type-5 Ebola vaccine at 6 months interval was able to elicit greater antibody responses with longer duration. These results support an immunisation strategy to implement a booster injection for a more durable protection against Ebola virus disease.
+
+    - quotes
+      !a
+      !b
+
+    / December, 2016 - Lancet Glob Health.
+    quote !a = The adenovirus 5-vectored Ebola vaccine of 1·6 × 1011 viral particles was highly immunogenic and safe. The lower dose of 4·0 × 1010 viral particles was also safe, but immunogenicity seemed to be more vulnerable to the pre-existing immunity of adenovirus 5.
+
+    / December, 2016 - Lancet Glob Health.
+    quote !b = A homologous priming-boosting regimen with adenovirus type-5 Ebola vaccine at 6 months interval was able to elicit greater antibody responses with longer duration. These results support an immunisation strategy to implement a booster injection for a more durable protection against Ebola virus disease.
+
+
+  #
+  // A two-dose heterologous prime-boost vaccine regimen eliciting sustained immune responses to Ebola Zaire could support a preventive strategy for future outbreaks.
+  doi: https://doi.org/10.1080/21645515.2017.1264755
+  ref 'Shukarev_et_al_02_20_2020
+    head = Ad26.ZEBOV/MVA-BN-Filo is an investigational Ebola Zaire vaccine regimen that uses heterologous prime-boost approach.
+
+    > Abstract
+      The consequences of the 2013–16 Ebola Zaire virus disease epidemic in West Africa were grave. The economies, healthcare systems and communities of Guinea, Sierra Leone and Liberia were devastated by over 18 months of active Ebola virus transmission, followed by sporadic resurgences potentially related to sexual transmission by survivors with viral persistence in body fluids following recovery. The need to develop and implement strategies to prevent and mitigate future outbreaks is now beyond dispute. The potential for unpredictable outbreaks of indeterminate duration, and control challenges posed by the possibility of sporadic re-emergence, mean that implementation of an effective vaccination program for outbreak containment necessitates a vaccine providing durable immunity. Heterologous prime-boost vaccine regimens deliver the same or similar antigens through different vaccine types, the first to prime and the second to boost the immune system. Ad26.ZEBOV/MVA-BN-Filo is an investigational Ebola Zaire vaccine regimen that uses this heterologous prime-boost approach. Preliminary Phase 1 data suggest that Ad26.ZEBOV/MVA-BN-Filo confers durable immunity for at least 240 d and is well-tolerated with a good safety profile. This regimen may therefore be suitable for prophylactic use in a regional or targeted population vaccination strategy, and could potentially aid prevention and control of future Ebola outbreaks.
+
+    - quotes
+      !a
+
+    / February, 2020 - Human Vaccines & Immunotherapeutics
+    quote !a = Data from preliminary studies suggest that the heterologous prime-boost Ad26.ZEBOV/MVA-BN-Filo vaccine regimen confers durable immunity with a good safety and tolerability profile. This regimen may therefore be well-suited to prophylactic use, potentially underpinning preventive vaccination strategies in the event of a new outbreak.
+
+
+
+  #
+  // Safety and immunogenicity of GamEvac-Combi, a heterologous VSV- and Ad5-vectored Ebola vaccine: an open phase I/II trial in healthy adults in Russia.
+  doi: https://doi.org/10.1080/21645515.2016.1238535
+  ref 'Dolzhikova_et_al_02_02_2017
+    head = In this open-label, dose-escalation clinical trial, we assessed the safety, side effects, and immunogenicity of a novel, heterologous prime-boost vaccine against Ebola, which was administered in 2 doses to 84 healthy adults of both sexes between 18 and 55 years. The vaccine consists of live-attenuated recombinant vesicular stomatitis virus (VSV) and adenovirus serotype-5 (Ad5) expressing Ebola envelope glycoprotein.
+
+    > Abstract
+      Ebola hemorrhagic fever, also known as Ebola virus disease or EVD, is one of the most dangerous viral diseases in humans and animals. In this open-label, dose-escalation clinical trial, we assessed the safety, side effects, and immunogenicity of a novel, heterologous prime-boost vaccine against Ebola, which was administered in 2 doses to 84 healthy adults of both sexes between 18 and 55 years. The vaccine consists of live-attenuated recombinant vesicular stomatitis virus (VSV) and adenovirus serotype-5 (Ad5) expressing Ebola envelope glycoprotein. The most common adverse event was pain at the injection site, although no serious adverse events were reported. The vaccine did not significantly impact blood, urine, and immune indices. Seroconversion rate was 100 %. Antigen-specific IgG geometric mean titer at day 42 was 3,277 (95 % confidence interval 2,401–4,473) in volunteers immunized at full dose. Neutralizing antibodies were detected in 93.1 % of volunteers immunized at full dose, with geometric mean titer 20. Antigen-specific response in peripheral blood mononuclear cells was also detected in 100 % of participants, as well as in CD4+ and CD8+ T cells in 82.8 % and 58.6 % of participants vaccinated at full dose, respectively. The data indicate that the vaccine is safe and induces strong humoral and cellular immune response in up to 100 % of healthy adult volunteers, and provide a rationale for testing efficacy in Phase III trials. Indeed, the strong immune response to the vaccine may elicit long-term protection. This trial was registered with grls.rosminzdrav.ru (No. 495*), and with zakupki.gov.ru (No. 0373100043215000055).
+
+    - quotes
+      !a
+
+    / February, 2017 - Hum Vaccin Immunother.
+    quote !a = The data collectively show that the vaccine is highly immunogenic, and induces strong humoral and cellular immune response in up to 100 % of healthy adult volunteers. The data also demonstrate that a vaccine based on VSV-glycoprotein and Ad5-glycoprotein does not cause serious side effects, and has a good safety profile in healthy adult volunteers.
+
+
+
+  #
+  // Safety and immunogenicity of a heterologous prime-boost Ebola virus vaccine regimen in healthy adults in the United Kingdom and Senegal.
+  doi: https://doi.org/10.1093/infdis/jiy639
+  ref 'Venkatraman_et_al_11_08_2018
+    head = We undertook 2 phase 1 studies assessing safety and immunogenicity of the viral vector modified vaccinia Ankara virus vectored Ebola Zaire vaccine (MVA-EBO-Z), manufactured rapidly on a new duck cell line either alone or in a heterologous prime-boost regimen with recombinant chimpanzee adenovirus type 3 vectored Ebola Zaire vaccine (ChAd3-EBO-Z) followed by MVA-EBO-Z.
+
+    > Background
+      The 2014 West African outbreak of Ebola virus disease highlighted the urgent need to develop an effective Ebola vaccine.
+
+    > Methods
+      We undertook 2 phase 1 studies assessing safety and immunogenicity of the viral vector modified vaccinia Ankara virus vectored Ebola Zaire vaccine (MVA-EBO-Z), manufactured rapidly on a new duck cell line either alone or in a heterologous prime-boost regimen with recombinant chimpanzee adenovirus type 3 vectored Ebola Zaire vaccine (ChAd3-EBO-Z) followed by MVA-EBO-Z. Adult volunteers in the United Kingdom (n = 38) and Senegal (n = 40) were vaccinated and an accelerated 1-week prime-boost regimen was assessed in Senegal. Safety was assessed by active and passive collection of local and systemic adverse events.
+
+    > Results
+      The standard and accelerated heterologous prime-boost regimens were well-tolerated and elicited potent cellular and humoral immunogenicity in the United Kingdom and Senegal, but vaccine-induced antibody responses were significantly lower in Senegal. Cellular immune responses measured by flow cytometry were significantly greater in African vaccinees receiving ChAd3 and MVA vaccines in the same rather than the contralateral limb.
+
+    > Conclusions
+      MVA biomanufactured on an immortalized duck cell line shows potential for very large-scale manufacturing with lower cost of goods. This first trial of MVA-EBO-Z in humans encourages further testing in phase 2 studies, with the 1-week prime-boost interval regimen appearing to be particularly suitable for outbreak control.
+
+    - quotes
+      !a
+      !b
+
+
+    / November, 2018 - The Journal of Infectious Diseases
+    quote !a = MVA biomanufactured on an immortalized duck cell line shows potential for very large-scale manufacturing with lower cost of goods. This first trial of MVA-EBO-Z in humans encourages further testing in phase 2 studies, with the 1-week prime-boost interval regimen appearing to be particularly suitable for outbreak control.
+
+    / November, 2018 - The Journal of Infectious Diseases
+    quote !b = Our study shows that the heterologous prime-boost immunization with ChAd3-EBO-Z followed by MVA-EBO-Z was safe and immunogenic and supports further testing in populations at risk of EVD in phase 2 and phase 3 studies.
+
+
+
+  # RNA-Based COVID-19 Vaccine BNT162b2 Selected for a Pivotal Efficacy Study - was published in medrix before this paper.
+  // Safety and Immunogenicity of Two RNA-Based Covid-19 Vaccine Candidates
+  doi: https://doi.org/10.1056/NEJMoa2027906
+  ref 'Walsh_et_al_10_14_2020
+    head = In an ongoing, placebo-controlled, observer-blinded, dose-escalation, phase 1 trial conducted in the United States, we randomly assigned healthy adults 18 to 55 years of age and those 65 to 85 years of age to receive either placebo or one of two lipid nanoparticle–formulated, nucleoside-modified RNA vaccine candidates: BNT162b1, which encodes a secreted trimerized SARS-CoV-2 receptor–binding domain; or BNT162b2, which encodes a membrane-anchored SARS-CoV-2 full-length spike, stabilized in the prefusion conformation.
+
+    > Background
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections and the resulting disease, coronavirus disease 2019 (Covid-19), have spread to millions of persons worldwide. Multiple vaccine candidates are under development, but no vaccine is currently available. Interim safety and immunogenicity data about the vaccine candidate BNT162b1 in younger adults have been reported previously from trials in Germany and the United States.
+
+    > Methods
+      In an ongoing, placebo-controlled, observer-blinded, dose-escalation, phase 1 trial conducted in the United States, we randomly assigned healthy adults 18 to 55 years of age and those 65 to 85 years of age to receive either placebo or one of two lipid nanoparticle–formulated, nucleoside-modified RNA vaccine candidates: BNT162b1, which encodes a secreted trimerized SARS-CoV-2 receptor–binding domain; or BNT162b2, which encodes a membrane-anchored SARS-CoV-2 full-length spike, stabilized in the prefusion conformation. The primary outcome was safety (e.g., local and systemic reactions and adverse events); immunogenicity was a secondary outcome. Trial groups were defined according to vaccine candidate, age of the participants, and vaccine dose level (10 μg, 20 μg, 30 μg, and 100 μg). In all groups but one, participants received two doses, with a 21-day interval between doses; in one group (100 μg of BNT162b1), participants received one dose.
+
+    > Results
+      A total of 195 participants underwent randomization. In each of 13 groups of 15 participants, 12 participants received vaccine and 3 received placebo. BNT162b2 was associated with a lower incidence and severity of systemic reactions than BNT162b1, particularly in older adults. In both younger and older adults, the two vaccine candidates elicited similar dose-dependent SARS-CoV-2–neutralizing geometric mean titers, which were similar to or higher than the geometric mean titer of a panel of SARS-CoV-2 convalescent serum samples.
+
+    > Conclusions
+      The safety and immunogenicity data from this U.S. phase 1 trial of two vaccine candidates in younger and older adults, added to earlier interim safety and immunogenicity data regarding BNT162b1 in younger adults from trials in Germany and the United States, support the selection of BNT162b2 for advancement to a pivotal phase 2–3 safety and efficacy evaluation.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !e
+      !f
+
+    / October, 2020 - The New England Journal of Medicine
+    quote !a = The safety and immunogenicity data from this U.S. phase 1 trial of two vaccine candidates in younger and older adults, added to earlier interim safety and immunogenicity data regarding BNT162b1 in younger adults from trials in Germany and the United States, support the selection of BNT162b2 (at the 30-μg dose level) for advancement to a pivotal phase 2–3 safety and efficacy evaluation in participants 18 to 85 years of age..
+
+    / October, 2020 - The New England Journal of Medicine
+    quote !b = BNT162b2 was associated with a lower incidence and severity of systemic reactions than BNT162b1, particularly in older adults.
+
+    / October, 2020 - The New England Journal of Medicine
+    quote !c = The immunogenicity of the two vaccine candidates decreased with age, eliciting lower overall humoral responses in adults 65 to 85 years of age than in those 18 to 55 years of age.
+
+    # / October, 2020 - The New England Journal of Medicine
+    # quote !d = At 7 days and 14 days after the second dose, the 50% and 90% neutralizing geometric mean titers (GMTs) that were elicited by 30 μg of BNT162b2 in older adults exceeded those of the convalescent serum panel.
+
+    / October, 2020 - The New England Journal of Medicine
+    quote !e = In both younger and older adults, the two vaccine candidates elicited similar dose-dependent SARS-CoV-2–neutralizing geometric mean titers, which were similar to or higher than the geometric mean titer of a panel of SARS-CoV-2 convalescent serum samples.
+
+    / October, 2020 - The New England Journal of Medicine
+    quote !f = Antibody responses in both younger and older adults showed a clear benefit of a second dose.
+
+
+
+  #
+  // Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine
+  doi: https://doi.org/10.1056/NEJMoa2034577
+  ref 'Polack_et_al_12_10_2020
+    head = In an ongoing multinational, placebo-controlled, observer-blinded, pivotal efficacy trial, we randomly assigned persons 16 years of age or older in a 1:1 ratio to receive two doses, 21 days apart, of either placebo or the BNT162b2 vaccine candidate (30 μg per dose).
+
+    > Background
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and the resulting coronavirus disease 2019 (Covid-19) have afflicted tens of millions of people in a worldwide pandemic. Safe and effective vaccines are needed urgently.
+
+    > Methods
+      In an ongoing multinational, placebo-controlled, observer-blinded, pivotal efficacy trial, we randomly assigned persons 16 years of age or older in a 1:1 ratio to receive two doses, 21 days apart, of either placebo or the BNT162b2 vaccine candidate (30 μg per dose). BNT162b2 is a lipid nanoparticle–formulated, nucleoside-modified RNA vaccine that encodes a prefusion stabilized, membrane-anchored SARS-CoV-2 full-length spike protein. The primary end points were efficacy of the vaccine against laboratory-confirmed Covid-19 and safety.
+
+    > Results
+      A total of 43,548 participants underwent randomization, of whom 43,448 received injections: 21,720 with BNT162b2 and 21,728 with placebo. There were 8 cases of Covid-19 with onset at least 7 days after the second dose among participants assigned to receive BNT162b2 and 162 cases among those assigned to placebo; BNT162b2 was 95% effective in preventing Covid-19 (95% credible interval, 90.3 to 97.6). Similar vaccine efficacy (generally 90 to 100%) was observed across subgroups defined by age, sex, race, ethnicity, baseline body-mass index, and the presence of coexisting conditions. Among 10 cases of severe Covid-19 with onset after the first dose, 9 occurred in placebo recipients and 1 in a BNT162b2 recipient. The safety profile of BNT162b2 was characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. The incidence of serious adverse events was low and was similar in the vaccine and placebo groups.
+
+    > Conclusions
+      A two-dose regimen of BNT162b2 conferred 95% protection against Covid-19 in persons 16 years of age or older. Safety over a median of 2 months was similar to that of other viral vaccines.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !f
+
+    / December, 2020 - The New England Journal of Medicine
+    quote !a = A two-dose regimen of BNT162b2 conferred 95% protection against Covid-19 in persons 16 years of age or older. Safety over a median of 2 months was similar to that of other viral vaccines.
+
+    # / December, 2020 - The New England Journal of Medicine
+    # quote !a = The vaccine met both primary efficacy end points, with more than a 99.99% probability of a true vaccine efficacy greater than 30% and greatly exceeded the minimum FDA criteria for authorization.
+
+    / December, 2020 - The New England Journal of Medicine
+    quote !b = Although the study was not powered to definitively assess efficacy by subgroup, the point estimates of efficacy for subgroups based on age, sex, race, ethnicity, body-mass index, or the presence of an underlying condition associated with a high risk of Covid-19 complications are also high.
+
+    / December, 2020 - The New England Journal of Medicine
+    quote !c = This report does not address the prevention of Covid-19 in other populations, such as younger adolescents, children, and pregnant women.
+
+    / December, 2020 - The New England Journal of Medicine
+    quote !d = Although the vaccine can be stored for up to 5 days at standard refrigerator temperatures once ready for use, very cold temperatures are required for shipping and longer storage.
+
+    # / December, 2020 - The New England Journal of Medicine
+    # quote !e = Among 10 cases of severe Covid-19 with onset after the first dose, 9 occurred in placebo recipients and 1 in a BNT162b2 recipient.
+
+    / December, 2020 - The New England Journal of Medicine
+    quote !f = The safety profile of BNT162b2 was characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. The incidence of serious adverse events was low and was similar in the vaccine and placebo groups.
+
+
+
+  #
+  // Vaccine efficacy needed for a COVID-19 coronavirus vaccine to prevent or stop an epidemic as the sole intervention.
+  doi: https://doi.org/10.1016/j.amepre.2020.06.011
+  ref 'Bartsch_et_al_07_15_2020
+    head = To help establish the ideal goals for the vaccine efficacies needed to prevent and extinguish a COVID-19 coronavirus epidemic, the team developed a computational simulation model representing the U.S. population, the spread of SARS-CoV-2, and the impact of a vaccine under various conditions.
+
+    > Introduction
+      Given the continuing COVID-19 pandemic and much of the U.S. implementing social distancing owing to the lack of alternatives, there has been a push to develop a vaccine to eliminate the need for social distancing.
+
+    > Methods
+      In 2020, the team developed a computational model of the U.S. simulating the spread of COVID-19 coronavirus and vaccination.
+
+    > Results
+      Simulation experiments revealed that to prevent an epidemic (reduce the peak by >99%), the vaccine efficacy has to be at least 60% when vaccination coverage is 100% (reproduction number=2.5–3.5). This vaccine efficacy threshold rises to 70% when coverage drops to 75% and up to 80% when coverage drops to 60% when reproduction number is 2.5, rising to 80% when coverage drops to 75% when the reproduction number is 3.5. To extinguish an ongoing epidemic, the vaccine efficacy has to be at least 60% when coverage is 100% and at least 80% when coverage drops to 75% to reduce the peak by 85%–86%, 61%–62%, and 32% when vaccination occurs after 5%, 15%, and 30% of the population, respectively, have already been exposed to COVID-19 coronavirus. A vaccine with an efficacy between 60% and 80% could still obviate the need for other measures under certain circumstances such as much higher, and in some cases, potentially unachievable, vaccination coverages.
+
+    > Conclusions
+      This study found that the vaccine has to have an efficacy of at least 70% to prevent an epidemic and of at least 80% to largely extinguish an epidemic without any other measures (e.g., social distancing).
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / July, 2020 - American Journal of Preventive Medicine
+    quote !a = To extinguish an ongoing epidemic, the vaccine efficacy has to be at least 60% when coverage is 100% and at least 80% when coverage drops to 75% to reduce the peak by 85%–86%, 61%–62%, and 32% when vaccination occurs after 5%, 15%, and 30% of the population, respectively, have already been exposed to COVID-19 coronavirus.
+
+    / July, 2020 - American Journal of Preventive Medicine
+    quote !b = In the absence of other interventions to prevent an epidemic, the vaccine has to have an efficacy (i.e., probability of preventing infection) of at least 70% when vaccination covers at least 75% of the population.
+
+    / July, 2020 - American Journal of Preventive Medicine
+    quote !c = A vaccine with an efficacy between 60% and 80% could still obviate the need for other measures under certain circumstances such as much higher, and in some cases, potentially unachievable, vaccination coverages.
+
+    / July, 2020 - American Journal of Preventive Medicine
+    quote !d = Even if a vaccine does not prevent or extinguish an epidemic, it can still save a considerable number of lives, hospitalizations, and costs.
+
+
+
+  #
+  // Immunogenicity of reduced dose priming schedules of serogroup C meningococcal conjugate vaccine followed by booster at 12 months in infants: open label randomised controlled trial.
+  doi: https://doi.org/10.1136/bmj.h1554
+  ref 'Pace_et_al_02_17_2015
+    head = MenC vaccination programmes with two MenC infant priming doses could be reduced to a single priming dose without reducing post-boost antibody titres.
+
+    > Objective
+      To determine whether the immunogenicity of a single dose infant priming schedule of serogroup C meningococcal (MenC) conjugate vaccine is non-inferior to a two dose priming schedule when followed by a booster dose at age 12 months.
+
+    > Design
+      Phase IV open label randomised controlled trial carried out from July 2010 until August 2013
+
+    > Setting
+      Four centres in the United Kingdom and one centre in Malta.
+
+    > Participants
+      Healthy infants aged 6-12 weeks followed up until age 24 months.
+
+    > Interventions
+      In the priming phase of the trial 509 infants were randomised in a 10:10:7:4 ratio into four groups to receive either a single MenC-cross reacting material 197 (CRM) dose at 3 months; two doses of MenC-CRM at 3 and 4 months; a single MenC-polysaccharide-tetanus toxoid (TT) dose at 3 months; or no MenC doses, respectively. Haemophilus influenzae type b (Hib)-MenC-TT vaccine was administered to all infants at 12 months of age. All infants also received the nationally routinely recommended vaccines. Blood samples were taken at age 5, 12, 13, and 24 months.
+
+    > Main outcome measure
+      MenC serum bactericidal antibody assay with rabbit complement (rSBA) one month after the Hib-MenC-TT vaccine. Non-inferiority was met if the lower 95% confidence limit of the difference in the mean log10 MenC rSBA between the single dose MenC-CRM and the two dose MenC-CRM groups was >−0.35.
+
+    > Results
+      The primary objective was met: after a Hib-MenC-TT booster dose at 12 months of age the MenC rSBA geometric mean titres induced in infants primed with a single MenC-CRM dose were not inferior to those induced in participants primed with two MenC-CRM doses in infancy (660 (95% confidence interval 498 to 876) v 295 (220 to 398)) with a corresponding difference in the mean log10 MenC rSBA of 0.35 (0.17 to 0.53) that showed superiority of the single over the two dose schedule). Exploration of differences between the priming schedules showed that one month after Hib-MenC-TT vaccination, MenC rSBA ≥1:8 was observed in >96% of participants previously primed with any of the MenC vaccine schedules in infancy and in 83% of those who were not vaccinated against MenC in infancy. The MenC rSBA geometric mean titres induced by the Hib-MenC-TT boost were significantly higher in children who were primed with one rather than two MenC-CRM doses in infancy. Only priming with MenC-TT, however, induced robust MenC bactericidal antibody after the Hib-MenC-TT booster that persisted until 24 months of age.
+
+    > Conclusions
+      MenC vaccination programmes with two MenC infant priming doses could be reduced to a single priming dose without reducing post-boost antibody titres. When followed by a Hib-MenC-TT booster dose, infant priming with a single MenC-TT vaccine dose induces a more robust antibody response than one or two infant doses of MenC-CRM. Bactericidal antibody induced by a single Hib-MenC-TT conjugate vaccine dose at 12 months of age (that is, a toddler only schedule), without infant priming, is not well sustained at 24 months. Because of rapid waning of MenC antibody, programmes using toddler only schedules will still need to rely on herd protection to protect infants and young children.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / February, 2015 - BMJ
+    quote !a = When followed by a Hib-MenC-TT booster dose, infant priming with a single MenC-TT vaccine dose induces a more robust antibody response than one or two infant doses of MenC-CRM.
+
+    / February, 2015 - BMJ
+    quote !b = Increasing the number of MenC-CRM doses in infancy reduces the subsequent immune response to a MenC glycoconjugate booster.
+
+    / February, 2015 - BMJ
+    quote !c = Bactericidal antibody induced by a single Hib-MenC-TT conjugate vaccine dose at 12 months of age (that is, a toddler only schedule), without infant priming, is not well sustained at 24 months.
+
+    / February, 2015 - BMJ
+    quote !d = In the absence of any infant MenC vaccine priming doses, the protection provided by just one MenC vaccine dose administered at 12 months of age would strongly rely on the persistence of herd protection, induced by a previous catch up MenC immunisation campaign, which could then be maintained by a booster in adolescence.
+
+
+
+  # ChAdOx1 nCoV-19 vaccine (AZD1222)
+  // Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine administered in a prime-boost regimen in young and old adults (COV002): a single-blind, randomised, controlled, phase 2/3 trial
+  doi: https://doi.org/10.1016/S0140-6736(20)32466-1
+  ref 'Ramasamy_et_al_11_18_2020
+    head = In this report of the phase 2 component of a single-blind, randomised, controlled, phase 2/3 trial (COV002), healthy adults aged 18 years and older were enrolled at two UK clinical research facilities, in an age-escalation manner, into 18–55 years, 56–69 years, and 70 years and older immunogenicity subgroups.
+
+    > Background
+      Older adults (aged ≥70 years) are at increased risk of severe disease and death if they develop COVID-19 and are therefore a priority for immunisation should an efficacious vaccine be developed. Immunogenicity of vaccines is often worse in older adults as a result of immunosenescence. We have reported the immunogenicity of a novel chimpanzee adenovirus-vectored vaccine, ChAdOx1 nCoV-19, in young adults, and now describe the safety and immunogenicity of this vaccine in a wider range of participants, including adults aged 70 years and older.
+
+    > Methods
+      In this report of the phase 2 component of a single-blind, randomised, controlled, phase 2/3 trial (COV002), healthy adults aged 18 years and older were enrolled at two UK clinical research facilities, in an age-escalation manner, into 18–55 years, 56–69 years, and 70 years and older immunogenicity subgroups. Participants were eligible if they did not have severe or uncontrolled medical comorbidities or a high frailty score (if aged ≥65 years). First, participants were recruited to a low-dose cohort, and within each age group, participants were randomly assigned to receive either intramuscular ChAdOx1 nCoV-19 (2·2 × 1010 virus particles) or a control vaccine, MenACWY, using block randomisation and stratified by age and dose group and study site, using the following ratios: in the 18–55 years group, 1:1 to either two doses of ChAdOx1 nCoV-19 or two doses of MenACWY; in the 56–69 years group, 3:1:3:1 to one dose of ChAdOx1 nCoV-19, one dose of MenACWY, two doses of ChAdOx1 nCoV-19, or two doses of MenACWY; and in the 70 years and older, 5:1:5:1 to one dose of ChAdOx1 nCoV-19, one dose of MenACWY, two doses of ChAdOx1 nCoV-19, or two doses of MenACWY. Prime-booster regimens were given 28 days apart. Participants were then recruited to the standard-dose cohort (3·5–6·5 × 1010 virus particles of ChAdOx1 nCoV-19) and the same randomisation procedures were followed, except the 18–55 years group was assigned in a 5:1 ratio to two doses of ChAdOx1 nCoV-19 or two doses of MenACWY. Participants and investigators, but not staff administering the vaccine, were masked to vaccine allocation. The specific objectives of this report were to assess the safety and humoral and cellular immunogenicity of a single-dose and two-dose schedule in adults older than 55 years. Humoral responses at baseline and after each vaccination until 1 year after the booster were assessed using an in-house standardised ELISA, a multiplex immunoassay, and a live severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) microneutralisation assay (MNA80). Cellular responses were assessed using an ex-vivo IFN-γ enzyme-linked immunospot assay. The coprimary outcomes of the trial were efficacy, as measured by the number of cases of symptomatic, virologically confirmed COVID-19, and safety, as measured by the occurrence of serious adverse events. Analyses were by group allocation in participants who received the vaccine. Here, we report the preliminary findings on safety, reactogenicity, and cellular and humoral immune responses. This study is ongoing and is registered with ClinicalTrials.gov, NCT04400838, and ISRCTN, 15281137.
+
+    > Findings
+      Between May 30 and Aug 8, 2020, 560 participants were enrolled: 160 aged 18–55 years (100 assigned to ChAdOx1 nCoV-19, 60 assigned to MenACWY), 160 aged 56–69 years (120 assigned to ChAdOx1 nCoV-19: 40 assigned to MenACWY), and 240 aged 70 years and older (200 assigned to ChAdOx1 nCoV-19: 40 assigned to MenACWY). Seven participants did not receive the boost dose of their assigned two-dose regimen, one participant received the incorrect vaccine, and three were excluded from immunogenicity analyses due to incorrectly labelled samples. 280 (50%) of 552 analysable participants were female. Local and systemic reactions were more common in participants given ChAdOx1 nCoV-19 than in those given the control vaccine, and similar in nature to those previously reported (injection-site pain, feeling feverish, muscle ache, headache), but were less common in older adults (aged ≥56 years) than younger adults. In those receiving two standard doses of ChAdOx1 nCoV-19, after the prime vaccination local reactions were reported in 43 (88%) of 49 participants in the 18–55 years group, 22 (73%) of 30 in the 56–69 years group, and 30 (61%) of 49 in the 70 years and older group, and systemic reactions in 42 (86%) participants in the 18–55 years group, 23 (77%) in the 56–69 years group, and 32 (65%) in the 70 years and older group. As of Oct 26, 2020, 13 serious adverse events occurred during the study period, none of which were considered to be related to either study vaccine. In participants who received two doses of vaccine, median anti-spike SARS-CoV-2 IgG responses 28 days after the boost dose were similar across the three age cohorts (standard-dose groups: 18–55 years, 20 713 arbitrary units [AU]/mL [IQR 13 898–33 550], n=39; 56–69 years, 16 170 AU/mL [10 233–40 353], n=26; and ≥70 years 17 561 AU/mL [9705–37 796], n=47; p=0·68). Neutralising antibody titres after a boost dose were similar across all age groups (median MNA80 at day 42 in the standard-dose groups: 18–55 years, 193 [IQR 113–238], n=39; 56–69 years, 144 [119–347], n=20; and ≥70 years, 161 [73–323], n=47; p=0·40). By 14 days after the boost dose, 208 (>99%) of 209 boosted participants had neutralising antibody responses. T-cell responses peaked at day 14 after a single standard dose of ChAdOx1 nCoV-19 (18–55 years: median 1187 spot-forming cells [SFCs] per million peripheral blood mononuclear cells [IQR 841–2428], n=24; 56–69 years: 797 SFCs [383–1817], n=29; and ≥70 years: 977 SFCs [458–1914], n=48).
+
+    > Interpretation
+      ChAdOx1 nCoV-19 appears to be better tolerated in older adults than in younger adults and has similar immunogenicity across all age groups after a boost dose. Further assessment of the efficacy of this vaccine is warranted in all age groups and individuals with comorbidities.
+
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / November, 2020 - The Lancet
+    quote !a = ChAdOx1 nCoV-19 vaccine was safe and well tolerated with a lower reactogenicity profile in older adults than in younger adults and has similar immunogenicity across all age groups after a boost dose. Further assessment of the efficacy of this vaccine is warranted in all age groups and individuals with comorbidities.
+
+    / November, 2020 - The Lancet
+    quote !b = Most of the reported local and systemic adverse events were mild to moderate in severity, in line with our previous phase 1 study of the ChAdOx1 nCoV-19 vaccine
+
+    / November, 2020 - The Lancet
+    quote !c = Fewer adverse events were reported after the boost vaccination than after the prime vaccination and reactogenicity reduced with increasing age. The lower dose of vaccine was less reactogenic than the standard dose of vaccine across all age groups.
+
+
+
+  // Why Oxford’s positive COVID vaccine results are puzzling scientists
+  doi: https://doi.org/10.1038/d41586-020-03504-w
+  ref 'Callaway_et_al_11_23_2020
+    head = Preliminary data suggest that the immunization was more effective in trial participants who received a lower dose. This article explores otential dosing regimen explanations/ theories given by researchers for why a lower first dose might have led to better protection against COVID-19.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / November, 2020 - Nature
+    quote !a = One explanation could lie in the data: the trial might not have been big enough to gauge the differences between the two regimens, in which case the differences might vanish once more cases of COVID-19 are detected. The more effective ‘half-dose, full dose’ results were based on 2,741 trial participants, whereas the less efficacious arm included 8,895 volunteers. The press release did not specify in which group cases occurred.
+
+    / November, 2020 - Nature
+    quote !b = It’s possible that lower doses of vaccine do a better job at stimulating the subset of immune cells called T cells that support the production of antibodies,
+
+    / November, 2020 - Nature
+    quote !c = Another potential explanation is the immune system’s response to the chimpanzee virus. The vaccine triggers a reaction not only to the SARS-CoV-2 spike protein, but also to components of the viral vector. It’s possible that the full first dose blunted this reaction.
+
+    / November, 2020 - Nature
+    quote !d = Hildegund Ertl, a viral immunologist at the Wistar Institute in Philadelphia, says the results make sense in the light of some of her work on adenovirus vaccines in mice. She, too, has found that for a two-dose vaccine, a low first dose can lead to better protection than a high first dose. She thinks this is because a lower first dose leads more quickly to the establishment of ‘memory’ immune cells that are triggered by a second-dose boost. Waiting longer between the two doses could achieve the same effect.
+
+
+
+  // Oxford COVID-vaccine paper highlights lingering unknowns about results
+  doi: https://doi.org/10.1038/d41586-020-03504-w
+  ref 'Ledford_et_al_12_08_2020
+    head = Results from the Oxford COVID-vaccine paper phase III trials detailed data highlights a number of lingering unknowns, including questions about the most effective dosing regimen and how well it works in older adults.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / December, 2020 - Nature
+    quote !a = Researchers have struggled to explain how a higher efficacy could be achieved from a lower initial dose, and trial investigators have said that a separate trial is needed to follow up on the finding. Furthermore, the low-dose arm of the trial did not include anyone over the age of 55, raising concerns that the higher efficacy was merely a by-product of excluding an age group that is particularly vulnerable to COVID-19.
+
+    / December, 2020 - Nature
+    quote !b = It remains unclear how much the over-55 age group will benefit from even the standard dose of the vaccine: only 12% of those in the group evaluated for vaccine efficacy were over 55.
+
+    / December, 2020 - Nature
+    quote !c = The Oxford–AstraZeneca team is the only one of the three leading vaccine developers that monitored for asymptomatic infections, by collecting weekly swabs from some participants to determine whether they had the coronavirus but did not become ill. The data show that the low-dose vaccine regimen was about 60% effective at reducing asymptomatic infections, but it is unclear whether the standard dose significantly reduced them at all.
+
+
+
+
+
+  # 11/12 ChAdOx1 nCoV-19 vaccine (AZD1222),
+  // Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK
+  doi: https://doi.org/10.1016/S0140-6736(20)32661-1
+  ref 'Voysey_et_al_12_08_2020
+    head = We present the first interim safety and efficacy data for a viral vector coronavirus vaccine, ChAdOx1 nCoV-19, evaluated in four trials across three continents, showing significant vaccine efficacy of 70·4% after two doses and protection of 64·1% after at least one standard dose, against symptomatic disease, with no safety concerns.
+
+    > Background
+      A safe and efficacious vaccine against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), if deployed with high coverage, could contribute to the control of the COVID-19 pandemic. We evaluated the safety and efficacy of the ChAdOx1 nCoV-19 vaccine in a pooled interim analysis of four trials.
+
+    > Methods
+      This analysis includes data from four ongoing blinded, randomised, controlled trials done across the UK, Brazil, and South Africa. Participants aged 18 years and older were randomly assigned (1:1) to ChAdOx1 nCoV-19 vaccine or control (meningococcal group A, C, W, and Y conjugate vaccine or saline). Participants in the ChAdOx1 nCoV-19 group received two doses containing 5 × 1010 viral particles (standard dose; SD/SD cohort); a subset in the UK trial received a half dose as their first dose (low dose) and a standard dose as their second dose (LD/SD cohort). The primary efficacy analysis included symptomatic COVID-19 in seronegative participants with a nucleic acid amplification test-positive swab more than 14 days after a second dose of vaccine. Participants were analysed according to treatment received, with data cutoff on Nov 4, 2020. Vaccine efficacy was calculated as 1 - relative risk derived from a robust Poisson regression model adjusted for age. Studies are registered at ISRCTN89951424 and ClinicalTrials.gov, NCT04324606, NCT04400838, and NCT04444674.
+
+    > Findings
+      Between April 23 and Nov 4, 2020, 23 848 participants were enrolled and 11 636 participants (7548 in the UK, 4088 in Brazil) were included in the interim primary efficacy analysis. In participants who received two standard doses, vaccine efficacy was 62·1% (95% CI 41·0–75·7; 27 [0·6%] of 4440 in the ChAdOx1 nCoV-19 group vs71 [1·6%] of 4455 in the control group) and in participants who received a low dose followed by a standard dose, efficacy was 90·0% (67·4–97·0; three [0·2%] of 1367 vs 30 [2·2%] of 1374; pinteraction=0·010). Overall vaccine efficacy across both groups was 70·4% (95·8% CI 54·8–80·6; 30 [0·5%] of 5807 vs 101 [1·7%] of 5829). From 21 days after the first dose, there were ten cases hospitalised for COVID-19, all in the control arm; two were classified as severe COVID-19, including one death. There were 74 341 person-months of safety follow-up (median 3·4 months, IQR 1·3–4·8): 175 severe adverse events occurred in 168 participants, 84 events in the ChAdOx1 nCoV-19 group and 91 in the control group. Three events were classified as possibly related to a vaccine: one in the ChAdOx1 nCoV-19 group, one in the control group, and one in a participant who remains masked to group allocation.
+
+    > Interpretation
+      ChAdOx1 nCoV-19 has an acceptable safety profile and has been found to be efficacious against symptomatic COVID-19 in this interim analysis of ongoing clinical trials.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / December, 2020 - The Lancet
+    quote !a = In participants who received two standard doses, vaccine efficacy was 62·1% and in participants who received a low dose followed by a standard dose, efficacy was 90·0%. Overall vaccine efficacy across both groups was 70·4%.
+
+    / December, 2020 - The Lancet
+    quote !b = The data shows that ChAdOx1 nCov-19 is efficacious against symptomatic disease, with most cases accruing in adults younger than 55 years of age so far. We have reported immunogenicity data showing similar immune responses following vaccination with two doses of ChAdOx1 nCov-19 in older adults, including those older than 70 years of age, when compared with those younger than 55 years.
+
+    / December, 2020 - The Lancet
+    quote !c = Asymptomatic infections or those with unreported symptoms were detected in 69 participants (table 2). Vaccine efficacy in the 24 LD/SD recipients was 58·9%, whereas it was 3·8% (−72·4 to 46·3) in the 45 participants receiving SD/SD.
+
+    # / December, 2020 - The Lancet
+    # quote !d = From 21 days after the first dose, there were ten cases hospitalised for COVID-19, all in the control arm; two were classified as severe COVID-19, including one death.
+
+    # / December, 2020 - The Lancet
+    # quote !e = 175 severe adverse events occurred in 168 participants, 84 events in the ChAdOx1 nCoV-19 group and 91 in the control group. Three events were classified as possibly related to a vaccine: one in the ChAdOx1 nCoV-19 group, one in the control group, and one in a participant who remains masked to group allocation.
+
+    # / December, 2020 - The Lancet
+    # quote !f = We have previously reported on the local and systemic reactogenicity of ChAdOx1 nCoV-19 and shown that it is tolerated and that the side-effects are less both in intensity and number in older adults, with lower doses, and after the second dose.
+
+
+
+  #
+  // Mass Testing for SARS-CoV-2 in 16 Prisons and Jails — Six Jurisdictions, United States, April–May 2020
+  doi: http://dx.doi.org/10.15585/mmwr.mm6933a3
+  ref 'Hagan_et_al_08_21_2020
+    head =
+
+    - quotes
+      !a
+
+    / August, 2020 - MMWR
+    quote !a =
+
+
+
+  #
+  // Characterization of Aerosols Generated During Patient Care Activities
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+  #
+  // Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
     head =
@@ -12,32 +579,21 @@ feed Sangeeta
     quote !a =
 
   #
-  // DUMMY TITLE
+  // Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment
   doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
+  ref 'Swennen_et_al_04_04_2020
     head =
 
     - quotes
       !a
 
-    / February, 2020 - bioRxiv
+    / April, 2020 - bioRxiv
     quote !a =
 
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
 
 
   #
-  // DUMMY TITLE
+  // Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
     head =
@@ -49,30 +605,6 @@ feed Sangeeta
     quote !a =
 
 
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-
-  #
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
 
 
   #
@@ -337,6 +869,8 @@ feed Sangeeta
     quote !a = The most common adverse reaction was injection site pain, followed by fever, which were mild and self-limiting; no serious adverse reactions were noted.
 
 
+
+
   # ASK AYUSH IF HE HAS DONE THIS PAPER
   // Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial
   doi: https://doi.org/10.1016/S0140-6736(20)31604-4
@@ -390,7 +924,7 @@ feed Sangeeta
   // Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial
   doi: https://doi.org/10.1016/S0140-6736(20)31208-3
   ref 'Zhu_et_al_05_22_2020
-    head =  This is the first report on a first-inhuman clinical trial of a novel Ad5 vectored COVID-19 vaccine. The Ad5 vectored COVID-19 vaccine is tolerable and immunogenic at 28 days post-vaccination. Humoral responses against SARS-CoV-2 peaked at day 28 post-vaccination in healthy adults, and rapid specific T-cell responses were noted from day 14 post-vaccination. Our findings suggest that the Ad5 vectored COVID-19 vaccine warrants further investigation.
+    head = We did a dose-escalation, single-centre, open-label, non-randomised, phase 1 trial of an Ad5 vectored COVID-19 vaccine expressing the spike glycoprotein of a SARS-CoV-2 strain in Wuhan, China. Healthy adults aged between 18 and 60 years were sequentially enrolled and  allocated to one of three dose groups (5×10¹⁰, 1×10¹¹, and 1·5×10¹¹ viral particles) to receive an intramuscular  injection of vaccine.
 
     > Background
       A vaccine to protect against COVID-19 is urgently needed. We aimed to assess the safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 (Ad5) vectored COVID-19 vaccine expressing the spike glycoprotein of a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) strain.
@@ -406,13 +940,22 @@ feed Sangeeta
 
     - quotes
       !a
+      !b
+      !c
 
     / May, 2020 - Lancet
-    quote !a =  The most common adverse reactions were fever, fatigue, headache, and muscle pain with no significant difference in the incidence of adverse reactions across the groups. Most adverse events reported were mild or moderate in severity.
+    quote !a = The Ad5 vectored COVID-19 vaccine is tolerable and immunogenic at 28 days post-vaccination. Humoral responses against SARS-CoV-2 peaked at day 28 post-vaccination in healthy adults, and rapid specific T-cell responses were noted from day 14 post-vaccination. Our findings suggest that the Ad5 vectored COVID-19 vaccine warrants further investigation.
+
+    / May, 2020 - Lancet
+    quote !b = The most common adverse reactions were fever, fatigue, headache, and muscle pain with no significant difference in the incidence of adverse reactions across the groups. Most adverse events reported were mild or moderate in severity.
+
+    / May, 2020 - Lancet
+    quote !c = Our study found that the pre-existing Ad5 immunity could slow down the rapid immune responses to SARS-CoV-2 and also lower the peak of the responses, particularly for humoral immunity.
 
 
 
-  #
+
+  # CoronaVac
   // Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18–59 years: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial
   doi: https://doi.org/10.1016/S1473-3099(20)30843-4
   ref 'Zhang_et_al_11_17_2020
@@ -440,8 +983,6 @@ feed Sangeeta
 
     / November, 2020 - The Lancet Infectious Diseases
     quote !b = Most adverse reactions were mild, with the most common symptom being injection-site pain. Compared with other COVID-19 vaccine candidates, such as viral-vectored vaccines or DNA or RNA vaccines, the occurrence of fever after vaccination with CoronaVac was relatively low.
-
-
 
 
 
@@ -498,11 +1039,13 @@ feed Sangeeta
     / April, 2020 - Emerging Infectious Diseases
     quote !b = IgG seroconversion can be reliably confirmed in the second week after disease onset
 
+
+
   #
   // DNA vaccine protection against SARS-CoV-2 in rhesus macaques
   doi: https://doi.org/10.1126/science.abc6284
   ref 'Yu_et_al_08_14_2020
-    head = We developed a series of DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike (S) protein and evaluated them in 35 rhesus macaques.Vaccine-elicited neutralizing antibody titers correlated with protective efficacy, suggesting an immune correlate of protection. These data demonstrate vaccine protection against SARS-CoV-2 in nonhuman primates.
+    head = We developed a series of DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike (S) protein and evaluated them in 35 rhesus macaques. Vaccine-elicited neutralizing antibody titers correlated with protective efficacy, suggesting an immune correlate of protection. These data demonstrate vaccine protection against SARS-CoV-2 in nonhuman primates.
 
     > Abstract
       The global coronavirus disease 2019 (COVID-19) pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has made the development of a vaccine a top biomedical priority. In this study, we developed a series of DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike (S) protein and evaluated them in 35 rhesus macaques. Vaccinated animals developed humoral and cellular immune responses, including neutralizing antibody titers at levels comparable to those found in convalescent humans and macaques infected with SARS-CoV-2. After vaccination, all animals were challenged with SARS-CoV-2, and the vaccine encoding the full-length S protein resulted in >3.1 and >3.7 log10 reductions in median viral loads in bronchoalveolar lavage and nasal mucosa, respectively, as compared with viral loads in sham controls. Vaccine-elicited neutralizing antibody titers correlated with protective efficacy, suggesting an immune correlate of protection. These data demonstrate vaccine protection against SARS-CoV-2 in nonhuman primates.
@@ -648,95 +1191,96 @@ feed Sangeeta
 
 
 
-    # DNA vaccine,
-    // Pre-existing immunity against Ad vectors Humoral, cellular, and innate response, what's important?
-    doi: https://doi.org/10.4161/hv.29594
-    ref 'Bovendo_et_al_11_01_2014
-      head = This review will first summarize the contributions of the different arms of the immune system toward pre-existing immunity against Ad vectors. Then, the mechanisms of evasion of the main strategies developed to circumvent pre-existing Ad immunity will be reviewed.
+  # DNA vaccine,
+  // Pre-existing immunity against Ad vectors Humoral, cellular, and innate response, what's important?
+  doi: https://doi.org/10.4161/hv.29594
+  ref 'Bovendo_et_al_11_01_2014
+    head = This review will first summarize the contributions of the different arms of the immune system toward pre-existing immunity against Ad vectors. Then, the mechanisms of evasion of the main strategies developed to circumvent pre-existing Ad immunity will be reviewed.
 
-      > Abstract
-        Pre-existing immunity against human adenovirus (HAd) serotype 5 derived vector in the human population is widespread, thus hampering its clinical use. Various components of the immune system, including neutralizing antibodies (nAbs), Ad specific T cells and type I IFN activated NK cells, contribute to dampening the efficacy of Ad vectors in individuals with pre-existing Ad immunity. In order to circumvent pre-existing immunity to adenovirus, numerous strategies, such as developing alternative Ad serotypes, varying immunization routes and utilizing prime-boost regimens, are under pre-clinical or clinical phases of development. However, these strategies mainly focus on one arm of pre-existing immunity. Selection of alternative serotypes has been largely driven by the absence in the human population of nAbs against them with little attention paid to cross-reactive Ad specific T cells. Conversely, varying the route of immunization appears to mainly rely on avoiding Ad specific tissue-resident T cells. Finally, prime-boost regimens do not actually circumvent pre-existing immunity but instead generate immune responses of sufficient magnitude to confer protection despite pre-existing immunity. Combining the above strategies and thus taking into account all components regulating pre-existing Ad immunity will help further improve the development of Ad vectors for animal and human use.
+    > Abstract
+      Pre-existing immunity against human adenovirus (HAd) serotype 5 derived vector in the human population is widespread, thus hampering its clinical use. Various components of the immune system, including neutralizing antibodies (nAbs), Ad specific T cells and type I IFN activated NK cells, contribute to dampening the efficacy of Ad vectors in individuals with pre-existing Ad immunity. In order to circumvent pre-existing immunity to adenovirus, numerous strategies, such as developing alternative Ad serotypes, varying immunization routes and utilizing prime-boost regimens, are under pre-clinical or clinical phases of development. However, these strategies mainly focus on one arm of pre-existing immunity. Selection of alternative serotypes has been largely driven by the absence in the human population of nAbs against them with little attention paid to cross-reactive Ad specific T cells. Conversely, varying the route of immunization appears to mainly rely on avoiding Ad specific tissue-resident T cells. Finally, prime-boost regimens do not actually circumvent pre-existing immunity but instead generate immune responses of sufficient magnitude to confer protection despite pre-existing immunity. Combining the above strategies and thus taking into account all components regulating pre-existing Ad immunity will help further improve the development of Ad vectors for animal and human use.
 
-      - quotes
-        !a
-        !b
-        !c
-        !d
-        !e
-        !f
-        !g
-        !h
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !a = Adenovirus (Ad) derived vectors have been shown to successfully elicit strong cellular and humoral immune responses in rodents, non-human primates (NHP) as well as in humans after a single injection. In preclinical studies, among all human Ad vectors tested, those derived from human adenovirus serotype 5 (HAd5) have emerged as the gold standard for immunization due to their superior immunogenicity. However, although HAd5 vectors were highly efficacious in pre-clinical studies, they did not perform as anticipated in clinical trials due to pre-existing HAd5 immunity in the participants from natural exposure.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !a = Adenovirus (Ad) derived vectors have been shown to successfully elicit strong cellular and humoral immune responses in rodents, non-human primates (NHP) as well as in humans after a single injection. In preclinical studies, among all human Ad vectors tested, those derived from human adenovirus serotype 5 (HAd5) have emerged as the gold standard for immunization due to their superior immunogenicity. However, although HAd5 vectors were highly efficacious in pre-clinical studies, they did not perform as anticipated in clinical trials due to pre-existing HAd5 immunity in the participants from natural exposure.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !b = Adenoviruses are some of the pathogens that can cause the common cold and a significant proportion of the human population have antibodies against these viruses due to past infections naturally acquired in the community, notably during childhood. These natural exposures can be responsible for long-lasting immunity (pre-existing immunity) that can interfere with HAd-based vaccines.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !b = Adenoviruses are some of the pathogens that can cause the common cold and a significant proportion of the human population have antibodies against these viruses due to past infections naturally acquired in the community, notably during childhood. These natural exposures can be responsible for long-lasting immunity (pre-existing immunity) that can interfere with HAd-based vaccines.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !c = In a phase I trial, individuals with pre-existing HAd5 immunity mounted lower immune responses compared with participants without pre-existing immunity. Pre-existing immunity to HAd5 was even associated with undesirable effects beyond neutralization of the benefits intended from vaccination.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !c = In a phase I trial, individuals with pre-existing HAd5 immunity mounted lower immune responses compared with participants without pre-existing immunity. Pre-existing immunity to HAd5 was even associated with undesirable effects beyond neutralization of the benefits intended from vaccination.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !d = The negative impact of pre-existing HAd5 immunity was illustrated in the infamous STEP trial during which a lower frequency of individuals with high HAd5 Ab titers developed a cellular response to the transgenes (HIV Gag, Pol and Nef). Furthermore, pre-existing HAd5 immunity was associated with an increase in HIV acquisition in vaccinated participants in comparison to the placebo.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !d = The negative impact of pre-existing HAd5 immunity was illustrated in the infamous STEP trial during which a lower frequency of individuals with high HAd5 Ab titers developed a cellular response to the transgenes (HIV Gag, Pol and Nef). Furthermore, pre-existing HAd5 immunity was associated with an increase in HIV acquisition in vaccinated participants in comparison to the placebo.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !e = Pre-existing HAd5 immunity was not taken into account in pre-clinical studies as animals used in these studies, such as mice and NHPs, are not naturally infected by HAd5 or other human Ads.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !e = Pre-existing HAd5 immunity was not taken into account in pre-clinical studies as animals used in these studies, such as mice and NHPs, are not naturally infected by HAd5 or other human Ads.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !f = In pre-clinical studies, alternating the immunization route has bypassed pre-existing Ad immunity. Immunization through the airway holds promise and may turn out to be a delivery method of choice for inducing potent and long lasting protective immune responses from an Ad vector.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !f = In pre-clinical studies, alternating the immunization route has bypassed pre-existing Ad immunity. Immunization through the airway holds promise and may turn out to be a delivery method of choice for inducing potent and long lasting protective immune responses from an Ad vector.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !g = The immune response generated by prime-boost regimens may be sufficient to induce full protection despite pre-existing Ad immunity. Developing prime-boost regimens using Ad vectors where limited to no nAbs or cross-reactive T cells in the target population should further increase the chance of success.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !g = The immune response generated by prime-boost regimens may be sufficient to induce full protection despite pre-existing Ad immunity. Developing prime-boost regimens using Ad vectors where limited to no nAbs or cross-reactive T cells in the target population should further increase the chance of success.
 
-      / November, 2020 - Hum Vaccin Immunother.
-      quote !h = Optimization of prime-boost regimens will be labor intensive due to the increasing number of available vaccine platforms. Useful data regarding the ability of prime-boost regimens to overcome pre-existing HAd immunity will certainly be generated by clinical trials involving ChAd/MVA prime-boost. Careful analysis of these trials should provide crucial protection information in the presence or absence of pre-existing Ad immunity.
-
-
-
-    # recombinant adenoviral vectors
-    // Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia.
-    doi: https://doi.org/10.1016/S0140-6736(20)31866-3
-    ref 'Logunov_et_al_09_04_2020
-      head = These findings of two open, phase 1/2 non-randomised studies of a heterologous prime-boost COVID-19 vaccine based on recombinant adenoviral vectors rAd26-S and rAd5-S show that the vaccine is safe, well tolerated, highly immunogenic and induces strong humoral and cellular immune responses in 100% of healthy participants. All reported adverse events were mostly mild.
-
-      > Background
-        We developed a heterologous COVID-19 vaccine consisting of two components, a recombinant adenovirus type 26 (rAd26) vector and a recombinant adenovirus type 5 (rAd5) vector, both carrying the gene for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike glycoprotein (rAd26-S and rAd5-S). We aimed to assess the safety and immunogenicity of two formulations (frozen and lyophilised) of this vaccine.
-
-      > Methods
-        We did two open, non-randomised phase 1/2 studies at two hospitals in Russia. We enrolled healthy adult volunteers (men and women) aged 18–60 years to both studies. In phase 1 of each study, we administered intramuscularly on day 0 either one dose of rAd26-S or one dose of rAd5-S and assessed the safety of the two components for 28 days. In phase 2 of the study, which began no earlier than 5 days after phase 1 vaccination, we administered intramuscularly a prime-boost vaccination, with rAd26-S given on day 0 and rAd5-S on day 21. Primary outcome measures were antigen-specific humoral immunity (SARS-CoV-2-specific antibodies measured by ELISA on days 0, 14, 21, 28, and 42) and safety (number of participants with adverse events monitored throughout the study). Secondary outcome measures were antigen-specific cellular immunity (T-cell responses and interferon-γ concentration) and change in neutralising antibodies (detected with a SARS-CoV-2 neutralisation assay). These trials are registered with ClinicalTrials.gov, NCT04436471 and NCT04437875.
-
-      > Findings
-        Between June 18 and Aug 3, 2020, we enrolled 76 participants to the two studies (38 in each study). In each study, nine volunteers received rAd26-S in phase 1, nine received rAd5-S in phase 1, and 20 received rAd26-S and rAd5-S in phase 2. Both vaccine formulations were safe and well tolerated. The most common adverse events were pain at injection site (44 [58%]), hyperthermia (38 [50%]), headache (32 [42%]), asthenia (21 [28%]), and muscle and joint pain (18 [24%]). Most adverse events were mild and no serious adverse events were detected. All participants produced antibodies to SARS-CoV-2 glycoprotein. At day 42, receptor binding domain-specific IgG titres were 14 703 with the frozen formulation and 11 143 with the lyophilised formulation, and neutralising antibodies were 49·25 with the frozen formulation and 45·95 with the lyophilised formulation, with a seroconversion rate of 100%. Cell-mediated responses were detected in all participants at day 28, with median cell proliferation of 2·5% CD4+ and 1·3% CD8+ with the frozen formulation, and a median cell proliferation of 1·3% CD4+ and 1·1% CD8+ with the lyophilised formulation.
-
-      > Interpretation
-        The heterologous rAd26 and rAd5 vector-based COVID-19 vaccine has a good safety profile and induced strong humoral and cellular immune responses in participants. Further investigation is needed of the effectiveness of this vaccine for prevention of COVID-19.
+    / November, 2020 - Hum Vaccin Immunother.
+    quote !h = Optimization of prime-boost regimens will be labor intensive due to the increasing number of available vaccine platforms. Useful data regarding the ability of prime-boost regimens to overcome pre-existing HAd immunity will certainly be generated by clinical trials involving ChAd/MVA prime-boost. Careful analysis of these trials should provide crucial protection information in the presence or absence of pre-existing Ad immunity.
 
 
-      - quotes
-        !a
-        !b
-        !c
-        !d
 
-      / September, 2020 - The Lancet
-      quote !a = The most common systemic and local reactions were pain at the injection site, hyperthermia (body temperature 37–38°C), headache, asthenia, and muscle and joint pain, which are typical for vaccines based on recombinant viral vectors. No serious adverse events were reported during the study.
+  # recombinant adenoviral vectors
+  // Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia.
+  doi: https://doi.org/10.1016/S0140-6736(20)31866-3
+  ref 'Logunov_et_al_09_04_2020
+    head = These findings of two open, phase 1/2 non-randomised studies of a heterologous prime-boost COVID-19 vaccine based on recombinant adenoviral vectors rAd26-S and rAd5-S show that the vaccine is safe, well tolerated, highly immunogenic and induces strong humoral and cellular immune responses in 100% of healthy participants. All reported adverse events were mostly mild.
 
-      / September, 2020 - The Lancet
-      quote !b = We showed that volunteers who received the heterologous rAd26 and rAd5 vaccine elicited the same titre of SARS-CoV-2 neutralising antibodies as did people who had recovered from COVID-19.
+    > Background
+      We developed a heterologous COVID-19 vaccine consisting of two components, a recombinant adenovirus type 26 (rAd26) vector and a recombinant adenovirus type 5 (rAd5) vector, both carrying the gene for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike glycoprotein (rAd26-S and rAd5-S). We aimed to assess the safety and immunogenicity of two formulations (frozen and lyophilised) of this vaccine.
 
-      / September, 2020 - The Lancet
-      quote !c = The vaccine showed 100% protectivity in a lethal model of SARS-CoV-2 challenge in immunosuppressed hamsters. No antibody-dependent enhancement of infection was seen in vaccinated and SARS-CoV-2-challenged animals.
+    > Methods
+      We did two open, non-randomised phase 1/2 studies at two hospitals in Russia. We enrolled healthy adult volunteers (men and women) aged 18–60 years to both studies. In phase 1 of each study, we administered intramuscularly on day 0 either one dose of rAd26-S or one dose of rAd5-S and assessed the safety of the two components for 28 days. In phase 2 of the study, which began no earlier than 5 days after phase 1 vaccination, we administered intramuscularly a prime-boost vaccination, with rAd26-S given on day 0 and rAd5-S on day 21. Primary outcome measures were antigen-specific humoral immunity (SARS-CoV-2-specific antibodies measured by ELISA on days 0, 14, 21, 28, and 42) and safety (number of participants with adverse events monitored throughout the study). Secondary outcome measures were antigen-specific cellular immunity (T-cell responses and interferon-γ concentration) and change in neutralising antibodies (detected with a SARS-CoV-2 neutralisation assay). These trials are registered with ClinicalTrials.gov, NCT04436471 and NCT04437875.
 
-      / September, 2020 - The Lancet
-      quote !d = Despite formation of neutralising antibodies to recombinant adenoviruses after vaccination with rAd26 and rAd5, formation of a humoral immune response to target antigen (SARS-CoV-2 glycoprotein S) in vaccinated volunteers was not affected. Moreover, neutralising antibodies to rAd26 did not neutralise rAd5 when serum samples from vaccinated volunteers were obtained and analysed 28 days after immunisation (and vice versa). Thus, use of a heterologous prime-boost immunisation, when rAd26-S is used for priming and rAd5-S is used for boosting, is an effective approach to elicit a robust immune response and to overcome the immune response that is formed to the components of a viral vector.
+    > Findings
+      Between June 18 and Aug 3, 2020, we enrolled 76 participants to the two studies (38 in each study). In each study, nine volunteers received rAd26-S in phase 1, nine received rAd5-S in phase 1, and 20 received rAd26-S and rAd5-S in phase 2. Both vaccine formulations were safe and well tolerated. The most common adverse events were pain at injection site (44 [58%]), hyperthermia (38 [50%]), headache (32 [42%]), asthenia (21 [28%]), and muscle and joint pain (18 [24%]). Most adverse events were mild and no serious adverse events were detected. All participants produced antibodies to SARS-CoV-2 glycoprotein. At day 42, receptor binding domain-specific IgG titres were 14 703 with the frozen formulation and 11 143 with the lyophilised formulation, and neutralising antibodies were 49·25 with the frozen formulation and 45·95 with the lyophilised formulation, with a seroconversion rate of 100%. Cell-mediated responses were detected in all participants at day 28, with median cell proliferation of 2·5% CD4+ and 1·3% CD8+ with the frozen formulation, and a median cell proliferation of 1·3% CD4+ and 1·1% CD8+ with the lyophilised formulation.
+
+    > Interpretation
+      The heterologous rAd26 and rAd5 vector-based COVID-19 vaccine has a good safety profile and induced strong humoral and cellular immune responses in participants. Further investigation is needed of the effectiveness of this vaccine for prevention of COVID-19.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / September, 2020 - The Lancet
+    quote !a = The most common systemic and local reactions were pain at the injection site, hyperthermia (body temperature 37–38°C), headache, asthenia, and muscle and joint pain, which are typical for vaccines based on recombinant viral vectors. No serious adverse events were reported during the study.
+
+    / September, 2020 - The Lancet
+    quote !b = We showed that volunteers who received the heterologous rAd26 and rAd5 vaccine elicited the same titre of SARS-CoV-2 neutralising antibodies as did people who had recovered from COVID-19.
+
+    / September, 2020 - The Lancet
+    quote !c = The vaccine showed 100% protectivity in a lethal model of SARS-CoV-2 challenge in immunosuppressed hamsters. No antibody-dependent enhancement of infection was seen in vaccinated and SARS-CoV-2-challenged animals.
+
+    / September, 2020 - The Lancet
+    quote !d = Despite formation of neutralising antibodies to recombinant adenoviruses after vaccination with rAd26 and rAd5, formation of a humoral immune response to target antigen (SARS-CoV-2 glycoprotein S) in vaccinated volunteers was not affected. Moreover, neutralising antibodies to rAd26 did not neutralise rAd5 when serum samples from vaccinated volunteers were obtained and analysed 28 days after immunisation (and vice versa). Thus, use of a heterologous prime-boost immunisation, when rAd26-S is used for priming and rAd5-S is used for boosting, is an effective approach to elicit a robust immune response and to overcome the immune response that is formed to the components of a viral vector.
+
 
 
 
   # mRNA-1273 vaccine, moderna, phase 1, USA, 89 clinical Trials
   // An mRNA Vaccine against SARS-CoV-2 — Preliminary Report
   doi: https://doi.org/10.1056/NEJMoa2022483
-  ref 'Jackson_et_al_07_14_2020
-    head = We report interim findings from this phase 1 clinical trial of the mRNA-1273 SARS-CoV-2 vaccine encoding a stabilized prefusion spike trimer, S-2P. The mRNA-1273 vaccine was immunogenic, inducing robust binding antibody responses to both full-length S-2P and receptor-binding domain in all participants after the first vaccination in a time- and dose-dependent fashion. High neutralizing antibody responses were also elicited in a dose-dependent fashion. No trial-limiting safety concerns were identified. These findings support further development of this vaccine.
+  ref 'Jackson_et_al_11_12_2020
+    head = We report interim findings from this phase 1 clinical trial of the mRNA-1273 SARS-CoV-2 vaccine encoding a stabilized prefusion spike trimer, S-2P. We conducted a phase 1, dose-escalation, open-label trial including 45 healthy adults, 18 to 55 years of age, who received two vaccinations, 28 days apart, with mRNA-1273 in a dose of 25 μg, 100 μg, or 250 μg. There were 15 participants in each dose group.
 
     > Background
       The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in late 2019 and spread globally, prompting an international effort to accelerate development of a vaccine. The candidate vaccine mRNA-1273 encodes the stabilized prefusion SARS-CoV-2 spike protein.
@@ -756,24 +1300,29 @@ feed Sangeeta
       !c
       !d
       !e
+      !f
+      !g
 
-    / July, 2020 - N Engl J Med
-    quote !a = Solicited adverse events that occurred in more than half the participants included fatigue, chills, headache, myalgia, and pain at the injection site. Systemic adverse events were more common after the second vaccination, particularly with the highest dose, and three participants (21%) in the 250-μg dose group reported one or more severe adverse events.
+    / November, 2020 - N Engl J Med
+    quote !a = The mRNA-1273 vaccine was immunogenic, inducing robust binding antibody responses to both full-length S-2P and receptor-binding domain in all participants after the first vaccination in a time- and dose-dependent fashion. High neutralizing antibody responses were also elicited in a dose-dependent fashion. No trial-limiting safety concerns were identified. These findings support further development of this vaccine.
 
-    / July, 2020 - N Engl J Med
-    quote !b = Seroconversion was rapid for binding antibodies, occurring within 2 weeks after the first vaccination, but pseudovirus neutralizing activity was low before the second vaccination, which supports the need for a two-dose vaccination schedule.
+    / November, 2020 - N Engl J Med
+    quote !b = Solicited adverse events that occurred in more than half the participants included fatigue, chills, headache, myalgia, and pain at the injection site. Systemic adverse events were more common after the second vaccination, particularly with the highest dose, and three participants (21%) in the 250-μg dose group reported one or more severe adverse events.
 
-    / July, 2020 - N Engl J Med
-    quote !c = The two-dose vaccine series was generally without serious toxicity; systemic adverse events after the first vaccination, when reported, were all graded mild or moderate. Greater reactogenicity followed the second vaccination, particularly in the 250-μg group. Across the three dose groups, local injection-site reactions were primarily mild.
+    / November, 2020 - N Engl J Med
+    quote !c = Seroconversion was rapid for binding antibodies, occurring within 2 weeks after the first vaccination, but pseudovirus neutralizing activity was low before the second vaccination, which supports the need for a two-dose vaccination schedule.
 
-    / July, 2020 - N Engl J Med
-    quote !d = Of the three doses evaluated, the 100-μg dose elicits high neutralization responses and Th1-skewed CD4 T cell responses, coupled with a reactogenicity profile that is more favorable than that of the higher dose.
+    / November, 2020 - N Engl J Med
+    quote !d = The two-dose vaccine series was generally without serious toxicity; systemic adverse events after the first vaccination, when reported, were all graded mild or moderate. Greater reactogenicity followed the second vaccination, particularly in the 250-μg group. Across the three dose groups, local injection-site reactions were primarily mild.
 
-    / July, 2020 - N Engl J Med
-    quote !e = In this interim report of follow-up of participants through day 57, we were not able to assess the durability of the immune responses.
+    / November, 2020 - N Engl J Med
+    quote !e = Of the three doses evaluated, the 100-μg dose elicits high neutralization responses and Th1-skewed CD4 T cell responses, coupled with a reactogenicity profile that is more favorable than that of the higher dose.
 
-    / July, 2020 - N Engl J Med
-    quote !f = It is important to note that both binding and neutralizing antibody titers induced by the two-dose schedule were similar to those found in convalescent serum specimens.
+    / November, 2020 - N Engl J Med
+    quote !f = In this interim report of follow-up of participants through day 57, we were not able to assess the durability of the immune responses.
+
+    / November, 2020 - N Engl J Med
+    quote !g = It is important to note that both binding and neutralizing antibody titers induced by the two-dose schedule were similar to those found in convalescent serum specimens.
 
 
 
@@ -3302,73 +3851,6 @@ feed Sangeeta
 
     / April, 2020 - medRxiv
     quote !d = The highly variable levels of NAbs in the patients of COVID-19 indicated that convalescent plasma and serum from recovered donors should be titrated before use in passive antibody therapy.
-
-
-
-  #
-  // Mass Testing for SARS-CoV-2 in 16 Prisons and Jails — Six Jurisdictions, United States, April–May 2020
-  doi: http://dx.doi.org/10.15585/mmwr.mm6933a3
-  ref 'Hagan_et_al_08_21_2020
-    head =
-
-    - quotes
-      !a
-
-    / August, 2020 - MMWR
-    quote !a =
-
-
-
-  #
-  // Characterization of Aerosols Generated During Patient Care Activities
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-
-  #
-  // Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
-  #
-  // Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment
-  doi: https://doi.org/xyz
-  ref 'Swennen_et_al_04_04_2020
-    head =
-
-    - quotes
-      !a
-
-    / April, 2020 - bioRxiv
-    quote !a =
-
-
-
-  #
-  // Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
 
 
 
