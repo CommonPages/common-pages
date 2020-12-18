@@ -2716,10 +2716,13 @@ feed Sangeeta
   // SARS-CoV-2 Virus Culture and Subgenomic RNA for Respiratory Specimens from Patients with Mild Coronavirus Disease.
   doi: https://dx.doi.org/10.3201/eid2611.203219
   ref 'Perera_et_al_08_04_2020
-    head = We found that severe acute respiratory syndrome coronavirus 2 and subgenomic RNA were rarely detectable beyond 8 days after onset of illness. However, virus RNA was detectable for many weeks by reverse transcription PCR.
+    head = We investigated 68 respiratory specimens from 35 coronavirus disease patients in Hong Kong, of whom 32 had mild disease.
+
+    - quotes
+      !a
 
     / August, 2020 - Emerging Infectious Diseases
-    quote !a =
+    quote !a = We found that severe acute respiratory syndrome coronavirus 2 and subgenomic RNA were rarely detectable beyond 8 days after onset of illness. However, virus RNA was detectable for many weeks by reverse transcription PCR.
 
 
 
@@ -3079,13 +3082,16 @@ feed Sangeeta
   // A Well Infant With Coronavirus Disease 2019 With High Viral Load
   doi: https://doi.org/10.1093/cid/ciaa201
   ref 'Kam_et_al_02_28_2020
-    head = We report a confirmed case of COVID-19 in a 6-month-old infant who was well even though there was evidence of viremia. Apart from a single transient temperature of 38.5°C, the infant had no clinical signs or symptoms. We detected a high viral load from the nasopharynx of our infant from the day of admission and it  continued to remain positive up to day 16 of admission.
+    head = A well 6-month-old infant with coronavirus disease 2019 (COVID-19) had persistently positive nasopharyngeal swabs up to day 16 of admission. This case highlights the difficulties in establishing the true incidence of COVID-19, as asymptomatic individuals can excrete the virus.
 
     > Abstract
       A well 6-month-old infant with coronavirus disease 2019 (COVID-19) had persistently positive nasopharyngeal swabs up to day 16 of admission. This case highlights the difficulties in establishing the true incidence of COVID-19, as asymptomatic individuals can excrete the virus. These patients may play important roles in human-to-human transmission in the community.
 
+    - quotes
+      !a
+
     / February, 2020 - Clinical Infectious Disease
-    quote !a =
+    quote !a = Apart from a single transient temperature of 38.5°C, the infant had no clinical signs or symptoms. We detected a high viral load from the nasopharynx of our infant from the day of admission and it  continued to remain positive up to day 16 of admission.
 
 
 
@@ -3093,24 +3099,24 @@ feed Sangeeta
   // Viral dynamics in mild and severe cases of COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30232-2
   ref 'Liu_et_al_03_19_2020
-    head = Our data indicate that, similar to SARS in 2002–03, 6 patients with severe COVID-19 tend to have a high viral load and a long virus-shedding period. This finding suggests that the viral load of SARS-CoV-2 might be a useful marker for assessing disease severity and prognosis.
+    head = We report the viral RNA shedding patterns observed in patients with mild and severe COVID-19.
 
     - quotes
       !a
-      !b
-      !d
+      # !b
+      # !d
 
     / March, 2020 - The Lancet Infectious Diseases
-    quote !a = The DCt values of severe cases were significantly lower than those of mild cases at the time of admission. The DCt values of severe cases remained significantly lower for the first 12 days after onset than those of corresponding mild cases
+    quote !a = Our data indicate that, similar to SARS in 2002–03, 6 patients with severe COVID-19 tend to have a high viral load and a long virus-shedding period. This finding suggests that the viral load of SARS-CoV-2 might be a useful marker for assessing disease severity and prognosis.
 
-    / March, 2020 - The Lancet Infectious Diseases
-    quote !b = Patients who had any of the following features at the time of, or after, admission were classified as severe cases: (1) respiratory distress (≥30 breaths per min); (2) oxygen saturation at rest ≤93%; (3) ratio of partial pressure of arterial oxygen to fractional concentration of oxygen inspired air ≤300 mm Hg; or (4) severe disease complications (eg, respiratory failure, requirement of mechanical ventilation, septic shock, or non-respiratory organ failure).
+    # / March, 2020 - The Lancet Infectious Diseases
+    # quote !b = Patients who had any of the following features at the time of, or after, admission were classified as severe cases: (1) respiratory distress (≥30 breaths per min); (2) oxygen saturation at rest ≤93%; (3) ratio of partial pressure of arterial oxygen to fractional concentration of oxygen inspired air ≤300 mm Hg; or (4) severe disease complications (eg, respiratory failure, requirement of mechanical ventilation, septic shock, or non-respiratory organ failure).
 
     # / March, 2020 - The Lancet Infectious Diseases
     # quote !c = The mean viral load of severe cases was around 60 times higher than that of mild cases, suggesting that higher viral loads might be associated with severe clinical outcomes.
 
-    / March, 2020 - The Lancet Infectious Diseases
-    quote !d = Mild cases were found to have an early viral clearance, with 90% of these patients repeatedly testing negative on RT-PCR by day 10 post-onset. By contrast, all severe cases still tested positive at or beyond day 10 post-onset.
+    # / March, 2020 - The Lancet Infectious Diseases
+    # quote !d = Mild cases were found to have an early viral clearance, with 90% of these patients repeatedly testing negative on RT-PCR by day 10 post-onset. By contrast, all severe cases still tested positive at or beyond day 10 post-onset.
 
 
 
@@ -3118,7 +3124,8 @@ feed Sangeeta
   // Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study.
   doi: https://doi.org/10.1016/S1473-3099(20)30196-1
   ref 'WangTo_et_al_03_23_2020
-    head = For most patients, the viral load of SARS-CoV-2 was very high at presentation and declined steadily. Despite development of antibodies against surface and internal proteins of SARS-CoV-2, viral RNA could still be detected in posterior oropharyngeal (deep throat) saliva samples from a third of patients for 20 days or longer. Peak viral load correlated positively with age. Most patients had an antibody response at 10 days or later after onset of symptoms.
+    head = We obtained samples of blood, urine, posterior oropharyngeal saliva, and rectal swabs. Serial viral load was ascertained by RT-qPCR. Antibody levels against the SARS-CoV-2 were measured using EIA. Whole-genome sequencing was done to identify possible mutations arising during infection.
+
 
     > Background
       Coronavirus disease 2019 (COVID-19) causes severe community and nosocomial outbreaks. Comprehensive data for serial respiratory viral load and serum antibody responses from patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) are not yet available. Nasopharyngeal and throat swabs are usually obtained for serial viral load monitoring of respiratory infections but gathering these specimens can cause discomfort for patients and put health-care workers at risk. We aimed to ascertain the serial respiratory viral load of SARS-CoV-2 in posterior oropharyngeal (deep throat) saliva samples from patients with COVID-19, and serum antibody responses.
@@ -3139,16 +3146,18 @@ feed Sangeeta
       !f
 
     / March, 2020 - The Lancet Infectious Diseases
-    quote !a = The median viral load was 1 log10 higher in severe cases than in mild cases, and the difference was not significant. But, older age was associated with a higher peak viral load.
+    quote !a = For most patients, the viral load of SARS-CoV-2 was very high at presentation and declined steadily. Despite development of antibodies against surface and internal proteins of SARS-CoV-2, viral RNA could still be detected in posterior oropharyngeal (deep throat) saliva samples from a third of patients for 20 days or longer.
 
     / March, 2020 - The Lancet Infectious Diseases
-    quote !b = SARS-CoV-2 RNA could be detected for 20 days or longer in a third of patients who survived in our cohort, and one patient had SARS-CoV-2 RNA detected for 25 days. Prolonged detection of viral RNA of 20 days or longer was also commonly seen for patients with MERS-CoV or SARS-CoV infections
+    quote !b = The median viral load was 1 log10 higher in severe cases than in mild cases, and the difference was not significant. But, older age was associated with a higher peak viral load.
 
     / March, 2020 - The Lancet Infectious Diseases
-    quote !c = Serum IgG amounts can rise at the same time or earlier than those of IgM against SARS-CoV-2. Higher proportion of patients in the current study also had earlier IgG than IgM seroconversion.
+    quote !c = SARS-CoV-2 RNA could be detected for 20 days or longer in a third of patients who survived in our cohort, and one patient had SARS-CoV-2 RNA detected for 25 days. Prolonged detection of viral RNA of 20 days or longer was also commonly seen for patients with MERS-CoV or SARS-CoV infections
 
-    # / March, 2020 - The Lancet Infectious Diseases
-    # quote !d = Salivary viral load was highest during the first week after symptom onset and subsequently declined with time.
+    / March, 2020 - The Lancet Infectious Diseases
+    quote !d = Serum IgG amounts can rise at the same time or earlier than those of IgM against SARS-CoV-2. Higher proportion of patients in the current study also had earlier IgG than IgM seroconversion.
+
+
 
     # / March, 2020 - The Lancet Infectious Diseases
     # quote !e = For 16 patients with serum samples available 14 days or longer after symptom onset, rates of seropositivity were 94% for anti-NP IgG (n=15), 88% for anti-NP IgM (n=14), 100% for anti-RBD IgG (n=16), and 94% for anti-RBD IgM (n=15)
@@ -3162,18 +3171,17 @@ feed Sangeeta
   // Prolonged SARS‐CoV‐2 RNA shedding: Not a rare phenomenon
   doi: https://doi.org/10.1002/jmv.25952
   ref 'Li_et_al_04_29_2020
-    head = Prolonged viral RNA shedding even after symptomatic relief was not rare, and the median duration of viral RNA shedding was 53.5 days. The longest duration of viral RNA shedding could be 83 days.
+    head = We studied the clinical characteristics of 36 confirmed COVID‐19 patients who continued to shed viral RNA for longer than 30 days.
 
     / April, 2020 - Journal of Medical Virology
-    quote !a =
-
+    quote !a = Prolonged viral RNA shedding even after symptomatic relief was not rare, and the median duration of viral RNA shedding was 53.5 days. The longest duration of viral RNA shedding could be 83 days.
 
 
   #
   // The duration of viral shedding of discharged patients with severe COVID-19
   doi: https://doi.org/10.1093/cid/ciaa451
   ref 'Zhou_et_al_04_17_2020
-    head = We found the median duration of viral shedding was 31.0 days from illness onset and the median total time from illness onset to discharge was 40.0 days. This has important clinical implications for making isolation decisions for discharged patients and guiding the duration of hospitalization for patients with severe COVID-19.
+    head = We analyzed the duration of viral shedding and the total time from illness onset to discharge in groups.
 
     > Abstract
       COVID-19 has drawn global intensive attention. We analyzed the duration of viral shedding and the total time from illness onset to discharge in groups. This has important implications for making decisions for isolation of discharged patients and to provide guidance for the duration of hospitalization of patients with severe COVID-19.
@@ -3182,15 +3190,14 @@ feed Sangeeta
       !a
 
     / April, 2020 - Clinical Infectious Diseases
-    quote !a = There was no significant difference in viral shedding time and the total time from illness onset to discharge between males and females, and between those aged less than 65 years and those aged 65 years or older. Based on the results, we did not observe shortening of viral shedding time in the above groups, so this implies that all patients with severe COVID-19 should complete an adequate course of treatment, regardless of sex or age.
-
+    quote !a = We found the median duration of viral shedding was 31.0 days from illness onset and the median total time from illness onset to discharge was 40.0 days. This has important clinical implications for making isolation decisions for discharged patients and guiding the duration of hospitalization for patients with severe COVID-19.
 
 
   #
   // Persistent viral shedding of SARS‐CoV‐2 in faeces – a rapid review
   doi: https://doi.org/10.1111/codi.15138
   ref 'Gupta_et_al_05_17_2020
-    head = The duration of faecal viral shedding ranged from 1 to 33 days after a negative nasopharyngeal swab with one result remaining positive 47 days after onset of symptoms. There is insufficient evidence to suggest that COVID‐19 is transmitted via faecally shed virus.
+    head = The primary aim of this review was to establish the incidence and timing of positive faecal samples for SARS‐CoV‐2 in patients with COVID‐19.
 
     > Aim
       In addition to respiratory symptoms, COVID‐19 can present with gastrointestinal complaints suggesting possible faeco‐oral transmission. The primary aim of this review was to establish the incidence and timing of positive faecal samples for SARS‐CoV‐2 in patients with COVID‐19.
@@ -3204,9 +3211,11 @@ feed Sangeeta
     > Conclusion
       There is a high rate of positive polymerase chain reaction tests with persistence of SARS‐CoV‐2 in faecal samples of patients with COVID‐19. Further research is needed to confirm if this virus is viable and the degree of transmission through the faeco‐oral route. This may have important implications on isolation, recommended precautions and protective equipment for interventional procedures involving the gastrointestinal tract.
 
+    - quotes
+      !a
 
     / May, 2020 - Colorectal Disease
-    quote !a =
+    quote !a = The duration of faecal viral shedding ranged from 1 to 33 days after a negative nasopharyngeal swab with one result remaining positive 47 days after onset of symptoms. There is insufficient evidence to suggest that COVID‐19 is transmitted via faecally shed virus.
 
 
 
@@ -3214,19 +3223,16 @@ feed Sangeeta
   // The presence of SARS‐CoV‐2 RNA in the feces of COVID‐19 patients
   doi: https://doi.org/10.1002/jmv.25825
   ref 'Chen_et_al_04_03_2020
-    head = Our study results suggested the presence of SARS‐CoV‐2 RNA in the feces of COVID‐19 patients, and more importantly, viral shedding from feces might remain for a long time after negative conversion in pharyngeal swabs, suggesting that fecal‐oral transmission may serve as an alternative infection route for SARS‐CoV‐2
+    head = We aimed to investigate SARS‐CoV‐2 shedding in the excreta of COVID‐19 patients.
 
     > Abstract
-      n December 2019, coronavirus disease 2019 (COVID‐19), caused by severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2), emerged in Wuhan, China, and has spread globally. However, the transmission route of SARS‐CoV‐2 has not been fully understood. In this study, we aimed to investigate SARS‐CoV‐2 shedding in the excreta of COVID‐19 patients. Electronical medical records, including demographics, clinical characteristics, laboratory and radiological findings of enrolled patients were extracted and analyzed. Pharyngeal swab, stool, and urine specimens were collected and tested for SARS‐CoV‐2 RNA by real‐time reverse transcription polymerase chain reaction. Viral shedding at multiple time points in specimens was recorded, and its correlation analyzed with clinical manifestations and the severity of illness. A total of 42 laboratory‐confirmed patients were enrolled, 8 (19.05%) of whom had gastrointestinal symptoms. A total of 28 (66.67%) patients tested positive for SARS‐CoV‐2 RNA in stool specimens, and this was not associated with the presence of gastrointestinal symptoms and the severity of illness. Among them, 18 (64.29%) patients remained positive for viral RNA in the feces after the pharyngeal swabs turned negative. The duration of viral shedding from the feces after negative conversion in pharyngeal swabs was 7 (6‐10) days, regardless of COVID‐19 severity. The demographics, clinical characteristics, laboratory and radiologic findings did not differ between patients who tested positive and negative for SARS‐CoV‐2 RNA in the feces. Viral RNA was not detectable in urine specimens from 10 patients. Our results demonstrated the presence of SARS‐CoV‐2 RNA in the feces of COVID‐19 patients and suggested the possibility of SARS‐CoV‐2 transmission via the fecal‐oral route.
+      In December 2019, coronavirus disease 2019 (COVID‐19), caused by severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2), emerged in Wuhan, China, and has spread globally. However, the transmission route of SARS‐CoV‐2 has not been fully understood. In this study, we aimed to investigate SARS‐CoV‐2 shedding in the excreta of COVID‐19 patients. Electronical medical records, including demographics, clinical characteristics, laboratory and radiological findings of enrolled patients were extracted and analyzed. Pharyngeal swab, stool, and urine specimens were collected and tested for SARS‐CoV‐2 RNA by real‐time reverse transcription polymerase chain reaction. Viral shedding at multiple time points in specimens was recorded, and its correlation analyzed with clinical manifestations and the severity of illness. A total of 42 laboratory‐confirmed patients were enrolled, 8 (19.05%) of whom had gastrointestinal symptoms. A total of 28 (66.67%) patients tested positive for SARS‐CoV‐2 RNA in stool specimens, and this was not associated with the presence of gastrointestinal symptoms and the severity of illness. Among them, 18 (64.29%) patients remained positive for viral RNA in the feces after the pharyngeal swabs turned negative. The duration of viral shedding from the feces after negative conversion in pharyngeal swabs was 7 (6‐10) days, regardless of COVID‐19 severity. The demographics, clinical characteristics, laboratory and radiologic findings did not differ between patients who tested positive and negative for SARS‐CoV‐2 RNA in the feces. Viral RNA was not detectable in urine specimens from 10 patients. Our results demonstrated the presence of SARS‐CoV‐2 RNA in the feces of COVID‐19 patients and suggested the possibility of SARS‐CoV‐2 transmission via the fecal‐oral route.
 
     - quotes
       !a
 
     / April, 2020 - Journal of Medical Virology
-    quote !a = The duration of viral shedding from feces after negative conversion in pharyngeal swabs was 7 (6‐10) days, regardless of COVID‐19 severity.
-
-
-
+    quote !a = Our study results suggested the presence of SARS‐CoV‐2 RNA in the feces of COVID‐19 patients, and more importantly, viral shedding from feces might remain for a long time after negative conversion in pharyngeal swabs, suggesting that fecal‐oral transmission may serve as an alternative infection route for SARS‐CoV‐2
 
   #
   // Shedding of infectious virus in hospitalized patients with coronavirus disease-2019 (COVID19): duration and key determinants
@@ -3234,8 +3240,14 @@ feed Sangeeta
   ref 'Kampen_et_al_06_09_2020
     head = We assessed the duration and determinants of infectiousness using virus cultures of respiratory tract samples from hospitalized COVID-19 patients as a proxy for infectious virus shedding.
 
-    > Abstract
-      Background Long-term shedding of viral RNA in COVID-19 prevents timely discharge from the hospital or de-escalation of infection prevention and control practices. Key questions are the duration and determinants of infectious virus shedding. We assessed these questions using virus cultures of respiratory tract samples from hospitalized COVID-19 patients as a proxy for infectious virus shedding. Methods Clinical and virological data were obtained from 129 hospitalized COVID-19 patients (89 intensive care, 40 medium care). Generalized estimating equations were used to identify if viral RNA load, detection of viral subgenomic RNA, serum neutralizing antibody response, duration of symptoms, or immunocompromised status were predictive for a positive virus culture. Findings Infectious virus shedding was detected in 23 of the 129 patients (17,8%). The median duration of shedding was 8 days post onset of symptoms (IQR 5-11) and the probability of detecting infectious virus dropped below 5% after 15,2 days post onset of symptoms (95% confidence interval (CI) 13,4-17,2). Multivariate analyses identified viral loads above 7 log10 RNA copies/mL (odds ratio [OR]; CI 14,7 (3,57-58,1; p<0,001) as independently associated with isolation of infectious SARS-CoV-2 from the respiratory tract. A serum neutralizing antibody titre of at least 1:20 (OR of 0,01 (CI 0,003-0,08; p<0,001) was independently associated with non-infectious SARS-CoV-2. Interpretation Infection prevention and control guidelines should take into account that patients with severe or critical COVID-19 may shed infectious virus for longer periods of time compared to what has been reported for in patients with mild COVID-19. Infectious virus shedding drops to undetectable levels below a viral RNA load threshold and once serum neutralizing antibodies are present, which warrants the use of quantitative viral RNA load assays and serological assays in test-based strategies to discontinue or de-escalate infection prevention and control precautions.
+    > Background
+      Long-term shedding of viral RNA in COVID-19 prevents timely discharge from the hospital or de-escalation of infection prevention and control practices. Key questions are the duration and determinants of infectious virus shedding. We assessed these questions using virus cultures of respiratory tract samples from hospitalized COVID-19 patients as a proxy for infectious virus shedding.
+    > Methods
+      Clinical and virological data were obtained from 129 hospitalized COVID-19 patients (89 intensive care, 40 medium care). Generalized estimating equations were used to identify if viral RNA load, detection of viral subgenomic RNA, serum neutralizing antibody response, duration of symptoms, or immunocompromised status were predictive for a positive virus culture.
+    > Findings
+      Infectious virus shedding was detected in 23 of the 129 patients (17,8%). The median duration of shedding was 8 days post onset of symptoms (IQR 5-11) and the probability of detecting infectious virus dropped below 5% after 15,2 days post onset of symptoms (95% confidence interval (CI) 13,4-17,2). Multivariate analyses identified viral loads above 7 log10 RNA copies/mL (odds ratio [OR]; CI 14,7 (3,57-58,1; p<0,001) as independently associated with isolation of infectious SARS-CoV-2 from the respiratory tract. A serum neutralizing antibody titre of at least 1:20 (OR of 0,01 (CI 0,003-0,08; p<0,001) was independently associated with non-infectious SARS-CoV-2.
+    > Interpretation
+      Infection prevention and control guidelines should take into account that patients with severe or critical COVID-19 may shed infectious virus for longer periods of time compared to what has been reported for in patients with mild COVID-19. Infectious virus shedding drops to undetectable levels below a viral RNA load threshold and once serum neutralizing antibodies are present, which warrants the use of quantitative viral RNA load assays and serological assays in test-based strategies to discontinue or de-escalate infection prevention and control precautions.
 
     - quotes
       !a
@@ -3245,7 +3257,7 @@ feed Sangeeta
       !e
 
     / June, 2020 - MedRxiv
-    quote !a = The probability of isolating infectious virus was less than 5% when viral RNA load was below 6,63 Log10 RNA copies/mL.
+    quote !a = The median duration of shedding was 8 days post onset of symptoms (IQR 5-11) and the probability of detecting infectious virus dropped below 5% after 15,2 days post onset of symptoms (95% confidence interval (CI) 13,4-17,2).
 
     / June, 2020 - MedRxiv
     quote !b = We report here a very strong association between neutralizing antibody response and shedding of infectious virus with an odds ratio of 0,01 for isolating infectious virus after seroconversion. Infectious virus could not be isolated from respiratory tract samples once patients had a serum neutralizing antibody titer of at least 1:80.

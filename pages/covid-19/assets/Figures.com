@@ -61,8 +61,8 @@ space Figures
 
   name: Figure:
   url: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41579-020-00468-6/MediaObjects/41579_2020_468_Fig1_HTML.png?as=webp
-  width: 640
-  height: 417
+  width: 733
+  height: 743
   caption: SARS-CoV-2 Replication
   image 'Figure_Virus_Replication
 

@@ -191,6 +191,7 @@ subject module Virus
         'Kim_et_al_2020b.!d
       -
         'Pan_et_al_2020b
+        'Pan_et_al_2020b.!a
       -
         'Liu_et_al_2020c
         'Liu_et_al_2020c.!a
@@ -231,40 +232,58 @@ subject module Virus
     claim !Variation = In some patients viral RNA has been detectable only for several days, while in other patients it has be detected for several weeks, and even months. However, the prolonged presence of viral RNA does not necessarily signify prolonged infectiousness.
       -
         'Woelfel_et_al_2020b
+        'Woelfel_et_al_2020b.!a
+      -
+        'Atkinson_et_al_2020.!a
+      -
         'Weiss_et_al_07_22_2020
-        'WangTo_et_al_03_23_2020.!b
+        'Weiss_et_al_07_22_2020.!a
+      -
+        'WangTo_et_al_03_23_2020
+        'WangTo_et_al_03_23_2020.!a
+      -
         'Li_et_al_04_29_2020
+        'Li_et_al_04_29_2020.!a
+      -
         'Zhou_et_al_04_17_2020
+        'Zhou_et_al_04_17_2020.!a
       -
         'Xu_et_al_2020b
         'Xu_et_al_2020b.!a
-      -
-        'Pan_et_al_2020b
 
-    claim !Nose = Some studies have reported higher viral loads in the nose than in the throat.
+    claim !Nose = Some studies have reported higher viral loads in the nose than in the throat at early stage of infection.
       -
+        'Zou_et_al_2020
         'Zou_et_al_2020.!b
+      -
         'Weiss_et_al_07_22_2020
+        'Weiss_et_al_07_22_2020.!a
 
     claim !Severity = Some studies report higher viral loads in the severely ill compared with patients with mild disease, while others have found higher load in mild and asymptomatic cases.
 
-      claim !Severe = Some studies report higher viral loads in the severely ill compared with patients with mild disease.
+      claim !Severe = One study has reported higher viral loads and prolong shedding in the severely ill compared with patients with mild disease.
         -
-          'He_et_al_2020
-          'He_et_al_2020.!b
           'Liu_et_al_03_19_2020
+          'Liu_et_al_03_19_2020.!a
 
       claim !Mild = Some studies have reported higher load in mild and asymptomatic cases.
         -
-          'Kam_et_al_02_28_2020
+          'Lavezzo_et_al_04_18_2020
           'Lavezzo_et_al_04_18_2020.!h
-          'WangTo_et_al_03_23_2020.!a
+        -
+          'Kam_et_al_02_28_2020
+          'Kam_et_al_02_28_2020.!a
+        -
+          'WangTo_et_al_03_23_2020
+          'WangTo_et_al_03_23_2020.!b
 
     claim !Infectiousness = Several studies have described a correlation between reduced infectiousness and decreased viral load in respiratory secretions.
       -
-       'Wölfel_et_al_2020
-       'Kampen_et_al_06_09_2020
-       'Perera_et_al_08_04_2020
+        'Kampen_et_al_06_09_2020
+        'Kampen_et_al_06_09_2020.!a
+      -
+        'Perera_et_al_08_04_2020
+        'Perera_et_al_08_04_2020.!a
 
     claim !SevereShedding = Studies observed that severe or critical COVID-19 patients may shed infectious virus for longer periods of time.
       -
@@ -276,9 +295,16 @@ subject module Virus
         'Kampen_et_al_06_09_2020.!e
 
     claim !Others = Some studies have found SARS-CoV-2 in feces and semen, though the research on its infectiousness is still ongoing.
+
+      # Semen
       -
         'Li_et_al_2020d
+        'Li_et_al_2020d.!a
+
+      # Feces
+      -
         'Wu_et_al_2020d
+        'Wu_et_al_2020d.!a
       -
         'Pan_et_al_2020b
         'Pan_et_al_2020b.!f
@@ -288,6 +314,7 @@ subject module Virus
         'Woelfel_et_al_2020b.!i
       -
         'Gupta_et_al_05_17_2020
+        'Gupta_et_al_05_17_2020.!a
       -
         'Chen_et_al_04_03_2020
         'Chen_et_al_04_03_2020.!a

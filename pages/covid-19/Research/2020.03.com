@@ -1989,7 +1989,9 @@ feed March2020
   // Prolonged presence of SARS-CoV-2 viral RNA in faecal samples
   doi: https://doi.org/10.1016/S2468-1253(20)30083-2
   ref 'Wu_et_al_2020d
-    head = Our data suggest the possibility of extended duration of viral shedding in faeces, for nearly 5 weeks after the patients' respiratory samples tested negative for SARS-CoV-2 RNA. Although knowledge about the viability of SARS-CoV-2 is limited, the virus could remain viable in the environment for days, which could lead to faecal–oral transmission, as seen with severe acute respiratory virus CoV and Middle East respiratory syndrome CoV.2
+    head = We present severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) real-time RT-PCR results of all respiratory and faecal samples from patients with COVID-19, throughout the course of their illness and obligated quarantine period.
+
+
 
     - quotes
       !a
@@ -2001,7 +2003,7 @@ feed March2020
       !g
 
     / March, 2020 - ScienceDirect
-    quote !a = Faecal samples from 33 (45%) of 74 patients were negative for SARS CoV-2 RNA, while their respiratory swabs remained positive for a mean of 15·4 days (SD 6·7) from first symptom onset.Of the 41 (55%) of 74 patients with faecal samples that were positive for SARS-CoV-2 RNA, respiratory samples remained positive for SARS-CoV-2 RNA for a mean of 16·7 days (SD 6·7) and faecal samples remained positive for a mean of 27·9 days (10·7) after first symptom onset (ie, for a mean of 11·2 days [9·2] longer than for respiratory samples)
+    quote !a =  Our data suggest the possibility of extended duration of viral shedding in faeces, for nearly 5 weeks after the patients' respiratory samples tested negative for SARS-CoV-2 RNA. The virus could remain viable in the environment for days, which could lead to faecal–oral transmission, as seen with severe acute respiratory virus CoV and Middle East respiratory syndrome CoV.2
 
     / March, 2020 - ScienceDirect
     quote !b = Notably, patient 1 had positive faecal samples for 33 days continuously after the respiratory samples became negative, and patient 4 tested positive for SARS-CoV-2 RNA in their faecal sample for 47 days after first symptom onset
@@ -2538,6 +2540,9 @@ feed March2020
   doi: https://doi.org/10.1101/2020.03.15.20036707
   ref 'He_et_al_2020
     head = We report temporal patterns of viral shedding in 94 laboratory-confirmed COVID-19 patients and modelled COVID-19 infectiousness profile from a separate sample of 77 infector-infectee transmission pairs.
+
+    > Abstract
+      We report temporal patterns of viral shedding in 94 laboratory-confirmed COVID-19 patients and modelled COVID-19 infectiousness profile from a separate sample of 77 infector-infectee transmission pairs. We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset. We estimated that 44% of transmission could occur before first symptoms of the index. Disease control measures should be adjusted to account for probable substantial pre-symptomatic transmission.
 
     - quotes
       !c

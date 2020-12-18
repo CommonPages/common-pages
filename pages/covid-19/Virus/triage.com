@@ -23,6 +23,7 @@ index: hide
      -
        'Zou_et_al_2020
 
+
    claim !ViralClearanceASymptomatic = Faster viral clearance has been observed among asymptomatic individuals than those who are symptomatic.
      -
        'Zhang_et_al_05_02_2020.!a

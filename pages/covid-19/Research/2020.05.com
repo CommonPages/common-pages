@@ -4721,21 +4721,20 @@ feed May2020
   // Clinical Characteristics and Results of Semen Tests Among Men With Coronavirus Disease 2019
   doi: https://doi.org/10.1001/jamanetworkopen.2020.8292
   ref 'Li_et_al_2020d
-    head = SARS-CoV-2 can be present in the semen of patients with COVID-19, and SARS-CoV-2 may still be detected in the semen of recovering patients. Owing to the imperfect blood-testes/deferens/epididymis barriers, SARS-CoV-2 might be seeded to the male reproductive tract, especially in the presence of systemic local inflammation
+    head = Laboratory confirmation for COVID-19 was defined as positive result for SARS-CoV-2 in real-time reverse transcriptase–polymerase chain reaction (RT-PCR) assay of nasal and pharyngeal swabs. Enrolled patients were asked to provide a semen sample for SARS-CoV-2 testing via RT-PCR.
 
     - quotes
       !a
       !b
-      !c
 
     / May, 2020 - Infectious Disease
-    quote !a = Even if the virus cannot replicate in the male reproductive system, it may persist, possibly resulting from the privileged immunity of testes.
+    quote !a = SARS-CoV-2 can be present in the semen of patients with COVID-19, and SARS-CoV-2 may still be detected in the semen of recovering patients. Owing to the imperfect blood-testes/deferens/epididymis barriers, SARS-CoV-2 might be seeded to the male reproductive tract, especially in the presence of systemic local inflammation
 
     / May, 2020 - Infectious Disease
-    quote !b = 23 participants (60.5%) had achieved clinical recovery and 15 participants (39.5%) were at the acute stage of infection. Results of semen testing found that 6 patients (15.8%) had results positive for SARS-CoV-2, including 4 of 15 patients (26.7%) who were at the acute stage of infection and 2 of 23 patients (8.7%) who were recovering, which is particularly noteworthy.
+    quote !b = Even if the virus cannot replicate in the male reproductive system, it may persist, possibly resulting from the privileged immunity of testes.
 
-    / May, 2020 - Infectious Disease
-    quote !c = But there was no significant difference between negative and positive test results for patients by age, urogenital disease history, days since onset, days since hospitalization, or days since clinical recovery.
+    # / May, 2020 - Infectious Disease
+    # quote !c = But there was no significant difference between negative and positive test results for patients by age, urogenital disease history, days since onset, days since hospitalization, or days since clinical recovery.
 
 
   # Pregnant woman

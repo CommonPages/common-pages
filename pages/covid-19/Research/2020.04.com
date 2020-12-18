@@ -2143,7 +2143,7 @@ feed April2020
   // SARS-CoV-2 shedding and infectivity
   doi: https://doi.org/10.1016/S0140-6736(20)30868-0
   ref 'Atkinson_et_al_2020
-    head = For many viral diseases, Viral RNA can be detected long after the disappearance of infectious virus. With measles virus, viral RNA can still be detected 6–8 weeks after the clearance of infectious virus.
+    head = CORRESPONDENCE: SARS-CoV-2 shedding and infectivity
 
     / April, 2020 - Lancet
     quote !a = The immune system can neutralise viruses by lysing their envelope or aggregating virus particles; these processes prevent subsequent infection but do not eliminate nucleic acid, which degrades slowly over time.
@@ -3006,33 +3006,34 @@ feed April2020
   // Viral load of SARS-CoV-2 in clinical samples
   doi: https://doi.org/10.1016/S1473-3099(20)30113-4
   ref 'Pan_et_al_2020b
-    head = We report our findings from different types of clinical specimens collected from 82 infected individuals. The viral loads in throat swab and sputum samples peaked at around 5–6 days after symptom onset. Sputum samples generally showed higher viral loads than throat swab samples.
+    head = We report our findings from different types of clinical specimens collected from 82 infected individuals.
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
       !f
+      # !b
+      # !c
+      # !d
+      # !e
+
 
     / February, 2020 - The Lancet
-    quote !a = Serial samples (throat swabs, sputum, urine, and stool) from two patients in Beijing were collected daily after their hospitalisation (patient 1, days 3–12 post-onset; patient 2, days 4–15 post-onset). These samples were examined by an N-gene-specific quantitative RT-PCR assay, as described elsewhere.  The viral loads in throat swab and sputum samples peaked at around 5–6 days after symptom onset, ranging from around 104 to 107 copies per mL during this time. This pattern of changes in viral load is distinct from the one observed in patients with SARS, which normally peaked at around 10 days after onset. Sputum samples generally showed higher viral loads than throat swab samples. No viral RNA was detected in urine or stool samples from these two patients.
+    quote !a = The viral loads in throat swab and sputum samples peaked at around 5–6 days after symptom onset. Sputum samples generally showed higher viral loads than throat swab samples.
+
+    # / February, 2020 - The Lancet
+    # quote !b = We also studied respiratory samples (nasal [n=1] and throat swabs [n=67], and sputum [n=42]) collected from 80 individuals at different stages of infection. The viral loads ranged from 641 copies per mL to 1·34 × 1011 copies per mL, with a median of 7·99 × 104 in throat samples and 7·52 × 105 in sputum samples
+    #
+    # / February, 2020 - The Lancet
+    # quote !c = The only nasal swab tested in this study (taken on day 3 post-onset) showed a viral load of 1·69 × 105 copies per mL. Overall, the viral load early after onset was high (>1 × 106 copies per mL). However, a sputum sample collected on day 8 post-onset from a patient who died had a very high viral load (1·34 × 1011 copies per mL)
+    #
+    # / February, 2020 - The Lancet
+    # quote !d = Notably, two individuals, who were under active surveillance because of a history of exposure to SARS-CoV-2-infected patients showed positive results on RT-PCR a day before onset, suggesting that infected individuals can be infectious before them become symptomatic.
+    #
+    # / February, 2020 - The Lancet
+    # quote !e = Among the 30 pairs of throat swab and sputum samples available, viral loads were significantly correlated between the two sample types for days 1–3 (R2=0·50, p=0·022), days 4–7 (R2=0·93, p<0·001), and days 7–14 (R2=0·95, p=0·028).
 
     / February, 2020 - The Lancet
-    quote !b = We also studied respiratory samples (nasal [n=1] and throat swabs [n=67], and sputum [n=42]) collected from 80 individuals at different stages of infection. The viral loads ranged from 641 copies per mL to 1·34 × 1011 copies per mL, with a median of 7·99 × 104 in throat samples and 7·52 × 105 in sputum samples
-
-    / February, 2020 - The Lancet
-    quote !c = The only nasal swab tested in this study (taken on day 3 post-onset) showed a viral load of 1·69 × 105 copies per mL. Overall, the viral load early after onset was high (>1 × 106 copies per mL). However, a sputum sample collected on day 8 post-onset from a patient who died had a very high viral load (1·34 × 1011 copies per mL)
-
-    / February, 2020 - The Lancet
-    quote !d = Notably, two individuals, who were under active surveillance because of a history of exposure to SARS-CoV-2-infected patients showed positive results on RT-PCR a day before onset, suggesting that infected individuals can be infectious before them become symptomatic.
-
-    / February, 2020 - The Lancet
-    quote !e = Among the 30 pairs of throat swab and sputum samples available, viral loads were significantly correlated between the two sample types for days 1–3 (R2=0·50, p=0·022), days 4–7 (R2=0·93, p<0·001), and days 7–14 (R2=0·95, p=0·028).
-
-    / February, 2020 - The Lancet
-    quote !f = From 17 confirmed cases of SARS-CoV-2 infection with available data (representing days 0–13 after onset), stool samples from nine (53%; days 0–11 after onset) were positive on RT-PCR analysis. Although the viral loads were less than those of respiratory samples (range 550 copies per mL to 1·21 × 105 copies per mL), precautionary measures should be considered when handling faecal samples.
+    quote !f = From 17 confirmed cases of SARS-CoV-2 infection with available data (representing days 0–13 after onset), stool samples from nine were positive on RT-PCR analysis. Although the viral loads were less than those of respiratory samples, precautionary measures should be considered when handling faecal samples.
 
 
   # Social distancing, Community mitigation, PPE, SchoolClosure
@@ -3471,7 +3472,10 @@ feed April2020
   // Virological assessment of hospitalized patients with COVID-2019
   doi: https://doi.org/10.1038/s41586-020-2196-x
   ref 'Wölfel_et_al_2020
-    head = With RT-PCR, the specimen is declared positive if viral RNA is detected. Here we provide a detailed virological analysis of nine cases with COVID19, providing proof of active virus replication in upper respiratory tract tissues. We have seen that patients with COVID19 seem to have high viral loads in their throats. Thus it is relatively easy to detect virus, and so the test is highly sensitive.
+    head = We provide a detailed virological analysis of nine cases with COVID19, providing proof of active virus replication in upper respiratory tract tissues.
+
+    > Abstract
+      Coronavirus disease 2019 (COVID-19) is an acute infection of the respiratory tract that emerged in late 20191,2. Initial outbreaks in China involved 13.8% of cases with severe courses, and 6.1% of cases with critical courses. This severe presentation may result from the virus using a virus receptor that is expressed predominantly in the lung; the same receptor tropism is thought to have determined the pathogenicity—but also aided in the control—of severe acute respiratory syndrome (SARS) in 20035. However, there are reports of cases of COVID-19 in which the patient shows mild upper respiratory tract symptoms, which suggests the potential for pre- or oligosymptomatic transmission6,7,8. There is an urgent need for information on virus replication, immunity and infectivity in specific sites of the body. Here we report a detailed virological analysis of nine cases of COVID-19 that provides proof of active virus replication in tissues of the upper respiratory tract. Pharyngeal virus shedding was very high during the first week of symptoms, with a peak at 7.11 × 108 RNA copies per throat swab on day 4. Infectious virus was readily isolated from samples derived from the throat or lung, but not from stool samples—in spite of high concentrations of virus RNA. Blood and urine samples never yielded virus. Active replication in the throat was confirmed by the presence of viral replicative RNA intermediates in the throat samples. We consistently detected sequence-distinct virus populations in throat and lung samples from one patient, proving independent replication. The shedding of viral RNA from sputum outlasted the end of symptoms. Seroconversion occurred after 7 days in 50% of patients (and by day 14 in all patients), but was not followed by a rapid decline in viral load. COVID-19 can present as a mild illness of the upper respiratory tract. The confirmation of active virus replication in the upper respiratory tract has implications for the containment of COVID-19.
 
     - quotes
       !a
@@ -3484,16 +3488,18 @@ feed April2020
       !j
 
     / April, 2020 - Nature
-    quote !a = In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher.
+    quote !a = Early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms and have less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, on the basis of cell culture.
 
     / April, 2020 - Nature
-    quote !b = Critically, the majority of patients in the present study seemed to be already beyond their shedding peak in upper respiratory tract samples when first tested, while shedding of infectious virus in sputum continued through the first week of symptoms. Together, these findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection.  Pharyngeal virus shedding was very high during the first week of symptoms (peak at 7.11 × 108 RNA copies per throat swab, day 4).
+    quote !b = Findings suggest a more efficient transmission of SARS-CoV-2 than SARS-CoV through active pharyngeal viral shedding at a time when symptoms are still mild and typical of upper respiratory tract infection.  Pharyngeal virus shedding was very high during the first week of symptoms (peak at 7.11 × 108 RNA copies per throat swab, day 4).
+
 
     / April, 2020 - Nature
     quote !c = Whereas proof of replication by histopathology is awaited, extended tissue tropism of SARS-CoV-2 with replication in the throat is strongly supported by our studies of sgRNA-transcribing cells in throat swab samples, particularly during the first 5 days of symptoms. Striking additional evidence for independent replication in the throat is provided by sequence findings in one patient who consistently showed a distinct virus in her throat as opposed to the lung.
 
     # / April, 2020 - Nature
-    # quote !d = In addition, the disturbance of gustatory and olfactory sense points at upper respiratory tract tissue infection.
+    # quote !d = In SARS, it took 7 to 10 days after onset until peak RNA concentrations (of up to 5x105 copies per swab) were reached. In the present study, peak concentrations were reached before day 5, and were more than 1000 times higher.
+
 
     / April, 2020 - Nature
     quote !e =  Later in the disease, COVID-19 then resembles SARS in terms of replication in the lower respiratory tract. Of note, the two patients who showed some symptoms of lung affection showed a prolonged viral load in sputum.
