@@ -1771,6 +1771,7 @@ feed April2020
 
 
   # viral shedding, risk factors, male , hypertension, Corticosteroid, invasive mechanical VENTILATOR support
+  @@LanjuanLi
   // Factors associated with prolonged viral RNA shedding in patients with COVID-19.
   doi: https://doi.org/10.1093/cid/ciaa351
   ref 'Xu_et_al_2020b
@@ -1841,6 +1842,7 @@ feed April2020
 
 
   # clinical characteristics, USA, Virologic characteristics
+  @@KarenWong
   // Clinical and virologic characteristics of the first 12 patients with coronavirus disease 2019 (COVID-19) in the United States
   doi: https://doi.org/10.1038/s41591-020-0877-5
   ref 'Kujawski_et_al_2020
@@ -2140,6 +2142,7 @@ feed April2020
 
 
   # Shedding
+  @@EskildPetersen
   // SARS-CoV-2 shedding and infectivity
   doi: https://doi.org/10.1016/S0140-6736(20)30868-0
   ref 'Atkinson_et_al_2020
@@ -2712,6 +2715,7 @@ feed April2020
 
 
   # epidemic or pandemic?, asymptomatic, contact tracing and lockdown, non pharmaceutical interventions, kids
+  @@IlariaDorigatti
   // Suppression of COVID-19 outbreak in the municipality of Vo, Italy
   doi: https://doi.org/10.1101/2020.04.17.20053157
   ref 'Lavezzo_et_al_04_18_2020
@@ -3003,6 +3007,7 @@ feed April2020
 
   # DEDUPE(Pan_et_al_2020)
   # Beijing, viral load, asymptomatic, origin
+  @@QuanyiWang
   // Viral load of SARS-CoV-2 in clinical samples
   doi: https://doi.org/10.1016/S1473-3099(20)30113-4
   ref 'Pan_et_al_2020b

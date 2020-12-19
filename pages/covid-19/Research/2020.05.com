@@ -4718,6 +4718,7 @@ feed May2020
 
   # DEDUPE(Li_et_al_2020b)
   # viral detection in semen, (SARS-CoV-2) has been detected in stool, gastrointestinal tract, saliva, and urine samples.2 However, little is known about SARS-CoV-2 in semen.
+  @@WeiguoZhao
   // Clinical Characteristics and Results of Semen Tests Among Men With Coronavirus Disease 2019
   doi: https://doi.org/10.1001/jamanetworkopen.2020.8292
   ref 'Li_et_al_2020d

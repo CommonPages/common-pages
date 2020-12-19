@@ -1349,6 +1349,7 @@ feed Pre2019
     # quote !a =
 
   # transmission via toilet flushing of aerosols, airborne transmission
+  @@DavidJohnson
   // Lifting the Lid on Toilet Plume Aerosol: A Literature Review With Suggestions for Future Research
   doi: https://doi.org/10.1016/j.ajic.2012.04.330
   ref 'Johnson_et_al_10_08_2012
@@ -1457,6 +1458,7 @@ feed Pre2019
 
 
   # transmission via toilet flushing of aerosols, airborne transmission
+  @@Barker
   // The Potential Spread of Infection Caused by Aerosol Contamination of Surfaces After Flushing a Domestic Toilet
   doi: https://doi.org/10.1111/j.1365-2672.2005.02610.x
   ref 'Barker_et_al_06_16_2005
@@ -1512,6 +1514,7 @@ feed Pre2019
 
 
   # transmission via toilet flushing of aerosols, airborne transmission
+  @@Wilcox
   // Potential for Aerosolization of Clostridium Difficile After Flushing Toilets: The Role of Toilet Lids in Reducing Environmental Contamination Risk
   doi: https://doi.org/10.1016/j.jhin.2011.08.010
   ref 'Best_et_al_12_05_2011
@@ -1568,6 +1571,7 @@ feed Pre2019
 
 
   # transmission via toilet flushing of aerosols, airborne transmission
+  @@Lai
   // Emission strength of airborne pathogens during toilet flushing
   doi: https://doi.org/10.1111/ina.12406
   ref 'Lai_et_al_07_06_2017
@@ -2114,6 +2118,7 @@ feed Pre2019
     quote !a = Droplet number and droplet volume production rates can be estimated for each aerosol size distribution mode during speech and coughing and these can then be coupled with models of transport in realistic environments. The distributions will also provide a basis for devising experiments to measure parameters for those models such as pathogen concentrations in the different respiratory fluids comprising each mode, and the inactivation rates of those pathogens in the aerosol phase.
 
   # Aerosol Tranmission - Fecal
+  @@KaisenLin
   // Aerosolization of Ebola Virus Surrogates in Wastewater Systems
   doi: https://doi.org/10.1021/acs.est.6b04846
   ref 'Lin_et_al_01_26_2017
@@ -2126,6 +2131,7 @@ feed Pre2019
     # quote !a =
 
   # Aerosol / Fecal Tranmission
+  @@DavidJohnson
   // Lifting the Lid on Toilet Plume Aerosol: A Literature Review With Suggestions for Future Research
   doi: https://doi.org/10.1016/j.ajic.2012.04.330
   ref 'Johnson_et_al_10_05_2012

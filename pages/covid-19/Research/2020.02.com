@@ -46,6 +46,7 @@ feed February2020
   #
 
   # Diagnostic, Shedding
+  @@ZhengZhang
   // Evaluating the accuracy of different respiratory specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV infections
   doi: https://doi.org/10.1101/2020.02.11.20021493
   ref 'Yang_et_al_2020
@@ -270,6 +271,7 @@ feed February2020
 
 
   #  Viral Load Kinetics, Korea, first two confirmed patients, epidemic?
+  @@BumChin
   // Viral Load Kinetics of SARS-CoV-2 Infection in First Two Patients in Korea
   doi: https://doi.org/10.3346/jkms.2020.35.e86
   ref 'Kim_et_al_2020b

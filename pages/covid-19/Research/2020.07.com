@@ -317,6 +317,7 @@ feed July2020
 
 
   # Environmental Route - waste water, Sewage
+  @@EdrisHoseinzadeh
   // An updated min-review on environmental route of the SARS-CoV-2 transmission
   doi: https://doi.org/10.1016/j.ecoenv.2020.111015
   ref 'Hoseinzadeh_et_al_07_09_2020

@@ -1843,6 +1843,7 @@ feed Sangeeta
 
 
   # put the quotes in respective categories
+  @@MugeCevik
   // SARS-CoV-2, SARS-CoV, and MERS-CoV viral load dynamics, duration of viral shedding, and infectiousness: a systematic review and meta-analysis
   doi: https://doi.org/10.1016/S2666-5247(20)30172-5
   ref 'Cevik_et_al_11_19_2020
@@ -3079,6 +3080,7 @@ feed Sangeeta
 
 
   #
+  @@KaiKam
   // A Well Infant With Coronavirus Disease 2019 With High Viral Load
   doi: https://doi.org/10.1093/cid/ciaa201
   ref 'Kam_et_al_02_28_2020
@@ -3096,6 +3098,7 @@ feed Sangeeta
 
 
   #
+  @@WeiZhang
   // Viral dynamics in mild and severe cases of COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30232-2
   ref 'Liu_et_al_03_19_2020
@@ -3121,6 +3124,7 @@ feed Sangeeta
 
 
   #
+  @@KwokYuen
   // Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study.
   doi: https://doi.org/10.1016/S1473-3099(20)30196-1
   ref 'WangTo_et_al_03_23_2020
@@ -3168,6 +3172,7 @@ feed Sangeeta
 
 
   #
+  @@Tangfeng
   // Prolonged SARS‐CoV‐2 RNA shedding: Not a rare phenomenon
   doi: https://doi.org/10.1002/jmv.25952
   ref 'Li_et_al_04_29_2020
@@ -3178,6 +3183,7 @@ feed Sangeeta
 
 
   #
+  @@BoZhou
   // The duration of viral shedding of discharged patients with severe COVID-19
   doi: https://doi.org/10.1093/cid/ciaa451
   ref 'Zhou_et_al_04_17_2020
@@ -3194,6 +3200,7 @@ feed Sangeeta
 
 
   #
+  @@Dolwani
   // Persistent viral shedding of SARS‐CoV‐2 in faeces – a rapid review
   doi: https://doi.org/10.1111/codi.15138
   ref 'Gupta_et_al_05_17_2020
@@ -3220,6 +3227,7 @@ feed Sangeeta
 
 
   #
+  @@JiongYang
   // The presence of SARS‐CoV‐2 RNA in the feces of COVID‐19 patients
   doi: https://doi.org/10.1002/jmv.25825
   ref 'Chen_et_al_04_03_2020
@@ -3235,6 +3243,7 @@ feed Sangeeta
     quote !a = Our study results suggested the presence of SARS‐CoV‐2 RNA in the feces of COVID‐19 patients, and more importantly, viral shedding from feces might remain for a long time after negative conversion in pharyngeal swabs, suggesting that fecal‐oral transmission may serve as an alternative infection route for SARS‐CoV‐2
 
   #
+  @@JeroenKampen
   // Shedding of infectious virus in hospitalized patients with coronavirus disease-2019 (COVID19): duration and key determinants
   doi: https://doi.org/10.1101/2020.06.08.20125310
   ref 'Kampen_et_al_06_09_2020

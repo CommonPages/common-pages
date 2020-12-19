@@ -1223,6 +1223,7 @@ feed March2020
 
 
   # virological assessment
+  @@ChristianDrosten
   // Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster
   doi: https://doi.org/10.1101/2020.03.05.20030502
   ref 'Woelfel_et_al_2020b
@@ -1986,6 +1987,7 @@ feed March2020
 
 
   # Tag - Fecal Transmission
+  @@XiHuang
   // Prolonged presence of SARS-CoV-2 viral RNA in faecal samples
   doi: https://doi.org/10.1016/S2468-1253(20)30083-2
   ref 'Wu_et_al_2020d
@@ -2522,6 +2524,7 @@ feed March2020
 
 
   # Shedding
+  @@LeoPoon
   // Viral dynamics in mild and severe cases of COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30232-2
   ref 'Liu_et_al_2020c
@@ -2535,7 +2538,7 @@ feed March2020
 
 
   # Shedding , AsymptomaticCarriers, secondary cases, presymptomatic stage
-  @@JessicaWong
+  @@EricLau
   // Temporal dynamics in viral shedding and transmissibility of COVID-19
   doi: https://doi.org/10.1101/2020.03.15.20036707
   ref 'He_et_al_2020
@@ -2561,6 +2564,7 @@ feed March2020
 
 
   # Shedding - PCR
+  @@GavinJoynt
   // Understanding COVID-19: what does viral RNA load really mean?
   doi: https://doi.org/10.1016/S1473-3099(20)30237-1
   ref 'Joynt_et_al_2020
@@ -3214,6 +3218,7 @@ feed March2020
 
 
   # Tag - Shedding
+  @@ChristianDrosten
   // Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster
   doi: https://doi.org/10.1101/2020.03.05.20030502
   ref 'Woelfel_et_al_2020
