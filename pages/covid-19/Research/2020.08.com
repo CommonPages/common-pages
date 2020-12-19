@@ -288,6 +288,7 @@ feed August2020
     quote !a = We believe that potential risks associated with wearing masks, such as the risk of confounding patients, outweigh any benefits of such a policy for which evidence of protection from Covid-19 is generally weak. For asymptomatic patients, wearing masks in addition to hygiene standards will not provide additional protection of others and should be cautioned against.
 
   # Low Mortality with mask adoption - Face Mask
+  @@ChristopherLeffler
   // Association of country-wide coronavirus mortality with demographics, testing, lockdowns, and public wearing of masks. Update August 4, 2020.
   doi: https://doi.org/10.1101/2020.05.22.20109231
   ref 'Leffler_et_al_08_05_2020
@@ -377,6 +378,7 @@ feed August2020
     quote !a =
 
   # Mitigatin
+  @@Pawinee
   // Associations between Wearing Masks, Washing Hands, and Social Distancing Practices, and Risk of COVID-19 Infection in Public: A Cohort-Based Case-Control Study in Thailand
   doi: https://dx.doi.org/10.2139/ssrn.3633162
   ref 'Doung-ngern_et_al_08_14_2020

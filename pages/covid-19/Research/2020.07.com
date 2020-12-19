@@ -65,6 +65,7 @@ feed July2020
 
 
   # Genetic Diversity
+  @@BetteKorber
   // Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus
   doi: https://dx.doi.org/10.1016%2Fj.cell.2020.06.043
   ref 'Korber_et_al_07_03_2020

@@ -3311,6 +3311,7 @@ feed Sangeeta
 
 
   # Universal Masking, HCW
+  @@JohnBrooks
   // Universal Masking to Prevent SARS-CoV-2 Transmission—The Time Is Now
   doi: https://doi.org/10.1001/jama.2020.13107
   ref 'Brooks_et_al_07_14_2020
@@ -3876,6 +3877,7 @@ feed Sangeeta
 
 
   #
+  @@MonicaGandhi
   // Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine
   doi: https://doi.org/10.1056/NEJMp2026913
   ref 'Gandhi_et_al_09_08_2020
@@ -4436,6 +4438,7 @@ feed Sangeeta
 
 
   # 2m distancing, physical distancing, mechanism, mitigation, social distancing
+  @@LydiaBourouiba
   // Two metres or one: what is the evidence for physical distancing in covid-19?
   doi: https://doi.org/10.1136/bmj.m3223
   ref 'Jones_et_al_08_25_2020
@@ -5467,6 +5470,7 @@ feed Sangeeta
 
 
   # airborne transmission; social distancing; droplets; 2m/6ft distance
+  @@PriscoPiscitelli
   // Airborne Transmission Route of COVID-19: Why 2 Meters/6 Feet of Inter-Personal Distance Could Not Be Enough
   doi: https://doi.org/10.3390/ijerph17082932
   ref 'Setti_et_al_04_23_2020
@@ -5971,6 +5975,7 @@ feed Sangeeta
 
 
   # airline transmission
+  @@SonjaOlsen
   // Transmission of the Severe Acute Respiratory Syndrome on Aircraft
   doi: https://doi.org/10.1056/NEJMoa031349
   ref 'Olsen_et_al_12_18_2003

@@ -4107,6 +4107,7 @@ feed May2020
 
 
   # pandemic, super spreader, mitigation, transmission, public health
+  @@DanielleMiller
   // Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel
   doi: https://doi.org/10.1101/2020.05.21.20104521
   ref 'Miller_et_al_2020b
@@ -4493,6 +4494,7 @@ feed May2020
     # quote !a =
 
   # Mutation, Genetic Diversity among population
+  @@NidhanBiswas
   // Global Spread of SARS-CoV-2 Subtype with Spike Protein Mutation D614G is Shaped by Human Genomic Variations that Regulate Expression of TMPRSS2 and MX1 Genes
   doi: https://doi.org/10.1101/2020.05.04.075911
   ref 'Bhattacharyya_et_al_2020

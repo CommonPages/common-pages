@@ -124,6 +124,7 @@ feed January2020
 
 
   # Bats, Mutation - Background.. Consipiracy claims !c
+  @@WeifengShi
   // Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding
   doi: https://doi.org/10.1016/S0140-6736(20)30251-8
   ref 'Lu_et_at_2020
@@ -185,6 +186,7 @@ feed January2020
     quote !c = Several other critical residues in 2019-nCoV RBM (particularly Asn501) are compatible with, but not ideal for, binding human ACE2, suggesting that 2019-nCoV has acquired some capacity for human-to-human transmission.
 
   # Origin, Strucure
+  @@SilviaAngeletti
   // The 2019‐new coronavirus epidemic: Evidence for virus evolution
   doi: https://doi.org/10.1002/jmv.25688
   ref 'Benvenuto_et_al_2020

@@ -112,7 +112,7 @@ feed March2020
 
 
   #
-
+  @@LydiaBourouiba
   // Turbulent Gas Clouds and Respiratory Pathogen Emissions; Potential Implications for Reducing Transmission of COVID-19
   doi: https://doi.org/10.1001/jama.2020.4756
   ref 'Bourouiba_03_26_2020
@@ -257,6 +257,7 @@ feed March2020
 
 
   # Social Distancing , Tracing
+  @@HsienLin
   // High transmissibility of COVID-19 near symptom onset
   doi: https://doi.org/10.1101/2020.03.18.20034561
   ref 'Cheng_et_al_03_19_2020

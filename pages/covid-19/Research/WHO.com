@@ -991,6 +991,7 @@ feed WHO
 
   # 47
   # facemasks, hospitals, public spaces
+  @@MichaelKlompas
   // Universal Masking in Hospitals in the Covid-19 Era
   doi: https://doi.org/10.1056/NEJMc2020836
   ref 'Klompas_et_al_06_03_2020

@@ -2903,6 +2903,7 @@ feed Pre2019
 
 
   # SARS, Aircraft transmission,
+  @@SonjaOlsen
   // Transmission of the Severe Acute Respiratory Syndrome on Aircraft
   doi: https://doi.org/10.1056/NEJMoa031349
   ref 'Olsen_et_al_2003
@@ -3048,6 +3049,7 @@ feed Pre2019
    quote !r = A more precise understanding of the ro1e of sneezing in the transmission of different respiratory diseases may result from a study of the concentration of the infective agent in the saliva and of thefrequency of sneezing among carriers of the agent.
 
   # At risk distance, The six-foot rule isn’t some kind of infectious-disease law, respiratory illnesses frequently travel farther, schools, transmission
+  @@LoreenHerwaldt
   // Epidemic meningococcal disease in an elementary-school classroom.
   doi: https://doi.org/10.1056/NEJM198211113072007
   ref 'Feigin_et_al_1982
@@ -3087,6 +3089,7 @@ feed Pre2019
 
 
   # handwashing, physical interventions, infection control, disinfecting high-touch surfaces
+  @@ChrisMar
   // Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review
   doi: https://doi.org/10.1136/bmj.39393.510347.BE
   ref 'Jefferson_et_al_2008
@@ -3125,6 +3128,7 @@ feed Pre2019
 
 
   # handwashing, physical interventions, infection control, military hygiene, respiratory tract infections
+  @@MargaretRyan
   // Handwashing and respiratory illness among young adults in military training.
   doi: https://doi.org/10.1016/S0749-3797(01)00323-3
   ref 'Ryan_et_al_2001

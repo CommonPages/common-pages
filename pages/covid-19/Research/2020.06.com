@@ -362,6 +362,7 @@ feed June2020
     quote !a =
 
   # Face Mask and Social Distancing >1m
+  @@HolgerSchunemann
   // Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis
   doi: https://doi.org/10.1016/S0140-6736(20)31142-9
   ref 'Chu_et_al_06_01_2020
@@ -572,6 +573,7 @@ feed June2020
     quote !i = Dedicated analysis of the classical HLA loci showed no significant allele associations with either Covid-19 or disease severity (oxygen supplementation only or mechanical ventilation of any kind), and further analysis of heterozygote and divergent allele advantage or predicted number of HLA-bound SARS-CoV-2 peptides did not show significant associations with Covid-19 in this data set.
 
   # Mutation; Phylogenetics; Transmission
+  @@LucyDorp
   // No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2
   doi: https://doi.org/10.1101/2020.05.21.108506
   ref 'Dorp_et_al_06_30_2020
@@ -673,6 +675,7 @@ feed June2020
 
 
   # virus infectivity in cells, spike protein; D614G mutation; genotype distribution; furin cleavage site
+  @@MichaelFarzan
   // The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
   doi: https://doi.org/10.1101/2020.06.12.148726
   ref 'Zhang_et_al_06_12_2020

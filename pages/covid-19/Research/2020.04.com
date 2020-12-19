@@ -1631,6 +1631,7 @@ feed April2020
 
 
   # Mutation - Genetic Diversity - Frontiers for finding out the mutation
+  @@GiorgioMattiuz
   // Evidence for host-dependent RNA editing in the transcriptome of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.02.973255
   ref 'Giorgio_et_al_04_27_2020
@@ -1647,6 +1648,7 @@ feed April2020
 
 
   # Mutation - Genetic Diversity
+  @@MinZheng
   // Patient-derived mutations impact pathogenicity of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.04.14.20060160
   ref 'Yao_et_al_04_23_2020
@@ -3042,6 +3044,7 @@ feed April2020
 
 
   # Social distancing, Community mitigation, PPE, SchoolClosure
+  @@PengWu
   // Impact assessment of non-pharmaceutical interventions against coronavirus disease 2019 and influenza in Hong Kong: an observational study
   doi: https://doi.org/10.1016/S2468-2667(20)30090-6
   ref 'Cowling_et_al_2020
@@ -3280,6 +3283,7 @@ feed April2020
 
 
   # Strucure of the virus, New studies on origin of the virus, more evidence that it came from bats.
+  @@Paraskevis
   // Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event
   doi: https://doi.org/10.1016/j.meegid.2020.104212
   ref 'Paraskevis_et_al_2020
