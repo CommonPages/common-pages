@@ -1164,7 +1164,7 @@ feed WHO
 
   # 54
   # Facemasks, household transmission, randomized trials, Limitation
-  @@vFabriceCarrat
+  @@FabriceCarrat
   // Surgical mask to prevent influenza transmission in households: a cluster randomized trial.
   doi: https://doi.org/10.1371/journal.pone.0013998
   ref 'Canini_et_al_11_17_2010

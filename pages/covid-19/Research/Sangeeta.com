@@ -4353,7 +4353,7 @@ feed Sangeeta
 
 
   # Disinfection, Wastewater, Airborne, counter to airbourne
-  @@FedericaCarraturo
+  # @@FedericaCarraturo
   // Persistence of SARS-CoV-2 in the environment and COVID-19 transmission risk from environmental matrices and surfaces
   doi: https://doi.org/10.1016/j.envpol.2020.115010
   ref 'Carraturo_et_al_06_09_2020

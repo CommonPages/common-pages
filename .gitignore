@@ -4,3 +4,4 @@ app/versions
 app/data/*
 app/log/*
 app/versions/*
+log/
