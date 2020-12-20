@@ -2,5 +2,6 @@
 
 ./app/versions/current/bin/common-app \
   -app.environment=author \
+  -http.port=80 \
   -J-Xmx3072m \
   -J-Xms3072m \
