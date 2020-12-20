@@ -806,6 +806,7 @@ feed WHO
 
   # 40
   # Limitation, N95, surgical masks
+  @@JinHuang
   // Effectiveness of N95 respirators versus surgical masks against influenza: A systematic review and meta-analysis
   doi: https://doi.org/10.1111/jebm.12381
   ref 'Long_et_al_03_13_2020
@@ -930,6 +931,7 @@ feed WHO
 
   # 44
   # N95 respirators, medical masks, health care workers
+  @@LewisRadonovich
   // Respirators vs Medical Masks for Preventing Influenza Among Health Care Personnel: A Randomized Clinical Trial.
   doi: https://doi.org/10.1001/jama.2019.11645
   ref 'RadonovichJr_et_al_09_03_2019
@@ -1162,6 +1164,7 @@ feed WHO
 
   # 54
   # Facemasks, household transmission, randomized trials, Limitation
+  @@vFabriceCarrat
   // Surgical mask to prevent influenza transmission in households: a cluster randomized trial.
   doi: https://doi.org/10.1371/journal.pone.0013998
   ref 'Canini_et_al_11_17_2010
@@ -1227,6 +1230,7 @@ feed WHO
 
   # 56
   # facemasks, hand hygiene, household transmission, influenza
+  @@BenjaminCowling
   // Facemasks and hand hygiene to prevent influenza transmission in households: a cluster randomized trial.
   doi: https://doi.org/10.7326/0003-4819-151-7-200910060-00142
   ref 'Cowling_et_al_10_06_2009
@@ -1344,6 +1348,7 @@ feed WHO
 
   # 59
   # 41 index cases, facemasks, hand hygiene,
+  @@ThorstenSuess
   // The role of facemasks and hand hygiene in the prevention of influenza transmission in households: results from a cluster randomised trial; Berlin, Germany,
   doi: https://doi.org/10.1186/1471-2334-12-26
   ref 'Suess_et_al_01_26_2012
@@ -1422,6 +1427,7 @@ feed WHO
 
   # 62
   # influenza, masks, washing hands, Limitation
+  @@AllisonAiello
   // Mask use, hand hygiene, and seasonal influenza-like illness among young adults: a randomized intervention trial
   doi: https://doi.org/10.1086/650396
   ref 'Aiello_et_al_02_15_2010
@@ -1447,6 +1453,7 @@ feed WHO
 
   # 63
   # Facemasks, hand hygiene, randomized trial, influenza
+  @@AllisonAiello
   // Facemasks, hand hygiene, and influenza among young adults: a randomized intervention trial
   doi: https://doi.org/10.1371/journal.pone.0029744
   ref 'Aiello_et_al_01_25_2012

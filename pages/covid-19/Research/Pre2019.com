@@ -5336,6 +5336,7 @@ feed Pre2019
     quote !a = For drugs with a narrow therapeutic index such as chloroquine, recommended dosing regimens should be respected, and adequate information sources must be available where such drugs are dispensed by untrained personnel.
 
   # Face Mask, systematic review, counter claim
+  @@MaryChamberland
   // The use of masks and respirators to prevent transmission of influenza: a systematic review of the scientific evidence.
   doi: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1750-2659.2011.00307.x
   ref 'Reza_et_al_2011

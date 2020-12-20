@@ -226,7 +226,7 @@
     / Recommendation: Perception of general public and facemask use
     quote !c = Efforts to improve perception of public health risks can assist the management of major communicable disease incidents by empowering the general public and strengthening perceptions of personal control. Active and empowered involvement of the general public in implementing and cooperating with public health control measures supported by national and international authorities has clearly helped to bring SARS under control. Perhaps it is this perception of the importance of personal and collective responsibility by members of the public that the mask symbolises best and the public health contribution of this symbolism should be remembered for future emerging infections.
 
-
+  @@RainaMacIntyre
   //  Face Mask Use and Control of Respiratory Virus Transmission in Households
   doi: https://dx.doi.org/10.3201/eid1502.081167
   ref 'MacIntyre_et_al_2009
