@@ -260,7 +260,7 @@
     quote !a = “warming” of nasal cavity, oral cavity, pharyngeal cavity and upper airways may create SARS-CoV-2 containment environments under facemasks and cloth face coverings.
     / Possible physiological reasons for opposing facemasks
     quote !b = Interestingly, the physiological reason for intolerance to facemasks and cloth face coverings may be due to active and “warm” brain inefficiently dissipating heat across no-longer-cool nasal cavity and paranasal sinuses
-
+  @@DevabhaktuniSrikrishna
   // Sustainable social distancing through facemask use and testing during the Covid-19 pandemic
   doi: https://doi.org/10.1101/2020.04.01.20049981
   ref 'Chowell_et_al_05_2020
@@ -272,7 +272,7 @@
     / medRxiv — May 6, 2020
     quote !a = The pandemic may be readily controllable through a combination of testing, treatment if necessary, and self-isolation after testing positive (TTI) of symptomatic individuals together with social protection (e.g., facemask use, handwashing). Even with 20% effective social protection, TTI of 1 in 4 symptomatic individuals can substantially "flatten the curve" cutting the peak daily incidence in half.
 
-
+  @@JasonAbaluck
   // The Case for Universal Cloth Mask Adoption and Policies to Increase Supply of Medical Masks for Health Workers
   doi: http://dx.doi.org/10.2139/ssrn.3567438
   ref 'Abaluck_04_2020

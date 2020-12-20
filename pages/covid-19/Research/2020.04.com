@@ -202,6 +202,7 @@ feed April2020
 
 
   # Mask and Respirators Benefits
+  @@RainaMacIntyre
   // A rapid systematic review of the efficacy of face masks and respirators against coronaviruses and other respiratory transmissible viruses for the community, healthcare workers and sick patients
   doi: https://doi.org/10.1016/j.ijnurstu.2020.103629
   ref 'MacIntyre_et_al_04_21_2020
@@ -259,6 +260,7 @@ feed April2020
 
 
   # Face Mask
+  @@AbbaGumel
   // To mask or not to mask: Modeling the potential for face mask use by the general public to curtail the COVID-19 pandemic
   doi: https://dx.doi.org/10.1016%2Fj.idm.2020.04.001
   ref 'Eikenberry_et_al_04_21_2020
@@ -3865,7 +3867,7 @@ feed April2020
     #  / April, 2020 - medRxiv
     # quote !a =
 
-
+  @@JuliiBrainard
   // Facemasks and similar barriers to prevent respiratory illness such as COVID-19: A rapid systematic review
   doi: https://doi.org/10.1101/2020.04.01.20049528
   ref 'Brainard_et_al_04_06_2020

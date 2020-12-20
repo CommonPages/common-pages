@@ -48,6 +48,7 @@ feed November2020
     quote !a = There is a high degree of heterogeneity in the magnitude of adaptive immune responses.  It may be expected that at least a fraction of the SARS-CoV-2-infected population with particularly low immune memory would be susceptible to re-infection relatively quickly.
 
   # Mask
+  @@HenningBundgaard
   // Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers: A Randomized Controlled Trial
   doi: https://doi.org/10.7326/M20-6817
   ref 'Bundgaard_et_al_11_18_2020

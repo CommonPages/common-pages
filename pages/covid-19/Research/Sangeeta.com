@@ -3298,6 +3298,7 @@ feed Sangeeta
   #
 
   # Universal Masking, HCWs
+  @@DeepakBhatt
   // Association Between Universal Masking in a Health Care System and SARS-CoV-2 Positivity Among Health Care Workers
   doi: https://doi.org/10.1001/jama.2020.12897
   ref 'Wang_et_al_07_07_2020
@@ -3327,7 +3328,7 @@ feed Sangeeta
     / July, 2020 - JAMA.
     quote !b = At this critical juncture when COVID-19 is resurging, broad adoption of cloth face coverings is a civic duty, a small sacrifice reliant on a highly effective low-tech solution that can help turn the tide favorably in national and global efforts against COVID-19.
 
-
+  @@DeepakBhatt
   // Association Between Universal Masking in a Health Care System and SARS-CoV-2 Positivity Among Health Care Workers
   doi: https://doi.org/10.1001/jama.2020.12897
   ref 'Wang_et_al_07_14_2020
@@ -3901,6 +3902,7 @@ feed Sangeeta
 
 
   # policy, public health, general benefits, general public
+  @@Sergi
   // The facemask in public and healthcare workers: a need, not a belief
   doi: https://doi.org/10.1016/j.puhe.2020.05.009
   ref 'Sergi_et_al_05_13_2020

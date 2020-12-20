@@ -756,6 +756,7 @@ feed WHO
 
   # 39
   # nonsomical mitigation, caretakers, MedicalProfessionals
+  @@JohnLynch
   // Infectious Diseases Society of America Guidelines on Infection Prevention for Health Care Personnel Caring for Patients with Suspected or Known COVID-19.
   doi: https://doi.org/10.1093/cid/ciaa1063
   ref 'Lynch_et_al_06_27_2020
@@ -859,6 +860,7 @@ feed WHO
 
   # 41
   # Face masks, eye protection, person distancing
+  @@Jefferson
   // Physical interventions to interrupt or reduce the spread of respiratory viruses. Part 1 - Face masks, eye protection and person distancing: systematic review and meta-analysis
   doi: https://doi.org/10.1101/2020.03.30.20047217
   ref 'Jefferson_et_al_04_07_2020

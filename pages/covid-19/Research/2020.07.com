@@ -152,6 +152,7 @@ feed July2020
     quote !a = The results illustrate that multiple layers of household air filters are able to achieve similar filtration efficiencies compared to the N95 material without causing a significant increase in flow resistance.
 
   # Mask and Respirators for HCW, medical professionals, aerosols, efficacy, Surgical masks
+  @@RamiSommerstein
   // Risk of SARS-CoV-2 transmission by aerosols, the rational use of masks, and protection of healthcare workers from COVID-19
   doi: https://doi.org/10.1186/s13756-020-00763-0
   ref 'Sommerstein_et_al_07_06_2020

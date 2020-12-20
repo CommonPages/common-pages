@@ -168,6 +168,7 @@ feed August2020
     quote !a =
 
   # Why Face Mask
+  @@SusieDai
   // Mask or no mask for COVID-19: A public health and market study
   doi: https://doi.org/10.1371/journal.pone.0237691
   ref 'Li_et_al_08_14_2020
