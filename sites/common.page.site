@@ -5,6 +5,7 @@ hosts:
   - common.page
   - common.test
   - www.claimspace.org
+  - commonpage.dev
   - claimspace.org
   - claimspace.test
 pages:
