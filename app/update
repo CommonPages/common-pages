@@ -3,16 +3,16 @@
 mkdir ./app/versions
 
 echo "Downloading latest application..."
-curl https://static.common.page/app/common-app.tar --output ./app/versions/common-app.tar
+curl https://static.common.page/app/common-dev.tar --output ./app/versions/common-dev.tar
 
 echo "Removing old version..."
 rm -rf ./app/versions/current
 
 echo "Unzipping archive..."
-tar -xzvf ./app/versions/common-app.tar -C ./app/versions/
+tar -xzvf ./app/versions/common-dev.tar -C ./app/versions/
 
 echo "Installing current version..."
-mv ./app/versions/data/dist-release ./app/versions/current
+mv ./app/versions/data/dev-release ./app/versions/current
 
 echo
 echo "Done"
