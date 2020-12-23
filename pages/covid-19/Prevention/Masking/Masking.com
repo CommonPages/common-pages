@@ -2,7 +2,7 @@
 seo: #masks
 / Masking
 subject Masking
-  head = Mask effectiveness is highly dependent on the type of mask, the usage patterns of the wearer, and on each virus' transmissability. Their applicability in health care settings is unchallenged, but the value of masking healthy individuals in community settings is disputed.
+  head = Mask effectiveness is highly dependent on the type of mask, the usage patterns of the wearer, and on each virus' transmissability. Their applicability in health care settings is unchallenged. The value of masking healthy individuals in community settings has been disputed, but there is growing direct and indirect evidence of benefit in a number of settings.
 
   < See also
     Timeline.Response.WHOMaskingGuidelines
@@ -22,11 +22,13 @@ subject Masking
 
   - Trial and Observational Evidence
     !DirectCommunityEvidence
+    !IndirectCommunityEvidence
+    !DirectHouseholdEvidence
     !DirectHealthCareEvidence
+    !IndirectHealthCareEvidence
     !COVID-19_Review
     !MaskReviewPre2020
     !Trials
-    !IndirectHealthCareEvidence
     !ClothTrial
     !SourceControl
     !ObservationalEvidence
@@ -42,7 +44,7 @@ subject Masking
     !Speech
     # !N95vSurgicalTrial
 
-  claim !DirectCommunityEvidence = There is little direct evidence as to the effectiveness of masks in reducing the risk of COVID-19 infection in community settings. One clinical trial conducted during the 2020 pandemic did not detect a statistically significant benefit to mask wearers, but the authors did not rule out benefits from source control.
+  claim !DirectCommunityEvidence = There is little direct trial evidence as to the effectiveness of masks in reducing the risk of COVID-19 infection in community settings. One clinical trial conducted during the 2020 pandemic did not detect a statistically significant benefit to mask wearers, but the authors did not rule out benefits from source control.
 
     claim !First = Early in the COVID-19 pandemic, a number of researchers and organizations addressing the applicability of masks highlighted the lack of direct evidence as to the effectiveness of masks in general, and for COVID-19 in particular.
       -
@@ -57,6 +59,12 @@ subject Masking
         'Bundgaard_et_al_11_18_2020.!c
         'Bundgaard_et_al_11_18_2020.!d
 
+  claim !DirectHouseholdEvidence = There is some direct evidence that the use of masks within households by both the primary case and household members, prior to symptom onset reduces the risk of transmission. The same evidence suggests that masks may not provide a benefit after symptom onset.
+    -
+      'Wang_et_al_05_28_2020
+      'Wang_et_al_05_28_2020.!b
+      'Wang_et_al_05_28_2020.!e
+
   claim !DirectHealthCareEvidence = In health care settings, there is some observational evidence that masks have been effective in reducing COVID-19 transmission. This evidence does not come from a randomized trial, and while the authors support universal masking in health care settings they caution that the observed effect may be attributable to a variety of concurrent factors.
     -
       'Wang_et_al_07_14_2020
@@ -70,6 +78,11 @@ subject Masking
       'Seto_et_al_2003.!b
       'Seto_et_al_2003.!c
       'Seto_et_al_2003.!d
+
+  claim !IndirectCommunityEvidence = There is some indirect evidence that masking in community settings can be beneficial. One study into public regional data of SARS-CoV-2 infections in Germany concluded that face mask adoption reduced the daily growth rate of infections by around 47%.
+    -
+      'Mitze_et_al_12_3_2020
+      'Mitze_et_al_12_3_2020.!a
 
   claim !ExpertOpinionForHCW = The opinions expressed in relevant research have been consistently supportive of mask usage for the protection of health care workers, regardless of the availability of direct evidence for COVID-19.
     -
@@ -279,6 +292,9 @@ subject Masking
       'Rengasamy_et_al_06_28_2010.!g
 
   claim !FitAndProtocol = A number of researchers have emphasized the importance of fit and following protocol to the overall efficacy of masks of all kinds.
+    -
+      'Pan_et_al_11_20_2020
+      'Pan_et_al_11_20_2020.!f
     -
       'Konda_et_al_06_18_2020
       'Konda_et_al_06_18_2020.!h

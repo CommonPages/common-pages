@@ -1330,7 +1330,7 @@ feed Sangeeta
   // Inward and outward effectiveness of cloth masks, a surgical mask, and a face shield
   doi: https://doi.org/10.1101/2020.11.18.20233353
   ref 'Pan_et_al_11_20_2020
-    head = We evaluated the material filtration efficiency, inward protection efficiency, and outward protection efficiency of 10 masks and a face shield on a manikin, using NaCl aerosols over the size range of 0.04 µm to >100 µm. Based on our findings, we recommend a three-layer mask consisting of outer layers of a flexible, tightly woven fabric and an inner layer consisting of a material designed to filter out particles. This combination should produce an overall efficiency of >70% at the most penetrating particle size and >90% for particles 1 μm and larger if the mask fits well.
+    head = We evaluated the material filtration efficiency, inward protection efficiency, and outward protection efficiency of 10 masks and a face shield on a manikin, using NaCl aerosols over the size range of 0.04 µm to >100 µm.
 
     > Abstract
       We evaluated the effectiveness of 11 face coverings for material filtration efficiency, inward protection efficiency on a manikin, and outward protection efficiency on a manikin. At the most penetrating particle size, the vacuum bag, microfiber cloth, and surgical mask had material filtration efficiencies >50%, while the other materials had much lower filtration efficiencies. However, these efficiencies increased rapidly with particle size, and many materials had efficiencies >50% at 2 μm and >75% at 5 μm. The vacuum bag performed best, with efficiencies of 54-96% for all three metrics, depending on particle size. The thin acrylic and face shield performed worst. Inward protection efficiency and outward protection efficiency were similar for many masks; the two efficiencies diverged for stiffer materials and those worn more loosely (e.g., bandana) or more tightly (e.g., wrapped around the head) compared to a standard earloop mask. Discrepancies between material filtration efficiency and inward/outward protection efficiency indicated that the fit of the mask was important. We calculated that the particle size most likely to deposit in the respiratory tract when wearing a mask is ∼2 μm. Based on these findings, we recommend a three-layer mask consisting of outer layers of a flexible, tightly woven fabric and an inner layer consisting of a material designed to filter out particles. This combination should produce an overall efficiency of >70% at the most penetrating particle size and >90% for particles 1 μm and larger if the mask fits well.
@@ -1378,6 +1378,9 @@ feed Sangeeta
 
     / November, 2020 - medRxiv
     quote !i = Factors including stiffness of the material, the way of wearing the mask (e.g., earloops vs. tied around the head), and material hydrophobicity affected the fit of the mask and thus its performance.
+
+    / November, 2020 - medRxiv
+    quote !j = Based on our findings, we recommend a three-layer mask consisting of outer layers of a flexible, tightly woven fabric and an inner layer consisting of a material designed to filter out particles. This combination should produce an overall efficiency of >70% at the most penetrating particle size and >90% for particles 1 μm and larger if the mask fits well.
 
 
 
@@ -1803,9 +1806,21 @@ feed Sangeeta
 
   # put in masking
   // Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China
-  doi: 10.1136/bmjgh-2020-002794
+  doi: https://doi.org/10.1136/bmjgh-2020-002794
   ref 'Wang_et_al_05_28_2020
-    head = A retrospective cohort study of 335 people in 124 families and with at least one laboratory confirmed COVID-19 case was conducted.
+    head = A retrospective cohort study of 335 people in 124 families and with at least one laboratory confirmed COVID-19 case was conducted. The outcome of interest was secondary transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) within the family.
+
+    > Introduction
+      Transmission of COVID-19 within families and close contacts accounts for the majority of epidemic growth. Community mask wearing, hand washing and social distancing are thought to be effective but there is little evidence to inform or support community members on COVID-19 risk reduction within families.
+
+    > Methods
+      A retrospective cohort study of 335 people in 124 families and with at least one laboratory confirmed COVID-19 case was conducted from 28 February to 27 March 2020, in Beijing, China. The outcome of interest was secondary transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) within the family. Characteristics and practices of primary cases, of well family contacts and household hygiene practices were analysed as predictors of secondary transmission.
+
+    > Results
+      The secondary attack rate in families was 23.0% (77/335). Face mask use by the primary case and family contacts before the primary case developed symptoms was 79% effective in reducing transmission (OR=0.21, 95% CI 0.06 to 0.79). Daily use of chlorine or ethanol based disinfectant in households was 77% effective (OR=0.23, 95% CI 0.07 to 0.84). Wearing a mask after illness onset of the primary case was not significantly protective. The risk of household transmission was 18 times higher with frequent daily close contact with the primary case (OR=18.26, 95% CI 3.93 to 84.79), and four times higher if the primary case had diarrhoea (OR=4.10, 95% CI 1.08 to 15.60). Household crowding was not significant.
+
+    > Conclusion
+      The study confirms the highest risk of transmission prior to symptom onset, and provides the first evidence of the effectiveness of mask use, disinfection and social distancing in preventing COVID-19. We also found evidence of faecal transmission. This can inform guidelines for community prevention in settings of intense COVID-19 epidemics.
 
     - quotes
       !a
@@ -1848,7 +1863,6 @@ feed Sangeeta
   doi: https://doi.org/10.1016/S2666-5247(20)30172-5
   ref 'Cevik_et_al_11_19_2020
     head = This systematic review and meta-analysis provides comprehensive data on the viral dynamics of SARS-CoV-2, including the duration of RNA shedding and viable virus isolation.
-
 
     > Background
       Viral load kinetics and duration of viral shedding are important determinants for disease transmission. We aimed to characterise viral load dynamics, duration of viral RNA shedding, and viable virus shedding of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in various body fluids, and to compare SARS-CoV-2, SARS-CoV, and Middle East respiratory syndrome coronavirus (MERS-CoV) viral dynamics.

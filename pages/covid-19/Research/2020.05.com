@@ -119,7 +119,7 @@ feed May2020
   // Early viral clearance and antibody kinetics of COVID-19 among asymptomatic carriers
   doi: https://doi.org/xyz
   ref 'Zhang_et_al_05_02_2020
-    head = A total of 56 COVID-19 patients without symptoms at admission and 19 age-matched symptomatic patients were enrolled. RNA of SARS-CoV-2 and total antibodies was tested. Young COVID-19 patients seem to be asymptomatic cases with early clearance of SARS-CoV-2
+    head = A total of 56 COVID-19 patients without symptoms at admission and 19 age-matched symptomatic patients were enrolled. RNA of SARS-CoV-2 and total antibodies was tested. Young COVID-19 patients seem to be asymptomatic cases with early clearance of SARS-CoV-2.
 
     > Background
       Asymptomatic carriers contribute to the spread of Coronavirus Disease 2019 (COVID-19), but their clinical characteristics, viral kinetics, and antibody responses remain unclear.

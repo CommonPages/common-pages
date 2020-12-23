@@ -10,6 +10,7 @@ import Foundations.Triage._
 
 import Research._
 import Research.Triage._
+import Research.December2020._
 import Research.November2020._
 import Research.October2020._
 import Research.September2020._

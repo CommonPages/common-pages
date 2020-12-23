@@ -3,6 +3,46 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020, seeded with nearly 1,000 references.
 
+  / December 23, 2020
+  revision December_23
+    head = Two new studies have provided direct and indirect evidence on the benefit of masks in some settings. We've also added a few recent papers related to asymptomatic transmission.
+
+    >
+      In early December, Mitze and coauthors published a study which provided indirect evidence of the benefits of masks in community settings in Germany:
+    -
+      'Mitze_et_al_12_3_2020
+      'Mitze_et_al_12_3_2020.!a
+    >
+      This paper, and related claims, have been added to the masking sections under both {Prevention.Masking prevention} and {Containment.UniversalMasking containment}:
+    -
+      Prevention.Masking.!IndirectCommunityEvidence
+      Containment.UniversalMasking.!Evidence
+    >
+      We found a paper from May that described a cohort study in China which provides direct evidence as to the benefits of masks in household settings, if worn prior to symptom onset:
+    -
+      'Wang_et_al_05_28_2020
+      'Wang_et_al_05_28_2020.!b
+    >
+      We've added a claim to this effect under {Prevention.Masking}:
+    -
+      Prevention.Masking.!DirectHouseholdEvidence
+    >
+      In light of these new studies, we've updated the head text of the masking section to reflect the growing evidence of benefit in a variety of settings:
+    -
+      Prevention.Masking
+    >
+      In the last revision, the head text read: *“Their applicability in health care settings is unchallenged, but the value of masking healthy individuals in community settings is disputed.”* We've replaced “is disputed” with “has been disputed” as it is not clear to what extent there is still an active dispute among those following the evidence.
+    
+      Additional evidence from Pan et al has also been added to the claim on the importance of {Prevention.Masking.!FitAndProtocol mask fit}:
+    -
+      'Pan_et_al_11_20_2020
+      'Pan_et_al_11_20_2020.!f
+    >
+      We've also added a claim on the viral load and clearance time for asymptomatic cases, supported by 3 new papers:
+    -
+      Transmission.Sources.!AsymptomaticCases.!AsymptomaticViralClearance
+
+
   public: december-8-2020
   / December 8, 2020
   revision December_8

@@ -18,13 +18,3 @@ index: hide
   -
    'Cevik_et_al_11_19_2020.!b
    'Nogrady_et_al_11_23_2020
-
-   claim !ViralloadAsymptomatic = Viral loads appear to be similar between asymptomatic and symptomatic individuals infected with SARS-CoV-2.
-     -
-       'Zou_et_al_2020
-
-
-   claim !ViralClearanceASymptomatic = Faster viral clearance has been observed among asymptomatic individuals than those who are symptomatic.
-     -
-       'Zhang_et_al_05_02_2020.!a
-       'Cevik_et_al_11_19_2020

@@ -320,4 +320,13 @@
   // Estimating the Extent of True Asymptomatic Covid-19 and Its Potential for Community Transmission: Systematic Review and Meta-Analysis
   doi: http://dx.doi.org/10.2139/ssrn.3586675
   ref 'Byambasuren_et_al_2020
-    head = The prevalence of true asymptomatic Covid-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesise all available research on the asymptomatic rates. We searched PubMed, Embase, Cochrane COVID 19 trials, and European PMC for pre-print platforms such as MedRxiv, Research Square, and F1000 Research. We screened 571 articles and included five studies from three countries that include 599 Covid-19 cases and 9,297 contacts. The proportion of asymptomatic cases ranged from 6% to 41%. Conclusion: Our meta-analytic estimates of the prevalence of asymptomatic Covid-19 cases are lower than many highly publicized studies, but still substantial. Further robust epidemiological evidence is urgently needed, including in sub-populations such as children, to better understand the importance of asymptomatic cases for driving spread of the pandemic.
+    head = The prevalence of true asymptomatic Covid-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesise all available research on the asymptomatic rates. We screened 571 articles and included five studies from three countries that include 599 Covid-19 cases and 9,297 contacts.
+
+    > Abstract
+      The prevalence of true asymptomatic Covid-19 cases is critical to policy makers considering the effectiveness of mitigation measures against the SARS-CoV-2 pandemic. We aimed to synthesise all available research on the asymptomatic rates. We searched PubMed, Embase, Cochrane COVID 19 trials, and European PMC for pre-print platforms such as MedRxiv, Research Square, and F1000 Research. We screened 571 articles and included five studies from three countries that include 599 Covid-19 cases and 9,297 contacts. The proportion of asymptomatic cases ranged from 6% to 41%. Conclusion: Our meta-analytic estimates of the prevalence of asymptomatic Covid-19 cases are lower than many highly publicized studies, but still substantial. Further robust epidemiological evidence is urgently needed, including in sub-populations such as children, to better understand the importance of asymptomatic cases for driving spread of the pandemic.
+
+    - quotes
+      !a
+
+    / The Lancet — June 4, 2020
+    quote !a = Our meta-analytic estimates of the prevalence of asymptomatic Covid-19 cases are lower than many highly publicized studies, but still substantial. The proportion of asymptomatic cases ranged from 6% to 41%.

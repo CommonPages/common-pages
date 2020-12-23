@@ -16,6 +16,7 @@ subject module Containment
 
     -
       !Advocates
+      !Evidence
       !Models
       !Con
 
@@ -56,6 +57,12 @@ subject module Containment
         'Feng_et_al_03_20_2020
         'Feng_et_al_03_20_2020.!a
         'Feng_et_al_03_20_2020.!c
+
+    claim !Evidence = There is a growing body of literature in which authors have argued that universal masking measures have been successful in reducing the spread of SARS-CoV-2.
+      -
+        'Mitze_et_al_12_3_2020
+        'Mitze_et_al_12_3_2020.!a
+
 
     claim !Models = A number of researchers have used epidemiological models to suggest that masks could play an important role in slowing transmission.
       -

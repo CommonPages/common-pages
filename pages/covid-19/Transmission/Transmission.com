@@ -82,9 +82,12 @@ subject module Transmission
         'He_et_al_2020.!a
 
     / Symptomatic Cases
-    claim !SymptomaticCases = Transmissability appears to peak around symptom onset. There have been reports that the risk of transmission declines after the first 5 days of symptoms, though infectiousness may last longer, particularly in cases of severe disease.
+    claim !SymptomaticCases = Transmissability appears to peak around or before symptom onset. There have been reports that the risk of transmission declines after the first 5 days of symptoms, though infectiousness may last longer, particularly in cases of severe disease.
       < See also
         Virus.Shedding
+      -
+        'Wang_et_al_05_28_2020
+        'Wang_et_al_05_28_2020.!g
       -
         'Cheng_et_al_05_01_2020
         'Cheng_et_al_05_01_2020.!b
@@ -162,6 +165,18 @@ subject module Transmission
         -
           'Nogrady_et_al_11_23_2020
           'Nogrady_et_al_11_23_2020.!b
+
+      claim !AsymptomaticViralClearance = Viral loads appear to be similar between asymptomatic and symptomatic individuals infected with SARS-CoV-2, but faster viral clearance has been observed among asymptomatic individuals than those who are symptomatic.
+        -
+          'Cevik_et_al_11_19_2020
+          'Cevik_et_al_11_19_2020.!b
+        -
+          'Zou_et_al_2020
+          'Zou_et_al_2020.!a
+        -
+          'Zhang_et_al_05_02_2020.
+          'Zhang_et_al_05_02_2020.!a
+
 
     / Close Contacts
     claim !CloseContacts = Transmission efficiency among close contacts is higher than among casual contacts. Transmission within the household is likely a significant driver of infection, with higher attack rates for symptomatic cases than asymptomatic cases.

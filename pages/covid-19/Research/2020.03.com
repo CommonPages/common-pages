@@ -2506,7 +2506,7 @@ feed March2020
       !b
 
     / March, 2020 - The New England journal of medicine
-    quote !a = The viral load that was detected in the asymptomatic patient was similar to that in the symptomatic patients, which suggests the transmission potential of asymptomatic or minimally symptomatic patients
+    quote !a = The viral load that was detected in the asymptomatic patient was similar to that in the symptomatic patients, which suggests the transmission potential of asymptomatic or minimally symptomatic patients.
 
     / March, 2020 - The New England journal of medicine
     quote !b = We analyzed the viral load in nasal and throat swabs obtained from the 17 symptomatic patients and found higher viral loads were detected soon after symptom onset, with higher viral loads detected in the nose than in the throat.
