@@ -3,6 +3,7 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020, seeded with nearly 1,000 references.
 
+  public: december-23-2020
   / December 23, 2020
   revision December_23
     head = Two new studies have provided direct and indirect evidence on the benefit of masks in some settings. We've also added a few recent papers related to asymptomatic transmission.
@@ -32,7 +33,7 @@ revision feed Revisions
       Prevention.Masking
     >
       In the last revision, the head text read: *“Their applicability in health care settings is unchallenged, but the value of masking healthy individuals in community settings is disputed.”* We've replaced “is disputed” with “has been disputed” as it is not clear to what extent there is still an active dispute among those following the evidence.
-    
+
       Additional evidence from Pan et al has also been added to the claim on the importance of {Prevention.Masking.!FitAndProtocol mask fit}:
     -
       'Pan_et_al_11_20_2020
