@@ -386,6 +386,7 @@ feed Pre2019
     quote !a =
 
   # Cloth Mask vs Surgical Mask
+  @@RichardPeltier
   // Evaluating the efficacy of cloth facemasks in reducing particulate matter exposure
   doi: https://doi.org/10.1038/jes.2016.42
   ref 'Shakaya_et_al_06_17_2016
@@ -5644,7 +5645,7 @@ feed Pre2019
   ref 'Wells_11_01_1934
 
     # https://en.wikipedia.org/wiki/Wells_curve
-
+  @@YLi
   // In vivo protective performance of N95 respirator and surgical facemask
   doi: https://doi.org/10.1002/ajim.20395
   ref 'Wong_et_al_2006

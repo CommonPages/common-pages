@@ -12,7 +12,7 @@
     quote !a =
 
   # add first to
-
+  @@MartinFischer
   // Low-cost measurement of facemask efficacy for filtering expelled droplets during speech
   doi: https://doi.org/10.1126/sciadv.abd3083
   ref 'Fischer_et_al_08_2020
@@ -149,6 +149,7 @@
 
 
   # Empirical study, facemasks,
+  @@Lai
   // Effectiveness of facemasks to reduce exposure hazards for airborne infections among general populations
   doi: https://doi.org/10.1098/rsif.2011.0537
   ref 'Lai_et_al_2012
@@ -164,7 +165,7 @@
     / The Royal Society — September 21, 2011
     quote !b = It was also observed that the separation between the source and the manikin was the most influential parameter affecting facemask protection.
 
-
+  @@MarianneSande
   // Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population
   doi: https://doi.org/10.1371/journal.pone.0002618
   ref 'Sande_et_al_2008
@@ -195,7 +196,7 @@
 
     / Plos One - July 9, 2008
     quote !f = It is also clear that home-made masks such as teacloths may still confer a significant degree of protection, albeit less strong than surgical masks or FFP2 masks. ... Home made masks, and to a lesser degree surgical masks, are unlikely to confer much protection against transmission of small particles like droplet nucleis.
-
+  @@SergeyGrinshpun
   // Do N95 respirators provide 95% protection level against airborne viruses, and how adequate are surgical masks?
   doi: https://doi.org/10.1016/j.ajic.2005.08.018
   ref 'Balazy_et_al_2006
@@ -303,7 +304,7 @@
 
     / SSRN — April 6, 2020
     quote !f =  Reaching out to visible persons such as media members and strongly encouraging them to do the same. Encouraging and demonstrating the correct production and use of homemade masks. Providing public health messages with mask-making instructions and instructions on fit. Mask users should also be instructed to wash hands after removing masks and wash or dispose of masks after repeated use. Partnering with non-medical mask industry to provide free or reduced-price cloth masks to everyone.
-
+  @@JimmyWalker
   // Testing the Efficacy of Homemade Masks: Would They Protect in an Influenza Pandemic?
   doi: https://dx.doi.org/10.1017%2Fdmp.2013.43
   ref '!a

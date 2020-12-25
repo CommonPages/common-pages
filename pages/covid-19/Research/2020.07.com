@@ -195,6 +195,7 @@ feed July2020
     quote !f = The absence of clear scientific evidence for aerosol transmission of SARS-CoV-2 provide the rationale for the current recommendations for the use of surgical masks. Respirators are suggested for certain defined procedures with higher transmission risk. Importantly, masking is only one component of the infection control bundle including hand hygiene.
 
   # Mask Efficacy , Policy, Clothmask
+  @@HeleneWesthuizen
   // Face Masks Against COVID-19: An Evidence Review
   doi: https://doi.org/10.20944/preprints202004.0203.v1
   ref 'Howard_et_al_02_20_2020

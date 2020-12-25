@@ -335,6 +335,7 @@ feed May2020
     quote !a =
 
   # Face Shield
+  @@AliPoostchi
   // Efficacy of slit lamp breath shields
   doi: https://doi.org/10.1038/s41433-020-0940-y
   ref 'Poostchi_et_al_05_12_2020
@@ -360,6 +361,7 @@ feed May2020
 
 
   # Cloth Mask, efficacy, aerosols
+  @@AlexPalacios
   // Textile Masks and Surface Covers-A Spray Simulation Method and a "Universal Droplet Reduction Model" Against Respiratory Pandemics
   doi: https://doi.org/10.3389/fmed.2020.00260
   ref 'Palacios_et_al_05_27_2020
@@ -375,6 +377,7 @@ feed May2020
 
 
   # Surgical mask vs cotton mask
+  @@KaiChuang
   // Medical mask versus cotton mask for preventing respiratory droplet transmission in micro environments
   doi: https://doi.org/10.1016/j.scitotenv.2020.139510
   ref 'Ho_et_al_05_18_2020
@@ -415,6 +418,7 @@ feed May2020
 
 
   # Methods to evaluate efficacy of mask
+  @@LorettaFernandezx
   // Quantitative Method for Comparative Assessment of Particle Filtration Efficiency of Fabric Masks as Alternatives to Standard Surgical Masks for PPE
   doi: https://doi.org/10.1016/j.matt.2020.07.006
   ref 'Mueller_et_al_07_19_2020
@@ -3715,6 +3719,7 @@ feed May2020
 
 
   # Face Mask, cloth mask, mask shortage, general public,nonmedical mask
+  @@HeleneWesthuizen
   // Face Masks Against COVID-19: An Evidence Review
   doi: https://doi.org/10.20944/preprints202004.0203.v2
   ref 'Howard_et_al_05_13_2020

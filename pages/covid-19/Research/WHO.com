@@ -1033,6 +1033,7 @@ feed WHO
 
   # 49
   # healthcare workers, PPE, gloves
+  @@JennieKwon
   // Assessment of Healthcare Worker Protocol Deviations and Self-Contamination During Personal Protective Equipment Donning and Doffing.
   doi: https://doi.org/10.1017/ice.2017.121
   ref 'Kwon_et_al_06_13_2017
@@ -1117,6 +1118,7 @@ feed WHO
 
   # 52
   # randomized trials, cloth masks, medical masks, HCWs, limitation of cloth masks
+  @@RainaMacIntyre
   // A cluster randomised trial of cloth masks compared with medical masks in healthcare workers.
   doi: https://doi.org/10.1136/bmjopen-2014-006577
   ref 'MacIntyre1_et_al_04_22_2015
@@ -1150,7 +1152,7 @@ feed WHO
     quote !a = The rates of all infection outcomes were highest in the cloth mask arm, with the rate of ILI statistically significantly higher in the cloth mask arm compared with the medical mask arm. Cloth masks also had significantly higher rates of ILI compared with the control arm.
 
     quote !b = The results caution against the use of cloth masks. Moisture retention, reuse of cloth masks and poor filtration may result in increased risk of infection.
-
+  @@ClintJohnson
   // COVID-19, shortages of masks and the use of cloth masks as a last resort
   doi: https://bmjopen.bmj.com/content/5/4/e006577.responses#covid-19-shortages-of-masks-and-the-use-of-cloth-masks-as-a-last-resort
   ref 'MacIntyre_03_30_2020
@@ -1185,6 +1187,7 @@ feed WHO
 
   # 55
   # facemask, randomized trial
+  @@RainaMacIntyre
   // Cluster randomised controlled trial to examine medical mask use as source control for people with respiratory illness.
   doi: https://doi.org/10.1136/bmjopen-2016-012330
   ref 'MacIntyre_et_al_12_02_2016
@@ -1612,6 +1615,7 @@ feed WHO
 
   # 73
   # Pressure drop, Anti-Yellow Sand Masks, Quarantine Masks, Medical Masks, General Masks, and Handkerchiefs
+  @@ChungsikYoon
   // Comparison of Filtration Efficiency and Pressure Drop in Anti-Yellow Sand Masks, Quarantine Masks, Medical Masks, General Masks, and Handkerchiefs
   doi: https://doi.org/10.4209/aaqr.2013.06.0201
   ref 'Jung_et_al_08_28_2013
@@ -1670,6 +1674,7 @@ feed WHO
 
   # 75
   # limitation of Cloth mask; Filtration efficiency; Pressure drop; Particulate matter
+  @@KimWon
   // Evaluation of Filtration Performance Efficiency of Commercial Cloth Masks.
   doi: https://doi.org/10.5668/JEHS.2015.41.3.203
   ref 'Jang_et_al_06_28_2015
@@ -1742,6 +1747,7 @@ feed WHO
 
   # 77
   # face masks, aerosols, cloth filtration efficiency, cloth masks, public eductaion
+  @@YiCui
   // Household materials selection for homemade cloth face coverings and their filtration efficiency enhancement with triboelectric charging.
   doi: https://doi.org/10.1021/acs.nanolett.0c02211
   ref 'Zhao_et_al_06_02_2020
@@ -1791,6 +1797,7 @@ feed WHO
 
   # 79
   # facemasks, surgical masks, respirators
+  @@ShuLee
   // Particle Size-Selective Assessment of Protection of European Standard FFP Respirators and Surgical Masks against Particles-Tested with Human Subjects
   doi: https://doi.org/10.1155/2016/8572493
   ref 'Hwang_et_al_03_07_2016
