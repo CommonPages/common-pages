@@ -208,7 +208,7 @@ feed March2020
 
 
   # Policy Face Mask
-  @@ShuoFeng
+  # @@ShuoFeng
   // Rational use of face masks in the COVID-19 pandemic
   doi: https://doi.org/10.1016/S2213-2600(20)30134-X
   ref 'Feng_et_al_03_20_2020

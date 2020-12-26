@@ -416,7 +416,7 @@ feed May2020
 
 
   # Methods to evaluate efficacy of mask
-  @@LorettaFernandezx
+  @@LorettaFernandez
   // Quantitative Method for Comparative Assessment of Particle Filtration Efficiency of Fabric Masks as Alternatives to Standard Surgical Masks for PPE
   doi: https://doi.org/10.1016/j.matt.2020.07.006
   ref 'Mueller_et_al_07_19_2020
