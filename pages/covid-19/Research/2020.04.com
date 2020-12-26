@@ -466,6 +466,7 @@ feed April2020
 
 
   # Asymptomatic Tranmission , Children Tranmission
+  @@KostasDanis
   // Cluster of Coronavirus Disease 2019 (COVID-19) in the French Alps, February 2020
   doi: https://doi.org/10.1093/cid/ciaa424
   ref 'Danis_et_al_04_11_2020

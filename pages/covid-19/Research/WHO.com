@@ -537,6 +537,7 @@ feed WHO
 
   # 27
   # close contacts, household
+  @@ZhiHan
   // Modes of contact and risk of transmission in COVID-19 among close contacts.
   doi: https://doi.org/10.1101/2020.03.24.20042606
   ref 'Luo_et_al_03_26_2020

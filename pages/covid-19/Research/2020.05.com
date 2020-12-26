@@ -114,8 +114,6 @@ feed May2020
     'Hosier_et_al_2020
 
   #
-
-
   // Early viral clearance and antibody kinetics of COVID-19 among asymptomatic carriers
   doi: https://doi.org/xyz
   ref 'Zhang_et_al_05_02_2020
@@ -548,6 +546,7 @@ feed May2020
 
 
   # Close Contact
+  @@YuguoChen
   // Epidemiological characteristics of infection in COVID-19 close contacts in Ningbo city
   link: https://pubmed.ncbi.nlm.nih.gov/32447904
   ref 'Chen_et_al_05_10_2020

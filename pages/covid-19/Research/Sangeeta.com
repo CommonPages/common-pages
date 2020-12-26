@@ -1386,6 +1386,7 @@ feed Sangeeta
 
 
   #
+  @@JaeJung
   // Infection and rapid transmission of SARS-CoV-2 in Ferrets.
   doi: https://doi.org/10.1016/j.chom.2020.03.023
   ref 'Kim_et_al_04_06_2020
@@ -1458,6 +1459,7 @@ feed Sangeeta
 
 
   #
+  @@JuergenRicht
   // Susceptibility of swine cells and domestic pigs to SARS-CoV-2
   doi: https://dx.doi.org/10.1101%2F2020.08.15.252395
   ref 'Meekins_et_al_08_16_2020
@@ -1544,6 +1546,7 @@ feed Sangeeta
 
 
   #
+  @@MulugetaKiros
   // COVID-19 pandemic: current knowledge about the role of pets and other animals in disease transmission
   doi: https://doi.org/10.1186/s12985-020-01416-9
   ref 'Kiros_et_al_10_02_2020
@@ -1626,6 +1629,7 @@ feed Sangeeta
 
 
   # animal transmission 11/26
+  @@MalikPeiris
   // Infection of dogs with SARS-CoV-2
   doi: https://doi.org/10.1038/s41586-020-2334-5
   ref 'Sit_et_al_05_14_2020
@@ -1906,6 +1910,7 @@ feed Sangeeta
 
 
   #
+  @@DaihaiHe
   // The relative transmissibility of asymptomatic COVID-19 infections among close contacts
   doi: https://doi.org/10.1016/j.ijid.2020.04.034
   ref 'He_et_al_04_18_2020
@@ -1966,6 +1971,7 @@ feed Sangeeta
 
 
   #
+  @@Arnaud
   // COVID-19 in Children and the Dynamics of Infection in Families
   doi: https://doi.org/10.1542/peds.2020-1576
   ref 'Klara_et_al_07_31_2020
@@ -2010,6 +2016,7 @@ feed Sangeeta
 
 
   # 11/21
+  @@ZacharyMadewell
   // Household transmission of SARS-CoV-2: a systematic review and meta-analysis of secondary attack rate
   doi: https://doi.org/10.1101/2020.07.29.20164590
   ref 'Zachary_et_al_08_01_2020
@@ -2350,6 +2357,7 @@ feed Sangeeta
 
 
   #
+  @@Oyungerel
   // Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis
   doi: https://doi.org/10.1101/2020.05.10.20097543
   ref 'Byambasuren_et_al_09_13_2020
@@ -2409,6 +2417,7 @@ feed Sangeeta
 
 
   #
+  @@JingjingHe
   // Proportion of asymptomatic coronavirus disease 2019: A systematic review and meta‐analysis
   doi: https://doi.org/10.1002/jmv.26326
   ref 'He_et_al_07_21_2020
@@ -2449,6 +2458,7 @@ feed Sangeeta
 
 
   #
+  @@CamillaRothe
   // Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany
   doi: https://doi.org/10.1056/NEJMc2001468
   ref 'Rothe_et_al_03_05_2020
@@ -2463,6 +2473,7 @@ feed Sangeeta
 
 
   #
+  @@MeiyunWang
   // Presumed Asymptomatic Carrier Transmission of COVID-19
   doi: https://doi.org/10.1001/jama.2020.2565
   ref 'Bai_et_al_02_21_2020
@@ -2477,6 +2488,7 @@ feed Sangeeta
 
 
   #
+  @@PengzheQin
   // Secondary Transmission of Coronavirus Disease from Presymptomatic Persons, China
   doi: https://dx.doi.org/10.3201/eid2608.201142
   ref 'Zhang_et_al_05_26_2020
@@ -4473,6 +4485,7 @@ feed Sangeeta
 
 
   # 9 ppl, 2 secondary rate, household, spouse, Outbreak, Close contact, USA
+  @@RachelBurke
   // Enhanced Contact Investigations for Nine Early Travel-Related Cases of SARS-CoV-2 in the United States
   doi: https://doi.org/10.1101/2020.04.27.20081901
   ref 'Burke_et_al_05_03_2020
@@ -5005,6 +5018,7 @@ feed Sangeeta
 
 
   # religious gathering, close contact, spouse, symptomatic, secondary attack rate, workplace, social settings, indoor, travel history, shared eating- I have put it household, religious gatherings
+  @@LilingChaw
   // SARS-CoV-2 transmission in different settings: Analysis of cases and close contacts from the Tablighi cluster in Brunei Darussalam.
   doi: https://doi.org/10.1101/2020.05.04.20090043
   ref 'Chaw_et_al_07_10_2020
@@ -5034,6 +5048,7 @@ feed Sangeeta
 
 
   # household, close contact, spouse, secondary attack rate, 64 ppl, symptomatic
+  @@JianyingChen
   // Characteristics of Household Transmission of COVID-19
   doi: https://doi.org/10.1093/cid/ciaa450
   ref 'Li_et_al_04_17_2020
@@ -5688,6 +5703,7 @@ feed Sangeeta
 
 
   # family cluster, indoor, asymptomatic, 5 ppl
+  @@YuguoChen
   // Familial cluster of COVID-19 infection from an asymptomatic
   doi: https://doi.org/10.1186/s13054-020-2817-7
   ref 'Zhang_et_al_03_27_2020
@@ -5830,6 +5846,7 @@ feed Sangeeta
 
 
   # Indoor, close contacts, 11 ppl
+  @@ChaoWu
   // A family cluster of SARS-CoV-2 infection involving 11 patients in Nanjing, China
   doi: https://doi.org/10.1016/S1473-3099(20)30147-X
   ref 'Huang_et_al_02_28_2020
@@ -6126,6 +6143,7 @@ feed Sangeeta
 
 
   # Schools
+  @@GeraldineCasey
   // No evidence of secondary transmission of COVID-19 from children attending school in Ireland, 2020.
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.21.2000903
   ref 'Heavey_et_al_05_28_2020

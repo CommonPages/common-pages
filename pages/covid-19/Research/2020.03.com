@@ -2952,6 +2952,7 @@ feed March2020
 
 
   # HumanAnimalTransmission
+  @@HualanChen
   // Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2
   doi: https://doi.org/10.1101/2020.03.30.015347
   ref 'Chen_et_al_2020b
@@ -2972,6 +2973,7 @@ feed March2020
 
 
   #  Animal Spread
+  @@KunSun
   // Atlas of ACE2 gene expression in mammals reveals novel insights in transmission of SARS-Cov-2
   doi: https://doi.org/10.1101/2020.03.30.015644
   ref 'Sun_et_al_2020
