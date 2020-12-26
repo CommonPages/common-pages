@@ -208,6 +208,7 @@ feed June2020
     quote !a =
 
   # Household
+  @@Manuel
   // SARS-CoV-2 in environmental samples of quarantined households
   doi: https://doi.org/10.1101/2020.05.28.20114041
   ref 'Döhla_et_al_06_02_2020
@@ -1438,6 +1439,7 @@ feed June2020
 
 
   # 53 ppl, aerosol transmission, ventilation, choir, secondary attack rate- Superspreading Events? (but no claim just example)
+  @@ShellyMiller
   // Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event
   doi: https://doi.org/10.1101/2020.06.15.20132027
   ref 'Miller_et_al_06_18_2020

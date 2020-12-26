@@ -467,6 +467,7 @@ feed May2020
     quote !c = Support from the broader literature that reports the importance of aerosol transmission of infectious diseases and explores survival time and distances, concentrations of infectious agent, the effects of temperature and humidity, and implications of dose delivery of various particle sizes to the respiratory tract.
 
   # Airborne
+  @@CliveBeggs
   // Is there an airborne component to the transmission of COVID-19? : a quantitative analysis study
   doi: https://doi.org/10.1101/2020.05.22.20109991
   ref 'Beggs_et_al_05_26_2020
@@ -497,6 +498,7 @@ feed May2020
 
 
   # Surface Viability
+  @@TakuyaYamagishi
   // Environmental sampling for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during a coronavirus disease (COVID-19) outbreak aboard a commercial cruise ship
   doi: https://doi.org/10.1101/2020.05.02.20088567
   ref 'Yamagishi_et_al_05_08_2020
@@ -1400,6 +1402,7 @@ feed May2020
 
 
   # Aersol
+  @@VilleVuorinen
   // Modelling aerosol transport and virus exposure with numerical simulations in relation to SARS-CoV-2 transmission by inhalation indoors
   doi: https://doi.org/10.1016/j.ssci.2020.104866
   ref 'Vuorinen_et_al_05_31_2020
@@ -2893,6 +2896,7 @@ feed May2020
 
 
   # Fecal Transmission
+  @@FeiXiao
   // Infectious SARS-CoV-2 in Feces of Patient with Severe COVID-19
   doi: https://doi.org/10.3201/eid2608.200681
   ref 'Xiao_et_al_05_18_2020

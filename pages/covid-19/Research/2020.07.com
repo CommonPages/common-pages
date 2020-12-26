@@ -637,6 +637,7 @@ feed July2020
     quote !c = The major limitation of this method is that it is patient-dependent. Non-compliance in a claustrophobic patient can limit the sensitivity of detection. Another concern is the storage of samples. An NP swab in Viral Transport Medium can be refrigerated at 2°C–8°C for 48 hours and at –70°C for a longer duration and has a shelf life of 5 years. Storage and shelf life of the mask with gelatin strips warrants more studies.
 
   # counter to fomite stability
+  @@EmanuelGoldman
   // Exaggerated risk of transmission of COVID-19 by fomites
   doi: https://doi.org/10.1016/S1473-3099(20)30561-2
   ref 'Goldman_et_al_07_03_2020
@@ -917,6 +918,7 @@ feed July2020
 
 
   # Airborne Transmission
+  @@SanderHerfst
   // SARS-CoV-2 is transmitted via contact and via the air between ferrets
   doi: https://doi.org/10.1038/s41467-020-17367-2
   ref 'Richard_et_al_07_08_2020

@@ -593,6 +593,7 @@ feed Sangeeta
 
 
   #
+  @@MaheshJayaweera
   // Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -1416,6 +1417,7 @@ feed Sangeeta
 
 
   #
+  @@SanderHerfst
   // SARS-CoV and SARS-CoV-2 are transmitted through the air between ferrets over more than one meter distance
   doi: https://doi.org/10.1101/2020.10.19.345363
   ref 'Kutter_et_al_10_19_2020
@@ -1582,6 +1584,7 @@ feed Sangeeta
 
 
   #
+  @@WimPoel
   // SARS-CoV-2 infection in farmed minks, the Netherlands, April and May 2020.
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.23.2001005
   ref 'Oreshkova_et_al_06_04_2020
@@ -1604,6 +1607,7 @@ feed Sangeeta
 
 
   #
+  @@BasMunnink
   // Transmission of SARS-CoV-2 on mink farms between humans and mink and back to humans
   doi: https://doi.org/10.1126/science.abe5901
   ref 'Munnink_et_al_11_10_2020
@@ -1644,6 +1648,7 @@ feed Sangeeta
 
 
   #
+  @@BasMunnink
   // Jumping back and forth: anthropozoonotic and zoonotic transmission of SARS-CoV-2 on mink farms
   doi: https://doi.org/10.1101/2020.09.01.277152
   ref 'Munnink_et_al_09_01_2020
@@ -1759,6 +1764,7 @@ feed Sangeeta
 
 
   #
+  @@ZhicongYang
   // Sewage as a Possible Transmission Vehicle During a Coronavirus Disease 2019 Outbreak in a Densely populated Community: Guangzhou, China, April 2020
   doi: https://doi.org/10.1093/cid/ciaa1494
   ref 'Yuan_et_al_10_12_2020
@@ -1796,6 +1802,7 @@ feed Sangeeta
 
 
   # feces
+  @@WenjieTan
   // Detection of SARS-CoV-2 in Different Types of Clinical Specimens
   doi: https://doi.org/10.1001/jama.2020.3786
   ref 'Wang_et_al_03_11_2020
@@ -4309,6 +4316,7 @@ feed Sangeeta
 
 
   # 9 infected patients,fecal aerosol transmission, close contact, travel, toilet, china, mitigation
+  @@YuguoLi
   // Probable Evidence of Fecal Aerosol Transmission of SARS-CoV-2 in a High-Rise Building
   doi: https://doi.org/10.7326/M20-0928
   ref 'Kang_et_al_09_01_2020
@@ -4349,6 +4357,7 @@ feed Sangeeta
 
 
   # no mask, Dinner, Toilet, Trip, temple, Travel, Bus, China, Outdoor, Air Condition,Close contact, Outbreak, Spouse, Airborne
+  @@FengLing
   // Community Outbreak Investigation of SARS-CoV-2 Transmission Among Bus Riders in Eastern China
   doi: https://doi.org/10.1001/jamainternmed.2020.5225
   ref 'Shen_et_al_09_01_2020
@@ -4386,7 +4395,8 @@ feed Sangeeta
 
 
   # Disinfection, Wastewater, Airborne, counter to airbourne
-  # @@FedericaCarraturo
+  #
+  @@FedericaCarraturo
   // Persistence of SARS-CoV-2 in the environment and COVID-19 transmission risk from environmental matrices and surfaces
   doi: https://doi.org/10.1016/j.envpol.2020.115010
   ref 'Carraturo_et_al_06_09_2020
@@ -4516,6 +4526,7 @@ feed Sangeeta
 
 
   # 10 ppl,  airborne transmission, aerosol transmission, building ventilation, Family, Outbreak, Close contact, Restaurant, Hotel, Ventilation, China, Outdoor, Fomite, Aerosol
+  @@YuguoLi
   // Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant
   doi: https://doi.org/10.1101/2020.04.16.20067728
   ref 'Li_et_al_04_22_2020
@@ -4543,6 +4554,7 @@ feed Sangeeta
 
 
   # close-contact transmission, fomite transmission, airborne transmission, building ventilation,  146 infected cases, Outbreak, Close contact, Cruise, Outdoor, Air Condition
+  @@YuguoLi
   // Transmission routes of Covid-19 virus in the Diamond Princess Cruise ship.
   doi: https://doi.org/10.1101/2020.04.09.20059113
   ref 'Xu_et_al_04_14_2020
@@ -4710,6 +4722,7 @@ feed Sangeeta
 
 
   # close contact; human behavior; immediate body surfaces; large droplets; short-range airborne
+  @@YuguoLi
   // Close contact behavior in indoor environment and transmission of respiratory infection
   doi: https://doi.org/10.1111/ina.12673
   ref 'Zhang_et_al_04_07_2020
