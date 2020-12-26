@@ -3289,6 +3289,7 @@ feed May2020
 
 
   # Mitigation - Airborne Transmission
+  @@LidiaMorawska
   // How can airborne transmission of COVID-19 indoors be minimised?
   doi: https://doi.org/10.1016/j.envint.2020.105832
   ref 'Morawska_et_al_05_27_2020

@@ -1806,6 +1806,7 @@ feed Sangeeta
 
 
   # put in masking
+  @@QuanyiWang
   // Reduction of secondary transmission of SARS-CoV-2 in households by face mask use, disinfection and social distancing: a cohort study in Beijing, China
   doi: https://doi.org/10.1136/bmjgh-2020-002794
   ref 'Wang_et_al_05_28_2020
@@ -5061,6 +5062,7 @@ feed Sangeeta
 
 
   # ventilation, indoor - mitigation
+  @@StureHolmberg
   // Air flow and particle control with different ventilation systems in a classroom
   doi: https://doi.org/10.1034/j.1600-0668.2003.00186.x
   ref 'Holmberg_et_al_05_19_2003
@@ -5459,6 +5461,7 @@ feed Sangeeta
 
 
   # Hot climate, Indoor environments, Burning incense, Public policy, mitigation, Building environment
+  @@MahadBaawain
   // Impact of building ventilation systems and habitual indoor incense burning on SARS-CoV-2 virus transmissions in Middle Eastern countries
   doi: https://doi.org/10.1016/j.scitotenv.2020.139356
   ref 'Amoatey_et_al_05_12_2020
@@ -5473,6 +5476,7 @@ feed Sangeeta
 
 
   # common pathogen exchange pathways and mechanisms, Public policy, mitigation
+  @@LeslieDietz
   // "2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission"
   doi: https://doi.org/10.1128/mSystems.00245-20
   ref 'Dietz_et_al_05_05_2020
@@ -5598,6 +5602,7 @@ feed Sangeeta
 
 
   #  Indoor, public policy, Building and Environment
+  @@JosephAllen
   // Another invisible enemy indoors: COVID-19, human health, the home, and United States indoor air policy
   doi: https://doi.org/10.1038/s41370-020-0247-x
   ref 'Nwanaji-Enwerem_et_al_07_08_2020

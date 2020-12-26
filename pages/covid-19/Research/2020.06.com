@@ -1461,6 +1461,7 @@ feed June2020
 
 
   # Face Mask - Humidity and deposition for viral inactivation, Resue, decontamination strategies for N95 respirators
+  @@NicoleRockey
   // Humidity and deposition solution play a critical role in virus inactivation by heat treatment on N95 respirators
   doi: https://doi.org/10.1101/2020.06.22.20137448
   ref 'Rockey_et_al_06_23_2020
@@ -1515,6 +1516,7 @@ feed June2020
 
 
   # Aersol Transmission , !b onwards mitigation - Indoor
+  @@LinseyMarr
   // Recognizing and controlling airborne transmission of SARS‐CoV‐2 in indoor environments
   doi: https://doi.org/10.1111/ina.12697
   ref 'Allen_et_al_06_19_2020

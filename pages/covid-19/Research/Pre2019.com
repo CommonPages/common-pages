@@ -2628,6 +2628,7 @@ feed Pre2019
 
 
   # UVC as Mitigation
+  @@DavidWelch
   // Far-UVC light: A new tool to control the spread of airborne-mediated microbial diseases
   doi: https://doi.org/10.1038/s41598-018-21058-w
   ref 'Welch_et_al_2018
@@ -5631,6 +5632,7 @@ feed Pre2019
 
 
   # Prospects - SARS Cov
+  @@DeborahTaylor
   // Inactivation of the coronavirus that induces severe acute respiratory syndrome, SARS-CoV.
   doi: https://doi.org/10.1016/j.jviromet.2004.06.006
   ref 'Darnell_et_al_2004

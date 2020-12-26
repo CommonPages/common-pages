@@ -111,6 +111,7 @@ feed July2020
     quote !a =
 
   # Medical Mask, efficacy, Screening
+  @@KatherineSchilling
   // An accessible method for screening aerosol filtration identifies poor-performing commercial masks and respirators
   doi: https://doi.org/10.1038/s41370-020-0258-7
   ref 'Schiling_et_al_07_27_2020

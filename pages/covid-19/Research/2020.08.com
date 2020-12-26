@@ -216,6 +216,7 @@ feed August2020
     quote !a = We developed an antimicrobial respiratory protective system with high filtering performance and improved breathability levels compared to regular masks. The salt-functionalized membranes achieved high filtration efficiency as opposed to the bare membrane, with differences of up to 48%, while maintaining high breathability. The salt coatings retained the pathogen inactivation capability at harsh environmental conditions. Combination of these properties in one filter will lead to the production of an effective device, comprehensibly mitigating infection transmission globally.
 
   # facemask, efficacy, surgical mask, n95 mask, Coughing and Sneezing
+  @@PadmanabhaSimha
   // Universal trends in human cough airflows at large distances
   doi: https://doi.org/10.1063/5.0021666
   ref 'Simha_et_al_08_25_2020
