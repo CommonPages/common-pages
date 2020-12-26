@@ -2505,6 +2505,7 @@ feed Sangeeta
 
 
   #
+  @@NicolaLow
   // Occurrence and transmission potential of asymptomatic and presymptomatic SARS-CoV-2 infections: A living systematic review and meta-analysis
   doi: https://doi.org/10.1371/journal.pmed.1003346
   ref 'Buitrago-Garcia_et_al_09_22_2020
@@ -2744,6 +2745,7 @@ feed Sangeeta
 
 
   #
+  @@TakKong
   // Longer incubation period of coronavirus disease 2019 (COVID‐19) in older adults
   doi: https://doi.org/10.1002/agm2.12114
   ref 'Kong_et_al_05_22_2020
@@ -2849,6 +2851,7 @@ feed Sangeeta
 
 
   #
+  @@Zhiwei
   // Shorter incubation period is associated with severe disease progression in patients with COVID-19
   doi: https://doi.org/10.1080/21505594.2020.1836894
   ref 'Lai_et_al_10_27_2020
@@ -2865,6 +2868,7 @@ feed Sangeeta
 
 
   # biomarker for disease severity
+  @@EnhuaXiao
   // Association between incubation period and clinical characteristics of patients with COVID-19
   doi: https://doi.org/10.1177/0300060520956834
   ref 'Cai_et_al_09_23_2020
@@ -2938,6 +2942,7 @@ feed Sangeeta
 
 
   #
+  @@Zhong
   // Clinical Characteristics of Coronavirus Disease 2019 in China.
   doi: https://doi.org/10.1056/NEJMoa2002032
   ref 'Guan_et_al_04_30_2020
@@ -4927,6 +4932,7 @@ feed Sangeeta
 
 
   # 13 ppl, business meeting, hand shaking, face-to-face contact, transmission, Germany, droplets
+  @@AngeloMarzano
   // Transmission from Presymptomatic Meeting Attendee, Germany.
   doi: https://doi.org/10.3201/eid2608.201235
   ref 'Hijnen_et_al_05_11_2020
@@ -5760,6 +5766,7 @@ feed Sangeeta
 
 
   # family clusters, Indoortransmission, presymptomatic carriers, 9 ppl
+  @@XiaominChen
   // A COVID-19 Transmission Within a Family Cluster by Presymptomatic Infectors in China
   doi: https://doi.org/10.1093/cid/ciaa316
   ref 'Qian_et_al_03_23_2020
@@ -6166,6 +6173,7 @@ feed Sangeeta
 
 
   # public places, IndoorTransmission, OutdoorTransmission
+  @@YukiFuruse
   // Clusters of Coronavirus Disease in Communities, Japan, January–April 2020
   doi: https://doi.org/10.3201/eid2609.202272
   ref 'Furuse_et_al_06_10_2020

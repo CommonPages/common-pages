@@ -1849,6 +1849,7 @@ feed March2020
 
 
   # Incubation Period
+  @@CarolineColijn
   // Transmission interval estimates suggest pre-symptomatic spread of COVID-19
   doi: https://doi.org/10.1101/2020.03.03.20029983
   ref 'Tindale_et_al_2020

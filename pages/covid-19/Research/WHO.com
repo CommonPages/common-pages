@@ -112,6 +112,7 @@ feed WHO
 
   # 7
   # China, epidemology, transmission
+  @@JessicaWong
   // Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia
   doi: https://doi.org/10.1056/NEJMoa2001316
   ref 'Li_et_al_03_26_2020
@@ -434,6 +435,7 @@ feed WHO
 
 
   # 22
+  @@JustinLessler
   //  The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application.
   doi: https://doi.org/10.7326/M20-0504
   ref 'Lauer_et_al_05_05_2020
@@ -504,6 +506,7 @@ feed WHO
 
   # 26
   # staff people, presymptomatic, nursing facility
+  @@JohnJernigan
   // Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility.
   doi: https://doi.org/10.1056/NEJMoa2008457
   ref 'Arons_et_al_03_28_2020
@@ -643,6 +646,7 @@ feed WHO
 
   # 33
   # Taiwan, secondary attack rate, household
+  @@HsienLin
   // Contact Tracing Assessment of COVID-19 Transmission Dynamics in Taiwan and Risk at Different Exposure Periods Before and After Symptom Onset.
   doi: https://doi.org/10.1001/jamainternmed.2020.2020
   ref 'Cheng_et_al_05_01_2020

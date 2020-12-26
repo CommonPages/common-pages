@@ -647,6 +647,7 @@ feed February2020
 
 
   # Incubation Period
+  @@YichiYang
   // Incubation Period and Other Epidemiological Characteristics of 2019 Novel Coronavirus Infections with Right Truncation: A Statistical Analysis of Publicly Available Case Data
   doi: https://doi.org/10.3390/jcm9020538
   ref 'Linton_et_al_2020
@@ -664,6 +665,7 @@ feed February2020
 
 
   # Incubation Period, Asymtomatic carriers
+  @@HiroshiNishiura
   // Serial interval of novel coronavirus (2019-nCoV) infections
   doi: https://doi.org/10.1101/2020.02.03.20019497
   ref 'Nishiura_et_al_2020

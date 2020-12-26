@@ -2529,6 +2529,7 @@ feed April2020
 
 
   # epidemic, rate of transmission, herd immunity, asymptomatic, mitigation, preventive measures: contact tracing, quarantine, Results show that quarantine and contact tracing of symptomatic persons can be effective when the fraction of unidentified persons is low.
+  @@StevenSanche
   // High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2
   doi: https://doi.org/10.3201/eid2607.200282
   ref 'Sanche_et_al_2020

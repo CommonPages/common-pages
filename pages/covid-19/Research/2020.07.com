@@ -16,7 +16,7 @@ feed July2020
     'Morris_et_al_07_02_2020
 
   #
-
+  @@JoostWiersinga
   // Pathophysiology, Transmission, Diagnosis, and Treatment of Coronavirus Disease 2019 (COVID-19)
   doi: https://doi.org/10.1001/jama.2020.12839
   ref 'Wiersinga_et_al_07_10_2020
