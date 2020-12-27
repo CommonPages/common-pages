@@ -30,7 +30,8 @@ feed Sangeeta
   // Recombinant adenovirus type 5 HIV gag/pol/nef vaccine in South Africa: unblinded, long-term follow-up of the phase 2b HVTN 503/Phambili study
   doi: https://doi.org/10.1016/S1473-3099(14)70020-9
   ref 'Gray_et_al_02_20_2014
-    head = The increased risk of HIV-1 acquisition in vaccine recipients, irrespective of number of doses received, warrants further investigation to understand the biological mechanism. We caution against further use of the Ad5 vector for HIV vaccines.
+    head = The HVTN 503/Phambili study, which assessed the efficacy of the Merck Ad5 gag/pol/nef subtype B HIV-1 preventive vaccine in South Africa, was stopped when futility criteria in the Step study (assessing the same vaccine in the Americas, Caribbean, and Australia) were met. Here we report long-term follow-up data.
+
 
     > Background
       The HVTN 503/Phambili study, which assessed the efficacy of the Merck Ad5 gag/pol/nef subtype B HIV-1 preventive vaccine in South Africa, was stopped when futility criteria in the Step study (assessing the same vaccine in the Americas, Caribbean, and Australia) were met. Here we report long-term follow-up data.
@@ -48,7 +49,7 @@ feed Sangeeta
       !a
 
     / February, 2014 - The Lancet Infectious Diseases
-    quote !a =
+    quote !a = The increased risk of HIV-1 acquisition in vaccine recipients, irrespective of number of doses received, warrants further investigation to understand the biological mechanism. We caution against further use of the Ad5 vector for HIV vaccines.
 
 
 
@@ -323,6 +324,9 @@ feed Sangeeta
     / December, 2020 - The New England Journal of Medicine
     quote !f = The safety profile of BNT162b2 was characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. The incidence of serious adverse events was low and was similar in the vaccine and placebo groups.
 
+    / December, 2020 - The New England Journal of Medicine
+    quote !g = As in phase 1, reactogenicity was generally mild or moderate, and reactions were less common and milder in older adults than in younger adults. Systemic reactogenicity was more common and severe after the second dose than after the first dose, although local reactogenicity was similar after the two doses. Severe fatigue was observed in approximately 4% of BNT162b2 recipients, which is higher than that observed in recipients of some vaccines recommended for older adults
+
 
 
   #
@@ -518,6 +522,7 @@ feed Sangeeta
       !a
       !b
       !c
+      !f
 
     / December, 2020 - The Lancet
     quote !a = In participants who received two standard doses, vaccine efficacy was 62·1% and in participants who received a low dose followed by a standard dose, efficacy was 90·0%. Overall vaccine efficacy across both groups was 70·4%.
@@ -534,8 +539,8 @@ feed Sangeeta
     # / December, 2020 - The Lancet
     # quote !e = 175 severe adverse events occurred in 168 participants, 84 events in the ChAdOx1 nCoV-19 group and 91 in the control group. Three events were classified as possibly related to a vaccine: one in the ChAdOx1 nCoV-19 group, one in the control group, and one in a participant who remains masked to group allocation.
 
-    # / December, 2020 - The Lancet
-    # quote !f = We have previously reported on the local and systemic reactogenicity of ChAdOx1 nCoV-19 and shown that it is tolerated and that the side-effects are less both in intensity and number in older adults, with lower doses, and after the second dose.
+    / December, 2020 - The Lancet
+    quote !f = The side-effects are less both in intensity and number in older adults, with lower doses, and after the second dose.
 
 
 
@@ -960,7 +965,7 @@ feed Sangeeta
   // Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18–59 years: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial
   doi: https://doi.org/10.1016/S1473-3099(20)30843-4
   ref 'Zhang_et_al_11_17_2020
-    head = CoronaVac was well tolerated and induced humoral responses against SARS-CoV-2, which suppored the approval of emergency use of CoronaVac in China and in three phase 3 studies. The protective efficacy of CoronaVac remains to be determined.
+    head = We investigated CoronaVac (Sinovac Life Sciences, Beijing, China), an inactivated vaccine candidate against COVID-19, containing inactivated SARS-CoV-2, for its safety, tolerability and immunogenicity.
 
     > Background
       With the unprecedented morbidity and mortality associated with the COVID-19 pandemic, a vaccine against COVID-19 is urgently needed. We investigated CoronaVac (Sinovac Life Sciences, Beijing, China), an inactivated vaccine candidate against COVID-19, containing inactivated severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), for its safety, tolerability and immunogenicity.
@@ -977,13 +982,18 @@ feed Sangeeta
     - quotes
       !a
       !b
+      !c
 
 
     / November, 2020 - The Lancet Infectious Diseases
-    quote !a = Taking safety, immunogenicity, and production capacity into account, the 3 μg dose of CoronaVac is the suggested dose for efficacy assessment in future phase 3 trials.
+    quote !a = CoronaVac was well tolerated and induced humoral responses against SARS-CoV-2, which suppored the approval of emergency use of CoronaVac in China and in three phase 3 studies. The protective efficacy of CoronaVac remains to be determined.
+
 
     / November, 2020 - The Lancet Infectious Diseases
-    quote !b = Most adverse reactions were mild, with the most common symptom being injection-site pain. Compared with other COVID-19 vaccine candidates, such as viral-vectored vaccines or DNA or RNA vaccines, the occurrence of fever after vaccination with CoronaVac was relatively low.
+    quote !b = Taking safety, immunogenicity, and production capacity into account, the 3 μg dose of CoronaVac is the suggested dose for efficacy assessment in future phase 3 trials.
+
+    / November, 2020 - The Lancet Infectious Diseases
+    quote !c = Most adverse reactions were mild, with the most common symptom being injection-site pain. Compared with other COVID-19 vaccine candidates, such as viral-vectored vaccines or DNA or RNA vaccines, the occurrence of fever after vaccination with CoronaVac was relatively low.
 
 
 
@@ -992,7 +1002,7 @@ feed Sangeeta
   // Phase 1–2 Trial of a SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine
   doi: https://doi.org/10.1056/NEJMoa2026920
   ref 'Keech_et_al_09_02_2020
-    head = The primary safety and immunogenicity analyses indicate that in healthy adult participants 18 to 59 years of age, two-dose regimens of 5 μg and 25 μg of rSARS-CoV-2 plus the Matrix-M1 adjuvant had acceptable safety findings and induced high immune responses, with levels of neutralizing antibodies that closely correlated with anti-spike IgG. The value of the second dose on day 21 for the two-dose rSARS-CoV-2 plus Matrix-M1 regimen is clearly demonstrated and warrants the use of this vaccination schedule.
+    head = We initiated a randomized, placebo-controlled, phase 1–2 trial to evaluate the safety and immunogenicity of the rSARS-CoV-2 vaccine (in 5-μg and 25-μg doses, with or without Matrix-M1 adjuvant, and with observers unaware of trial-group assignments) in 131 healthy adults.
 
 
     > Background
@@ -1011,16 +1021,19 @@ feed Sangeeta
       !a
       !b
       !c
+      !d
 
     / September, 2020 - The New England Journal of Medicine
-    quote !a = Unsolicited adverse events were mild in most participants; there were no severe adverse events. Reactogenicity events (fatigue, malaise, and tenderness) was absent or mild in the majority of participants, more common with adjuvant, and of short duration (mean, ≤2 days).
+    quote !a = At 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum. The Matrix-M1 adjuvant induced CD4+ T-cell responses that were biased toward a Th1 phenotype.
 
     / September, 2020 - The New England Journal of Medicine
-    quote !b = Neutralizing antibody responses after the second vaccination with rSARS-CoV-2 plus Matrix-M1 exceeded values seen in symptomatic Covid-19 outpatients and were of the magnitude seen in convalescent serum from hospitalized patients with Covid-19.
+    quote !b = Unsolicited adverse events were mild in most participants; there were no severe adverse events. Reactogenicity events (fatigue, malaise, and tenderness) was absent or mild in the majority of participants, more common with adjuvant, and of short duration.
 
     / September, 2020 - The New England Journal of Medicine
-    quote !c = The benefit of the Matrix-M1 adjuvant was clear in the magnitude of the antibody and the T-cell response, the induction of functional antibodies, and antigen dose sparing.
+    quote !c = Neutralizing antibody responses after the second vaccination with rSARS-CoV-2 plus Matrix-M1 exceeded values seen in symptomatic Covid-19 outpatients and were of the magnitude seen in convalescent serum from hospitalized patients with Covid-19.
 
+    / September, 2020 - The New England Journal of Medicine
+    quote !d = The benefit of the Matrix-M1 adjuvant was clear in the magnitude of the antibody and the T-cell response, the induction of functional antibodies, and antigen dose sparing.
 
 
   #
@@ -1127,7 +1140,8 @@ feed Sangeeta
   # Safety and immunogenicity of the Ad26.COV2.S COVID-19 vaccine candidate: interim results of a phase 1/2a, double-blind, randomized, placebo-controlled trial.
   doi: https://doi.org/10.1101/2020.09.23.20199604
   ref 'Sadoff_et_al_09_25_2020
-    head = The interim analysis of our Phase 1/2a study indicates that a single dose of Ad26.COV2.S, either 5x1010 365 vp or 1x1011 366 vp, is safe, well tolerated and highly immunogenic. Based on similar immunogenicity ofboth dose levels, we have selected the lower dose for further clinical evaluation.
+    head = We designed a multi-center phase 1/2a randomized, double-blinded, placebo-controlled clinical study to assesses the safety, reactogenicity and immunogenicity of Ad26.COV2.S, a non-replicating adenovirus 26 based vector expressing the stabilized pre-fusion spike (S) protein of SARS-CoV-2.
+
 
     > Background
       The ongoing coronavirus disease (COVID)-19 pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) might be controlled by an efficacious vaccine. Multiple vaccines are in development, but no efficacious vaccine is currently available.
@@ -1143,12 +1157,16 @@ feed Sangeeta
 
     - quotes
       !a
+      !a1
       !b
       !c
       !d
 
     / September, 2020 - medRxiv
-    quote !a = Finding suggests that the vaccine candidate is less reactogenic in older adults. The safety profile is acceptable at any age given the seriousness of the disease the vaccine can potentially protect against and the nature of the pandemic, especially in the elderly which is the most vulnerable population to COVID-19.
+    quote !a = The interim analysis of our Phase 1/2a study indicates that a single dose of Ad26.COV2.S, either 5x1010 365 vp or 1x1011 366 vp, is safe, well tolerated and highly immunogenic. Based on similar immunogenicity ofboth dose levels, we have selected the lower dose for further clinical evaluation.
+
+    / September, 2020 - medRxiv
+    quote !a1 = Finding suggests that the vaccine candidate is less reactogenic in older adults. The safety profile is acceptable at any age given the seriousness of the disease the vaccine can potentially protect against and the nature of the pandemic, especially in the elderly which is the most vulnerable population to COVID-19.
 
     / September, 2020 - medRxiv
     quote !b = While reactogenicity was acceptable in all groups, there was a trend for higher reactogenicity with the higher vaccine dose (data not shown) and with younger age.
@@ -1211,28 +1229,28 @@ feed Sangeeta
       !g
       !h
 
-    / November, 2020 - Hum Vaccin Immunother.
+    / November, 2014 - Hum Vaccin Immunother.
     quote !a = Adenovirus (Ad) derived vectors have been shown to successfully elicit strong cellular and humoral immune responses in rodents, non-human primates (NHP) as well as in humans after a single injection. In preclinical studies, among all human Ad vectors tested, those derived from human adenovirus serotype 5 (HAd5) have emerged as the gold standard for immunization due to their superior immunogenicity. However, although HAd5 vectors were highly efficacious in pre-clinical studies, they did not perform as anticipated in clinical trials due to pre-existing HAd5 immunity in the participants from natural exposure.
 
-    / November, 2020 - Hum Vaccin Immunother.
+    / November, 2014 - Hum Vaccin Immunother.
     quote !b = Adenoviruses are some of the pathogens that can cause the common cold and a significant proportion of the human population have antibodies against these viruses due to past infections naturally acquired in the community, notably during childhood. These natural exposures can be responsible for long-lasting immunity (pre-existing immunity) that can interfere with HAd-based vaccines.
 
-    / November, 2020 - Hum Vaccin Immunother.
+    / November, 2014 - Hum Vaccin Immunother.
     quote !c = In a phase I trial, individuals with pre-existing HAd5 immunity mounted lower immune responses compared with participants without pre-existing immunity. Pre-existing immunity to HAd5 was even associated with undesirable effects beyond neutralization of the benefits intended from vaccination.
 
-    / November, 2020 - Hum Vaccin Immunother.
+    / November, 2014 - Hum Vaccin Immunother.
     quote !d = The negative impact of pre-existing HAd5 immunity was illustrated in the infamous STEP trial during which a lower frequency of individuals with high HAd5 Ab titers developed a cellular response to the transgenes (HIV Gag, Pol and Nef). Furthermore, pre-existing HAd5 immunity was associated with an increase in HIV acquisition in vaccinated participants in comparison to the placebo.
 
-    / November, 2020 - Hum Vaccin Immunother.
+    / November, 2014 - Hum Vaccin Immunother.
     quote !e = Pre-existing HAd5 immunity was not taken into account in pre-clinical studies as animals used in these studies, such as mice and NHPs, are not naturally infected by HAd5 or other human Ads.
 
-    / November, 2020 - Hum Vaccin Immunother.
+    / November, 2014 - Hum Vaccin Immunother.
     quote !f = In pre-clinical studies, alternating the immunization route has bypassed pre-existing Ad immunity. Immunization through the airway holds promise and may turn out to be a delivery method of choice for inducing potent and long lasting protective immune responses from an Ad vector.
 
-    / November, 2020 - Hum Vaccin Immunother.
+    / November, 2014 - Hum Vaccin Immunother.
     quote !g = The immune response generated by prime-boost regimens may be sufficient to induce full protection despite pre-existing Ad immunity. Developing prime-boost regimens using Ad vectors where limited to no nAbs or cross-reactive T cells in the target population should further increase the chance of success.
 
-    / November, 2020 - Hum Vaccin Immunother.
+    / November, 2014 - Hum Vaccin Immunother.
     quote !h = Optimization of prime-boost regimens will be labor intensive due to the increasing number of available vaccine platforms. Useful data regarding the ability of prime-boost regimens to overcome pre-existing HAd immunity will certainly be generated by clinical trials involving ChAd/MVA prime-boost. Careful analysis of these trials should provide crucial protection information in the presence or absence of pre-existing Ad immunity.
 
 
@@ -1241,7 +1259,9 @@ feed Sangeeta
   // Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia.
   doi: https://doi.org/10.1016/S0140-6736(20)31866-3
   ref 'Logunov_et_al_09_04_2020
-    head = These findings of two open, phase 1/2 non-randomised studies of a heterologous prime-boost COVID-19 vaccine based on recombinant adenoviral vectors rAd26-S and rAd5-S show that the vaccine is safe, well tolerated, highly immunogenic and induces strong humoral and cellular immune responses in 100% of healthy participants. All reported adverse events were mostly mild.
+    head = We developed a heterologous COVID-19 vaccine consisting of two components, a rAd26 vector and rAd5 vector, both carrying the gene for SARS-CoV-2 spike glycoprotein (rAd26-S and rAd5-S). We aimed to assess the safety and immunogenicity of two formulations (frozen and lyophilised) of this vaccine.
+
+
 
     > Background
       We developed a heterologous COVID-19 vaccine consisting of two components, a recombinant adenovirus type 26 (rAd26) vector and a recombinant adenovirus type 5 (rAd5) vector, both carrying the gene for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike glycoprotein (rAd26-S and rAd5-S). We aimed to assess the safety and immunogenicity of two formulations (frozen and lyophilised) of this vaccine.
@@ -1272,7 +1292,10 @@ feed Sangeeta
     quote !c = The vaccine showed 100% protectivity in a lethal model of SARS-CoV-2 challenge in immunosuppressed hamsters. No antibody-dependent enhancement of infection was seen in vaccinated and SARS-CoV-2-challenged animals.
 
     / September, 2020 - The Lancet
-    quote !d = Despite formation of neutralising antibodies to recombinant adenoviruses after vaccination with rAd26 and rAd5, formation of a humoral immune response to target antigen (SARS-CoV-2 glycoprotein S) in vaccinated volunteers was not affected. Moreover, neutralising antibodies to rAd26 did not neutralise rAd5 when serum samples from vaccinated volunteers were obtained and analysed 28 days after immunisation (and vice versa). Thus, use of a heterologous prime-boost immunisation, when rAd26-S is used for priming and rAd5-S is used for boosting, is an effective approach to elicit a robust immune response and to overcome the immune response that is formed to the components of a viral vector.
+    quote !d = Use of a heterologous prime-boost immunisation, when rAd26-S is used for priming and rAd5-S is used for boosting, is an effective approach to elicit a robust immune response and to overcome the immune response that is formed to the components of a viral vector.
+
+    / September, 2020 - The Lancet
+    quote !e = These findings of two open, phase 1/2 non-randomised studies of a heterologous prime-boost COVID-19 vaccine based on recombinant adenoviral vectors rAd26-S and rAd5-S show that the vaccine is safe, well tolerated, highly immunogenic and induces strong humoral and cellular immune responses in 100% of healthy participants. All reported adverse events were mostly mild.
 
 
 
@@ -1280,7 +1303,7 @@ feed Sangeeta
   # mRNA-1273 vaccine, moderna, phase 1, USA, 89 clinical Trials
   // An mRNA Vaccine against SARS-CoV-2 — Preliminary Report
   doi: https://doi.org/10.1056/NEJMoa2022483
-  ref 'Jackson_et_al_11_12_2020
+  ref 'Jackson_et_al_07_14_2020
     head = We report interim findings from this phase 1 clinical trial of the mRNA-1273 SARS-CoV-2 vaccine encoding a stabilized prefusion spike trimer, S-2P. We conducted a phase 1, dose-escalation, open-label trial including 45 healthy adults, 18 to 55 years of age, who received two vaccinations, 28 days apart, with mRNA-1273 in a dose of 25 μg, 100 μg, or 250 μg. There were 15 participants in each dose group.
 
     > Background
@@ -1304,25 +1327,25 @@ feed Sangeeta
       !f
       !g
 
-    / November, 2020 - N Engl J Med
+    / July, 2020 - N Engl J Med
     quote !a = The mRNA-1273 vaccine was immunogenic, inducing robust binding antibody responses to both full-length S-2P and receptor-binding domain in all participants after the first vaccination in a time- and dose-dependent fashion. High neutralizing antibody responses were also elicited in a dose-dependent fashion. No trial-limiting safety concerns were identified. These findings support further development of this vaccine.
 
-    / November, 2020 - N Engl J Med
+    / July, 2020 - N Engl J Med
     quote !b = Solicited adverse events that occurred in more than half the participants included fatigue, chills, headache, myalgia, and pain at the injection site. Systemic adverse events were more common after the second vaccination, particularly with the highest dose, and three participants (21%) in the 250-μg dose group reported one or more severe adverse events.
 
-    / November, 2020 - N Engl J Med
+    / July, 2020 - N Engl J Med
     quote !c = Seroconversion was rapid for binding antibodies, occurring within 2 weeks after the first vaccination, but pseudovirus neutralizing activity was low before the second vaccination, which supports the need for a two-dose vaccination schedule.
 
-    / November, 2020 - N Engl J Med
+    / July, 2020 - N Engl J Med
     quote !d = The two-dose vaccine series was generally without serious toxicity; systemic adverse events after the first vaccination, when reported, were all graded mild or moderate. Greater reactogenicity followed the second vaccination, particularly in the 250-μg group. Across the three dose groups, local injection-site reactions were primarily mild.
 
-    / November, 2020 - N Engl J Med
+    / July, 2020 - N Engl J Med
     quote !e = Of the three doses evaluated, the 100-μg dose elicits high neutralization responses and Th1-skewed CD4 T cell responses, coupled with a reactogenicity profile that is more favorable than that of the higher dose.
 
-    / November, 2020 - N Engl J Med
+    / July, 2020 - N Engl J Med
     quote !f = In this interim report of follow-up of participants through day 57, we were not able to assess the durability of the immune responses.
 
-    / November, 2020 - N Engl J Med
+    / July, 2020 - N Engl J Med
     quote !g = It is important to note that both binding and neutralizing antibody titers induced by the two-dose schedule were similar to those found in convalescent serum specimens.
 
 

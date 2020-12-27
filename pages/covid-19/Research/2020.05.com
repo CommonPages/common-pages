@@ -1448,7 +1448,7 @@ feed May2020
   // ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques
   doi: https://doi.org/10.1101/2020.05.13.093195
   ref 'Doremalen_et_al_05_13_2020
-    head = Here, we showed that a single vaccination with ChAdOx1 nCoV-19 is effective in preventing damage to the lungs upon high dose challenge with SARS-CoV-2. Similarly a recent study showed that a triple vaccination regime of a high dose of whole inactivated SARS-CoV-2 protected rhesus macaques from SARS-CoV-2 pneumonia.
+    head =  Here, we show that the adenovirus-vectored vaccine ChAdOx1 nCoV-19, encoding the spike protein of SARS-CoV-2, is immunogenic in mice, eliciting a robust humoral and cell-mediated response.  
 
     > Abstract
       Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) emerged in December 2019 and is responsible for the COVID-19 pandemic. Vaccines are an essential countermeasure urgently needed to control the pandemic. Here, we show that the adenovirus-vectored vaccine ChAdOx1 nCoV-19, encoding the spike protein of SARS-CoV-2, is immunogenic in mice, eliciting a robust humoral and cell-mediated response. This response was not Th2 dominated, as demonstrated by IgG subclass and cytokine expression profiling. A single vaccination with ChAdOx1 nCoV-19 induced a humoral and cellular immune response in rhesus macaques. We observed a significantly reduced viral load in bronchoalveolar lavage fluid and respiratory tract tissue of vaccinated animals challenged with SARS-CoV-2 compared with control animals, and no pneumonia was observed in vaccinated rhesus macaques. Importantly, no evidence of immune-enhanced disease following viral challenge in vaccinated animals was observed. ChAdOx1 nCoV-19 is currently under investigation in a phase I clinical trial. Safety, immunogenicity and efficacy against symptomatic PCR-positive COVID-19 disease will now be assessed in randomised controlled human clinical trials.
@@ -1456,13 +1456,13 @@ feed May2020
 
     - quotes
       !a
-      !b
+
 
     / May, 2020 - bioRxiv
-    quote !a = Viral loads in BAL fluid and lung tissue of vaccinated animals were significantly reduced, suggesting that vaccination prevents virus replication in the lower respiratory tract. Despite this marked difference in virus replication in the lungs, reduction in viral shedding from the nose was not observed. However, animals were challenged with a high dose of virus via multiple routes, which likely does not reflect a realistic human exposure. Whether a lower challenge dose would result in more efficient protection of the upper respiratory tract remains to be determined.
+    quote !a = A single vaccination with ChAdOx1 nCoV-19 is effective in preventing damage to the lungs upon high dose challenge with SARS-CoV-2.
 
-    / May, 2020 - bioRxiv
-    quote !b = Several preclinical studies of vaccines against SARS-CoV-1 resulted in immunopathology after vaccination and challenge, with more severe disease in vaccinated animals than in controls. Importantly, we did not see any evidence of immune-enhanced disease in vaccinated animals. The immune response was not skewed towards a Th2 response in mice nor in NHPs, there was no increase in clinical signs or virus replication throughout the study in vaccinated NHPs compared to controls and no markers of disease enhancement in lung tissue of NHPs, such as an influx of neutrophils were observed.
+    # / May, 2020 - bioRxiv
+    # quote !b = Several preclinical studies of vaccines against SARS-CoV-1 resulted in immunopathology after vaccination and challenge, with more severe disease in vaccinated animals than in controls. Importantly, we did not see any evidence of immune-enhanced disease in vaccinated animals. The immune response was not skewed towards a Th2 response in mice nor in NHPs, there was no increase in clinical signs or virus replication throughout the study in vaccinated NHPs compared to controls and no markers of disease enhancement in lung tissue of NHPs, such as an influx of neutrophils were observed.
 
 # Counter - Corticosteroid
   // Impact of corticosteroid therapy on outcomes of persons with SARS-CoV-2, SARS-CoV, or MERS-CoV infection: a systematic review and meta-analysis

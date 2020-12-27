@@ -1591,32 +1591,32 @@ feed June2020
   // Evaluation of the immunogenicity of prime-boost vaccination with the replication-deficient viral vectored COVID-19 vaccine candidate ChAdOx1 nCoV-19
   doi: https://doi.org/10.1101/2020.06.20.159715
   ref 'Graham_et_al_06_20_2020
-    head = In this study, we utilised both a small and a large animal model to evaluate the immunogenicity of either one or two doses of a COVID-19 vaccine candidate, ChAdOx1 nCoV-19 (now known as AZD1222).
+    head = We compared the immunogenicity of one or two doses of ChAdOx1 nCoV-19 in both mice and pigs.
 
     > Abstract
       Clinical development of the COVID-19 vaccine candidate ChAdOx1 nCoV-19, a replication-deficient simian adenoviral vector expressing the full-length SARS-CoV-2 spike (S) protein was initiated in April 2020 following non-human primate studies using a single immunisation. Here, we compared the immunogenicity of one or two doses of ChAdOx1 nCoV-19 in both mice and pigs. Whilst a single dose induced antigen-specific antibody and T cells responses, a booster immunisation enhanced antibody responses, particularly in pigs, with a significant increase in SARS-CoV-2 neutralising titres.
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
+      # !b
+      # !c
+      # !d
+      # !e
 
     / June, 2020 - bioRxiv
-    quote !a = The mouse data generated in this study suggested that the immunogenicity profile was at the upper end of a dose response curve, which may have saturated the immune response and largely obscured our ability to determine differences between prime-only or prime-boost regimens.
+    quote !a = Whilst a single dose induced antigen-specific antibody and T cells responses, a booster immunisation enhanced antibody responses, particularly in pigs, with a significant increase in SARS-CoV-2 neutralising titres.
 
-    / June, 2020 - bioRxiv
-    quote !b = We show here that T cell responses are higher in pigs that received a prime-boost vaccination when compared to prime only at day 42, whilst comparing responses 14 days after last immunisation demonstrates the prime-boost regimen trended toward a higher response.
-
-    / June, 2020 - bioRxiv
-    quote !c =  In addition, ChAdOx1 nCoV-19 immunisation induced robust Th1-like CD4+ and CD8+ T cell responses in both pigs and mice. This has important implications for COVID-19 vaccine development as virus-specific T cells are thought to play an important role in SARS-CoV-2 infection.
-
-    / June, 2020 - bioRxiv
-    quote !d = While no correlate of protection has been defined for COVID-19, recent publications suggest that neutralising antibody titres may be correlated with protection in animal challenge models
-
-    / June, 2020 - bioRxiv
-    quote !e =  A single dose of ChAdOx1 nCoV-19 induces antibody responses, but we demonstrate here that antibody responses are significantly enhanced after homologous boost in one mouse strain and to a greater extent in pigs. However, it is likely that a combination of neutralising antibodies and antigen-specific T cells would act in synergy to prevent and control infection, as we have recently shown in the context of influenza vaccination.
+    # / June, 2020 - bioRxiv
+    # quote !b = We show here that T cell responses are higher in pigs that received a prime-boost vaccination when compared to prime only at day 42, whilst comparing responses 14 days after last immunisation demonstrates the prime-boost regimen trended toward a higher response.
+    #
+    # / June, 2020 - bioRxiv
+    # quote !c =  In addition, ChAdOx1 nCoV-19 immunisation induced robust Th1-like CD4+ and CD8+ T cell responses in both pigs and mice. This has important implications for COVID-19 vaccine development as virus-specific T cells are thought to play an important role in SARS-CoV-2 infection.
+    #
+    # / June, 2020 - bioRxiv
+    # quote !d = While no correlate of protection has been defined for COVID-19, recent publications suggest that neutralising antibody titres may be correlated with protection in animal challenge models
+    #
+    # / June, 2020 - bioRxiv
+    # quote !e =  A single dose of ChAdOx1 nCoV-19 induces antibody responses, but we demonstrate here that antibody responses are significantly enhanced after homologous boost in one mouse strain and to a greater extent in pigs. However, it is likely that a combination of neutralising antibodies and antigen-specific T cells would act in synergy to prevent and control infection, as we have recently shown in the context of influenza vaccination.
 
 
   # BCG Inflitration of T Cell

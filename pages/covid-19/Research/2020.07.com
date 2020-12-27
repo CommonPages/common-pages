@@ -533,16 +533,25 @@ feed July2020
   / Single-shot Ad26 vaccine protects against SARS-CoV-2 in rhesus macaques
   doi: https://doi.org/10.1038/s41586-020-2607-z
   ref 'Mercado_et_al_07_2020
-    head = Our data demonstrate that a single immunization with an Ad26 vector encoding a prefusion stabilized S immunogen (S.PP) induced robust neutralizing antibody responses and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs after SARS-CoV-2 challenge. Titres of vaccine-elicited neutralizing antibodies correlated with protective efficacy, suggesting an immune correlate of protection. The optimal Ad26 vector-based vaccine for SARS-CoV-2, termed Ad26.COV2.S, is currently being evaluated in clinical trials.
+    head = Here we show the immunogenicity and protective efficacy of a single dose of adenovirus serotype 26 (Ad26) vector-based vaccines expressing the SARS-CoV-2 spike (S) protein in nonhuman primates.
 
     > Abstract
       A safe and effective vaccine for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) may be required to end the coronavirus disease 2019 (COVID-19) pandemic1–8. For global deployment and pandemic control, a vaccine that requires only a single immunization would be optimal. Here we show the immunogenicity and protective efficacy of a single dose of adenovirus serotype 26 (Ad26) vector-based vaccines expressing the SARS-CoV-2 spike (S) protein in nonhuman primates. Fifty-two rhesus macaques were immunized with Ad26 vectors encoding S variants or sham control and were challenged with SARS-CoV-2 by the intranasal and intratracheal routes9,10. The optimal Ad26 vaccine induced robust neutralizing antibody responses and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs following SARS-CoV-2 challenge. Vaccine-elicited neutralizing antibody titres correlated with protective efficacy, suggesting an immune correlate of protection. These data demonstrate robust single-shot vaccine protection against SARS-CoV-2 in nonhuman primates. The optimal Ad26 vector-based vaccine for SARS-CoV-2, termed Ad26.COV2.S, is currently being evaluated in clinical trials.
 
     - quotes
       !a
+      !b
+      !c
 
-    / Single-shot AD26 vector based vaccine, July, 2020 - Nature
-    quote !a = Data suggest minimal to no virus replication in the Ad26-S.PP-vaccinated macaques after SARS-CoV-2 challenge.
+    / July, 2020 - Nature
+    quote !a = Our data demonstrate that a single immunization with an Ad26 vector encoding a prefusion stabilized S immunogen (S.PP) induced robust neutralizing antibody responses and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs after SARS-CoV-2 challenge.
+
+    / July, 2020 - Nature
+    quote !b = Titres of vaccine-elicited neutralizing antibodies correlated with protective efficacy, suggesting an immune correlate of protection. The optimal Ad26 vector-based vaccine for SARS-CoV-2, termed Ad26.COV2.S, is currently being evaluated in clinical trials.
+
+    /  July, 2020 - Nature
+    quote !c = Data suggest minimal to no virus replication in the Ad26-S.PP-vaccinated macaques after SARS-CoV-2 challenge.
+
 
     # / Single-shot AD26 vector based vaccine, July, 2020 - Nature
     # quote !a = Vaccine-elicited titres of neutralizing antibodies before challenge correlated with protection in both bronchoalveolar lavage (BAL) and nasal swabs after challenge, consistent with previous findings. These data suggest that serum titres of neutralizing antibodies may be a potential biomarker for vaccine protection, although this will need to be confirmed in additional SARS-CoV-2 vaccine efficacy studies in both non-human primates and humans

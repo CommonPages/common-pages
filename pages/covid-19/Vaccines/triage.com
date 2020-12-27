@@ -1,50 +1,63 @@
 index: hide
 . Triage
 
-  subject Phizer
-    head =
-    >
-      Phizer is using mRN. Trials in US and Germany. THere are several on going{Link:https://clinicaltrials.gov/ct2/show/study/NCT04368728} trials
+  claim !Identification = Researchers have indentified S Protien as promising target for deoptimization. Neutralising epitopes on SARS-CoV-2 RBD were identified for development of SARS-CoV-2 Vaccine
+    -
+      'Kames_et_al_2020
+      'Kames_et_al_2020.!a
+    -
+      'Brouwer_et_al_06_10_2020
+      'Brouwer_et_al_06_10_2020.!a
+    -
+      'Wu_et_al_2020b
+      'Wu_et_al_2020b.!a
+    -
+      'Quinlan_et_al_2020
+      'Quinlan_et_al_2020.!a
+    -
+      'Robbiani_et_al_05_22_2020
+      'Robbiani_et_al_05_22_2020.!a
+    -
+      'Rogers_et_al_06_11_2020
+      'Rogers_et_al_06_11_2020.!a
 
-    # On going Clinical trials
-    # - https://clinicaltrials.gov/ct2/show/study/NCT04368728
-    # - https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001038-36/DE#summary
+  claim !MonoclonalAntibodies = Study for MERS found RBD-specific neutralizing Monoclonal Antibodyies may mediate ADE of viruses by mimicking the functions of viral receptors
+    -
+      'Wan_et_al_2019
+      'Wan_et_al_2019.!a
+      'Wan_et_al_2019.!b
 
-    claim !Phase12Phizer = Strong RBD-binding IgG and neutralizing antibody response peaked 7 days after a booster dose, robust CD4+ and CD8+ T cell responses, undetermined durability. Adverse effects observed were dose-dependent and moderate including pain at the injection site, fatigue, headache, chills, muscle and joint pain, fever.
-      -
-        'Mulligan_et_al_08_12_2020
+  claim !SuboptimalResponse = Scientists have raised concern towards immune complications and suboptimal immune response by early pursuit of Covid19 Vaccines
+    -
+      'Peeples_et_al_2020
+    -
+      'Iwasaki_et_al_2020
+      'Iwasaki_et_al_2020.!a
 
-    claim !Phase3 =
+  claim !Tcell = Vaccine consisting only of SARSCoV-2 spike would be capable of eliciting SARS-CoV-2-specific CD4+ T cell responses of similar representation to that of natural COVID-19 disease.
+    -
+      'Grifoni_et_al_05_04_2020
+      'Grifoni_et_al_05_04_2020.!a
+      'Grifoni_et_al_05_04_2020.!b
 
-    claim !Reasoning =
+  claim !Incubation = Increase incubation period by vaccines can helps in reducing disease severity at individual and population level.
+    -
+      'Kaslow_et_al_05_07_2020
+      'Kaslow_et_al_05_07_2020.!a
 
+  claim !Vesicular = One study has proposed using rVSV-SARS-CoV-2 S for the development of spike-specific vaccines (vesicular stomatitis virus)
+    -
+      'Dieterle_et_al_05_20_2020
+      'Dieterle_et_al_05_20_2020.!a
 
-  >  ChAdOx1 (AstraZeneca)
-    Viral Vector
-    Trials in São Paulo
+  claim !ConcernMutation = One study has raised concern that mutations in SARS-CoV-2 can yield antibody resistance
+    -
+      'Baum_et_al_06_11_2020
+      'Baum_et_al_06_11_2020.!a
 
-  # On-Going Clinical Trials
-  # - https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001228-32/GB
-  # Phase 3 - https://clinicaltrials.gov/ct2/show/NCT04516746
-
-  > Phase I-II
-    Spike-specific antibodies at day 28; neutralizing antibodies after a booster dose at day 56.
-    Adverse effects: pain at the injection site, headache, fever, chills, muscle ache, malaise in more than 60% of participants; paracetamol allowed for some participants to increase tolerability
-
-  -
-    'Folegatti_et_al_08_15_2020
-
-  - Old papers
-    'Alharbi_et_al_11_19_2019
-    'Doremalen_et_al_05_13_2020
-
-  > Ad5-nCoV (CanSinoBIO)
-    Technology - Viral Vector, Recombinant adenovirus
-    Trials - China Russia Pakistan Mexico Saudi Arabia
-  # On going Trials - https://clinicaltrials.gov/ct2/show/NCT04540419
-  # https://clinicaltrials.gov/ct2/show/NCT04526990
-
-  # -
-  #   'Zhu_et_al_08_15_2020
-  #   'Zhu_et_al_08_15_2020.!a
-  #   'Zhu_et_al_08_15_2020.!b
+  claim !EfficacyNeed = A modelling study found that a vaccine with efficacy of 60–80% could allow reduction in physical distancing measures.
+    -
+      'Bartsch_et_al_07_15_2020
+      'Bartsch_et_al_07_15_2020.!a
+      'Bartsch_et_al_07_15_2020.!b
+      'Bartsch_et_al_07_15_2020.!c

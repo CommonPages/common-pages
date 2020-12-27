@@ -35,21 +35,54 @@ feed 2019
   - Jan, 2019
     'Chen_et_al_2019
 
-  #
-  # commenting because this paper is also  present in Sangeeta.i
-  # # Facemask policy
-  # // Facemask use for community protection from air pollution disasters: An ethical overview and framework to guide agency decision making
-  # doi: https://doi.org/10.1016/j.ijdrr.2019.101376
-  # ref 'McDonald_et_al_10_31_2019
-  #   head = We use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings.
-  #
-  #   > Abstract
-  #     Disasters involving severe air pollution episodes create a pressing public health issue. During such emergencies, there may be pressure on agencies to provide solutions to protect affected communities. One possible intervention to reduce exposure during such crises is facemasks. Ethical values need to be considered as part of any decision-making process to assess whether to provide advice on, recommend and/or distribute any public health intervention. In this paper, we use principles from public health ethics to analyse the critical ethical issues that relate to agencies providing advice on, recommending and/or distributing facemasks in air pollution disasters, given a lack of evidence of both the specific risk of some polluting events or the effectiveness of facemasks in community settings.
 
-  # The need for reflection on the ethical issues raised by the possible recommendation/use of facemasks to mitigate potential health issues arising from air pollution disasters is critical as communities progressively seek personal interventions to manage perceived and actual risks. This paper develops an ethical decision-making framework to assist agency deliberations. We argue that clarity around decision-making by agencies, after using this framework, may help increase trust about the intervention and solidarity within and between populations affected by these disasters and the agencies who support public health or provide assistance during disasters.
   #
-  #   / October, 2019 - International Journal of Disaster Risk Reduction
-  #   quote !a =
+
+  // Principal Controversies in Vaccine Safety in the United States
+  doi: https://doi.org/10.1093/cid/ciz135
+  ref 'DeStefano_et_al_02_12_2019
+    head = We summarize the key evidence on some of the main current vaccine safety controversies in the United States.
+
+    > Abstract
+      Concerns about vaccine safety can lead to decreased acceptance of vaccines and resurgence of vaccine-preventable diseases. We summarize the key evidence on some of the main current vaccine safety controversies in the United States, including (1) measles, mumps, and rubella vaccine and autism; (2) thimerosal, a mercury-based vaccine preservative and the risk of neurodevelopmental disorders; (3) vaccine-induced Guillain-Barré syndrome (GBS); (4) vaccine-induced autoimmune diseases; (5) safety of human papillomavirus vaccine; (6) aluminum adjuvant-induced autoimmune diseases and other disorders; and (7) too many vaccines given early in life predisposing children to health and developmental problems. A possible small increased risk of GBS following influenza vaccination has been identified, but the magnitude of the increase is less than the risk of GBS following influenza infection. Otherwise, the biological and epidemiologic evidence does not support any of the reviewed vaccine safety concerns.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / February, 2020 - Clinical Infectious Diseases
+    quote !a = The evidence is strong that MMR vaccine does not cause autism.
+
+    / February, 2020 - Clinical Infectious Diseases
+    quote !b = The evidence is strong that thimerosal in vaccines does not increase the risk of autism or other neurodevelopmental disorders.
+
+    / February, 2020 - Clinical Infectious Diseases
+    quote !c = GBS (GUILLAIN-BARRÉ SYNDROME) has been inconsistently found to be associated with influenza vaccination, but the increase in risk is small and less than the increase in risk following natural influenza infection.
+
+    / February, 2020 - Clinical Infectious Diseases
+    quote !d = Many studies have found that vaccines do not increase the risk of chronic diseases of possible autoimmune origin.
+
+    / February, 2020 - Clinical Infectious Diseases
+    quote !e = HPV vaccine has received considerable media attention associated with reports of a variety of adverse events, many of which may have an autoimmune etiology. The evidence from several studies supports the safety of HPV vaccine.
+
+
+  # Vaccine Children
+  // The MMR Vaccine and Autism
+  doi: https://doi.org/10.1146/annurev-virology-092818-015515
+  ref 'DeStefano_et_al_09_29_2019
+    head = We summarize the genesis of the controversy, review the scientific evidence against a causal association, describe the effect of the controversy on MMR vaccine acceptance and resurgence of measles outbreaks.
+
+    > Abstract
+      Autism is a developmental disability that can cause significant social, communication, and behavioral challenges. A report published in 1998, but subsequently retracted by the journal, suggested that measles, mumps, and rubella (MMR) vaccine causes autism. However, autism is a neurodevelopmental condition that has a strong genetic component with genesis before one year of age, when MMR vaccine is typically administered. Several epidemiologic studies have not found an association between MMR vaccination and autism, including a study that found that MMR vaccine was not associated with an increased risk of autism even among high-risk children whose older siblings had autism. Despite strong evidence of its safety, some parents are still hesitant to accept MMR vaccination of their children. Decreasing acceptance of MMR vaccination has led to outbreaks or resurgence of measles. Health-care providers have a vital role in maintaining confidence in vaccination and preventing suffering, disability, and death from measles and other vaccine-preventable diseases.
+
+    - quotes
+      !a
+
+    / September, 2019 - Annu Rev Virol.
+    quote !a = Several epidemiologic studies have not found an association between MMR vaccination and autism, including a study that found that MMR vaccine was not associated with an increased risk of autism even among high-risk children whose older siblings had autism.
 
   # Droplet Size, Mention Assertions
   // The size and the duration of air-carriage of respiratory droplets and droplet-nuclei
@@ -210,7 +243,7 @@ feed 2019
   // Humoral Immunogenicity and Efficacy of a Single Dose of ChAdOx1 MERS Vaccine Candidate in Dromedary Camels
   doi: https://doi.org/10.1038/s41598-019-52730-4
   ref 'Alharbi_et_al_11_19_2019
-    head = Overall, the vaccination reduced virus shedding and nasal discharge (p = 0.0059 and p = 0.0274, respectively). Antibody responses in seropositive camels were enhanced by the vaccine; these camels had a higher average age than seronegative. Older seronegative camels responded more strongly to vaccination than younger animals; and neutralising antibodies were detected in nasal swabs.Further work is required to optimise vaccine regimens for younger seronegative camels.
+    head = Infectious camels with active naturally acquired MERS-CoV infection, were co-housed with the vaccinated camels at a ratio of 1:2 (infected:vaccinated); nasal discharge and virus titres were monitored for 14 days.
 
     > Abstract
       MERS-CoV seronegative and seropositive camels received a single intramuscular dose of ChAdOx1 MERS, a replication-deficient adenoviral vectored vaccine expressing MERS-CoV spike protein, with further groups receiving control vaccinations. Infectious camels with active naturally acquired MERS-CoV infection, were co-housed with the vaccinated camels at a ratio of 1:2 (infected:vaccinated); nasal discharge and virus titres were monitored for 14 days. Overall, the vaccination reduced virus shedding and nasal discharge (p = 0.0059 and p = 0.0274, respectively). Antibody responses in seropositive camels were enhancedby the vaccine; these camels had a higher average age than seronegative. Older seronegative camels responded more strongly to vaccination than younger animals; and neutralising antibodies were detected in nasal swabs. Further work is required to optimise vaccine regimens for younger seronegative camels.
@@ -228,7 +261,7 @@ feed 2019
       !j
 
     / November, 2019 - Scientific Reports
-    quote !a = In this study, we demonstrated that boosting humoral immune responses in MERS-CoV seropositive camels requires a single intramuscular dose of ChAdOx1 MERS, whereas at least two doses of vaccine were required to induce Abs in young seronegative camels (<1 year). Interestingly, older seronegative calves (1–2 years) responded to a single dose of the vaccine and elicited systemic and local nAbs. As the history of MERS-CoV exposure in these camels is not known, it is possible that older camels found here to be seronegative may have had some natural exposure to MERS-CoV but their Abs had then declined prior to their inclusion in the study as reported previously
+    quote !a = Overall, the vaccination reduced virus shedding and nasal discharge (p = 0.0059 and p = 0.0274, respectively). Antibody responses in seropositive camels were enhanced by the vaccine; these camels had a higher average age than seronegative. Older seronegative camels responded more strongly to vaccination than younger animals; and neutralising antibodies were detected in nasal swabs.Further work is required to optimise vaccine regimens for younger seronegative camels.
 
     / November, 2019 - Scientific Reports
     quote !b = It is also possible that these seronegative calves were truly immune naive to MERS-CoV and that greater vaccine responsiveness occurs in older animals with a more mature immune system. It is very unlikely that maternal Abs play any part in the lack of vaccine responsiveness in younger calves because ChAdOx1 MERS is a viral vectored vaccine that does not express MERS S protein on the virion surface and so will not be affected by pre-existing Abs at the time of vaccination.

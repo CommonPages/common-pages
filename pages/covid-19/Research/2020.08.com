@@ -11,7 +11,7 @@ feed August2020
   // Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial
   doi: https://dx.doi.org/10.1016%2FS0140-6736(20)31604-4
   ref 'Folegatti_et_al_08_15_2020
-    head = ChAdOx1 nCoV-19 showed an acceptable safety profile, and homologous boosting increased antibody responses. These results, together with the induction of both humoral and cellular immune responses, support large-scale evaluation of this candidate vaccine in an ongoing phase 3 programme.
+    head = We did a phase 1/2, single-blind, randomised controlled trial in five trial sites in the UK of a chimpanzee adenovirus-vectored vaccine (ChAdOx1 nCoV-19) expressing the SARS-CoV-2 spike protein compared with a meningococcal conjugate vaccine (MenACWY) as control.
 
     > Background
       The pandemic of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) might be curtailed by vaccination. We assessed the safety, reactogenicity, and immunogenicity of a viral vectored coronavirus vaccine that expresses the spike protein of SARS-CoV-2.
@@ -28,12 +28,16 @@ feed August2020
     - quotes
       !a
       !b
+      !c
 
     / August, 2020 - Lancet
-    quote !a = Local and systemic reactions were more common in the ChAdOx1 nCoV-19 group and many were reduced by use of prophylactic paracetamol, including pain, feeling feverish, chills, muscle ache, headache, and malaise. There were no serious adverse events related to ChAdOx1 nCoV-19.
+    quote !a = ChAdOx1 nCoV-19 showed an acceptable safety profile, and homologous boosting increased antibody responses. These results, together with the induction of both humoral and cellular immune responses, support large-scale evaluation of this candidate vaccine in an ongoing phase 3 programme.
 
     / August, 2020 - Lancet
-    quote !b = ChAdOx1 nCoV-19 group, spike-specific T-cell responses peaked on day 14. Anti-spike IgG responses rose by day 28 and were boosted following a second dose. Neutralising antibody responses against SARS-CoV-2 were detected in 32 (91%) of 35 participants after a single dose
+    quote !b = Local and systemic reactions were more common in the ChAdOx1 nCoV-19 group and many were reduced by use of prophylactic paracetamol, including pain, feeling feverish, chills, muscle ache, headache, and malaise. There were no serious adverse events related to ChAdOx1 nCoV-19.
+
+    / August, 2020 - Lancet
+    quote !c = ChAdOx1 nCoV-19 group, spike-specific T-cell responses peaked on day 14. Anti-spike IgG responses rose by day 28 and were boosted following a second dose. Neutralising antibody responses against SARS-CoV-2 were detected in 32 (91%) of 35 participants after a single dose
 
 
   # Phizer Vaccine

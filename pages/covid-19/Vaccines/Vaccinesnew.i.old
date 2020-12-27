@@ -1,0 +1,44 @@
+subject module Vaccine
+head = The appearance of COVID-19 inspired an unprecedented investment in coronavirus vaccine development. At the moment, no vaccine has completed clinical trials. In November of 2020, an mRNA vaccine from Pfizer reported strong results in a phase 3 trial, though the trial is still ongoing. It may be the first to market, though many other prospects are under active development.
+
+
+
+   # The US Food and Drug Administration's guidelines indicate that they would license a vaccine against the pandemic virus that showed at least 50% efficacy and WHO have indicated a minimum efficacy of 50% in its target product profile.
+   # -
+   #  Center for Biologics Evaluation and Research Development and licensure of vaccines to prevent COVID-19.
+   #  https://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19
+   #  WHO target product profiles for COVID-19 vaccines.
+   #  https://www.who.int/publications/m/item/who-target-product-profiles-for-covid-19-vaccines
+
+  subject module Prospects
+    head = There are multiple prospects of COVID-19 Vaccine. Among those with the greatest potential for speed are DNA and RNA-based platforms, followed by those for developing recombinant-subunit vaccines. RNA and DNA vaccines can be made quickly because they require no culture or fermentation, instead using synthetic processes.
+    # Must edit head of All these vaccines. Copyright issues in some. Language needs to change for prospects as taken from a research paper.
+
+
+
+  subject VaccineNew
+    head =
+    # That said, all of those vaccines in each of those cases are rather similar to each other, and we now have the unusual – very, very unusual – situation of several different vaccine platforms coming into potential use against the same virus at almost the same time. By the spring we may well have two mRNA vaccines (Pfizer/BioNTech and Moderna), two different adenovirus vaccines (Oxford/AZ and J&J), and a recombinant protein vaccine (Novavax). We don’t have efficacy data on the J&J and Novavax candidates yet (numbers are on the way), and we can argue about the data for Oxford/AZ, but it’s certainly possible that all of them will be out there simultaneously. Putting one of these on top of the other is a step into the unknown.
+    # https://blogs.sciencemag.org/pipeline/archives/2020/12/02/taking-two-different-vaccines
+
+
+    
+
+    subject BCG
+      head =
+
+      >
+        BCG is a live attenuated Mycobacterium
+
+      # The consistent association between BCG vaccination and reduced severity of COVID-19 observed in these and other epidemiological explorations is remarkable, but not sufficient to establish causality between BCG vaccination and protection from severe COVID-19.  Randomized clinical trials, such as those ongoing in Holland (47) and Australia (48), in which health workers are administered either the BCG vaccine or a placebo saline injection, will determine the extent to which BCG vaccination in adults confers protection from COVID-19.
+      # -
+      #   'Escober_et_al_07_28_2020
+      #   'Escober_et_al_07_28_2020.!a
+      #   'Escober_et_al_07_28_2020.!b
+      #   'Escober_et_al_07_28_2020.!c
+      #   'Escober_et_al_07_28_2020.!d
+
+
+      # The lack of apparent protection observed in the United Kingdom and France, where BCG vaccination was administered to older children, suggests that either trained immunity observed when infants are vaccinated is no longer achieved in older children or it may be of shorter duration. There may be a “critical window” early in life where BCG vaccination can result in lifelong enhanced immune surveillance. It is also possible that the BCG strains used, or the administration route, also affect the innate immune response to vaccination
+
+      # The COVID-19 pandemic is one of the most devastating in recent history. The bacillus Calmette−Guérin (BCG) vaccine against tuberculosis also confers broad protection against other infectious diseases, and it has been proposed that it could reduce the severity of COVID-19. This epidemiological study assessed the global linkage between BCG vaccination and COVID-19 mortality. Signals of BCG vaccination effect on COVID-19 mortality are influenced by social, economic, and demographic differences between countries. After mitigating multiple confounding factors, several significant associations between BCG vaccination and reduced COVID-19 deaths were observed. This study highlights the need for mechanistic studies behind the effect of BCG vaccination on COVID-19, and for clinical evaluation of the effectiveness of BCG vaccination to protect from severe COVID-19.
