@@ -306,6 +306,7 @@ feed April2020
 
 
   # Ventilation - Airborne
+  @@PauloRodrigues
   // Airborne route and bad use of ventilation systems as non-negligible factors in SARS-CoV-2 transmission
   doi: https://doi.org/10.1016/j.mehy.2020.109781
   ref 'Correia_et_al_04_25_2020
@@ -436,6 +437,7 @@ feed April2020
 
 
   # Serology , Contact Tracing , !a - Transmission - church and family gathering
+  @@VernonLee
   // Connecting clusters of COVID-19: an epidemiological and serological investigation
   doi: https://doi.org/10.1016/S1473-3099(20)30273-5
   ref 'Yong_et_al_04_21_2020

@@ -1448,7 +1448,7 @@ feed May2020
   // ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques
   doi: https://doi.org/10.1101/2020.05.13.093195
   ref 'Doremalen_et_al_05_13_2020
-    head =  Here, we show that the adenovirus-vectored vaccine ChAdOx1 nCoV-19, encoding the spike protein of SARS-CoV-2, is immunogenic in mice, eliciting a robust humoral and cell-mediated response.  
+    head =  Here, we show that the adenovirus-vectored vaccine ChAdOx1 nCoV-19, encoding the spike protein of SARS-CoV-2, is immunogenic in mice, eliciting a robust humoral and cell-mediated response.
 
     > Abstract
       Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) emerged in December 2019 and is responsible for the COVID-19 pandemic. Vaccines are an essential countermeasure urgently needed to control the pandemic. Here, we show that the adenovirus-vectored vaccine ChAdOx1 nCoV-19, encoding the spike protein of SARS-CoV-2, is immunogenic in mice, eliciting a robust humoral and cell-mediated response. This response was not Th2 dominated, as demonstrated by IgG subclass and cytokine expression profiling. A single vaccination with ChAdOx1 nCoV-19 induced a humoral and cellular immune response in rhesus macaques. We observed a significantly reduced viral load in bronchoalveolar lavage fluid and respiratory tract tissue of vaccinated animals challenged with SARS-CoV-2 compared with control animals, and no pneumonia was observed in vaccinated rhesus macaques. Importantly, no evidence of immune-enhanced disease following viral challenge in vaccinated animals was observed. ChAdOx1 nCoV-19 is currently under investigation in a phase I clinical trial. Safety, immunogenicity and efficacy against symptomatic PCR-positive COVID-19 disease will now be assessed in randomised controlled human clinical trials.
@@ -4400,6 +4400,7 @@ feed May2020
 
 
   # super spreader event, community-based point-source exposure, Mitigation
+  @@LeaHamner
   // High SARS-CoV-2 Attack Rate Following Exposure at a Choir Practice — Skagit County, Washington, March 2020
   doi: https://dx.doi.org/10.15585/mmwr.mm6919e6
   ref 'Hamner_et_al_2020

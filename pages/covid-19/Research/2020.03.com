@@ -948,6 +948,7 @@ feed March2020
 
 
   # prolonged close contact, indirect transmission, fomites and shared food, cluster transmission, 36 ppl
+  @@BarnabyYoung
   // Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures
   doi: https://doi.org/10.1016/S0140-6736(20)30528-6
   ref 'Pung_et_al_03_28_2020

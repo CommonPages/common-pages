@@ -320,6 +320,7 @@ feed June2020
     quote !a =
 
   #  Close Contact
+  @@EnfuChen
   // A Cluster of Novel Coronavirus Disease 2019 Infections Indicating Person-to-Person Transmission Among Casual Contacts From Social Gatherings: An Outbreak Case-Contact Investigation
   doi: https://doi.org/10.1093/ofid/ofaa231
   ref 'Shen_et_al_06_12_2020

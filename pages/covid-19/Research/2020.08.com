@@ -408,6 +408,7 @@ feed August2020
     quote !a =
 
   # Ventilation - Air conditioning system - Public Policy
+  @@MahmoudPourkarim
   // Air conditioning system usage and SARS-CoV-2 transmission dynamics in Iran
   doi: https://dx.doi.org/10.1016%2Fj.mehy.2020.110164
   ref 'RezaPourkarim_et_al_08_03_2020

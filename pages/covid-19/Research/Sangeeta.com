@@ -4762,6 +4762,7 @@ feed Sangeeta
 
 
   # Meat Processing Plant, Secondary, Cluster, Outbreak, Superspread, aerosol transmission, shared living
+  @@ThomasGuenther
   // Investigation of a superspreading event preceding the largest meat processing plant-related SARS-Coronavirus 2 outbreak in Germany
   doi: http://dx.doi.org/10.2139/ssrn.3654517
   ref 'Guenther_et_al_07_23_2020
@@ -5563,6 +5564,7 @@ feed Sangeeta
 
 
   # cluster transmission, transmission, settings
+  @@QuentinLeclerc
   // What settings have been linked to SARS-CoV-2 transmission clusters?
   doi: https://doi.org/10.12688/wellcomeopenres.15889.2
   ref 'Leclerc_et_al_06_05_2020
@@ -5725,6 +5727,7 @@ feed Sangeeta
 
 
   # nightclubs, indoor, 246 cases
+  @@JinyongLee
   // Coronavirus Disease Exposure and Spread from Nightclubs, South Korea
   doi: https://doi.org/10.3201/eid2610.202573
   ref 'Kang_et_al_07_07_2020
@@ -5896,6 +5899,7 @@ feed Sangeeta
 
 
   # indoor, secondary transmission
+  @@HiroshiNishiura
   // Closed environments facilitate secondary transmission of coronavirus disease 2019 (COVID-19)
   doi: https://doi.org/10.1101/2020.02.28.20029272
   ref 'Nishiura_et_al_03_03_2020
@@ -6098,6 +6102,7 @@ feed Sangeeta
 
 
   # fitness center, indoor transmission
+  @@JiYoungRhee
   // Cluster of Coronavirus Disease Associated with Fitness Dance Classes, South Korea
   doi: https://doi.org/10.3201/eid2608.200633
   ref 'Jang_et_al_05_15_2020
@@ -6151,6 +6156,7 @@ feed Sangeeta
 
 
   # Indoortransmission, public places
+  @@FarrellTobolowsky
   // COVID-19 Outbreak Among Three Affiliated Homeless Service Sites - King County, Washington, 2020
   doi: https://doi.org/10.15585/mmwr.mm6917e2
   ref 'Tobolowsky_et_al_05_01_2020
@@ -6194,6 +6200,7 @@ feed Sangeeta
 
 
   # office, IndoorTransmission
+  @@EunKyeongJeong
   // Coronavirus Disease Outbreak in Call Center, South Korea
   doi: https://doi.org/10.3201/eid2608.201274
   ref 'Park_et_al_04_23_2020
