@@ -255,8 +255,401 @@
   ############################################################################################
   # Everything below in this section is not updated claims.
   #########################################################################################
-    #12/20
+  # 12/26 ####
+  >
+    "This study finds that mobility to places of grocery and retail is significantly associated (at p<0.01) with the incidence of COVID-19."
 
+  >
+    A new systematic review- 17% of air sampled from close patient environments was positive for SARS-CoV-2 RNA, with viability of the virus found ONLY in 9% of cultures.
+  -
+    'Birgand_et_al_12_23_2020
+    'Birgand_et_al_12_23_2020.!a
+    'Birgand_et_al_12_23_2020.!b
+    'Birgand_et_al_12_23_2020.!c
+    'Birgand_et_al_12_23_2020.!d
+
+  >
+    A study investigated visit to which category of places among grocery, retail, parks, workplaces, residential, and transit stations is more associated with the incidence of COVID-19 in India.# mitigation B
+  -
+    'Praharaj_et_al_12_22_2020
+    'Praharaj_et_al_12_22_2020.!a
+    'Praharaj_et_al_12_22_2020.!b
+
+  >
+    socioeconomic factors play an important role in COVID-19 prevalence. future work may investigate socio-economic and
+  >
+    systematic review of the literature suggests that air near and distant from patient environments, including toilets and/or bathrooms, staff areas, and public areas, may carry viral RNA. However, the infectivity of the virus assessed by viral culture was only reported by 2 studies in non-ICU patient rooms.The level of severity of patients’ infections was not associated with increased air contamination. # mitigation B
+  -
+    'Praharaj_et_al_12_22_2020
+    'Praharaj_et_al_12_22_2020.!a
+    'Praharaj_et_al_12_22_2020.!b
+
+  >
+    Possible #Airborne #SARSCoV2 Transmission through Air Ducts: after a series of infections, all 437 residents of an apt building were tested. 10 infections uncovered, all living on different floors but along two vertical lines with openings through their bathrooms
+    Similar COVID-19 cases within the same vertical line of a residential house or an apartment without interpersonal contacts have been reported in Ordos City, Mongolia (Jung, 2020), and Guangzhou, China (Tang et al., 2020), implying aerosol transmission.
+  -
+    'Hwang_et_al_12_16_2020
+    'Hwang_et_al_12_16_2020.!a
+
+  >
+    LamPORE is a highly accurate methodology for the detection of SARS-CoV-2 in both symptomatic and asymptomatic population settings and can be used as an alternative to RT-qPCR.
+  -
+    'Ptasinska_et_al_12_16_2020
+    'Ptasinska_et_al_12_16_2020.!a
+    'Ptasinska_et_al_12_16_2020.!b
+    'Ptasinska_et_al_12_16_2020.!c
+    'Ptasinska_et_al_12_16_2020.!d
+    'Ptasinska_et_al_12_16_2020.!e
+
+  > ask AYUSH- https://twitter.com/VirusesImmunity/status/1342898928497418240 - REFER FOR MORE PAPERS
+    What aspects of antibody responses determine the outcome of #COVID19? we found that the early timing of antibody response (before 14 days of symptom) in infected person is key to recovery.
+  -
+    'Klein_et_al_12_22_2020
+    'Klein_et_al_12_22_2020.!a
+    'Klein_et_al_12_22_2020.!b
+    'Klein_et_al_12_22_2020.!c
+    'Klein_et_al_12_22_2020.!d
+    'Klein_et_al_12_22_2020.!e
+    'Klein_et_al_12_22_2020.!f
+    'Klein_et_al_12_22_2020.!g
+    'Klein_et_al_12_22_2020.!h
+    'Klein_et_al_12_22_2020.!i
+
+
+
+  #### 12/27 ######
+
+  #    pregnancy
+  # Replication-defective adenoviruses, when chemically attenuated, are ideal vectors because of their ability to accommodate large transgenes and encode proteins without viral integration into the host cell genome.
+
+  #   The immunity paradox during pregnancy that favours tolerance to the fetus (ie, stops the maternal immune system from rejecting the fetus), but leaves the mother susceptible to viral infections, can be opportunistically leveraged by simian adenoviral vectors. The ChAdOx1 vaccine platform is non-replicating and could be used to deliver proteins to the mother for the induction of an immune response without adversely affecting the fetus. Transplacental transfer of maternal induced antibodies can ensue, but without transfer of the virus vector to the fetus. Unfortunately, pregnant women have historically been excluded from pharmaceutical research, owing to well intentioned, but sometimes misguided, concerns about fetal safety.
+
+  # AstraZeneca has manufactured a vaccine using a viral-vector demonstrating early efficacy as well and this next generation platform has previously been utilized with the Ebola vaccine and safely administered during pregnancy with an acceptable safety profile
+
+  #### 12/25 ######
+
+
+
+
+  ### 12/24 ######
+
+  # https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html
+
+
+  # COVID19 vaccines and the complexity gap - CONTEXT FOR RNA #### MODELS FOR SAM, BNT162b2
+  # https://drtaqi.wordpress.com/2020/11/12/covid19-vaccines-and-the-complexity-gap/
+
+  # https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/
+
+  # https://www.newscientist.com/article/2253982-how-do-mrna-coronavirus-vaccines-work-science-with-sam-explains/
+
+  # RNA-Based COVID-19 Vaccine BNT162b2 Selected for a Pivotal Efficacy Study - ASK AYUSH
+
+  ###### 12/22 #######
+
+
+
+  # Severe allergy-like reactions in at least eight people who received the COVID-19 vaccine produced by Pfizer and BioNTech over the past 2 weeks may be due to a compound in the packaging of the messenger RNA (mRNA) that forms the vaccine’s main ingredient, scientists say. A similar mRNA vaccine developed by Moderna, which was authorized for emergency use in the United States on Friday, also contains the compound, polyethylene glycol (PEG).
+  # https://www.sciencemag.org/news/2020/12/suspicions-grow-nanoparticles-pfizer-s-covid-19-vaccine-trigger-rare-allergic-reactions?utm_campaign=news_daily_2020-12-21&et_rid=16762068&et_cid=3606713
+
+
+  # PEG has never been used before in an approved vaccine, but it is found in many drugs that have occasionally triggered anaphylaxis—a potentially life-threatening reaction that can cause rashes, a plummeting blood pressure, shortness of breath, and a fast heartbeat. Some allergists and immunologists believe a small number of people previously exposed to PEG may have high levels of antibodies against PEG, putting them at risk of an anaphylactic reaction to the vaccine. The two vaccines both contain mRNA wrapped in lipid nanoparticles (LNPs) that help carry it to human cells but also act as an adjuvant, a vaccine ingredient that bolsters the immune response. The LNPs are “PEGylated”—chemically attached to PEG molecules that cover the outside of the particles and increase their stability and life span. PEGs were long thought to be biologically inert, but a growing body of evidence suggests they are not. As much as 72% of people have at least some antibodies against PEGs, according to a
+  # 2016 study led by Samuel Lai, a pharmaco-engineer at the University of North Carolina, Chapel Hill, presumably as a result of exposure to cosmetics and pharmaceuticals. About 7% have a level that may be high enough to predispose them to anaphylactic reactions, he found. Other studies have also found antibodies against PEG, but at lower levels.
+
+  # Model - PEGylation is commonly used to extend half-life and limit volume of distribution of an increasing number of nucleic acid, peptide, and small molecule therapeutics.
+
+
+
+
+  # Vector-Based Vaccines CONTEXT REFER FOR BUIDLING CONTEXT
+  # https://www.the-scientist.com/news-opinion/vector-based-vaccines-come-to-the-fore-in-the-covid-19-pandemic-67915
+  # Vector-Based Vaccines Come to the Fore in the COVID-19 Pandemic
+  #
+  # Six vaccine candidates in clinical trials for COVID-19 employ viruses to deliver genetic cargo that, once inside our cells, instructs them to make SARS-CoV-2 protein. This stimulates an immune response that ideally would protect recipients from future encounters with the actual virus. Three candidates rely on weakened human adenoviruses to deliver the recipe for the spike protein of the pandemic coronavirus, while two use primate adenoviruses and one uses measles virus.
+  # Most viral vaccines are based on attenuated or inactivated viruses. An upside of using vectored vaccines is that they are easy and relatively cheap to make. The adenovirus vector, for example, can be grown up in cells and used for various vaccines. Once you make a viral vector, it is the same for all vaccines, says Florian Krammer, a vaccinologist at the Icahn School of Medicine at Mount Sinai. “It is just the genetic information in it that is different,” he explains.
+  # Once inside a cell, viral vectors hack into the same molecular system as SARS-CoV-2 and faithfully produce the spike protein in its three dimensions. This resembles a natural infection, which provokes a robust innate immune response, triggering inflammation and mustering B and T cells.
+  # But the major downside to the human adenoviruses is that they circulate widely, causing the common cold, and some people harbor antibodies that will target the vaccine, making it ineffective
+  #
+  # . In any case, it is necessary to directly compare different vaccines based on Ad5, VSV, chimpanzee adenovirus serotype 3, Ad26, and modified vaccinia Ankara, in order to identify optimal vaccine vector(s).
+  # Heterologous prime-boost vaccine regimens deliver the same or similar antigens through different vaccine types, the first to prime and the second to boost the immune system.
+
+  # Petrovsky says children generally react more strongly to vaccines than adults do, and that could be a huge drawback in countries with young populations such as India. “With vectors you are always trying to find the sweet spot,” says Petrovsky, which is their Achilles’s heel.  “Too weak, and they don’t work. Too strong, and they are too toxic.” Petrovsky is involved in the development of Covax-19, a recombinant protein–based vaccine plus adjuvant that is in early clinical trials and was developed by his company Vaxine Pty in Australia.
+
+  ############## 12/22 ########
+
+  # VACCINES
+  #  As with other mutations: it is unlikely that a few mutations render a vaccine ineffective. The vaccines under development induce antibodies to many sites on Spike, so even if one target doesn't work, others should. Still, important to investigate, as scientists are doing.
+
+
+  #12/20
+  # The UK / SA strains carry a series of deletions, in particular one at position 69/70 in the spike protein. While this deletion has been seen in other lineages before, it may play a role in transmission. Another deletion in the spike protein (144/145) might play a role.
+
+  # The UK SARS-CoV-2 multiply mutated variant VUI 202012/01 also has an interesting Spike deletion 69/70 we have been studying. The deletion is increasing in frequency (blue), as is the new UK variant (red) (Dec still going)
+
+  # As far as I know, the #SARSCoV2 variant identified by Hancock today is defined by a spike mutation at position 501 N->Y & a double-deletion at positions 69/70.
+
+
+
+
+  # NERVTAG meeting on SARS-CoV-2 variant under investigation VUI-202012/01
+  #     • Four analytic approaches were reviewed regarding the transmissibility of VUI-202012/01
+  # o Growth rate from genomic data: which suggest a growth rate of VUI-202012/01 that
+  # that is 71% (95%CI: 67%-75%) higher than other variants. - Increased growth rate 71% (67%-75%) relative to other lineages in circulation
+  # o Studies of correlation between R-values and detection of the variant: which
+  # suggest an absolute increase in the R-value of between 0.39 to 0.93.
+  # o PCR ct values: which suggest a decrease of ct value of around 2 associated with
+  # the new variant.
+  # o Viral load inferred from number of unique genome reads: which suggests 0.5
+  # increase in median log10 inferred viral load in Y501 versus N501. - Increased viral load (~4x based on RT-PCR; ~5x based on genome reads)
+  # No evidence for increased disease severity (4 deaths reported for ~1000 cases)
+  #  4 probable reinfections / ~915 infections. This feels quite high but would need to be compared to reinfection rates for other lineages.
+
+  # It was noted that whilst previous variants have successfully emerged in periods of low prevalence without clear evidence of having a selective advantage, the emergence and subsequent dominance of VUI-202012/01 in a period of relatively high prevalence suggests VUI-202012/01 does have a selective advantage over other variants.
+  # • It was noted that VUI-202012/01 has demonstrated exponential growth during a period when national lockdown measures were in place.
+
+  # In summary, NERVTAG has moderate confidence that VUI-202012/01 demonstrates a substantial increase in transmissibility compared to other variants.
+
+  # NERVTAG concluded that there are currently insufficient data to draw any conclusion on:
+  # Disease severity: 4 deaths in around 1000 cases have been identified but further work is needed to compare this fatality rate with comparable data sets.
+  # o Antigenic escape. The location of the mutations in the receptor binding domain of the spike glycoprotein raises the possibility that this variant is antigenically distinct from prior variants. Four probable reinfections have been identified amongst 915 subjects with this variant but further work is needed to compare this reinfection rate with comparable data sets.
+
+  # https://khub.net/documents/135939561/338928724/SARS-CoV-2+variant+under+investigation%2C+meeting+minutes.pdf/962e866b-161f-2fd5-1030-32b6ab467896?t=1608470511452
+
+  # The UK SARS-CoV-2 multiply mutated variant VUI 202012/01 also has an interesting Spike deletion 69/70 we have been studying. The deletion is increasing in frequency (blue), as is the new UK variant (red) (Dec still going)
+  # https://twitter.com/GuptaR_lab/status/1340438927254167554
+  # When we made this deletion alone in a simplified lab virus that has the SARS-CoV-2 Spike protein, we found that it was twice as infectious on cells that expressed the surface receptor used by the virus. This could potentially explain why VUI 202012/01 appears to spread faster.
+
+
+
+
+  # A bit confused about what all this is about? Why does the virus mutate - what even is a mutation? When should I worry?
+
+  # As far as I know, the #SARSCoV2 variant identified by Hancock today is defined by a spike mutation at position 501 N->Y & a double-deletion at positions 69/70.
+
+  # What else do we know about mutations at S:501 more generally? The website has links to papers discussing what researchers have found out about mutations at this position. It may
+  # - Be associated with rodent/mustelid adaptation
+  # - Increase ACE2 binding
+
+  # The same mutation N501Y (in a different strain) has recently been spreading in South Africa as well
+
+  # There are many, many #SARSCoV2 #COVID19 variants out there! A few have caught the attention of scientists in Europe - we're trying to monitor them!
+
+  # I'll be maintaining updated information here:
+  # https://github.com/emmahodcroft/cluster_scripts/blob/master/README.md
+  # https://twitter.com/firefoxx66/status/1338792620814905345
+
+
+  # https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563
+
+
+  # B.1.1.7
+
+  # https://www.nature.com/articles/d41586-020-02544-6
+  # The coronavirus is mutating — does it matter?
+  # HEAD TEXT
+  #
+  # Countries the B.1.1.7 variant has been found in: UK, Denmark, Singapore, Australia, Netherlands, Sweden, Spain, Switzerland, Lebanon, France, Israel, Italy.
+  # One of the delH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H). Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7.
+  # This variant bears some concerning features; firstly the H69/V70
+  # deletion which we show to increase infectivity by two fold. Secondly the 144 which may
+  # affect binding by antibodies related to 4A811. Thirdly, the N501Y mutation that may have
+  # higher binding affinity for ACE2 and a second RBD mutation A570D that could alter Spike
+  #  RBD structure. Finally, a mutation at the furin cleavage site could represent further
+  # adaptative change.
+  #
+  # we describe a new SARS-CoV-2 lineage (501Y.V2) characterised by eight lineage-defining mutations in the spike protein, including three at important residues in the receptor-binding domain (K417N, E484K and N501Y) that may have functional significance.
+  #
+  # Zoonotic pandemics follow the spillover of animal viruses into highly susceptible human populations. Often, pandemics wane, becoming endemic pathogens. Sustained circulation requires evasion of protective immunity elicited by previous infections.
+  #
+  # These are:
+  # 1. Spike N501Y which alters a key residue responsible for binding to the human ACE2 receptor
+  # 2. Deletion of spike residues 69 and 70 which may aid antibody escape
+  # 3. Spike P681H which is adjacent to the furin cleavage site
+  # 4. Knockout of accessory gene ORF8
+  #
+  # If we look at a detailed phylogenetic tree of this variant, rapid spread is also apparent. We also see that almost all the 501Y.V1 cases are in the UK, with 1 sequenced case from Australia (quarantined), 1 from Italy and 9 cases from Denmark (https://nextstrain.org/groups/blab/ncov/variants/20b-501y-v1). 8/17
+  #
+  # Fortuitously, the spike deletion at residues 69 and 70 broke one of the three PCR probes used in the TaqPath assay and so has been able to track spread of variant by comparing tests where all three probes light up vs tests where only two light up. 9/17
+
+  >
+    We report a rapidly growing lineage in the UK associated with an unexpectedly large number of genetic changes including in the receptor-binding domain and associated with the furin cleavage site.
+  -
+    'Arambaut_et_al_2020
+    'Arambaut_et_al_2020.!a
+    'Arambaut_et_al_2020.!b
+
+
+  >
+    One of the delH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H). Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7.
+
+  >
+    Molecular evidence is consistent with a potentially altered infectiousness phenotype for this variant.
+
+  >
+    Mutation N501Y is one of the key contact residues in the receptor binding domain and has been shown to enhance binding affinity to human ACE2.
+    N501 forms part of the binding loop in the contact region of hACE2, forming a hydrogen bond with Y41 in hACE231-33. It also stabilises K353, one of the virus-binding hotspot residues on hACE234. It is one of the key positions that differentiates SARS-CoV-2 from SARS-CoV and contributes to the enhanced binding affinity of SARS-CoV-2 for hACE231,34 The N501Y mutation has been shown through deep mutation scanning and in a mouse model to enhance binding affinity to hACE2
+
+  -
+    'Gu_et_al_09_25_2020
+    'Gu_et_al_09_25_2020.!c
+
+  >
+    The N501Y mutation has recently been identified in a new lineage in the United Kingdom (B.1.1.7), with some preliminary evidence that it may be more transmissible
+  -
+
+  >
+    The function of mutation P681H is unclear, but it is located immediately adjacent to the furin cleavage site in spike, a known region of importance for infection and transmission.
+  -
+    'Hoffmann_et_al_05_21_2020
+    'Peacock_et_al_09_30_2020
+
+  >
+    The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent  circulating lineages of SARS-CoV-2, is linked to immune escape in immunocompromised patients and enhances viral infectivity in vitro (6, 7). This deletion is also responsible for certain  commercial diagnostic assays failing to detect the spike glycoprotein gene (S gene drop-out), with genomic data confirming these S gene target failures are primarily due to the new variant  (1).
+
+    It’s not clear, by the way, how B.1.1.7 ended up with so many mutations. But often, multiple mutations are seen when a virus infects someone with a compromised immune system. In those patients, the virus can stay in the system for weeks and months, rather than a few days; they are often then treated with convalescent plasma.
+
+    Although we should be cautious in ascribing mutations in any given #SARSCoV2 lineage to any specific type of patient. Even with all the sequencing, only small fraction of infections are observed so multiple mechanisms could lead to "long branches" on phylogenetic trees.
+
+
+    One hypothesis for the emergence of this lineage, given the large number of mutations relative to the background mutation rate of SARS-CoV-2, is that it may have arisen through intra-host evolution in one or more individuals with prolonged viral replication43,44 This hypothesis is supported by the long branch length connecting the lineage to the remaining sequences in our phylogenetic tree (Suppl Fig. S10). The N501Y mutation is one of several spike mutations that emerged in an immunocompromised individual in the US who had prolonged viral replication for over 20 weeks44. 5.
+
+    COUNTER: It should be noted, however, that the observed diversity within this lineage cannot be explained by a single long-term infection in one individual because the lineage contains circulating intermediate mutants with subsets of the main mutations that characterise the lineage. I If evolution within long-term infections were the explanation for the evolution of this lineage then one would need to invoke a transmission chain that passes through multiple individuals
+
+    In South Africa, the country with the world’s biggest HIV epidemic, one concern has been the possibility of prolonged viral replication and intra-host evolution in the context of HIV infection, although the limited evidence so far does not suggest that HIV infection is associated with persistent SARS-CoV-2 replication4
+
+    Further, antigenic evolution, even within non-immuno-suppressed individuals, could offer an alternative explanation, given that several of the individual sites in spike appear to be under selective pressure worldwide, and that several of the identified mutations have been found in circulating lineages together.
+
+    Whilst we have yet to characterise how the mutations (particularly those in the RBM) affect antigenicity, it is plausible that high levels of population immunity could have driven the selection of this lineage
+
+    Whilst the full implications of this new lineage in South Africa are yet to be determined, these findings highlight the importance of coordinated molecular surveillance systems in all parts of the world, to enable early detection and characterisation of new lineages and to inform the global pandemic response.
+    Whilst we have yet to characterise how the mutations (particularly those in the RBM) affect antigenicity, it is plausible that high levels of population immunity could have driven the selection of this lineage.
+
+
+
+    The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent  circulating lineages of SARS-CoV-2. Of particular note this deletion, H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F, that have been shown to increase binding affinity to hACE2 and reduce binding with monoclonal antibodies) and its prevalence is rising in parts of Europe.
+
+    3 A recent analysis highlighted the potential for enhanced transmissibility of viruses with deletions in the NTD, including H69/V70. Here we show that the H69/V70 deletion increases Spike mediated infectivity by two-fold over a single round of infection. Over the millions of replication rounds per day in a SARS-CoV-2 infection this is likely to be significant.
+  -
+    'Kemp_et_al_12_21_2020
+    'Kemp_et_al_12_21_2020.!a
+    'Kemp_et_al_12_21_2020.!b
+    'McCarthy_et_al_11_19_2020
+    'McCarthy_et_al_11_19_2020.!a
+    'McCarthy_et_al_11_19_2020.!b
+
+
+  >
+    We report recurrent emergence and significant onward transmission of a six-nucleotide deletion in the S gene, which results in loss of two amino acids: H69 and V70. Of particular note this deletion, H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F, that have been shown to increase binding affinity to hACE2 and reduce binding with monoclonal antibodies) and its prevalence is rising in parts of Europe.
+  -
+    'Kemp_et_al_12_19_2020
+    'Kemp_et_al_12_19_2020.!a
+    'Kemp_et_al_12_21_2020
+    'Kemp_et_al_12_21_2020.!a
+    'Kemp_et_al_12_21_2020.!b
+
+  >
+    In addition to the primary factors 1 (mutational composition) and 2 (rapid spread), we also see higher viral loads in 501Y.V1 cases with Ct values on average 2 units lower. 12/17
+
+  >
+    Given both vaccines and therapeutics are designed around Wuhan-1 Spike, this raises the theoretical possibility of virus escape, particularly in immunocompromised individuals where prolonged viral replication occurs.
+    The observation of potential selection for specific variants coinciding with the presence of antibodies from convalescent plasma is supported by the experimental finding of reduced susceptibility of these viruses to plasma. er, we were able to document real-time emergence of a variant H69/V70 in the NTD of Spike that has been increasing in frequency in Europe. In the case we report that it was not clear that the emergence of the antibody escape variant was the primary reason for treatment failure.
+
+    During pandemics neither the infected patient nor subsequently infected individuals impart an immunological pressure on the virus. However, during a long-term persistent infection, virus replicates in the presence of endogenous or supplemented (e.g. convalescent sera or therapeutic monoclonal) antibody mediated immunity. Viral evolution in such patients may foreshadow preferred avenues of adaption in immune experienced populations
+
+    given that both vaccines and therapeutics are aimed at Spike, our study raises the  possibility of virus evasion, particularly in immune suppressed individuals where prolonged viral replication occurs.
+
+
+    The finding of a sub-lineage of over 1400 sequences bearing seven S gene mutations across the RBD (N501Y, A570D), S1 (H69/V70 and 144) and S2 (P681H, T716I, S982A and D1118H) in UK requires careful monitoring. The detection of a high number of novel mutations suggests this lineage has either been introduced from a geographic region with very poor sampling or viral evolution may have occurred in a single individual in the context of a chronic infection.
+
+
+    But PCR tests work by looking for a few short lengths of the viral RNA, not the whole thing. And by lucky chance, the standard PCR test looks at three different chunks, one of which happened to include the two areas removed by 69-70del mutation.
+
+    This doesn’t mean that the PCR tests don’t work. The tests look at three sites “precisely to have belt and braces” when hunting the virus, says Birney. So PCR tests which return positive results on two of the sites, but are negative on the 69-70 site, are probably telling us that the patient has B.1.1.7, not the original SARS-Cov2 strain. This means it’s been much easier to keep track of the virus. That’s why, says Birney, Patrick Vallance was able to give so much detail in his presentation of where it has spread in the UK.  It’s also part of why we can make any sort of estimate about the increase in R. If we were relying on genome sequencing, even though the UK has genuinely world-leading genomic surveillance, we’d have much less info.
+
+  >
+    Research is vitally needed into whether lateral flow devices for antigen and antibody detection can detect emerging strains and the immune responses to them, particularly given reports that S signal in PCR based tests are frequently negative in the new variant.
+
+
+  >
+    Emergence and rapid spread of a new severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) lineage with multiple spike mutations in South Africa. This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM), the main functional motif that forms the interface with the human ACE2 (hACE2) receptor
+  -
+    'Tegally_et_al_12_22_2020
+    'Tegally_et_al_12_22_2020.!a
+    'Tegally_et_al_12_22_2020.!b
+
+  >
+    The N501Y mutation has recently been identified in a new lineage in the United Kingdom (B.1.1.7), with some preliminary evidence that it may be more transmissible29,30
+
+  >
+    N501 forms part of the binding loop in the contact region of hACE2, forming a hydrogen bond with Y41 in hACE231-33. It also stabilises K353, one of the virus-binding hotspot residues on hACE234. It is one of the key positions that differentiates SARS-CoV-2 from SARS-CoV and contributes to the enhanced binding affinity of SARS-CoV-2 for hACE231,34 The N501Y mutation has been shown through deep mutation scanning and in a mouse model to enhance binding affinity to hACE2
+
+  >
+    The E484K mutation is uncommon, being present in <0.02% of sequences from outside South Africa. E484 is also in the RBM, and interacts with the K31 interaction hotspot residue of hACE2. There is some evidence that the E484K mutation may modestly enhance binding affinity35.
+
+  >
+    K417 is a unique hACE-2 interacting residue that forms a salt bridge interaction across the central contact region with D30 of hACE231,32. This is the most striking difference in the RBD-hACE2 complex between SARS-CoV-2 and SARSCoV, and contributes to the enhanced binding affinity of SARS-CoV-2 to hACE23.Deep mutational scanning suggests that the K417N mutation has minimal impact on binding affinity to hACE2
+
+
+  # Are the UK and South Africa variants the same? No. See this thread for more info: Critically, the SA variant does not have the 69/70 deletion we see in the UK variant.
+
+  # -
+  #  They both share the same mutation in spike: N501Y (N->Y at position 501). However, the 2 variants have arisen separately.
+  #  oth the UK & SA variants also sit on 'long branches'. This means they have more mutations (different in each) than we would expect. Both also have a higher number of mutations in spike.
+
+  # What about the 'UK'* (southeast England - B.1.1.7) and 'Welsh'* variants?
+
+  # They also both have the 501Y mutation, but the Welsh variant does not have the 69/70 deletion while the 'UK' one does. They also differ in many other positions.
+
+  # Here a simple table comparing the two variants with the 501Y Spike mutations in South Africa (501Y.V2) and the U.K. (B.1.1.7).
+
+
+  # What does it mean when we see a mutation arising independently multiple times?
+  #
+  # It's hard to say. Mutations arising multiple times can mean they give an advantage (that's why we keep seeing them). But it's not straightforward to show this conclusively.
+  #
+  # However, we may see modest reductions in vaccine efficacy due to antigenic drift and will likely need a process in the coming years by which we update the spike variant used in the vaccine to best match circulating viruses. 17/18
+  #
+  # Going forward, I suggest:
+  # 1. Emerging variants should be assayed against sera from recovered and vaccinated individuals to test for antigenic effects
+  # 2. Immunization records should be connected to genomic surveillance to identify variants involved in breakthrough infections
+  # 18/18
+  # https://twitter.com/trvrb/status/1340410014255652865
+
+
+
+  ########### 12/22 ######
+
+    #    In late December 2020, evidence began to emerge that a novel SARS-CoV-2 variant, Variant of
+    # Concern 202012/01 (henceforth VOC 202012/01), was prevalent and rapidly outcompeting
+    # preexisting variants in at least three regions of England: the South East, London and the East of
+    # England (1). This variant seems to have increased in incidence during the last period of national
+    # lockdown (November 5th - December 2nd 2020), and continued to increase following the
+    # lockdown despite many of the affected areas being in the (then) highest level of restrictions
+    # (“Tier 3”). Concern over this variant led the UK government to place parts of these three
+    # regions under “Tier 4” restrictions on 20th December, a package of control measures broadly
+    # equivalent to those enacted during the nationwide lockdown in England in November. Our
+    # current understanding of effective pharmaceutical and non-pharmaceutical control of
+    # SARS-CoV-2 does not reflect potential epidemiological and clinical characteristics of VOC
+    # 202012/01. Early estimates of the transmissibility and disease severity for this novel variant are
+    # crucial for informing rapid policy responses to this potential threat.
+
+    # VOC 202012/01 is defined by 17 mutations (14 non-synonymous mutations and 3 deletions) among which eight are located in the spike protein. At least three mutations have a potential biological significance. Mutation N501Y is one of the key contact residues in the receptor binding domain and has been shown to enhance binding affinity to human ACE2 (2, 3). The function of mutation P681H is unclear, but it is located immediately adjacent to the furin cleavage site in spike, a known region of importance for infection and transmission (4, 5). The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent circulating lineages of SARS-CoV-2, is linked to immune escape in immunocompromised patients and enhances viral infectivity in vitro (6, 7). This deletion is also responsible for certain commercial diagnostic assays failing to detect the spike glycoprotein gene (S gene drop-out), with genomic data confirming these S gene target failures are primarily due to the new variant. Accordingly, molecular evidence is consistent with a potentially altered infectiousness phenotype for this variant
+
+    # Characterising the transmissibility and severity of VOC 202012/01
+    #     To understand possible biological mechanisms for the observed dynamics associated with VOC
+    # 202012/01, we considered four alternative hypotheses for why the new variant might be
+      # spreading more efficiently: increased infectiousness; immune escape; increased susceptibility among children; and shorter generation time.
+      # The preprint considers higher infectiousness per contact, immune escape, a change in the susceptibility of children and a shorter generation time
+      # https://twitter.com/BillHanage/status/1341857733633581063
+
+      # but given our projections of a rapid rise in future incidence from VOC 202012/01 without additional control measures, there is an urgent need to consider what new approaches may be required to sufficiently reduce the ongoing transmission of SARS-CoV-2.
+
+      # VACCINE : The rise in transmission from VOC 202012/01 has several potential implications for vaccination. First, it means prompt and efficient vaccine delivery and distribution is even more important to reduce the impact of the epidemic in the near future. Moreover, increased transmission resulting from VOC 202012/01 will raise the herd immunity threshold, meaning the potential future burden of SARS-CoV-2 is larger and it will require higher vaccination coverage to achieve herd immunity. This implies vaccination timelines will also be a crucial determinant of future burden in other countries where similar new variants are present. Second, there is a need to determine whether VOC 202012/01 – or any subsequent emerging lineages – could affect the efficacy of vaccines. Vaccine developers may therefore need to consider experimenting with variant sequences as a precautionary measure, and powering post-licensure studies to detect differences in efficacy between the preexisting and new variants.
+
+
+      # although VOC 202012/01 was first identified in England, a rapidly spreading variant with similar phenotypic properties has also been detected in South Africa (20), where there has been a marked increase in 13 transmission in late 2020.
+
+    # https://cmmid.github.io/topics/covid19/reports/uk-novel-variant/2020_12_23_Transmissibility_and_severity_of_VOC_202012_01_in_England.pdf
 
     #### 12/8 ##
 
@@ -759,18 +1152,7 @@
     # doi: https://doi.org/10.1016/S0140-6736(20)31605-6
     # ref 'Zhu_et_al_08_15_2020
 
-    ###### 13/ 12 #######
-    # Vector-Based Vaccines CONTEXT
-    # https://www.the-scientist.com/news-opinion/vector-based-vaccines-come-to-the-fore-in-the-covid-19-pandemic-67915
-    # Vector-Based Vaccines Come to the Fore in the COVID-19 Pandemic
-    #
-    # Six vaccine candidates in clinical trials for COVID-19 employ viruses to deliver genetic cargo that, once inside our cells, instructs them to make SARS-CoV-2 protein. This stimulates an immune response that ideally would protect recipients from future encounters with the actual virus. Three candidates rely on weakened human adenoviruses to deliver the recipe for the spike protein of the pandemic coronavirus, while two use primate adenoviruses and one uses measles virus.
-    # Most viral vaccines are based on attenuated or inactivated viruses. An upside of using vectored vaccines is that they are easy and relatively cheap to make. The adenovirus vector, for example, can be grown up in cells and used for various vaccines. Once you make a viral vector, it is the same for all vaccines, says Florian Krammer, a vaccinologist at the Icahn School of Medicine at Mount Sinai. “It is just the genetic information in it that is different,” he explains.
-    # Once inside a cell, viral vectors hack into the same molecular system as SARS-CoV-2 and faithfully produce the spike protein in its three dimensions. This resembles a natural infection, which provokes a robust innate immune response, triggering inflammation and mustering B and T cells.
-    # But the major downside to the human adenoviruses is that they circulate widely, causing the common cold, and some people harbor antibodies that will target the vaccine, making it ineffective
-    #
-    # . In any case, it is necessary to directly compare different vaccines based on Ad5, VSV, chimpanzee adenovirus serotype 3, Ad26, and modified vaccinia Ankara, in order to identify optimal vaccine vector(s).
-    # Heterologous prime-boost vaccine regimens deliver the same or similar antigens through different vaccine types, the first to prime and the second to boost the immune system.
+
 
 
     ########## 11/12 ############

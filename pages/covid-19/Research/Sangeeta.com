@@ -1,6 +1,749 @@
 feed Sangeeta
 
   #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+
+  // Hypersensitivity to Polyethylene Glycols
+  doi: https://doi.org/10.1177/0091270012447122
+  ref 'Shah_et_al_01_23_2013
+    head = We report a case of a patient with immediate hypersensitivity to PEG and review the literature on PEG allergy.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / January, 2013 - The Journal of Clinical Pharmacology
+    quote !a = The patient reported ingestion of approximately 3 oz of PEG-3350 in preparation for a colonoscopy and within minutes experienced flushing, diffuse hives, shortness of beath, tachycardia, lightheadedness, and then a brief loss of consciousness. This was the first time that the patient  recieved PEG-3350 as a laxative, and he previously had bowel preps using non-PEG-containing enemas.
+
+    / January, 2013 - The Journal of Clinical Pharmacology
+    quote !b = On further questioning, The patient reported several instances of immediate reaction prior to this episode that he initially thought were coincidental but in retrospect all temporally related to PEG exposure. He developed a pruritic mascular rash on his forearms that occured within a few minutes of applying a PEG-containing sunscreen to those areas.
+
+    / January, 2013 - The Journal of Clinical Pharmacology
+    quote !c = The patient was also noted to have swelling of the lips after brushin his teeth with toothpaste contaning PEG. Use of non-PEG contaning toothpastes has not resulted in any symptoms.
+
+    / January, 2013 - The Journal of Clinical Pharmacology
+    quote !d = He reported an episode of pruritus, dyspnea, and urticaria within a few minutes of taking a 220-mg naproxen tablet that contained PEG as an excipient.
+
+    / January, 2013 - The Journal of Clinical Pharmacology
+    quote !e = He has never had episodes of urticaria, angioedema, respiratory, or other related symptoms outside of PEG exposure and has no reactions with specific avoidance of PEG.
+
+
+
+  #
+  // Kinetics of antibody responses dictate COVID-19 outcome
+  doi:https://doi.org/10.1101/2020.12.18.20248331
+  ref 'Klein_et_al_12_22_2020
+    head = We analysed humoral immune responses in 209 asymptomatic, mild, moderate and severe COVID-19 patients over time to probe the nature of antibody responses in disease severity and mortality.
+
+    > Summary
+      Recent studies have provided insights into innate and adaptive immune dynamics in coronavirus disease 2019 (COVID-19). Yet, the exact feature of antibody responses that governs COVID-19 disease outcomes remain unclear. Here, we analysed humoral immune responses in 209 asymptomatic, mild, moderate and severe COVID-19 patients over time to probe the nature of antibody responses in disease severity and mortality. We observed a correlation between anti-Spike (S) IgG levels, length of hospitalization and clinical parameters associated with worse clinical progression. While high anti-S IgG levels correlated with worse disease severity, such correlation was time-dependent. Deceased patients did not have higher overall humoral response than live discharged patients. However, they mounted a robust, yet delayed response, measured by anti-S, anti-RBD IgG, and neutralizing antibody (NAb) levels, compared to survivors. Delayed seroconversion kinetics correlated with impaired viral control in deceased patients. Finally, while sera from 89% of patients displayed some neutralization capacity during their disease course, NAb generation prior to 14 days of disease onset emerged as a key factor for recovery. These data indicate that COVID-19 mortality does not correlate with the cross-sectional antiviral antibody levels per se, but rather with the delayed kinetics of NAb production.
+
+    - quotes
+      !a
+      !b
+
+
+    / December, 2020 - MedRxiv
+    quote !a = We observed a correlation between anti-Spike (S) IgG levels, length of hospitalization and clinical parameters associated with worse clinical progression. While high anti-S IgG levels correlated with worse disease severity, such correlation was time-dependent.
+
+    / December, 2020 - MedRxiv
+    quote !b = our finding show that anti-Spike (S) but not anti-RBD antibody levels in COVID-19 patients correlate with disease severity, length of hospital stay, length of intubation and various clinical parameters of disease.
+
+    / December, 2020 - MedRxiv
+    quote !c = The levels of anti-S IgG, when matched for similar viral load and days from symptom onset, correlated with COVID-19 severity.
+
+    / December, 2020 - MedRxiv
+    quote !d = Our study demonstrated that neutralizing antibody responses developed within 14 days of symptom onset correlated with recovery, while those induced at later timepoints appear to lose this protective effect.
+
+    / December, 2020 - MedRxiv
+    quote !e = Our analyses not only confirm a link between SARS-CoV-2-specific antibody responses and COVID-19 severity, but also suggest a specific time-window in which neutralizing antibodies must develop in order to improve viral control and diseases outcomes.
+
+    / December, 2020 - MedRxiv
+    quote !f = Deceased patients did not have higher overall humoral response than live discharged patients. However, they mounted a robust, yet delayed response, measured by anti-S, anti-RBD IgG, and neutralizing antibody (NAb) levels, compared to survivors.
+
+    / December, 2020 - MedRxiv
+    quote !g = Delayed seroconversion kinetics correlated with impaired viral control in deceased patients.
+
+    / December, 2020 - MedRxiv
+    quote !h = These data indicate that COVID-19 mortality does not correlate with the cross-sectional antiviral antibody levels per se, but rather with the delayed kinetics of NAb production.
+
+    / December, 2020 - MedRxiv
+    quote !i = These data suggest that antibody-based therapies may benefit patients most when given within this two-week time window.
+
+
+
+  #
+  // A Gorilla Adenovirus-Based Vaccine against Zika Virus Induces Durable Immunity and Confers Protection in Pregnancy
+  doi: https://doi.org/10.1016/j.celrep.2019.08.005
+  ref 'Hassan_et_al_09_03_2019
+    head = We generate two gorilla adenovirus-based ZIKV vaccines that encode for pre-membrane (prM) and envelope (E) proteins (GAd-Zvp) or prM and the ectodomain of E protein (GAd-Eecto).
+
+    > Summary
+      The teratogenic potential of Zika virus (ZIKV) has made the development of an effective vaccine a global health priority. Here, we generate two gorilla adenovirus-based ZIKV vaccines that encode for pre-membrane (prM) and envelope (E) proteins (GAd-Zvp) or prM and the ectodomain of E protein (GAd-Eecto). Both vaccines induce humoral and cell-mediated immune responses and prevent lethality after ZIKV challenge in mice. Protection is antibody dependent, CD8+ T cell independent, and for GAd-Eecto requires the complement component C1q. Immunization of GAd-Zvp induces antibodies against a key neutralizing epitope on domain III of E protein and confers durable protection as evidenced by memory B and long-lived plasma cell responses and challenge studies 9 months later. In two models of ZIKV infection during pregnancy, GAd-Zvp prevents maternal-to-fetal transmission. The gorilla adenovirus-based vaccine platform encoding full-length prM and E genes is a promising candidate for preventing congenital ZIKV syndrome and possibly infection by other flaviviruses.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / September, 2019 - Cell Reports
+    quote !a = A single immunization of GAd-Zvp was sufficient to confer durable protection against lethal ZIKV challenge and two doses conferred protection against vertical transmission of ZIKV in pregnant mice in two different models
+
+    / September, 2019 - Cell Reports
+    quote !b = Both vaccines induce humoral and cell-mediated immune responses and prevent lethality after ZIKV challenge in mice. Protection is antibody dependent, CD8+ T cell independent, and for GAd-Eecto requires the complement component C1q.
+
+    / September, 2019 - Cell Reports
+    quote !c = Immunization of GAd-Zvp induces antibodies against a key neutralizing epitope on domain III of E protein and confers durable protection as evidenced by memory B and long-lived plasma cell responses and challenge studies 9 months later.
+
+    / September, 2019 - Cell Reports
+    quote !d = The gorilla adenovirus-based vaccine platform encoding full-length prM and E genes is a promising candidate for preventing congenital ZIKV syndrome and possibly infection by other flaviviruses.
+
+
+
+  #
+  // Safety and efficacy of ChAdOx1 RVF vaccine against Rift Valley fever in pregnant sheep and goats
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Stedman_et_al_10_18_2019
+    head = The safety of the ChAdOx1 RVF vaccine during pregnancy, as well as its immunogenicity and protective efficacy against viral challenge in this physiological state, remained unknown. This study addresses these knowledge gaps by evaluating the safety, immunogenicity and efficacy of ChAdOx1 RVF in sheep and goats, the two main livestock species that bear the brunt of abortion and other poor gestational outcomes during RVF outbreaks.
+
+    > Abstract
+      Rift Valley fever virus (RVFV) is a zoonotic mosquito-borne virus that was first discovered in Kenya in 1930 and has since spread to become endemic in much of Africa and the Arabian Peninsula. Rift Valley fever (RVF) causes recurrent outbreaks of febrile illness associated with high levels of mortality and poor outcomes during pregnancy—including foetal malformations, spontaneous abortion and stillbirths—in livestock, and associated with miscarriage in humans. No vaccines are available for human use and those licensed for veterinary use have potential drawbacks, including residual virulence that may contraindicate their use in pregnancy. To address this gap, we previously developed a simian adenovirus vectored vaccine, ChAdOx1 RVF, that encodes RVFV envelope glycoproteins. ChAdOx1 RVF is fully protective against RVF in non-pregnant livestock and is also under development for human use. Here, we now demonstrate that when administered to pregnant sheep and goats, ChAdOx1 RVF is safe, elicits high titre RVFV neutralizing antibody, and provides protection against viraemia and foetal loss, although this protection is not as robust for the goats. In addition, we provide a description of RVFV challenge in pregnant goats and contrast this to the pathology observed in pregnant sheep. Together, our data further support the ongoing development of ChAdOx1 RVF vaccine for use in livestock and humans.
+
+    - quotes
+      !a
+
+    / October, 2019 - npj Vaccines.
+    quote !a = We now demonstrate that when administered to pregnant sheep and goats, ChAdOx1 RVF is safe, elicits high titre RVFV neutralizing antibody, and provides protection against viraemia and foetal loss, although this protection is not as robust for the goats.
+
+
+
+  #
+  // Possible Aerosol Transmission of COVID-19 Associated with an Outbreak in an Apartment in Seoul, South Korea, 2020
+  doi: https://doi.org/10.1016/j.ijid.2020.12.035
+  ref 'Hwang_et_al_12_16_2020
+    head = We investigated the epidemiological relationship among infected cases on a recent cluster infection of COVID-19 in an apartment building in Seoul, South Korea. All infected cases (10 cases) were found along two vertical lines of the building, and each line was connected through a single air duct in the bathroom for natural ventilation.
+
+    > Background
+      Scientists have strongly implied that aerosols could be the plausible cause of COVID-19 transmission; however, aerosol transmission remains controversial.
+
+    > The study
+      We investigated the epidemiological relationship among infected cases on a recent cluster infection of COVID-19 in an apartment building in Seoul, South Korea. All infected cases were found along two vertical lines of the building, and each line was connected through a single air duct in the bathroom for natural ventilation. Our investigation found no other possible contact between the cases than the airborne infection through a single air duct in the bathroom. The virus from the first infected case can be spread to upstairs and downstairs through the air duct by the (reverse) stack effect, explaining the air movement in a vertical shaft.
+
+    > Conclusions
+      This study suggests aerosol transmission, especially indoors with insufficient ventilation, which is underappreciated.
+
+    - quotes
+      !a
+
+    / December, 2020 - International Journal of Infectious Diseases
+    quote !a = Our investigation found no other possible contact between the cases than the airborne infection through a single air duct in the bathroom. The virus from the first infected case can be spread to upstairs and downstairs through the air duct by the (reverse) stack effect, explaining the air movement in a vertical shaft.
+
+
+
+  # aerosol, nonsomical
+  // Assessment of Air Contamination by SARS-CoV-2 in Hospital Settings
+  doi: https://doi.org/10.1001/jamanetworkopen.2020.33232
+  ref 'Birgand_et_al_12_23_2020
+    head = This study was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guidelines. The positivity rate of SARS-CoV-2 viral RNA and culture were described and compared according to the setting, clinical context, air ventilation system, and distance from patients.
+
+    > Objective
+      To review current evidence on air contamination with SARS-CoV-2 in hospital settings and the factors associated with contamination, including viral load and particle size.
+
+    > Evidence Review
+      The MEDLINE, Embase, and Web of Science databases were systematically queried for original English-language articles detailing SARS-CoV-2 air contamination in hospital settings between January 1 and October 27, 2020. This study was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guidelines. The positivity rate of SARS-CoV-2 viral RNA and culture were described and compared according to the setting, clinical context, air ventilation system, and distance from patients. The SARS-CoV-2 RNA concentrations in copies per meter cubed of air were pooled, and their distribution was described by hospital areas. Particle sizes and SARS-CoV-2 RNA concentrations in copies or median tissue culture infectious dose (TCID50) per meter cubed were analyzed after categorization as less than 1 μm, from 1 to 4 μm, and greater than 4 μm.
+
+    > Findings
+      Among 2284 records identified, 24 cross-sectional observational studies were included in the review. Overall, 82 of 471 air samples (17.4%) from close patient environments were positive for SARS-CoV-2 RNA, with a significantly higher positivity rate in intensive care unit settings (intensive care unit, 27 of 107 [25.2%] vs non–intensive care unit, 39 of 364 [10.7%]; P < .001). There was no difference according to the distance from patients (≤1 m, 3 of 118 [2.5%] vs >1-5 m, 13 of 236 [5.5%]; P = .22). The positivity rate was 5 of 21 air samples (23.8%) in toilets, 20 of 242 (8.3%) in clinical areas, 15 of 122 (12.3%) in staff areas, and 14 of 42 (33.3%) in public areas. A total of 81 viral cultures were performed across 5 studies, and 7 (8.6%) from 2 studies were positive, all from close patient environments. The median (interquartile range) SARS-CoV-2 RNA concentrations varied from 1.0 × 103 copies/m3 (0.4 × 103 to 3.1 × 103 copies/m3) in clinical areas to 9.7 × 103 copies/m3 (5.1 × 103 to 14.3 × 103 copies/m3) in the air of toilets or bathrooms. Protective equipment removal and patient rooms had high concentrations per titer of SARS-CoV-2 (varying from 0.9 × 103 to 40 × 103 copies/m3 and 3.8 × 103 to 7.2 × 103 TCID50/m3), with aerosol size distributions that showed peaks in the region of particle size less than 1 μm; staff offices had peaks in the region of particle size greater than 4 μm.
+
+    > Conclusions and Relevance
+      In this systematic review, the air close to and distant from patients with coronavirus disease 2019 was frequently contaminated with SARS-CoV-2 RNA; however, few of these samples contained viable viruses. High viral loads found in toilets and bathrooms, staff areas, and public hallways suggest that these areas should be carefully considered.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a = In this systematic review, the air close to and distant from patients with coronavirus disease 2019, including toilets and/or bathrooms, staff areas, and public areas, may carry viral RNA was frequently contaminated with SARS-CoV-2 RNA; however, few of these samples contained viable viruses.
+
+    / December, 2020 - JAMA Netw Open.
+    quote !b = PPE removal and patient rooms had high concentrations per titer of SARS-CoV-2 with aerosol size distributions that showed peaks of particles sized less than 1 μm; for staff offices, the size distribution peaked for particles sized greater than 4 μm.
+
+    / December, 2020 - JAMA Netw Open.
+    quote !c = 82 of 471 air samples from close patient environments were positive for SARS-CoV-2 RNA, with a significantly higher positivity rate in intensive care unit settings vs non–intensive care unit, 39 of 364 [10.7%]; P < .001).
+
+    / December, 2020 - JAMA Netw Open.
+    quote !d = The level of severity of patients’ infections was not associated with increased air contamination.
+
+
+
+
+  # mitigation, transmission
+  // A longitudinal study of the impact of human mobility on the incidence of COVID-19 in India
+  doi: https://doi.org/10.1101/2020.12.21.20248523
+  ref 'Praharaj_et_al_12_22_2020
+    head = This study aims to investigate visit to which category of places among grocery, retail, parks, workplaces, residential, and transit stations is more associated with the incidence of COVID-19 in India. A longitudinal analysis of generalized estimating equation (GEE) with a Poisson log-linear model is employed to analyze the daily mobility rate and reported new cases of COVID-19 between March 14 and September 11, 2020.
+
+    > Abstract
+      Human mobility plays a crucial role in determining how fast and where infectious diseases can spread. This study aims to investigate visit to which category of places among grocery, retail, parks, workplaces, residential, and transit stations is more associated with the incidence of COVID-19 in India. A longitudinal analysis of generalized estimating equation (GEE) with a Poisson log-linear model is employed to analyze the daily mobility rate and reported new cases of COVID-19 between March 14 and September 11, 2020. This study finds that mobility to places of grocery (food and vegetable markets, drug stores etc.) and retail (restaurants, cafes, shopping centres etc.) is significantly associated (at p<0.01) with the incidence of COVID-19. In contrast, visits to parks, transit stations and mobility within residential neighbourhoods are not statistically significant (p>0.05) in changing COVID-19 cases over time. These findings highlight that instead of blanket lockdown restrictions, authorities should adopt a place-based approach focusing on vulnerable hotspot locations to contain the COVID-19 and any future infectious disease.
+
+    - quotes
+      !a
+      !b
+
+    / December, 2020 - MedRxiv
+    quote !a = This study finds that mobility to places of grocery (food and vegetable markets, drug stores etc.) and retail (restaurants, cafes, shopping centres etc.) is significantly associated (at p<0.01) with the incidence of COVID-19. In contrast, visits to parks, transit stations and mobility within residential neighbourhoods are not statistically significant (p>0.05) in changing COVID-19 cases over time.
+
+    / December, 2020 - MedRxiv
+    quote !b = These findings highlight that instead of blanket lockdown restrictions, authorities should adopt a place-based approach focusing on vulnerable hotspot locations to contain the COVID-19 and any future infectious disease.
+
+
+
+  #
+  // Analysis of Pre-existing IgG and IgM Antibodies against Polyethylene Glycol (PEG) in the General Population
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'xyz_et_al_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  # Polyethylene Glycols
+  // Immediate Hypersensitivity to Polyethylene Glycols and Polysorbates: More Common Than We Have Recognized
+  doi: https://doi.org/10.1016/j.jaip.2018.12.003
+  ref 'Stone_et_al_12_14_2018
+    head = Two cases with a past history of immediate hypersensitivity to PEG-containing medications were used to study potential mechanisms and cross-reactivity of immediate reactions to PEG 3350. We searched US Food and Drug Administration (FDA) adverse event reports for immediate reactions to PEG 3350 to determine the potential scope of this problem in the United States.
+
+    > Background
+      The most common immediate hypersensitivity to macrogols is associated with polyethylene glycol (PEG) 3350; however, the epidemiology, mechanisms, and cross-reactivity are poorly understood. Thousands of medications contain either PEGs or structurally similar polysorbates.
+
+    > Objective
+      Our objective was to better understand the mechanism, cross-reactivity, and scope of PEG hypersensitivity.
+
+    > Methods
+      Two cases with a past history of immediate hypersensitivity to PEG-containing medications were used to study potential mechanisms and cross-reactivity of immediate reactions to PEG 3350. Skin testing and oral challenges with PEG and polysorbate-containing agents were employed to determine clinical reactivity and cross-reactivity between the 2 allergens. Enzyme-linked immunosorbent assay and electrochemiluminescent immunoassay were used to detect anti-PEG specific IgG and IgE, respectively, using PEGylated protein or PEG alone as antigens in 2 cases and 6 PEG 3350 tolerant controls. We searched US Food and Drug Administration (FDA) adverse event reports for immediate reactions to PEG 3350 to determine the potential scope of this problem in the United States.
+
+    > Results
+      Skin and provocation testing demonstrated symptomatic reactivity in both cases to PEG 3350 and polysorbate 80. Plasma samples were positive for anti-PEG specific IgE and IgG antibodies only in cases and binding increased directly proportional to the molecular weight of PEG tested. FDA adverse event reports revealed 53 additional cases of possible PEG 3350 anaphylaxis.
+
+    > Conclusions
+      Immediate hypersensitivity to PEG 3350 with cross-reactive polysorbate 80 hypersensitivity may be underrecognized in clinical practice and can be detected with clinical skin testing. Our studies raise the possibility of an IgE-mediated type I hypersensitivity mechanism in some cases.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / December, 2018 - J Allergy Clin Immunol Pract.
+    quote !a = Skin and provocation testing demonstrated symptomatic reactivity in both cases to PEG 3350 and polysorbate 80.
+
+    / December, 2018 - J Allergy Clin Immunol Pract.
+    quote !b = Plasma samples were positive for anti-PEG specific IgE and IgG antibodies only in cases and binding increased directly proportional to the molecular weight of PEG tested. Our studies raise the possibility of an IgE-mediated type I hypersensitivity mechanism in some cases.
+
+    / December, 2018 - J Allergy Clin Immunol Pract.
+    quote !c = FDA adverse event reports revealed 53 additional cases of possible PEG 3350 anaphylaxis.
+
+
+
+  # PEG
+  // Pre-existing anti-PEG antibodies are associated with severe immediate allergic reactions to pegnivacogin, a PEGylated aptamer
+  doi: https://doi.org/10.1016/j.jaci.2016.04.058
+  ref 'Povsic_et_al_07_13_2016
+    head = Our work demonstrates that acute severe allergic reactions to pegnivacogin were observed exclusively in those with preformed anti-PEG antibodies, and were associated with complement activation and tryptase release.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / July, 2016 - The Journal of Allergy and Clinical Immunology
+    quote !a = Although early clinical testing did not identify any safety concerns, the phase IIb Randomized, Partially Blinded, Multicenter, Active-Controlled, Dose-Ranging Study Assessing the Safety, Efficacy, and Pharmacodynamics of the REG1 Anticoagulation System in Patients with Acute Coronary Syndromes (RADAR) trial was stopped after 3 allergic reactions. An extensive investigation demonstrated elevated levels of IgG anti-PEG antibodies in the 3 patients with allergic events, suggesting that the PEG moiety, and not the oligonucleotide, was the causative allergic agent.
+
+    / July, 2016 - The Journal of Allergy and Clinical Immunology
+    quote !b = On the basis of previous safety record of PEGylated products, investigators and regulatory authorities agreed that pegnivacogin should undergo additional definitive testing incorporating a risk mitigation and action plan in a phase III trial (Randomized, Open-label, Multi-Center, Active-Controlled, Parallel Group Study to Determine the Efficacy and Safety of the REG1 Anticoagulation System Compared to Bivalirudin in Patients Undergoing Percutaneous Coronary Intervention [REGULATE-PCI]) in which subjects undergoing percutaneous coronary intervention were randomized to pegnivacogin or bivalirudin. REGULATE-PCI was ultimately terminated after enrollment of 3,232 of a planned 13,200 patients after an excess of allergic reactions in pegnivacogin-treated patients.
+
+    / July, 2016 - The Journal of Allergy and Clinical Immunology
+    quote !c = There was no evidence of altered risk of allergic reactions in patients premedicated with H1 or H2 blockers, corticosteroids, beta blockers, or angiotensin-converting enzyme inhibitors
+
+    / July, 2016 - The Journal of Allergy and Clinical Immunology
+    quote !d = IgG anti-PEG antibodies were present in 15% of pegnivacogin-treated and bivalirudin-treated patients not experiencing reactions, and in 71% of patients with any allergic reaction and 83% of patients with severe allergic reactions after pegnivacogin treatment. Of 16 patients with allergic reactions within 1 hour of pegnivacogin dosing, 15 (94%) had positive anti-PEG antibodies. None of the 10 patients with allergic reactions after bivalirudin dosing had preformed anti-PEG antibodies.
+
+
+
+  # PEG, rna allergic reactions, counter
+  // Suspicions grow that nanoparticles in Pfizer’s COVID-19 vaccine trigger rare allergic reactions
+  doi: https://doi.org/10.1126/science.abg2359
+  ref 'Vrieze_et_al_12_21_2020
+    head = This correspondence article discusses some scientists suspicions that severe allergy-like reactions in at least eight people who received the COVID-19 vaccine produced by Pfizer and BioNTech over the past 2 weeks may be due to a compound in the packaging of the messenger RNA (mRNA) that forms the vaccine’s main ingredient. Other scientists, meanwhile, are not convinced PEG is involved at all/ are skeptical of the link.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+
+    / December, 2020 - Science
+    quote !a = PEG (compound:polyethylene glycol) has never been used before in an approved vaccine, but it is found in many drugs that have occasionally triggered anaphylaxis—a potentially life-threatening reaction that can cause rashes, a plummeting blood pressure, shortness of breath, and a fast heartbeat.
+
+    / December, 2020 - Science
+    quote !b = Some allergists and immunologists believe a small number of people previously exposed to PEG may have high levels of antibodies against PEG, putting them at risk of an anaphylactic reaction to the vaccine.
+
+    / December, 2020 - Science
+    quote !c = The two vaccines (Pfizer and BioNTech, Moderna) both contain mRNA wrapped in lipid nanoparticles (LNPs) that help carry it to human cells but also act as an adjuvant, a vaccine ingredient that bolsters the immune response. The LNPs are “PEGylated”—chemically attached to PEG molecules that cover the outside of the particles and increase their stability and life span.
+
+    / December, 2020 - Science
+    quote !d = PEGs are also used in everyday products such as toothpaste and shampoo as thickeners, solvents, softeners, and moisture carriers, and they’ve been used as a laxative for decades. An increasing number of biopharmaceuticals include PEGylated compounds as well. PEGs were long thought to be biologically inert, but a growing body of evidence suggests they are not. As much as 72% of people have at least some antibodies against PEGs, according to a 2016 study led by Samuel Lai, presumably as a result of exposure to cosmetics and pharmaceuticals. About 7% have a level that may be high enough to predispose them to anaphylactic reactions, he found.
+
+    / December, 2020 - Science
+    quote !e = Other studies have also found antibodies against PEG, but at lower levels. Szebeni says the mechanism behind PEG-conjugated anaphylaxis is relatively unknown because it does not involve immunoglobulin E (IgE), the antibody type that causes classical allergic reactions. Instead, PEG triggers two other classes of antibodies, immunoglobulin M (IgM) and immunoglobulin G (IgG), involved in a branch of the body’s innate immunity called the complement system.
+
+    / December, 2020 - Science
+    quote !f = Janos Szebeni (an immunologist at Semmelweis University in Budapest, Hungary, who has long studied hypersensitivity reactions to PEG) described a new type of drug-induced reaction he dubbed complement activation-related pseudoallergy (CARPA), a nonspecific immune response to nanoparticle-based medicines, often PEGylated, that are mistakenly recognized by the immune system as viruses. Szebeni believes CARPA explains the severe anaphylactoid reactions some PEGylated drugs are occasionally known to cause, including cancer blockbuster Doxil.
+
+    / December, 2020 - Science
+    quote !g = A team assembled by Bruce Sullenger, a surgeon at Duke University, experienced similar issues with an experimental anticoagulant containing PEGylated RNA. The team had to halt a phase III trial in 2014 after about 0.6% of 1600 people who received the drug had severe allergic responses and one participant died. The team found that every participant with an anaphylaxis had high levels of anti-PEG IgG. But some with no adverse reaction had high levels as well, Sullenger adds. “So, it is not sufficient to just have these antibodies
+
+    / December, 2020 - Science
+    quote !h = Other scientists aren't convinced, Moein Moghimi, a nanomedicine researcher at Newcastle University says there is a lot of exaggeration when it comes to the risk of PEGs and CARPA and suspect a more conventional mechanism is causing the reactions. You are technically delivering an adjuvant at the injection site to excite the local immune system. It happens that some people get too much excitement, because they have a relatively high number of local immune cells.
+
+    / December, 2020 - Science
+    quote !i = Others note the amount of PEG in the mRNA vaccines is orders of magnitude lower than in most PEGylated drugs. And whereas those drugs are often given intravenously, the two COVID-19 vaccines are injected into a muscle, which leads to a delayed exposure and a much lower level of PEG in the blood, where most anti-PEG antibodies are.
+
+    / December, 2020 - Science
+    quote !j = Katalin Karikó, a senior vice president at BioNTech who co-invented the mRNA technology underlying both vaccines, along with Janos Szebeni, an immunologist at Semmelweis University in Budapest, Hungary, who has long studied hypersensitivity reactions to PEG agreed that given the low amount of lipid and the intramuscular administration, the risk was negligible. All vaccines carry some risk. But the benefit of the vaccine outweighs the risk.
+
+    / December, 2020 - Science
+    quote !k = If PEG does turn out to be the culprit, the question is, what can be done? CDC guidelines recommend not giving the Pfizer or Moderna vaccines to anyone with a history of severe allergic reaction to any component of the vaccine. For people who have had a severe reaction to another vaccine or injectable medication, the risks and benefits of vaccination should be carefully weighed, CDC says. And people who might be at high risk of an anaphylactic reaction should stay at the vaccination site for 30 minutes after their shot so they can be treated if necessary.
+
+
+
+  #
+  // SARS-CoV-2 mRNA vaccine design enabled by prototype pathogen preparedness
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Diagnostic accuracy of Loop mediated isothermal amplification coupled to Nanopore sequencing (LamPORE) for the detection of SARS-CoV-2 infection at scale in symptomatic and asymptomatic populations
+  doi: https://doi.org/10.1101/2020.12.15.20247031
+  ref 'Ptasinska_et_al_12_16_2020
+    head = We carried out a very large asymptomatic cohort study of health care workers using a novel technology, LamPORE, comparing it to a reference CE-IVD marked RT-qPCR assay. In addition, we have also carried out a large symptomatic cohort study based on “real world” samples typically found in clinical practice.
+
+    > Introduction
+      Rapid, high throughput diagnostics are a valuable tool, allowing the detection of SARS-CoV-2 in populations, in order to identify and isolate people with asymptomatic and symptomatic infections. Reagent shortages and restricted access to high throughput testing solutions have limited the effectiveness of conventional assays such as reverse transcriptase quantitative PCR (RT-qPCR), particularly throughout the first months of the COVID-19 pandemic. We investigated the use of LamPORE, where loop mediated isothermal amplification (LAMP) is coupled to nanopore sequencing technology, for the detection of SARS-CoV-2 in symptomatic and asymptomatic populations.
+
+    > Methods
+      In an asymptomatic prospective cohort, for three weeks in September 2020 health care workers across four sites (Birmingham, Southampton, Basingstoke and Manchester) self-swabbed with nasopharyngeal swabs weekly and supplied a saliva specimen daily. These samples were tested for SARS-CoV-2 RNA using the Oxford Nanopore LamPORE system and a reference RT-qPCR assay on extracted sample RNA. A second retrospective cohort of 848 patients with influenza like illness from March 2020 – June 2020, were similarly tested from nasopharyngeal swabs.
+
+    > Results
+      In the asymptomatic cohort a total of 1200 participants supplied 23,427 samples (3,966 swab, 19,461 saliva) over a three-week period. The incidence of SARS-CoV-2 detection using LamPORE was 0.95%. Diagnostic sensitivity and specificity of LamPORE was >99.5% in both swab and saliva asymptomatic samples when compared to the reference RT-qPCR test.
+
+    > Conclusions
+      LamPORE is a highly accurate methodology for the detection of SARS-CoV-2 in both symptomatic and asymptomatic population settings and can be used as an alternative to RT-qPCR.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / December, 2020 - Medrxiv
+    quote !a = We found that LamPORE has high sensitivity and specificity (>99%) in both the asymptomatic and symptomatic populations, directly comparable to RT-qPCR and therefore has comparable predictive ability across a range of use cases in varying levels of population prevalence. We studied a population with a wide range of viral loads as determined by cycle threshold, with LamPORE demonstrating good detection across the range, suggesting it has applicability across the whole spectrum of use cases.
+
+    / December, 2020 - Medrxiv
+    quote !b = The incidence of SARS-CoV-2 detection using LamPORE was 0.95%.
+
+    / December, 2020 - Medrxiv
+    quote !c = Diagnostic sensitivity and specificity of LamPORE was >99.5% in both swab and saliva asymptomatic samples when compared to the reference RT-qPCR test.
+
+    / December, 2020 - Medrxiv
+    quote !d = In the retrospective symptomatic cohort, the incidence was 13.4% and the sensitivity and specificity were 100%.
+
+    / December, 2020 - Medrxiv
+    quote !e = LamPORE is a highly accurate methodology for the detection of SARS-CoV-2 in both symptomatic and asymptomatic population settings and can be used as an alternative to RT-qPCR.
+
+
+
+
+  # South Africa, mutation , phylogeny
+  // Emergence and rapid spread of a new severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) lineage with multiple spike mutations in South Africa.
+  doi: https://doi.org/10.1101/2020.12.21.20248640
+  ref 'Tegally_et_al_12_22_2020
+    head = We describe and characterise a new SARS-CoV-2 lineage with multiple spike mutations that emerged in a major metropolitan area in South Africa following the first wave of the epidemic and then spread to multiple locations within two other neighbouring provinces.
+
+    > Abstract
+      Continued uncontrolled transmission of the severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) in many parts of the world is creating the conditions for significant virus evolution. Here, we describe a new SARS-CoV-2 lineage (501Y.V2) characterised by eight lineage-defining mutations in the spike protein, including three at important residues in the receptor-binding domain (K417N, E484K and N501Y) that may have functional significance. This lineage emerged in South Africa after the first epidemic wave in a severely affected metropolitan area, Nelson Mandela Bay, located on the coast of the Eastern Cape Province. This lineage spread rapidly, becoming within weeks the dominant lineage in the Eastern Cape and Western Cape Provinces. Whilst the full significance of the mutations is yet to be determined, the genomic data, showing the rapid displacement of other lineages, suggest that this lineage may be associated with increased transmissibility.
+
+    - quotes
+      !a
+      !b
+
+    / December, 2020 - medRxiv
+    quote !a = We show that this lineage has rapidly become the dominant circulating genotype, at least in EC and WC, at the time of a rapid resurgence in infections. Whilst the full significance of the mutations is not yet clear, the genomic and epidemiological data suggest increased transmissibility associated with the virus.
+
+    / December, 2020 - medRxiv
+    quote !b = This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM), the main functional motif that forms the interface with the human ACE2 (hACE2) receptor.
+
+
+
+  #
+  // Natural deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape.
+  doi: https://doi.org/10.1101/2020.11.19.389916
+  ref 'McCarthy_et_al_11_19_2020
+    head = We have identified an evolutionary signature defined by prevalent and recurrent deletions at four antigenic sites in the spike glycoprotein.
+
+    > Abstract
+      Zoonotic pandemics follow the spillover of animal viruses into highly susceptible human populations. Often, pandemics wane, becoming endemic pathogens. Sustained circulation requires evasion of protective immunity elicited by previous infections. The emergence of SARS-CoV-2 has initiated a global pandemic. Since coronaviruses have a lower substitution rate than other RNA viruses this gave hope that spike glycoprotein is an antigenically stable vaccine target. However, we describe an evolutionary pattern of recurrent deletions at four antigenic sites in the spike glycoprotein. Deletions abolish binding of a reported neutralizing antibody. Circulating SARS-CoV-2 variants are continually exploring genetic and antigenic space via deletion in individual patients and at global scales. In viruses where substitutions are relatively infrequent, deletions represent a mechanism to drive rapid evolution, potentially promoting antigenic drift.
+
+
+
+    - quotes
+      !a
+      !b
+
+
+    / November, 2020 - BioRxiv
+    quote !a = Deletions abolish binding of a reported neutralizing antibody. Circulating SARS-CoV-2 variants are continually exploring genetic and antigenic space via deletion in individual patients and at global scales. In viruses where substitutions are relatively infrequent, deletions represent a mechanism to drive rapid evolution, potentially promoting antigenic drift.
+
+    # / November, 2020 - BioRxiv
+    # quote !a = SARS-CoV-2 appears to be on a trajectory to become an endemic human pathogen and antigenic sites will continue evolving to evade preexisting immunity. Deletions that rapidly alter entire stretches of amino acids at specific antigenic sites are already playing an important role.
+
+    # / November, 2020 - BioRxiv
+    # quote !a = From these data, it is evident that SARS-CoV-2 is continuously exploring sequence and antigenic space in different genetic, environmental and geographical contexts.
+
+    / November, 2020 - BioRxiv
+    quote !b = The most recent sequences in our dataset are strongly biased to the UK and we show many variants with deletions in RDRs 1, 2, and 3 circulated widely across England, Northern Ireland, Scotland and Wales. These deletions alter one antigenic site and likely alter another.
+
+
+
+
+  # SARS-CoV-2 Spike deletion ΔH69/ΔV70, mitigation
+  // Recurrent emergence and transmission of a SARS-CoV-2 Spike deletion ΔH69/ΔV70
+  doi: https://doi.org/10.1101/2020.12.14.422555
+  ref 'Kemp_et_al_12_21_2020
+    head = We report recurrent emergence and significant onward transmission of a six-nucleotide deletion in the S gene, which results in loss of two amino acids: H69 and V70. Of particular note this deletion, H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F, that have been shown to increase binding affinity to hACE2 and reduce binding with monoclonal antibodies) and its prevalence is rising in parts of Europe.
+
+
+    > Abstract
+      SARS-CoV-2 Spike amino acid replacements in the receptor binding domain (RBD) occur relatively frequently and some have a consequence for immune recognition. Here we report recurrent emergence and significant onward transmission of a six-nucleotide deletion in the S gene, which results in loss of two amino acids: H69 and V70. Of particular note this deletion, H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F. One of the delH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H). Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7. We find the delH69/V70 enhances viral infectivity, indicating its effect on virus fitness is independent to the N501Y RBM change. Enhanced surveillance for the delH69/V70 deletion with and without RBD mutations should be considered as a priority. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    # / December, 2020 - BioRxiv
+    # quote !a = One of the delH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H).
+    #
+    # / December, 2020 - BioRxiv
+    # quote !a = Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7.
+
+    / December, 2020 - BioRxiv
+    quote !a = We find the delH69/V70 enhances viral infectivity, indicating its effect on virus fitness is independent to the N501Y RBM change. Enhanced surveillance for the delH69/V70 deletion with and without RBD mutations should be considered as a priority. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+
+    / December, 2020 - BioRxiv
+    quote !b = We show that the H69/V70 deletion increases Spike mediated infectivity by two-fold over a single round of infection.
+
+    / December, 2020 - BioRxiv
+    quote !c = Given the emergence of multiple clusters of variants carrying RBD mutations and the H69/V70 deletion, limitation of transmission takes on a renewed urgency. Continued emphasis on testing/tracing, social distancing and mask wearing are essential, with investment in other novel methods to limit transmission. In concert, comprehensive vaccination efforts in the UK and globally should be accelerated in order to further limit transmission and acquisition of further mutations. Finally, detection of the deletion and other key mutations by rapid diagnostics should be a research priority as such tests could be used as a proxy for antibody escape mutations to inform surveillance at global scale
+
+
+
+
+  # This is a single case report-, CP, immunocompromised, SARS-CoV-2 Spike deletion ΔH69/ΔV70e
+  // Neutralising antibodies drive Spike mediated SARS-CoV-2 evasion.
+  doi: https://doi.org/10.1101/2020.12.05.20241927
+  ref 'Kemp_et_al_12_19_2020
+    head = We report fatal SARS-CoV-2 escape from neutralising antibodies in an immune suppressed individual treated with convalescent plasma, generating whole genome ultradeep sequences by both short and long read technologies over 23 time points spanning 101 days. We were able to document real-time emergence of a variant H69/V70 in the NTD of Spike that has been increasing in frequency in Europe.
+
+    > Abstract
+      SARS-CoV-2 Spike protein is critical for virus infection via engagement of ACE2, and amino acid variation in Spike is increasingly appreciated. Given both vaccines and therapeutics are designed around Wuhan-1 Spike, this raises the theoretical possibility of virus escape, particularly in immunocompromised individuals where prolonged viral replication occurs. Here we report fatal SARS-CoV-2 escape from neutralising antibodies in an immune suppressed individual treated with convalescent plasma, generating whole genome ultradeep sequences by both short and long read technologies over 23 time points spanning 101 days. Little evolutionary change was observed in the viral population over the first 65 days despite two courses of remdesivir. However, following convalescent plasma we observed dynamic virus population shifts, with the emergence of a dominant viral strain bearing D796H in S2 and ΔH69/ΔV70 in the S1 NTD of the Spike protein. As serum neutralisation waned, viruses with the escape genotype diminished in frequency, before returning during a final, unsuccessful course of convalescent plasma. In vitro, the Spike escape variant conferred decreased sensitivity to multiple units of convalescent plasma/sera from different recovered patients, whilst maintaining infectivity similar to wild type. These data reveal strong positive selection on SARS-CoV-2 during convalescent plasma therapy and identify the combination of Spike mutations D796H and ΔH69/ΔV70 as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    # / December, 2020 - MedRxiv
+    # quote !a = These data reveal strong positive selection on SARS-CoV-2 during convalescent plasma therapy and identify the combination of Spike mutations D796H and ΔH69/ΔV70 as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
+
+    / December, 2020 - MedRxiv
+    quote !a = Following convalescent plasma we observed dynamic virus population shifts, with the emergence of a dominant viral strain bearing D796H in S2 and ΔH69/ΔV70 in the S1 NTD of the Spike protein and identified the combination of Spike mutations (D796H and ΔH69/ΔV70) as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
+
+    # / December, 2020 - MedRxiv
+    # quote !a = As serum neutralisation waned, viruses with the escape genotype diminished in frequency, before returning during a final, unsuccessful course of convalescent plasma.
+
+    / December, 2020 - MedRxiv
+    quote !b = In vitro, the Spike escape variant conferred decreased sensitivity to multiple units of convalescent plasma/sera from different recovered patients, whilst maintaining infectivity similar to wild type.
+
+    / December, 2020 - MedRxiv
+    quote !c = The clinical efficacy of CP has been called into question recently, and our data suggest caution in use of CP in patients with immune suppression of both T cell and B cell arms. In such cases, the antibodies administered have little support from cytotoxic T cells, thereby reducing chances of clearance and raising the potential for escape mutations. Whilst we await further data, CP administered for clinical need in immune suppression, should ideally be undertaken in single occupancy rooms with enhanced infection control precautions, including SARS-CoV-2 environmental sampling and real-time sequencing.
+
+    / December, 2020 - MedRxiv
+    quote !d = In the case we report that it was not clear that the emergence of the antibody escape variant was the primary reason for treatment failure.
+
+
+
+
+  # vaccine frontier, anti viral frontier, mutation, N501Y mutation
+  // Adaptation of SARS-CoV-2 in BALB/c mice for testing vaccine efficacy
+  doi: https://doi.org/10.1126/science.abc4730
+  ref 'Gu_et_al_09_25_2020
+    head = We adapted a clinical isolate of SARS-CoV-2 by serial passaging in the respiratory tract of aged BALB/c mice.
+
+    > Abstract
+      The ongoing coronavirus disease 2019 (COVID-19) pandemic has prioritized the development of small-animal models for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We adapted a clinical isolate of SARS-CoV-2 by serial passaging in the respiratory tract of aged BALB/c mice. The resulting mouse-adapted strain at passage 6 (called MASCp6) showed increased infectivity in mouse lung and led to interstitial pneumonia and inflammatory responses in both young and aged mice after intranasal inoculation. Deep sequencing revealed a panel of adaptive mutations potentially associated with the increased virulence. In particular, the N501Y mutation is located at the receptor binding domain (RBD) of the spike protein. The protective efficacy of a recombinant RBD vaccine candidate was validated by using this model. Thus, this mouse-adapted strain and associated challenge model should be of value in evaluating vaccines and antivirals against SARS-CoV-2.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / September, 2020 - Science
+    quote !a = The resulting mouse-adapted strain at passage 6 (called MASCp6) showed increased infectivity in mouse lung and led to interstitial pneumonia and inflammatory responses in both young and aged mice after intranasal inoculation.
+
+    / September, 2020 - Science
+    quote !b = The aged mice developed more severe lung damage when compared with the young mice upon MASCp6 challenge, which reflects that the mortality and fatality of COVID-19 are strongly skewed toward the elderly
+
+    / September, 2020 - Science
+    quote !c = Deep sequencing revealed a panel of adaptive mutations potentially associated with the increased virulence (five nucleotide mutations that are distributed within the ORF1ab, S, and N genes, respectively). In particular, the N501Y mutation is located at the receptor binding domain (RBD) of the spike protein- which seems to provide a more favorable interaction with mouse ACE2 for docking and entry, thus leading to the increased virulence phenotype in mice.
+
+    / September, 2020 - Science
+    quote !d = Immunostaining results showed that lung club and AT2 cells are major target cells of MASCp6, which is in agreement with previous findings from animal models and COVID-19 patients
+
+    / September, 2020 - Science
+    quote !e = Immunization with the recombinant subunit vaccine candidate (RBD-Fc) induced high levels (up to 1:320) of neutralizing antibodies against SARS-CoV-2, nearly eliminating viral RNA replication in mouse lungs after MASCp6 challenge. The potential correlation between serum neutralizing antibody titers in the vaccinated mice and the protective efficacy highlights the versatility of this convenient and economical animal model.
+
+
+
+  # VOC 202012/01
+  // Estimated transmissibility and severity of novel SARS-CoV-2 Variant of Concern 202012/01 in England
+  doi: https://cmmid.github.io/topics/covid19/reports/uk-novel-variant 2020_12_23_Transmissibility_and_severity_of_VOC_202012_01_in_England.pdf
+  ref 'Davies_et_al_12_23_2020
+    head = We fitted a two-strain mathematical model of SARS-CoV-2 transmission to observed COVID-19 hospital admissions, hospital and ICU bed occupancy, and deaths; SARS-CoV-2 PCR prevalence and seroprevalence; and the relative frequency of Variant of Concern (VOC 202012/01) in the three most heavily affected NHS England regions (South East, East of England, and London).
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / December, 2020 - CMMID
+    quote !a = Combining multiple behavioural and epidemiological data sources with mathematical models, we estimated that the novel SARS-CoV-2 variant VOC 202012/01 is more transmissible than existing circulating SARS-CoV-2 viruses. We estimate that VOC 202012/01 is 50-74% more transmissible than preexisting variants of SARS-CoV-2.
+
+    / December, 2020 - CMMID
+    quote !b = We were unable to find clear evidence that Variant of Concern (VOC 202012/01) results in greater or lesser severity of disease than preexisting variants.
+
+    / December, 2020 - CMMID
+    quote !c = We found strong evidence that Variant of Concern (VOC 202012/01) is spreading significantly faster within southeast England than preexisting non-VOC 202012/01 variants. Our modelling analysis suggests this difference can be explained by an overall higher infectiousness of VOC 202012/01—with some evidence that the increase may be particularly marked in children—but not by a shorter latent period or immune escape alone.
+
+    / December, 2020 - CMMID
+    quote !d = The increase in transmissibility is likely to lead to a large increase in incidence, with COVID-19 hospitalisations and deaths projected to reach higher levels in 2021 than were observed in 2020, even if regional tiered restrictions implemented before 19 December are maintained.
+
+    / December, 2020 - CMMID
+    quote !e = Our estimates suggest that control measures of a similar stringency to the national lockdown implemented in England in November 2020 are unlikely to reduce the effective reproduction number Rt to less than 1, unless primary schools, secondary schools, and universities are also closed.
+
+    / December, 2020 - CMMID
+    quote !f = We project that large resurgences of the virus are likely to occur following easing of control measures. It may be necessary to greatly accelerate vaccine roll-out to have an appreciable impact in suppressing the resulting disease burden. We project that achieving 2 million vaccinations/week could substantially reduce the burden. 200,000 vaccinations/week does not have much impact.
+
+    / December, 2020 - CMMID
+    quote !g = Social contacts and mobility data suggest that the rise in relative prevalence of Variant of Concern (VOC 202012/01) within England is unlikely to be caused by founder effects: that is, if certain regions had higher levels of transmission as a result of more social interactions, genetic variants that were more prevalent within these regions could become more common overall. However, we did not find evidence of differences in social interactions between regions of high and low VOC 202012/01 prevalence, as measured by Google mobility and social contact survey data. This apparent decoupling between social contacts and transmission during November and December could therefore indicate a change in characteristics of the virus.
+
+
+
+  #  12/25, ASK AYUSH
+  // Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK defined by a novel set of spike mutations
+  doi: https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563
+  ref 'Arambaut_et_al_2020
+    head = Recently a distinct phylogenetic cluster (named lineage B.1.1.7) was detected within the COG-UK surveillance dataset.
+
+    > Summary
+      Recently a distinct phylogenetic cluster (named lineage B.1.1.7) was detected within the COG-UK surveillance dataset. This cluster has been growing rapidly over the past 4 weeks and since been observed in other UK locations, indicating further spread.
+
+      Several aspects of this cluster are noteworthy for epidemiological and biological reasons and we report preliminary findings below. In summary:
+      The B.1.1.7 lineage accounts for an increasing proportion of cases in parts of England. The number of B.1.1.7 cases, and the number of regions reporting B.1.1.7 infections, are growing.
+      B.1.1.7 has an unusually large number of genetic changes, particularly in the spike protein.
+      Three of these mutations have potential biological effects that have been described previously to varying extents:
+
+      Mutation N501Y is one of six key contact residues within the receptor-binding domain (RBD) and has been identified as increasing binding affinity to human and murine ACE2.
+      The spike deletion 69-70del has been described in the context of evasion to the human immune response but has also occurred a number of times in association with other RBD changes.
+      Mutation P681H is immediately adjacent to the furin cleavage site, a known location of biological significance.
+
+      The rapid growth of this lineage indicates the need for enhanced genomic and epidemiological surveillance worldwide and laboratory investigations of antigenicity and infectivity.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / December, 2020 - Virological.org
+    quote !a = We report a rapidly growing lineage in the UK associated with an unexpectedly large number of genetic changes including in the receptor-binding domain and associated with the furin cleavage site.
+
+    / December, 2020 - Virological.org
+    quote !b = The B.1.1.7 lineage accounts for an increasing proportion of cases in parts of England. The number of B.1.1.7 cases, and the number of regions reporting B.1.1.7 infections, are growing. B.1.1.7 has an unusually large number of genetic changes, particularly in the spike protein. Three of these mutations have potential biological effects.
+
+    / December, 2020 - Virological.org
+    quote !c = Mutation N501Y is one of six key contact residues within the receptor-binding domain (RBD) and has been identified as increasing binding affinity to human and murine ACE2. The spike deletion 69-70del has been described in the context of evasion to the human immune response but has also occurred a number of times in association with other RBD changes. Mutation P681H is immediately adjacent to the furin cleavage site, a known location of biological significance.
+
+
+
+
+  # Asymptomatic individuals with covid: are they as infectious as people with symptoms?, singapore
+  // Infectivity of asymptomatic versus symptomatic COVID-19
+  doi: https://doi.org/10.1016/S0140-6736(20)32651-9
+  ref 'Sayampanathan_et_al_12_18_2020
+    head = To identify the relative infectivity of people with COVID-19 on the basis of their symptom and serology status, we studied all people (in Singapore) who completed their quarantine between Aug 1 and Oct 11, 2020, as a result of being close community contacts of people who were infected and who had also undergone serology tests as part of their COVID-19 status assessment.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / December, 2020 - The Lancet
+    quote !a = Our findings suggest that people with asymptomatic COVID-19 are infectious but might be less infectious than symptomatic cases.
+
+    / December, 2020 - The Lancet
+    quote !b = Negative binomial regression revealed that when adjusted for age, gender, and serology of index case, the incidence of COVID-19 among close contacts of a symptomatic index case was 3·85 times higher than for close contacts of an asymptomatic index case
+
+    / December, 2020 - The Lancet
+    quote !c = We also identified that the proportion of close contacts who became infected did not depend on the serology status of the index case.
+
+
+
+
+  # secondary attack rate, household transmission
+  // Household Transmission of SARS-CoV-2 A Systematic Review and Meta-analysis
+  doi: https://doi.org/10.1001/jamanetworkopen.2020.31756
+  ref 'Madwell_et_al_12_14_2020
+    head = In this meta-analysis of 54 studies with 77 758 participants, the estimated overall household secondary attack rate was 16.6%, higher than observed secondary attack rates for SARS-CoV and Middle East respiratory syndrome coronavirus.
+
+    > Importance
+      Crowded indoor environments, such as households, are high-risk settings for the transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+    > Objectives
+      To examine evidence for household transmission of SARS-CoV-2, disaggregated by several covariates, and to compare it with other coronaviruses.
+
+    > Data Source
+      PubMed, searched through October 19, 2020. Search terms included SARS-CoV-2 or COVID-19 with secondary attack rate, household, close contacts, contact transmission, contact attack rate, or family transmission.
+
+    > Study Selection
+      All articles with original data for estimating household secondary attack rate were included. Case reports focusing on individual households and studies of close contacts that did not report secondary attack rates for household members were excluded.
+
+    > Data Extraction and Synthesis
+      Meta-analyses were done using a restricted maximum-likelihood estimator model to yield a point estimate and 95% CI for secondary attack rate for each subgroup analyzed, with a random effect for each study. To make comparisons across exposure types, study was treated as a random effect, and exposure type was a fixed moderator. The Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) reporting guideline was followed.
+
+    > Main Outcomes and Measures
+      Secondary attack rate for SARS-CoV-2, disaggregated by covariates (ie, household or family contact, index case symptom status, adult or child contacts, contact sex, relationship to index case, adult or child index cases, index case sex, number of contacts in household) and for other coronaviruses.
+
+    > Results
+      A total of 54 relevant studies with 77 758 participants reporting household secondary transmission were identified. Estimated household secondary attack rate was 16.6% (95% CI, 14.0%-19.3%), higher than secondary attack rates for SARS-CoV (7.5%; 95% CI, 4.8%-10.7%) and MERS-CoV (4.7%; 95% CI, 0.9%-10.7%). Household secondary attack rates were increased from symptomatic index cases (18.0%; 95% CI, 14.2%-22.1%) than from asymptomatic index cases (0.7%; 95% CI, 0%-4.9%), to adult contacts (28.3%; 95% CI, 20.2%-37.1%) than to child contacts (16.8%; 95% CI, 12.3%-21.7%), to spouses (37.8%; 95% CI, 25.8%-50.5%) than to other family contacts (17.8%; 95% CI, 11.7%-24.8%), and in households with 1 contact (41.5%; 95% CI, 31.7%-51.7%) than in households with 3 or more contacts (22.8%; 95% CI, 13.6%-33.5%).
+
+    > Conclusions and Relevance
+      The findings of this study suggest that given that individuals with suspected or confirmed infections are being referred to isolate at home, households will continue to be a significant venue for transmission of SARS-CoV-2.
+
+    - quotes
+      !a
+      !b
+
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a = Household secondary attack rates were increased from symptomatic index cases (18.0%) than from asymptomatic index cases (0.7%), to adult contacts (28.3%) than to child contacts (16.8%), to spouses (37.8%) than to other family contacts (17.8%), and in households with 1 contact (41.5%) than in households with 3 or more contacts (22.8%).
+
+    / December, 2020 - JAMA Netw Open.
+    quote !b = The findings of this study suggest that households are and will continue to be important venues for transmission, even where community transmission is reduced.
+
+    # / December, 2020 - JAMA Netw Open.
+    # quote !a = We found significantly higher secondary attack rates from symptomatic index cases than asymptomatic or presymptomatic index cases, although less data were available on the latter.
+
+
+
+
+
+  #
   // ChAdOx1 nCoV-19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaques
   doi: https://doi.org/10.1038/s41586-020-2608-y
   ref 'Doremalen_et_al_07_30_2020

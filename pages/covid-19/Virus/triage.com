@@ -20,16 +20,25 @@ index: hide
    'Nogrady_et_al_11_23_2020
 
 
-   claim !ViralloadAsymptomatic = Viral loads appear to be similar between asymptomatic and symptomatic individuals infected with SARS-CoV-2.
-     -
-       'Zou_et_al_2020
+  claim !ViralloadAsymptomatic = Viral loads appear to be similar between asymptomatic and symptomatic individuals infected with SARS-CoV-2.
+    -
+      'Zou_et_al_2020
 
 
-   claim !ViralClearanceASymptomatic = Faster viral clearance has been observed among asymptomatic individuals than those who are symptomatic.
-     -
-       'Zhang_et_al_05_02_2020.!a
-       'Cevik_et_al_11_19_2020
+  claim !ViralClearanceASymptomatic = Faster viral clearance has been observed among asymptomatic individuals than those who are symptomatic.
+    -
+      'Zhang_et_al_05_02_2020.!a
+      'Cevik_et_al_11_19_2020
 
   # Deletion of spike region in mutation
   -
     'Lau_et_al_05_04_2020
+
+
+  question ?Asymptomaticinfectivity = Asymptomatic individuals with covid: are they as infectious as people with symptoms?
+    >
+      New data from Singapore today TheLancet suggests about 1/4th infectivity. A new analysis suggest that people with asymptomatic COVID-19 are infectious but might be less infectious than symptomatic cases.
+    -
+      'Sayampanathan_et_al_12_18_2020
+      'Sayampanathan_et_al_12_18_2020.!a
+      'Sayampanathan_et_al_12_18_2020.!b
