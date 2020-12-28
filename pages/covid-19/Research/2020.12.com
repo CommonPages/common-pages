@@ -55,4 +55,3 @@ feed December2020
 
     / December, 2020 - FDA
     quote !g = The most commonly reported unsolicited AEs in the 28 days after injection were headache, fatigue, and diarrhea. there was 1 discontinuation due to an adverse event in placebo and 3 discontinuations due to an adverse event in the mRNA-1273 group; discontinuations due to SAE included 2 in the placebo group and 3 in the mRNA-1273 group.
->>>>>>> dev.12.18.debug

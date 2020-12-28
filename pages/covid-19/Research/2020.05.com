@@ -4116,7 +4116,7 @@ feed May2020
 
 
   # pandemic, super spreader, mitigation, transmission, public health
-  @@DanielleMiller
+  # @@DanielleMiller
   // Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel
   doi: https://doi.org/10.1101/2020.05.21.20104521
   ref 'Miller_et_al_2020b

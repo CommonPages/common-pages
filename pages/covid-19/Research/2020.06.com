@@ -1278,7 +1278,7 @@ feed June2020
 
 
   # FaceMask, mathematical modeling
-  @@RichardStutt
+  # @@RichardStutt
   // A modelling framework to assess the likely effectiveness of facemasks in combination with ‘lock-down’ in managing the COVID-19 pandemic
   doi: https://doi.org/10.1098/rspa.2020.0376
   ref 'Stutt_et_al_06_10_2020

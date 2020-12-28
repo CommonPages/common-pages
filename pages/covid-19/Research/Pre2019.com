@@ -563,7 +563,7 @@ feed Pre2019
     quote !a =
 
   # Aerosol Size
-  @@Morawska
+  # @@Morawska
   // Size distribution and sites of origin of droplets expelled from the human respiratory tract during expiratory activities
   doi: https://doi.org/10.1016/j.jaerosci.2008.11.002
   ref 'Morawska_et_al_11_18_2008
@@ -671,7 +671,7 @@ feed Pre2019
     quote !a = Proximity to the index case-patient was associated with transmission, which is consistent with droplet spread. Transmission through fomites or small aerosols cannot be ruled out.
 
   # Airborne
-  @@SoChang
+  # @@SoChang
   // Extensive Viable Middle East Respiratory Syndrome (MERS) Coronavirus Contamination in Air and Surrounding Environment in MERS Isolation Wards
   doi: https://doi.org/10.1093/cid/ciw239
   ref 'Kim_et_al_08_01_2016
@@ -1463,7 +1463,7 @@ feed Pre2019
 
 
   # transmission via toilet flushing of aerosols, airborne transmission
-  @@Barker
+  # @@Barker
   // The Potential Spread of Infection Caused by Aerosol Contamination of Surfaces After Flushing a Domestic Toilet
   doi: https://doi.org/10.1111/j.1365-2672.2005.02610.x
   ref 'Barker_et_al_06_16_2005
@@ -2106,7 +2106,7 @@ feed Pre2019
 
 
   # Aersol
-  @@Morawska
+  # @@Morawska
   // Modality of human expired aerosol size distributions
   doi: https://doi.org/10.1016/j.jaerosci.2011.07.009
   ref 'Johnson_et_al_06_21_2011
