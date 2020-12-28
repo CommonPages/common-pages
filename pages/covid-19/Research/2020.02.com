@@ -745,6 +745,7 @@ feed February2020
 
 
   # Tag - Weather Influence
+  @@MauricioSantillana
   // The role of absolute humidity on transmission rates of the COVID-19 outbreak
   doi: https://doi.org/10.1101/2020.02.12.20022467
   ref 'Luo_et_al_2020
@@ -762,6 +763,7 @@ feed February2020
 
 
   # tag - Weather Influence
+  @@MaoWang
   // Temperature significant change COVID-19 Transmission in 429 cities
   doi: https://doi.org/10.1101/2020.02.22.20025791
   ref 'Want_et_at_2020

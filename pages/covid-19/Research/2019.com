@@ -133,6 +133,7 @@ feed 2019
     quote !a =
 
   # Environment - Tranmission - Humidity
+  @@LinseyMarr
   // Humidity-Dependent Decay of Viruses, but Not Bacteria, in Aerosols and Droplets Follows Disinfection Kinetics
   doi: https://doi.org/10.1021/acs.est.9b04959
   ref 'Lin_et_al_12_30_2019

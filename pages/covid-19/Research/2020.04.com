@@ -961,6 +961,7 @@ feed April2020
 
 
   # weather influence- counter but (check c), temperature
+  @@TahiraJamil
   // No Evidence for Temperature-Dependence of the COVID-19 Epidemic
   doi: https://doi.org/10.1101/2020.03.29.20046706
   ref 'Jamil_et_al_04_19_2020
@@ -986,6 +987,7 @@ feed April2020
 
 
   # weather influence- pro, temperature, ask Ayush the e point - relating to air pollution
+  @@GentileFicetola
   // Climate affects global patterns of COVID-19 early outbreak dynamics
   doi: https://doi.org/10.1101/2020.03.23.20040501
   ref 'Ficetola_et_al_04_20_2020
@@ -1684,6 +1686,7 @@ feed April2020
 
 
   # Superspreading
+  @@AkiraEndo
   // Estimating the overdispersion in COVID-19 transmission using outbreak sizes outside China
   doi: https://doi.org/10.12688/wellcomeopenres.15842.1
   ref 'Endo_et_al_04_09_2020
@@ -3538,6 +3541,7 @@ feed April2020
 
 
   # Tag - Temperature, Weather Transmission
+  @@AlessioNotari
   // Temperature dependence of COVID-19 transmission
   doi: https://doi.org/10.1101/2020.03.26.20044529
   ref 'Notari_et_al_2020

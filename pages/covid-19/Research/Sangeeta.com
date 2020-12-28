@@ -760,6 +760,7 @@ feed Sangeeta
     quote !a =
 
   #
+  @@YunjunZhang
   // Evaluating Transmission Heterogeneity and Super-Spreading Event of COVID-19 in a Metropolis of China
   doi: https://doi.org/10.3390/ijerph17103705
   ref 'Zhang_et_al_05_24_2020
@@ -807,6 +808,7 @@ feed Sangeeta
 
 
   # superspreading
+  @@AgusHasan
   // Superspreading in Early Transmissions of COVID-19 in Indonesia
   doi: https://doi.org/10.1101/2020.06.28.20142133
   ref 'Hassan_et_al_07_24_2020
@@ -824,6 +826,7 @@ feed Sangeeta
 
 
   # superspreading
+  @@MaxLau
   // Characterizing superspreading events and age-specific infectiousness of SARS-CoV-2 transmission in Georgia, USA
   doi: https://doi.org/10.1073/pnas.2011802117
   ref 'Lau_et_al_09_08_2020
@@ -4604,6 +4607,7 @@ feed Sangeeta
 
 
   # Air Pollution; Particulate Matter; super-spread event; Italy.
+  @@LeonardoSetti
   // The Potential Role of Particulate Matter in the Spreading of COVID-19 in Northern Italy: First Evidence-Based Research Hypotheses.
   doi: https://doi.org/10.1101/2020.04.11.20061713
   ref 'Setti_et_al_04_17_2020
@@ -4891,6 +4895,7 @@ feed Sangeeta
 
 
   # Aerosol; Indoor; Humidity
+  @@AjitAhlawat
   // An Overview on the Role of Relative Humidity in Airborne Transmission of SARS-CoV-2 in Indoor Environments
   doi: https://doi.org/10.4209/aaqr.2020.06.0302
   ref 'Ahlawat_et_al_07_21_2020
@@ -5232,6 +5237,7 @@ feed Sangeeta
 
 
   # Super-spreading, Transmission clusters, check the journal name, secondary case clusters- assertion?
+  @@Kwok
   // Inferring super-spreading from transmission clusters of COVID-19 in Hong Kong, Japan, and Singapore
   doi: https://doi.org/10.1016/j.jhin.2020.05.027
   ref 'Kwok_et_al_05_21_2020
@@ -6129,6 +6135,7 @@ feed Sangeeta
 
 
   # religious group, IndoorTransmission
+  @@SukhyunRyu
   // The Delay in Confirming COVID-19 Cases Linked to a Religious Group in Korea
   doi: https://doi.org/10.3961/jpmph.20.088
   ref 'Ju-Kim_et_al_04_08_2020

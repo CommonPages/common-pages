@@ -651,6 +651,7 @@ feed March2020
 
 
   # Last revised: 22 May 2020, Transmission, Effective Reproductive Number, Weather/Temperature- counter , Humidity, discuss the main head with Ayush as the conclusion is counter for weather
+  @@JingyuanWang
   // High Temperature and High Humidity Reduce the Transmission of COVID-19
   doi: http://dx.doi.org/10.2139/ssrn.3551767
   ref 'Wang_et_al_03_10_2020
@@ -723,6 +724,7 @@ feed March2020
 
 
   # weather influence- pro, temperature
+  @@NazrulIslam
   // Temperature, humidity, and wind speed are associated with lower Covid-19 incidence
   doi: https://doi.org/10.1101/2020.03.27.20045658
   ref 'Islam_et_al_03_31_2020
@@ -751,6 +753,7 @@ feed March2020
 
 
   # weather influence- pro
+  @@ZhijieZhang
   // COVID-19 transmission in Mainland China is associated with temperature and humidity: a time-series analysis
   doi: https://doi.org/10.1101/2020.03.30.20044099
   ref 'Qi_et_al_03_20_2020
@@ -2236,6 +2239,7 @@ feed March2020
 
 
   # Tag - Weather Influence
+  @@MiyuMoriyama
   // Seasonality of Respiratory Viral Infections
   doi: https://doi.org/10.1146/annurev-virology-012420-022445
   ref 'Moriyama_et_al_2020

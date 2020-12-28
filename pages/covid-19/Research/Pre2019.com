@@ -371,7 +371,7 @@ feed Pre2019
 
   #
 
-  
+
 
 
 
@@ -707,6 +707,7 @@ feed Pre2019
     quote !a =
 
   # Temperature and Humidity - Context
+  @@LisaCasanova
   // Effects of air temperature and relative humidity on coronavirus survival on surfaces
   doi: https://doi.org/10.1128/AEM.02291-09
   ref 'Casanova_et_al_04_21_2010
@@ -3172,6 +3173,7 @@ feed Pre2019
 
 
   # epidemiological and clinical data, superspreader, index patient, nosocomial spread
+  @@MurrayKrahn
   // The SARS outbreak in a general hospital in Tianjin, China – the case of super-spreader
   doi: https://doi.org/10.1017/S095026880500556X
   ref 'Wang_et_al_2005
@@ -3219,6 +3221,7 @@ feed Pre2019
 
 
   # superspreader, clinical characteristics, clinical and laboratory features on presentation that were associated with the adverse clinical outcome of respiratory failure requiring care in the ICU or death, SARS, Nosocomial spread, index patient
+  @@JosephSung
   // A Major Outbreak of Severe Acute Respiratory Syndrome in Hong Kong
   doi: https://doi.org/10.1056/NEJMoa030685
   ref 'Lee_et_al_2003
@@ -3275,6 +3278,7 @@ feed Pre2019
 
 
   # heterogenoustransmission, superspreader, emerging disease epidemiology, Social networks, Realization of targeted control measures requires a better understanding of factors determining individual infectiousness.
+  @@JamesSmith
   // Superspreading and the effect of individual variation on disease emergence
   doi: https://doi.org/10.1038/nature04153
   ref 'Lloyd-Smith_et_al_2005
@@ -3317,6 +3321,7 @@ feed Pre2019
 
 
   # superspreader, alcoholism, mentalhealthproblems
+  @@SusanKline
   // Outbreak of Tuberculosis among Regular Patrons of a Neighborhood Bar
   doi: https://doi.org/10.1056/NEJM199507273330404
   ref 'Kline_et_al_1995
@@ -3343,6 +3348,7 @@ feed Pre2019
 
 
   # R0, Heterogeneities, targeting control interventions, mitigation, superspreader
+  @@Woolhouse
   // Heterogeneities in the transmission of infectious agents: implications for the design of control programs.
   doi: https://doi.org/10.1073/pnas.94.1.338
   ref 'Woolhouse_et_al_1997
@@ -3394,6 +3400,7 @@ feed Pre2019
 
 
   # superspreader
+  @@RichardStein
   // Super-spreaders in infectious diseases.
   doi: https://doi.org/10.1016/j.ijid.2010.06.020
   ref 'Stein_et_al_2011
@@ -3598,6 +3605,7 @@ feed Pre2019
 
 
   # Superspreader
+  @@AnneSchuchat
   // Superspreading SARS Events, Beijing, 2003
   doi: https://dx.doi.org/10.3201/eid1002.030732
   ref 'Shen_et_al_2004
