@@ -49,6 +49,7 @@ feed October2020
 
 
   # Parkinson's Disease
+  @@PatrikBrundin
   // Is COVID-19 a Perfect Storm for Parkinson’s Disease?
   doi: https://doi.org/10.1016/j.tins.2020.10.009
   ref 'Brundin_et_al_10_21_2020

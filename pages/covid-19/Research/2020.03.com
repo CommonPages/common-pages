@@ -1062,6 +1062,7 @@ feed March2020
 
 
   # Asymtomaticphase
+  @@KenjiMizumoto
   // Estimating the Asymptomatic Proportion of 2019 Novel Coronavirus onboard the Princess Cruises Ship, 2020
   doi: https://doi.org/10.1101/2020.02.20.20025866
   ref 'Mizumoto_et_al_2020
@@ -1383,6 +1384,7 @@ feed March2020
 
 
   # SymptomaticPhase, Skin Rash
+  @@BeuyJoob
   // COVID-19 can present with a rash and be mistaken for dengue
   doi: https://doi.org/10.1016/j.jaad.2020.03.036
   ref 'Joob_et_al_2020
@@ -1404,6 +1406,7 @@ feed March2020
 
 
   # Symptomatic Phase
+  @@Recalcati
   // Cutaneous manifestations in COVID‐19: a first perspective
   doi: https://doi.org/10.1111/jdv.16387
   ref 'Recalcati_et_al_2020
@@ -1610,6 +1613,7 @@ feed March2020
 
 
   # Epidemic , Community Transmission, Mitigation
+  @@ZhengZhang
   // Community Transmission of Severe Acute Respiratory Syndrome Coronavirus 2, Shenzhen, China, 2020.
   doi: http://doi.org/10.3201/eid2606.200239
   ref 'Liu_et_al_03_03_2020
@@ -1692,6 +1696,7 @@ feed March2020
 
 
   # immune response, gender
+  @@GuangChen
   // Clinical and immunologic features in severe and moderate Coronavirus Disease 2019
   doi: https://doi.org/10.1172/JCI137244
   ref 'Chen_et_al_2020d
@@ -1868,6 +1873,7 @@ feed March2020
 
 
   # Asymtomatic, Pre-symptomatic carriers
+  @@LaurenMeyers
   //  The serial interval of COVID-19 from publicly reported confirmed cases
   doi: https://doi.org/10.1101/2020.02.19.20025452
   ref 'Du_et_al_2020
@@ -1953,6 +1959,7 @@ feed March2020
 
 
   # Tag - SymptomaticPhase, Clinical characteristics of covid
+  @@MarjoleinBerg
   // SARS-CoV-2 infection in 86 healthcare workers in two Dutch hospitals in March 2020
   doi: https://doi.org/10.1101/2020.03.23.20041913
   ref 'Kluytmans_et_al_2020
@@ -2520,6 +2527,7 @@ feed March2020
 
 
   # Disease feature
+  @@SheminLu
   // Molecular immune pathogenesis and diagnosis of COVID-19
   doi: https://doi.org/10.1016/j.jpha.2020.03.001
   ref 'Li_et_al_2020b

@@ -175,6 +175,7 @@ feed November2020
     quote !a =
 
   # Symptoms
+  @@LiamTownsend
   // Persistent fatigue following SARS-CoV-2 infection is common and independent of severity of initial infection
   doi: https://doi.org/10.1371/journal.pone.0240784
   ref 'Townsend_et_al_11_09_2020
@@ -191,6 +192,7 @@ feed November2020
 
 
   # Psychiatric Disorder
+  @@PaulHarrison
   // Bidirectional associations between COVID-19 and psychiatric disorder: retrospective cohort studies of 62 354 COVID-19 cases in the USA
   doi: https://doi.org/10.1016/S2215-0366(20)30462-4
   ref 'Taquet_et_al_11_09_2020

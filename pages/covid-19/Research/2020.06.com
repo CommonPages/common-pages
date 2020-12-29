@@ -886,6 +886,7 @@ feed June2020
 
 
   # IgG, Antibodies, asymptomatic, immunity strategy and serological surveys, the lack of sufficient "long-lasting protective antibodies" post #SARSCoV2 infection and the risks of using #COVID19 "immunity passports". This does not imply they can be reinfected.A certain type of antibody IgG wanes.This doesn’t mean you lose protection from covid after an infection.   More studies are needed.- REFER TO SHEET FOR ARGUMENT, club with 725
+  @@JuanChen
   // Clinical and immunological assessment of asymptomatic SARS-CoV-2 infection
   doi: https://doi.org/10.1038/s41591-020-0965-6
   ref 'Xin-Long_et_al_06_18_2020
@@ -1779,6 +1780,7 @@ feed June2020
 
 
   # olfactory transmucosal, neurological systems- alteration of smell and taste,
+  @@FrankHeppner
   // Olfactory transmucosal SARS-CoV-2 invasion as port of Central Nervous System entry in COVID-19 patients
   doi: https://doi.org/10.1101/2020.06.04.135012
   ref 'Meinhardt_et_al_06_04_2020

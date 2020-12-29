@@ -2355,6 +2355,7 @@ feed May2020
 
 
   # IL-6, IL-8, TNF-α, and IL-1β, Cytokine storms, frontiers, prospects, cytokine blockers, diagnostics frontiers- SHOULD WE MAKE IL- 8 AND TNF - BE MADE IN REMEDIATION
+  @@SachaGnjatic
   // An inflammatory cytokine signature helps predict COVID-19 severity and death
   doi: https://doi.org/10.1101/2020.05.28.20115758
   ref 'DelValle_et_al_05_30_2020
@@ -2966,6 +2967,7 @@ feed May2020
 
 
   # Pneumonia , !a, !b, !c - Immune Response , !d - Entry - ACE 2
+  @@KantaSubbarao
   // Respiratory Virus Infections: Understanding COVID-19
   doi: https://doi.org/10.1016/j.immuni.2020.05.004
   ref 'Subbarao_et_al_05_19_2020
@@ -3228,6 +3230,7 @@ feed May2020
 
 
   # Disease Severity
+  @@StevenMentzer
   // Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19
   doi: https://doi.org/10.1056/NEJMoa2015432
   ref 'Ackermann_et_al_05_21_2020
@@ -3638,6 +3641,7 @@ feed May2020
 
 
   # SymptomaticPhase - neuroinvasion -  Clinical Remediation, !a onwards
+  @@SerenaSpudich
   // Neuropathogenesis and Neurologic Manifestations of the Coronaviruses in the Age of Coronavirus Disease 2019
   doi: https://doi.org/10.1001/jamaneurol.2020.2065
   ref 'Zubair_et_al_05_29_2020
@@ -4006,6 +4010,7 @@ feed May2020
 
 
   # clinical characteristics of severe patients, rememdesivir, reccommendations for procedure
+  @@DavidBerlin
   // Severe Covid-19
   doi: https://doi.org/10.1056/NEJMcp2009575
   ref 'Berlin_et_al_2020

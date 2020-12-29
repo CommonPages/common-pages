@@ -1394,6 +1394,7 @@ feed April2020
 
 
   # Endothelial damage- high rates of cardiovascular damage and seemingly spontaneous heart attacks in people with Covid-19, frontier for therapeutics assertion "a", this is not a respiratory illness alone, this is a respiratory illness to start with, but it is actually a vascular illness that kills people through its involvement of the vasculature
+  @@FrankRuschitzka
   // Endothelial cell infection and endotheliitis in COVID-19
   doi: https://doi.org/10.1016/S0140-6736(20)30937-5
   ref 'Varga_al_04_20_2020
@@ -1534,6 +1535,7 @@ feed April2020
 
 
   # Disease Features - Pneumonia !b Reinfection
+  @@XingYang
   // Pathogenesis of SARS-CoV-2 in transgenic mice expressing human angiotensin-converting enzyme 2
   doi: https://doi.org/10.1016/j.cell.2020.05.027
   ref 'Jiang_et_al_04_27_2020
@@ -2361,6 +2363,7 @@ feed April2020
 
 
   # BloodCoagulation
+  @@DimitriosGianniss
   // Coagulation disorders in coronavirus infected patients: COVID-19, SARS-CoV-1, MERS-CoV and lessons from the past
   doi: https://doi.org/10.1016/j.jcv.2020.104362
   ref 'Giannis_et_al_2020
@@ -2377,6 +2380,7 @@ feed April2020
 
 
   # Co-Morbid , cardiovascular, Figure out a way to insert the table as its a great one.
+  @@BritLong
   // Cardiovascular Complications in COVID-19
   doi: https://doi.org/10.1016/j.ajem.2020.04.048
   ref 'Long_et_al_2020
@@ -3261,6 +3265,7 @@ feed April2020
     quote !f = Notably, patients who received CP transfusion after 14 dpoi showed much less significant improvement, such as patient 10. However, the dynamics of the viremia of SARS-CoV-2 was unclear, so the optimal transfusion time point needs to be determined in the future.
 
   # D-Dimer, Blood clotting
+  @@ZiyongSun
   // Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia.
   doi: http://doi.org/10.1111/jth.14768
   ref 'Tang_et_al_2020
@@ -3569,6 +3574,7 @@ feed April2020
 
 
   # Symptom Smell, Loss of smell, hyposmia
+  @@RosarioRagona
   // Sudden hyposmia as a prevalent symptom of COVID-19 infection.
   doi: https://doi.org/10.1101/2020.04.06.20045393
   ref 'Ragona_et_al_2020
@@ -3662,6 +3668,7 @@ feed April2020
 
 
   # Tag - Blood coagulation, Diagnosis, Treatment
+  @@FengWang
   // Prevalence of venous thromboembolism in patients with severe novel coronavirus pneumonia
   doi: https://doi.org/10.1111/jth.14830
   ref 'Cui_et_al_2020
@@ -3728,6 +3735,7 @@ feed April2020
 
 
   # Tag - Pneumonia, treatment
+  @@NingTang
   // Difference of coagulation features between severe pneumonia induced by SARS-CoV2 and non-SARS-CoV2
   doi:  https://doi.org/10.1007/s11239-020-02105-8
   ref 'Yin_et_al_2020

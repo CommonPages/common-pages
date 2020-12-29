@@ -430,6 +430,7 @@ feed February2020
 
 
   # Diagnostics (severity) , CytokineStorms, Complications Lymphopenia?
+  @@YuHu
   // Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients
   doi: https://doi.org/10.1101/2020.02.16.20023671
   ref 'Liu_et_al_2020f
@@ -786,6 +787,7 @@ feed February2020
 
 
   # Tags - Pneumonia, Cytokine Storms
+  @@YongxiangYi
   // Study of the lymphocyte change between COVID-19 and non-COVID-19 pneumonia cases suggesting other factors besides uncontrolled inflammation contributed to multi-organ injury
   doi: https://doi.org/10.1101/2020.02.19.20024885
   ref 'Zheng_et_al_2020

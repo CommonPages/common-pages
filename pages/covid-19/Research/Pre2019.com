@@ -2660,6 +2660,7 @@ feed Pre2019
 
 
   # BloodCoagulation
+  @@YouWei
   // Changes in Blood Coagulation in Patients With Severe Coronavirus Disease 2019 (COVID-19): A Meta-Analysis
   doi: https://doi.org/10.1111/bjh.16725
   ref 'Xiong_et_al_2020
@@ -3630,6 +3631,7 @@ feed Pre2019
 
 
   # SymptomaticPhase, Check assertion !e . Maybe through symptomatic phase, create another path of remediation
+  @@MandeePMehra
   // COVID-19 illness in native and immunosuppressed states: A clinical–therapeutic staging proposal
   doi: https://doi.org/10.1016/j.healun.2020.03.012
   ref 'Siddiqi_et_al_2020
