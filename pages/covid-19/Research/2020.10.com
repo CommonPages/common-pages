@@ -4,7 +4,19 @@ feed October2020
     'Lipsitch_et_al_10_06_2020
 
   #
+  // Use of adenovirus type-5 vectored vaccines: a cautionary tale
+  doi: https://doi.org/10.1016/S0140-6736(20)32156-5
+  ref 'Buchbinder_et_al_10_31_2020
+    head = We are writing to express concern about the use of a recombinant adenovirus type-5 (Ad5) vector for a COVID-19 phase 1 vaccine study, and subsequent advanced trials.
 
+    - quotes
+      !a
+
+    / October, 2020 - The Lancet
+    quote !a = We are concerned that use of an Ad5 vector for immunisation against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) could similarly increase the risk of HIV-1 acquisition among men who receive the vaccine.
+
+
+  # Replication
   // Coronavirus biology and replication: implications for SARS-CoV-2
   doi: https://doi.org/10.1038/s41579-020-00468-6
   ref 'Vkovski_et_al_10_28_2020

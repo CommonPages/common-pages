@@ -1,6 +1,31 @@
 / November, 2020
 feed November2020
 
+
+  #
+  // The First interim data analysis of the Sputnik V vaccine against Covid-19 Phase 3 clinical trials in the russian federation demonstrated 92% efficacy.
+  doi: https://sputnikvaccine.com/newsroom/pressreleases/the-first-interim-data-analysis-of-the-sputnik-v-vaccine-against-covid-19-phase-iii-clinical-trials-/
+  ref 'SputnikV_et_al_11_11_2020
+    head = The Sputnik V vaccine efficacy amounted to 92% (calculation based on the 20 confirmed COVID-19 cases split between vaccinated individuals and those who received the placebo). Currently 40,000 volunteers are taking part in Phase III of Sputnik V clinical trials, out of which over 20,000 have been vaccinated with the first dose of the vaccine and more than 16,000 with both the first and second doses of the vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / November, 2020 - SputnikV
+    quote !a = Efficacy was demonstrated on the basis of a first interim analysis obtained 21 days after the first injection.
+
+    / November, 2020 - SputnikV
+    quote !b = There were no unexpected adverse events during the trials. Monitoring of the participants is ongoing.
+
+    / November, 2020 - SputnikV
+    quote !c = Trials conducted under the civil use of the vaccine in Russia (not being a part of clinical trials) based on the monitoring of additional 10,000 vaccinated confirmed vaccine efficacy at a rate of over 90%.
+
+    / November, 2020 - SputnikV
+    quote !d = The uniqueness of the Russian vaccine is in using two different human adenoviral vectors that enable to provide strong and long-term immune response after the second injection.
+
   #
   @@SmritiMallapaty
   // COVID mink analysis shows mutations are not dangerous — yet

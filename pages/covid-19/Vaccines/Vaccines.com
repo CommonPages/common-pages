@@ -1,5 +1,6 @@
 subject module Vaccines
 
+  —
   / Types of Vaccines
   subject Types
 
@@ -164,54 +165,63 @@ subject module Vaccines
 
     / Phizer
     subject Tozinameran
-      head = Tozinameran (Pfizer Covid-19 vaccine) is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the spike protein of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
+      head = Phizer so far has been approved in more than 29 countries for emergency use. Phase 3 trials showed more than 90% efficacy. Short-term, mild-to-moderate pain at the injection site, fatigue, and headache was observed.
+
       >
-        Tozinameran (INN), codenamed BNT162b2 and more commonly known as the Pfizer COVID-19 vaccine, is a COVID-19 vaccine developed by BioNTech and manufactured and distributed by Pfizer, which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the spike protein of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
-
-      #
-      # Based on the SARS-CoV-2 spike glycoprotein (S) antigen encoded by RNA. Formulated in lipid nanoparticles (LNP). Intramuscular 2-dose series spaced 21 days apart; 30 µg each dose
-      # BNT162b2 is a lipid nanoparticle–formulated, nucleoside-modified RNA vaccine that encodes a prefusion stabilized, membrane-anchored SARS-CoV-2 full-length spike protein. The primary end points were efficacy of the vaccine against laboratory-confirmed Covid-19 and safety.
-      # https://www.fda.gov/media/144337/download
-
-      # On going Clinical trials
-      # - https://clinicaltrials.gov/ct2/show/study/NCT04368728
-      # - https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001038-36/DE#summary
+        <strong> VACCINE NAME:</strong> Comirnaty (also known as tozinameran or BNT162b2)
+        <strong> DOSE:</strong> 2 doses, 3 weeks apart
+        <strong> TYPE:</strong> Muscle injection
+        <strong> STORAGE:</strong> Freezer storage only at –94°F (–70°C)
+      >
+        Tozinameran is a COVID-19 vaccine developed by BioNTech and manufactured and distributed by Pfizer, which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the spike protein of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
 
       -
+        !ClinicalTrials
         !Phase12Phizer
         !SafetyandImmunogenicity
         !Phase3
 
+      / On-going Clincal Trials
+      claim !ClinicalTrials = Clincal trials are on-going to evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of BNT162b1 & BNT162b2 Against COVID-19.
 
+        -
+          'ClinicalTrials-NCT04368728_et_al_2020
+          'ClinicalTrials-U1111-1249-4220_et_al_2020
+
+      / Phase 1/2
       claim !Phase12Phizer = Strong RBD-binding IgG and neutralizing antibody response peaked 7 days after a booster dose, robust CD4+ and CD8+ T cell responses, undetermined durability. Adverse effects observed were dose-dependent and moderate including pain at the injection site, fatigue, headache, chills, muscle and joint pain, fever.
         -
           'Mulligan_et_al_08_12_2020
+          'Mulligan_et_al_08_12_2020.!a
+          'Mulligan_et_al_08_12_2020.!b
 
 
+      / Safety and immunogenicity
       claim !SafetyandImmunogenicity = Favorable safety profile was observed during phase 1 testing of BNT162b2, supporting the selection of BNT162b2 (30-μg dose level) for advancement to the phase 2–3, international trial to evaluate its safety and efficacy in participants 18 to 85 years of age.
-
         -
           'Walsh_et_al_10_14_2020
           'Walsh_et_al_10_14_2020.!a
           'Walsh_et_al_10_14_2020.!b
 
-
-      claim !Phase3 = First interim safety and efficacy data from phase 3 study (preliminary high-level results) showed more than 90% efficacy reported for the lipid nanoparticle mRNA vaccine BNT162b2. Short-term, mild-to-moderate pain at the injection site, fatigue, and headache was observed
+      / Phase 3
+      claim !Phase3 = First interim safety and efficacy data from phase 3 study (preliminary high-level results) showed more than 90% efficacy. Short-term, mild-to-moderate pain at the injection site, fatigue, and headache was observed
 
         # https://www.fda.gov/media/144337/download
 
+        / Safety and Efficacy
         claim !Safetyandefficacy = The favorable safety profile observed during phase 1 testing of BNT162b2 was confirmed in the phase 2/3 portion of the trial. A two-dose regimen of BNT162b2 conferred 95% protection against Covid-19 in persons 16 years of age or older.
           -
             'Polack_et_al_12_10_2020
             'Polack_et_al_12_10_2020.!a
             'Polack_et_al_12_10_2020.!c
 
+        / Adverse Effect
         claim !AdverseEffect = The safety profile of BNT162b2 was characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. The incidence of serious adverse events was low and was similar in the vaccine and placebo groups.
           -
             'Polack_et_al_12_10_2020
             'Polack_et_al_12_10_2020.!f
 
-
+        / Reactogenicity
         claim !Reactogenicity = Systemic reactogenicity was more common and severe after the second dose than after the first dose, although local reactogenicity was similar after the two doses.
           -
             'Polack_et_al_12_10_2020
@@ -219,25 +229,38 @@ subject module Vaccines
 
     / Moderna
     subject mRNA-1273
-      head = mRNA-1273 vaccine (developed by Moderna) uses a platform based on a mRNA biologic process that uses a cell’s natural physiology to create SARS-CoV-2 spike proteins that elicit an immune response to protect against infection.
+      head = Moderna vaccine has been approved for emergency use in USA and Canada. mRNA-1273 demonstrated more than 94% efficacy against symptomatic COVID-19. Solicited and Unsolicited local adverse reactions were common with a higher occurrence after the second injection
+
       >
-        Moderna lipid nanoparticle mRNA-1273 vaccine (developed by Moderna) The mRNA-1273 vaccine uses a platform based on a mRNA biologic process that uses a cell’s natural physiology to create SARS-CoV-2 spike proteins that elicit an immune response to protect against infection.
+        <strong> VACCINE NAME:</strong> mRNA-1273
+        <strong>DOSE:</strong> 2 doses, 4 weeks apart
+        <strong>TYPE:</strong> Muscle injection
+        <strong>STORAGE:</strong> 30 days with refrigeration, 6 months at –4°F (–20°C)
+      >
+        Moderna lipid nanoparticle mRNA-1273 vaccine (developed by Moderna) uses a platform based on a mRNA biologic process that uses a cell’s natural physiology to create SARS-CoV-2 spike proteins that elicit an immune response to protect against infection.
+
+      -
+        !Identification
+        !OngoingTrials
+        !Phase12Moderna
+        !Olderpeople
+        !Olderpeopledose
+        !Phase3
 
 
-      # On going Clinical trials
-      # -  https://clinicaltrials.gov/ct2/show/NCT04405076
-      # -  https://clinicaltrials.gov/ct2/show/NCT04470427
-
-
-     # Context
-     #     The Moderna vaccine is a new kind of vaccine based on the genetic material that makes up the coronavirus. Snippets of RNA (a chemical cousin of DNA) are enclosed in a nano-capsule and injected into someone's arm. The RNA contains instructions to make a protein found of the outer surface of the coronavirus. This protein is what stimulates the immune system to make antibodies against the virus. The idea is that if this harmless protein in the vaccine can generate those antibodies, then if the vaccinated individual is exposed to the virus, their immune system will be able to fight it off.
-     #     https://www.npr.org/sections/coronavirus-live-updates/2020/07/27/895672859/us-vaccine-candidate-heads-to-widespread-testing-in-people
-
+      / Identification
       claim !Identification = NIAID scientists identified the atomic structure (3.5-angstrom-resolution cryo–electron microscopy structure of the 2019-nCoV S trimer in the prefusion conformation) of an important protein on the surface of the novel coronavirus.
         -
           'Wrapp_et_al_2020
       # https://www.niaid.nih.gov/news-events/atomic-structure-novel-coronavirus-protein
 
+      / On going Clinical Trials
+      claim !OngoingTrials = Clincal trials are on-going to evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of mRNA-1273 Against COVID-19
+        -
+          'ClinicalTrials-NCT04405076_et_al_05_28_2020
+          'ClinicalTrials-NCT04470427_et_al_07_14_2020
+
+      / Phase 1-2
       claim !Phase12Moderna = The mRNA-1273 vaccine induced anti–SARS-CoV-2 immune responses in all participants. Solicited adverse events that occurred in more than half the participants included fatigue, chills, headache, myalgia, and pain at the injection site. Systemic adverse events were more common after the second vaccination
         -
           'Jackson_et_al_07_14_2020
@@ -251,11 +274,13 @@ subject module Vaccines
           'Widge_et_al_12_03_2020.!a
         # https://www.fda.gov/media/144452/download
 
+      / Old People
       claim !Olderpeople = In older people, the two-dose vaccine series had an acceptable safety and reactogenicity profile with mostly mild-to-moderate local and systemic adverse events of short duration, which occurred predominantly after the second dose.
         -
           'Anderson_et_al_09_29_2020
           'Anderson_et_al_09_29_2020.!a
 
+      / Dose for older people
       claim !Olderpeopledose = The 100-μg dose induced higher binding- and neutralizing-antibody titers than the 25-μg dose. These data suggest that a second dose of vaccine is needed to achieve neutralizing antibodies in participants after the age of 56 years, and titers rapidly increased by 7 days after the booster vaccination.
         -
           'Anderson_et_al_09_29_2020
@@ -263,6 +288,7 @@ subject module Vaccines
           'Anderson_et_al_09_29_2020.!c
           'Anderson_et_al_09_29_2020.!d
 
+      / Phase 3
       claim !Phase3 = mRNA-1273 demonstrated VE of 94.1% against symptomatic COVID-19 and was effective in preventing cases of severe confirmed COVID-19. Solicited and Unsolicited local adverse reactions were common with a higher occurrence after the second injection.
         -
           'FDA_et_al_12_17_2020
@@ -276,22 +302,45 @@ subject module Vaccines
 
     / CanSinoBIO
     subject Ad5-nCOV
-      head = AD5-nCOV, trade-named Convidicea, is a COVID-19 vaccine candidate being developed by Chinese biopharmaceutical company CanSino Biologics. Ad5-nCoV(CanSinoBIO) is using Viral Vector, Recombinant adenovirus.
+      head = Ad5-nCOV has been approved for use in China. Phase 2 trials demonstrated the vaccine produced a strong immune response. CanSino is running Phase 3 trials in a number of countries, including Pakistan, Russia, Mexico and Chile.
 
-      # Trials in China, Russia, Pakistan, Mexico, Saudi Arabia are ongoing.
-      # non-replicating adenovirus type-5 (Ad5)-vectored COVID-19 vaccine
-      # On going Trials - https://clinicaltrials.gov/ct2/show/NCT04540419
-      # https://clinicaltrials.gov/ct2/show/NCT04526990
+      >
+        <strong>VACCINE NAME:</strong> Convidecia (also known as Ad5-nCoV)
+        <strong>EFFICACY:</strong> Unknown
+        <strong>DOSE:</strong> Single dose
+        <strong>TYPE:</strong> Muscle injection
+        <strong>STORAGE:</strong> Refrigerated
 
-      # ADD ADENOVIRUS ANIMAL CLAIMS
+      >
+        AD5-nCOV, trade-named Convidicea, is being developed by Chinese biopharmaceutical company CanSino Biologics. Ad5-nCoV is using Viral Vector, Recombinant adenovirus.
 
+      -
+        !OngoingTrials
+        !Phase1
+        !Phase2
+      -
+        !Concern
+        !Concern2
+      -
+        !IntranasalDelivery
+
+
+      # Link Adenovirus Animal claims when done
+
+      / On-going Clinical Trials
+      claim !OngoingTrials = Clincal trials are on-going to evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of Ad5-nCoV Against COVID-19
+        -
+          'ClinicalTrials-NCT04526990_et_al_08_22_2020
+          'ClinicalTrials-NCT04540419_et_al_09_07_2020
+
+      / Phase 1
       claim !Phase1 = The Ad5 vectored COVID-19 vaccine is tolerable and immunogenic at 28 days post-vaccination. Humoral responses against SARS-CoV-2 peaked at day 28 post-vaccination in healthy adults, and rapid specific T-cell responses were noted from day 14 post-vaccination. Most adverse events reported were mild or moderate in severity.
         -
           'Zhu_et_al_05_22_2020
           'Zhu_et_al_05_22_2020.!a
           'Zhu_et_al_05_22_2020.!b
 
-
+      / Phase 2
       claim !Phase2 = The Ad5-vectored COVID-19 vaccine at 5 × 1010 viral particles is safe, and induced significant immune responses in the majority of recipients after a single immunisation. Solicited adverse reactions & Severe adverse reactions were reported.
         -
           'Zhu_et_al_07_20_2020
@@ -306,59 +355,85 @@ subject module Vaccines
             'Zhu_et_al_07_20_2020.!f
             'Zhu_et_al_07_20_2020.!d
 
+      / Pre-existing Ad5 Immunity
+      claim !Concern = Researchers have raised concerns that pre-existing Ad5 immunity could slow down the rapid immune responses to SARS-CoV-2.
 
-      claim !Reasoning1 = Pre-existing Ad5 immunity could slow down the rapid immune responses to SARS-CoV-2 and also lower the peak of the responses, particularly for humoral immunity. The high pre-existing Ad5 immunity might also have a negative effect on the persistence of the vaccine-elicited immune responses.
-
-        -
-          'Zhu_et_al_05_22_2020
-          'Zhu_et_al_05_22_2020.!c
-        -
-          'Bovendo_et_al_11_01_2014.!a
-          'Bovendo_et_al_11_01_2014.!b
-          'Bovendo_et_al_11_01_2014.!c
-          'Bovendo_et_al_11_01_2014.!d
-          'Bovendo_et_al_11_01_2014.!e
-        -
-          'Zhu_et_al_07_20_2020
-          'Zhu_et_al_07_20_2020.!e
-          'Zhu_et_al_07_20_2020.!f
-
-
-      claim !Reasoning2 = Older people are more likely to have exposure history to Ad5, with higher baseline neutralising antibody to Ad5, which indicates that this population might be more tolerant of higher dose or a booster dose regimen of the Ad5-vectored COVID-19 vaccine than people who are young and naive to Ad5.
-        -
-          'Zhu_et_al_07_20_2020
-          'Zhu_et_al_07_20_2020.!d
-          'Zhu_et_al_07_20_2020.!e
-          'Zhu_et_al_07_20_2020.!f
+        claim !Reasoning1 = There are concerns that pre-existing Ad5 immunity could slow down the rapid immune responses to SARS-CoV-2 and also lower the peak of the responses, particularly for humoral immunity. The high pre-existing Ad5 immunity might also have a negative effect on the persistence of the vaccine-elicited immune responses.
+          -
+            'Zhu_et_al_05_22_2020
+            'Zhu_et_al_05_22_2020.!c
+          -
+            'Bovendo_et_al_11_01_2014.!a
+            'Bovendo_et_al_11_01_2014.!b
+            'Bovendo_et_al_11_01_2014.!c
+            'Bovendo_et_al_11_01_2014.!d
+            'Bovendo_et_al_11_01_2014.!e
+          -
+            'Zhu_et_al_07_20_2020
+            'Zhu_et_al_07_20_2020.!e
+            'Zhu_et_al_07_20_2020.!f
 
 
-      claim !Reasoning3 = In previous studies, heterologous prime-boost combinations or homologous prime-boost regimens with Ad5 vectored vaccines were shown to be able to induce more strong and durable immunogenic responses in populations with high pre-existing Ad5 immunity.
-
-        -
-          'Li_et_al_12_22_2016
-          'Li_et_al_12_22_2016.!b
-        -
-          'Venkatraman_et_al_11_08_2018
-          'Venkatraman_et_al_11_08_2018.!a
-          'Venkatraman_et_al_11_08_2018.!b
-        -
-          'Dolzhikova_et_al_02_02_2017
-          'Dolzhikova_et_al_02_02_2017.!a
-        -
-          'Shukarev_et_al_02_20_2020
-          'Shukarev_et_al_02_20_2020.!a
+        claim !Reasoning2 = Older people are more likely to have exposure history to Ad5, with higher baseline neutralising antibody to Ad5, which indicates that this population might be more tolerant of higher dose or a booster dose regimen of the Ad5-vectored COVID-19 vaccine than people who are young and naive to Ad5.
+          -
+            'Zhu_et_al_07_20_2020
+            'Zhu_et_al_07_20_2020.!d
+            'Zhu_et_al_07_20_2020.!e
+            'Zhu_et_al_07_20_2020.!f
 
 
-      claim !Reasoning4 = The immune response generated by prime-boost regimens may be sufficient to induce full protection despite pre-existing Ad5 immunity.
-        -
-          'Logunov_et_al_09_04_2020
-          'Logunov_et_al_09_04_2020.!d
-        -
-          'Bovendo_et_al_11_01_2014.!f
-          'Bovendo_et_al_11_01_2014.!g
+        claim !Reasoning3 = In previous studies, heterologous prime-boost combinations or homologous prime-boost regimens with Ad5 vectored vaccines were shown to be able to induce more strong and durable immunogenic responses in populations with high pre-existing Ad5 immunity.
+          -
+            'Li_et_al_12_22_2016
+            'Li_et_al_12_22_2016.!b
+          -
+            'Venkatraman_et_al_11_08_2018
+            'Venkatraman_et_al_11_08_2018.!a
+            'Venkatraman_et_al_11_08_2018.!b
+          -
+            'Dolzhikova_et_al_02_02_2017
+            'Dolzhikova_et_al_02_02_2017.!a
+          -
+            'Shukarev_et_al_02_20_2020
+            'Shukarev_et_al_02_20_2020.!a
 
 
-      claim !Reasoning5 =  Studies in other Adenovirus has shown that Intranasal delivery could be promising for preventing SARS-CoV-2 infection, disease, and upper airway transmission.
+        claim !Reasoning4 = The immune response generated by prime-boost regimens may be sufficient to induce full protection despite pre-existing Ad5 immunity.
+          -
+            'Logunov_et_al_09_04_2020
+            'Logunov_et_al_09_04_2020.!d
+          -
+            'Bovendo_et_al_11_01_2014.!f
+            'Bovendo_et_al_11_01_2014.!g
+
+      / Risk in HIV Vaccine
+      claim !Concern2 =  When Ad5 vector was used for HIV vaccine, there was an increased risk of HIV-1 acquisition in vaccine recipients. Based on these past findings, researchers have raised concerned that use of an Ad5 vector for immunisation against SARS-CoV-2 could similarly increase the risk of HIV-1 acquisition among men who receive the vaccine.
+
+
+        claim !PaststudiesHIV = Past studies on an Ad5 vectored vaccine in 2 HIV vaccine trials found that the vaccine actually increased the risk of HIV among the vaccinated men, a similar increase in risk was not seen in women in the Phambili trial.
+          -
+            'Buchbinder_et_al_11_09_2009
+            'Buchbinder_et_al_11_09_2009.!a
+          -
+            'Duerr_et_al_05_12_2012
+            'Duerr_et_al_05_12_2012.!a
+            'Duerr_et_al_05_12_2012.!b
+          -
+            'Gray_et_al_02_20_2014
+            'Gray_et_al_02_20_2014.!a
+
+          -
+            'Moodie_et_al_09_14_2015
+            'Moodie_et_al_09_14_2015.!a
+
+        claim !ConcernHIV = On the basis of past findings, researchers have raised concerned concerned that use of an Ad5 vector for immunisation against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) could similarly increase the risk of HIV-1 acquisition among men who receive the vaccine.
+          -
+            'Buchbinder_et_al_10_31_2020
+            'Buchbinder_et_al_10_31_2020.!a
+
+
+      / Intranasal Delivery
+      claim !IntranasalDelivery =  Studies in other Adenovirus has shown that Intranasal delivery could be promising way for preventing infection, disease, and upper airway transmission.
         -
           'Hassan_et_al_08_19_2020
           'Hassan_et_al_08_19_2020.!d
@@ -367,28 +442,35 @@ subject module Vaccines
           'Bovendo_et_al_11_01_2014.!f
 
 
-      claim !Reasoning6 = Aside from pre-existing anti-Ad5 immunity, there is a concern about the increased risk of HIV-1 acquisition associated with Ad5 activated CD4+ T cells. Association between HIV-1 acquisition risk and Ad5 vectored vaccine is controversial and its mechanism is unclear.
-        -
-          'Gray_et_al_02_20_2014
-          'Gray_et_al_02_20_2014.!a
-
     / Sputnik V
     subject Gam-COVID-Vac
-      head = Gam-COVID-Vac, trade-named Sputnik V, is a Non-replicating viral vector. Gam-COVID-Vac is a viral two-vector vaccine based on two human adenoviruses — a common cold virus — containing the gene that encodes the spike protein (S) of SARS-CoV-2 to stimulate an immune response.
+      head = Sputnik V has been approved for use in Russia, Belarus & Argentina. Phase 3 trials efficacy amounted to 92%. No unexpected adverse events were reported during the trials
 
       >
-        The recombinant adenovirus type-26 (rAd26, component I) and adenovirus type-5 (rAd5, Component II) are both used as vectors in the vaccine. They were biotechnology-derived and contain the SARS-CoV-2 S protein gene. Both of them are administered intramuscularly: the Ad26 based vaccine is used on the first day and the Ad5 vaccine is used on the 21st day to boost response.
+        <strong>VACCINE NAME:</strong> Sputnik V (formerly Gam-Covid-Vac)
+        <strong>DOSE:</strong> 2 doses, 3 weeks apart
+        <strong>TYPE:</strong> Muscle injection
+        <strong>STORAGE:</strong> Freezer storage. Developing an alternative formulation that can be refrigerated.
+
+      >
+        Sputnik V, is a Non-replicating viral vector. Gam-COVID-Vac is a viral two-vector vaccine based on two human adenoviruses — a common cold virus — containing the gene that encodes the spike protein (S) of SARS-CoV-2 to stimulate an immune response. The recombinant adenovirus type-26 (rAd26, component I) and adenovirus type-5 (rAd5, Component II) are both used as vectors in the vaccine. They were biotechnology-derived and contain the SARS-CoV-2 S protein gene. Both of them are administered intramuscularly: the Ad26 based vaccine is used on the first day and the Ad5 vaccine is used on the 21st day to boost response.
 
       # Link : https://en.wikipedia.org/wiki/Gam-COVID-Vac
 
-      # Ongoing trials
-      # https://clinicaltrials.gov/ct2/show/NCT04530396
 
-
-      - Key claims :
+      -
+        !OngoingTrials
         !Phase12SputnikV
+        !Phase3SputnikV
 
-      # SafetyandImmunogenicity
+
+      / Ongoing Trials
+      claim !OngoingTrials = Clincal trials are on-going to evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of Sputnik V Against COVID-19
+        -
+          'ClinicalTrials-NCT04530396_et_al_08_28_2020
+
+
+      / Phase 1 & 2
       claim !Phase12SputnikV =The heterologous rAd26 and rAd5 vector-based COVID-19 vaccine has a good safety profile and induced strong humoral and cellular immune responses in participants. Adverse effects observed were pain at injection site, fever, headache, weakness, and muscle/joint pain.
         -
           'Logunov_et_al_09_04_2020
@@ -398,25 +480,42 @@ subject module Vaccines
           'Logunov_et_al_09_04_2020.!d
           'Logunov_et_al_09_04_2020.!e
 
-      # # Safetyandefficacy - no paper yet only press release
-      # claim !Phase3SputnikV =  First interim analysis from phase 3 study: 92% efficacy for the Sputnik V vaccine. Efficacy was demonstrated on the basis of a first interim analysis obtained 21 days after the first injection. There were no unexpected adverse events during the trials. Monitoring of the participants is ongoing.
-      # # https://sputnikvaccine.com/newsroom/pressreleases/the-first-interim-data-analysis-of-the-sputnik-v-vaccine-against-covid-19-phase-iii-clinical-trials-/
+      / Phase 3
+      claim !Phase3SputnikV =  The Sputnik V vaccine efficacy amounted to 92%. There were no unexpected adverse events during the trials.
+        -
+          'SputnikV_et_al_11_11_2020
+          'SputnikV_et_al_11_11_2020.!a
+          'SputnikV_et_al_11_11_2020.!b
+          'SputnikV_et_al_11_11_2020.!c
+          'SputnikV_et_al_11_11_2020.!d
 
-    —
+
     / Sinovac
     subject CoronaVac
-      head = CoronaVac is developed by the Chinese biopharmaceutical company Sinovac.  The vaccine contains chemically-inactivated whole SARS-CoV-2 virus.
+      head = Sinovac is approved for use in China. On-going clinical trials are happening in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine showed Immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. Most adverse reactions were mild, with the most common symptom being injection-site pain.
 
-      # Ongoing trials
-      # https://clinicaltrials.gov/ct2/show/NCT04352608
-      # https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04775-4#Abs1
-      # https://clinicaltrials.gov/ct2/show/NCT04456595
-      # Brazil - https://clinicaltrials.gov/ct2/show/NCT04456595
-      # Indonesia - https://clinicaltrials.gov/ct2/show/NCT04508075
-      # Turkey - https://clinicaltrials.gov/ct2/show/NCT04582344
+      >
+        <strong>VACCINE NAME:</strong> CoronaVac (formerly PiCoVacc)
+        <strong>DOSE:</strong> 2 doses, 2 weeks apart
+        <strong>TYPE:</strong> Muscle injection
+        <strong>STORAGE:</strong> Refrigerated
 
+      >
+        CoronaVac is developed by the Chinese biopharmaceutical company Sinovac.  The vaccine contains chemically-inactivated whole SARS-CoV-2 virus.
 
-      # SafetyandImmunogenicity
+      -
+        !OngoingTrials
+        !Phase12CoronaVac
+
+      / On going clinical trials
+      claim !OngoingTrials = Clincal trials are on-going to evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of CoronaVac Against COVID-19.
+        -
+          'ClinicalTrials-NCT04352608_et_al_04_20_2020
+          'ClinicalTrials-NCT04456595_et_al_07_02_2020
+          'ClinicalTrials-NCT04508075_et_al_08_11_2020
+          'ClinicalTrials-NCT04582344_et_al_10_09_2020
+
+      / Phase 1 & 2
       claim !Phase12CoronaVac = Coronavc induced humoral responses against SARS-CoV-2. Seroconversion of neutralising antibodies was seen for 92% in the 3 μg group, 98% in the 6 μg group. Most adverse reactions were mild, with the most common symptom being injection-site pain.
         -
           'Zhang_et_al_11_17_2020
@@ -424,8 +523,25 @@ subject module Vaccines
           'Zhang_et_al_11_17_2020.!b
           'Zhang_et_al_11_17_2020.!c
 
+      # Claim of phase 3 retracted as it was said by some guy and not released by the company. No source yet
       # PHASE 3 - A COVID-19 vaccine developed by China’s Sinovac Biotech is 91.25% effective, according to interim data from a late-stage trial in Turkey.  Researchers in Brazil, which is also running a final Phase III trial of the vaccine, said on Wednesday the shot was more than 50% effective, but withheld full results at the company’s request, raising questions about transparency.
 
+    —
+    / Sinopharm
+    subject Sinopharm
+      head = Sinopharm is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants
+
+      >
+        <strong>VACCINE NAME:</strong> BBIBP-CorV
+        <strong>DOSE:</strong> 2 doses, 3 weeks apart
+        <strong>TYPE:</strong> Muscle injection
+
+      >
+        BBIBP-CorV is one of two inactivated virus COVID-19 vaccines being developed by Sinopharm.
+
+      # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426884/ - Link not working to be released in FEB 2021
+
+  —
   / COVID‑19 candidate vaccines in Phase I–III trials
   subject Candidates
 
@@ -566,6 +682,7 @@ subject module Vaccines
           'Keech_et_al_09_02_2020.!c
           'Keech_et_al_09_02_2020.!d
 
+  —
   / Effects of Vaccine / Suspectiblility?
   subject Effects
 

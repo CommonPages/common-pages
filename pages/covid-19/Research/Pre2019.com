@@ -371,7 +371,71 @@ feed Pre2019
 
   #
 
+  # HIV - Ad5
+  // Extended Follow-up Confirms Early Vaccine-Enhanced Risk of HIV Acquisition and Demonstrates Waning Effect Over Time Among Participants in a Randomized Trial of Recombinant Adenovirus HIV Vaccine (Step Study)
+  doi: https://doi.org/10.1093/infdis/jis342
+  ref 'Duerr_et_al_05_12_2012
+    head = In post hoc analyses, more HIV infections occurred in vaccinees vs placebo recipients in men Follow-up was extended. We used Cox proportional hazard models for analyses of vaccine effect on HIV acquisition and vaccine effect modifiers, and nonparametric and semiparametric methods for analysis of constancy of relative risk over time.
 
+    > Background
+      The Step Study tested whether an adenovirus serotype 5 (Ad5)–vectored human immunodeficiency   virus (HIV) vaccine could prevent HIV acquisition and/or reduce viral load set-point after infection. At the first interim analysis, nonefficacy criteria were met. Vaccinations were halted; participants were unblinded. In post hoc analyses, more HIV infections occurred in vaccinees vs placebo recipients in men who had Ad5-neutralizing antibodies and/or were uncircumcised. Follow-up was extended to assess relative risk of HIV acquisition in vaccinees vs placebo recipients over time.
+    > Methods
+      We used Cox proportional hazard models for analyses of vaccine effect on HIV acquisition and vaccine effect modifiers, and nonparametric and semiparametric methods for analysis of constancy of relative risk over time.
+    > Results
+      One hundred seventy-two of 1836 men were infected. The adjusted vaccinees vs placebo recipients hazard ratio (HR) for all follow-up time was 1.40 (95% confidence interval [CI], 1.03–1.92; P = .03). Vaccine effect differed by baseline Ad5 or circumcision status during first 18 months, but neither was significant for all follow-up time. The HR among uncircumcised and/or Ad5-seropositive men waned with time since vaccination. No significant vaccine-associated risk was seen among circumcised, Ad5-negative men (HR, 0.97; P = 1.0) over all follow-up time.
+    > Conclusions
+      The vaccine-associated risk seen in interim analysis was confirmed but waned with time from vaccination.
+
+    - quotes
+      !a
+      !b
+
+    / May, 2012 - The Journal of Infectious Diseases
+    quote !a = These results extend the findings of the interim analysis of the Step Study data. The combined data set showed an increased risk of HIV infection associated with vaccination among the entire study population.
+
+    / May, 2012 - The Journal of Infectious Diseases
+    quote !b = Vaccine-associated risk appeared to be highest shortly after vaccination and to decrease after 18 months for uncircumcised and/or Ad5-seropositive men, especially the subgroup of uncircumcised, Ad5-seropositive men in whom the hazard was highest initially. The HR was never elevated in circumcised, Ad5-seronegative men.
+
+  # HIV
+  // Continued follow-up of Phambili phase 2b randomized HIV-1 vaccine trial participants supports increased HIV-1 acquisition among vaccinated men.
+  doi: https://doi.org/10.1371/journal.pone.0137666
+  ref 'Moodie_et_al_09_14_2015
+    head = HVTN 503-S sought to enroll all 695 HIV-1 uninfected Phambili participants, provide HIV testing, risk reduction counseling, physical examination, risk behavior assessment and treatment assignment recall. After adding HVTN 503-S data, HIV-1 infection hazard ratios (HR vaccine vs. placebo) were estimated by Cox models.
+
+    > Background
+      The Phase 2b double-blinded, randomized Phambili/HVTN 503 trial evaluated safety and efficacy of the MRK Ad5 gag/pol/nef subtype B HIV-1 preventive vaccine vs placebo in sexually active HIV-1 seronegative participants in South Africa. Enrollment and vaccinations stopped and participants were unblinded but continued follow-up when the Step study evaluating the same vaccine in the Americas, Caribbean, and Australia was unblinded for non-efficacy. Final Phambili analyses found more HIV-1 infections amongst vaccine than placebo recipients, impelling the HVTN 503-S recall study.
+    > Methods
+      HVTN 503-S sought to enroll all 695 HIV-1 uninfected Phambili participants, provide HIV testing, risk reduction counseling, physical examination, risk behavior assessment and treatment assignment recall. After adding HVTN 503-S data, HIV-1 infection hazard ratios (HR vaccine vs. placebo) were estimated by Cox models.
+    > Results
+      Of the 695 eligible, 465 (67%) enrolled with 230 from the vaccine group and 235 from the placebo group. 38% of the 184 Phambili dropouts were enrolled. Enrollment did not differ by treatment group, gender, or baseline HSV-2. With the additional 1286 person years of 503-S follow-up, the estimated HR over Phambili and HVTN 503-S follow-up was 1.52 (95% CI 1.08–2.15, p = 0.02, 82 vaccine/54 placebo infections). The HR was significant for men (HR = 2.75, 95% CI 1.49, 5.06, p = 0.001) but not for women (HR = 1.12, 95% CI 0.73, 1.72, p = 0.62).
+    > Conclusion
+      The additional follow-up from HVTN 503-S supported the Phambili finding of increased HIV-1 acquisition among vaccinated men and strengthened the evidence of lack of vaccine effect among women.
+
+    - quotes
+      !a
+
+    / September, 2015 - PLoS One
+    quote !a = The additional follow-up from HVTN 503-S supported the Phambili finding of increased HIV-1 acquisition among vaccinated men and strengthened the evidence of lack of vaccine effect among women.
+
+  // Efficacy assessment of a cell-mediated immunity HIV-1 vaccine (the Step Study): a double-blind, randomised, placebo-controlled, test-of-concept trial
+  doi: https://doi.org/10.1016/S0140-6736(08)61591-3
+  ref 'Buchbinder_et_al_11_09_2009
+    head = We undertook a double-blind, phase II, test-of-concept study. We randomly  assigned 3000 HIV-1-seronegative participants. Randomisation was prestratified by sex, adenovirus type 5 (Ad5) antibody titre at baseline, and study site. Primary objective was a reduction in HIV-1 acquisition rates or a decrease in HIV-1 viral-load setpoint.
+
+    > Background
+      Observational data and non-human primate challenge studies suggest that cell-mediated immune responses might provide control of HIV replication. The Step Study directly assessed the efficacy of a cell-mediated immunity vaccine to protect against HIV-1 infection or change in early plasma HIV-1 levels.
+    >  Methods
+      We undertook a double-blind, phase II, test-of-concept study at 34 sites in  North America, the Caribbean, South America, and Australia. We randomly assigned 3000 HIV-1-seronegative participants by computer-generated assignments to receive three injections of MRKAd5 HIV-1 gag/pol/nef vaccine (n=1494) or placebo (n=1506). Randomisation was prestratified by sex, adenovirus type 5 (Ad5) antibody titre at baseline, and study site. Primary objective was a reduction in HIV-1 acquisition rates (tested every 6 months) or a decrease in HIV-1 viral-load setpoint (early plasma HIV-1 RNA measured 3 months after HIV-1 diagnosis). Analyses were per protocol and modified intention to treat. The study was stopped early because it unexpectedly met the prespecified futility boundaries at the first interim analysis. This study is registered with ClinicalTrials.gov, number NCT00095576.
+    >  Findings
+      In a prespecified interim analysis in participants with baseline Ad5 antibody titre 200 or less, 24 (3%) of 741 vaccine recipients became HIV-1 infected versus 21 (3%) of 762 placebo recipients (hazard ratio [HR] 1·2 [95% CI 0·6–2·2]). All but one infection occurred in men. The corresponding geometric mean plasma HIV-1 RNA was comparable in infected male vaccine and placebo recipients (4·61 vs 4·41 log 10 copies per mL, one tailed p value for potential benefit 0·66). The vaccine elicited interferon-γ ELISPOT responses in 75% (267) of the 25% random sample of all vaccine recipients (including both low and high Ad5 antibody titres) on whose specimens this testing was done (n=354). In exploratory analyses of all study volunteers, irrespective of baseline Ad5 antibody titre, the HR of HIV-1 infection between vaccine and placebo recipients was higher in Ad5 seropositive men (HR 2·3 [95% CI 1·2–4·3]) and uncircumcised men (3·8 [1·5–9·3]), but was not increased in Ad5 seronegative (1·0 [0·5–1·9]) or circumcised (1·0 [0·6–1·7]) men.
+    >  Interpretation
+      This cell-mediated immunity vaccine did not prevent HIV-1 infection or reduce early viral level. Mechanisms for insufficient efficacy of the vaccine and the increased HIV-1 infection rates in subgroups of vaccine recipients are being explored.
+
+    - quotes
+      !a
+
+    / Nov, 2009 - Lancet
+    quote !a = This cell-mediated immunity vaccine did not prevent HIV-1 infection or reduce early viral level. Mechanisms for insufficient efficacy of the vaccine and the increased HIV-1 infection rates in subgroups of vaccine recipients are being explored.
 
 
 

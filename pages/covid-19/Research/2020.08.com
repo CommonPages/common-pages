@@ -44,16 +44,21 @@ feed August2020
   // Phase I/II study of COVID-19 RNA vaccine BNT162b1 in adults
   doi: https://doi.org/10.1038/s41586-020-2639-4
   ref 'Mulligan_et_al_08_12_2020
-    head = The RNA-based SARS-CoV-2 vaccine candidate BNT162b1, which was administered as 10-μg, 30-μg or 100-μg doses in healthy adults (18–55 years of age), exhibited a tolerability and safety profile consistent with those previously observed for mRNA-based vaccines. A clear dose-level response in elicited neutralizing titres was observed after doses 1 and 2 in participants with a particularly steep dose response between the 10 μg and 30 μg dose levels.
+    head = Here we report the available safety, tolerability and immunogenicity data from an ongoing placebo-controlled, observer-blinded dose-escalation study among 45 healthy adults (18–55 years of age), who were randomized to receive 2 doses—separated by 21 days—of 10 μg, 30 μg or 100 μg of BNT162b1.
 
     > Abstract
       In March 2020, the World Health Organization (WHO) declared coronavirus disease 2019 (COVID-19), which is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)1, a pandemic. With rapidly accumulating numbers of cases and deaths reported globally2, a vaccine is urgently needed. Here we report the available safety, tolerability and immunogenicity data from an ongoing placebo-controlled, observer-blinded dose-escalation study (ClinicalTrials.gov identifier NCT04368728) among 45 healthy adults (18–55 years of age), who were randomized to receive 2 doses—separated by 21 days—of 10 μg, 30 μg or 100 μg of BNT162b1. BNT162b1 is a lipid-nanoparticle-formulated, nucleoside-modified mRNA vaccine that encodes the trimerized receptor-binding domain (RBD) of the spike glycoprotein of SARS-CoV-2. Local reactions and systemic events were dose-dependent, generally mild to moderate, and transient. A second vaccination with 100 μg was not administered because of the increased reactogenicity and a lack of meaningfully increased immunogenicity after a single dose compared with the 30-μg dose. RBD-binding IgG concentrations and SARS-CoV-2 neutralizing titres in sera increased with dose level and after a second dose. Geometric mean neutralizing titres reached 1.9–4.6-fold that of a panel of COVID-19 convalescent human sera, which were obtained at least 14 days after a positive SARS-CoV-2 PCR. These results support further evaluation of this mRNA vaccine candidate.
 
     - quotes
       !a
+      !b
 
     / August, 2020 - Nature
-    quote !a = The most-common systemic events reported in the 7 days after each vaccination in both BNT162b1 and placebo groups were mild to moderate fatigue and headache. In addition, chills, muscle pain and joint pain were reported by individuals who received BNT162b1 but not by individuals who received the placebo.
+    quote !a = The RNA-based SARS-CoV-2 vaccine candidate BNT162b1, which was administered as 10-μg, 30-μg or 100-μg doses in healthy adults (18–55 years of age), exhibited a tolerability and safety profile consistent with those previously observed for mRNA-based vaccines. A clear dose-level response in elicited neutralizing titres was observed after doses 1 and 2 in participants with a particularly steep dose response between the 10 μg and 30 μg dose levels.
+
+
+    / August, 2020 - Nature
+    quote !b = The most-common systemic events reported in the 7 days after each vaccination in both BNT162b1 and placebo groups were mild to moderate fatigue and headache. In addition, chills, muscle pain and joint pain were reported by individuals who received BNT162b1 but not by individuals who received the placebo.
 
 
 
