@@ -515,6 +515,8 @@ subject module Virus
       !Pathogenicity
       !Diversity
       !G614
+    -
+      B117
 
     claim !BatSimilarity = A number of studies have proposed similarities between SARS-CoV-2 and known existing bat-borne coranaviruses.
       -
@@ -540,55 +542,69 @@ subject module Virus
     claim !G614 = In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
       -
         'Korber_et_al_07_03_2020
-
+        
+    —
     / B.1.1.7 UK Variant
     subject B117
       head = B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H).
-      
-      >
-        We report a rapidly growing lineage in the UK associated with an unexpectedly large number of genetic changes including in the receptor-binding domain and associated with the furin cleavage site.
-      -
-        'Arambaut_et_al_2020
-        'Arambaut_et_al_2020.!a
-        'Arambaut_et_al_2020.!b
 
-      >
-        Spike N501Y which alters a key residue responsible for binding to the human ACE2 receptor
-      -
-        'Gu_et_al_09_25_2020
-        'Gu_et_al_09_25_2020.!c
-      -
-        'Arambaut_et_al_2020
-        'Arambaut_et_al_2020.!b
+      claim !UKlineage = A rapidly growing lineage in the UK is associated with an unexpectedly large number of genetic changes including in the receptor-binding domain and associated with the furin cleavage site.
+        -
+          'Arambaut_et_al_2020
+          'Arambaut_et_al_2020.!a
+          'Arambaut_et_al_2020.!b
 
-      >
-        The mutation P681H is located immediately adjacent to the furin cleavage site in spike.
-      -
-        'Arambaut_et_al_2020
-        'Arambaut_et_al_2020.!c
+      claim !Mutation = B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H).
+        -
+          'Arambaut_et_al_2020
+          'Arambaut_et_al_2020.!c
 
-      >
-        Furin cleavage site in spike is a known region of importance for infection and transmission.
-      -
-        'Hoffmann_et_al_05_21_2020
-        'Peacock_et_al_09_30_2020
+      claim !N501Y = An Animal Study have shown that the N501Y mutation is located at the receptor binding domain (RBD) of the spike protein- which seems to provide a more favorable interaction with mouse ACE2 for docking and entry, thus leading to the increased virulence phenotype in mice.
 
-      >
-        Deletion of spike residues 69 and 70 which may aid antibody escape.
-      >
-        The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent  circulating lineages of SARS-CoV-2. The delH69/V70 enhances viral infectivity. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
-      -
-        'Kemp_et_al_12_21_2020
-        'Kemp_et_al_12_21_2020.!a
-        'Kemp_et_al_12_21_2020.!b
-      -
-        'McCarthy_et_al_11_19_2020
-        'McCarthy_et_al_11_19_2020.!a
-        'McCarthy_et_al_11_19_2020.!b
+        -
+          'Gu_et_al_09_25_2020
+          'Gu_et_al_09_25_2020.!c
 
 
+      claim !DelH69V70 = The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent circulating lineages of SARS-CoV-2. The delH69/V70 enhances viral infectivity. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+        -
+          'Kemp_et_al_12_21_2020
+          'Kemp_et_al_12_21_2020.!a
+          'Kemp_et_al_12_21_2020.!b
+
+      claim !Antibodyescape = Deletion of spike residues 69 and 70 which may aid antibody escape.
+        -
+          'McCarthy_et_al_11_19_2020
+          'McCarthy_et_al_11_19_2020.!a
+          'McCarthy_et_al_11_19_2020.!b
+
+      claim !Antibodyresistance = One report on immunocompromised individual where prolonged viral replication occured, identified the combination of Spike mutations D796H and ΔH69/ΔV70 as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
+        -
+          'Kemp_et_al_12_19_2020
+          'Kemp_et_al_12_19_2020.!a
+
+      claim !P681HFurin = The mutation P681H is located immediately adjacent to the furin cleavage site in spike. Furin cleavage site in spike is a known region of importance for infection and transmission.
+
+        claim !P681H = The mutation P681H is located immediately adjacent to the furin cleavage site in spike.
+          -
+            'Arambaut_et_al_2020
+            'Arambaut_et_al_2020.!c
+
+        claim !Furincleavage = Furin cleavage site in spike is a known region of importance for infection and transmission.
+          -
+            'Hoffmann_et_al_05_21_2020
+            'Peacock_et_al_09_30_2020
+
+
+
+    —
     / B.1.351 South Africa Variant
     subject B1351
+      head = Emergence and rapid spread of a new SARS-CoV-2 lineage with multiple spike mutations has been reported in South Africa. This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM). The SA variant and the UK variant, both share the same mutation in spike: N501Y (N->Y at position 501), but the SA variant does not have the 69/70 deletion. Phylogenetic analysis shows that these 2 variants have arisen separately.
+      -
+        'Tegally_et_al_12_22_2020
+        'Tegally_et_al_12_22_2020.!a
+        'Tegally_et_al_12_22_2020.!b
 
 
 

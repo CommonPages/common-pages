@@ -444,7 +444,7 @@
 
   # B.1.1.7  or VOC 202012/01) SOUTH AFRICAN VARIANT : B.1.351 (SA variant)
 
-
+  # Question : given that both vaccines and therapeutics are aimed at Spike, our study raises the  possibility of virus evasion, particularly in immune suppressed individuals where prolonged viral replication occurs.
 
   # This conclusion extends to key mutations in the spike protein such as N501Y or 69/70del (shown below). Both arose independently in multiple lineages without providing a transmission advantage to the virus.This conclusion extends to key mutations in the spike protein such as N501Y or 69/70del (shown below). Both arose independently in multiple lineages without providing a transmission advantage to the virus.
 
@@ -453,7 +453,10 @@
   # HEAD TEXT
   #
   # Countries the B.1.1.7 variant has been found in: UK, Denmark, Singapore, Australia, Netherlands, Sweden, Spain, Switzerland, Lebanon, France, Israel, Italy.
+
+
   # One of the delH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H). Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7.
+
   # This variant bears some concerning features; firstly the H69/V70
   # deletion which we show to increase infectivity by two fold. Secondly the 144 which may
   # affect binding by antibodies related to 4A811. Thirdly, the N501Y mutation that may have
@@ -473,51 +476,37 @@
   #
   # If we look at a detailed phylogenetic tree of this variant, rapid spread is also apparent. We also see that almost all the 501Y.V1 cases are in the UK, with 1 sequenced case from Australia (quarantined), 1 from Italy and 9 cases from Denmark (https://nextstrain.org/groups/blab/ncov/variants/20b-501y-v1). 8/17
   #
+
   # Fortuitously, the spike deletion at residues 69 and 70 broke one of the three PCR probes used in the TaqPath assay and so has been able to track spread of variant by comparing tests where all three probes light up vs tests where only two light up. 9/17
 
-  >
-    We report a rapidly growing lineage in the UK associated with an unexpectedly large number of genetic changes including in the receptor-binding domain and associated with the furin cleavage site.
-  -
-    'Arambaut_et_al_2020
-    'Arambaut_et_al_2020.!a
-    'Arambaut_et_al_2020.!b
 
 
   >
-    One of the delH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H). Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7.
+    One of the delH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H).
+
+    Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7.
+    It’s not clear, by the way, how B.1.1.7 ended up with so many mutations. But often, multiple mutations are seen when a virus infects someone with a compromised immune system. In those patients, the virus can stay in the system for weeks and months, rather than a few days; they are often then treated with convalescent plasma.
+    One hypothesis for the emergence of this lineage, given the large number of mutations relative to the background mutation rate of SARS-CoV-2, is that it may have arisen through intra-host evolution in one or more individuals with prolonged viral replication43,44 This hypothesis is supported by the long branch length connecting the lineage to the remaining sequences in our phylogenetic tree (Suppl Fig. S10). The N501Y mutation is one of several spike mutations that emerged in an immunocompromised individual in the US who had prolonged viral replication for over 20 weeks44. 5.
 
   >
-    Molecular evidence is consistent with a potentially altered infectiousness phenotype for this variant.
+    Molecular evidence is consistent with a potentially altered infectiousness phenotype for this variant. h some preliminary evidence that it may be more transmissible
 
-  >
-    Mutation N501Y is one of the key contact residues in the receptor binding domain and has been shown to enhance binding affinity to human ACE2.
-    N501 forms part of the binding loop in the contact region of hACE2, forming a hydrogen bond with Y41 in hACE231-33. It also stabilises K353, one of the virus-binding hotspot residues on hACE234. It is one of the key positions that differentiates SARS-CoV-2 from SARS-CoV and contributes to the enhanced binding affinity of SARS-CoV-2 for hACE231,34 The N501Y mutation has been shown through deep mutation scanning and in a mouse model to enhance binding affinity to hACE2
-
-  -
-    'Gu_et_al_09_25_2020
-    'Gu_et_al_09_25_2020.!c
 
   >
     The N501Y mutation has recently been identified in a new lineage in the United Kingdom (B.1.1.7), with some preliminary evidence that it may be more transmissible
-  -
 
-  >
-    The function of mutation P681H is unclear, but it is located immediately adjacent to the furin cleavage site in spike, a known region of importance for infection and transmission.
-  -
-    'Hoffmann_et_al_05_21_2020
-    'Peacock_et_al_09_30_2020
+
 
   >
     The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent  circulating lineages of SARS-CoV-2, is linked to immune escape in immunocompromised patients and enhances viral infectivity in vitro (6, 7).
 
     This deletion is also responsible for certain  commercial diagnostic assays failing to detect the spike glycoprotein gene (S gene drop-out), with genomic data confirming these S gene target failures are primarily due to the new variant  (1).
 
-    It’s not clear, by the way, how B.1.1.7 ended up with so many mutations. But often, multiple mutations are seen when a virus infects someone with a compromised immune system. In those patients, the virus can stay in the system for weeks and months, rather than a few days; they are often then treated with convalescent plasma.
-
-    Although we should be cautious in ascribing mutations in any given #SARSCoV2 lineage to any specific type of patient. Even with all the sequencing, only small fraction of infections are observed so multiple mechanisms could lead to "long branches" on phylogenetic trees.
 
 
-    One hypothesis for the emergence of this lineage, given the large number of mutations relative to the background mutation rate of SARS-CoV-2, is that it may have arisen through intra-host evolution in one or more individuals with prolonged viral replication43,44 This hypothesis is supported by the long branch length connecting the lineage to the remaining sequences in our phylogenetic tree (Suppl Fig. S10). The N501Y mutation is one of several spike mutations that emerged in an immunocompromised individual in the US who had prolonged viral replication for over 20 weeks44. 5.
+
+
+
 
     COUNTER: It should be noted, however, that the observed diversity within this lineage cannot be explained by a single long-term infection in one individual because the lineage contains circulating intermediate mutants with subsets of the main mutations that characterise the lineage. I If evolution within long-term infections were the explanation for the evolution of this lineage then one would need to invoke a transmission chain that passes through multiple individuals
 
@@ -565,10 +554,9 @@
 
     During pandemics neither the infected patient nor subsequently infected individuals impart an immunological pressure on the virus. However, during a long-term persistent infection, virus replicates in the presence of endogenous or supplemented (e.g. convalescent sera or therapeutic monoclonal) antibody mediated immunity. Viral evolution in such patients may foreshadow preferred avenues of adaption in immune experienced populations
 
-    given that both vaccines and therapeutics are aimed at Spike, our study raises the  possibility of virus evasion, particularly in immune suppressed individuals where prolonged viral replication occurs.
 
 
-    The finding of a sub-lineage of over 1400 sequences bearing seven S gene mutations across the RBD (N501Y, A570D), S1 (H69/V70 and 144) and S2 (P681H, T716I, S982A and D1118H) in UK requires careful monitoring. The detection of a high number of novel mutations suggests this lineage has either been introduced from a geographic region with very poor sampling or viral evolution may have occurred in a single individual in the context of a chronic infection.
+
 
 
     But PCR tests work by looking for a few short lengths of the viral RNA, not the whole thing. And by lucky chance, the standard PCR test looks at three different chunks, one of which happened to include the two areas removed by 69-70del mutation.
@@ -1256,7 +1244,7 @@
     'Fauci_et_al_04_04_2014
     'Fauci_et_al_04_04_2014.!a
 
-    
+
 
 
 

@@ -2363,7 +2363,7 @@ feed April2020
 
 
   # BloodCoagulation
-  @@DimitriosGianniss
+  # @@DimitriosGianniss
   // Coagulation disorders in coronavirus infected patients: COVID-19, SARS-CoV-1, MERS-CoV and lessons from the past
   doi: https://doi.org/10.1016/j.jcv.2020.104362
   ref 'Giannis_et_al_2020

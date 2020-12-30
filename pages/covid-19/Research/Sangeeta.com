@@ -629,7 +629,7 @@ feed Sangeeta
       !b
 
     / December, 2020 - medRxiv
-    quote !a = We show that this lineage has rapidly become the dominant circulating genotype, at least in EC and WC, at the time of a rapid resurgence in infections. Whilst the full significance of the mutations is not yet clear, the genomic and epidemiological data suggest increased transmissibility associated with the virus.
+    quote !a = We show that this lineage has rapidly become the dominant circulating genotype, at least in Eastern Cape and Western Cape Provinces, at the time of a rapid resurgence in infections. Whilst the full significance of the mutations is not yet clear, the genomic and epidemiological data suggest increased transmissibility associated with the virus.
 
     / December, 2020 - medRxiv
     quote !b = This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM), the main functional motif that forms the interface with the human ACE2 (hACE2) receptor.
@@ -715,11 +715,11 @@ feed Sangeeta
       !c
       !d
 
-    # / December, 2020 - MedRxiv
-    # quote !a = These data reveal strong positive selection on SARS-CoV-2 during convalescent plasma therapy and identify the combination of Spike mutations D796H and ΔH69/ΔV70 as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
-
     / December, 2020 - MedRxiv
-    quote !a = Following convalescent plasma we observed dynamic virus population shifts, with the emergence of a dominant viral strain bearing D796H in S2 and ΔH69/ΔV70 in the S1 NTD of the Spike protein and identified the combination of Spike mutations (D796H and ΔH69/ΔV70) as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
+    quote !a = Data reveal strong positive selection on SARS-CoV-2 during convalescent plasma therapy and identify the combination of Spike mutations D796H and ΔH69/ΔV70 as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
+
+    # / December, 2020 - MedRxiv
+    # quote !a = Following convalescent plasma we observed dynamic virus population shifts, with the emergence of a dominant viral strain bearing D796H in S2 and ΔH69/ΔV70 in the S1 NTD of the Spike protein and identified the combination of Spike mutations (D796H and ΔH69/ΔV70) as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
 
     # / December, 2020 - MedRxiv
     # quote !a = As serum neutralisation waned, viruses with the escape genotype diminished in frequency, before returning during a final, unsuccessful course of convalescent plasma.
@@ -728,7 +728,7 @@ feed Sangeeta
     quote !b = In vitro, the Spike escape variant conferred decreased sensitivity to multiple units of convalescent plasma/sera from different recovered patients, whilst maintaining infectivity similar to wild type.
 
     / December, 2020 - MedRxiv
-    quote !c = The clinical efficacy of CP has been called into question recently, and our data suggest caution in use of CP in patients with immune suppression of both T cell and B cell arms. In such cases, the antibodies administered have little support from cytotoxic T cells, thereby reducing chances of clearance and raising the potential for escape mutations. Whilst we await further data, CP administered for clinical need in immune suppression, should ideally be undertaken in single occupancy rooms with enhanced infection control precautions, including SARS-CoV-2 environmental sampling and real-time sequencing.
+    quote !c = The clinical efficacy of CP has been called into question recently, and our data suggest caution in use of CP in patients with immune suppression of both T cell and B cell arms. In such cases, the antibodies administered have little support from cytotoxic T cells, thereby reducing chances of clearance and raising the potential for escape mutations.
 
     / December, 2020 - MedRxiv
     quote !d = In the case we report that it was not clear that the emergence of the antibody escape variant was the primary reason for treatment failure.
