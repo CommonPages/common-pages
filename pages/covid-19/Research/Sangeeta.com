@@ -1151,7 +1151,7 @@ feed Sangeeta
   // Safety and Immunogenicity of Two RNA-Based Covid-19 Vaccine Candidates
   doi: https://doi.org/10.1056/NEJMoa2027906
   ref 'Walsh_et_al_10_14_2020
-    head = In an ongoing, placebo-controlled, observer-blinded, dose-escalation, phase 1 trial conducted in the United States, we randomly assigned healthy adults 18 to 55 years of age and those 65 to 85 years of age to receive either placebo or one of two lipid nanoparticle–formulated, nucleoside-modified RNA vaccine candidates: BNT162b1, which encodes a secreted trimerized SARS-CoV-2 receptor–binding domain; or BNT162b2, which encodes a membrane-anchored SARS-CoV-2 full-length spike, stabilized in the prefusion conformation.
+    head = In an ongoing, placebo-controlled, observer-blinded, dose-escalation, phase 1 trial conducted in the United States, we randomly assigned healthy adults 18 to 55 years of age and those 65 to 85 years of age to receive either placebo or one of two RNA vaccine candidates: BNT162b1 or BNT162b2.
 
     > Background
       Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections and the resulting disease, coronavirus disease 2019 (Covid-19), have spread to millions of persons worldwide. Multiple vaccine candidates are under development, but no vaccine is currently available. Interim safety and immunogenicity data about the vaccine candidate BNT162b1 in younger adults have been reported previously from trials in Germany and the United States.
@@ -1174,7 +1174,7 @@ feed Sangeeta
       !f
 
     / October, 2020 - The New England Journal of Medicine
-    quote !a = The safety and immunogenicity data from this U.S. phase 1 trial of two vaccine candidates in younger and older adults, added to earlier interim safety and immunogenicity data regarding BNT162b1 in younger adults from trials in Germany and the United States, support the selection of BNT162b2 (at the 30-μg dose level) for advancement to a pivotal phase 2–3 safety and efficacy evaluation in participants 18 to 85 years of age..
+    quote !a = The safety and immunogenicity data from this U.S. phase 1 trial support the selection of BNT162b2 for advancement to a pivotal phase 2–3 safety and efficacy evaluation in participants 18 to 85 years of age..
 
     / October, 2020 - The New England Journal of Medicine
     quote !b = BNT162b2 was associated with a lower incidence and severity of systemic reactions than BNT162b1, particularly in older adults.

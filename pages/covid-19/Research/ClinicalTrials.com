@@ -105,7 +105,7 @@ feed Clinicaltrials
   # Phizer
   // Phase I/II Trial Investigating the Safety and Effects of Four BNT162 Vaccines Against COVID-19
   doi: https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001038-36/DE#summary
-  ref 'ClinicalTrials-U1111-1249-4220_et_al_2020
+  ref 'ClinicalTrials-U1111-1249-4220
     head = A multi-site, Phase I/II, 2-part, dose escalation trial investigating the safety and immunogenicity of four prophylactic SARS-CoV-2 RNA vaccines against COVID-19 using different dosing regimens in healthy and immunocompromised adults
 
 
@@ -115,8 +115,8 @@ feed Clinicaltrials
   # Phizer
   // Study to Describe the Safety, Tolerability, Immunogenicity, and Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Individuals
   doi: https://clinicaltrials.gov/ct2/show/study/NCT04368728
-  ref 'ClinicalTrials-NCT04368728_et_al_2020
-    head = This is a Phase 1/2/3, randomized, placebo-controlled, observer-blind, dose-finding, vaccine candidate-selection, and efficacy study in healthy individuals.The study will evaluate the safety, tolerability, and immunogenicity of 2 different SARS CoV 2 RNA vaccine candidates against COVID 19 and the efficacy of 1 candidate.
+  ref 'ClinicalTrials-NCT04368728
+    head = This is a Phase 1/2/3, randomized, placebo-controlled, observer-blind, dose-finding, vaccine candidate-selection, and efficacy study in healthy individuals. The study will evaluate the safety, tolerability, and immunogenicity of 2 different SARS CoV 2 RNA vaccine candidates against COVID 19 and the efficacy of 1 candidate.
 
     / April, 2020 - Clinical Trials
     quote !a =

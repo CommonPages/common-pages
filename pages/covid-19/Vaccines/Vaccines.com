@@ -1,231 +1,99 @@
+
 subject module Vaccines
+  head =
 
-  —
-  / Types of Vaccines
-  subject Types
+  -
+    Approved
+    Candidates
+    Effects
 
-    / RNA Vaccine
-    subject RNAVaccine
-      head = RNA vaccines work by introducing an mRNA sequence (the molecule which tells cells what to build) which is coded for a disease specific antigen, once produced within the body, the antigen is recognised by the immune system, preparing it to fight the real thing.
-
-      # -
-      #   'Amanat_et_al_2020b.!a
-      #   'Amanat_et_al_2020b.!b
-
-      >
-        mRNA vaccines have several features which reduce safety risks:
-        1. Only translated into the precise protein coded for by the sequence, eliminating exposure to other antigens
-        2. Does not enter the cell nucleus or interact with the genome
-        3. Nonreplicating
-        4. Expressed transiently
-      # https://www.fda.gov/media/144452/download
-
-      - SEE ALSO:
-        Approved.Tozinameran
-        Approved.mRNA-1273
-
-    / Viral Vector-Based Vaccine
-    subject ViralVector
-      head = Viral vector vaccines use live viruses to carry DNA into human cells. The DNA contained in the virus encodes antigens that, once expressed in the infected human cells, elicit an immune response.
-
-
-      subject Adenovirus
-        # > Viral Vector
-        #   Our data extend recent preclinical studies of inactivated virus vaccines and DNA vaccines for SARS-CoV-2 in non-human primates. Whereas inactivated virus vaccines and nucleic acid vaccines typically require two or more immunizations, some adenovirus vectors can induce robust and durable neutralizing antibody responses after a single immunization
-
-        >
-          Though correlates of protection from SARS-CoV-2 infection have not yet been determined, measurement of serum neutralizing activity has been shown to be a mechanistic correlate of protection for other respiratory viruses, such as influenza and respiratory syncytial virus, and is generally accepted as a functional biomarker of the in vivo humoral response.
-        # -
-        #   'Jackson_et_al_07_14_2020
-
-        >
-          In rhesus macaques given DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike protein, post-vaccination neutralizing antibody titers were correlated with protection against SARS-CoV-2 challenge.
-        -
-          'Yu_et_al_08_14_2020
-
-        >
-          Humoral and cell-mediated immune responses have been associated with vaccine-induced protection against challenge or subsequent rechallenge after SARS-CoV-2 infection in a rhesus macaque model.
-        -
-          'Chandrashekar_et_al_05_20_2020
-          'Doremalen_et_al_07_30_2020
-
-        >
-          Tsang and colleagues have recently reported similar results regarding the ability of MN and HAI titres to predict protection against infection in a large cohort of children and adults. They found that the age-adjusted HAI and MN titres corresponding to 50% protection against seasonal H3N2 influenza was 1:260 and 1:42, respectively.
-        -
-          # 'Jackson_et_al_07_14_2020
-          'Verschoor_et_al_09_22_2016.!a
-          'Verschoor_et_al_09_22_2016.!b
-          'Tsang_et_al_03_26_2014.!a
-          'Tsang_et_al_03_26_2014
-
-        >
-          Data suggest that serum titres of neutralizing antibodies may be a potential biomarker for vaccine protection. / protection against SARS-CoV-2 infection was correlated with neutralizing antibody titers.
-        -
-          'Mercado_et_al_07_2020
-          'Kulkarni_et_al_02_20_2020.!a
-
-      # Ad5 and Ad26
-
-      - See Also
-        Approved.Ad5-nCOV
-        Approved.Gam-COVID-Vac
-        Candidates.AZD1222
-        Candidates.Ad26COV2S
-
-
-      # For some diseases Viral vectors are used in combination with other vaccine technologies in a strategy called heterologous prime-boost. In this system, one vaccine is given as a priming step, followed by vaccination using an alternative vaccine as a booster. The heterologous prime-boost strategy aims to provide a stronger overall immune response. Viral vector vaccines are being pursued as both prime and boost vaccines as part of this strategy.
-
-      # Viral vector
-      # The Oxford–AstraZeneca vaccine is made from a cold-causing adenovirus that was isolated from the stool of chimpanzees and modified so that it no longer replicates in cells. When injected, the vaccine instructs human cells to produce the SARS-CoV-2 spike protein — the immune system’s main target in coronaviruses. The vaccine entered phase III efficacy trials before other front runners, including Pfizer and Moderna, and trials are continuing in countries including the United States, South Africa, Japan and Russia. The 23 November analysis is based on 131 COVID-19 cases among more than 11,000 trial participants in the United Kingdom and Brazil, up to 4 November. https://www.nature.com/articles/d41586-020-03504-w
-      #
-      #
-      # -
-      #   'Amanat_et_al_2020b.!g
-      #   'Amanat_et_al_2020b.!h
-      #
-      #
-      #
-      # Both Johnson & Johnson and AstraZeneca developed their vaccines using adenovirus vectors, modified viruses engineered to carry coronavirus genes into human cells. AstraZeneca’s vaccine used an adenovirus that causes common colds in chimpanzees. Johnson & Johnson’s used another adenovirus, called Ad26, which has also been used in its approved vaccine for Ebola.
-      # Johnson & Johnson has paused the large late-stage clinical trial of its coronavirus vaccine because of an “unexplained illness” in one of the volunteers.
-      # Johnson & Johnson’s is not the first trial to be paused because of safety concerns.
-
-    / Inactivated Vaccine
-    subject InactivatedVaccine
-      head = Some vaccines contain inactivated, but previously virulent, micro-organisms that have been destroyed with chemicals, heat, or radiation. Scientists first described the ability of inactivated, or killed, microbes to induce immunity in the 19th century.
-      -
-        'Gao_et_al_2020
-      -
-        'Amanat_et_al_2020b.!k
-        'Amanat_et_al_2020b.!l
-
-      - See Also:
-        Candidates.BBV152
-        Approved.CoronaVac
-
-    —
-    / DNA Vaccine
-    subject DNAVaccine
-      head = DNA vaccines are third generation vaccines. They contain DNA that codes for specific proteins (antigens) from a pathogen. The DNA is injected into the body and taken up by cells, whose normal metabolic processes synthesize proteins based on the genetic code in the plasmid that they have taken up. Because these proteins contain regions of amino acid sequences that are characteristic of bacteria or viruses, they are recognized as foreign and when they are processed by the host cells and displayed on their surface, the immune system is alerted, which then triggers immune responses.  DNA vaccines could generate broad immune responses, similar to the live-attenuated virus platform, without the need for a replicating pathogen.
-      -
-        'Amanat_et_al_2020b.!c
-        'Amanat_et_al_2020b.!d
-        'Smith_et_al_02_25_2020
-        'Smith_et_al_05_08_2020
-        'Yu_et_al_05_20_2020
-        'Chandrashekar_et_al_05_20_2020
-
-    / Recombinant Protien Vaccine
-    subject RecombinantProtienVaccine
-      head = A recombinant vaccine are subunit vaccines, consisting of specific protein antigens or recombinant protein components (S-protien). They can generate TH and antibody responses, but not killer T cell responses. These vaccines use a harmless virus as a carrier, to introduce genetic material into cells, stimulates an immune response, expressing the antigen in these cells and then purifying it from them.
-      # NIAID-supported scientists have been developing and evaluating recombinant vectored vaccines to protect humans from viruses such as HIV, Zika virus and Ebola virus.
-      -
-        'Amanat_et_al_2020b.!e
-        'Amanat_et_al_2020b.!f
-
-      - See also:
-        Candidates.NVX-CoV2373
-
-    —
-    / Live Attenuated Vaccine
-    subject LiveAttennuated
-      head = Advances in tissue culture techniques in the 1950s enabled development of live-attenuated vaccines, which use active viruses that have been cultivated under conditions that disable their virulent properties, or that use closely related but less dangerous organisms to produce a broad immune response. The measles, mumps and rubella (MMR) vaccine is one example. They typically provoke more durable immunological responses that can confer life-long immunity after only one or two doses and are the preferred type for healthy adults. But they may not be safe for use in immunocompromised individuals, and on rare occasions mutate to a virulent form and cause disease.
-      -
-        'Amanat_et_al_2020b.!i
-        'Amanat_et_al_2020b.!j
-
-    —
-    / Non-specific vaccines
-    subject Nonspecificvaccine
-      head = Some vaccines have non-specific effects beyond the disease they prevent.Two existing vaccines (BCG and MMR) are being tested to determine if either has a protective effect against COVID‑19.
-
-      subject BCG
-        head = Assertions have been made that COVID‑19 mortality has been lower in countries having routine BCG vaccine administered against tuberculosis, though the World Health Organization (WHO) has said there is no evidence that this vaccine is effective against the COVID-19 virus. BCG vaccination has been reported to decrease susceptibility to respiratory tract infections, an effect proposed to be mediated by the general long-term boosting of innate immune mechanisms, also termed trained immunity. There are on-going clinical trials to study the whether the effects of BCG may afford protection to COVID-19.
-        -
-          'Berg_et_al_2020
-          'Arts_et_al_2020
-          'Darrah_et_al_2020
-          'Miller_et_al_2020
-          'Higgins_et_al_2016
-          'Netea_et_al_2016
-          'Kleinnijenhuis_et_al_2012
-          'Hegarty_et_al_2020
-          'ONeill_et_al_2020
-          'Rousseau_et_al_06_20_2020
-          'Sharma_et_al_07_08_2020
-        - Counter
-          'Hamiel_et_al__05_13_2020
-
-      subject MMR
-        head = There is ongoing randomized placebo-controlled trial to test whether measles-mumps-rubella (MMR) vaccine can protect healthcare workers from COVID-19.
-        -
-          'Franklin_et_al_2020
+  - Questions
+    ?AsymptomaticInfection
+    ?ReducedTransmission
+    ?AntigenExposure
+    ?EpigeneticChange
 
   / Approved Vaccines
   subject Approved
 
-    / Phizer
+    / Pfizer
     subject Tozinameran
-      head = Phizer so far has been approved in more than 29 countries for emergency use. Phase 3 trials showed more than 90% efficacy. Short-term, mild-to-moderate pain at the injection site, fatigue, and headache was observed.
+      head = Pfizer first posted a phase 1/2/3 clinical trial for two vaccine candidates in April of 2020. One of the two reached phase 3. The trial will not complete until 2023, but has already reported favorable safety and efficacy data. More than 29 countries have approved the vaccine for emergency use.
 
       >
-        <strong> VACCINE NAME:</strong> Comirnaty (also known as tozinameran or BNT162b2)
-        <strong> DOSE:</strong> 2 doses, 3 weeks apart
-        <strong> TYPE:</strong> Muscle injection
-        <strong> STORAGE:</strong> Freezer storage only at –94°F (–70°C)
-      >
-        Tozinameran is a COVID-19 vaccine developed by BioNTech and manufactured and distributed by Pfizer, which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the spike protein of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
+        Tozinameran is a COVID-19 vaccine developed by [BioNTech](https://biontech.de/) and manufactured and distributed by [Pfizer](https://www.pfizer.com/), which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the {Virus.Structure spike protein} of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
+
+        <table>
+          <tr>
+          <th>Vaccine Name</th>
+          <td>Comirnaty (also known as tozinameran or BNT162b2)</td>
+          </tr>
+          <tr>
+          <th>Dose</th>
+          <td>2 doses, 3 weeks apart</td>
+          </tr>
+          <tr>
+          <th>Type</th>
+          <td>Muscle injection</td>
+          </tr>
+          <tr>
+          <th>Storage</th>
+          <td>Freezer storage only at –94°F (–70°C)</td>
+          </tr>
+        </table>
 
       -
         !ClinicalTrials
-        !Phase12Phizer
-        !SafetyandImmunogenicity
+        !BNT162b1
+        !BNT162b2
         !Phase3
+        ?Approvals
 
-      / On-going Clincal Trials
-      claim !ClinicalTrials = Clincal trials are on-going to evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of BNT162b1 & BNT162b2 Against COVID-19.
-
+      claim !ClinicalTrials = A phase 1/2/3 clinical trial for the Pfizer vaccine was first posted in April of 2020. It will evaluate the safety, tolerability, immunogenicity, and efficacy of two vaccines—BNT162b1 and BNT162b2—against COVID-19. The expected completion date is January of 2023.
         -
-          'ClinicalTrials-NCT04368728_et_al_2020
-          'ClinicalTrials-U1111-1249-4220_et_al_2020
+          'ClinicalTrials-NCT04368728
 
-      / Phase 1/2
-      claim !Phase12Phizer = Strong RBD-binding IgG and neutralizing antibody response peaked 7 days after a booster dose, robust CD4+ and CD8+ T cell responses, undetermined durability. Adverse effects observed were dose-dependent and moderate including pain at the injection site, fatigue, headache, chills, muscle and joint pain, fever.
+      / Phase 1 & 2: BNT162b1
+      claim !BNT162b1 = Phase 1 and 2 results for BNT162b1 were posted in August of 2020. The authors reported robust immunogenicity with a similar safety profile to other mRNA-based vaccines, and recommended rapid production of the vaccine, concurrent with efficacy testing.
         -
           'Mulligan_et_al_08_12_2020
           'Mulligan_et_al_08_12_2020.!a
           'Mulligan_et_al_08_12_2020.!b
+          'Mulligan_et_al_08_12_2020.!c
+          'Mulligan_et_al_08_12_2020.!d
 
-
-      / Safety and immunogenicity
-      claim !SafetyandImmunogenicity = Favorable safety profile was observed during phase 1 testing of BNT162b2, supporting the selection of BNT162b2 (30-μg dose level) for advancement to the phase 2–3, international trial to evaluate its safety and efficacy in participants 18 to 85 years of age.
+      / Phase 1 & 2: BNT162b2
+      claim !BNT162b2 = In October of 2020, a second report of results from the Pfizer trial showed a lower incidence and severity of systemic reactions from BNT162b2. The authors recommended that BNT162b1 advance to a phase 2-3 safety and efficacy evaluation.
         -
           'Walsh_et_al_10_14_2020
           'Walsh_et_al_10_14_2020.!a
           'Walsh_et_al_10_14_2020.!b
 
-      / Phase 3
+      / Phase 3: BNT162b2
       claim !Phase3 = First interim safety and efficacy data from phase 3 study (preliminary high-level results) showed more than 90% efficacy. Short-term, mild-to-moderate pain at the injection site, fatigue, and headache was observed
+
+      / Phase 3: BNT162b2
+      claim !Phase3 = In a phase 3 trial of BNT162b2, 43,448 received injections (21,720 with the vaccine and 21,728 with placebo). The initial data reported in December of 2020 showed more than 90% efficacy. Adverse effects included short-term pain at the injection site, fatigue, and headache.
 
         # https://www.fda.gov/media/144337/download
 
-        / Safety and Efficacy
         claim !Safetyandefficacy = The favorable safety profile observed during phase 1 testing of BNT162b2 was confirmed in the phase 2/3 portion of the trial. A two-dose regimen of BNT162b2 conferred 95% protection against Covid-19 in persons 16 years of age or older.
           -
             'Polack_et_al_12_10_2020
             'Polack_et_al_12_10_2020.!a
             'Polack_et_al_12_10_2020.!c
 
-        / Adverse Effect
         claim !AdverseEffect = The safety profile of BNT162b2 was characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. The incidence of serious adverse events was low and was similar in the vaccine and placebo groups.
           -
             'Polack_et_al_12_10_2020
             'Polack_et_al_12_10_2020.!f
 
-        / Reactogenicity
         claim !Reactogenicity = Systemic reactogenicity was more common and severe after the second dose than after the first dose, although local reactogenicity was similar after the two doses.
           -
             'Polack_et_al_12_10_2020
             'Polack_et_al_12_10_2020.!g
+
+      question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
     / Moderna
     subject mRNA-1273
@@ -745,13 +613,174 @@ subject module Vaccines
       #   'DeStefano_et_al_02_12_2019.!d
       #   'DeStefano_et_al_02_12_2019.!e
 
-  question ?AsymtomaticInfection =  Is the vaccine is capable of fighting asymptomatic infections?
+  —
+  / Types of Vaccines
+  subject Types
 
-  question ?ReducedTransmission = Are there studies that provide evidence that use of vaccine can lead to reduction in Transmission?
+    / RNA Vaccine
+    subject RNAVaccine
+      head = RNA vaccines work by introducing an mRNA sequence (the molecule which tells cells what to build) which is coded for a disease specific antigen, once produced within the body, the antigen is recognised by the immune system, preparing it to fight the real thing.
 
-  question ?AntigenExposure = Does prior Antigen Exposure will have effect on optimal safety and immunogenicity?
+      # -
+      #   'Amanat_et_al_2020b.!a
+      #   'Amanat_et_al_2020b.!b
 
-  question ?EpigeneticChange = Are there studies/evidence about epigenetic changes in innate immune cells after vaccines?
+      >
+        mRNA vaccines have several features which reduce safety risks:
+        1. Only translated into the precise protein coded for by the sequence, eliminating exposure to other antigens
+        2. Does not enter the cell nucleus or interact with the genome
+        3. Nonreplicating
+        4. Expressed transiently
+      # https://www.fda.gov/media/144452/download
+
+      - SEE ALSO:
+        Approved.Tozinameran
+        Approved.mRNA-1273
+
+    / Viral Vector-Based Vaccine
+    subject ViralVector
+      head = Viral vector vaccines use live viruses to carry DNA into human cells. The DNA contained in the virus encodes antigens that, once expressed in the infected human cells, elicit an immune response.
+
+
+      subject Adenovirus
+        # > Viral Vector
+        #   Our data extend recent preclinical studies of inactivated virus vaccines and DNA vaccines for SARS-CoV-2 in non-human primates. Whereas inactivated virus vaccines and nucleic acid vaccines typically require two or more immunizations, some adenovirus vectors can induce robust and durable neutralizing antibody responses after a single immunization
+
+        >
+          Though correlates of protection from SARS-CoV-2 infection have not yet been determined, measurement of serum neutralizing activity has been shown to be a mechanistic correlate of protection for other respiratory viruses, such as influenza and respiratory syncytial virus, and is generally accepted as a functional biomarker of the in vivo humoral response.
+        # -
+        #   'Jackson_et_al_07_14_2020
+
+        >
+          In rhesus macaques given DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike protein, post-vaccination neutralizing antibody titers were correlated with protection against SARS-CoV-2 challenge.
+        -
+          'Yu_et_al_08_14_2020
+
+        >
+          Humoral and cell-mediated immune responses have been associated with vaccine-induced protection against challenge or subsequent rechallenge after SARS-CoV-2 infection in a rhesus macaque model.
+        -
+          'Chandrashekar_et_al_05_20_2020
+          'Doremalen_et_al_07_30_2020
+
+        >
+          Tsang and colleagues have recently reported similar results regarding the ability of MN and HAI titres to predict protection against infection in a large cohort of children and adults. They found that the age-adjusted HAI and MN titres corresponding to 50% protection against seasonal H3N2 influenza was 1:260 and 1:42, respectively.
+        -
+          # 'Jackson_et_al_07_14_2020
+          'Verschoor_et_al_09_22_2016.!a
+          'Verschoor_et_al_09_22_2016.!b
+          'Tsang_et_al_03_26_2014.!a
+          'Tsang_et_al_03_26_2014
+
+        >
+          Data suggest that serum titres of neutralizing antibodies may be a potential biomarker for vaccine protection. / protection against SARS-CoV-2 infection was correlated with neutralizing antibody titers.
+        -
+          'Mercado_et_al_07_2020
+          'Kulkarni_et_al_02_20_2020.!a
+
+      # Ad5 and Ad26
+
+      - See Also
+        Approved.Ad5-nCOV
+        Approved.Gam-COVID-Vac
+        Candidates.AZD1222
+        Candidates.Ad26COV2S
+
+
+      # For some diseases Viral vectors are used in combination with other vaccine technologies in a strategy called heterologous prime-boost. In this system, one vaccine is given as a priming step, followed by vaccination using an alternative vaccine as a booster. The heterologous prime-boost strategy aims to provide a stronger overall immune response. Viral vector vaccines are being pursued as both prime and boost vaccines as part of this strategy.
+
+      # Viral vector
+      # The Oxford–AstraZeneca vaccine is made from a cold-causing adenovirus that was isolated from the stool of chimpanzees and modified so that it no longer replicates in cells. When injected, the vaccine instructs human cells to produce the SARS-CoV-2 spike protein — the immune system’s main target in coronaviruses. The vaccine entered phase III efficacy trials before other front runners, including Pfizer and Moderna, and trials are continuing in countries including the United States, South Africa, Japan and Russia. The 23 November analysis is based on 131 COVID-19 cases among more than 11,000 trial participants in the United Kingdom and Brazil, up to 4 November. https://www.nature.com/articles/d41586-020-03504-w
+      #
+      #
+      # -
+      #   'Amanat_et_al_2020b.!g
+      #   'Amanat_et_al_2020b.!h
+      #
+      #
+      #
+      # Both Johnson & Johnson and AstraZeneca developed their vaccines using adenovirus vectors, modified viruses engineered to carry coronavirus genes into human cells. AstraZeneca’s vaccine used an adenovirus that causes common colds in chimpanzees. Johnson & Johnson’s used another adenovirus, called Ad26, which has also been used in its approved vaccine for Ebola.
+      # Johnson & Johnson has paused the large late-stage clinical trial of its coronavirus vaccine because of an “unexplained illness” in one of the volunteers.
+      # Johnson & Johnson’s is not the first trial to be paused because of safety concerns.
+
+    / Inactivated Vaccine
+    subject InactivatedVaccine
+      head = Some vaccines contain inactivated, but previously virulent, micro-organisms that have been destroyed with chemicals, heat, or radiation. Scientists first described the ability of inactivated, or killed, microbes to induce immunity in the 19th century.
+      -
+        'Gao_et_al_2020
+      -
+        'Amanat_et_al_2020b.!k
+        'Amanat_et_al_2020b.!l
+
+      - See Also:
+        Candidates.BBV152
+        Approved.CoronaVac
+
+    —
+    / DNA Vaccine
+    subject DNAVaccine
+      head = DNA vaccines are third generation vaccines. They contain DNA that codes for specific proteins (antigens) from a pathogen. The DNA is injected into the body and taken up by cells, whose normal metabolic processes synthesize proteins based on the genetic code in the plasmid that they have taken up. Because these proteins contain regions of amino acid sequences that are characteristic of bacteria or viruses, they are recognized as foreign and when they are processed by the host cells and displayed on their surface, the immune system is alerted, which then triggers immune responses.  DNA vaccines could generate broad immune responses, similar to the live-attenuated virus platform, without the need for a replicating pathogen.
+      -
+        'Amanat_et_al_2020b.!c
+        'Amanat_et_al_2020b.!d
+        'Smith_et_al_02_25_2020
+        'Smith_et_al_05_08_2020
+        'Yu_et_al_05_20_2020
+        'Chandrashekar_et_al_05_20_2020
+
+    / Recombinant Protien Vaccine
+    subject RecombinantProtienVaccine
+      head = A recombinant vaccine are subunit vaccines, consisting of specific protein antigens or recombinant protein components (S-protien). They can generate TH and antibody responses, but not killer T cell responses. These vaccines use a harmless virus as a carrier, to introduce genetic material into cells, stimulates an immune response, expressing the antigen in these cells and then purifying it from them.
+      # NIAID-supported scientists have been developing and evaluating recombinant vectored vaccines to protect humans from viruses such as HIV, Zika virus and Ebola virus.
+      -
+        'Amanat_et_al_2020b.!e
+        'Amanat_et_al_2020b.!f
+
+      - See also:
+        Candidates.NVX-CoV2373
+
+    —
+    / Live Attenuated Vaccine
+    subject LiveAttennuated
+      head = Advances in tissue culture techniques in the 1950s enabled development of live-attenuated vaccines, which use active viruses that have been cultivated under conditions that disable their virulent properties, or that use closely related but less dangerous organisms to produce a broad immune response. The measles, mumps and rubella (MMR) vaccine is one example. They typically provoke more durable immunological responses that can confer life-long immunity after only one or two doses and are the preferred type for healthy adults. But they may not be safe for use in immunocompromised individuals, and on rare occasions mutate to a virulent form and cause disease.
+      -
+        'Amanat_et_al_2020b.!i
+        'Amanat_et_al_2020b.!j
+
+    —
+    / Non-specific vaccines
+    subject Nonspecificvaccine
+      head = Some vaccines have non-specific effects beyond the disease they prevent.Two existing vaccines (BCG and MMR) are being tested to determine if either has a protective effect against COVID‑19.
+
+      subject BCG
+        head = Assertions have been made that COVID‑19 mortality has been lower in countries having routine BCG vaccine administered against tuberculosis, though the World Health Organization (WHO) has said there is no evidence that this vaccine is effective against the COVID-19 virus. BCG vaccination has been reported to decrease susceptibility to respiratory tract infections, an effect proposed to be mediated by the general long-term boosting of innate immune mechanisms, also termed trained immunity. There are on-going clinical trials to study the whether the effects of BCG may afford protection to COVID-19.
+        -
+          'Berg_et_al_2020
+          'Arts_et_al_2020
+          'Darrah_et_al_2020
+          'Miller_et_al_2020
+          'Higgins_et_al_2016
+          'Netea_et_al_2016
+          'Kleinnijenhuis_et_al_2012
+          'Hegarty_et_al_2020
+          'ONeill_et_al_2020
+          'Rousseau_et_al_06_20_2020
+          'Sharma_et_al_07_08_2020
+        - Counter
+          'Hamiel_et_al__05_13_2020
+
+      subject MMR
+        head = There is ongoing randomized placebo-controlled trial to test whether measles-mumps-rubella (MMR) vaccine can protect healthcare workers from COVID-19.
+        -
+          'Franklin_et_al_2020
+
+
+  question ?AsymptomaticInfection = Are any of the approved or candidate vaccines expected to protect against asymptomatic infections?
+
+  question ?ReducedTransmission = What direct evidence suggests that vaccination will reduce the rate of SARS-CoV-2 transmission?
+
+  question ?AntigenExposure = Are there any differences in safety or efficacy for individuals who have had a prior antigen exposure?
+
+  question ?EpigeneticChange = Is there any evidence of epigenetic changes in innate immune cells as a result of vaccination?
 
   # Questions - Protective threshold in Individuals
 

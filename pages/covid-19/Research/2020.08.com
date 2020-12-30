@@ -52,13 +52,20 @@ feed August2020
     - quotes
       !a
       !b
+      !c
+      !d
 
     / August, 2020 - Nature
-    quote !a = The RNA-based SARS-CoV-2 vaccine candidate BNT162b1, which was administered as 10-μg, 30-μg or 100-μg doses in healthy adults (18–55 years of age), exhibited a tolerability and safety profile consistent with those previously observed for mRNA-based vaccines. A clear dose-level response in elicited neutralizing titres was observed after doses 1 and 2 in participants with a particularly steep dose response between the 10 μg and 30 μg dose levels.
-
+    quote !a = The RNA-based SARS-CoV-2 vaccine candidate BNT162b1 exhibited a tolerability and safety profile consistent with those previously observed for mRNA-based vaccines.
 
     / August, 2020 - Nature
     quote !b = The most-common systemic events reported in the 7 days after each vaccination in both BNT162b1 and placebo groups were mild to moderate fatigue and headache. In addition, chills, muscle pain and joint pain were reported by individuals who received BNT162b1 but not by individuals who received the placebo.
+
+    / August, 2020 - Nature
+    quote !c = Robust immunogenicity was observed after vaccination with BNT162b1. RBD-binding IgG concentrations were detected at 21 days after the first dose, and these were substantially increased 7 days after the second dose given at day 21.
+
+    / August, 2020 - Nature
+    quote !d = The clinical findings for the BNT162b1 RNA-based vaccine candidate are encouraging and strongly support accelerated clinical development, including efficacy testing, and at-risk manufacturing to maximize the opportunity for the rapid production of a SARS-CoV-2 vaccine to prevent COVID-19.
 
 
 
