@@ -1,4 +1,108 @@
 feed Sangeeta
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  //
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
 
   #
   //
@@ -24,32 +128,100 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
-
   #
-
-  //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+  // Investigation of novel SARS-CoV-2 variant- Variant of Concern 202012/01
+  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948152/Technical_Briefing_VOC202012-2_Briefing_2_FINAL.pdf
+  ref 'PHE_et_al_12_21_2020
+    head = the new variant is spreading fast, more easily among close contacts. But doesn't seem any better at reinfection, nor does it cause much more severe disease or death.
 
     - quotes
       !a
 
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
+    / December, 2020 - Public Health England.
+    quote !a = We can now see that the S-gene target failure (SGTF) in the Thermofisher TaqPath assay I've discussed before is a very good proxy for the new variant almost everywhere in England. So we can use SGTF as a near-real-time proxy for spread of the new variant. It is present at some level everywhere in England, and has almost replaced all other variants in London and the Southeast.
 
+    # The big "blackout" zones, especially in the East are largely because the Cambridge Lighthouse lab does not use the relevant assay, and that's where most of the pillar 2 tests in that region go. Don't be fooled: from genome data we know the new variant is very common there!
+    #
+    # The PHE team took ~1800 new variant cases and created a 1:1 cohort of "Covid classique" matched on age, sex, date of + test and location. They then studied hospital admissions and deaths. The two groups had reassuringly similar rates of both.
+    #
+    # Next analysis is on re-infection, and again no difference: 2 in the new variant group, 3 in the old variant group. Small numbers, but it pretty much rules out hypothesis that the new variant is spreading so fast by re-infecting tons of people who previously had the old variant.
+    #
+    # Final analysis is "secondary attack rate". When you find a case and trace contacts, how many get infected? 15% for new variant vs 9% for old. There's no p-value on this finding, but my guess is that's a significant difference, and consistent with increased transmissibility.
 
   #
-  //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+  // Immune Activation with HIV Vaccines
+  doi: https://doi.org/10.1126/science.1250672
+  ref 'Fauci_et_al_04_04_2014
+    head = The results of two vaccine concepts based on recombinant adenovirus serotype-5 (rAd5) (3–5) pointed to a potential major problem—that such vaccines might increase susceptibility to HIV infection. This also raised the question of whether the problem extends to some or all of the other recombinant adenovirus vectors currently in development or to other vector-based vaccines.
+
+    > Summary
+      The development of a safe and effective HIV vaccine is perhaps the most important and challenging goal remaining in HIV-AIDS research. Recent progress using a poxvirus vector prime and envelope protein boost strategy demonstrated a modest but statistically significant level of efficacy and established the concept that a vaccine could prevent HIV infection (1), and approaches to boost durability and efficacy are currently in the planning stages (2). But the results of two vaccine concepts based on recombinant adenovirus serotype-5 (rAd5) (3–5) pointed to a potential major problem—that such vaccines might increase susceptibility to HIV infection. This also raised the question of whether the problem extends to some or all of the other recombinant adenovirus vectors currently in development or to other vector-based vaccines.
 
     - quotes
       !a
 
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
+    / April, 2014 - Science
+    quote !a = Given the increased risk together with the lack of efficacy in trials using rAd5, further HIV vaccine studies testing rAd5 vectors are not appropriate. When considering HIV vaccines that are designed to elicit a component of T-cell immunity, a risk/benefit analysis should consider the balance between anti-HIV responses and vector-directed responses that activate CD4+ T cells, thus rendering them more susceptible to HIV infection, and the potential for re-exposure to vector-related antigens in the environment with subsequent restimulation of the vector response.
+
+
+
+  #
+  // Human adenovirus-specific T cells modulate HIV-specific T cell responses to an Ad5-vectored HIV-1 vaccine
+  doi: https://doi.org/10.1172/JCI60202
+  ref 'Frahm_et_al_12_27_2011
+    head = We have identified and compared adenovirus-specific and HIV-specific T cell responses in subjects participating in two HIV-1 vaccine trials using a vaccine vectored by adenovirus serotype 5 (Ad5).
+
+    > Abstract
+      Recombinant viruses hold promise as vectors for vaccines to prevent infectious diseases with significant global health impacts. One of their major limitations is that preexisting anti-vector neutralizing antibodies can reduce T cell responses to the insert antigens; however, the impact of vector-specific cellular immunity on subsequent insert-specific T cell responses has not been assessed in humans. Here, we have identified and compared adenovirus-specific and HIV-specific T cell responses in subjects participating in two HIV-1 vaccine trials using a vaccine vectored by adenovirus serotype 5 (Ad5). Higher frequencies of pre-immunization adenovirus-specific CD4+ T cells were associated with substantially decreased magnitude of HIV-specific CD4+ T cell responses and decreased breadth of HIV-specific CD8+ T cell responses in vaccine recipients, independent of type-specific preexisting Ad5-specific neutralizing antibody titers. Further, epitopes recognized by adenovirus-specific T cells were commonly conserved across many adenovirus serotypes, suggesting that cross-reactivity of preexisting adenovirus-specific T cells can extend to adenovirus vectors derived from rare serotypes. These findings provide what we believe to be a new understanding of how preexisting viral immunity may impact the efficacy of vaccines under current evaluation for prevention of HIV, tuberculosis, and malaria.
+
+    - quotes
+      !a
+      !b
+
+    / December, 2011 - The Journal of Clinical Investigation
+    quote !a = Higher frequencies of pre-immunization adenovirus-specific CD4+ T cells were associated with substantially decreased magnitude of HIV-specific CD4+ T cell responses and decreased breadth of HIV-specific CD8+ T cell responses in vaccine recipients, independent of type-specific preexisting Ad5-specific neutralizing antibody titers.
+
+    / December, 2011 - The Journal of Clinical Investigation
+    quote !b = Epitopes recognized by adenovirus-specific T cells were commonly conserved across many adenovirus serotypes, suggesting that cross-reactivity of preexisting adenovirus-specific T cells can extend to adenovirus vectors derived from rare serotypes.
+
+
+
+  #
+  // Activation of a dendritic cell–T cell axis by Ad5 immune complexes creates an improved environment for replication of HIV in T cells
+  doi: https://doi.org/10.1084/jem.20081786
+  ref 'Perreau_et_al_11_03_2008
+    head = The STEP HIV vaccine trial, which evaluated a replication-defective adenovirus type 5 (Ad5) vector vaccine, was recently stopped. The reasons for this included lack of efficacy of the vaccine and a twofold increase in the incidence of HIV acquisition among vaccinated recipients with increased Ad5-neutralizing antibody titers compared with placebo recipients. To model the events that might be occurring in vivo, the effect on dendritic cells (DCs) of Ad5 vector alone or treated with neutralizing antiserum (Ad5 immune complexes [IC]) was compared
+
+    - quotes
+      !a
+      !a
+
+    / November, 2008 - J Exp Med.
+    quote !a = The results indicate that Ad5 immune complexes (IC) activates a DC–T cell axis that, together with the possible persistence of the Ad5 vaccine in seropositive individuals, may set up a permissive environment for HIV-1 infection, which could account for the increased acquisition of HIV-1 infection among Ad5 seropositive vaccine recipients.
+
+    / November, 2008 - J Exp Med.
+    quote !a = Our findings have shown that Ad5 immune complexes (ICs) containing E1/E3-deleted Ad5 vectors and NAbs cause a pattern of innate/adaptive inflammatory activation that, together with a possible persistence of the Ad5 vector, may provide the basis for a chronic permissive environment for HIV-1 infection, thus helping to explain the increased acquisition of HIV-1 infection among the Ad5 seropositive vaccine recipients in the STEP trial.
+
+    / November, 2008 - J Exp Med.
+    quote !b = Our results also suggest that the delivery/formulation of Ags through Ad5 immune complexes (ICs) may result in a powerful immunization strategy to stimulate T cells.
+
+
+
+  #
+  // Distinct susceptibility of HIV vaccine vector-induced CD4 T cells to HIV infection
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Auclair_et_al_02_23_2018
+    head = In the present study, by using PBMC samples from two important HIV vaccine trials, we investigated host anti-vector T-cell responses induced by ALVAC (a canarypox viral vector tested in the Thai trial RV144,) and Ad5 vector in human vaccine recipients with a focus on the HIV susceptibility of vector-specific CD4 T cells.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2018 - PLOS Pathogens
+    quote !a = Our major finding is that CD4 T cells activated via different HIV vaccine vectors manifest distinct susceptibility to HIV infection, which is closely associated with their phenotypic and functional characteristics; while Ad5 vector-specific CD4 T cells are readily susceptible to HIV.
+
+    / February, 2018 - PLOS Pathogens
+    quote !b = Our data suggest that the high HIV susceptibility of Ad5 vector-specific CD4 T cells may be a contributing factor for the observed excess HIV infections in some Ad5-HIV vaccine recipients
 
 
   #
@@ -523,7 +695,7 @@ feed Sangeeta
     quote !b = We show that the H69/V70 deletion increases Spike mediated infectivity by two-fold over a single round of infection.
 
     / December, 2020 - BioRxiv
-    quote !c = Given the emergence of multiple clusters of variants carrying RBD mutations and the H69/V70 deletion, limitation of transmission takes on a renewed urgency. Continued emphasis on testing/tracing, social distancing and mask wearing are essential, with investment in other novel methods to limit transmission. In concert, comprehensive vaccination efforts in the UK and globally should be accelerated in order to further limit transmission and acquisition of further mutations. Finally, detection of the deletion and other key mutations by rapid diagnostics should be a research priority as such tests could be used as a proxy for antibody escape mutations to inform surveillance at global scale
+    quote !c = Given the emergence of multiple clusters of variants carrying RBD mutations and the H69/V70 deletion, limitation of transmission takes on a renewed urgency. Continued emphasis on testing/tracing, social distancing and mask wearing are essential, with investment in other novel methods to limit transmission. In concert, comprehensive vaccination efforts in the UK and globally should be accelerated in order to further limit transmission and acquisition of further mutations.
 
 
 

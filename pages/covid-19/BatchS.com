@@ -442,7 +442,11 @@
   # https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563
 
 
-  # B.1.1.7
+  # B.1.1.7  or VOC 202012/01) SOUTH AFRICAN VARIANT : B.1.351 (SA variant)
+
+
+
+  # This conclusion extends to key mutations in the spike protein such as N501Y or 69/70del (shown below). Both arose independently in multiple lineages without providing a transmission advantage to the virus.This conclusion extends to key mutations in the spike protein such as N501Y or 69/70del (shown below). Both arose independently in multiple lineages without providing a transmission advantage to the virus.
 
   # https://www.nature.com/articles/d41586-020-02544-6
   # The coronavirus is mutating — does it matter?
@@ -504,7 +508,9 @@
     'Peacock_et_al_09_30_2020
 
   >
-    The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent  circulating lineages of SARS-CoV-2, is linked to immune escape in immunocompromised patients and enhances viral infectivity in vitro (6, 7). This deletion is also responsible for certain  commercial diagnostic assays failing to detect the spike glycoprotein gene (S gene drop-out), with genomic data confirming these S gene target failures are primarily due to the new variant  (1).
+    The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent  circulating lineages of SARS-CoV-2, is linked to immune escape in immunocompromised patients and enhances viral infectivity in vitro (6, 7).
+
+    This deletion is also responsible for certain  commercial diagnostic assays failing to detect the spike glycoprotein gene (S gene drop-out), with genomic data confirming these S gene target failures are primarily due to the new variant  (1).
 
     It’s not clear, by the way, how B.1.1.7 ended up with so many mutations. But often, multiple mutations are seen when a virus infects someone with a compromised immune system. In those patients, the virus can stay in the system for weeks and months, rather than a few days; they are often then treated with convalescent plasma.
 
@@ -528,7 +534,7 @@
 
     The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent  circulating lineages of SARS-CoV-2. Of particular note this deletion, H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F, that have been shown to increase binding affinity to hACE2 and reduce binding with monoclonal antibodies) and its prevalence is rising in parts of Europe.
 
-    3 A recent analysis highlighted the potential for enhanced transmissibility of viruses with deletions in the NTD, including H69/V70. Here we show that the H69/V70 deletion increases Spike mediated infectivity by two-fold over a single round of infection. Over the millions of replication rounds per day in a SARS-CoV-2 infection this is likely to be significant.
+    3 A recent analysis highlighted the potential for enhanced transmissibility of viruses with deletions in the NTD, including H69/V70. Here we show that the H69/V70 deletion increases Spike mediated infectivity by two-fold over a single round of infection.
   -
     'Kemp_et_al_12_21_2020
     'Kemp_et_al_12_21_2020.!a
@@ -546,6 +552,9 @@
     'Kemp_et_al_12_21_2020
     'Kemp_et_al_12_21_2020.!a
     'Kemp_et_al_12_21_2020.!b
+
+  >
+    Many are interested in using the 69/70 deletion to scan for cases of the new #SARSCoV2 variants. As it can impact some probes (seen as an 'S drop-out' in PCR), it can be a high-throughput way to check for the 'SE England' variant - but some important things to remember! First, the 69/70 deletion has arisen multiple times independently: not everything with 69/70 is the SE England variant! You can see that 69/70del appears many times here: notably it's associated with 501Y.V1 (English variant) AND 453 & 439.n particular, S:N439K is widespread across Europe, and about 3/4 of the sequences in this cluster have the 69/70del. So there's a fair chance a 69/70del in continental Europe is part of this cluster, not the 'new variant' from England. In the UK & particularly SE England, using the 69/70del as a proxy for the variant works because it is in many areas the most common variant. In other places, where frequency is expected to be lower, it's very important to double-check S drop-out results!!We have two sources of information about the spread of the new variant. The most reliable is genomics data, but this has a lag period, and most samples can't be tested in this way. The second is "S dropout", but it doesn't uniquely identify B.1.1.7
 
   >
     In addition to the primary factors 1 (mutational composition) and 2 (rapid spread), we also see higher viral loads in 501Y.V1 cases with Ct values on average 2 units lower. 12/17
@@ -1208,6 +1217,46 @@
   #  The mRNA vaccines from BioNTech/Pfizer contain polyethylene glycol (PEG). 70% of people develop antibodies against this substance – this means that many people can develop allergic, potentially fatal reactions to the vaccination.
   # The much too short duration of the study does not allow a realistic estimation of the late effects. As in the narcolepsy cases after the swine flu vaccination, millions of healthy people would be exposed to an unacceptable risk if an emergency approval were to be granted and the possibility of observing the late effects of the vaccination were to follow. Nevertheless, BioNTech/Pfizer apparently submitted an application for emergency approval on December 1, 2020.
 
+
+  # In the Step trial, the risk of acquiring HIV was particularly high among men who were uncircumcised and Ad5 seropositive men who reported having unprotected anal sex with a partner who was HIV seropositive or who had unknown serostatus as baseline.
+  #
+  # The Step study showed an overall increased risk of acquisition (HR 1.4, p< 0.03); however, the group at highest risk was uncircumcised men who both had sex with men (MSM) and had high levels of pre-existing Ad5 antibodies
+  #
+  #
+  # Given our results, it seems prudent to avoid use of Ad5-vectored vaccines in populations of uncircumcised or Ad5-seropositive men until more data become available. In contrast, a population (circumcised, Ad5-seronegative men) in which vaccination did not carry an increased risk of HIV infection was clearly identified.
+  #
+  # The difference in risk of HIV acquisition prior to unblinding increased with baseline Ad5 titer, a dose-effect relationship that suggests but does not prove a biologic effect of prior Ad5 immunity on susceptibility to HIV infection after vaccination
+  #
+  # Other exploratory studies have indicated that the vaccine enhances HIV replication in CD4 T cells or that Ad5-specific CD4 T cells could be more susceptible to HIV infection. This finding suggests that although Ad5 vectors have been commonly employed for vaccine development due to their potent immunogenicity, the advantages of Ad5 as a vector may be dampened by the high HIV susceptibility of CD4 T cells it induces.
+
+  >
+    Additional exploratory studies suggest that Ad5 immune complexes activate the dendritic cell–T cell axis, which might enhance HIV-1 replication in CD4 T cells
+  -
+    'Perreau_et_al_11_03_2008
+    'Perreau_et_al_11_03_2008.!a
+
+  >
+    Ad5-specific CD4 T cells could have an increased susceptibility to HIV infection.
+
+  -
+    'Auclair_et_al_02_23_2018
+    'Auclair_et_al_02_23_2018.!a
+    'Auclair_et_al_02_23_2018.!b
+
+  >
+    Findings from past study has shown pre-existing Ad5 immunity might dampen desired vaccine-induced responses.
+  -
+    'Frahm_et_al_12_27_2011
+    'Frahm_et_al_12_27_2011.!a
+    'Frahm_et_al_12_27_2011.!b
+
+  >
+    A consensus conference about Ad5 vectors held in 2013 and sponsored by the National Institutes of Health indicated the most probable explanation for these differences related to the potential counterbalancing effects of envelope immune responses in mitigating the effects of the Ad5 vector on HIV-1 acquisition. The conclusion of this consensus conference warned that non-HIV vaccine trials that used similar vectors in areas of high HIV prevalence could lead to an increased risk of HIV-1 acquisition in the vaccinated population.
+  -
+    'Fauci_et_al_04_04_2014
+    'Fauci_et_al_04_04_2014.!a
+
+    
 
 
 

@@ -541,6 +541,59 @@ subject module Virus
       -
         'Korber_et_al_07_03_2020
 
+    / B.1.1.7 UK Variant
+    subject B117
+      head = B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H).
+      
+      >
+        We report a rapidly growing lineage in the UK associated with an unexpectedly large number of genetic changes including in the receptor-binding domain and associated with the furin cleavage site.
+      -
+        'Arambaut_et_al_2020
+        'Arambaut_et_al_2020.!a
+        'Arambaut_et_al_2020.!b
+
+      >
+        Spike N501Y which alters a key residue responsible for binding to the human ACE2 receptor
+      -
+        'Gu_et_al_09_25_2020
+        'Gu_et_al_09_25_2020.!c
+      -
+        'Arambaut_et_al_2020
+        'Arambaut_et_al_2020.!b
+
+      >
+        The mutation P681H is located immediately adjacent to the furin cleavage site in spike.
+      -
+        'Arambaut_et_al_2020
+        'Arambaut_et_al_2020.!c
+
+      >
+        Furin cleavage site in spike is a known region of importance for infection and transmission.
+      -
+        'Hoffmann_et_al_05_21_2020
+        'Peacock_et_al_09_30_2020
+
+      >
+        Deletion of spike residues 69 and 70 which may aid antibody escape.
+      >
+        The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent  circulating lineages of SARS-CoV-2. The delH69/V70 enhances viral infectivity. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+      -
+        'Kemp_et_al_12_21_2020
+        'Kemp_et_al_12_21_2020.!a
+        'Kemp_et_al_12_21_2020.!b
+      -
+        'McCarthy_et_al_11_19_2020
+        'McCarthy_et_al_11_19_2020.!a
+        'McCarthy_et_al_11_19_2020.!b
+
+
+    / B.1.351 South Africa Variant
+    subject B1351
+
+
+
+
+
   # / Tranmission
   # subject module Transmission
   #   head = ABC
