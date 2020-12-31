@@ -371,6 +371,73 @@ feed Pre2019
 
   #
 
+  // Distinct susceptibility of HIV vaccine vector-induced CD4 T cells to HIV infection
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Auclair_et_al_02_23_2018
+    head = In the present study, by using PBMC samples from two important HIV vaccine trials, we investigated host anti-vector T-cell responses induced by ALVAC (a canarypox viral vector tested in the Thai trial RV144,) and Ad5 vector in human vaccine recipients with a focus on the HIV susceptibility of vector-specific CD4 T cells.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2018 - PLOS Pathogens
+    quote !a = Our major finding is that CD4 T cells activated via different HIV vaccine vectors manifest distinct susceptibility to HIV infection, which is closely associated with their phenotypic and functional characteristics; while Ad5 vector-specific CD4 T cells are readily susceptible to HIV.
+    
+    / February, 2018 - PLOS Pathogens
+    quote !b = Our data suggest that the high HIV susceptibility of Ad5 vector-specific CD4 T cells may be a contributing factor for the observed excess HIV infections in some Ad5-HIV vaccine recipients
+
+  // Activation of a dendritic cell–T cell axis by Ad5 immune complexes creates an improved environment for replication of HIV in T cells
+  doi: https://doi.org/10.1084/jem.20081786
+  ref 'Perreau_et_al_11_03_2008
+    head = The STEP HIV vaccine trial, which evaluated a replication-defective adenovirus type 5 (Ad5) vector vaccine, was recently stopped. The reasons for this included lack of efficacy of the vaccine and a twofold increase in the incidence of HIV acquisition among vaccinated recipients with increased Ad5-neutralizing antibody titers compared with placebo recipients. To model the events that might be occurring in vivo, the effect on dendritic cells (DCs) of Ad5 vector alone or treated with neutralizing antiserum (Ad5 immune complexes [IC]) was compared
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / November, 2008 - J Exp Med.
+    quote !a = The results indicate that Ad5 immune complexes (IC) activates a DC–T cell axis that, together with the possible persistence of the Ad5 vaccine in seropositive individuals, may set up a permissive environment for HIV-1 infection, which could account for the increased acquisition of HIV-1 infection among Ad5 seropositive vaccine recipients.
+
+    / November, 2008 - J Exp Med.
+    quote !b = Our findings have shown that Ad5 immune complexes (ICs) containing E1/E3-deleted Ad5 vectors and NAbs cause a pattern of innate/adaptive inflammatory activation that, together with a possible persistence of the Ad5 vector, may provide the basis for a chronic permissive environment for HIV-1 infection, thus helping to explain the increased acquisition of HIV-1 infection among the Ad5 seropositive vaccine recipients in the STEP trial.
+    / November, 2008 - J Exp Med.
+
+    quote !c = Our results also suggest that the delivery/formulation of Ags through Ad5 immune complexes (ICs) may result in a powerful immunization strategy to stimulate T cells.
+
+
+  // Human adenovirus-specific T cells modulate HIV-specific T cell responses to an Ad5-vectored HIV-1 vaccine
+  doi: https://doi.org/10.1172/JCI60202
+  ref 'Frahm_et_al_12_27_2011
+    head = We have identified and compared adenovirus-specific and HIV-specific T cell responses in subjects participating in two HIV-1 vaccine trials using a vaccine vectored by adenovirus serotype 5 (Ad5).
+
+    > Abstract
+      Recombinant viruses hold promise as vectors for vaccines to prevent infectious diseases with significant global health impacts. One of their major limitations is that preexisting anti-vector neutralizing antibodies can reduce T cell responses to the insert antigens; however, the impact of vector-specific cellular immunity on subsequent insert-specific T cell responses has not been assessed in humans. Here, we have identified and compared adenovirus-specific and HIV-specific T cell responses in subjects participating in two HIV-1 vaccine trials using a vaccine vectored by adenovirus serotype 5 (Ad5). Higher frequencies of pre-immunization adenovirus-specific CD4+ T cells were associated with substantially decreased magnitude of HIV-specific CD4+ T cell responses and decreased breadth of HIV-specific CD8+ T cell responses in vaccine recipients, independent of type-specific preexisting Ad5-specific neutralizing antibody titers. Further, epitopes recognized by adenovirus-specific T cells were commonly conserved across many adenovirus serotypes, suggesting that cross-reactivity of preexisting adenovirus-specific T cells can extend to adenovirus vectors derived from rare serotypes. These findings provide what we believe to be a new understanding of how preexisting viral immunity may impact the efficacy of vaccines under current evaluation for prevention of HIV, tuberculosis, and malaria.
+
+    - quotes
+      !a
+      !b
+
+    / December, 2011 - The Journal of Clinical Investigation
+    quote !a = Higher frequencies of pre-immunization adenovirus-specific CD4+ T cells were associated with substantially decreased magnitude of HIV-specific CD4+ T cell responses and decreased breadth of HIV-specific CD8+ T cell responses in vaccine recipients, independent of type-specific preexisting Ad5-specific neutralizing antibody titers.
+
+    / December, 2011 - The Journal of Clinical Investigation
+    quote !b = Epitopes recognized by adenovirus-specific T cells were commonly conserved across many adenovirus serotypes, suggesting that cross-reactivity of preexisting adenovirus-specific T cells can extend to adenovirus vectors derived from rare serotypes.
+
+  // Immune Activation with HIV Vaccines
+  doi: https://doi.org/10.1126/science.1250672
+  ref 'Fauci_et_al_04_04_2014
+    head = The results of two vaccine concepts based on recombinant adenovirus serotype-5 (rAd5) (3–5) pointed to a potential major problem—that such vaccines might increase susceptibility to HIV infection. This also raised the question of whether the problem extends to some or all of the other recombinant adenovirus vectors currently in development or to other vector-based vaccines.
+
+    > Summary
+      The development of a safe and effective HIV vaccine is perhaps the most important and challenging goal remaining in HIV-AIDS research. Recent progress using a poxvirus vector prime and envelope protein boost strategy demonstrated a modest but statistically significant level of efficacy and established the concept that a vaccine could prevent HIV infection (1), and approaches to boost durability and efficacy are currently in the planning stages (2). But the results of two vaccine concepts based on recombinant adenovirus serotype-5 (rAd5) (3–5) pointed to a potential major problem—that such vaccines might increase susceptibility to HIV infection. This also raised the question of whether the problem extends to some or all of the other recombinant adenovirus vectors currently in development or to other vector-based vaccines.
+
+    - quotes
+      !a
+
+    / April, 2014 - Science
+    quote !a = Given the increased risk together with the lack of efficacy in trials using rAd5, further HIV vaccine studies testing rAd5 vectors are not appropriate. When considering HIV vaccines that are designed to elicit a component of T-cell immunity, a risk/benefit analysis should consider the balance between anti-HIV responses and vector-directed responses that activate CD4+ T cells, thus rendering them more susceptible to HIV infection, and the potential for re-exposure to vector-related antigens in the environment with subsequent restimulation of the vector response.
+
   # HIV - Ad5
   // Extended Follow-up Confirms Early Vaccine-Enhanced Risk of HIV Acquisition and Demonstrates Waning Effect Over Time Among Participants in a Randomized Trial of Recombinant Adenovirus HIV Vaccine (Step Study)
   doi: https://doi.org/10.1093/infdis/jis342
