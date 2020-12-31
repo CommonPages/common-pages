@@ -1248,33 +1248,33 @@
   #
   # Other exploratory studies have indicated that the vaccine enhances HIV replication in CD4 T cells or that Ad5-specific CD4 T cells could be more susceptible to HIV infection. This finding suggests that although Ad5 vectors have been commonly employed for vaccine development due to their potent immunogenicity, the advantages of Ad5 as a vector may be dampened by the high HIV susceptibility of CD4 T cells it induces.
 
-  >
-    Additional exploratory studies suggest that Ad5 immune complexes activate the dendritic cell–T cell axis, which might enhance HIV-1 replication in CD4 T cells
-  -
-    'Perreau_et_al_11_03_2008
-    'Perreau_et_al_11_03_2008.!a
-
-  >
-    Ad5-specific CD4 T cells could have an increased susceptibility to HIV infection.
-
-  -
-    'Auclair_et_al_02_23_2018
-    'Auclair_et_al_02_23_2018.!a
-    'Auclair_et_al_02_23_2018.!b
-
-  >
-    Findings from past study has shown pre-existing Ad5 immunity might dampen desired vaccine-induced responses.
-  -
-    'Frahm_et_al_12_27_2011
-    'Frahm_et_al_12_27_2011.!a
-    'Frahm_et_al_12_27_2011.!b
-
-  >
-    A consensus conference about Ad5 vectors held in 2013 and sponsored by the National Institutes of Health indicated the most probable explanation for these differences related to the potential counterbalancing effects of envelope immune responses in mitigating the effects of the Ad5 vector on HIV-1 acquisition. The conclusion of this consensus conference warned that non-HIV vaccine trials that used similar vectors in areas of high HIV prevalence could lead to an increased risk of HIV-1 acquisition in the vaccinated population.
-  -
-    'Fauci_et_al_04_04_2014
-    'Fauci_et_al_04_04_2014.!a
-
+  # >
+  #   Additional exploratory studies suggest that Ad5 immune complexes activate the dendritic cell–T cell axis, which might enhance HIV-1 replication in CD4 T cells
+  # -
+  #   'Perreau_et_al_11_03_2008
+  #   'Perreau_et_al_11_03_2008.!a
+  #
+  # >
+  #   Ad5-specific CD4 T cells could have an increased susceptibility to HIV infection.
+  #
+  # -
+  #   'Auclair_et_al_02_23_2018
+  #   'Auclair_et_al_02_23_2018.!a
+  #   'Auclair_et_al_02_23_2018.!b
+  #
+  # >
+  #   Findings from past study has shown pre-existing Ad5 immunity might dampen desired vaccine-induced responses.
+  # -
+  #   'Frahm_et_al_12_27_2011
+  #   'Frahm_et_al_12_27_2011.!a
+  #   'Frahm_et_al_12_27_2011.!b
+  #
+  # >
+  #   A consensus conference about Ad5 vectors held in 2013 and sponsored by the National Institutes of Health indicated the most probable explanation for these differences related to the potential counterbalancing effects of envelope immune responses in mitigating the effects of the Ad5 vector on HIV-1 acquisition. The conclusion of this consensus conference warned that non-HIV vaccine trials that used similar vectors in areas of high HIV prevalence could lead to an increased risk of HIV-1 acquisition in the vaccinated population.
+  # -
+  #   'Fauci_et_al_04_04_2014
+  #   'Fauci_et_al_04_04_2014.!a
+  #
 
 
 

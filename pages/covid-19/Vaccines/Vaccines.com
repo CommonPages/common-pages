@@ -1,75 +1,3 @@
-subject module Vaccines
-
-  —
-  / Types of Vaccines
-  subject Types
-
-    / RNA Vaccine
-    subject RNAVaccine
-      head = RNA vaccines work by introducing an mRNA sequence (the molecule which tells cells what to build) which is coded for a disease specific antigen, once produced within the body, the antigen is recognised by the immune system, preparing it to fight the real thing.
-
-      # -
-      #   'Amanat_et_al_2020b.!a
-      #   'Amanat_et_al_2020b.!b
-
-      >
-        mRNA vaccines have several features which reduce safety risks:
-        1. Only translated into the precise protein coded for by the sequence, eliminating exposure to other antigens
-        2. Does not enter the cell nucleus or interact with the genome
-        3. Nonreplicating
-        4. Expressed transiently
-      # https://www.fda.gov/media/144452/download
-
-      - SEE ALSO:
-        Approved.Tozinameran
-        Approved.mRNA-1273
-
-      —
-      subject PEG
-        head =
-        >
-          Arguments for and against PEG
-        -
-          'Vrieze_et_al_12_21_2020
-
-        >
-          PEG are believed to be chemically inert and are thus believed to be safe products. However, there are emerging reports of delayed and immediate hypersensitivity reactions to PEG-containing substances, suggesting that they have unrecognized allergic potential.
-        -
-          'Shah_et_al_01_23_2013
-          'Shah_et_al_01_23_2013.!a
-
-        >
-          Some allergists and immunologists believe a small number of people previously exposed to PEG may have high levels of antibodies against PEG, putting them at risk of an anaphylactic reaction to the vaccine.
-        -
-          'Povsic_et_al_07_13_2016
-          'Povsic_et_al_07_13_2016.!a
-          'Povsic_et_al_07_13_2016.!d
-
-
-        >
-          One study raised the possibility of an IgE-mediated type I hypersensitivity mechanism for patients who suffered an anaphylactic reaction to PEGylated drugs
-        -
-          'Stone_et_al_12_14_2018
-          'Stone_et_al_12_14_2018.!b
-
-    / Viral Vector-Based Vaccine
-    subject ViralVector
-      head = Viral vector vaccines use live viruses to carry DNA into human cells. The DNA contained in the virus encodes antigens that, once expressed in the infected human cells, elicit an immune response.
-
-
-      subject Adenovirus
-        # > Viral Vector
-        #   Our data extend recent preclinical studies of inactivated virus vaccines and DNA vaccines for SARS-CoV-2 in non-human primates. Whereas inactivated virus vaccines and nucleic acid vaccines typically require two or more immunizations, some adenovirus vectors can induce robust and durable neutralizing antibody responses after a single immunization
-
-        >
-          Though correlates of protection from SARS-CoV-2 infection have not yet been determined, measurement of serum neutralizing activity has been shown to be a mechanistic correlate of protection for other respiratory viruses, such as influenza and respiratory syncytial virus, and is generally accepted as a functional biomarker of the in vivo humoral response.
-        # -
-        #   'Jackson_et_al_07_14_2020
-
-        >
-          In rhesus macaques given DNA vaccine candidates expressing different forms of the SARS-CoV-2 spike protein, post-vaccination neutralizing antibody titers were correlated with protection against SARS-CoV-2 challenge.
-        -
-          'Yu_et_al_08_14_2020
 
 subject module Vaccines
   head =
@@ -119,6 +47,9 @@ subject module Vaccines
         !BNT162b1
         !BNT162b2
         !Phase3
+      -
+        AnaphylaxisPEG
+      -
         ?Approvals
 
       claim !ClinicalTrials = A phase 1/2/3 clinical trial for the Pfizer vaccine was first posted in April of 2020. It will evaluate the safety, tolerability, immunogenicity, and efficacy of two vaccines—BNT162b1 and BNT162b2—against COVID-19. The expected completion date is January of 2023.
@@ -164,6 +95,72 @@ subject module Vaccines
           -
             'Polack_et_al_12_10_2020
             'Polack_et_al_12_10_2020.!g
+
+      / Severe Allergic Reactions
+      dispute AnaphylaxisPEG
+        head = Anaphylactic reactions in persons receiving the Pfizer-BioNTech COVID-19 vaccine outside of clinical trials have been reported. Scientists have reasoned its cause to be linked to PEG (polyethylene glycol), though it's being disputed. CDC recommends persons with a history of an anaphylactic reaction to any component of the mRNA SARS-Cov-2 vaccines to avoid the vaccines.
+
+
+        claim !Anaphylaxisconcern = Scientists have raised concerns about allergic reactions (anaphylaxis) to Pfizer SARS-CoV-2 mRNA vaccine, some scientists suspect that severe allergy-like reactions may be due to a compound (PEG-polyethylene glycol) in the packaging of mRNA that forms the vaccine’s main ingredient.
+
+          -
+            'Castells_et_al_12_30_2020
+            'Castells_et_al_12_30_2020.!a
+            'Castells_et_al_12_30_2020.!b
+          -
+            'Vrieze_et_al_12_21_2020
+            'Vrieze_et_al_12_21_2020.!a
+            'Vrieze_et_al_12_21_2020.!b
+            'Vrieze_et_al_12_21_2020.!c
+            'Vrieze_et_al_12_21_2020.!e
+            'Vrieze_et_al_12_21_2020.!g
+            'Vrieze_et_al_12_21_2020.!f
+          -
+            'Stone_et_al_12_14_2018
+            'Stone_et_al_12_14_2018.!b
+
+        claim !Anaphylaxisreasoning = Some research studies have also reasoned that severe allergic reactions after vaccination maybe due to PEG.
+
+          claim !ReasoningAnaphylaxis = Acute allergic reactions after vaccination might be caused by the vaccine antigen, residual nonhuman protein, or preservatives and stabilizers in the vaccine formulation, also known as excipients. Although, anaphylaxis have historically been more typically associated with the inactive components or products of the vaccine manufacturing process, such as egg, gelatin, or latex.
+            -
+              'Stone-Jr_et_al_08_13_2019
+              'Stone-Jr_et_al_08_13_2019.!a
+              'Stone-Jr_et_al_08_13_2019.!b
+
+          claim !PEGreasoning1 = PEG are believed to be chemically inert and are thus believed to be safe products. However, there are emerging reports of delayed and immediate hypersensitivity reactions to PEG-containing substances, suggesting that they have unrecognized allergic potential.
+            -
+              'Shah_et_al_01_23_2013
+              'Shah_et_al_01_23_2013.!a
+
+          claim !PEGreasoning2 = Some allergists and immunologists believe a small number of people previously exposed to PEG may have high levels of antibodies against PEG, putting them at risk of an anaphylactic reaction to the vaccine.
+            -
+              'Povsic_et_al_07_13_2016
+              'Povsic_et_al_07_13_2016.!a
+              'Povsic_et_al_07_13_2016.!d
+
+          claim !PEGreasoning3 = One study raised the possibility of an IgE-mediated type I hypersensitivity mechanism for patients who suffered an anaphylactic reaction to PEGylated drugs.
+            -
+              'Stone_et_al_12_14_2018
+              'Stone_et_al_12_14_2018.!b
+
+        claim !DisputePEG = While some other scientists are skeptical of the link.
+          -
+            'Vrieze_et_al_12_21_2020
+            'Vrieze_et_al_12_21_2020.!h
+            'Vrieze_et_al_12_21_2020.!i
+
+
+        claim !CDCrecommendation = CDC recommends all persons with a history of an anaphylactic reaction to any component of the mRNA SARS-Cov-2 vaccines, patients with a history of immediate reactions associated with PEG, and  patients with a history of anaphylaxis after receiving either the BioNTech–Pfizer or the Moderna vaccine, who should avoid these vaccines.
+          -
+            'CDC_et_al_2020
+            'CDC_et_al_2020.!a
+            'CDC_et_al_2020.!b
+            'CDC_et_al_2020.!c
+            'CDC_et_al_2020.!d
+            'CDC_et_al_2020.!e
+            'CDC_et_al_2020.!f
+
+
 
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 

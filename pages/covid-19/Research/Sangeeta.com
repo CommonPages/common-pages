@@ -80,17 +80,38 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
+
   #
-  //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+  // Interim Clinical Considerations for Use of mRNA COVID-19 Vaccines Currently Authorized in the United States.
+  doi: https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fvaccines%2Fcovid-19%2Finfo-by-product%2Fpfizer%2Fclinical-considerations.html
+  ref 'CDC_et_al_2020
+    head = This Interim Clinical Considerations summarises recommendations for contraindications and precautions for use of mRNA COVID-19 Vaccines.
 
     - quotes
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
 
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
+    / December, 2020 - CDC
+    quote !a = CDC considers a history of the following to be a contraindication to vaccination with both the Pfizer-BioNTech and Moderna COVID-19 vaccines: Severe allergic reaction (e.g., anaphylaxis) after a previous dose of an mRNA COVID-19 vaccine or any of its components.
+
+    / December, 2020 - CDC
+    quote !b = Immediate allergic reaction of any severity to a previous dose of an mRNA COVID-19 vaccine or any of its components (including polyethylene glycol [PEG]).
+
+    / December, 2020 - CDC
+    quote !c = Immediate allergic reaction of any severity to polysorbate (due to potential cross-reactive hypersensitivity with the vaccine ingredient PEG).
+
+    / December, 2020 - CDC
+    quote !d = These persons should not receive mRNA COVID-19 vaccination at this time unless they have been evaluated by an allergist-immunologist and it is determined that the person can safely receive the vaccine (e.g., under observation, in a setting with advanced medical care available).
+
+    / December, 2020 - CDC
+    quote !e = Persons with an immediate allergic reaction to the first dose of an mRNA COVID-19 vaccine should not receive additional doses of either of the mRNA COVID-19 vaccines. Providers should attempt to determine whether reactions reported following vaccination are consistent with immediate allergic reactions versus other types of reactions commonly observed following vaccination, such as a vasovagal reaction or post-vaccination side effects (which are not contraindications to receiving the second vaccine dose)
+
+    / December, 2020 - CDC
+    quote !f = CDC considers a history of any immediate allergic reaction to any other vaccine or injectable therapy (i.e., intramuscular, intravenous, or subcutaneous vaccines or therapies not related to a component of mRNA COVID-19 vaccines or polysorbate) as a precaution but not a contraindication to vaccination for both the Pfizer-BioNTech and Moderna COVID-19 vaccines. These persons should be counseled about the unknown risks of developing a severe allergic reaction and balance these risks against the benefits of vaccination. Deferral of vaccination and/or consultation with an allergist-immunologist may be considered until further information on the risk of anaphylaxis is available.
 
 
 
@@ -109,33 +130,40 @@ feed Sangeeta
 
   #
   // Immune‐mediated adverse reactions to vaccines
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+  doi: https://doi.org/10.1111/bcp.14112
+  ref 'Stone-Jr_et_al_08_13_2019
+    head = In this paper we perform a systematic literature search and narrative review of immune‐mediated vaccine adverse events and their known and proposed mechanisms, and outline directions for future research.
+
 
     - quotes
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / August, 2019 - British Pharmacological Society
+    quote !a = Adverse reactions to vaccines that are the result of either an immune‐mediated reaction to the vaccine excipient, the active components of the vaccine or related to host immunodeficiency are rare and occur in <1 per million vaccines administered.
+
+    / August, 2019 - British Pharmacological Society
+    quote !b = The major common predictor and mechanism of immediate hypersensitivity during vaccination is the presence of pre‐existing allergy to a vaccine excipient, such as egg, gelatine and, most recently, galactose‐α, galactose, commonly referred to as alpha‐gal. This differs significantly from anaphylaxis related to drugs where anaphylaxis is usually related to the active drug component and not the excipient.
+
+    / August, 2019 - British Pharmacological Society
+    quote !c = Immediate hypersensitivity to vaccines is caused by the presence of immunoglobulin (Ig)E in a patient which can precipitate degranulation of mast cells and release of histamine (type I hypersensitivity) in response to an antigen within the vaccine
+
+    / August, 2019 - British Pharmacological Society
+    quote !d = IgE‐mediated anaphylaxis is the most important and severe immediate reaction occurring after vaccination. Symptoms have a rapid onset (typically <15 min) and include itching, urticaria, angioedema, nausea, vomiting, diarrhoea, wheezing, shortness of breath, hypotension, loss of consciousness and, in severe instances, death.
+
+    / August, 2019 - British Pharmacological Society
+    quote !e = Treatment of acute symptoms should always include early administration of intramuscular epinephrine.
 
     / December, 2020 - JAMA Netw Open.
-    quote !a = Adverse reactions to vaccines that are the result of either an immune‐mediated reaction to the vaccine excipient, the active components of the vaccine or related to host immunodeficiency are rare and occur in <1 per million vaccines administered.
-     #
-     # adverse reactions to vaccines that are either the direct result of an immune‐mediated reaction to the vaccine excipient, the active components of the vaccine or related to host immunodeficiency are rare  and fortunately defined diagnosis and management strategies exist
-     #
-     # Immediate hypersensitivity to vaccines is caused by the presence of immunoglobulin (Ig)E in a patient which can precipitate degranulation of mast cells and release of histamine (type I hypersensitivity) in response to an antigen within the vaccine
-     #
-     # IgE‐mediated anaphylaxis is the most important and severe immediate reaction occurring after vaccination. Symptoms have a rapid onset (typically <15 min) and include itching, urticaria, angioedema, nausea, vomiting, diarrhoea, wheezing, shortness of breath, hypotension, loss of consciousness and, in severe instances, death
-     #
-     #  Treatment of acute symptoms should always include early administration of intramuscular epinephrine.
-     #
-     #  Allergy testing using skin prick or intradermal testing read at 15–20 minutes with appropriate histamine and saline controls can be informative to evaluate this type of hypersensitivity
-     #
-     #  Unlike drugs, excipients represent a major contributor to specific IgE and immediate reactions associated with vaccines.
-     #
-     #  immediate hypersensitivity reactions to vaccines which meet definitions for IgE‐mediated reactions or anaphylaxis are exceedingly rare, occurring in <1 case per million doses administered.23 The major common predictor and mechanism of immediate hypersensitivity during vaccination is the presence of pre‐existing allergy to a vaccine excipient, such as egg,24 gelatine25-27 and, most recently, galactose‐α, 1,3, galactose, commonly referred to as alpha‐gal.28, 29 This differs significantly from anaphylaxis related to drugs where anaphylaxis is usually related to the active drug component and not the excipient.
-     #
-     #  Intentional efforts to minimize egg protein and careful study have subsequently made the ongoing risk of egg allergy mediated reactions during vaccination with measles–mumps–rubella30 and influenza vaccines31 minimal. Efforts to reduce gelatine content in vaccines given in Japan and Germany subsequently reduced allergic vaccine adverse events.32, 33 These success stories provide a framework to consider when there is a need to reduce immediate hypersensitivity to a vaccine excipient.
-     #
-     #  Intentional efforts to minimize egg protein and careful study have subsequently made the ongoing risk of egg allergy mediated reactions during vaccination with measles–mumps–rubella30 and influenza vaccines31 minimal. Efforts to reduce gelatine content in vaccines given in Japan and Germany subsequently reduced allergic vaccine adverse events.32, 33 These success stories provide a framework to consider when there is a need to reduce immediate hypersensitivity to a vaccine excipient.
+    quote !f = Allergy testing using skin prick or intradermal testing read at 15–20 minutes with appropriate histamine and saline controls can be informative to evaluate this type of hypersensitivity.
+
+    / August, 2019 - British Pharmacological Society
+    quote !g = Unlike drugs, excipients represent a major contributor to specific IgE and immediate reactions associated with vaccines.
 
 
 
@@ -478,8 +506,6 @@ feed Sangeeta
       !g
       !h
       !i
-      !j
-      !k
 
     / December, 2020 - Science
     quote !a = PEG (compound:polyethylene glycol) has never been used before in an approved vaccine, but it is found in many drugs that have occasionally triggered anaphylaxis—a potentially life-threatening reaction that can cause rashes, a plummeting blood pressure, shortness of breath, and a fast heartbeat.
@@ -508,11 +534,7 @@ feed Sangeeta
     / December, 2020 - Science
     quote !i = Others note the amount of PEG in the mRNA vaccines is orders of magnitude lower than in most PEGylated drugs. And whereas those drugs are often given intravenously, the two COVID-19 vaccines are injected into a muscle, which leads to a delayed exposure and a much lower level of PEG in the blood, where most anti-PEG antibodies are.
 
-    / December, 2020 - Science
-    quote !j = Katalin Karikó, a senior vice president at BioNTech who co-invented the mRNA technology underlying both vaccines, along with Janos Szebeni, an immunologist at Semmelweis University in Budapest, Hungary, who has long studied hypersensitivity reactions to PEG agreed that given the low amount of lipid and the intramuscular administration, the risk was negligible. All vaccines carry some risk. But the benefit of the vaccine outweighs the risk.
 
-    / December, 2020 - Science
-    quote !k = If PEG does turn out to be the culprit, the question is, what can be done? CDC guidelines recommend not giving the Pfizer or Moderna vaccines to anyone with a history of severe allergic reaction to any component of the vaccine. For people who have had a severe reaction to another vaccine or injectable medication, the risks and benefits of vaccination should be carefully weighed, CDC says. And people who might be at high risk of an anaphylactic reaction should stay at the vaccination site for 30 minutes after their shot so they can be treated if necessary.
 
 
 
