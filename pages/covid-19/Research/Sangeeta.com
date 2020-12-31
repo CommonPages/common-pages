@@ -92,8 +92,23 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
+
+
+  # rna for cancer
+  // mRNA vaccines — a new era in vaccinology
+  doi: http://dx.doi.org/10.1038/nrd.2017.243
+  ref 'Pardi1_et_al_01_12_2018
+    head = In this Review, we discuss current mRNA vaccine approaches, summarize the latest findings, highlight challenges and recent successes, and offer perspectives on the future of mRNA vaccines. The data suggest that mRNA vaccines have the potential to solve many of the challenges in vaccine development for both infectious diseases and cancer.
+
+    - quotes
+      !a
+
+    / January, 2018 - Nature Reviews
+    quote !a =
+
+
   #
-  //
+  // Immune‐mediated adverse reactions to vaccines
   doi: https://doi.org/10.1038/s41586-020-2608-y
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -102,31 +117,49 @@ feed Sangeeta
       !a
 
     / December, 2020 - JAMA Netw Open.
-    quote !a =
+    quote !a = Adverse reactions to vaccines that are the result of either an immune‐mediated reaction to the vaccine excipient, the active components of the vaccine or related to host immunodeficiency are rare and occur in <1 per million vaccines administered.
+     #
+     # adverse reactions to vaccines that are either the direct result of an immune‐mediated reaction to the vaccine excipient, the active components of the vaccine or related to host immunodeficiency are rare  and fortunately defined diagnosis and management strategies exist
+     #
+     # Immediate hypersensitivity to vaccines is caused by the presence of immunoglobulin (Ig)E in a patient which can precipitate degranulation of mast cells and release of histamine (type I hypersensitivity) in response to an antigen within the vaccine
+     #
+     # IgE‐mediated anaphylaxis is the most important and severe immediate reaction occurring after vaccination. Symptoms have a rapid onset (typically <15 min) and include itching, urticaria, angioedema, nausea, vomiting, diarrhoea, wheezing, shortness of breath, hypotension, loss of consciousness and, in severe instances, death
+     #
+     #  Treatment of acute symptoms should always include early administration of intramuscular epinephrine.
+     #
+     #  Allergy testing using skin prick or intradermal testing read at 15–20 minutes with appropriate histamine and saline controls can be informative to evaluate this type of hypersensitivity
+     #
+     #  Unlike drugs, excipients represent a major contributor to specific IgE and immediate reactions associated with vaccines.
+     #
+     #  immediate hypersensitivity reactions to vaccines which meet definitions for IgE‐mediated reactions or anaphylaxis are exceedingly rare, occurring in <1 case per million doses administered.23 The major common predictor and mechanism of immediate hypersensitivity during vaccination is the presence of pre‐existing allergy to a vaccine excipient, such as egg,24 gelatine25-27 and, most recently, galactose‐α, 1,3, galactose, commonly referred to as alpha‐gal.28, 29 This differs significantly from anaphylaxis related to drugs where anaphylaxis is usually related to the active drug component and not the excipient.
+     #
+     #  Intentional efforts to minimize egg protein and careful study have subsequently made the ongoing risk of egg allergy mediated reactions during vaccination with measles–mumps–rubella30 and influenza vaccines31 minimal. Efforts to reduce gelatine content in vaccines given in Japan and Germany subsequently reduced allergic vaccine adverse events.32, 33 These success stories provide a framework to consider when there is a need to reduce immediate hypersensitivity to a vaccine excipient.
+     #
+     #  Intentional efforts to minimize egg protein and careful study have subsequently made the ongoing risk of egg allergy mediated reactions during vaccination with measles–mumps–rubella30 and influenza vaccines31 minimal. Efforts to reduce gelatine content in vaccines given in Japan and Germany subsequently reduced allergic vaccine adverse events.32, 33 These success stories provide a framework to consider when there is a need to reduce immediate hypersensitivity to a vaccine excipient.
+
+
 
   #
-  //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+  // Maintaining Safety with SARS-CoV-2 Vaccines
+  doi: https://doi.org/10.1056/NEJMra2035343
+  ref 'Castells_et_al_12_30_2020
+    head = This review raises concern about allergic reaction to Pfizer SARS-CoV-2 mRNA vaccine.
 
     - quotes
       !a
+      !b
+      !c
 
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
+    / December, 2020 - The New England Journal of Medicine
+    quote !a = Since the index case in Alaska, several more cases of anaphylaxis associated with the Pfizer mRNA vaccine have been reported in the United States after vaccination of almost 2 million health care workers, and the incidence of anaphylaxis associated with the Pfizer SARS-CoV-2 mRNA vaccine appears to be approximately 10 times as high as the incidence reported with all previous vaccines, at approximately 1 in 100,000, as compared 1 in 1,000,000, the known and stable incidence of anaphylaxis associated with other vaccines.
 
-  #
-  //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+    / December, 2020 - The New England Journal of Medicine
+    quote !b = The EUA for the Moderna mRNA vaccine was issued on December 18, and it is currently too soon to know whether a similar signal for anaphylaxis will be associated with that vaccine; however, at this time a small number of potential cases of anaphylaxis have been reported, including one case on December 24 in Boston in a health care worker with shellfish allergy who was carrying auto-injectable epinephrine.
 
-    - quotes
-      !a
+    / December, 2020 - The New England Journal of Medicine
+    quote !c =  The clinical manifestations of the two U.K. cases and the one U.S. case fit the description of anaphylaxis: they occurred within minutes after the injections, symptoms were typical, and all responded to epinephrine. The occurrence on first exposure is not typical of IgE-mediated reactions; however, preexisting sensitization to a component of the vaccine could account for this observation
 
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
+
 
   #
   // Investigation of novel SARS-CoV-2 variant- Variant of Concern 202012/01
@@ -148,84 +181,9 @@ feed Sangeeta
     #
     # Final analysis is "secondary attack rate". When you find a case and trace contacts, how many get infected? 15% for new variant vs 9% for old. There's no p-value on this finding, but my guess is that's a significant difference, and consistent with increased transmissibility.
 
-  #
-  // Immune Activation with HIV Vaccines
-  doi: https://doi.org/10.1126/science.1250672
-  ref 'Fauci_et_al_04_04_2014
-    head = The results of two vaccine concepts based on recombinant adenovirus serotype-5 (rAd5) (3–5) pointed to a potential major problem—that such vaccines might increase susceptibility to HIV infection. This also raised the question of whether the problem extends to some or all of the other recombinant adenovirus vectors currently in development or to other vector-based vaccines.
-
-    > Summary
-      The development of a safe and effective HIV vaccine is perhaps the most important and challenging goal remaining in HIV-AIDS research. Recent progress using a poxvirus vector prime and envelope protein boost strategy demonstrated a modest but statistically significant level of efficacy and established the concept that a vaccine could prevent HIV infection (1), and approaches to boost durability and efficacy are currently in the planning stages (2). But the results of two vaccine concepts based on recombinant adenovirus serotype-5 (rAd5) (3–5) pointed to a potential major problem—that such vaccines might increase susceptibility to HIV infection. This also raised the question of whether the problem extends to some or all of the other recombinant adenovirus vectors currently in development or to other vector-based vaccines.
-
-    - quotes
-      !a
-
-    / April, 2014 - Science
-    quote !a = Given the increased risk together with the lack of efficacy in trials using rAd5, further HIV vaccine studies testing rAd5 vectors are not appropriate. When considering HIV vaccines that are designed to elicit a component of T-cell immunity, a risk/benefit analysis should consider the balance between anti-HIV responses and vector-directed responses that activate CD4+ T cells, thus rendering them more susceptible to HIV infection, and the potential for re-exposure to vector-related antigens in the environment with subsequent restimulation of the vector response.
-
 
 
   #
-  // Human adenovirus-specific T cells modulate HIV-specific T cell responses to an Ad5-vectored HIV-1 vaccine
-  doi: https://doi.org/10.1172/JCI60202
-  ref 'Frahm_et_al_12_27_2011
-    head = We have identified and compared adenovirus-specific and HIV-specific T cell responses in subjects participating in two HIV-1 vaccine trials using a vaccine vectored by adenovirus serotype 5 (Ad5).
-
-    > Abstract
-      Recombinant viruses hold promise as vectors for vaccines to prevent infectious diseases with significant global health impacts. One of their major limitations is that preexisting anti-vector neutralizing antibodies can reduce T cell responses to the insert antigens; however, the impact of vector-specific cellular immunity on subsequent insert-specific T cell responses has not been assessed in humans. Here, we have identified and compared adenovirus-specific and HIV-specific T cell responses in subjects participating in two HIV-1 vaccine trials using a vaccine vectored by adenovirus serotype 5 (Ad5). Higher frequencies of pre-immunization adenovirus-specific CD4+ T cells were associated with substantially decreased magnitude of HIV-specific CD4+ T cell responses and decreased breadth of HIV-specific CD8+ T cell responses in vaccine recipients, independent of type-specific preexisting Ad5-specific neutralizing antibody titers. Further, epitopes recognized by adenovirus-specific T cells were commonly conserved across many adenovirus serotypes, suggesting that cross-reactivity of preexisting adenovirus-specific T cells can extend to adenovirus vectors derived from rare serotypes. These findings provide what we believe to be a new understanding of how preexisting viral immunity may impact the efficacy of vaccines under current evaluation for prevention of HIV, tuberculosis, and malaria.
-
-    - quotes
-      !a
-      !b
-
-    / December, 2011 - The Journal of Clinical Investigation
-    quote !a = Higher frequencies of pre-immunization adenovirus-specific CD4+ T cells were associated with substantially decreased magnitude of HIV-specific CD4+ T cell responses and decreased breadth of HIV-specific CD8+ T cell responses in vaccine recipients, independent of type-specific preexisting Ad5-specific neutralizing antibody titers.
-
-    / December, 2011 - The Journal of Clinical Investigation
-    quote !b = Epitopes recognized by adenovirus-specific T cells were commonly conserved across many adenovirus serotypes, suggesting that cross-reactivity of preexisting adenovirus-specific T cells can extend to adenovirus vectors derived from rare serotypes.
-
-
-
-  #
-  // Activation of a dendritic cell–T cell axis by Ad5 immune complexes creates an improved environment for replication of HIV in T cells
-  doi: https://doi.org/10.1084/jem.20081786
-  ref 'Perreau_et_al_11_03_2008
-    head = The STEP HIV vaccine trial, which evaluated a replication-defective adenovirus type 5 (Ad5) vector vaccine, was recently stopped. The reasons for this included lack of efficacy of the vaccine and a twofold increase in the incidence of HIV acquisition among vaccinated recipients with increased Ad5-neutralizing antibody titers compared with placebo recipients. To model the events that might be occurring in vivo, the effect on dendritic cells (DCs) of Ad5 vector alone or treated with neutralizing antiserum (Ad5 immune complexes [IC]) was compared
-
-    - quotes
-      !a
-      !a
-
-    / November, 2008 - J Exp Med.
-    quote !a = The results indicate that Ad5 immune complexes (IC) activates a DC–T cell axis that, together with the possible persistence of the Ad5 vaccine in seropositive individuals, may set up a permissive environment for HIV-1 infection, which could account for the increased acquisition of HIV-1 infection among Ad5 seropositive vaccine recipients.
-
-    / November, 2008 - J Exp Med.
-    quote !a = Our findings have shown that Ad5 immune complexes (ICs) containing E1/E3-deleted Ad5 vectors and NAbs cause a pattern of innate/adaptive inflammatory activation that, together with a possible persistence of the Ad5 vector, may provide the basis for a chronic permissive environment for HIV-1 infection, thus helping to explain the increased acquisition of HIV-1 infection among the Ad5 seropositive vaccine recipients in the STEP trial.
-
-    / November, 2008 - J Exp Med.
-    quote !b = Our results also suggest that the delivery/formulation of Ags through Ad5 immune complexes (ICs) may result in a powerful immunization strategy to stimulate T cells.
-
-
-
-  #
-  // Distinct susceptibility of HIV vaccine vector-induced CD4 T cells to HIV infection
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Auclair_et_al_02_23_2018
-    head = In the present study, by using PBMC samples from two important HIV vaccine trials, we investigated host anti-vector T-cell responses induced by ALVAC (a canarypox viral vector tested in the Thai trial RV144,) and Ad5 vector in human vaccine recipients with a focus on the HIV susceptibility of vector-specific CD4 T cells.
-
-    - quotes
-      !a
-      !b
-
-    / February, 2018 - PLOS Pathogens
-    quote !a = Our major finding is that CD4 T cells activated via different HIV vaccine vectors manifest distinct susceptibility to HIV infection, which is closely associated with their phenotypic and functional characteristics; while Ad5 vector-specific CD4 T cells are readily susceptible to HIV.
-
-    / February, 2018 - PLOS Pathogens
-    quote !b = Our data suggest that the high HIV susceptibility of Ad5 vector-specific CD4 T cells may be a contributing factor for the observed excess HIV infections in some Ad5-HIV vaccine recipients
-
-
-  #
-
   // Hypersensitivity to Polyethylene Glycols
   doi: https://doi.org/10.1177/0091270012447122
   ref 'Shah_et_al_01_23_2013

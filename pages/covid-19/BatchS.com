@@ -315,7 +315,11 @@
     'Klein_et_al_12_22_2020.!h
     'Klein_et_al_12_22_2020.!i
 
+  #### 12/31 ####
 
+  # Questions for VACCINES
+  # If a person has a reaction to one SARS-CoV-2 vaccine, what are the implications for the safety of vaccination with a different SARS-CoV-2 vaccine? Furthermore, what safety issues may preclude future vaccination altogether?
+  # What are the correlates of protective immunity after natural infection or vaccination? How long will immunity last? Will widespread immunity limit the spread of the virus in the population? Which component of the vaccine is responsible for allergic reactions? Are some vaccines less likely than others to cause IgE- and non-IgE–mediated reactions?
 
   #### 12/27 ######
 
@@ -346,6 +350,33 @@
   # RNA-Based COVID-19 Vaccine BNT162b2 Selected for a Pivotal Efficacy Study - ASK AYUSH
 
   ###### 12/22 #######
+
+  # Find CDC recco
+  >
+    According to the current CDC recommendations, all persons with a history of an anaphylactic reaction to any component of the mRNA SARS-Cov-2 vaccines should avoid these vaccines, and this recommendation would currently exclude patients with a history of immediate reactions associated with PEG. It would also currently exclude patients with a history of anaphylaxis after receiving either the BioNTech–Pfizer or the Moderna vaccine, who should avoid all PEG 2000–formulated mRNA vaccines, and all PEG and injectable polysorbate 80 products, until further investigations are performed and more information is available.
+
+
+    In response to the two cases of anaphylaxis in the United Kingdom, the MHRA issued a pause on vaccination with the Pfizer–BioNTech SARS-CoV-2 mRNA vaccine, to exclude any person with a history of anaphylactic reaction to any food, drug, or vaccine.
+
+  >
+    The mRNA vaccines developed by Pfizer–BioNtech and Moderna use a lipid-based nanoparticle carrier system that prevents the rapid enzymatic degradation of mRNA and facilitates in vivo delivery. This lipid-based nanoparticle carrier system is further stabilized by a polyethylene glycol (PEG) 2000 lipid conjugate that provides a hydrophilic layer, prolonging half-life.
+  -
+    'Pardi1_et_al_01_12_2018
+
+  >
+    We can be reassured that vaccine-associated anaphylaxis has been a rare event, at one case per million injections, for most known vaccines. Acute allergic reactions after vaccination might be caused by the vaccine antigen, residual nonhuman protein, or preservatives and stabilizers in the vaccine formulation, also known as excipients. Although local reactions may be commonly associated with the active antigen in the vaccine, IgE-mediated reactions or anaphylaxis have historically been more typically associated with the inactive components or products of the vaccine manufacturing process, such as egg, gelatin, or latex.
+
+
+  >
+    PEG is a compound used as an excipient in medications and has been implicated as a rare, “hidden danger” cause of IgE-mediated reactions and recurrent anaphylaxis.9 The presence of lipid PEG 2000 in the mRNA vaccines has led to concern about the possibility that this component could be implicated in anaphylaxis. To date, no other vaccine that has PEG as an excipient has been in widespread use
+
+  -
+    'Stone_et_al_12_14_2018
+    'Stone_et_al_12_14_2018.!b
+
+
+  #   In the phase 1–3 clinical trials of the Pfizer–BioNTech and Moderna mRNA vaccines, potential participants with a history of an allergic reaction to any component of the vaccine were excluded. The Pfizer–BioNTech studies also excluded participants with a history of severe allergy associated with any vaccine.On December 11, the Food and Drug Administration (FDA) issued an emergency use authorization (EUA) for the Pfizer–BioNTech mRNA vaccine, and general vaccination of health care workers was started on Monday, December 14. On December 15, a 32-year-old female health care worker in Alaska who had no known allergies presented with an anaphylactic reaction within 10 minutes after receiving the first dose of the vaccine. The participants who had these initial three reported cases of anaphylaxis would not have been excluded on the basis of their histories from the mRNA vaccine clinical trials.1,2 Since the index case in Alaska, several more cases of anaphylaxis associated with the Pfizer mRNA vaccine have been reported in the United States after vaccination of almost 2 million health care workers, and the incidence of anaphylaxis associated with the Pfizer SARS-CoV-2 mRNA vaccine appears to be approximately 10 times as high as the incidence reported with all previous vaccines, at approximately 1 in 100,000, as compared 1 in 1,000,000, the known and stable incidence of anaphylaxis associated with other vaccines.The EUA for the Moderna mRNA vaccine was issued on December 18, and it is currently too soon to know whether a similar signal for anaphylaxis will be associated with that vaccine; however, at this time a small number of potential cases of anaphylaxis have been reported, including one case on December 24 in Boston in a health care worker with shellfish allergy who was carrying auto-injectable epinephrine.
+
 
 
 
