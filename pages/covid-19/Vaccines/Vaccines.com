@@ -1,6 +1,6 @@
 
 subject module Vaccines
-  head =
+  head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. Five vaccines have been approved for emergency use, though none have completed clinical trials.
 
   -
     Approved
@@ -15,6 +15,7 @@ subject module Vaccines
 
   / Approved Vaccines
   subject Approved
+    head = To date there are five COVID-19 vaccines that have been approved for emergency use. Approvals vary by country and vaccine availability is low. The vaccines have been approved on the basis of efficacy and acceptable safety profiles, though none have completed clinical trials.
 
     / Pfizer
     subject Tozinameran
@@ -97,12 +98,10 @@ subject module Vaccines
             'Polack_et_al_12_10_2020.!g
 
       / Severe Allergic Reactions
-      dispute AnaphylaxisPEG
-        head = Anaphylactic reactions in persons receiving the Pfizer-BioNTech COVID-19 vaccine outside of clinical trials have been reported. Scientists have reasoned its cause to be linked to PEG (polyethylene glycol), though it's being disputed. CDC recommends persons with a history of an anaphylactic reaction to any component of the mRNA SARS-Cov-2 vaccines to avoid the vaccines.
+      dispute AnaphylaxisPEG = There have been reports of anaphylactic reactions in persons receiving the Pfizer-BioNTech COVID-19 vaccine outside of clinical trials. The cause of the reactions is disputed. The CDC recommends persons with a history of an anaphylactic reaction to any component of the mRNA SARS-CoV-2 vaccines to avoid the vaccines.
 
 
-        claim !Anaphylaxisconcern = Scientists have raised concerns about allergic reactions (anaphylaxis) to Pfizer SARS-CoV-2 mRNA vaccine, some scientists suspect that severe allergy-like reactions may be due to a compound (PEG-polyethylene glycol) in the packaging of mRNA that forms the vaccine’s main ingredient.
-
+        claim !Anaphylaxisconcern = Scientists have raised concerns about allergic reactions (anaphylaxis) to the Pfizer SARS-CoV-2 mRNA vaccine. Some suspect that severe allergy-like reactions may be due to a compound (PEG-polyethylene glycol) in the packaging of mRNA that forms the vaccine’s main ingredient.
           -
             'Castells_et_al_12_30_2020
             'Castells_et_al_12_30_2020.!a
@@ -143,14 +142,14 @@ subject module Vaccines
               'Stone_et_al_12_14_2018
               'Stone_et_al_12_14_2018.!b
 
-        claim !DisputePEG = While some other scientists are skeptical of the link.
+        claim !DisputePEG = Some researhcers have been skeptical of the proposed link of PEG to the observed allergic reactions to the Pfizer vaccine.
           -
             'Vrieze_et_al_12_21_2020
             'Vrieze_et_al_12_21_2020.!h
             'Vrieze_et_al_12_21_2020.!i
 
 
-        claim !CDCrecommendation = CDC recommends all persons with a history of an anaphylactic reaction to any component of the mRNA SARS-Cov-2 vaccines, patients with a history of immediate reactions associated with PEG, and  patients with a history of anaphylaxis after receiving either the BioNTech–Pfizer or the Moderna vaccine, who should avoid these vaccines.
+        claim !CDCrecommendation = The CDC recommends all persons with a history of an anaphylactic reaction to any component of the mRNA SARS-Cov-2 vaccines, patients with a history of immediate reactions associated with PEG, and  patients with a history of anaphylaxis after receiving either the BioNTech–Pfizer or the Moderna vaccine, who should avoid these vaccines.
           -
             'CDC_et_al_2020
             'CDC_et_al_2020.!a
@@ -166,10 +165,10 @@ subject module Vaccines
 
     / Moderna
     subject mRNA-1273
-      head = Moderna first posted phase 3 interim results in November of 2020. The Phase 3 clinical trial will not complete until 2022, but has already reported   favorable safety and 94% efficacy against symptomatic COVID-19. Moderna vaccine has been approved for emergency use in USA and Canada.
+      head = Moderna first posted phase 3 interim results in November of 2020. The Phase 3 clinical trial will not complete until 2022, but has already reported   favorable safety and 94% efficacy against symptomatic COVID-19. The Moderna vaccine has been approved for emergency use in USA and Canada.
 
       >
-        Moderna lipid nanoparticle mRNA-1273 vaccine developed by [Moderna](https://www.modernatx.com/) uses a platform based on a mRNA biologic process that uses a cell’s natural physiology to create SARS-CoV-2 {Virus.Structure spike protein} that elicit an immune response to protect against infection.
+        The lipid nanoparticle mRNA-1273 vaccine developed by [Moderna](https://www.modernatx.com/) uses a platform based on an mRNA biologic process that uses a cell’s natural physiology to create SARS-CoV-2 {Virus.Structure spike protein} that elicit an immune response to protect against infection.
 
         <table>
           <tr>
@@ -194,26 +193,25 @@ subject module Vaccines
         !Identification
         !OngoingTrials
         !Phase1Moderna
+        !Phase3
       -
         !Olderpeople
         !Olderpeopledose
-      -
-        !Phase3
 
 
       / Identification
-      claim !Identification = Early in Feb 2020, NIAID scientists identified the atomic structure (3.5-angstrom-resolution cryo–electron microscopy structure of the 2019-nCoV S trimer in the prefusion conformation) of an important protein on the surface of the novel coronavirus.
+      claim !Identification = Early in February of 2020, NIAID scientists identified the atomic structure (3.5-angstrom-resolution cryo–electron microscopy structure of the 2019-nCoV S trimer in the prefusion conformation) of an important protein on the surface of the novel coronavirus.
         -
           'Wrapp_et_al_2020
       # https://www.niaid.nih.gov/news-events/atomic-structure-novel-coronavirus-protein
 
-      claim !OngoingTrials = Phase 2 & 3 clinical trials of Moderna are still ongoing and first posted in May 2020. It will evaluate Safety, Tolerability, Immunogenicity, and Efficacy of mRNA-1273 Against COVID-19. Expected completion date of phase 3 trials is October of 2022.
+      claim !OngoingTrials = Clinical trials of the Moderna vaccine were first posted in May of 2020. The trials will will evaluate safety, tolerability, immunogenicity, and efficacy of mRNA-1273 Against COVID-19. Phase 3 trials are expected to complete in October of 2022.
         -
           'ClinicalTrials-NCT04405076_et_al_05_28_2020
           'ClinicalTrials-NCT04470427_et_al_07_14_2020
 
       / Phase 1
-      claim !Phase1Moderna = Phase 1 results were posted in July of 2020. The authors repored that vaccine induced anti–SARS-CoV-2 immune responses in all 34 participants. Solicited adverse events that occurred in more than half the participants included fatigue, chills, headache, myalgia, and pain at the injection site. Systemic adverse events were more common after the second vaccination.
+      claim !Phase1Moderna = Phase 1 results were posted in July of 2020. The authors reported that vaccine induced anti–SARS-CoV-2 immune responses in all 34 participants. Solicited adverse events that occurred in more than half the participants included fatigue, chills, headache, myalgia, and pain at the injection site. Systemic adverse events were more common after the second vaccination.
         -
           'Jackson_et_al_07_14_2020
           'Jackson_et_al_07_14_2020.!a
@@ -232,8 +230,8 @@ subject module Vaccines
           'Anderson_et_al_09_29_2020
           'Anderson_et_al_09_29_2020.!a
 
-      / Dose for older people
-      claim !Olderpeopledose = The same report also found that the 100-μg dose in older people induced higher binding and neutralizing antibody titers than the 25-μg dose. Authors suggest that a second dose of vaccine is needed to achieve neutralizing antibodies in participants after the age of 56 years, and titers rapidly increased by 7 days after the booster vaccination.
+      / Dose for Older People
+      claim !Olderpeopledose = The same report also found that the 100-μg dose in older people induced higher binding and neutralizing antibody titers than the 25-μg dose. The authors suggest that a second dose of vaccine is needed to achieve neutralizing antibodies in participants after the age of 56 years, and titers rapidly increased by 7 days after the booster vaccination.
         -
           'Anderson_et_al_09_29_2020
           'Anderson_et_al_09_29_2020.!b
@@ -241,7 +239,7 @@ subject module Vaccines
           'Anderson_et_al_09_29_2020.!d
 
       / Phase 3
-      claim !Phase3 = In Phase 3 trial of mRNA-1273, 30,420 volunteers received the injection (15,210 with the vaccine and 15,210 with placebo. The initial data reported in November of 2020 demonstrated vaccine efficacy of 94.1% against symptomatic COVID-19. It was effective in preventing cases of severe confirmed COVID-19. Solicited and Unsolicited local adverse reactions were common with a higher occurrence after the second injection.
+      claim !Phase3 = In a Phase 3 trial of mRNA-1273, 30,420 volunteers received the injection (15,210 with the vaccine and 15,210 with placebo). The initial data reported in November of 2020 demonstrated vaccine efficacy of 94.1% against symptomatic COVID-19. It was effective in preventing cases of severe confirmed COVID-19. Solicited and unsolicited local adverse reactions were common with a higher occurrence after the second injection.
         -
           'FDA_et_al_12_17_2020
           'FDA_et_al_12_17_2020.!a
@@ -257,7 +255,7 @@ subject module Vaccines
 
     / CanSino Bio
     subject Ad5-nCOV
-      head = In July 2020, phase 2 trials demonstrated the vaccine produced a strong immune response. CanSino Bio is running Phase 3 trials in a number of countries, including Pakistan, Russia, Mexico and Chile. Estimated Completion date of Phase 3 trials is January of 2022. CanSino Bio vaccine has been approved for emergency use in China.
+      head = In July 2020, phase 2 trials demonstrated the AD5-nCOV (trade-named Convidicea) produced a strong immune response. CanSino Bio is running Phase 3 trials in a number of countries, including Pakistan, Russia, Mexico and Chile, and are estimated to complete in January of 2022. The vaccine has been approved for emergency use in China. Some researchers have raised concerns that the vaccine may increase the risk of HIV-1 acquisition among men.
 
       >
         AD5-nCOV, trade-named Convidicea, is being developed by Chinese biopharmaceutical company [CanSino Biologics](https://en.wikipedia.org/wiki/CanSino_Biologics). Ad5-nCoV is using Viral Vector, Recombinant adenovirus.
@@ -298,20 +296,20 @@ subject module Vaccines
       # Link Adenovirus Animal claims when done
 
       / On-going Clinical Trials
-      claim !OngoingTrials = Phase 2 & 3 clinical trials for CanSinoBIO was first posted in August of 2020. It will evaluate safety, tolerability, immunogenicity, and efficacy of Ad5-nCoV Against COVID-19. Estimated Completion date of Phase 3 trials is January of 2022.
+      claim !OngoingTrials = Phase 2 & 3 clinical trials for CanSinoBIO were first posted in August of 2020. It will evaluate safety, tolerability, immunogenicity, and efficacy of Ad5-nCoV Against COVID-19. The estimated completion date of Phase 3 trials is January of 2022.
         -
           'ClinicalTrials-NCT04526990_et_al_08_22_2020
           'ClinicalTrials-NCT04540419_et_al_09_07_2020
 
       / Phase 1
-      claim !Phase1 = In Phase 1 trial, 108 were recruited and received vaccine. The results published in May of 2020 showed the vaccine was tolerable and immunogenic at 28 days post-vaccination. It was also reported that humoral responses against SARS-CoV-2 peaked at day 28 post-vaccination in healthy adults, and rapid specific T-cell responses were noted from day 14 post-vaccination. Most adverse events reported were mild or moderate in severity.
+      claim !Phase1 = In the phase 1 trial, 108 individuals were recruited and received vaccine. The results published in May of 2020 showed the vaccine was tolerable and immunogenic at 28 days post-vaccination. It was also reported that humoral responses against SARS-CoV-2 peaked at day 28 post-vaccination in healthy adults, and rapid specific T-cell responses were noted from day 14 post-vaccination. Most adverse events reported were mild or moderate in severity.
         -
           'Zhu_et_al_05_22_2020
           'Zhu_et_al_05_22_2020.!a
           'Zhu_et_al_05_22_2020.!b
 
       / Phase 2
-      claim !Phase2 = In Phase 2 trial, 508 volunteers were randomly assigned to recieve vaccine or placebo. The results posted in July of 2020 reported that vaccine at 5 × 1010 viral particles is safe, and induced significant immune responses in the majority of recipients after a single immunisation. Solicited adverse reactions & Severe adverse reactions were also reported.
+      claim !Phase2 = In the phase 2 trial, 508 volunteers were randomly assigned to recieve vaccine or placebo. The results posted in July of 2020 reported that vaccine at 5 × 1010 viral particles is safe, and induced significant immune responses in the majority of recipients after a single immunisation. Solicited adverse reactions and severe adverse reactions were also reported.
         -
           'Zhu_et_al_07_20_2020
           'Zhu_et_al_07_20_2020.!a
@@ -348,7 +346,7 @@ subject module Vaccines
             'Frahm_et_al_12_27_2011.!b
 
 
-        claim !Reasoning2 = Older people are more likely to have exposure history to Ad5, with higher baseline neutralising antibody to Ad5, which indicates that this population might be more tolerant of higher dose or a booster dose regimen of the Ad5-vectored COVID-19 vaccine than people who are young and naive to Ad5.
+        claim !Reasoning2 = Older people are more likely to have exposure history to Ad5, with higher baseline neutralising antibody to Ad5, which indicates that this population might be more tolerant of a higher dose or a booster dose regimen of the Ad5-vectored COVID-19 vaccine than people who are young and naive to Ad5.
           -
             'Zhu_et_al_07_20_2020
             'Zhu_et_al_07_20_2020.!d
@@ -381,7 +379,7 @@ subject module Vaccines
             'Bovendo_et_al_11_01_2014.!g
 
       / Risks
-      claim !Concern2 =  When Ad5 vector was used for HIV vaccine, there was an increased risk of HIV-1 acquisition in vaccine recipients. Based on these past findings, researchers have raised concerned that use of an Ad5 vector for immunisation against SARS-CoV-2 could similarly increase the risk of HIV-1 acquisition among men who receive the vaccine.
+      claim !Concern2 =  When Ad5 vector was used for HIV vaccine, there was an increased risk of HIV-1 acquisition in vaccine recipients. Based on these past findings, researchers have raised concerns that use of an Ad5 vector for immunisation against SARS-CoV-2 could similarly increase the risk of HIV-1 acquisition among men who receive the vaccine.
 
         claim !PaststudiesHIV = Past studies on an Ad5 vectored vaccine in 2 HIV vaccine trials found that the vaccine actually increased the risk of HIV among the vaccinated men, a similar increase in risk was not seen in women in the Phambili trial.
           -
@@ -398,7 +396,7 @@ subject module Vaccines
             'Moodie_et_al_09_14_2015
             'Moodie_et_al_09_14_2015.!a
 
-        claim !ConcernHIV = On the basis of past findings, researchers have raised concerned concerned that use of an Ad5 vector for immunisation against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) could similarly increase the risk of HIV-1 acquisition among men who receive the vaccine.
+        claim !ConcernHIV = On the basis of past findings, researchers have raised concerns that use of an Ad5 vector for immunisation against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) could similarly increase the risk of HIV-1 acquisition among men who receive the vaccine.
           -
             'Buchbinder_et_al_10_31_2020
             'Buchbinder_et_al_10_31_2020.!a
@@ -407,9 +405,9 @@ subject module Vaccines
             'Fauci_et_al_04_04_2014
             'Fauci_et_al_04_04_2014.!a
 
-        claim !Ad5CD4 = Exploratory studies suggests that Ad5-specific CD4 T Cells could have an increased susceptibility to HIV infection
+        claim !Ad5CD4 = Exploratory studies suggest that Ad5-specific CD4 T Cells could have an increased susceptibility to HIV infection.
 
-          claim !Tcell = Additional exploratory studies suggest that Ad5 immune complexes activate the dendritic cell–T cell axis, which might enhance HIV-1 replication in CD4 T cells
+          claim !Tcell = Additional exploratory studies suggest that Ad5 immune complexes activate the dendritic cell–T cell axis, which might enhance HIV-1 replication in CD4 T cells.
             -
               'Perreau_et_al_11_03_2008
               'Perreau_et_al_11_03_2008.!a
@@ -420,9 +418,8 @@ subject module Vaccines
               'Auclair_et_al_02_23_2018.!a
               'Auclair_et_al_02_23_2018.!b
 
-
       / Intranasal Delivery
-      claim !IntranasalDelivery =  Studies in other Adenovirus has shown that Intranasal delivery could be promising way for preventing infection, disease, and upper airway transmission.
+      claim !IntranasalDelivery =  Studies in other Adenoviruses have shown that Intranasal delivery could be a promising way for preventing infection, disease, and upper airway transmission.
         -
           'Hassan_et_al_08_19_2020
           'Hassan_et_al_08_19_2020.!d
@@ -433,7 +430,7 @@ subject module Vaccines
 
     / Sputnik V
     subject Gam-COVID-Vac
-      head =  Sputnik V Phase 3 trials are currently ongoing and interim data was released in November of 2020. Efficacy amounted to 92%. No unexpected adverse events were reported during the trials. Sputnik V has been approved for emergency use in Russia, Belarus & Argentina.
+      head =  Sputnik V Phase 3 trials are currently ongoing. Interim data was released in November of 2020. Efficacy amounted to 92%. No unexpected adverse events were reported during the trials. Sputnik V has been approved for emergency use in Russia, Belarus & Argentina.
 
       >
         [Sputnik V](https://sputnikvaccine.com/), is a Non-replicating viral vector. [Gam-COVID-Vac](https://en.wikipedia.org/wiki/Gam-COVID-Vac) is a viral two-vector vaccine based on two human adenoviruses — a common cold virus — containing the gene that encodes the {Virus.Structure spike protein} (S) of SARS-CoV-2 to stimulate an immune response. The recombinant adenovirus type-26 (rAd26, component I) and adenovirus type-5 (rAd5, Component II) are both used as vectors in the vaccine. They were biotechnology-derived and contain the SARS-CoV-2 S protein gene. Both of them are administered intramuscularly: the Ad26 based vaccine is used on the first day and the Ad5 vaccine is used on the 21st day to boost response.
@@ -466,13 +463,12 @@ subject module Vaccines
         Ad5-nCOV.!Concern2
 
       / Ongoing Trials
-      claim !OngoingTrials = Phase 3 trials for Sputnik V is currently ongoing and was first posted in august of 2020. Expected compeletion date is May of 2021. It will evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of Sputnik V Against COVID-19.
+      claim !OngoingTrials = A Phase 3 trial for Sputnik V is currently ongoing and was first posted in august of 2020. The expected compeletion date is May of 2021. It will evaluate the safety, tolerability, immunogenicity, and efficacy of Sputnik V Against COVID-19.
         -
           'ClinicalTrials-NCT04530396_et_al_08_28_2020
 
-
       / Phase 1 & 2
-      claim !Phase12SputnikV = In phase 1 & 2 trials, 76 participants were enrolled to the two different studies with different vaccine formulation. In September of 2020, researches reported that in both studies the heterologous rAd26 and rAd5 vector-based COVID-19 vaccine showed a good safety profile and induced strong humoral and cellular immune responses in participants. Adverse effects observed were pain at injection site, fever, headache, weakness, and muscle/joint pain.
+      claim !Phase12SputnikV = In phase 1 & 2 trials, 76 participants were enrolled to the two different studies with different vaccine formulations. In September of 2020, researches reported that in both studies the heterologous rAd26 and rAd5 vector-based COVID-19 vaccine showed a good safety profile and induced strong humoral and cellular immune responses in participants. Adverse effects observed were pain at injection site, fever, headache, weakness, and muscle/joint pain.
         -
           'Logunov_et_al_09_04_2020
           'Logunov_et_al_09_04_2020.!a
@@ -490,10 +486,9 @@ subject module Vaccines
           'SputnikV_et_al_11_11_2020.!c
           'SputnikV_et_al_11_11_2020.!d
 
-
     / Sinovac
     subject CoronaVac
-      head = On-going phase 3 trials for Sinovac vaccines are happening in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed Immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. Most adverse reactions reported were mild. Sinovac is approved for use in China.
+      head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. Most adverse reactions reported were mild. Sinovac is approved for use in China.
 
       >
         CoronaVac is developed by the Chinese biopharmaceutical company [Sinovac](http://www.sinovac.com/).  The vaccine contains chemically-inactivated whole SARS-CoV-2 virus.
@@ -522,7 +517,7 @@ subject module Vaccines
         !Phase12CoronaVac
 
       / On going clinical trials
-      claim !OngoingTrials = Clinical trials for Sinovac started since April 2020. Estimated completion date for Phase 3 trial is October of 2021. Trials are on-going to evaluate the Safety, Tolerability, Immunogenicity, and Efficacy of CoronaVac Against COVID-19.
+      claim !OngoingTrials = Clinical trials for Sinovac started since April 2020. The estimated completion date for phase 3 trials is October of 2021. Trials are on-going to evaluate the safety, tolerability, immunogenicity, and efficacy of CoronaVac Against COVID-19.
         -
           'ClinicalTrials-NCT04352608_et_al_04_20_2020
           'ClinicalTrials-NCT04456595_et_al_07_02_2020
@@ -530,7 +525,7 @@ subject module Vaccines
           'ClinicalTrials-NCT04582344_et_al_10_09_2020
 
       / Phase 1 & 2
-      claim !Phase12CoronaVac = 144 participants were enrolled in the phase 1 trial, and, 600 participants were enrolled in the phase 2 trial in May 2020. Participants were divided into 3 μg group & 6 μg group. Results were published in Novemeber of 2020 and authors reported that coronavc induced humoral responses against SARS-CoV-2 with seroconversion of neutralising antibodies was seen for 92% in the 3 μg group, 98% in the 6 μg group. Most adverse reactions were mild, with the most common symptom being injection-site pain.
+      claim !Phase12CoronaVac = 144 participants were enrolled in the phase 1 trial, and, 600 participants were enrolled in the phase 2 trial in May 2020. Participants were divided into a 3 μg group and a 6 μg group. Results were published in Novemeber of 2020 and authors reported that coronavc induced humoral responses against SARS-CoV-2 with seroconversion of neutralising antibodies was seen for 92% in the 3 μg group, 98% in the 6 μg group. Most adverse reactions were mild, with the most common symptom being injection-site pain.
         -
           'Zhang_et_al_11_17_2020
           'Zhang_et_al_11_17_2020.!a
@@ -543,7 +538,7 @@ subject module Vaccines
     —
     / Sinopharm
     subject Sinopharm
-      head = Sinopharm is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants
+      head = Sinopharm is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants.
 
       >
         <strong>VACCINE NAME:</strong> BBIBP-CorV
