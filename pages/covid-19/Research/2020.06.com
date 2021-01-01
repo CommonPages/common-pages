@@ -1133,6 +1133,7 @@ feed June2020
 
 
   # gender, immune respone
+  @@AnneLouiseWyllie
   // Sex differences in immune responses to SARS-CoV-2 that underlie disease outcomes
   doi: https://doi.org/10.1101/2020.06.06.20123414
   ref 'Takahashi_et_al_06_09_2020

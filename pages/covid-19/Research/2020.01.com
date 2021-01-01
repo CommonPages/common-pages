@@ -221,6 +221,7 @@ feed January2020
 
 
   # Tag - Co-morbidity - Men more than women based on small sample size
+  @@XinxinZhang
   // Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study
   doi: https://doi.org/10.1016/S0140-6736(20)30211-7
   ref 'Chen_et_al_2020c

@@ -1064,6 +1064,7 @@ feed April2020
 
 
   # Age - Variant Pop
+  @@VadimGladyshev
   // COVID-19 is an emergent disease of aging
   doi: https://doi.org/10.1101/2020.04.15.20060095
   ref 'Santesmasses_et_al_04_15_2020
@@ -1312,6 +1313,7 @@ feed April2020
 
 
   # clinical characteristics, epidemic, mortality rate, old ppl
+  @@KarinaDavidson
   // Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area
   doi: https://doi.org/10.1001/jama.2020.6775
   ref 'Richardson_et_al_04_22_2020
@@ -2664,6 +2666,7 @@ feed April2020
 
 
   # transmission, epidemic or pandemic?, household transmission, contact tracing, isolation adequate to contain the pandemic, old age, young ppl
+  @@LiFang
   // Household Secondary Attack Rate of COVID-19 and Associated Determinants
   doi: https://doi.org/10.1101/2020.04.11.20056010
   ref 'Jing_et_al_2020
@@ -2797,6 +2800,7 @@ feed April2020
 
 
   # Tag - Obesity, Cormorbidconditions, epidemiologicalrisk, pandemic
+  @@JenniferLighter
   // Obesity in patients younger than 60 years is a risk factor for Covid-19 hospital admission
   doi: https://doi.org/10.1093/cid/ciaa415
   ref 'Lighter_et_al_2020
@@ -2819,6 +2823,7 @@ feed April2020
 
 
   # Tag - Obesity, Cormorbidconditions
+  @@FrancoisPattou
   // High prevalence of obesity in severe acute respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) requiring invasive mechanical ventilation
   doi: https://doi.org/10.1002/oby.22831
   ref 'Simonnet_et_al_2020
@@ -2849,6 +2854,7 @@ feed April2020
 
 
   # Tag - monitoring of hospitalization rates, clinical characteristics, and outcomes of hospitalized patients, evolving epidemiology, clinical spectrum of disease, planning and prioritization of health care system resources.
+  @@ShikhaGarg
   // Hospitalization Rates and Characteristics of Patients Hospitalized with Laboratory-Confirmed Coronavirus Disease 2019 — COVID-NET, 14 States, March 1–30, 2020
   doi: http://doi.org/10.15585/mmwr.mm6915e3
   ref 'Garg_et_al_2020

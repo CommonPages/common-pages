@@ -382,7 +382,7 @@ feed Pre2019
 
     / February, 2018 - PLOS Pathogens
     quote !a = Our major finding is that CD4 T cells activated via different HIV vaccine vectors manifest distinct susceptibility to HIV infection, which is closely associated with their phenotypic and functional characteristics; while Ad5 vector-specific CD4 T cells are readily susceptible to HIV.
-    
+
     / February, 2018 - PLOS Pathogens
     quote !b = Our data suggest that the high HIV susceptibility of Ad5 vector-specific CD4 T cells may be a contributing factor for the observed excess HIV infections in some Ad5-HIV vaccine recipients
 
@@ -2167,6 +2167,7 @@ feed Pre2019
 
 
   # Modeling analyses, FRANCE
+  @@SimonCauchemez
   // Estimating the burden of SARS-CoV-2 in France
   doi: https://doi.org/10.1126/science.abc3517
   ref 'Salje_et_al_04_20_2020
@@ -3632,6 +3633,7 @@ feed Pre2019
 
 
   # Community Mitgation , Social Distancing , Quarantine.. Gender !a, !b, Healthcare workers !c, PPE !c, Quarantine !e
+  @@TangchunWu
   // Association of Public Health Interventions With the Epidemiology of the COVID-19 Outbreak in Wuhan, China
   doi: http://doi.org/10.1001/jama.2020.6130
   ref 'Pan_et_al_2020
@@ -4382,6 +4384,7 @@ feed Pre2019
 
 
   # Co-Morbid condition - vulnerable groups, Diabetic
+  @@MarkSarnak
   // Pulmonary Infectious Mortality Among Patients With End-Stage Renal Disease
   doi: https://doi.org/10.1378/chest.120.6.1883
   ref 'Sarnak_et_al_2001

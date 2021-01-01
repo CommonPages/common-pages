@@ -1077,6 +1077,7 @@ feed March2020
 
 
   # SymptomaticPhase, Co-morbid
+  @@BoLi
   // Prevalence and Impact of Cardiovascular Metabolic Diseases on COVID-19 in China
   doi: https://doi.org/10.1007/s00392-020-01626-9
   ref 'Li_et_al_2020c
@@ -2054,6 +2055,7 @@ feed March2020
 
 
   # Tag - Old age ... Clinical Characteristics
+  @@GrazianoOnder
   // Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy
   doi: https://doi.org/doi:10.1001/jama.2020.4683
   ref 'Onder_et_al_2020
@@ -2072,6 +2074,7 @@ feed March2020
 
 
   # Tag - Old age
+  @@NeilFerguson
   // Estimates of the severity of coronavirus disease 2019: a model-based analysis
   doi: https://doi.org/10.1016/S1473-3099(20)30243-7
   ref 'Verity_et_al_2020
@@ -2209,6 +2212,7 @@ feed March2020
 
 
   # Tag - cardiac diseases, hypertension, or diabetes, anti-inflammatory drug. Counter to next 4-5 papers - Vaduganathan_et_al_2020 , Bavishi_et_al_2020 , Liu_et_al_2020d, Kim_et_al_2017, Peiró_et_al_2020
+  @@MichaelRoth
   // Are patients with hypertension and diabetes mellitus at increased risk for COVID-19 infection?
   doi: https://doi.org/10.1016/S2213-2600(20)30116-8
   ref 'FangFang_et_al_2020

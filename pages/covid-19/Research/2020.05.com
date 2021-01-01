@@ -2144,6 +2144,7 @@ feed May2020
 
 
   # Diabetes
+  @@LuluChen
   // Newly diagnosed diabetes is associated with a higher risk of mortality than known diabetes in hospitalized patients with COVID-19
   doi: https://doi.org/10.1111/dom.14099
   ref 'Li_et_al_05_29_2020
@@ -2457,6 +2458,7 @@ feed May2020
 
 
   # Variant population, cancer patients, mortality
+  @@LennardLee
   // COVID-19 mortality in patients with cancer on chemotherapy or other anticancer treatments: a prospective cohort study
   doi: https://doi.org/10.1016/S0140-6736(20)31173-9
   ref 'Lee_et_al_05_28_2020
@@ -2506,6 +2508,7 @@ feed May2020
 
 
   # epidemic, diagnosis, newyork, variant population, demographics
+  @@EliRosenberg
   // Cumulative incidence and diagnosis of SARS-CoV-2 infection in New York
   doi: https://doi.org/10.1101/2020.05.25.20113050
   ref 'Rosenberg_et_al_05_29_2020
@@ -3504,6 +3507,7 @@ feed May2020
 
 
   # Variant Population - HIV
+  @@FuWang
   // COVID-19 in people with HIV
   doi: https://doi.org/10.1016/S2352-3018(20)30163-6
   ref 'Xu_et_al_05_28_2020
@@ -3521,6 +3525,7 @@ feed May2020
 
 
   # Variant Population - HIV
+  @@PilarVizcarra
   // Description of COVID-19 in HIV-infected individuals: a single-centre, prospective cohort
   doi: https://doi.org/10.1016/S2352-3018(20)30164-8
   ref 'Vizcarra_et_al_05_28_2020
@@ -3768,6 +3773,7 @@ feed May2020
 
 
   # Variant Population - Gender, ethnicity
+  @@BenGoldacre
   // OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.
   doi: https://doi.org/10.1101/2020.05.06.20092999
   ref 'Williamson_et_al_05_07_2020
