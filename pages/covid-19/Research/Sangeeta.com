@@ -2035,7 +2035,7 @@ feed Sangeeta
 
 
 
-  # Safety and immunogenicity of the Ad26.COV2.S COVID-19 vaccine candidate: interim results of a phase 1/2a, double-blind, randomized, placebo-controlled trial.
+  // Safety and immunogenicity of the Ad26.COV2.S COVID-19 vaccine candidate: interim results of a phase 1/2a, double-blind, randomized, placebo-controlled trial.
   doi: https://doi.org/10.1101/2020.09.23.20199604
   ref 'Sadoff_et_al_09_25_2020
     head = We designed a multi-center phase 1/2a randomized, double-blinded, placebo-controlled clinical study to assesses the safety, reactogenicity and immunogenicity of Ad26.COV2.S, a non-replicating adenovirus 26 based vector expressing the stabilized pre-fusion spike (S) protein of SARS-CoV-2.
@@ -2061,7 +2061,7 @@ feed Sangeeta
       !d
 
     / September, 2020 - medRxiv
-    quote !a = The interim analysis of our Phase 1/2a study indicates that a single dose of Ad26.COV2.S, either 5x1010 365 vp or 1x1011 366 vp, is safe, well tolerated and highly immunogenic. Based on similar immunogenicity ofboth dose levels, we have selected the lower dose for further clinical evaluation.
+    quote !a = The interim analysis of our Phase 1/2a study indicates that a single dose of Ad26.COV2.S, either 5x1010 365 vp or 1x1011 366 vp, is safe, well tolerated and highly immunogenic. Based on similar immunogenicity of both dose levels, we have selected the lower dose for further clinical evaluation.
 
     / September, 2020 - medRxiv
     quote !a1 = Finding suggests that the vaccine candidate is less reactogenic in older adults. The safety profile is acceptable at any age given the seriousness of the disease the vaccine can potentially protect against and the nature of the pandemic, especially in the elderly which is the most vulnerable population to COVID-19.
@@ -2074,8 +2074,6 @@ feed Sangeeta
 
     / September, 2020 - medRxiv
     quote !d = Seroconversion for S antibodies was observed in 99% of cohort 1a participants, for the 5x1010 or 1x1011 vp dose level, respectively, and in 100% (6/6 for both dose levels) of cohort 3, respectively.
-
-
 
 
 

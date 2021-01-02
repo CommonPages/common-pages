@@ -13,6 +13,79 @@ feed Clinicaltrials
 
   #
 
+  // A Study of Ad26.COV2.S in Adults (COVID-19)
+  doi: https://clinicaltrials.gov/ct2/show/NCT04436276
+  ref 'ClinicalTrials-NCT04436276_et_al_06_18_2020
+    head = The purpose of the study is to assess the safety, reactogenicity, and immunogenicity of Ad26.COV2.S at 2 dose levels, administered intramuscularly (IM) as a single-dose or 2-dose schedule, with a single booster vaccination administered in one cohort, in healthy adults aged greater than or equal to 18 to less than or equal to 55 years and in adults aged greater than or equal to 65 years in good health with or without stable underlying conditions.
+
+
+    / June, 2020 - ClinicalTrials
+    quote !a =
+
+  // A Study of Ad26.COV2.S for the Prevention of SARS-CoV-2-Mediated COVID-19 in Adult Participants (ENSEMBLE)
+  doi: https://clinicaltrials.gov/ct2/show/NCT04505722
+  ref 'ClinicalTrials-NCT04505722_et_al_08_10_2020
+    head = The study will enroll up to 60,000 participants in order to evaluate the efficacy of Ad26.COV2.S in the prevention of molecularly confirmed moderate to severe/critical COVID-19, as compared to placebo, in adult participants.
+
+    / August, 2020 - ClinicalTrials
+    quote !a =
+
+  // Phase III Double-blind, Placebo-controlled Study of AZD1222 for the Prevention of COVID-19 in Adults
+  doi: https://clinicaltrials.gov/ct2/show/NCT04516746
+  ref 'ClinicalTrials-NCT04516746_et_al_08_18_2020
+    head = The aim of the study is to assess the safety, efficacy, and immunogenicity of AZD1222 for the prevention of COVID-19. Study will enroll 40,000 participants.
+
+    / August, 2020 - Clinical Trials
+    quote !a =
+
+
+  // Investigating a Vaccine Against COVID-19
+  doi: https://clinicaltrials.gov/ct2/show/NCT04400838
+  ref 'ClinicalTrials-NCT04400838_et_al_05_26_2020
+    head = A phase 2/3 study to determine the efficacy, safety and immunogenicity of the candidate Coronavirus Disease (COVID-19) vaccine ChAdOx1 nCoV-19 in healthy UK volunteers.
+
+    / May, 2020 - ClinicalTrials
+    quote !a =
+
+  // A phase 2/3 study to determine the efficacy, safety and immunogenicity of the candidate Coronavirus Disease (COVID-19) vaccine ChAdOx1 nCoV-19
+  doi: https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001228-32/GB
+  ref 'ClinicalTrials-2020-001228-32_et_al_04_2020
+    head = Objective is to assess efficacy of the candidate ChAdOx1 nCoV-19 against COVID-19 in adults aged 18 years and older & to assess the safety of the candidate vaccine ChAdOx1 nCoV-19 in adults.
+
+    / April, 2020 - Clinical Trails
+    quote !a =
+
+  // Study to evaluate the efficacy and safety of a SARS-CoV-2 rS vaccine with Matrix-M1™ Adjuvant in Adult Participants 18-84 Years of Age in the United Kingdom
+  doi: https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-004123-16/GB
+  ref 'ClinicalTrials-NCT04583995_et_al_09_11_2020
+    head = A Phase 3, Randomised, Observer-Blinded, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of a SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine (SARS-CoV-2 rS) with Matrix-M1™ Adjuvant in Adult Participants 18-84 Years of Age in the United Kingdom
+
+    - quotes
+      !a
+
+    / September, 2020 - ClinicalTrials
+    quote !a =
+
+
+  // Novavax Announces Initiation of PREVENT-19 Pivotal Phase 3 Efficacy Trial of COVID-19 Vaccine in the United States and Mexico
+  doi: https://ir.novavax.com/news-releases/news-release-details/novavax-initiates-phase-2-portion-phase-12-clinical-trial-covid
+  ref 'Novavax_et_al_12_28_2020
+    head = PREVENT-19 (the PRE-fusion protein subunit Vaccine Efficacy Novavax Trial | COVID-19) is a randomized, placebo-controlled, observer-blinded study to evaluate the efficacy, safety and immunogenicity of NVX-CoV2373 with Matrix-M in up to 30,000 subjects 18 years of age and older compared with placebo.
+
+
+    / December, 2020 - Novavax
+    quote !a =
+
+  # Novavax
+  // A Study Looking at the Efficacy, Immune Response, and Safety of a COVID-19 Vaccine in Adults at Risk for SARS-CoV-2
+  doi: https://clinicaltrials.gov/ct2/show/NCT04611802
+  ref 'ClinicalTrials-NCT04611802_et_al_11_02_2020
+    head = This is a study to evaluate the effectiveness, immune response, and safety of a COVID-19 vaccine called SARS-CoV-2 rS with Matrix-M1 adjuvant in adults 18 years of age and older in the United States and Mexico. Participants in the study will randomly be assigned to receive SARS-CoV-2 rS with Matrix-M1 adjuvant or placebo. Each participant in the study will receive a total of 2 intramuscular injections over the course of the study. Up to 30,000 participants will take part in the study.
+
+
+    / November, 2020 - Clinical Trials
+    quote !a =
+
   # Sinovac
   // Clinical Trial For SARS-CoV-2 Vaccine (COVID-19)
   doi: https://clinicaltrials.gov/ct2/show/NCT04582344

@@ -427,7 +427,6 @@ subject module Vaccines
           'Bovendo_et_al_11_01_2014
           'Bovendo_et_al_11_01_2014.!f
 
-
     / Sputnik V
     subject Gam-COVID-Vac
       head =  Sputnik V Phase 3 trials are currently ongoing. Interim data was released in November of 2020. Efficacy amounted to 92%. No unexpected adverse events were reported during the trials. Sputnik V has been approved for emergency use in Russia, Belarus & Argentina.
@@ -535,49 +534,76 @@ subject module Vaccines
       # Claim of phase 3 retracted as it was said by some guy and not released by the company. No source yet
       # PHASE 3 - A COVID-19 vaccine developed by China’s Sinovac Biotech is 91.25% effective, according to interim data from a late-stage trial in Turkey.  Researchers in Brazil, which is also running a final Phase III trial of the vaccine, said on Wednesday the shot was more than 50% effective, but withheld full results at the company’s request, raising questions about transparency.
 
-    —
-    / Sinopharm
-    subject Sinopharm
-      head = Sinopharm is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants.
-
-      >
-        <strong>VACCINE NAME:</strong> BBIBP-CorV
-        <strong>DOSE:</strong> 2 doses, 3 weeks apart
-        <strong>TYPE:</strong> Muscle injection
-
-      >
-        BBIBP-CorV is one of two inactivated virus COVID-19 vaccines being developed by Sinopharm.
-
-      # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426884/ - Link not working to be released in FEB 2021
-
-  —
-  / COVID‑19 candidate vaccines in Phase I–III trials
-  subject Candidates
-
     / Oxford–AstraZeneca
     subject AZD1222
-      head = AZD1222, also known as ChAdOx1 (Modified chimpanzee adenovirus vector) nCoV-19, is a COVID-19 vaccine candidate developed by University of Oxford, UK, and the pharmaceutical firm AstraZeneca in Cambridge, UK given by intramuscular injection, using as a vector the modified chimpanzee adenovirus ChAdOx1.
+      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. Phase 3 Interim primary efficacy analysis in December of 2020, authors reported vaccine efficacy of 70·4% after two doses & 64·1% after single dose with no safety concerns. Oxford-AstraZeneca vaccine has been authorized for use in UK, Argentina, India & El Salvador
+
+      >
+        Oxford–AstraZeneca, is a COVID-19 vaccine candidate developed by University of Oxford, UK, and the pharmaceutical firm [AstraZeneca](https://www.astrazeneca.com/) in Cambridge, UK given by intramuscular injection, using as a vector the modified chimpanzee adenovirus ChAdOx1.
+
+        <table>
+          <tr>
+          <th>Vaccine Name</th>
+          <td>AZD1222 also known as ChAdOx1</td>
+          </tr>
+          <tr>
+          <th>Dose</th>
+          <td> 2 doses, 4 weeks apart</td>
+          </tr>
+          <tr>
+          <th>Type</th>
+          <td>Muscle injection</td>
+          </tr>
+          <tr>
+          <th>Storage</th>
+          <td>Stable in refrigerator for at least 6 months</td>
+          </tr>
+        </table>
+
+      -
+        !OngoingTrials
+        !AnimalStudies
+        !Phase12AstraZeneca
+        !OldAge
+        !Phase3
+
+      - Key Concern
+        !EffectiveDosing
+      - Other claims
+        !LowDose
+        !ReasoningLowDose
+        !ReasoningLowDose2
 
 
-      # On-Going Clinical Trials - Trials in Brazil, South Africa, and the UK are ongoing (Link:)
-      # - https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001228-32/GB
-      # Phase 3 - https://clinicaltrials.gov/ct2/show/NCT04516746
-      # A phase 2/3 study to determine the efficacy, safety and immunogenicity of the candidate Coronavirus Disease (COVID-19) vaccine ChAdOx1 nCoV-19 in healthy UK volunteers - https://clinicaltrials.gov/ct2/show/NCT04400838
 
-
-      claim !AnimalStudies = ChAdOx1 MERS Vaccination reduced shedding and nasal discharge in camels and ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaque.
+      / Clinical Trails
+      claim !OngoingTrials = Phase 1 & 2 trials begin in April of 2020 and Phase 2 & 3 trials started in May of 2020 in UK. Estimated primary completion date is March of 2021. Trials will evaluate Safety, Efficacy, and Immunogenicity of AZD1222
         -
-          'Alharbi_et_al_11_19_2019
-          'Alharbi_et_al_11_19_2019.!a
-        -
-          'Doremalen_et_al_05_13_2020
-          'Doremalen_et_al_05_13_2020.!a
-        -
-          'Graham_et_al_06_20_2020
-          'Graham_et_al_06_20_2020.!a
+          'ClinicalTrials-2020-001228-32_et_al_04_2020
+          'ClinicalTrials-NCT04400838_et_al_05_26_2020
+          'ClinicalTrials-NCT04516746_et_al_08_18_2020
 
-      # SafetyandImmunogenicity
-      claim !Phase12AstraZeneca = Spike-specific antibodies peaked at day 28. Neutralizing antibodies after a booster dose peaked at day 56. Adverse effects observed were pain at the injection site, headache, fever, chills, muscle ache, malaise in more than 60% of participants; paracetamol allowed for some participants to increase tolerability
+
+      / Studies on Animal
+      claim !AnimalStudies = In past studies, ChAdOx1 MERS Vaccination reduced shedding and nasal discharge in camels. In May 2020, one study reported ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaque and another study in June 2020 reported an increase in SARS-CoV-2 neutralising titres in pigs and mouse when vaccinated with ChAdOx1 nCoV-19.
+
+        claim !ChAdOx1MERS = ChAdOx1 MERS Vaccination reduced shedding and nasal discharge in camels
+          -
+            'Alharbi_et_al_11_19_2019
+            'Alharbi_et_al_11_19_2019.!a
+
+        claim !RhesusMacaque = ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaque.
+          -
+            'Doremalen_et_al_05_13_2020
+            'Doremalen_et_al_05_13_2020.!a
+
+        claim !MouseandPigs = A single dose induced antigen-specific antibody and T cells responses, a booster immunisation enhanced antibody responses particularly in pigs, with a significant increase in SARS-CoV-2 neutralising titres.
+          -
+            'Graham_et_al_06_20_2020
+            'Graham_et_al_06_20_2020.!a
+
+      / Phase 1 & 2
+      claim !Phase12AstraZeneca = Between April and May of 2020, 1077 participants were enrolled and assigned to receive either ChAdOx1 nCoV-19. Authors reported that spike-specific antibodies peaked at day 28 & neutralizing antibodies after a booster dose peaked at day 56. Adverse effects observed were pain at the injection site, headache, fever, chills, muscle ache, malaise in more than 60% of participants; paracetamol allowed for some participants to increase tolerability.
         -
           'Folegatti_et_al_08_15_2020
           'Folegatti_et_al_08_15_2020.!a
@@ -585,7 +611,8 @@ subject module Vaccines
           'Folegatti_et_al_08_15_2020.!c
 
 
-      claim !OldAge = ChAdOx1 nCoV-19 vaccine was safe and well tolerated with a lower reactogenicity profile in older adults than in younger adults and has similar immunogenicity across all age groups after a boost dose. Most of the reported local and systemic adverse events were mild to moderate in severity. Fewer adverse events were reported after the boost vaccination.
+      / Old People
+      claim !OldAge = In November of 2020, one study reported that when 56–69 years group were vaccinated ChAdOx1 nCoV-19, Vaccine was safe and well tolerated with a lower reactogenicity and has similar immunogenicity across all age groups(18-69 years) after a boost dose. Most of the reported local and systemic adverse events were mild to moderate in severity. Fewer adverse events were reported after the boost vaccination.
         -
           'Ramasamy_et_al_11_18_2020
           'Ramasamy_et_al_11_18_2020.!a
@@ -593,14 +620,15 @@ subject module Vaccines
           'Ramasamy_et_al_11_18_2020.!c
 
 
-      claim !Phase3Oxford–AstraZeneca = The first interim safety and efficacy data for a viral vector coronavirus vaccine: ChAdOx1 nCoV-19, evaluated in four trials across three continents, showing significant vaccine efficacy of 70·4% after two doses and protection of 64·1% after at least one standard dose, against symptomatic disease, with no safety concerns.
-
+      / Phase 3
+      claim !Phase3 = In phase 3 trials 23 848 participants were enrolled and 11 636 participants (7548 in the UK, 4088 in Brazil) were included in the interim primary efficacy analysis. Authors reported vaccine efficacy of 70·4% after two doses and protection of 64·1% after at least one standard dose, against symptomatic disease, with no safety concerns.
         -
           'Voysey_et_al_12_08_2020
           'Voysey_et_al_12_08_2020.!a
           'Voysey_et_al_12_08_2020.!b
           'Voysey_et_al_12_08_2020.!f
 
+      / Effective Dosing
       claim !EffectiveDosing = Researchers have raised concerns about the lingering unknowns in the phase III trials about the most effective dosing regimen and how well it works in older adults.
         -
           'Ledford_et_al_12_08_2020
@@ -608,6 +636,7 @@ subject module Vaccines
           'Ledford_et_al_12_08_2020.!b
           'Ledford_et_al_12_08_2020.!c
 
+      / Low Dose
       claim !LowDose = Based on phase 2 and 3 results, The lower dose of vaccine was more efficacious and less reactogenic than the standard dose of vaccine across all age groups.
         -
           'Voysey_et_al_12_08_2020
@@ -631,25 +660,72 @@ subject module Vaccines
           'Pace_et_al_02_17_2015.!a
           'Pace_et_al_02_17_2015.!b
 
+    —
+    / Sinopharm
+    subject Sinopharm
+      head = Sinopharm is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants
+
+      >
+        <strong>VACCINE NAME:</strong> BBIBP-CorV
+        <strong>DOSE:</strong> 2 doses, 3 weeks apart
+        <strong>TYPE:</strong> Muscle injection
+
+      >
+        BBIBP-CorV is one of two inactivated virus COVID-19 vaccines being developed by Sinopharm.
+
+      # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426884/ - Link not working to be released in FEB 2021
+
+
+  / COVID‑19 candidate vaccines in Phase I–III trials
+  subject Candidates
+
     / Johnson & Johnson
     subject Ad26COV2S
-      head = Janssen Pharmaceutica (Johnson & Johnson), BIDMC" is using non replicating viral vector. Trials are ongoing in  US, Argentina, Brazil, Chile, Colombia, Mexico, Peru, Philippines, South Africa and Ukraine
+      head = In Phase 1 & 2, trials authors reported favorable safety profile and immunogenicity for further clinical development. Phase 3 trials started in September of 2020 and is currently ongoing in  US, Argentina, Brazil, Chile, Colombia, Mexico, Peru, Philippines, South Africa and Ukraine.
 
-      # Ongoing trials
-      # https://clinicaltrials.gov/ct2/show/NCT04436276
-      # https://clinicaltrials.gov/ct2/show/NCT04505722
+      >
+        [Janssen Pharmaceutica](https://www.janssen.com/) (Johnson & Johnson), BIDMC" is using non replicating viral vector. The Johnson & Johnson vaccine uses double-stranded DNA and is based on the virus’s genetic instructions for building the {Virus.Structure spike protein}. The researchers added the gene for the coronavirus spike protein to another virus called Adenovirus 26.
 
-      claim !PreclinicalTrial = Ad26 vaccine induced robust neutralizing antibody responses in rhesus macaques and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs following SARS-CoV-2 challenge.
+        <table>
+          <tr>
+          <th>Vaccine Name</th>
+          <td>Ad26.COV2.S</td>
+          </tr>
+          <tr>
+          <th>Dose</th>
+          <td> 1 dose</td>
+          </tr>
+          <tr>
+          <th>Type</th>
+          <td>Muscle injection</td>
+          </tr>
+          <tr>
+          <th>Storage</th>
+          <td>Up to two years frozen at –4° F (–20° C), and up to three months refrigerated at 36–46° F (2–8° C)</td>
+          </tr>
+        </table>
+
+      -
+        !OngoingTrials
+        !AnimalStudies
+        !Phase12
+
+      / On-going  Trials
+      claim !OngoingTrials = Clinical Trials for Ad26.COV2.S started in June of 2020. Trials will evaluate Immunogenicity, Efficacy and Safety of Ad26.COV2.S vaccine. Estimated completion date for phase 3 trials is estimated to be March 2023.
+        -
+          'ClinicalTrials-NCT04505722_et_al_08_10_2020
+          'ClinicalTrials-NCT04436276_et_al_06_18_2020
+
+      / Studies on Animal
+      claim !AnimalStudies = One study in July of 2020 reported that Ad26 vaccine induced robust neutralizing antibody responses in rhesus macaques and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs following SARS-CoV-2 challenge.
         -
           'Mercado_et_al_07_2020
           'Mercado_et_al_07_2020.!a
           'Mercado_et_al_07_2020.!b
           'Mercado_et_al_07_2020.!c
 
-       # SafetyandImmunogenicity
-
-
-      claim !Phase12Johnson&Johnson = In Phase I-II trials, seroconversion rate at day 29 after immunization reached over 92%. Solicited local adverse events and Solicited systemic adverse events were reported.
+      / Phase 1 & 2 trials
+      claim !Phase12 = In phase I-II trials Ad26.COV2.S was administered at a dose level of 5x1010 or 1x1011 viral particles (vp) per vaccination. In September of 2020 authors reported that the safety profile and immunogenicity after only a single dose are supportive for further clinical development of Ad26.COV2.S at a dose level of 5x1010 vp.
         -
           'Sadoff_et_al_09_25_2020
           'Sadoff_et_al_09_25_2020.!a
@@ -658,10 +734,56 @@ subject module Vaccines
           'Sadoff_et_al_09_25_2020.!c
           'Sadoff_et_al_09_25_2020.!d
 
+    / Novavax
+    subject NVX-CoV2373
+      head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum. Novavax Phase 3 trials are currently ongoing in UK, US and Mexico.
+
+      >
+        NVX-CoV2373 [Novavax](https://www.novavax.com/) is a protein subunit vaccine that contains the {Virus.Structure spike protein} of the SARS-CoV-2 molecule. NVX-CoV2373 is SARS-CoV-2 recombinant spike protein nanoparticle with adjuvant.
+
+        <table>
+          <tr>
+          <th>Vaccine Name</th>
+          <td>NVX-CoV2373</td>
+          </tr>
+          <tr>
+          <th>Dose</th>
+          <td> 2 doses, 3 weeks apart</td>
+          </tr>
+          <tr>
+          <th>Type</th>
+          <td>Muscle injection</td>
+          </tr>
+          <tr>
+          <th>Storage</th>
+          <td>Stable in refrigerator</td>
+          </tr>
+        </table>
+
+      -
+        !Ongoing
+        !Phase12JNovavax
+
+      / On-going trials
+      claim !Ongoing = Clinical trials for Novavax started since May of 2020. Phase 3 trials started in September of 2020 in UK and another phase 3 trial participating 30,000 people in US & Mexico started in December of 2020. Trials will evaluate Safety, Tolerability, Immunogenicity, and Efficacy of NVX-CoV2373 Against COVID-19.
+        -
+          'ClinicalTrials-NCT04583995_et_al_09_11_2020
+          'ClinicalTrials-NCT04611802_et_al_11_02_2020
+          'Novavax_et_al_12_28_2020
+
+      / Phase 1 & 2
+      claim !Phase12JNovavax = 131 healthy adults participated in phase 1 & 2 trials. In September of 2020, Authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum.  Reactogenicity events (fatigue, malaise, and tenderness) was absent or mild in the majority of participants.
+        -
+          'Keech_et_al_09_02_2020
+          'Keech_et_al_09_02_2020.!a
+          'Keech_et_al_09_02_2020.!b
+          'Keech_et_al_09_02_2020.!c
+          'Keech_et_al_09_02_2020.!d
+
     —
     / Bharat Biotech
     subject BBV152
-      head = BBV152 is an inactivated virus based COVID-19 vaccine being developed by Bharat Biotech in collaboration with Indian Council of Medical Research. Trials are going on in India.
+      head = BBV152 is an inactivated virus based COVID-19 vaccine being developed by Bharat Biotech in collaboration with Indian Council of Medical Research. Clinical trials are going on in India.
 
       # Ongoing trials
       # https://clinicaltrials.gov/ct2/show/NCT04641481
@@ -670,26 +792,6 @@ subject module Vaccines
       # SafetyandImmunogenicity
       claim !Phase12JBharatBiotech =
 
-
-    —
-    / Novavax
-    subject NVX-CoV2373
-      head =  NVX-CoV2373 Novavax is a protein subunit vaccine that contains the spike protein of the SARS-CoV-2 molecule. NVX-CoV2373 is SARS-CoV-2 recombinant spike protein nanoparticle with adjuvant.
-
-
-      # Ongoing trials
-      # https://clinicaltrials.gov/ct2/show/NCT04368988
-      # https://clinicaltrials.gov/ct2/show/NCT04583995
-
-
-      # SafetyandImmunogenicity
-      claim !Phase12JNovavax =  IgG and neutralizing antibody response with adjuvant after booster dose. Reactogenicity events (fatigue, malaise, and tenderness) was absent or mild in the majority of participants, more common with adjuvant, and of short duration.
-        -
-          'Keech_et_al_09_02_2020
-          'Keech_et_al_09_02_2020.!a
-          'Keech_et_al_09_02_2020.!b
-          'Keech_et_al_09_02_2020.!c
-          'Keech_et_al_09_02_2020.!d
 
   —
   / Effects of Vaccine / Suspectiblility?
@@ -835,7 +937,7 @@ subject module Vaccines
       - See Also
         Approved.Ad5-nCOV
         Approved.Gam-COVID-Vac
-        Candidates.AZD1222
+        Approved.AZD1222
         Candidates.Ad26COV2S
 
 

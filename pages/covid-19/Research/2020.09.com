@@ -2,6 +2,14 @@
 feed September2020
   -
     'Rajasingham_et_al_09_21_2020
+    'Ladapo_et_al_09_30_2020
+    'Benefield_et_al_09_30_2020
+    'Ibarrondo_et_al_09_10_2020
+    'Anand_et_al_02_20_2020
+    'Moderbacher_et_al_09_11_2020
+    'Edridge_et_al_09_11_2020
+    'Gupta_et_al_09_23_2020
+    'Laxminarayan_et_al_09_23_2020
 
   #
 
