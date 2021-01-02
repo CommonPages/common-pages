@@ -519,6 +519,7 @@ feed June2020
     # quote !u = Out of the total 68 genes, nine are targeted by clinical candidates that have been evaluated in Phase I clinical trials and beyond. These could potentially form the basis of repurposing therapies, after evaluating factors such as safety and pharmacology data. A further eight targets have active chemistry in ChEMBL57, meaning they have active chemical starting points for novel drug development. We can also extend our search for repurposing candidates by looking into known gene interactions to find other more tractable targets in implicated in the same biological pathway.
 
   # genetic risk, blood group type, Italy and Spain
+  @@Franke
   // Genomewide Association Study of Severe Covid-19 with Respiratory Failure
   doi: https://doi.org/10.1056/NEJMoa2020283
   ref 'Ellinghaus_et_al_06_17_2020
@@ -2080,6 +2081,7 @@ feed June2020
 
 
   # Diagnostics
+  @@RalphWeissleder
   // COVID-19 diagnostics in context
   doi: https://doi.org/10.1126/scitranslmed.abc1931
   ref 'Weissleder_et_al_06_03_2020
@@ -2347,6 +2349,7 @@ feed June2020
 
 
   # genome frontier, blood group O, epidemic
+  @@TomKarlsen
   // The ABO blood group locus and a chromosome 3 gene cluster associate with SARS-CoV-2 respiratory failure in an Italian-Spanish genome-wide association analysis
   doi: https://doi.org/10.1101/2020.05.31.20114991
   ref 'Ellinghaus_et_al_06_02_2020

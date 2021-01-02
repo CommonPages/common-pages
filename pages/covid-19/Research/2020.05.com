@@ -313,6 +313,7 @@ feed May2020
     quote !a =  For 16 patients with serum samples available 14 days or longer after symptom onset, rates of seropositivity were 94% for anti-NP IgG, 88% for anti-NP IgM, 100% for anti-RBD IgG, and 94% for anti-RBD IgM. Anti-SARS-CoV-2-NP or anti-SARS-CoV-2-RBD IgG levels correlated with virus neutralisation titre.
 
   # VitaminD
+  @@VadimBackman
   // The Possible Role of Vitamin D in Suppressing Cytokine Storm and Associated Mortality in COVID-19 Patients
   doi: https://doi.org/10.1101/2020.04.08.20058578
   ref 'Daneshkhah_et_al_05_18_2020
@@ -3208,6 +3209,7 @@ feed May2020
 
 
   # Variant Population - Kids
+  @@RussellViner
   // Susceptibility to and transmission of COVID-19 amongst children and adolescents compared with adults: a systematic review and meta-analysis
   doi: https://doi.org/10.1101/2020.05.20.20108126
   ref 'Viner_et_al_05_24_2020
@@ -3398,6 +3400,7 @@ feed May2020
 
 
   # Complications - Risk Factors ?
+  @@DavidMelzer
   // APOE e4 genotype predicts severe COVID-19 in the UK Biobank community cohort
   doi: https://doi.org/10.1093/gerona/glaa131
   ref 'Kuo_et_al_05_26_2020
@@ -4701,6 +4704,7 @@ feed May2020
 
 
   # Kids, complications
+  @@ShelleyRiphagen
   // Hyperinflammatory shock in children during COVID-19 pandemic
   doi: https://doi.org/10.1016/S0140-6736(20)31094-1
   ref 'Riphagen_et_al_2020
@@ -4763,6 +4767,7 @@ feed May2020
 
 
   # Pregnant woman
+  @@ShelliFarhadian
   // SARS-CoV-2 Infection of the Placenta
   doi: https://doi.org/10.1101/2020.04.30.20083907
   ref 'Hosier_et_al_2020

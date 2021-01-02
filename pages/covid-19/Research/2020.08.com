@@ -154,6 +154,7 @@ feed August2020
     quote !a =
 
   # VitaminD - RCT
+  @@LuisCosta
   // Effect of calcifediol treatment and best available therapy versus best available therapy on intensive care unit admission and mortality among patients hospitalized for COVID-19: A pilot randomized clinical study
   doi: https://dx.doi.org/10.1016%2Fj.jsbmb.2020.105751
   ref 'Castillo_et_al_08_29_2020

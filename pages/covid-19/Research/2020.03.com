@@ -908,6 +908,7 @@ feed March2020
 
 
   # Variant Population - Blood Type
+  @@GuangyuYang
   // Relationship between the ABO Blood Group and the COVID-19 Susceptibility
   doi: https://doi.org/10.1101/2020.03.11.20031096
   ref 'Zhao_et_al_2020b
@@ -1300,6 +1301,7 @@ feed March2020
 
 
   # Tag - Frontiers, Pregnancy, Estrogen, Endocrine-related targets may drive treatments, androgen-driven TMPRSS2 expression among men may explain the sex discrepancy, Supportive evidence for estrogen continues to mount from women tested at childbirth, Estrogen receptor agonists- We need clinical trials for these in COVID19. These downregulate a protease critical for entry & replication of SARS-CoV-2 -- TMPRSS2, no death in pregnant woman
+  @@DavidSchwartz
   // An Analysis of 38 Pregnant Women with COVID-19, Their Newborn Infants, and Maternal-Fetal Transmission of SARS-CoV-2: Maternal Coronavirus Infections and Pregnancy Outcomes
   doi: https://doi.org/10.5858/arpa.2020-0901-SA
   ref 'Schwartz_et_al_2020
@@ -1794,6 +1796,7 @@ feed March2020
 
 
   # Pregnant women
+  @@DavidBaud
   // Guidelines for pregnant women with suspected SARS-CoV-2 infection
   doi: https://doi.org/10.1016/S1473-3099(20)30157-2
   ref 'Favre_et_al_2020
@@ -2656,6 +2659,7 @@ feed March2020
 
 
   # PregnantWomen
+  @@JingYang
   // "Possible Vertical Transmission of SARS-CoV-2 From an Infected Mother to Her Newborn
   doi: https://doi.org/doi:10.1001/jama.2020.4621
   ref 'Dong_et_al_2020
@@ -2671,6 +2675,7 @@ feed March2020
 
 
   # Children
+  @@PetraZimmermann
   // Coronavirus Infections in Children Including COVID-19
   doi: https://doi.org/10.1097/INF.0000000000002660
   ref 'Zimmermann_et_al_2020
@@ -3067,6 +3072,7 @@ feed March2020
 
 
   # Smokers
+  @@JasonSheltzer
   // Cigarette smoke triggers the expansion of a subpopulation of respiratory epithelial cells that express the SARS-CoV-2 receptor ACE2
   doi: https://doi.org/10.1101/2020.03.28.013672
   ref 'Smith_et_al_2020

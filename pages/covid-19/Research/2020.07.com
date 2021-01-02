@@ -763,6 +763,7 @@ feed July2020
     quote !e = Structural comparison also suggests another substitution that likely contributes to the greatly enhanced affinity of SARS-CoV-2 S binding to ACE2: Gln493 of S makes a potential hydrogen bond with Glu35 of ACE2, which forms an intramolecular salt bridge with Lys31; in turn, ACE2 Lys31 forms a salt bridge with S Glu484. In contrast, the residue equivalent to SARS-CoV-2 Gln493 in the bat virus S is a tyrosine that is unlikely to bond to ACE2 Glu35, and SARS-CoV-2 Glu484 is replaced by a threonine that would not bond to ACE2 Lys31 (Fig. 3c). Moreover, SARS-CoV-2 Gln498 is replaced by a Tyr498 that cannot form a hydrogen bond to ACE2 Tyr41.
 
   # genetic risk
+  @@HugoZeberg
   // The major genetic risk factor for severe COVID-19 is inherited from Neandertals
   doi: https://doi.org/10.1101/2020.07.03.186296
   ref 'Zeberg_et_al_07_03_2020

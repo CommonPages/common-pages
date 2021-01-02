@@ -1508,6 +1508,7 @@ feed April2020
 
 
   # Smokers
+  @@JasonSheltzer
   // Cigarette Smoke Exposure and Inflammatory Signaling Increase the Expression of the SARS-CoV-2 Receptor ACE2 in the Respiratory Tract
   doi: https://doi.org/10.1016/j.devcel.2020.05.012
   ref 'Smith_et_al_04_26_2020
@@ -2442,6 +2443,7 @@ feed April2020
 
 
   # Genetic differences, immune response, Frontiers, infection severity, epidemology
+  @@AbhinavNellore
   // Human leukocyte antigen susceptibility map for SARS-CoV-2
   doi: https://doi.org/10.1128/JVI.00510-20
   ref 'Nguyen_et_al_2020
@@ -2581,6 +2583,7 @@ feed April2020
 
 
   # Self-isolation, quarantining, and other social-distancing- related to slow spread, early spread in UK, kids, females, geographical distribution of clades, pandemic, transmission, Haplotype analysis of the contact tracing network
+  @@KariStefansson
   // Spread of SARS-CoV-2 in the Icelandic Population
   doi: https://doi.org/10.1056/NEJMoa2006100
   ref 'Gudbjartsson_et_al_2020
@@ -2782,6 +2785,7 @@ feed April2020
 
 
   # Tag - Asymtomatic, presymptomatic, PregnantWomen, Frontiers, Pregnancy, Estrogen, Endocrine-related targets may drive treatments, androgen-driven TMPRSS2 expression among men may explain the sex discrepancy, Supportive evidence for estrogen continues to mount from women tested at childbirth, Estrogen receptor agonists- We need clinical trials for these in COVID19. These downregulate a protease critical for entry & replication of SARS-CoV-2 -- TMPRSS2, no death in pregnant woman
+  @@DenaGoffman
   // Universal Screening for SARS-CoV-2 in Women Admitted for Delivery
   doi: https://doi.org/10.1056/NEJMc2009316
   ref 'Sutton_et_al_2020
@@ -3652,6 +3656,7 @@ feed April2020
 
 
   # Tag - Air pollution / Preventive measure
+  @@FrancescaDominici
   // Exposure to air pollution and COVID-19 mortality in the United States
   doi: https://doi.org/10.1101/2020.04.05.20054502
   ref 'Wu_et_al_2020c

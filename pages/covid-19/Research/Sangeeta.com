@@ -5694,6 +5694,7 @@ feed Sangeeta
 
 
   # school reopening, black children, low-income households, teachers
+  @@
   // Risk for Severe COVID-19 Illness Among Teachers and Adults Living With School-Aged Children
   doi: https://doi.org/10.7326/M20-5413
   ref 'Gaffney_et_al_08_21_2020
@@ -5853,6 +5854,7 @@ feed Sangeeta
 
 
   # school, household, secondary,  cluster, smokers
+  @@ArnaudFontanet
   // Cluster of COVID-19 in northern France: A retrospective closed cohort study
   doi: https://doi.org/10.1101/2020.04.18.20071134
   ref 'Fontanet_et_al_04_23_2020
