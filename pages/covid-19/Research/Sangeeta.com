@@ -5694,7 +5694,7 @@ feed Sangeeta
 
 
   # school reopening, black children, low-income households, teachers
-  @@
+  @@AdamGaffney
   // Risk for Severe COVID-19 Illness Among Teachers and Adults Living With School-Aged Children
   doi: https://doi.org/10.7326/M20-5413
   ref 'Gaffney_et_al_08_21_2020
