@@ -1,7 +1,9 @@
 feed Sangeeta
   #
+
+
   //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
+  doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
 
@@ -11,20 +13,9 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
   #
+
   //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-  #
-  //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
+  doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
 
@@ -35,8 +26,73 @@ feed Sangeeta
     quote !a =
 
   #
+
   //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+
+  //
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+
+  //
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Investigation of novel SARS-CoV-2 variant
+  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948152/Technical_Briefing_VOC202012-2_Briefing_2_FINAL.pdf
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  //
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+
+  //
+  doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
 
@@ -48,7 +104,7 @@ feed Sangeeta
 
   #
   //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
+  doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
 
@@ -57,21 +113,24 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
-  #
-  //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Doremalen_et_al_07_30_2020
-    head =
 
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
 
   #
-  //
-  doi: https://doi.org/10.1038/s41586-020-2608-y
+  // Modelling conformational state dynamics and its role on infection for SARS-CoV-2 Spike protein variants
+  doi: https://doi.org/10.1101/2020.12.16.423118
+  ref 'Teruel_et_al_12_17_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - bioRxiv
+    quote !a =
+
+
+  #
+  // Key residues of the receptor binding motif in the spike protein of SARS-CoV-2 that interact with ACE2 and neutralizing antibodies
+  doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
 
@@ -80,6 +139,269 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
+
+
+  #
+  // Mutations arising in SARS-CoV-2 spike on sustained human-to-human transmission and human-to-animal passage
+  doi: https://virological.org/t/mutations-arising-in-sars-cov-2-spike-on-sustained-human-to-human-transmission-and-human-to-animal-passage/578
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Report: Continued spread of VOC 202012/01 in England 31 December 2020
+  doi: https://cmmid.github.io/topics/covid19/reports/uk-novel-variant/2020_12_31_Transmissibility_and_severity_of_VOC_202012_01_in_England_update_1.pdf
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Emergence of a Highly Fit SARS-CoV-2 Variant
+  doi: https://doi.org/10.1056/NEJMcibr2032888
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  #
+  // Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
+  doi: https://doi.org/10.1016/j.cell.2020.08.012
+  ref 'Starr_et_al_09_03_2020
+    head =
+
+    - quotes
+      !a
+
+    / September, 2020 - Cell
+    quote !a =
+
+
+  #
+  // Persistence and Evolution of SARS-CoV-2 in an Immunocompromised Host
+  doi: https://doi.org/10.1056/NEJMc2031364
+  ref 'Choi_et_al_12_03_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - N Engl J Med
+    quote !a =
+
+
+
+  #
+  // Case Study: Prolonged Infectious SARS-CoV-2 Shedding from an Asymptomatic Immunocompromised Individual with Cancer
+  doi: https://doi.org/10.1016/j.cell.2020.10.049
+  ref 'Avanzato_et_al_11_04_2020
+    head =
+
+    - quotes
+      !a
+
+    / November, 2020 - Cell
+    quote !a =
+
+
+
+  # D614G; N501Y, mutation,
+  // Modelling conformational state dynamics and its role on infection for SARS-CoV-2 Spike protein variants
+  doi: https://doi.org/10.1101/2020.12.16.423118
+  ref 'Teruel_et_al_12_17_2020
+    head =
+
+    > Abstract
+      The COVID-19 pandemic has greatly affected us all, from individuals to the world economy. Whereas great advances have been achieved in record time, a lot remains to be learned about the infection mechanisms of its causative agent, the SARS-CoV-2 coronavirus. The Spike protein interacts with the human angiotensin converting enzyme 2 receptor as part of the viral entry mechanism. To do so, the receptor binding domain (RBD) of Spike needs to be in an open state conformation. Here we utilise coarse-grained normal mode analyses to model the dynamics of the SARS-CoV-2 Spike protein and the transition probabilities between open and closed conformations for the wild type, the D614G mutant as well other variants isolated experimentally. We proceed to perform several possible in silico single mutations of Spike, 17081 in total, to determine positions and specific Spike mutations that may affect the occupancy of the open and closed states. We estimate transition probabilities between the open and closed statesfrom the calculated normal modes. Transition probabilities are employed in a Markov model to determine conformational state occupancies. Our results correctly model a shift in occupancy of the more infectious D614G strain towards higher occupancy of the open state via an increase of flexibility of the closed state and concomitant decrease of flexibility of the open state. Our results also suggest that the N501Y mutation recently observed, drastically increases the occupancy of the open state. We utilize global vibrational entropy differences to select candidate single point mutations that affect the flexibility of the open and closed states and confirm that these lead to shifts in occupancies for the most critical mutations. Among those, we observe a number of mutations on Glycine residues (404, 416, 504) and G252 in particular accepting a number of mutations. Other residues include K417, D467 and N501. This is, to our knowledge, the first use of normal mode analysis to model conformational state transitions and the effect of mutations thereon. The specific mutations of Spike identified here, while still requiring experimental validation, may guide future studies to increase our understanding of SARS-CoV-2 infection mechanisms as well as guide public health in their surveillance efforts.
+
+    - quotes
+      !a
+
+    / December, 2020 - BioRxiv
+    quote !a =
+
+
+
+
+  #
+  // S-variant SARS-CoV-2 is associated with significantly higher viral loads in samples tested by ThermoFisher TaqPath RT-QPCR
+  doi: https://doi.org/10.1038/s41586-020-2608-y
+  ref 'Kidd_et_al_12_27_2020
+    head = Since more recent information became available regarding the presence of SARS-CoV-2 variants of concern (S-VoC), which can show a suboptimal profile in RT-QPCR tests such as the ThermoFisher TaqPath used at the majority of Lighthouse laboratories, we analysed recently published data for trends and significance of the S-gene ‘dropout’ variant.
+
+    > Abstract
+      Birmingham University Turnkey laboratory is part of the Lighthouse network responsible for testing clinical samples under the UK government ‘Test & Trace’ scheme. Samples are analysed for the presence of SARS-CoV-2 in respiratory samples using the Thermofisher TaqPath RT-QPCR test, which is designed to co-amplify sections of three SARS-CoV-2 viral genes.
+
+      Since more recent information became available regarding the presence of SARS-CoV-2 variants of concern (S-VoC), which can show a suboptimal profile in RT-QPCR tests such as the ThermoFisher TaqPath used at the majority of Lighthouse laboratories, we analysed recently published data for trends and significance of the S-gene ‘dropout’ variant.
+
+      Results showed that:
+
+      the population of S-gene dropout samples had significantly lower median Ct values of ORF and N-gene targets compared to samples where S-gene was detected.
+
+      on a population basis, S-gene dropout samples clustered around very low Ct values for ORF and N targets.
+
+      linked Ct values for individual samples showed that a low Ct for ORF and N were clearly associated with an S-dropout characteristic
+
+      when conservatively inferring relative viral load from Ct values, approximately 35% of S-dropout samples had high viral loads between 10 and 10,000-fold greater than 1 × 106, compared to 10% of S-positive samples.
+
+      This analysis suggests that patients whose samples exhibit the S-dropout profile in the TaqPath test are more likely to have high viral loads at the time of sampling. The relevance of this to epidemiological reports of fast spread of the SARS-CoV-2 in regions of the UK is discussed.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / December, 2020 - medRxiv
+    quote !a = Our analyses of data, generated during the first months of Birmingham Lighthouse Turnkey operation, shows a high proportion of SARS-CoV-2 positive samples which had the viral S-gene target undetectable with two other gene targets ORF and N clearly detected (termed ‘S-dropout’ samples).
+
+    / December, 2020 - medRxiv
+    quote !b = This analysis suggests that patients whose samples exhibit the S-dropout profile in the TaqPath test are more likely to have high viral loads at the time of sampling.
+
+    # / December, 2020 - medRxiv
+    # quote !a = Further analysis shows that a significant proportion of S-dropout samples are associated with lower Ct values of ORF and N in the same sample; from which it possible to infer a relatively higher viral load in these specimens.
+
+    / December, 2020 - medRxiv
+    quote !c = The population of S-gene dropout samples had significantly lower median Ct values of ORF and N-gene targets compared to samples where S-gene was detected; from which it possible to infer a relatively higher viral load in these specimens.
+
+    / December, 2020 - medRxiv
+    quote !d = On a population basis, S-gene dropout samples clustered around very low Ct values for ORF and N targets.
+
+    / December, 2020 - medRxiv
+    quote !e = Linked Ct values for individual samples showed that a low Ct for ORF and N were clearly associated with an S-dropout characteristic.
+
+    / December, 2020 - medRxiv
+    quote !f = The significant difference in population median Ct value, between S-dropout and S-detected samples, represents between 10 and 100-fold increase in target concentration for S-dropout. When conservatively inferring relative viral load from Ct values, approximately 35% of S-dropout samples had high viral loads between 10 and 10,000-fold greater than 1 × 106, compared to 10% of S-positive samples.
+
+
+  #
+  // The N501Y and K417N mutations in the spike protein of SARS-CoV-2 alter the interactions with both hACE2 and human derived antibody: A Free energy of perturbation study
+  doi: https://doi.org/10.1101/2020.12.23.424283
+  ref 'Fratev_et_al_12_31_2020
+    head = We present Free energy perturbation (FEP) calculations for the interactions of the spike S1 receptor binding domain (RBD) with both the ACE2 receptor and an antibody derived from COVID-19 patients.
+
+    > Abstract
+      The N501Y and K417N mutations in spike protein of SARS-CoV-2 and their combination arise questions but the data about their mechanism of action at molecular level is limited. Here, we present Free energy perturbation (FEP) calculations for the interactions of the spike S1 receptor binding domain (RBD) with both the ACE2 receptor and an antibody derived from COVID-19 patients. Our results shown that the S1 RBD-ACE2 interactions were significantly increased whereas those with the STE90-C11 antibody dramatically decreased; about over 100 times. The K417N mutation had much more pronounced effect and in a combination with N501Y fully abolished the antibody effect. This may explain the observed in UK and South Africa more spread of the virus but also raise an important question about the possible human immune response and the success of already available vaccines.
+
+    - quotes
+      !a
+
+    / December, 2020 - BioRxiv
+    quote !a = Our results shown that the S1 RBD-ACE2 interactions were significantly increased whereas those with the STE90-C11 antibody dramatically decreased; about over 100 times. The K417N mutation had much more pronounced effect and in a combination with N501Y fully abolished the antibody effect.
+
+
+
+  #
+  // NERVTAG meeting on SARS-CoV-2 variant under investigation VUI-202012/01
+  doi: https://khub.net/documents/135939561/338928724/SARS-CoV-2+variant+under+investigation%2C+meeting+minutes.pdf/962e866b-161f-2fd5-1030-32b6ab467896?t=1608491166921
+  ref 'NERVTAG_et_al_12_18_2020
+    head = The committee received and considered two documents: The PHE document‘New evidence on VUI-202012/01 dated 18 December, Ct monitoring data from ONS/Oxford University COVID-19 Infection Survey and Bonsall paper: Early analysis of a potential link between viral load and the N501Y mutation in the SARS-CoV-2 spike protein.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !a = NERVTAG has moderate confidence that VUI-202012/01 demonstrates a substantial increase in transmissibility compared to other variants.
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !b = Growth rate from genomic data: which suggest a growth rate of VUI-202012/01 that that is 71% (95%CI: 67%-75%) higher than other variants.
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !c = Studies of correlation between R-values and detection of the variant: which suggest an absolute increase in the R-value of between 0.39 to 0.93.
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !d = PCR ct values: which suggest a decrease of ct value of around 2 associated with the new variant.
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !e = Viral load inferred from number of unique genome reads: which suggests 0.5 increase in median log10 inferred viral load in Y501 versus N501.
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !f = It was noted that whilst previous variants have successfully emerged in periods of low prevalence without clear evidence of having a selective advantage, the emergence and subsequent dominance of VUI-202012/01 in a period of relatively high prevalence suggests VUI-202012/01 does have a selective advantage over other variants.
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !g = It was noted that VUI-202012/01 has demonstrated exponential growth during a period when national lockdown measures were in place.
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !h = Disease severity: 4 deaths in around 1000 cases have been identified but further work is needed to compare this fatality rate with comparable data sets.
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !i = Antigenic escape. The location of the mutations in the receptor binding domain of the spike glycoprotein raises the possibility that this variant is antigenically distinct from prior variants.
+
+    / December, 2020 - New and Emerging Respiratory Virus Threats Advisory Group
+    quote !j = Four probable reinfections have been identified amongst 915 subjects with this variant but further work is needed to compare this reinfection rate with comparable data sets.
+
+
+
+  #
+  // Lineage-specific growth of SARS-CoV-2 B.1.1.7 during the English national lockdown
+  doi: https://virological.org/t/lineage-specific-growth-of-sars-cov-2-b-1-1-7-during-the-english-national-lockdown/575
+  ref 'Vöhringer_et_al_2020
+    head = A hierarchical Bayesian model is used to jointly model lineage-agnostic spatiotemporal SARS-CoV-2 PCR test data and genomic sequencing data of the B.1.1.7 lineage.
+
+    > Background
+      The emerging B.1.1.7 SARS-CoV-2 lineage has proliferated rapidly in the U.K. Here we use a combination of daily local SARS-CoV-2 incidence data and weekly genomic surveillance data from COG-UK to infer its infection dynamics and parameters during English national lockdown from November 5 to December 2 2020.
+
+    > Methods
+      A hierarchical Bayesian model is used to jointly model lineage-agnostic spatiotemporal SARS-CoV-2 PCR test data and genomic sequencing data of the B.1.1.7 lineage. This analysis infers the total and lineage-specific temporal incidence in each local authority and estimates the historic basic reproductive ratio R for new and other SARS-CoV-2 lineages per local authority.
+
+    > Findings
+      We find strong and consistent evidence that B.1.1.7 proliferated (R>1) during the English lockdown in 87% (213/244) of lower tier local authorities with an average R value of 1.25. At the same time other lineages contracted (R<1) at an average R value of 0.85 in most regions, leading to 83% (203/244) of regions showing B.1.1.7 proliferation while other lineages diminished.
+
+    > Implications
+      The emerging B.1.1.7 SARS-CoV-2 lineage spreads faster than its predecessors. It continued to grow during a lockdown in which other lineages shrank. These analyses suggest that stricter measures are required to contain the B.1.1.7 lineage.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / December, 2020 - Virological.org
+    quote !a = The emerging B.1.1.7 SARS-CoV-2 lineage spreads faster than its predecessors. It continued to grow during a lockdown in which other lineages shrank.
+
+    / December, 2020 - Virological.org
+    quote !b = The spread of B.1.1.7 was due to a lineage-specific transmissibility advantage, rather than general inefficacy of viral control. There is some weak evidence that the rate of B.1.1.7 growth was lower in areas with greater lockdown efficiency.
+
+    / December, 2020 - Virological.org
+    quote !c = The analysis presented here demonstrates a consistently higher R value for B.1.1.7 by a factor of 1.47 at any given time.
+
+    / December, 2020 - Virological.org
+    quote !d = We find strong and consistent evidence that B.1.1.7 proliferated (R>1) during the English lockdown in 87% (213/244) of lower tier local authorities with an average R value of 1.25.
+
+    / December, 2020 - Virological.org
+    quote !e = In relation to the English lockdown the data show that other lineages contracted during lockdown with an R value of 0.85, largely independent of B.1.1.7 presence, leading to 83% (203/244) of regions showing B.1.1.7 proliferation while other lineages diminished.
+
+
+
 
   #
   // Interim Clinical Considerations for Use of mRNA COVID-19 Vaccines Currently Authorized in the United States.
@@ -690,6 +1012,7 @@ feed Sangeeta
       SARS-CoV-2 Spike protein is critical for virus infection via engagement of ACE2, and amino acid variation in Spike is increasingly appreciated. Given both vaccines and therapeutics are designed around Wuhan-1 Spike, this raises the theoretical possibility of virus escape, particularly in immunocompromised individuals where prolonged viral replication occurs. Here we report fatal SARS-CoV-2 escape from neutralising antibodies in an immune suppressed individual treated with convalescent plasma, generating whole genome ultradeep sequences by both short and long read technologies over 23 time points spanning 101 days. Little evolutionary change was observed in the viral population over the first 65 days despite two courses of remdesivir. However, following convalescent plasma we observed dynamic virus population shifts, with the emergence of a dominant viral strain bearing D796H in S2 and ΔH69/ΔV70 in the S1 NTD of the Spike protein. As serum neutralisation waned, viruses with the escape genotype diminished in frequency, before returning during a final, unsuccessful course of convalescent plasma. In vitro, the Spike escape variant conferred decreased sensitivity to multiple units of convalescent plasma/sera from different recovered patients, whilst maintaining infectivity similar to wild type. These data reveal strong positive selection on SARS-CoV-2 during convalescent plasma therapy and identify the combination of Spike mutations D796H and ΔH69/ΔV70 as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
 
     - quotes
+      !e
       !a
       !b
       !c
@@ -698,8 +1021,8 @@ feed Sangeeta
     / December, 2020 - MedRxiv
     quote !a = Data reveal strong positive selection on SARS-CoV-2 during convalescent plasma therapy and identify the combination of Spike mutations D796H and ΔH69/ΔV70 as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
 
-    # / December, 2020 - MedRxiv
-    # quote !a = Following convalescent plasma we observed dynamic virus population shifts, with the emergence of a dominant viral strain bearing D796H in S2 and ΔH69/ΔV70 in the S1 NTD of the Spike protein and identified the combination of Spike mutations (D796H and ΔH69/ΔV70) as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
+    / December, 2020 - MedRxiv
+    quote !e = Little evolutionary change was observed in the viral population over the first 65 days despite two courses of remdesivir. However, following convalescent plasma we observed dynamic virus population shifts, with the emergence of a dominant viral strain bearing D796H in S2 and ΔH69/ΔV70 in the S1 NTD of the Spike protein. As serum neutralisation waned, viruses with the escape genotype diminished in frequency, before returning during a final, unsuccessful course of convalescent plasma.
 
     # / December, 2020 - MedRxiv
     # quote !a = As serum neutralisation waned, viruses with the escape genotype diminished in frequency, before returning during a final, unsuccessful course of convalescent plasma.
@@ -751,7 +1074,7 @@ feed Sangeeta
 
   # VOC 202012/01
   // Estimated transmissibility and severity of novel SARS-CoV-2 Variant of Concern 202012/01 in England
-  doi: https://cmmid.github.io/topics/covid19/reports/uk-novel-variant 2020_12_23_Transmissibility_and_severity_of_VOC_202012_01_in_England.pdf
+  doi: https://cmmid.github.io/topics/covid19/reports/uk-novel-variant/2020_12_23_Transmissibility_and_severity_of_VOC_202012_01_in_England.pdf
   ref 'Davies_et_al_12_23_2020
     head = We fitted a two-strain mathematical model of SARS-CoV-2 transmission to observed COVID-19 hospital admissions, hospital and ICU bed occupancy, and deaths; SARS-CoV-2 PCR prevalence and seroprevalence; and the relative frequency of Variant of Concern (VOC 202012/01) in the three most heavily affected NHS England regions (South East, East of England, and London).
 
@@ -811,15 +1134,19 @@ feed Sangeeta
       !a
       !b
       !c
+      !d
 
     / December, 2020 - Virological.org
     quote !a = We report a rapidly growing lineage in the UK associated with an unexpectedly large number of genetic changes including in the receptor-binding domain and associated with the furin cleavage site.
 
     / December, 2020 - Virological.org
-    quote !b = The B.1.1.7 lineage accounts for an increasing proportion of cases in parts of England. The number of B.1.1.7 cases, and the number of regions reporting B.1.1.7 infections, are growing. B.1.1.7 has an unusually large number of genetic changes, particularly in the spike protein. Three of these mutations have potential biological effects.
+    quote !b = The B.1.1.7 lineage accounts for an increasing proportion of cases in parts of England. B.1.1.7 has an unusually large number of genetic changes, particularly in the spike protein. Three of these mutations have potential biological effects.
 
     / December, 2020 - Virological.org
     quote !c = Mutation N501Y is one of six key contact residues within the receptor-binding domain (RBD) and has been identified as increasing binding affinity to human and murine ACE2. The spike deletion 69-70del has been described in the context of evasion to the human immune response but has also occurred a number of times in association with other RBD changes. Mutation P681H is immediately adjacent to the furin cleavage site, a known location of biological significance.
+
+    / December, 2020 - Virological.org
+    quote !d = The B.1.1.7 lineage carries a larger than usual number of virus genetic changes. The accrual of 14 lineage-specific amino acid replacements prior to its detection is, to date, unprecedented in the global virus genomic data for the COVID-19 pandemic. The rate of molecular evolution within lineage B.1.1.7 is similar to that of other related lineages. However, lineage B.1.1.7 is more divergent from the phylogenetic root of the pandemic, indicating a higher rate of molecular evolution on the phylogenetic branch immediately ancestral to B.1.1.7.
 
 
 

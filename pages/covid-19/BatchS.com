@@ -320,6 +320,23 @@
   # Questions for VACCINES
   # If a person has a reaction to one SARS-CoV-2 vaccine, what are the implications for the safety of vaccination with a different SARS-CoV-2 vaccine? Furthermore, what safety issues may preclude future vaccination altogether?
   # What are the correlates of protective immunity after natural infection or vaccination? How long will immunity last? Will widespread immunity limit the spread of the virus in the population? Which component of the vaccine is responsible for allergic reactions? Are some vaccines less likely than others to cause IgE- and non-IgE–mediated reactions?
+  # So why did Europe and the US both choose mRNA vaccines (never before tested for coronaviruses in humans) and not WKV (proven efficacy for antibody production against coronavirus in humans)?
+  # "Would Salk-style inactivated or whole killed virus vaccine (WKV) be worth considering as well? Its distribution and storage should be easier than a mRNA vaccine..."
+
+
+  # questions #variants
+
+  # New Variants- How will it affect vaccines under development?
+
+  #### 01/21 ###
+
+  # Having tested that the virus construct expressed S protein when used to infect lab-grown cells, the researchers carried out in vivo experiments with the PIV-5-MERS-S vaccine in mice engineered to carry the human DPP4 receptor. They found that all the animals given a single intranasal dose were protected against a lethal challenge with MERS-CoV, whereas all the control animals died following viral challenge.The finding that PIV5 expressing MERS S protected mice against lethal MERS-CoV challenge at a single low dose of 104 PFU suggests its potential use as a vaccine vector for emerging viruses such as SARS-CoV-2,” the team concluded. “Further studies of using PIV5 expressing the S protein from SARS-CoV-2 as a vaccine candidate are ongoing.”
+
+  # The researchers noted several factors that make PIV5 expressing a coronavirus spike protein an appealing platform for vaccine development against emerging coronaviruses. PIV5 can infect many different mammals, including humans, without causing disease, and is also being investigated as a vaccine vector for other respiratory diseases, including respiratory syncytial virus (RSV) and influenza. The fact that a low dose of the vaccine was sufficient to protect the mice might be beneficial with a view to creating enough vaccine for mass immunization. The MERS vaccine in the reported current study was, in addition, the most effective MERS vaccine to date in animal models of the disease.
+
+  # https://science.sciencemag.org/content/370/6517/649?rss=1/blog
+  # Novavax
+  # Developers of protein vaccines must develop their own version of the spike protein—one that closely mimics the naturally occurring spike and is stable enough to retain its immunological punch during manufacturing, packaging, and distribution. Most such vaccines include an additional compound called an adjuvant to help stimulate a strong, protective immune response. Those extra steps make protein vaccines slower to develop than those that deliver genetic instructions.
 
   #### 12/27 ######
 
@@ -451,7 +468,9 @@
   # When we made this deletion alone in a simplified lab virus that has the SARS-CoV-2 Spike protein, we found that it was twice as infectious on cells that expressed the surface receptor used by the virus. This could potentially explain why VUI 202012/01 appears to spread faster.
 
 
+  # we estimated that the novel SARS-CoV-2 variant VOC 202012/01 is more transmissible than existing circulating SARS-CoV-2 viruses. We estimate that VOC 202012/01 is 50-74% more transmissible than preexisting variants of SARS-CoV-2.
 
+  ####
 
   # A bit confused about what all this is about? Why does the virus mutate - what even is a mutation? When should I worry?
 
@@ -574,7 +593,9 @@
     'Kemp_et_al_12_21_2020.!b
 
   >
-    Many are interested in using the 69/70 deletion to scan for cases of the new #SARSCoV2 variants. As it can impact some probes (seen as an 'S drop-out' in PCR), it can be a high-throughput way to check for the 'SE England' variant - but some important things to remember! First, the 69/70 deletion has arisen multiple times independently: not everything with 69/70 is the SE England variant! You can see that 69/70del appears many times here: notably it's associated with 501Y.V1 (English variant) AND 453 & 439.n particular, S:N439K is widespread across Europe, and about 3/4 of the sequences in this cluster have the 69/70del. So there's a fair chance a 69/70del in continental Europe is part of this cluster, not the 'new variant' from England. In the UK & particularly SE England, using the 69/70del as a proxy for the variant works because it is in many areas the most common variant. In other places, where frequency is expected to be lower, it's very important to double-check S drop-out results!!We have two sources of information about the spread of the new variant. The most reliable is genomics data, but this has a lag period, and most samples can't be tested in this way. The second is "S dropout", but it doesn't uniquely identify B.1.1.7
+    Many are interested in using the 69/70 deletion to scan for cases of the new #SARSCoV2 variants. As it can impact some probes (seen as an 'S drop-out' in PCR), it can be a high-throughput way to check for the 'SE England' variant - but some important things to remember!
+
+    First, the 69/70 deletion has arisen multiple times independently: not everything with 69/70 is the SE England variant! You can see that 69/70del appears many times here: notably it's associated with 501Y.V1 (English variant) AND 453 & 439.n particular, S:N439K is widespread across Europe, and about 3/4 of the sequences in this cluster have the 69/70del. So there's a fair chance a 69/70del in continental Europe is part of this cluster, not the 'new variant' from England. In the UK & particularly SE England, using the 69/70del as a proxy for the variant works because it is in many areas the most common variant. In other places, where frequency is expected to be lower, it's very important to double-check S drop-out results!!We have two sources of information about the spread of the new variant. The most reliable is genomics data, but this has a lag period, and most samples can't be tested in this way. The second is "S dropout", but it doesn't uniquely identify B.1.1.7
 
   >
     In addition to the primary factors 1 (mutational composition) and 2 (rapid spread), we also see higher viral loads in 501Y.V1 cases with Ct values on average 2 units lower. 12/17
@@ -616,6 +637,28 @@
 
   >
     K417 is a unique hACE-2 interacting residue that forms a salt bridge interaction across the central contact region with D30 of hACE231,32. This is the most striking difference in the RBD-hACE2 complex between SARS-CoV-2 and SARSCoV, and contributes to the enhanced binding affinity of SARS-CoV-2 to hACE23.Deep mutational scanning suggests that the K417N mutation has minimal impact on binding affinity to hACE2
+
+
+
+
+
+
+
+  # While new mutations occur at a steady rate, they have not, until B.1.1.7, accumulated into a single strain, suggesting that this new variant has acquired them through selection for improved properties. As viruses are transmitted, those that allow for increased virological ‘success’ can be selected for, which changes the properties of the virus over time. This typically leads to more transmission and less virulence and for human infecting coronaviruses the end result of this evolutionary process might look like the other 4 commonly found coronaviruses that cause symptoms that we recognise as the common cold – however, these 4 common cold viruses are highly contagious. The new B.1.1.7 may be on the path towards this but is not there yet, and still appears to have all the human lethality that the original had but with an increased ability to transmit. Hopefully, it does not alter the immune response sufficiently to interfere with the vaccine protection. While the consequences of this new strain are still being worked out, it seems prudent to try to reduce its spread around the UK and the rest of the world.”
+
+
+
+
+
+
+  # What evolutionary processes or selective pressures might have given rise to lineage B.1.1.7?
+
+  # Outside of spike, the ORF8 Q27stop mutation truncates the ORF8 protein or renders it inactive and thus allows further downstream mutations to accrue. Early on during the pandemic multiple virus isolates with deletions leading to loss of ORF8 expression were isolated worldwide, including a large cluster in Singapore with a deletion leading to both a truncated Orf7b and ablated ORF8 expression. The Singaporean strain, which had a 382nt deletion, was associated with a milder clinical infection and less post-infection inflammation, however this cluster died out at the end of March after Singapore successfully implemented control measures (Young et al. 2020). Subsequent work has found that the ORF8 deletion has only a very modest effect on virus replication in human primary airway cells compared to viruses without the deletion, leading to a slight replication lag compared to viruses with the deletion (Gamage et al. 2020). As ORF8 is usually 121 amino acids long it is likely the stop codon at position 27 observed in lineage B.1.1.7 results in a loss of function.
+
+
+
+
+
 
 
   # Are the UK and South Africa variants the same? No. See this thread for more info: Critically, the SA variant does not have the 69/70 deletion we see in the UK variant.

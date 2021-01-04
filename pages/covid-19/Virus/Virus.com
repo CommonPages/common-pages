@@ -539,34 +539,115 @@ subject module Virus
         'Tang_et_al_05_24_2020
         'Bhattacharyya_et_al_2020
 
+    # SARS-CoV-2 Variants - we should make a subject
+    # assesses if variants of SARS-CoV-2 result in changes in transmissibility, clinical presentation and severity, or if they impact on countermeasures, including diagnostics, therapeutics and vaccines. Previous reports of the D614G mutation and the recent reports of virus variants from the Kingdom of Denmark, the United Kingdom of Great Britain and Northern Ireland, and the Republic of South Africa have raised interest and concern in the impact of viral changes.
+
+    # D614G = A variant of SARS-CoV-2 with a D614G substitution in the gene encoding the spike protein emerged in late January or early February 2020. Over a period of several months, the D614G mutation replaced the initial SARS-CoV-2 strain identified in China and by June 2020 became the dominant form of the virus circulating globally.Studies in human respiratory cells and in animal models demonstrated that compared to the initial virus strain, the strain with the D614G substitution has increased infectivity and transmission. The SARS-CoV-2 virus with the D614G substitution does not cause more severe illness or alter the effectiveness of existing laboratory diagnostics, therapeutics, vaccines, or public health preventive measures.
+
+    # Cluster 5 = In August and September 2020, a SARS-CoV-2 variant linked to infection among farmed mink and subsequently transmitted to humans, was identified in North Jutland, Denmark. The variant, referred to as the “Cluster 5” variant by Danish authorities, has a combination of mutations not previously observed. Due preliminary studies conducted in Denmark, there is concern that this variant has may result in reduced virus neutralization in humans, which could potentially decrease the extend and duration of immune protection following natural infection or vaccination. Studies are ongoing to assess virus neutralization among humans with this variant. To date, following extensive investigation and surveillance, Danish authorities have identified only 12 human cases of the Cluster 5 variant in September 2020, and it does not appear to have spread widely.
+
     claim !G614 = In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
       -
         'Korber_et_al_07_03_2020
-        
+
     —
     / B.1.1.7 UK Variant
     subject B117
       head = B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H).
 
-      claim !UKlineage = A rapidly growing lineage in the UK is associated with an unexpectedly large number of genetic changes including in the receptor-binding domain and associated with the furin cleavage site.
+      >
+        On 14 December 2020, variant referred as SARS-CoV-2 VOC 202012/01 (Variant of Concern, year 2020, month 12, variant 01) was reported by the United Kingdom. This lineage has acquired a number of mutations that differentiate it from other viruses. As of 30 December, VOC-202012/01 variant has been reported in 31 other countries/territories/areas in five of the six WHO regions.
+
+
+      claim !UKlineage = A rapidly growing lineage (B.1.1.7) in the UK is associated with an unexpectedly large number of genetic changes particularly in the spike protein; including in the receptor-binding domain and associated with the furin cleavage site.
         -
           'Arambaut_et_al_2020
           'Arambaut_et_al_2020.!a
           'Arambaut_et_al_2020.!b
+
+      >
+        The variant is notable for the higher number of mutations it contains compared to the recorded trend to date.
+      -
+        'Arambaut_et_al_2020
+        'Arambaut_et_al_2020.!d
+      >
+        Most branches in the global phylogenetic tree of SARS-CoV-2 show no more than a few mutations and mutations accumulate at a relatively consistent rate over time. Estimates suggest that circulating SARS-CoV-2 lineages accumulate nucleotide mutations at a rate of about 1-2 mutations per month.
+          While new mutations occur at a steady rate, they have not, until B.1.1.7, accumulated into a single strain.
+      # -
+      #   Duchene et al. 2020
+
+
+
+      # Four analytic approaches were reviewed regarding the transmissibility of VUI-202012/01
+      claim !Growthrate = Studies estimate that SARS-CoV-2 VOC 202012/01 has increased transmissibility and this variant could be about 50 to 70 percent more transmissible than pre-existing variants. Findings suggests that the spread of B.1.1.7 was due to a lineage-specific transmissibility advantage, rather than general inefficacy of viral control.
+      -
+        'Davies_et_al_12_23_2020
+        'Davies_et_al_12_23_2020.!a
+        'Davies_et_al_12_23_2020.!c
+      -
+        'Vöhringer_et_al_2020
+        'Vöhringer_et_al_2020.!a
+        'Vöhringer_et_al_2020.!b
+        'Vöhringer_et_al_2020.!c
+        'Vöhringer_et_al_2020.!d
+        'Vöhringer_et_al_2020.!e
+      -
+        'NERVTAG_et_al_12_18_2020
+        'NERVTAG_et_al_12_18_2020.!a
+        'NERVTAG_et_al_12_18_2020.!b
+        'NERVTAG_et_al_12_18_2020.!c
+
+      -
+        'Davies_et_al_12_23_2020
+        'Davies_et_al_12_23_2020.!g
+      -
+        'NERVTAG_et_al_12_18_2020
+        'NERVTAG_et_al_12_18_2020.!f
+        'NERVTAG_et_al_12_18_2020.!g
+
+
+      claim !Severity = Preliminary analyses so far indicate that there is no change in disease severity (as measured by length of hospitalization and 28-day case fatality).
+      # or occurrence of reinfection between variant cases compared to other SARS-CoV-2 viruses circulating in the United Kingdom.
+        -
+          'Davies_et_al_12_23_2020
+          'Davies_et_al_12_23_2020.!a
+          'Davies_et_al_12_23_2020.!c
+        -
+          'NERVTAG_et_al_12_18_2020
+          'NERVTAG_et_al_12_18_2020.!h
+
+
+
+      claim !Viralload = S-variant SARS-CoV-2 is associated with significantly higher viral loads in samples tested by ThermoFisher TaqPath RT-PCR.
+      -
+        'Kidd_et_al_12_27_2020
+        'Kidd_et_al_12_27_2020.!b
+        'Kidd_et_al_12_27_2020.!c
+        'Kidd_et_al_12_27_2020.!f
+      -
+        'NERVTAG_et_al_12_18_2020
+        'NERVTAG_et_al_12_18_2020.!e
+
 
       claim !Mutation = B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H).
         -
           'Arambaut_et_al_2020
           'Arambaut_et_al_2020.!c
 
-      claim !N501Y = An Animal Study have shown that the N501Y mutation is located at the receptor binding domain (RBD) of the spike protein- which seems to provide a more favorable interaction with mouse ACE2 for docking and entry, thus leading to the increased virulence phenotype in mice.
+      # Potential biological significance of mutations
+      claim !N501Ymutation = B.1.1.7 lineage-specific non-synonymous mutations and deletions. We note that many occur in the virus spike protein. These include spike position 501, one of the key contact residues in the receptor binding domain (RBD), and experimental data suggests mutation N501Y can increase ACE2 receptor affinity.
+        -
+          'Starr_et_al_09_03_2020
 
+      claim !N501Y = N501Y has been associated with increased infectivity and virulence in a mouse model study.
         -
           'Gu_et_al_09_25_2020
           'Gu_et_al_09_25_2020.!c
 
 
       claim !DelH69V70 = The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent circulating lineages of SARS-CoV-2. The delH69/V70 enhances viral infectivity. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+
+      # It arose in the mink-associated outbreak in Denmark on the background of the Y453F RBD mutation, and in humans in association with the N439K RBD mutation, accounting for its relatively high frequency in the global genome data (~3000 sequences).
         -
           'Kemp_et_al_12_21_2020
           'Kemp_et_al_12_21_2020.!a
@@ -583,6 +664,7 @@ subject module Virus
           'Kemp_et_al_12_19_2020
           'Kemp_et_al_12_19_2020.!a
 
+
       claim !P681HFurin = The mutation P681H is located immediately adjacent to the furin cleavage site in spike. Furin cleavage site in spike is a known region of importance for infection and transmission.
 
         claim !P681H = The mutation P681H is located immediately adjacent to the furin cleavage site in spike.
@@ -593,18 +675,81 @@ subject module Virus
         claim !Furincleavage = Furin cleavage site in spike is a known region of importance for infection and transmission.
           -
             'Hoffmann_et_al_05_21_2020
+            'Hoffmann_et_al_05_21_2020.!a
+            'Hoffmann_et_al_05_21_2020.!b
+          -
             'Peacock_et_al_09_30_2020
+          -
+            'Zhu_et_al_08_25_2020
 
+
+        # claim = The deletion at position 69/70del was found to affect the performance of some diagnostic PCR assays with an S gene target. Most PCR assays in use worldwide will use multiple targets and therefore the impact of the variant on diagnostics is not anticipated to be significant. Laboratory evaluation has demonstrated no significant impact on the performance of antigen-based lateral flow devices.
+        #
+        # Many are interested in using the 69/70 deletion to scan for cases of the new #SARSCoV2 variants. As it can impact some probes (seen as an 'S drop-out' in PCR), it can be a high-throughput way to check for the 'SE England' variant - but some important things to remember!
+        # -
+        #   'Kidd_et_al_12_27_2020
+        #   'Kidd_et_al_12_27_2020.!a
+        #   'Kidd_et_al_12_27_2020.!b
+        #   'Kidd_et_al_12_27_2020.!c
+        #   'Kidd_et_al_12_27_2020.!f
+
+
+        claim !Immunocompromised = Researchers speculate that chronic infection played a role in the origins of the B.1.1.7 variant, though this still remains a hypothesis.
+
+        # High rates of mutation accumulation over short time periods have been reported previously in studies of immunodeficient or immunosuppressed patients who are chronically infected with SARS-CoV-2. These infections exhibit detectable SARS-CoV-2 RNA for 2-4 months or longer (although there are also reports of long infections in some immunocompetent individuals). The patients are treated with convalescent plasma (sometimes more than once) and usually also with the drug remdesivir. Virus genome sequencing of these infections reveals unusually large numbers of nucleotide changes and deletion mutations and often high ratios of non-synonymous to synonymous changes. Convalescent plasma is often given when patient viral loads are high, and Kemp et al. (2020) report that intra-patient virus genetic diversity increased after plasma treatment was given.
+        # https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563
+        # These considerations lead us to hypothesise that the unusual genetic divergence of lineage B.1.1.7 may have resulted, at least in part, from virus evolution with a chronically-infected individual. Although such infections are rare, and onward transmission from them presumably even rarer, they are not improbable given the ongoing large number of new infections. Although we speculate here that chronic infection played a role in the origins of the B.1.1.7 variant, this remains a hypothesis and we cannot yet infer the precise nature of this event.
+        # -
+        #   'Choi_et_al_12_03_2020
+        >
+          One study reported a large numbers of nucleotide changes and deletion mutations in  an immune suppressed individual treated with convalescent plasma.
+        -
+          'Kemp_et_al_12_19_2020
+          'Kemp_et_al_12_19_2020.!e
+          'Kemp_et_al_12_19_2020.!a
+
+        -
+          'Avanzato_et_al_11_04_2020
+
+
+        >
+          The N501Y and K417N mutations in the spike protein of SARS-CoV-2 alter the interactions with both hACE2 and human derived antibody.
+        -
+          'Fratev_et_al_12_31_2020
+          'Fratev_et_al_12_31_2020.!a
+        -
+          'NERVTAG_et_al_12_18_2020
+          'NERVTAG_et_al_12_18_2020.!i
 
 
     —
     / B.1.351 South Africa Variant
     subject B1351
-      head = Emergence and rapid spread of a new SARS-CoV-2 lineage with multiple spike mutations has been reported in South Africa. This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM). The SA variant and the UK variant, both share the same mutation in spike: N501Y (N->Y at position 501), but the SA variant does not have the 69/70 deletion. Phylogenetic analysis shows that these 2 variants have arisen separately.
+      head = Emergence and rapid spread of a new SARS-CoV-2 lineage with multiple spike mutations has been reported in South Africa.
+      >
+        On 18 December, national authorities in South Africa announced the detection of a new variant of SARS-CoV-2 that is rapidly spreading in three provinces of South Africa. South Africa has named this variant 501Y.V2, because of a N501Y mutation. While SARS-CoV-2 VOC 202012/01 from the UK also has the N501Y mutation, phylogenetic analysis has shown that 501Y.V2 from South Africa are different virus variants. As of 30 December, the 501Y.V2 variant from South Africa has been reported from four other countries to date.
+
+      >
+        This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM). The SA variant and the UK variant, both share the same mutation in spike: N501Y (N->Y at position 501), but the SA variant does not have the 69/70 deletion. Phylogenetic analysis shows that these 2 variants have arisen separately.
+      -
+        'Tegally_et_al_12_22_2020
+        'Tegally_et_al_12_22_2020.!b
+
+      >
+        preliminary studies suggest the variant is associated with increased transmissibility.
       -
         'Tegally_et_al_12_22_2020
         'Tegally_et_al_12_22_2020.!a
-        'Tegally_et_al_12_22_2020.!b
+
+      >
+        The N501Y and K417N mutations in the spike protein of SARS-CoV-2 alter the interactions with both hACE2 and human derived antibody.
+      -
+        'Fratev_et_al_12_31_2020
+        'Fratev_et_al_12_31_2020.!a
+
+
+      # CALL N501Y
+
 
 
 
