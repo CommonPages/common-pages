@@ -1,7 +1,16 @@
 / October, 2020
 feed October2020
   -
+    'Buchbinder_et_al_10_31_2020
+    'Vkovski_et_al_10_28_2020
+    'Wajnberg_et_al_10_26_2020
+    'Brundin_et_al_10_21_2020
+    'Hay_et_al_10_13_2020
+    'Goyal_et_al_02_20_2020
+    'Kowitdamrong_et_al_10_09_2020
+    'Seow_et_al_10_26_2020
     'Lipsitch_et_al_10_06_2020
+    'Ueki_et_al_10_2020
 
   #
   // Use of adenovirus type-5 vectored vaccines: a cautionary tale

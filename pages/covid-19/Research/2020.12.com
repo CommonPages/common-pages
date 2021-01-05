@@ -1,6 +1,26 @@
-
 feed December2020
 
+  -
+    'Baden_et_al_02_20_2020
+    'Mitze_et_al_12_3_2020
+    'FDA_et_al_12_17_2020
+
+
+  #
+
+  # Reinfection
+  // Prior SARS-CoV-2 infection is associated with protection against symptomatic reinfection
+  doi: https://doi.org/10.1016/j.jinf.2020.12.023
+  ref 'Hanrath_et_al_12_26_2020
+    head = A second wave of SARS-CoV-2 transmission occurred in our setting from October to November 2020, approximately 7 months later. We undertook a retrospective analysis of HCW testing data during this second wave, to address the question of whether previous SARS-CoV-2 infection was associated with protection.
+
+    - quotes
+      !a
+
+    / December, 2020 - Journal of Infection
+    quote !a = Despite 290 symptomatic infections in 10,137 non-immune HCWs, there were no symptomatic reinfections in over 1000 HCWs with past infection. We conclude that SARS-CoV-2 infection appears to result in protection against symptomatic infection in working age adults, at least in the short term.
+
+  #
 
 
   // Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine

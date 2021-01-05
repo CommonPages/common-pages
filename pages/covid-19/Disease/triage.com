@@ -17,6 +17,10 @@ index: hide
     'Lumley_et_al_11_19_2020
     'Lumley_et_al_11_19_2020.!a
 
+  - Proof against Reinfection in HCW
+    'Hanrath_et_al_12_26_2020
+    'Hanrath_et_al_12_26_2020.!a  
+
   > Claim
     Stable adaptive Immune Response for 90% patient for over 6 months. However response is heterogenous which means some proportion of population will always be prone to reinfection
   -
@@ -34,6 +38,12 @@ index: hide
     'Buitrago-Garcia_et_al_09_22_2020.!a
     'Buitrago-Garcia_et_al_09_22_2020.!e
 
+  #  Long term impact of Covid
+  -
+    'Pilotto_et_al_01_02_2021
+    'Pilotto_et_al_01_02_2021.!a
+    'Pilotto_et_al_01_02_2021.!b
+    'Pilotto_et_al_01_02_2021.!c
 
 
   # > Claim / Background
