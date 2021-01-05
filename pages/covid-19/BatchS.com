@@ -315,6 +315,35 @@
     'Klein_et_al_12_22_2020.!h
     'Klein_et_al_12_22_2020.!i
 
+  >
+    A case study indicated that certain immunocompromised individuals may shed infectious virus longer than previously recognized.
+    Many current infection control guidelines assume that persistently PCR-positive individuals are shedding residual RNA and not infectious virus, with immunocompromised people thought to remain infectious for no longer than 20 days after symptom onset (CDC, 2020a). Here we show that certain individuals may shed infectious, replication-competent virus for much longer than previously recognized (van Kampen et al., 2020). Although infectious virus could be detected up to day 70, sgRNA, a molecular marker for active SARS-CoV-2 replication (Speranza et al., 2020),
+
+  -
+    'Choi_et_al_12_03_2020
+    'Choi_et_al_12_03_2020.!b
+  -
+    'Avanzato_et_al_11_04_2020
+    'Avanzato_et_al_11_04_2020.!a
+    'Avanzato_et_al_11_04_2020.!b
+    'Avanzato_et_al_11_04_2020.!d
+    'Avanzato_et_al_11_04_2020.!e
+
+  >
+    Several clinical trials are investigating the efficacy of convalescent plasma, but currently the effect of convalescent plasma therapy on COVID-19 outcome remains equivocal (Mira et al., 2020; Salazar et al., 2020). The limited effect of convalescent plasma treatment on clearance of SARS-CoV-2 could be due to the fact that intravenously (i.v.) administered antibodies do not distribute well to the nasal epithelium (Ikegami et al., 2020) compared with the lower respiratory tract (Mira et al., 2020).
+  -
+    'Avanzato_et_al_11_04_2020
+    'Avanzato_et_al_11_04_2020.!f
+  -
+    'Kemp_et_al_12_29_2020
+    'Kemp_et_al_12_29_2020.!c
+
+  >
+    With SARS-CoV-2, there is generally relatively limited within-host variation reported, and over the course of infection, the major SARS-CoV-2 population remains identical (Jary et al., 2020; Shen et al., 2020; Capobianchi et al., 2020).
+
+
+  # https://doi.org/10.1016/j.cell.2020.10.049
+
   #### 12/31 ####
 
   # Questions for VACCINES
@@ -327,6 +356,8 @@
   # questions #variants
 
   # New Variants- How will it affect vaccines under development?
+
+
 
   #### 01/21 ###
 
@@ -586,8 +617,8 @@
   >
     We report recurrent emergence and significant onward transmission of a six-nucleotide deletion in the S gene, which results in loss of two amino acids: H69 and V70. Of particular note this deletion, H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F, that have been shown to increase binding affinity to hACE2 and reduce binding with monoclonal antibodies) and its prevalence is rising in parts of Europe.
   -
-    'Kemp_et_al_12_19_2020
-    'Kemp_et_al_12_19_2020.!a
+    'Kemp_et_al_12_29_2020
+    'Kemp_et_al_12_29_2020.!a
     'Kemp_et_al_12_21_2020
     'Kemp_et_al_12_21_2020.!a
     'Kemp_et_al_12_21_2020.!b
@@ -637,6 +668,15 @@
 
   >
     K417 is a unique hACE-2 interacting residue that forms a salt bridge interaction across the central contact region with D30 of hACE231,32. This is the most striking difference in the RBD-hACE2 complex between SARS-CoV-2 and SARSCoV, and contributes to the enhanced binding affinity of SARS-CoV-2 to hACE23.Deep mutational scanning suggests that the K417N mutation has minimal impact on binding affinity to hACE2
+
+  >
+    We next examined the lineages where Spike mutations in the RBD were identified at high frequency, in particular co-occurring with N439K, an amino acid replacement recently reported to be expanding in Europe and detected across the world. N439K appears to have reduced susceptibility to a small subset of monoclonals targeting the RBD, whilst retaining affinity for ACE2 in vitro. The proportion of viruses with ΔH69/ΔV70 only increased from August 2020 when it co-occurred with the second N439K lineage. As of November 26th, remarkably there were twice as many cumulative sequences with the deletion as compared to the single N439K. Due to their high sampling rates the country with the highest proportion of N439K+ ΔH69/ΔV70 versus N439K alone is England. The low levels of sequencing in most countries indicate N439K’s prevalence could be relatively high3. In Scotland, where early growth of N439K was high (forming N439K lineage i that subsequently went extinct with other lineages after the lockdown3), there is now an inverse relationship with 546 versus 177 sequences for N439K and N439K+ΔH69/ΔV70 respectively (as of November 26th). These differences therefore likely reflect differing epidemic growth characteristics and timings of the introductions the N439K variants with or without the deletion.
+
+
+    The second significant cluster with ΔH69/ΔV70 and RBD mutants involves Y453F, another RBD mutation that increases binding affinity to ACE2, along with F486L and N501T related to human-mink transmissions in Denmark9 (Figure 4). This sub-lineage, termed ‘Cluster 5’ was part of a wider lineage in which the same deleted region (ΔH69/ΔV70) was observed. In Y453F lineages, the mutant virus demonstrates reduced susceptibility to sera from recovered COVID-19 patients (https://files.ssi.dk/Mink-cluster-5-short-report_AFO2). The ΔH69/ΔV70 was first detected in the Y453F background on August 24th and thus far appears limited to Danish sequences
+
+    A third lineage containing the same out of frame deletion ΔH69/ΔV70 has arisen with another RBD mutation N501Y (Figure 5, supplementary figure 2). Based on its location it might be expected to escape antibodies similar to COV2-24995. In addition, when SARS-CoV-2 was passaged in mice for adaptation purposes, N501Y emerged and increased pathogenicity. Early sequences with N501Y alone were isolated both in Brazil and USA in April 2020. N501Y + ΔH69/ΔV70sequences appear to have been detected first in the UK in September 2020, with the crude cumulative number of N501Y + ΔH69/ΔV70 mutated sequences now exceeding the single mutant (Figure 5). Of particular concern is a sublineage of around 350 sequences (Figure 6) bearing six spike mutations across the RBD (N501Y, A570D) and S2 (P681H, T716I, S982A and D1118H) as well as the ΔH69/ΔV70 in England (Figure 7). This cluster has a very long branch (Figure 6).
+
 
 
 

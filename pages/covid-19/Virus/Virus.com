@@ -544,6 +544,9 @@ subject module Virus
 
     # D614G = A variant of SARS-CoV-2 with a D614G substitution in the gene encoding the spike protein emerged in late January or early February 2020. Over a period of several months, the D614G mutation replaced the initial SARS-CoV-2 strain identified in China and by June 2020 became the dominant form of the virus circulating globally.Studies in human respiratory cells and in animal models demonstrated that compared to the initial virus strain, the strain with the D614G substitution has increased infectivity and transmission. The SARS-CoV-2 virus with the D614G substitution does not cause more severe illness or alter the effectiveness of existing laboratory diagnostics, therapeutics, vaccines, or public health preventive measures.
 
+    # The potential for SARS-CoV-2 mutations to rapidly emerge and fix is exemplified by D614G, an amino acid replacement in S2 that alters linkages between S1 and S2 subunits on adjacent protomers as well as RBD orientation, infectivity, and transmission. The example of D614G also demonstrates that mechanisms directly impacting important biological processes can be indirect- papers are in Sangeeta.i
+    # https://www.biorxiv.org/content/10.1101/2020.12.14.422555v3.full.pdf
+
     # Cluster 5 = In August and September 2020, a SARS-CoV-2 variant linked to infection among farmed mink and subsequently transmitted to humans, was identified in North Jutland, Denmark. The variant, referred to as the “Cluster 5” variant by Danish authorities, has a combination of mutations not previously observed. Due preliminary studies conducted in Denmark, there is concern that this variant has may result in reduced virus neutralization in humans, which could potentially decrease the extend and duration of immune protection following natural infection or vaccination. Studies are ongoing to assess virus neutralization among humans with this variant. To date, following extensive investigation and surveillance, Danish authorities have identified only 12 human cases of the Cluster 5 variant in September 2020, and it does not appear to have spread widely.
 
     claim !G614 = In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
@@ -572,10 +575,22 @@ subject module Virus
         'Arambaut_et_al_2020.!d
       >
         Most branches in the global phylogenetic tree of SARS-CoV-2 show no more than a few mutations and mutations accumulate at a relatively consistent rate over time. Estimates suggest that circulating SARS-CoV-2 lineages accumulate nucleotide mutations at a rate of about 1-2 mutations per month.
-          While new mutations occur at a steady rate, they have not, until B.1.1.7, accumulated into a single strain.
-      # -
-      #   Duchene et al. 2020
+        While new mutations occur at a steady rate, they have not, until B.1.1.7, accumulated into a single strain.
+      -
+        'Duchene_et_al_08_19_2020
+        'Duchene_et_al_08_19_2020.!a
+      -
+        'Jary_et_al_07_24_2020
+        'Jary_et_al_07_24_2020.!a
+        'Jary_et_al_07_24_2020.!b
+        'Jary_et_al_07_24_2020.!c
+      -
+        'Shen_et_al_03_09_2020
+        'Shen_et_al_03_09_2020.!a
 
+      # With SARS-CoV-2, there is generally relatively limited within-host variation reported, and over the course of infection, the major SARS-CoV-2 population remains identical (Jary et al., 2020; Shen et al., 2020; Capobianchi et al., 2020). Potential factors contributing to the observed within-host evolution is prolonged infection and the compromised immune status of the host, possibly resulting in a different set of selective pressures compared with an immune-competent host. These differential selective pressures may have allowed a larger genetic diversity with continuous turnover of dominant viral species throughout the course of infection.
+
+      # papers are included below in immunocompromised section
 
 
       # Four analytic approaches were reviewed regarding the transmissibility of VUI-202012/01
@@ -629,6 +644,7 @@ subject module Virus
         'NERVTAG_et_al_12_18_2020.!e
 
 
+
       claim !Mutation = B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H).
         -
           'Arambaut_et_al_2020
@@ -645,13 +661,39 @@ subject module Virus
           'Gu_et_al_09_25_2020.!c
 
 
-      claim !DelH69V70 = The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent circulating lineages of SARS-CoV-2. The delH69/V70 enhances viral infectivity. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+      claim !DelH69V70 = The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent circulating lineages of SARS-CoV-2. The delH69/V70 enhances viral infectivity and transmissibility. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
 
       # It arose in the mink-associated outbreak in Denmark on the background of the Y453F RBD mutation, and in humans in association with the N439K RBD mutation, accounting for its relatively high frequency in the global genome data (~3000 sequences).
-        -
-          'Kemp_et_al_12_21_2020
-          'Kemp_et_al_12_21_2020.!a
-          'Kemp_et_al_12_21_2020.!b
+
+      >
+         H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F (Y453F- mink-associated outbreak in Denmark), that have been shown to increase binding affinity to hACE2 and reduce binding with monoclonal antibodies) and its prevalence is rising in parts of Europe.
+      -
+        'Kemp_et_al_12_21_2020
+        'Kemp_et_al_12_21_2020.!a
+        'Kemp_et_al_12_21_2020.!b
+        'Kemp_et_al_12_21_2020.!c
+        'Kemp_et_al_12_21_2020.!d
+        'Kemp_et_al_12_21_2020.!e
+
+      -
+        'Lassaunière_et_al_2020
+        'Lassaunière_et_al_2020.!c
+        'Kemp_et_al_12_21_2020
+        'Kemp_et_al_12_21_2020.!d
+
+
+      >
+        The delH69/V70 enhances viral infectivity and transmissibility. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+      -
+        'Kemp_et_al_12_21_2020
+        'Kemp_et_al_12_21_2020.!f
+        'Kemp_et_al_12_21_2020.!g
+
+      # >
+      #   A recent analysis highlighted the potential for enhanced transmissibility of viruses with deletions in the NTD, including H69/V70.
+      #
+      #   https://www.biorxiv.org/content/10.1101/2020.11.19.389916v1.full.pdf
+
 
       claim !Antibodyescape = Deletion of spike residues 69 and 70 which may aid antibody escape.
         -
@@ -661,8 +703,8 @@ subject module Virus
 
       claim !Antibodyresistance = One report on immunocompromised individual where prolonged viral replication occured, identified the combination of Spike mutations D796H and ΔH69/ΔV70 as a broad antibody resistance mechanism against commonly occurring antibody responses to SARS-CoV-2.
         -
-          'Kemp_et_al_12_19_2020
-          'Kemp_et_al_12_19_2020.!a
+          'Kemp_et_al_12_29_2020
+          'Kemp_et_al_12_29_2020.!a
 
 
       claim !P681HFurin = The mutation P681H is located immediately adjacent to the furin cleavage site in spike. Furin cleavage site in spike is a known region of importance for infection and transmission.
@@ -686,6 +728,10 @@ subject module Virus
         # claim = The deletion at position 69/70del was found to affect the performance of some diagnostic PCR assays with an S gene target. Most PCR assays in use worldwide will use multiple targets and therefore the impact of the variant on diagnostics is not anticipated to be significant. Laboratory evaluation has demonstrated no significant impact on the performance of antigen-based lateral flow devices.
         #
         # Many are interested in using the 69/70 deletion to scan for cases of the new #SARSCoV2 variants. As it can impact some probes (seen as an 'S drop-out' in PCR), it can be a high-throughput way to check for the 'SE England' variant - but some important things to remember!
+
+        # Research is vitally needed into whether lateral flow devices for antigen and antibody detection can detect emerging strains and the immune responses to them, particularly given reports that S signal in PCR based tests are frequently negative in the new variant. Finally, detection of the deletion and other key mutations by rapid diagnostics should be a research priority as such tests could be used as a proxy for antibody escape mutations to inform surveillance at global scale.
+        # https://www.biorxiv.org/content/10.1101/2020.12.14.422555v3.full.pdf
+
         # -
         #   'Kidd_et_al_12_27_2020
         #   'Kidd_et_al_12_27_2020.!a
@@ -694,32 +740,59 @@ subject module Virus
         #   'Kidd_et_al_12_27_2020.!f
 
 
-        claim !Immunocompromised = Researchers speculate that chronic infection played a role in the origins of the B.1.1.7 variant, though this still remains a hypothesis.
+      >
+        Potential factors contributing to the observed within-host evolution is prolonged infection and the compromised immune status of the host, possibly resulting in a different set of selective pressures compared with an immune-competent host.
+        The detection of a high number of novel mutations suggests this lineage has either been introduced from a geographic region with very poor sampling or viral evolution may have occurred in a single individual in the context of a chronic infection.
 
-        # High rates of mutation accumulation over short time periods have been reported previously in studies of immunodeficient or immunosuppressed patients who are chronically infected with SARS-CoV-2. These infections exhibit detectable SARS-CoV-2 RNA for 2-4 months or longer (although there are also reports of long infections in some immunocompetent individuals). The patients are treated with convalescent plasma (sometimes more than once) and usually also with the drug remdesivir. Virus genome sequencing of these infections reveals unusually large numbers of nucleotide changes and deletion mutations and often high ratios of non-synonymous to synonymous changes. Convalescent plasma is often given when patient viral loads are high, and Kemp et al. (2020) report that intra-patient virus genetic diversity increased after plasma treatment was given.
-        # https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563
-        # These considerations lead us to hypothesise that the unusual genetic divergence of lineage B.1.1.7 may have resulted, at least in part, from virus evolution with a chronically-infected individual. Although such infections are rare, and onward transmission from them presumably even rarer, they are not improbable given the ongoing large number of new infections. Although we speculate here that chronic infection played a role in the origins of the B.1.1.7 variant, this remains a hypothesis and we cannot yet infer the precise nature of this event.
-        # -
-        #   'Choi_et_al_12_03_2020
-        >
-          One study reported a large numbers of nucleotide changes and deletion mutations in  an immune suppressed individual treated with convalescent plasma.
-        -
-          'Kemp_et_al_12_19_2020
-          'Kemp_et_al_12_19_2020.!e
-          'Kemp_et_al_12_19_2020.!a
+        https://doi.org/10.1016/j.cell.2020.10.049
 
-        -
-          'Avanzato_et_al_11_04_2020
+      claim !Immunocompromised = Researchers speculate that long chronic infection in immunodeficient or immunosuppressed patients individuals played a role in the origins of the B.1.1.7 variant, though this still remains a hypothesis.
 
 
-        >
-          The N501Y and K417N mutations in the spike protein of SARS-CoV-2 alter the interactions with both hACE2 and human derived antibody.
-        -
-          'Fratev_et_al_12_31_2020
-          'Fratev_et_al_12_31_2020.!a
-        -
-          'NERVTAG_et_al_12_18_2020
-          'NERVTAG_et_al_12_18_2020.!i
+      # During pandemics neither the infected patient nor subsequently infected individuals impart an immunological pressure on the virus. However, during a long-term persistent infection, virus replicates in the presence of endogenous or supplemented (e.g. convalescent sera or therapeutic monoclonal) antibody mediated immunity. Viral evolution in such patients may foreshadow preferred avenues of adaption in immune experienced populations. In individuals, multiple variants with distinct deletions can arise over time, essentially existing as an intra-host quasispecies.
+
+      >
+        High rates of mutation accumulation over short time periods have been reported previously in studies of immunodeficient or immunosuppressed patients who are chronically infected with SARS-CoV-2. Virus genome sequencing of these infections reveals unusually large numbers of nucleotide changes and deletion mutations and often high ratios of non-synonymous to synonymous changes.
+
+      # These considerations lead us to hypothesise that the unusual genetic divergence of lineage B.1.1.7 may have resulted, at least in part, from virus evolution with a chronically-infected individual. Although such infections are rare, and onward transmission from them presumably even rarer, they are not improbable given the ongoing large number of new infections. Although we speculate here that chronic infection played a role in the origins of the B.1.1.7 variant, this remains a hypothesis and we cannot yet infer the precise nature of this event.
+      -
+        'Choi_et_al_12_03_2020
+        'Choi_et_al_12_03_2020.!a
+      -
+        'Avanzato_et_al_11_04_2020
+        'Avanzato_et_al_11_04_2020.!c
+
+      >
+        One study reported a large numbers of nucleotide changes and deletion mutations in  an immune suppressed individual treated with convalescent plasma.
+        One study reported that intra-patient virus genetic diversity increased after plasma treatment was given.
+      -
+        'Kemp_et_al_12_29_2020
+        'Kemp_et_al_12_29_2020.!e
+        'Kemp_et_al_12_29_2020.!a
+
+      >
+        The N501Y and K417N mutations in the spike protein of SARS-CoV-2 alter the interactions with both hACE2 and human derived antibody.
+      -
+        'Fratev_et_al_12_31_2020
+        'Fratev_et_al_12_31_2020.!a
+      -
+        'NERVTAG_et_al_12_18_2020
+        'NERVTAG_et_al_12_18_2020.!i
+
+
+      >
+        The UK is a site for at least one Phase III trial of a SARS-CoV-2 vaccine. Given that deletion variants alter the antigenicity of SARS-CoV-2 S protein, potential mismatches between circulating and vaccine candidates may confound estimates of efficacy.
+      -
+        'McCarthy_et_al_11_19_2020
+        'McCarthy_et_al_11_19_2020.!a
+        'McCarthy_et_al_11_19_2020.!b
+      -
+        'Kemp_et_al_12_21_2020
+        'Kemp_et_al_12_21_2020.!a
+        'Kemp_et_al_12_21_2020.!b
+        'Kemp_et_al_12_21_2020.!c
+        'Kemp_et_al_12_21_2020.!d
+        'Kemp_et_al_12_21_2020.!e
 
 
     —

@@ -53,16 +53,7 @@ feed Sangeeta
 
   #
 
-  //
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
 
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
 
   #
   // Investigation of novel SARS-CoV-2 variant
@@ -77,8 +68,8 @@ feed Sangeeta
     quote !a =
 
 
-  #
-  //
+  # D614G
+  // Structural and functional analysis of the D614G SARS-CoV-2 spike protein variant
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -89,9 +80,10 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
-  #
 
-  //
+
+  # D614G
+  // Tracking changes in SARS-CoV-2 Spike: evidence that D614G increases infectivity of the COVID-19 virus
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -102,8 +94,10 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
-  #
-  //
+
+
+  # D614G
+  // SARS-CoV-2 D614G variant exhibits efficient replication ex vivo and transmission in vivo.
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -113,6 +107,46 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
+
+  # D614G
+  // Combined Point-of-Care Nucleic Acid and Antibody Testing for SARS-CoV-2 following Emergence of D614G Spike Variant
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  # N439K mutation
+  // The circulating SARS-CoV-2 spike variant N439K maintains fitness while evading antibody-mediated immunity
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  //  Prospective mapping of viral mutations that escape antibodies used to treat COVID-19
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
 
 
   #
@@ -192,33 +226,6 @@ feed Sangeeta
     quote !a =
 
 
-  #
-  // Persistence and Evolution of SARS-CoV-2 in an Immunocompromised Host
-  doi: https://doi.org/10.1056/NEJMc2031364
-  ref 'Choi_et_al_12_03_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - N Engl J Med
-    quote !a =
-
-
-
-  #
-  // Case Study: Prolonged Infectious SARS-CoV-2 Shedding from an Asymptomatic Immunocompromised Individual with Cancer
-  doi: https://doi.org/10.1016/j.cell.2020.10.049
-  ref 'Avanzato_et_al_11_04_2020
-    head =
-
-    - quotes
-      !a
-
-    / November, 2020 - Cell
-    quote !a =
-
-
 
   # D614G; N501Y, mutation,
   // Modelling conformational state dynamics and its role on infection for SARS-CoV-2 Spike protein variants
@@ -234,6 +241,204 @@ feed Sangeeta
 
     / December, 2020 - BioRxiv
     quote !a =
+
+
+
+  #
+  // SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans
+  doi: https://files.ssi.dk/Mink-cluster-5-short-report_AFO2
+  ref 'Lassaunière_et_al_2020
+    head = SARS-CoV-2 genome sequences obtained from infected mink and humans living on the farms provided evidence of SARS-CoV-2 spread between mink and human in zoonotic events. This study investigates the amino acid changes in the spike surface glycoprotein that appeared during this outbreak and their effect on the antigenicity of the SARS-CoV-2 virus.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    /
+    quote !a = Within the infected mink, the SARS-CoV-2 virus mutated, giving rise to several amino acid changes in the spike protein. The first was a tyrosine to phenylalanine at amino acid 453 (Y453F), a mutation that also appeared during the Dutch mink farm outbreaks. It is a conservative amino acid substitution in the receptor binding domain that directly contacts the host ACE2 receptor at amino acid 34.
+
+    /
+    quote !b = This ACE2 contact position differs between human and mink (histidine [34H] in humans and tyrosine [34Y] in mink and other mustelids, which suggests that Y453F is an adaptation mutation to mink ACE2. Importantly, 453F increases affinity for human ACE2, which may explain its successful introduction and establishment in humans.
+
+    /
+    quote !c = Following the appearance of 453F, additional spike mutations were observed in minks and the humans epidemiologically linked to the infected mink farms. These include: i) 69-70deltaHV - a deletion of a histidine and valine at amino acid positions 69 and 70 in the N-terminal domain of the S1 subunit; ii) I692V – a conservative substitution at position 692 that is located seven amino acids downstream of the furin cleavage site; iii) S1147L – a non-conservative substitution at position 1147 in the S2 subunit; and iv) M1229I – a conservative substitution located within the transmembrane domain.
+
+    /
+    quote !d = Efforts are underway to isolate each mink-associated SARS-CoV-2 spike mutant strain that occurs in people residing in Denmark. To date, Statens Serum Institut in Denmark has isolated two strains of mink-associated SARS-CoV-2 viruses. These include an isolate with the 453F spike mutation (F-spike) from cluster 1 and an isolate with a 69-70deltaHV, 453F, 692V, and 1229I mutation combination from Cluster 5 (hereafter referred to as ΔFVI-spike).
+
+    /
+    quote !e = The clinical isolates bearing the Y453F spike mutation replicated as efficiently as the unmutated/wildtype SARS-CoV-2 virus that predominates in Denmark. Conversely, the SARS-CoV-2 virus with four mutations grew slower than both the wildtype virus and other SARS62 CoV-2 virus isolates.
+
+    /
+    quote !f = The ΔFVI-spike mutant virus titer increased 54.7-fold from 24 to 96 hours post-inoculation, compared to an average of 4-fold (range: 2.6 to 5.7-fold) over the same time for other SARS-CoV-2 isolates. The ability to replicate to high viral titers is consistent with high levels of the ΔFVI-spike mutant virus detected in throat swab samples of infected persons, as indicated by an average qPCR assay (E-Sarbeco) cycle threshold of 24.7 (range: 20-35).
+
+    /
+    quote !g = The different convalescent plasma were not equally affected by the ΔFVI-spike mutant virus. The two plasma samples with high neutralization titers were largely unaffected, while plasma with low and intermediate titers were more likely to experience a loss in neutralization activity. In these preliminary data from 9 convalescent plasma, an average 3.58-fold reduction was observed. Only two plasma samples had a greater than 4-fold reduction.
+
+
+
+  #
+  // Genomic Diversity of Severe Acute Respiratory Syndrome-Coronavirus 2 in Patients With Coronavirus Disease 2019
+  doi: https://doi.org/10.1093/cid/ciaa203
+  ref 'Shen_et_al_03_09_2020
+    head = We have conducted metatranscriptome sequencing for bronchoalveolar lavage fluid samples from 8 patients with SARS–CoV-2, and also analyzed data from 25 patients with community-acquired pneumonia (CAP), and 20 healthy controls for comparison.
+
+    > Background
+      A novel coronavirus (CoV), severe acute respiratory syndrome (SARS)–CoV-2, has infected >75 000 individuals and spread to >20 countries. It is still unclear how fast the virus evolved and how it interacts with other microorganisms in the lung.
+
+    > Methods
+      We have conducted metatranscriptome sequencing for bronchoalveolar lavage fluid samples from 8 patients with SARS–CoV-2, and also analyzed data from 25 patients with community-acquired pneumonia (CAP), and 20 healthy controls for comparison.
+
+    > Results
+      The median number of intrahost variants was 1–4 in SARS–CoV-2–infected patients, ranged from 0 to 51 in different samples. The distribution of variants on genes was similar to those observed in the population data. However, very few intrahost variants were observed in the population as polymorphisms, implying either a bottleneck or purifying selection involved in the transmission of the virus, or a consequence of the limited diversity represented in the current polymorphism data. Although current evidence did not support the transmission of intrahost variants in a possible person-to-person spread, the risk should not be overlooked. Microbiotas in SARS–CoV-2–infected patients were similar to those in CAP, either dominated by the pathogens or with elevated levels of oral and upper respiratory commensal bacteria.
+
+    > Conclusion
+      SARS–CoV-2 evolves in vivo after infection, which may affect its virulence, infectivity, and transmissibility. Although how the intrahost variant spreads in the population is still elusive, it is necessary to strengthen the surveillance of the viral evolution in the population and associated clinical changes.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / March, 2020 - Clinical Infectious Diseases
+    quote !a = The median number of intrahost variants was 1–4 in SARS–CoV-2–infected patients, ranged from 0 to 51 in different samples. The distribution of variants on genes was similar to those observed in the population data. However, very few intrahost variants were observed in the population as polymorphisms, implying either a bottleneck or purifying selection involved in the transmission of the virus, or a consequence of the limited diversity represented in the current polymorphism data.
+
+
+    / March, 2020 - Clinical Infectious Diseases
+    quote !b = An exoribonuclease has been proposed to provide proofreading activity in SARS–CoV, and we noted that all 3 key motifs in the gene were identical in SARS–CoV and SARS–CoV-2. In addition, neither polymorphism nor intrahost variant was detected in these motifs, suggesting that the gene is highly conserved.
+
+
+    / March, 2020 - Clinical Infectious Diseases
+    quote !c = Although we did not find any mutation hot-spot genes in either polymorphism or intrahost variants, the observation of shared intrahost variants among different individuals implied the possibility of convergent or adaptive evolution of the virus in patients, which could potentially affect the antigenicity, virulence, and infectivity of the virus
+
+    / March, 2020 - Clinical Infectious Diseases
+    quote !d = In a single possible transmission event investigated in this study, we found no evidence for the transmission of multiple strains.
+
+
+  #
+  // Evolution of viral quasispecies during SARS-CoV-2 infection
+  doi: https://doi.org/10.1016/j.cmi.2020.07.032
+  ref 'Jary_et_al_07_24_2020
+    head = Sequential samples collected between January 29th and February 4th, 2020, from a patient infected by SARS-CoV-2 were used to perform amplification of two genome fragments—including genes encoding spike, envelope, membrane and nucleocapsid proteins—and NGS was carried out with Illumina® technology. Phylogenetic analysis was performed with PhyML and viral variant identification with VarScan.
+
+    > Objectives
+      Studies are needed to better understand the genomic evolution of the recently emerged severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). This study aimed to describe genomic diversity of SARS-CoV-2 by next-generation sequencing (NGS) in a patient with longitudinal follow-up for SARS-CoV-2 infection.
+
+    > Methods
+      Sequential samples collected between January 29th and February 4th, 2020, from a patient infected by SARS-CoV-2 were used to perform amplification of two genome fragments—including genes encoding spike, envelope, membrane and nucleocapsid proteins—and NGS was carried out with Illumina® technology. Phylogenetic analysis was performed with PhyML and viral variant identification with VarScan.
+
+    > Results
+      Majority consensus sequences were identical in most of the samples (5/7) and differed in one synonymous mutation from the Wuhan reference sequence. We identified 233 variants; each sample harboured in median 38 different minority variants, and only four were shared by different samples. The frequency of mutation was similar between genes and correlated with the length of the gene (r = 0.93, p = 0.0002). Most of mutations were substitution variations (n = 217, 93.1%) and about 50% had moderate or high impact on gene expression. Viral variants also differed between lower and upper respiratory tract samples collected on the same day, suggesting independent sites of replication of SARS-CoV-2.
+
+    > Conclusions
+      We report for the first time minority viral populations representing up to 1% during the course of SARS-CoV-2 infection. Quasispecies were different from one day to the next, as well as between anatomical sites, suggesting that in vivo this new coronavirus appears as a complex and dynamic distributions of variants.
+
+    - quotes
+      !a
+      !e
+      !b
+      !c
+      !d
+
+    / September, 2020 - Clinical Microbiology and Infection
+    quote !a = Our results highlighted that during the first week of infection the major viral population remained identical (5/7), with several specific minority variants which did not seem to persist over time.
+
+    / September, 2020 - Clinical Microbiology and Infection
+    quote !e = We report for the first time minority viral populations representing up to 1% during the course of SARS-CoV-2 infection. Quasispecies were different from one day to the next, as well as between anatomical sites, suggesting that in vivo this new coronavirus appears as a complex and dynamic distributions of variants.
+
+    / September, 2020 - Clinical Microbiology and Infection
+    quote !b = The frequency of mutation was similar between genes and correlated with the length of the gene (r = 0.93, p = 0.0002).
+
+    / September, 2020 - Clinical Microbiology and Infection
+    quote !c = Most of mutations were substitution variations (n = 217, 93.1%) and about 50% had moderate or high impact on gene expression.
+
+    / September, 2020 - Clinical Microbiology and Infection
+    quote !d = Contrary to a previous study which identified a hotspot in ORF8, the mutations identified in this study appeared to be spread fairly evenly throughout the sequenced fragment.
+
+
+
+  #
+  // Temporal signal and the phylodynamic threshold of SARS-CoV-2
+  doi: https://doi.org/10.1093/ve/veaa061
+  ref 'Duchene_et_al_08_19_2020
+    head = We collected genome sequences of SARS-CoV-2 from public databases at eight different points in time and conducted a range of tests of temporal signal to determine if and when the phylodynamic threshold was reached, and the range of inferences that could be reliably drawn from these data.
+
+    > Abstract
+      The ongoing SARS-CoV-2 outbreak marks the first time that large amounts of genome sequence data have been generated and made publicly available in near real time. Early analyses of these data revealed low sequence variation, a finding that is consistent with a recently emerging outbreak, but which raises the question of whether such data are sufficiently informative for phylogenetic inferences of evolutionary rates and time scales. The phylodynamic threshold is a key concept that refers to the point in time at which sufficient molecular evolutionary change has accumulated in available genome samples to obtain robust phylodynamic estimates. For example, before the phylodynamic threshold is reached, genomic variation is so low that even large amounts of genome sequences may be insufficient to estimate the virus’s evolutionary rate and the time scale of an outbreak. We collected genome sequences of SARS-CoV-2 from public databases at eight different points in time and conducted a range of tests of temporal signal to determine if and when the phylodynamic threshold was reached, and the range of inferences that could be reliably drawn from these data. Our results indicate that by 2 February 2020, estimates of evolutionary rates and time scales had become possible. Analyses of subsequent data sets, that included between 47 and 122 genomes, converged at an evolutionary rate of about 1.1 × 10−3 subs/site/year and a time of origin of around late November 2019. Our study provides guidelines to assess the phylodynamic threshold and demonstrates that establishing this threshold constitutes a fundamental step for understanding the power and limitations of early data in outbreak genome surveillance.
+
+    - quotes
+      !a
+
+    / August, 2020 - Virus Evolution
+    quote !a = Our results indicate that by 2 February 2020, estimates of evolutionary rates and time scales had become possible. Analyses of subsequent data sets, that included between 47 and 122 genomes, converged at an evolutionary rate of about 1.1 × 10−3 subs/site/year and a time of origin of around late November 2019.
+
+
+
+  #
+  // Persistence and Evolution of SARS-CoV-2 in an Immunocompromised Host
+  doi: https://doi.org/10.1056/NEJMc2031364
+  ref 'Choi_et_al_12_03_2020
+    head = Although most immunocompromised persons effectively clear SARS-CoV-2 infection, This case highlights the potential for persistent infection and accelerated viral evolution associated with an immunocompromised state.
+
+    - quotes
+      !a
+      !b
+
+    / December, 2020 - N Engl J Med
+    quote !a = Amino acid changes were predominantly in the spike gene and the receptor-binding domain, which make up 13% and 2% of the viral genome, respectively, but harbored 57% and 38% of the observed changes.
+
+    / December, 2020 - N Engl J Med
+    quote !b = Viral infectivity studies confirmed infectious virus in nasopharyngeal samples from days 75 and 143
+
+
+
+  #
+  // Case Study: Prolonged Infectious SARS-CoV-2 Shedding from an Asymptomatic Immunocompromised Individual with Cancer
+  doi: https://doi.org/10.1016/j.cell.2020.10.049
+  ref 'Avanzato_et_al_11_04_2020
+    head = In this report, we describe long-term SARS-CoV-2 shedding in an immunocompromised individual with chronic lymphocytic leukemia (CLL), and acquired hypogammaglobulinemia out to 105 days after the initial positive test.
+
+    > Summary
+      Long-term severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) shedding was observed from the upper respiratory tract of a female immunocompromised individual with chronic lymphocytic leukemia and acquired hypogammaglobulinemia. Shedding of infectious SARS-CoV-2 was observed up to 70 days, and of genomic and subgenomic RNA up to 105 days, after initial diagnosis. The infection was not cleared after the first treatment with convalescent plasma, suggesting a limited effect on SARS-CoV-2 in the upper respiratory tract of this individual. Several weeks after a second convalescent plasma transfusion, SARS-CoV-2 RNA was no longer detected. We observed marked within-host genomic evolution of SARS-CoV-2 with continuous turnover of dominant viral variants. However, replication kinetics in Vero E6 cells and primary human alveolar epithelial tissues were not affected. Our data indicate that certain immunocompromised individuals may shed infectious virus longer than previously recognized. Detection of subgenomic RNA is recommended in persistently SARS-CoV-2-positive individuals as a proxy for shedding of infectious virus.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / November, 2020 - Cell
+    quote !a = We show that certain individuals may shed infectious, replication-competent virus for much longer than previously recognized. Although infectious virus could be detected up to day 70, subgenomic RNA (sgRNA), a molecular marker for active SARS-CoV-2 replication, could be detected up until day 105, after initial diagnosis.
+
+    / November, 2020 - Cell
+    quote !b = Detection of subgenomic RNA is recommended in persistently SARS-CoV-2-positive individuals as a proxy for shedding of infectious virus.
+
+    # / November, 2020 - Cell
+    # quote !c = The individual remained asymptomatic throughout the course of infection despite isolation of infectious SARS-CoV-2 49 and 70 days after the initial diagnosis, much longer than shedding of infectious virus up to day 20, as reported previously
+
+    / November, 2020 - Cell
+    quote !c = Throughout the course of infection, there was marked within-host genomic evolution of SARS-CoV-2. Deep sequencing revealed a continuously changing virus population structure with turnover in the relative frequency of the observed genotypes over the course of infection. Potential factors contributing to the observed within-host evolution is prolonged infection and the compromised immune status of the host, possibly resulting in a different set of selective pressures compared with an immune-competent host. These differential selective pressures may have allowed a larger genetic diversity with continuous turnover of dominant viral species throughout the course of infection.
+
+    / November, 2020 - Cell
+    quote !d = Despite genetic changes in the SARS-CoV-2 isolated from the individual, the replication kinetics did not change significantly compared with the USA/WA1/2020 virus in Vero E6 cells and primary human alveolar epithelial tissues. This indicates that, most likely, the infectious virus shed by the individual would still be able to establish productive infection in contacts upon transmission, assuming that viral growth kinetics in vitro are a suitable surrogate for virus fitness in vivo.
+
+    / November, 2020 - Cell
+    quote !e = Despite prolonged replication exclusively in the upper respiratory tract, the virus was still able to replicate in epithelial cells derived from the lower respiratory tract, suggesting that it could still cause pneumonia.
+
+    / November, 2020 - Cell
+    quote !f = The infection was not cleared after the first treatment with convalescent plasma, suggesting a limited effect on SARS-CoV-2 in the upper respiratory tract of this individual. Several weeks after a second convalescent plasma transfusion, SARS-CoV-2 RNA was no longer detected.
+
+
+
+
 
 
 
@@ -942,7 +1147,7 @@ feed Sangeeta
   // Natural deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape.
   doi: https://doi.org/10.1101/2020.11.19.389916
   ref 'McCarthy_et_al_11_19_2020
-    head = We have identified an evolutionary signature defined by prevalent and recurrent deletions at four antigenic sites in the spike glycoprotein.
+    head = We have identified an evolutionary signature defined by prevalent and recurrent deletions at four antigenic sites in the spike glycoprotein. Deletion is followed by human-to-human transmission of variants with altered antigenicity.
 
     > Abstract
       Zoonotic pandemics follow the spillover of animal viruses into highly susceptible human populations. Often, pandemics wane, becoming endemic pathogens. Sustained circulation requires evasion of protective immunity elicited by previous infections. The emergence of SARS-CoV-2 has initiated a global pandemic. Since coronaviruses have a lower substitution rate than other RNA viruses this gave hope that spike glycoprotein is an antigenically stable vaccine target. However, we describe an evolutionary pattern of recurrent deletions at four antigenic sites in the spike glycoprotein. Deletions abolish binding of a reported neutralizing antibody. Circulating SARS-CoV-2 variants are continually exploring genetic and antigenic space via deletion in individual patients and at global scales. In viruses where substitutions are relatively infrequent, deletions represent a mechanism to drive rapid evolution, potentially promoting antigenic drift.
@@ -969,20 +1174,26 @@ feed Sangeeta
 
 
 
+
+
   # SARS-CoV-2 Spike deletion ΔH69/ΔV70, mitigation
   // Recurrent emergence and transmission of a SARS-CoV-2 Spike deletion ΔH69/ΔV70
   doi: https://doi.org/10.1101/2020.12.14.422555
   ref 'Kemp_et_al_12_21_2020
-    head = We report recurrent emergence and significant onward transmission of a six-nucleotide deletion in the S gene, which results in loss of two amino acids: H69 and V70. Of particular note this deletion, H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F, that have been shown to increase binding affinity to hACE2 and reduce binding with monoclonal antibodies) and its prevalence is rising in parts of Europe.
-
+    head = We report recurrent emergence and significant onward transmission of a six-nucleotide deletion in the S gene, which results in loss of two amino acids: H69 and V70.
 
     > Abstract
-      SARS-CoV-2 Spike amino acid replacements in the receptor binding domain (RBD) occur relatively frequently and some have a consequence for immune recognition. Here we report recurrent emergence and significant onward transmission of a six-nucleotide deletion in the S gene, which results in loss of two amino acids: H69 and V70. Of particular note this deletion, H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F. One of the delH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H). Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7. We find the delH69/V70 enhances viral infectivity, indicating its effect on virus fitness is independent to the N501Y RBM change. Enhanced surveillance for the delH69/V70 deletion with and without RBD mutations should be considered as a priority. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+      SARS-CoV-2 Spike amino acid replacements in the receptor binding domain (RBD) occur relatively frequently and some have a consequence for immune recognition. Here we report recurrent emergence and significant onward transmission of a six-nucleotide deletion in the S gene, which results in loss of two amino acids: H69 and V70. Of particular note this deletion, ΔH69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F. One of the ΔH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (ΔH69/V70 and Δ144/145) and S2 (P681H, T716I, S982A and D1118H). Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7. We find the ΔH69/V70 enhances viral infectivity, indicating its effect on virus fitness is independent to the N501Y RBM change. Enhanced surveillance for the ΔH69/V70 deletion with and without RBD mutations should be considered as a priority. Such “permissive” mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
 
     - quotes
       !a
       !b
       !c
+      !d
+      !e
+      !f
+      !g
+      !h
 
     # / December, 2020 - BioRxiv
     # quote !a = One of the delH69/V70+ N501Y lineages, B.1.1.7, is comprised of over 1400 SARS-CoV-2 genome sequences from the UK and includes eight S gene mutations: RBD (N501Y and A570D), S1 (delH69/V70 and del144/145) and S2 (P681H, T716I, S982A and D1118H).
@@ -991,13 +1202,32 @@ feed Sangeeta
     # quote !a = Some of these mutations have possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7.
 
     / December, 2020 - BioRxiv
-    quote !a = We find the delH69/V70 enhances viral infectivity, indicating its effect on virus fitness is independent to the N501Y RBM change. Enhanced surveillance for the delH69/V70 deletion with and without RBD mutations should be considered as a priority. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+    quote !a = We have presented data demonstrating multiple, independent, and circulating lineages of SARS-CoV-2 variants bearing a Spike ΔH69/ΔV70. This deletion spanning six nucleotides, is mostly due to an out of frame deletion of six nucleotides, has frequently followed receptor binding amino acid replacements (N501Y, N439K and Y453F that have been shown to increase binding affinity to hACE2 and reduce binding with monoclonal antibodies) and its prevalence is rising in parts of Europe, with the greatest increases since August 2020.
 
     / December, 2020 - BioRxiv
-    quote !b = We show that the H69/V70 deletion increases Spike mediated infectivity by two-fold over a single round of infection.
+    quote !b = The proportion of viruses with ΔH69/ΔV70 only increased from August 2020 when it co-occurred with the second N439K lineage (N439K appears to have reduced susceptibility to a small subset of monoclonals targeting the RBD, whilst retaining affinity for ACE2 in vitro). As of November 26th, remarkably there were twice as many cumulative sequences with the deletion as compared to the single N439K. Due to their high sampling rates the country with the highest proportion of N439K+ ΔH69/ΔV70 versus N439K alone is England.
 
     / December, 2020 - BioRxiv
-    quote !c = Given the emergence of multiple clusters of variants carrying RBD mutations and the H69/V70 deletion, limitation of transmission takes on a renewed urgency. Continued emphasis on testing/tracing, social distancing and mask wearing are essential, with investment in other novel methods to limit transmission. In concert, comprehensive vaccination efforts in the UK and globally should be accelerated in order to further limit transmission and acquisition of further mutations.
+    quote !c = In Scotland, where early growth of N439K was high (forming N439K lineage i that subsequently went extinct with other lineages after the lockdown3), there is now an inverse relationship with 546 versus 177 sequences for N439K and N439K+ΔH69/ΔV70 respectively (as of November 26th).
+
+    / December, 2020 - BioRxiv
+    quote !d = The second significant cluster with ΔH69/ΔV70 and RBD mutants involves Y453F, another RBD mutation that increases binding affinity to ACE2, along with F486L and N501T related to human-mink transmissions in Denmark. This sub-lineage, termed ‘Cluster 5’ was part of a wider lineage in which the same deleted region (ΔH69/ΔV70) was observed. In Y453F lineages, the mutant virus demonstrates reduced susceptibility to sera from recovered COVID-19 patients. The ΔH69/ΔV70 was first detected in the Y453F background on August 24th and thus far appears limited to Danish sequences.
+
+    / December, 2020 - BioRxiv
+    quote !e = A third lineage containing the same out of frame deletion ΔH69/ΔV70 has arisen with another RBD mutation N501Y. Early sequences with N501Y alone were isolated both in Brazil and USA in April 2020. N501Y + ΔH69/ΔV70sequences appear to have been detected first in the UK in September 2020, with the crude cumulative number of N501Y + ΔH69/ΔV70 mutated sequences now exceeding the single mutant. Of particular concern is a sublineage of around 350 sequences bearing six spike mutations across the RBD (N501Y, A570D) and S2 (P681H, T716I, S982A and D1118H) as well as the ΔH69/ΔV70 in England. This cluster has a very long branch.
+
+    / December, 2020 - BioRxiv
+    quote !f = We find the delH69/V70 enhances viral infectivity, indicating its effect on virus fitness is independent to the N501Y RBM change. Enhanced surveillance for the delH69/V70 deletion with and without RBD mutations should be considered as a priority. Such “permissive” mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
+
+    / December, 2020 - BioRxiv
+    quote !g = We show that the H69/V70 deletion increases Spike mediated infectivity by two-fold over a single round of infection. Over the millions of replication rounds per day in a SARS-CoV-2 infection this is likely to be significant.
+
+    # / December, 2020 - BioRxiv
+    # quote !c = Of particular note this deletion, H69/V70, often co-occurs with the receptor binding motif amino acid replacements N501Y, N439K and Y453F, that have been shown to increase binding affinity to hACE2 and reduce binding with monoclonal antibodies) and its prevalence is rising in parts of Europe.
+
+
+    / December, 2020 - BioRxiv
+    quote !h = Given the emergence of multiple clusters of variants carrying RBD mutations and the H69/V70 deletion, limitation of transmission takes on a renewed urgency. Continued emphasis on testing/tracing, social distancing and mask wearing are essential, with investment in other novel methods to limit transmission. In concert, comprehensive vaccination efforts in the UK and globally should be accelerated in order to further limit transmission and acquisition of further mutations.
 
 
 
@@ -1005,7 +1235,7 @@ feed Sangeeta
   # This is a single case report-, CP, immunocompromised, SARS-CoV-2 Spike deletion ΔH69/ΔV70e
   // Neutralising antibodies drive Spike mediated SARS-CoV-2 evasion.
   doi: https://doi.org/10.1101/2020.12.05.20241927
-  ref 'Kemp_et_al_12_19_2020
+  ref 'Kemp_et_al_12_29_2020
     head = We report fatal SARS-CoV-2 escape from neutralising antibodies in an immune suppressed individual treated with convalescent plasma, generating whole genome ultradeep sequences by both short and long read technologies over 23 time points spanning 101 days. We were able to document real-time emergence of a variant H69/V70 in the NTD of Spike that has been increasing in frequency in Europe.
 
     > Abstract
