@@ -8,6 +8,21 @@ feed December2020
 
   #
 
+  // Evaluation of the Effect of D614G, N501Y and S477N Mutation in SARS-CoV-2 through Computational Approach
+  doi: https://doi.org/10.20944/preprints202012.0710.v1
+  ref 'Mathavan_et_al_12_27_2020
+    head = The aim of this study was to examine the mutational effect of spike protein on the sequence through an interaction study of the mutant spike protein and the human ACE2 protein at the structural level.
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes an outbreak of COVID-19 disease in humans with the aid of spike protein. It consists of a receptor-binding domain (RBD) that recognizes and binds to the host receptor angiotensin-converting enzyme 2 (ACE2). The aim of this study was to examine the mutational effect of spike protein on the sequence through an interaction study of the mutant spike protein and the human ACE2 protein at the structural level. A total of 17,227 spike proteins from Asia, Africa, Europe, Oceania, South America, and North America were compared to the Wuhan spike protein reference sequence (Wuhan-Hu-1). The structural and stability implications of D614G, N501Y, and S477N mutations were evaluated. The binding affinity between mutated RBD and human ACE2 protein was also studied. The D614G mutation may have originated in Germany, Europe based on the date of the first sample collection report. It is now widely circulated all over the world with most occurrences in North America. The mutations N501Y and S477N may have originated from Oceania based on the date of the first sample collection report and also have the highest occurrences in Oceania. Based on the computational analysis of mutational effects, the D614G, N501Y, and S477N mutations decreased stability and were tolerated. For disease propensity prediction, N501Y was more prone to disease compared to D614G, while S477N was not prone to disease. The mutation of D to G at position 614 and S to N at position 477 for secondary structure prediction shows no changes in secondary structure while remaining in the coil region, whereas the mutation of N to Y at position 501 changes from coil structure to extended strand. N501Y mutation has a higher affinity to human ACE2 protein compared to D614G and S477N based on a docking study. D614G spike mutation was identified to exist between the two hosts based on a comparison of SARS-CoV-2 derived between the mink and human. Further research is needed on the link between the mink mutation N501T and the mutation N501Y in humans, which has evolved as a separate variant.
+
+    - quotes
+      !a
+
+    / December, 2020 - PrePrints.org
+    quote !a =  N501Y mutation has a higher affinity to human ACE2 protein compared to D614G and S477N based on a docking study. 
+
+
   # Reinfection
   // Prior SARS-CoV-2 infection is associated with protection against symptomatic reinfection
   doi: https://doi.org/10.1016/j.jinf.2020.12.023

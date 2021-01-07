@@ -216,14 +216,18 @@ feed Sangeeta
   #
   // Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
   doi: https://doi.org/10.1016/j.cell.2020.08.012
-  ref 'Starr_et_al_09_03_2020
-    head =
+  ref 'Starr_et_al_08_11_2020
+    head =  We experimentally measure how all amino acid mutations to the RBD affect expression of folded protein and its affinity for ACE2.
 
     - quotes
       !a
+      !b
 
     / September, 2020 - Cell
-    quote !a =
+    quote !a = RBD mutations that have appeared in SARS-CoV-2 to date are nearly neutral with respect to these two biochemical phenotypes, with the exception of one mutation (V367F) that increases RBD stability.
+
+    / September, 2020 - Cell
+    quote !b = Mutations that enhance affinity are notable at RBD sites Q493, Q498, and N501
 
 
 
@@ -1170,6 +1174,9 @@ feed Sangeeta
 
     / November, 2020 - BioRxiv
     quote !b = The most recent sequences in our dataset are strongly biased to the UK and we show many variants with deletions in RDRs 1, 2, and 3 circulated widely across England, Northern Ireland, Scotland and Wales. These deletions alter one antigenic site and likely alter another.
+
+    / November, 2020 - BioRxiv
+    quote !c =  The UK is a site for at least one Phase III trial of a SARS-CoV-2 vaccine. Given that deletion variants alter the antigenicity of SARS-CoV-2 S protein, potential mismatches between circulating and vaccine candidates may confound estimates of efficacy.
 
 
 

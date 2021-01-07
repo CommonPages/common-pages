@@ -1,40 +1,23 @@
 
 . BatchB
-  // Dummy Paper title
-  doi: https://doi.org/xyz
-  ref 'xyz_et_al_2020
-    head =
 
-    - quotes
-      !a
+  # SARS-CoV-2 Variants - we should make a subject
+  # assesses if variants of SARS-CoV-2 result in changes in transmissibility, clinical presentation and severity, or if they impact on countermeasures, including diagnostics, therapeutics and vaccines. Previous reports of the D614G mutation and the recent reports of virus variants from the Kingdom of Denmark, the United Kingdom of Great Britain and Northern Ireland, and the Republic of South Africa have raised interest and concern in the impact of viral changes.
 
-    / June, 2020 - Annals of the New York Academy of Sciences
-    quote !a =
+  # D614G = A variant of SARS-CoV-2 with a D614G substitution in the gene encoding the spike protein emerged in late January or early February 2020. Over a period of several months, the D614G mutation replaced the initial SARS-CoV-2 strain identified in China and by June 2020 became the dominant form of the virus circulating globally.Studies in human respiratory cells and in animal models demonstrated that compared to the initial virus strain, the strain with the D614G substitution has increased infectivity and transmission. The SARS-CoV-2 virus with the D614G substitution does not cause more severe illness or alter the effectiveness of existing laboratory diagnostics, therapeutics, vaccines, or public health preventive measures.
 
-  # Antibody Response
-  // SARS-CoV-2 specific antibody responses in COVID-19 patients
-  doi: https://doi.org/10.1101/2020.03.18.20038059
-  ref 'Okba_et_al_2020
-    head =  Since the N and the S proteins are the main immunogenic CoV proteins, we developed ELISA-based assays, which were able to detect antibodies to these two proteins along with the two spike domains, S1A and RBD. Those correlated strongly with virus neutralizing antibodies detected by a PRNT assay.
+  # The potential for SARS-CoV-2 mutations to rapidly emerge and fix is exemplified by D614G, an amino acid replacement in S2 that alters linkages between S1 and S2 subunits on adjacent protomers as well as RBD orientation, infectivity, and transmission. The example of D614G also demonstrates that mechanisms directly impacting important biological processes can be indirect- papers are in Sangeeta.i
+  # https://www.biorxiv.org/content/10.1101/2020.12.14.422555v3.full.pdf
 
-    > Abstract
-      A new coronavirus, SARS-CoV-2, has recently emerged to cause a human pandemic. Whereas molecular diagnostic tests were rapidly developed, serologic assays are still lacking, yet urgently needed. Validated serologic assays are important for contact tracing, identifying the viral reservoir and epidemiological studies. Here, we developed serological assays for the detection of SARS-CoV-2 neutralizing, spike- and nucleocapsid-specific antibodies. Using serum samples from patients with PCR-confirmed infections of SARS-CoV-2, other coronaviruses, or other respiratory pathogenic infections, we validated and tested various antigens in different in-house and commercial ELISAs. We demonstrate that most PCR-confirmed SARS-CoV-2 infected individuals seroconverted, as revealed by sensitive and specific in-house ELISAs. We found that commercial S1 IgG or IgA ELISAs were of lower specificity while sensitivity varied between the two, with IgA showing higher sensitivity. Overall, the validated assays described here can be instrumental for the detection of SARS-CoV-2-specific antibodies for diagnostic, seroepidemiological and vaccine evaluation studies.
+  # Cluster 5 = In August and September 2020, a SARS-CoV-2 variant linked to infection among farmed mink and subsequently transmitted to humans, was identified in North Jutland, Denmark. The variant, referred to as the “Cluster 5” variant by Danish authorities, has a combination of mutations not previously observed. Due preliminary studies conducted in Denmark, there is concern that this variant has may result in reduced virus neutralization in humans, which could potentially decrease the extend and duration of immune protection following natural infection or vaccination. Studies are ongoing to assess virus neutralization among humans with this variant. To date, following extensive investigation and surveillance, Danish authorities have identified only 12 human cases of the Cluster 5 variant in September 2020, and it does not appear to have spread widely.
 
-    - quotes
-      !a
-      !b
-      !c
-      !d
 
-    / March, 2020 - Emerging Infectious Diseases
-    quote !a = When testing the specificity S1 or its RBD for detecting SARS-CoV-2 antibodies, none of the sera form the validation cohorts showed any reactivity; except for SARS-CoV patients sera. This - not-unexpected - cross-reactivity resulted from the high degree of similarity between the S1 and RBD of the SARS-CoV and SARS-CoV-2.
+  # !DelH69V70
+  # It arose in the mink-associated outbreak in Denmark on the background of the Y453F RBD mutation, and in humans in association with the N439K RBD mutation, accounting for its relatively high frequency in the global genome data (~3000 sequences).
 
-    / March, 2020 - Emerging Infectious Diseases
-    quote !b = We made use of the high degree of similarity between the SARS-CoV and SARS-CoV-2 proteins for the development of our inhouse N ELISA, where we used SARS-CoV N (90% similar to SARSCoV-2) as an antigen. The N-ELISA could detect SARS-CoV-2-specific antibodies with high specificity and sensitivity. We found that antibody levels were higher following the severe infection compared to the mild ones; similar findings has been reported earlier for MERS-CoV
 
-    / March, 2020 - Emerging Infectious Diseases
-    quote !c = We further validated beta-versions of an IgA and an IgG S1 commercial ELISA in two different labs. While the IgA-based ELISA showed higher sensitivity than the IgG-based ELISA, the opposite was true for the specificity where the IgG ELISA was more specific than the IgA ELISA.
-
-    # Immune response against covid frontiers - why some could be asymptomatic
-    / March, 2020 - Emerging Infectious Diseases
-    quote !d = We noted some cross reactivity in both ELISAs with serum samples from the same two HCoV-OC43 patients that cross reacted in a MERS-CoV S1 IgG ELISA despite the different antigen coated.
+  # > Origin
+  #   Potential factors contributing to the observed within-host evolution is prolonged infection and the compromised immune status of the host, possibly resulting in a different set of selective pressures compared with an immune-competent host.
+  #   The detection of a high number of novel mutations suggests this lineage has either been introduced from a geographic region with very poor sampling or viral evolution may have occurred in a single individual in the context of a chronic infection.
+  #
+  #   https://doi.org/10.1016/j.cell.2020.10.049
