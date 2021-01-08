@@ -255,7 +255,7 @@ subject module Vaccines
 
     / Oxford–AstraZeneca
     subject AZD1222
-      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The Oxford-AstraZeneca vaccine has been authorized for use in UK, Argentina, India & El Salvador
+      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The Oxford-AstraZeneca vaccine has been authorized for use in UK, Argentina, India and El Salvador.
 
       >
         Oxford–AstraZeneca is a COVID-19 vaccine candidate developed by University of Oxford, UK, and the pharmaceutical firm [AstraZeneca](https://www.astrazeneca.com/) in Cambridge, UK. It is given by intramuscular injection, using as a vector the modified chimpanzee adenovirus ChAdOx1.
