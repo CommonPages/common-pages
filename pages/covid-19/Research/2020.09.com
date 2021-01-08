@@ -12,7 +12,23 @@ feed September2020
     'Laxminarayan_et_al_09_23_2020
 
   #
+  // Structural and Functional Analysis of the D614G SARS-CoV-2 Spike Protein Variant
+  doi: https://doi.org/10.1016/j.cell.2020.09.032
+  ref 'Yurkovetskiy_et_al_09_15_2020
+    head =  Here we show that D614G was more infectious than the ancestral form on human lung cells, colon cells, and on cells rendered permissive by ectopic expression of human ACE2 or of ACE2 orthologs from various mammals, including Chinese rufous horseshoe bat and Malayan pangolin.
 
+    > Abstract
+      The SARS-CoV-2 spike (S) protein variant D614G supplanted the ancestral virus worldwide, reaching near fixation in a matter of months. Here we show that D614G was more infectious than the ancestral form on human lung cells, colon cells, and on cells rendered permissive by ectopic expression of human ACE2 or of ACE2 orthologs from various mammals, including Chinese rufous horseshoe bat and Malayan pangolin. D614G did not alter S protein synthesis, processing, or incorporation into SARS-CoV-2 particles, but D614G affinity for ACE2 was reduced due to a faster dissociation rate. Assessment of the S protein trimer by cryo-electron microscopy showed that D614G disrupts an interprotomer contact and that the conformation is shifted toward an ACE2 binding-competent state, which is modeled to be on pathway for virion membrane fusion with target cells. Consistent with this more open conformation, neutralization potency of antibodies targeting the S protein receptor-binding domain was not attenuated.
+
+    - quotes
+      !a
+      !b
+
+    / September, 2020 - Cell
+    quote !a = D614G did not alter S protein synthesis, processing, or incorporation into SARS-CoV-2 particles, but D614G affinity for ACE2 was reduced due to a faster dissociation rate.
+
+    / September, 2020 - Cell
+    quote !b =  D614G confers a replication advantage to SARS-CoV-2, such that it increases the likelihood of human-to-human transmission.
 
   # Outbreak
   // Epidemiology and transmission dynamics of COVID-19 in two Indian states

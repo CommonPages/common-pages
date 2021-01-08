@@ -13,6 +13,38 @@ feed October2020
     'Ueki_et_al_10_2020
 
   #
+
+  // SARS-CoV-2 spike D614G variant confers enhanced replication and transmissibility
+  doi: https://dx.doi.org/10.1101%2F2020.10.27.357558
+  ref 'Zhou_et_al_10_27_2020
+    head = We generated isogenic SARS-CoV-2 variants and demonstrate that the S-614G variant has (i) enhanced binding to human ACE2, (ii) increased replication in primary human bronchial and nasal airway epithelial cultures as well as in a novel human ACE2 knock-in mouse model, and (iii) markedly increased replication and transmissibility in hamster and ferret models of SARS-CoV-2 infection.
+
+    > Abstract
+      During the evolution of SARS-CoV-2 in humans a D614G substitution in the spike (S) protein emerged and became the predominant circulating variant (S-614G) of the COVID-19 pandemic1. However, whether the increasing prevalence of the S-614G variant represents a fitness advantage that improves replication and/or transmission in humans or is merely due to founder effects remains elusive. Here, we generated isogenic SARS-CoV-2 variants and demonstrate that the S-614G variant has (i) enhanced binding to human ACE2, (ii) increased replication in primary human bronchial and nasal airway epithelial cultures as well as in a novel human ACE2 knock-in mouse model, and (iii) markedly increased replication and transmissibility in hamster and ferret models of SARS-CoV-2 infection. Collectively, our data show that while the S-614G substitution results in subtle increases in binding and replication in vitro, it provides a real competitive advantage in vivo, particularly during the transmission bottle neck, providing an explanation for the global predominance of S-614G variant among the SARS-CoV-2 viruses currently circulating.
+
+    - quotes
+      !a
+    -
+      !b
+      !c
+    -
+      !d  
+
+    / October, 2020 - bioRxiv
+    quote !a = We found the S1 or the monomeric S ectodomain with D614G substitution had increased affinity to hACE2, which may be another mechanism underlying the increased replication and transmission of the SARS-CoV-2 D614G variant.
+
+    / October, 2020 - bioRxiv
+    quote !b = We consistently observed an increased fitness of SARS-CoV-2S−614G over SARS-CoV-2S−614D by applying amplicon sequencing techniques as well as allele specific absolute quantification for confirmation.
+
+    / October, 2020 - bioRxiv
+    quote !c = The advantage provided by the D614G change becomes most prominent in competition and transmission experiments in hamsters and ferrets and must therefore be considered as a driving force leading to the global dominance of the SARS-CoV-2 614G variant.
+
+    / October, 2020 - bioRxiv
+    quote !d = Although our studies establish a phenotype of increased replication and transmission of the SARS-CoV-2 S-614G variant, there is no evidence for a phenotypic change in pathogenicity in an animal model. This is important to state, because infection with the SARS-CoV-2 S-614G variant is not associated with the development of severe COVID-19 in humans
+
+
+
+  #
   // Use of adenovirus type-5 vectored vaccines: a cautionary tale
   doi: https://doi.org/10.1016/S0140-6736(20)32156-5
   ref 'Buchbinder_et_al_10_31_2020

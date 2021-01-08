@@ -3,6 +3,26 @@ feed November2020
 
 
   #
+
+  // SARS-CoV-2 spike-protein D614G mutation increases virion spike density and infectivity
+  doi: https://doi.org/10.1038/s41467-020-19808-4
+  ref 'Zhang_et_al_11_26_2020
+    head = SARS-CoV-2 variants with spike (S)-protein D614G mutations now predominate globally. We therefore compare the properties of the mutated S protein (SG614) with the original (SD614). We report here pseudoviruses carrying SG614 enter ACE2-expressing cells more efficiently than those with SD614.
+
+    > Abstract
+      SARS-CoV-2 variants with spike (S)-protein D614G mutations now predominate globally. We therefore compare the properties of the mutated S protein (SG614) with the original (SD614). We report here pseudoviruses carrying SG614 enter ACE2-expressing cells more efficiently than those with SD614. This increased entry correlates with less S1-domain shedding and higher S-protein incorporation into the virion. Similar results are obtained with virus-like particles produced with SARS-CoV-2 M, N, E, and S proteins. However, D614G does not alter S-protein binding to ACE2 or neutralization sensitivity of pseudoviruses. Thus, D614G may increase infectivity by assembling more functional S protein into the virion.
+
+    - quotes
+      !a
+      !b
+
+    / November, 2020 - Nature
+    quote !a = D614G may increase infectivity by assembling more functional S protein into the virion.
+
+    / November, 2020 - Nature
+    quote !b = An S-protein mutation, D614G, that appears to promote SARS-CoV-2 transmission in humans also enhances functional S-protein incorporation into SARS-CoV-2 VLP and retroviral PV and increases PV infectivity.
+
+  #
   // The First interim data analysis of the Sputnik V vaccine against Covid-19 Phase 3 clinical trials in the russian federation demonstrated 92% efficacy.
   doi: https://sputnikvaccine.com/newsroom/pressreleases/the-first-interim-data-analysis-of-the-sputnik-v-vaccine-against-covid-19-phase-iii-clinical-trials-/
   ref 'SputnikV_et_al_11_11_2020

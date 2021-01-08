@@ -16,6 +16,22 @@ feed July2020
     'Morris_et_al_07_02_2020
 
   #
+
+  // D614G Spike Variant Does Not Alter IgG, IgM, or IgA Spike Seroassay Performance
+  doi: https://dx.doi.org/10.1101%2F2020.07.08.20147371
+  ref 'Klumpp-Thomas_et_al_07_10_2020
+    head = Accordingly, we analyzed the serologic reactivity of D614 (original) and G614 variant spike proteins. We found that antibodies from a high-incidence population in New York City reacted both toward the original D614 spike and the G614 spike variant.
+
+    > Abstract
+      Emergence of a new variant of spike protein (D614G) with increased infectivity and transmissibility has prompted many to analyze the potential role of this variant in the SARS-CoV-2 pandemic. When a new variant emerges, there is a concern regarding whether an individual exposed to one variant of a virus will have cross-reactive immune memory to the second variant. Accordingly, we analyzed the serologic reactivity of D614 (original) and G614 variant spike proteins. We found that antibodies from a high-incidence population in New York City reacted both toward the original D614 spike and the G614 spike variant. These data suggest that patients who have been exposed to either SARS-CoV-2 variant have humoral immunity that can respond against both variants. This is an important finding both for SARS-CoV-2 disease biology and for potential antibody-based therapeutics.
+
+    - quotes
+      !a
+
+    / July, 2020 - medRxiv
+    quote !a = Patients who have been exposed to either SARS-CoV-2 variant have humoral immunity that can respond against both variants.
+
+  #
   @@JoostWiersinga
   // Pathophysiology, Transmission, Diagnosis, and Treatment of Coronavirus Disease 2019 (COVID-19)
   doi: https://doi.org/10.1001/jama.2020.12839

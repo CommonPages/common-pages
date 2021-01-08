@@ -8,6 +8,7 @@ subject module Virus
     Shedding
     Viability
     Genetics
+    Variants
 
 
   / Structure
@@ -507,19 +508,13 @@ subject module Virus
 
   / Genetics
   subject Genetics
-    head = SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity. To date, a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
-    #  All genome [Sequence](https:www.google.com)
+    head = A number of studies have proposed similarities between SARS-CoV-2 and known existing bat-borne coranaviruses. SARS-CoV-2 has acquired mutations capable of substantially changing its pathogenicity.
 
     -
       !BatSimilarity
       !Pathogenicity
       !Diversity
-      !G614
-    -
-      B117
-      B1351
-    -
-      Origin
+
 
     claim !BatSimilarity = A number of studies have proposed similarities between SARS-CoV-2 and known existing bat-borne coranaviruses.
       -
@@ -542,11 +537,46 @@ subject module Virus
         'Tang_et_al_05_24_2020
         'Bhattacharyya_et_al_2020
 
+  / Genetic Variants & Strains
+  subject Variants
+    head =
 
-    claim !G614 = In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
+    —
+    / D614 & G614
+    subject D614
+      head =  The D614G mutation in the spike glycoprotein of SARS-CoV-2 was identified early in early March 2020. In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
       -
         'Korber_et_al_07_03_2020
 
+      >
+        D614 may increase infectivity
+      -
+        'Zhang_et_al_11_26_2020
+        'Zhang_et_al_11_26_2020.!a
+        'Zhang_et_al_11_26_2020.!b
+
+      >
+        Increased Replication, Transmission however not severity (no evidence for a phenotypic change in pathogenicity in an animal model)
+      -
+        'Zhou_et_al_10_27_2020
+        'Zhou_et_al_10_27_2020.!a
+        'Zhou_et_al_10_27_2020.!b
+        'Zhou_et_al_10_27_2020.!c
+        'Zhou_et_al_10_27_2020.!d
+
+      >
+        Patients have humoral immunity that can respond against both variants.
+      -
+        'Klumpp-Thomas_et_al_07_10_2020
+        'Klumpp-Thomas_et_al_07_10_2020.!a
+
+      # On going - yet to finish
+      -
+        'Yurkovetskiy_et_al_09_15_2020
+
+    —
+    / Mink Variant
+    subject Mink
 
     / B.1.1.7 UK Variant
     subject B117
@@ -777,11 +807,11 @@ subject module Virus
       -
         !Mutation
       >
-        The SA variant and the UK {Virus.Genetics.B117 mutation}, both share the same {Virus.Genetics.B117.!Mutation variant} in spike: N501Y (N->Y at position 501), but the SA variant does not have the 69/70 deletion. [Phylogenetic analysis](https://nextstrain.org/sars-cov-2/) shows that these 2 variants have arisen separately.
+        The SA variant and the UK {Virus.Variants.B117 mutation}, both share the same {Virus.Variants.B117.!Mutation variant} in spike: N501Y (N->Y at position 501), but the SA variant does not have the 69/70 deletion. [Phylogenetic analysis](https://nextstrain.org/sars-cov-2/) shows that these 2 variants have arisen separately.
 
       - Potential biologic significance of N501Y Mutation
-        B117.!N501Y
-        B117.!N501YK417N
+        Variants.B117.!N501Y
+        Variants.B117.!N501YK417N
 
 
       claim !Mutation = This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM).
@@ -818,8 +848,6 @@ subject module Virus
             'Kemp_et_al_12_29_2020
             'Kemp_et_al_12_29_2020.!e
             'Kemp_et_al_12_29_2020.!a
-
-
 
 
 
