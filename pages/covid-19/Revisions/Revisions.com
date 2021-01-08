@@ -3,7 +3,7 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received four major revisions, expanding the subjects covered and correcting existing claims.
 
-  public: january-08-2021
+  public: january-8-2021
   / January 8, 2021
   revision January_8
     head = Parts of a new section on vaccines have now been released, detailing the clinical trials and associated research relevant to the 8 vaccines that have been approved for use against SARS-CoV-2.
