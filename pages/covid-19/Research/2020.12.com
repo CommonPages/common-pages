@@ -8,6 +8,8 @@ feed December2020
 
   #
 
+
+  # 
   // Evaluation of the Effect of D614G, N501Y and S477N Mutation in SARS-CoV-2 through Computational Approach
   doi: https://doi.org/10.20944/preprints202012.0710.v1
   ref 'Mathavan_et_al_12_27_2020
@@ -20,7 +22,7 @@ feed December2020
       !a
 
     / December, 2020 - PrePrints.org
-    quote !a =  N501Y mutation has a higher affinity to human ACE2 protein compared to D614G and S477N based on a docking study. 
+    quote !a =  N501Y mutation has a higher affinity to human ACE2 protein compared to D614G and S477N based on a docking study.
 
 
   # Reinfection

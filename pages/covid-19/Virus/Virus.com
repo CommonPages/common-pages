@@ -579,7 +579,9 @@ subject module Virus
         !P681HFurin
       -
         !Viralload
+      -
         !Phase3trialConcern
+        !Phizer
 
       # When paper is out make counter for vaccine efficacy and increase reinfection risk - https://twitter.com/VirusesImmunity/status/1344391796214935560
 
@@ -753,11 +755,15 @@ subject module Virus
         #   'Kidd_et_al_12_27_2020.!f
 
 
-
       claim !Phase3trialConcern =  Researchers have raised concern about the  estimates of efficacy of phase 3 trials in UK since deletion in variants alter the antigenicity of SARS-CoV-2 S protein.
         -
           'McCarthy_et_al_11_19_2020
           'McCarthy_et_al_11_19_2020.!c
+
+      claim !Phizer = While Phizer had equivalent neutralizing titers to the N501 and Y501 viruses.
+        -
+          'Xie_et_al_01_07_2021
+          'Xie_et_al_01_07_2021.!a
 
     / B.1.351 South Africa Variant
     subject B1351
