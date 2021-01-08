@@ -1,255 +1,217 @@
 . BatchS
-  ############################################################################################
-  # Everything below in this section is updated claims
-  ############################################################################################
-
-  # # Viral load
-  # >
-  #   The virus may be detectable in the upper respiratory tract (URT) 1- 3 days before the onset of symptoms. The concentration of SARS-CoV-2 in the URT is highest around the time of symptom onset, after which it gradually declines.
-  # -
-  #   'He_et_al_2020
-  #   'He_et_al_2020.!b
-  #   'Woelfel_et_al_2020b
-  #   'Woelfel_et_al_2020b.!b
-  #   'Weiss_et_al_07_22_2020
-  #   'Zou_et_al_2020
-  #
-  # >
-  #   Higher viral loads detected in the nose than in the throat.
-  # -
-  #   'Zou_et_al_2020.!a
-  #   'Weiss_et_al_07_22_2020
-  #
-  # >
-  #   Some studies report higher viral loads in the severely ill compared with patients with mild disease, while other studies do not report such differences.
-  # - high viral load in severely ill patients
-  #   'He_et_al_2020
-  #   'He_et_al_2020.!b
-  #   'Liu_et_al_03_19_2020
-  # - high viral load in mild disease/asymptomatic cases
-  #   'Kam_et_al_02_28_2020
-  #   'Lavezzo_et_al_04_18_2020.!h
-  #   'WangTo_et_al_03_23_2020.!a
-  #
-  # >
-  #   The presence of viral RNA in the lower respiratory tract (LRT), and for a subset of individuals in the faeces, increases during the second week of illness.
-  # -
-  #   'Woelfel_et_al_2020b
-  #   'Weiss_et_al_07_22_2020
-  #
-  # >
-  #   In some patients the viral RNA may only be detectable for several days, while in other patients it can be detected for several weeks, possibly months. Prolonged presence of viral RNA does not necessarily signify prolonged infectiousness.
-  # -
-  #   'Woelfel_et_al_2020b
-  #   'Weiss_et_al_07_22_2020
-  #   'WangTo_et_al_03_23_2020.!b
-  #   'Li_et_al_04_29_2020
-  #   'Zhou_et_al_04_17_2020
-  #   'Xu_et_al_2020b
-  #   'Pan_et_al_2020b
-
-
-    # Antigen
-
-
-     ## Background
-     # detect the presence of viral proteins in a biological sample, such as saliva or tissue swabbed from the nasal cavity. Antigen tests are typically cheap, return results in minutes, and, like the genetic tests, reveal an active infection. They already exist for strep throat, influenza, tuberculosis, HIV, and other infectious diseases.
-     # https://www.sciencemag.org/news/2020/05/coronavirus-antigen-tests-quick-and-cheap-too-often-wrong
-
-     # Rapid diagnostic tests that detect the presence of SARS-CoV-2 viral proteins (antigens) in respiratory tract specimens are being developed and commercialized. Most of these are lateral flow immunoassays (LFI), which are typically completed within 30 minutes. In contrast to NAATs, there is no amplification of the target that is detected, making antigen tests less sensitive. Additionally, false- positive (indicating that a person is infected when they are not) results may occur if the antibodies on the test strip also recognize antigens of viruses other than SARS-CoV-2, such other human coronaviruses.
-     # https://www.who.int/publications/i/item/diagnostic-testing-for-sars-cov-2
-
-
-    # The sensitivity of different RDTs compared to rRT-PCR in specimens from URT (nasal or nasopharyngeal swabs) appears to be highly variable [144, 163-165], but specificity is consistently reported to be high.
-    #  --
-    #    'Porte_et_al_05_31_2020
-    #    'Diao_et_al_03_13_2020
-    #    'Lambert-Niclot_et_al_07_23_2020
-    #    'Mertens_et_al_02_20_2020
-    #    'Mak_et_al_06_08_2020
-    #    'Nagura-Ikeda_et_al_08_24_2020
-    #    'Omi_et_al_06_19_2020
-    #    'Schohy_et_al_05_21_2020
-    #    'Weitzel_et_al_05_30_2020
-    #    'Dinnes_et_al_08_26_2020
-
-        # >
-        #   Previous studies also showed that COVID-19 patients were susceptible to secondary infections due to complex immune dysfunction, and coinfection with bacteria could be seen in 30–50% severe or critically ill COVID-19 patients.
-        # --
-        #   'Kreitmann_et_al_07_13_2020
-        #   'Contou_et_al_09_07_2020
-        #   'Zhang_et_al_09_08_2020.
-
-    # > This study demonstrated that the RAD test serves only as adjunct to RT-PCR test because of potential for false-negative results.
-      # --
-       # 'Mak_et_al_06_08_2020
-
-    # >
-        # Higher viral loads are associated with improved antigen test performance; therefore test performance is expected to be best around symptom onset and in the initial phase of a SARS-CoV-2 infection.
-
-        # --
-        #    'Weiss_et_al_07_22_2020
-        #    'Weiss_et_al_07_22_2020.!a
-        #    'Bullard_et_al_05_22_2020
-        #    'Arons_et_al_03_28_2020
-        #    'Dinnes_et_al_08_26_2020
-        #    'Mak_et_al_06_08_2020
-
-
-    #  > remove it
-    #    Ag-RDTs are most likely to perform well in patients with high viral loads (Ct values ≤25 or >106 genomic virus copies/mL) which usually appear in the pre-symptomatic (1-3 days before symptom onset) and early symptomatic phases of the illness (within the first 5-7 days of illness) (14, 15, 21).
-
-
-    #  > Find papers for this
-    #    False- positive (indicating that a person is infected when they are not) results may occur if the antibodies on the test strip also recognize antigens of viruses other than SARS-CoV-2, such other human coronaviruses.
-
-    # > Recommendation- for use of antigen test in a coomunity.
-        # Use of Ag-RDTs is not recommended in settings or populations with low expected prevalence of disease (e.g. screening at points of entry, blood donation, elective surgery), especially where confirmatory testing by NAAT is not readily available.
-        # https://apps.who.int/iris/rest/bitstreams/1302653/retrieve
-
-
-
-    # How antigen detection would be incorporated into the testing algorithm depends on the sensitivity and specificity of the antigen test and on the prevalence of SARS-CoV-2 infection in the intended testing population. antigen detection would be incorporated into the testing algorithm depends on the sensitivity and specificity of the antigen test and on the prevalence of SARS-CoV-2 infection in the intended testing population.
-
-    # Test performance
-    # https://apps.who.int/iris/bitstream/handle/10665/334253/WHO-2019-nCoV-Antigen_Detection-2020.1-eng.pdf?sequence=1&isAllowed=y
-    # > WHO Background
-    # Sensitivity is the percentage of cases positive by a NAAT reference standard that are detected as positive by the Ag-RDT under evaluation.
-    # Specificity is the percentage of cases negative by a NAAT reference standard that are detected as negative by the Ag-RDT under evaluation. The prevalence of disease in the community being tested strongly affects the predictive value of a positive or negative result . Thus, the clinical value of a positive or negative test result will depend on what action is taken on the basis of the test result when interpreted in the context of local prevalence.
-    # negative and positive Predictive value (take background contentt for wikipedia)
-    # https://en.wikipedia.org/wiki/Positive_predictive_value
-    # The positive and negative predictive values (PPV and NPV respectively) are the proportions of positive and negative results in statistics and diagnostic tests that are true positive and true negative results, respectively. The PPV and NPV describe the performance of a diagnostic test or other statistical measure. A high result can be interpreted as indicating the accuracy of such a statistic.
-
-
-    ############################################ 11/13
-    ### IncubationPeriod
-    # claim = The mean time SARS-CoV-2 takes to develop symptoms (incubation period) is 5-6 days, with a range of between 1 and 14 days following exposure.
-    # A pooled analysis enrolling confirmed patients from 24 countries proved that the median incubation period was estimated to be 5.1 days (95% CI, 4.5 to 5.8 days), and 97.5% will develop symptoms within 11.5 days of infection
-    # --
-    #   'Li_et_al_03_26_2020.!b
-    #   'Guan_et_al_04_30_2020.!a
-    #   'Backer_et_al_02_06_2020
-    #   'Lauer_et_al_05_05_2020
-    #   'Linton_et_al_2020
-    #   'Lauer_et_al_05_05_2020
-
-    # >
-      # Estimated mean incubation period of approximately 5 days is comparable to known mean values of the incubation period for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome
-
-      # OR Results indicate a similar incubation period of SARS-CoV-2 with SARS (mean, 5 days; range, 2 to 14 days) [2], MERS (mean, 5 to 7 days; range, 2 to 14 days)
-
-      # 'Lessler_et_al_05_01_2009.!b
-      # 'Lessler_et_al_05_01_2009.!c
-      # 'Lessler_et_al_05_01_2009
-      # 'Virlogeux_et_al_03_22_2016
-      # 'Backer_et_al_02_06_2020
-
-         # > comparison of rapid antigen test
-         # Studies have shown though that there is substantial variability between tests. The best-performing test (SD Biosensor, Inc. STANDARD Q) was 76∙6% sensitive and 99∙3% specific. The test was considered easy-to-use and suitable for point-of-care (POC) despite imperfect sensitivity.
-         #  --
-         #   'Krüger_et_al_10_04_2020
-         #   'Corman_et_al_11_13_2020
-
-      # >
-      #   The association between the severity of an infectious disease and the length of incubation period- covid 19. Patients with a shorter incubation period went on to have more severe disease.
-      # --
-      #   'Cai_et_al_09_23_2020
-      #   'Lai_et_al_10_27_2020
-      #
-      # # >
-      #   # More importantly, incubation period is the interaction of pathogen and host immunity. The length of incubation period is closely linked to immunological state.
-      #   # --
-      #     # 'Hermesh_et_al_11_18_2010
-
-      # >
-        # COVID‐19 incubation period was found to be longer in older adults.
-        # --
-        #   'Kong_et_al_05_22_2020
-
-        # claim = Several studies describe the correlation between reduced infectiousness and decrease in viral load in respiratory secretions
-        # --
-        #  'Wölfel_et_al_2020
-        #  'Kampen_et_al_06_09_2020
-        #  'Perera_et_al_08_04_2020
-
-        # >
-          # Several studies describe the correlation between reduced infectiousness and an increase in neutralizing antibodies.
-        # --
-        #   'Kampen_et_al_06_09_2020
-
-
-        # >
-        # Based on the present findings, early discharge with ensuing home isolation could be chosen for patients who are beyond day 10 of symptoms with less than 100,000 viral RNA copies per ml of sputum. Both criteria predict that there is little residual risk of infectivity, based on cell culture.
-        # --
-        # 'Woelfel_et_al_2020b.!k
-        # 'Kampen_et_al_06_09_2020
-
-
-        # >
-        #   Previous studies also showed that COVID-19 patients were susceptible to secondary infections due to complex immune dysfunction, and coinfection with bacteria could be seen in 30–50% severe or critically ill COVID-19 patients.
-        # --
-        #   'Kreitmann_et_al_07_13_2020
-        #   'Contou_et_al_09_07_2020
-        #   'Zhang_et_al_09_08_2020.
-
-
-        ###### DiagnosticClaims
-
-        # > Background
-        # Viral tests identify the virus in samples from your respiratory system, such as a swab from the inside of your nose.
-        # Regardless of whether you test positive or negative, the results do not confirm whether you are able to spread the virus that causes COVID-19.
-
-        # https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html#:~:text=Viral%20tests%20identify%20the%20virus,virus%20that%20causes%20COVID%2D19.
-
-
-        ##### Neutralising Antibody
-        # >
-          # RBD-specific antibodies have greater potency to neutralize infection with divergent virus strains, suggesting that the RBD of SARS-CoV-2 can also serve as an important target for the development of potent and specific nAbs.
-        # --
-          # 'Jiang_et_al_04_02_2020
-
-
-        #  Although the IgM level reached its peak as in SARS‐CoV, it could remain persistently high in these patients even until the ninth week. The high levels of IgM indicated the duration of viral infection and may be related to the prolonged viral RNA shedding.
-         # --
-         #   'Li_et_al_04_29_2020
 
 
   ############################################################################################
   # Everything below in this section is not updated claims.
   ############################################################################################
+  #### 1/8/21 ####
+
+  # viral mutations impact vaccine-elicited immunity, and using this knowledge to design vaccines that are robust to viral antigenic evolution.
+  -
+    'Greaney_et_al_01_04_2021
+    'Greaney_et_al_01_04_2021.!a
+    'Greaney_et_al_01_04_2021.!b
+    'Greaney_et_al_01_04_2021.!c
+
+  >
+    We focus on the RBD because prior studies have reported that RBD-binding antibodies contribute the majority of the neutralizing activity of most human sera (Piccoli et al., 2020; Steffen et al., 2020),
+
+
+
+
+
+  >
+    Similar experiments by others (Andreano et al., 2020; Liu et al., 2020b; Weisblum et al., 2020) show that mutations to site E484 reduce the neutralization potency of some human sera by >10 fold, although other sera are unaffected by mutations at this site.
+
+    The most important site is E484, where neutralization by some sera is reduced >10-fold by several mutations, including one in emerging viral lineages in South Africa and Brazil.
+    https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1.full
+
+    Interestingly, beside the five SNVs that characterized our novel lineage, we also identified the mutation G23012A (E484K) in the RBD region of Spike protein. This alteration was previously associated with the escape from neutralizing antibodies against SARS-CoV-2 (24,25)
+
+
+
+
+
+  >
+    The NTD deletions in this lineage, however, may have an antigenic effect
+    (Andreano et al., 2020; Kemp et al., 2020b; McCarthy et al., 2020).
+
+
+  >
+    Notably, RBD mutations reported by other studies to have large effects on serum neutralization are also in the epitope centered around E484 or in the 443–450 loop (Andreano et al., 2020; Li et al., 2020; Weisblum et al., 2020).
 
 
 
 
 
 
-        ######### 11/17 #####
+  # Spike N453Y and Mink
+
+  >
+    Concerning outbreaks of SARS-CoV-2 began to emerge on mink farms in the Netherlands and Denmark in late spring and early summer 2020.
+  # -
+    # https://www.ecdc.europa.eu/sites/default/files/documents/RRA-SARS-CoV-2-in-mink-12-nov-2020.pdf
+  >
+    Genomic and epidemiologic investigation of an early outbreak in the Netherlands demonstrated human to mink, mink to mink, and mink to human transmission
+  # -
+    # Transmission of SARS-CoV-2 on mink farms between humans and mink and back to humans. ﻿
+  >
+    Many SARS-CoV-2 sequences from the Netherlands and Danish outbreaks had a Y453F mutation in the receptor binding domain of spike, which might mediate increased binding affinity for mink ACE2 (angiotensin-converting enzyme 2)
+
+  >
+    Eleven individuals from the Danish outbreak had a variant termed cluster 5, which had 3 additional mutations in spike (del69_70, I692V, and M1229I).
 
 
-         # > comparison of rapid antigen test
-         # Studies have shown though that there is substantial variability between tests. The best-performing test (SD Biosensor, Inc. STANDARD Q) was 76∙6% sensitive and 99∙3% specific. The test was considered easy-to-use and suitable for point-of-care (POC) despite imperfect sensitivity.
-         #  --
-         #   'Krüger_et_al_10_04_2020
-         #   'Corman_et_al_11_13_2020
+  >
+    An initial investigation of 9 human convalescent serum samples suggested a modest and variably statistically significant reduction in neutralization activity against cluster 5 viruses (mean, 3.58 fold; range, 0-13.5).
+
+  >
+    The apparent adaptation of SARS-CoV-2 to mink was nevertheless concerning because continued evolution of the virus in an animal reservoir could potentially lead to recurrent spillover events of novel SARS-CoV-2 from mink to humans and other mammals. For this reason, many countries have increased surveillance efforts and in some cases implemented large-scale culls (ie, selective slaughter) of mink on farms.
 
 
-         # > NEW CLAIM FOR PCR
-          # Recent case studies have shown that single-nucleotide variations (SNVs) may impact the sensitivity of commonly used diagnostic primers in Rt-PCR.
-          # --
-          #   'Vanaerschot_et_al_08_26_2020
-          #   'Chen_et_al_09_28_2020.!d
+  # Antigenicity and Vaccine Effectiveness
+
+  >
+    many mutations in spike might affect neutralization by convalescent sera.
+    Sometimes a mutation that enhances one viral property, such as binding to a receptor, can reduce another property, such as escaping host antibody. Indeed, recent evidence suggests this could be the case for D614G.10 It is possible that mutations in spike that are “good” for the virus right now could also make it less fit in the context of population-level immunity in the future.
+
+  >
+    Genomic surveillance of SARS-CoV-2 variants has largely focused on mutations in the spike glycoprotein, which mediates attachment to cells and is a major target of neutralizing antibodies. There is intense interest in whether mutations in the spike glycoprotein mediate escape from host antibodies and could potentially compromise vaccine effectiveness, since spike is the major viral antigen in the current vaccines.
 
 
-         # > RELAPSE
-          # corticosteroids, which suggests a potential link with the relapse that requires further studies.
-          # --
-          #  'Elsayed_et_al_09_05_2020.!a
-          #  'Chien_et_al_05_01_2004
-          # -- Reports of RELAPSE Cases
-              # 'Gousseff_et_al_06_30_2020
-              # 'Elsayed_et_al_09_05_2020
 
-              # —
+  # MODEL
+
+  # Although the terms mutation, variant, and strain are often used interchangeably in describing the epidemiology of SARS-CoV-2, the distinctions are important.
+  # Mutation refers to the actual change in sequence: D614G is an aspartic acid-to-glycine substitution at position 614 of the spike glycoprotein.
+  # Genomes that differ in sequence are often called variants. This term is somewhat less precise because 2 variants can differ by 1 mutation or many.
+  # Strictly speaking, a variant is a strain when it has a demonstrably different phenotype (eg, a difference in antigenicity, transmissibility, or virulence).
+
+
+  ##### 1/7/21 #####
+
+  >
+    Evidence of in-flight transmission on a flight
+
+  >
+    A small number of published reports in this area.Reports
+    Similar reports of SARS-CoV-2 being transmitted during flight have recently been published (3,4,16,17).
+    Those reports, along with the findings we report, demonstrate the potential for SARS-CoV-2 to spread on long-haul flights. This outbreak demonstrates the potential for spread of SARS-CoV-2 linked to air travel.
+
+    This investigation provides evidence of flight-associated SARS-CoV-2 transmission.
+
+    These transmission events occurred despite reported in-flight use of masks and gloves.It is interesting that four of the flight cases were not seated next to any other positive case, had no contact in the transit lounge, wore face masks in-flight and would not be deemed close contacts under current guidance from the European Centre for Disease Prevention and Control (ECDC).
+
+    Reports of suspected in-flight transmission of SARS-CoV-2 are relatively few, which probably reflects the challenges of establishing in-flight transmission; the fact that flight-associated transmission may be rare; and the fact that as the pandemic progressed, many airlines adopted measures to decrease risk
+  -
+    'Swadi_et_al_01_05_2021
+    'Swadi_et_al_01_05_2021.!a
+    'Swadi_et_al_01_05_2021.!b
+    'Swadi_et_al_01_05_2021.!c
+    'Swadi_et_al_01_05_2021.!d
+  -
+    'Freedman_et_al_09_25_2020
+    'Freedman_et_al_09_25_2020.!a
+    'Freedman_et_al_09_25_2020.!b
+    'Freedman_et_al_09_25_2020.!c
+    'Freedman_et_al_09_25_2020.!d
+  -
+    'Murphy_et_al_10_21_2020
+    'Murphy_et_al_10_21_2020.!a
+    'Murphy_et_al_10_21_2020.!b
+    'Murphy_et_al_10_21_2020.!c
+  -
+    'Choi_et_al_09_18_2020
+    'Choi_et_al_09_18_2020.!a
+
+  # this study documents transmission of SARS-CoV-2 associated with a medium-duration domestic flight within Australia. It also demonstrates the value of WGS for determining SARS-CoV-2 transmission. # check dates of this paper
+  -
+    'Speake_et_al_2020
+    'Speake_et_al_2020.!a
+    'Speake_et_al_2020.!b
+    'Speake_et_al_2020.!c
+  -
+    # Probable aircraft transmission of Covid-19 in-flight from the Central African Republic to France.
+    # https://www.sciencedirect.com/science/article/abs/pii/S1477893920301125?via%3Dihub
+    #
+    # Asymptomatic transmission of SARS-CoV-2 on evacuation flight.
+    # https://wwwnc.cdc.gov/eid/article/26/11/20-3353_article
+    # Assessment of SARS-CoV-2 transmission on an international flight and among a tourist group
+    # https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2769383
+
+
+  # https://doi.org/10.1093/jtm/taaa178 - discuss this paper
+  # In-flight transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks
+  >
+    In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness.  In 2003, up to 22 transmissions occurred on a single flight from a single index case
+
+  >
+    The strongest evidence that in-flight transmission is not inevitable even with large numbers of infected persons aboard. High- Risk Flights with no Evidence of Transmission
+  -
+    'Freedman_et_al_09_25_2020
+    'Freedman_et_al_09_25_2020.!i
+    'Freedman_et_al_09_25_2020.!j
+    'Freedman_et_al_09_25_2020.!f
+
+  >
+    The overall published data, as incomplete as it is, support the concept of proximity to a SARS-Co-V infected person as a key factor in in-flight transmission.
+  -
+    'Freedman_et_al_09_25_2020
+    'Freedman_et_al_09_25_2020.!n
+
+  >
+    According to the published reports, on Flights with mass transmission events, masking was not mandated in any way and, was rarely practiced.
+  -
+    'Freedman_et_al_09_25_2020
+    'Freedman_et_al_09_25_2020.!o
+
+  >
+    On flights with rigid masking policies, transmission was
+  -
+    'Freedman_et_al_09_25_2020
+    'Freedman_et_al_09_25_2020.!p
+    'Freedman_et_al_09_25_2020.!d
+    'Freedman_et_al_09_25_2020.!f
+
+  >
+    Other published reports describe suspected flight-associated transmission of SARS-CoV-2 (2,3,13,14), but these reports lack supportive genomic evidence.
+  # https://wwwnc.cdc.gov/eid/article/26/12/20-3910_article
+
+
+  >
+    The extent to which pregnant women might represent a ‘sentinel group’, providing an accessible snapshot of SARS-CoV-2 seroprevalence in the general population.
+    Mapping the exposure of pregnant women to SARS-CoV-2 infection is important, as they represent a potentially vulnerable group [17,18]; more evidence is required to determine whether pregnancy is a risk factor either for acquisition of infection or for severe maternal disease [19,20], and to identify adverse fetal or neonatal outcomes.
+
+  >
+    The intense propagation pattern could be due to a high intensity of infection and high viral shedding in the source case as hypothesised elsewhere
+
+  ######### 11/17 #####
+
+
+   # > comparison of rapid antigen test
+   # Studies have shown though that there is substantial variability between tests. The best-performing test (SD Biosensor, Inc. STANDARD Q) was 76∙6% sensitive and 99∙3% specific. The test was considered easy-to-use and suitable for point-of-care (POC) despite imperfect sensitivity.
+   #  --
+   #   'Krüger_et_al_10_04_2020
+   #   'Corman_et_al_11_13_2020
+
+
+   # > NEW CLAIM FOR PCR
+    # Recent case studies have shown that single-nucleotide variations (SNVs) may impact the sensitivity of commonly used diagnostic primers in Rt-PCR.
+    # --
+    #   'Vanaerschot_et_al_08_26_2020
+    #   'Chen_et_al_09_28_2020.!d
+
+
+   # > RELAPSE
+    # corticosteroids, which suggests a potential link with the relapse that requires further studies.
+    # --
+    #  'Elsayed_et_al_09_05_2020.!a
+    #  'Chien_et_al_05_01_2004
+    # -- Reports of RELAPSE Cases
+        # 'Gousseff_et_al_06_30_2020
+        # 'Elsayed_et_al_09_05_2020
+
+        # —
 
 
   ############################################################################################
@@ -315,34 +277,8 @@
     'Klein_et_al_12_22_2020.!h
     'Klein_et_al_12_22_2020.!i
 
-  >
-    A case study indicated that certain immunocompromised individuals may shed infectious virus longer than previously recognized.
-    Many current infection control guidelines assume that persistently PCR-positive individuals are shedding residual RNA and not infectious virus, with immunocompromised people thought to remain infectious for no longer than 20 days after symptom onset (CDC, 2020a). Here we show that certain individuals may shed infectious, replication-competent virus for much longer than previously recognized (van Kampen et al., 2020). Although infectious virus could be detected up to day 70, sgRNA, a molecular marker for active SARS-CoV-2 replication (Speranza et al., 2020),
-
-  -
-    'Choi_et_al_12_03_2020
-    'Choi_et_al_12_03_2020.!b
-  -
-    'Avanzato_et_al_11_04_2020
-    'Avanzato_et_al_11_04_2020.!a
-    'Avanzato_et_al_11_04_2020.!b
-    'Avanzato_et_al_11_04_2020.!d
-    'Avanzato_et_al_11_04_2020.!e
-
-  >
-    Several clinical trials are investigating the efficacy of convalescent plasma, but currently the effect of convalescent plasma therapy on COVID-19 outcome remains equivocal (Mira et al., 2020; Salazar et al., 2020). The limited effect of convalescent plasma treatment on clearance of SARS-CoV-2 could be due to the fact that intravenously (i.v.) administered antibodies do not distribute well to the nasal epithelium (Ikegami et al., 2020) compared with the lower respiratory tract (Mira et al., 2020).
-  -
-    'Avanzato_et_al_11_04_2020
-    'Avanzato_et_al_11_04_2020.!f
-  -
-    'Kemp_et_al_12_29_2020
-    'Kemp_et_al_12_29_2020.!c
-
-  >
-    With SARS-CoV-2, there is generally relatively limited within-host variation reported, and over the course of infection, the major SARS-CoV-2 population remains identical (Jary et al., 2020; Shen et al., 2020; Capobianchi et al., 2020).
 
 
-  # https://doi.org/10.1016/j.cell.2020.10.049
 
   #### 12/31 ####
 
@@ -351,11 +287,39 @@
   # What are the correlates of protective immunity after natural infection or vaccination? How long will immunity last? Will widespread immunity limit the spread of the virus in the population? Which component of the vaccine is responsible for allergic reactions? Are some vaccines less likely than others to cause IgE- and non-IgE–mediated reactions?
   # So why did Europe and the US both choose mRNA vaccines (never before tested for coronaviruses in humans) and not WKV (proven efficacy for antibody production against coronavirus in humans)?
   # "Would Salk-style inactivated or whole killed virus vaccine (WKV) be worth considering as well? Its distribution and storage should be easier than a mRNA vaccine..."
+  # is the vaccine still effective if the virus mutates?
+  # will the fda authorised vaccines work against the new variant?
+  # Why do we need a booster shots? This is because B cell responses induced by first dose only generates lower levels, lower affinity and short lived antibody responses. The booster dose(s) allow stimulation of robust long-lasting immunity with high affinity/neutralizing Ab
+  # So how effective is a single dose vaccine? We do not know for sure, but for at least a month or more, a single shot mRNA vaccines should provide ~90% protection (>14 d post vaccination). This is from the Moderna VRBPAC Briefing Document. (6/n)
+
+  # why Australia isn't just rolling out the vaccine prior to regulatory approval, or why the TGA just doesn't register the vaccine based on approvals in other countries.https://twitter.com/peripatetical/status/1346036208116269059
+
+  # I've previously discussed some of the issues of interest when considering how effective the vaccine is. The primary question is whether the vaccine prevents disease.
+  # Several other questions are very important to the COVID vaccine program - the degree to which vaccines prevent transmission, and whether they work in high risk subgroups (esp older people)
+  #
+  # Safety requires larger numbers of participants in trials. What we're looking for is a "safety signal" - anything that might hint that something serious might be caused by a vaccine, and how common it is.
+  #
+  # t is worth noting that many diseases have a "background rate" - for example flu-like illnesses occur quite commonly in both groups. In the Pfizer study, a third of participants in the placebo arm had fatigue or headache.
+  #
+  # That's not all - there are questions about toxicology of the vaccine or its components (such as the lipid layer used in mRNA vaccines, or adjuvants used in protein vaccines).
+  #
+  # We want to know that there is the correct amount of vaccine in each dose. We want to know they are free from contamination. That there are no differences between different batches or those made in different factories. We need to know the shelf life under different conditions.
+  #
+  # Whether they can be used safely in pregnant or breastfeeding women. Whether they can be given with other vaccines such as the flu vaccine.
+  #
+  # Can anyone think of a time a vaccine has been rolled out to a RNA virus (or any other pathogen) at the same time so much infection is happening ... I’m not sure we understand the consequences at all of suboptimal immunity.
+  #
+  # There are so many unknowns relating to introducing a vaccine when attack rates are so high. Delaying a boost to maximise protective immunity appears to add yet more unknowns.
 
 
   # questions #variants
 
   # New Variants- How will it affect vaccines under development?
+  # Did the variant achieve prominence through natural selection or chance events? If the evidence suggests natural selection, which mutation(s) are being selected? What is the adaptive benefit of these mutations? What effect do these mutations have on transmissibility and spread, antigenicity, or virulence?
+
+  # flights
+
+  # When a positive COVID-19 case is linked to a flight, rapid flight contact tracing may prevent onward spread and we support the proposed EU digitalised public health passenger locator form [12] and development of improved systems of tracing. (ii) Swift action is needed where cases with no other link emerge beyond the close contact two-seat radius [1] to instigate early investigation and control measures.
 
 
 

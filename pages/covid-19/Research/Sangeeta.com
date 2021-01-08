@@ -12,9 +12,166 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
-  #
 
+
+  #
   //
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Genomic characterization of a novel SARS-CoV-2 lineage from Rio de Janeiro, Brazil
+  doi: https://doi.org/10.1101/2020.12.23.20248598
+  ref 'Voloch_et_al_12_26_2020
+    head = In this study, we report the sequencing of 180 new viral genomes obtained from different municipalities of the state of Rio de Janeiro from April to December 2020.
+
+    > Abstract
+      In this study, we report the sequencing of 180 new viral genomes obtained from different municipalities of the state of Rio de Janeiro from April to December 2020. We identified a novel lineage of SARS-CoV-2, originated from B.1.1.28, distinguished by five single-nucleotide variants (SNVs): C100U, C28253U, G28628U, G28975U, and C29754U. The SNV G23012A (E484K), in the receptor-binding domain of Spike protein, was widely spread across the samples. This mutation was previously associated with escape from neutralizing antibodies against SARS-CoV-2. This novel lineage emerged in late July being first detected by us in late October and still mainly restricted to the capital of the state. However, as observed for other strains it can be rapidly spread in the state. The significant increase in the frequency of this lineage raises concerns about public health management and continuous need for genomic surveillance during the second wave of infections.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / December, 2020 - medRxiv
+    quote !a = We identified a novel lineage of SARS-CoV-2, originated from B.1.1.28, distinguished by five single-nucleotide variants (SNVs): C100U, C28253U, G28628U, G28975U, and C29754U.
+
+    / December, 2020 - medRxiv
+    quote !b = Beside the five single-nucleotide variants (SNVs), that characterized our novel lineage, we also identified the mutation G23012A (E484K) in the RBD region of Spike protein. The SNV G23012A (E484K), in the receptor-binding domain of Spike protein, was widely spread across the samples. This mutation was previously associated with escape from neutralizing antibodies against SARS-CoV-2.
+
+    / December, 2020 - medRxiv
+    quote !c = This novel lineage emerged in late July being first detected by us in late October and still mainly restricted to the capital of the state.
+
+    / December, 2020 - medRxiv
+    quote !d = We demonstrated that the COVID-19 epidemic in Rio de Janeiro was characterized by three main clades, of which two represented the vast majority of the circulating viruses, classified as B.1.1.28 and B.1.1.33 lineages. Interestingly, this division of three clades was also observed in Brazil during the beginning of the SARS-CoV-2 pandemic.
+
+
+
+  #
+  // Comprehensive mapping of mutations to the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human serum antibodies
+  doi: https://doi.org/10.1101/2020.12.31.425021
+  ref 'Greaney_et_al_01_04_2021
+    head = We comprehensively map how all amino-acid mutations to the SARS-CoV-2 spike RBD affect binding by the antibodies in plasma collected from convalescent individuals ~1 to ~3 months post-symptom onset.
+
+
+    > Abstract
+      The evolution of SARS-CoV-2 could impair recognition of the virus by human antibody-mediated immunity. To facilitate prospective surveillance for such evolution, we map how convalescent serum antibodies are impacted by all mutations to the spike’s receptor-binding domain (RBD), the main target of serum neutralizing activity. Binding by polyclonal serum antibodies is affected by mutations in three main epitopes in the RBD, but there is substantial variation in the impact of mutations both among individuals and within the same individual over time. Despite this inter- and intra-person heterogeneity, the mutations that most reduce antibody binding usually occur at just a few sites in the RBD’s receptor binding motif. The most important site is E484, where neutralization by some sera is reduced >10-fold by several mutations, including one in emerging viral lineages in South Africa and Brazil. Going forward, these serum escape maps can inform surveillance of SARS-CoV-2 evolution.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / January, 2021 - bioRxiv
+    quote !a = Our results show that polyclonal antibody immunity to the SARS-CoV-2 RBD is sometimes focused as for influenza, but in other cases more broadly targets the RBD in a way that mitigates the effect of any single mutation. This heterogeneity in the antigenic impacts of RBD mutations implies that the immunity of different individuals will be impacted differently by viral evolution.
+
+    / January, 2021 - bioRxiv
+    quote !b = Binding by polyclonal serum antibodies is affected by mutations in three main epitopes in the RBD, but there is substantial variation in the impact of mutations both among individuals and within the same individual over time.
+
+    / January, 2021 - bioRxiv
+    quote !c = Despite this inter- and intra-person heterogeneity, the mutations that most reduce antibody binding usually occur at just a few sites in the RBD’s receptor binding motif.
+
+    # / January, 2021 - bioRxiv
+    # quote !a = Our results suggest that E484 is the site of most concern for viral mutations that impact binding and neutralization by polyclonal serum antibodies targeting the RBD.
+
+    / January, 2021 - bioRxiv
+    quote !d = The site where mutations tend to have the largest effect on binding and neutralization by polyclonal serum antibodies targeting the RB  is E484, which unfortunately is a site where mutations are present in several emerging SARS-CoV-2 lineages (South Africa and Brazil.
+
+    / January, 2021 - bioRxiv
+    quote !e = Mutations at the other serum antibody epitopes (e.g., the 443–450 loop and residues around 484 such as 455, 485, 486, and 490) are also worth monitoring, since they also have antigenic impacts.
+
+    # / January, 2021 - bioRxiv
+    # quote !a = Mutations at other structurally adjacent sites in the RBD’s receptor binding ridge (e.g., L455, F456, G485, F486, and F490) can also have substantial antigenic effects.
+
+    / January, 2021 - bioRxiv
+    quote !f = Another major epitope centered on the loop formed by residues 443–450 in the RBD’s receptor-binding motif, and mutations in this epitope sometimes strongly affect serum antibody neutralization.
+
+    / January, 2021 - bioRxiv
+    quote !g = A third epitope is in the core of the RBD distal from the receptor-binding motif, although mutations here tend to have smaller effects on serum antibody binding.
+
+    / January, 2021 - bioRxiv
+    quote !h = Emerging lineages in South Africa and Brazil carrying the E484K mutation will have greatly reduced susceptibility to neutralization by the polyclonal serum antibodies of some individuals.
+
+    / January, 2021 - bioRxiv
+    quote !i = The N501Y mutation present in the U.K. lineage is unlikely to greatly affect neutralization by most human sera, although it could contribute to increased viral titer or enhanced transmissibility
+
+
+
+  # 1/9/2021- discuss with ayush
+  // Genetic Variants of SARS-CoV-2—What Do They Mean?
+  doi: https://jamanetwork.com/journals/jama/fullarticle/2775006
+  ref 'Lauring_et_al_01_06_2021
+    head = The author reviews the genetic variants of SARSCov-2 to understand which variants are concerning, and why.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+
+    / January, 2021 - JAMA.
+    quote !a = Mutations arise as a natural by-product of viral replication. RNA viruses typically have higher mutation rates than DNA viruses. Coronaviruses, however, make fewer mutations than most RNA viruses because they encode an enzyme that corrects some of the errors made during replication.
+
+    / January, 2021 - JAMA.
+    quote !b = In most cases, the fate of a newly arising mutation is determined by natural selection. Those that confer a competitive advantage with respect to viral replication, transmission, or escape from immunity will increase in frequency, and those that reduce viral fitness tend to be culled from the population of circulating viruses. However, mutations can also increase and decrease in frequency due to chance events. For example, a “founder effect” occurs when a limited number of individual viruses establish a new population during transmission. The mutations present in the genomes of these viral ancestors will dominate the population regardless of their effects on viral fitness.
+
+    / January, 2021 - JAMA.
+    quote !c = The D614G mutation in the spike glycoprotein of SARS-CoV-2 was first detected at a significant level in early March 2020 and spread to global dominance over the next month. A recent population genetic and phylodynamic analysis of more than 25 000 sequences from the UK found that viruses bearing 614G did appear to spread faster and seed larger phylogenetic clusters than viruses with 614D. More recently, complementary work in animal models indicates that 614G viruses transmit more efficiently.
+
+    / January, 2021 - JAMA.
+    quote !d = Subsequent sequencing efforts identified the D614G mutation in viruses in several Chinese provinces in late January. This raised the possibility that global dispersal of this mutation could have resulted from chance founder events, in which viruses harboring 614G just happened to initiate the majority of early transmission events in multiple locations.
+
+    / January, 2021 - JAMA.
+    quote !e = Spike N453Y and Mink: Concerning outbreaks of SARS-CoV-2 began to emerge on mink farms in the Netherlands and Denmark in late spring and early summer 2020. Genomic and epidemiologic investigation of an early outbreak in the Netherlands demonstrated human to mink, mink to mink, and mink to human transmission.
+
+    / January, 2021 - JAMA.
+    quote !f = Many SARS-CoV-2 sequences from the Netherlands and Danish outbreaks had a Y453F mutation in the receptor binding domain of spike, which might mediate increased binding affinity for mink ACE2 (angiotensin-converting enzyme 2). Eleven individuals from the Danish outbreak had a variant termed cluster 5, which had 3 additional mutations in spike (del69_70, I692V, and M1229I).
+
+    / January, 2021 - JAMA.
+    quote !g = An initial investigation of 9 human convalescent serum samples suggested a modest and variably statistically significant reduction in neutralization activity against cluster 5 viruses (mean, 3.58 fold; range, 0-13.5).
+
+    / January, 2021 - JAMA.
+    quote !h = Lineage B.1.1.7 (also called 501Y.V1) is a phylogenetic cluster that is rapidly spreading in southeastern England8 (Figure). It had accumulated 17 lineage-defining mutations prior to its detection in early September, which suggests a significant amount of prior evolution, possibly in a chronically infected host. As of December 28, 2020, this variant accounted for approximately 28% of cases of SARS-CoV-2 infection in England, and population genetic models suggest that it is spreading 56% more quickly than other lineages.
+
+    / January, 2021 - JAMA.
+    quote !i = Unlike D614G, which could plausibly have benefited from early chance events, lineage B.1.1.7 expanded when SARS-CoV-2 cases were widespread and has seemingly achieved dominance by outcompeting an existing population of circulating variants. This is strongly suggestive of natural selection of a virus that is more transmissible at a population level
+
+    / January, 2021 - JAMA.
+    quote !j = Genomic surveillance of SARS-CoV-2 variants has largely focused on mutations in the spike glycoprotein, which mediates attachment to cells and is a major target of neutralizing antibodies. There is intense interest in whether mutations in the spike glycoprotein mediate escape from host antibodies and could potentially compromise vaccine effectiveness, since spike is the major viral antigen in the current vaccines.
+
+    / January, 2021 - JAMA.
+    quote !k = At this point, strong selection of a variant at the population level is probably not driven by host antibody because there are not sufficient numbers of immune individuals to systematically push the virus in a given direction. In contrast, if a variant has one or more mutations in spike that increase transmissibility, it could quickly outcompete and replace other circulating variants.
+
+    / January, 2021 - JAMA.
+    quote !l = Because current vaccines provoke an immune response to the entire spike protein, it is hoped that effective protection may still occur despite a few changes at antigenic sites in SARS-CoV-2 variants.
+
+
+
+  #
+  // Comprehensive mapping of mutations to the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human serum antibodies
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -27,7 +184,8 @@ feed Sangeeta
 
   #
 
-  //
+
+  // Autoimmunity to the Lung Protective Phospholipid-Binding Protein Annexin A2 Predicts Mortality Among Hospitalized COVID-19 Patients
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -38,9 +196,29 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
+
+
+
   #
 
-  //
+  // Evaluation of the Effect of D614G, N501Y and S477N Mutation in SARS-CoV-2 through Computational Approach
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head = The aim of this study was to examine the mutational effect of spike protein on the sequence through an interaction study of the mutant spike protein and the human ACE2 protein at the structural level.
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes an outbreak of COVID-19 disease in humans with the aid of spike protein. It consists of a receptor-binding domain (RBD) that recognizes and binds to the host receptor angiotensin-converting enzyme 2 (ACE2). The aim of this study was to examine the mutational effect of spike protein on the sequence through an interaction study of the mutant spike protein and the human ACE2 protein at the structural level. A total of 17,227 spike proteins from Asia, Africa, Europe, Oceania, South America, and North America were compared to the Wuhan spike protein reference sequence (Wuhan-Hu-1). The structural and stability implications of D614G, N501Y, and S477N mutations were evaluated. The binding affinity between mutated RBD and human ACE2 protein was also studied. The D614G mutation may have originated in Germany, Europe based on the date of the first sample collection report. It is now widely circulated all over the world with most occurrences in North America. The mutations N501Y and S477N may have originated from Oceania based on the date of the first sample collection report and also have the highest occurrences in Oceania. Based on the computational analysis of mutational effects, the D614G, N501Y, and S477N mutations decreased stability and were tolerated. For disease propensity prediction, N501Y was more prone to disease compared to D614G, while S477N was not prone to disease. The mutation of D to G at position 614 and S to N at position 477 for secondary structure prediction shows no changes in secondary structure while remaining in the coil region, whereas the mutation of N to Y at position 501 changes from coil structure to extended strand. N501Y mutation has a higher affinity to human ACE2 protein compared to D614G and S477N based on a docking study. D614G spike mutation was identified to exist between the two hosts based on a comparison of SARS-CoV-2 derived between the mink and human. Further research is needed on the link between the mink mutation N501T and the mutation N501Y in humans, which has evolved as a separate variant.
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  #
+  // Recurrent mutations in SARS-CoV-2 genomes isolated from mink point to rapid host-adaptation
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -51,7 +229,6 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
-  #
 
 
 
@@ -68,102 +245,9 @@ feed Sangeeta
     quote !a =
 
 
-  # D614G
-  // Structural and functional analysis of the D614G SARS-CoV-2 spike protein variant
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
 
 
-
-  # D614G
-  // Tracking changes in SARS-CoV-2 Spike: evidence that D614G increases infectivity of the COVID-19 virus
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-  # D614G
-  // SARS-CoV-2 D614G variant exhibits efficient replication ex vivo and transmission in vivo.
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-  # D614G
-  // Combined Point-of-Care Nucleic Acid and Antibody Testing for SARS-CoV-2 following Emergence of D614G Spike Variant
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-  # N439K mutation
-  // The circulating SARS-CoV-2 spike variant N439K maintains fitness while evading antibody-mediated immunity
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-  //  Prospective mapping of viral mutations that escape antibodies used to treat COVID-19
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-  #
-  // Modelling conformational state dynamics and its role on infection for SARS-CoV-2 Spike protein variants
-  doi: https://doi.org/10.1101/2020.12.16.423118
-  ref 'Teruel_et_al_12_17_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - bioRxiv
-    quote !a =
-
-
-  #
-  // Key residues of the receptor binding motif in the spike protein of SARS-CoV-2 that interact with ACE2 and neutralizing antibodies
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID-19
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -245,6 +329,218 @@ feed Sangeeta
 
     / December, 2020 - BioRxiv
     quote !a =
+
+
+  #
+  // Modelling conformational state dynamics and its role on infection for SARS-CoV-2 Spike protein variants
+  doi: https://doi.org/10.1101/2020.12.16.423118
+  ref 'Teruel_et_al_12_17_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - bioRxiv
+    quote !a =
+
+
+  #
+  // Key residues of the receptor binding motif in the spike protein of SARS-CoV-2 that interact with ACE2 and neutralizing antibodies
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+
+
+  #  check dates of this paper
+  // Flight-Associated Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 Corroborated by Whole-Genome Sequencing
+  doi: https://dx.doi.org/10.3201/eid2612.203910
+  ref 'Speake_et_al_2020
+    head = To investigate potential transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during a domestic flight within Australia, we performed epidemiologic analyses with whole-genome sequencing.
+
+    > Abstract
+      To investigate potential transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during a domestic flight within Australia, we performed epidemiologic analyses with whole-genome sequencing. Eleven passengers with PCR-confirmed SARS-CoV-2 infection and symptom onset within 48 hours of the flight were considered infectious during travel; 9 had recently disembarked from a cruise ship with a retrospectively identified SARS-CoV-2 outbreak. The virus strain of those on the cruise and the flight was linked (A2-RP) and had not been previously identified in Australia. For 11 passengers, none of whom had traveled on the cruise ship, PCR-confirmed SARS-CoV-2 illness developed between 48 hours and 14 days after the flight. Eight cases were considered flight associated with the distinct SARS-CoV-2 A2-RP strain; the remaining 3 cases (1 with A2-RP) were possibly flight associated. All 11 passengers had been in the same cabin with symptomatic persons who had culture-positive A2-RP virus strain. This investigation provides evidence of flight-associated SARS-CoV-2 transmission.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / December, 2020 - Emerg Infect Dis.
+    quote !a = The virus strain of those on the cruise and the flight was linked (A2-RP) and had not been previously identified in Australia.
+
+    / December, 2020 - Emerg Infect Dis.
+    quote !b = For 11 passengers, none of whom had traveled on the cruise ship, PCR-confirmed SARS-CoV-2 illness developed between 48 hours and 14 days after the flight. Eight cases were considered flight associated with the distinct SARS-CoV-2 A2-RP strain; the remaining 3 cases (1 with A2-RP) were possibly flight associated. All 11 passengers had been in the same cabin with symptomatic persons who had culture-positive A2-RP virus strain. This investigation provides evidence of flight-associated SARS-CoV-2 transmission.
+
+    / December, 2020 - Emerg Infect Dis.
+    quote !c = This combination of comprehensive epidemiologic investigation and WGS analysis builds a strong case for flight-associated transmission of SARS-CoV-2. Convergence of the following 3 factors enabled this investigation: 1) the emergence of a unique SARS-CoV-2 strain (A2-RP) among cruise ship passengers disembarking in Sydney at the time of the flight, 2) identification of the A2-RP virus sequence among travelers arriving from overseas who did not leave the Sydney Airport before transiting to the flight, and 3) the very limited community transmission of SARS-CoV-2 within Australia at the time.
+
+
+
+  #
+  // In-Flight Transmission of SARS-CoV-2
+  doi: https://dx.doi.org/10.3201/eid2611.203254
+  ref 'Choi_et_al_09_18_2020
+    head = Four persons with SARSCoV-2 infection had traveled on the same flight from Boston, Massachusetts, USA, to Hong Kong, China. Their virus genetic sequences are identical, unique, and belong to a clade not previously identified in Hong Kong, which strongly suggests that the virus can be transmitted during air travel.
+
+
+    > Abstract
+      Four persons with severe acute respiratory syndrome coronavirus 2 infection had traveled on the same flight from Boston, Massachusetts, USA, to Hong Kong, China. Their virus genetic sequences are identical, unique, and belong to a clade not previously identified in Hong Kong, which strongly suggests that the virus can be transmitted during air travel.
+
+    - quotes
+      !a
+
+    / September, 2020 - Emerg Infect Dis.
+    quote !a = Our results strongly suggest in-flight transmission of SARS-CoV-2. Given the case histories and sequencing results, the most likely sequence of events is that one or both of passengers A and B contracted SARS-CoV-2 in North America and transmitted the virus to flight attendants C and D during the flight. The only location where all 4 persons were in close proximity for an extended period was inside the airplane. No other COVID-19 cases associated with this flight have been identified.
+
+    # / September, 2020 - Emerg Infect Dis.
+    # quote !b = Patient D may have acquired infection from patient C, but because their test results were positive within 1 incubation period, it is more likely that patient D was infected by patient A or B. We therefore conclude that these 4 patients belong to the same in-flight transmission chain.
+
+
+  #
+  // In-flight transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks
+  doi: https://doi.org/10.1093/jtm/taaa178
+  ref 'Freedman_et_al_09_25_2020
+    head = This review presents a comprehensive table summarizing all peer-reviewed or public health publication of flights with likely, possible or unproven in-flight SARS-CoV-2 transmission from 24 January 2020 to 21 September 2020. This review focuses on the epidemiology of actual documented human transmission. Cabin airflows, cabin aerosolization and filtration parameters of aircraft ventilation systems are beyond our scope.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !i
+      !j
+      !k
+      !l
+      !m
+      !n
+      !o
+      !p
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !a = Reported Mass Transmission Events (>1 secondary case): Four well-documented flights (Table 1) describe mass transmission events. Flights A and C present sophisticated proof from whole genome sequencing and provide essentially indisputable evidence of in-flight transmission to 11 and 2 secondary cases, respectively. Immediately pre-flight infection of the secondary cases is theoretically possible but highly unlikely given identical sequences with the index cases.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !b = Flight B with at least 15 secondary cases lacks genetic proof, but at the time (March 2) of the London–Hanoi flight, neither the UK nor Vietnam had more than a handful of sporadic cases.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !c = Flight D arrived in Hong Kong, which since April has had mandatory arrival PCR testing on Day 0 and Day 14 with quarantine in between; 27 passengers were PCR+ on Day 0 (11 September 2020, date last accessed). Two likely secondary cases (one seated in Row 40 with 5 index cases) had negative Day 0 PCR testing and were PCR+ on Day 14; pre-flight transmission shortly before the relatively short flight cannot be ruled out.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !d = Emirates airlines had extremely strict pre-flight screening, in-transit screening and masking procedures on board (meals were served) in place at the time of this flight with an enormous number of COVID-19 cases during an 8-hour flight.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !e = Evacuation/repatriation flights: A number of these flights have carried COVID-19 cases, but no national databases or unified international registries documenting evacuation flights or their passenger loads are publicly available, and few data have been published to date. The Korean CDC (Flights E and F) managed such flights meticulously and has published well-documented data on these. The one secondary case from a clearly documented total of 6 index cases on Flight E had quarantined alone for 3 weeks prior to the flight, and her socially distanced path to the aircraft from home was managed by the Korean CDC. On-board, she and all other passengers were masked (except for meals) but she did use a specific lavatory that had been used by an index case.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !f = No transmission was found from 2 PCR+ index cases on a small jet (Flight G) repatriating 9 other masked PCR negative Israeli evacuees from the Diamond Princess.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !g = No follow-up data are yet available for any possible secondary cases during the repatriation of 300 masked US evacuees from the Diamond Princess (Flight H) where 14 PCR+ evacuees were seated in a separate section of the aircraft or from the Costa Luminosa (Flight I).
+
+
+    # / September, 2020 - Journal of Travel Medicine
+    # quote !h = Possible Single Transmissions with Weak Evidence: Incomplete epidemiologic evidence to determine likelihood for 3 proposed in-flight transmissions (Flights J, K and L)
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !i = High-Risk Flights with no Evidence of Transmission: Very early in the pandemic, a flight from Wuhan to Toronto (Flight M) with 2 passengers of 350 PCR+ on arrival had no secondary transmission; however, only active follow-up of flight passengers for symptom development and not systematic PCR was undertaken.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !j = The strongest evidence that in-flight transmission is not inevitable even with large numbers of infected persons aboard comes from a unique public database maintained by the government of Hong Kong <wars.vote4.hk/en/cases>. All PCR+ patients are displayed with arrival date, flight number and date of the positive PCR test. Between 16th June and 4th July, 5 separate Emirates airlines flights with 7 or more passengers with positive PCR tests on Day 0 arrived in Hong Kong (Flights N–R). No secondary cases were identified on Day 14 screening despite 58 passengers who were PCR+ on the 5 flights each of 8-hour duration with a total of ~1500–2000 passengers. At the time of these flights, Emirates had strict in-flight masking protocols (meals were served). The Hong Kong database consists of single passenger case reports for hundreds of flights with passengers who tested positive at Day 0 or Day 14 and should be the subject of further analysis.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !k = Lack of Published or Public Data on Flights with Proven COVID-19 Cases: As two examples, Canada and Australia have long public lists each containing >1000 flights with a documentation of having retrospectively known COVID-19 cases on board. In each of these countries, the flight information and seat row numbers of known cases are kept live for 2 weeks in order to encourage other passengers who self-identify to self-isolate or get tested; however, no available information on any secondary cases in other passengers is posted.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !l = Public health authorities in other countries have similar lists, but analyses of these databases have yet to be published. The USA presents a more difficult landscape for such analysis, as high background infection rates obscures the determination of place of acquisition. US CDC has stated awareness of 1600 cases on US flights and 11 000 contacts within 2 rows but has not yet published in-flight transmission estimates.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !m = Data on known cases in flight crew are mostly available only to the airline medical departments and infection may have been acquired anywhere off or on-duty, but such data are regarded as protected private health information by most airlines. No aggregate data with de-identified statistics for flight crew have been published.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !n = Case Clustering-Proximity to Index Cases: The 3 major, and best documented in-flight transmission events, Flights A–C had clear case clustering (see Table 1 for details). Cases in flight A were restricted to a small area of the mid-cabin on an A330 widebody aircraft. On Flight B, the single index case sat in Business Class and the attack rate for the remaining passengers, 11/12 of whom were sitting within 2 rows was 62%. On Flight C, both index cases were in Business Class and transmitted to flight crew. Seat plans were not available for all flights in the table, but a minority occurred more than 3 rows from any index case; the 2-row rule for contact tracing may need to be re-visited.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !o = Masking: On Flights A–C, with mass transmission events, masking was not mandated in any way and, according to the published reports, was rarely practiced.
+
+    / September, 2020 - Journal of Travel Medicine
+    quote !p = On Flight D, with 25 passengers PCR+ on arrival but with rigid masking, there were only 2 transmissions and 1 was seated in Row 40 next to 5 index cases. On flights N–R with the rigid masking policies (meals served) of Emirates Airlines, no secondary cases were identified on Day 14 screening despite 58 passengers who were PCR+ on a total of 5 flights of 8 hours each with ~1500–2000 passengers.
+
+
+
+
+  #
+  // A large national outbreak of COVID-19 linked to air travel, Ireland, summer 2020
+  doi: https://doi.org/10.2807/1560-7917.ES.2020.25.42.2001624
+  ref 'Murphy_et_al_10_21_2020
+    head = We describe an outbreak that demonstrates in-flight transmission. This study depicts the nature of transmission on board, despite implementation of non-pharmaceutical interventions.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / October, 2020 - Eurosurveillance
+    quote !a = This study is one of few thus far demonstrating in-flight transmission of SARS-CoV-2 with extensive onwards transmission.
+
+    / October, 2020 - Eurosurveillance
+    quote !b = Onward transmission from 13 passenger cases resulted in a total of 59 cases in six of eight HSE health regions in Ireland, necessitating national oversight of the outbreak.
+
+    / October, 2020 - Eurosurveillance
+    quote !c = We calculated high attack rates, ranging plausibly from 9.8 % to 17.8% despite low flight occupancy and lack of passenger proximity on-board.
+
+    / October, 2020 - Eurosurveillance
+    quote !d = In-flight transmission was the only common exposure for four other cases (Flight Groups 3 and 4) with date of onset within four days of the flight in all but the possible tertiary case. This case from Group 3 developed symptoms nine days after the flight and so may have acquired the infection in-flight or possibly after the flight through transmission within the household.
+
+    / October, 2020 - Eurosurveillance
+    quote !e = It is interesting that four of the flight cases were not seated next to any other positive case, had no contact in the transit lounge, wore face masks in-flight and would not be deemed close contacts under current guidance from the European Centre for Disease Prevention and Control (ECDC).
+
+
+
+  #
+  //  Genomic Evidence of In-Flight Transmission of SARS-CoV-2 Despite Predeparture Testing.
+  doi: https://doi.org/10.3201/eid2703.204714
+  ref 'Swadi_et_al_01_05_2021
+    head = Evidence of in-flight transmission on a flight from the United Arab Emirates to New Zealand is strongly supported by the epidemiologic data, in-flight seating plan, symptom onset dates, and genomic data for this group of travelers who tested positive for SARS-CoV-2 (passengers A–G).
+
+
+    > Abstract
+      Since the first wave of coronavirus disease in March 2020, citizens and permanent residents returning to New Zealand have been required to undergo managed isolation and quarantine (MIQ) for 14 days and mandatory testing for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). As of October 20, 2020, of 62,698 arrivals, testing of persons in MIQ had identified 215 cases of SARS-CoV-2 infection. Among 86 passengers on a flight from Dubai, United Arab Emirates, that arrived in New Zealand on September 29, test results were positive for 7 persons in MIQ. These passengers originated from 5 different countries before a layover in Dubai; 5 had negative predeparture SARS-CoV-2 test results. To assess possible points of infection, we analyzed information about their journeys, disease progression, and virus genomic data. All 7 SARS-CoV-2 genomes were genetically identical, except for a single mutation in 1 sample. Despite predeparture testing, multiple instances of in-flight SARS-CoV-2 transmission are likely.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / January, 2021 - Emerging Infectious Diseases
+    quote !a = Among 86 passengers on a flight from Dubai, United Arab Emirates, that arrived in New Zealand on September 29, test results were positive for 7 persons in managed isolation and quarantine (MIQ).
+
+    / January, 2021 - Emerging Infectious Diseases
+    quote !b = These transmission events occurred despite reported in-flight use of masks and gloves. Further transmission between travel companions then occurred after the flight, in an MIQ facility.
+
+    / January, 2021 - Emerging Infectious Diseases
+    quote !c = Our findings demonstrate the potential for SARS-CoV-2 to spread on long-haul flights. It must also be noted that the auxiliary power unit of the flight EK448 aircraft was reported as having been inoperative for ≈30 minutes during the 2-hour refueling stop in Kuala Lumpur, such that the environmental control system would not have been working during this period.
+
+    / January, 2021 - Emerging Infectious Diseases
+    quote !d = Although not definitive, these findings underscore the value of considering all international passengers arriving in New Zealand as being potentially infected with SARS-CoV-2, even if predeparture testing was undertaken, social distancing and spacing were followed, and personal protective equipment was used in-flight.
+
+    / January, 2021 - Emerging Infectious Diseases
+    quote !e = All 7 SARS-CoV-2 genomes were genetically identical, except for a single mutation in 1 sample.
 
 
 
