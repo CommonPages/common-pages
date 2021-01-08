@@ -1,6 +1,6 @@
 
 subject module Vaccines
-  head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. Eight vaccines have been approved for emergency use, though none have completed clinical trials.
+  head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. Eight vaccines have been approved for emergency use, though none have yet completed clinical trials.
 
   -
     Approved
@@ -252,6 +252,132 @@ subject module Vaccines
         -
           'Baden_et_al_02_20_2020
           'Baden_et_al_02_20_2020.!a
+
+    / Oxford–AstraZeneca
+    subject AZD1222
+      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The Oxford-AstraZeneca vaccine has been authorized for use in UK, Argentina, India & El Salvador
+
+      >
+        Oxford–AstraZeneca is a COVID-19 vaccine candidate developed by University of Oxford, UK, and the pharmaceutical firm [AstraZeneca](https://www.astrazeneca.com/) in Cambridge, UK. It is given by intramuscular injection, using as a vector the modified chimpanzee adenovirus ChAdOx1.
+
+        <table>
+          <tr>
+          <th>Vaccine Name</th>
+          <td>AZD1222 also known as ChAdOx1</td>
+          </tr>
+          <tr>
+          <th>Dose</th>
+          <td> 2 doses, 4 weeks apart</td>
+          </tr>
+          <tr>
+          <th>Type</th>
+          <td>Muscle injection</td>
+          </tr>
+          <tr>
+          <th>Storage</th>
+          <td>Stable in refrigerator for at least 6 months</td>
+          </tr>
+        </table>
+
+      -
+        !OngoingTrials
+        !AnimalStudies
+        !Phase12AstraZeneca
+        !OldAge
+        !Phase3
+
+      - Key Concern
+        !EffectiveDosing
+      - Other claims
+        !LowDose
+        !ReasoningLowDose
+        !ReasoningLowDose2
+
+
+
+      / Clinical Trails
+      claim !OngoingTrials = Phase 1 & 2 trials began in April of 2020. Phase 2 & 3 trials started in May of 2020 in UK. The estimated primary completion date is March of 2021. Trials will evaluate the safety, efficacy, and Immunogenicity of AZD1222.
+        -
+          'ClinicalTrials-2020-001228-32_et_al_04_2020
+          'ClinicalTrials-NCT04400838_et_al_05_26_2020
+          'ClinicalTrials-NCT04516746_et_al_08_18_2020
+
+
+      / Animal Studies
+      claim !AnimalStudies = In past studies, the ChAdOx1 MERS vaccination reduced shedding and nasal discharge in camels. In May 2020, one study reported that the ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaques, and another study in June 2020 reported an increase in SARS-CoV-2 neutralising titres in pigs and mice when vaccinated with ChAdOx1 nCoV-19.
+
+        claim !ChAdOx1MERS = The ChAdOx1 MERS vaccination reduced shedding and nasal discharge in camels
+          -
+            'Alharbi_et_al_11_19_2019
+            'Alharbi_et_al_11_19_2019.!a
+
+        claim !RhesusMacaque = The ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaque.
+          -
+            'Doremalen_et_al_05_13_2020
+            'Doremalen_et_al_05_13_2020.!a
+
+        claim !MouseandPigs = A single dose induced antigen-specific antibody and T cells responses, a booster immunisation enhanced antibody responses particularly in pigs, with a significant increase in SARS-CoV-2 neutralising titres.
+          -
+            'Graham_et_al_06_20_2020
+            'Graham_et_al_06_20_2020.!a
+
+      / Phase 1 & 2
+      claim !Phase12AstraZeneca = Between April and May of 2020, 1077 participants were enrolled and assigned to receive either ChAdOx1 nCoV-19 or a placebo. The authors reported that spike-specific antibodies peaked at day 28 and neutralizing antibodies after a booster dose peaked at day 56. Adverse effects observed were pain at the injection site, headache, fever, chills, muscle ache, malaise in more than 60% of participants; paracetamol increase tolerability for some patients.
+        -
+          'Folegatti_et_al_08_15_2020
+          'Folegatti_et_al_08_15_2020.!a
+          'Folegatti_et_al_08_15_2020.!b
+          'Folegatti_et_al_08_15_2020.!c
+
+
+      / Old People
+      claim !OldAge = In November of 2020, one study reported that when the 56–69 years cohort were vaccinated ChAdOx1 nCoV-19, the vaccine was safe and well tolerated with a lower reactogenicity. It had similar immunogenicity across all age groups (18-69 years) after a boost dose. Most of the reported local and systemic adverse events were mild to moderate in severity. Fewer adverse events were reported after the boost vaccination.
+        -
+          'Ramasamy_et_al_11_18_2020
+          'Ramasamy_et_al_11_18_2020.!a
+          'Ramasamy_et_al_11_18_2020.!b
+          'Ramasamy_et_al_11_18_2020.!c
+
+
+      / Phase 3
+      claim !Phase3 = In phase 3 trials 23,848 participants were enrolled and 11,636 participants (7,548 in the UK, 4,088 in Brazil) were included in the interim primary efficacy analysis. Authors reported vaccine efficacy of 70.4% after two doses and protection of 64.1% after at least one standard dose, against symptomatic disease, with no safety concerns.
+        -
+          'Voysey_et_al_12_08_2020
+          'Voysey_et_al_12_08_2020.!a
+          'Voysey_et_al_12_08_2020.!b
+          'Voysey_et_al_12_08_2020.!f
+
+      / Effective Dosing
+      claim !EffectiveDosing = Researchers have raised concerns about the lingering unknowns in the phase III trials about the most effective dosing regimen and how well it works in older adults.
+        -
+          'Ledford_et_al_12_08_2020
+          'Ledford_et_al_12_08_2020.!a
+          'Ledford_et_al_12_08_2020.!b
+          'Ledford_et_al_12_08_2020.!c
+
+      / Low Doses
+      claim !LowDose = Based on phase 2 and 3 results, the lower dose vaccine was more efficacious and less reactogenic than the standard dose of vaccine across all age groups.
+        -
+          'Voysey_et_al_12_08_2020
+          'Voysey_et_al_12_08_2020.!a
+          'Voysey_et_al_12_08_2020.!c
+        -
+          'Ramasamy_et_al_11_18_2020
+          'Ramasamy_et_al_11_18_2020.!c
+
+      claim !ReasoningLowDose = Researchers have speculated around several theories, but it is still unclear why a lower first dose might have led to better protection against COVID-19.
+        -
+          'Callaway_et_al_11_23_2020
+          'Callaway_et_al_11_23_2020.!a
+          'Callaway_et_al_11_23_2020.!b
+          'Callaway_et_al_11_23_2020.!c
+          'Callaway_et_al_11_23_2020.!d
+
+      claim !ReasoningLowDose2 = Similar results have been seen for other vaccines where a reduced number or type of priming dose in infancy can lead to higher responses to a booster vaccine.
+        -
+          'Pace_et_al_02_17_2015
+          'Pace_et_al_02_17_2015.!a
+          'Pace_et_al_02_17_2015.!b
 
     / CanSino Bio
     subject Ad5-nCOV
@@ -534,132 +660,6 @@ subject module Vaccines
       # Claim of phase 3 retracted as it was said by some guy and not released by the company. No source yet
       # PHASE 3 - A COVID-19 vaccine developed by China’s Sinovac Biotech is 91.25% effective, according to interim data from a late-stage trial in Turkey.  Researchers in Brazil, which is also running a final Phase III trial of the vaccine, said on Wednesday the shot was more than 50% effective, but withheld full results at the company’s request, raising questions about transparency.
 
-    / Oxford–AstraZeneca
-    subject AZD1222
-      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The Oxford-AstraZeneca vaccine has been authorized for use in UK, Argentina, India & El Salvador
-
-      >
-        Oxford–AstraZeneca is a COVID-19 vaccine candidate developed by University of Oxford, UK, and the pharmaceutical firm [AstraZeneca](https://www.astrazeneca.com/) in Cambridge, UK. It is given by intramuscular injection, using as a vector the modified chimpanzee adenovirus ChAdOx1.
-
-        <table>
-          <tr>
-          <th>Vaccine Name</th>
-          <td>AZD1222 also known as ChAdOx1</td>
-          </tr>
-          <tr>
-          <th>Dose</th>
-          <td> 2 doses, 4 weeks apart</td>
-          </tr>
-          <tr>
-          <th>Type</th>
-          <td>Muscle injection</td>
-          </tr>
-          <tr>
-          <th>Storage</th>
-          <td>Stable in refrigerator for at least 6 months</td>
-          </tr>
-        </table>
-
-      -
-        !OngoingTrials
-        !AnimalStudies
-        !Phase12AstraZeneca
-        !OldAge
-        !Phase3
-
-      - Key Concern
-        !EffectiveDosing
-      - Other claims
-        !LowDose
-        !ReasoningLowDose
-        !ReasoningLowDose2
-
-
-
-      / Clinical Trails
-      claim !OngoingTrials = Phase 1 & 2 trials began in April of 2020. Phase 2 & 3 trials started in May of 2020 in UK. The estimated primary completion date is March of 2021. Trials will evaluate the safety, efficacy, and Immunogenicity of AZD1222.
-        -
-          'ClinicalTrials-2020-001228-32_et_al_04_2020
-          'ClinicalTrials-NCT04400838_et_al_05_26_2020
-          'ClinicalTrials-NCT04516746_et_al_08_18_2020
-
-
-      / Animal Studies
-      claim !AnimalStudies = In past studies, the ChAdOx1 MERS vaccination reduced shedding and nasal discharge in camels. In May 2020, one study reported that the ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaques, and another study in June 2020 reported an increase in SARS-CoV-2 neutralising titres in pigs and mice when vaccinated with ChAdOx1 nCoV-19.
-
-        claim !ChAdOx1MERS = The ChAdOx1 MERS vaccination reduced shedding and nasal discharge in camels
-          -
-            'Alharbi_et_al_11_19_2019
-            'Alharbi_et_al_11_19_2019.!a
-
-        claim !RhesusMacaque = The ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaque.
-          -
-            'Doremalen_et_al_05_13_2020
-            'Doremalen_et_al_05_13_2020.!a
-
-        claim !MouseandPigs = A single dose induced antigen-specific antibody and T cells responses, a booster immunisation enhanced antibody responses particularly in pigs, with a significant increase in SARS-CoV-2 neutralising titres.
-          -
-            'Graham_et_al_06_20_2020
-            'Graham_et_al_06_20_2020.!a
-
-      / Phase 1 & 2
-      claim !Phase12AstraZeneca = Between April and May of 2020, 1077 participants were enrolled and assigned to receive either ChAdOx1 nCoV-19 or a placebo. The authors reported that spike-specific antibodies peaked at day 28 and neutralizing antibodies after a booster dose peaked at day 56. Adverse effects observed were pain at the injection site, headache, fever, chills, muscle ache, malaise in more than 60% of participants; paracetamol increase tolerability for some patients.
-        -
-          'Folegatti_et_al_08_15_2020
-          'Folegatti_et_al_08_15_2020.!a
-          'Folegatti_et_al_08_15_2020.!b
-          'Folegatti_et_al_08_15_2020.!c
-
-
-      / Old People
-      claim !OldAge = In November of 2020, one study reported that when the 56–69 years cohort were vaccinated ChAdOx1 nCoV-19, the vaccine was safe and well tolerated with a lower reactogenicity. It had similar immunogenicity across all age groups (18-69 years) after a boost dose. Most of the reported local and systemic adverse events were mild to moderate in severity. Fewer adverse events were reported after the boost vaccination.
-        -
-          'Ramasamy_et_al_11_18_2020
-          'Ramasamy_et_al_11_18_2020.!a
-          'Ramasamy_et_al_11_18_2020.!b
-          'Ramasamy_et_al_11_18_2020.!c
-
-
-      / Phase 3
-      claim !Phase3 = In phase 3 trials 23,848 participants were enrolled and 11,636 participants (7,548 in the UK, 4,088 in Brazil) were included in the interim primary efficacy analysis. Authors reported vaccine efficacy of 70.4% after two doses and protection of 64.1% after at least one standard dose, against symptomatic disease, with no safety concerns.
-        -
-          'Voysey_et_al_12_08_2020
-          'Voysey_et_al_12_08_2020.!a
-          'Voysey_et_al_12_08_2020.!b
-          'Voysey_et_al_12_08_2020.!f
-
-      / Effective Dosing
-      claim !EffectiveDosing = Researchers have raised concerns about the lingering unknowns in the phase III trials about the most effective dosing regimen and how well it works in older adults.
-        -
-          'Ledford_et_al_12_08_2020
-          'Ledford_et_al_12_08_2020.!a
-          'Ledford_et_al_12_08_2020.!b
-          'Ledford_et_al_12_08_2020.!c
-
-      / Low Doses
-      claim !LowDose = Based on phase 2 and 3 results, the lower dose vaccine was more efficacious and less reactogenic than the standard dose of vaccine across all age groups.
-        -
-          'Voysey_et_al_12_08_2020
-          'Voysey_et_al_12_08_2020.!a
-          'Voysey_et_al_12_08_2020.!c
-        -
-          'Ramasamy_et_al_11_18_2020
-          'Ramasamy_et_al_11_18_2020.!c
-
-      claim !ReasoningLowDose = Researchers have speculated around several theories, but it is still unclear why a lower first dose might have led to better protection against COVID-19.
-        -
-          'Callaway_et_al_11_23_2020
-          'Callaway_et_al_11_23_2020.!a
-          'Callaway_et_al_11_23_2020.!b
-          'Callaway_et_al_11_23_2020.!c
-          'Callaway_et_al_11_23_2020.!d
-
-      claim !ReasoningLowDose2 = Similar results have been seen for other vaccines where a reduced number or type of priming dose in infancy can lead to higher responses to a booster vaccine.
-        -
-          'Pace_et_al_02_17_2015
-          'Pace_et_al_02_17_2015.!a
-          'Pace_et_al_02_17_2015.!b
-
     —
     / Sinopharm
     subject Sinopharm
@@ -687,9 +687,8 @@ subject module Vaccines
       # SafetyandImmunogenicity
       claim !Phase12JBharatBiotech =
 
-
-
-  / COVID‑19 candidate vaccines in Phase I–III trials
+  —
+  / Candidate Vaccines
   subject Candidates
 
     / Johnson & Johnson
@@ -793,9 +792,8 @@ subject module Vaccines
           'Keech_et_al_09_02_2020.!c
           'Keech_et_al_09_02_2020.!d
 
-
   —
-  / Effects of Vaccine / Suspectiblility?
+  / Vaccine Cohorts and Considerations
   subject Effects
 
     subject Oldpeople
