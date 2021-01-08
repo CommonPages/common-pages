@@ -1,6 +1,6 @@
 
 subject module Vaccines
-  head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. Five vaccines have been approved for emergency use, though none have completed clinical trials.
+  head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. Eight vaccines have been approved for emergency use, though none have completed clinical trials.
 
   -
     Approved
@@ -15,7 +15,7 @@ subject module Vaccines
 
   / Approved Vaccines
   subject Approved
-    head = To date there are five COVID-19 vaccines that have been approved for emergency use. Approvals vary by country and vaccine availability is low. The vaccines have been approved on the basis of efficacy and acceptable safety profiles, though none have completed clinical trials.
+    head = To date there are eight COVID-19 vaccines that have been approved for emergency use. Approvals vary by country and vaccine availability is low. The vaccines have been approved on the basis of efficacy and acceptable safety profiles, though none have completed clinical trials.
 
     / Pfizer
     subject Tozinameran
@@ -536,10 +536,10 @@ subject module Vaccines
 
     / Oxford–AstraZeneca
     subject AZD1222
-      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. Phase 3 Interim primary efficacy analysis in December of 2020, authors reported vaccine efficacy of 70·4% after two doses & 64·1% after single dose with no safety concerns. Oxford-AstraZeneca vaccine has been authorized for use in UK, Argentina, India & El Salvador
+      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The Oxford-AstraZeneca vaccine has been authorized for use in UK, Argentina, India & El Salvador
 
       >
-        Oxford–AstraZeneca, is a COVID-19 vaccine candidate developed by University of Oxford, UK, and the pharmaceutical firm [AstraZeneca](https://www.astrazeneca.com/) in Cambridge, UK given by intramuscular injection, using as a vector the modified chimpanzee adenovirus ChAdOx1.
+        Oxford–AstraZeneca is a COVID-19 vaccine candidate developed by University of Oxford, UK, and the pharmaceutical firm [AstraZeneca](https://www.astrazeneca.com/) in Cambridge, UK. It is given by intramuscular injection, using as a vector the modified chimpanzee adenovirus ChAdOx1.
 
         <table>
           <tr>
@@ -577,22 +577,22 @@ subject module Vaccines
 
 
       / Clinical Trails
-      claim !OngoingTrials = Phase 1 & 2 trials begin in April of 2020 and Phase 2 & 3 trials started in May of 2020 in UK. Estimated primary completion date is March of 2021. Trials will evaluate Safety, Efficacy, and Immunogenicity of AZD1222
+      claim !OngoingTrials = Phase 1 & 2 trials began in April of 2020. Phase 2 & 3 trials started in May of 2020 in UK. The estimated primary completion date is March of 2021. Trials will evaluate the safety, efficacy, and Immunogenicity of AZD1222.
         -
           'ClinicalTrials-2020-001228-32_et_al_04_2020
           'ClinicalTrials-NCT04400838_et_al_05_26_2020
           'ClinicalTrials-NCT04516746_et_al_08_18_2020
 
 
-      / Studies on Animal
-      claim !AnimalStudies = In past studies, ChAdOx1 MERS Vaccination reduced shedding and nasal discharge in camels. In May 2020, one study reported ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaque and another study in June 2020 reported an increase in SARS-CoV-2 neutralising titres in pigs and mouse when vaccinated with ChAdOx1 nCoV-19.
+      / Animal Studies
+      claim !AnimalStudies = In past studies, the ChAdOx1 MERS vaccination reduced shedding and nasal discharge in camels. In May 2020, one study reported that the ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaques, and another study in June 2020 reported an increase in SARS-CoV-2 neutralising titres in pigs and mice when vaccinated with ChAdOx1 nCoV-19.
 
-        claim !ChAdOx1MERS = ChAdOx1 MERS Vaccination reduced shedding and nasal discharge in camels
+        claim !ChAdOx1MERS = The ChAdOx1 MERS vaccination reduced shedding and nasal discharge in camels
           -
             'Alharbi_et_al_11_19_2019
             'Alharbi_et_al_11_19_2019.!a
 
-        claim !RhesusMacaque = ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaque.
+        claim !RhesusMacaque = The ChAdOx1 nCoV19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaque.
           -
             'Doremalen_et_al_05_13_2020
             'Doremalen_et_al_05_13_2020.!a
@@ -603,7 +603,7 @@ subject module Vaccines
             'Graham_et_al_06_20_2020.!a
 
       / Phase 1 & 2
-      claim !Phase12AstraZeneca = Between April and May of 2020, 1077 participants were enrolled and assigned to receive either ChAdOx1 nCoV-19. Authors reported that spike-specific antibodies peaked at day 28 & neutralizing antibodies after a booster dose peaked at day 56. Adverse effects observed were pain at the injection site, headache, fever, chills, muscle ache, malaise in more than 60% of participants; paracetamol allowed for some participants to increase tolerability.
+      claim !Phase12AstraZeneca = Between April and May of 2020, 1077 participants were enrolled and assigned to receive either ChAdOx1 nCoV-19 or a placebo. The authors reported that spike-specific antibodies peaked at day 28 and neutralizing antibodies after a booster dose peaked at day 56. Adverse effects observed were pain at the injection site, headache, fever, chills, muscle ache, malaise in more than 60% of participants; paracetamol increase tolerability for some patients.
         -
           'Folegatti_et_al_08_15_2020
           'Folegatti_et_al_08_15_2020.!a
@@ -612,7 +612,7 @@ subject module Vaccines
 
 
       / Old People
-      claim !OldAge = In November of 2020, one study reported that when 56–69 years group were vaccinated ChAdOx1 nCoV-19, Vaccine was safe and well tolerated with a lower reactogenicity and has similar immunogenicity across all age groups(18-69 years) after a boost dose. Most of the reported local and systemic adverse events were mild to moderate in severity. Fewer adverse events were reported after the boost vaccination.
+      claim !OldAge = In November of 2020, one study reported that when the 56–69 years cohort were vaccinated ChAdOx1 nCoV-19, the vaccine was safe and well tolerated with a lower reactogenicity. It had similar immunogenicity across all age groups (18-69 years) after a boost dose. Most of the reported local and systemic adverse events were mild to moderate in severity. Fewer adverse events were reported after the boost vaccination.
         -
           'Ramasamy_et_al_11_18_2020
           'Ramasamy_et_al_11_18_2020.!a
@@ -621,7 +621,7 @@ subject module Vaccines
 
 
       / Phase 3
-      claim !Phase3 = In phase 3 trials 23 848 participants were enrolled and 11 636 participants (7548 in the UK, 4088 in Brazil) were included in the interim primary efficacy analysis. Authors reported vaccine efficacy of 70·4% after two doses and protection of 64·1% after at least one standard dose, against symptomatic disease, with no safety concerns.
+      claim !Phase3 = In phase 3 trials 23,848 participants were enrolled and 11,636 participants (7,548 in the UK, 4,088 in Brazil) were included in the interim primary efficacy analysis. Authors reported vaccine efficacy of 70.4% after two doses and protection of 64.1% after at least one standard dose, against symptomatic disease, with no safety concerns.
         -
           'Voysey_et_al_12_08_2020
           'Voysey_et_al_12_08_2020.!a
@@ -636,8 +636,8 @@ subject module Vaccines
           'Ledford_et_al_12_08_2020.!b
           'Ledford_et_al_12_08_2020.!c
 
-      / Low Dose
-      claim !LowDose = Based on phase 2 and 3 results, The lower dose of vaccine was more efficacious and less reactogenic than the standard dose of vaccine across all age groups.
+      / Low Doses
+      claim !LowDose = Based on phase 2 and 3 results, the lower dose vaccine was more efficacious and less reactogenic than the standard dose of vaccine across all age groups.
         -
           'Voysey_et_al_12_08_2020
           'Voysey_et_al_12_08_2020.!a
@@ -646,7 +646,7 @@ subject module Vaccines
           'Ramasamy_et_al_11_18_2020
           'Ramasamy_et_al_11_18_2020.!c
 
-      claim !ReasoningLowDose = Researchers are speculating several theories but it is still unclear why a lower first dose might have led to better protection against COVID-19.
+      claim !ReasoningLowDose = Researchers have speculated around several theories, but it is still unclear why a lower first dose might have led to better protection against COVID-19.
         -
           'Callaway_et_al_11_23_2020
           'Callaway_et_al_11_23_2020.!a
@@ -663,7 +663,7 @@ subject module Vaccines
     —
     / Sinopharm
     subject Sinopharm
-      head = Sinopharm is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants
+      head = Sinopharm is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants. It has been approved for use in the UAE, Bahrain and China.
 
       >
         <strong>VACCINE NAME:</strong> BBIBP-CorV
@@ -674,6 +674,19 @@ subject module Vaccines
         BBIBP-CorV is one of two inactivated virus COVID-19 vaccines being developed by Sinopharm.
 
       # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426884/ - Link not working to be released in FEB 2021
+
+    —
+    / Bharat Biotech
+    subject BBV152
+      head = BBV152 is an inactivated virus based COVID-19 vaccine being developed by Bharat Biotech in collaboration with Indian Council of Medical Research. Clinical trials are going on in India, and it has already been approved for use there.
+
+      # Ongoing trials
+      # https://clinicaltrials.gov/ct2/show/NCT04641481
+
+
+      # SafetyandImmunogenicity
+      claim !Phase12JBharatBiotech =
+
 
 
   / COVID‑19 candidate vaccines in Phase I–III trials
@@ -779,18 +792,6 @@ subject module Vaccines
           'Keech_et_al_09_02_2020.!b
           'Keech_et_al_09_02_2020.!c
           'Keech_et_al_09_02_2020.!d
-
-    —
-    / Bharat Biotech
-    subject BBV152
-      head = BBV152 is an inactivated virus based COVID-19 vaccine being developed by Bharat Biotech in collaboration with Indian Council of Medical Research. Clinical trials are going on in India.
-
-      # Ongoing trials
-      # https://clinicaltrials.gov/ct2/show/NCT04641481
-
-
-      # SafetyandImmunogenicity
-      claim !Phase12JBharatBiotech =
 
 
   —
@@ -967,7 +968,7 @@ subject module Vaccines
         'Amanat_et_al_2020b.!l
 
       - See Also:
-        Candidates.BBV152
+        Approved.BBV152
         Approved.CoronaVac
 
     —

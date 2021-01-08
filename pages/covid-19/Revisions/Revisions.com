@@ -1,7 +1,16 @@
 
 / Revision Feed
 revision feed Revisions
-  head = The first draft of Common COVID-19 was published on November 21, 2020, seeded with nearly 1,000 references.
+  head = The first draft of Common COVID-19 was published on November 21, 2020. It has received four major revisions, expanding the subjects covered and correcting existing claims.
+
+  public: january-08-2021
+  / January 8, 2021
+  revision January_8
+    head = Parts of a new section on vaccines have now been released, detailing the clinical trials and associated research relevant to the 8 vaccines that have been approved for use against SARS-CoV-2.
+
+    - see
+      Vaccines
+      Vaccines.Approved
 
   public: december-23-2020
   / December 23, 2020
@@ -42,7 +51,6 @@ revision feed Revisions
       We've also added a claim on the viral load and clearance time for asymptomatic cases, supported by 3 new papers:
     -
       Transmission.Sources.!AsymptomaticCases.!AsymptomaticViralClearance
-
 
   public: december-8-2020
   / December 8, 2020
