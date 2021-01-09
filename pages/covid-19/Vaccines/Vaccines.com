@@ -288,10 +288,15 @@ subject module Vaccines
 
       - Key Concern
         !EffectiveDosing
+      -
+        Ad5-nCOV.!Concern
+        Ad5-nCOV.!Concern2
       - Other claims
         !LowDose
         !ReasoningLowDose
         !ReasoningLowDose2
+      -
+        Ad5-nCOV.!IntranasalDelivery
 
 
 
@@ -587,6 +592,9 @@ subject module Vaccines
         Ad5-nCOV.!Concern
         Ad5-nCOV.!Concern2
 
+      - Other Claims
+        Ad5-nCOV.!IntranasalDelivery
+
       / Ongoing Trials
       claim !OngoingTrials = A Phase 3 trial for Sputnik V is currently ongoing and was first posted in august of 2020. The expected compeletion date is May of 2021. It will evaluate the safety, tolerability, immunogenicity, and efficacy of Sputnik V Against COVID-19.
         -
@@ -660,34 +668,147 @@ subject module Vaccines
       # Claim of phase 3 retracted as it was said by some guy and not released by the company. No source yet
       # PHASE 3 - A COVID-19 vaccine developed by China’s Sinovac Biotech is 91.25% effective, according to interim data from a late-stage trial in Turkey.  Researchers in Brazil, which is also running a final Phase III trial of the vaccine, said on Wednesday the shot was more than 50% effective, but withheld full results at the company’s request, raising questions about transparency.
 
-    —
     / Sinopharm
     subject Sinopharm
-      head = Sinopharm is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants. It has been approved for use in the UAE, Bahrain and China.
+      head = Sinopharm is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants. Sinopharm has announced that the vaccine has an efficacy of  79.34 percent rate. It has been approved for use in the UAE, Bahrain and China.
 
       >
-        <strong>VACCINE NAME:</strong> BBIBP-CorV
-        <strong>DOSE:</strong> 2 doses, 3 weeks apart
-        <strong>TYPE:</strong> Muscle injection
+        <table>
+          <tr>
+          <th>Vaccine Name</th>
+          <td>BBIBP-CorV</td>
+          </tr>
+          <tr>
+          <th>Dose</th>
+          <td> 2 doses, 3 weeks apart</td>
+          </tr>
+          <tr>
+          <th>Type</th>
+          <td>Muscle injection</td>
+          </tr>
+        </table>
 
       >
         BBIBP-CorV is one of two inactivated virus COVID-19 vaccines being developed by Sinopharm.
+      -
+        !AnimalStudies
+        !OngoingTrials
+        !Phase12
+      >
+        In Dec 9th of 2020, The U.A.E. gives full approval to BBIBP-CorV, [announcing](https://www.wam.ae/en/details/1395302893589) it has an efficacy rate of 86 percent. In Dec 30th of 2020, Sinopharm [announces](https://www.nytimes.com/2020/12/30/business/china-vaccine.html) that the vaccine has an efficacy of  79.34 percent rate in interim late-stage trials. However results of interim analysis has not been published yet.
+
+
+      / Animal Studies
+      claim !AnimalStudies = In June of 2020, BBIBP-CorV Vaccine induced high levels of neutralizing antibody in six mammalian species, including rats, mice, guinea pigs, rabbits, cynomolgus monkeys, and rhesus macaques, protecting them against SARS-CoV-2 infection.
+        -
+          'Wang_et_al_06_06_2020
+          'Wang_et_al_06_06_2020.!a
+
+      / On going clinical trials
+      claim !OngoingTrials = On going phase 3 trials in started in UAE in July of 2020 and followed by Peru and Morroco in following month. Trials will evaluate Efficacy, Safety and Immunogenicity of the vaccine. Estimated completion date of trials are September of 2021.
+        -
+          'ClinicalTrials-ChiCTR2000034780_et_al_07_18_2020
+          'ClinicalTrials-NCT04612972_et_al_11_03_2020
+
+      / Phase I & II trials
+      claim !Phase12 = In phase 1, 192 participants & In phase 2, 448 participants were enrolled to receive vaccine or placebo. Reports were published in October of 2020. Authors reported that vaccine-elicited neutralising antibody titres were observed in all recipients on day 42. Adverse reactions were mild or moderate in severity.
+        -
+          'Xia_et_al_10_15_2020
+          'Xia_et_al_10_15_2020.!a
+          'Xia_et_al_10_15_2020.!b
+          'Xia_et_al_10_15_2020.!c
+          'Xia_et_al_10_15_2020.!d
+
+
+
 
       # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426884/ - Link not working to be released in FEB 2021
 
-    —
     / Bharat Biotech
     subject BBV152
-      head = BBV152 is an inactivated virus based COVID-19 vaccine being developed by Bharat Biotech in collaboration with Indian Council of Medical Research. Clinical trials are going on in India, and it has already been approved for use there.
+      head = Clinical trials started as early as July of 2020 and are currently going on in India. In Phase 1 & 2 trials, authors reported that vaccine induced  binding and neutralising antibody responses and showed tolerable safety outcomes and enhanced humoral and cell-mediated immune responses. Vaccine has already been approved for use in India.
 
-      # Ongoing trials
-      # https://clinicaltrials.gov/ct2/show/NCT04641481
+      >
+        <table>
+          <tr>
+          <th>Vaccine Name</th>
+          <td>Covaxin (also known as BBV152 A, B, C)</td>
+          </tr>
+          <tr>
+          <th>Dose</th>
+          <td>2 doses, 4 weeks apart</td>
+          </tr>
+          <tr>
+          <th>Storage</th>
+          <td>At least a week at room temperature</td>
+          </tr>
+        </table>
+
+      >
+        BBV152 is an inactivated virus based COVID-19 vaccine being developed by Bharat Biotech in collaboration with Indian Council of Medical Research.
+
+      -
+        !Ongoingtrials
+        !AnimalStudies
+        !Phase1
+        !Phase2
+      -
+        !Intranasaltrial  
+      - See Also
+        Ad5-nCOV.!IntranasalDelivery
+        !IntranasalAnimal
 
 
-      # SafetyandImmunogenicity
-      claim !Phase12JBharatBiotech =
+      / Clinical trials
+      claim !Ongoingtrials = Clinical Trials for Covaxin started as early as July of 2020. 755 volunteers were recruited for Phase 1 & 2 trials and more than 25000 volunteers will participate in Phase 3 trials. Estimated compeletion date for phase 3 trials is March of 2022. Trials will evaluate Efficacy, Safety and Immunogenicity of the vaccine
+        -
+          'ClinicalTrials-NCT04471519_et_al_07_15_2020
+          'ClinicalTrials-NCT04641481_et_al_11_23_2020
 
-  —
+      / Intranasal trial
+      claim !Intranasaltrial = In Jan of 2021, Bharatbiotech announced to start Phase 1, 2 & 3 trials for intranasal delivery of vaccine.
+        -
+          'Bharatbiotech_et_al_01_09_2021
+          'Bharatbiotech_et_al_01_09_2021.!a
+          'Bharatbiotech_et_al_01_09_2021.!b
+
+      / Animal Studies
+      claim !AnimalStudies = Safety and Immunogenicity study was published in September of 2020. Authors reported that BBV152 vaccine formulations generated significantly high antigen-binding and neutralizing antibody titers, at both concentrations (3μg and 6μg), in all three species (mice, rats, and rabbits) with excellent safety profiles.
+        -
+          'Ganneru_et_al_09_12_2020
+          'Ganneru_et_al_09_12_2020.!a
+          'Ganneru_et_al_09_12_2020.!b
+
+      / Phase 1 Trial
+      claim !Phase1 = Phase 1 Trial reports were published in December 2nd of 2020. 375 participants were randomized in this trial. Authors reported that vaccine induced binding and neutralising antibody responses. Reactogenicity was absent in the majority of participants, with mild events. Adverse events were mild and were resolved.
+        -
+          'Ella_et_al_02_20_2020
+          'Ella_et_al_02_20_2020.!a
+          'Ella_et_al_02_20_2020.!b
+          'Ella_et_al_02_20_2020.!c
+          'Ella_et_al_02_20_2020.!d
+          'Ella_et_al_02_20_2020.!e
+          'Ella_et_al_02_20_2020.!f
+
+      / Phase 2 Trial
+      claim !Phase2 = Phase 2 Trials reports were published in December 22nd of 2020. 380 participants were randomized in 3 µg and 6 µg group. Authors reported that BBV152 led to tolerable safety outcomes and enhanced humoral and cell-mediated immune responses. The 6 µg Algel-IMDG formulation was selected for the phase 3 efficacy trial.
+        -
+          'Ella_et_al_12_22_2020
+          'Ella_et_al_12_22_2020.!a
+          'Ella_et_al_12_22_2020.!b
+          'Ella_et_al_12_22_2020.!c
+          'Ella_et_al_12_22_2020.!d
+          'Ella_et_al_12_22_2020.!e
+
+      / Intranasal Delivery in Animals
+      claim !IntranasalAnimal = In December of 2020, one study showed that Intranasal immunization with adenovirus-vectored vaccine provided superior protection against SARS-CoV-2 infection and inflammation in the upper respiratory tract  compared to intramuscular route.
+        -
+          'Bricker_et_al_12_03_2020
+          'Bricker_et_al_12_03_2020.!a
+          'Bricker_et_al_12_03_2020.!b
+          'Bricker_et_al_12_03_2020.!c
+
+
   / Candidate Vaccines
   subject Candidates
 

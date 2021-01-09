@@ -12,6 +12,27 @@ feed September2020
     'Laxminarayan_et_al_09_23_2020
 
   #
+
+  // Evaluation of Safety and Immunogenicity of an Adjuvanted, TH-1 Skewed, Whole Virion InactivatedSARS-CoV-2 Vaccine - BBV152
+  doi: https://doi.org/10.1101/2020.09.09.285445
+  ref 'Ganneru_et_al_09_12_2020
+    head = We report the development and evaluation of safety and immunogenicity of a whole virion inactivated SARS-COV-2 vaccine (BBV152), adjuvanted with aluminium hydroxide gel (Algel), or a novel TLR7/8 agonist adsorbed Algel.
+
+    > Abstract
+      We report the development and evaluation of safety and immunogenicity of a whole virion inactivated SARS-COV-2 vaccine (BBV152), adjuvanted with aluminium hydroxide gel (Algel), or a novel TLR7/8 agonist adsorbed Algel. We used a well-characterized SARS-CoV-2 strain and an established vero cell platform to produce large-scale GMP grade highly purified inactivated antigen, BBV152. Product development and manufacturing were carried out in a BSL-3 facility. Immunogenicity was determined at two antigen concentrations (3μg and 6μg), with two different adjuvants, in mice, rats, and rabbits. Our results show that BBV152 vaccine formulations generated significantly high antigen-binding and neutralizing antibody titers, at both concentrations, in all three species with excellent safety profiles. The inactivated vaccine formulation containing TLR7/8 agonist adjuvant-induced Th1 biased antibody responses with elevated IgG2a/IgG1 ratio and increased levels of SARS-CoV-2 specific IFN-γ+ CD4 T lymphocyte response. Our results support further development for Phase I/II clinical trials in humans.s
+
+    - quotes
+      !a
+      !b
+
+    / September, 2020 - bioRxiv
+    quote !a = The strain used for this candidate is pathogenic in humans and has shown extensive genetic stability and appropriate growth characteristics for the selection of a vaccine candidate. Preclinical toxicity and safety evaluation of the three formulations showed minimal to no adverse events.
+
+    / September, 2020 - bioRxiv
+    quote !b = Our results show that the vaccine formulations induced significantly elevated antigen-binding antibody and Nab responses in the animals immunized, with a distinct Th1 bias observed with Algel-IMDG adjuvanted vaccines.
+
+
+  #
   // Structural and Functional Analysis of the D614G SARS-CoV-2 Spike Protein Variant
   doi: https://doi.org/10.1016/j.cell.2020.09.032
   ref 'Yurkovetskiy_et_al_09_15_2020

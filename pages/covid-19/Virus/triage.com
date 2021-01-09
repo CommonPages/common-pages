@@ -45,22 +45,18 @@ index: hide
 
 
 
-  # viral mutations impact vaccine-elicited immunity, and using this knowledge to design vaccines that are robust to viral antigenic evolution.
+  >
+    One study reports that the mutations at site E484 (usually occur at just a few sites in the RBD’s receptor binding motif) have been found to reduce antibody binding. This mutation is present in several emerging SARS-CoV-2 lineages in South Africa and Brazil.
   -
     'Greaney_et_al_01_04_2021
     'Greaney_et_al_01_04_2021.!a
     'Greaney_et_al_01_04_2021.!b
     'Greaney_et_al_01_04_2021.!c
-
-
-  # The site where mutations tend to have the largest effect on binding and neutralization by polyclonal serum antibodies targeting the RB  is E484, which unfortunately is a site where mutations are present in several emerging SARS-CoV-2 lineages (South Africa and Brazil)
-  -
-    'Greaney_et_al_01_04_2021
     'Greaney_et_al_01_04_2021.!d
 
 
   >
-    E484K is present in recently described lineages in South Africa (S.501Y.V2) and Brazil (descended from the B.1.1.28 lineage) (Tegally et al., 2020; Voloch et al., 2020);
+    E484K is present in recently described lineages in South Africa (S.501Y.V2) and Brazil (descended from the B.1.1.28 lineage)
   -
     'Voloch_et_al_12_26_2020
     'Voloch_et_al_12_26_2020.!a
@@ -73,7 +69,7 @@ index: hide
     'Greaney_et_al_01_04_2021.!h
 
   >
-    the N501Y mutation present in the U.K. lineage is unlikely to greatly affect neutralization by most human sera, although it could contribute to increased viral titer or enhanced transmissibility (Kidd et al., 2020; Public Health England, 2020)
+    the N501Y mutation present in the U.K. lineage is unlikely to greatly affect neutralization by most human sera, although it could contribute to increased viral titer or enhanced transmissibility.
   -
     'Greaney_et_al_01_04_2021
     'Greaney_et_al_01_04_2021.!i
@@ -93,12 +89,12 @@ index: hide
     https://www.biorxiv.org/content/10.1101/2020.12.31.425021v1.full
 
 
-    # MUTATIONS: Mutations, Variants, and Spread
+  # MUTATIONS: Mutations, Variants, and Spread
 
-    >
-      Mutations arise as a natural by-product of viral replication.1 RNA viruses typically have higher mutation rates than DNA viruses. Coronaviruses, however, make fewer mutations than most RNA viruses because they encode an enzyme that corrects some of the errors made during replication.
-    # -
-      # We shouldn’t worry when a virus mutates during disease outbreaks.
+  >
+    Mutations arise as a natural by-product of viral replication.1 RNA viruses typically have higher mutation rates than DNA viruses. Coronaviruses, however, make fewer mutations than most RNA viruses because they encode an enzyme that corrects some of the errors made during replication.
+  # -
+    # We shouldn’t worry when a virus mutates during disease outbreaks.
 
 
 

@@ -53,6 +53,22 @@ feed June2020
 
   #
 
+  // Development of an Inactivated Vaccine Candidate, BBIBP-CorV, with Potent Protection against SARS-CoV-2
+  doi: https://doi.org/10.1016/j.cell.2020.06.008
+  ref 'Wang_et_al_06_06_2020
+    head = We report the pilot-scale production of an inactivated SARS-CoV-2 vaccine candidate (BBIBP-CorV) that induces high levels of neutralizing antibodies titers in mice, rats, guinea pigs, rabbits, and nonhuman primates (cynomolgus monkeys and rhesus macaques) to provide protection against SARS-CoV-2.
+
+    > Abstract
+      The coronavirus disease 2019 (COVID-19) pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) threatens global public health. The development of a vaccine is urgently needed for the prevention and control of COVID-19. Here, we report the pilot-scale production of an inactivated SARS-CoV-2 vaccine candidate (BBIBP-CorV) that induces high levels of neutralizing antibodies titers in mice, rats, guinea pigs, rabbits, and nonhuman primates (cynomolgus monkeys and rhesus macaques) to provide protection against SARS-CoV-2. Two-dose immunizations using 2 μg/dose of BBIBP-CorV provided highly efficient protection against SARS-CoV-2 intratracheal challenge in rhesus macaques, without detectable antibody-dependent enhancement of infection. In addition, BBIBP-CorV exhibits efficient productivity and good genetic stability for vaccine manufacture. These results support the further evaluation of BBIBP-CorV in a clinical trial.
+
+    - quotes
+      !a
+
+    / June, 2020 - Cell
+    quote !a = Two-dose immunizations using 2 μg/dose of BBIBP-CorV provided highly efficient protection against SARS-CoV-2 intratracheal challenge in rhesus macaques, without detectable antibody-dependent enhancement of infection.
+
+
+
 
   // SARS-CoV-2 qRT-PCR Ct value distribution in Japan and possible utility of rapid antigen testing kit
   doi: https://doi.org/10.1101/2020.06.16.20131243

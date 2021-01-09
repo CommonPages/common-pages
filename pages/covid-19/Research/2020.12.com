@@ -1,6 +1,10 @@
 feed December2020
 
   -
+    'Ella_et_al_12_22_2020
+    'Ella_et_al_02_20_2020
+    'Mathavan_et_al_12_27_2020
+    'Hanrath_et_al_12_26_2020
     'Baden_et_al_02_20_2020
     'Mitze_et_al_12_3_2020
     'FDA_et_al_12_17_2020
@@ -8,8 +12,112 @@ feed December2020
 
   #
 
+  // A single intranasal or intramuscular immunization with chimpanzee adenovirus vectored SARS-CoV-2 vaccine protects against pneumonia in hamsters
+  doi: https://doi.org/10.1101/2020.12.02.408823
+  ref 'Bricker_et_al_12_03_2020
+    head = We compared the protective capacity of intranasal and intramuscular delivery of a chimpanzee adenovirus-vectored vaccine encoding a pre-fusion stabilized spike protein (ChAd-SARS-CoV-2-S) in Golden Syrian hamsters.
 
-  # 
+    > Abstract
+      The development of an effective vaccine against SARS-CoV-2, the etiologic agent of COVID-19, is a global priority. Here, we compared the protective capacity of intranasal and intramuscular delivery of a chimpanzee adenovirus-vectored vaccine encoding a pre-fusion stabilized spike protein (ChAd-SARS-CoV-2-S) in Golden Syrian hamsters. While immunization with ChAd-SARS-CoV-2-S induced robust spike protein specific antibodies capable or neutralizing the virus, antibody levels in serum were higher in hamsters immunized by an intranasal compared to intramuscular route. Accordingly, ChAd-SARS-CoV-2-S immunized hamsters were protected against a challenge with a high dose of SARS-CoV-2. After challenge, ChAd-SARS-CoV-2-S-immunized hamsters had less weight loss and showed reductions in viral RNA and infectious virus titer in both nasal swabs and lungs, and reduced pathology and inflammatory gene expression in the lungs, compared to ChAd-Control immunized hamsters. Intranasal immunization with ChAd-SARS-CoV-2-S provided superior protection against SARS-CoV-2 infection and inflammation in the upper respiratory tract. These findings support intranasal administration of the ChAd-SARS-CoV-2-S candidate vaccine to prevent SARS-CoV-2 infection, disease, and possibly transmission.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / December, 2020 - bioRxiv
+    quote !a = Antibody levels in serum were higher in hamsters immunized by an intranasal compared to intramuscular route.
+
+    / December, 2020 - bioRxiv
+    quote !b = ChAd-SARS-CoV-2-S immunized hamsters were protected against a challenge with a high dose of SARS-CoV-2. After challenge, ChAd-SARS-CoV-2-S-immunized hamsters had less weight loss and showed reductions in viral RNA and infectious virus titer in both nasal swabs and lungs, and reduced pathology and inflammatory gene expression in the lungs, compared to ChAd-Control immunized hamsters.
+
+    / December, 2020 - bioRxiv
+    quote !c = Intranasal immunization with ChAd-SARS-CoV-2-S provided superior protection against SARS-CoV-2 infection and inflammation in the upper respiratory tract. These findings support intranasal administration of the ChAd-SARS-CoV-2-S candidate vaccine to prevent SARS-CoV-2 infection, disease, and possibly transmission.
+
+  // Safety and immunogenicity clinical trial of an inactivated SARS-CoV-2 vaccine, BBV152 (a phase 2, double-blind, randomised controlled trial) and the persistence of immune responses from a phase 1 follow-up report
+  doi: https://doi.org/10.1101/2020.12.21.20248643
+  ref 'Ella_et_al_12_22_2020
+    head = We conducted a double-blind, randomised, multicentre, phase 2 clinical trial to evaluate the immunogenicity and safety of BBV152. A total of 380 healthy children and adults were randomised to receive two vaccine formulations (n=190 each) with 3 µg with Algel-IMDG and 6 µg with Algel-IMDG. Two intramuscular doses of vaccines were administered (four weeks apart).
+
+    > Background
+      BBV152 is a whole-virion inactivated SARS-CoV-2 vaccine (3 µg or 6 µg) formulated with a Toll-like receptor 7/8 agonist molecule adsorbed to alum (Algel-IMDG). Earlier, we reported findings from a phase 1 (vaccination regimen on days 0 and 14) randomised, double-blind trial on the safety and immunogenicity of three different formulations of BBV152 and one control arm containing Algel (without antigen). Two formulations were selected for the phase 2 (days 0 and 28) study. Here, we report interim findings of a controlled, randomised, double-blind trial on the immunogenicity and safety of BBV152: 3 µg and 6 µg with Algel-IMDG.
+
+    > Methods
+      We conducted a double-blind, randomised, multicentre, phase 2 clinical trial to evaluate the immunogenicity and safety of BBV152. A total of 380 healthy children and adults were randomised to receive two vaccine formulations (n=190 each) with 3 µg with Algel-IMDG and 6 µg with Algel-IMDG. Two intramuscular doses of vaccines were administered (four weeks apart). Participants, investigators, and laboratory staff were blinded to the treatment allocation. The primary outcome was seroconversion (≥4-fold above baseline) based on wild-type virus neutralisation (PRNT50). Secondary outcomes were reactogenicity and safety. Cell-mediated responses were evaluated. A follow-up blood draw was collected from phase 1 participants at day 104 (three months after the second dose).
+
+    > Findings
+      Among 921 participants screened between Sep 7-13, 2020, 380 participants were randomised to the safety and immunogenicity population. The PRNT50 seroconversion rates of neutralising antibodies on day 56 were 92·9% (88·2, 96·2) and 98·3% (95·1, 99·6) in the 3 µg and 6 µg with Algel-IMDG groups, respectively. Higher neutralising titres (2-fold) were observed in the phase 2 study than in the phase 1 study (p<0.05). Both vaccine groups elicited more Th1 cytokines than Th2 cytokines. After two doses, the proportion (95% CI) of solicited local and systemic adverse reactions were 9.7% (6·9, 13·2) and 10.3% (7·4, 13·8) in the 3 µg and 6 µg with Algel-IMDG groups, respectively. No significant difference was observed between the groups. No serious adverse events were reported in this study. Phase 1 follow-up immunological samples at day 104 showed seroconversion in 73·5% (63·6, 81·9), 81·1% (71·4, 88·1), and 73·1% (62·9, 81·8) of individuals in the 3 µg with Algel-IMDG, 6 µg with Algel-IMDG, and 6 µg with Algel groups, respectively.
+
+    > Interpretation
+      In the phase 1 trial, BBV152 produced high levels of neutralising antibodies that remained elevated in all participants three months after the second vaccination. In the phase 2 trial, BBV152 led to tolerable safety outcomes and enhanced humoral and cell-mediated immune responses. The safety profile of BBV152 is noticeably lower than the rates for other SARS-CoV-2 vaccine platform candidates. The 6 µg Algel-IMDG formulation was selected for the phase 3 efficacy trial.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / December, 2020 - medRxiv
+    quote !a = The PRNT50 seroconversion rates of neutralising antibodies on day 56 were 92·9% (88·2, 96·2) and 98·3% (95·1, 99·6) in the 3 µg and 6 µg with Algel-IMDG groups, respectively. Higher neutralising titres (2-fold) were observed in the phase 2 study than in the phase 1 study (p<0.05). Both vaccine groups elicited more Th1 cytokines than Th2 cytokines.
+
+    / December, 2020 - medRxiv
+    quote !b = After two doses, the proportion (95% CI) of solicited local and systemic adverse reactions were 9.7% (6·9, 13·2) and 10.3% (7·4, 13·8) in the 3 µg and 6 µg with Algel-IMDG groups, respectively. No significant difference was observed between the groups. No serious adverse events were reported in this study.
+
+    / December, 2020 - medRxiv
+    quote !c = In the phase 1 trial, BBV152 produced high levels of neutralising antibodies that remained elevated in all participants three months after the second vaccination. In the phase 2 trial, BBV152 led to tolerable safety outcomes and enhanced humoral and cell-mediated immune responses.
+
+    / December, 2020 - medRxiv
+    quote !d = The safety profile of BBV152 is noticeably lower than the rates for other SARS-CoV-2 vaccine platform candidates.
+
+    / December, 2020 - medRxiv
+    quote !e = The 6 µg Algel-IMDG formulation was selected for the phase 3 efficacy trial.
+
+  // A Phase 1: Safety and Immunogenicity Trial of an Inactivated SARS-CoV-2 Vaccine-BBV152
+  doi: https://doi.org/10.1101/2020.12.11.20210419
+  ref 'Ella_et_al_02_20_2020
+    head = We conducted a double-blind randomized controlled phase 1 clinical trial to evaluate the safety and immunogenicity of BBV152.  A total of 375 participants were randomized equally to receive three vaccine formulations (n=100 each) prepared with 3 μg with Algel-IMDG, 6 μg with Algel-IMDG, and 6 μg with Algel, and an Algel only control arm (n=75).
+
+    > Background
+      BBV152 is a whole-virion inactivated SARS-CoV-2 vaccine formulated with a TLR 7/8 agonist molecule adsorbed to alum (Algel-IMDG).
+
+    > Methods
+      We conducted a double-blind randomized controlled phase 1 clinical trial to evaluate the safety and immunogenicity of BBV152. A total of 375 participants were randomized equally to receive three vaccine formulations (n=100 each) prepared with 3 μg with Algel-IMDG, 6 μg with Algel-IMDG, and 6 μg with Algel, and an Algel only control arm (n=75). Vaccines were administered on a two-dose intramuscular accelerated schedule on day 0 (baseline) and day 14. The primary outcomes were reactogenicity and safety. The secondary outcomes were immunogenicity based on the anti-IgG S1 response (detected with an enzyme-linked immunosorbent assay [ELISA] and wild-type virus neutralization [microneutralization and plaque reduction neutralization assays]). Cell-mediated responses were also evaluated.
+
+    > Results
+      Reactogenicity was absent in the majority of participants, with mild events. The majority of adverse events were mild and were resolved. One serious adverse event was reported, which was found to be unrelated to vaccination. All three vaccine formulations resulted in robust immune responses comparable to a panel of convalescent serum. No significant differences were observed between the 3-μg and 6-μg Algel-IMDG groups. Neutralizing responses to homologous and heterologous SARS-CoV-2 strains were detected in all vaccinated individuals. Cell-mediated responses were biased to a Th-1 phenotype.
+
+    > Conclusions
+      BBV152 induced binding and neutralising antibody responses and with the inclusion of the Algel-IMDG adjuvant, this is the first inactivated SARS-CoV-2 vaccine that has been reported to induce a Th1-biased response. Vaccine induced neutralizing antibody titers were reported with two divergent SARS-CoV-2 strains. BBV152 is stored between 2°C and 8°C, which is compatible with all national immunization program cold chain requirements. Both Algel-IMDG formulations were selected for the phase 2 immunogenicity trials. Further efficacy trials are underway.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / December, 2020 - medRxiv
+    quote !a = Reactogenicity was absent in the majority of participants, with mild events. The majority of adverse events were mild and were resolved. One serious adverse event was reported, which was found to be unrelated to vaccination.
+
+    / December, 2020 - medRxiv
+    quote !b = All three vaccine formulations resulted in robust immune responses comparable to a panel of convalescent serum. No significant differences were observed between the 3-μg and 6-μg Algel-IMDG groups. Neutralizing responses to homologous and heterologous SARS-CoV-2 strains were detected in all vaccinated individuals.
+
+    / December, 2020 - medRxiv
+    quote !c = BBV152 induced binding and neutralising antibody responses and with the inclusion of the Algel-IMDG adjuvant, this is the first inactivated SARS-CoV-2 vaccine that has been reported to induce a Th1-biased response.
+
+    / December, 2020 - medRxiv
+    quote !d = Vaccine induced neutralizing antibody titers were reported with two divergent SARS-CoV-2 strains.
+
+    / December, 2020 - medRxiv
+    quote !e = BBV152 is stored between 2°C and 8°C, which is compatible with all national immunization program cold chain requirements.
+
+    / December, 2020 - medRxiv
+    quote !f = Both Algel-IMDG formulations were selected for the phase 2 immunogenicity trials.
+
+
+  #
   // Evaluation of the Effect of D614G, N501Y and S477N Mutation in SARS-CoV-2 through Computational Approach
   doi: https://doi.org/10.20944/preprints202012.0710.v1
   ref 'Mathavan_et_al_12_27_2020

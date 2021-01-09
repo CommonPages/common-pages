@@ -90,7 +90,7 @@ feed Sangeeta
     # quote !a = Our results suggest that E484 is the site of most concern for viral mutations that impact binding and neutralization by polyclonal serum antibodies targeting the RBD.
 
     / January, 2021 - bioRxiv
-    quote !d = The site where mutations tend to have the largest effect on binding and neutralization by polyclonal serum antibodies targeting the RB  is E484, which unfortunately is a site where mutations are present in several emerging SARS-CoV-2 lineages (South Africa and Brazil.
+    quote !d = The site where mutations tend to have the largest effect on binding and neutralization by polyclonal serum antibodies targeting the RB  is E484, which unfortunately is a site where mutations are present in several emerging SARS-CoV-2 lineages (South Africa and Brazil).
 
     / January, 2021 - bioRxiv
     quote !e = Mutations at the other serum antibody epitopes (e.g., the 443–450 loop and residues around 484 such as 455, 485, 486, and 490) are also worth monitoring, since they also have antigenic impacts.

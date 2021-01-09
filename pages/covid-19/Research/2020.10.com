@@ -14,6 +14,38 @@ feed October2020
 
   #
 
+  // Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBIBP-CorV: a randomised, double-blind, placebo-controlled, phase 1/2 trial
+  doi: https://doi.org/10.1016/S1473-3099(20)30831-8
+  ref 'Xia_et_al_10_15_2020
+    head = We did a randomised, double-blind, placebo-controlled, phase 1/2 trial. In phase 1, healthy people aged 18–80 years were separated into two age groups and randomly assigned to receive vaccine or placebo. In phase 2, healthy adults (aged 18–59 years) were randomly assigned (1:1:1:1) to receive vaccine or placebo.
+
+    > Background
+      The ongoing COVID-19 pandemic warrants accelerated efforts to test vaccine candidates. We aimed to assess the safety and immunogenicity of an inactivated severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) vaccine candidate, BBIBP-CorV, in humans.
+    >  Methods
+      We did a randomised, double-blind, placebo-controlled, phase 1/2 trial at Shangqiu City Liangyuan District Center for Disease Control and Prevention in Henan Province, China. In phase 1, healthy people aged 18–80 years, who were negative for serum-specific IgM/IgG antibodies against SARS-CoV-2 at the time of screening, were separated into two age groups (18–59 years and ≥60 years) and randomly assigned to receive vaccine or placebo in a two-dose schedule of 2 μg, 4 μg, or 8 μg on days 0 and 28. In phase 2, healthy adults (aged 18–59 years) were randomly assigned (1:1:1:1) to receive vaccine or placebo on a single-dose schedule of 8 μg on day 0 or on a two-dose schedule of 4 μg on days 0 and 14, 0 and 21, or 0 and 28. Participants within each cohort were randomly assigned by stratified block randomisation (block size eight) and allocated (3:1) to receive vaccine or placebo. Group allocation was concealed from participants, investigators, and outcome assessors. The primary outcomes were safety and tolerability. The secondary outcome was immunogenicity, assessed as the neutralising antibody responses against infectious SARS-CoV-2. This study is registered with www.chictr.org.cn, ChiCTR2000032459.
+    >  Findings
+      In phase 1, 192 participants were enrolled (mean age 53·7 years [SD 15·6]) and were randomly assigned to receive vaccine (2 μg [n=24], 4 μg [n=24], or 8 μg [n=24] for both age groups [18–59 years and ≥60 years]) or placebo (n=24). At least one adverse reaction was reported within the first 7 days of inoculation in 42 (29%) of 144 vaccine recipients. The most common systematic adverse reaction was fever (18–59 years, one [4%] in the 2 μg group, one [4%] in the 4 μg group, and two [8%] in the 8 μg group; ≥60 years, one [4%] in the 8 μg group). All adverse reactions were mild or moderate in severity. No serious adverse event was reported within 28 days post vaccination. Neutralising antibody geometric mean titres were higher at day 42 in the group aged 18–59 years (87·7 [95% CI 64·9–118·6], 2 μg group; 211·2 [158·9–280·6], 4 μg group; and 228·7 [186·1–281·1], 8 μg group) and the group aged 60 years and older (80·7 [65·4–99·6], 2 μg group; 131·5 [108·2–159·7], 4 μg group; and 170·87 [133·0–219·5], 8 μg group) compared with the placebo group (2·0 [2·0–2·0]). In phase 2, 448 participants were enrolled (mean age 41·7 years [SD 9·9]) and were randomly assigned to receive the vaccine (8 μg on day 0 [n=84] or 4 μg on days 0 and 14 [n=84], days 0 and 21 [n=84], or days 0 and 28 [n=84]) or placebo on the same schedules (n=112). At least one adverse reaction within the first 7 days was reported in 76 (23%) of 336 vaccine recipients (33 [39%], 8 μg day 0; 18 [21%], 4 μg days 0 and 14; 15 [18%], 4 μg days 0 and 21; and ten [12%], 4 μg days 0 and 28). One placebo recipient in the 4 μg days 0 and 21 group reported grade 3 fever, but was self-limited and recovered. All other adverse reactions were mild or moderate in severity. The most common systematic adverse reaction was fever (one [1%], 8 μg day 0; one [1%], 4 μg days 0 and 14; three [4%], 4 μg days 0 and 21; two [2%], 4 μg days 0 and 28). The vaccine-elicited neutralising antibody titres on day 28 were significantly greater in the 4 μg days 0 and 14 (169·5, 95% CI 132·2–217·1), days 0 and 21 (282·7, 221·2–361·4), and days 0 and 28 (218·0, 181·8–261·3) schedules than the 8 μg day 0 schedule (14·7, 11·6–18·8; all p<0·001).
+    >  Interpretation
+      The inactivated SARS-CoV-2 vaccine, BBIBP-CorV, is safe and well tolerated at all tested doses in two age groups. Humoral responses against SARS-CoV-2 were induced in all vaccine recipients on day 42. Two-dose immunisation with 4 μg vaccine on days 0 and 21 or days 0 and 28 achieved higher neutralising antibody titres than the single 8 μg dose or 4 μg dose on days 0 and 14.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / October, 2020 - The Lancet
+    quote !a = The inactivated SARS-CoV-2 vaccine, BBIBP-CorV, is safe and well tolerated at all tested doses in two age groups. Humoral responses against SARS-CoV-2 were induced in all vaccine recipients on day 42.
+
+    / October, 2020 - The Lancet
+    quote !b = Two-dose immunisation with 4 μg vaccine on days 0 and 21 or days 0 and 28 achieved higher neutralising antibody titres than the single 8 μg dose or 4 μg dose on days 0 and 14.
+
+    / October, 2020 - The Lancet
+    quote !c = In Phase I trial, at least one adverse reaction was reported within the first 7 days of inoculation in 42 of 144 vaccine recipients. The most common systematic adverse reaction was fever. All adverse reactions were mild or moderate in severity. No serious adverse event was reported within 28 days post vaccination.
+
+    / October, 2020 - The Lancet
+    quote !d = In Phase II trial, At least one adverse reaction within the first 7 days was reported in 76 of 336 vaccine recipients. One placebo recipient reported grade 3 fever, but was self-limited and recovered. All other adverse reactions were mild or moderate in severity. The most common systematic adverse reaction was fever.
+
   // SARS-CoV-2 spike D614G variant confers enhanced replication and transmissibility
   doi: https://dx.doi.org/10.1101%2F2020.10.27.357558
   ref 'Zhou_et_al_10_27_2020
@@ -28,7 +60,7 @@ feed October2020
       !b
       !c
     -
-      !d  
+      !d
 
     / October, 2020 - bioRxiv
     quote !a = We found the S1 or the monomeric S ectodomain with D614G substitution had increased affinity to hACE2, which may be another mechanism underlying the increased replication and transmission of the SARS-CoV-2 D614G variant.

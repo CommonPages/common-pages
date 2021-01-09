@@ -13,6 +13,55 @@ feed Clinicaltrials
 
   #
 
+  // BBV154 - A novel adenovirus vectored, intranasal vaccine for COVID-19
+  doi: https://www.bharatbiotech.com/intranasal-vaccine.html
+  ref 'Bharatbiotech_et_al_01_09_2021
+    head = Press release annoucing Phase 1, 2 & 3 trial for intranasal vaccine for COVID-19
+
+    - quotes
+      !a
+      !b
+
+    / January, 2021 - Bharatbiotech
+    quote !a = An intranasal vaccine stimulates a broad immune response – neutralizing IgG, mucosal IgA, and T cell responses.
+
+    / January, 2021 - Bharatbiotech
+    quote !b = Immune responses at the site of infection (in the nasal mucosa) – essential for blocking both infection and transmission of COVID-19. The nasal route has excellent potential for vaccination due to the organized immune systems of the nasal mucosa.
+
+
+  // An Efficacy and Safety Clinical Trial of an Investigational COVID-19 Vaccine (BBV152) in Adult Volunteers
+  doi: https://clinicaltrials.gov/ct2/show/NCT04641481
+  ref 'ClinicalTrials-NCT04641481_et_al_11_23_2020
+    head = The BBV152 vaccine is being developed to prevent COVID-19, the disease resulting from Severe Acute Respiratory Syndrome coronavirus (SARS-CoV-2) infection. The study is designed to primarily evaluate the efficacy, safety, and immunogenicity of BBV152 to prevent COVID-19 for up to 1 year after the second dose of BBV152.
+
+    / November, 2020 - Clinical Trials
+    quote !a =
+
+  // Whole-Virion Inactivated SARS-CoV-2 Vaccine (BBV152) for COVID-19 in Healthy Volunteers (BBV152)
+  doi: https://clinicaltrials.gov/ct2/show/NCT04471519
+  ref 'ClinicalTrials-NCT04471519_et_al_07_15_2020
+    head = Double blind, Multi-Centre study to evaluate the safety, reactogenicity, tolerability, and immunogenicity of three investigational vaccine groups and one placebo group in healthy volunteers who receive two intramuscular doses of BBV152 vaccine formulations and placebo. A total sample size of 755 healthy volunteers, with 375 and 380 volunteers in phase 1 and 2 studies, respectively.
+
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+  // Efficacy, Safety and Immunogenicity of Inactivated SARS-CoV-2 Vaccines (Vero Cell) in Healthy Adult Population In Peru (Cov-Peru)
+  doi: https://clinicaltrials.gov/ct2/show/NCT04612972
+  ref 'ClinicalTrials-NCT04612972_et_al_11_03_2020
+    head = This is a multicenter, randomized, double blind, parallel placebo controlled, phase 3 clinical trial to evaluate the protective efficacy, safety and immunogenicity of inactivated SARS-CoV-2 vaccines in healthy population 18 years old and above..
+
+    / Novemeber, 2020 - ClinicalTrials
+    quote !a =
+
+  // Randomized, Double Blind, Parallel Placebo Controlled, Phase III Clinical Trial to Evaluate the Safety and Protective Efficacy of Inactivated SARS-CoV-2 Vaccine in Healthy Population Aged 18 Years and above
+  doi: http://www.chictr.org.cn/showprojen.aspx?proj=56651
+  ref 'ClinicalTrials-ChiCTR2000034780_et_al_07_18_2020
+    head = To evaluate the protective efficacy of inactivated SARS-CoV-2 Vaccine (Vero Cell) after full course of immunization in preventing diseases caused by the SARS-CoV-2 in healthy subjects aged 18 years old and above.
+
+    / July, 2020 - ClinicalTrials
+    quote !a =
+
   // A Study of Ad26.COV2.S in Adults (COVID-19)
   doi: https://clinicaltrials.gov/ct2/show/NCT04436276
   ref 'ClinicalTrials-NCT04436276_et_al_06_18_2020
