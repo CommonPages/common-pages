@@ -28,6 +28,128 @@ feed Sangeeta
 
 
   #
+  //
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+
+  // Rapid generation of durable B cell memory to SARS-CoV-2 spike and nucleocapsid proteins in COVID-19 and convalescence
+  doi: https://doi.org/10.1126/sciimmunol.abf8891
+  ref 'Hartley_et_al_12_22_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - Science Immunology
+    quote !a =
+
+  #
+  // Early transmissibility assessment of the N501Y mutant strains of SARS-CoV-2 in the United Kingdom, October to November 2020.
+  doi: https://doi.org/10.2807/1560-7917.ES.2020.26.1.2002106
+  ref 'Leung_et_al_12_28_2020
+    head = We adopted our previous epidemiological framework for relative fitness inference of co-circulating pathogen strains, which has been applied on influenza viruses [1] and SARS-CoV-2 D614G strains [2], to characterise the comparative transmissibility of the 501Y lineages.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / December, 2020 - Eurosurveillance
+    quote !a = The earlier 501Y lineage (501Y Variant 1) co-circulated with the 501N lineage between early September and mid-November in Wales, where its proportion never exceeded 2% among sequenced samples. However, a later 501Y lineage (501Y Variant 2 (also named B.1.1.7, 20B/501Y.V1 and VOC-202012/01)) started co-circulating with the 501N lineage in England in late September and became the dominant lineage in December.
+
+    / December, 2020 - Eurosurveillance
+    quote !b = In the UK, the proportion of the 501Y Variant 2 lineage has increased from 0.1% in early October to 49.7% in late November among sequences as at 19 December 2020.
+
+    / December, 2020 - Eurosurveillance
+    quote !c = The proportion of 501Y Variant 2 has been growing rapidly, particularly in the South East, East of England and London regions since November, which suggests it may have a transmission advantage over the 501N lineage.
+
+    / December, 2020 - Eurosurveillance
+    quote !d = Our findings indicate that 501Y Variant 2 (also named B.1.1.7, 20B/501Y.V1 and VOC-202012/01) is estimated to present an 𝑅0 1.75 times higher than 501N, meaning it is 75% more transmissible compared with the 501N strain. Of note, this variant has also become the dominant strain in England in November/December 2020.
+
+    / December, 2020 - Eurosurveillance
+    quote !e = 501Y Variant 2 is defined by an unusually large number of genetic changes, with at least 24 mutations including 14 non-synonymous mutations, four deletions and six synonymous mutations in ORF1ab, ORF8, nucleocapsid and spike proteins.
+
+    / December, 2020 - Eurosurveillance
+    quote !f = The most concerning mutation is N501Y, which co-occurs with several mutations of potential biological importance, including P681H and deletion of the amino acid at the 69th and 70th residues (Δ69/Δ70) on the spike protein.
+    # Structural biological studies of the SARS-CoV-2 RBD offer insights proposing that 501Y may increase human angiotensin-converting enzyme 2 (ACE2) binding and that the open conformation of the 501Y spike protein is associated with more efficient viral entry and infection.
+
+    / December, 2020 - Eurosurveillance
+    quote !g = Phylogeny results of 501N, 501Y Variant 1 and 501Y Variant 2 indicated that the recent 501Y strains in the UK, since August/September 2020, emerged from the 20B clade and formed two lineages. Both lineages have clear geographical separation in Wales vs England.
+
+    / December, 2020 - Eurosurveillance
+    quote !h = Globally, two other lineages with 501Y (without Δ69/Δ70) have been detected in Australia and South Africa, circulating from June to July and October to November 2020, respectively.
+
+    / December, 2020 - Eurosurveillance
+    quote !i = Our phylogenetic analyses show that the South African variant is genetically distant and has many mutations not shared with 501Y Variant 2.
+
+
+
+  #
+  // Detection of SARS-CoV-2 variants in Switzerland by genomic analysis of wastewater samples
+  doi: https://doi.org/10.1101/2021.01.08.21249379
+  ref 'Jahn_et_al_01_09_2021
+    head = We report a genomic analysis of SARS-CoV-2 in 48 raw wastewater samples collected from three wastewater treatment plants in Switzerland between July 9 and December 21, 2020.
+
+    > Abstract
+      The SARS-CoV-2 lineages B.1.1.7 and 501.V2, which were first detected in the United Kingdom and South Africa, respectively, are spreading rapidly in the human population. Thus, there is an increased need for genomic and epidemiological surveillance in order to detect the strains and estimate their abundances. Here, we report a genomic analysis of SARS-CoV-2 in 48 raw wastewater samples collected from three wastewater treatment plants in Switzerland between July 9 and December 21, 2020. We find evidence for the presence of several mutations that define the B.1.1.7 and 501.V2 lineages in some of the samples, including co-occurrences of up to three B.1.1.7 signature mutations on the same amplicon in four samples from Lausanne and one sample from a Swiss ski resort dated December 9 - 21. These findings suggest that the B.1.1.7 strain could be detected by mid December, two weeks before its first verification in a patient sample from Switzerland. We conclude that sequencing SARS-CoV-2 in community wastewater samples may help detect and monitor the circulation of diverse lineages.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / January, 2021 - medRxiv
+    quote !a = We find evidence for the presence of several mutations that define the B.1.1.7 and 501.V2 lineages in some of the samples, including co-occurrences of up to three B.1.1.7 signature mutations on the same amplicon in four samples from Lausanne and one sample from a Swiss ski resort dated December 9 - 21.
+
+    / January, 2021 - medRxiv
+    quote !b = Given that B.1.1.7 was identified first in Switzerland in a sample dated December 22 and none of the non-B.1.1.7 clinical samples carry the co-occurring mutations, the latter explanation appears more likely suggesting that the B.1.1.7 lineage was present in Switzerland already in early December.
+
+    / January, 2021 - medRxiv
+    quote !c = We have also observed an increase in the number of individual signature mutations in wastewater samples after October in Zurich, consistent with the same trend in clinical samples. When analyzing mutations independently, only the December-21 ski resort finding with 10 out of 17 B.1.1.7 signature mutations provided some indication for the presence of this strain.
+
+    # / January, 2021 - medRxiv
+    # quote !d = Findings suggest that the B.1.1.7 strain could be detected by mid December, two weeks before its first verification in a patient sample from Switzerland.
+
+    / January, 2021 - medRxiv
+    quote !d = By contrast, the co-occurrence analysis appears to be more powerful in detecting the new strains, owing to the genomic location of some of the signature mutations on the same amplicon.
+
+
+
+  #
+  // Saliva viral load is a dynamic unifying correlate of COVID-19 severity and mortality
+  doi: https://doi.org/10.1101/2021.01.04.21249236
+  ref 'Silva_et_al_01_06_2021
+    head = We examine saliva and nasopharyngeal (NP) viral load over time and correlate them with patient demographics, and cellular and immune profiling.
+
+    > Abstract
+      While several clinical and immunological parameters correlate with disease severity and mortality in SARS-CoV-2 infection, work remains in identifying unifying correlates of coronavirus disease 2019 (COVID-19) that can be used to guide clinical practice. Here, we examine saliva and nasopharyngeal (NP) viral load over time and correlate them with patient demographics, and cellular and immune profiling. We found that saliva viral load was significantly higher in those with COVID-19 risk factors; that it correlated with increasing levels of disease severity and showed a superior ability over nasopharyngeal viral load as a predictor of mortality over time (AUC=0.90). A comprehensive analysis of immune factors and cell subsets revealed strong predictors of high and low saliva viral load, which were associated with increased disease severity or better overall outcomes, respectively. Saliva viral load was positively associated with many known COVID-19 inflammatory markers such as IL-6, IL-18, IL-10, and CXCL10, as well as type 1 immune response cytokines. Higher saliva viral loads strongly correlated with the progressive depletion of platelets, lymphocytes, and effector T cell subsets including circulating follicular CD4 T cells (cTfh). Anti-spike (S) and anti-receptor binding domain (RBD) IgG levels were negatively correlated with saliva viral load showing a strong temporal association that could help distinguish severity and mortality in COVID-19. Finally, patients with fatal COVID-19 exhibited higher viral loads, which correlated with the depletion of cTfh cells, and lower production of anti-RBD and anti-S IgG levels. Together these results demonstrated that viral load – as measured by saliva but not nasopharyngeal — is a dynamic unifying correlate of disease presentation, severity, and mortality over time.
+
+    - quotes
+      !a
+
+    / January, 2021 - medRxiv
+    quote !a = oreover, saliva viral load (top) and NP viral load (btm) declined over time in patients that survived COVID19 but not those who died (purple). Patients with lethal disease maintained v. high viral load over the course of disease. (7/n)
+
+
+
+
+  #
   // Genomic characterization of a novel SARS-CoV-2 lineage from Rio de Janeiro, Brazil
   doi: https://doi.org/10.1101/2020.12.23.20248598
   ref 'Voloch_et_al_12_26_2020
@@ -271,6 +393,8 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
+
+
   #
   // Report: Continued spread of VOC 202012/01 in England 31 December 2020
   doi: https://cmmid.github.io/topics/covid19/reports/uk-novel-variant/2020_12_31_Transmissibility_and_severity_of_VOC_202012_01_in_England_update_1.pdf
@@ -298,50 +422,169 @@ feed Sangeeta
 
 
   #
-  // Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
-  doi: https://doi.org/10.1016/j.cell.2020.08.012
-  ref 'Starr_et_al_08_11_2020
-    head =  We experimentally measure how all amino acid mutations to the RBD affect expression of folded protein and its affinity for ACE2.
+  // Investigation of novel SARS-CoV-2 variant: Variant of Concern 202012/01
+  doi: https://www.gov.uk/government/publications/investigation-of-novel-sars-cov-2-variant-variant-of-concern-20201201
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Confirmed Reinfection with SARS-CoV-2 Variant VOC-202012/01
+  doi: https://doi.org/10.1093/cid/ciab014
+  ref 'Harrington_et_al_01_09_2021
+    head = We have detected a confirmed case of reinfection with SARS-CoV-2 with the second episode due to the ‘new variant’ VOC-202012/01 of lineage B.1.1.7.
 
     - quotes
       !a
       !b
 
-    / September, 2020 - Cell
-    quote !a = RBD mutations that have appeared in SARS-CoV-2 to date are nearly neutral with respect to these two biochemical phenotypes, with the exception of one mutation (V367F) that increases RBD stability.
+    / January, 2021 - Clinical Infectious Diseases
+    quote !a = The initial infection occurred in the first wave of the pandemic in the UK and was a mild illness. 8 months later, during the second wave of the pandemic in the UK reinfection with the ‘new variant’ VOC-202012/01 was confirmed and caused a critical illness.
 
-    / September, 2020 - Cell
-    quote !b = Mutations that enhance affinity are notable at RBD sites Q493, Q498, and N501
+    / January, 2021 - Clinical Infectious Diseases
+    quote !b = The development of reinfection in this case may just reflect waning immunity after 8 months since primary infection in a high-risk individual with multiple comorbidities. Anti-SARS-CoV-2 antibodies were still present shortly before onset of reinfection, with no evidence of antibody waning.
 
-
-
-  # D614G; N501Y, mutation,
-  // Modelling conformational state dynamics and its role on infection for SARS-CoV-2 Spike protein variants
-  doi: https://doi.org/10.1101/2020.12.16.423118
-  ref 'Teruel_et_al_12_17_2020
-    head =
-
-    > Abstract
-      The COVID-19 pandemic has greatly affected us all, from individuals to the world economy. Whereas great advances have been achieved in record time, a lot remains to be learned about the infection mechanisms of its causative agent, the SARS-CoV-2 coronavirus. The Spike protein interacts with the human angiotensin converting enzyme 2 receptor as part of the viral entry mechanism. To do so, the receptor binding domain (RBD) of Spike needs to be in an open state conformation. Here we utilise coarse-grained normal mode analyses to model the dynamics of the SARS-CoV-2 Spike protein and the transition probabilities between open and closed conformations for the wild type, the D614G mutant as well other variants isolated experimentally. We proceed to perform several possible in silico single mutations of Spike, 17081 in total, to determine positions and specific Spike mutations that may affect the occupancy of the open and closed states. We estimate transition probabilities between the open and closed statesfrom the calculated normal modes. Transition probabilities are employed in a Markov model to determine conformational state occupancies. Our results correctly model a shift in occupancy of the more infectious D614G strain towards higher occupancy of the open state via an increase of flexibility of the closed state and concomitant decrease of flexibility of the open state. Our results also suggest that the N501Y mutation recently observed, drastically increases the occupancy of the open state. We utilize global vibrational entropy differences to select candidate single point mutations that affect the flexibility of the open and closed states and confirm that these lead to shifts in occupancies for the most critical mutations. Among those, we observe a number of mutations on Glycine residues (404, 416, 504) and G252 in particular accepting a number of mutations. Other residues include K417, D467 and N501. This is, to our knowledge, the first use of normal mode analysis to model conformational state transitions and the effect of mutations thereon. The specific mutations of Spike identified here, while still requiring experimental validation, may guide future studies to increase our understanding of SARS-CoV-2 infection mechanisms as well as guide public health in their surveillance efforts.
-
-    - quotes
-      !a
-
-    / December, 2020 - BioRxiv
-    quote !a =
 
 
   #
-  // Modelling conformational state dynamics and its role on infection for SARS-CoV-2 Spike protein variants
-  doi: https://doi.org/10.1101/2020.12.16.423118
-  ref 'Teruel_et_al_12_17_2020
-    head =
+  // Establishment and lineage dynamics of the SARS-CoV-2 epidemic in the UK.
+  doi: https://doi.org/10.1126/science.abf2946
+  ref 'Plessis_et_al_01_08_2021
+    head = We reveal the fine-scale genetic lineage structure of this epidemic through analysis of 50,887 SARS-CoV-2 genomes, including 26,181 from the UK sampled throughout the country’s first wave of infection. Using large-scale phylogenetic analyses, combined with epidemiological and travel data, we quantify the size, spatio-temporal origins and persistence of genetically-distinct UK transmission lineages.
+
+    > Abstract
+      The UK’s COVID-19 epidemic during early 2020 was one of world’s largest and unusually well represented by virus genomic sampling. Here we reveal the fine-scale genetic lineage structure of this epidemic through analysis of 50,887 SARS-CoV-2 genomes, including 26,181 from the UK sampled throughout the country’s first wave of infection. Using large-scale phylogenetic analyses, combined with epidemiological and travel data, we quantify the size, spatio-temporal origins and persistence of genetically-distinct UK transmission lineages. Rapid fluctuations in virus importation rates resulted in >1000 lineages; those introduced prior to national lockdown tended to be larger and more dispersed. Lineage importation and regional lineage diversity declined after lockdown, while lineage elimination was size-dependent. We discuss the implications of our genetic perspective on transmission dynamics for COVID-19 epidemiology and control.
 
     - quotes
       !a
+      !b
+      !c
+      !d
 
-    / December, 2020 - bioRxiv
-    quote !a =
+
+    / January, 2021 - Science
+    quote !a = Pre-lockdown, high travel volumes and few restrictions on international arrivals led to the establishment and co-circulation of >1000 identifiable UK transmission lineages, jointly contributing to accelerated epidemic growth that quickly exceeded national contact tracing capacity.
+
+    / January, 2021 - Science
+    quote !b = Earlier lineages (prior to national lockdown) were larger, more dispersed, and harder to eliminate, highlighting the importance of rapid or pre-emptive interventions in reducing transmission.
+
+    / January, 2021 - Science
+    quote !c = The high heterogeneity in SARS-CoV-2 transmission at the individual level appears to extend to whole transmission lineages, such that >75% of sampled viruses belong to the top 20% of lineages ranked by size.
+
+    / January, 2021 - Science
+    quote !d = Lineage importation and regional lineage diversity declined after lockdown, while lineage elimination was size-dependent.
+
+
+
+  #
+  // Impact of B.1.1.7 variant mutations on antibody recognition of linear SARSCoV-2 epitopes
+  doi: https://doi.org/10.1101/2021.01.06.20248960
+  ref 'Haynes_et_al_01_08_2021
+    head = In 579 COVID patients’ samples collected between March and July of 2020, we examined the effects of non-synonymous mutations harbored by the circulating B.1.1.7 strain on linear antibody epitope signal for spike glycoprotein and nucleoprotein.
+
+    > Abstract
+      In 579 COVID patients’ samples collected between March and July of 2020, we examined the effects of non-synonymous mutations harbored by the circulating B.1.1.7 strain on linear antibody epitope signal for spike glycoprotein and nucleoprotein. At the antigen level, the mutations only substantially reduced signal in 0.5% of the population. Although some epitope mutations reduce measured signal in up to 6% of the population, these are not the dominant epitopes for their antigens. Given dominant epitope patterns observed, our data suggest that the mutations would not result in immune evasion of linear epitopes for a large majority of these COVID patients.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    # / January, 2021 - medRxiv
+    # quote !a = Given dominant epitope patterns observed, our data suggest that the mutations would not result in immune evasion of linear epitopes for a large majority of these COVID patients.
+
+    / January, 2021 - medRxiv
+    quote !a = Our data suggest that the mutations seen in the B.1.1.7 strain of SARS-CoV-2 would not result in loss of dominant antibody responses to linear spike glycoprotein and nucleoprotein epitopes in the vast majority of our cohort’s COVID patients.
+
+    / January, 2021 - medRxiv
+    quote !b = Since the mRNA vaccines include intact spike sequences resembling those which are circulating in naturally infected individuals, and naturally infected individuals exhibit a somewhat durable immune response, we have no evidence to suggest that the current vaccines won’t be effective against B.1.1.7
+
+    / January, 2021 - medRxiv
+    quote !c = At the antigen level, the mutations only substantially reduced signal in 0.5% of the population. Although some epitope mutations reduce measured signal in up to 6% of the population, these are not the dominant epitopes for their antigens.
+
+    / January, 2021 - medRxiv
+    quote !d =  In COVID patients, we observe limited changes in epitope signal on the B.1.1.7 strain compared to the original strain. Although the early stop codon in NS8 resulted in the most decreased signals, antibodies to NS8 are unlikely to play a role in a protective response. Given the suggested role of NS8 in severe disease, this early stop codon might have a positive effect on disease outcome.
+
+    / January, 2021 - medRxiv
+    quote !e = Given that our data does not yet include SARSCoV-2 vaccinated samples, our conclusions beyond natural infection are speculative.
+
+
+
+
+  #
+  // Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
+  doi: https://doi.org/10.1016/j.cell.2020.08.012
+  ref 'Starr_et_al_08_11_2020
+    head = We experimentally measure/ characterise how all amino acid mutations to the RBD affect expression of folded protein and its affinity for ACE2, two key factors for viral fitness.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !f
+      !g
+      !h
+      !i
+
+
+    / August, 2020 - Cell
+    quote !a = Our results suggest that there is little phenotypic diversity in ACE2 binding among circulating variants at this early stage of the pandemic.
+
+    / August, 2020 - Cell
+    quote !b = RBD mutations that have appeared in SARS-CoV-2 to date are nearly neutral with respect to these two biochemical phenotypes, with the exception of one mutation (V367F) that increases RBD stability. Notably, there has been no selection to date for any of the evolutionarily accessible mutations that enhance ACE2 binding affinity.
+
+    / August, 2020 - Cell
+    quote !c = The receptor binding domain (RBD) of the SARS-CoV-2 spike glycoprotein mediates viral attachment to ACE2 receptor and is a major determinant of host range and a dominant target of neutralizing antibodies.
+
+    / August, 2020 - Cell
+    quote !d = Mutations that enhance affinity are notable at RBD sites Q493, Q498, and N501.
+
+    / August, 2020 - Cell
+    quote !f = Our results show that many mutations to the RBD are well tolerated with respect to both protein folding and ACE2 binding. However, the ACE2 binding interface is more constrained than most of the RBD’s surface, which could limit viral escape from antibodies that target this interface.
+
+    / August, 2020 - Cell
+    quote !g = No characterized antibodies have epitopes as constrained as the actual RBD surface that contacts ACE2, suggesting that there is room for epitope focusing to minimize viral escape.
+
+    / August, 2020 - Cell
+    quote !h = Second, there are a number of RBD mutations that enhance ACE2 affinity, which implies evolutionary potential for compensation of deleterious mutations in the ACE2 interface in a manner reminiscent of multi-step escape pathways that have been described for other viruses.
+
+    / August, 2020 - Cell
+    quote !i = First, we identify many mutations that enhance RBD expression and thermal stability, a desirable property in vaccine immunogens. Second, our maps show which mutations can be introduced into the RBD without disrupting key biochemical phenotypes, thereby opening the door to resurfacing immunogens to focus antibodies on specific epitopes. Finally, our maps show which surfaces of the RBD are under strong constraint and might thereby be targeted by structure-guided vaccines to stimulate immunity with breadth across the sarbecovirus clade: in addition to the ACE2 interface itself, these surfaces include several core-RBD patches targeted by currently described antibodies and a previously undescribed core-RBD patch surrounding residue E465.
+
+
+
+  # D614G; N501Y, mutation, 1/11/21
+  // Modelling conformational state dynamics and its role on infection for SARS-CoV-2 Spike protein variants
+  doi: https://doi.org/10.1101/2020.12.16.423118
+  ref 'Teruel_et_al_12_17_2020
+    head = We utilise coarse-grained normal-mode analyses to model the dynamics of Spike and calculate transition probabilities between states for 17081 variants including experimentally observed variants. Our results explain the behaviour of the D614G strain, the increased infectivity of SARS-CoV-2 relative to SARS-CoV as well as offers a possible explanation for the rise of new strains such as those harboring the N501Y mutation.
+
+    > Abstract
+      The SARS-CoV-2 Spike protein needs to be in an open-state conformation to interact with ACE2 and facilitate viral entry. We utilise coarse-grained normal-mode analyses to model the dynamics of Spike and calculate transition probabilities between states for 17081 variants including experimentally observed variants. Our results correctly model an increase in open-state occupancy for the more infectious D614G via an increase in flexibility of the closed-state and decrease of flexibility of the open-state. We predict the same effect for several mutations on Glycine residues (404, 416, 504, 252) as well as residues K417, D467 and N501, including the N501Y mutation recently observed. This is, to our knowledge, the first use of normal-mode analysis to model conformational state transitions and the effect of mutations thereon. The specific mutations of Spike identified here may guide future studies to increase our understanding of SARS-CoV-2 infection mechanisms and guide public health in their surveillance efforts.
+
+    - quotes
+      !a
+      !b
+
+    / December, 2020 - BioRxiv
+    quote !a = Our results correctly model an increase in open-state occupancy for the more infectious D614G via an increase in flexibility of the closed-state and decrease of flexibility of the open-state.
+
+    / December, 2020 - BioRxiv
+    quote !b = We predict the same effect for several mutations on Glycine residues (404, 416, 504, 252) as well as residues K417, D467 and N501, including the N501Y mutation recently observed.
+
+    # / December, 2020 - BioRxiv
+    # quote !a = Analysis of the effect of mutations on the Dynamic Signature show that the D614G mutation produces similar dynamic patterns largely independent of the other mutations accumulated, and dynamic patterns that are distinct from that of the wild type and other mutants on both the open and closed states. The dynamic characteristics of D614G are very specific and cannot be obtained with random mutations.
+
 
 
   #
@@ -359,7 +602,7 @@ feed Sangeeta
   #
 
 
-  #  check dates of this paper
+  #  check dates of this paper 1/9/2021
   // Flight-Associated Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 Corroborated by Whole-Genome Sequencing
   doi: https://dx.doi.org/10.3201/eid2612.203910
   ref 'Speake_et_al_2020
@@ -735,11 +978,6 @@ feed Sangeeta
 
     / November, 2020 - Cell
     quote !f = The infection was not cleared after the first treatment with convalescent plasma, suggesting a limited effect on SARS-CoV-2 in the upper respiratory tract of this individual. Several weeks after a second convalescent plasma transfusion, SARS-CoV-2 RNA was no longer detected.
-
-
-
-
-
 
 
 

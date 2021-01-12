@@ -4,7 +4,98 @@
   ############################################################################################
   # Everything below in this section is not updated claims.
   ############################################################################################
+  #### 1/12/21 ######
+
+  #### 12/31 ####
+
+  # Questions for VACCINES
+  # If a person has a reaction to one SARS-CoV-2 vaccine, what are the implications for the safety of vaccination with a different SARS-CoV-2 vaccine? Furthermore, what safety issues may preclude future vaccination altogether?
+  # What are the correlates of protective immunity after natural infection or vaccination? How long will immunity last? Will widespread immunity limit the spread of the virus in the population? Which component of the vaccine is responsible for allergic reactions? Are some vaccines less likely than others to cause IgE- and non-IgE–mediated reactions?
+  # So why did Europe and the US both choose mRNA vaccines (never before tested for coronaviruses in humans) and not WKV (proven efficacy for antibody production against coronavirus in humans)?
+  # "Would Salk-style inactivated or whole killed virus vaccine (WKV) be worth considering as well? Its distribution and storage should be easier than a mRNA vaccine..."
+  # is the vaccine still effective if the virus mutates?
+  # will the fda authorised vaccines work against the new variant?
+  # Why do we need a booster shots? This is because B cell responses induced by first dose only generates lower levels, lower affinity and short lived antibody responses. The booster dose(s) allow stimulation of robust long-lasting immunity with high affinity/neutralizing Ab
+  # So how effective is a single dose vaccine? We do not know for sure, but for at least a month or more, a single shot mRNA vaccines should provide ~90% protection (>14 d post vaccination). This is from the Moderna VRBPAC Briefing Document. (6/n)
+
+  # why Australia isn't just rolling out the vaccine prior to regulatory approval, or why the TGA just doesn't register the vaccine based on approvals in other countries.https://twitter.com/peripatetical/status/1346036208116269059
+
+  # I've previously discussed some of the issues of interest when considering how effective the vaccine is. The primary question is whether the vaccine prevents disease.
+  # Several other questions are very important to the COVID vaccine program - the degree to which vaccines prevent transmission, and whether they work in high risk subgroups (esp older people)
+  #
+  # Safety requires larger numbers of participants in trials. What we're looking for is a "safety signal" - anything that might hint that something serious might be caused by a vaccine, and how common it is.
+  #
+  # t is worth noting that many diseases have a "background rate" - for example flu-like illnesses occur quite commonly in both groups. In the Pfizer study, a third of participants in the placebo arm had fatigue or headache.
+  #
+  # That's not all - there are questions about toxicology of the vaccine or its components (such as the lipid layer used in mRNA vaccines, or adjuvants used in protein vaccines).
+  #
+  # We want to know that there is the correct amount of vaccine in each dose. We want to know they are free from contamination. That there are no differences between different batches or those made in different factories. We need to know the shelf life under different conditions.
+  #
+  # Whether they can be used safely in pregnant or breastfeeding women. Whether they can be given with other vaccines such as the flu vaccine.
+  #
+  # Can anyone think of a time a vaccine has been rolled out to a RNA virus (or any other pathogen) at the same time so much infection is happening ... I’m not sure we understand the consequences at all of suboptimal immunity.
+  #
+  # There are so many unknowns relating to introducing a vaccine when attack rates are so high. Delaying a boost to maximise protective immunity appears to add yet more unknowns.
+
+
+  # questions #variants
+
+  # New Variants- How will it affect vaccines under development?
+  # Did the variant achieve prominence through natural selection or chance events? If the evidence suggests natural selection, which mutation(s) are being selected? What is the adaptive benefit of these mutations? What effect do these mutations have on transmissibility and spread, antigenicity, or virulence?
+
+  # flights
+
+  # When a positive COVID-19 case is linked to a flight, rapid flight contact tracing may prevent onward spread and we support the proposed EU digitalised public health passenger locator form [12] and development of improved systems of tracing. (ii) Swift action is needed where cases with no other link emerge beyond the close contact two-seat radius [1] to instigate early investigation and control measures.
+  ### 1/11/21 ####
+
+
   #### 1/8/21 ####
+
+  >
+    Pfizer says COVID-19 vaccine appears to work against key mutation in variants first found in the UK and South Africa
+
+  >
+    The exceptional size of our genomic survey provides insight into the micro-epidemiological patterns that underlie the features of a large, national COVID-19 epidemic, allowing us to quantify the abundance, size distribution, and spatial range of transmission lineages.
+    our analysis of the lineage structure and importation dynamics of the first wave of the #SARSCoV2 epidemic in the UK.
+  -
+    'Plessis_et_al_01_08_2021
+    'Plessis_et_al_01_08_2021.!a
+    'Plessis_et_al_01_08_2021.!b
+    'Plessis_et_al_01_08_2021.!c
+    'Plessis_et_al_01_08_2021.!d
+
+  >
+    The non-synonymous mutations of the B.1.1.7 strain of SARS-CoV-2 are characterized by 2 deletions and 6 mutations in spike glycoprotein, an early stop codon and 2 mutations in non-structural protein 8, and 2 mutations in nucleoprotein.
+    Question : Whether these mutations render preexisting antibodies ineffective has become a public concern as it could result in reinfection or loss of efficacy against vaccination?
+
+  >
+    Our data suggest that the mutations seen in the B.1.1.7 strain of SARS-CoV-2 would not result in loss of dominant antibody responses to linear spike glycoprotein and nucleoprotein epitopes in the vast majority of our cohort’s COVID patients.
+    One study showed it had no evidence to suggest that the current vaccines won’t be effective against B.1.1.7
+  -
+    'Haynes_et_al_01_08_2021
+    'Haynes_et_al_01_08_2021.!a
+    'Haynes_et_al_01_08_2021.!b
+    'Haynes_et_al_01_08_2021.!c
+    'Haynes_et_al_01_08_2021.!d
+
+  >
+    There are some concerns about immune evasion by this new variant, which is a concern with the high number of spike region mutations seen.
+  -
+    'Harrington_et_al_01_09_2021
+    'Harrington_et_al_01_09_2021.!a
+    'Harrington_et_al_01_09_2021.!b
+
+
+  >
+    We detected the UK variant #b117 in Swiss wastewater as early as December 9. Early detection of variants is another promising application of wastewater analysis during a pandemic!
+    The preliminary analysis of deep sequencing data from 48 community wastewater samples collected between July and December 2020 in Switzerland has identified several of the signature mutations that define the B.1.1.7 and 501.V2 lineage in several of the samples.
+  -
+    'Jahn_et_al_01_09_2021
+    'Jahn_et_al_01_09_2021.!a
+    'Jahn_et_al_01_09_2021.!b
+    'Jahn_et_al_01_09_2021.!c
+
+  ### 1/11/21 ####)
 
   # viral mutations impact vaccine-elicited immunity, and using this knowledge to design vaccines that are robust to viral antigenic evolution.
   -
@@ -17,9 +108,65 @@
     We focus on the RBD because prior studies have reported that RBD-binding antibodies contribute the majority of the neutralizing activity of most human sera (Piccoli et al., 2020; Steffen et al., 2020),
 
 
+  > (### 1/11/21 ####)
+    b.1.1.7 - head  text - As at 19 December 2020, 501Y Variant 2 cases had been identified outside of the UK in 21 countries and regions including Denmark, Hong Kong, Italy, Japan, Spain, Singapore and the United States (US) [14]. It remains unclear whether they correspond to exportation from the UK or local spread until more historical sequence data become available.
+    Phylogeny of SARS-CoV-2 showing the emergence of 501Y lineages, United Kingdom and other regions, as at 19 December 2020 - One study characterised the comparative transmissibility of the 501Y lineages- The proportion of 501Y Variant 2 has been growing rapidly, particularly in the South East, East of England and London regions since November [4,5], which suggests it may have a transmission advantage over the 501N lineage
+    Our findings indicate that 501Y Variant 2 (also named B.1.1.7, 20B/501Y.V1 and VOC-202012/01) is estimated to present an 𝑅0 1.75 times higher than 501N, meaning it is 75% more transmissible compared with the 501N strain. Of note, this variant has also become the dominant strain in England in November/December 2020.
+
+    Phylogeny results of 501N, 501Y Variant 1 and 501Y Variant 2 indicated that the recent 501Y strains in the UK, since August/September 2020, emerged from the 20B clade and formed two lineages. Both lineages have clear geographical separation in Wales vs England.
+  -
+    'Leung_et_al_12_28_2020
+    'Leung_et_al_12_28_2020.!a
+    'Leung_et_al_12_28_2020.!b
+    'Leung_et_al_12_28_2020.!c
+    'Leung_et_al_12_28_2020.!d
+    'Leung_et_al_12_28_2020.!e
+    'Leung_et_al_12_28_2020.!f
+    'Leung_et_al_12_28_2020.!g
+    'Leung_et_al_12_28_2020.!h
+    'Leung_et_al_12_28_2020.!i
+
+  >
+    To what extent a person infected by one strain is protected against infection of another strain?
+
+  >
+    The most concerning mutation is N501Y, which co-occurs with several mutations of potential biological importance, including P681H and deletion of the amino acid at the 69th and 70th residues (Δ69/Δ70) on the spike protein.
+
+  >
+    Structural biological studies of the SARS-CoV-2 RBD offer insights proposing that 501Y may increase human angiotensin-converting enzyme 2 (ACE2) binding [6,7].
+    The receptor binding domain (RBD) of the SARS-CoV-2 spike glycoprotein mediates viral attachment to ACE2 receptor and is a major determinant of host range and a dominant target of neutralizing antibodies.
+  -
+    'Starr_et_al_08_11_2020
+    'Starr_et_al_08_11_2020.!d
+    'Starr_et_al_08_11_2020.!c
+    'Starr_et_al_08_11_2020.!f
+  >
+    The open conformation of the 501Y spike protein [8] is associated with more efficient viral entry and infection.
+  -
+    'Teruel_et_al_12_17_2020
+    'Teruel_et_al_12_17_2020.!a
+    'Teruel_et_al_12_17_2020.!b
+
+  >
+    there is little phenotypic diversity in ACE2 binding among circulating variants at this early stage of the pandemic.
+  -
+    'Starr_et_al_08_11_2020
+    'Starr_et_al_08_11_2020.!a
+    'Starr_et_al_08_11_2020.!b
+
+  >
+    VACCINE FRONTIERS
+  -
+    'Starr_et_al_08_11_2020
+    'Starr_et_al_08_11_2020.!f
+    'Starr_et_al_08_11_2020.!g
+    'Starr_et_al_08_11_2020.!h 
+    'Starr_et_al_08_11_2020.!i
 
 
+  # Comprehensive mapping of mutations to the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human serum antibodies - REFER FOR PAPERS FOR CLAIMS
 
+ ############ 1/12/21
   >
     Similar experiments by others (Andreano et al., 2020; Liu et al., 2020b; Weisblum et al., 2020) show that mutations to site E484 reduce the neutralization potency of some human sera by >10 fold, although other sera are unaffected by mutations at this site.
 
@@ -67,6 +214,12 @@
 
   >
     The apparent adaptation of SARS-CoV-2 to mink was nevertheless concerning because continued evolution of the virus in an animal reservoir could potentially lead to recurrent spillover events of novel SARS-CoV-2 from mink to humans and other mammals. For this reason, many countries have increased surveillance efforts and in some cases implemented large-scale culls (ie, selective slaughter) of mink on farms.
+
+  >
+    In Denmark, new strains related to SARS-CoV-2 transmission in mink farms were confirmed in early October by the WHO and shown to be caused by specific mutations not previously observed with the novelty of back-and-forth transmission between minks and humans #https://www.biorxiv.org/content/10.1101/2020.12.16.423118v2.full
+
+  >
+    SARS-CoV-2 mutations are still arising and spreading around the world - the A222V mutation, reportedly responsible for many infections, emerged in Spain during the Summer of 2020 and since then has spread to neighbor countries #https://www.biorxiv.org/content/10.1101/2020.12.16.423118v2.full
 
 
   # Antigenicity and Vaccine Effectiveness
@@ -185,6 +338,19 @@
   >
     The intense propagation pattern could be due to a high intensity of infection and high viral shedding in the source case as hypothesised elsewhere
 
+  >
+    What is the relevance of viral load in #COVID19 disease severity?
+    What about saliva’s ability to predict #COVID19 disease? Why is saliva viral load a better correlate of disease than NP load? URT virus is key to transmission, but LRT is key to severe #COVID19. Saliva appears to be better at capturing the critical viral source driving severe disease.  - found that saliva viral load to be a better predictor of disease than nasopharyngeal viral load.
+
+  >
+    paper comparing saliva viral load with NP viral load.- Saliva viral load better predictor of disease.Saliva viral load prognosticated better. High saliva viral load associated with delayed immune responses as studied. Saliva likely more reflected the lower resp tract hence correlates better with severity
+
+  >
+    vitamin D supplementation had an anti-viral effect by reducing inflammatory monocytes and increasing T cell activity.
+    https://academic.oup.com/immunotherapyadv/advance-article/doi/10.1093/immadv/ltaa008/5999967
+
+
+
   ######### 11/17 #####
 
 
@@ -280,46 +446,7 @@
 
 
 
-  #### 12/31 ####
 
-  # Questions for VACCINES
-  # If a person has a reaction to one SARS-CoV-2 vaccine, what are the implications for the safety of vaccination with a different SARS-CoV-2 vaccine? Furthermore, what safety issues may preclude future vaccination altogether?
-  # What are the correlates of protective immunity after natural infection or vaccination? How long will immunity last? Will widespread immunity limit the spread of the virus in the population? Which component of the vaccine is responsible for allergic reactions? Are some vaccines less likely than others to cause IgE- and non-IgE–mediated reactions?
-  # So why did Europe and the US both choose mRNA vaccines (never before tested for coronaviruses in humans) and not WKV (proven efficacy for antibody production against coronavirus in humans)?
-  # "Would Salk-style inactivated or whole killed virus vaccine (WKV) be worth considering as well? Its distribution and storage should be easier than a mRNA vaccine..."
-  # is the vaccine still effective if the virus mutates?
-  # will the fda authorised vaccines work against the new variant?
-  # Why do we need a booster shots? This is because B cell responses induced by first dose only generates lower levels, lower affinity and short lived antibody responses. The booster dose(s) allow stimulation of robust long-lasting immunity with high affinity/neutralizing Ab
-  # So how effective is a single dose vaccine? We do not know for sure, but for at least a month or more, a single shot mRNA vaccines should provide ~90% protection (>14 d post vaccination). This is from the Moderna VRBPAC Briefing Document. (6/n)
-
-  # why Australia isn't just rolling out the vaccine prior to regulatory approval, or why the TGA just doesn't register the vaccine based on approvals in other countries.https://twitter.com/peripatetical/status/1346036208116269059
-
-  # I've previously discussed some of the issues of interest when considering how effective the vaccine is. The primary question is whether the vaccine prevents disease.
-  # Several other questions are very important to the COVID vaccine program - the degree to which vaccines prevent transmission, and whether they work in high risk subgroups (esp older people)
-  #
-  # Safety requires larger numbers of participants in trials. What we're looking for is a "safety signal" - anything that might hint that something serious might be caused by a vaccine, and how common it is.
-  #
-  # t is worth noting that many diseases have a "background rate" - for example flu-like illnesses occur quite commonly in both groups. In the Pfizer study, a third of participants in the placebo arm had fatigue or headache.
-  #
-  # That's not all - there are questions about toxicology of the vaccine or its components (such as the lipid layer used in mRNA vaccines, or adjuvants used in protein vaccines).
-  #
-  # We want to know that there is the correct amount of vaccine in each dose. We want to know they are free from contamination. That there are no differences between different batches or those made in different factories. We need to know the shelf life under different conditions.
-  #
-  # Whether they can be used safely in pregnant or breastfeeding women. Whether they can be given with other vaccines such as the flu vaccine.
-  #
-  # Can anyone think of a time a vaccine has been rolled out to a RNA virus (or any other pathogen) at the same time so much infection is happening ... I’m not sure we understand the consequences at all of suboptimal immunity.
-  #
-  # There are so many unknowns relating to introducing a vaccine when attack rates are so high. Delaying a boost to maximise protective immunity appears to add yet more unknowns.
-
-
-  # questions #variants
-
-  # New Variants- How will it affect vaccines under development?
-  # Did the variant achieve prominence through natural selection or chance events? If the evidence suggests natural selection, which mutation(s) are being selected? What is the adaptive benefit of these mutations? What effect do these mutations have on transmissibility and spread, antigenicity, or virulence?
-
-  # flights
-
-  # When a positive COVID-19 case is linked to a flight, rapid flight contact tracing may prevent onward spread and we support the proposed EU digitalised public health passenger locator form [12] and development of improved systems of tracing. (ii) Swift action is needed where cases with no other link emerge beyond the close contact two-seat radius [1] to instigate early investigation and control measures.
 
 
 
