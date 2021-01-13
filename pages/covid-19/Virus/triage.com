@@ -92,10 +92,9 @@ index: hide
   # MUTATIONS: Mutations, Variants, and Spread
 
   >
-    Mutations arise as a natural by-product of viral replication.1 RNA viruses typically have higher mutation rates than DNA viruses. Coronaviruses, however, make fewer mutations than most RNA viruses because they encode an enzyme that corrects some of the errors made during replication.
+    Mutations arise as a natural by-product of viral replication. RNA viruses typically have higher mutation rates than DNA viruses. Coronaviruses, however, make fewer mutations than most RNA viruses because they encode an enzyme that corrects some of the errors made during replication.
   # -
     # We shouldn’t worry when a virus mutates during disease outbreaks.
-
 
 
   # D614G

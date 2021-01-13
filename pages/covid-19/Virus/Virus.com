@@ -537,7 +537,7 @@ subject module Virus
         'Tang_et_al_05_24_2020
         'Bhattacharyya_et_al_2020
 
-  / Genetic Variants & Strains
+  / Mutation, Variants & Strains
   subject Variants
     head =
 
@@ -570,9 +570,60 @@ subject module Virus
         'Klumpp-Thomas_et_al_07_10_2020
         'Klumpp-Thomas_et_al_07_10_2020.!a
 
-      # On going - yet to finish
+      # Structural and Functional Findings about the variant
       -
         'Yurkovetskiy_et_al_09_15_2020
+        'Yurkovetskiy_et_al_09_15_2020.!a
+        'Yurkovetskiy_et_al_09_15_2020.!b
+        'Yurkovetskiy_et_al_09_15_2020.!c
+        'Yurkovetskiy_et_al_09_15_2020.!d
+        'Yurkovetskiy_et_al_09_15_2020.!e
+        'Yurkovetskiy_et_al_09_15_2020.!f
+        'Yurkovetskiy_et_al_09_15_2020.!g
+        'Yurkovetskiy_et_al_09_15_2020.!h
+
+
+      >
+        Spike 614G clusters are introduced in the UK later on average than 614D clusters and grow to larger size.
+      -
+        'Volz_et_al_09_01_2020
+        'Volz_et_al_09_01_2020.!a
+        'Volz_et_al_09_01_2020.!b
+      >
+        SG614 is more stable than SD614. SG614 transmit more efficiently.
+      -
+        'Zhang_et_al_06_12_2020
+        'Zhang_et_al_06_12_2020.!a
+
+      >
+        G614 Spike is more resistant to proteolytic cleavage suggesting that replicated virus produced in human cells may be more infectious.
+      -
+        'Daniloski_et_al_07_07_2020
+        'Daniloski_et_al_07_07_2020.!a
+
+
+
+      >
+        D614G substitution enhances SARS-CoV-2 infectivity, competitive fitness, and transmission in primary human cells and animal models.
+      -
+        'Hou_et_al_12_18_2020
+        'Hou_et_al_12_18_2020.!a
+
+      >
+        D614G mutation is not expected to be an obstacle for current vaccine development.
+      -
+        'Weissman_et_al_12_01_2020
+        'Weissman_et_al_12_01_2020.!a
+        'Weissman_et_al_12_01_2020.!b
+
+      >
+        Mutation is unlikely to reduce the ability of vaccines in clinical trials to protect against COVID-19
+      -
+        'Plante_et_al_10_26_2020
+        'Plante_et_al_10_26_2020.!a
+      -
+        'McAuley_et_al_10_08_2020
+        'McAuley_et_al_10_08_2020.!a
 
     —
     / Mink Variant
@@ -580,10 +631,10 @@ subject module Virus
 
     / B.1.1.7 UK Variant
     subject B117
-      head = On 14 December 2020, B.1.1.7 variant was reported by UK. This lineage has acquired a number of mutations that differentiate it from other viruses. It has increased transmissibility. Preliminary analyses so far indicate that there is no change in disease severity. As of 30 December, B.1.1.7 variant has been reported in 31 other countries.
+      head = On 14 December 2020, B.1.1.7 variant was reported by UK. This variant is defined is defined by a set of 17 changes or mutations. It has increased transmissibility. Preliminary analyses so far indicate that there is no change in disease severity. As of 30 December, B.1.1.7 variant has been reported in 31 other countries.
 
       >
-        On 14 December 2020, variant referred as SARS-CoV-2 VOC 202012/01 (Variant of Concern, year 2020, month 12, variant 01) was reported by the United Kingdom. This lineage has acquired a number of mutations that differentiate it from other viruses. As of 30 December, VOC-202012/01 variant has been reported in 31 other countries/territories/areas in five of the six WHO regions.
+        On 14 December 2020, variant referred as SARS-CoV-2 VOC 202012/01 (Variant of Concern, year 2020, month 12, variant 01) was identified in [United Kingdom](https://www.bmj.com/content/371/bmj.m4857). This variant is defined by a set of 17 changes or mutations. As of 30 December, VOC-202012/01 variant has been reported in 31 other countries/territories/areas in five of the six WHO regions.
 
       - Background
         !UKlineage
@@ -607,16 +658,16 @@ subject module Virus
         !Antibodyresistance
       - P681H Mutation
         !P681HFurin
-      -
+      - Other claims
         !Viralload
-      -
+      - Vaccine related claims
         !Phase3trialConcern
         !Phizer
 
       # When paper is out make counter for vaccine efficacy and increase reinfection risk - https://twitter.com/VirusesImmunity/status/1344391796214935560
 
 
-      claim !UKlineage = A rapidly growing lineage (B.1.1.7) in the UK is associated with an unexpectedly large number of genetic changes particularly in the spike protein; including in the receptor-binding domain and associated with the furin cleavage site.
+      claim !UKlineage = B.1.1.7 in the UK is associated with a large number of genetic changes particularly in the spike protein; including in the receptor-binding domain and associated with the furin cleavage site.
         -
           'Arambaut_et_al_2020
           'Arambaut_et_al_2020.!a

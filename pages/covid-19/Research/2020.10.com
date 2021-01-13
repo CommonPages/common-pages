@@ -14,6 +14,36 @@ feed October2020
 
   #
 
+  // Experimental and in silico evidence suggests vaccines are unlikely to be affected by D614G mutation in SARS-CoV-2 spike protein
+  doi: https://doi.org/10.1038/s41541-020-00246-8
+  ref 'McAuley_et_al_10_08_2020
+    head = Virus neutralisation assays were performed using sera from ferrets which received two doses of the INO-4800 COVID-19 vaccine, and Australian virus isolates (VIC01, SA01 and VIC31) which either possess or lack this mutation but are otherwise comparable.
+
+    > Abstract
+      The ‘D614G’ mutation (Aspartate-to-Glycine change at position 614) of the SARS-CoV-2 spike protein has been speculated to adversely affect the efficacy of most vaccines and countermeasures that target this glycoprotein, necessitating frequent vaccine matching. Virus neutralisation assays were performed using sera from ferrets which received two doses of the INO-4800 COVID-19 vaccine, and Australian virus isolates (VIC01, SA01 and VIC31) which either possess or lack this mutation but are otherwise comparable. Through this approach, supported by biomolecular modelling of this mutation and the commonly-associated P314L mutation in the RNA-dependent RNA polymerase, we have shown that there is no experimental evidence to support this speculation. We additionally demonstrate that the putative elastase cleavage site introduced by the D614G mutation is unlikely to be accessible to proteases.
+
+    - quotes
+      !a
+
+    / October, 2020 - Nature
+    quote !a = Ferrets were shown to have developed SARS-CoV-2 neutralising antibody responses following vaccination with INO-4800, demonstrating that ferrets are an appropriate animal to model COVID-19 vaccine immunogenicity, and that this DNA vaccine stimulates an effective B cell response.
+
+    
+
+  // Spike mutation D614G alters SARS-CoV-2 fitness
+  doi: https://doi.org/10.1038/s41586-020-2895-3
+  ref 'Plante_et_al_10_26_2020
+    head =  We engineered the spike D614G substitution in the USA-WA1/2020 SARS-CoV-2 strain, and found that it enhances viral replication in human lung epithelial cells and primary human airway tissues by increasing the infectivity and stability of virions.
+
+    > Abstract
+      The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein substitution D614G became dominant during the coronavirus disease 2019 (COVID-19) pandemic1,2. However, the effect of this variant on viral spread and vaccine efficacy remains to be defined. Here we engineered the spike D614G substitution in the USA-WA1/2020 SARS-CoV-2 strain, and found that it enhances viral replication in human lung epithelial cells and primary human airway tissues by increasing the infectivity and stability of virions. Hamsters infected with SARS-CoV-2 expressing spike(D614G) (G614 virus) produced higher infectious titres in nasal washes and the trachea, but not in the lungs, supporting clinical evidence showing that the mutation enhances viral loads in the upper respiratory tract of COVID-19 patients and may increase transmission. Sera from hamsters infected with D614 virus exhibit modestly higher neutralization titres against G614 virus than against D614 virus, suggesting that the mutation is unlikely to reduce the ability of vaccines in clinical trials to protect against COVID-19, and that therapeutic antibodies should be tested against the circulating G614 virus. Together with clinical findings, our work underscores the importance of this variant in viral spread and its implications for vaccine efficacy and antibody therapy.
+
+    - quotes
+      !a
+
+    / October, 2020 - Nature
+    quote !a = Sera from hamsters infected with D614 virus exhibit modestly higher neutralization titres against G614 virus than against D614 virus, suggesting that the mutation is unlikely to reduce the ability of vaccines in clinical trials to protect against COVID-19, and that therapeutic antibodies should be tested against the circulating G614 virus.
+
   // Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBIBP-CorV: a randomised, double-blind, placebo-controlled, phase 1/2 trial
   doi: https://doi.org/10.1016/S1473-3099(20)30831-8
   ref 'Xia_et_al_10_15_2020

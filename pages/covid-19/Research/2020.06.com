@@ -698,17 +698,19 @@ feed June2020
   // The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
   doi: https://doi.org/10.1101/2020.06.12.148726
   ref 'Zhang_et_al_06_12_2020
-    head = SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
+    head =  We therefore compared the functional properties of the S proteins with aspartic acid (SD614) and glycine (SG614) at residue 614.
+
 
     > Abstract
       SARS coronavirus 2 (SARS-CoV-2) isolates encoding a D614G mutation in the viral spike (S) protein predominate over time in locales where it is found, implying that this change enhances viral transmission. We therefore compared the functional properties of the S proteins with aspartic acid (SD614) and glycine (SG614) at residue 614. We observed that retroviruses pseudotyped with SG614 infected ACE2-expressing cells markedly more efficiently than those with SD614. This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. Similar results were obtained using the virus-like particles produced with SARS-CoV-2 M, N, E, and S proteins. However, SG614 did not bind ACE2 more efficiently than SD614, and the pseudoviruses containing these S proteins were neutralized with comparable efficiencies by convalescent plasma. These results show SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
 
     - quotes
+      !a
       !c
 
 
-    # / June, 2020 - bioRxiv
-    # quote !a = We observed that retroviruses pseudotyped with SG614 infected ACE2-expressing cells markedly more efficiently than those with SD614. This greater infectivity was correlated with less S1 shedding and greater incorporation of the S protein into the pseudovirion. Similar results were obtained using the virus-like particles produced with SARS-CoV-2 M, N, E, and S proteins.
+    / June, 2020 - bioRxiv
+    quote !a = SG614 is more stable than SD614, consistent with epidemiological data suggesting that viruses with SG614 transmit more efficiently.
 
     # / June, 2020 - bioRxiv
     # quote !b = However, SG614 did not bind ACE2 more efficiently than SD614, and the pseudoviruses containing these S proteins were neutralized with comparable efficiencies by convalescent plasma.

@@ -1,6 +1,7 @@
 / September, 2020
 feed September2020
   -
+    'Ganneru_et_al_09_12_2020
     'Rajasingham_et_al_09_21_2020
     'Ladapo_et_al_09_30_2020
     'Benefield_et_al_09_30_2020
@@ -12,6 +13,25 @@ feed September2020
     'Laxminarayan_et_al_09_23_2020
 
   #
+
+  // Evaluating the effects of SARS-CoV-2 Spike mutation D614G on transmissibility and pathogenicity
+  doi: ttps://doi.org/10.1101/2020.07.31.20166082
+  ref 'Volz_et_al_09_01_2020
+    head = We investigate the hypothesis for positive selection of Spike 614G at the level of an individual country, the United Kingdom, using more than 25,000 whole genome SARS-CoV-2 sequences collected by COVID-19 Genomics UK Consortium. We also investigate the potential influence of Spike 614D versus G on virulence by matching a subset of records to clinical data on patient outcomes.
+
+    > Abstract
+      In February 2020 a substitution at the interface between SARS-CoV-2 Spike protein subunits, Spike D614G, was observed in public databases. The Spike 614G variant subsequently increased in frequency in many locations throughout the world. Global patterns of dispersal of Spike 614G are suggestive of a selective advantage of this variant, however the origin of Spike 614G is associated with early colonization events in Europe and subsequent radiations to the rest of the world. Increasing frequency of 614G may therefore be due to a random founder effect. We investigate the hypothesis for positive selection of Spike 614G at the level of an individual country, the United Kingdom, using more than 25,000 whole genome SARS-CoV-2 sequences collected by COVID-19 Genomics UK Consortium. Using phylogenetic analysis, we identify Spike 614G and 614D clades with unique origins in the UK and from these we extrapolate and compare growth rates of co-circulating transmission clusters. We find that Spike 614G clusters are introduced in the UK later on average than 614D clusters and grow to larger size after adjusting for time of introduction. Phylodynamic analysis does not show a significant increase in growth rates for clusters with the 614G variant, but population genetic modelling indicates that 614G increases in frequency relative to 614D in a manner consistent with a selective advantage. We also investigate the potential influence of Spike 614D versus G on virulence by matching a subset of records to clinical data on patient outcomes. We do not find any indication that patients infected with the Spike 614G variant have higher COVID-19 mortality, but younger patients have slightly increased odds of 614G carriage. Despite the availability of a very large data set, well represented by both Spike 614 variants, not all approaches showed a conclusive signal of higher transmission rate for 614G, but significant differences in growth, size, and composition of these lineages indicate a need for continued study.
+
+    - quotes
+      !a
+      !b
+
+    / September, 2020 - bioRxiv
+    quote !a = We find that Spike 614G clusters are introduced in the UK later on average than 614D clusters and grow to larger size after adjusting for time of introduction.
+
+    / September, 2020 - bioRxiv
+    quote !b = We do not find any indication that patients infected with the Spike 614G variant have higher COVID-19 mortality, but younger patients have slightly increased odds of 614G carriage.
+
 
   // Evaluation of Safety and Immunogenicity of an Adjuvanted, TH-1 Skewed, Whole Virion InactivatedSARS-CoV-2 Vaccine - BBV152
   doi: https://doi.org/10.1101/2020.09.09.285445
@@ -44,12 +64,38 @@ feed September2020
     - quotes
       !a
       !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
 
     / September, 2020 - Cell
-    quote !a = D614G did not alter S protein synthesis, processing, or incorporation into SARS-CoV-2 particles, but D614G affinity for ACE2 was reduced due to a faster dissociation rate.
+    quote !a = The SARS-CoV-2 D614G S protein variant supplanted the ancestral virus
 
     / September, 2020 - Cell
-    quote !b =  D614G confers a replication advantage to SARS-CoV-2, such that it increases the likelihood of human-to-human transmission.
+    quote !b =  The SARS-CoV-2 D614G S protein variant increases infectivity in cell culture
+
+    / September, 2020 - Cell
+    quote !c = D614G increases infectivity on target cells bearing different ACE2 orthologs (pangolin, pig, cat, or dog)
+
+    / September, 2020 - Cell
+    quote !d = D614G does not alter S protein synthesis, processing, and incorporation into SARS-CoV-2 particles
+
+    / September, 2020 - Cell
+    quote !e = D614G decreases the affinity for ACE2 by increasing the rate of dissociation
+
+    / September, 2020 - Cell
+    quote !f = D614G and the ancestral S protein are equally sensitive to neutralization by monoclonal antibodies targeting the receptor binding domain
+
+    / September, 2020 - Cell
+    quote !g = D614G changes the conformation of the S1 domain in the SARS-CoV-2 S protein
+
+    / September, 2020 - Cell
+    quote !h = D614G shifts the probability that SARS-CoV-2 S protein trimers occupy open conformations
+
+
 
   # Outbreak
   // Epidemiology and transmission dynamics of COVID-19 in two Indian states

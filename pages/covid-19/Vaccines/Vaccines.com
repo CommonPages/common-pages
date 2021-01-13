@@ -13,6 +13,9 @@ subject module Vaccines
     ?AntigenExposure
     ?EpigeneticChange
 
+  -
+    Triage  
+
   / Approved Vaccines
   subject Approved
     head = To date there are eight COVID-19 vaccines that have been approved for emergency use. Approvals vary by country and vaccine availability is low. The vaccines have been approved on the basis of efficacy and acceptable safety profiles, though none have completed clinical trials.
@@ -250,8 +253,8 @@ subject module Vaccines
           'FDA_et_al_12_17_2020.!f
           'FDA_et_al_12_17_2020.!g
         -
-          'Baden_et_al_02_20_2020
-          'Baden_et_al_02_20_2020.!a
+          'Baden_et_al_12_30_2020
+          'Baden_et_al_12_30_2020.!a
 
     / Oxford–AstraZeneca
     subject AZD1222

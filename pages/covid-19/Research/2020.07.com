@@ -17,6 +17,21 @@ feed July2020
 
   #
 
+  // The Spike D614G mutation increases SARS-CoV-2 infection of multiple human cell types
+  doi: https://doi.org/10.1101/2020.06.14.151357
+  ref 'Daniloski_et_al_07_07_2020
+    head = We perform site-directed mutagenesis to introduce the D614G variant and show that in multiple cell lines, including human lung epithelial cells, that the D614G mutation is up to 8-fold more effective at transducing cells than wild-type. We demonstrate increased infection using both Spike-pseudotyped lentivirus and intact SARS-CoV-2 virus.
+
+    > Abstract
+      A novel isolate of the SARS-CoV-2 virus carrying a point mutation in the Spike protein (D614G) has recently emerged and rapidly surpassed others in prevalence. This mutation is in linkage disequilibrium with an ORF1b protein variant (P314L), making it difficult to discern the functional significance of the Spike D614G mutation from population genetics alone. Here, we perform site-directed mutagenesis to introduce the D614G variant and show that in multiple cell lines, including human lung epithelial cells, that the D614G mutation is up to 8-fold more effective at transducing cells than wild-type. We demonstrate increased infection using both Spike-pseudotyped lentivirus and intact SARS-CoV-2 virus. Although there is minimal difference in ACE2 receptor binding between the Spike variants, we show that the G614 variant is more resistant to proteolytic cleavage in vitro and in human cells, suggesting a possible mechanism for the increased transduction. This result has important implications for the efficacy of Spike-based vaccines currently under development in protecting against this recent and highly-prevalent SARS-CoV-2 isolate.
+
+    - quotes
+      !a
+
+    / July, 2020 - bioRxiv
+    quote !a = G614 Spike is more resistant to proteolytic cleavage during production of the protein in host cells, suggesting that replicated virus produced in human cells may be more infectious due to a greater proportion of functional (uncleaved) Spike protein per virion.
+
+
   // D614G Spike Variant Does Not Alter IgG, IgM, or IgA Spike Seroassay Performance
   doi: https://dx.doi.org/10.1101%2F2020.07.08.20147371
   ref 'Klumpp-Thomas_et_al_07_10_2020

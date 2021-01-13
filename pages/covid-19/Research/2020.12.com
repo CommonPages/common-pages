@@ -1,16 +1,50 @@
 feed December2020
 
   -
+    'Weissman_et_al_12_01_2020
     'Ella_et_al_12_22_2020
     'Ella_et_al_02_20_2020
     'Mathavan_et_al_12_27_2020
     'Hanrath_et_al_12_26_2020
-    'Baden_et_al_02_20_2020
+    'Baden_et_al_12_30_2020
     'Mitze_et_al_12_3_2020
     'FDA_et_al_12_17_2020
 
 
   #
+
+  // SARS-CoV-2 D614G variant exhibits efficient replication ex vivo and transmission in vivo
+  doi: https://doi.org/10.1126/science.abe8499
+  ref 'Hou_et_al_12_18_2020
+    head = The spike aspartic acid–614 to glycine (D614G) substitution is prevalent in global severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) strains, but its effects on viral pathogenesis and transmissibility remain unclear. We engineered a SARS-CoV-2 variant containing this substitution.
+
+    > Abstract
+      The spike aspartic acid–614 to glycine (D614G) substitution is prevalent in global severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) strains, but its effects on viral pathogenesis and transmissibility remain unclear. We engineered a SARS-CoV-2 variant containing this substitution. The variant exhibits more efficient infection, replication, and competitive fitness in primary human airway epithelial cells but maintains similar morphology and in vitro neutralization properties, compared with the ancestral wild-type virus. Infection of human angiotensin-converting enzyme 2 (ACE2) transgenic mice and Syrian hamsters with both viruses resulted in similar viral titers in respiratory tissues and pulmonary disease. However, the D614G variant transmits significantly faster and displayed increased competitive fitness than the wild-type virus in hamsters. These data show that the D614G substitution enhances SARS-CoV-2 infectivity, competitive fitness, and transmission in primary human cells and animal models.
+
+    - quotes
+      !a
+
+    / December, 2020 - Science
+    quote !a = D614G substitution enhances SARS-CoV-2 infectivity, competitive fitness, and transmission in primary human cells and animal models.
+
+
+  // D614G Spike Mutation Increases SARS CoV-2 Susceptibility to Neutralization
+  doi: https://www.sciencedirect.com/science/article/pii/S193131282030634X
+  ref 'Weissman_et_al_12_01_2020
+    head = To determine whether D614G might also mediate neutralization escape that could compromise vaccine efficacy, sera from spike-immunized mice, nonhuman primates, and humans were evaluated for neutralization of pseudoviruses bearing either D614 or G614 spike.
+
+    > Abstract
+      The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein acquired a D614G mutation early in the pandemic that confers greater infectivity and is now the globally dominant form. To determine whether D614G might also mediate neutralization escape that could compromise vaccine efficacy, sera from spike-immunized mice, nonhuman primates, and humans were evaluated for neutralization of pseudoviruses bearing either D614 or G614 spike. In all cases, the G614 pseudovirus was moderately more susceptible to neutralization. The G614 pseudovirus also was more susceptible to neutralization by receptor-binding domain (RBD) monoclonal antibodies and convalescent sera from people infected with either form of the virus. Negative stain electron microscopy revealed a higher percentage of the 1-RBD “up” conformation in the G614 spike, suggesting increased epitope exposure as a mechanism of enhanced vulnerability to neutralization. Based on these findings, the D614G mutation is not expected to be an obstacle for current vaccine development.
+
+    - quotes
+      !a
+      !b
+
+    / December, 2020 - Cell
+    quote !a = G614 pseudovirus was moderately more susceptible to neutralization. The G614 pseudovirus also was more susceptible to neutralization by receptor-binding domain (RBD) monoclonal antibodies and convalescent sera from people infected with either form of the virus.
+
+    / December, 2020 - Cell
+    quote !b = D614G mutation is not expected to be an obstacle for current vaccine development.
 
   // A single intranasal or intramuscular immunization with chimpanzee adenovirus vectored SARS-CoV-2 vaccine protects against pneumonia in hamsters
   doi: https://doi.org/10.1101/2020.12.02.408823
@@ -150,7 +184,7 @@ feed December2020
 
   // Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine
   doi: https://doi.org/10.1056/NEJMoa2035389
-  ref 'Baden_et_al_02_20_2020
+  ref 'Baden_et_al_12_30_2020
     head = This phase 3 randomized, observer-blinded, placebo-controlled trial was conducted at 99 centers across the United States. Persons at high risk for SARS-CoV-2 infection or its complications were randomly assigned in a 1:1 ratio to receive two intramuscular injections of mRNA-1273 (100 μg) or placebo 28 days apart.
 
     > BACKGROUND
