@@ -1,9 +1,56 @@
 feed Jan2021
 
   -
+    'Xie_et_al_01_07_2021
     'Pilotto_et_al_01_02_2021
 
   #
+
+  // Genomic characterisation of an emergent SARS-CoV-2 lineage in Manaus: preliminary findings
+  doi: https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586
+  ref 'Faria_et_al_01_12_2021
+    head = We have detected a new variant circulating in December in Manaus, Amazonas state, north Brazil, where very high attack rates have been estimated previously. Here we provide a preliminary phylogenetic description and explain the nomenclature designation for this recently-detected lineage.
+
+    > Summary
+      We have detected a new variant circulating in December in Manaus, Amazonas state, north Brazil, where very high attack rates have been estimated previously. The new lineage, named P.1 (descendent of B.1.1.28), contains a unique constellation of lineage defining mutations, including several mutations of known biological importance such as E484K, K417T, and N501Y. Importantly, the P.1 lineage was identified in 42% (13 out of 31) RT-PCR positive samples collected between 15 to 23 December, but it was absent in 26 publicly available genome surveillance samples collected in Manaus between March to November 2020. These findings indicate local transmission and possibly recent increase in the frequency of a new lineage from the Amazon region. The higher diversity and the earlier sampling dates of P.1. in Manaus corroborates the travel info of recently detected cases in Japan, suggesting the direction of travel was Manaus to Japan. The recent emergence of variants with multiple shared mutations in spike raises concern about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection of individuals.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / January, 2021 - Virological.org
+    quote !a = The new lineage, named P.1 (descendent of B.1.1.28), contains a unique constellation of lineage defining mutations, including several mutations of known biological importance such as E484K, K417T, and N501Y.
+
+    / January, 2021 - Virological.org
+    quote !b = The new P.1 lineage carries 17 unique amino acid changes, 3 deletions, and 4 synonymous mutations, and one 4nt insertion compared to the most closely related available non-P.1 sequence (EPI_ISL_722052), which lies at the base of the long branch immediately ancestral to P.1.
+
+    / January, 2021 - Virological.org
+    quote !c = The P.1 lineage meets the criteria for new lineage designation on the basis that it is phylogenetically and genetically distinct from ancestral viruses, associated with rapid spread in a new area, and carries a constellation of mutations that may have functional and/or phenotypic relevance
+
+    / January, 2021 - Virological.org
+    quote !d = The recent emergence of variants with multiple shared mutations in spike raises concern about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection of individuals.
+
+    / January, 2021 - Virological.org
+    quote !e = The P.1 lineage was identified in 42% (13 out of 31) RT-PCR positive samples collected between 15 to 23 December, but it was absent in 26 publicly available genome surveillance samples collected in Manaus between March to November 2020. These findings indicate local transmission and possibly recent increase in the frequency of a new lineage from the Amazon region.
+
+    / January, 2021 - Virological.org
+    quote !f = The newly described P.1. lineage from Manaus and the B.1.1.7 first described in the United Kingdom share the spike N501Y mutation and a deletion in ORF1b (del11288-11296 (3675-3677 SGF).
+
+    / January, 2021 - Virological.org
+    quote !g = The P.1. lineage and the B.1.351 (also known as 501Y.V2) lineage described in South Africa  share three mutation positions in common in the spike protein (K417N/T, E484K, N501Y). Both the P.1 and the B.1.351 lineage also has the orf1b deletion del11288-11296 (3675-3677 SGF).
+
+    / January, 2021 - Virological.org
+    quote !h = The set of mutations/deletions shared between P.1, B.1.1.7, and the B.1.351 lineages appear to have arisen entirely independently. Further, both mutations shared between P1 and B.1.351 seem to be associated with a rapid increase in cases in locations where previous attack rates are thought to be very high. Therefore it is essential to rapidly investigate whether there is an increased rate of re-infection in previously exposed individuals.
+
+    / January, 2021 - Virological.org
+    quote !i = The higher diversity and the earlier sampling dates of P.1. in Manaus corroborates the travel info of recently detected cases in Japan, suggesting the direction of travel was Manaus to Japan.
 
   // Neutralization of N501Y mutant SARS-CoV-2 by BNT162b2 vaccine-elicited sera
   doi: https://doi.org/10.1101/2021.01.07.425740

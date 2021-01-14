@@ -436,7 +436,7 @@ feed Sangeeta
 
   #
   // Confirmed Reinfection with SARS-CoV-2 Variant VOC-202012/01
-  doi: https://doi.org/10.1093/cid/ciab014
+  doi: https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab014/6076528
   ref 'Harrington_et_al_01_09_2021
     head = We have detected a confirmed case of reinfection with SARS-CoV-2 with the second episode due to the ‘new variant’ VOC-202012/01 of lineage B.1.1.7.
 
@@ -525,6 +525,9 @@ feed Sangeeta
   doi: https://doi.org/10.1016/j.cell.2020.08.012
   ref 'Starr_et_al_08_11_2020
     head = We experimentally measure/ characterise how all amino acid mutations to the RBD affect expression of folded protein and its affinity for ACE2, two key factors for viral fitness.
+
+    > Abstract
+      The receptor binding domain (RBD) of the SARS-CoV-2 spike glycoprotein mediates viral attachment to ACE2 receptor and is a major determinant of host range and a dominant target of neutralizing antibodies. Here, we experimentally measure how all amino acid mutations to the RBD affect expression of folded protein and its affinity for ACE2. Most mutations are deleterious for RBD expression and ACE2 binding, and we identify constrained regions on the RBD’s surface that may be desirable targets for vaccines and antibody-based therapeutics. But a substantial number of mutations are well tolerated or even enhance ACE2 binding, including at ACE2 interface residues that vary across SARS-related coronaviruses. However, we find no evidence that these ACE2-affinity-enhancing mutations have been selected in current SARS-CoV-2 pandemic isolates. We present an interactive visualization and open analysis pipeline to facilitate use of our dataset for vaccine design and functional annotation of mutations observed during viral surveillance.
 
     - quotes
       !a

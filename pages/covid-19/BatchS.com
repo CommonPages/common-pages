@@ -79,7 +79,7 @@
     'Haynes_et_al_01_08_2021.!d
 
   >
-    There are some concerns about immune evasion by this new variant, which is a concern with the high number of spike region mutations seen.
+    A confirmed case of reinfection with SARS-CoV-2 with the second episode due to new variant B.1.1.7 was detected and caused a critical illness.
   -
     'Harrington_et_al_01_09_2021
     'Harrington_et_al_01_09_2021.!a
@@ -87,8 +87,7 @@
 
 
   >
-    We detected the UK variant #b117 in Swiss wastewater as early as December 9. Early detection of variants is another promising application of wastewater analysis during a pandemic!
-    The preliminary analysis of deep sequencing data from 48 community wastewater samples collected between July and December 2020 in Switzerland has identified several of the signature mutations that define the B.1.1.7 and 501.V2 lineage in several of the samples.
+    The preliminary analysis of wastewater samples collected between July and December 2020 in Switzerland has identified several of the signature mutations that define the B.1.1.7 and 501.V2 lineage in several of the samples.
   -
     'Jahn_et_al_01_09_2021
     'Jahn_et_al_01_09_2021.!a
@@ -141,7 +140,7 @@
     'Starr_et_al_08_11_2020.!c
     'Starr_et_al_08_11_2020.!f
   >
-    The open conformation of the 501Y spike protein [8] is associated with more efficient viral entry and infection.
+    The open conformation of the 501Y spike protein is associated with more efficient viral entry and infection.
   -
     'Teruel_et_al_12_17_2020
     'Teruel_et_al_12_17_2020.!a
@@ -160,7 +159,7 @@
     'Starr_et_al_08_11_2020
     'Starr_et_al_08_11_2020.!f
     'Starr_et_al_08_11_2020.!g
-    'Starr_et_al_08_11_2020.!h 
+    'Starr_et_al_08_11_2020.!h
     'Starr_et_al_08_11_2020.!i
 
 

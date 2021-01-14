@@ -541,6 +541,18 @@ subject module Virus
   subject Variants
     head =
 
+    -
+      D614
+      Mink
+      B117
+      B1351
+      P1Variant
+      ?Antibodies
+      ?Reinfection
+
+
+
+
     —
     / D614 & G614
     subject D614
@@ -635,7 +647,9 @@ subject module Virus
 
       >
         On 14 December 2020, variant referred as SARS-CoV-2 VOC 202012/01 (Variant of Concern, year 2020, month 12, variant 01) was identified in [United Kingdom](https://www.bmj.com/content/371/bmj.m4857). This variant is defined by a set of 17 changes or mutations. As of 30 December, VOC-202012/01 variant has been reported in 31 other countries/territories/areas in five of the six WHO regions.
-
+      -
+        !Switzerland
+        !Wales
       - Background
         !UKlineage
         !Phylogeny
@@ -645,24 +659,29 @@ subject module Virus
         !Transmission
       - Severity
         !Severity
-      - Mutation
-        !Mutation
-      >
-        Potential biological significance of mutations
-      - N501Y Mutation
-        !N501Y
-        !N501YK417N
-      - Deletion H69/V70
-        !DelH69V70
-        !Antibodyescape
-        !Antibodyresistance
-      - P681H Mutation
-        !P681HFurin
-      - Other claims
-        !Viralload
+      - Reinfection
+        !Reinfection
       - Vaccine related claims
         !Phase3trialConcern
         !Phizer
+        !VaccineEffectiveness
+      - Mutation
+        !Mutation
+      - Potential significance of N501Y Mutation
+        !N501Y
+        !N501YK417N
+        !EntryN501
+        !N501neutralization
+      - Potential significance of Deletion H69/V70
+        !DelH69V70
+        !Antibodyescape
+        !Antibodyresistance
+      - Potential significance of P681H Mutation
+        !P681HFurin
+      - Other claims
+        !Viralload
+      - Origin Theory
+        !Immunocompromised
 
       # When paper is out make counter for vaccine efficacy and increase reinfection risk - https://twitter.com/VirusesImmunity/status/1344391796214935560
 
@@ -690,6 +709,26 @@ subject module Virus
         -
           'Shen_et_al_03_09_2020
           'Shen_et_al_03_09_2020.!a
+
+      claim !Switzerland = The preliminary analysis of wastewater samples collected between July and December 2020 in Switzerland has identified several of the signature mutations that define the B.1.1.7 and 501.V2 lineage in several of the samples.
+        -
+          'Jahn_et_al_01_09_2021
+          'Jahn_et_al_01_09_2021.!a
+          'Jahn_et_al_01_09_2021.!b
+          'Jahn_et_al_01_09_2021.!c
+
+      claim !Wales = Phylogeny results of 501N, 501Y Variant 1 and 501Y Variant 2 (also named B.1.1.7) indicated that the recent 501Y strains in the UK, since August/September 2020, emerged from the 20B clade and formed two lineages. Both lineages have clear geographical separation in Wales vs England.
+        -
+          'Leung_et_al_12_28_2020
+          'Leung_et_al_12_28_2020.!a
+          'Leung_et_al_12_28_2020.!b
+          'Leung_et_al_12_28_2020.!c
+          'Leung_et_al_12_28_2020.!d
+          'Leung_et_al_12_28_2020.!e
+          'Leung_et_al_12_28_2020.!f
+          'Leung_et_al_12_28_2020.!g
+          'Leung_et_al_12_28_2020.!h
+          'Leung_et_al_12_28_2020.!i
 
 
       claim !Growthrate = Studies have estimated that SARS-CoV-2 VOC 202012/01 has increased transmissibility and this variant could be about 50 to 70 percent more transmissible than pre-existing variants.
@@ -767,6 +806,18 @@ subject module Virus
           'Mathavan_et_al_12_27_2020.!a
 
 
+      claim !N501neutralization = One study reports that N501Y mutation present is unlikely to greatly affect neutralization by most human sera, although it could contribute to increased viral titer or enhanced transmissibility.
+        -
+          'Greaney_et_al_01_04_2021
+          'Greaney_et_al_01_04_2021.!i
+
+      claim !EntryN501 = The open conformation of the 501Y spike protein is associated with more efficient viral entry and infection.
+        -
+          'Teruel_et_al_12_17_2020
+          'Teruel_et_al_12_17_2020.!a
+          'Teruel_et_al_12_17_2020.!b
+
+
       claim !DelH69V70 = The deletion of two amino acids at positions 69-70 in spike has arisen in multiple independent circulating lineages of SARS-CoV-2. The delH69/V70 enhances viral infectivity and transmissibility. Such mutations have the potential to enhance the ability of SARS-CoV-2 to generate vaccine escape variants that would have otherwise significantly reduced viral fitness.
 
         claim !H6970prevalence = Lineages of SARS-CoV-2 variants bearing a Spike deletion H69/V70 has been rising in parts of Europe, with greatest increase since August 2020. H69/V70, often co-occurs with the receptor binding motif which has been shown to increase affinity of hACE2. Sub lineage with same deleted region (H69/V70) was also observed in human-mink transmission in Denmark.
@@ -841,48 +892,27 @@ subject module Virus
           'McCarthy_et_al_11_19_2020
           'McCarthy_et_al_11_19_2020.!c
 
-      claim !Phizer = While Phizer had equivalent neutralizing titers to the N501 and Y501 viruses.
+      claim !Phizer = One study reported that the phizer covid vaccine (BNT162b2) had equivalent neutralizing titers to the N501 and Y501 viruses, which are key mutational site for UK and South Africa Variant.
         -
           'Xie_et_al_01_07_2021
           'Xie_et_al_01_07_2021.!a
 
-    / B.1.351 South Africa Variant
-    subject B1351
-      head = On 18 December B.1.351 variant was reported to spread in South Africa. This lineage has multiple spike mutation and is associated with increased transmissibility. As of 30 December, this variant has been reported from four other countries to date.
-
-      >
-        On 18 December, national authorities in South Africa announced the detection of a new variant of SARS-CoV-2 that is rapidly spreading in three provinces of South Africa. South Africa has named this variant 501Y.V2, because of a N501Y mutation. While SARS-CoV-2 B.1.1.7 from the UK also has the N501Y mutation, [phylogenetic analysis](https://nextstrain.org/sars-cov-2/) has shown that B.1.351 from South Africa are different virus variants. As of 30 December, the B.1.351 variant from South Africa has been reported from four other countries to date.
-
-      -
-        !Transmission
-      -
-        !Mutation
-      >
-        The SA variant and the UK {Virus.Variants.B117 mutation}, both share the same {Virus.Variants.B117.!Mutation variant} in spike: N501Y (N->Y at position 501), but the SA variant does not have the 69/70 deletion. [Phylogenetic analysis](https://nextstrain.org/sars-cov-2/) shows that these 2 variants have arisen separately.
-
-      - Potential biologic significance of N501Y Mutation
-        Variants.B117.!N501Y
-        Variants.B117.!N501YK417N
-
-
-      claim !Mutation = This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM).
+      claim !VaccineEffectiveness = One study showed that the mutations seen in the B.1.1.7 would not result in loss of dominant antibody responses suggesting that there is no evidence as such the current vaccines won’t be effective against B.1.1.7
         -
-          'Tegally_et_al_12_22_2020
-          'Tegally_et_al_12_22_2020.!b
+          'Haynes_et_al_01_08_2021
+          'Haynes_et_al_01_08_2021.!a
+          'Haynes_et_al_01_08_2021.!b
+          'Haynes_et_al_01_08_2021.!c
+          'Haynes_et_al_01_08_2021.!d
 
-      claim !Transmission = Preliminary studies suggest the variant is associated with increased transmissibility.
+
+      claim !Reinfection = A confirmed case of reinfection with SARS-CoV-2 with the second episode due to new variant B.1.1.7 was detected and caused a critical illness.
         -
-          'Tegally_et_al_12_22_2020
-          'Tegally_et_al_12_22_2020.!a
+          'Harrington_et_al_01_09_2021
+          'Harrington_et_al_01_09_2021.!a
+          'Harrington_et_al_01_09_2021.!b
 
-
-
-
-      # CALL N501Y
-
-    / Origin of UK and South Africa Variant
-    subject Origin
-      head = Though, both the ‘B.1.1.7 UK variants & B.1.351 South Africa Variant’ represent unique combinations of mutations / deletions that have rarely been observed before scientists speculate that the two lineages may have acquired those during a persistent infection in an immunocompromised patient.
+      # Though, both the ‘B.1.1.7 UK variants & B.1.351 South Africa Variant’ represent unique combinations of mutations / deletions that have rarely been observed before scientists speculate that the two lineages may have acquired those during a persistent infection in an immunocompromised patient.
 
       claim !Immunocompromised = Researchers speculate that long chronic infection in immunodeficient or immunosuppressed patients individuals played a role in the origins of the B.1.1.7 variant, though this still remains a hypothesis.
 
@@ -899,6 +929,88 @@ subject module Virus
             'Kemp_et_al_12_29_2020
             'Kemp_et_al_12_29_2020.!e
             'Kemp_et_al_12_29_2020.!a
+
+    / B.1.351 South Africa Variant
+    subject B1351
+      head = On 18 December B.1.351 variant was reported to spread in South Africa. This lineage has multiple spike mutation and is associated with increased transmissibility. As of 30 December, this variant has been reported from four other countries to date.
+
+      >
+        On 18 December, national authorities in South Africa announced the detection of a new variant of SARS-CoV-2 that is rapidly spreading in three provinces of South Africa. South Africa has named this variant 501Y.V2, because of a N501Y mutation. While SARS-CoV-2 B.1.1.7 from the UK also has the N501Y mutation, [phylogenetic analysis](https://nextstrain.org/sars-cov-2/) has shown that B.1.351 from South Africa are different virus variants. As of 30 December, the B.1.351 variant from South Africa has been reported from four other countries to date.
+
+      -
+        !Transmission
+      -
+        !Mutation
+        !E484K
+      >
+        The SA variant and the UK {Virus.Variants.B117 mutation}, both share the same {Virus.Variants.B117.!Mutation variant} in spike: N501Y (N->Y at position 501), but the SA variant does not have the 69/70 deletion. [Phylogenetic analysis](https://nextstrain.org/sars-cov-2/) shows that these 2 variants have arisen separately.
+
+      - Potential biologic significance of N501Y Mutation
+        Variants.B117.!N501Y
+        Variants.B117.!N501YK417N
+        Variants.B117.!N501neutralization
+        Variants.B117.!EntryN501
+
+      - Potential Significance of E484K mutation
+        !E484
+        !AntibodiesE484k
+
+      claim !Mutation = This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM).
+        -
+          'Tegally_et_al_12_22_2020
+          'Tegally_et_al_12_22_2020.!b
+
+      claim !E484K = E484K is present in recently described lineages in South Africa (S.501Y.V2) and Brazil (descended from the B.1.1.28 lineage)
+        -
+          'Voloch_et_al_12_26_2020
+          'Voloch_et_al_12_26_2020.!a
+          'Voloch_et_al_12_26_2020.!b
+
+      claim !E484 = One study reports that the mutations at site E484 (usually occur at just a few sites in the RBD’s receptor binding motif) have been found to reduce antibody binding.
+        -
+          'Greaney_et_al_01_04_2021
+          'Greaney_et_al_01_04_2021.!a
+          'Greaney_et_al_01_04_2021.!b
+          'Greaney_et_al_01_04_2021.!c
+          'Greaney_et_al_01_04_2021.!d
+
+      claim !AntibodiesE484k = Emerging lineages in South Africa and Brazil carrying the E484K mutation will have greatly reduced susceptibility to neutralization by the polyclonal serum antibodies of some individuals.
+        -
+          'Greaney_et_al_01_04_2021
+          'Greaney_et_al_01_04_2021.!h
+
+
+      claim !Transmission = Preliminary studies suggest the variant is associated with increased transmissibility.
+        -
+          'Tegally_et_al_12_22_2020
+          'Tegally_et_al_12_22_2020.!a
+
+
+
+
+      # CALL N501Y
+
+    / P1 Brazil Variant
+    subject P1Variant
+      head = A new cluster, named P.1 lineage, comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil detected in mid/late-December. This variant contains multiple shared mutations in spike raising concern about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection of individuals.
+
+      -
+        'Faria_et_al_01_12_2021
+        'Faria_et_al_01_12_2021.!a
+        'Faria_et_al_01_12_2021.!b
+        'Faria_et_al_01_12_2021.!c
+        'Faria_et_al_01_12_2021.!d
+        'Faria_et_al_01_12_2021.!e
+        'Faria_et_al_01_12_2021.!f
+        'Faria_et_al_01_12_2021.!g
+        'Faria_et_al_01_12_2021.!h
+        'Faria_et_al_01_12_2021.!i
+
+    question ?Antibodies = Whether these mutations render preexisting antibodies ineffective has become a public concern as it could result in reinfection or loss of efficacy against vaccination?
+
+    question ?Reinfection = To what extent a person infected by one strain is protected against infection of another strain?
+
+
 
 
 
