@@ -3,7 +3,7 @@ feed November2020
 
 
   #
-  
+
 
   // SARS-CoV-2 spike-protein D614G mutation increases virion spike density and infectivity
   doi: https://doi.org/10.1038/s41467-020-19808-4

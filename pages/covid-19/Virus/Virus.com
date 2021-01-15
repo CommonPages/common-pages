@@ -551,39 +551,92 @@ subject module Virus
       ?Reinfection
 
 
-
-
-    —
     / D614 & G614
     subject D614
-      head =  The D614G mutation in the spike glycoprotein of SARS-CoV-2 was identified early in early March 2020. In July 2020, scientists report that a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
-      -
-        'Korber_et_al_07_03_2020
+      head = The D614G mutation in the spike glycoprotein of SARS-CoV-2 was identified early in early March 2020. By July 2020, a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic. Variant has increased transmissibility.
 
-      >
-        D614 may increase infectivity
-      -
-        'Zhang_et_al_11_26_2020
-        'Zhang_et_al_11_26_2020.!a
-        'Zhang_et_al_11_26_2020.!b
+      - Spread
+        !Timeline
+        !SpreadUK
+      - Transmission and Replication
+        !Transmission
+        !Replication
+      - Animal Studies
+        !AnimalStudies
+        !AnimalStudies2
+      - Infectivity and Fitness
+        !Sprotien
+        !Fitness
+      - Antibodies
+        !Antibodies
+      - Vaccine
+        !Vaccine
+        !VaccineDevelopment
 
-      >
-        Increased Replication, Transmission however not severity (no evidence for a phenotypic change in pathogenicity in an animal model)
-      -
-        'Zhou_et_al_10_27_2020
-        'Zhou_et_al_10_27_2020.!a
-        'Zhou_et_al_10_27_2020.!b
-        'Zhou_et_al_10_27_2020.!c
-        'Zhou_et_al_10_27_2020.!d
 
-      >
-        Patients have humoral immunity that can respond against both variants.
-      -
-        'Klumpp-Thomas_et_al_07_10_2020
-        'Klumpp-Thomas_et_al_07_10_2020.!a
+      claim !Timeline = The D614G mutation in the spike glycoprotein of SARS-CoV-2 was identified early in early March 2020. By July 2020, a more infectious SARS-CoV-2 variant with spike protein variant G614 has replaced D614 as the dominant form in the pandemic.
+        -
+          'Korber_et_al_07_03_2020
 
-      # Structural and Functional Findings about the variant
-      -
+      claim !SpreadUK =  Spike 614G clusters are introduced in the UK later on average than 614D clusters and grow to larger size.
+        -
+          'Volz_et_al_09_01_2020
+          'Volz_et_al_09_01_2020.!a
+          'Volz_et_al_09_01_2020.!b
+
+      claim !Transmission = One study reports that SG614 is more stable than SD614. SG614 transmit more efficiently.
+        -
+          'Zhang_et_al_06_12_2020
+          'Zhang_et_al_06_12_2020.!a
+
+      claim !Replication = G614 Spike is more resistant to proteolytic cleavage suggesting that replicated virus produced in human cells may be more infectious.
+        -
+          'Daniloski_et_al_07_07_2020
+          'Daniloski_et_al_07_07_2020.!a
+
+      claim !AnimalStudies = One study in animal model shows that S614G variant has enhanced binding to human ACE2, increased replication in primary human bronchial and nasal airway epithelial cultures,and shows increased replication and transmissibility in hamster and ferret models of SARS-CoV-2 infection.
+        -
+          'Zhou_et_al_10_27_2020
+          'Zhou_et_al_10_27_2020.!a
+          'Zhou_et_al_10_27_2020.!b
+          'Zhou_et_al_10_27_2020.!c
+
+      claim !AnimalStudies2 = Same study also reports that there is no evidence for a phenotypic change in pathogenicity in an animal model.
+        -
+          'Zhou_et_al_10_27_2020
+          'Zhou_et_al_10_27_2020.!d
+
+      claim !Sprotien = D614G may increase infectivity by assembling more functional S protein into the virion. D614G also enhances functional S-protein incorporation into SARS-CoV-2 VLP (virus-like particles) and retroviral PV(pseudoviruse) and increases PV(pseudoviruse) infectivity.
+        -
+          'Zhang_et_al_11_26_2020
+          'Zhang_et_al_11_26_2020.!a
+          'Zhang_et_al_11_26_2020.!b
+
+      claim !Antibodies = One serological study in new york reports that patients who have been exposed to either SARS-CoV-2 variant (G614 or D614) have humoral immunity that can respond against both variants.
+        -
+          'Klumpp-Thomas_et_al_07_10_2020
+          'Klumpp-Thomas_et_al_07_10_2020.!a
+
+      claim !Fitness = D614G substitution enhances SARS-CoV-2 infectivity, competitive fitness, and transmission in primary human cells and animal models.
+        -
+          'Hou_et_al_12_18_2020
+          'Hou_et_al_12_18_2020.!a
+
+      claim !Vaccine = Mutation is unlikely to reduce the ability of vaccines in clinical trials to protect against COVID-19
+        -
+          'Plante_et_al_10_26_2020
+          'Plante_et_al_10_26_2020.!a
+        -
+          'McAuley_et_al_10_08_2020
+          'McAuley_et_al_10_08_2020.!a
+
+      claim !VaccineDevelopment = D614G mutation is not expected to be an obstacle for current vaccine development.
+        -
+          'Weissman_et_al_12_01_2020
+          'Weissman_et_al_12_01_2020.!a
+          'Weissman_et_al_12_01_2020.!b
+
+      - Structural and Functional Findings (Triage)
         'Yurkovetskiy_et_al_09_15_2020
         'Yurkovetskiy_et_al_09_15_2020.!a
         'Yurkovetskiy_et_al_09_15_2020.!b
@@ -593,49 +646,6 @@ subject module Virus
         'Yurkovetskiy_et_al_09_15_2020.!f
         'Yurkovetskiy_et_al_09_15_2020.!g
         'Yurkovetskiy_et_al_09_15_2020.!h
-
-
-      >
-        Spike 614G clusters are introduced in the UK later on average than 614D clusters and grow to larger size.
-      -
-        'Volz_et_al_09_01_2020
-        'Volz_et_al_09_01_2020.!a
-        'Volz_et_al_09_01_2020.!b
-      >
-        SG614 is more stable than SD614. SG614 transmit more efficiently.
-      -
-        'Zhang_et_al_06_12_2020
-        'Zhang_et_al_06_12_2020.!a
-
-      >
-        G614 Spike is more resistant to proteolytic cleavage suggesting that replicated virus produced in human cells may be more infectious.
-      -
-        'Daniloski_et_al_07_07_2020
-        'Daniloski_et_al_07_07_2020.!a
-
-
-
-      >
-        D614G substitution enhances SARS-CoV-2 infectivity, competitive fitness, and transmission in primary human cells and animal models.
-      -
-        'Hou_et_al_12_18_2020
-        'Hou_et_al_12_18_2020.!a
-
-      >
-        D614G mutation is not expected to be an obstacle for current vaccine development.
-      -
-        'Weissman_et_al_12_01_2020
-        'Weissman_et_al_12_01_2020.!a
-        'Weissman_et_al_12_01_2020.!b
-
-      >
-        Mutation is unlikely to reduce the ability of vaccines in clinical trials to protect against COVID-19
-      -
-        'Plante_et_al_10_26_2020
-        'Plante_et_al_10_26_2020.!a
-      -
-        'McAuley_et_al_10_08_2020
-        'McAuley_et_al_10_08_2020.!a
 
     —
     / Mink Variant

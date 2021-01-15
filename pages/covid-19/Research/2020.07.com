@@ -100,16 +100,20 @@ feed July2020
   // Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus
   doi: https://dx.doi.org/10.1016%2Fj.cell.2020.06.043
   ref 'Korber_et_al_07_03_2020
-    head = Dynamic tracking of variant frequencies revealed a recurrent pattern of G614 increase at multiple geographic levels. The shift occurred even in local epidemics where the original D614 form was well established prior to introduction of the G614 variant. G614 variant may have a fitness advantage. G614 variant grows to a higher titer as pseudotyped virions.
+    head = A SARS-CoV-2 variant carrying the Spike protein amino acid change D614G has become the most prevalent form in the global pandemic. Dynamic tracking of variant frequencies revealed a recurrent pattern of G614 increase at multiple geographic levels: national, regional, and municipal.
 
     > Abstract
       A SARS-CoV-2 variant carrying the Spike protein amino acid change D614G has become the most prevalent form in the global pandemic. Dynamic tracking of variant frequencies revealed a recurrent pattern of G614 increase at multiple geographic levels: national, regional, and municipal. The shift occurred even in local epidemics where the original D614 form was well established prior to introduction of the G614 variant. The consistency of this pattern was highly statistically significant, suggesting that the G614 variant may have a fitness advantage. We found that the G614 variant grows to a higher titer as pseudotyped virions. In infected individuals, G614 is associated with lower RT-PCR cycle thresholds, suggestive of higher upper respiratory tract viral loads, but not with increased disease severity. These findings illuminate changes important for a mechanistic understanding of the virus and support continuing surveillance of Spike mutations to aid with development of immunological interventions.
 
     - quotes
       !a
+      !b
 
     / July, 2020 - Cell
-    quote !a = G614 is associated with lower RT-PCR cycle thresholds, suggestive of higher upper respiratory tract viral loads, but not with increased disease severity.
+    quote !a =  G614 variant may have a fitness advantage. G614 variant grows to a higher titer as pseudotyped virions.
+
+    / July, 2020 - Cell
+    quote !b = G614 is associated with lower RT-PCR cycle thresholds, suggestive of higher upper respiratory tract viral loads, but not with increased disease severity.
 
   # Filtration, Respirators,  mask, design,
   // Using surgical wrapping material for the fabrication of respirator masks
