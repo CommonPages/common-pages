@@ -1338,6 +1338,7 @@ feed March2020
 
 
   # Tag - immunology, clinical treatment frontiers, homeostasis of the immune system.
+  @@YongZheng
   // Elevated exhaustion levels and reduced functional diversity of T cells in peripheral blood may predict severe progression in COVID-19 patients
   doi: https://doi.org/10.1038/s41423-020-0401-3
   ref 'Zheng_et_al_2020b

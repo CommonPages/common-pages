@@ -1566,6 +1566,7 @@ feed May2020
 
 
   # interferon, virus-host interactions, chemokines, IL6, frontiers
+  @@RandyAlbrecht
   // Imbalanced Host Response to SARS-CoV-2 Drives Development of COVID-19
   doi: https://doi.org/10.1016/j.cell.2020.04.026
   ref 'Melo_et_al_05_15_2020
@@ -1602,6 +1603,7 @@ feed May2020
 
 
   # Frontiers, immune system
+  @@FengyuHu
   // Pathological inflammation in patients with COVID-19: a key role for monocytes and macrophages
   doi: https://doi.org/10.1080/22221751.2020.1732837
   ref 'Merad_et_al_05_06_2020
@@ -2931,6 +2933,7 @@ feed May2020
 
 
   # Immune Response - Drug Frontiers
+  @@KonstantinSparrer
   // Structural basis for translational shutdown and immune evasion by the Nsp1 protein of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.05.18.102467
   ref 'Thoms_et_al_05_18_2020
@@ -3086,6 +3089,7 @@ feed May2020
 
 
   # Immune Response - !a - Frontiers Antiviral
+  @@MehulSuthar
   // Type I and Type III IFN Restrict SARS-CoV-2 Infection of Human Airway Epithelial Cultures
   doi: https://doi.org/10.1101/2020.05.19.105437
   ref 'Vanderheiden_et_al_05_20_2020
@@ -3161,6 +3165,7 @@ feed May2020
 
 
   # Immune Response
+  @@MichaelBetts
   // Deep immune profiling of COVID-19 patients reveals patient heterogeneity and distinct immunotypes with implications for therapeutic interventions
   doi: https://doi.org/10.1101/2020.05.20.106401
   ref 'Mathew_et_al_05_23_2020
@@ -3443,6 +3448,7 @@ feed May2020
 
 
   # Immmunephenotype - Immune Response
+  @@PhilipMudd
   // Targeted Immunosuppression Distinguishes COVID-19 from Influenza in Moderate and Severe Disease
   doi: https://doi.org/10.1101/2020.05.28.20115667
   ref 'Mudd_et_al_05_15_2020
@@ -3831,6 +3837,7 @@ feed May2020
 
 
   # Type I Interferon - Immune Respnse
+  @@AkikoIwasaki
   // Mouse model of SARS-CoV-2 reveals inflammatory role of type I interferon signaling
   doi: https://doi.org/10.1101/2020.05.27.118893
   ref 'Goldman-Israelow_et_al_05_27_2020
