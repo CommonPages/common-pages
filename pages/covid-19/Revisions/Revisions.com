@@ -3,6 +3,14 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received four major revisions, expanding the subjects covered and correcting existing claims.
 
+  public: january-16-2021
+  / January 16, 2021
+  revision January_16
+    head = We've released a new section detailing the existing and emerging variants of the SARS-CoV-2 virus. Whether these mutations render preexisting antibodies ineffective has become a public concern, as it could result in reinfection or loss of vaccine efficacy.
+
+    - see
+      Variants
+
   public: january-8-2021
   / January 8, 2021
   revision January_8
