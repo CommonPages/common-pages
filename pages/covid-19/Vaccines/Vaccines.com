@@ -14,7 +14,7 @@ subject module Vaccines
     ?EpigeneticChange
 
   -
-    Triage  
+    Triage
 
   / Approved Vaccines
   subject Approved
@@ -196,6 +196,7 @@ subject module Vaccines
         !Identification
         !OngoingTrials
         !Phase1Moderna
+        !Durability
         !Phase3
       -
         !Olderpeople
@@ -226,6 +227,15 @@ subject module Vaccines
           'Widge_et_al_12_03_2020
           'Widge_et_al_12_03_2020.!a
         # https://www.fda.gov/media/144452/download
+
+      / Durability of Immune Response
+      claim !Durability = Durability of immune reponse from Phase 1 study was published in Jan of 2021. Authors reported that Moderna vaccine produced high levels of binding and neutralizing antibodies that declined slightly over time, but they remained elevated in all participants 3 months after the booster vaccination. Researchers conculde that despite a slight expected decline, moderna vaccine has the potential to provide durable humoral immunity.
+        -
+          'Widge_et_al_01_07_2021
+          'Widge_et_al_01_07_2021.!a
+          'Widge_et_al_01_07_2021.!b
+          'Widge_et_al_01_07_2021.!c
+          'Widge_et_al_01_07_2021.!d
 
       / Old People
       claim !Olderpeople = In September 2020, a second report of results from Moderna trials showed that in older people, the two-dose vaccine series had an acceptable safety and reactogenicity profile with mostly mild-to-moderate local and systemic adverse events of short duration, which occurred predominantly after the second dose.
@@ -624,7 +634,7 @@ subject module Vaccines
 
     / Sinovac
     subject CoronaVac
-      head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. Most adverse reactions reported were mild. Sinovac is approved for use in China.
+      head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. In Jan of 2021, Brazil announced that Sinovac has an efficacy rate just over 50 percent. Sinovac is approved for use in China.
 
       >
         CoronaVac is developed by the Chinese biopharmaceutical company [Sinovac](http://www.sinovac.com/).  The vaccine contains chemically-inactivated whole SARS-CoV-2 virus.
@@ -651,6 +661,7 @@ subject module Vaccines
       -
         !OngoingTrials
         !Phase12CoronaVac
+        !Phase3Brazil
 
       / On going clinical trials
       claim !OngoingTrials = Clinical trials for Sinovac started since April 2020. The estimated completion date for phase 3 trials is October of 2021. Trials are on-going to evaluate the safety, tolerability, immunogenicity, and efficacy of CoronaVac Against COVID-19.
@@ -668,8 +679,10 @@ subject module Vaccines
           'Zhang_et_al_11_17_2020.!b
           'Zhang_et_al_11_17_2020.!c
 
-      # Claim of phase 3 retracted as it was said by some guy and not released by the company. No source yet
-      # PHASE 3 - A COVID-19 vaccine developed by China’s Sinovac Biotech is 91.25% effective, according to interim data from a late-stage trial in Turkey.  Researchers in Brazil, which is also running a final Phase III trial of the vaccine, said on Wednesday the shot was more than 50% effective, but withheld full results at the company’s request, raising questions about transparency.
+      claim !Phase3Brazil = In Jan of 2021, Brazil government officials announced that CoronaVac has an efficacy rate just over 50 percent. Interim Results has not been published yet.
+        -
+          'Andreoni_et_al_01_13_2021
+          'Andreoni_et_al_01_13_2021.!a
 
     / Sinopharm
     subject Sinopharm
@@ -845,6 +858,7 @@ subject module Vaccines
         !OngoingTrials
         !AnimalStudies
         !Phase12
+        !InterimResults
 
       / On-going  Trials
       claim !OngoingTrials = Clinical Trials for Ad26.COV2.S started in June of 2020. Trials will evaluate Immunogenicity, Efficacy and Safety of Ad26.COV2.S vaccine. Estimated completion date for phase 3 trials is estimated to be March 2023.
@@ -869,6 +883,14 @@ subject module Vaccines
           'Sadoff_et_al_09_25_2020.!b
           'Sadoff_et_al_09_25_2020.!c
           'Sadoff_et_al_09_25_2020.!d
+
+      claim !InterimResults = Interim Results of phase 1 & 2 trials was published in January of 2021. Authors reported that neutralizing-antibody titers against wild-type virus were detected in 90% or more of all participants on day 29 after the first vaccine dose and reached 100% by day 57 with a further increase in titers, regardless of vaccine dose or age group. Titers remained stable until at least day 71. Systemic adverse events were also reported.
+        -
+          'Sadoff_et_al_01_13_2021
+          'Sadoff_et_al_01_13_2021.!a
+          'Sadoff_et_al_01_13_2021.!b
+          'Sadoff_et_al_01_13_2021.!c
+          'Sadoff_et_al_01_13_2021.!d
 
     / Novavax
     subject NVX-CoV2373
@@ -989,7 +1011,7 @@ subject module Vaccines
       # - GUILLAIN-BARRÉ SYNDROME with influenza
       #   'DeStefano_et_al_02_12_2019.!c
       #   'DeStefano_et_al_02_12_2019.!d
-      #   'DeStefano_et_al_02_12_2019.!e
+      #   'DeStefano_et_al_02_12_2019.!e    
 
   —
   / Types of Vaccines

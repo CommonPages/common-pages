@@ -1,5 +1,15 @@
 . Triage
 
+  -
+    !Identification
+    !MonoclonalAntibodies
+    !SuboptimalResponse
+    !Tcell
+    !Incubation
+    !Vesicular
+    !ConcernMutation
+    !EfficacyNeed
+
   claim !Identification = Researchers have indentified S Protien as promising target for deoptimization. Neutralising epitopes on SARS-CoV-2 RBD were identified for development of SARS-CoV-2 Vaccine
     -
       'Kames_et_al_2020
@@ -61,12 +71,11 @@
       'Bartsch_et_al_07_15_2020.!b
       'Bartsch_et_al_07_15_2020.!c
 
+  claim !CautionNSAID = Researchers have cautioned using NSAID to prevent unpleasant side effects through vaccine as NSAID has been shown to dampen antibody response to SARS-CoV-2 in mice.
 
-  # >
-  #   VACCINE FRONTIERS
-  # -
-  #   'Starr_et_al_08_11_2020
-  #   'Starr_et_al_08_11_2020.!f
-  #   'Starr_et_al_08_11_2020.!g
-  #   'Starr_et_al_08_11_2020.!h
-  #   'Starr_et_al_08_11_2020.!i
+    claim !NSAIDMouse = NSAID treatment may influence COVID-19 outcomes by dampening the inflammatory response and production of protective antibodies rather than modifying susceptibility to infection or viral replication.
+      -
+        'Chen_et_al_01_13_2021
+        'Chen_et_al_01_13_2021.!a
+        'Chen_et_al_01_13_2021.!b
+        'Chen_et_al_01_13_2021.!c

@@ -1,10 +1,111 @@
 feed Jan2021
 
   -
+    'Sadoff_et_al_01_13_2021
+    'Widge_et_al_01_07_2021
+    'Faria_et_al_01_12_2021
     'Xie_et_al_01_07_2021
     'Pilotto_et_al_01_02_2021
 
   #
+
+  // Non-steroidal anti-inflammatory drugs dampen the cytokine and antibody response to SARS-CoV-2 infection
+  doi: https://doi.org/10.1128/JVI.00014-21
+  ref 'Chen_et_al_01_13_2021
+    head = Inhibiting PG(prostaglandins) production with NSAIDs could affect COVID-19 pathogenesis in multiple ways, including: (1) altering susceptibility to infection by modifying expression of angiotensin-converting enzyme 2 (ACE2), the cell entry receptor for SARS-CoV-2; (2) regulating replication of SARS-CoV-2 in host cells; and (3) modulating the immune response to SARS-CoV-2. Here, we investigate these potential roles.
+
+    > Abstract
+      Identifying drugs that regulate severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and its symptoms has been a pressing area of investigation during the coronavirus disease 2019 (COVID-19) pandemic. Nonsteroidal anti-inflammatory drugs (NSAIDs), which are frequently used for the relief of pain and inflammation, could modulate both SARS-CoV-2 infection and the host response to the virus. NSAIDs inhibit the enzymes cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2), which mediate the production of prostaglandins (PGs). As PGs play diverse biological roles in homeostasis and inflammatory responses, inhibiting PG production with NSAIDs could affect COVID-19 pathogenesis in multiple ways, including: (1) altering susceptibility to infection by modifying expression of angiotensin-converting enzyme 2 (ACE2), the cell entry receptor for SARS-CoV-2; (2) regulating replication of SARS-CoV-2 in host cells; and (3) modulating the immune response to SARS-CoV-2. Here, we investigate these potential roles. We demonstrate that SARS-CoV-2 infection upregulates COX-2 in diverse human cell culture and mouse systems. However, suppression of COX-2 by two commonly used NSAIDs, ibuprofen and meloxicam, had no effect on ACE2 expression, viral entry, or viral replication. In contrast, in a mouse model of SARS-CoV-2 infection, NSAID treatment reduced production of pro-inflammatory cytokines and impaired the humoral immune response to SARS-CoV-2 as demonstrated by reduced neutralizing antibody titers. Our findings indicate that NSAID treatment may influence COVID-19 outcomes by dampening the inflammatory response and production of protective antibodies rather than modifying susceptibility to infection or viral replication.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / Jan, 2021 - American Society for Microbiology Journals
+    quote !a = Suppression of COX-2 by two commonly used NSAIDs, ibuprofen and meloxicam, had no effect on ACE2 expression, viral entry, or viral replication.
+
+    / Jan, 2021 - American Society for Microbiology Journals
+    quote !b = In a mouse model of SARS-CoV-2 infection, NSAID treatment reduced production of pro-inflammatory cytokines and impaired the humoral immune response to SARS-CoV-2 as demonstrated by reduced neutralizing antibody titers.
+
+    / Jan, 2021 - American Society for Microbiology Journals
+    quote !c = NSAID treatment may influence COVID-19 outcomes by dampening the inflammatory response and production of protective antibodies rather than modifying susceptibility to infection or viral replication.
+
+
+
+  // Disappointing Chinese Vaccine Results Pose Setback for Developing World
+  doi: https://www.nytimes.com/2021/01/13/business/chinese-vaccine-brazil-sinovac.html
+  ref 'Andreoni_et_al_01_13_2021
+    head = Brazil says CoronaVac has an efficacy rate just over 50 percent, much lower than previously announced. More than 380 million doses have already been ordered.
+
+    - quotes
+      !a
+
+    / January, 2021 - New York Times
+    quote !a = Officials at the Butantan Institute in São Paulo said on Tuesday that a trial conducted in Brazil showed that the CoronaVac vaccine, made by the Beijing-based company Sinovac, had an efficacy rate just over 50 percent. That rate, slightly above the benchmark that the World Health Organization has said would make a vaccine effective for general use, was far below the 78 percent level announced last week.
+
+
+  // Interim Results of a Phase 1–2a Trial of Ad26.COV2.S Covid-19 Vaccine
+  doi: https://doi.org/10.1056/NEJMoa2034201
+  ref 'Sadoff_et_al_01_13_2021
+    head = We randomly assigned healthy adults between the ages of 18 and 55 years (cohort 1) and those 65 years of age or older (cohort 3) to receive the Ad26.COV2.S vaccine at a dose of 5×1010 viral particles (low dose) or 1×1011 viral particles (high dose) per milliliter or placebo in a single-dose or two-dose schedule.
+
+    > BACKGROUND
+      Efficacious vaccines are urgently needed to contain the ongoing coronavirus disease 2019 (Covid-19) pandemic of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). A candidate vaccine, Ad26.COV2.S, is a recombinant, replication-incompetent adenovirus serotype 26 (Ad26) vector encoding a full-length and stabilized SARS-CoV-2 spike protein.
+
+    > METHODS
+      In this multicenter, placebo-controlled, phase 1–2a trial, we randomly assigned healthy adults between the ages of 18 and 55 years (cohort 1) and those 65 years of age or older (cohort 3) to receive the Ad26.COV2.S vaccine at a dose of 5×1010 viral particles (low dose) or 1×1011 viral particles (high dose) per milliliter or placebo in a single-dose or two-dose schedule. Longer-term data comparing a single-dose regimen with a two-dose regimen are being collected in cohort 2; those results are not reported here. The primary end points were the safety and reactogenicity of each dose schedule.
+
+    > RESULTS
+      After the administration of the first vaccine dose in 805 participants in cohorts 1 and 3 and after the second dose in cohort 1, the most frequent solicited adverse events were fatigue, headache, myalgia, and injection-site pain. The most frequent systemic adverse event was fever. Systemic adverse events were less common in cohort 3 than in cohort 1 and in those who received the low vaccine dose than in those who received the high dose. Reactogenicity was lower after the second dose. Neutralizing-antibody titers against wild-type virus were detected in 90% or more of all participants on day 29 after the first vaccine dose (geometric mean titer [GMT], 224 to 354) and reached 100% by day 57 with a further increase in titers (GMT, 288 to 488), regardless of vaccine dose or age group. Titers remained stable until at least day 71. A second dose provided an increase in the titer by a factor of 2.6 to 2.9 (GMT, 827 to 1266). Spike-binding antibody responses were similar to neutralizing-antibody responses. On day 14, CD4+ T-cell responses were detected in 76 to 83% of the participants in cohort 1 and in 60 to 67% of those in cohort 3, with a clear skewing toward type 1 helper T cells. CD8+ T-cell responses were robust overall but lower in cohort 3.
+
+    > CONCLUSIONS
+      The safety and immunogenicity profiles of Ad26.COV2.S support further development of this vaccine candidate
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+
+    / Jan, 2021 - NEJM
+    quote !a = The most frequent solicited adverse events were fatigue, headache, myalgia, and injection-site pain. The most frequent systemic adverse event was fever.
+
+    / Jan, 2021 - NEJM
+    quote !b = Systemic adverse events were less common in cohort 3 than in cohort 1 and in those who received the low vaccine dose than in those who received the high dose. Reactogenicity was lower after the second dose.
+
+    / Jan, 2021 - NEJM
+    quote !c = Neutralizing-antibody titers against wild-type virus were detected in 90% or more of all participants on day 29 after the first vaccine dose and reached 100% by day 57 with a further increase in titers, regardless of vaccine dose or age group. Titers remained stable until at least day 71.
+
+    / Jan, 2021 - NEJM
+    quote !d = Spike-binding antibody responses were similar to neutralizing-antibody responses. On day 14, CD4+ T-cell responses were detected in 76 to 83% of the participants in cohort 1 and in 60 to 67% of those in cohort 3, with a clear skewing toward type 1 helper T cells. CD8+ T-cell responses were robust overall but lower in cohort 3.
+
+
+  #
+  // Durability of Responses after SARS-CoV-2 mRNA-1273 Vaccination
+  doi: https://doi.org/10.1056/NEJMc2032195
+  ref 'Widge_et_al_01_07_2021
+    head = We describe immunogenicity data 119 days after the first vaccination (90 days after the second vaccination) in 34 healthy adult participants in the same trial who received two injections of vaccine at a dose of 100 μg. The injections were received 28 days apart.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / Jan, 2021 - Nature
+    quote !a = At the 100-μg dose, mRNA-1273 produced high levels of binding and neutralizing antibodies that declined slightly over time, as expected, but they remained elevated in all participants 3 months after the booster vaccination.
+
+    / Jan, 2021 - Nature
+    quote !b = At day 119, the binding and neutralizing GMTs (Geometric mean titers) exceeded the median GMTs in a panel of 41 controls who were convalescing from Covid-19, with a median of 34 days since diagnosis (range, 23 to 54). No serious adverse events were noted in the trial, no prespecified trial-halting rules were met, and no new adverse events that were considered by the investigators to be related to the vaccine occurred after day 57.
+
+    / Jan, 2021 - Nature
+    quote !c = Despite a slight expected decline in titers of binding and neutralizing antibodies, mRNA-1273 has the potential to provide durable humoral immunity.
+
+    / Jan, 2021 - Nature
+    quote !d = Vaccine elicited primary CD4 type 1 helper T responses 43 days after the first vaccination.
+
 
   // Genomic characterisation of an emergent SARS-CoV-2 lineage in Manaus: preliminary findings
   doi: https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586
