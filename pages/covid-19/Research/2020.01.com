@@ -17,7 +17,7 @@ feed January2020
 
 
   # Immune system, Innate immunity and inflammation, Frontier
-  @@IvanZanoni
+  # @@IvanZanoni
   // Type III Interferons: Balancing Tissue Tolerance and Resistance to Pathogen Invasion
   doi: https://doi.org/10.1084/jem.20190295
   ref 'Broggi_et_al_01_06_2020

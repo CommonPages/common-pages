@@ -9,6 +9,7 @@
     !Vesicular
     !ConcernMutation
     !EfficacyNeed
+    !CautionNSAID
 
   claim !Identification = Researchers have indentified S Protien as promising target for deoptimization. Neutralising epitopes on SARS-CoV-2 RBD were identified for development of SARS-CoV-2 Vaccine
     -

@@ -3,6 +3,17 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received four major revisions, expanding the subjects covered and correcting existing claims.
 
+  public: january-19-2021
+  / January 19,2021
+  revision January_19
+    head = We've updated vaccine section. Moderna updated data on durability of immune response. Sinovac efficacy is reported to be just above 50% in Brazil. Johnson and Johnson released their phase 1-2 trial reports. Researchers have cautioned the use of NSAID for treating side effects of vaccines.
+
+    - see
+      Vaccines.Approved.mRNA-1273.!Durability
+      Vaccines.Approved.CoronaVac
+      Vaccines.Candidates.Ad26COV2S
+      Vaccines.Triage.!CautionNSAID
+
   public: january-16-2021
   / January 16, 2021
   revision January_16

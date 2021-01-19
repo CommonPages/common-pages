@@ -9,6 +9,28 @@ feed Jan2021
 
   #
 
+  // Neuroinvasion of SARS-CoV-2 in human and mouse brain
+  doi: https://doi.org/10.1084/jem.20202135
+  ref 'Song_et_al_01_12_2021
+    head = We used three independent approaches to probe the capacity of SARS-CoV-2 to infect the brain. First, using human brain organoids, second, using mice overexpressing human ACE2 and third in autopsies from patients who died of COVID-19.
+
+    > Abstract
+      Although COVID-19 is considered to be primarily a respiratory disease, SARS-CoV-2 affects multiple organ systems including the central nervous system (CNS). Yet, there is no consensus on the consequences of CNS infections. Here, we used three independent approaches to probe the capacity of SARS-CoV-2 to infect the brain. First, using human brain organoids, we observed clear evidence of infection with accompanying metabolic changes in infected and neighboring neurons. However, no evidence for type I interferon responses was detected. We demonstrate that neuronal infection can be prevented by blocking ACE2 with antibodies or by administering cerebrospinal fluid from a COVID-19 patient. Second, using mice overexpressing human ACE2, we demonstrate SARS-CoV-2 neuroinvasion in vivo. Finally, in autopsies from patients who died of COVID-19, we detect SARS-CoV-2 in cortical neurons and note pathological features associated with infection with minimal immune cell infiltrates. These results provide evidence for the neuroinvasive capacity of SARS-CoV-2 and an unexpected consequence of direct infection of neurons by SARS-CoV-2.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / January, 2021 - J Exp Med
+    quote !a = First, using human brain organoids, we observed clear evidence of infection with accompanying metabolic changes in infected and neighboring neurons. However, no evidence for type I interferon responses was detected.
+
+    / January, 2021 - J Exp Med
+    quote !b = We demonstrate that neuronal infection can be prevented by blocking ACE2 with antibodies or by administering cerebrospinal fluid from a COVID-19 patient.
+
+    / January, 2021 - J Exp Med
+    quote !c = In autopsies from patients who died of COVID-19, we detect SARS-CoV-2 in cortical neurons and note pathological features associated with infection with minimal immune cell infiltrates.
+
   // Non-steroidal anti-inflammatory drugs dampen the cytokine and antibody response to SARS-CoV-2 infection
   doi: https://doi.org/10.1128/JVI.00014-21
   ref 'Chen_et_al_01_13_2021

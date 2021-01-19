@@ -19,7 +19,7 @@ index: hide
 
   - Proof against Reinfection in HCW
     'Hanrath_et_al_12_26_2020
-    'Hanrath_et_al_12_26_2020.!a  
+    'Hanrath_et_al_12_26_2020.!a
 
   > Claim
     Stable adaptive Immune Response for 90% patient for over 6 months. However response is heterogenous which means some proportion of population will always be prone to reinfection
@@ -44,6 +44,13 @@ index: hide
     'Pilotto_et_al_01_02_2021.!a
     'Pilotto_et_al_01_02_2021.!b
     'Pilotto_et_al_01_02_2021.!c
+
+  # Neuroinvasion  
+  -
+    'Song_et_al_01_12_2021
+    'Song_et_al_01_12_2021.!a
+    'Song_et_al_01_12_2021.!b
+    'Song_et_al_01_12_2021.!c
 
 
   # > Claim / Background

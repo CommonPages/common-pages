@@ -789,7 +789,7 @@ feed June2020
 
 
   # T-cell epitopes, HLA peptides, vaccine design, T-cells, immunity, immunology, virology,cross-reactivity, Ask about the publisher, Club with 723,725, 726, development of prophylactic and therapeutic vaccination frontier
-  @@JulianeWalz
+  # @@JulianeWalz
   // SARS-CoV-2 T-cell epitopes define heterologous and COVID-19-induced T-cell recognition
   doi: https://doi.org/10.21203/rs.3.rs-35331/v1
   ref 'Nelde_et_al_06_16_2020
