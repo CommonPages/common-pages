@@ -108,9 +108,389 @@ subject Variants
       'Yurkovetskiy_et_al_09_15_2020.!g
       'Yurkovetskiy_et_al_09_15_2020.!h
 
-  —
+
   / Mink Variant
   subject Mink
+    # MAIN HEAD FOR MINK
+    >
+      Concerning outbreaks of SARS-CoV-2 began to emerge on mink farms in the Netherlands and Denmark in late spring and early summer 2020.
+      Since April 2020, when the first SARS-CoV-2 infection was reported in the Netherlands in a mink and subsequently in a mink farm worker, it has been established that human-to-mink and mink-to-human transmission can occur.
+      Since then, infections in mink have been reported in Denmark, Italy, Spain, Sweden and the United States.
+
+
+    # TIMELINE
+    >
+      First	reports on	the infection	and	spread	of	SARS-CoV-2	on	mink farms	in	The	Netherlands	were published.
+      The Netherlands reported the first reports on SARS-CoV-2 infections at 69 mink farms in three regions during the period 23 April to 5  November 2020; with increased mortality in 4 mink farms in the Netherlands.
+
+    -
+      'Molenaar_et_al_07_14_2020
+      'Molenaar_et_al_07_14_2020.!a
+      'Molenaar_et_al_07_14_2020.!b
+      'Molenaar_et_al_07_14_2020.!c
+      'Molenaar_et_al_07_14_2020.!d
+
+
+    >
+      The Netherlands reported SARS-CoV-2 infections at 69 mink farms in three regions during the period 23 April to 5 November. At the time of the first identification, a mink-related variant was reported in a farm employee, suggesting the first possible case of animal-to-human SARS-CoV-2 transmission.
+    -
+      'Munnink_et_al_11_10_2020
+
+    >
+      An epidemiological investigation concluded that the most likely explanation for the infection at the mink farms is the introduction of the virus by humans and subsequent transmission among the mink.
+
+    -
+      'Oreshkova_et_al_06_04_2020
+      'Oreshkova_et_al_06_04_2020.!a
+      'Oreshkova_et_al_06_04_2020.!b
+      'Oreshkova_et_al_06_04_2020.!c
+    -
+      'Munnink_et_al_11_10_2020
+
+
+
+    >
+      Study indicates that virus might replicate more efficiently in mink or that it may have acquired mutations which make it more virulent in mink.
+    -
+      'Munnink_et_al_11_10_2020
+
+    >
+      On 3 June 2020, the national authorities decided to cull mink at the affected farms.
+
+
+    >
+      Italy reported one mink (weakly) positive for SARS-CoV-2 at a farm in the Lombardy region on 10 August 2020. No lesions were found in this mink. The detection came after the identification of a case of COVID-19 in a worker from the farm. In response, around 1 500 mink were tested and no further cases were detected.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!x
+
+    >
+      Spain reported SARS-CoV-2 infections at a mink farm in the Aragon region. On 21 May 2020, seven asymptomatic infections were reported among workers at a mink farm in Aragon, according to media quoting the Spanish health authorities. On 22 June 2020, one animal tested positive by RT-PCR for SARS-CoV-2. On 7 July 2020, 78 of the 90 animals tested were found positive by RT- RAPID RISK ASSESSMENT Detection of new SARS-CoV-2 variants related to mink – 12 November 2020.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!y
+
+    >
+      The open conformation of the 501Y spike protein is associated with more efficient viral entry and infection.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!a1
+
+    >
+      On 5 November 2020, Denmark reported 214 human COVID-19 cases infected with SARS-CoV-2 virus variants
+      related to mink, as well as infected mink at more than 200 mink farms. Most human and animal cases reported since June 2020 have been in the North Jutland Region. The SARS-CoV-2 variants detected in these cases were part of at  least five closely-related clusters; each cluster was characterised by a specific mink-related variant, identified in humans and animals from infected mink farms.
+
+      To date, six countries, namely Denmark, the Netherlands, Spain, Sweden, Italy and the United States of America have reported SARS-CoV-2 in farmed minks to the World Organisation for Animal Health (OIE).
+
+      On 3 June 2020, the national authorities decided to cull mink at the affected farms.
+
+    -
+      'Adlhoch_et_al_11_12_2020
+    -
+      'WHO_et_al_11_06_2020
+      'WHO_et_al_11_06_2020.!a
+      'WHO_et_al_11_06_2020.!b
+
+    >
+      As of 6 November 2020, Sweden had reported ten SARS-CoV-2-positive mink at farms in Blekinge county, where the first detection in one mink occurred on 16 October 2020. Several mink that had been found dead also tested positive. Sequences from two mink and two human cases have been reported without any S protein mutations.
+    -
+      'Starr_et_al_08_11_2020
+      'Starr_et_al_08_11_2020.!f
+      'Starr_et_al_08_11_2020.!g
+      'Starr_et_al_08_11_2020.!h
+      'Starr_et_al_08_11_2020.!i
+
+
+    >
+      Mink-derived	SARS-CoV-2	sequences from	The Netherlands	and	Denmark contain multiple	substitutions	in	the	S	protein receptor	binding	domain (RBD):	Y453F,	F486L	and	N501T.
+
+      The 214 mink-related cases reported by Denmark all involve strains with the S protein mutation Y453F. The mutation Y453F has been observed in several clusters related to mink farms in the Netherlands.
+
+    # Studies	identified multiple substitutions in	the	receptor	binding	domain (RBD)	of	the	SARS-CoV-2 spike	protein:	Y453F,	F486L	and	N501T
+
+    -
+      'Welkers_et_al_12_07_2020
+      'Welkers_et_al_12_07_2020.!a
+    -
+      'Drop_et_al_11_16_2020
+      'Drop_et_al_11_16_2020.!d
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!d
+
+    >
+      SARS-CoV-2 lineages carrying candidate mutations adaptive to transmission in minks have been sequenced since the first outbreaks of SARS-CoV-2 on mink farms in April 2020, with the first mink SARS-CoV2 sample carrying Y453F dating back to the 24th April 2020
+    -
+      'Drop_et_al_11_16_2020
+      'Drop_et_al_11_16_2020.!k
+
+
+
+    # >
+    #   We also identify structural support for a marginal increase in stability of the mink complex with the N501T mutation relative to wild type. In our dataset we detect the presence of this mutation in five mink SARS-CoV-2 though this corresponds to at least four independent emergences, with N501T being exceptionally rare in human infections. It may also be relevant that a different residue change in this position (N501Y) has been proposed as a mechanism of host adaption in mice infected with SARS-CoV-2 suggesting the broader role of residue changes at 501 as relevant affinity enhancing mutations.
+    # -
+    #   'Drop_et_al_11_16_2020
+    #   'Drop_et_al_11_16_2020.!f
+
+
+    >
+      Some of the strains from mink in the Netherlands lack Y453F, which demonstrates that it is not a prerequisite for infecting mink, but probably a selected mutation in the mink population.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!f
+
+    >
+      Our analyses showed an	overall increase in mean	binding	energies between substitutions Y453F,	F486L	and	N501T and	the	mink-like	ACE2 receptor in	the	 same	range	as those	substitutions	that improved	binding	with human	ACE2 receptor, suggesting that	these	RBD	substitutions found	in minks	may indeed	improve	binding of	the	spike	protein to	mink	ACE2 compared	to	human	ACE2.
+
+    -
+      'Welkers_et_al_12_07_2020
+      'Welkers_et_al_12_07_2020.!b
+
+
+    # CAN MERGE THESE TWO POINTS
+    >
+      Although	the	introduction	of	the	Y453F	SARS-CoV-2 variant	in	the	human	population	was	likely	due	to	the	outbreaks	at	mink	farms, many	of	the	infected	humans	in	Denmark	had	no direct	link	to	the	affected	mink	farms, indicating the	possibility	of	sustained	transmission	of	the	Y453F	variant	among	humans.
+      Recent	outbreaks	have	been	reported	at	more	than	200	mink	farms	in Denmark. Additionally,	over	200 human	SARS-CoV-2	sequences collected	in	Denmark, contain the	Y453F RBD	substitution.
+    -
+      'Welkers_et_al_12_07_2020
+      'Welkers_et_al_12_07_2020.!c
+      'Welkers_et_al_12_07_2020.!d
+    >
+      Variants with Y453F, unrelated to the Danish and Dutch variants, have also been reported sporadically from other countries (the Russian Federation, South Africa, Switzerland, and the United States). These variants have come from human cases without a known link to mink farms, which suggests that the strain may not always be related to mink, unless there was undetected mink-to-human transmission.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!g
+
+    # not mutating at very fast rate
+    >
+      / November, 2020 - bioRxiv
+      quote !i = To date, the vast majority of mutations that have been observed in SARS-CoV-2 appear selectively neutral, or even deleterious in humans and those which we identify as strong candidates for host-adaptation to minks have remained at low frequency globally in human SARS-CoV-2 to date.
+
+      / November, 2020 - bioRxiv
+      quote !e = It is noteworthy that all three mutations are not, or only marginally homoplasic, in humans and all three have also been observed at low frequency in strains circulating in human COVID-19 infections which have been intensively sampled.
+
+      / November, 2020 - bioRxiv
+      quote !j = There is no a priori reason to expect that mutations adaptive in minks will lead to any marked change in the dynamic of human COVID-19 infections.
+
+    -
+      'Drop_et_al_11_16_2020
+
+
+    # VARIANT - CLUSTER 5
+
+    >
+      Eleven individuals from the Danish outbreak had a variant termed cluster 5, which had 3 additional mutations in spike (del69_70, I692V, and M1229I).
+
+    # The cluster 5 lineage is known to have infected up to 12 people and its spread led to the Danish Government considering closing all mink farms in the country.
+    -
+      'Lauring_et_al_01_06_2021
+
+    >
+      214 mink associated human COVID-19 infections were reported in the North Jutland region of Denmark, highlighting the risk of spill-overs from animal reservoirs (announced 5th November 2020). A phylogenetic grouping of the virus termed ‘Cluster 5’ circulating in North Jutland has attracted particular attention.
+
+      One of the clusters (Cluster 5), which was reported as circulating in August and September 2020.
+      This cluster is reported to carry our Y453F candidate mutation, together with three other mutations in the spike protein falling outside the RBD (del69-70, I692V, M1229I), none of which we identify as mink-adapted.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!i
+      'Lassaunière_et_al_2020.!e
+    -
+      'Drop_et_al_11_16_2020
+      'Drop_et_al_11_16_2020.!g
+
+
+    >
+      Of all mink-related variants analysed so far, only the Cluster 5 variant has raised specific concern due to its effect on antigenicity.
+
+    >
+      Cluster 5 (ΔFVI-spike).- The ΔFVI-spike mutant virus titer increased 54.7-fold from 24 to 96 hours post-inoculation, compared to an average of 4-fold (range: 2.6 to 5.7-fold) over the same time for other SARS-CoV-2 isolates. The ability to replicate to high viral titers is consistent with high levels of the ΔFVI-spike mutant virus
+    -
+      'Lassaunière_et_al_2020
+      'Lassaunière_et_al_2020.!g
+
+    >
+      The Cluster 5 variant was last observed in Denmark on 14 September 2020, which may suggest that it is no longer circulating.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!j
+
+
+    # MUTATIONS
+    >
+      Many SARS-CoV-2 sequences from the Netherlands and Danish outbreaks had a Y453F mutation in the receptor binding domain of spike, which might mediate increased binding affinity for mink ACE2 (angiotensin-converting enzyme 2). / 453F increases affinity for human ACE2
+    -
+      'Lauring_et_al_01_06_2021
+      'Lassaunière_et_al_2020
+      'Lassaunière_et_al_2020.!a
+      'Lassaunière_et_al_2020.!b
+      'Lassaunière_et_al_2020.!c
+      'Lassaunière_et_al_2020.!e
+
+    >
+      Efforts are underway to isolate each Mink-associated SARS-CoV-2 spike mutant strain that occurs in people residing in Denmark. To date, Statens Serum Institut in Denmark has isolated two strains of mink-associated SARS-CoV-2 viruses.These include an isolate with the 453F spike mutation (F-spike) from cluster 1 and an isolate with a 69-70deltaHV, 453F, 692V, and 1229I mutation combination from Cluster 5 (hereafter referred to as ΔFVI-spike).
+    -
+      'Lassaunière_et_al_2020
+      'Lassaunière_et_al_2020.!e
+
+
+    >
+      Within the infected mink, the SARS-CoV-2 virus mutated, giving rise to several amino acid changes in the spike protein. The first was a tyrosine to phenylalanine at amino acid 453 (Y453F).
+    -
+      'Lassaunière_et_al_2020
+      'Lassaunière_et_al_2020.!a
+
+    >
+      Y453F is an adaptation mutation to mink ACE2.
+    -
+      'Lassaunière_et_al_2020
+      'Lassaunière_et_al_2020.!b
+
+    >
+      The clinical isolates bearing the Y453F spike mutation replicated as efficiently as the unmutated/wildtype SARS-CoV-2 virus that predominates in Denmark.
+
+      Viruses with the S protein Y453F mutation have become increasingly common and are now causing approximately 40% of the COVID-19 cases in the North Jutland Region, Denmark.
+    -
+      'Lassaunière_et_al_2020
+      'Lassaunière_et_al_2020.!f
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!k
+
+    >
+      In the Netherlands, the viruses with the Y453F mutation related to mink farms did not continue to circulate.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!k
+    >
+      The mutation Y453F, defining mink-related variants, has also been detected outside of Europe, indicating the potential for circulation of such strains. In the past few months, community transmission has occurred in Denmark and, to some extent, in the Netherlands, which could lead to cross-border spread.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!r
+
+    >
+      Additional spike mutations: 69-70deltaHV69-70deltaHV - a deletion of a histidine and valine at amino acid positions 69 and 70 in the N-terminal domain of the S1 subunit was also observed in minks and the humans epidemiologically linked to the infected mink farms.
+    -
+      'Lassaunière_et_al_2020
+      'Lassaunière_et_al_2020.!d
+      'Lassaunière_et_al_2020.!e
+
+    >
+      About half of the mink-related strains reported by Denmark additionally carry a deletion of two amino acids (69-70) in the S protein. This mutation is not present in any of the mink strains from the Netherlands but has been widely reported in unrelated human cases without Y453F in the GISAID EpiCoV database (from Australia, Canada, Côte d’Ivoire, France, Germany, Malaysia, New Zealand, Norway, Sweden, and the United Kingdom)
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!h
+
+
+    >
+      SARS-CoV-2 mutations are still arising and spreading around the world - the A222V mutation, reportedly responsible for many infections, emerged in Spain during the Summer of 2020 and since then has spread to neighbor countries #https://www.biorxiv.org/content/10.1101/2020.12.16.423118v2.full
+
+
+    # Antibody escape
+    >
+      An initial investigation of 9 human convalescent serum samples suggested a modest and variably statistically significant reduction in neutralization activity against cluster 5 viruses (mean, 3.58 fold; range, 0-13.5).
+
+      Y453F escapes some monoclonal antibodies. the	Y453F	mutation was	shown	to	be	an
+      escape	mutation	for	the	monoclonal	antibody	RGN10933 - ask ayush for the quote correction
+    -
+      'Lassaunière_et_al_2020
+      'Lassaunière_et_al_2020.!h
+    -
+      'Baum_et_al_06_11_2020
+      'Baum_et_al_06_11_2020.!b
+
+    >
+      The putative impact on antigen-escape of the Y453F mutation remains under study, though appears moderate.
+    -
+      'Drop_et_al_11_16_2020
+      'Drop_et_al_11_16_2020.!h
+
+    >
+      S477N also reduces neutralization by some monoclonal antibodies, but did not greatly affect binding by the samples we tested.
+    -
+      'Liu_et_al_11_08_2020
+      'Liu_et_al_11_08_2020.!e
+
+    >
+      Preliminary findings indicate that this particular mink-associated variant identified in both minks and the 12 human cases has moderately decreased sensitivity to neutralizing antibodies.
+    -
+      'WHO_et_al_11_06_2020
+      'WHO_et_al_11_06_2020.!a
+
+    >
+      These findings indicate that there could be a potential impact on antibody-mediated immunity provided by SARS-CoV-2 infection or vaccines.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!c
+
+
+    # Transmission
+
+    >
+      The low prevalence of mink-adapted candidate mutations in strains in circulation in humans to date (November 2020) suggests they are not expected to increase transmission of the virus in humans.
+    -
+      'Drop_et_al_11_16_2020
+      'Drop_et_al_11_16_2020.!a
+
+    >
+      The probability of infection with mink-related variant strains is assessed as low for the general population, moderate for populations in areas with a high concentration of mink farms and very high for individuals with occupational exposure.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!m
+
+    >
+      Current evidence available from Denmark and the Netherlands on SARS-CoV-2 variants related to mink indicates that these variants are able to circulate rapidly in mink farms and the human communities close to the farms, however, they do not appear to be more transmissible than other circulating SARS-CoV-2 variants.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!l
+
+    >
+      Detection of viral RNA in the airborne inhalable dust on the mink farms clearly suggests dust and/or droplets as means of transmission between the minks and occupational risk of exposure for the workers on the farms.
+    -
+      'Oreshkova_et_al_06_04_2020
+      'Oreshkova_et_al_06_04_2020.!c
+
+    >
+      The cross-border spread of SARS-CoV-2 variants related to mink in EU/EEA countries and the UK through humans has not been observed so far, but there is no indication that the potential for cross-border spread is different to that for other SARS-CoV-2 variants.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!q
+      'Adlhoch_et_al_11_12_2020.!p
+
+    >
+      The cross-border spread of SARS-CoV-2 variants related to mink in EU/EEA countries and the UK through animals and animal products appears very low.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!s
+
+
+
+    # Severity
+    >
+      On the basis of the information available, the current impact of COVID-19 on disease severity in patients infected with mink-related variants appears to be similar to that for patients infected with non-mink variants. This has previously been assessed by ECDC [70] as low for the general population and very high for medically-vulnerable groups (individuals with risk factors for severe COVID-19 disease, such as the elderly) [71]).
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!n
+
+    >
+      Initial observations suggest that the clinical presentation, severity and transmission among those infected are similar to that of other circulating SARS-CoV-2 viruses. However, this variant, referred to as the "cluster 5" variant, had a combination of mutations, or changes that have not been previously observed.
+    -
+      'WHO_et_al_11_06_2020
+      'WHO_et_al_11_06_2020.!b
+
+
+    # not effect on diagnostic testing
+
+    >
+      None of the mink-related variants reported by Denmark are known to cause any issues with existing RT-PCR assays as none of the mutations defining the mink-related clusters are located within the amplicons of RT-PCR assays recommended by WHO, and such assays generally do not target the S gene.
+
+      The sensitivities of diagnostic RT-PCR assays are not affected by the Cluster 5 variant or other Danish mink-related S protein variants as RT-PCR assays do not target the spike gene.
+    -
+      'Adlhoch_et_al_11_12_2020
+      'Adlhoch_et_al_11_12_2020.!c1
+      'Adlhoch_et_al_11_12_2020.!d1
+
+
+
 
   / B.1.1.7 (UK Variant)
   subject B117
