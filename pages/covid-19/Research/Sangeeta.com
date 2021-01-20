@@ -13,9 +13,190 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
+  #
+  // Clinical and Pathological Findings in SARS-CoV-2 Disease Outbreaks in Farmed Mink.
+  doi: https://doi.org/10.1177%2F0300985820943535
+  ref 'Molenaar_et_al_07_14_2020
+    head = SARS-CoV-2 caused respiratory disease outbreaks with increased mortality in 4 mink farms in the Netherlands. This is the first report of the clinical and pathological characteristics of SARS-CoV-2 outbreaks in mink farms.
+
+    > Abstract
+      SARS-CoV-2, the causative agent of COVID-19, caused respiratory disease outbreaks with increased mortality in 4 mink farms in the Netherlands. The most striking postmortem finding was an acute interstitial pneumonia, which was found in nearly all examined mink that died at the peak of the outbreaks. Acute alveolar damage was a consistent histopathological finding in mink that died with pneumonia. SARS-CoV-2 infections were confirmed by detection of viral RNA in throat swabs and by immunohistochemical detection of viral antigen in nasal conchae, trachea, and lung. Clinically, the outbreaks lasted for about 4 weeks but some animals were still polymerase chain reaction–positive for SARS-CoV-2 in throat swabs after clinical signs had disappeared. This is the first report of the clinical and pathological characteristics of SARS-CoV-2 outbreaks in mink farms.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / July, 2020 - Veterinary Pathology
+    quote !a = The most striking postmortem finding was an acute interstitial pneumonia, which was found in nearly all examined mink that died at the peak of the outbreaks. Acute alveolar damage was a consistent histopathological finding in mink that died with pneumonia.
+
+    / July, 2020 - Veterinary Pathology
+    quote !b = SARS-CoV-2 infections were confirmed by detection of viral RNA in throat swabs and by immunohistochemical detection of viral antigen in nasal conchae, trachea, and lung.
+
+    / July, 2020 - Veterinary Pathology
+    quote !c = Clinically, the outbreaks lasted for about 4 weeks but some animals were still polymerase chain reaction–positive for SARS-CoV-2 in throat swabs after clinical signs had disappeared.
+
+    / July, 2020 - Veterinary Pathology
+    quote !d = The large variation in morbidity and mortality at each farm suggests that outbreaks can be so mild that they could be easily missed.
+
 
   #
-  //
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+
+
+  // SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma
+  doi: https://doi.org/10.1101/2021.01.18.427166
+  ref 'Wibmer_et_al_01_19_2021
+    head = We show that the 501Y.V2 lineage, that contains nine spike mutations, and rapidly emerged in South Africa during the second half of 2020, is largely resistant to neutralizing antibodies elicited by infection with previously circulating lineages.
+
+
+    > Abstract
+      SARS-CoV-2 501Y.V2, a novel lineage of the coronavirus causing COVID-19, contains multiple mutations within two immunodominant domains of the spike protein. Here we show that this lineage exhibits complete escape from three classes of therapeutically relevant monoclonal antibodies. Furthermore 501Y.V2 shows substantial or complete escape from neutralizing antibodies in COVID-19 convalescent plasma. These data highlight the prospect of reinfection with antigenically distinct variants and may foreshadow reduced efficacy of current spike-based vaccines.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !g
+
+    / January, 2021 - BioRxiv
+    quote !a = 501Y.V2 shows substantial or complete escape from neutralizing antibodies in COVID-19 convalescent plasma. These data highlight the prospect of reinfection with antigenically distinct variants and may foreshadow reduced efficacy of current spike-based vaccines.
+
+    / January, 2021 - BioRxiv
+    quote !b = The data suggest that most individuals infected with previous SARS-CoV-2 lineages will have minimal or no detectable neutralization activity against 501Y.V2.
+
+    / January, 2021 - BioRxiv
+    quote !c = These data are supported by studies showing reduced plasma neutralization titres mediated by the E484K change alone. Importantly, here we show that the K417N change also has a crucial role in viral escape, effectively abrogating neutralization by a well-defined, multi-donor class of VH3-53/66 germline restricted public antibodies that comprise some of the most common and potent neutralizing antibodies to SARS-CoV-2.
+
+
+    / January, 2021 - BioRxiv
+    quote !d = A recently identified lineage in Brazil also has changes at key positions shown here to affect neutralizing antibodies (417T, 484K in RBD and 18F, 20N in NTD - the last mutation adding a glycosylation sequon). Our data suggest that this lineage is also likely to exhibit significant levels of neutralization resistance, making both lineages of considerable public health concern.
+
+    / January, 2021 - BioRxiv
+    quote !e = The independent emergence and subsequent selection for two distinct 501Y lineages with key mutations conferring neutralization resistance strongly argues for selection by neutralizing antibodies as the dominant driver for SARS-CoV-2 spike diversification. The relatively rapid acquisition of a comprehensive suite of neutralization escape mutations likely occurred because of the large number of commonly shared public antibodies (eg: VH3-53/66, VH1-2, VH1- 24) to both the RBD and NTD of spike, together with high levels of SARS-CoV-2 transmission around the world.
+
+    / January, 2021 - BioRxiv
+    quote !f = Despite neutralization escape, we show here that a significant proportion of non-neutralizing, RBD binding antibodies remain active against 501Y.V2. While antibody effector functions elicited by infection and vaccination have been implicated in protecting from reinfection and disease, the role of non-neutralizing antibodies and the efficacy of T cell responses to 501Y.V2 remain to be elucidated.
+
+    / January, 2021 - BioRxiv
+    quote !g = The differences in neutralization between the RBD-only chimera and 501Y.V2 also highlight the contribution of 501Y.V2 NTD mutations (L18F, D80A, D215G, and Δ242-244) to neutralization escape. This was particularly evident in the higher titre samples, which retained an average titre of ID50 680 against the RBD-only mutant.
+
+
+
+  #
+  // mRNA vaccine-elicited antibodies to SARS-CoV-2 and circulating variants
+  doi: https://doi.org/10.1101/2021.01.15.426911
+  ref 'Wang_et_al_01_19_2021
+    head = We report on the antibody and memory B cell responses in a cohort of 20 volunteers who received either the Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines.
+
+    > Abstract
+      To date severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has infected nearly 100 million individuals resulting in over two million deaths. Many vaccines are being deployed to prevent coronavirus disease-2019 (COVID-19) including two novel mRNA-based vaccines. These vaccines elicit neutralizing antibodies and appear to be safe and effective, but the precise nature of the elicited antibodies is not known. Here we report on the antibody and memory B cell responses in a cohort of 20 volunteers who received either the Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines. Consistent with prior reports, 8 weeks after the second vaccine injection volunteers showed high levels of IgM, and IgG anti-SARS-CoV-2 spike protein (S), receptor binding domain (RBD) binding titers. Moreover, the plasma neutralizing activity, and the relative numbers of RBD-specific memory B cells were equivalent to individuals who recovered from natural infection. However, activity against SARS-CoV-2 variants encoding E484K or N501Y or the K417N:E484K:N501Y combination was reduced by a small but significant margin. Consistent with these findings, vaccine-elicited monoclonal antibodies (mAbs) potently neutralize SARS-CoV-2, targeting a number of different RBD epitopes epitopes in common with mAbs isolated from infected donors. Structural analyses of mAbs complexed with S trimer suggest that vaccine- and virus-encoded S adopts similar conformations to induce equivalent anti-RBD antibodies. However, neutralization by 14 of the 17 most potent mAbs tested was reduced or abolished by either K417N, or E484K, or N501Y mutations. Notably, the same mutations were selected when recombinant vesicular stomatitis virus (rVSV)/SARS-CoV-2 S was cultured in the presence of the vaccine elicited mAbs. Taken together the results suggest that the monoclonal antibodies in clinical use should be tested against newly arising variants, and that mRNA vaccines may need to be updated periodically to avoid potential loss of clinical efficacy.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !g
+      !h
+      !i
+
+
+
+    / January, 2021 - bioRxiv
+    quote !a = A number of circulating SARS-CoV-2 variants that have been associated with rapidly increasing case numbers and have particular prevalence in the UK (B1.1.7/501Y.V1), South Africa (501Y.V2) and Brazil (B1.1.28/501.V3). Our experiments indicate that these variants, and potentially others that carry K417N/T, E484K and N501Y mutations, can reduce the neutralization potency of vaccinee plasma.
+
+    / January, 2021 - bioRxiv
+    quote !b = Activity against SARS-CoV-2 variants encoding E484K or N501Y or the K417N:E484K:N501Y combination was reduced by a small but significant margin.
+
+    / January, 2021 - bioRxiv
+    quote !c = Neutralization by 14 of the 17 most potent mAbs tested was reduced or abolished by either K417N, or E484K, or N501Y mutations.
+
+    / January, 2021 - bioRxiv
+    quote !d = Consistent with prior reports, 8 weeks after the second vaccine injection volunteers showed high levels of IgM, and IgG anti-SARS-CoV-2 spike protein (S), receptor binding domain (RBD) binding titers. Moreover, the plasma neutralizing activity, and the relative numbers of RBD-specific memory B cells were equivalent to individuals who recovered from natural infection.
+
+    / January, 2021 - bioRxiv
+    quote !e = Consistent with these findings, vaccine-elicited monoclonal antibodies (mAbs) potently neutralize SARS-CoV-2, targeting a number of different RBD epitopes epitopes in common with mAbs isolated from infected donors. Structural analyses of mAbs complexed with S trimer suggest that vaccine- and virus-encoded S adopts similar conformations to induce equivalent anti-RBD antibodies.
+
+    # / January, 2021 - bioRxiv
+    # quote !f = The results suggest that the monoclonal antibodies in clinical use should be tested against newly arising variants, and that mRNA vaccines may need to be updated periodically to avoid potential loss of clinical efficacy.
+
+    / January, 2021 - bioRxiv
+    quote !g = Different individuals immunized with either the Moderna (mRNA-1273) or Pfizer199 BioNTech (BNT162b2) vaccines produce closely related and nearly identical antibodies.
+
+    / January, 2021 - bioRxiv
+    quote !h = K417N, Y453F, S477R, N501Y, D614G, and R683G represent circulating variants some of which have been associated with rapidly increasing case numbers.
+
+    / January, 2021 - bioRxiv
+    quote !i = As seen in natural infection, a majority of the antibodies tested (9/17) were at least ten-fold less effective against pseudotyped viruses carrying the E484K mutation. In addition, 5 of the antibodies were less potent against K417N and 4 against N501Y by ten-fold or more.
+
+
+
+  #
+  // Autoimmunity to the Lung Protective Phospholipid-Binding Protein Annexin A2 Predicts Mortality Among Hospitalized COVID-19 Patients
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+
+  #
+
+  // Evaluation of the Effect of D614G, N501Y and S477N Mutation in SARS-CoV-2 through Computational Approach
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head = The aim of this study was to examine the mutational effect of spike protein on the sequence through an interaction study of the mutant spike protein and the human ACE2 protein at the structural level.
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes an outbreak of COVID-19 disease in humans with the aid of spike protein. It consists of a receptor-binding domain (RBD) that recognizes and binds to the host receptor angiotensin-converting enzyme 2 (ACE2). The aim of this study was to examine the mutational effect of spike protein on the sequence through an interaction study of the mutant spike protein and the human ACE2 protein at the structural level. A total of 17,227 spike proteins from Asia, Africa, Europe, Oceania, South America, and North America were compared to the Wuhan spike protein reference sequence (Wuhan-Hu-1). The structural and stability implications of D614G, N501Y, and S477N mutations were evaluated. The binding affinity between mutated RBD and human ACE2 protein was also studied. The D614G mutation may have originated in Germany, Europe based on the date of the first sample collection report. It is now widely circulated all over the world with most occurrences in North America. The mutations N501Y and S477N may have originated from Oceania based on the date of the first sample collection report and also have the highest occurrences in Oceania. Based on the computational analysis of mutational effects, the D614G, N501Y, and S477N mutations decreased stability and were tolerated. For disease propensity prediction, N501Y was more prone to disease compared to D614G, while S477N was not prone to disease. The mutation of D to G at position 614 and S to N at position 477 for secondary structure prediction shows no changes in secondary structure while remaining in the coil region, whereas the mutation of N to Y at position 501 changes from coil structure to extended strand. N501Y mutation has a higher affinity to human ACE2 protein compared to D614G and S477N based on a docking study. D614G spike mutation was identified to exist between the two hosts based on a comparison of SARS-CoV-2 derived between the mink and human. Further research is needed on the link between the mink mutation N501T and the mutation N501Y in humans, which has evolved as a separate variant.
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  #
+  // Investigation of novel SARS-CoV-2 variant
+  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948152/Technical_Briefing_VOC202012-2_Briefing_2_FINAL.pdf
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID-19
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -28,8 +209,50 @@ feed Sangeeta
 
 
   #
-  //
-  doi: https://doi.org/xyz
+  // Mutations arising in SARS-CoV-2 spike on sustained human-to-human transmission and human-to-animal passage
+  doi: https://virological.org/t/mutations-arising-in-sars-cov-2-spike-on-sustained-human-to-human-transmission-and-human-to-animal-passage/578
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  #
+  // Report: Continued spread of VOC 202012/01 in England 31 December 2020
+  doi: https://cmmid.github.io/topics/covid19/reports/uk-novel-variant/2020_12_31_Transmissibility_and_severity_of_VOC_202012_01_in_England_update_1.pdf
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  #
+  // Emergence of a Highly Fit SARS-CoV-2 Variant
+  doi: https://doi.org/10.1056/NEJMcibr2032888
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  #
+  // Investigation of novel SARS-CoV-2 variant: Variant of Concern 202012/01
+  doi: https://www.gov.uk/government/publications/investigation-of-novel-sars-cov-2-variant-variant-of-concern-20201201
   ref 'Doremalen_et_al_07_30_2020
     head =
 
@@ -41,6 +264,340 @@ feed Sangeeta
 
   #
 
+  #
+  // Possible host-adaptation of SARS-CoV-2 due to improved ACE2 receptor binding in mink.
+  doi: https://doi.org/10.1093/ve/veaa094
+  ref 'Welkers_et_al_12_07_2020
+    head = Mink-derived	SARS-CoV-2	strains	encode substitutions in	areas	of the genome	crucial	to ACE2	receptor	binding	and	could	potentially	affect neutralizing	antibody responses in	humans as	well.	With this	reflection	we would like	to highlight these observations, raise	awareness	and	urge for the continued surveillance	of mink (and	other	animal)-related	infections
+
+    > Abstract
+      SARS-CoV-2	infections	on	mink	farms	are	increasingly	observed	in	several	countries,	leading	to	the	massive	culling	of	animals	on	affected	farms. Recent studies	showed	multiple	(anthropo)zoonotic transmission	events	between	humans and mink	on these farms.	Mink-derived SARS-CoV-2 sequences from The	Netherlands	and	Denmark contain multiple	substitutions	in	the	S	protein	receptor	binding	domain (RBD).	Molecular	modeling	showed that	these	substitutions	increase the mean	binding	energy, suggestive	of potentialadaptation	of	the	SARS-CoV-2 S	protein to	the	mink	ACE2	receptor.	These	substitutions	could	possibly	also impact	human	ACE2	binding	affinity	as	well	ashumoral	immune	responses directed	to	the	RBD	region	of	the	SARS-CoV-2 S	protein	in	humans. We	wish	to	highlight	these	observations	to	raise	awareness	and	urge	for	the	continued	surveillance	of	mink	(and	other	animal)-related	infections.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+
+    / December, 2020 - Virus Evolution
+    quote !a = Mink-derived	SARS-CoV-2	sequences from	The	Netherlands	and	Denmark contain multiple substitutions	in	the	S	protein	receptor	binding	domain (RBD).
+
+    / December, 2020 - Virus Evolution
+    quote !b = Our analyses	showed an	overall increase in mean	binding	energies between substitutions Y453F,	F486L	and	N501T and	the	mink-like	ACE2 receptor in	the	 same	range	as those	substitutions	that improved	binding	with human	ACE2 receptor,suggesting that	these	RBD	substitutions found	inminks	may indeed	improve	binding of	the	spike	protein to	mink	ACE2 compared	to	human	ACE2.
+
+    / December, 2020 - Virus Evolution
+    quote !c = Recent	outbreaks	have	been	reported	at	more	than	200	mink	farms	in Denmark. Additionally,	over	200 human	SARS-CoV-2	sequences collected	in	Denmark, contain the	Y453F RBD	substitution.
+
+    / December, 2020 - Virus Evolution
+    quote !d = Although	the	introduction	of	the	Y453F	SARS-CoV-2 variant	in	the	human	population	was	likely	due	to	the	outbreaks	at	mink	farms, many	of	the	infected	humans	in	Denmark	had	no	direct	link	to	the	affected	mink	farms, indicating the	possibility	of	sustained	transmission	of	the	Y453F	variant	among	humans.
+
+
+
+  #
+  // Detection of new SARS-CoV-2 variants related to mink
+  doi: https://www.ecdc.europa.eu/sites/default/files/documents/RRA-SARS-CoV-2-in-mink-12-nov-2020.pdf
+  ref 'Adlhoch_et_al_11_12_2020
+    head = As of 5 November 2020, Denmark had reported 214 human COVID-19 cases infected with SARS-CoV-2 related to mink (all carrying the mutation Y453F in the spike (S) protein, referred to as mink-related variants). The 214 cases represent 4.2% of the 5 102 human samples sequenced in Denmark from week 24 (814 June) to week 42 (1218 October) 2020, when many mink farm outbreaks in the north-west of the country were reported.
+
+    > Summary
+      Since April 2020, when the first SARS-CoV-2 infection was reported in the Netherlands in a mink and subsequently in a mink farm worker, it has been established that human-to-mink and mink-to-human transmission can occur.
+      Since then, infections in mink have been reported in Denmark, Italy, Spain, Sweden and the United States.
+      On 5 November 2020, Denmark reported 214 human COVID-19 cases infected with SARS-CoV-2 virus variants
+      related to mink, as well as infected mink at more than 200 mink farms. Most human and animal cases reported since June 2020 have been in the North Jutland Region. The SARS-CoV-2 variants detected in these cases were part of at  least five closely-related clusters; each cluster was characterised by a specific mink-related variant, identified in humans and animals from infected mink farms. Denmark has implemented robust response measures to control the outbreaks in mink and decrease the spill-over between the human and the animal reservoir.
+      One of the clusters (Cluster 5), which was reported as circulating in August and September 2020, is related to a variant with four genetic changes, three substitutions and one deletion, in the spike (S) protein. Since the S protein contains the receptor-binding domain, and is a major target for immune response, such mutations could, in theory, have implications for viral fitness (ability to infect humans and animals), transmissibility, and antigenicity. As a consequence, the evolution of viruses with increasing changes in functional domains of the S protein could affect treatment, certain diagnostic tests and virus antigenicity. It could also have an impact on the effectiveness of developed vaccine candidates, and possibly require them to be updated. Investigations and studies are ongoing to clarify the extent of these possible implications.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+      !m
+      !n
+      !o
+      !p
+      !q
+      !r
+      !s
+      !t
+      !u
+      !v
+      !w
+      !x
+      !y
+      !z
+      !a1
+      !b1
+      !c1
+      !d1
+
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !a = Of the 214 human cases infected with mink-related virus variants, 12 human cases were infected with strains showing four genetic changes in the S protein; three substitutions and one deletion. This cluster is referred to in the Danish risk assessment as Cluster 5. The 12 human cases were reported in the North Jutland Region in August and September 2020 and not all of them had a direct link to a mink farm.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !b = The Danish risk assessment stresses that if these new SARS-CoV-2 variants with lower susceptibility to neutralising antibodies spread widely in the population it might have an impact on the level of vaccine effectiveness for the vaccines currently under development. Furthermore, the establishment of a virus reservoir among mink may give rise to problematic virus variants in the future.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !c = Preliminary results, using a panel of convalescent sera from humans (n=9), infected with common circulating SARS-CoV-2 strains during spring 2020 with low, medium and high neutralising antibody titers, exhibited an average of 3.58-fold reduction. However, only three of the strains exhibited a 4-fold reduction when tested with the virus isolate from a patient with the Cluster 5 virus variant, compared to the unmutated common wild-type SARS-CoV-2 strain. These findings indicate that there could be a potential impact on antibody-mediated immunity provided by SARS-CoV-2 infection or vaccines.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !d = The 214 mink-related cases reported by Denmark all involve strains with the S protein mutation Y453F. The mutation Y453F has been observed in several clusters related to mink farms in the Netherlands.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !e = The strains from the Netherlands and Denmark are not closely related and fall into different genetic clades, which excludes a direct link between farms in the two countries.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !f = Some of the strains from mink in the Netherlands lack Y453F, which demonstrates that it is not a prerequisite for infecting mink, but probably a selected mutation in the mink population.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !g = Variants with Y453F, unrelated to the Danish and Dutch variants, have also been reported sporadically from other countries (the Russian Federation, South Africa, Switzerland, and the United States). These variants have come from human cases without a known link to mink farms, which suggests that the strain may not always be related to mink, unless there was undetected mink-to-human transmission.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !h = About half of the mink-related strains reported by Denmark additionally carry a deletion of two amino acids (69-70) in the S protein. This mutation is not present in any of the mink strains from the Netherlands but has been widely reported in unrelated human cases without Y453F in the GISAID EpiCoV database (from Australia, Canada, Côte d’Ivoire, France, Germany, Malaysia, New Zealand, Norway, Sweden, and the United Kingdom).
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !i = The Cluster 5 variant strains carry two additional mutations in the S protein (I692V, M1229I) for a total of four S protein mutations, one of which (Y453F) is located in the receptor binding domain (RBD).
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !j = The Cluster 5 variant was last observed in Denmark on 14 September 2020, which may suggest that it is no longer circulating.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !k = Viruses with the S protein Y453F mutation have become increasingly common and are now causing approximately 40% of the COVID-19 cases in the North Jutland Region. In the Netherlands, the viruses with the Y453F mutation related to mink farms did not continue to circulate.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !l = Transmissibility: Current evidence available from Denmark and the Netherlands on SARS-CoV-2 variants related to mink indicates that these variants are able to circulate rapidly in mink farms and the human communities close to the farms, however, they do not appear to be more transmissible than other circulating SARS-CoV-2 variants.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !m = Transmissibility: The probability of infection with mink-related variant strains is assessed as low for the general population, moderate for populations in areas with a high concentration of mink farms and very high for individuals with occupational exposure.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !n = Severity: Patients reported to be infected with mink-related variants, including the Cluster 5 variant in Denmark, do not appear to have more severe clinical symptoms than those infected with non-mink-related variants. Therefore the current impact of COVID-19 on disease severity in patients infected with any mink-related variant appears to be similar to those infected with non-mink-related variants.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !o = Of all mink-related variants analysed so far, only the Cluster 5 variant has raised specific concern due to its effect on antigenicity.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !p = Continued transmission of SARS-CoV-2 in mink farms may eventually give rise to other variants of concern.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !q = The cross-border spread of SARS-CoV-2 variants related to mink in EU/EEA countries and the UK through humans has not been observed so far, but there is no indication that the potential for cross-border spread is different to that for other SARS-CoV-2 variants.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !r = The mutation Y453F, defining mink-related variants, has also been detected outside of Europe, indicating the potential for circulation of such strains. In the past few months, community transmission has occurred in Denmark and, to some extent, in the Netherlands, which could lead to cross-border spread.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !s = The cross-border spread of SARS-CoV-2 variants related to mink in EU/EEA countries and the UK through animals and animal products appears very low.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !t = Mink-to-mink transmission is very efficient. No link has been identified between infected farms.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !u = A proportion of farm animals had clinical symptoms suggestive of acute respiratory illness for about four weeks, but some animals were still RT-PCR–positive for SARS-CoV-2 in throat swabs after clinical symptoms had disappeared. This may vary, as seen recently in Danish outbreaks, where clinical symptoms were observed for shorter periods.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !v = The high diversity in the sequences from some mink farms can probably be explained by the existence of many generations of infected animals before an increase in mortality was observed.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !w = The current estimates are that the substitution rate of SARS-CoV-2 is one mutation per two weeks. There was also a relatively high sequence diversity observed in farms, which still tested negative one week prior to the outbreak, implying that the virus evolves more quickly in the mink population. This can indicate that the virus might replicate more efficiently in mink or that it may have acquired mutations which make it more virulent in mink.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !x = Italy reported one mink (weakly) positive for SARS-CoV-2 at a farm in the Lombardy region on 10 August 2020. No lesions were found in this mink. The detection came after the identification of a case of COVID-19 in a worker from the farm. In response, around 1 500 mink were tested and no further cases were detected.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !y = Spain reported SARS-CoV-2 infections at a mink farm in the Aragon region. On 21 May 2020, seven asymptomatic infections were reported among workers at a mink farm in Aragon, according to media quoting the Spanish health authorities. On 22 June 2020, one animal tested positive by RT-PCR for SARS-CoV-2. On 7 July 2020, 78 of the 90 animals tested were found positive by RT- RAPID RISK ASSESSMENT Detection of new SARS-CoV-2 variants related to mink – 12 November 2020.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !z = As of 6 November 2020, Sweden had reported ten SARS-CoV-2-positive mink at farms in Blekinge county, where the first detection in one mink occurred on 16 October 2020. Several mink that had been found dead also tested positive. Sequences from two mink and two human cases have been reported without any S protein mutations.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !a1 = As of 30 October 2020, 11 outbreaks in commercial mink farms have been reported in three states of the United States. These outbreaks occurred between 26 July and 29 September 2020. Several people that were in contact with mink from these farms also tested positive for SARS-CoV-2. In total, 12 231 mink died as a result of contracting the virus.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !b1 = During the summer and autumn of 2020, S protein mutations unrelated to mink have emerged and become widespread in the EU/EEA and the UK. These include amino acid substitutions A222V and S477N, which are increasing in proportion, although no selective advantages or changes in antigenic properties have been demonstrated, and N439K, for which reduced neutralisation effect by convalescent sera has been demonstrated
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !c1 = Virus mutations can affect the sensitivity of diagnostic assays that detect nucleic acid, antigen or antibodies. None of the mink-related variants reported by Denmark are known to cause any issues with existing RT-PCR assays as none of the mutations defining the mink-related clusters are located within the amplicons of RT-PCR assays recommended by WHO, and such assays generally do not target the S gene. The variants could potentially affect antigen and antibody detection assays and further investigations are needed to assess this.
+
+    / November, 2020 - European Centre for Disease Prevention and Control.
+    quote !d1 = The sensitivities of diagnostic RT-PCR assays are not affected by the Cluster 5 variant or other Danish mink-related S protein variants as RT-PCR assays do not target the spike gene. The variants could potentially have an effect on the sensitivities of antigen and antibody detection assays, including rapid antigen tests (RATs), although any effect  will probably be small.
+
+
+
+  # ask ayush
+  // Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants
+  doi: https://doi.org/10.7554/eLife.61312
+  ref 'Weisblum_et_al_10_28_2020
+    head = Using a recombinant chimeric VSV/SARS-CoV-2 reporter virus, we show that functional SARS-CoV-2 S protein variants with mutations in the receptor-binding domain (RBD) and N-terminal domain that confer resistance to monoclonal antibodies or convalescent plasma can be readily selected.
+    >
+      Neutralizing antibodies elicited by prior infection or vaccination are likely to be key for future protection of individuals and populations against SARS-CoV-2. Moreover, passively administered antibodies are among the most promising therapeutic and prophylactic anti-SARS-CoV-2 agents. However, the degree to which SARS-CoV-2 will adapt to evade neutralizing antibodies is unclear. Using a recombinant chimeric VSV/SARS-CoV-2 reporter virus, we show that functional SARS-CoV-2 S protein variants with mutations in the receptor-binding domain (RBD) and N-terminal domain that confer resistance to monoclonal antibodies or convalescent plasma can be readily selected. Notably, SARS-CoV-2 S variants that resist commonly elicited neutralizing antibodies are now present at low frequencies in circulating SARS-CoV-2 populations. Finally, the emergence of antibody-resistant SARS-CoV-2 variants that might limit the therapeutic usefulness of monoclonal antibodies can be mitigated by the use of antibody combinations that target distinct neutralizing epitopes.
+
+    - quotes
+      !a
+      !b
+
+
+    / October, 2020 - eLife
+    quote !a = Notably, SARS-CoV-2 S variants that resist commonly elicited neutralizing antibodies are now present at low frequencies in circulating SARS-CoV-2 populations.
+
+    / October, 2020 - eLife
+    quote !b = Monoclonal antibodies can be mitigated by the use of antibody combinations that target distinct neutralizing epitopes.
+
+
+  #
+  // Landscape analysis of escape variants identifies SARS-CoV-2 spike mutations that attenuate monoclonal and serum antibody neutralization
+  doi: https://doi.org/10.1101/2020.11.06.372037
+  ref 'Liu_et_al_11_08_2020
+    head = To define the immune-mediated mutational landscape in S protein, we used a VSV-eGFP-SARS-CoV-2-S chimeric virus and 19 neutralizing monoclonal antibodies (mAbs) against the receptor binding domain (RBD) to generate 48 escape mutants.
+
+    > Abstract
+      Although neutralizing antibodies against the SARS-CoV-2 spike (S) protein are a goal of most COVID-19 vaccines and being developed as therapeutics, escape mutations could compromise such countermeasures. To define the immune-mediated mutational landscape in S protein, we used a VSV-eGFP-SARS-CoV-2-S chimeric virus and 19 neutralizing monoclonal antibodies (mAbs) against the receptor binding domain (RBD) to generate 48 escape mutants. These variants were mapped onto the RBD structure and evaluated for cross-resistance by convalescent human plasma. Although each mAb had unique resistance profiles, many shared residues within an epitope, as several variants were resistant to multiple mAbs. Remarkably, we identified mutants that escaped neutralization by convalescent human sera, suggesting that some humans induce a narrow repertoire of neutralizing antibodies. By comparing the antibody-mediated mutational landscape in S protein with sequence variation in circulating SARS-CoV-2 strains, we identified single amino acid substitutions that could attenuate neutralizing immune responses in some humans.
+
+    - quotes
+      !a
+      !b
+      !c
+      !e
+      !f
+      !g
+      !h
+
+    / November, 2020 - BioRxiv
+    quote !a = Characterization of escape mutants identified several that exhibit resistance to multiple antibodies, convalescent human sera, and soluble receptor decoys. Resistance to neutralization by serum from naturally infected humans suggests that the neutralizing response to SARS-CoV-2 in some individuals may be dominated by antibodies that recognize relatively few epitopes.
+
+    / November, 2020 - BioRxiv
+    quote !b = Some escape mutants contain substitutions in residues at which variation already is observed in circulating human isolates of SARS-CoV-2. If a similar limited polyclonal response occurred following S protein-based vaccination, escape variants could emerge in the human population and compromise their efficacy.
+
+    / November, 2020 - BioRxiv
+    quote !c = Multiple different mAbs led to resistance substitutions at K444, G446, N450, L452, S477, T478, P479, E484, F486 and P499, suggesting that they comprise major antigenic sites within the RBD.
+
+    # / November, 2020 - BioRxiv
+    # quote !d = In earlier work, substitutions at residues K444, N450, E484 and F486 were identified using two antibodies that are in clinical development (Baum et al., 2020b), and a separate study using three different antibodies defined resistance substitutions at R346, N440, E484, F490 and Q493.
+
+    / November, 2020 - BioRxiv
+    quote !e = Substitution S477N, the second most abundant variant in circulating human isolates of SARS-CoV-2, led to a degree of resistance to all of the mAbs we profiled, including 2B04 and 2H04. Structures of 2B04 and 2H04 in complex with S protein highlight their mutually distinct contacts with the RBD.
+
+    / November, 2020 - BioRxiv
+    quote !f = Substitutions at position E484 were associated with resistance to neutralization by several convalescent human sera. Four variants at this position (E484A, E484D, E484G and E484K) exhibited resistance to each of the human convalescent sera we tested. This suggests that high titer neutralizing antibodies may be directed toward a narrow repertoire of epitopes following natural infection.
+
+    / November, 2020 - BioRxiv
+    quote !g = Substitution at position 484 is relatively uncommon among clinical isolates, with just 0.05% of sequenced strains showing any variation at this position, suggesting that variation at this position may come with an apparent fitness cost for viral replication.
+
+    / November, 2020 - BioRxiv
+    quote !h = Among the escape variants we selected, there were several that exhibited altered susceptibility to neutralization by soluble ACE2. Substitution F486S was particularly notable, as we were unable to attain 50% neutralization at the highest concentrations of soluble ACE2 tested (>20 μg/ml).
+
+
+
+  #
+  // SARS-CoV-2 escape in vitro from a highly neutralizing COVID-19 convalescent plasma
+  doi: https://doi.org/10.1101/2020.12.28.424451
+  ref 'Andreano_et_al_12_28_2020
+    head = To investigate the evolution of SARS-CoV-2 in the immune population, we co-incubated authentic virus with a highly neutralizing plasma from a COVID-19 convalescent patient.
+
+    > Abstract
+      To investigate the evolution of SARS-CoV-2 in the immune population, we co-incubated authentic virus with a highly neutralizing plasma from a COVID-19 convalescent patient. The plasma fully neutralized the virus for 7 passages, but after 45 days, the deletion of F140 in the spike N-terminal domain (NTD) N3 loop led to partial breakthrough. At day 73, an E484K substitution in the receptor-binding domain (RBD) occurred, followed at day 80 by an insertion in the NTD N5 loop containing a new glycan sequon, which generated a variant completely resistant to plasma neutralization. Computational modeling predicts that the deletion and insertion in loops N3 and N5 prevent binding of neutralizing antibodies. The recent emergence in the United Kingdom and South Africa of natural variants with similar changes suggests that SARS-CoV-2 has the potential to escape an effective immune response and that vaccines and antibodies able to control emerging variants should be developed.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / December, 2020 - BioRxiv
+    quote !a = We have shown that the authentic SARS-CoV-2 virus, if constantly pressured, has the ability to escape even a potent polyclonal serum targeting multiple neutralizing epitopes.
+
+    / December, 2020 - BioRxiv
+    quote !b = Only three mutations allowed SARS-CoV-2 to evade the polyclonal antibody response of a highly neutralizing COVID-19 convalescent plasma.
+
+    / December, 2020 - BioRxiv
+    quote !c = Our data also confirm that the SARS-CoV-2 neutralizing antibodies acquired during infection target almost entirely the NTD and the RBD.
+
+    / December, 2020 - BioRxiv
+    quote !d = The plasma fully neutralized the virus for 7 passages, but after 45 days, the deletion of F140 in the spike N-terminal domain (NTD) N3 loop led to partial breakthrough.
+
+    / December, 2020 - BioRxiv
+    quote !e = At day 73, an E484K substitution in the receptor-binding domain (RBD) occurred, followed at day 80 by an insertion in the NTD N5 loop containing a new glycan sequon, which generated a variant completely resistant to plasma neutralization.
+
+    / December, 2020 - BioRxiv
+    quote !f = In the RBD, the possibility to escape is limited and the mutation E484K that we found is one of the most frequent mutations to escape monoclonal antibodies and among the most common RBD mutations described in experimental settings as well as in natural isolates posted in the GISAD database.
+
+    / December, 2020 - BioRxiv
+    quote !g = Computational modeling predicts that the deletion and insertion in loops N3 and N5 prevent binding of neutralizing antibodies.
+
+    / December, 2020 - BioRxiv
+    quote !h = The recent emergence in the United Kingdom and South Africa of natural variants with similar changes suggests that SARS-CoV-2 has the potential to escape an effective immune response and that vaccines and antibodies able to control emerging variants should be developed.
+
+    / December, 2020 - BioRxiv
+    quote !i = In our case, the final mutation contained an insertion carrying an N-glycosylation site which has the potential to hide or obstruct the binding to neutralizing epitopes. The introduction of a glycan is a well-known immunogenic escape strategy described in influenza (29), HIV-1 and other viruses (30–32), although to our knowledge this finding presents the first patient-derived escape mutant utilizing this mechanism for SARS-CoV-2.
+
+
+  #
+  // Genomic characterisation of an emergent SARS-CoV-2 lineage in Manaus: preliminary findings
+  doi: https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586
+  ref 'Faria_et_al_01_12_2021
+    head = We have detected a previously undiscovered novel cluster of B.1.1.28 genomes from Manaus containing a unique genetic signature. This new cluster, hereby named P.1 lineage, comprises 42% (13 out of 31) of the genomes from Manaus,Amazonas state, north Brazil in mid/late-December and contains several mutations of potential biological significance. Here we provide a preliminary phylogenetic description and explain the nomenclature designation for this recently-detected lineage.
+
+    # We have detected a new variant circulating in December in Manaus, Amazonas state, north Brazil, where very high attack rates have been estimated previously. - which head is better?
+
+
+    > Summary
+      We have detected a new variant circulating in December in Manaus, Amazonas state, north Brazil, where very high attack rates have been estimated previously. The new lineage, named P.1 (descendent of B.1.1.28), contains a unique constellation of lineage defining mutations, including several mutations of known biological importance such as E484K, K417T, and N501Y. Importantly, the P.1 lineage was identified in 42% (13 out of 31) RT-PCR positive samples collected between 15 to 23 December, but it was absent in 26 publicly available genome surveillance samples collected in Manaus between March to November 2020. These findings indicate local transmission and possibly recent increase in the frequency of a new lineage from the Amazon region. The higher diversity and the earlier sampling dates of P.1. in Manaus corroborates the travel info of recently detected cases in Japan, suggesting the direction of travel was Manaus to Japan. The recent emergence of variants with multiple shared mutations in spike raises concern about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection of individuals.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+
+    / January, 2021 - Virological.org
+    quote !a = The new lineage, named P.1 (descendent of B.1.1.28), contains a unique constellation of lineage defining mutations, including several mutations of known biological importance such as E484K, K417T, and N501Y.
+
+    / January, 2021 - Virological.org
+    quote !b = The new P.1 lineage carries 17 unique amino acid changes, 3 deletions, and 4 synonymous mutations, and one 4nt insertion compared to the most closely related available non-P.1 sequence (EPI_ISL_722052), which lies at the base of the long branch immediately ancestral to P.1.
+
+    / January, 2021 - Virological.org
+    quote !c = The P.1 lineage meets the criteria for new lineage designation on the basis that it is phylogenetically and genetically distinct from ancestral viruses, associated with rapid spread in a new area, and carries a constellation of mutations that may have functional and/or phenotypic relevance
+
+    / January, 2021 - Virological.org
+    quote !d = The recent emergence of variants with multiple shared mutations in spike raises concern about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection of individuals.
+
+    / January, 2021 - Virological.org
+    quote !e = The P.1 lineage was identified in 42% (13 out of 31) RT-PCR positive samples collected between 15 to 23 December, but it was absent in 26 publicly available genome surveillance samples collected in Manaus between March to November 2020. These findings indicate local transmission and possibly recent increase in the frequency of a new lineage from the Amazon region.
+
+    / January, 2021 - Virological.org
+    quote !f = The newly described P.1. lineage from Manaus and the B.1.1.7 first described in the United Kingdom share the spike N501Y mutation and a deletion in ORF1b (del11288-11296 (3675-3677 SGF).
+
+    / January, 2021 - Virological.org
+    quote !g = The P.1. lineage and the B.1.351 (also known as 501Y.V2) lineage described in South Africa  share three mutation positions in common in the spike protein (K417N/T, E484K, N501Y). Both the P.1 and the B.1.351 lineage also has the orf1b deletion del11288-11296 (3675-3677 SGF).
+
+    / January, 2021 - Virological.org
+    quote !h = The set of mutations/deletions shared between P.1, B.1.1.7, and the B.1.351 lineages appear to have arisen entirely independently. Further, both mutations shared between P1 and B.1.351 seem to be associated with a rapid increase in cases in locations where previous attack rates are thought to be very high. Therefore it is essential to rapidly investigate whether there is an increased rate of re-infection in previously exposed individuals.
+
+    / January, 2021 - Virological.org
+    quote !i = The higher diversity and the earlier sampling dates of P.1. in Manaus corroborates the travel info of recently detected cases in Japan, suggesting the direction of travel was Manaus to Japan.
+
+
+
+  #
   // Rapid generation of durable B cell memory to SARS-CoV-2 spike and nucleocapsid proteins in COVID-19 and convalescence
   doi: https://doi.org/10.1126/sciimmunol.abf8891
   ref 'Hartley_et_al_12_22_2020
@@ -56,7 +613,7 @@ feed Sangeeta
   // Early transmissibility assessment of the N501Y mutant strains of SARS-CoV-2 in the United Kingdom, October to November 2020.
   doi: https://doi.org/10.2807/1560-7917.ES.2020.26.1.2002106
   ref 'Leung_et_al_12_28_2020
-    head = We adopted our previous epidemiological framework for relative fitness inference of co-circulating pathogen strains, which has been applied on influenza viruses [1] and SARS-CoV-2 D614G strains [2], to characterise the comparative transmissibility of the 501Y lineages.
+    head = We adopted our previous epidemiological framework for relative fitness inference of co-circulating pathogen strains, which has been applied on influenza viruses and SARS-CoV-2 D614G strains, to characterise the comparative transmissibility of the 501Y lineages.
 
     - quotes
       !a
@@ -70,7 +627,7 @@ feed Sangeeta
       !i
 
     / December, 2020 - Eurosurveillance
-    quote !a = The earlier 501Y lineage (501Y Variant 1) co-circulated with the 501N lineage between early September and mid-November in Wales, where its proportion never exceeded 2% among sequenced samples. However, a later 501Y lineage (501Y Variant 2 (also named B.1.1.7, 20B/501Y.V1 and VOC-202012/01)) started co-circulating with the 501N lineage in England in late September and became the dominant lineage in December.
+    quote !a = The earlier 501Y lineage (501Y Variant 1) co-circulated with the 501N lineage between early September and mid-November in Wales, where its proportion never exceeded 2% among sequenced samples. However, a later 501Y lineage (501Y Variant 2 also named B.1.1.7, 20B/501Y.V1 and VOC-202012/01) started co-circulating with the 501N lineage in England in late September and became the dominant lineage in December.
 
     / December, 2020 - Eurosurveillance
     quote !b = In the UK, the proportion of the 501Y Variant 2 lineage has increased from 0.1% in early October to 49.7% in late November among sequences as at 19 December 2020.
@@ -184,7 +741,6 @@ feed Sangeeta
   ref 'Greaney_et_al_01_04_2021
     head = We comprehensively map how all amino-acid mutations to the SARS-CoV-2 spike RBD affect binding by the antibodies in plasma collected from convalescent individuals ~1 to ~3 months post-symptom onset.
 
-
     > Abstract
       The evolution of SARS-CoV-2 could impair recognition of the virus by human antibody-mediated immunity. To facilitate prospective surveillance for such evolution, we map how convalescent serum antibodies are impacted by all mutations to the spike’s receptor-binding domain (RBD), the main target of serum neutralizing activity. Binding by polyclonal serum antibodies is affected by mutations in three main epitopes in the RBD, but there is substantial variation in the impact of mutations both among individuals and within the same individual over time. Despite this inter- and intra-person heterogeneity, the mutations that most reduce antibody binding usually occur at just a few sites in the RBD’s receptor binding motif. The most important site is E484, where neutralization by some sera is reduced >10-fold by several mutations, including one in emerging viral lineages in South Africa and Brazil. Going forward, these serum escape maps can inform surveillance of SARS-CoV-2 evolution.
 
@@ -212,7 +768,7 @@ feed Sangeeta
     # quote !a = Our results suggest that E484 is the site of most concern for viral mutations that impact binding and neutralization by polyclonal serum antibodies targeting the RBD.
 
     / January, 2021 - bioRxiv
-    quote !d = The site where mutations tend to have the largest effect on binding and neutralization by polyclonal serum antibodies targeting the RB  is E484, which unfortunately is a site where mutations are present in several emerging SARS-CoV-2 lineages (South Africa and Brazil).
+    quote !d = The site where mutations tend to have the largest effect on binding and neutralization by polyclonal serum antibodies targeting the RB is E484, where neutralization by some sera is reduced >10-fold by several mutations, which unfortunately is also a site where mutations are present in several emerging SARS-CoV-2 lineages (South Africa and Brazil).
 
     / January, 2021 - bioRxiv
     quote !e = Mutations at the other serum antibody epitopes (e.g., the 443–450 loop and residues around 484 such as 455, 485, 486, and 490) are also worth monitoring, since they also have antigenic impacts.
@@ -291,147 +847,6 @@ feed Sangeeta
     quote !l = Because current vaccines provoke an immune response to the entire spike protein, it is hoped that effective protection may still occur despite a few changes at antigenic sites in SARS-CoV-2 variants.
 
 
-
-  #
-  // Comprehensive mapping of mutations to the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human serum antibodies
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-  #
-
-
-  // Autoimmunity to the Lung Protective Phospholipid-Binding Protein Annexin A2 Predicts Mortality Among Hospitalized COVID-19 Patients
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-
-  #
-
-  // Evaluation of the Effect of D614G, N501Y and S477N Mutation in SARS-CoV-2 through Computational Approach
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head = The aim of this study was to examine the mutational effect of spike protein on the sequence through an interaction study of the mutant spike protein and the human ACE2 protein at the structural level.
-
-    > Abstract
-      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes an outbreak of COVID-19 disease in humans with the aid of spike protein. It consists of a receptor-binding domain (RBD) that recognizes and binds to the host receptor angiotensin-converting enzyme 2 (ACE2). The aim of this study was to examine the mutational effect of spike protein on the sequence through an interaction study of the mutant spike protein and the human ACE2 protein at the structural level. A total of 17,227 spike proteins from Asia, Africa, Europe, Oceania, South America, and North America were compared to the Wuhan spike protein reference sequence (Wuhan-Hu-1). The structural and stability implications of D614G, N501Y, and S477N mutations were evaluated. The binding affinity between mutated RBD and human ACE2 protein was also studied. The D614G mutation may have originated in Germany, Europe based on the date of the first sample collection report. It is now widely circulated all over the world with most occurrences in North America. The mutations N501Y and S477N may have originated from Oceania based on the date of the first sample collection report and also have the highest occurrences in Oceania. Based on the computational analysis of mutational effects, the D614G, N501Y, and S477N mutations decreased stability and were tolerated. For disease propensity prediction, N501Y was more prone to disease compared to D614G, while S477N was not prone to disease. The mutation of D to G at position 614 and S to N at position 477 for secondary structure prediction shows no changes in secondary structure while remaining in the coil region, whereas the mutation of N to Y at position 501 changes from coil structure to extended strand. N501Y mutation has a higher affinity to human ACE2 protein compared to D614G and S477N based on a docking study. D614G spike mutation was identified to exist between the two hosts based on a comparison of SARS-CoV-2 derived between the mink and human. Further research is needed on the link between the mink mutation N501T and the mutation N501Y in humans, which has evolved as a separate variant.
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-  #
-  // Recurrent mutations in SARS-CoV-2 genomes isolated from mink point to rapid host-adaptation
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-
-  #
-  // Investigation of novel SARS-CoV-2 variant
-  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948152/Technical_Briefing_VOC202012-2_Briefing_2_FINAL.pdf
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID-19
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-  #
-  // Mutations arising in SARS-CoV-2 spike on sustained human-to-human transmission and human-to-animal passage
-  doi: https://virological.org/t/mutations-arising-in-sars-cov-2-spike-on-sustained-human-to-human-transmission-and-human-to-animal-passage/578
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-  #
-  // Report: Continued spread of VOC 202012/01 in England 31 December 2020
-  doi: https://cmmid.github.io/topics/covid19/reports/uk-novel-variant/2020_12_31_Transmissibility_and_severity_of_VOC_202012_01_in_England_update_1.pdf
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-  #
-  // Emergence of a Highly Fit SARS-CoV-2 Variant
-  doi: https://doi.org/10.1056/NEJMcibr2032888
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-
-  #
-  // Investigation of novel SARS-CoV-2 variant: Variant of Concern 202012/01
-  doi: https://www.gov.uk/government/publications/investigation-of-novel-sars-cov-2-variant-variant-of-concern-20201201
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
 
 
   #
@@ -804,27 +1219,31 @@ feed Sangeeta
       !e
       !f
       !g
+      !h
 
     /
     quote !a = Within the infected mink, the SARS-CoV-2 virus mutated, giving rise to several amino acid changes in the spike protein. The first was a tyrosine to phenylalanine at amino acid 453 (Y453F), a mutation that also appeared during the Dutch mink farm outbreaks. It is a conservative amino acid substitution in the receptor binding domain that directly contacts the host ACE2 receptor at amino acid 34.
 
     /
-    quote !b = This ACE2 contact position differs between human and mink (histidine [34H] in humans and tyrosine [34Y] in mink and other mustelids, which suggests that Y453F is an adaptation mutation to mink ACE2. Importantly, 453F increases affinity for human ACE2, which may explain its successful introduction and establishment in humans.
+    quote !b = This ACE2 contact position differs between human and mink (histidine [34H] in humans and tyrosine [34Y] in mink and other mustelids, which suggests that Y453F is an adaptation mutation to mink ACE2.
 
     /
-    quote !c = Following the appearance of 453F, additional spike mutations were observed in minks and the humans epidemiologically linked to the infected mink farms. These include: i) 69-70deltaHV - a deletion of a histidine and valine at amino acid positions 69 and 70 in the N-terminal domain of the S1 subunit; ii) I692V – a conservative substitution at position 692 that is located seven amino acids downstream of the furin cleavage site; iii) S1147L – a non-conservative substitution at position 1147 in the S2 subunit; and iv) M1229I – a conservative substitution located within the transmembrane domain.
+    quote !c = 453F increases affinity for human ACE2, which may explain its successful introduction and establishment in humans.
 
     /
-    quote !d = Efforts are underway to isolate each mink-associated SARS-CoV-2 spike mutant strain that occurs in people residing in Denmark. To date, Statens Serum Institut in Denmark has isolated two strains of mink-associated SARS-CoV-2 viruses. These include an isolate with the 453F spike mutation (F-spike) from cluster 1 and an isolate with a 69-70deltaHV, 453F, 692V, and 1229I mutation combination from Cluster 5 (hereafter referred to as ΔFVI-spike).
+    quote !d = Following the appearance of 453F, additional spike mutations were observed in minks and the humans epidemiologically linked to the infected mink farms. These include: i) 69-70deltaHV - a deletion of a histidine and valine at amino acid positions 69 and 70 in the N-terminal domain of the S1 subunit; ii) I692V – a conservative substitution at position 692 that is located seven amino acids downstream of the furin cleavage site; iii) S1147L – a non-conservative substitution at position 1147 in the S2 subunit; and iv) M1229I – a conservative substitution located within the transmembrane domain.
 
     /
-    quote !e = The clinical isolates bearing the Y453F spike mutation replicated as efficiently as the unmutated/wildtype SARS-CoV-2 virus that predominates in Denmark. Conversely, the SARS-CoV-2 virus with four mutations grew slower than both the wildtype virus and other SARS62 CoV-2 virus isolates.
+    quote !e = Efforts are underway to isolate each mink-associated SARS-CoV-2 spike mutant strain that occurs in people residing in Denmark. To date, Statens Serum Institut in Denmark has isolated two strains of mink-associated SARS-CoV-2 viruses. These include an isolate with the 453F spike mutation (F-spike) from cluster 1 and an isolate with a 69-70deltaHV, 453F, 692V, and 1229I mutation combination from Cluster 5 (hereafter referred to as ΔFVI-spike).
 
     /
-    quote !f = The ΔFVI-spike mutant virus titer increased 54.7-fold from 24 to 96 hours post-inoculation, compared to an average of 4-fold (range: 2.6 to 5.7-fold) over the same time for other SARS-CoV-2 isolates. The ability to replicate to high viral titers is consistent with high levels of the ΔFVI-spike mutant virus detected in throat swab samples of infected persons, as indicated by an average qPCR assay (E-Sarbeco) cycle threshold of 24.7 (range: 20-35).
+    quote !f = The clinical isolates bearing the Y453F spike mutation replicated as efficiently as the unmutated/wildtype SARS-CoV-2 virus that predominates in Denmark. Conversely, the SARS-CoV-2 virus with four mutations grew slower than both the wildtype virus and other SARS62 CoV-2 virus isolates.
 
     /
-    quote !g = The different convalescent plasma were not equally affected by the ΔFVI-spike mutant virus. The two plasma samples with high neutralization titers were largely unaffected, while plasma with low and intermediate titers were more likely to experience a loss in neutralization activity. In these preliminary data from 9 convalescent plasma, an average 3.58-fold reduction was observed. Only two plasma samples had a greater than 4-fold reduction.
+    quote !g = The ΔFVI-spike mutant virus titer increased 54.7-fold from 24 to 96 hours post-inoculation, compared to an average of 4-fold (range: 2.6 to 5.7-fold) over the same time for other SARS-CoV-2 isolates. The ability to replicate to high viral titers is consistent with high levels of the ΔFVI-spike mutant virus detected in throat swab samples of infected persons, as indicated by an average qPCR assay (E-Sarbeco) cycle threshold of 24.7 (range: 20-35).
+
+    /
+    quote !h = The different convalescent plasma were not equally affected by the ΔFVI-spike mutant virus. The two plasma samples with high neutralization titers were largely unaffected, while plasma with low and intermediate titers were more likely to experience a loss in neutralization activity. In these preliminary data from 9 convalescent plasma, an average 3.58-fold reduction was observed. Only two plasma samples had a greater than 4-fold reduction.
 
 
 
@@ -1035,6 +1454,7 @@ feed Sangeeta
 
     / December, 2020 - medRxiv
     quote !f = The significant difference in population median Ct value, between S-dropout and S-detected samples, represents between 10 and 100-fold increase in target concentration for S-dropout. When conservatively inferring relative viral load from Ct values, approximately 35% of S-dropout samples had high viral loads between 10 and 10,000-fold greater than 1 × 106, compared to 10% of S-positive samples.
+
 
 
   #
@@ -3502,20 +3922,57 @@ feed Sangeeta
   // Recurrent mutations in SARS-CoV-2 genomes isolated from mink point to rapid host-adaptation
   doi: https://doi.org/10.1101/2020.11.16.384743
   ref 'Drop_et_al_11_16_2020
-    head = By analysing SARS-CoV-2 isolated from minks, we identified 23 recurrent mutations including three nonsynonymous mutations in the Receptor Binding Domain of the SARS-CoV-2 spike protein that independently emerged at least four times but are only rarely observed in human lineages. The repeat emergence of mutations across phylogenetically distinct lineages of the virus isolated from minks points to ongoing adaptation of SARS-CoV-2 to a new host.
+    head = We screened published SARS-CoV-2 genomes isolated from minks for the presence of recurrent mutations common in mink but infrequent in SARS-CoV-2 genomes isolated from human infections.
 
     > Abstract
       Severe acute respiratory coronavirus 2 (SARS-CoV-2), the agent of the ongoing COVID-19 pandemic, jumped into humans from an unknown animal reservoir in late 2019. In line with other coronaviruses, SARS-CoV-2 has the potential to infect a broad range of hosts. SARS-CoV-2 genomes have now been isolated from cats, dogs, lions, tigers and minks. SARS-CoV-2 seems to transmit particularly well in mink farms with outbreaks reported in Spain, Sweden, the Netherlands, Italy, the USA and Denmark. Genomic data from SARS-CoV-2 isolated from infected minks provides a natural case study of a secondary host jump of the virus, in this case from humans to animals, and occasionally back again. We screened published SARS-CoV-2 genomes isolated from minks for the presence of recurrent mutations common in mink but infrequent in SARS-CoV-2 genomes isolated from human infections. We identify 23 recurrent mutations including three nonsynonymous mutations in the Receptor Binding Domain of the SARS-CoV-2 spike protein that independently emerged at least four times but are only rarely observed in human lineages. The repeat emergence of mutations across phylogenetically distinct lineages of the virus isolated from minks points to ongoing adaptation of SARS-CoV-2 to a new host. The rapid acquisition and spread of SARS-CoV-2 mutations in minks suggests that if a similar phenomenon of host adaptation had occurred upon its jump into humans, those human-specific mutations would likely have reached fixation already before the first SARS-CoV-2 genomes were generated.
 
     - quotes
+      !c
       !a
       !b
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+
 
     / November, 2020 - bioRxiv
-    quote !a = The low prevalence of mink-adapted candidate mutations in strains in circulation in humans to date (November 2020) suggests they are not expected to increase transmission of the virus in humans. However, mutations located within the RBD of the SARS-CoV-2 spike protein do warrant careful monitoring.
+    quote !c = By analysing SARS-CoV-2 isolated from minks, we identified 23 recurrent mutations including three nonsynonymous mutations in the Receptor Binding Domain of the SARS-CoV-2 spike protein that independently emerged at least four times but are only rarely observed in human lineages. The repeat emergence of mutations across phylogenetically distinct lineages of the virus isolated from minks points to ongoing adaptation of SARS-CoV-2 to a new host.
 
     / November, 2020 - bioRxiv
-    quote !b = The rapid acquisition and spread of SARS-CoV-2 mutations in minks suggests that if a similar phenomenon of host adaptation had occurred upon its jump into humans, those human-specific mutations would likely have reached fixation already before the first SARS-CoV-2 genomes were generated.
+    quote !a = The rapid acquisition and spread of SARS-CoV-2 mutations in minks suggests that if a similar phenomenon of host adaptation had occurred upon its jump into humans, those human-specific mutations would likely have reached fixation already before the first SARS-CoV-2 genomes were generated.
+
+    / November, 2020 - bioRxiv
+    quote !b = The low prevalence of mink-adapted candidate mutations in strains in circulation in humans to date (November 2020) suggests they are not expected to increase transmission of the virus in humans. However, mutations located within the RBD of the SARS-CoV-2 spike protein do warrant careful monitoring.
+
+    / November, 2020 - bioRxiv
+    quote !d = We particularly focus on the three candidates that have emerged independently in minks at least four times in the RBD of the SARS-CoV-2 spike protein, a region vital for determining host-range. We detect at least five independent emergences of Y453F across four phylogenetic lineages, five emergences of F486L across three lineages and four emergences of N501T across three lineages in minks.
+
+    / November, 2020 - bioRxiv
+    quote !e = It is noteworthy that all three mutations are not, or only marginally homoplasic, in humans and all three have also been observed at low frequency in strains circulating in human COVID-19 infections which have been intensively sampled.
+
+    / November, 2020 - bioRxiv
+    quote !f = We also identify structural support for a marginal increase in stability of the mink complex with the N501T mutation relative to wild type. In our dataset we detect the presence of this mutation in five mink SARS-CoV-2 though this corresponds to at least four independent emergences, with N501T being exceptionally rare in human infections. It may also be relevant that a different residue change in this position (N501Y) has been proposed as a mechanism of host adaption in mice infected with SARS-CoV-2 suggesting the broader role of residue changes at 501 as relevant affinity enhancing mutations.
+
+    / November, 2020 - bioRxiv
+    quote !g = A further 214 mink associated human COVID-19 infections were reported in the North Jutland region of Denmark, highlighting the risk of spill-overs from animal reservoirs (announced 5th November 2020, working paper available https://files.ssi.dk/Mink-cluster-5-short-report_AFO2 accessed 12th November 2020). A phylogenetic grouping of the virus termed ‘Cluster 5’ circulating in North Jutland has attracted particular attention. This cluster is reported to carry our Y453F candidate mutation, together with three other mutations in the spike protein falling outside the RBD (del69-70, I692V, M1229I), none of which we identify as mink-adapted.
+
+    / November, 2020 - bioRxiv
+    quote !h = The cluster 5 lineage is known to have infected up to 12 people and its spread led to the Danish Government considering closing all mink farms in the country. The putative impact on antigen-escape of the Y453F mutation remains under study, though appears moderate.
+
+    / November, 2020 - bioRxiv
+    quote !i = To date, the vast majority of mutations that have been observed in SARS-CoV-2 appear selectively neutral, or even deleterious in humans and those which we identify as strong candidates for host-adaptation to minks have remained at low frequency globally in human SARS-CoV-2 to date.
+
+    / November, 2020 - bioRxiv
+    quote !j = There is no a priori reason to expect that mutations adaptive in minks will lead to any marked change in the dynamic of human COVID-19 infections.
+
+    / November, 2020 - bioRxiv
+    quote !k = SARS-CoV-2 lineages carrying candidate mutations adaptive to transmission in minks have been sequenced since the first outbreaks of SARS-CoV-2 on mink farms in April 2020, with the first mink SARS-CoV2 sample carrying Y453F dating back to the 24th April 2020
 
 
 
@@ -3608,12 +4065,13 @@ feed Sangeeta
   // SARS-CoV-2 infection in farmed minks, the Netherlands, April and May 2020.
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.23.2001005
   ref 'Oreshkova_et_al_06_04_2020
-    head = We report SARS-CoV-2 infection of minks on two farms in the Netherlands.  Sequence analysis of mink-derived viruses pointed at humans as the probable source of the initial infection and demonstrated transmission between minks. Furthermore, the presence of viral RNA in inhalable dust collected from the farms indicated a possible exposure of workers to virus excreted by minks.
+    head = We report SARS-CoV-2 infection of minks on two farms in the Netherlands. Sequence analysis of mink-derived viruses pointed at humans as the probable source of the initial infection and demonstrated transmission between minks. Furthermore, the presence of viral RNA in inhalable dust collected from the farms indicated a possible exposure of workers to virus excreted by minks.
 
     - quotes
       !a
       !b
       !c
+      !d
 
     / June, 2020 - Eurosurveillance
     quote !a = While this manuscript was being prepared, similar SARS-CoV-2 outbreaks occurred on another nine farms in the Netherlands, eight in the province Noord Brabant and one in the province Limburg. On farms NB1 and NB2 described here, coronavirus disease (COVID-19)-like symptoms were present in people working on the farms before signs were seen in the minks, and SARS-CoV-2 infection was confirmed in one hospitalised person.
@@ -3623,6 +4081,8 @@ feed Sangeeta
 
     / June, 2020 - Eurosurveillance
     quote !c = Detection of viral RNA in the airborne inhalable dust on the mink farms clearly suggests dust and/or droplets as means of transmission between the minks and occupational risk of exposure for the workers on the farms.
+    / June, 2020 - Eurosurveillance
+    quote !d = Mink-specific single nucleotide polymorphisms were found in ORF1a, ORF1b, spike, ORF3, ORF7a and 3’UTR
 
 
 

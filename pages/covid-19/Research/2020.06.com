@@ -1294,9 +1294,13 @@ feed June2020
 
     - quotes
       !a
+      !b
 
     / June, 2020 - American Association for the Advancement of Science
     quote !a = Novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
+
+    / June, 2020 - American Association for the Advancement of Science
+    quote !b = Y453F escape some monoclonal antibodies.the	Y453F	mutation	was	recently	shown	to	be	an escape	mutation	for	the	monoclonal	antibody	RGN10933
 
 
   # FaceMask, mathematical modeling
