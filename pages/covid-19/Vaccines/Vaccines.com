@@ -884,7 +884,7 @@ subject module Vaccines
           'Sadoff_et_al_09_25_2020.!c
           'Sadoff_et_al_09_25_2020.!d
 
-      claim !InterimResults = Interim Results of phase 1 & 2 trials was published in January of 2021. Authors reported that neutralizing-antibody titers against wild-type virus were detected in 90% or more of all participants on day 29 after the first vaccine dose and reached 100% by day 57 with a further increase in titers, regardless of vaccine dose or age group. Titers remained stable until at least day 71. Systemic adverse events were also reported.
+      claim !InterimResults = Interim results of phase 1 & 2 trials were published in January of 2021. Authors reported that neutralizing-antibody titers against wild-type virus were detected in 90% or more of all participants on day 29 after the first vaccine dose and reached 100% by day 57 with a further increase in titers, regardless of vaccine dose or age group. Titers remained stable until at least day 71. Systemic adverse events were also reported.
         -
           'Sadoff_et_al_01_13_2021
           'Sadoff_et_al_01_13_2021.!a
