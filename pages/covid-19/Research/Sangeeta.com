@@ -62,7 +62,6 @@ feed Sangeeta
   ref 'Wibmer_et_al_01_19_2021
     head = We show that the 501Y.V2 lineage, that contains nine spike mutations, and rapidly emerged in South Africa during the second half of 2020, is largely resistant to neutralizing antibodies elicited by infection with previously circulating lineages.
 
-
     > Abstract
       SARS-CoV-2 501Y.V2, a novel lineage of the coronavirus causing COVID-19, contains multiple mutations within two immunodominant domains of the spike protein. Here we show that this lineage exhibits complete escape from three classes of therapeutically relevant monoclonal antibodies. Furthermore 501Y.V2 shows substantial or complete escape from neutralizing antibodies in COVID-19 convalescent plasma. These data highlight the prospect of reinfection with antigenically distinct variants and may foreshadow reduced efficacy of current spike-based vaccines.
 

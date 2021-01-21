@@ -3,6 +3,19 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received four major revisions, expanding the subjects covered and correcting existing claims.
 
+
+  public: january-20-2021
+  / January 20,2021
+  revision January_20
+    head = We've updated variant section with new claims. Neutralizing activity of Phizer and moderna to mutations found in new variants (UK, South Africa, Brazil) was reduced by a small but significant margin. The new variant CAL.20C (California Variant) is added.
+
+    - see also
+      Variants.B117
+      Variants.B1351
+      Variants.P1Variant
+      Variants.CAL20C
+
+
   public: january-19-2021
   / January 19,2021
   revision January_19

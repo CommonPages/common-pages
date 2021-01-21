@@ -10,6 +10,51 @@ feed Jan2021
 
   #
 
+  / Estimates of severity and transmissibility of novel South Africa SARS-CoV-2 variant 501Y.V2
+  doi: https://cmmid.github.io/topics/covid19/sa-novel-variant.html
+  ref 'Pearson_et_al_01_11_2021
+    head = We used the early South African epidemic (reported cases pre-May) to estimate the average real-time reproduction number, Rt before and after the initial national response. This established baseline population transmissibility (from pre-intervention growth) as well as model contact and transmission reductions consistent with observed pandemic growth under control efforts (post-intervention).
+
+    - quotes
+      !a
+      !b
+
+    / January, 2021 -  CMMID Repository
+    quote !a = Assuming complete cross-protection, we estimate 501Y.V2 was 1.50 times as transmissible than previously circulating variants. Assuming instead that 501Y.V2 is identically transmissible, the new variant evades 21% of previously acquired immunity.
+    
+    / January, 2021 -  CMMID Repository
+    quote !b = We found some evidence of a change in severity, estimated from the corrected ratio of delay-adjusted cases and deaths in the Western Cape province, though there is substantial uncertainty and local reporting delays may differ from global estimates.
+
+  // Emergence of a novel SARS-CoV-2 strain in Southern California, USA
+  doi: https://doi.org/10.1101/2021.01.18.21249786
+  ref 'Zhang_et_al_01_20_2021
+    head = We report a novel strain emerging in Southern California.
+
+    > Abstract
+      Since October 2020, novel strains of SARS-CoV-2 including B.1.1.7, have been identified to be of global significance from an infection and surveillance perspective. While this strain (B.1.1.7) may play an important role in increased COVID rates in the UK, there are still no reported strains to account for the spike of cases in Los Angeles (LA) and California as a whole, which currently has some of the highest absolute and per-capita COVID transmission rates in the country. From the early days of the pandemic when LA only had a single viral genome uploaded onto GISAID we have been at the forefront of generating and analyzing the SARS-CoV-2 sequencing data from the LA region. We report a novel strain emerging in Southern California. Most current cases in the catchment population in LA fall into two distinct subclades: 1) 20G (24% of total) is the predominant subclade currently in the United States 2) a relatively novel strain in clade 20C, CAL.20C strain (~36% of total) is defined by five concurrent mutations. After an analysis of all of the publicly available data and a comparison to our recent sequences, we see a dramatic growth in the relative percentage of the CAL.20C strain beginning in November of 2020. The predominance of this strain coincides with the increased positivity rate seen in this region. Unlike 20G, this novel strain CAL.20C is defined by multiple mutations in the S protein, a characteristic it shares with both the UK and South African strains, both of which are of significant clinical and scientific interest.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / January, 2021 - medRxiv
+    quote !a = Most current cases in the catchment population in LA fall into two distinct subclades: 1) 20G (24% of total) is the predominant subclade currently in the United States 2) a relatively novel strain in clade 20C, CAL.20C strain (~36% of total) is defined by five concurrent mutations.
+
+    / January, 2021 - medRxiv
+    quote !b = Unlike 20G, this novel strain CAL.20C is defined by multiple mutations in the S protein.
+
+    / January, 2021 - medRxiv
+    quote !c = The S protein L452R mutation is within a known receptor binding domain that has been found to be markedly resistant to certain monoclonal antibodies to the spike protein. Mutations in this domain may be resistant to polyclonal sera as seen in convalescent patients or those post vaccination.
+
+    / January, 2021 - medRxiv
+    quote !d = The functional effect of this mutation in concert with other detected mutations in CAL.20C, both in terms of infectivity and antibody resistance is unknown at this time.
+
+    / January, 2021 - medRxiv
+    quote !e = We detected a novel strain descended from cluster 20C and defined by five mutations (ORF1a: I4205V, ORF1b:D1183Y, S: S13I;W152C;L452R).
+
   // The impact of vitamin D supplementation on mortality rate and clinical outcomes of COVID-19 patients: A systematic review and meta-analysis
   doi: https://doi.org/10.1101/2021.01.04.21249219
   ref 'Nikniaz_et_al_01_05_2021

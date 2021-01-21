@@ -8,6 +8,7 @@ subject Variants
     B117
     B1351
     P1Variant
+    CAL20C
   -
     ?Antibodies
 
@@ -108,14 +109,10 @@ subject Variants
       'Yurkovetskiy_et_al_09_15_2020.!g
       'Yurkovetskiy_et_al_09_15_2020.!h
 
-
+  —
   / Mink Variant
   subject Mink
-    # MAIN HEAD FOR MINK
-    >
-      Concerning outbreaks of SARS-CoV-2 began to emerge on mink farms in the Netherlands and Denmark in late spring and early summer 2020.
-      Since April 2020, when the first SARS-CoV-2 infection was reported in the Netherlands in a mink and subsequently in a mink farm worker, it has been established that human-to-mink and mink-to-human transmission can occur.
-      Since then, infections in mink have been reported in Denmark, Italy, Spain, Sweden and the United States.
+    head = Concerning outbreaks of SARS-CoV-2 began to emerge on mink farms in the Netherlands and Denmark in late spring and early summer 2020. Since April 2020, when the first SARS-CoV-2 infection was reported in the Netherlands in a mink and subsequently in a mink farm worker, it has been established that human-to-mink and mink-to-human transmission can occur. Since then, infections in mink have been reported in Denmark, Italy, Spain, Sweden and the United States.
 
 
     # TIMELINE
@@ -489,15 +486,46 @@ subject Variants
       'Adlhoch_et_al_11_12_2020.!c1
       'Adlhoch_et_al_11_12_2020.!d1
 
-
-
-
   / B.1.1.7 (UK Variant)
   subject B117
     head = In 14 December of 2020, the B.1.1.7 variant was reported in the UK. This variant is defined by a set of 17 changes or mutations. It has increased transmissibility. Preliminary analyses so far indicate that there is no change in disease severity. As of the 30th of December, this variant has been reported in 31 other countries.
 
     >
       On 14 December 2020, variant referred as SARS-CoV-2 VOC 202012/01 (Variant of Concern, year 2020, month 12, variant 01) was identified in [United Kingdom](https://www.bmj.com/content/371/bmj.m4857). This variant is defined by a set of 17 changes or mutations. As of 30 December, VOC-202012/01 variant has been reported in 31 other countries/territories/areas in five of the six WHO regions.
+
+      <table>
+        <tr>
+        <th>Alternate Name</th>
+        <td>501.Y.V1</td>
+        </tr>
+        <tr>
+        <th>Mutation</th>
+        <td>23</td>
+        </tr>
+        <tr>
+        <th>Spike Mutation</th>
+        <td>8</td>
+        </tr>
+        <tr>
+        <th>Key Mutation</th>
+        <td>N501Y, E69/70 Deletion, P681H 144Y Deletion, A570D </td>
+        </tr>
+        <tr>
+        <th>Other Mutation (Including N-terminal)</th>
+        <td>T7161, S982A, D1118H </td>
+        <tr>
+        <th>Transmissibility</th>
+        <td> 50% or more </td>
+        </tr>
+        <tr>
+        <th>Severity</th>
+        <td> No difference in Severity compared to other variants</td>
+        </tr>
+        <tr>
+        <th>Immune Escape</th>
+        <td> Probable, extent unclear </td>
+        </tr>
+      </table>
     -
       !Switzerland
       !Wales
@@ -515,6 +543,7 @@ subject Variants
     - Vaccine related claims
       !Phase3trialConcern
       !Phizer
+      Variants.B1351.!Vaccineefficacy
       !VaccineEffectiveness
     - Mutation
       !Mutation
@@ -785,9 +814,50 @@ subject Variants
     >
       On 18 December, national authorities in South Africa announced the detection of a new variant of SARS-CoV-2 that is rapidly spreading in three provinces of South Africa. South Africa has named this variant 501Y.V2, because of a N501Y mutation. While SARS-CoV-2 B.1.1.7 from the UK also has the N501Y mutation, [phylogenetic analysis](https://nextstrain.org/sars-cov-2/) has shown that B.1.351 from South Africa are different virus variants. As of 30 December, the B.1.351 variant from South Africa has been reported from four other countries to date.
 
-    -
+      <table>
+        <tr>
+        <th>Alternate Name</th>
+        <td>501.Y.V2</td>
+        </tr>
+        <tr>
+        <th>Mutation</th>
+        <td>21</td>
+        </tr>
+        <tr>
+        <th>Spike Mutation</th>
+        <td>9</td>
+        </tr>
+        <tr>
+        <th>Key Mutation</th>
+        <td>N501Y, E484K, K417N, orf1b deletion </td>
+        </tr>
+        <tr>
+        <th>Other Mutation (Including N-terminal)</th>
+        <td>L18F, D80A, D215G, del 242-244, R264I </td>
+        <tr>
+        <th>Transmissibility</th>
+        <td> Evidence of increased Transmissibility  </td>
+        </tr>
+        <tr>
+        <th>Severity</th>
+        <td> Not established</td>
+        </tr>
+        <tr>
+        <th>Immune Escape</th>
+        <td> Probable, extent unclear </td>
+        </tr>
+      </table>
+
+    - Transmission
       !Transmission
-    -
+    - Severity
+      !Severity
+    - Vaccine Related claims
+      Variants.B117.!Phizer
+      !Vaccineefficacy
+      !Reinfection
+      !Neutralizingescape
+    - Mutation
       !Mutation
       !E484K
     >
@@ -802,6 +872,7 @@ subject Variants
     - Potential Significance of E484K mutation
       !E484
       !AntibodiesE484k
+
 
     claim !Mutation = This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM).
       -
@@ -827,12 +898,39 @@ subject Variants
         'Greaney_et_al_01_04_2021
         'Greaney_et_al_01_04_2021.!h
 
-
     claim !Transmission = Preliminary studies suggest the variant is associated with increased transmissibility.
       -
         'Tegally_et_al_12_22_2020
         'Tegally_et_al_12_22_2020.!a
+      -
+        'Pearson_et_al_01_11_2021
+        'Pearson_et_al_01_11_2021.!a
 
+    claim !Severity = Modelling study found some evidence of a change in severity.
+      -
+        'Pearson_et_al_01_11_2021
+        'Pearson_et_al_01_11_2021.!b
+
+
+    claim !Vaccineefficacy = One study showed that neutralizing activity of Phizer and Moderna vaccine against SARS-CoV-2 variants encoding E484K or N501Y or the K417N:E484K:N501Y combination was reduced by a small but significant margin. These mutation can reduce the neutralization potency of vaccine plasma.
+      -
+        'Wang_et_al_01_19_2021
+        'Wang_et_al_01_19_2021.!a
+        'Wang_et_al_01_19_2021.!b
+        'Wang_et_al_01_19_2021.!c
+        'Wang_et_al_01_19_2021.!i
+
+    claim !Reinfection = One study shows that 501Y.V2 shows substantial or complete escape from neutralizing antibodies in COVID-19 convalescent plasma. Authors also highlighted the prospect of reinfection with antigenically distinct variants and may foreshadow reduced efficacy of current spike-based vaccines.
+      -
+        'Wibmer_et_al_01_19_2021
+        'Wibmer_et_al_01_19_2021.!a
+        'Wibmer_et_al_01_19_2021.!b
+        'Wibmer_et_al_01_19_2021.!c
+
+    claim !Neutralizingescape = Non RBD mutations (NTD) may also contribute to escape from neutralizing antibodies.
+      -
+        'Wibmer_et_al_01_19_2021
+        'Wibmer_et_al_01_19_2021.!g
 
 
 
@@ -841,6 +939,41 @@ subject Variants
   / P1 (Brazil Variant)
   subject P1Variant
     head = A new cluster, named P.1 lineage, comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil detected in mid/late-December. This variant contains multiple shared mutations in the spike, raising concern about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection of individuals.
+
+    >
+      <table>
+        <tr>
+        <th>Alternate Name</th>
+        <td>501.Y.V3</td>
+        </tr>
+        <tr>
+        <th>Mutation</th>
+        <td>17</td>
+        </tr>
+        <tr>
+        <th>Spike Mutation</th>
+        <td>10</td>
+        </tr>
+        <tr>
+        <th>Key Mutation</th>
+        <td>N501Y, E484K, K417N/T, orf1b deletion </td>
+        </tr>
+        <tr>
+        <th>Other Mutation (Including N-terminal)</th>
+        <td>L18F, T20N, P26S & Others </td>
+        <tr>
+        <th>Transmissibility</th>
+        <td> Not established </td>
+        </tr>
+        <tr>
+        <th>Severity</th>
+        <td> Not established</td>
+        </tr>
+        <tr>
+        <th>Immune Escape</th>
+        <td> Not established</td>
+        </tr>
+      </table>
 
     -
       'Faria_et_al_01_12_2021
@@ -853,5 +986,21 @@ subject Variants
       'Faria_et_al_01_12_2021.!g
       'Faria_et_al_01_12_2021.!h
       'Faria_et_al_01_12_2021.!i
+
+    - Neutralization resistance
+      'Wibmer_et_al_01_19_2021
+      'Wibmer_et_al_01_19_2021.!d
+
+  / CAL.20C (California Variant)
+  subject CAL20C
+    head =  CAL.20C (California Variant), was first observed in July 2020 in samples from LA county and not detected in Southern California again until October. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected multiple recent isolates in Northern California, New York and Washington DC. CAL.20C is defined by multiple mutation in S protien. The functional effect of mutation in CAL.20C, both in terms of infectivity and antibody resistance is unknown at this time.
+    -
+      'Zhang_et_al_01_20_2021
+      'Zhang_et_al_01_20_2021.!a
+      'Zhang_et_al_01_20_2021.!b
+      'Zhang_et_al_01_20_2021.!c
+      'Zhang_et_al_01_20_2021.!d
+      'Zhang_et_al_01_20_2021.!e
+
 
   question ?Antibodies = Whether these mutations render preexisting antibodies ineffective has become a public concern, as it could result in reinfection or loss of vaccine efficacy. To what extent a person infected by one strain is protected against infection of another strain? What evidence exists as to the efficacy of vaccines against each variant?
