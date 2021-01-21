@@ -35,7 +35,7 @@ subject SocialDistancing
     -
       'Bourouiba_03_26_2020
 
-  claim !Speculation = Transmission of SARS-CoV-2 at !extended_distances has not yet been confirmed. However, some researchers believe that the virus is transmissable via aerosols. If so, the common "six-foot rule" !adopted_for_COVID-19 is likely an underestimate in many scenarios.
+  claim !Speculation = Transmission of SARS-CoV-2 at !extended_distances has not yet been confirmed. However, some researchers believe that the virus is transmissible via aerosols. If so, the common "six-foot rule" !adopted_for_COVID-19 is likely an underestimate in many scenarios.
 
   claim !Inconsistent = Many researchers have now asserted that the !six_foot social distancing rule is not consistent with the underlying science of exhalations and indoor air. In some settings, even distances of six feet may not reduce the risk of transmission sufficiently to support the rule of thumb.
     -

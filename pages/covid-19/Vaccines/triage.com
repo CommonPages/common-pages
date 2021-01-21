@@ -72,7 +72,7 @@
       'Bartsch_et_al_07_15_2020.!b
       'Bartsch_et_al_07_15_2020.!c
 
-  claim !CautionNSAID = Researchers have cautioned using NSAID to prevent unpleasant side effects through vaccine as NSAID has been shown to dampen antibody response to SARS-CoV-2 in mice.
+  claim !CautionNSAID = Researchers have warned about using NSAIDs to prevent unpleasant side effects from SARS-CoV-2 vaccines, as they have been shown to dampen antibody responses to the virus in mice.
 
     claim !NSAIDMouse = NSAID treatment may influence COVID-19 outcomes by dampening the inflammatory response and production of protective antibodies rather than modifying susceptibility to infection or viral replication.
       -

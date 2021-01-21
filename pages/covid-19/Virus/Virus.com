@@ -333,7 +333,7 @@ subject module Virus
     / Droplets
     // Viability in Droplets
     question ?Droplets
-      head = SARS-CoV-2 is widely presumed to be transmissable via heavy respiratory droplets. What direct and indirect evidence indicates this? What evidence exists as to the mechanics of events which create heavy respiratory droplets?
+      head = SARS-CoV-2 is widely presumed to be transmissible via heavy respiratory droplets. What direct and indirect evidence indicates this? What evidence exists as to the mechanics of events which create heavy respiratory droplets?
 
       question ?DirectEvidence = What direct evidence exists indicating that SARS-CoV-2 is viable in heavy droplets? Is this primarily extrapolated from case reports?
 

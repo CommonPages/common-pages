@@ -320,7 +320,7 @@ subject Masking
       'Liao_et_al_05_05_2020.!b
       'Liao_et_al_05_05_2020.!c
 
-  claim !Speech = Some researchers have investigated the possibility that during masked speech, larger particles may disperse into smaller particles which may become aeresolized, and thus more readily transmissable.
+  claim !Speech = Some researchers have investigated the possibility that during masked speech, larger particles may disperse into smaller particles which may become aeresolized, and thus more readily transmissible.
     -
       'Fischer_et_al_08_2020
       'Fischer_et_al_08_2020.!a

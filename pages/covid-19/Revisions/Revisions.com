@@ -1,30 +1,31 @@
 
 / Revision Feed
 revision feed Revisions
-  head = The first draft of Common COVID-19 was published on November 21, 2020. It has received four major revisions, expanding the subjects covered and correcting existing claims.
+  head = The first draft of Common COVID-19 was published on November 21, 2020. It has received eight major revisions, expanding the subjects covered and correcting existing claims.
 
-
-  public: january-20-2021
-  / January 20,2021
-  revision January_20
-    head = We've updated variant section with new claims. Neutralizing activity of Phizer and moderna to mutations found in new variants (UK, South Africa, Brazil) was reduced by a small but significant margin. The new variant CAL.20C (California Variant) is added.
+  public: january-21-2021
+  / January 20, 2021
+  revision January_21
+    let *variants mean Variants
+    head = This revision contains updates to the *variants section. Researchers have noted a small but significant reduction in the neutralizing activity of both the Phizer and Moderna vaccines several new variants (UK, South Africa, Brazil). We've also added research on the new California Variant.
 
     - see also
-      Variants.B117
-      Variants.B1351
-      Variants.P1Variant
+      Variants.B117.!VaccineEffectiveness
+      Variants.B1351.!Vaccineefficacy
+      Variants.B1351.!Reinfection
+      Variants.B1351.!Neutralizingescape
+    -
       Variants.CAL20C
 
-
   public: january-19-2021
-  / January 19,2021
+  / January 19, 2021
   revision January_19
-    head = We've updated vaccine section. Moderna updated data on durability of immune response. Sinovac efficacy is reported to be just above 50% in Brazil. Johnson and Johnson released their phase 1-2 trial reports. Researchers have cautioned the use of NSAID for treating side effects of vaccines.
+    let *vaccines mean Vaccines
+    head = This revision contains several updates to the *vaccines section. Moderna has provided updated data on the durability of the immune response. Sinovac efficacy is reported to be just above 50% in Brazil. Johnson and Johnson released their phase 1-2 trial reports. Researchers have cautioned the use of NSAID for treating side effects of vaccines.
 
     - see
       Vaccines.Approved.mRNA-1273.!Durability
-      Vaccines.Approved.CoronaVac
-      Vaccines.Candidates.Ad26COV2S
+      Vaccines.Approved.CoronaVac.!Phase3Brazil
       Vaccines.Triage.!CautionNSAID
 
   public: january-16-2021

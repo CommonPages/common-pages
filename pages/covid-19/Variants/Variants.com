@@ -1,6 +1,6 @@
 / Mutations and Variants
 subject Variants
-  head = Multiple strains of SARS-CoV-2 were identified as early as March of 2020, though their functional differences were not clear. As of December of 2020, several new strains have emerged. There is no evidence that any are more lethal, but a number are likely more transmissable. The effectiveness of vaccines against these new strains is not yet clear.
+  head = Multiple strains of SARS-CoV-2 were identified as early as March of 2020, though their functional differences were not clear. As of December of 2020, several new strains have emerged. There is no evidence that any are more lethal, but a number are likely more transmissible. The effectiveness of vaccines against these new strains is not yet clear.
 
   -
     D614
@@ -488,7 +488,7 @@ subject Variants
 
   / B.1.1.7 (UK Variant)
   subject B117
-    head = In 14 December of 2020, the B.1.1.7 variant was reported in the UK. This variant is defined by a set of 17 changes or mutations. It has increased transmissibility. Preliminary analyses so far indicate that there is no change in disease severity. As of the 30th of December, this variant has been reported in 31 other countries.
+    head = In mid December of 2020, the B.1.1.7 variant was reported in the UK. This variant is defined by a set of 17 changes or mutations. It has increased transmissibility. Preliminary analyses so far indicate that there is no change in disease severity. As of the 30th of December, this variant has been reported in 31 other countries.
 
     >
       On 14 December 2020, variant referred as SARS-CoV-2 VOC 202012/01 (Variant of Concern, year 2020, month 12, variant 01) was identified in [United Kingdom](https://www.bmj.com/content/371/bmj.m4857). This variant is defined by a set of 17 changes or mutations. As of 30 December, VOC-202012/01 variant has been reported in 31 other countries/territories/areas in five of the six WHO regions.
@@ -515,7 +515,7 @@ subject Variants
         <td>T7161, S982A, D1118H </td>
         <tr>
         <th>Transmissibility</th>
-        <td> 50% or more </td>
+        <td>{!GrowthRate 50% more transmissible}</td>
         </tr>
         <tr>
         <th>Severity</th>
@@ -774,7 +774,7 @@ subject Variants
         'Xie_et_al_01_07_2021
         'Xie_et_al_01_07_2021.!a
 
-    claim !VaccineEffectiveness = One study argued that the mutations seen in the B.1.1.7 would not result in loss of dominant antibody responses suggesting that there is no evidence that the current vaccines won’t be effective against B.1.1.7
+    claim !VaccineEffectiveness = One study argued that the mutations seen in the B.1.1.7 would not result in loss of dominant antibody responses suggesting that there is no evidence that the current vaccines won’t be effective against B.1.1.7.
       -
         'Haynes_et_al_01_08_2021
         'Haynes_et_al_01_08_2021.!a
@@ -912,7 +912,8 @@ subject Variants
         'Pearson_et_al_01_11_2021.!b
 
 
-    claim !Vaccineefficacy = One study showed that neutralizing activity of Phizer and Moderna vaccine against SARS-CoV-2 variants encoding E484K or N501Y or the K417N:E484K:N501Y combination was reduced by a small but significant margin. These mutation can reduce the neutralization potency of vaccine plasma.
+    #  encoding E484K or N501Y or the K417N:E484K:N501Y combination
+    claim !Vaccineefficacy = One study showed that the neutralizing activity of the Phizer and Moderna vaccines against some SARS-CoV-2 variants was reduced by a small but significant margin. These mutation can reduce the neutralization potency of vaccine plasma.
       -
         'Wang_et_al_01_19_2021
         'Wang_et_al_01_19_2021.!a
@@ -920,7 +921,7 @@ subject Variants
         'Wang_et_al_01_19_2021.!c
         'Wang_et_al_01_19_2021.!i
 
-    claim !Reinfection = One study shows that 501Y.V2 shows substantial or complete escape from neutralizing antibodies in COVID-19 convalescent plasma. Authors also highlighted the prospect of reinfection with antigenically distinct variants and may foreshadow reduced efficacy of current spike-based vaccines.
+    claim !Reinfection = One study shows that 501Y.V2 shows substantial or complete escape from neutralizing antibodies in COVID-19 convalescent plasma. Authors also highlighted the prospect of reinfection with antigenically distinct variants which may foreshadow reduced efficacy of current spike-based vaccines.
       -
         'Wibmer_et_al_01_19_2021
         'Wibmer_et_al_01_19_2021.!a
@@ -938,7 +939,7 @@ subject Variants
 
   / P1 (Brazil Variant)
   subject P1Variant
-    head = A new cluster, named P.1 lineage, comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil detected in mid/late-December. This variant contains multiple shared mutations in the spike, raising concern about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection of individuals.
+    head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike, raising concerns about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection.
 
     >
       <table>
@@ -993,7 +994,7 @@ subject Variants
 
   / CAL.20C (California Variant)
   subject CAL20C
-    head =  CAL.20C (California Variant), was first observed in July 2020 in samples from LA county and not detected in Southern California again until October. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected multiple recent isolates in Northern California, New York and Washington DC. CAL.20C is defined by multiple mutation in S protien. The functional effect of mutation in CAL.20C, both in terms of infectivity and antibody resistance is unknown at this time.
+    head =  CAL.20C was first observed in July of 2020 in samples from LA county. It was not detected in Southern California again until October. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected in Northern California, New York and Washington DC. Functional differences in CAL.20C—both in terms of infectivity and antibody resistance—are unknown at this time.
     -
       'Zhang_et_al_01_20_2021
       'Zhang_et_al_01_20_2021.!a

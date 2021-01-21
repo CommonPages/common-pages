@@ -229,7 +229,7 @@ subject module Vaccines
         # https://www.fda.gov/media/144452/download
 
       / Durability of Immune Response
-      claim !Durability = Durability of immune reponse from Phase 1 study was published in Jan of 2021. Authors reported that Moderna vaccine produced high levels of binding and neutralizing antibodies that declined slightly over time, but they remained elevated in all participants 3 months after the booster vaccination. Researchers conculde that despite a slight expected decline, moderna vaccine has the potential to provide durable humoral immunity.
+      claim !Durability = The durability of the immune reponse from the Phase 1 study was published in Jan of 2021. The authors reported that the Moderna vaccine produced high levels of binding and neutralizing antibodies that declined slightly over time, but remained elevated in all participants 3 months after the booster vaccination. Researchers conclude that despite a slight expected decline, the moderna vaccine has the potential to provide durable humoral immunity.
         -
           'Widge_et_al_01_07_2021
           'Widge_et_al_01_07_2021.!a
@@ -679,7 +679,7 @@ subject module Vaccines
           'Zhang_et_al_11_17_2020.!b
           'Zhang_et_al_11_17_2020.!c
 
-      claim !Phase3Brazil = In Jan of 2021, Brazil government officials announced that CoronaVac has an efficacy rate just over 50 percent. Interim Results has not been published yet.
+      claim !Phase3Brazil = In January of 2021, the Brazilian government announced that the CoronaVac has an efficacy rate of just over 50 percent. Interim results has not been published yet.
         -
           'Andreoni_et_al_01_13_2021
           'Andreoni_et_al_01_13_2021.!a
@@ -1011,7 +1011,7 @@ subject module Vaccines
       # - GUILLAIN-BARRÉ SYNDROME with influenza
       #   'DeStefano_et_al_02_12_2019.!c
       #   'DeStefano_et_al_02_12_2019.!d
-      #   'DeStefano_et_al_02_12_2019.!e    
+      #   'DeStefano_et_al_02_12_2019.!e
 
   —
   / Types of Vaccines
