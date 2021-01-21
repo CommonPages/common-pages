@@ -4,6 +4,29 @@ feed November2020
 
   #
 
+  // Vitamin D supplementation to prevent acute respiratory infections: systematic review and meta-analysis of aggregate data from randomised controlled trials
+  doi: https://doi.org/10.1101/2020.07.14.20152728
+  ref 'Jolliffe_et_al_11_25_2020
+    head = Systematic review and meta-analysis of data from randomised controlled trials (RCTs) of vitamin D for ARI prevention using a random effects model. Pre-specified sub-group analyses were done to determine whether effects of vitamin D on risk of ARI varied according to baseline 25-hydroxyvitamin D (25[OH]D) concentration or dosing regimen.
+
+    > Background
+      A 2017 meta-analysis of data from 25 randomised controlled trials of vitamin D supplementation for the prevention of acute respiratory infections revealed a protective effect of the intervention. Since then, 20 new RCTs have been completed.
+
+    > Methods
+      Systematic review and meta-analysis of data from randomised controlled trials (RCTs) of vitamin D for ARI prevention using a random effects model. Pre-specified sub-group analyses were done to determine whether effects of vitamin D on risk of ARI varied according to baseline 25-hydroxyvitamin D (25[OH]D) concentration or dosing regimen. We searched MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials (CENTRAL), Web of Science and the ClinicalTrials.gov registry from inception to 1st May 2020. Double-blind RCTs of supplementation with vitamin D or calcidiol, of any duration, were eligible if they were approved by a Research Ethics Committee and if ARI incidence was collected prospectively and pre-specified as an efficacy outcome. Aggregate data, stratified by baseline 25(OH)D concentration, were obtained from study authors. The study was registered with PROSPERO (no. CRD42020190633).
+
+    > Findings
+      We identified 45 eligible RCTs (total 73,384 participants). Data were obtained for 46,331 (98.0%) of 47,262 participants in 42 studies, aged 0 to 95 years. For the primary comparison of vitamin D supplementation vs. placebo, the intervention reduced risk of ARI overall (Odds Ratio [OR] 0.91, 95% CI 0.84 to 0.99; P for heterogeneity 0.01). No statistically significant effect of vitamin D was seen for any of the sub-groups defined by baseline 25(OH)D concentration. However, protective effects were seen for trials in which vitamin D was given using a daily dosing regimen (OR 0.75, 95% CI 0.61 to 0.93); at daily dose equivalents of 400-1000 IU (OR 0.70, 95% CI 0.55 to 0.89); and for a duration of ≤12 months (OR 0.82, 95% CI 0.72 to 0.93). No significant interaction was seen between allocation to vitamin D vs. placebo and dose frequency, dose size, or study duration. Vitamin D did not influence the proportion of participants experiencing at least one serious adverse event (OR 0.97, 95% CI 0.86 to 1.09). Risk of bias within individual studies was assessed as being low for all but three trials. A funnel plot showed left-sided asymmetry (P=0.008, Egger’s test).
+
+    > Interpretation
+      Vitamin D supplementation was safe and reduced risk of ARI, despite evidence of significant heterogeneity across trials. Protection was associated with administration of daily doses of 400-1000 IU vitamin D for up to 12 months. The relevance of these findings to COVID-19 is not known and requires investigation.
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a = Vitamin D supplementation was safe and reduced risk of ARI (Acute Respiratory Tract Infection), despite evidence of significant heterogeneity across trials. Protection was associated with administration of daily doses of 400-1000 IU vitamin D for up to 12 months.
+
 
   // SARS-CoV-2 spike-protein D614G mutation increases virion spike density and infectivity
   doi: https://doi.org/10.1038/s41467-020-19808-4

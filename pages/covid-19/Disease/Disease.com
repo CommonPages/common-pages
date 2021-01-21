@@ -275,18 +275,35 @@ subject module Disease
     claim !VitaminD = It appears from case study reports that Vitamin D may improve clinical outcomes of patients infected with COVID-19, potentially by suppressing cytokine storms. If true, populations with higher vitamin D levels may experience lower incidence of severe disease.
       -
 
-      # -- Vitamin D status is associated with clinical outcomes.
+      # Vitamin D status is associated with clinical outcomes.  (Observational study)
         'Alipio_et_al_2020
         'Raharusun_et_al_2020
-      # -- Vitamin D suppressing Cytokine Storm
+      # Vitamin D suppressing Cytokine Storm
         'Daneshkhah_et_al_05_18_2020
-      # >
+
       #   Randomized Clinical Study
-      # --
         'Castillo_et_al_08_29_2020
 
-      # --
-      #   VitaminDRationale
+      # One large RCT in Australia found VitaminD is unlikely to have a clinically relevant effect on acute respiratory tract infection in older Australian adults.
+      -
+        'Pham_et_al_01_11_2021
+        'Pham_et_al_01_11_2021.!a
+        'Pham_et_al_01_11_2021.!b
+
+      # While one meta analysis of RCT found that vitamin D was associated with reduced risk of acute respiratory tract infection when administrated with daily doses of 400-1000 IU vitamin D for up to 12 months.
+      -
+        'Jolliffe_et_al_11_25_2020
+        'Jolliffe_et_al_11_25_2020.!a
+
+      # One Randomized study of open data of European people found no evidence that vitamin D is protective against SARS-CoV-2 infection or COVID-19 severity.
+      -
+        'Amin_et_al_01_07_2021
+        'Amin_et_al_01_07_2021.!a
+
+      # Meta analysis and systematic review of studies found that prescribing vitamin D supplementation to patients with COVID-19 infection seems to decrease the mortality rate, the severity of the disease, and serum levels of the inflammatory markers.
+      -
+        'Nikniaz_et_al_01_05_2021
+        'Nikniaz_et_al_01_05_2021.!a
 
       —
       / Rationale
@@ -540,7 +557,7 @@ subject module Disease
         claim !KeyFeature = A number of studies have proposed that exuberant inflammatory cytokine production is one of the defining and driving features of COVID-19.
           -
             'Melo_et_al_05_15_2020
-          -  
+          -
             'Subbarao_et_al_05_19_2020
             'Subbarao_et_al_05_19_2020.!c
 

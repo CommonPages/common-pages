@@ -1,6 +1,7 @@
 feed Jan2021
 
   -
+    'Song_et_al_01_12_2021
     'Sadoff_et_al_01_13_2021
     'Widge_et_al_01_07_2021
     'Faria_et_al_01_12_2021
@@ -8,6 +9,77 @@ feed Jan2021
     'Pilotto_et_al_01_02_2021
 
   #
+
+  // The impact of vitamin D supplementation on mortality rate and clinical outcomes of COVID-19 patients: A systematic review and meta-analysis
+  doi: https://doi.org/10.1101/2021.01.04.21249219
+  ref 'Nikniaz_et_al_01_05_2021
+    head = A comprehensive search was conducted through the databases of PubMed, Scopus, Web of Knowledge, Embase, Ovid, and The Cochrane Library with no limitation in time and language, until December 16, 2020. The results were screened based on their accordance with the subject.
+
+    > Background
+      Several studies have suggested the positive impact of vitamin D on patients infected with SARS-CoV-2. This systematic review aims to evaluate the effects of vitamin D supplementation on clinical outcomes and mortality rate of COVID-19 patients.
+
+    > Methods
+      A comprehensive search was conducted through the databases of PubMed, Scopus, Web of Knowledge, Embase, Ovid, and The Cochrane Library with no limitation in time and language, until December 16, 2020. The results were screened based on their accordance with the subject. Two independent reviewers selected the eligible studies and the outcomes of interest were extracted. Using the Joanna Briggs Institute (JBI) Critical Appraisal Tools for Randomized Controlled Trials (RCTs) and Quasi-Experimental Studies, the remaining results were appraised critically. Statistical analysis was performed using the Comprehensive Meta-Analysis (CMA) software version 2.0.
+
+    > Results
+      Of the 2311 results, 1305 duplicated results were removed. After screening the titles, abstracts, and the full-text articles of the remaining records, four studies and 259 patients were enrolled, including 139 patients in vitamin D intervention groups. In three of the studies, the patients’ survival and mortality rate were evaluated. The pooled analysis of these studies showed a significantly lower mortality rate among the intervention groups (10.56%) compared with the control groups (23.88%) (OR = 0.264, 95% CI = 0.099–0.708, p-value = 0.008). Two of the studies reported the clinical outcomes based on the World Health Organization’s Ordinal Scale for Clinical Improvement (OSCI) score for COVID-19, where both of them showed a significant decrease in OSCI score in the vitamin D intervention groups. Additionally, One study reported a lower rate of intensive care unit (ICU) admission, and one study reported a significant decrease in serum levels of Fibrinogen.
+
+    > Conclusion
+      Prescribing vitamin D supplementation to patients with COVID-19 infection seems to decrease the mortality rate, the severity of the disease, and serum levels of the inflammatory markers. Further studies are needed to determine the ideal type, dosage and duration of supplementation.
+
+    - quotes
+      !a
+
+    / January, 2021 - medRxiv
+    quote !a = Prescribing vitamin D supplementation to patients with COVID-19 infection seems to decrease the mortality rate, the severity of the disease, and serum levels of the inflammatory markers.
+
+  // No evidence that vitamin D is able to prevent or affect the severity of COVID-19 in individuals with European ancestry: a Mendelian randomisation study of open data
+  doi: https://nutrition.bmj.com/content/early/2021/01/07/bmjnph-2020-000151.info
+  ref 'Amin_et_al_01_07_2021
+    head = We used two-sample Mendelian randomisation (MR) to assess the causal effect of vitamin D levels on SARS-CoV-2 infection risk and COVID-19 severity using publicly available data. We also carried out a genome-wide association analysis (GWA) of vitamin D deficiency in the UK Biobank (UKB) and used these results and two-sample MR to assess the causal effect of vitamin D deficiency on SARS-CoV-2 infection risk and COVID-19 severity.
+
+    > Background
+      Upper respiratory tract infections are reportedly more frequent and more severe in individuals with lower vitamin D levels. Based on these findings, it has been suggested that vitamin D can prevent or reduce the severity of COVID-19.
+
+    > Methods
+      We used two-sample Mendelian randomisation (MR) to assess the causal effect of vitamin D levels on SARS-CoV-2 infection risk and COVID-19 severity using publicly available data. We also carried out a genome-wide association analysis (GWA) of vitamin D deficiency in the UK Biobank (UKB) and used these results and two-sample MR to assess the causal effect of vitamin D deficiency on SARS-CoV-2 infection risk and COVID-19 severity.
+
+    > Results
+      We found no evidence that vitamin D levels causally affect the risk of SARS-CoV-2 infection (ln(OR)=0.17 (95% CI −0.22 to 0.57, p=0.39)) nor did we find evidence that vitamin D levels causally affect COVID-19 severity (ln(OR)=0.36 (95% CI −0.89 to 1.61, p=0.57)). Based on our GWA analysis, we found that 17 independent variants are associated with vitamin D deficiency in the UKB. Using these variants as instruments for our two-sample MR analyses, we found no evidence that vitamin D deficiency causally affects the risk of SARS-CoV-2 infection (ln(OR)=−0.04 (95% CI −0.1 to 0.03, p=0.25)) nor did we find evidence that vitamin D deficiency causally affects COVID-19 severity (ln(OR)=−0.24 (95% CI −0.55 to 0.08, p=0.14)).
+
+    > Conclusions
+      In conclusion, we found no evidence that vitamin D is protective against SARS-CoV-2 infection or COVID-19 severity. Our data support the recent statement by the National Institute for Health and Care Excellence that the use of vitamin D supplementation to mitigate COVID-19 is not supported by the available data.
+
+    - quotes
+      !a
+
+    / January, 2021 - BMJ Nutrition, Prevention & Health
+    quote !a = We found no evidence that vitamin D is protective against SARS-CoV-2 infection or COVID-19 severity.
+
+  // The effect of vitamin D supplementation on acute respiratory tract infection in older Australian adults: an analysis of data from the D-Health Trial
+  doi: https://doi.org/10.1016/S2213-8587(20)30380-6
+  ref 'Pham_et_al_01_11_2021
+    head = We used data from the D-Health Trial, a randomised, double-blind, placebo-controlled trial of monthly vitamin D supplementation, for which acute respiratory infection was a pre-specified trial outcome. Participants were supplemented and followed for up to 5 years.
+
+    > Background
+      Observational studies have linked vitamin D deficiency with acute respiratory tract infection, but results from randomised controlled trials are heterogeneous. We analysed data from the D-Health Trial to determine whether supplementing older Australian adults, recruited from the general population, with monthly doses of vitamin D reduced the risk, duration, and severity of acute respiratory tract infections.
+    > Methods
+      We used data from the D-Health Trial, a randomised, double-blind, placebo-controlled trial of monthly vitamin D supplementation, for which acute respiratory infection was a pre-specified trial outcome. Participants were supplemented and followed for up to 5 years. The trial was set within the Australian general population, using the Commonwealth Electoral Roll as the sampling frame, but also allowing some volunteers to participate. Participants were men and women aged 60 to 79 years (with volunteers up to age 84 years). Participants were randomly assigned to receive either vitamin D or placebo (1:1) using computer-generated permuted block randomisation, which was stratified by age, sex, and state. This was an automated process and the assignment list was not visible to study staff or investigators. Active and placebo gel capsules, identical in appearance to ensure masking, were labelled A and B and the code was not available to study staff or investigators. Participants were asked to report occurrence of acute respiratory symptoms over the previous month via annual surveys, and a subset of participants completed 8-week respiratory symptom diaries in winter. As part of our process to maintain blinding, a random sample of participants was selected for analysis of survey data and a separate sample selected for analysis of diary data. Blood samples were obtained from a random sample of participants (about 450 per group per year) and serum 25-hydroxy vitamin D (25[OH]D) concentrations were measured to monitor adherence. We used regression models to estimate odds ratios (OR), rate ratios, and rate differences. The trial is registered with the Australian New Zealand Clinical Trials Registry, ACTRN12613000743763.
+    >  Findings
+      Between Jan 13, 2014, and May 26, 2015, 421 207 invitations were sent, 40 824 people were interested in participating, and 21 315 participants were recruited and randomised. Of the 16 000 participants selected for potential analysis of survey data, 15 373 were included in the analysis; 295 in the vitamin D group and 332 in the placebo group who were missing data for all five annual surveys were excluded from the analysis. Of the 3800 selected for potential analysis of diary data, 3070 were invited to complete the diaries because 730 had already withdrawn. 2598 people were included in the analysis; 218 people in the vitamin D group and 254 in the placebo group were missing data and were therefore excluded from the analysis. In blood samples collected from randomly sampled participants throughout the trial, the mean serum 25(OH)D concentration was 114·8 (SD 30·3) nmol/L in the vitamin D group and 77·5 (25·2) nmol/L in the placebo group. Vitamin D supplementation did not reduce the risk of acute respiratory tract infection (survey OR 0·98, 95% CI 0·93 to 1·02; diary OR 0·98, 0·83 to 1·15). Analyses of diary data showed reductions in the overall duration of symptoms and of severe symptoms, but these were small and unlikely to be clinically significant.
+    > Interpretation
+      Monthly bolus doses of 60 000 IU of vitamin D did not reduce the overall risk of acute respiratory tract infection, but could slightly reduce the duration of symptoms in the general population. These findings suggest that routine vitamin D supplementation of a population that is largely vitamin D replete is unlikely to have a clinically relevant effect on acute respiratory tract infection.
+
+
+    - quotes
+      !a
+      !b
+
+    / January, 2021 - The Lancet
+    quote !a = Monthly bolus doses of 60 000 IU of vitamin D did not reduce the overall risk of acute respiratory tract infection, but could slightly reduce the duration of symptoms in the general population.
+
+    / January, 2021 - The Lancet
+    quote !b = Routine vitamin D supplementation of a population that is largely vitamin D replete is unlikely to have a clinically relevant effect on acute respiratory tract infection.
 
   // Neuroinvasion of SARS-CoV-2 in human and mouse brain
   doi: https://doi.org/10.1084/jem.20202135
