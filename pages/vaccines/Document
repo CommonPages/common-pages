@@ -1,0 +1,5 @@
+id: "$vaccines"
+name: "Vaccines"
+network: "common.page"
+use:
+  - "$os-life"
