@@ -13,6 +13,35 @@ feed December2020
 
   #
 
+  // Increased risk for COVID-19 in patients with vitamin D deficiency
+  doi: https://www.sciencedirect.com/science/article/pii/S0899900720303890
+  ref 'Katz_et_al_12_04_2020
+    head = We used the i2b2 patient's registry platform at the University of Florida Health Center to generate a count of patients using the international classification of diseases (ICD)-10 diagnosis codes for the period of October 1, 2015, through June 30, 2020. Logistic regression of the aggregates was used for the analysis.
+
+
+    > Objective
+      The 2019 coronavirus disease (COVID-19) pandemic has disproportionally affected a variety of patients with underlying risk factors such as respiratory and cardiovascular diseases, diabetes, obesity, and black race. Vitamin D deficiency, which can result in a compromised immune response, has been also linked to increased risk and increased morbidities associated with COVID-19. In the absence of large-scale longitudinal studies to determine the strength of association between vitamin deficiency and COVID-19, cross-sectional studies of large patient cohorts can be used.
+
+    > Methods
+      We used the i2b2 patient's registry platform at the University of Florida Health Center to generate a count of patients using the international classification of diseases (ICD)-10 diagnosis codes for the period of October 1, 2015, through June 30, 2020. Logistic regression of the aggregates was used for the analysis.
+
+    > Results
+      Patients with vitamin D deficiency were 4.6 times more likely to be positive for COVID-19 (indicated by the ICD-10 diagnostic code COVID19) than patients with no deficiency (P < 0.001). The association decreased slightly after adjusting for sex (odds ratio [OR] = 4.58; P < 0.001) and malabsorption (OR = 4.46; P < 0.001), respectively. The association decreased significantly but remained robust (P < 0.001) after adjusting for race (OR = 3.76; P < 0.001), periodontal disease status (OR = 3.64; P < 0.001), diabetes (OR = 3.28; P < 0.001), and obesity (OR = 2.27; P < 0.001), respectively. In addition, patients with vitamin D deficiency were 5 times more likely to be infected with COVID-19 than patients with no deficiency after adjusting for age groups (OR = 5.155; P < 0.001).
+
+    >  Conclusions
+      Vitamin D deficiency is significantly associated with increased risk for COVID-19.
+
+    - quotes
+      !a
+      !b
+
+    / December, 2020 - Nutrition
+    quote !a = Vitamin D deficiency is significantly associated with increased risk for COVID-19.
+
+    / December, 2020 - Nutrition
+    quote !b = The odds ratio for COVID-19 increases with vitamin deficiency in black individuals.
+
+
   // SARS-CoV-2 D614G variant exhibits efficient replication ex vivo and transmission in vivo
   doi: https://doi.org/10.1126/science.abe8499
   ref 'Hou_et_al_12_18_2020

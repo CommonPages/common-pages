@@ -305,6 +305,12 @@ subject module Disease
         'Nikniaz_et_al_01_05_2021
         'Nikniaz_et_al_01_05_2021.!a
 
+      # Analysis have shown that Vitamin D deficiency is significantly associated with increased risk for COVID-19 and the odds ratio for COVID-19 increases with vitamin deficiency in black individuals.
+      -
+        'Katz_et_al_12_04_2020
+        'Katz_et_al_12_04_2020.!a
+        'Katz_et_al_12_04_2020.!b
+
       —
       / Rationale
       subject VitaminDRationale

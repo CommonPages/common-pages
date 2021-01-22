@@ -3,6 +3,13 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received eight major revisions, expanding the subjects covered and correcting existing claims.
 
+  public: january-22-2021
+  / January 22,2021
+  revision January_22
+    head = We've added the Mink variant section under Mutation and Variants.
+    -
+      Variants.Mink
+
   public: january-21-2021
   / January 21, 2021
   revision January_21

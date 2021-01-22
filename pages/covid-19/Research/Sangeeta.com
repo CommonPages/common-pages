@@ -4080,6 +4080,7 @@ feed Sangeeta
 
     / June, 2020 - Eurosurveillance
     quote !c = Detection of viral RNA in the airborne inhalable dust on the mink farms clearly suggests dust and/or droplets as means of transmission between the minks and occupational risk of exposure for the workers on the farms.
+    
     / June, 2020 - Eurosurveillance
     quote !d = Mink-specific single nucleotide polymorphisms were found in ORF1a, ORF1b, spike, ORF3, ORF7a and 3’UTR
 
@@ -4096,11 +4097,12 @@ feed Sangeeta
       Animal experiments have shown that non-human primates, cats, ferrets, hamsters, rabbits and bats can be infected by SARS-CoV-2. In addition, SARS-CoV-2 RNA has been detected in felids, mink and dogs in the field. Here, we describe an in-depth investigation using whole genome sequencing of outbreaks on 16 mink farms and the humans living or working on these farms. We conclude that the virus was initially introduced from humans and has since evolved, most likely reflecting widespread circulation among mink in the beginning of the infection period several weeks prior to detection. Despite enhanced biosecurity, early warning surveillance and immediate culling of infected farms, transmission occurred between mink farms in three big transmission clusters with unknown modes of transmission. Sixty-eight percent (68%) of the tested mink farm residents, employees and/or contacts had evidence of SARS-CoV-2 infection. Where whole genomes were available, these persons were infected with strains with an animal sequence signature, providing evidence of animal to human transmission of SARS-CoV-2 within mink farms.
 
     - quotes
+      !a
       !b
       !c
 
-    # / November, 2020 - Science
-    # quote !a = The virus was initially introduced from humans and has since evolved, most likely reflecting widespread circulation among mink in the beginning of the infection period several weeks prior to detection. Despite enhanced biosecurity, early warning surveillance and immediate culling of infected farms, transmission occurred between mink farms in three big transmission clusters with unknown modes of transmission.
+    / November, 2020 - Science
+    quote !a = We conclude that the virus was initially introduced from humans and has since evolved, most likely reflecting widespread circulation among mink in the beginning of the infection period several weeks prior to detection.
 
     / November, 2020 - Science
     quote !b = Phylogenetic analysis of the mink SARS-CoV-2 genomes showed that mink sequences of 16 farms grouped into 5 different clusters. Viruses from farms NB1, NB3, NB4, NB8, NB12, NB13 and NB16 belonged to cluster A, sequences from NB2 formed a distinct cluster (B), those from farms NB6, NB7, NB9 and NB14 formed cluster C, NB5, NB8, NB10 and NB15 formed cluster D, and NB11 had sequences designated as cluster E. On farm NB8, SARS-CoV-2 viruses were found from cluster A and cluster D.
