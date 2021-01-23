@@ -870,6 +870,7 @@ feed June2020
 
 
   # 2 studies show #COVID19 patients lose IgG antibodies within weeks or months after recovery.n short, a perfect example of #COVID19 misinformation. The titre of neutralising antibodies wanes, but #SARSCoV2 induces long-lasting T-cell response and there's been no confirmed reinfection to date. CLUB WITH 726
+  @@XinghuanWang
   // Prevalence of IgG antibodies to SARS-CoV-2 in Wuhan - implications for the ability to produce long-lasting protective antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.06.13.20130252
   ref 'Liu_et_al_06_16_2020

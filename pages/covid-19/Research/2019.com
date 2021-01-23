@@ -591,6 +591,7 @@ feed 2019
 
 
   # Antibodies
+  @@LiLiu
   // Anti–spike IgG causes severe acute lung injury by skewing macrophage responses during acute SARS-CoV infection
   doi: https://doi.org/10.1172/jci.insight.123158
   ref 'Liu_et_al_2019

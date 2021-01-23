@@ -4885,6 +4885,7 @@ feed Pre2019
     quote !f = We adjusted confounding factors, including disease severity, using the propensity score, and found the same results as above. The likelihood of survival of patients with ARDS could be improved by the administration of RAS inhibitor
 
   # Tag - Antibodies, How long Immunity Last
+  @@GuoDongLiang
   //  Duration of Antibody Responses after Severe Acute Respiratory Syndrome
   doi: https://doi.org/10.3201/eid1310.070576
   ref 'Wu_et_al_2007
@@ -5372,6 +5373,7 @@ feed Pre2019
 
 
   # Antibodies
+  @@AbeerAlshukairi
   // Antibody Response and Disease Severity in Healthcare Worker MERS Survivors
   doi: https://doi.org/10.3201/eid2206.160010
   ref 'Alshukairi_et_al_2016

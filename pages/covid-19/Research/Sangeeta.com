@@ -4080,7 +4080,7 @@ feed Sangeeta
 
     / June, 2020 - Eurosurveillance
     quote !c = Detection of viral RNA in the airborne inhalable dust on the mink farms clearly suggests dust and/or droplets as means of transmission between the minks and occupational risk of exposure for the workers on the farms.
-    
+
     / June, 2020 - Eurosurveillance
     quote !d = Mink-specific single nucleotide polymorphisms were found in ORF1a, ORF1b, spike, ORF3, ORF7a and 3’UTR
 
@@ -4642,6 +4642,7 @@ feed Sangeeta
 
 
   #
+  @@FanWu
   // Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -4688,6 +4689,7 @@ feed Sangeeta
 
 
   # Waning Antibodies
+  @@KatieDoores
   // Longitudinal evaluation and decline of antibody responses in SARS-CoV-2 infection
   doi: https://doi.org/10.1101/2020.07.09.20148429
   ref 'Seow_et_al_07_11_2020

@@ -288,7 +288,7 @@ feed May2020
     / May, 2020 - MedRxiv
     quote !a =
 
-
+  @@KwokYuen
   // Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study
   doi: https://doi.org/10.1016/S1473-3099(20)30196-1
   ref 'To_et_al_05_20_2020
@@ -1603,7 +1603,7 @@ feed May2020
 
 
   # Frontiers, immune system
-  # @@FengyuHu
+  @@FengyuHu
   // Pathological inflammation in patients with COVID-19: a key role for monocytes and macrophages
   doi: https://doi.org/10.1080/22221751.2020.1732837
   ref 'Merad_et_al_05_06_2020
@@ -2823,6 +2823,7 @@ feed May2020
 
 
   # antibody response, vaccine development- FRONTIER
+  @@PaulBieniasz
   // Convergent Antibody Responses to SARS-CoV-2 Infection in Convalescent Individuals
   doi: https://doi.org/10.1101/2020.05.13.092619
   ref 'Robbiani_et_al_05_22_2020

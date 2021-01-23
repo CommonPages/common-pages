@@ -2340,6 +2340,7 @@ feed March2020
 
 
   # Tag - Antibodies, How long Immunity Last, Serology Testing
+  @@NingshaoXia
   // Antibody Responses to SARS-CoV-2 in Patients of Novel Coronavirus Disease 2019
   doi: http://dx.doi.org/10.2139/ssrn.3546052
   ref 'Zhao_et_al_2020
@@ -2466,6 +2467,7 @@ feed March2020
 
 
   # Vaccine, Antibodies
+  @@YanlingWu
   // Fully human single-domain antibodies against SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.30.015990
   ref 'Wu_et_al_2020b
@@ -2478,6 +2480,7 @@ feed March2020
     quote !a = The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. The antibody n3130 was found to potently neutralize both pseudotyped and live virus. These antibodies may serve as reagents to facilitate the vaccine development.
 
   # Serology, antibodies
+  @@JieZhou
   // Global profiling of SARS-CoV-2 specific IgG/IgM responses of convalescents using a proteome microarray
   doi: https://doi.org/10.1101/2020.03.20.20039495
   ref 'Jiang_et_al_2020

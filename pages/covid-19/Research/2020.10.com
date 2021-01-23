@@ -28,7 +28,7 @@ feed October2020
     / October, 2020 - Nature
     quote !a = Ferrets were shown to have developed SARS-CoV-2 neutralising antibody responses following vaccination with INO-4800, demonstrating that ferrets are an appropriate animal to model COVID-19 vaccine immunogenicity, and that this DNA vaccine stimulates an effective B cell response.
 
-    
+
 
   // Spike mutation D614G alters SARS-CoV-2 fitness
   doi: https://doi.org/10.1038/s41586-020-2895-3
@@ -225,6 +225,7 @@ feed October2020
     quote !a = All patients in the moderate and severe groups had S1-specific IgG, while 20% of the patients in the mild group did not have any IgG detected after two weeks after the onset of symptoms. Interestingly, in the severe group, the SARS-CoV-2 IgG level was significantly higher in males than females
 
   # Antibody Waning
+  @@KatieDoores
   // Longitudinal observation and decline of neutralizing antibody responses in the three months following SARS-CoV-2 infection in humans
   doi: https://doi.org/10.1038/s41564-020-00813-8
   ref 'Seow_et_al_10_26_2020
