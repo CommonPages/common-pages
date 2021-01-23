@@ -81,6 +81,7 @@ feed July2020
 
 
   # Antibody Response
+  @@GalitAlter
   // Distinct Early Serological Signatures Track with SARS-CoV-2 Survival
   doi: https://doi.org/10.1016/j.immuni.2020.07.020
   ref 'Atyeo_et_al_07_30_2020

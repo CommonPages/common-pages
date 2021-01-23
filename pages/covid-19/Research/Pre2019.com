@@ -1472,6 +1472,7 @@ feed Pre2019
     # quote !i = These findings suggest that cleavage at S2′ is carried out by proteases recognizing a single arginine, most likely TMPRSS2 and cathepsin L. Finally, mutation of the proposed cathepsin L site did not impact viral entry and double mutation of S1/S2 and S2′ site was compatible with cathepsin L- but not TMPRSS2-dependent host cell entry, indicating that cathepsin L can process the S protein at auxiliary sites. Collectively, our results indicate a rigid sequence requirement for S protein activation by TMPRSS2 but not cathepsin L.
 
   # cross-reactivity, T-cell, Club with 723,725, 722, CHECK THE date- couldnt find it.
+  @@GalinaPetrova
   // Cross-Reactivity of T Cells and Its Role in the Immune System
   doi: https://doi.org/10.1615/CritRevImmunol.v32.i4.50
   ref 'Petrova_et_al_02_20_2012

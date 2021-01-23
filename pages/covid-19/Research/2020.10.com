@@ -136,6 +136,7 @@ feed October2020
 
 
   #
+  @@AniaWajnberg
   // Robust neutralizing antibodies to SARS-CoV-2 infection persist for months
   doi: https://doi.org/10.1126/science.abd7728
   ref 'Wajnberg_et_al_10_26_2020

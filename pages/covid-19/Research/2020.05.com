@@ -2754,6 +2754,7 @@ feed May2020
 
 
   # Immune Response head !c , !a !b Frontiers - Vaccine
+  @@ShaneCrotty
   // Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals
   doi: https://doi.org/10.1016/j.cell.2020.05.015
   ref 'Grifoni_et_al_05_04_2020
@@ -3637,6 +3638,7 @@ feed May2020
 
 
   # Immune Response
+  @@AntonioBertoletti
   // Different pattern of pre-existing SARS-COV-2 specific T cell immunity in SARS-recovered and uninfected individuals
   doi: https://doi.org/10.1101/2020.05.26.115832
   ref 'Bert_et_al_05_27_2020

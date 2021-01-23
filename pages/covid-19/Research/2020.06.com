@@ -2297,6 +2297,7 @@ feed June2020
 
 
   # immunogen design and vaccine development, antigenicity differences, antibody response
+  @@MalikPeiris
   // Cross-reactive Antibody Response between SARS-CoV-2 and SARS-CoV Infections
   doi: https://doi.org/10.1016/j.celrep.2020.107725
   ref 'Lv_et_al_06_02_2020

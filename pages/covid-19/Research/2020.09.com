@@ -126,6 +126,7 @@ feed September2020
 
 
   # Immunity
+  @@ArthurEdridge
   // Seasonal coronavirus protective immunity is short-lasting
   doi: https://doi.org/10.1038/s41591-020-1083-1
   ref 'Edridge_et_al_09_11_2020
@@ -156,7 +157,7 @@ feed September2020
     / September, 2020 - Cell
     quote !a = Coordinated CD4+ T cell, CD8+ T cell, and antibody responses are protective, but uncoordinated responses frequently fail to control disease, with a connection between aging and impaired adaptive immune responses to SARS-CoV-2.
 
-
+  @@ShuchiAnand
   // Prevalence of SARS-CoV-2 antibodies in a large nationwide sample of patients on dialysis in the USA: a cross-sectional study
   doi: https://doi.org/10.1016/S0140-6736(20)32009-2
   ref 'Anand_et_al_02_20_2020
@@ -177,7 +178,7 @@ feed September2020
 
     / February, 2020 - bioRxiv
     quote !a =
-
+  @@OttoYang
   // Rapid Decay of Anti–SARS-CoV-2 Antibodies in Persons with Mild Covid-19
   doi: https://doi.org/10.1056/NEJMc2025179
   ref 'Ibarrondo_et_al_09_10_2020

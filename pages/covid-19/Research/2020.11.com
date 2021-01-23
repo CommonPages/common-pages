@@ -190,6 +190,7 @@ feed November2020
     quote !a = The estimated risk of infection from touching a contaminated surface was low (less than 5 in 10,000), suggesting fomites play a minimal role in SARS-CoV-2 community transmission.
 
   # Antibody Response Children
+  @@ShidanTosif
   // Immune responses to SARS-CoV-2 in three children of parents with symptomatic COVID-19
   doi: https://doi.org/10.1038/s41467-020-19545-8
   ref 'Tosif_et_al_11_11_2020
@@ -257,6 +258,7 @@ feed November2020
 
 
   # Immunity
+  @@ScottHensley
   // Seasonal human coronavirus antibodies are boosted upon SARS-CoV-2 infection but not associated with protection
   doi: https://doi.org/10.1101/2020.11.06.20227215
   ref 'Anderson_et_al_11_10_2020
@@ -270,6 +272,7 @@ feed November2020
     quote !a =
 
   # T Cell
+  @@Moss
   // Robust SARS-CoV-2-specific T-cell immunity is maintained at 6 months following primary infection
   doi: https://doi.org/10.1101/2020.11.01.362319
   ref 'Zuo_et_al_11_02_2020
@@ -283,6 +286,7 @@ feed November2020
     quote !a =
 
   # Antibody
+  @@SaurabhMehandru
   // Evolution of Antibody Immunity to SARS-CoV-2
   doi: https://doi.org/10.1101/2020.11.03.367391
   ref 'Gaebler_et_al_11_05_2020
@@ -295,6 +299,7 @@ feed November2020
     quote !a =
 
   # Antibody Response
+  @@DonnaFarber
   // Distinct antibody responses to SARS-CoV-2 in children and adults across the COVID-19 clinical spectrum
   doi: https://doi.org/10.1038/s41590-020-00826-9
   ref 'Weisberg_et_al_11_05_2020
@@ -309,6 +314,7 @@ feed November2020
 
 
   # Antibody Waning
+  @@DuaneWesemann
   // Quick COVID-19 Healers Sustain Anti-SARS-CoV-2 Antibody Production
   doi: https://doi.org/10.1016/j.cell.2020.10.051
   ref 'Chen_et_al_11_03_2020

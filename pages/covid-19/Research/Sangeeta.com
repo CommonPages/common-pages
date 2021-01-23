@@ -4608,6 +4608,7 @@ feed Sangeeta
 
 
   #
+  @@YaokaiChen
   // Viral Kinetics and Antibody Responses in Patients with COVID-19
   doi: https://doi.org/10.1101/2020.03.24.20042382
   ref 'Tan_et_al_03_26_2020
@@ -6025,6 +6026,7 @@ feed Sangeeta
 
 
   # reinfection
+  @@BelenVivar
   // COVID-19 re-infection by a phylogenetically distinct SARS-CoV-2 variant, first confirmed event in South America.
   doi: https://doi.org/10.2139/ssrn.3686174
   ref 'Prado-Vivar_et_al_09_08_2020
@@ -6069,6 +6071,7 @@ feed Sangeeta
 
 
   # re-infection, Hongkong, D614G, transmission lineage,VACCINEDESIGN and Development
+  @@KwokYuen
   // Coronavirus Disease 2019 (COVID-19) Re-infection by a Phylogenetically Distinct Severe Acute Respiratory Syndrome Coronavirus 2 Strain Confirmed by Whole Genome Sequencing.
   doi: https://doi.org/10.1093/cid/ciaa1275
   ref 'WangTo_et_al_08_25_2020

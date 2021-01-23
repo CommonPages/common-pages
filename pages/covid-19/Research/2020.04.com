@@ -1717,6 +1717,7 @@ feed April2020
 
 
   # Immune Response
+  @@AndreasThiel
   // Presence of SARS-CoV-2 reactive T cells in COVID-19 patients and healthy donors
   doi: https://doi.org/10.1101/2020.04.17.20061440
   ref 'Braun_et_al_04_22_2020
@@ -3016,6 +3017,7 @@ feed April2020
 
 
   # Vaccines, Frontiers?
+  @@AkikoIwasaki
   // The potential danger of suboptimal antibody responses in COVID-19
   doi: https://doi.org/10.1038/s41577-020-0321-6
   ref 'Iwasaki_et_al_2020

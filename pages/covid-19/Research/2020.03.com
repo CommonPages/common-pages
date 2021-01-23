@@ -2320,6 +2320,7 @@ feed March2020
 
 
   # Tag - Antibodies, How long Immunity Last
+  @@ChuanQin
   // Reinfection could not occur in SARS-CoV-2 infected rhesus macaques
   doi: https://doi.org/10.1101/2020.03.13.990226
   ref 'Bao_et_al_2020
