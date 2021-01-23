@@ -4657,6 +4657,7 @@ feed Sangeeta
 
 
   # Mouse rechallenge - reinfection
+  @@ChuanQin
   // Primary exposure to SARS-CoV-2 protects against reinfection in rhesus macaques
   doi: https://doi.org/10.1126/science.abc5343
   ref 'Deng_et_al_08_14_2020
@@ -5970,6 +5971,7 @@ feed Sangeeta
 
 
   # reinfection, coronavirus, context
+  @@MartaGalanti
   // Direct observation of repeated infections with endemic coronaviruses
   doi: https://doi.org/10.1101/2020.04.27.20082032
   ref 'Galanti_et_al_05_03_2020
@@ -6012,6 +6014,7 @@ feed Sangeeta
 
 
   # reinfection, coronavirus, context
+  @@ArthurEdridge
   // Seasonal coronavirus protective immunity is short-lasting.
   doi: https://doi.org/10.1038/s41591-020-1083-1
   ref 'Edridge_et_al_09_14_2020
@@ -6057,6 +6060,7 @@ feed Sangeeta
 
 
   # re-infection, Belgium, transmission lineage, VACCINEDESIGN and Development
+  @@PietMaes
   // Symptomatic SARS-CoV-2 reinfection by a phylogenetically distinct strain.
   doi: https://doi.org/10.1093/cid/ciaa1330
   ref 'Elslande_et_al_09_05_2020
@@ -6115,6 +6119,7 @@ feed Sangeeta
 
 
   # reinfection, USA, VACCINEDESIGN and Development,transmission lineage
+  @@MarkPandori
   // Genomic evidence for reinfection with SARS-CoV-2: a case study
   doi: https://doi.org/10.1016/S1473-3099(20)30764-7
   ref 'Tillett_et_al_10_12_2020
@@ -6152,6 +6157,7 @@ feed Sangeeta
 
 
   # Herd immunity, re-infection, vaccine- e
+  @@AkikoIwasaki
   // What reinfections mean for COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30783-0
   ref 'Iwasaki_et_al_10_12_2020

@@ -177,6 +177,7 @@ feed May2020
 
 
   # Protective Immunity
+  @@ChuanQin
   // Lack of Reinfection in Rhesus Macaques Infected with SARS-CoV-2
   doi: https://doi.org/10.1101/2020.03.13.990226
   ref 'Bao_et_al_05_01_2020
@@ -2575,6 +2576,7 @@ feed May2020
 
 
   # DNA vaccine
+  @@DanBarouch
   // SARS-CoV-2 infection protects against rechallenge in rhesus macaques
   doi: https://doi.org/10.1126/science.abc4776
   ref 'Chandrashekar_et_al_05_20_2020
