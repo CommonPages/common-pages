@@ -1730,6 +1730,7 @@ feed May2020
 
 
   # IFR, CFR
+  @@RichardGrewelle
   // Estimating the Global Infection Fatality Rate of COVID-19
   doi: https://doi.org/10.1101/2020.05.11.20098780
   ref 'Grewelle_et_al_05_18_2020
@@ -2302,6 +2303,7 @@ feed May2020
 
 
   # fatality rate model, USA
+  @@AnirbanBasu
   // Estimating The Infection Fatality Rate Among Symptomatic COVID-19 Cases In The United States
   doi: https://doi.org/10.1377/hlthaff.2020.00455
   ref 'Basu_et_al_05_07_2020
@@ -2874,6 +2876,7 @@ feed May2020
 
 
   #  Diagnostics-Prediction model
+  @@YeYuan
   // An interpretable mortality prediction model for COVID-19 patients
   doi: https://doi.org/10.1038/s42256-020-0180-7
   ref 'Yan_et_al_05_14_2020
@@ -2924,6 +2927,7 @@ feed May2020
 
 
   # Mortality Rate - Prediction
+  @@AmitavaBanerjee
   // Estimating excess 1-year mortality associated with the COVID-19 pandemic according to underlying conditions and age: a population-based cohort study
   doi: https://doi.org/10.1016/S0140-6736(20)30854-0
   ref 'Banerjee_et_al_05_12_2020
@@ -3421,6 +3425,7 @@ feed May2020
 
 
   # Nursing Homes , !c - PublicPolicy
+  @@Sanderson
   // SARS-CoV-2 infection, clinical features and outcome of COVID-19 in United Kingdom nursing homes
   doi: https://doi.org/10.1101/2020.05.19.20105460
   ref 'Graham_et_al_05_16_2020

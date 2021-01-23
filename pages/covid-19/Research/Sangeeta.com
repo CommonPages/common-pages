@@ -4781,6 +4781,7 @@ feed Sangeeta
 
 
   #
+  @@MarieGousseff
   // Clinical recurrences of COVID-19 symptoms after recovery: Viral relapse, reinfection or inflammatory rebound?
   doi: https://doi.org/10.1016/j.jinf.2020.06.073
   ref 'Gousseff_et_al_06_30_2020
@@ -4795,6 +4796,7 @@ feed Sangeeta
 
 
   #
+  @@ShanChang
   // Relapse of SARS upon tapering corticosteroid
   doi: https://doi.org/10.1007/s00134-004-2287-4
   ref 'Chien_et_al_05_01_2004
@@ -4806,6 +4808,7 @@ feed Sangeeta
 
 
   #
+  @@SarahElsayed
   // The Possibility and Cause of Relapse After Previously Recovering From COVID-19: A Systematic Review
   doi: https://dx.doi.org/10.7759%2Fcureus.10264
   ref 'Elsayed_et_al_09_05_2020

@@ -871,6 +871,7 @@ feed March2020
 
 
   # clinical characteristics, Washington, mortality rate, cardio, mechanical ventilation
+  @@MatthewArentz
   // Characteristics and outcomes of 21 critically ill patients with COVID-19 in Washington state
   doi: https://doi.org/10.1001/jama.2020.4326
   ref 'Arentz_et_al_2020
@@ -2045,7 +2046,7 @@ feed March2020
     / March, 2020 - ScienceDirect
     quote !g = The presence of gastrointestinal symptoms was not associated with faecal sample viral RNA positivity (p=0·45); disease severity was not associated with extended duration of faecal sample viral RNA positivity (p=0·60); however, antiviral treatment was positively associated with the presence of viral RNA in faecal samples (p=0·025; appendix pp 2–3). These associations should be interpreted with caution because of the possibility of confounding.
 
-
+  @@AndreaRemuzzi
   // COVID-19 and Italy: what next?
   doi: https://doi.org/10.1016/S0140-6736(20)30627-9
   ref 'Remuzzi_et_al_2020
@@ -2624,6 +2625,7 @@ feed March2020
 
 
   # Variant population, Fatality, Refer the graph (Image) and comparison with other studies for the data we put in a.
+  @@AnthonyHauser
   // Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: a modelling study in Hubei, China and northern Italy
   doi: https://doi.org/10.1101/2020.03.04.20031104
   ref 'Hauser_et_al_2020
@@ -2648,6 +2650,7 @@ feed March2020
 
 
   # Epidemic - Data from cruise ship (Diamond Princess)
+  @@TimothyRussell
   // Estimating the infection and case fatality ratio for COVID-19 using age-adjusted data from the outbreak on the Diamond Princess cruise ship
   doi: https://doi.org/10.1101/2020.03.05.20031773
   ref 'Russell_et_al_2020
@@ -2709,6 +2712,7 @@ feed March2020
 
 
   # Old age, epidemics
+  @@JosephTWu
   // Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China
   doi: https://doi.org/10.1038/s41591-020-0822-7
   ref 'Wu_et_al_2020

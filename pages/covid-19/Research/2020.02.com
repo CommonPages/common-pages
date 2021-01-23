@@ -374,6 +374,7 @@ feed February2020
 
 
   # PCR testing, Relapse, nosocomial
+  @@HaiboXu
   // Positive RT-PCR Test Results in Patients Recovered From COVID-19
   doi: https://doi.org/10.1001/jama.2020.2783
   ref 'Lan_et_al_2020
@@ -707,6 +708,7 @@ feed February2020
 
 
   # CFR
+  @@DavidKelvin
   // Similarity in Case Fatality Rates (CFR) of COVID-19/SARS-COV-2 in Italy and China
   doi: https://doi.org/10.3855/jidc.12600
   ref 'Porcheddu_et_al_2020
