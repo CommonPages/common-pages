@@ -111,10 +111,10 @@ subject Variants
 
   / Mink Variant
   subject Mink
-    head = Concerning outbreaks of SARS-CoV-2 began to emerge on mink farms in the Netherlands and Denmark in late spring and early summer 2020. Since April 2020, when the first SARS-CoV-2 infection was reported in the Netherlands in a mink and subsequently in a mink farm worker, it has been established that human-to-mink and mink-to-human transmission can occur. Since then, infections in mink have been reported in Denmark, Italy, Spain, Sweden and the United States.
+    head = Outbreaks of SARS-CoV-2 began to emerge on mink farms in the Netherlands and Denmark in late spring of 2020. Researchers have established that human-to-mink and mink-to-human transmission can occur. Infections in minks have been reported in Denmark, Italy, Spain, Sweden and the United States.
 
     -
-      Timeline
+      !Timeline
     -
       !SourceofInfection
       !MinktoHuman
@@ -160,57 +160,52 @@ subject Variants
       !LastDetection
       !Cluster5
 
-    subject Timeline
-      head = Concerning outbreaks of SARS-CoV-2 began to emerge on mink farms in the Netherlands and Denmark in late spring and early summer 2020. Since April 2020, when the first SARS-CoV-2 infection was reported in the Netherlands in a mink and subsequently in a mink farm worker. Since then, infections in mink have been reported in Denmark, Italy, Spain, Sweden and the United States.
+    / Timeline
+    claim !Timeline = To date, six countries, namely Denmark, the Netherlands, Spain, Sweden, Italy and the United States of America have reported SARS-CoV-2 in farmed minks to the World Organisation for Animal Health (OIE).
 
-      > Netherland
-        The Netherlands reported the first reports on SARS-CoV-2 infections at 69 mink farms in three regions during the period 23 April to 5 November 2020; with increased mortality in 4 mink farms in the Netherlands.
+      / The Netherlands
+      claim !Netherlands = The Netherlands reported the first reports on SARS-CoV-2 infections at 69 mink farms in three regions during the period 23 April to 5 November 2020; with increased mortality in 4 mink farms in the Netherlands.
+        -
+          'Molenaar_et_al_07_14_2020
+          'Molenaar_et_al_07_14_2020.!a
+          'Molenaar_et_al_07_14_2020.!b
+          'Molenaar_et_al_07_14_2020.!c
+          'Molenaar_et_al_07_14_2020.!d
+        -
+          'Munnink_et_al_11_10_2020
 
-      > Italy
-        Italy reported one mink (weakly) positive for SARS-CoV-2 at a farm in the Lombardy region on 10 August 2020. No lesions were found in this mink. The detection came after the identification of a case of COVID-19 in a worker from the farm. In response, around 1 500 mink were tested and no further cases were detected.
-      > Spain
-        Spain reported SARS-CoV-2 infections at a mink farm in the Aragon region. On 21 May 2020, seven asymptomatic infections were reported among workers at a mink farm in Aragon, according to media quoting the Spanish health authorities. On 22 June 2020, one animal tested positive by RT-PCR for SARS-CoV-2. On 7 July 2020, 78 of the 90 animals tested were found positive by RT- RAPID RISK ASSESSMENT Detection of new SARS-CoV-2 variants related to mink – 12 November 2020.
+      / Italy
+      claim !Italy = Italy reported one mink (weakly) positive for SARS-CoV-2 at a farm in the Lombardy region on 10 August 2020. No lesions were found in this mink. The detection came after the identification of a case of COVID-19 in a worker from the farm. In response, around 1 500 mink were tested and no further cases were detected.
+        -
+          'Adlhoch_et_al_11_12_2020
+          'Adlhoch_et_al_11_12_2020.!x
 
-      > United States
-        As of 30 October 2020, 11 outbreaks in commercial mink farms have been reported in three states of the United States. These outbreaks occurred between 26 July and 29 September 2020. Several people that were in contact with mink from these farms also tested positive for SARS-CoV-2. In total, 12 231 mink died as a result of contracting the virus.
+      / Spain
+      claim !Spain = Spain reported SARS-CoV-2 infections at a mink farm in the Aragon region. On 21 May 2020, seven asymptomatic infections were reported among workers at a mink farm in Aragon, according to media quoting the Spanish health authorities. On 22 June 2020, one animal tested positive by RT-PCR for SARS-CoV-2. On 7 July 2020, 78 of the 90 animals tested were found positive by RT- RAPID RISK ASSESSMENT Detection of new SARS-CoV-2 variants related to mink – 12 November 2020.
+        -
+          'Adlhoch_et_al_11_12_2020
+          'Adlhoch_et_al_11_12_2020.!y
 
-      > Denmark
-        On 3 June 2020, the national authorities decided to cull mink at the affected farms. On 5 November 2020, Denmark reported 214 human COVID-19 cases infected with SARS-CoV-2 virus variants related to mink, as well as infected mink at more than 200 mink farms. Most human and animal cases reported since June 2020 have been in the North Jutland Region. The SARS-CoV-2 variants detected in these cases were part of at  least five closely-related clusters; each cluster was characterised by a specific mink-related variant, identified in humans and animals from infected mink farms.
-        To date, six countries, namely Denmark, the Netherlands, Spain, Sweden, Italy and the United States of America have reported SARS-CoV-2 in farmed minks to the World Organisation for Animal Health (OIE).
-      > Sweden
-        As of 6 November 2020, Sweden had reported ten SARS-CoV-2-positive mink at farms in Blekinge county, where the first detection in one mink occurred on 16 October 2020. Several mink that had been found dead also tested positive. Sequences from two mink and two human cases have been reported without any S protein mutations.
+      / United States
+      claim !UnitedStates = As of 30 October 2020, 11 outbreaks in commercial mink farms have been reported in three states of the United States. These outbreaks occurred between 26 July and 29 September 2020. Several people that were in contact with mink from these farms also tested positive for SARS-CoV-2. In total, 12 231 mink died as a result of contracting the virus.
 
-      # Netherland
-      - Triage
-        'Molenaar_et_al_07_14_2020
-        'Molenaar_et_al_07_14_2020.!a
-        'Molenaar_et_al_07_14_2020.!b
-        'Molenaar_et_al_07_14_2020.!c
-        'Molenaar_et_al_07_14_2020.!d
-      -
-        'Munnink_et_al_11_10_2020
-      # Italy
-      -
-        'Adlhoch_et_al_11_12_2020
-        'Adlhoch_et_al_11_12_2020.!x
-      # Spain
-      -
-        'Adlhoch_et_al_11_12_2020
-        'Adlhoch_et_al_11_12_2020.!y
-      # Denmark
-      -
-        'Adlhoch_et_al_11_12_2020
-      -
-        'WHO_et_al_11_06_2020
-        'WHO_et_al_11_06_2020.!a
-        'WHO_et_al_11_06_2020.!b
-      # Sweden
-      -
-        'Starr_et_al_08_11_2020
-        'Starr_et_al_08_11_2020.!f
-        'Starr_et_al_08_11_2020.!g
-        'Starr_et_al_08_11_2020.!h
-        'Starr_et_al_08_11_2020.!i
+      / Denmark
+      claim !Denmark = On 5 November 2020, Denmark reported 214 human COVID-19 cases infected with SARS-CoV-2 virus variants related to mink, as well as infected mink at more than 200 mink farms. Most human and animal cases reported since June 2020 have been in the North Jutland Region. The SARS-CoV-2 variants detected in these cases were part of at  least five closely-related clusters; each cluster was characterised by a specific mink-related variant, identified in humans and animals from infected mink farms.
+        -
+          'Adlhoch_et_al_11_12_2020
+        -
+          'WHO_et_al_11_06_2020
+          'WHO_et_al_11_06_2020.!a
+          'WHO_et_al_11_06_2020.!b
+
+      / Sweden
+      claim !Sweden = As of 6 November 2020, Sweden had reported ten SARS-CoV-2-positive mink at farms in Blekinge county, where the first detection in one mink occurred on 16 October 2020. Several mink that had been found dead also tested positive. Sequences from two mink and two human cases have been reported without any S protein mutations.
+        -
+          'Starr_et_al_08_11_2020
+          'Starr_et_al_08_11_2020.!f
+          'Starr_et_al_08_11_2020.!g
+          'Starr_et_al_08_11_2020.!h
+          'Starr_et_al_08_11_2020.!i
 
     / Source of Transmission
     claim !SourceofInfection = Minks are the first animal species for which SARS-CoV-2 outbreaks have been reported. Sequence analysis of mink-derived viruses pointed at humans as the probable source of the initial infection and demonstrated transmission between minks.
@@ -232,7 +227,7 @@ subject Variants
         'WHO_et_al_11_06_2020
 
     / Replication
-    claim !Replication = Study indicates that virus might replicate more efficiently in mink or that it may have acquired mutations which make it more virulent in mink.
+    claim !Replication = One study siggests that the virus might replicate more efficiently in minks, or that it may have acquired mutations which make it more virulent in minks.
       -
         'Munnink_et_al_11_10_2020
 
@@ -255,8 +250,6 @@ subject Variants
       -
         'Drop_et_al_11_16_2020
         'Drop_et_al_11_16_2020.!k
-
-
 
     # >
     #   We also identify structural support for a marginal increase in stability of the mink complex with the N501T mutation relative to wild type. In our dataset we detect the presence of this mutation in five mink SARS-CoV-2 though this corresponds to at least four independent emergences, with N501T being exceptionally rare in human infections. It may also be relevant that a different residue change in this position (N501Y) has been proposed as a mechanism of host adaption in mice infected with SARS-CoV-2 suggesting the broader role of residue changes at 501 as relevant affinity enhancing mutations.

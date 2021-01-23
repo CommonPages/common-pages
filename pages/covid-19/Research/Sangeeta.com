@@ -4643,7 +4643,7 @@ feed Sangeeta
 
 
   #
-  @@FanWu
+  # @@FanWu
   // Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -5354,7 +5354,7 @@ feed Sangeeta
 
 
   #
-  @@Zhiwei
+  # @@Zhiwei
   // Shorter incubation period is associated with severe disease progression in patients with COVID-19
   doi: https://doi.org/10.1080/21505594.2020.1836894
   ref 'Lai_et_al_10_27_2020

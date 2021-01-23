@@ -3268,7 +3268,7 @@ feed Pre2019
 
 
   # handwashing, physical interventions, infection control, military hygiene, respiratory tract infections
-  @@MargaretRyan
+  # @@MargaretRyan
   // Handwashing and respiratory illness among young adults in military training.
   doi: https://doi.org/10.1016/S0749-3797(01)00323-3
   ref 'Ryan_et_al_2001

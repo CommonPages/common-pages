@@ -6,7 +6,7 @@ page $covid-19
   >
     This is a {assets.Community living document} which represents the work of many authors. You can {assets.Contribute contribute} by sending corrections and responding to open questions. You can contact the page leads by [email](mailto:covid-19@common.page) or complete [this form](https://docs.google.com/forms/d/1KGDbzM2hxOyQzU81kth5n5RiGzxDzlgHTdg2bOY6Azs/edit) to join our community Slack. Follow {assets.Contact @CommonPages} for updates, or check the {Revisions revision feed}.
 
-    <small>Recent updates: {Revisions.January_21}, {Revisions.January_19} and {Revisions.January_16}</small>
+    <small>Recent updates: {Revisions.January_23}, {Revisions.January_21} and {Revisions.January_19}</small>
 
   - Concepts
     Foundations

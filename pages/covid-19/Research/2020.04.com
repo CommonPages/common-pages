@@ -260,7 +260,7 @@ feed April2020
 
 
   # Face Mask
-  @@AbbaGumel
+  # @@AbbaGumel
   // To mask or not to mask: Modeling the potential for face mask use by the general public to curtail the COVID-19 pandemic
   doi: https://dx.doi.org/10.1016%2Fj.idm.2020.04.001
   ref 'Eikenberry_et_al_04_21_2020
@@ -3658,7 +3658,7 @@ feed April2020
 
 
   # Tag - Air pollution / Preventive measure
-  @@FrancescaDominici
+  # @@FrancescaDominici
   // Exposure to air pollution and COVID-19 mortality in the United States
   doi: https://doi.org/10.1101/2020.04.05.20054502
   ref 'Wu_et_al_2020c
