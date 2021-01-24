@@ -41,7 +41,7 @@ feed December2020
     / December, 2020 - Nutrition
     quote !b = The odds ratio for COVID-19 increases with vitamin deficiency in black individuals.
 
-
+  @@RalphBaric
   // SARS-CoV-2 D614G variant exhibits efficient replication ex vivo and transmission in vivo
   doi: https://doi.org/10.1126/science.abe8499
   ref 'Hou_et_al_12_18_2020
@@ -56,7 +56,7 @@ feed December2020
     / December, 2020 - Science
     quote !a = D614G substitution enhances SARS-CoV-2 infectivity, competitive fitness, and transmission in primary human cells and animal models.
 
-
+  @@DrewWeissman
   // D614G Spike Mutation Increases SARS CoV-2 Susceptibility to Neutralization
   doi: https://www.sciencedirect.com/science/article/pii/S193131282030634X
   ref 'Weissman_et_al_12_01_2020

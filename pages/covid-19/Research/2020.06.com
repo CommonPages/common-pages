@@ -1283,7 +1283,7 @@ feed June2020
     # quote !o = In summary, intensive sequencing of SARS-CoV-2 genomes reveals a high frequency of virus importations that led to onward transmission within the UK. Both the rate and source of virus importations fluctuate rapidly through time. We expect that similar trends in SARS-CoV-2 importation also occurred in other countries and regions that are highly connected by international travel, although these trends may be less apparent if fewer virus genomes are generated from those locations. The relative contributions of SARS-CoV-2 importation and local transmission to early epidemic growth in each country therefore warrants further investigation. These dynamics should be taken into account when planning and modelling future public health actions in the context of international travel.
 
 
-
+  @@ChristosKyratsous
   // Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
   doi: https://doi.org/10.1126/science.abd0831
   ref 'Baum_et_al_06_11_2020

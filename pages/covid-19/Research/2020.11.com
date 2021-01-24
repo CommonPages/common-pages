@@ -27,7 +27,7 @@ feed November2020
     / February, 2020 - bioRxiv
     quote !a = Vitamin D supplementation was safe and reduced risk of ARI (Acute Respiratory Tract Infection), despite evidence of significant heterogeneity across trials. Protection was associated with administration of daily doses of 400-1000 IU vitamin D for up to 12 months.
 
-
+  @@MichaelFarzan
   // SARS-CoV-2 spike-protein D614G mutation increases virion spike density and infectivity
   doi: https://doi.org/10.1038/s41467-020-19808-4
   ref 'Zhang_et_al_11_26_2020

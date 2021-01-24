@@ -41,6 +41,7 @@ feed August2020
 
 
   # Phizer Vaccine
+  @@JudithAbsalon
   // Phase I/II study of COVID-19 RNA vaccine BNT162b1 in adults
   doi: https://doi.org/10.1038/s41586-020-2639-4
   ref 'Mulligan_et_al_08_12_2020

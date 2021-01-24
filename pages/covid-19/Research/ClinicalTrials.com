@@ -70,7 +70,7 @@ feed Clinicaltrials
 
     / June, 2020 - ClinicalTrials
     quote !a =
-
+    
   // A Study of Ad26.COV2.S for the Prevention of SARS-CoV-2-Mediated COVID-19 in Adult Participants (ENSEMBLE)
   doi: https://clinicaltrials.gov/ct2/show/NCT04505722
   ref 'ClinicalTrials-NCT04505722_et_al_08_10_2020

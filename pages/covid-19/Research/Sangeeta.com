@@ -14,6 +14,7 @@ feed Sangeeta
     quote !a =
 
   #
+  @@RobertMolenaar
   // Clinical and Pathological Findings in SARS-CoV-2 Disease Outbreaks in Farmed Mink.
   doi: https://doi.org/10.1177%2F0300985820943535
   ref 'Molenaar_et_al_07_14_2020
@@ -264,6 +265,7 @@ feed Sangeeta
   #
 
   #
+  @@DirkEggink
   // Possible host-adaptation of SARS-CoV-2 due to improved ACE2 receptor binding in mink.
   doi: https://doi.org/10.1093/ve/veaa094
   ref 'Welkers_et_al_12_07_2020
@@ -452,6 +454,7 @@ feed Sangeeta
 
 
   #
+  @@SeanWhelan
   // Landscape analysis of escape variants identifies SARS-CoV-2 spike mutations that attenuate monoclonal and serum antibody neutralization
   doi: https://doi.org/10.1101/2020.11.06.372037
   ref 'Liu_et_al_11_08_2020
@@ -790,6 +793,7 @@ feed Sangeeta
 
 
   # 1/9/2021- discuss with ayush
+  @@AdamLauring
   // Genetic Variants of SARS-CoV-2—What Do They Mean?
   doi: https://jamanetwork.com/journals/jama/fullarticle/2775006
   ref 'Lauring_et_al_01_06_2021
@@ -935,6 +939,7 @@ feed Sangeeta
 
 
   #
+  @@JesseBloom
   // Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
   doi: https://doi.org/10.1016/j.cell.2020.08.012
   ref 'Starr_et_al_08_11_2020
@@ -1205,6 +1210,7 @@ feed Sangeeta
 
 
   #
+  @@AndersFomsgaard
   // SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans
   doi: https://files.ssi.dk/Mink-cluster-5-short-report_AFO2
   ref 'Lassaunière_et_al_2020
@@ -3918,6 +3924,7 @@ feed Sangeeta
 
 
   #
+  @@LucyDorp
   // Recurrent mutations in SARS-CoV-2 genomes isolated from mink point to rapid host-adaptation
   doi: https://doi.org/10.1101/2020.11.16.384743
   ref 'Drop_et_al_11_16_2020

@@ -16,7 +16,7 @@ feed July2020
     'Morris_et_al_07_02_2020
 
   #
-
+  @@NevilleSanjana
   // The Spike D614G mutation increases SARS-CoV-2 infection of multiple human cell types
   doi: https://doi.org/10.1101/2020.06.14.151357
   ref 'Daniloski_et_al_07_07_2020
@@ -31,7 +31,7 @@ feed July2020
     / July, 2020 - bioRxiv
     quote !a = G614 Spike is more resistant to proteolytic cleavage during production of the protein in host cells, suggesting that replicated virus produced in human cells may be more infectious due to a greater proportion of functional (uncleaved) Spike protein per virion.
 
-
+  @@KaitlynSadtler
   // D614G Spike Variant Does Not Alter IgG, IgM, or IgA Spike Seroassay Performance
   doi: https://dx.doi.org/10.1101%2F2020.07.08.20147371
   ref 'Klumpp-Thomas_et_al_07_10_2020

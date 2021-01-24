@@ -13,7 +13,6 @@ feed September2020
     'Laxminarayan_et_al_09_23_2020
 
   #
-
   // Evaluating the effects of SARS-CoV-2 Spike mutation D614G on transmissibility and pathogenicity
   doi: ttps://doi.org/10.1101/2020.07.31.20166082
   ref 'Volz_et_al_09_01_2020
@@ -53,6 +52,7 @@ feed September2020
 
 
   #
+  @@KuangShen
   // Structural and Functional Analysis of the D614G SARS-CoV-2 Spike Protein Variant
   doi: https://doi.org/10.1016/j.cell.2020.09.032
   ref 'Yurkovetskiy_et_al_09_15_2020

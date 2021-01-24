@@ -1585,3 +1585,82 @@ authors:
   RichardGrewelle:
     fullname: Richard E. Grewelle
     email: regrew@stanford.edu
+
+  JudithAbsalon:
+    fullname: Judith Absalon
+    email: judith.absalon@pfizer.com
+    link: https://pubmed.ncbi.nlm.nih.gov/32785213/
+
+  NevilleSanjana:
+    fullname: Neville E. Sanjana
+    email: benjamin.tenoever@mssm.edu
+
+  MartinBeer:
+   fullname: Martin Beer
+   email: volker.thiel@vetsuisse.unibe.ch
+
+  MichaelFarzan:
+    fullname: Michael Farzan
+    email: mfarzan@scripps.edu
+
+  RalphBaric:
+    fullname: Ralph S. Baric
+    email: rbaric@email.unc.edu
+
+  KaitlynSadtler:
+    fullname: Kaitlyn Sadtler
+    email: kaitlyn.sadtler@nih.gov
+
+  XupingXie:
+    fullname: Xuping Xie
+    email: xuxie@utmb.edu
+    link: https://researchexperts.utmb.edu/en/persons/xuping-xie
+
+  Vasan:
+    fullname: S. S. Vasan
+    email: vasan.vasan@csiro.au
+    link: https://onlinelibrary.wiley.com/doi/pdf/10.1111/tbed.13588
+
+  DrewWeissman:
+    fullname: Drew Weissman
+    email: dreww@pennmedicine.upenn.edu
+
+  KuangShen:
+    fullname: Kuang Shen
+    email: kuang.shen@umassmed.edu
+
+  RobertMolenaar:
+    fullname: Robert Jan Molenaar
+    email: r.molenaar@gdanimalhealth.com
+
+  JesseBloom:
+    fullname: Jesse D. Bloom
+    email: jbloom@fredhutch.org
+
+  LucyDorp:
+    fullname: Lucy van Dorp
+    email: lucy.dorp.12@ucl.ac.uk
+
+  DirkEggink:
+    fullname: Dirk Eggink
+    email: dirk.eggink@rivm.nl
+
+  AdamLauring:
+    fullname: Adam S. Lauring
+    email: alauring@med.umich.edu
+
+  Charlotte:
+    fullname: Charlotte S. Jørgensen
+    email: csv@ssi.dk
+
+  AndersFomsgaard:
+    fullname: Anders Fomsgaard
+    email: afo@ssi.dk
+
+  ChristosKyratsous:
+    fullname: Christos A. Kyratsous
+    email: christos.kyratsous@regeneron.com
+
+  SeanWhelan:
+    fullname: Sean P. J. Whelan
+    email: spjwhelan@wustl.edu

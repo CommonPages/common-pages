@@ -13,7 +13,7 @@ feed October2020
     'Ueki_et_al_10_2020
 
   #
-
+  @@Vasan
   // Experimental and in silico evidence suggests vaccines are unlikely to be affected by D614G mutation in SARS-CoV-2 spike protein
   doi: https://doi.org/10.1038/s41541-020-00246-8
   ref 'McAuley_et_al_10_08_2020
@@ -29,7 +29,7 @@ feed October2020
     quote !a = Ferrets were shown to have developed SARS-CoV-2 neutralising antibody responses following vaccination with INO-4800, demonstrating that ferrets are an appropriate animal to model COVID-19 vaccine immunogenicity, and that this DNA vaccine stimulates an effective B cell response.
 
 
-
+  @@XupingXie
   // Spike mutation D614G alters SARS-CoV-2 fitness
   doi: https://doi.org/10.1038/s41586-020-2895-3
   ref 'Plante_et_al_10_26_2020
@@ -75,7 +75,7 @@ feed October2020
 
     / October, 2020 - The Lancet
     quote !d = In Phase II trial, At least one adverse reaction within the first 7 days was reported in 76 of 336 vaccine recipients. One placebo recipient reported grade 3 fever, but was self-limited and recovered. All other adverse reactions were mild or moderate in severity. The most common systematic adverse reaction was fever.
-
+  @@MartinBeer
   // SARS-CoV-2 spike D614G variant confers enhanced replication and transmissibility
   doi: https://dx.doi.org/10.1101%2F2020.10.27.357558
   ref 'Zhou_et_al_10_27_2020
