@@ -3042,6 +3042,7 @@ feed March2020
 
 
   # Structure
+  @@JasonMcLellan
   // Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation
   doi: https://doi.org/10.1126/science.abb2507
   ref 'Wrapp_et_al_2020
@@ -3132,6 +3133,7 @@ feed March2020
 
 
   # Origin - Disputes against consipiracy
+  @@KristianAndersen
   // The proximal origin of SARS-CoV-2
   link: https://www.nature.com/articles/s41591-020-0820-9
   doi: https://doi.org/10.1038/s41591-020-0820-9
@@ -3209,6 +3211,7 @@ feed March2020
 
 
   # Tag- Strucure
+  @@DavidVeesler
   // Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein
   doi: http://dx.doi.org/10.1016/j.cell.2020.02.058
   ref 'Walls_et_al_2020

@@ -2144,6 +2144,7 @@ feed April2020
 
 
   # Structure.. Add image? Review the Assertions again
+  @@QuanWang
   // Structure of the RNA-dependent RNA polymerase from COVID-19 virus
   doi: https://doi.org/10.1126/science.abb7498
   ref 'Gao_et_al_2020b

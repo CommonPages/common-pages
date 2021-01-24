@@ -565,7 +565,7 @@ feed July2020
     / Aerosol and surface contamination of SARS-CoV-2, July, 2020 - Nature
     quote !c = SARS-CoV-2 environmental contamination around COVID-19 patients is extensive, and hospital IPC procedures should account for the risk of fomite, and potentially airborne, transmission of the virus.
 
-
+  @@DanBarouch
   / Single-shot Ad26 vaccine protects against SARS-CoV-2 in rhesus macaques
   doi: https://doi.org/10.1038/s41586-020-2607-z
   ref 'Mercado_et_al_07_2020

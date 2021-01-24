@@ -978,6 +978,7 @@ feed February2020
 
 
   # Strucure
+  @@Decroly
   // The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade
   doi: https://doi.org/10.1016/j.antiviral.2020.104742
   ref 'Coutard_et_al_2020

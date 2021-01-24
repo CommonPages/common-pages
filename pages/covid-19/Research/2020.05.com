@@ -1031,6 +1031,7 @@ feed May2020
     # quote !r = The temporal progression of G614 shows a rapid rise in March in various regions but with different dynamics.
 
   # S1/S2 FCS,therapeutics
+  @@GeertBoons
   // SARS-CoV-2 spike protein binds heparan sulfate in a length- and sequence-dependent manner
   doi: https://doi.org/10.1101/2020.05.10.087288
   ref 'Liu_et_al_05_10_2020
@@ -2967,6 +2968,7 @@ feed May2020
 
 
   # Structure
+  @@Alexander
   // Chemistry and Biology of SARS-CoV-2
   doi: https://doi.org/10.1016/j.chempr.2020.04.023
   ref 'Domling_et_al_05_20_2020
@@ -3136,6 +3138,7 @@ feed May2020
 
 
   # Structures
+  @@PatrickCramer
   // Structure of replicating SARS-CoV-2 polymerase
   doi: https://doi.org/10.1038/s41586-020-2368-8
   ref 'Hillen_et_al_05_15_2020

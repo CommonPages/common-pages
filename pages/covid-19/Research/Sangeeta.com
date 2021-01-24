@@ -1678,6 +1678,7 @@ feed Sangeeta
 
 
   #
+  @@MarianaCastells
   // Maintaining Safety with SARS-CoV-2 Vaccines
   doi: https://doi.org/10.1056/NEJMra2035343
   ref 'Castells_et_al_12_30_2020
@@ -1722,6 +1723,7 @@ feed Sangeeta
 
 
   #
+  @@FaoudIshmael
   // Hypersensitivity to Polyethylene Glycols
   doi: https://doi.org/10.1177/0091270012447122
   ref 'Shah_et_al_01_23_2013
@@ -1938,6 +1940,7 @@ feed Sangeeta
 
 
   # Polyethylene Glycols
+  @@CosbyStone
   // Immediate Hypersensitivity to Polyethylene Glycols and Polysorbates: More Common Than We Have Recognized
   doi: https://doi.org/10.1016/j.jaip.2018.12.003
   ref 'Stone_et_al_12_14_2018
@@ -1975,6 +1978,7 @@ feed Sangeeta
 
 
   # PEG
+  @@ThomasPovsic
   // Pre-existing anti-PEG antibodies are associated with severe immediate allergic reactions to pegnivacogin, a PEGylated aptamer
   doi: https://doi.org/10.1016/j.jaci.2016.04.058
   ref 'Povsic_et_al_07_13_2016
@@ -2678,6 +2682,7 @@ feed Sangeeta
 
 
   # RNA-Based COVID-19 Vaccine BNT162b2 Selected for a Pivotal Efficacy Study - was published in medrix before this paper.
+  @@JudithAbsalon
   // Safety and Immunogenicity of Two RNA-Based Covid-19 Vaccine Candidates
   doi: https://doi.org/10.1056/NEJMoa2027906
   ref 'Walsh_et_al_10_14_2020
@@ -2724,6 +2729,7 @@ feed Sangeeta
 
 
   #
+  @@JudithAbsalon
   // Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine
   doi: https://doi.org/10.1056/NEJMoa2034577
   ref 'Polack_et_al_12_10_2020
@@ -3447,6 +3453,7 @@ feed Sangeeta
 
 
   # Recombinant Spike Protein Nanoparticle Vaccine, UK, NVX-CoV2373 Novavax
+  @@CherylKeech
   // Phase 1–2 Trial of a SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine
   doi: https://doi.org/10.1056/NEJMoa2026920
   ref 'Keech_et_al_09_02_2020
@@ -3584,7 +3591,7 @@ feed Sangeeta
     quote !b = The microneutralization (MN) assay is not only more sensitive in the detection of both H1N1 and H3N2 antibodies, protection effectiveness estimates against H3N2 PCR-confirmed influenza infection are higher with the MN assay at similar titre thresholds.
 
 
-
+  @@HannekeSchuitemaker
   // Safety and immunogenicity of the Ad26.COV2.S COVID-19 vaccine candidate: interim results of a phase 1/2a, double-blind, randomized, placebo-controlled trial.
   doi: https://doi.org/10.1101/2020.09.23.20199604
   ref 'Sadoff_et_al_09_25_2020

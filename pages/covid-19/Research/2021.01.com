@@ -184,7 +184,7 @@ feed Jan2021
     / January, 2021 - New York Times
     quote !a = Officials at the Butantan Institute in São Paulo said on Tuesday that a trial conducted in Brazil showed that the CoronaVac vaccine, made by the Beijing-based company Sinovac, had an efficacy rate just over 50 percent. That rate, slightly above the benchmark that the World Health Organization has said would make a vaccine effective for general use, was far below the 78 percent level announced last week.
 
-
+  @@HannekeSchuitemaker
   // Interim Results of a Phase 1–2a Trial of Ad26.COV2.S Covid-19 Vaccine
   doi: https://doi.org/10.1056/NEJMoa2034201
   ref 'Sadoff_et_al_01_13_2021

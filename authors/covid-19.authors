@@ -1795,5 +1795,68 @@ authors:
     fullname: Jasmine T Plummer
     email: jasmine.plummer@cshs.org
 
+  DanBarouch:
+    fullname: Dan H. Barouch
+    email: dbarouch@bidmc.harvard.edu
+    link: https://cvvr.hms.harvard.edu/lab-member/dan-h-barouch-mdphd/
+
+  HannekeSchuitemaker:
+    fullname: Hanneke Schuitemaker
+    email: hschuite@its.jnj.com
+
+  CherylKeech:
+    fullname: Cheryl Keech
+    email: Ckeech@novavax.com
+
+  Alexander:
+    fullname: Alexander Dömling
+    email: a.s.s.domling@rug.nl
+
+  DavidVeesler:
+    fullname: David Veesler
+    email: dveesler@uw.edu
+
+  JasonMcLellan:
+    fullname: Jason S. McLellan
+    email: jmclellan@austin.utexas.edu
+
+  Decroly:
+    fullname: E. Decroly
+    email: etienne.decroly@afmb.univ-mrs.fr
+
+  GeertBoons:
+    fullname: Geert-Jan Boons
+    email: gjboons@ccrc.uga.edu
+
+  KristianAndersen:
+    fullname: Kristian G. Andersen
+    email: kristian@andersen-lab.com
+    link: https://andersen-lab.com/people/
+
+  QuanWang:
+    fullname: Quan Wang
+    email: wangq@shanghaitech.edu.cn
+
+  PatrickCramer:
+    fullname: Patrick Cramer
+    email: patrick.cramer@mpibpc.mpg.de
+    link: https://www.mpibpc.mpg.de/cramer
+
+  MarianaCastells:
+    fullname: Mariana C. Castells
+    email: mcastells@partners.org
+    link: https://www.jaci-inpractice.org/article/S2213-2198(15)00251-2/abstract
+
+  CosbyStone:
+    fullname: Cosby A. Stone
+    email: cosby.a.stone@vanderbilt.edu
+
+  FaoudIshmael:
+    fullname: Faoud T. Ishmael
+    email: fishmael@hmc.psu.edu
+
+  ThomasPovsic:
+    fullname: Thomas J. Povsic
+    email: thomas.povsic@duke.edu
 
     
