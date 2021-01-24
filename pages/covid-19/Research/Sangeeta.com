@@ -57,7 +57,7 @@ feed Sangeeta
 
 
 
-
+  @@PennyMoore
   // SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma
   doi: https://doi.org/10.1101/2021.01.18.427166
   ref 'Wibmer_et_al_01_19_2021
@@ -99,6 +99,7 @@ feed Sangeeta
 
 
   #
+  @@MichelNussenzweig
   // mRNA vaccine-elicited antibodies to SARS-CoV-2 and circulating variants
   doi: https://doi.org/10.1101/2021.01.15.426911
   ref 'Wang_et_al_01_19_2021
@@ -164,7 +165,7 @@ feed Sangeeta
 
 
   #
-
+  @@SureshKumar
   // Evaluation of the Effect of D614G, N501Y and S477N Mutation in SARS-CoV-2 through Computational Approach
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
@@ -547,6 +548,7 @@ feed Sangeeta
 
 
   #
+  @@NunoFaria
   // Genomic characterisation of an emergent SARS-CoV-2 lineage in Manaus: preliminary findings
   doi: https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586
   ref 'Faria_et_al_01_12_2021
@@ -612,6 +614,7 @@ feed Sangeeta
     quote !a =
 
   #
+  @@TommyLam
   // Early transmissibility assessment of the N501Y mutant strains of SARS-CoV-2 in the United Kingdom, October to November 2020.
   doi: https://doi.org/10.2807/1560-7917.ES.2020.26.1.2002106
   ref 'Leung_et_al_12_28_2020
@@ -659,6 +662,7 @@ feed Sangeeta
 
 
   #
+  @@NikoBeerenwinkel
   // Detection of SARS-CoV-2 variants in Switzerland by genomic analysis of wastewater samples
   doi: https://doi.org/10.1101/2021.01.08.21249379
   ref 'Jahn_et_al_01_09_2021
@@ -709,6 +713,7 @@ feed Sangeeta
 
 
   #
+  @@AnaTereza
   // Genomic characterization of a novel SARS-CoV-2 lineage from Rio de Janeiro, Brazil
   doi: https://doi.org/10.1101/2020.12.23.20248598
   ref 'Voloch_et_al_12_26_2020
@@ -738,6 +743,7 @@ feed Sangeeta
 
 
   #
+  @@JesseBloom
   // Comprehensive mapping of mutations to the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human serum antibodies
   doi: https://doi.org/10.1101/2020.12.31.425021
   ref 'Greaney_et_al_01_04_2021
@@ -853,6 +859,7 @@ feed Sangeeta
 
 
   #
+  @@DavidHarrington
   // Confirmed Reinfection with SARS-CoV-2 Variant VOC-202012/01
   doi: https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab014/6076528
   ref 'Harrington_et_al_01_09_2021
@@ -901,6 +908,7 @@ feed Sangeeta
 
 
   #
+  @@JohnShon
   // Impact of B.1.1.7 variant mutations on antibody recognition of linear SARSCoV-2 epitopes
   doi: https://doi.org/10.1101/2021.01.06.20248960
   ref 'Haynes_et_al_01_08_2021
@@ -986,6 +994,7 @@ feed Sangeeta
 
 
   # D614G; N501Y, mutation, 1/11/21
+  @@RafaelNajmanovich
   // Modelling conformational state dynamics and its role on infection for SARS-CoV-2 Spike protein variants
   doi: https://doi.org/10.1101/2020.12.16.423118
   ref 'Teruel_et_al_12_17_2020
@@ -1253,6 +1262,7 @@ feed Sangeeta
 
 
   #
+  @@MingkunLi
   // Genomic Diversity of Severe Acute Respiratory Syndrome-Coronavirus 2 in Patients With Coronavirus Disease 2019
   doi: https://doi.org/10.1093/cid/ciaa203
   ref 'Shen_et_al_03_09_2020
@@ -1292,6 +1302,7 @@ feed Sangeeta
 
 
   #
+  @@AudeJary
   // Evolution of viral quasispecies during SARS-CoV-2 infection
   doi: https://doi.org/10.1016/j.cmi.2020.07.032
   ref 'Jary_et_al_07_24_2020
@@ -1334,6 +1345,7 @@ feed Sangeeta
 
 
   #
+  @@SebastianDuchene
   // Temporal signal and the phylodynamic threshold of SARS-CoV-2
   doi: https://doi.org/10.1093/ve/veaa061
   ref 'Duchene_et_al_08_19_2020
@@ -1351,6 +1363,7 @@ feed Sangeeta
 
 
   #
+  @@BinaChoi
   // Persistence and Evolution of SARS-CoV-2 in an Immunocompromised Host
   doi: https://doi.org/10.1056/NEJMc2031364
   ref 'Choi_et_al_12_03_2020
@@ -1369,6 +1382,7 @@ feed Sangeeta
 
 
   #
+  @@FrancisRiedo
   // Case Study: Prolonged Infectious SARS-CoV-2 Shedding from an Asymptomatic Immunocompromised Individual with Cancer
   doi: https://doi.org/10.1016/j.cell.2020.10.049
   ref 'Avanzato_et_al_11_04_2020
@@ -1409,6 +1423,7 @@ feed Sangeeta
 
 
   #
+  @@VincentMunster
   // S-variant SARS-CoV-2 is associated with significantly higher viral loads in samples tested by ThermoFisher TaqPath RT-QPCR
   doi: https://doi.org/10.1038/s41586-020-2608-y
   ref 'Kidd_et_al_12_27_2020
@@ -1463,6 +1478,7 @@ feed Sangeeta
 
 
   #
+  @@FilipFratev
   // The N501Y and K417N mutations in the spike protein of SARS-CoV-2 alter the interactions with both hACE2 and human derived antibody: A Free energy of perturbation study
   doi: https://doi.org/10.1101/2020.12.23.424283
   ref 'Fratev_et_al_12_31_2020
@@ -1531,6 +1547,7 @@ feed Sangeeta
 
 
   #
+  @@HaraldVohringer
   // Lineage-specific growth of SARS-CoV-2 B.1.1.7 during the English national lockdown
   doi: https://virological.org/t/lineage-specific-growth-of-sars-cov-2-b-1-1-7-during-the-english-national-lockdown/575
   ref 'Vöhringer_et_al_2020
@@ -2089,6 +2106,7 @@ feed Sangeeta
 
 
   # South Africa, mutation , phylogeny
+  @@TulioOliveira
   // Emergence and rapid spread of a new severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) lineage with multiple spike mutations in South Africa.
   doi: https://doi.org/10.1101/2020.12.21.20248640
   ref 'Tegally_et_al_12_22_2020
@@ -2110,6 +2128,7 @@ feed Sangeeta
 
 
   #
+  @@KevinMcCarthy
   // Natural deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape.
   doi: https://doi.org/10.1101/2020.11.19.389916
   ref 'McCarthy_et_al_11_19_2020
@@ -2146,6 +2165,7 @@ feed Sangeeta
 
 
   # SARS-CoV-2 Spike deletion ΔH69/ΔV70, mitigation
+  @@Gupta
   // Recurrent emergence and transmission of a SARS-CoV-2 Spike deletion ΔH69/ΔV70
   doi: https://doi.org/10.1101/2020.12.14.422555
   ref 'Kemp_et_al_12_21_2020
@@ -2202,6 +2222,7 @@ feed Sangeeta
 
 
   # This is a single case report-, CP, immunocompromised, SARS-CoV-2 Spike deletion ΔH69/ΔV70e
+  @@Gupta
   // Neutralising antibodies drive Spike mediated SARS-CoV-2 evasion.
   doi: https://doi.org/10.1101/2020.12.05.20241927
   ref 'Kemp_et_al_12_29_2020
@@ -2239,6 +2260,7 @@ feed Sangeeta
 
 
   # vaccine frontier, anti viral frontier, mutation, N501Y mutation
+  @@ShiboJiang
   // Adaptation of SARS-CoV-2 in BALB/c mice for testing vaccine efficacy
   doi: https://doi.org/10.1126/science.abc4730
   ref 'Gu_et_al_09_25_2020
@@ -2272,6 +2294,7 @@ feed Sangeeta
 
 
   # VOC 202012/01
+  @@NicholasDavies
   // Estimated transmissibility and severity of novel SARS-CoV-2 Variant of Concern 202012/01 in England
   doi: https://cmmid.github.io/topics/covid19/reports/uk-novel-variant/2020_12_23_Transmissibility_and_severity_of_VOC_202012_01_in_England.pdf
   ref 'Davies_et_al_12_23_2020
@@ -2310,6 +2333,7 @@ feed Sangeeta
 
 
   #  12/25, ASK AYUSH
+  @@AndrewRambaut
   // Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK defined by a novel set of spike mutations
   doi: https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563
   ref 'Arambaut_et_al_2020
@@ -3983,6 +4007,7 @@ feed Sangeeta
 
 
   #
+  @@ZhenghongYuan
   // The S1/S2 boundary of SARS-CoV-2 spike protein modulates cell entry pathways and transmission
   doi: https://doi.org/10.1101/2020.08.25.266775
   ref 'Zhu_et_al_08_25_2020
@@ -3998,6 +4023,7 @@ feed Sangeeta
 
 
   #
+  @@WendyBarclay
   // The furin cleavage site of SARS-CoV-2 spike protein is a key determinant for transmission due to enhanced replication in airway cells.
   doi: https://doi.org/10.1101/2020.09.30.318311
   ref 'Peacock_et_al_09_30_2020

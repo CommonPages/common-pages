@@ -9,7 +9,7 @@ feed Jan2021
     'Pilotto_et_al_01_02_2021
 
   #
-
+  @@CarlPearson
   / Estimates of severity and transmissibility of novel South Africa SARS-CoV-2 variant 501Y.V2
   doi: https://cmmid.github.io/topics/covid19/sa-novel-variant.html
   ref 'Pearson_et_al_01_11_2021
@@ -21,10 +21,11 @@ feed Jan2021
 
     / January, 2021 -  CMMID Repository
     quote !a = Assuming complete cross-protection, we estimate 501Y.V2 was 1.50 times as transmissible than previously circulating variants. Assuming instead that 501Y.V2 is identically transmissible, the new variant evades 21% of previously acquired immunity.
-    
+
     / January, 2021 -  CMMID Repository
     quote !b = We found some evidence of a change in severity, estimated from the corrected ratio of delay-adjusted cases and deaths in the Western Cape province, though there is substantial uncertainty and local reporting delays may differ from global estimates.
 
+  @@JasminePlummer
   // Emergence of a novel SARS-CoV-2 strain in Southern California, USA
   doi: https://doi.org/10.1101/2021.01.18.21249786
   ref 'Zhang_et_al_01_20_2021
@@ -245,7 +246,7 @@ feed Jan2021
     / Jan, 2021 - Nature
     quote !d = Vaccine elicited primary CD4 type 1 helper T responses 43 days after the first vaccination.
 
-
+  @@NunoFaria
   // Genomic characterisation of an emergent SARS-CoV-2 lineage in Manaus: preliminary findings
   doi: https://virological.org/t/genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-manaus-preliminary-findings/586
   ref 'Faria_et_al_01_12_2021
@@ -292,6 +293,7 @@ feed Jan2021
     / January, 2021 - Virological.org
     quote !i = The higher diversity and the earlier sampling dates of P.1. in Manaus corroborates the travel info of recently detected cases in Japan, suggesting the direction of travel was Manaus to Japan.
 
+  @@PhilipDormitzer
   // Neutralization of N501Y mutant SARS-CoV-2 by BNT162b2 vaccine-elicited sera
   doi: https://doi.org/10.1101/2021.01.07.425740
   ref 'Xie_et_al_01_07_2021

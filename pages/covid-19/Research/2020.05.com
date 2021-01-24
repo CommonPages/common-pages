@@ -328,7 +328,7 @@ feed May2020
 
     > Results
       A link between 25(OH)D and A-CMR in the US, France, Iran and the UK (countries with similar screening status) may exist. We observed an inverse correlation (correlation coefficient ranging from -0.84 to -1) between high CRP and 25(OH)D. Age and the family income status also correlated to high CRP and subjects with higher age and lower family income presented more incidences of high CRP. Our analysis determined a possible link between high CRP and Vit D deficiency and calculated an OR of 1.8 with 95%CI (1.2 to 2.6) among the elderly (age greater than or equal to 60 yo) in low-income families and an OR of 1.9 with 95%CI (1.4 to 2.7) among the elderly (age greater than or equal to 60 yo) in high-income families. COVID-19 patient-level data shows a notable OR of 3.4 with 95%CI (2.15 to 5.4) for high CRP in severe COVID-19 patients.
-      
+
     > Conclusion
       Given that CRP is a surrogate marker for cytokine storm and is associated with Vit D deficiency, based on retrospective data and indirect evidence we see a possible role of Vit D in reducing complications attributed to unregulated inflammation and cytokine storm. Further research is needed to account for other factors through direct measurement of Vit D levels in COVID-19 patients.
 
@@ -816,6 +816,7 @@ feed May2020
 
 
   # origin, cleavage site, cell to cell entry
+  @@MarkusHoffmann
   // A Multibasic Cleavage Site in the Spike Protein of SARS-CoV-2 Is Essential for Infection of Human Lung Cells
   doi: https://doi.org/10.1016/j.molcel.2020.04.022
   ref 'Hoffmann_et_al_05_21_2020

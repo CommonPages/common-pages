@@ -181,6 +181,7 @@ feed December2020
 
 
   #
+  @@SureshKumar
   // Evaluation of the Effect of D614G, N501Y and S477N Mutation in SARS-CoV-2 through Computational Approach
   doi: https://doi.org/10.20944/preprints202012.0710.v1
   ref 'Mathavan_et_al_12_27_2020
