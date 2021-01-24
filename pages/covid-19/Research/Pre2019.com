@@ -326,7 +326,6 @@ feed Pre2019
 
   - May, 2003
     'Seto_et_al_2003
-    'Wortsman_et_al_2020
     'Lee_et_al_2003
 
   - April, 2003
@@ -2586,8 +2585,8 @@ feed Pre2019
   # Vitamin D frontiers
   // Decreased Bioavailability of Vitamin D in Obesity
   doi: https://doi.org/10.1093/ajcn/72.3.690
-  ref 'Wortsman_et_al_2020
-    head = Obesity-associated vitamin D insufficiency is likely due to the decreased bioavailability of vitamin D(3) from cutaneous and dietary sources because of its deposition in body fat compartments.
+  ref 'Wortsman_et_al_09_01_2000
+    head =   This study assessed whether obesity alters the cutaneous production of vitamin D(3) (cholecalciferol) or the intestinal absorption of vitamin D(2) (ergocalciferol).
 
     > Background
       Obesity is associated with vitamin D insufficiency and secondary hyperparathyroidism.
@@ -2604,8 +2603,15 @@ feed Pre2019
     > Conclusions
       Obesity-associated vitamin D insufficiency is likely due to the decreased bioavailability of vitamin D(3) from cutaneous and dietary sources because of its deposition in body fat compartments.
 
-    # / May, 2003 - Am J Clin Nutr
-    # quote !a =
+    - quotes
+      !a
+      !b
+
+    / September, 2000 - Am J Clin Nutr
+    quote !a = Obese subjects had significantly lower basal 25-hydroxyvitamin D concentrations and higher parathyroid hormone concentrations than did age-matched control subjects.
+
+    / September, 2000 - Am J Clin Nutr
+    quote !b = Obesity-associated vitamin D insufficiency is likely due to the decreased bioavailability of vitamin D(3) from cutaneous and dietary sources because of its deposition in body fat compartments.
 
   # Vitamin D - Frontiers?
   // Vitamin D Deficiency and Insufficiency Among US Adults: Prevalence, Predictors and Clinical Implications
@@ -2623,13 +2629,20 @@ feed Pre2019
   // Patterns of COVID-19 Mortality and Vitamin D: An Indonesian Study
   doi: https://dx.doi.org/10.2139/ssrn.3585561
   ref 'Raharusun_et_al_2020
-    head = Older and male cases with pre-existing condition and below normal Vitamin D levels were associated with increasing odds of death. When controlling for age, sex, and comorbidity, Vitamin D status is strongly associated with COVID-19 mortality outcome of cases.
+    head = This is a retrospective cohort study which included two cohorts (active and expired) of 780 cases with laboratory-confirmed infection of SARS-CoV-2 in Indonesia. The aim was to determine patterns of mortality and associated factors, with a special focus on Vitamin D status.
 
     > Abstract
       This is a retrospective cohort study which included two cohorts (active and expired) of 780 cases with laboratory-confirmed infection of SARS-CoV-2 in Indonesia. Age, sex, co-morbidity, Vitamin D status, and disease outcome (mortality) were extracted from electronic medical records. The aim was to determine patterns of mortality and associated factors, with a special focus on Vitamin D status. Results revealed that majority of the death cases were male and older and had pre-existing condition and below normal Vitamin D serum level. Univariate analysis revealed that older and male cases with pre-existing condition and below normal Vitamin D levels were associated with increasing odds of death. When controlling for age, sex, and comorbidity, Vitamin D status is strongly associated with COVID-19 mortality outcome of cases.
 
-    # / April, 2020 - SSRN
-    # quote !a =
+    - quotes
+      !a
+      !b
+
+    / April, 2020 - SSRN
+    quote !a = Majority of the death cases were male and older and had pre-existing condition and below normal Vitamin D serum level.
+
+    / April, 2020 - SSRN
+    quote !b = Older and male cases with pre-existing condition and below normal Vitamin D levels were associated with increasing odds of death. When controlling for age, sex, and comorbidity, Vitamin D status is strongly associated with COVID-19 mortality outcome of cases.
 
   # Immune Response Frontiers - Why people are asymptomatic.
   // Cross-reactive antibodies in convalescent SARS patients' sera against the emerging novel human coronavirus EMC (2012) by both immunofluorescent and neutralizing antibody tests

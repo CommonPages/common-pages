@@ -3,6 +3,13 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received nine major revisions, expanding the subjects covered and correcting existing claims.
 
+  public: january-24-2021
+  / January 24,2021
+  revision January_24
+    head = We've updated the Vitamin D under disease susceptibility and severity section. Data from observational studies have suggested that vitamin D supplementation can lower the odds of developing respiratory infections, but randomised trials have yielded mixed results.
+    -
+      Disease.Severity.VitaminD
+
   public: january-23-2021
   / January 23,2021
   revision January_23

@@ -183,7 +183,7 @@ subject module Disease
       !Smokers
       !AirPollution
       !BloodGroup
-      !VitaminD
+      VitaminD
       !Children
       !PregnantWomen
       !GeneticRisk
@@ -272,44 +272,76 @@ subject module Disease
         'Setti_et_al_04_17_2020
 
     / Vitamin D Levels
-    claim !VitaminD = It appears from case study reports that Vitamin D may improve clinical outcomes of patients infected with COVID-19, potentially by suppressing cytokine storms. If true, populations with higher vitamin D levels may experience lower incidence of severe disease.
+    dispute VitaminD
+      head = Vitamin D may improve clinical outcomes of patients infected with COVID-19, potentially by suppressing cytokine storms. Data from observational studies have suggested that vitamin D supplementation can lower the odds of developing respiratory infections, particularly in vitamin D-deficient groups, but randomised trials have yielded mixed results.
+
+      >
+        On Dec 22, 2020, UK Government released a new [guidance](https://www.gov.uk/government/publications/vitamin-d-for-vulnerable-groups/vitamin-d-and-clinically-extremely-vulnerable-cev-guidance), allowing extremely clinically vulnerable people to opt in to receive a free 4-month supply of daily vitamin D supplements. A similar to an initiative was launched earlier in Scotland.
+
       -
-
-      # Vitamin D status is associated with clinical outcomes.  (Observational study)
-        'Alipio_et_al_2020
-        'Raharusun_et_al_2020
-      # Vitamin D suppressing Cytokine Storm
-        'Daneshkhah_et_al_05_18_2020
-
-      #   Randomized Clinical Study
-        'Castillo_et_al_08_29_2020
-
-      # One large RCT in Australia found VitaminD is unlikely to have a clinically relevant effect on acute respiratory tract infection in older Australian adults.
+        !CytokineStorm
       -
-        'Pham_et_al_01_11_2021
-        'Pham_et_al_01_11_2021.!a
-        'Pham_et_al_01_11_2021.!b
-
-      # While one meta analysis of RCT found that vitamin D was associated with reduced risk of acute respiratory tract infection when administrated with daily doses of 400-1000 IU vitamin D for up to 12 months.
+        !ClinicalOutcomes
+        !ObservationalStudyIndonesia
+        !ReviewStudies
+        !Crosssectionalstudy
       -
-        'Jolliffe_et_al_11_25_2020
-        'Jolliffe_et_al_11_25_2020.!a
-
-      # One Randomized study of open data of European people found no evidence that vitamin D is protective against SARS-CoV-2 infection or COVID-19 severity.
+        !RCTEurope
+        !RCTSpain
       -
-        'Amin_et_al_01_07_2021
-        'Amin_et_al_01_07_2021.!a
+        !RCTAustralia
+        !SystematicReview
 
-      # Meta analysis and systematic review of studies found that prescribing vitamin D supplementation to patients with COVID-19 infection seems to decrease the mortality rate, the severity of the disease, and serum levels of the inflammatory markers.
-      -
-        'Nikniaz_et_al_01_05_2021
-        'Nikniaz_et_al_01_05_2021.!a
 
-      # Analysis have shown that Vitamin D deficiency is significantly associated with increased risk for COVID-19 and the odds ratio for COVID-19 increases with vitamin deficiency in black individuals.
-      -
-        'Katz_et_al_12_04_2020
-        'Katz_et_al_12_04_2020.!a
-        'Katz_et_al_12_04_2020.!b
+      claim !CytokineStorm =  Vitamin D can potentially suppress Cytokine Storm
+        -
+          'Daneshkhah_et_al_05_18_2020
+          'Daneshkhah_et_al_05_18_2020.!a
+
+      / Observational Evidence
+      claim !ClinicalOutcomes = One analysis of 212 cases showed that an increase in serum 25(OH)D level in the body could either improve clinical outcomes or mitigate worst (severe to critical) outcomes.
+        -
+          'Alipio_et_al_2020
+          'Alipio_et_al_2020.!a
+
+      claim !ObservationalStudyIndonesia = Retrospective cohort study in Indonesia reported that Older and male cases with pre-existing condition and below normal Vitamin D levels were associated with increasing odds of death.
+        -
+          'Raharusun_et_al_2020
+          'Raharusun_et_al_2020.!a
+
+      claim !ReviewStudies = Meta analysis and systematic review of studies found that prescribing vitamin D supplementation to patients with COVID-19 infection seems to decrease the mortality rate, the severity of the disease, and serum levels of the inflammatory markers.
+        -
+          'Nikniaz_et_al_01_05_2021
+          'Nikniaz_et_al_01_05_2021.!a
+
+      claim !Crosssectionalstudy = One study reported that Vitamin D deficiency is significantly associated with increased risk for COVID-19 and the odds ratio for COVID-19 increases with vitamin deficiency in black individuals.
+        -
+          'Katz_et_al_12_04_2020
+          'Katz_et_al_12_04_2020.!a
+          'Katz_et_al_12_04_2020.!b
+
+      claim !RCTSpain = While one pilot randomized clinical study among Spanish patients hospitalized for COVID-19 reported that administration of a high dose of Calcifediol or 25-hydroxyvitamin D significantly reduced the need for ICU treatment of patients.
+        -
+          'Castillo_et_al_08_29_2020
+          'Castillo_et_al_08_29_2020.!a
+
+      claim !SystematicReview = While the authors of a systematic review and meta-analysis (which included RCT study in Australia) based on aggregate data from trials reported that that vitamin D was associated with reduced risk of acute respiratory tract infection when administrated with daily doses of 400-1000 IU vitamin D for up to 12 months.
+        -
+          'Jolliffe_et_al_11_25_2020
+          'Jolliffe_et_al_11_25_2020.!a
+
+      / Randomized study (Acute respiratory tract infection)
+      claim !RCTAustralia = One large Randomized Clinical Trial in Australia found VitaminD is unlikely to have a clinically relevant effect on acute respiratory tract infection in older Australian adults.
+        -
+          'Pham_et_al_01_11_2021
+          'Pham_et_al_01_11_2021.!a
+          'Pham_et_al_01_11_2021.!b
+
+      / Randomized study (COVID-19)
+      claim !RCTEurope = One Randomized study of open data of European people found no evidence that vitamin D is protective against SARS-CoV-2 infection or COVID-19 severity.
+        -
+          'Amin_et_al_01_07_2021
+          'Amin_et_al_01_07_2021.!a
 
       —
       / Rationale
@@ -338,7 +370,9 @@ subject module Disease
         >
           Obesity is associated with case severity in COVID-19.
         - Low Vitamin D levels in Obesity
-          'Wortsman_et_al_2020
+          'Wortsman_et_al_09_01_2000
+          'Wortsman_et_al_09_01_2000.!a
+          'Wortsman_et_al_09_01_2000.!b
         >
           Vitamin D Deficiency in the US. Mortality Rate is high in US
         -

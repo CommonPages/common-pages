@@ -158,7 +158,7 @@ feed August2020
   // Effect of calcifediol treatment and best available therapy versus best available therapy on intensive care unit admission and mortality among patients hospitalized for COVID-19: A pilot randomized clinical study
   doi: https://dx.doi.org/10.1016%2Fj.jsbmb.2020.105751
   ref 'Castillo_et_al_08_29_2020
-    head = Administration of a high dose of Calcifediol or 25-hydroxyvitamin D, a main metabolite of vitamin D endocrine system, significantly reduced the need for ICU treatment of patients requiring hospitalization due to proven COVID-19.
+    head = We evaluated the effect of calcifediol treatment, on Intensive Care Unit Admission and Mortality rate among Spanish patients hospitalized for COVID-19.
 
     > Objective
       The vitamin D endocrine system may have a variety of actions on cells and tissues involved in COVID-19 progression especially by decreasing the Acute Respiratory Distress Syndrome. Calcifediol can rapidly increase serum 25OHD concentration. We therefore evaluated the effect of calcifediol treatment, on Intensive Care Unit Admission and Mortality rate among Spanish patients hospitalized for COVID-19.
@@ -181,8 +181,11 @@ feed August2020
     > Conclusion
       Our pilot study demonstrated that administration of a high dose of Calcifediol or 25-hydroxyvitamin D, a main metabolite of vitamin D endocrine system, significantly reduced the need for ICU treatment of patients requiring hospitalization due to proven COVID-19. Calcifediol seems to be able to reduce severity of the disease, but larger trials with groups properly matched will be required to show a definitive answer.
 
+    - quotes
+      !a
+
     / August, 2020 - J Steroid Biochem Mol Biol
-    quote !a =
+    quote !a = Administration of a high dose of Calcifediol or 25-hydroxyvitamin D, a main metabolite of vitamin D endocrine system, significantly reduced the need for ICU treatment of patients requiring hospitalization due to proven COVID-19.
 
   # Why Face Mask
   @@SusieDai
