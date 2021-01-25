@@ -3183,7 +3183,7 @@ feed Sangeeta
 
 
 
-
+  @@AliciaWidge
   # Durability of Responses after SARS-CoV-2 mRNA-1273 Vaccination
   doi: https://doi.org/10.1056/NEJMc2032195
   ref 'Widge_et_al_12_03_2020
@@ -3754,6 +3754,7 @@ feed Sangeeta
 
 
   # mRNA-1273 vaccine, moderna, phase 1, USA, 89 clinical Trials
+  @@LisaJackson
   // An mRNA Vaccine against SARS-CoV-2 — Preliminary Report
   doi: https://doi.org/10.1056/NEJMoa2022483
   ref 'Jackson_et_al_07_14_2020

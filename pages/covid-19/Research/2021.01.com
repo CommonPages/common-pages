@@ -223,6 +223,7 @@ feed Jan2021
 
 
   #
+  @@AliciaWidge
   // Durability of Responses after SARS-CoV-2 mRNA-1273 Vaccination
   doi: https://doi.org/10.1056/NEJMc2032195
   ref 'Widge_et_al_01_07_2021

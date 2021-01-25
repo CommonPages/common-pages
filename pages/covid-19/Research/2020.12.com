@@ -211,7 +211,7 @@ feed December2020
 
   #
 
-
+  @@LindseyBaden
   // Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine
   doi: https://doi.org/10.1056/NEJMoa2035389
   ref 'Baden_et_al_12_30_2020
