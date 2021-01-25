@@ -52,7 +52,7 @@ feed June2020
     'Ellinghaus_et_al_06_02_2020
 
   #
-
+  @@XiaomingYang
   // Development of an Inactivated Vaccine Candidate, BBIBP-CorV, with Potent Protection against SARS-CoV-2
   doi: https://doi.org/10.1016/j.cell.2020.06.008
   ref 'Wang_et_al_06_06_2020

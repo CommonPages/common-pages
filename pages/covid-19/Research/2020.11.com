@@ -47,6 +47,7 @@ feed November2020
     quote !b = An S-protein mutation, D614G, that appears to promote SARS-CoV-2 transmission in humans also enhances functional S-protein incorporation into SARS-CoV-2 VLP and retroviral PV and increases PV infectivity.
 
   #
+  @@ArseniyPalagin
   // The First interim data analysis of the Sputnik V vaccine against Covid-19 Phase 3 clinical trials in the russian federation demonstrated 92% efficacy.
   doi: https://sputnikvaccine.com/newsroom/pressreleases/the-first-interim-data-analysis-of-the-sputnik-v-vaccine-against-covid-19-phase-iii-clinical-trials-/
   ref 'SputnikV_et_al_11_11_2020

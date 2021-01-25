@@ -74,7 +74,7 @@ feed December2020
 
     / December, 2020 - Cell
     quote !b = D614G mutation is not expected to be an obstacle for current vaccine development.
-
+  @@AdrianusBoon
   // A single intranasal or intramuscular immunization with chimpanzee adenovirus vectored SARS-CoV-2 vaccine protects against pneumonia in hamsters
   doi: https://doi.org/10.1101/2020.12.02.408823
   ref 'Bricker_et_al_12_03_2020
@@ -96,7 +96,7 @@ feed December2020
 
     / December, 2020 - bioRxiv
     quote !c = Intranasal immunization with ChAd-SARS-CoV-2-S provided superior protection against SARS-CoV-2 infection and inflammation in the upper respiratory tract. These findings support intranasal administration of the ChAd-SARS-CoV-2-S candidate vaccine to prevent SARS-CoV-2 infection, disease, and possibly transmission.
-
+  @@RachesElla
   // Safety and immunogenicity clinical trial of an inactivated SARS-CoV-2 vaccine, BBV152 (a phase 2, double-blind, randomised controlled trial) and the persistence of immune responses from a phase 1 follow-up report
   doi: https://doi.org/10.1101/2020.12.21.20248643
   ref 'Ella_et_al_12_22_2020
@@ -135,7 +135,7 @@ feed December2020
 
     / December, 2020 - medRxiv
     quote !e = The 6 µg Algel-IMDG formulation was selected for the phase 3 efficacy trial.
-
+  @@RachesElla
   // A Phase 1: Safety and Immunogenicity Trial of an Inactivated SARS-CoV-2 Vaccine-BBV152
   doi: https://doi.org/10.1101/2020.12.11.20210419
   ref 'Ella_et_al_02_20_2020

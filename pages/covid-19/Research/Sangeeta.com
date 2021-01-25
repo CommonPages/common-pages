@@ -2787,6 +2787,7 @@ feed Sangeeta
 
 
   #
+  @@BruceLee
   // Vaccine efficacy needed for a COVID-19 coronavirus vaccine to prevent or stop an epidemic as the sole intervention.
   doi: https://doi.org/10.1016/j.amepre.2020.06.011
   ref 'Bartsch_et_al_07_15_2020
@@ -3356,6 +3357,7 @@ feed Sangeeta
 
 
   #
+  @@WanshenGuo
   // Safety and immunogenicity of an inactivated SARS-CoV-2 vaccine, BBIBP-CorV: a randomised, double-blind, placebo-controlled, phase 1/2 trial
   doi: https://doi.org/10.1016/S1473-3099(20)30831-8
   ref 'Xia_et_al_10_15_2020
@@ -3427,6 +3429,7 @@ feed Sangeeta
 
 
   # CoronaVac
+  @@QiangGao
   // Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18–59 years: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial
   doi: https://doi.org/10.1016/S1473-3099(20)30843-4
   ref 'Zhang_et_al_11_17_2020

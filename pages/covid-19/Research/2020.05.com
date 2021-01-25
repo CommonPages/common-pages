@@ -3089,6 +3089,7 @@ feed May2020
 
 
   # Frontiers - Antiviral
+  @@KartikChandran
   // A replication-competent vesicular stomatitis virus for studies of SARS-CoV-2 spike-mediated cell entry and its inhibition
   doi: https://doi.org/10.1101/2020.05.20.105247
   ref 'Dieterle_et_al_05_20_2020
@@ -3215,6 +3216,7 @@ feed May2020
 
 
   # Vaccine - Frontiers
+  @@DavidKaslow
   // Certainty of success: three critical parameters in coronavirus vaccine development
   doi: https://doi.org/10.1038/s41541-020-0193-6
   ref 'Kaslow_et_al_05_07_2020

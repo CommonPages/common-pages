@@ -2444,6 +2444,7 @@ feed March2020
     quote !j = Niclosamide inhibits EBV lytic replication in lymphoma cells and epithelial cells and causes irreversible cell cycle arrest in lytic EBV-infected cells via disrupting mTOR activation, offering the potential to treat acute EBV(Epstein–Barr Virus)-associated infectious diseases
 
   # Vaccine
+  @@LynnePeeples
   // News Feature: Avoiding pitfalls in the pursuit of a COVID-19 vaccine
   doi: https://doi.org/10.1073/pnas.2005456117
   ref 'Peeples_et_al_2020
@@ -2456,6 +2457,7 @@ feed March2020
     quote !a =
 
   # Vaccine
+  @@Chava
   // Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design
   doi: https://doi.org/10.1101/2020.03.30.016832
   ref 'Kames_et_al_2020

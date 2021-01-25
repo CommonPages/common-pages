@@ -1762,6 +1762,7 @@ feed Pre2019
     # quote !j = This paper also highlights the need for greater concern over the transmission via toilet flushing of aerosols containing pathogenic organisms, which poses particular for the immunocompromised, children and the elderly. Finally, our findings also imply that a cistern tank design is preferable to a flushometer design with respect to aerosol generation.
 
   # Frontiers - Vaccine Design
+  @@JosephJardine
   // Isolation of potent SARS-CoV-2 neutralizing antibodies and protection from disease in a small animal model
   doi: https://doi.org/10.1126/science.abc7520
   ref 'Rogers_et_al_06_11_2020
@@ -1788,6 +1789,7 @@ feed Pre2019
 
 
   # Frontiers Vaccine
+  @@RogierSanders
   // Potent neutralizing antibodies from COVID-19 patients define multiple targets of vulnerability
   doi: https://doi.org/10.1126/science.abc5902
   ref 'Brouwer_et_al_06_10_2020

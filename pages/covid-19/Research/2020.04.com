@@ -3383,6 +3383,7 @@ feed April2020
 
 
   # Tag - vaccine, treatments
+  @@HyeryunChoe
   // The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement
   doi: https://doi.org/10.1101/2020.04.10.036418
   ref 'Quinlan_et_al_2020

@@ -148,7 +148,7 @@ feed Jan2021
 
     / January, 2021 - J Exp Med
     quote !c = In autopsies from patients who died of COVID-19, we detect SARS-CoV-2 in cortical neurons and note pathological features associated with infection with minimal immune cell infiltrates.
-
+  @@JenniferChen
   // Non-steroidal anti-inflammatory drugs dampen the cytokine and antibody response to SARS-CoV-2 infection
   doi: https://doi.org/10.1128/JVI.00014-21
   ref 'Chen_et_al_01_13_2021

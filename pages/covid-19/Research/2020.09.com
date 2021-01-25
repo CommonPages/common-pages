@@ -31,7 +31,7 @@ feed September2020
     / September, 2020 - bioRxiv
     quote !b = We do not find any indication that patients infected with the Spike 614G variant have higher COVID-19 mortality, but younger patients have slightly increased odds of 614G carriage.
 
-
+  @@RachesElla
   // Evaluation of Safety and Immunogenicity of an Adjuvanted, TH-1 Skewed, Whole Virion InactivatedSARS-CoV-2 Vaccine - BBV152
   doi: https://doi.org/10.1101/2020.09.09.285445
   ref 'Ganneru_et_al_09_12_2020
