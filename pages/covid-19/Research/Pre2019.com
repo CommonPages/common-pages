@@ -369,7 +369,7 @@ feed Pre2019
     'Hamburger_et_al_1948
 
   #
-
+  @@VincentMunster
   // Distinct susceptibility of HIV vaccine vector-induced CD4 T cells to HIV infection
   doi: https://doi.org/10.1038/s41586-020-2608-y
   ref 'Auclair_et_al_02_23_2018
@@ -385,6 +385,7 @@ feed Pre2019
     / February, 2018 - PLOS Pathogens
     quote !b = Our data suggest that the high HIV susceptibility of Ad5 vector-specific CD4 T cells may be a contributing factor for the observed excess HIV infections in some Ad5-HIV vaccine recipients
 
+  @@GiuseppePantaleo
   // Activation of a dendritic cell–T cell axis by Ad5 immune complexes creates an improved environment for replication of HIV in T cells
   doi: https://doi.org/10.1084/jem.20081786
   ref 'Perreau_et_al_11_03_2008
@@ -404,7 +405,7 @@ feed Pre2019
 
     quote !c = Our results also suggest that the delivery/formulation of Ags through Ad5 immune complexes (ICs) may result in a powerful immunization strategy to stimulate T cells.
 
-
+  @@NicoleFrahm
   // Human adenovirus-specific T cells modulate HIV-specific T cell responses to an Ad5-vectored HIV-1 vaccine
   doi: https://doi.org/10.1172/JCI60202
   ref 'Frahm_et_al_12_27_2011
@@ -422,7 +423,7 @@ feed Pre2019
 
     / December, 2011 - The Journal of Clinical Investigation
     quote !b = Epitopes recognized by adenovirus-specific T cells were commonly conserved across many adenovirus serotypes, suggesting that cross-reactivity of preexisting adenovirus-specific T cells can extend to adenovirus vectors derived from rare serotypes.
-
+  @@AnthonyFauci
   // Immune Activation with HIV Vaccines
   doi: https://doi.org/10.1126/science.1250672
   ref 'Fauci_et_al_04_04_2014
@@ -438,6 +439,7 @@ feed Pre2019
     quote !a = Given the increased risk together with the lack of efficacy in trials using rAd5, further HIV vaccine studies testing rAd5 vectors are not appropriate. When considering HIV vaccines that are designed to elicit a component of T-cell immunity, a risk/benefit analysis should consider the balance between anti-HIV responses and vector-directed responses that activate CD4+ T cells, thus rendering them more susceptible to HIV infection, and the potential for re-exposure to vector-related antigens in the environment with subsequent restimulation of the vector response.
 
   # HIV - Ad5
+  @@AnnDuerr
   // Extended Follow-up Confirms Early Vaccine-Enhanced Risk of HIV Acquisition and Demonstrates Waning Effect Over Time Among Participants in a Randomized Trial of Recombinant Adenovirus HIV Vaccine (Step Study)
   doi: https://doi.org/10.1093/infdis/jis342
   ref 'Duerr_et_al_05_12_2012
@@ -463,6 +465,7 @@ feed Pre2019
     quote !b = Vaccine-associated risk appeared to be highest shortly after vaccination and to decrease after 18 months for uncircumcised and/or Ad5-seropositive men, especially the subgroup of uncircumcised, Ad5-seropositive men in whom the hazard was highest initially. The HR was never elevated in circumcised, Ad5-seronegative men.
 
   # HIV
+  @@ZoeMoodie
   // Continued follow-up of Phambili phase 2b randomized HIV-1 vaccine trial participants supports increased HIV-1 acquisition among vaccinated men.
   doi: https://doi.org/10.1371/journal.pone.0137666
   ref 'Moodie_et_al_09_14_2015
@@ -482,7 +485,7 @@ feed Pre2019
 
     / September, 2015 - PLoS One
     quote !a = The additional follow-up from HVTN 503-S supported the Phambili finding of increased HIV-1 acquisition among vaccinated men and strengthened the evidence of lack of vaccine effect among women.
-
+  @@SusanBuchbinder
   // Efficacy assessment of a cell-mediated immunity HIV-1 vaccine (the Step Study): a double-blind, randomised, placebo-controlled, test-of-concept trial
   doi: https://doi.org/10.1016/S0140-6736(08)61591-3
   ref 'Buchbinder_et_al_11_09_2009

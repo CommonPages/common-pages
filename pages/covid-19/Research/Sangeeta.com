@@ -2476,6 +2476,7 @@ feed Sangeeta
 
 
   #
+  @@GlendaGray
   // Recombinant adenovirus type 5 HIV gag/pol/nef vaccine in South Africa: unblinded, long-term follow-up of the phase 2b HVTN 503/Phambili study
   doi: https://doi.org/10.1016/S1473-3099(14)70020-9
   ref 'Gray_et_al_02_20_2014
@@ -2541,7 +2542,7 @@ feed Sangeeta
     quote !d = Our assessments of antibody responses have focused on the 614D strain (the initial Wuhan-1 strain sequence), although the 614G polymorphism in SARS-CoV-2 spike has rapidly spread to become the globally predominant isoform, which suggests a selective advantage. However, we observed an increase in neutralizing activity on the pseudovirus neutralization assay when 614G was substituted for 614D. These data are consistent with results in mice that were vaccinated with mRNA-127316 and with observations from convalescent donor serum. These data are reassuring that immune responses to mRNA-1273 may not be compromised by the presence of the 614G strain.
 
 
-
+  @@FengZhu
   // Immunogenicity and safety of a recombinant adenovirus type-5-vectored COVID-19 vaccine in healthy adults aged 18 years or older: a randomised, double-blind, placebo-controlled, phase 2 trial
   doi: https://doi.org/10.1016/S0140-6736(20)31605-6
   ref 'Zhu_et_al_07_20_2020
@@ -2589,6 +2590,7 @@ feed Sangeeta
 
 
   #
+  @@FengZhu
   // Immunity duration of a recombinant adenovirus type-5 vector-based Ebola vaccine and a homologous prime-boost immunisation in healthy adults in China: final report of a randomised, double-blind, placebo-controlled, phase 1 trial
   doi: https://doi.org/10.1016/s2214-109x(16)30367-9
   ref 'Li_et_al_12_22_2016
@@ -2618,6 +2620,7 @@ feed Sangeeta
 
 
   #
+  @@GeorgiShukarev
   // A two-dose heterologous prime-boost vaccine regimen eliciting sustained immune responses to Ebola Zaire could support a preventive strategy for future outbreaks.
   doi: https://doi.org/10.1080/21645515.2017.1264755
   ref 'Shukarev_et_al_02_20_2020
@@ -2635,6 +2638,7 @@ feed Sangeeta
 
 
   #
+  @@Logunov
   // Safety and immunogenicity of GamEvac-Combi, a heterologous VSV- and Ad5-vectored Ebola vaccine: an open phase I/II trial in healthy adults in Russia.
   doi: https://doi.org/10.1080/21645515.2016.1238535
   ref 'Dolzhikova_et_al_02_02_2017
@@ -2652,6 +2656,7 @@ feed Sangeeta
 
 
   #
+  @@KatieEwer
   // Safety and immunogenicity of a heterologous prime-boost Ebola virus vaccine regimen in healthy adults in the United Kingdom and Senegal.
   doi: https://doi.org/10.1093/infdis/jiy639
   ref 'Venkatraman_et_al_11_08_2018
@@ -2820,6 +2825,7 @@ feed Sangeeta
 
 
   #
+  @@DavidPace
   // Immunogenicity of reduced dose priming schedules of serogroup C meningococcal conjugate vaccine followed by booster at 12 months in infants: open label randomised controlled trial.
   doi: https://doi.org/10.1136/bmj.h1554
   ref 'Pace_et_al_02_17_2015
@@ -2870,6 +2876,7 @@ feed Sangeeta
 
 
   # ChAdOx1 nCoV-19 vaccine (AZD1222)
+  @@MaheshiRamasamy
   // Safety and immunogenicity of ChAdOx1 nCoV-19 vaccine administered in a prime-boost regimen in young and old adults (COV002): a single-blind, randomised, controlled, phase 2/3 trial
   doi: https://doi.org/10.1016/S0140-6736(20)32466-1
   ref 'Ramasamy_et_al_11_18_2020
@@ -2953,6 +2960,7 @@ feed Sangeeta
 
 
   # 11/12 ChAdOx1 nCoV-19 vaccine (AZD1222),
+  @@AndrewPollard
   // Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK
   doi: https://doi.org/10.1016/S0140-6736(20)32661-1
   ref 'Voysey_et_al_12_08_2020
@@ -3333,6 +3341,7 @@ feed Sangeeta
 
 
   # ASK AYUSH IF HE HAS DONE THIS PAPER
+  @@AndrewPollard
   // Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial
   doi: https://doi.org/10.1016/S0140-6736(20)31604-4
   ref 'Xiao_et_al_02_20_2020
@@ -3382,6 +3391,7 @@ feed Sangeeta
 
 
   # recombinant adenovirus type-5 vectored COVID-19 vaccine
+  @@FengZhu
   // Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial
   doi: https://doi.org/10.1016/S0140-6736(20)31208-3
   ref 'Zhu_et_al_05_22_2020
@@ -3636,6 +3646,7 @@ feed Sangeeta
 
 
   # ask ayush
+  @@MichaelDiamond
   // A Single-Dose Intranasal ChAd Vaccine Protects Upper and Lower Respiratory Tracts against SARS-CoV-2
   doi: https://doi.org/10.1016/j.cell.2020.08.026
   ref 'Hassan_et_al_08_19_2020
@@ -3665,6 +3676,7 @@ feed Sangeeta
 
 
   # DNA vaccine,
+  @@GaryKobinger
   // Pre-existing immunity against Ad vectors Humoral, cellular, and innate response, what's important?
   doi: https://doi.org/10.4161/hv.29594
   ref 'Bovendo_et_al_11_01_2014
@@ -3710,6 +3722,7 @@ feed Sangeeta
 
 
   # recombinant adenoviral vectors
+  @@DenisLogunov
   // Safety and immunogenicity of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine in two formulations: two open, non-randomised phase 1/2 studies from Russia.
   doi: https://doi.org/10.1016/S0140-6736(20)31866-3
   ref 'Logunov_et_al_09_04_2020

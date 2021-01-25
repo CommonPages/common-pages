@@ -1616,6 +1616,7 @@ feed June2020
 
 
   # Viral Vector Vaccine - ChAdOx1
+  @@SimonGraham
   // Evaluation of the immunogenicity of prime-boost vaccination with the replication-deficient viral vectored COVID-19 vaccine candidate ChAdOx1 nCoV-19
   doi: https://doi.org/10.1101/2020.06.20.159715
   ref 'Graham_et_al_06_20_2020

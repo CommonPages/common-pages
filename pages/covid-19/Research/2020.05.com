@@ -1453,6 +1453,7 @@ feed May2020
 
 
   # Viral Vector Vaccine - ChAdOx1
+  @@SarahGilbert
   // ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques
   doi: https://doi.org/10.1101/2020.05.13.093195
   ref 'Doremalen_et_al_05_13_2020

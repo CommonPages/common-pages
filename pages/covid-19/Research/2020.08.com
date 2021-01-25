@@ -7,7 +7,7 @@ feed August2020
 
 
 
-
+  @@AndrewPollard
   // Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial
   doi: https://dx.doi.org/10.1016%2FS0140-6736(20)31604-4
   ref 'Folegatti_et_al_08_15_2020

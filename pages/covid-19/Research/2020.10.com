@@ -107,6 +107,7 @@ feed October2020
 
 
   #
+  @@SusanBuchbinder
   // Use of adenovirus type-5 vectored vaccines: a cautionary tale
   doi: https://doi.org/10.1016/S0140-6736(20)32156-5
   ref 'Buchbinder_et_al_10_31_2020
