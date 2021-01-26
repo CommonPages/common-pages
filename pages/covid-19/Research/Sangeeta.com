@@ -5571,7 +5571,7 @@ feed Sangeeta
 
 
   #
-
+  @@GannonMak
   // Evaluation of rapid antigen test for detection of SARS-CoV-2 virus
   doi: https://doi.org/10.1016/j.jcv.2020.104500
   ref 'Mak_et_al_06_08_2020
@@ -6290,6 +6290,7 @@ feed Sangeeta
 
 
   #
+  @@ByronBerenger
   // Sensitivity of Nasopharyngeal, Nasal and Throat Swab for the Detection of SARS-CoV-2
   doi: https://doi.org/10.1101/2020.05.05.20084889
   ref 'Berenger_et_al_05_08_2020
@@ -6304,6 +6305,7 @@ feed Sangeeta
 
 
   # PCR, public policy
+  @@ChantalVogels
   // Analytical sensitivity and efficiency comparisons of SARS-CoV-2 RT–qPCR primer–probe sets
   doi: https://doi.org/10.1038/s41564-020-0761-6
   ref 'Vogels_et_al_07_10_2020
@@ -6324,6 +6326,7 @@ feed Sangeeta
 
 
   # Saliva or Nasopharyngeal Swab Specimens
+  @@NathanGrubaugh
   // Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2
   doi: https://doi.org/10.1056/NEJMc2016359
   ref 'Wyllie_et_al_09_24_2020
@@ -6334,6 +6337,7 @@ feed Sangeeta
 
 
   # ct value, asymptomatic, presymptomatic, infectiousness
+  @@MariaZambon
   // Duration of infectiousness and correlation with RT-PCR cycle threshold values in cases of COVID-19, England, January to May 2020
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.32.2001483
   ref 'Singanayagam_et_al_08_12_2020
@@ -6355,6 +6359,7 @@ feed Sangeeta
 
 
   # RT-qPCR, Mass testing
+  @@AkikoIwasaki
   // Detection of SARS-CoV-2 RNA by multiplex RT-qPCR ⁦
   doi: https://doi.org/10.1371/journal.pbio.3000867
   ref 'Kudo_et_al_10_07_2020
@@ -6376,6 +6381,7 @@ feed Sangeeta
 
 
   # mitigtion, ct value,
+  @@JamesHay
   // Estimating epidemiologic dynamics from single cross-sectional viral load distributions
   doi: https://doi.org/10.1101/2020.10.08.20204222
   ref 'Hay_et_al_10_13_2020

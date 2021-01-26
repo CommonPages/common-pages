@@ -164,6 +164,7 @@ feed October2020
     quote !a =
 
   # CT value - Epidemic Tragectory
+  @@JamesHay
   // Estimating epidemiologic dynamics from single cross-sectional viral load distributions
   doi: https://doi.org/10.1101/2020.10.08.20204222
   ref 'Hay_et_al_10_13_2020

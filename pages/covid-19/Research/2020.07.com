@@ -69,6 +69,7 @@ feed July2020
     quote !a = The average time from exposure to symptom onset is 5 days, and 97.5% of people who develop symptoms do so within 11.5 days.
 
   # Antigen
+  @@AlexanderMcAdam
   // Evaluation of a Rapid Diagnostic Assay for Detection of SARS-CoV-2 Antigen in Nasopharyngeal Swabs
   doi: https://doi.org/10.1128/JCM.00977-20
   ref 'Lambert-Niclot_et_al_07_23_2020

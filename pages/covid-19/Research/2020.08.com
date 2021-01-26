@@ -125,6 +125,7 @@ feed August2020
     quote !a =
 
   # Rapid Testing - Antigen
+  @@JonathanDeeks
   // Rapid, point-of-care antigen and molecular-based tests for diagnosis of SARS-CoV-2 infection
   doi: https://doi.org/10.1002/14651858.cd013705
   ref 'Dinnes_et_al_08_26_2020

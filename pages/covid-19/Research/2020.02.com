@@ -325,6 +325,7 @@ feed February2020
 
 
   # Diagnostic
+  @@JunLiu
   // Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing
   doi: https://doi.org/10.1148/radiol.2020200343
   ref 'Xie_et_al_2020

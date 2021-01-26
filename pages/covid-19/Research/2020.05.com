@@ -135,6 +135,7 @@ feed May2020
     quote !a = It could be concluded that asymptomatic carriers show an earlier viral clearance.
 
   #
+  @@LaurenKucirka
   // Variation in False-Negative Rate of Reverse Transcriptase Polymerase Chain Reaction–Based SARS-CoV-2 Tests by Time Since Exposure
   doi: https://dx.doi.org/10.7326%2FM20-1495
   ref 'Kucirka_et_al_05_13_2020
@@ -190,6 +191,7 @@ feed May2020
     quote !a =
 
   # Antigen
+  @@Scohy
   // Low performance of rapid antigen detection test as frontline testing for COVID-19 diagnosis
   doi: https://doi.org/10.1016/j.jcv.2020.104455
   ref 'Schohy_et_al_05_21_2020
@@ -234,6 +236,7 @@ feed May2020
     quote !a =
 
   # Antigen
+  @@OlivierVandenberg
   // Development and Potential Usefulness of the COVID-19 Ag Respi-Strip Diagnostic Assay in a Pandemic Context
   doi: https://doi.org/10.3389/fmed.2020.00225
   ref 'Mertens_et_al_02_20_2020
@@ -254,6 +257,7 @@ feed May2020
 
 
   # Antigen
+  @@LorenaPorte
   // Evaluation of a novel antigen-based rapid detection test for the diagnosis of SARS-CoV-2 in respiratory samples
   doi: https://doi.org/10.1016/j.ijid.2020.05.098
   ref 'Porte_et_al_05_31_2020
@@ -275,6 +279,7 @@ feed May2020
     quote !a =
 
   #
+  @@ThomasWeitzel
   // Head-to-head comparison of four antigen-based rapid detection tests for the diagnosis of SARS-CoV-2 in respiratory samples
   doi: https://doi.org/10.1101/2020.05.27.119255
   ref 'Weitzel_et_al_05_30_2020
@@ -1871,6 +1876,7 @@ feed May2020
 
 
   # Diagnostics, serology, pcr
+  @@Sundararaj
   // Interpreting Diagnostic Tests for SARS-CoV-2
   doi: https://doi.org/10.1001/jama.2020.8259
   ref 'Sethuraman_et_al_05_06_2020
@@ -3733,6 +3739,7 @@ feed May2020
 
 
   # Diagnostic - !c - PublicPolicy
+  @@JaredBullard
   // Predicting infectious SARS-CoV-2 from diagnostic samples
   doi: https://doi.org/10.1093/cid/ciaa638
   ref 'Bullard_et_al_05_22_2020
@@ -3919,6 +3926,7 @@ feed May2020
 
 
   # testing, Reinfection
+  @@MichaelMina
   // To Interpret the SARS-CoV-2 Test, Consider the Cycle Threshold Value.
   doi: https://doi.org/10.1093/cid/ciaa619
   ref 'Tom_et_al_2020

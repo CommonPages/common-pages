@@ -4489,6 +4489,7 @@ feed Pre2019
     # / June, 1970 -  American Journal of Epidemiology
 
   # Testing - RT-PCR
+  @@HaitaoChu
   // Performance of rapid influenza H1N1 diagnostic tests: a meta‐analysis
   doi: https://doi.org/10.1111/j.1750-2659.2011.00284.x
   ref 'Chut_et_al_2011
@@ -4510,6 +4511,7 @@ feed Pre2019
 
 
   # Testing
+  @@HansHirsch
   // Comparing Luminex NxTAG‐Respiratory Pathogen Panel and RespiFinder‐22 for multiplex detection of respiratory pathogens
   doi: https://doi.org/10.1002/jmv.24492
   ref 'Beckmann_et_al_2016
@@ -4521,6 +4523,7 @@ feed Pre2019
     # / February, 2016 -  Journal of medical virology
 
   # Testing - PCR
+  @@CLee
   // Multiplex PCR system for the rapid diagnosis of respiratory virus infection: systematic review and meta-analysis
   doi: https://doi.org/10.1016/j.cmi.2017.11.018
   ref 'Huang_et_al_2017
@@ -4550,6 +4553,7 @@ feed Pre2019
 
 
   # Testing
+  @@AlexanderMcAdam
   // Multicenter Evaluation of the ePlex Respiratory Pathogen Panel for the Detection of Viral and Bacterial Respiratory Tract Pathogens in Nasopharyngeal Swabs
   doi: https://doi.org/10.1128/JCM.01658-17
   ref 'Babady_et_al_2017
@@ -4622,6 +4626,7 @@ feed Pre2019
 
 
   # Tag - Seroprevalance, Testing
+  @@WenbinJi
   // Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR
   doi: https://doi.org/10.1148/radiol.2020200432
   ref 'Fang_et_al_2020

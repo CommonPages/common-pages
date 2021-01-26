@@ -108,6 +108,7 @@ feed April2020
   #
 
   # Ct value - Discharge and discontinue isolation
+  @@BernardScola
   // Viral RNA load as determined by cell culture as a management tool for discharge of SARS-CoV-2 patients from infectious disease wards
   doi: https://doi.org/10.1007/s10096-020-03913-9
   ref 'Scola_et_al_04_27_2020
@@ -2005,6 +2006,7 @@ feed April2020
 
 
   # Viral dynamic profile assist in diagnosis and reflect the disease course, older ppl, viral shedding, Wuhan, Reinfection
+  @@ShengZhang
   // Profile of RT-PCR for SARS-CoV-2: a preliminary study from 56 COVID-19 patients
   doi: https://doi.org/10.1093/cid/ciaa460
   ref 'Xiao_et_al_2020
@@ -2892,6 +2894,7 @@ feed April2020
 
 
   # Tag - Testing
+  @@AlexanderMcAdam
   // Saliva as a non-invasive specimen for detection of SARS-CoV-2
   doi: https://doi.org/10.1128/JCM.00776-20
   ref 'Williams_et_al_2020
@@ -2913,6 +2916,7 @@ feed April2020
 
 
   # Tag - Testing
+  @@AnneWyllie
   // Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs
   doi: https://doi.org/10.1101/2020.04.16.20067835
   ref 'Wyllie_et_al_2020
@@ -3509,6 +3513,7 @@ feed April2020
 
 
   # Tag - Reinfection, Testing, shedding
+  @@ClemensWendtner
   // Virological assessment of hospitalized patients with COVID-2019
   doi: https://doi.org/10.1038/s41586-020-2196-x
   ref 'Wölfel_et_al_2020

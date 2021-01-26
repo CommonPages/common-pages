@@ -69,7 +69,7 @@ feed June2020
 
 
 
-
+  @@KazuyaOmi
   // SARS-CoV-2 qRT-PCR Ct value distribution in Japan and possible utility of rapid antigen testing kit
   doi: https://doi.org/10.1101/2020.06.16.20131243
   ref 'Omi_et_al_06_19_2020
@@ -1925,6 +1925,7 @@ feed June2020
 
 
   # Diagnostics
+  @@StevenWoloshin
   // False Negative Tests for SARS-CoV-2 Infection — Challenges and Implications
   doi: https://doi.org/10.1056/NEJMp2015897
   ref 'Woloshin_et_al_06_05_2020

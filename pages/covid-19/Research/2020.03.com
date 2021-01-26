@@ -1120,6 +1120,7 @@ feed March2020
 
 
   # CT scan diagnostic
+  @@MinZhou
   // Temporal Changes of CT Findings in 90 Patients with COVID-19 Pneumonia: A Longitudinal Study
   doi: https://doi.org/10.1148/radiol.2020200843
   ref 'Wang_et_al_2020b
@@ -1146,6 +1147,7 @@ feed March2020
 
 
   # Diagnostic CT
+  @@ShoheiInui
   // Chest CT Findings in Cases from the Cruise Ship “Diamond Princess” with Coronavirus Disease 2019 (COVID-19)
   doi: https://doi.org/10.1148/ryct.2020200110
   ref 'Inui_et_al_2020
