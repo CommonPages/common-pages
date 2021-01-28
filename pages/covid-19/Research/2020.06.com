@@ -1289,6 +1289,7 @@ feed June2020
   ref 'Baum_et_al_06_11_2020
     head = We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population.
 
+    To assess the efficacy of our recently described antiviral antibodies against the breadth of spike RBD variants represented in publicly available SARS-CoV-2 sequences identified through the end of March 2020 (representing more than 7000 unique genomes), we used the VSV pseudoparticle system expressing the SARS-CoV-2 spike variants
 
     > Abstract
       Antibodies targeting the spike protein of SARS-CoV-2 present a promising approach to combat the COVID19 pandemic; however, concerns remain that mutations can yield antibody resistance. We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population. However, novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
@@ -1296,12 +1297,28 @@ feed June2020
     - quotes
       !a
       !b
+      !c
+      !d
+      !e
+      !f
 
     / June, 2020 - American Association for the Advancement of Science
     quote !a = Novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.
 
     / June, 2020 - American Association for the Advancement of Science
-    quote !b = Y453F escape some monoclonal antibodies.the	Y453F	mutation	was	recently	shown	to	be	an escape	mutation	for	the	monoclonal	antibody	RGN10933
+    quote !b = Y453F escape some monoclonal antibodies.the	Y453F	mutation	was	recently	shown	to	be	an escape	mutationfor	the	monoclonalantibody RGN10933.
+
+    / June, 2020 - American Association for the Advancement of Science
+    quote !c = The REN10987+REGN10933 antibody cocktail—which consists of two antibodies that can simultaneously bind to two independent epitopes on the RBD—retained its ability to neutralize all identified mutants, even those that were selected for by single treatment with one of its components.
+
+    / June, 2020 - American Association for the Advancement of Science
+    quote !d = Our data strongly support the notion that cocktail therapy may provide a powerful way to minimize mutational escape by SARS-CoV-2; in particular, our studies point to the potential value of antibody cocktails in which two antibodies were chosen so as to bind to distinct and non-overlapping regions of the viral target (in this case, the RBD of the spike protein), and thus require the unlikely occurrence of simultaneous mutations at two distinct genetic sites for viral escape.
+
+    / June, 2020 - American Association for the Advancement of Science
+    quote !e = In our sequencing of passaged virus pools, we also identified multiple mutations outside of the RBD, most of which were present at various abundances within control samples, including the original inoculum and virus-only passages. The most abundant of these mutations [His655 → Tyr (H655Y) and Arg682 → Gln (R682Q)] are near the S1′/S2′ cleavage site within the spike protein and contain residues within the multibasic furin-like cleavage site.
+
+    / June, 2020 - American Association for the Advancement of Science
+    quote !f = As demonstrated with our single-antibody escape studies, even highly potent neutralization does not protect against the rapid generation of viral escape mutants, and escape remains a major concern with individual antibody approaches.
 
 
   # FaceMask, mathematical modeling

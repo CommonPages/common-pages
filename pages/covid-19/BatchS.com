@@ -1,9 +1,172 @@
 . BatchS
-
+  
 
   ############################################################################################
   # Everything below in this section is not updated claims.
   ############################################################################################
+  #### 1/26/21 ####
+
+
+  >
+    inactivated vaccines, virally and bacterially vectored vaccines, recombinant protein and DNA vaccines, as well as the use of attenuated vaccines.
+
+
+
+  >
+    Our data strongly support the notion that cocktail therapy may provide a powerful way to minimize mutational escape by SARS-CoV-2; escape mutants were not generated following treatment with a non-competing antibody cocktail.
+    The REN10987+REGN10933 antibody cocktail—which consists of two antibodies that can simultaneously bind to two independent epitopes on the RBD—retained its ability to neutralize all identified mutants, even those that were selected for by single treatment with one of its components.
+    As demonstrated with our single-antibody escape studies, even highly potent neutralization does not protect against the rapid generation of viral escape mutants, and escape remains a major concern with individual antibody approaches.
+  -
+    'Baum_et_al_06_11_2020
+    'Baum_et_al_06_11_2020.!a
+    'Baum_et_al_06_11_2020.!c
+    'Baum_et_al_06_11_2020.!d
+    'Baum_et_al_06_11_2020
+  -
+    'Greaney_et_al_01_04_2021
+    'Greaney_et_al_01_04_2021.!a
+    'Greaney_et_al_01_04_2021.!b
+    'Greaney_et_al_01_04_2021.!c
+
+  >
+    The Regeneron (REN10987+REGN10933) antibody cocktail—which consists of two antibodies that can simultaneously bind to two independent epitopes on the RBD—retained its ability to neutralize all identified mutants, even those that were selected for by single treatment with one of its components.
+  -
+    'Baum_et_al_06_11_2020
+    'Baum_et_al_06_11_2020.!c
+    'Baum_et_al_06_11_2020.!d
+  -
+    'Wang_et_al_01_26_2021
+    'Wang_et_al_01_26_2021.!d
+
+
+  >
+    The loss of ~6.5-8.6 fold in activity against SA∆9 is more worrisome, although the clinical implication for vaccine efficacy remains to be determined.
+
+  >
+    two papers from South Africa that looked at the impact of the full B.1.351 spike on neutralization and saw a significant reduction in neutralizing activity, although the clinical implication for vaccine efficacy remains to be determined.
+
+    Researchers in South Africa, meanwhile, have found that antibodies from six recovered patients were six to 200 times less effective at neutralizing B.1.351.
+
+    The emergence of SARS-CoV-2 variants with mutations in the spike protein, most recently circulating isolates from the United Kingdom (B.1.1.7) and Republic of South Africa (B.1.351), has led to lower neutralization from convalescent serum by pseudovirus neutralization (PsVN) assays and resistance to certain monoclonal antibodies.
+
+  -
+    'Cele_et_al_2021
+    'Cele_et_al_2021.!a
+    'Cele_et_al_2021.!b
+  -
+    'Wibmer_et_al_01_19_2021
+    'Wibmer_et_al_01_19_2021.!a
+    'Wibmer_et_al_01_19_2021.!b
+    'Wibmer_et_al_01_19_2021.!c
+  -
+    'Wang_et_al_01_26_2021
+    'Wang_et_al_01_26_2021.!b
+    'Wang_et_al_01_26_2021.!c
+    'Wang_et_al_01_26_2021.!d
+
+
+  >
+    One study showed limited antigenic impact for B.1.1.7 but more pronounced effects for B.1.351.  The new variants affect antibody neutralization more so with SA variant than with the UK variant.
+  -
+    'Wang_et_al_01_26_2021
+    'Wang_et_al_01_26_2021.!a
+    'Wang_et_al_01_26_2021.!b
+    'Wang_et_al_01_26_2021.!c
+    'Wang_et_al_01_26_2021.!d
+    'Wang_et_al_01_26_2021.!e
+
+  >
+    Our findings for the protective efficacy of current SARS-CoV-2 vaccines, the ~2-fold loss of neutralizing activity of vaccinee sera against UK∆8 is unlikely to have an adverse impact due to the large “cushion” of residual neutralizing antibody titer.
+  -
+    'Wang_et_al_01_26_2021
+    'Wang_et_al_01_26_2021.!a
+    'Wang_et_al_01_26_2021.!e
+
+  >
+    No significant impact on neutralization against the B.1.1.7 variant was detected in either the full set of mutations found in the B.1.1.7 variant or the N501Y and the 69-70 deletion
+  -
+    'Wu_et_al_01_25_2021
+    'Wu_et_al_01_25_2021.!a
+
+
+  >
+    The recent emergence of B.1.1.7, B.1.351, and B.1.1.28 is a clear demonstration of SARS-CoV-2 antigenic drift. This conclusion is supported by data presented herein, illustrating how so many of these spike changes conferred resistance from antibody neutralization.
+
+
+    Mutationally, this virus is traveling in a direction that could ultimately lead to escape from our current therapeutic and prophylactic interventions directed to the viral spike. If the rampant spread of the virus continues and more critical mutations accumulate, then we may be condemned to chasing after the evolving SARS-CoV-2 continually, as we have long done for influenza virus
+
+
+
+
+  >
+    Vaccines such as the Oxford/Astra Zeneca ChAdOx1 and the Pfizer-BioNTech BNT162b2 [24] elicit neutralization titers in a similar range to the convalescent plasma in this study. However, these vaccines may elicit a broader antibody response and protective T cell immunity. Protective T cell immunity also likely occurs following natural infection. Further more, it is unclear what degree of neutralization mediates protection, and infection may be particularly sensitive to inhibition at exposure.
+
+  # MODERNA EFFICACY AGAINST VARIANTS
+  >
+    One study demonstrate reduced but still significant neutralization against the full B.1.351 variant following mRNA-1273 vaccination.
+
+    Now, researchers from Moderna and the Vaccine Research Center at the U.S. National Institutes of Health have tested the potency of antibodies from eight people who had received the company’s vaccine against a retrovirus modified to express the mutated spike proteins of B.1.351 and B.1.1.7. In a preprint, they report that antibodies neutralized the virus in both cases. But for B.1.351, the levels needed were six times higher than for virus expressing the original protein.
+  -
+    'Wu_et_al_01_25_2021
+    'Wu_et_al_01_25_2021.!c
+    'Wu_et_al_01_25_2021.!a
+    'Wu_et_al_01_25_2021.!b
+
+
+
+  >
+    The parainfluenza virus (PIV5)-based MERS vaccine is engineered to express the MERS-CoV envelope spike (S) protein that mediates viral entry into target cells. Preclinical in vivo tests with the vaccine in mice are reported in mBio, and demonstrated that just one, relatively low dose of the vaccine given to animals intranasally fully protected all the treated mice from a lethal dose of MERS coronavirus, and improved virus clearance in the lungs.
+
+
+
+
+
+  ##### 1/25/21 ######  AYUSH
+
+  # https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948517/Information_for_Healthcare_Professionals_on_Pfizer_BioNTech.pdf
+
+  # There is limited experience with use of the COVID-19 mRNA Vaccine BNT162b2in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development (see section 5.3). Administration of the COVID-19 mRNA Vaccine BNT162b2 in pregnancy should only be considered when the potential benefits outweigh any potential risks for the mother and foetus.
+
+  # Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity.
+
+  # The safety and efficacy of COVID-19 mRNA Vaccine BNT162b2 in children under 16 years of age have not yet been established
+
+  # Contraindications
+  # Hypersensitivity and anaphylaxis: Events of anaphylaxis have been reported. Appropriate medical treatment and supervision should always be readily available in case of an anaphylactic reaction following the administration of the vaccine. Close observation for at least 15 minutes is recommended following vaccination. A second dose of the vaccine should not be given to those who have experienced anaphylaxis to the first dose of the COVID-19 mRNA Vaccine BNT162b2.
+
+  # General recommendations: The administration of COVID-19 mRNA Vaccine BNT162b2 should be postponed in individuals suffering from acute severe febrile illness. Individuals receiving anticoagulant therapy or those with a bleeding disorder that would contraindicate intramuscular injection, should not be given the vaccine unless the potential benefit clearly outweighs the risk of administration. Immunocompromised persons, including individuals receiving immunosuppressant therapy, may have a diminished immune response to the vaccine. No data are available about concomitant use of immunosuppressants. As with any vaccine, vaccination with COVID-19 mRNA Vaccine BNT162b2 may not protect all vaccine recipients. No data are available on the use of COVID-19 mRNA Vaccine BNT162b2 in persons
+
+  # 4.6 Fertility, pregnancy and lactation: Pregnancy: There is limited experience with use of the COVID-19 mRNA Vaccine BNT162b2in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development (see section 5.3). Administration of the COVID-19 mRNA Vaccine BNT162b2 in pregnancy should only be considered when the potential benefits outweigh any potential risks for the mother and foetus. Breast-feeding: It is unknown whether the COVID-19 mRNA Vaccine BNT162b2 is excreted in human milk. Fertility: Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity
+  # Non-clinical data reveal no special hazard for humans based on a conventional study of repeat dose toxicity. Reproductive toxicity:Reproductive and developmental toxicity were investigated in rats in a combined fertility and developmental toxicity study where female rats were intramuscularly administered with the COVID19 mRNA Vaccine BNT162b2 prior to mating and during gestation (receiving 4 full human doses that generate relatively higher levels in rat due to body weight differences, spanning between pre-mating day 21 and gestational day 20). SARS-CoV-2 neutralizing antibody responses were present in maternal animals from prior to mating to the end of the study on postnatal day 21 as well as in foetuses and offspring. There were no vaccine-related effects on female fertility, pregnancy, or embryo-foetal or offspring development. No data on the COVID-19 mRNA Vaccine BNT162b2 are available on vaccine placental transfer or excretion in milk.
+
+  >
+    We also have data from rats, who were given the vaccine either while they were pregnant or before they were allowed to mate. There were no effects on fertility, pregnancy or the health of the babies.
+    Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development.
+   Fertility: Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity
+
+
+
+
+  # https://drive.google.com/file/d/1_wHIYX-tGkGBPwuax7N8BxZPR4PTTCDm/view
+  >
+    The vaccine works by instructing our bodies to make antibodies that bind to a viral protein called Spike. This stops the virus from infecting our cells. The claim that the vaccine might reduce fertility came from the idea that there are proteins in the placenta that have some similarities with Spike, so the antibodies that block Spike might also attach to the placenta. But the viral and placental proteins are not similar enough that we would expect this to happen. If antibodies against Spike did cause problems for the placenta, we would expect to see miscarriages in pregnant people who become infected with COVID19, and we don’t see this.
+  # -
+    # COVID-19 pandemic effect on early pregnancy: are miscarriage rates altered, in asymptomatic women?
+    # Pregnancy Outcomes Among Women With and Without Severe Acute Respiratory Syndrome Coronavirus 2 Infection
+    # Coronavirus disease 2019 and first-trimester spontaneous abortion: a case-control study of 225 pregnant patients
+
+
+  # https://fortune.com/2020/12/23/covid-vaccine-pregnancy-women-newborn-babies-coronavirus-safety/
+
+  >
+    One study indicated that the neonatal immune system is able to handle SARS-CoV-2 effectively, with most infected neonates either being asymptomatic or experiencing mild disease.
+  -
+    'Götzinger_et_al_01_21_2021
+    'Götzinger_et_al_01_21_2021.!a
+    'Götzinger_et_al_01_21_2021.!b
+
+
+
   #### 1/20/21 ######
 
 
@@ -65,6 +228,8 @@
 
   # New Variants- How will it affect vaccines under development?
   # Did the variant achieve prominence through natural selection or chance events? If the evidence suggests natural selection, which mutation(s) are being selected? What is the adaptive benefit of these mutations? What effect do these mutations have on transmissibility and spread, antigenicity, or virulence?
+
+  # Are the symptoms of #COVID19 different in children? Do the new variants impact children differently? What can parents do to keep children safe from COVID-19
 
   # flights
 
@@ -312,12 +477,6 @@
 
 
 
-  # MODEL
-
-  # Although the terms mutation, variant, and strain are often used interchangeably in describing the epidemiology of SARS-CoV-2, the distinctions are important.
-  # Mutation refers to the actual change in sequence: D614G is an aspartic acid-to-glycine substitution at position 614 of the spike glycoprotein.
-  # Genomes that differ in sequence are often called variants. This term is somewhat less precise because 2 variants can differ by 1 mutation or many.
-  # Strictly speaking, a variant is a strain when it has a demonstrably different phenotype (eg, a difference in antigenicity, transmissibility, or virulence).
 
 
   ##### 1/7/21 #####
@@ -330,31 +489,10 @@
     Similar reports of SARS-CoV-2 being transmitted during flight have recently been published (3,4,16,17).
     Those reports, along with the findings we report, demonstrate the potential for SARS-CoV-2 to spread on long-haul flights. This outbreak demonstrates the potential for spread of SARS-CoV-2 linked to air travel.
 
-    This investigation provides evidence of flight-associated SARS-CoV-2 transmission.
-
     These transmission events occurred despite reported in-flight use of masks and gloves.It is interesting that four of the flight cases were not seated next to any other positive case, had no contact in the transit lounge, wore face masks in-flight and would not be deemed close contacts under current guidance from the European Centre for Disease Prevention and Control (ECDC).
 
-    Reports of suspected in-flight transmission of SARS-CoV-2 are relatively few, which probably reflects the challenges of establishing in-flight transmission; the fact that flight-associated transmission may be rare; and the fact that as the pandemic progressed, many airlines adopted measures to decrease risk
-  -
-    'Swadi_et_al_01_05_2021
-    'Swadi_et_al_01_05_2021.!a
-    'Swadi_et_al_01_05_2021.!b
-    'Swadi_et_al_01_05_2021.!c
-    'Swadi_et_al_01_05_2021.!d
-  -
-    'Freedman_et_al_09_25_2020
-    'Freedman_et_al_09_25_2020.!a
-    'Freedman_et_al_09_25_2020.!b
-    'Freedman_et_al_09_25_2020.!c
-    'Freedman_et_al_09_25_2020.!d
-  -
-    'Murphy_et_al_10_21_2020
-    'Murphy_et_al_10_21_2020.!a
-    'Murphy_et_al_10_21_2020.!b
-    'Murphy_et_al_10_21_2020.!c
-  -
-    'Choi_et_al_09_18_2020
-    'Choi_et_al_09_18_2020.!a
+    Reports of suspected in-flight transmission of SARS-CoV-2 are relatively few, which probably reflects the challenges of establishing in-flight transmission; the fact that flight-associated transmission may be rare; and the fact that as the pandemic progressed, many airlines adopted measures to decrease risk.
+
 
   # this study documents transmission of SARS-CoV-2 associated with a medium-duration domestic flight within Australia. It also demonstrates the value of WGS for determining SARS-CoV-2 transmission. # check dates of this paper
   -
@@ -375,35 +513,8 @@
   # https://doi.org/10.1093/jtm/taaa178 - discuss this paper
   # In-flight transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks
   >
-    In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness.  In 2003, up to 22 transmissions occurred on a single flight from a single index case
+    In-flight transmission of SARS-CoV had previously been demonstrated during the symptomatic but not asymptomatic phase of illness.  In 2003, up to 22 transmissions occurred on a single flight from a single index case.
 
-  >
-    The strongest evidence that in-flight transmission is not inevitable even with large numbers of infected persons aboard. High- Risk Flights with no Evidence of Transmission
-  -
-    'Freedman_et_al_09_25_2020
-    'Freedman_et_al_09_25_2020.!i
-    'Freedman_et_al_09_25_2020.!j
-    'Freedman_et_al_09_25_2020.!f
-
-  >
-    The overall published data, as incomplete as it is, support the concept of proximity to a SARS-Co-V infected person as a key factor in in-flight transmission.
-  -
-    'Freedman_et_al_09_25_2020
-    'Freedman_et_al_09_25_2020.!n
-
-  >
-    According to the published reports, on Flights with mass transmission events, masking was not mandated in any way and, was rarely practiced.
-  -
-    'Freedman_et_al_09_25_2020
-    'Freedman_et_al_09_25_2020.!o
-
-  >
-    On flights with rigid masking policies, transmission was
-  -
-    'Freedman_et_al_09_25_2020
-    'Freedman_et_al_09_25_2020.!p
-    'Freedman_et_al_09_25_2020.!d
-    'Freedman_et_al_09_25_2020.!f
 
   >
     Other published reports describe suspected flight-associated transmission of SARS-CoV-2 (2,3,13,14), but these reports lack supportive genomic evidence.

@@ -14,6 +14,146 @@ feed Sangeeta
     quote !a =
 
   #
+  // Increased Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7 to Antibody Neutralization
+  doi: https://doi.org/10.1101/2021.01.25.428137
+  ref 'Wang_et_al_01_26_2021
+    head =  We now report that B.1.1.7 is refractory to neutralization by most mAbs to the N-terminal domain (NTD) of spike and relatively resistant to a number of mAbs to the receptor-binding domain (RBD)
+    > Abstract
+     The Covid-19 pandemic has ravaged the globe, and its causative agent, SARS-CoV2, continues to rage. Prospects of ending this pandemic rest on the development of effective interventions. Single and combination monoclonal antibody (mAb) therapeutics have received emergency use authorization1, with more in the pipeline. Furthermore, multiple vaccine constructs have shown promise, including two with ~95% protective efficacy against Covid-198,9. However, these interventions were directed toward the initial SARS-CoV-2 that emerged in 2019. Considerable viral evolution has occurred since, including variants with a D614G mutation that have become dominant. Viruses with this mutation alone do not appear to be antigenically distinct, however. Recent emergence of new SARSCoV-2 variants B.1.1.7 in the UK12 and B.1.351 in South Africa is of concern because of their purported ease of transmission and extensive mutations in the spike protein. We now report that B.1.1.7 is refractory to neutralization by most mAbs to the N-terminal domain (NTD) of spike and relatively resistant to a number of mAbs to the receptor-binding domain (RBD). It is modestly more resistant to convalescent plasma (~3 fold) and vaccinee sera (~2 fold). Findings on B.1.351 are more worrisome in that this variant is not only refractory to neutralization by most NTD mAbs but also by multiple individual mAbs to the receptor-binding motif on RBD, largely due to an E484K mutation, although some mAb combinations retain activity. Moreover, B.1.351 is markedly more resistant to neutralization by convalescent plasma (~11-33 fold) and vaccinee sera (~6.5-8.6 fold). B.1.351 and emergent variants with similar spike mutations present new challenges for mAb therapy and threaten the protective efficacy of current vaccines.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / January, 2021 - BioRxiv
+    quote !a = We now report that B.1.1.7 is refractory/resistant to neutralization by most mAbs to the N-terminal domain (NTD) of spike and relatively resistant to a number of mAbs to the receptor-binding domain (RBD). It is modestly more resistant to convalescent plasma (~3 fold) and vaccinee sera (~2 fold).
+
+    / January, 2021 - BioRxiv
+    quote !b = Findings on B.1.351 are more worrisome in that this variant is not only resistant to neutralization by most NTD mAbs but also by multiple individual mAbs to the receptor-binding motif on RBD, largely due to an E484K mutation (a mutation shared by B.1.351 and B.1.1.28), although some mAb combinations retain activity.
+
+    / January, 2021 - BioRxiv
+    quote !c = B.1.351 is markedly more resistant to neutralization by convalescent plasma (~11-33 fold) and vaccinee sera (~6.5-8.6 fold).
+
+    / January, 2021 - BioRxiv
+    quote !d = SA∆9 (B.1.351) is resistant to a major group of potent mAbs that target the RBM, including two authorized for emergency use. LY-CoV555 is inactive against SA∆9, and the activity of REGN10933 is impaired while its combination with REGN10987 remains potent.
+
+    # / January, 2021 - BioRxiv
+    # quote !a = Convalescent plasma from patients infected with SARS-CoV-2 from early in the pandemic show slightly decreased neutralizing activity against UK∆8, but the diminution against SA∆9 is remarkable. This relative resistance is largely due to E484K, a mutation shared by B.1.351 and B.1.1.28
+
+    / January, 2021 - BioRxiv
+    quote !e = Our findings for the protective efficacy of current SARS-CoV-2 vaccines, the ~2-fold loss of neutralizing activity of vaccinee sera against UK∆8 is unlikely to have an adverse impact due to the large “cushion” of residual neutralizing antibody titer.
+
+    # / January, 2021 - BioRxiv
+    # quote !f = The loss of ~6.5-8.6 fold in activity against SA∆9 is more worrisome, although the clinical implication for vaccine efficacy remains to be determined.
+
+
+
+
+
+  #
+  // Escape of SARS-CoV-2 501Y.V2 variants from neutralization by convalescent plasma
+  doi: https://www.ahri.org/wp-content/uploads/2021/01/MEDRXIV-2021-250224v1-Sigal.pdf
+  ref 'Cele_et_al_2021
+    head = We address whether the 501Y.V2 variant could escape the neutralizing antibody response elicited by natural infection with earlier variants. We were the first to outgrow two variants of 501Y.V2 from South Africa, designated 501Y.V2.HV001 and 501Y.V2.HVdF002. We examined the neutralizing effect of convalescent plasma collected from six adults hospitalized with COVID-19 using a microneutralization assay with live (authentic) virus.
+
+    > Abstract
+      New SARS-CoV-2 variants with mutations in the spike glycoprotein have arisen inde3 pendently at multiple locations and may have functional significance. The combination of mutations in the 501Y.V2 variant first detected in South Africa include the N501Y, K417N, and E484K mutations in the receptor binding domain (RBD) as well as muta6 tions in the N-terminal domain (NTD). Here we address whether the 501Y.V2 variant could escape the neutralizing antibody response elicited by natural infection with earlier variants. We were the first to outgrow two variants of 501Y.V2 from South Africa, designated 501Y.V2.HV001 and 501Y.V2.HVdF002. We examined the neutralizing effect of convalescent plasma collected from six adults hospitalized with COVID-19 using a microneutralization assay with live (authentic) virus. Whole genome sequencing of the infecting virus of the plasma donors confirmed the absence of the spike mutations which characterize 501Y.V2. We infected with 501Y.V2.HV001 and 501Y.V2.HVdF002 and compared plasma neutralization to first wave virus which contained the D614G mutation but no RBD or NTD mutations. We observed that neutralization of the 501Y.V2 variants was strongly attenuated, with IC50 6 to 200-fold higher relative to first wave virus. The degree of attenuation varied between participants and included a knockout of neutralization activity. This observation indicates that 501Y.V2 may escape the neutralizing antibody response elicited by prior natural infection. It raises a concern of potential reduced protection against re-infection and by vaccines designed to target the spike protein of earlier SARS-CoV-2 variants.
+
+    - quotes
+      !a
+      !b
+
+    /
+    quote !a = We present data suggesting that the 501Y.V2 variant first detected in South Africa is able to escape the neutralizing antibody response elicited by natural infection with earlier variants.
+
+    /
+    quote !b = We infected with 501Y.V2.HV001 and 501Y.V2.HVdF002 and compared plasma neutralization to first wave virus which contained the D614G mutation but no RBD or NTD mutations. We observed that neutralization of the 501Y.V2 variants was strongly attenuated, with IC50 6 to 200-fold higher relative to first wave virus. The degree of attenuation varied between participants and included a knockout of neutralization activity.
+
+
+
+  #
+  // mRNA-1273 vaccine induces neutralizing antibodies against spike mutants from global SARS-CoV-2 variants
+  doi: https://doi.org/10.1101/2021.01.25.427948
+  ref 'Wu_et_al_01_25_2021
+    head = Using two orthogonal VSV and lentivirus PsVN assays expressing spike variants of 20E (EU1), 20A.EU2, D614G-N439, mink cluster 5, B.1.1.7, and B.1.351 variants, we assessed the neutralizing capacity of sera from human subjects or non-human primates (NHPs) that received mRNA-1273.
+
+
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is the causative infection of a global pandemic that has led to more than 2 million deaths worldwide. The Moderna mRNA-1273 vaccine has demonstrated ~94% efficacy in a Phase 3 study and has been approved under Emergency Use Authorization. The emergence of SARS-CoV-2 variants with mutations in the spike protein, most recently circulating isolates from the United Kingdom (B.1.1.7) and Republic of South Africa (B.1.351), has led to lower neutralization from convalescent serum by pseudovirus neutralization (PsVN) assays and resistance to certain monoclonal antibodies. Here, using two orthogonal VSV and lentivirus PsVN assays expressing spike variants of 20E (EU1), 20A.EU2, D614G-N439, mink cluster 5, B.1.1.7, and B.1.351 variants, we assessed the neutralizing capacity of sera from human subjects or non-human primates (NHPs) that received mRNA-1273. No significant impact on neutralization against the B.1.1.7 variant was detected in either case, however reduced neutralization was measured against the mutations present in B.1.351. Geometric mean titer (GMT) of human sera from clinical trial participants in VSV PsVN assay using D614G spike was 1/1852. VSV pseudoviruses with spike containing K417N-E484K-N501YD614G and full B.1.351 mutations resulted in 2.7 and 6.4-fold GMT reduction, respectively, when compared to the D614G VSV pseudovirus. Importantly, the VSV PsVN GMT of these human sera to the full B.1.351 spike variant was still 1/290, with all evaluated sera able to fully neutralize. Similarly, sera from NHPs immunized with 30 or 100µg of mRNA-1273 had VSV PsVN GMTs of ~ 1/323 or 1/404, respectively, against the full B.1.351 spike variant with a ~ 5 to 10-fold reduction compared to D614G. Individual mutations that are characteristic of the B.1.1.7 and B.1.351 variants had a similar impact on neutralization when tested in VSV or in lentivirus PsVN assays. Despite the observed decreases, the GMT of VSV PsVN titers in human vaccinee sera against the B.1.351 variant remained at ~1/300. Taken together these data demonstrate reduced but still significant neutralization against the full B.1.351 variant following mRNA-1273 vaccination.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / January, 2021 - BioRxiv
+    quote !a = No significant impact on neutralization against the B.1.1.7 variant was detected in either the full set of mutations found in the B.1.1.7 variant or the N501Y and the 69-70 deletion, however reduced neutralization was measured against the mutations present in B.1.351.
+
+    / January, 2021 - BioRxiv
+    quote !b = VSV pseudoviruses with spike containing K417N-E484K-N501YD614G and full B.1.351 mutations resulted in 2.7 and 6.4-fold GMT reduction, respectively, when compared to the D614G VSV pseudovirus.
+
+    / January, 2021 - BioRxiv
+    quote !c = Despite the observed decreases, the Geometric mean titer (GMT) of VSV pseudovirus neutralization (PsVN) titers in human vaccinee sera against the B.1.351 variant remained at ~1/300. Taken together these data demonstrate reduced but still significant neutralization against the full B.1.351 variant following mRNA-1273 vaccination.
+
+    / January, 2021 - BioRxiv
+    quote !d = The VSV pseudovirus neutralization (PsVN) Geometric mean titer (GMT) of these human sera to the full B.1.351 spike variant was still 1/290, with all evaluated sera able to fully neutralize. Similarly, sera from NHPs immunized with 30 or 100µg of mRNA-1273 had VSV PsVN GMTs of ~ 1/323 or 1/404, respectively, against the full B.1.351 spike variant with a ~ 5 to 10-fold reduction compared to D614G.
+
+
+
+
+  #
+  // The ability of the neonatal immune response to handle SARS-CoV-2 infection
+  doi: https://doi.org/10.1016/S2352-4642(21)00002-X
+  ref 'Götzinger_et_al_01_21_2021
+    head = We have previously published data from a multicentre study on SARS-CoV-2 infection, involving 82 health-care institutions in 25 European countries, which included 582 children with PCR-confirmed SARS-CoV-2 infection. Prompted by the Article by Gale and colleagues reporting data from active surveillance of neonatal severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection during the first COVID-19 wave in the UK.), we did secondary data analyses that were focused on neonatal cases (aged <28 days) in our cohort (35 neonates).
+
+
+
+    - quotes
+      !a
+      !b
+
+    / January, 2021 - The Lancet Child & Adolescent Health
+    quote !a = Our data indicate that the neonatal immune system, despite its inherent immaturity is able to handle SARS-CoV-2 effectively, with most infected neonates either being asymptomatic or experiencing mild disease
+
+    / January, 2021 - The Lancet Child & Adolescent Health
+    quote !b = All 35 neonates survived, and none had evidence of COVID-19-related sequelae at discharge.
+
+
+
+  # Ask Ayush
+  // Three-quarters attack rate of SARS-CoV-2 in the Brazilian Amazon during a largely unmitigated epidemic
+  doi: https://doi.org/10.1126/science.abe9728
+  ref 'Buss_et_al_01_15_2021
+    head = We collected data from blood donors from Manaus and São Paulo, noted when transmission began to fall, and estimated the final attack rates in October 2020
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spread rapidly in Manaus, the capital of Amazonas state in northern Brazil. The attack rate there is an estimate of the final size of the largely unmitigated epidemic that occurred in Manaus. We use a convenience sample of blood donors to show that by June 2020, 1 month after the epidemic peak in Manaus, 44% of the population had detectable immunoglobulin G (IgG) antibodies. Correcting for cases without a detectable antibody response and for antibody waning, we estimate a 66% attack rate in June, rising to 76% in October. This is higher than in São Paulo, in southeastern Brazil, where the estimated attack rate in October was 29%. These results confirm that when poorly controlled, COVID-19 can infect a large proportion of the population, causing high mortality.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+
+    / January, 2021 - Science
+    quote !a = We use a convenience sample of blood donors to show that by June 2020, 1 month after the epidemic peak in Manaus, 44% of the population had detectable immunoglobulin G (IgG) antibodies.
+
+    / January, 2021 - Science
+    quote !b = Our data show that >70% of the population had been infected in Manaus about 7 months after the virus first arrived in the city.
+
+    / January, 2021 - Science
+    quote !c = Our results show that between 44% and 66% of the population of Manaus was infected with SARS-CoV-2 by July, following the epidemic peak there.
+
+    / January, 2021 - Science
+    quote !d = Correcting for cases without a detectable antibody response and for antibody waning, we estimate a 66% attack rate in June, rising to 76% in October. This is higher than in São Paulo, in southeastern Brazil, where the estimated attack rate in October was 29%. These results confirm that when poorly controlled, COVID-19 can infect a large proportion of the population, causing high mortality.
+
   @@RobertMolenaar
   // Clinical and Pathological Findings in SARS-CoV-2 Disease Outbreaks in Farmed Mink.
   doi: https://doi.org/10.1177%2F0300985820943535
@@ -82,7 +222,6 @@ feed Sangeeta
 
     / January, 2021 - BioRxiv
     quote !c = These data are supported by studies showing reduced plasma neutralization titres mediated by the E484K change alone. Importantly, here we show that the K417N change also has a crucial role in viral escape, effectively abrogating neutralization by a well-defined, multi-donor class of VH3-53/66 germline restricted public antibodies that comprise some of the most common and potent neutralizing antibodies to SARS-CoV-2.
-
 
     / January, 2021 - BioRxiv
     quote !d = A recently identified lineage in Brazil also has changes at key positions shown here to affect neutralizing antibodies (417T, 484K in RBD and 18F, 20N in NTD - the last mutation adding a glycosylation sequon). Our data suggest that this lineage is also likely to exhibit significant levels of neutralization resistance, making both lineages of considerable public health concern.
@@ -1088,7 +1227,6 @@ feed Sangeeta
       !a
       !b
       !c
-      !d
       !e
       !f
       !g
@@ -1110,8 +1248,8 @@ feed Sangeeta
     / September, 2020 - Journal of Travel Medicine
     quote !c = Flight D arrived in Hong Kong, which since April has had mandatory arrival PCR testing on Day 0 and Day 14 with quarantine in between; 27 passengers were PCR+ on Day 0 (11 September 2020, date last accessed). Two likely secondary cases (one seated in Row 40 with 5 index cases) had negative Day 0 PCR testing and were PCR+ on Day 14; pre-flight transmission shortly before the relatively short flight cannot be ruled out.
 
-    / September, 2020 - Journal of Travel Medicine
-    quote !d = Emirates airlines had extremely strict pre-flight screening, in-transit screening and masking procedures on board (meals were served) in place at the time of this flight with an enormous number of COVID-19 cases during an 8-hour flight.
+    # / September, 2020 - Journal of Travel Medicine
+    # quote !d = Emirates airlines had extremely strict pre-flight screening, in-transit screening and masking procedures on board (meals were served) in place at the time of this flight with an enormous number of COVID-19 cases during an 8-hour flight.
 
     / September, 2020 - Journal of Travel Medicine
     quote !e = Evacuation/repatriation flights: A number of these flights have carried COVID-19 cases, but no national databases or unified international registries documenting evacuation flights or their passenger loads are publicly available, and few data have been published to date. The Korean CDC (Flights E and F) managed such flights meticulously and has published well-documented data on these. The one secondary case from a clearly documented total of 6 index cases on Flight E had quarantined alone for 3 weeks prior to the flight, and her socially distanced path to the aircraft from home was managed by the Korean CDC. On-board, she and all other passengers were masked (except for meals) but she did use a specific lavatory that had been used by an index case.

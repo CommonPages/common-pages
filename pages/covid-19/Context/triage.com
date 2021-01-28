@@ -99,3 +99,19 @@ index: hide
   / Medical Mask or Surgical Mask
   model *Surgicalmask
     head = Medical masks (also called as surgical masks) are defined as surgical or procedure masks that are flat or pleated; they are affixed to the head with straps that go around the ears or head or both. Their performance characteristics are tested according to a set of standardized test methods.
+
+
+  link: https://jamanetwork.com/journals/jama/fullarticle/2775006
+  / Mutation
+  model *Mutation
+    head = Mutation refers to the actual change in sequence: D614G is an aspartic acid-to-glycine substitution at position 614 of the spike glycoprotein.
+
+  link: https://jamanetwork.com/journals/jama/fullarticle/2775006
+  / Variant
+  model *Variant
+    head = Genomes that differ in sequence are often called variants. This term is somewhat less precise because 2 variants can differ by 1 mutation or many.
+
+  link: https://jamanetwork.com/journals/jama/fullarticle/2775006
+  / Strain
+  model *Strain
+    head = A variant is a strain when it has a demonstrably different phenotype (eg, a difference in antigenicity, transmissibility, or virulence).
