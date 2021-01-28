@@ -199,7 +199,7 @@
   #   In  addition,	in	a	recent	case	report	involving	a	patient	receiving	Regeneron treatment,	escape	mutations	were	identified	on	several	positions	the	S	protein, including	positions	486	and	501 (Choi	et	al. 2020).	It	is	therefore	of	the	utmost importance	to	determine	whether	or	not	the	neutralizing	capacity	of	human sero-convalescent	sera	remains	effective	against	viral	variants	with	the  identified	substitutions.
 
 
-  
+
 
 
 
