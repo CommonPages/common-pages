@@ -72,7 +72,7 @@ feed Jan2021
     / Jan, 2021 - bioRxiv
     quote !a = A comparable neutralization activity of the vaccinated individuals sera showed against UK-variant and the heterologous strain with similar efficiency, dispel the uncertainty of possible neutralization escape.
 
-  @@CarlPearson  
+  # @@CarlPearson  
   // Estimates of severity and transmissibility of novel South Africa SARS-CoV-2 variant 501Y.V2
   doi: https://cmmid.github.io/topics/covid19/sa-novel-variant.html
   ref 'Pearson_et_al_01_11_2021

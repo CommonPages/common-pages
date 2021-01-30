@@ -27,7 +27,7 @@ index: hide
     'Freedman_et_al_09_25_2020.!a
     'Freedman_et_al_09_25_2020.!b
     'Freedman_et_al_09_25_2020.!c
-    'Freedman_et_al_09_25_2020.!d
+    # 'Freedman_et_al_09_25_2020.!d
   -
     'Murphy_et_al_10_21_2020
     'Murphy_et_al_10_21_2020.!a

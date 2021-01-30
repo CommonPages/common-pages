@@ -761,7 +761,7 @@ feed WHO
 
   # 39
   # nonsomical mitigation, caretakers, MedicalProfessionals
-  @@JohnLynch
+  # @@JohnLynch
   // Infectious Diseases Society of America Guidelines on Infection Prevention for Health Care Personnel Caring for Patients with Suspected or Known COVID-19.
   doi: https://doi.org/10.1093/cid/ciaa1063
   ref 'Lynch_et_al_06_27_2020

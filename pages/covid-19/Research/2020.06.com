@@ -535,7 +535,7 @@ feed June2020
     # quote !u = Out of the total 68 genes, nine are targeted by clinical candidates that have been evaluated in Phase I clinical trials and beyond. These could potentially form the basis of repurposing therapies, after evaluating factors such as safety and pharmacology data. A further eight targets have active chemistry in ChEMBL57, meaning they have active chemical starting points for novel drug development. We can also extend our search for repurposing candidates by looking into known gene interactions to find other more tractable targets in implicated in the same biological pathway.
 
   # genetic risk, blood group type, Italy and Spain
-  @@Franke
+  # @@Franke
   // Genomewide Association Study of Severe Covid-19 with Respiratory Failure
   doi: https://doi.org/10.1056/NEJMoa2020283
   ref 'Ellinghaus_et_al_06_17_2020
@@ -1288,8 +1288,6 @@ feed June2020
   doi: https://doi.org/10.1126/science.abd0831
   ref 'Baum_et_al_06_11_2020
     head = We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population.
-
-    To assess the efficacy of our recently described antiviral antibodies against the breadth of spike RBD variants represented in publicly available SARS-CoV-2 sequences identified through the end of March 2020 (representing more than 7000 unique genomes), we used the VSV pseudoparticle system expressing the SARS-CoV-2 spike variants
 
     > Abstract
       Antibodies targeting the spike protein of SARS-CoV-2 present a promising approach to combat the COVID19 pandemic; however, concerns remain that mutations can yield antibody resistance. We investigate the development of resistance against four antibodies to the spike protein that potently neutralize SARS-CoV-2, individually as well as when combined into cocktails. These antibodies remain effective against spike variants that have arisen in the human population. However, novel spike mutants rapidly appeared following in vitro passaging in the presence of individual antibodies, resulting in loss of neutralization; such escape also occurred with combinations of antibodies binding diverse but overlapping regions of the spike protein. Importantly, escape mutants were not generated following treatment with a non-competing antibody cocktail.

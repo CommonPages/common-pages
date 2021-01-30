@@ -4555,7 +4555,7 @@ feed May2020
     # quote !a =
 
   # Mutation, Genetic Diversity among population
-  @@NidhanBiswas
+  # @@NidhanBiswas
   // Global Spread of SARS-CoV-2 Subtype with Spike Protein Mutation D614G is Shaped by Human Genomic Variations that Regulate Expression of TMPRSS2 and MX1 Genes
   doi: https://doi.org/10.1101/2020.05.04.075911
   ref 'Bhattacharyya_et_al_2020

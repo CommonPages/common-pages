@@ -20,74 +20,74 @@ subject module Types
   >
     Immunogenicity of SARS inactivated vaccine in BALB/c mice. These findings suggest that the inactivated SARS-CoV could preserve its antigenicity and the inactivated vaccine can stimulate mice to produce high levels of antibodies with neutralization activity.
     These data indicate that there are multiple epitopes and proteins that may be targets of protective antibodies. Mice vaccinated with inactivated SARS-CoV generated antibodies to a number of proteins including S, nucleocapsid (N), M and 3CL
-  -
-    'Xiong_et_al_08_01_2004
-    'Xiong_et_al_08_01_2004.!a
-    'Xiong_et_al_08_01_2004.!b
-    'Xiong_et_al_08_01_2004.!c
-    'Xiong_et_al_08_01_2004.!d
-    'Xiong_et_al_08_01_2004.!e
-    'Xiong_et_al_08_01_2004.!f
+  # -
+  #   'Xiong_et_al_08_01_2004
+  #   'Xiong_et_al_08_01_2004.!a
+  #   'Xiong_et_al_08_01_2004.!b
+  #   'Xiong_et_al_08_01_2004.!c
+  #   'Xiong_et_al_08_01_2004.!d
+  #   'Xiong_et_al_08_01_2004.!e
+  #   'Xiong_et_al_08_01_2004.!f
 
   >
     A number of laboratories have pursued the development of inactivated whole SARS-CoV virus vaccines and demonstrated that they induce SARS-CoV neutralizing antibody
-  -
-    'He_et_al_10_28_2004
-    'He_et_al_10_28_2004.!a
-    'He_et_al_10_28_2004.!b
-    'He_et_al_10_28_2004.!c
-  -
-    'Tang_et_al_07_06_2004
-    'Tang_et_al_07_06_2004.!a
-  -
-    'Qu_et_al_08_27_2004
-    'Qu_et_al_08_27_2004.!a
-    'Qu_et_al_08_27_2004.!b
-  -
-    'Zhang_et_al_01_21_2005
-    'Zhang_et_al_01_21_2005.!a
-    'Zhang_et_al_01_21_2005.!b
-    'Zhang_et_al_01_21_2005.!c
+  # -
+  #   'He_et_al_10_28_2004
+  #   'He_et_al_10_28_2004.!a
+  #   'He_et_al_10_28_2004.!b
+  #   'He_et_al_10_28_2004.!c
+  # -
+  #   'Tang_et_al_07_06_2004
+  #   'Tang_et_al_07_06_2004.!a
+  # -
+  #   'Qu_et_al_08_27_2004
+  #   'Qu_et_al_08_27_2004.!a
+  #   'Qu_et_al_08_27_2004.!b
+  # -
+  #   'Zhang_et_al_01_21_2005
+  #   'Zhang_et_al_01_21_2005.!a
+  #   'Zhang_et_al_01_21_2005.!b
+  #   'Zhang_et_al_01_21_2005.!c
 
 
   >
     One study showed that intranasal immunization with inactivated SARS-CoV induced local and serum antibodies in mice
-  -
-    'Qu_et_al_08_27_2004
-    'Qu_et_al_08_27_2004.!a
-    'Qu_et_al_08_27_2004.!b
-    'Qu_et_al_08_27_2004.!c
-    'Qu_et_al_08_27_2004.!e
-    'Qu_et_al_08_27_2004.!d
-    'Qu_et_al_08_27_2004.!f
-    'Qu_et_al_08_27_2004.!g
-    'Qu_et_al_08_27_2004.!h
+  # -
+  #   'Qu_et_al_08_27_2004
+  #   'Qu_et_al_08_27_2004.!a
+  #   'Qu_et_al_08_27_2004.!b
+  #   'Qu_et_al_08_27_2004.!c
+  #   'Qu_et_al_08_27_2004.!e
+  #   'Qu_et_al_08_27_2004.!d
+  #   'Qu_et_al_08_27_2004.!f
+  #   'Qu_et_al_08_27_2004.!g
+  #   'Qu_et_al_08_27_2004.!h
 
   >
     Results indicate that local IgA antibodies could only be induced by combining the inactivated virus and adjuvant.
-  -
-    'Qu_et_al_08_27_2004
-    'Qu_et_al_08_27_2004.!c
-    'Qu_et_al_08_27_2004.!e
-    'Qu_et_al_08_27_2004.!d
-    'Qu_et_al_08_27_2004.!f
-    'Qu_et_al_08_27_2004.!g
-    'Qu_et_al_08_27_2004.!h
+  # -
+  #   'Qu_et_al_08_27_2004
+  #   'Qu_et_al_08_27_2004.!c
+  #   'Qu_et_al_08_27_2004.!e
+  #   'Qu_et_al_08_27_2004.!d
+  #   'Qu_et_al_08_27_2004.!f
+  #   'Qu_et_al_08_27_2004.!g
+  #   'Qu_et_al_08_27_2004.!h
 
   >
     PEG has been used for the purification of inactivated HAV vaccines, and PEG-interferon has already been used in clinical trials for treatment of viral hepatitis B and C. So far no serious ill effects have been described. We therefore used PEG precipitated SARS-CoV inactivated virus for intranasal immunization of mice.
 
 
   >
-   Intranasal immunization with inactivated viruses has not succeeded in inducing effective antibodies in other studies, while several approaches to increase the efficacy of intranasal or other mucosal immunization by inactivated viruses, inactivated bacteria or constructs containing viral or bacterial proteins have been presented
+    Intranasal immunization with inactivated viruses has not succeeded in inducing effective antibodies in other studies, while several approaches to increase the efficacy of intranasal or other mucosal immunization by inactivated viruses, inactivated bacteria or constructs containing viral or bacterial proteins have been presented
 
- # https://scholar.google.com/scholar?start=30&hl=en&as_sdt=2005&sciodt=0,5&cites=14353175282944868235&scipsc=
- # refer for papers
+  # https://scholar.google.com/scholar?start=30&hl=en&as_sdt=2005&sciodt=0,5&cites=14353175282944868235&scipsc=
+  # refer for papers
   >
     Caution should be taken in using the inactivated SARS-CoV as a vaccine since it may also cause harmful immune and/or inflammatory responses.
-  -
-    'He_et_al_10_28_2004
-    'He_et_al_10_28_2004.!d
+  # -
+  #   'He_et_al_10_28_2004
+  #   'He_et_al_10_28_2004.!d
 
 
   >

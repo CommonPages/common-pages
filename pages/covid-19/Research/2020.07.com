@@ -82,7 +82,7 @@ feed July2020
 
 
   # Antibody Response
-  @@GalitAlter
+  # @@GalitAlter
   // Distinct Early Serological Signatures Track with SARS-CoV-2 Survival
   doi: https://doi.org/10.1016/j.immuni.2020.07.020
   ref 'Atyeo_et_al_07_30_2020
@@ -965,7 +965,7 @@ feed July2020
 
 
   # Airborne Transmission
-  @@SanderHerfst
+  # @@SanderHerfst
   // SARS-CoV-2 is transmitted via contact and via the air between ferrets
   doi: https://doi.org/10.1038/s41467-020-17367-2
   ref 'Richard_et_al_07_08_2020

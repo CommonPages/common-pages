@@ -18,8 +18,9 @@ feed Sangeeta
   doi: https://doi.org/10.1101/2021.01.25.428137
   ref 'Wang_et_al_01_26_2021
     head =  We now report that B.1.1.7 is refractory to neutralization by most mAbs to the N-terminal domain (NTD) of spike and relatively resistant to a number of mAbs to the receptor-binding domain (RBD)
+
     > Abstract
-     The Covid-19 pandemic has ravaged the globe, and its causative agent, SARS-CoV2, continues to rage. Prospects of ending this pandemic rest on the development of effective interventions. Single and combination monoclonal antibody (mAb) therapeutics have received emergency use authorization1, with more in the pipeline. Furthermore, multiple vaccine constructs have shown promise, including two with ~95% protective efficacy against Covid-198,9. However, these interventions were directed toward the initial SARS-CoV-2 that emerged in 2019. Considerable viral evolution has occurred since, including variants with a D614G mutation that have become dominant. Viruses with this mutation alone do not appear to be antigenically distinct, however. Recent emergence of new SARSCoV-2 variants B.1.1.7 in the UK12 and B.1.351 in South Africa is of concern because of their purported ease of transmission and extensive mutations in the spike protein. We now report that B.1.1.7 is refractory to neutralization by most mAbs to the N-terminal domain (NTD) of spike and relatively resistant to a number of mAbs to the receptor-binding domain (RBD). It is modestly more resistant to convalescent plasma (~3 fold) and vaccinee sera (~2 fold). Findings on B.1.351 are more worrisome in that this variant is not only refractory to neutralization by most NTD mAbs but also by multiple individual mAbs to the receptor-binding motif on RBD, largely due to an E484K mutation, although some mAb combinations retain activity. Moreover, B.1.351 is markedly more resistant to neutralization by convalescent plasma (~11-33 fold) and vaccinee sera (~6.5-8.6 fold). B.1.351 and emergent variants with similar spike mutations present new challenges for mAb therapy and threaten the protective efficacy of current vaccines.
+      The Covid-19 pandemic has ravaged the globe, and its causative agent, SARS-CoV2, continues to rage. Prospects of ending this pandemic rest on the development of effective interventions. Single and combination monoclonal antibody (mAb) therapeutics have received emergency use authorization1, with more in the pipeline. Furthermore, multiple vaccine constructs have shown promise, including two with ~95% protective efficacy against Covid-198,9. However, these interventions were directed toward the initial SARS-CoV-2 that emerged in 2019. Considerable viral evolution has occurred since, including variants with a D614G mutation that have become dominant. Viruses with this mutation alone do not appear to be antigenically distinct, however. Recent emergence of new SARSCoV-2 variants B.1.1.7 in the UK12 and B.1.351 in South Africa is of concern because of their purported ease of transmission and extensive mutations in the spike protein. We now report that B.1.1.7 is refractory to neutralization by most mAbs to the N-terminal domain (NTD) of spike and relatively resistant to a number of mAbs to the receptor-binding domain (RBD). It is modestly more resistant to convalescent plasma (~3 fold) and vaccinee sera (~2 fold). Findings on B.1.351 are more worrisome in that this variant is not only refractory to neutralization by most NTD mAbs but also by multiple individual mAbs to the receptor-binding motif on RBD, largely due to an E484K mutation, although some mAb combinations retain activity. Moreover, B.1.351 is markedly more resistant to neutralization by convalescent plasma (~11-33 fold) and vaccinee sera (~6.5-8.6 fold). B.1.351 and emergent variants with similar spike mutations present new challenges for mAb therapy and threaten the protective efficacy of current vaccines.
 
     - quotes
       !a
@@ -405,7 +406,7 @@ feed Sangeeta
   #
 
   #
-  @@DirkEggink
+  # @@DirkEggink
   // Possible host-adaptation of SARS-CoV-2 due to improved ACE2 receptor binding in mink.
   doi: https://doi.org/10.1093/ve/veaa094
   ref 'Welkers_et_al_12_07_2020
@@ -1501,7 +1502,7 @@ feed Sangeeta
 
 
   #
-  @@BinaChoi
+  # @@BinaChoi
   // Persistence and Evolution of SARS-CoV-2 in an Immunocompromised Host
   doi: https://doi.org/10.1056/NEJMc2031364
   ref 'Choi_et_al_12_03_2020
@@ -2611,10 +2612,7 @@ feed Sangeeta
     quote !c = We found no evidence of immune-enhanced disease after viral challenge in vaccinated SARS-CoV-2-infected animals.
 
 
-
-
-  #
-  @@GlendaGray
+  # @@GlendaGray
   // Recombinant adenovirus type 5 HIV gag/pol/nef vaccine in South Africa: unblinded, long-term follow-up of the phase 2b HVTN 503/Phambili study
   doi: https://doi.org/10.1016/S1473-3099(14)70020-9
   ref 'Gray_et_al_02_20_2014
@@ -4049,7 +4047,7 @@ feed Sangeeta
 
 
   #
-  @@SanderHerfst
+  # @@SanderHerfst
   // SARS-CoV and SARS-CoV-2 are transmitted through the air between ferrets over more than one meter distance
   doi: https://doi.org/10.1101/2020.10.19.345363
   ref 'Kutter_et_al_10_19_2020
@@ -5448,7 +5446,7 @@ feed Sangeeta
 
 
   #
-  @@TakKong
+  # @@TakKong
   // Longer incubation period of coronavirus disease 2019 (COVID‐19) in older adults
   doi: https://doi.org/10.1002/agm2.12114
   ref 'Kong_et_al_05_22_2020
@@ -6615,7 +6613,7 @@ feed Sangeeta
 
 
   #
-  @@MonicaGandhi
+  # @@MonicaGandhi
   // Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine
   doi: https://doi.org/10.1056/NEJMp2026913
   ref 'Gandhi_et_al_09_08_2020
