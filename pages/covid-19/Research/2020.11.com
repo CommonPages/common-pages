@@ -208,6 +208,7 @@ feed November2020
 
 
   # Community Seroprevalance
+  @@SophieUyoga
   // Seroprevalence of anti–SARS-CoV-2 IgG antibodies in Kenyan blood donors
   doi: https://doi.org/10.1126/science.abe1916
   ref 'Uyoga_et_al_11_06_2020

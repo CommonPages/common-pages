@@ -5525,6 +5525,7 @@ feed Sangeeta
 
 
   # Risk factors associated with disease progression
+  @@YulongZhou
   // Risk factors associated with disease progression in a cohort of patients infected with the 2019 novel coronavirus
   doi: https://doi.org/10.21037/apm.2020.03.26
   ref 'Zhou_et_al_03_22_2020

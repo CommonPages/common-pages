@@ -1966,6 +1966,7 @@ feed Pre2019
   #  quote !a =
 
   # Diagnostic - Disease Severity
+  @@FuerLu
   // Correlation Analysis Between Disease Severity and Inflammation-related Parameters in Patients with COVID-19 Pneumonia
   doi: https://doi.org/10.1101/2020.02.25.20025643
   ref 'Gong_et_al_02_27_2020
@@ -2801,6 +2802,7 @@ feed Pre2019
 
 
   # HLA, immune response, genetics, SARS, epidemic
+  @@ChunHuang
   // Association of HLA class I with severe acute respiratory syndrome coronavirus infection
   doi: https://doi.org/10.1186/1471-2350-4-9
   ref 'Lin_et_al_2003
@@ -2850,6 +2852,7 @@ feed Pre2019
 
 
   # HLA, immune response, genetics
+  @@DanielaWeiskopf
   // HLA Class I Alleles Are Associated with Peptide-Binding Repertoires of Different Size, Affinity, and Immunogenicity
   doi: https://doi.org/10.4049/jimmunol.1302101
   ref 'Paul_et_al_2013
@@ -2886,6 +2889,7 @@ feed Pre2019
 
 
   # HLA, immune response, genetics, vaccine design, immunization, antiretroviral therapy
+  @@JeneferBlackwell
   // HLA and Infectious Diseases
   doi: https://doi.org/10.1128/CMR.00048-08
   ref 'Blackwell_et_al_2009

@@ -1492,6 +1492,7 @@ feed May2020
 
 
   # Severe Covid , !c !f severe covid - clinical recommendation tocilizumab
+  @@ShaohuaLi
   // Clinical and pathological investigation of patients with severe COVID-19
   doi: https://doi.org/10.1172/jci.insight.138070
   ref 'Li_et_al_05_19_2020b
@@ -1927,6 +1928,7 @@ feed May2020
 
 
   # DOI IS NOT WORKING, Diagnostics
+  @@JessicaWatson
   // Interpreting a covid-19 test result
   doi: https://www.bmj.com/content/369/bmj.m1808
   ref 'Watson_et_al_05_12_2020
@@ -2705,6 +2707,7 @@ feed May2020
 
 
   # seroprevalence, Geneva, HerdImmunity
+  @@SilviaStringhini
   // Repeated seroprevalence of anti-SARS-CoV-2 IgG antibodies in a population-based sample from Geneva, Switzerland
   doi: https://doi.org/10.1101/2020.05.02.20088898
   ref 'Stringhini_et_al_05_06_2020
@@ -3160,6 +3163,7 @@ feed May2020
 
 
   # Diagnostic
+  @@PeiShi
   // A high-throughput neutralizing antibody assay for COVID-19 diagnosis and vaccine evaluation
   doi: https://doi.org/10.1101/2020.05.21.109546
   ref 'Muruato_et_al_05_22_2020

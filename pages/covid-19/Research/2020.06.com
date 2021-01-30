@@ -2058,6 +2058,7 @@ feed June2020
 
 
   # seropervalence data, second wave
+  @@Kwokuen
   // Seroprevalence of SARS-CoV-2 in Hong Kong and in residents evacuated from Hubei province, China: a multicohort study
   doi: https://doi.org/10.1016/S2666-5247(20)30053-7
   ref 'Wang-To_et_al_06_03_2020

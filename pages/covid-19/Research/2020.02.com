@@ -209,6 +209,7 @@ feed February2020
 
 
   # blood viral RNA,
+  @@XiaopingTang
   // Detectable 2019-nCoV viral RNA in blood is a strong indicator for the further clinical severity
   doi: https://doi.org/10.1080/22221751.2020.1732837
   ref 'Chen_et_al_02_08_2020

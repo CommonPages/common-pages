@@ -136,6 +136,7 @@ feed March2020
     quote !e = The WHO and CDC recommendations for COVID-19 are based on estimates of range that have not considered the possible presence of a high-momentum cloud carrying the droplets long distances. Given the turbulent puff cloud dynamic model, recommendations for separations of 3 to 6 feet may underestimate the distance, timescale, and persistence over which the cloud and its pathogenic payload travel.
 
   # Antibody
+  @@JianweiWang
   // Profiling Early Humoral Response to Diagnose Novel Coronavirus Disease (COVID-19)
   doi: https://doi.org/10.1093/cid/ciaa310
   ref 'Guo_et_al_03_21_2020
@@ -924,6 +925,7 @@ feed March2020
 
 
   # Antibody Response
+  @@Nisreen
   // SARS-CoV-2 specific antibody responses in COVID-19 patients
   doi: https://doi.org/10.1101/2020.03.18.20038059
   ref 'Okba_et_al_2020
@@ -1669,6 +1671,7 @@ feed March2020
 
 
   # Diagnostics
+  @@GuorongGu
   // Lactate dehydrogenase, a Risk Factor of Severe COVID-19 Patients
   doi: https://doi.org/10.1101/2020.03.24.20040162
   ref 'Han_et_al_2020
@@ -1902,6 +1905,7 @@ feed March2020
 
 
   # Tag- Serology Testing - Antibodies
+  @@FlorianKrammer
   // A serological assay to detect SARS-CoV-2 seroconversion in humans
   doi: https://doi.org/10.1101/2020.03.17.20037713
   ref 'Amanat_et_al_2020

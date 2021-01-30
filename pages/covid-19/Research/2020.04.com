@@ -1206,6 +1206,7 @@ feed April2020
 
 
   #  IL-6 , Diagnostics for respiratory failure
+  @@TobiasHerold
   // Level of IL-6 predicts respiratory failure in hospitalized symptomatic COVID-19 patients
   doi: https://doi.org/10.1101/2020.04.01.20047381
   ref 'Herold_et_al_04_10_2020
@@ -1216,6 +1217,7 @@ feed April2020
 
 
   # Immune Response, IL-6 tocilizumab Remediation , Diagnostics for disease severity?
+  @@EricCoomes
   // Interleukin-6 in COVID-19: A Systematic Review and Meta-Analysis
   doi: https://doi.org/10.1101/2020.03.30.20048058
   ref 'Coomes_et_al_04_03_2020
@@ -1526,6 +1528,7 @@ feed April2020
 
 
   # Disease Serverity predictions # Doi not working - https://doi.org/10.1016/j.xinn.2020.04.007
+  @@YingxiaLiu
   // Predicting Illness Severity and Short-Term Outcomes of COVID-19: A Retrospective Cohort Study in China
   doi: https://www.cell.com/the-innovation/fulltext/S2666-6758(20)30007-2
   ref 'Chen_et_al_04_06_2020
@@ -1679,6 +1682,7 @@ feed April2020
 
 
   # Serological Testing
+  @@LangChen
   // Serological tests facilitate identification of asymptomatic SARS-CoV-2 infection in Wuhan, China
   doi: https://doi.org/10.1002/jmv.25904
   ref 'Wu_et_al_04_20_2020
@@ -2203,6 +2207,7 @@ feed April2020
 
 
   # Projection / Public Policy
+  @@MarcLipsitch
   // Antibody testing will enhance the power and accuracy of COVID-19-prevention trials
   doi: https://doi.org/10.1038/s41591-020-0887-3
   ref 'Lipsitch_et_al_2020
@@ -3176,6 +3181,7 @@ feed April2020
 
 
   # Serology
+  @@Thompson
   // Neutralising antibodies to SARS coronavirus 2 in Scottish blood donors - a pilot study of the value of serology to determine population exposure
   doi: https://doi.org/10.1101/2020.04.13.20060467
   ref 'Thompson_et_al_2020
@@ -3406,6 +3412,7 @@ feed April2020
 
 
   # Tag - Serological assay, testing
+  @@FlorianKrammer
   // SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup
   doi: https://doi.org/10.1002/cpmc.100
   ref 'Stadlbauer_et_al_2020
@@ -3720,6 +3727,7 @@ feed April2020
 
 
   # Tag - Treatments, Population Risk, ACE2
+  @@Somasekar
   // Human ACE2 receptor polymorphisms predict SARS-CoV-2 susceptibility
   doi: https://doi.org/10.1101/2020.04.07.024752
   ref 'Stawiski_et_al_2020
