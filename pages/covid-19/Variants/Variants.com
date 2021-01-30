@@ -466,9 +466,11 @@ subject Variants
       !Reinfection
     - Vaccine related claims
       !Phase3trialConcern
-      !Phizer
       Variants.B1351.!Vaccineefficacy
       !VaccineEffectiveness
+      !Phizer
+      Vaccines.Approved.BBV152.!UKvariant
+      Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
     - Mutation
       !Mutation
     - Potential significance of N501Y Mutation
@@ -783,6 +785,8 @@ subject Variants
       !Severity
     - Vaccine Related claims
       Variants.B117.!Phizer
+      Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
+      Vaccines.Candidates.Ad26COV2S.!SAVariant
       !Vaccineefficacy
       !Reinfection
       !Neutralizingescape

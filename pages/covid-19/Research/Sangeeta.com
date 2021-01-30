@@ -6213,7 +6213,7 @@ feed Sangeeta
 
 
   # reinfection, coronavirus, context
-  @@ArthurEdridge
+  # @@ArthurEdridge
   // Seasonal coronavirus protective immunity is short-lasting.
   doi: https://doi.org/10.1038/s41591-020-1083-1
   ref 'Edridge_et_al_09_14_2020

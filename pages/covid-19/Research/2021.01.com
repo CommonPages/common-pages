@@ -9,8 +9,71 @@ feed Jan2021
     'Pilotto_et_al_01_02_2021
 
   #
-  @@CarlPearson
-  / Estimates of severity and transmissibility of novel South Africa SARS-CoV-2 variant 501Y.V2
+
+  // Novavax COVID-19 Vaccine Demonstrates 89.3% Efficacy in UK Phase 3 Trial
+  doi: https://ir.novavax.com/news-releases/news-release-details/novavax-covid-19-vaccine-demonstrates-893-efficacy-uk-phase-3
+  ref 'Novavax_et_al_01_28_2021
+    head = Novavax announced efficacy data. The study assessed efficacy during a period with high transmission and with a new UK variant strain of the virus emerging and circulating widely. It was conducted in partnership with the UK Government’s Vaccines Taskforce. Novavax also announced successful results of its Phase 2b study conducted in South Africa.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / Jan, 2021 - Novavax
+    quote !a = The first interim analysis is based on 62 cases, of which 56 cases of COVID-19 were observed in the placebo group versus 6 cases observed in the NVX-CoV2373 group, resulting in a point estimate of vaccine efficacy of 89.3% (95% CI: 75.2 – 95.4). Of the 62 cases, 61 were mild or moderate, and 1 was severe (in placebo group).
+
+    / Jan, 2021 - Novavax
+    quote !b = Based on PCR performed on strains from 56 of the 62 cases, efficacy by strain was calculated to be 95.6% against the original COVID-19 strain and 85.6% against the UK variant strain
+
+    / Jan, 2021 - Novavax
+    quote !c = In the South Africa Phase 2b clinical trial, 60% efficacy (95% CI: 19.9 – 80.1) for the prevention of mild, moderate and severe COVID-19 disease was observed in the 94% of the study population that was HIV-negative.
+
+    / Jan, 2021 - Novavax
+    quote !d = Prior infection with COVID-19 may not completely protect against subsequent infection by the South Africa escape variant, however, vaccination with NVX-CoV2373 provided significant protection.
+
+
+
+  // Johnson & Johnson Announces Single-Shot Janssen COVID-19 Vaccine Candidate Met Primary Endpoints in Interim Analysis of its Phase 3 ENSEMBLE Trial
+  doi: https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial
+  ref 'J&J_et_al_01_29_2021
+    head = Johnson & Johnson (NYSE: JNJ) (the Company) announced topline efficacy and safety data from the Phase 3 ENSEMBLE clinical trial, demonstrating that the investigational single-dose COVID-19 vaccine in development at its Janssen Pharmaceutical Companies met all primary and key secondary endpoints. The topline safety and efficacy data are based on 43,783 participants accruing 468 symptomatic cases of COVID-19.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / Jan, 2020 - J & J
+    quote !a = Vaccine Candidate 72% Effective in the US and 66% Effective Overall at Preventing Moderate to Severe COVID-19, 28 Days after Vaccination
+
+    / Jan, 2020 - J & J
+    quote !b = 85% Effective Overall in Preventing Severe Disease and Demonstrated Complete Protection Against COVID-19 related Hospitalization and Death as of Day 28
+
+    / Jan, 2020 - J & J
+    quote !c = Protection Against Severe Disease Across Geographies, Ages, and Multiple Virus Variants, including the SARS-CoV-2 Variant from the B.1.351 Lineage Observed in South Africa
+
+
+
+
+
+  // Neutralization of UK-variant VUI-202012/01 with COVAXIN vaccinated human serum
+  doi: https://doi.org/10.1101/2021.01.26.426986
+  ref 'Sapkal_et_al_01_27_2021
+    head = We performed the plaque reduction neutralization test (PRNT50) using sera collected from the recipients of BBV152/COVAXIN™ against hCoV-19/India/20203522 (UK-variant) and hCoV27 19/India/2020Q111 (heterologous strain).
+
+    > Abstract
+      We performed the plaque reduction neutralization test (PRNT50) using sera collected from the recipients of BBV152/COVAXIN™ against hCoV-19/India/20203522 (UK-variant) and hCoV27 19/India/2020Q111 (heterologous strain). A comparable neutralization activity of the vaccinated individuals sera showed against UK-variant and the heterologous strain with similar efficiency, dispel the uncertainty of possible neutralization escape.
+
+    - quotes
+      !a
+
+    / Jan, 2021 - bioRxiv
+    quote !a = A comparable neutralization activity of the vaccinated individuals sera showed against UK-variant and the heterologous strain with similar efficiency, dispel the uncertainty of possible neutralization escape.
+
+  @@CarlPearson  
+  // Estimates of severity and transmissibility of novel South Africa SARS-CoV-2 variant 501Y.V2
   doi: https://cmmid.github.io/topics/covid19/sa-novel-variant.html
   ref 'Pearson_et_al_01_11_2021
     head = We used the early South African epidemic (reported cases pre-May) to estimate the average real-time reproduction number, Rt before and after the initial national response. This established baseline population transmissibility (from pre-intervention growth) as well as model contact and transmission reductions consistent with observed pandemic growth under control efforts (post-intervention).

@@ -768,11 +768,14 @@ subject module Vaccines
         !AnimalStudies
         !Phase1
         !Phase2
+      - UK Variant
+        !UKvariant
       -
         !Intranasaltrial
       - See Also
         Ad5-nCOV.!IntranasalDelivery
         !IntranasalAnimal
+
 
 
       / Clinical trials
@@ -824,6 +827,11 @@ subject module Vaccines
           'Bricker_et_al_12_03_2020.!b
           'Bricker_et_al_12_03_2020.!c
 
+      claim !UKvariant = In Jan of 2020, Covaxin reported that a comparable neutralization activity of the vaccinated individuals sera showed against UK-variant and the heterologous strain with similar efficiency, dispel the uncertainty of possible neutralization escape.
+        -
+          'Sapkal_et_al_01_27_2021
+          'Sapkal_et_al_01_27_2021.!a
+
 
   / Candidate Vaccines
   subject Candidates
@@ -859,6 +867,9 @@ subject module Vaccines
         !AnimalStudies
         !Phase12
         !InterimResults
+        !Phase3
+      - SA Variant
+        !SAVariant
 
       / On-going  Trials
       claim !OngoingTrials = Clinical Trials for Ad26.COV2.S started in June of 2020. Trials will evaluate Immunogenicity, Efficacy and Safety of Ad26.COV2.S vaccine. Estimated completion date for phase 3 trials is estimated to be March 2023.
@@ -892,6 +903,17 @@ subject module Vaccines
           'Sadoff_et_al_01_13_2021.!c
           'Sadoff_et_al_01_13_2021.!d
 
+      claim !Phase3 = In Jan of 2021, J & J announced interim efficacy data of phase 3 trials. Vaccine Candidate 72% effective in the US and 66% effective overall at preventing moderate to severe COVID-19, 28 Days after vaccination. Vaccine is also 85% effective overall in preventing severe disease and demonstrated complete protection against COVID-19 related hospitalization and death as of day 28.
+        -
+          'J&J_et_al_01_29_2021
+          'J&J_et_al_01_29_2021.!a
+          'J&J_et_al_01_29_2021.!b
+
+      claim !SAVariant = J & J reported that protection against severe disease across geographies, ages, and multiple virus variants, including the SARS-CoV-2 variant from the B.1.351 Lineage was also observed in South Africa
+        -
+          'J&J_et_al_01_29_2021
+          'J&J_et_al_01_29_2021.!c
+
     / Novavax
     subject NVX-CoV2373
       head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum. Novavax Phase 3 trials are currently ongoing in UK, US and Mexico.
@@ -921,6 +943,10 @@ subject module Vaccines
       -
         !Ongoing
         !Phase12JNovavax
+        !Phase3
+      - UK and SA Variant
+        !UKandSAvariant  
+
 
       / On-going trials
       claim !Ongoing = Clinical trials for Novavax started since May of 2020. Phase 3 trials started in September of 2020 in UK and another phase 3 trial participating 30,000 people in US & Mexico started in December of 2020. Trials will evaluate Safety, Tolerability, Immunogenicity, and Efficacy of NVX-CoV2373 Against COVID-19.
@@ -937,6 +963,18 @@ subject module Vaccines
           'Keech_et_al_09_02_2020.!b
           'Keech_et_al_09_02_2020.!c
           'Keech_et_al_09_02_2020.!d
+
+      claim !Phase3 = In Jan of 2020, Novavax announced that NVX-CoV2373, met the primary endpoint, with a vaccine efficacy of 89.3%, in its Phase 3 clinical trial conducted in the United Kingdom (UK).
+        -
+          'Novavax_et_al_01_28_2021
+          'Novavax_et_al_01_28_2021.!a
+
+      claim !UKandSAvariant = In Jan of 2020, Novavax reported that NVX-CoV2373 demonstrate clinical efficacy against both UK and SA variant. Novavax also reported that prior infection with COVID-19 may not completely protect against subsequent infection by the South Africa escape variant, however, vaccination with NVX-CoV2373 provided significant protection.
+        -
+          'Novavax_et_al_01_28_2021
+          'Novavax_et_al_01_28_2021.!b
+          'Novavax_et_al_01_28_2021.!c
+          'Novavax_et_al_01_28_2021.!d
 
   —
   / Vaccine Cohorts and Considerations
