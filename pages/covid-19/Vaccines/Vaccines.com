@@ -6,6 +6,7 @@ subject module Vaccines
     Approved
     Candidates
     Effects
+    Variants
 
   - Questions
     ?AsymptomaticInfection
@@ -945,7 +946,7 @@ subject module Vaccines
         !Phase12JNovavax
         !Phase3
       - UK and SA Variant
-        !UKandSAvariant  
+        !UKandSAvariant
 
 
       / On-going trials
@@ -975,6 +976,47 @@ subject module Vaccines
           'Novavax_et_al_01_28_2021.!b
           'Novavax_et_al_01_28_2021.!c
           'Novavax_et_al_01_28_2021.!d
+
+  / Effectiveness against Variants
+  subject Variants
+    head =
+
+    - UK
+      Variants.B117.!Phase3trialConcern
+      Variants.B1351.!Vaccineefficacy
+      Variants.B117.!VaccineEffectiveness
+    - Phizer
+      Variants.B117.!Phizer
+    - Covaxin
+      Approved.BBV152.!UKvariant
+    - Novavax
+      Candidates.NVX-CoV2373.!UKandSAvariant
+
+    - SA
+      Variants.B1351.!Vaccineefficacy
+      Variants.B1351.!Reinfection
+      Variants.B1351.!Neutralizingescape
+    - Phizer
+      Variants.B117.!Phizer
+    - Novavax
+      Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
+    - Johnson & Johnson
+      Vaccines.Candidates.Ad26COV2S.!SAVariant
+
+
+    # MODERNA EFFICACY AGAINST VARIANTS
+    >
+      One study demonstrate reduced but still significant neutralization against the full B.1.351 variant following mRNA-1273 vaccination.
+
+      Now, researchers from Moderna and the Vaccine Research Center at the U.S. National Institutes of Health have tested the potency of antibodies from eight people who had received the company’s vaccine against a retrovirus modified to express the mutated spike proteins of B.1.351 and B.1.1.7. In a preprint, they report that antibodies neutralized the virus in both cases. But for B.1.351, the levels needed were six times higher than for virus expressing the original protein.
+    -
+      'Wu_et_al_01_25_2021
+      'Wu_et_al_01_25_2021.!c
+      'Wu_et_al_01_25_2021.!a
+      'Wu_et_al_01_25_2021.!b
+
+
+
 
   —
   / Vaccine Cohorts and Considerations

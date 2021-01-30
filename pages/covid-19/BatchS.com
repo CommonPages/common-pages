@@ -1,5 +1,5 @@
 . BatchS
-  
+
 
   ############################################################################################
   # Everything below in this section is not updated claims.
@@ -101,17 +101,7 @@
   >
     Vaccines such as the Oxford/Astra Zeneca ChAdOx1 and the Pfizer-BioNTech BNT162b2 [24] elicit neutralization titers in a similar range to the convalescent plasma in this study. However, these vaccines may elicit a broader antibody response and protective T cell immunity. Protective T cell immunity also likely occurs following natural infection. Further more, it is unclear what degree of neutralization mediates protection, and infection may be particularly sensitive to inhibition at exposure.
 
-  # MODERNA EFFICACY AGAINST VARIANTS
-  >
-    One study demonstrate reduced but still significant neutralization against the full B.1.351 variant following mRNA-1273 vaccination.
-
-    Now, researchers from Moderna and the Vaccine Research Center at the U.S. National Institutes of Health have tested the potency of antibodies from eight people who had received the company’s vaccine against a retrovirus modified to express the mutated spike proteins of B.1.351 and B.1.1.7. In a preprint, they report that antibodies neutralized the virus in both cases. But for B.1.351, the levels needed were six times higher than for virus expressing the original protein.
-  -
-    'Wu_et_al_01_25_2021
-    'Wu_et_al_01_25_2021.!c
-    'Wu_et_al_01_25_2021.!a
-    'Wu_et_al_01_25_2021.!b
-
+  
 
 
   >
