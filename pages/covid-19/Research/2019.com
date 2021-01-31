@@ -190,6 +190,7 @@ feed 2019
 
 
   # check the journal name? , not from wuhan, other transmission routes, interspecies transmission,
+  @@YaoHuang
   // Broad Cross-Species Infection of Cultured Cells by Bat HKU2-Related Swine Acute Diarrhea Syndrome Coronavirus and Identification of Its Replication in Murine Dendritic Cells In Vivo Highlight Its Potential for Diverse Interspecies Transmission
   doi: https://doi.org/10.1128/JVI.01448-19
   ref 'Yang_et_al_11_26_2019
@@ -340,6 +341,7 @@ feed 2019
 
 
   # background
+  @@PatrickWoo
   // Molecular epidemiology, evolution and phylogeny of SARS coronavirus
   doi: https://doi.org/10.1016/j.meegid.2019.03.001
   ref 'Luk_et_al_2019
@@ -522,6 +524,7 @@ feed 2019
 
 
   # Background
+  @@HoussamShaib
   // Middle East Respiratory Syndrome Coronavirus: A Review
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6446491/
   ref 'Ramadan_et_al_2019
@@ -614,6 +617,7 @@ feed 2019
 
 
   #  Background
+  @@SusannaLau
   // Global Epidemiology of Bat Coronaviruses
   doi: https://doi.org/10.3390/v11020174
   ref 'Wong_et_al_2019

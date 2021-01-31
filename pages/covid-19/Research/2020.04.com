@@ -641,6 +641,7 @@ feed April2020
     quote !a =
 
   # Host range, bats, origin
+  @@HannahFrank
   // Exceptional diversity and selection pressure on SARS-CoV and SARS-CoV-2 host receptor in bats compared to other mammals
   doi: https://doi.org/10.1101/2020.04.20.051656
   ref 'Frank_et_al_04_20_2020

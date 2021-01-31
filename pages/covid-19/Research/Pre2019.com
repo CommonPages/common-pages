@@ -1078,6 +1078,7 @@ feed Pre2019
     quote !b = Although the number of surfaces contaminated outside of the areas associated with patients with SARS was low, we did detect virus in the public elevator.
 
   # check the date, origin background, Sampling in recent years has identified an impressive array of bat coronaviruses, including RaTG13 and RmYN02
+  @@WeiZhang
   // Isolation and Characterization of a Novel Bat Coronavirus Closely Related to the Direct Progenitor of Severe Acute Respiratory Syndrome Coronavirus
   doi: https://doi.org/10.1128/JVI.02582-15
   ref 'Yang_et_al_12_30_2015
@@ -1141,6 +1142,7 @@ feed Pre2019
     quote !m = Considering everything together, we predict that there are diverse SL-CoVs to be discovered in bats. Continued surveillance of this group of viruses in bats will be necessary and important not only for a better understanding of the spillover mechanism but also for more effective risk assessment and prevention of future SARS-like disease outbreaks.
 
   # source of sars-cov2 and novel pathogens, The Zoonotic Origins of SARS-CoV-2, recombination event
+  @@JieCui
   // Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus.
   doi: https://doi.org/10.1371/journal.ppat.1006698
   ref 'Hu_et_al_11_30_2017
@@ -1254,6 +1256,7 @@ feed Pre2019
 
 
   # Phylogenetic analysis, SARS
+  @@Hatzakis
   // Phylogenetic analysis of the full-length SARS-CoV sequences: evidence for phylogenetic discordance in three genomic regions.
   doi: https://doi.org/10.1002/jmv.20187
   ref 'Magiorkinis_et_al_09_14_2004
@@ -1285,6 +1288,7 @@ feed Pre2019
 
 
   # transmission through diff routes possible looking at Nipah virus example, interspecies transmission,
+  @@StephenLuby
   // Transmission of Human Infection with Nipah Virus.
   doi: https://doi.org/10.1086/647951
   ref 'Luby_et_al_12_01_2009
@@ -4048,6 +4052,7 @@ feed Pre2019
 
 
   # Background
+  @@AdriaBaucells
   // When bats go viral: negative framings in virological research imperil bat conservation
   doi: https://doi.org/10.1111/mam.12110
   ref 'Baucells_et_al_2017
@@ -4211,6 +4216,7 @@ feed Pre2019
 
 
   # Origin- Bats
+  @@ZhengliShi
   // Bats Are Natural Reservoirs of SARS-Like Coronaviruses
   doi: http://doi.org/10.1126/science.1118391
   ref 'Li_et_al_2005
@@ -4394,6 +4400,7 @@ feed Pre2019
 
 
   # Tag - Origin, SARS
+  @@ZhengliShi
   // Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry
   doi: https://doi.org/10.1007/s00705-010-0729-6
   ref 'Hou_et_al_2010
@@ -5314,6 +5321,7 @@ feed Pre2019
     quote !d = Another issue is the role of RIG-I helicase activity in the recognition of viral RNAs. Although several reports have shown that RIG-I protein can unwind short dsRNA, it is apparent that this “helicase” activity is not required for the recognition of 5′ triphosphate ssRNA. Given that the RIG-I helicase domain catalyzes ATP, it is assumed that the helicase domain is critical for the conformational change required to expose the CARDs and trigger intracellular signaling.
 
   # Background
+  @@Rafael
   // Adaptive Value of High Mutation Rates of RNA Viruses: Separating Causes from Consequences
   doi: https://doi.org/10.1128/JVI.79.18.11555-11558.2005
   ref 'Elena_et_al_2005
@@ -5324,6 +5332,7 @@ feed Pre2019
     # quote !a =
 
   # Background
+  @@SiobainDuffy
   // Why are RNA virus mutation rates so damn high?
   doi: https://doi.org/10.1371/journal.pbio.3000003
   ref 'Duffy_et_al_2018
@@ -5340,6 +5349,7 @@ feed Pre2019
     quote !b = Researchers and clinicians can increase RNA virus mutation rates using nucleoside analogues, and a 3–5-fold increase in mutation rate causes lethal mutagenesis in human-infecting viruses like poliovirus and influenza. The exogenous mutagen causes enough additional mutations, which are often deleterious, so that the progeny RNA viruses are of lower fitness, eventually leading to ecological collapse of the population.
 
   # Background
+  @@Rafael
   // Viral Mutation Rates
   doi: https://doi.org/10.1128/JVI.00694-10
   ref 'Sanjuán_et_al_2010
@@ -5352,6 +5362,7 @@ feed Pre2019
     quote !a = One Possibility to address mutation rate is to use drug dependence, a form of drug resistance in which the ability to grow in the absence of the drug is lost. These mutants can be identified by isolating drug-resistant mutants and assaying them for growth in the absence of the drug.
 
   # Background
+  @@Rafael
   // Mechanisms of viral mutation
   doi: https://doi.org/10.1007/s00018-016-2299-6
   ref 'Sanjuán_et_al_2016
@@ -5408,6 +5419,7 @@ feed Pre2019
 
 
   # Background
+  @@YueZhang
   // Genetic drift of human coronavirus OC43 spike gene during adaptive evolution
   doi: https://doi.org/10.1038/srep11451
   ref 'Ren_et_al_2015
@@ -5603,6 +5615,7 @@ feed Pre2019
     quote !e = As more bat reagents become available in the future, it should be possible to elucidate the mechanisms that bats have evolved to coexist with viruses in the absence of disease and this information could be useful for preventing or treating lethal viral infections in humans.
 
   # Background
+  @@RalphBaric
   // Recombination, Reservoirs, and the Modular Spike: Mechanisms of Coronavirus Cross-Species Transmission
   doi: https://doi.org/10.1128/JVI.01394-09
   ref 'Graham_et_al_2010
@@ -5619,6 +5632,7 @@ feed Pre2019
     quote !b = The routine nature of viral cross-species transmission in the coronavirus family brings up the question of the likelihood of another emergence event of a pathogenic human coronavirus and underscores the need to continue zoonotic surveillance and research centered around developing therapeutics and vaccines capable of neutralizing or preventing infection with and spread of these promiscuous viruses.
 
   # Background
+  @@EdwardHolmes
   // Viral evolution and the emergence of SARS coronavirus.
   doi: https://doi.org/10.1098/rstb.2004.1478
   ref 'Holmes_et_al_2004
@@ -5634,6 +5648,7 @@ feed Pre2019
     quote !a = The central processes in the evolution of emerging viruses are unclear, particularly the selection pressures faced by viruses in new host species.
 
   # Background
+  @@JieCui
   // Origin and evolution of pathogenic coronaviruses.
   doi: https://doi.org/10.1038/s41579-018-0118-9
   ref 'Cui_et_al_2018
@@ -5675,6 +5690,7 @@ feed Pre2019
     # https://en.wikipedia.org/wiki/One_Health
 
   # Origin
+  @@Yong
   // Extensive diversity of coronaviruses in bats from China
   doi: https://doi.org/10.1016/j.virol.2017.03.019
   ref 'Lin_et_al_2017
@@ -5690,6 +5706,7 @@ feed Pre2019
     quote !a = High contact rates among specific bat species enable the acquisition and spread of coronaviruses.
 
   # Origin
+  @@ZhihongHu
   // A review of studies on animal reservoirs of the SARS coronavirus.
   doi: https://doi.org/10.1016/j.virusres.2007.03.012
   ref 'Shi_et_al_2008
@@ -5713,6 +5730,7 @@ feed Pre2019
     quote !c = Even though there was little direct evidence to indicate that viruses in bats can cause the severe disease in other domestic animals and in humans, there is an increased possibility of virus variants crossing the species barrier and causing outbreaks in humans as people come into closer contact with wild animals.
 
   # Background
+  @@ChristianDrosten
   // Hosts and Sources of Endemic Human Coronaviruses
   doi: https://doi.org/10.1016/bs.aivir.2018.01.001
   ref 'Corman_et_al_2018
@@ -5728,6 +5746,7 @@ feed Pre2019
     quote !a = The four endemic human coronaviruses HCoV-229E, -NL63, -OC43, and -HKU1 contribute a considerable share of upper and lower respiratory tract infections in adults and children.
 
   # Background
+  @@LeoPoon
   // A Case for the Ancient Origin of Coronaviruses
   doi: https://doi.org/10.1128/JVI.03273-12
   ref 'Wertheim_et_al_2013
