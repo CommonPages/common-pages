@@ -754,7 +754,7 @@ feed Sangeeta
     quote !a =
 
   #
-  @@TommyLam
+  # @@TommyLam
   // Early transmissibility assessment of the N501Y mutant strains of SARS-CoV-2 in the United Kingdom, October to November 2020.
   doi: https://doi.org/10.2807/1560-7917.ES.2020.26.1.2002106
   ref 'Leung_et_al_12_28_2020
@@ -5895,7 +5895,7 @@ feed Sangeeta
 
 
   #
-  @@Tangfeng
+  # @@Tangfeng
   // Prolonged SARS‐CoV‐2 RNA shedding: Not a rare phenomenon
   doi: https://doi.org/10.1002/jmv.25952
   ref 'Li_et_al_04_29_2020
@@ -6035,7 +6035,7 @@ feed Sangeeta
 
 
   # Universal Masking, HCW
-  @@JohnBrooks
+  # @@JohnBrooks
   // Universal Masking to Prevent SARS-CoV-2 Transmission—The Time Is Now
   doi: https://doi.org/10.1001/jama.2020.13107
   ref 'Brooks_et_al_07_14_2020
@@ -8915,7 +8915,7 @@ feed Sangeeta
 
 
   # public places, IndoorTransmission, OutdoorTransmission
-  @@YukiFuruse
+  # @@YukiFuruse
   // Clusters of Coronavirus Disease in Communities, Japan, January–April 2020
   doi: https://doi.org/10.3201/eid2609.202272
   ref 'Furuse_et_al_06_10_2020

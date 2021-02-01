@@ -47,7 +47,7 @@ feed November2020
     quote !b = An S-protein mutation, D614G, that appears to promote SARS-CoV-2 transmission in humans also enhances functional S-protein incorporation into SARS-CoV-2 VLP and retroviral PV and increases PV infectivity.
 
   #
-  @@ArseniyPalagin
+  # @@ArseniyPalagin
   // The First interim data analysis of the Sputnik V vaccine against Covid-19 Phase 3 clinical trials in the russian federation demonstrated 92% efficacy.
   doi: https://sputnikvaccine.com/newsroom/pressreleases/the-first-interim-data-analysis-of-the-sputnik-v-vaccine-against-covid-19-phase-iii-clinical-trials-/
   ref 'SputnikV_et_al_11_11_2020
@@ -72,7 +72,7 @@ feed November2020
     quote !d = The uniqueness of the Russian vaccine is in using two different human adenoviral vectors that enable to provide strong and long-term immune response after the second injection.
 
   #
-  @@SmritiMallapaty
+  # @@SmritiMallapaty
   // COVID mink analysis shows mutations are not dangerous — yet
   doi: https://doi.org/10.1038/d41586-020-03218-z
   ref 'Mallapaty_et_al_11_16_2020

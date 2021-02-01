@@ -1965,7 +1965,7 @@ feed April2020
 
 
   # PCR testing, recurrent viral activity, D-dimer level, Reinfection
-  @@YanchaoPan
+  # @@YanchaoPan
   // PCR Assays Turned Positive in 25 Discharged COVID-19 Patients
   doi: https://doi.org/10.1093/cid/ciaa398
   ref 'Yuan_et_al_2020
@@ -3919,7 +3919,7 @@ feed April2020
     #  / April, 2020 - medRxiv
     # quote !a =
 
-  @@JuliiBrainard
+  # @@JuliiBrainard
   // Facemasks and similar barriers to prevent respiratory illness such as COVID-19: A rapid systematic review
   doi: https://doi.org/10.1101/2020.04.01.20049528
   ref 'Brainard_et_al_04_06_2020

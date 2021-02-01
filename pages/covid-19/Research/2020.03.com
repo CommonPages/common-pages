@@ -925,7 +925,7 @@ feed March2020
 
 
   # Antibody Response
-  @@Nisreen
+  # @@Nisreen
   // SARS-CoV-2 specific antibody responses in COVID-19 patients
   doi: https://doi.org/10.1101/2020.03.18.20038059
   ref 'Okba_et_al_2020
@@ -2492,7 +2492,7 @@ feed March2020
     quote !a = The panning using SARS-CoV-2 RBD and S1 as antigens resulted in the identification of antibodies targeting five types of neutralizing or non-neutralizing epitopes on SARS-CoV-2 RBD. The antibody n3130 was found to potently neutralize both pseudotyped and live virus. These antibodies may serve as reagents to facilitate the vaccine development.
 
   # Serology, antibodies
-  @@JieZhou
+  # @@JieZhou
   // Global profiling of SARS-CoV-2 specific IgG/IgM responses of convalescents using a proteome microarray
   doi: https://doi.org/10.1101/2020.03.20.20039495
   ref 'Jiang_et_al_2020
@@ -2743,7 +2743,7 @@ feed March2020
 
 
   # Epidemic , Transmission
-  @@JustinLessler
+  # @@JustinLessler
   // Epidemiology and Transmission of COVID-19 in Shenzhen China: Analysis of 391 cases and 1,286 of their close contacts
   doi: https://doi.org/10.1101/2020.03.03.20028423
   ref 'Bi_et_al_2020

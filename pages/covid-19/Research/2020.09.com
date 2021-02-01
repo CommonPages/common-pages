@@ -178,7 +178,8 @@ feed September2020
 
     / February, 2020 - bioRxiv
     quote !a =
-  @@OttoYang
+    
+  # @@OttoYang
   // Rapid Decay of Anti–SARS-CoV-2 Antibodies in Persons with Mild Covid-19
   doi: https://doi.org/10.1056/NEJMc2025179
   ref 'Ibarrondo_et_al_09_10_2020

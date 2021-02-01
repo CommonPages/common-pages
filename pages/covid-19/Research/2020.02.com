@@ -376,7 +376,7 @@ feed February2020
 
 
   # PCR testing, Relapse, nosocomial
-  @@HaiboXu
+  # @@HaiboXu
   // Positive RT-PCR Test Results in Patients Recovered From COVID-19
   doi: https://doi.org/10.1001/jama.2020.2783
   ref 'Lan_et_al_2020

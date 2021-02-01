@@ -2593,8 +2593,8 @@ feed May2020
     quote !g = An estimated 8.9% of infections in NYS were diagnosed as of April 9th 2020. Males had higher diagnosis levels than females. Those ≥55 years were most likely to be diagnosed.
 
 
-  # DNA vaccine
-  @@DanBarouch
+  # # DNA vaccine
+  # @@DanBarouch
   // SARS-CoV-2 infection protects against rechallenge in rhesus macaques
   doi: https://doi.org/10.1126/science.abc4776
   ref 'Chandrashekar_et_al_05_20_2020

@@ -2123,7 +2123,7 @@ feed June2020
 
 
   # Diagnostics
-  @@RalphWeissleder
+  # @@RalphWeissleder
   // COVID-19 diagnostics in context
   doi: https://doi.org/10.1126/scitranslmed.abc1931
   ref 'Weissleder_et_al_06_03_2020

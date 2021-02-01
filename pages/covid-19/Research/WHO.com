@@ -435,7 +435,7 @@ feed WHO
 
 
   # 22
-  @@JustinLessler
+  # @@JustinLessler
   //  The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application.
   doi: https://doi.org/10.7326/M20-0504
   ref 'Lauer_et_al_05_05_2020
