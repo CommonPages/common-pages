@@ -14,8 +14,10 @@ subject module Transmission
     Sources
     Routes
     Risks
+    Airline
     Climate
     Dynamics
+
 
   path Context
     step
@@ -763,3 +765,117 @@ subject module Transmission
       - Heavy breathing, close proximity
         'Furuse_et_al_06_10_2020
         'Furuse_et_al_06_10_2020.!c
+
+  / Inflight Transmission
+  subject Airline
+    head =
+
+    - Reports
+      !InflightTransmission
+      !NoTransmission
+
+    - Risk
+      !CloseProximity
+      !NoMask
+      !Mask
+
+    - SARS
+      !SARS
+    - Other Claims
+      !HEPAfilters
+
+    -
+      Airways
+
+    claim !HEPAfilters = One study has emphasized on importance of efficacy of HEPA filters for airborne contaminant in airliner cabins.
+      -
+        'Mazumdar_et_al_05_29_2008
+        'Mazumdar_et_al_05_29_2008.!a
+
+    claim !SARS = Low incidence of inflight tranmission was observed in SARS. The risk of in‐flight transmission of SARS appears to be far lower than that reported for influenza, but may be increased with superspreaders on board
+      -
+        'Wilder-Smith_et_al_10_22_2003
+        'Wilder-Smith_et_al_10_22_2003.!a
+        'Wilder-Smith_et_al_10_22_2003.!b
+
+
+    # INFLIGHT TRANSMISSION
+    claim !InflightTransmission = A small number of published reports provides evidence of flight-associated SARS-CoV-2 transmission despite implementation of non-pharmaceutical interventions.
+      -
+        'Swadi_et_al_01_05_2021
+        'Swadi_et_al_01_05_2021.!a
+        'Swadi_et_al_01_05_2021.!b
+        'Swadi_et_al_01_05_2021.!c
+        'Swadi_et_al_01_05_2021.!d
+      -
+        'Freedman_et_al_09_25_2020
+        'Freedman_et_al_09_25_2020.!a
+        'Freedman_et_al_09_25_2020.!b
+        'Freedman_et_al_09_25_2020.!c
+        # 'Freedman_et_al_09_25_2020.!d
+      -
+        'Murphy_et_al_10_21_2020
+        'Murphy_et_al_10_21_2020.!a
+        'Murphy_et_al_10_21_2020.!b
+        'Murphy_et_al_10_21_2020.!c
+      -
+        'Choi_et_al_09_18_2020
+        'Choi_et_al_09_18_2020.!a
+      -
+        'Speake_et_al_2020
+        'Speake_et_al_2020.!a
+        'Speake_et_al_2020.!b
+        'Speake_et_al_2020.!c
+
+    claim !NoTransmission = While some reports states that in-flight transmission is not inevitable even with large numbers of infected persons aboard.
+      -
+        'Freedman_et_al_09_25_2020
+        'Freedman_et_al_09_25_2020.!i
+        'Freedman_et_al_09_25_2020.!j
+        'Freedman_et_al_09_25_2020.!f
+
+    # Link Close Proximity (Risk)
+    claim !CloseProximity = Some documented reports support the concept of proximity to a SARS-CoV-2 infected person as a key factor in in-flight transmission.
+      -
+        'Freedman_et_al_09_25_2020
+        'Freedman_et_al_09_25_2020.!n
+
+    claim !NoMask = Authors of outbreak review stated that on flights with mass transmission events, masking was not mandated in any way and, was rarely practiced.
+      -
+        'Freedman_et_al_09_25_2020
+        'Freedman_et_al_09_25_2020.!o
+
+    claim !Mask = While on flights with rigid masking policies, no transmission was found from PCR+ index cases aboard.
+      -
+        'Freedman_et_al_09_25_2020
+        'Freedman_et_al_09_25_2020.!p
+        'Freedman_et_al_09_25_2020.!f
+
+
+    subject Airways
+      -
+        'Lei_et_al_01_06_2020
+        'Moser_et_al_1979
+        'Olsen_et_al_2003
+        'Colizza_et_al_2006
+        'Olsen_et_al_12_18_2003
+        'Kenyon_et_al_04_11_1996
+        'Hickman_et_al_03_22_1995
+        'Yang_et_al_03_30_2020
+      - Latest papers on flight
+        'Olsen_et_al_12_18_2003
+        'Kenyon_et_al_04_11_1996
+        'Moser_et_al_1979
+        'Hickman_et_al_03_22_1995
+        'Zheng_et_al_03_14_2020
+        'Zhao_et_al_01_30_2020
+        'Liu_et_al_03_12_2020
+        'Qian_et_al_03_17_2020
+        'Yang_et_al_03_30_2020
+        'Chen_et_al_07_30_2020
+        'Lei_et_al_12_15_2017
+      - Latest papers on airplane
+        'Furuse_et_al_06_10_2020
+        'Kenyon_et_al_04_11_1996
+        'Moser_et_al_1979
+        'Liu_et_al_03_12_2020

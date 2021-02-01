@@ -1,6 +1,6 @@
 / Mutations and Variants
 subject Variants
-  head = Multiple strains of SARS-CoV-2 were identified as early as March of 2020, though their functional differences were not clear. As of December of 2020, several new strains have emerged. There is no evidence that any are more lethal, but a number are likely more transmissible. The effectiveness of vaccines against these new strains is not yet clear.
+  head = Multiple strains of SARS-CoV-2 were identified as early as March of 2020, though their functional differences were not clear. Many of variants that have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations that are of interest to scientists. There is no evidence that any are more lethal, but a number are likely more transmissible. The effectiveness of vaccines against these new strains is not yet clear.
 
   -
     D614

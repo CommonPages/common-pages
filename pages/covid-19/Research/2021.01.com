@@ -10,6 +10,21 @@ feed Jan2021
 
   #
 
+
+  // Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K, and N501Y variants by BNT162b2 vaccine-elicited sera
+  doi: https://doi.org/10.1101/2021.01.27.427998
+  ref 'Xie_et_al_01_27_2021
+    head = We engineered three SARS-CoV-2 viruses containing key spike mutations from the newly emerged United Kingdom (UK) and South African (SA) variants: N501Y from UK and SA; 69/70-deletion+N501Y+D614G from UK; and E484K+N501Y+D614G from SA.
+
+    > Abstract
+      We engineered three SARS-CoV-2 viruses containing key spike mutations from the newly emerged United Kingdom (UK) and South African (SA) variants: N501Y from UK and SA; 69/70-deletion+N501Y+D614G from UK; and E484K+N501Y+D614G from SA. Neutralization geometric mean titers (GMTs) of twenty BTN162b2 vaccine-elicited human sera against the three mutant viruses were 0.81- to 1.46-fold of the GMTs against parental virus, indicating small effects of these mutations on neutralization by sera elicited by two BNT162b2 doses.
+
+    - quotes
+      !a
+
+    / Jan, 2021 - bioRxiv
+    quote !a = Neutralization geometric mean titers (GMTs) of twenty BTN162b2 vaccine-elicited human sera against the three mutant viruses were 0.81- to 1.46-fold of the GMTs against parental virus, indicating small effects of these mutations on neutralization by sera elicited by two BNT162b2 doses. 
+
   // Novavax COVID-19 Vaccine Demonstrates 89.3% Efficacy in UK Phase 3 Trial
   doi: https://ir.novavax.com/news-releases/news-release-details/novavax-covid-19-vaccine-demonstrates-893-efficacy-uk-phase-3
   ref 'Novavax_et_al_01_28_2021
@@ -72,7 +87,7 @@ feed Jan2021
     / Jan, 2021 - bioRxiv
     quote !a = A comparable neutralization activity of the vaccinated individuals sera showed against UK-variant and the heterologous strain with similar efficiency, dispel the uncertainty of possible neutralization escape.
 
-  # @@CarlPearson  
+  # @@CarlPearson
   // Estimates of severity and transmissibility of novel South Africa SARS-CoV-2 variant 501Y.V2
   doi: https://cmmid.github.io/topics/covid19/sa-novel-variant.html
   ref 'Pearson_et_al_01_11_2021

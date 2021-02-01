@@ -52,10 +52,15 @@ subject module Vaccines
         !BNT162b1
         !BNT162b2
         !Phase3
+      - Efficacy against Variants
+        Variants.B1351.!Vaccineefficacy
+        Variants.B117.!Phizer
+        !Variantefficacy
       -
         AnaphylaxisPEG
       -
         ?Approvals
+
 
       claim !ClinicalTrials = A phase 1/2/3 clinical trial for the Pfizer vaccine was first posted in April of 2020. It will evaluate the safety, tolerability, immunogenicity, and efficacy of two vaccines—BNT162b1 and BNT162b2—against COVID-19. The expected completion date is January of 2023.
         -
@@ -100,6 +105,11 @@ subject module Vaccines
           -
             'Polack_et_al_12_10_2020
             'Polack_et_al_12_10_2020.!g
+
+      claim !Variantefficacy = In Jan of 2020, a study reported Pfizer vaccine has modestly reduced efficacy (0.81 - 1.46 fold) against UK and South African COVID19 variants
+        -
+          'Xie_et_al_01_27_2021
+          'Xie_et_al_01_27_2021.!a
 
       / Severe Allergic Reactions
       dispute AnaphylaxisPEG = There have been reports of anaphylactic reactions in persons receiving the Pfizer-BioNTech COVID-19 vaccine outside of clinical trials. The cause of the reactions is disputed. The CDC recommends persons with a history of an anaphylactic reaction to any component of the mRNA SARS-CoV-2 vaccines to avoid the vaccines.
@@ -164,7 +174,6 @@ subject module Vaccines
             'CDC_et_al_2020.!f
 
 
-
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
     / Moderna
@@ -202,6 +211,9 @@ subject module Vaccines
       -
         !Olderpeople
         !Olderpeopledose
+      - Efficacy against UK and SA variant
+        !Variantefficacy
+
 
 
       / Identification
@@ -266,6 +278,15 @@ subject module Vaccines
         -
           'Baden_et_al_12_30_2020
           'Baden_et_al_12_30_2020.!a
+
+
+      claim !Variantefficacy = One study found that no significant impact on neutralization against the B.1.1.7 (UK) variant was detected, however reduced neutralization was measured against the mutations present in B.1.351 (South Africa).
+        -
+          'Wu_et_al_01_25_2021
+          'Wu_et_al_01_25_2021.!c
+          'Wu_et_al_01_25_2021.!a
+          'Wu_et_al_01_25_2021.!b
+
 
     / Oxford–AstraZeneca
     subject AZD1222
@@ -977,45 +998,28 @@ subject module Vaccines
           'Novavax_et_al_01_28_2021.!c
           'Novavax_et_al_01_28_2021.!d
 
-  / Effectiveness against Variants
+  / Vaccine efficacy against Variants
   subject Variants
     head =
 
-    - UK
-      Variants.B117.!Phase3trialConcern
-      Variants.B1351.!Vaccineefficacy
-      Variants.B117.!VaccineEffectiveness
     - Phizer
+      Variants.B1351.!Vaccineefficacy
       Variants.B117.!Phizer
+      Approved.Tozinameran.!Variantefficacy
+    - Moderna
+      Approved.mRNA-1273.!Variantefficacy
     - Covaxin
       Approved.BBV152.!UKvariant
     - Novavax
       Candidates.NVX-CoV2373.!UKandSAvariant
-
-    - SA
-      Variants.B1351.!Vaccineefficacy
-      Variants.B1351.!Reinfection
-      Variants.B1351.!Neutralizingescape
-    - Phizer
-      Variants.B117.!Phizer
-    - Novavax
-      Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
     - Johnson & Johnson
       Vaccines.Candidates.Ad26COV2S.!SAVariant
-
-
-    # MODERNA EFFICACY AGAINST VARIANTS
-    >
-      One study demonstrate reduced but still significant neutralization against the full B.1.351 variant following mRNA-1273 vaccination.
-
-      Now, researchers from Moderna and the Vaccine Research Center at the U.S. National Institutes of Health have tested the potency of antibodies from eight people who had received the company’s vaccine against a retrovirus modified to express the mutated spike proteins of B.1.351 and B.1.1.7. In a preprint, they report that antibodies neutralized the virus in both cases. But for B.1.351, the levels needed were six times higher than for virus expressing the original protein.
-    -
-      'Wu_et_al_01_25_2021
-      'Wu_et_al_01_25_2021.!c
-      'Wu_et_al_01_25_2021.!a
-      'Wu_et_al_01_25_2021.!b
-
-
+    - Other Claims (UK Variant)
+      Variants.B117.!Phase3trialConcern
+      Variants.B117.!VaccineEffectiveness
+    - Other Claims (SA Variant)
+      Variants.B1351.!Reinfection
+      Variants.B1351.!Neutralizingescape
 
 
   —
