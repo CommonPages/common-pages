@@ -1,3 +1,5 @@
+@sangeetamotiani
+@ayushanand
 / The Disease
 subject module Disease
   head = COVID-19 is the disease caused by the virus SARS-CoV-2, most commonly characterized by fever, among other symptoms. Recovered patients appear to obtain protective immunity, but the duration of immunity is unclear. Disease severity and mortality rates vary significantly by population, with global infection fatality estimated between 0.3 to 1.4%.

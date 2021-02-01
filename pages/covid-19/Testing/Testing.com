@@ -1,3 +1,5 @@
+@sangeetamotiani
+@ayushanand
 / Testing
 subject module Testing
   head = Effective testing protocols are now available to assess active infections, disease recovery and viral immunity. Tests which assess risk and predict disease severity are under active development. Several mechanisms have been identified to measure prevalance and immunity at the community level.

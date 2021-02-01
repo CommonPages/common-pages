@@ -1,4 +1,6 @@
 
+@sangeetamotiani
+@ayushanand
 subject module Transmission
   head = Evidence of SARS-CoV-2 transmission patterns comes from a large body of case and cluster reports, but comprehensive studies are still limited. Reports have confirmed transmission in a wide variety of settings, but the primary route of transmission has been disputed.
 

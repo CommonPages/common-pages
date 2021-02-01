@@ -1,4 +1,6 @@
 
+@sangeetamotiani
+@ayushanand
 / Prevention
 subject module Prevention
   head = For healthy individuals attempting to prevent an infection, potential interventions include increased hand hygiene, masking, the disinfection of surfaces, and social distancing or isolation, among others. Evidence for their efficacy are sourced primarily from research in other respiratory infections. Their applicability to COVID-19 is an area of active research.

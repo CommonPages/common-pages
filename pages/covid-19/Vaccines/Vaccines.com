@@ -1,4 +1,5 @@
-
+@sangeetamotiani
+@ayushanand
 subject module Vaccines
   head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. Eight vaccines have been approved for emergency use, though none have yet completed clinical trials.
 
