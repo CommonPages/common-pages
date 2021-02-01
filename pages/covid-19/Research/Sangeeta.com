@@ -7698,6 +7698,7 @@ feed Sangeeta
 
 
   # Cluster, Outbreak, Superspread, Church, # Epidemics - South Korea, # Index patient !a
+  @@EunhaShim
   // Transmission potential and severity of COVID-19 in South Korea
   doi: https://doi.org/10.1016/j.ijid.2020.03.031
   ref 'Shim_et_al_03_17_2020
@@ -8643,6 +8644,7 @@ feed Sangeeta
 
 
   # schools
+  @@MeiraLevinson
   // Reopening Primary Schools during the Pandemic
   doi: https://doi.org/10.1056/NEJMms2024920
   ref 'Levinson_et_al_07_29_2020

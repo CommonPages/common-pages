@@ -511,6 +511,7 @@ feed February2020
 
 
   # Consipiracy Claims - from the doc, Origin , Index patient
+  @@JianweiWang
   // Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
   doi: https://doi.org/10.1016/S0140-6736(20)30183-5
   ref 'Huang_et_al_2020
@@ -942,6 +943,7 @@ feed February2020
 
 
   # Epidemic, Lopinavir
+  @@BaeckseungLee
   // Case of the Index Patient Who Caused Tertiary Transmission of Coronavirus Disease 2019 in Korea: the Application of Lopinavir/Ritonavir for the Treatment of COVID-19 Pneumonia Monitored by Quantitative RT-PCR
   doi: https://doi.org/10.3346/jkms.2020.35.e79
   ref 'Lim_et_al_2020
@@ -957,6 +959,7 @@ feed February2020
     quote !a = In an early case of COVID-19 in Korea, after lopinavir/ritonavir (Kaletra, AbbVie) was administered, β-coronavirus viral loads significantly decreased and no or little coronavirus titers were observed.
 
   # Epidemic
+  @@Myoung
   // The First Case of 2019 Novel Coronavirus Pneumonia Imported into Korea from Wuhan, China: Implication for Infection Prevention and Control Measures
   doi: https://doi.org/10.3346/jkms.2020.35.e61
   ref 'Kim_et_al_2020

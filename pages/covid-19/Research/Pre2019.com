@@ -2702,6 +2702,7 @@ feed Pre2019
     # quote !a =
 
   # Indoor, Origin
+  @@ZhangYing
   // Investigation and Analysis on Characteristics of a Cluster of COVID-19 Associated With Exposure in a Department Store in Tianjin
   doi: https://doi.org/10.3760/cma.j.cn112338-20200221-00139
   ref 'Wu_et_al_2020e
@@ -3806,6 +3807,7 @@ feed Pre2019
     quote !c = The interrelation of the air transportation network with other transportation systems such as railways and highways could be very useful for forecast on longer time scales. We believe, however, that the basic understanding of the interplay of the transportation network complex features with the disease spreading evolution and the detailed modeling obtained by the full consideration of these features may represent a valuable tool to test traveling restrictions and vaccination policies in the case of new pandemic events.
 
   # Claim : Using models to come up with mitigation measures?, Assertions !a can come for school closure, !b = social distancing
+  @@JoelMossong
   // Social Contacts and Mixing Patterns Relevant to the Spread of Infectious Diseases
   doi: http://doi.org/10.1371/journal.pmed.0050074
   ref 'Mossong_et_al_2008
@@ -3841,6 +3843,7 @@ feed Pre2019
 
 
   # Social Network
+  @@MattKeeling
   // Networks and epidemic models
   doi: https://doi.org/10.1098/rsif.2005.0051
   ref 'Keeling_et_al_2005
@@ -3879,6 +3882,7 @@ feed Pre2019
     # quote !a =
 
   # Herd Immunity
+  @@PaulFine
   // “Herd Immunity”: A Rough Guide
   doi: https://doi.org/10.1093/cid/cir007
   ref 'Fine_et_al_2011
@@ -5003,6 +5007,7 @@ feed Pre2019
     quote !g = The data raise sufficient concerns for us to strongly recommend further studies on the possible effects of immunisations on the immune system and on the risk of morbidity and mortality, particularly in relation to DTP. Randomised trials are needed to overcome the difficulties of interpretation of observational studies, and they should be sufficiently powered to examine possibly differential effects between boys and girls. Until the results of such trials are available, detrimental non-specific effects of DTP, if any, can probably be minimised by ensuring that infants receive their routine immunisations according to the currently recommended WHO schedule.
 
   # Tags - School closure
+  @@PaolaSebastiani
   // A Bayesian dynamic model for influenza surveillance
   doi: http://doi.org/10.1002/sim.2566
   ref 'Sebastiani_et_al_2006
@@ -5015,6 +5020,7 @@ feed Pre2019
 
 
   # Tags - School closure
+  @@ShokoKawano
   // Substantial Impact of School Closure on the Transmission Dynamics during the Pandemic Flu H1N1-2009 in Oita, Japan
   doi: https://doi.org/10.1371/journal.pone.0144839
   ref 'Kawano_et_al_2015
@@ -5040,6 +5046,7 @@ feed Pre2019
 
 
   # Tags - School closure
+  @@StefanoMerler
   // School closure policies at municipality level for mitigating influenza spread: a modelbased evaluation
   doi: https://doi.org/10.1186/s12879-016-1918-z
   ref 'Ciavarella_et_al_2016
@@ -5070,6 +5077,7 @@ feed Pre2019
 
 
   # Tags - School closure
+  @@NeilFerguson
   // Strategies for mitigating an influenza pandemic
   doi: https://doi.org/10.1038/nature04795
   ref 'Fergusion_et_al_2006
@@ -5108,6 +5116,7 @@ feed Pre2019
 
 
   # Tags - School Clousre , Social Network
+  @@MartinCetron
   // Nonpharmaceutical Interventions Implemented by US Cities During the 1918-1919 Influenza Pandemic
   doi: http://doi.org/10.1001/jama.298.6.644
   ref 'Market_et_al_2007
@@ -5135,6 +5144,7 @@ feed Pre2019
     quote !a =
 
   # Tag- Social Network
+  @@JuanGracia
   // Spread of Pathogens in the Patient Transfer Network of US Hospitals
   doi: https://doi.org/10.1007/978-3-319-60240-0_33
   ref 'gracia_et_al_2017b
@@ -5150,6 +5160,7 @@ feed Pre2019
 
 
   # Tag - Social Network
+  @@JuanGracia
   // Influence of a patient transfer network of US inpatient facilities on the incidence of nosocomial infections
   doi: https://doi.org/10.1038/s41598-017-02245-7
   ref 'gracia_et_al_2017
@@ -5166,6 +5177,7 @@ feed Pre2019
 
 
   # Tag - Social network
+  @@JamesFowler
   // Dueling biological and social contagions
   doi: https://doi.org/10.1038/srep43634
   ref 'Fu_et_al_2017
@@ -5191,6 +5203,7 @@ feed Pre2019
 
 
   # Tag- Social network... If possible can we show Fig 4 from this paper to show outbreak of H1N1 over period of 3 months... Caption fig-4- In the diagram, Infected individuals are colored red, friends of infected individuals are colored yellow, and node size is proportional to the number of friends infected. Also Figure 5 - Caption - The speed with which people acquired the flu during the epidemic depended on various aspects of their social network position. Those with more friends, those who were more central in the network, and those whose friends did *not* know each other got it sooner.
+  @@NicholasChristakis
   // Social Network Sensors for Early Detection of Contagious Outbreaks
   doi: https://doi.org/10.1371/journal.pone.0012948
   ref 'Christakis_et_al_2010

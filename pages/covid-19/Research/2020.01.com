@@ -45,6 +45,7 @@ feed January2020
 
 
   # Family transmission, asymptomatic, older ppl, origin, person-to-person transmission, intercity spread
+  @@KwokYuen
   // A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster
   doi: https://doi.org/10.1016/S0140-6736(20)30154-9
   ref 'Chan_et_al_2020
@@ -317,6 +318,7 @@ feed January2020
     quote !e = Because nine out of ten macaques were protected by IV BCG immunization we were unable to define an immune correlate of protection within this group; however, there were several unique quantitative and qualitative differences in the immune responses after IV BCG vaccination that may underlie protection. Data suggest that although measurement of BAL responses may provide greater insight into vaccine efficacy compared to blood, they may not fully reflect lung TRM cell responses that might be the mechanism of protection.
 
   # Origin
+  @@TungPhan
   // Novel coronavirus: From discovery to clinical diagnostics
   doi: https://doi.org/10.1016/j.meegid.2020.104211
   ref 'Phan_et_al_2020
@@ -334,6 +336,7 @@ feed January2020
 
 
   # origin
+  @@WenjieTan
   // A Novel Coronavirus from Patients with Pneumonia in China, 2019
   doi: https://doi.org/10.1056/NEJMoa2001017
   ref 'Zhu_et_al_2020

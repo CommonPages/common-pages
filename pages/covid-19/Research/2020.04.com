@@ -1241,6 +1241,7 @@ feed April2020
 
 
   # epidemic? origin? contact tracing, isolation- non pharma interventions, children
+  @@TiejianFeng
   // Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study
   doi: https://doi.org/10.1016/S1473-3099(20)30287-5
   ref 'Bi_et_al_04_27_2020
@@ -1748,6 +1749,7 @@ feed April2020
 
 
   # epidemic, USA, illness severity-correlates to infectivity, close contact
+  @@SarahScott
   // First mildly ill, non-hospitalized case of coronavirus disease 2019 (COVID-19) without viral transmission in the United States—Maricopa County, Arizona,
   doi: https://doi.org/10.1093/cid/ciaa374
   ref 'Scott_et_al_2020
@@ -2508,6 +2510,7 @@ feed April2020
 
 
   # herd immunity, projections, HERTEROGENITY, contact tracing, R0, EPIDEMIC FORECASTING
+  @@Laurent
   // Beyond R0: Heterogeneity in secondary infections and probabilistic epidemic forecasting
   doi: https://doi.org/10.1101/2020.02.10.20021725
   ref 'Dufresne_et_al_2020
@@ -3487,6 +3490,7 @@ feed April2020
 
 
   # Tag - Epidemiological model, Quarantine, DISCUSS WITH AYUSH
+  @@GeorgeBarbastathis
   // Quantifying the effect of quarantine control in Covid-19 infectious spread using machine learning
   doi: https://doi.org/10.1101/2020.04.03.20052084
   ref 'Dandekar_et_al_2020

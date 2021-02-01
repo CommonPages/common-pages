@@ -1176,6 +1176,7 @@ feed March2020
 
 
   # Clinical and virological data, epidemic, viral load, and suspecibility to infection, first cases in Europe, France, (check the author name)
+  @@YazdanYazdanpanah
   // Clinical and virological data of the first cases of COVID-19 in Europe: a case series
   doi: https://doi.org/10.1016/S1473-3099(20)30200-0
   ref 'XavierLescure_et_al_2020
@@ -1846,6 +1847,7 @@ feed March2020
 
 
   # Incubation Period, Quarantine
+  @@ShunqingXu
   // Transmission of corona virus disease 2019 during the incubation period may lead to a quarantine loophole
   doi: https://doi.org/10.1101/2020.03.06.20031955
   ref 'Xia_et_al_2020
@@ -2741,6 +2743,7 @@ feed March2020
 
 
   # Epidemic , Transmission
+  @@JustinLessler
   // Epidemiology and Transmission of COVID-19 in Shenzhen China: Analysis of 391 cases and 1,286 of their close contacts
   doi: https://doi.org/10.1101/2020.03.03.20028423
   ref 'Bi_et_al_2020
@@ -2892,6 +2895,7 @@ feed March2020
 
 
   # Epidemic
+  @@BarnabyYoung
   // Epidemiologic Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore
   doi: https://doi.org/10.1001/jama.2020.3204
   ref 'Young_et_al_2020
@@ -3073,6 +3077,7 @@ feed March2020
 
 
   #  Digital tracing
+  @@ChristopheFraser
   // Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing
   doi: https://doi.org/10.1126/science.abb6936
   ref 'Ferretti_et_al_2020

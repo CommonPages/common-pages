@@ -850,6 +850,7 @@ feed May2020
 
 
   # genomic epidemiology, phylogenetics, travel risk, mitigation, USA, epidemiology,  when i put doi- says diff published date- link shows diff date
+  @@JosephFauver
   // Coast-to-Coast Spread of SARS-CoV-2 during the Early Epidemic in the United States
   doi: https://doi.org/10.1016/j.cell.2020.04.021
   ref 'Fauver_et_al_05_07_2020
@@ -3631,6 +3632,7 @@ feed May2020
 
 
   # Epidemic - NY
+  @@HarmBakel
   // Introductions and early spread of SARS-CoV-2 in the New York City area
   doi: https://doi.org/10.1126/science.abc1917
   ref 'Reiche_et_al_05_29_2020
@@ -3644,6 +3646,7 @@ feed May2020
 
 
   # Clinical Characteristics , Pandemic
+  @@EliRosenberg
   // COVID-19 Testing, Epidemic Features, Hospital Outcomes, and Household Prevalence, New York State—March 2020
   doi: https://doi.org/10.1093/cid/ciaa549
   ref 'Rosenberg_et_al_05_08_2020
