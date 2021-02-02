@@ -301,6 +301,7 @@ feed July2020
     quote !b = Distances of 1.5m between persons in the frontal direction which are sometimes recommended for protection during choir rehearsals or at religious services should be increased to a distance of at least 2m which could be estimated borderline.
 
   # Airline Mitigation
+  @@XiKe
   // Infection Prevention and Control in Aviation during COVID-19 Pandemic—A Qualitative Study
   doi: https://dx.doi.org/10.2139/ssrn.3654127
   ref 'Chen_et_al_07_30_2020

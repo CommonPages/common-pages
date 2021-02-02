@@ -2232,6 +2232,7 @@ feed Pre2019
 
 
   # Inflight Tranmission
+  @@YLi
   // Routes of Transmission of Influenza A H1N1, SARS CoV, and Norovirus in Air Cabin: Comparative Analyses
   doi: https://doi.org/10.1111/ina.12445
   ref 'Lei_et_al_01_06_2020
@@ -3784,6 +3785,7 @@ feed Pre2019
     quote !a = An index patient with onset of SARS 2 months after hospital admission was the source of four generations of transmission to 76 case-patients, including 12 healthcare workers and several hospital visitors.
 
   # Public Policy? Mitigation measure by banning travel, Forecast? Outbreak Detection - Social network
+  @@AlessandroVespignani
   // The role of the airline transportation network in the prediction and predictability of global epidemics
   doi: https://doi.org/10.1073/pnas.0510525103
   ref 'Colizza_et_al_2006

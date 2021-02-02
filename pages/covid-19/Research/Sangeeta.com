@@ -1172,6 +1172,7 @@ feed Sangeeta
 
 
   #  check dates of this paper 1/9/2021
+  @@Suzanne
   // Flight-Associated Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 Corroborated by Whole-Genome Sequencing
   doi: https://dx.doi.org/10.3201/eid2612.203910
   ref 'Speake_et_al_2020
@@ -1197,6 +1198,7 @@ feed Sangeeta
 
 
   #
+  @@LeoPoon
   // In-Flight Transmission of SARS-CoV-2
   doi: https://dx.doi.org/10.3201/eid2611.203254
   ref 'Choi_et_al_09_18_2020
@@ -1217,6 +1219,7 @@ feed Sangeeta
 
 
   #
+  @@DavidFreedman
   // In-flight transmission of SARS-CoV-2: a review of the attack rates and available data on the efficacy of face masks
   doi: https://doi.org/10.1093/jtm/taaa178
   ref 'Freedman_et_al_09_25_2020
@@ -1291,6 +1294,7 @@ feed Sangeeta
 
 
   #
+  @@NicolaMurphy
   // A large national outbreak of COVID-19 linked to air travel, Ireland, summer 2020
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.42.2001624
   ref 'Murphy_et_al_10_21_2020
@@ -1321,6 +1325,7 @@ feed Sangeeta
 
 
   #
+  @@JemmaGeoghegan
   //  Genomic Evidence of In-Flight Transmission of SARS-CoV-2 Despite Predeparture Testing.
   doi: https://doi.org/10.3201/eid2703.204714
   ref 'Swadi_et_al_01_05_2021
@@ -3209,6 +3214,7 @@ feed Sangeeta
 
 
   #
+  @@AnneliesSmith
   // Low risk of transmission of severe acute respiratory syndrome on airplanes: the Singapore experience
   doi: https://doi.org/10.1046/j.1360-2276.2003.01133.x
   ref 'Wilder-Smith_et_al_10_22_2003
@@ -3231,6 +3237,7 @@ feed Sangeeta
 
 
   #
+  @@Chen
   // A one-dimensional analytical model for airborne contaminant transport in airliner cabins
   doi: https://doi.org/10.1111/j.1600-0668.2008.00553.x
   ref 'Mazumdar_et_al_05_29_2008
@@ -6960,6 +6967,7 @@ feed Sangeeta
 
 
   # mitigation, airplane,
+  @@YLi
   // Routes of transmission of influenza A H1N1, SARS CoV, and norovirus in air cabin: Comparative analyses
   doi: https://doi.org/10.1111/ina.12445
   ref 'Lei_et_al_12_15_2017
@@ -7129,6 +7137,7 @@ feed Sangeeta
 
 
   # airplane transmission, 10 ppl,
+  @@GuoqingQian
   // In-flight Transmission Cluster of COVID-19: A Retrospective Case Series
   doi: https://doi.org/10.1101/2020.03.28.20040097
   ref 'Yang_et_al_03_30_2020
@@ -8519,6 +8528,7 @@ feed Sangeeta
 
 
   # family cluster, social activity cluster
+  @@LChen
   // Epidemiologic and Clinical Characteristics of 91 Hospitalized Patients With COVID-19 in Zhejiang, China: A Retrospective, Multi-Centre Case Series
   doi: https://doi.org/10.1093/qjmed/hcaa089
   ref 'Qian_et_al_03_17_2020
@@ -8551,6 +8561,7 @@ feed Sangeeta
 
 
   # household, close contact, indoor, 7 ppl
+  @@YanLin
   // A Locally Transmitted Case of SARS-CoV-2 Infection in Taiwan
   doi: https://doi.org/10.1056/NEJMc2001573
   ref 'Liu_et_al_03_12_2020
@@ -8656,6 +8667,7 @@ feed Sangeeta
 
 
   # public transport
+  @@ShiZhao
   // The association between domestic train transportation and novel coronavirus (2019-nCoV) outbreak in China from 2019 to 2020: A data-driven correlational report
   doi: https://doi.org/10.1016/j.tmaid.2020.101568
   ref 'Zhao_et_al_01_30_2020
@@ -8691,6 +8703,7 @@ feed Sangeeta
 
 
   # public transport
+  @@YufangBi
   // Spatial transmission of COVID-19 via public and private transportation in China
   doi: https://doi.org/10.1016/j.tmaid.2020.101626
   ref 'Zheng_et_al_03_14_2020
@@ -8717,6 +8730,7 @@ feed Sangeeta
 
 
   # AirlineTransmission
+  @@ThomasKenyon
   // Transmission of Multidrug-Resistant Mycobacterium tuberculosis during a Long Airplane Flight
   doi: https://doi.org/10.1056/NEJM199604113341501
   ref 'Kenyon_et_al_04_11_1996
