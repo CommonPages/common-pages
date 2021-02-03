@@ -115,3 +115,8 @@ index: hide
   / Strain
   model *Strain
     head = A variant is a strain when it has a demonstrably different phenotype (eg, a difference in antigenicity, transmissibility, or virulence).
+
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7443330/
+  / Antibody-dependent enhancement (ADE)
+  model *ADE
+    head = ADE is a phenomenon in which pre-existing non- or poorly neutralizing antibodies enhance the viral entry and replication in the host cell.

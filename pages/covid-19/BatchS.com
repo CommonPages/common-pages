@@ -111,7 +111,9 @@
 
 
 
-  ##### 1/25/21 ######  AYUSH
+  ##### 1/31/21 ######  AYUSH
+  # PREGNANCY 
+  # https://www.nytimes.com/2021/01/26/opinion/covid-vaccine-rumors.html
 
   # https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948517/Information_for_Healthcare_Professionals_on_Pfizer_BioNTech.pdf
 

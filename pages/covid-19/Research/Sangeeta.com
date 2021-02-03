@@ -1,7 +1,14 @@
 feed Sangeeta
   #
 
+  #
 
+
+
+  #
+
+
+  #
   //
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
@@ -10,8 +17,82 @@ feed Sangeeta
     - quotes
       !a
 
-    / December, 2020 - JAMA Netw Open.
+    / December, 2021 - JAMA Netw Open.
     quote !a =
+
+
+  # vaccine shortage
+  // Single Dose Vaccination in Healthcare Workers Previously Infected with SARS-CoV-2
+  doi: https://doi.org/10.1101/2021.01.30.21250843
+  ref 'Saadat_et_al_02_01_2021
+    head = We studied antibody responses to a single dose of the Pfizer-BioNTech or Moderna vaccines in healthcare workers (HCW)(59 volunteers) with laboratory-confirmed COVID-19 infection and compared to them to antibody responses of HCW who were IgG negative to SARS-CoV-2 spike protein.
+
+    > Abstract
+      Coronavirus disease 2019 (COVID-19) vaccine shortages have led some experts and countries to consider untested dosing regimens. We studied antibody responses to a single dose of the Pfizer-BioNTech or Moderna vaccines in healthcare workers (HCW) with laboratory-confirmed COVID-19 infection and compared to them to antibody responses of HCW who were IgG negative to SARS-CoV-2 spike protein. HCW with prior COVID-19 showed clear secondary antibody responses to vaccination with IgG spike binding titers rapidly increasing by 7 days and peaking by days 10 and 14 post-vaccination. At all time points tested, HCW with prior COVID-19 infection showed statistically significant higher antibody titers of binding and functional antibody compared to HCW without prior COVID-19 infection (p<.0001for each of the time points tested). In times of vaccine shortage, and until correlates of protection are identified, our findings preliminarily suggest the following strategy as more evidence-based: a) a single dose of vaccine for patients already having had laboratory-confirmed COVID-19; and b) patients who have had laboratory-confirmed COVID-19 can be placed lower on the vaccination priority list.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / Feburary, 2021 - medRxiv
+    quote !a = HCW with prior COVID-19 showed clear secondary antibody responses to a single inoculation with a spike-based mRNA vaccine. That is, IgG spike binding titers rapidly increasing by 7 days and peaking by days 10 and 14 post-vaccination compared to volunteers exposed to SARS-CoV-2 spike protein for the first time.
+
+    / Feburary, 2021 - medRxiv
+    quote !b = At all time points tested, HCW with prior COVID-19 infection showed statistically significant higher antibody titers of binding and functional antibody compared to HCW without prior COVID-19 infection. This occurred for HCW who were both symptomatic and asymptomatic with their SARS-COV-2 infection.
+
+    / Feburary, 2021 - medRxiv
+    quote !c = Although we did not have peak titers for these individuals (HCWs) after natural infection, the titers developed after single vaccination was higher than peak titers in inpatients and outpatients with COVID-19, similar to what has been described in primary vaccination after 2 doses of the spike-based mRNA vaccines.
+
+    / Feburary, 2021 - medRxiv
+    quote !d = In times of vaccine shortage, and until correlates of protection are identified, our findings preliminarily suggest the following strategy as more evidence-based: a) a single dose of vaccine for patients already having had laboratory-confirmed COVID-19; and b) patients who have had laboratory-confirmed COVID-19 can be placed lower on the vaccination priority list.
+
+
+
+
+  # ask ayush D, E
+  // Immunogenic BNT162b vaccines protect rhesus macaques from SARS-CoV-2
+  doi: https://doi.org/10.1038/s41586-021-03275-y
+  ref 'Vogel_et_al_02_01_2021
+    head = We report the preclinical development of two BNT162b vaccine candidates, which contain lipid-nanoparticle (LNP) formulated nucleoside-modified mRNA encoding SARS-CoV-2 spike glycoprotein-derived immunogens. The vaccine candidates protect macaques from SARS-CoV-2 challenge, with BNT162b2 protecting the lower respiratory tract from the presence of viral RNA and with no evidence of disease enhancement.
+
+
+    > Abstract
+      A safe and effective vaccine against COVID-19 is urgently needed in quantities sufficient to immunise large populations. We report the preclinical development of two BNT162b vaccine candidates, which contain lipid-nanoparticle (LNP) formulated nucleoside-modified mRNA encoding SARS-CoV-2 spike glycoprotein-derived immunogens. BNT162b1 encodes a soluble, secreted, trimerised receptor-binding domain (RBD-foldon). BNT162b2 encodes the full-length transmembrane spike glycoprotein, locked in its prefusion conformation (P2 S). The flexibly tethered RBDs of the RBD-foldon bind ACE2 with high avidity. Approximately 20% of the P 2S trimers are in the two-RBD ‘down,’ one-RBD ‘up’ state. In mice, one intramuscular dose of either candidate elicits a dose-dependent antibody response with high virus-entry inhibition titres and strong TH1 CD4+ and IFNγ+ CD8+ T-cell responses. Prime/boost vaccination of rhesus macaques with BNT162b candidates elicits SARS-CoV-2 neutralising geometric mean titres 8.2 to 18.2 times that of a SARS-CoV-2 convalescent human serum panel. The vaccine candidates protect macaques from SARS-CoV-2 challenge, with BNT162b2 protecting the lower respiratory tract from the presence of viral RNA and with no evidence of disease enhancement. Both candidates are being evaluated in phase 1 trials in Germany and the United States1–3. BNT162b2 is being evaluated in an ongoing global, pivotal Phase 2/3 trial (NCT04380701, NCT04368728).
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / Feburary, 2021 - Nature
+    quote !a = Prime/boost vaccination of rhesus macaques with BNT162b candidates elicits SARS-CoV-2 neutralising geometric mean titres 8.2 to 18.2 times that of a SARS-CoV-2 convalescent human serum panel.
+
+    # / Feburary, 2021 - Nature
+    # quote !b = Both candidates protected 2-4 year old rhesus macaques from infectious SARS-CoV-2 challenge, with reduced detection of viral RNA in immunised animals compared to those that received saline.
+
+    # / Feburary, 2021 - Nature
+    # quote !a = Immunisation with BNT162b2 provided particularly strong RT-qPCR evidence for lower respiratory tract protection, as demonstrated by the absence of detectable SARS-CoV-2 RNA in serial BAL samples obtained starting 3 days after challenge.
+
+    # / Feburary, 2021 - Nature
+    # quote !b = The lack of serological response to the SARS-CoV-2 challenge in BNT162b1- or BNT162b2-immunised macaques, despite a neutralising response to challenge in control-immunised macaques, suggests suppression of infection by the vaccine candidates.
+
+    / Feburary, 2021 - Nature
+    quote !b = BNT162b2 elicted a strongly TH1-biased CD4+ T-cell response and IFNγ+CD8+T-cell response in rhesus macaques.
+
+    / Feburary, 2021 - Nature
+    quote !c = Clinical signs of disease were absent, and radiological and pathological abnormalities were generally mild after challenge
+
+    / Feburary, 2021 - Nature
+    quote !d = The contributions of the individual immune effector systems to human protection from SARS-CoV-2 are not yet understood. Therefore, it appears prudent to develop COVID-19 vaccines that enlist concomitant cognate B cells, CD4+T cells, and CD8+T-cell responses.
+
+    / Feburary, 2021 - Nature
+    quote !e = Both candidates are being evaluated in phase 1 trials in Germany and the United States1–3. BNT162b2 is being evaluated in an ongoing global, pivotal Phase 2/3 trial. The selection of BNT162b2 over BNT162b1 for further clinical testing was largely driven by greater tolerability of BNT162b2 with comparable immunogenicity in clinical trials 3 and the broader range and MHC-diversity of T-cell epitopes on the much larger full-length spike.
+
+
 
   #
   // Increased Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7 to Antibody Neutralization

@@ -1,5 +1,6 @@
 . Triage
 
+
   -
     !Identification
     !MonoclonalAntibodies
@@ -10,6 +11,7 @@
     !ConcernMutation
     !EfficacyNeed
     !CautionNSAID
+    !Singledose
 
   claim !Identification = Researchers have indentified S Protien as promising target for deoptimization. Neutralising epitopes on SARS-CoV-2 RBD were identified for development of SARS-CoV-2 Vaccine
     -
@@ -80,3 +82,11 @@
         'Chen_et_al_01_13_2021.!a
         'Chen_et_al_01_13_2021.!b
         'Chen_et_al_01_13_2021.!c
+
+
+  claim !Singledose = A single study showed evidence that a single vaccine dose may be enough for those previously infected with SARS Cov-2
+    -
+      'Saadat_et_al_02_01_2021
+      'Saadat_et_al_02_01_2021.!a
+      'Saadat_et_al_02_01_2021.!b
+      'Saadat_et_al_02_01_2021.!c

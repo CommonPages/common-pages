@@ -48,8 +48,11 @@ subject module Vaccines
           </tr>
         </table>
 
-      -
+      - Ongoing Trials
         !ClinicalTrials
+      - Animal Models
+        !RhesusMacaque
+      - Trial Results
         !BNT162b1
         !BNT162b2
         !Phase3
@@ -57,7 +60,7 @@ subject module Vaccines
         Variants.B1351.!Vaccineefficacy
         Variants.B117.!Phizer
         !Variantefficacy
-      -
+      - Severe Reactions
         AnaphylaxisPEG
       -
         ?Approvals
@@ -82,6 +85,14 @@ subject module Vaccines
           'Walsh_et_al_10_14_2020
           'Walsh_et_al_10_14_2020.!a
           'Walsh_et_al_10_14_2020.!b
+
+      claim !RhesusMacaque = Reports of immunisation and SARS-CoV-2 challenge of rhesus macaques demonstrated that the vaccine candidates (BNT162b1 or BNT162b2) protected macaques from SARS-CoV-2 challenge, with BNT162b2 protecting the lower respiratory tract from the presence of viral RNA and with no evidence of disease enhancement. Both candidates are being evaluated in phase 1 trials in Germany and the United States1–3. BNT162b2 is being evaluated in an ongoing global, pivotal Phase 2/3 trial (NCT04380701, NCT04368728).
+        -
+          'Vogel_et_al_02_01_2021
+          'Vogel_et_al_02_01_2021.!a
+          'Vogel_et_al_02_01_2021.!b
+          'Vogel_et_al_02_01_2021.!c
+          'Vogel_et_al_02_01_2021.!e
 
       / Phase 3: BNT162b2
       claim !Phase3 = First interim safety and efficacy data from phase 3 study (preliminary high-level results) showed more than 90% efficacy. Short-term, mild-to-moderate pain at the injection site, fatigue, and headache was observed
