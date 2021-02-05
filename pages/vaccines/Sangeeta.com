@@ -237,7 +237,7 @@ feed Sangeeta
     quote !b = The vaccine regimen had an acceptable side-effect profile. Vaccine recipients had a significantly higher rate of reactogenicity than did placebo recipients, but most reactions were mild or moderate.
 
     / November, 2013 - N Engl J Med
-    quote !c = Nonfatal adverse events were balanced in the two study groups, with only one event (a severe viral syndrome) judged to be related to a study product. Six participants (all in the placebo group) died during the study
+    quote !c = Non fatal adverse events were balanced in the two study groups, with only one event (a severe viral syndrome) judged to be related to a study product. Six participants (all in the placebo group) died during the study
 
     / November, 2013 - N Engl J Med
     quote !d = The rAd5 vector that we used in this study differed substantially from that used in the Step study, since it had deletions in more of the adenovirus genome and included HIV-1 gene inserts coding for Env.
