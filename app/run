@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./app/versions/current/bin/common-dev \
+JAVA_HOME=/Users/$USER/Sites/common-pages/app/java ./app/versions/current/bin/common-dev \
   -app.environment=author \
   -http.port=:80 \
   -J-Xmx3072m \
