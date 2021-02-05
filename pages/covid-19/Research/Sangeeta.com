@@ -4555,10 +4555,10 @@ feed Sangeeta
   // Lack of COVID-19 transmission on an international flight
   doi: https://doi.org/10.1503/cmaj.75015
   ref 'Schwartz_et_al_04_14_2020
-    head = In our investigation, transmission may have been mitigated by mild symptoms and masking during the flight. However, the lack of secondary cases after prolonged air travel exposure supports droplet transmission, not airborne, as the likely route of spread of the COVID-19.
+    head = In response to the CMAJ news article, “Communication, transparency key as Canada faces new coronavirus threat,".
 
     / April, 2020 - CMAJ
-    quote !a =
+    quote !a = In our investigation, transmission may have been mitigated by mild symptoms and masking during the flight. However, the lack of secondary cases after prolonged air travel exposure supports droplet transmission, not airborne, as the likely route of spread of the COVID-19.
 
 
 
@@ -7222,7 +7222,7 @@ feed Sangeeta
   // In-flight Transmission Cluster of COVID-19: A Retrospective Case Series
   doi: https://doi.org/10.1101/2020.03.28.20040097
   ref 'Yang_et_al_03_30_2020
-    head = The symptoms of COVID-19 patients infected in this flight were relatively mild. Most likely time for transmission in the ten passengers was during or immediately before the flight. Transmission on an aircraft of SARS-CoV-2 might occur when COVID-19 patients fly, especially during the symptomatic phase of illness.
+    head = After a flight, laboratory-confirmed COVID-19 was reported in 12 patients. Ten patients were admitted to the designated hospital. Data were collected from 25th January to 28th February 2020. Clinical information was retrospectively collected.
 
     > Objectives
       No data were available about in-flight transmission of SARS-CoV-2. Here, we report an in-flight transmission cluster of COVID-19 and describe the clinical characteristics of these patients.
@@ -7238,13 +7238,13 @@ feed Sangeeta
 
     - quotes
       !a
-      !b
+
 
     / February, 2020 - medRxiv
-    quote !a = In this case, for the first time we report small volumes of pleural effusion in both lungs in a non-severe patient of COVID-19.
+    quote !a = The symptoms of COVID-19 patients infected in this flight were relatively mild. Most likely time for transmission in the ten passengers was during or immediately before the flight. Transmission on an aircraft of SARS-CoV-2 might occur when COVID-19 patients fly, especially during the symptomatic phase of illness.
 
-    / February, 2020 - medRxiv
-    quote !b = 9 patients were tested RT-PCR positive at admission while only 5 patients were chest CT scan positive at admission, indicating that RT-PCR has a higher sensitivity than chest CT scans in diagnosing COVID-19 in our study.
+    # / February, 2020 - medRxiv
+    # quote !b = 9 patients were tested RT-PCR positive at admission while only 5 patients were chest CT scan positive at admission, indicating that RT-PCR has a higher sensitivity than chest CT scans in diagnosing COVID-19 in our study.
 
 
 
@@ -8752,11 +8752,11 @@ feed Sangeeta
   // The association between domestic train transportation and novel coronavirus (2019-nCoV) outbreak in China from 2019 to 2020: A data-driven correlational report
   doi: https://doi.org/10.1016/j.tmaid.2020.101568
   ref 'Zhao_et_al_01_30_2020
-    head = The analysis was conducted based on the epidemic data at early outbreak. We found strong and significant association between travel by train and the number of 2019- nCoV cases, whereas the associations of the other two means of transportation i.e car and flight failed to reach statistical significance.
-
+    head = We examine and explore the association between load of domestic passengers from Wuhan and the number of 2019-nCoV cases confirmed in different cities.
 
     / January, 2020 - Travel Medicine and Infectious Disease
-    quote !a =
+    quote !a = The analysis was conducted based on the epidemic data at early outbreak. We found strong and significant association between travel by train and the number of 2019- nCoV cases, whereas the associations of the other two means of transportation i.e car and flight failed to reach statistical significance.
+
 
 
 
@@ -8788,11 +8788,13 @@ feed Sangeeta
   // Spatial transmission of COVID-19 via public and private transportation in China
   doi: https://doi.org/10.1016/j.tmaid.2020.101626
   ref 'Zheng_et_al_03_14_2020
-    head = Our findings indicated that imported cases via public transportation played an important role in the spread of COVID-19. The connectivity and distance between the epicenter and the destination are important determinants of transmission risks.
+    head = We found a significant and positive association between the frequency of flights, trains, and buses from Wuhan and the daily as well as the cumulative numbers of COVID-19 cases in other cities with progressively increased correlations for trains and buses
 
+    - Quotes
+      !a
 
     / March, 2020 - N Engl J Med
-    quote !a =
+    quote !a = Our findings indicated that imported cases via public transportation played an important role in the spread of COVID-19. The connectivity and distance between the epicenter and the destination are important determinants of transmission risks.
 
 
 
@@ -8815,7 +8817,7 @@ feed Sangeeta
   // Transmission of Multidrug-Resistant Mycobacterium tuberculosis during a Long Airplane Flight
   doi: https://doi.org/10.1056/NEJM199604113341501
   ref 'Kenyon_et_al_04_11_1996
-    head = Passengers and crew were identified from airline records and were notified of their exposure, asked to complete a questionnaire, and screened by tuberculin skin tests. Passengers seated within two rows of the index patient were more likely to have positive tuberculin skin tests than those in the rest of the section
+    head = The transmission of Mycobacterium tuberculosis that we describe aboard a commercial aircraft involved a highly infectious passenger, a long flight, and close proximity of contacts to the index patient.
 
     > BACKGROUND
       In April 1994, a passenger with infectious multidrug-resistant tuberculosis traveled on commercial-airline flights from Honolulu to Chicago and from Chicago to Baltimore and returned one month later. We sought to determine whether she had infected any of her contacts on this extensive trip.
@@ -8829,8 +8831,11 @@ feed Sangeeta
     > CONCLUSIONS
       The transmission of Mycobacterium tuberculosis that we describe aboard a commercial aircraft involved a highly infectious passenger, a long flight, and close proximity of contacts to the index patient.
 
+    - quotes
+      !a
+
     / April, 1996 - N Engl J Med
-    quote !a =
+    quote !a = Passengers seated within two rows of the index patient were more likely to have positive tuberculin skin tests than those in the rest of the section
 
 
   # airline transmission

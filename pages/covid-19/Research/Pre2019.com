@@ -241,7 +241,7 @@ feed Pre2019
 
   - January, 2008
     'Huynh_et_al_01_01_2008
-    'Lei_et_al_01_06_2020
+    'Lei_et_al_01_06_2008
     'Jefferson_et_al_2008
 
   - June, 2007
@@ -2235,17 +2235,23 @@ feed Pre2019
   @@YLi
   // Routes of Transmission of Influenza A H1N1, SARS CoV, and Norovirus in Air Cabin: Comparative Analyses
   doi: https://doi.org/10.1111/ina.12445
-  ref 'Lei_et_al_01_06_2020
-    head = In this study, we built a mathematical model to study the inflight transmission of different viruses, using a novel comparative analysis approach. The results suggested that the dominant transmission routes in air cabins are probably the close contact route for influenza, the fomite route for norovirus, and all 3 routes (airborne, close contact, and fomite routes) for SARS CoV.
+  ref 'Lei_et_al_01_06_2008
+    head = In this study, we built a mathematical model to study the inflight transmission of different viruses, using a novel comparative analysis approach.
 
     > Abstract
       Identifying the exact transmission route(s) of infectious diseases in indoor environments is a crucial step in developing effective intervention strategies. In this study, we proposed a comparative analysis approach and built a model to simulate outbreaks of 3 different in-flight infections in a similar cabin environment, that is, influenza A H1N1, severe acute respiratory syndrome (SARS) coronavirus (CoV), and norovirus. The simulation results seemed to suggest that the close contact route was probably the most significant route (contributes 70%, 95% confidence interval [CI]: 67%-72%) in the in-flight transmission of influenza A H1N1 transmission; as a result, passengers within 2 rows of the index case had a significantly higher infection risk than others in the outbreak (relative risk [RR]: 13.4, 95% CI: 1.5-121.2, P = .019). For SARS CoV, the airborne, close contact, and fomite routes contributed 21% (95% CI: 19%-23%), 29% (95% CI: 27%-31%), and 50% (95% CI: 48%-53%), respectively. For norovirus, the simulation results suggested that the fomite route played the dominant role (contributes 85%, 95% CI: 83%-87%) in most cases; as a result, passengers in aisle seats had a significantly higher infection risk than others (RR: 9.5, 95% CI: 1.2-77.4, P = .022). This work highlighted a method for using observed outbreak data to analyze the roles of different infection transmission routes.
 
     - quotes
       !a
+      !b
 
     / Jan, 2008 - Indoor Air.
     quote !a = The dominant transmission routes vary for the 3 viruses, mainly depending on the pathogen‐specific parameters, such as the inactivation rate on human hands and environmental surfaces, the virus dose‐response rate, and the virus concentration.
+
+    / Jan, 2008 - Indoor Air.
+    quote !b = The results suggested that the dominant transmission routes in air cabins are probably the close contact route for influenza, the fomite route for norovirus, and all 3 routes (airborne, close contact, and fomite routes) for SARS CoV.
+
+
 
 
   # Aersol
@@ -3041,33 +3047,31 @@ feed Pre2019
   // An Outbreak of Influenza aboard a Commercial Airliner
   doi: https://doi.org/10.1093/oxfordjournals.aje.a112781
   ref 'Moser_et_al_1979
-    head = A jet airliner with 54 persons aboard was delayed on the ground for three hours. Most passengers stayed on the airplane during the delay. Within 72 hours, 72 per cent of the passengers became III with symptoms of cough, fever, fatigue, headache, sore throat and myalgia. The airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
+    head = A jet airliner with 54 persons aboard was delayed on the ground for three hours. Most passengers stayed on the airplane during the delay. Within 72 hours, 72 per cent of the passengers became III with symptoms of cough, fever, fatigue, headache, sore throat and myalgia.
+
+    > Abstract
+      A Jet airliner with 54 persons aboard was delayed on the ground for three hours because of engine failure during a takeoff attempt. Most passengers stayed on the airplane during the delay. Within 72 hours, 72 per cent of the passengers became III with symptoms of cough, fever, fatigue, headache, sore throat and myalgia. One passenger, the apparent Index case, was III on the airplane, and the clinical attack rate among the others varied with the amount of time spent aboard. Virus antigenlcally similar to A/Texas/1/ (H3N2) was Isolated from 8 of 31 passengers cultured, and 20 of 22 ill persons tested had serologic evidence of infection with this virus. The airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
 
     - quotes
       !a
-      !b
-      !c
-      !d
-      !e
-      !f
 
     / July, 1979 - American Journal of Epidemiology
-    quote !a = Although influenza virus was not recovered from the index case, she had 8-fold rise in titer of antibodies to A/Alaska/77. Prior to boarding the airplane, she had no known contact with influenza, but she and her preflight contacts became ill with influenza-like illness almost simultaneously. All of the persons on the flight who became ill were exposed to her, and, following her arrival in Kodiak, both of her roommates became ill.
+    quote !a = The airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
 
-    / July, 1979 - American Journal of Epidemiology
-    quote !b = Of the 53 passengers and crew who were on the airplane when the engine malfunctioned, 38 (72 per cent) subsequently became ill (the one person not contacted is excluded from analysis), while none of the six passengers who deplaned in Homer were affected. All cases occurred within a very short time, the estimated median time of onset of illness being 38 hours afterthe delay.
-
-    / July, 1979 - American Journal of Epidemiology
-    quote !c = In this outbreak, people were exposed to an index case in very crowded circumstances. During normal operation, the airplane ventilation system was designed to completely exchange the air in the passenger compartment, a volume of 3 m3, every four and one-half minutes. The airflow from ceiling to floor was laminar, with little fore-to-aft turbulence between rows. However, following engine failure, the ventilation system was turned off and the doors were kept closed for approximately two hours. Later, when the front cargo and rear passenger compartment doors were opened, most passengers felt that the compartment was comfortable or warm although the outside temperature was 1.7 C (29 F), suggesting that there was poor air exchange even during this period.
-
-    / July, 1979 - American Journal of Epidemiology
-    quote !d = Those passengers who were on the disabled airplane for more than three hours had the highest attack rate. Moreover, this attack rate varied by groups of persons on board; e.g. crew, 40 per cent; Anchorage boarding passengers, 58 per cent; and Homer boarding passengers, 83 per cent. Among these groups, those with higher attack rates were again the persons who had been on the airplane longer. The high clinical attack rate among passengers aboard the aircraft was probably the result of their exposure to large aerosols of droplets produced by an ill passenger in a confined, stagnant and dry airspace. Proper operation of the air circulation equipment and isolation of the ill passenger might have prevented spread of theinfluenza virus.
-
-    / July, 1979 - American Journal of Epidemiology
-    quote !e = However, no significant association was demonstrated between illness and the sex of a person, previous history of lung disease, smoking status, history of recent bivalent swine influenza vaccination, activity while waiting on the airplane, or routing to Kodiak following the delay.
-
-    / July, 1979 - American Journal of Epidemiology
-    quote !f = Within a week after these passengers arrived in Kodiak, seven additional clinical cases occurred among 35 household contacts, for a secondary attack rate of 20 per cent. Viral cultures (but not sera) were obtained from two of these seven cases, and A/Alaska/77 virus was isolated from one. Of the five remaining cases, three were studied serologically and all (including the two roommates of the index case) had antibody rises to influenza.
+    # / July, 1979 - American Journal of Epidemiology
+    # quote !b = Of the 53 passengers and crew who were on the airplane when the engine malfunctioned, 38 (72 per cent) subsequently became ill (the one person not contacted is excluded from analysis), while none of the six passengers who deplaned in Homer were affected. All cases occurred within a very short time, the estimated median time of onset of illness being 38 hours afterthe delay.
+    #
+    # / July, 1979 - American Journal of Epidemiology
+    # quote !c = In this outbreak, people were exposed to an index case in very crowded circumstances. During normal operation, the airplane ventilation system was designed to completely exchange the air in the passenger compartment, a volume of 3 m3, every four and one-half minutes. The airflow from ceiling to floor was laminar, with little fore-to-aft turbulence between rows. However, following engine failure, the ventilation system was turned off and the doors were kept closed for approximately two hours. Later, when the front cargo and rear passenger compartment doors were opened, most passengers felt that the compartment was comfortable or warm although the outside temperature was 1.7 C (29 F), suggesting that there was poor air exchange even during this period.
+    #
+    # / July, 1979 - American Journal of Epidemiology
+    # quote !d = Those passengers who were on the disabled airplane for more than three hours had the highest attack rate. Moreover, this attack rate varied by groups of persons on board; e.g. crew, 40 per cent; Anchorage boarding passengers, 58 per cent; and Homer boarding passengers, 83 per cent. Among these groups, those with higher attack rates were again the persons who had been on the airplane longer. The high clinical attack rate among passengers aboard the aircraft was probably the result of their exposure to large aerosols of droplets produced by an ill passenger in a confined, stagnant and dry airspace. Proper operation of the air circulation equipment and isolation of the ill passenger might have prevented spread of theinfluenza virus.
+    #
+    # / July, 1979 - American Journal of Epidemiology
+    # quote !e = However, no significant association was demonstrated between illness and the sex of a person, previous history of lung disease, smoking status, history of recent bivalent swine influenza vaccination, activity while waiting on the airplane, or routing to Kodiak following the delay.
+    #
+    # / July, 1979 - American Journal of Epidemiology
+    # quote !f = Within a week after these passengers arrived in Kodiak, seven additional clinical cases occurred among 35 household contacts, for a secondary attack rate of 20 per cent. Viral cultures (but not sera) were obtained from two of these seven cases, and A/Alaska/77 virus was isolated from one. Of the five remaining cases, three were studied serologically and all (including the two roommates of the index case) had antibody rises to influenza.
 
 
   # SARS, Aircraft transmission,
@@ -3075,7 +3079,7 @@ feed Pre2019
   // Transmission of the Severe Acute Respiratory Syndrome on Aircraft
   doi: https://doi.org/10.1056/NEJMoa031349
   ref 'Olsen_et_al_2003
-    head = Transmission of SARS may occur on an aircraft when infected persons fly during the symptomatic phase of illness. Measures to reduce the risk of transmission are warranted.
+    head = We attempted to interview passengers and crew members at least 10 days after they had taken one of three flights that transported a patient or patients with SARS. All index patients met the criteria of the World Health Organization for a probable case of SARS, and index or secondary cases were confirmed to be positive for SARS-CoV
 
     > Background
       The severe acute respiratory syndrome (SARS) spread rapidly around the world, largely because persons infected with the SARS-associated coronavirus (SARS-CoV) traveled on aircraft to distant cities. Although many infected persons traveled on commercial aircraft, the risk, if any, of in-flight transmission is unknown.
@@ -3094,46 +3098,40 @@ feed Pre2019
       !b
       !c
       !d
-      !e
-      !f
-      !g
-      !h
-      !i
-      !j
-      !k
+
 
     / December, 2003 - N Engl J Med
-    quote !a = Among the 22 patients with SARS, the date of onset of illness ranged from March 17 to March 23, a mean of four days after the flight (range, two to eight) and there were no recognized exposures to patients with SARS before or after the flight. A total of five persons died as a result of their illness (three persons from Hong Kong, one from China, and one from Singapore).
+    quote !a = After one flight carrying a symptomatic person and 119 other persons, laboratory-confirmed SARS developed in 16 persons, 2 others were given diagnoses of probable SARS, and 4 were reported to have SARS but could not be interviewed.
 
     / December, 2003 - N Engl J Med
-    quote !b = The risk of illness was related to the proximity to the index patient, with illness reported in 8 of the 23 passegers who were seated in the same row as the patient or in the three rows in front of him, as compared with 10 of the 88 passengers who were seated elsewhere (relative risk, 3.1; 95 percent confidence interval, 1.4 to 6.9). It is notable that 56 percent of the passengers who became infected were not seated in the same row as the index patient or in the three rows in front of him.
+    quote !b = Illness in passengers was related to the physical proximity to the index patient, with illness reported in 8 of the 23 persons who were seated in the three rows in front of the index patient, as compared with 10 of the 88 persons who were seated elsewhere
 
     / December, 2003 - N Engl J Med
-    quote !c = The observation that the passengers who became infected were clustered in the few rows directly in front of or behind the ill passenger, rather than being randomly distributed throughout the aircraft, is consistent with the pattern described in other cases in which a respiratory pathogen was transmitted on board an aircraft and lends further plausibility to the theory that transmission occurred during the flight.
+    quote !c = Another flight carrying four symptomatic persons resulted in transmission to at most one other person, and no illness was documented in passengers on the flight that carried a person who had presymptomatic SARS
 
     / December, 2003 - N Engl J Med
-    quote !d = The distance covered by three economy-class rows on a Boeing 737-300 is 2.3 m (90 in.). On this aircraft, 90 percent of the persons who became ill were seated more than 36 in. away from the index patient, so airborne, small-particle, or other remote transmission may be more straightforward explanations for the observed distribution of cases.
+    quote !d = Transmission of SARS may occur on an aircraft when infected persons fly during the symptomatic phase of illness. Measures to reduce the risk of transmission are warranted.
 
-    / December, 2003 - N Engl J Med
-    quote !e = There was no significant difference in risk between persons seated in an aisle seat and those seated in a middle or window seat (6 of 39 [15 percent] vs. 12 of 72 [17 percent]; relative risk, 0.9; 95 percent confidence interval, 0.4 to 2.3). Hand contact might have been expected to increase the risk among passengers who sat in aisle seats, but we did not find such a pattern. Two of the 20 passengers who became infected (and whose seating assignments are known) were seated within 0.9 m (36 in.) of the index patient.
-
-    / December, 2003 - N Engl J Med
-    quote !f = As was expected on the basis of the known patterns of transmission of SARS, the fact that the virus appeared to be transmitted by passengers who were in the symptomatic phase of illness but not by those who were in the presymptomatic phase suggests that the risk of transmission varies according to the phase of illness. It is likely that persons who fly during the incubation period (within 10 days before the onset of illness) pose very little or no risk to other passengers. However, we might have missed some cases because of the low percentage of passengers from Flight 1 who were contacted and because of the limitations in routine surveillance.
-
-    / December, 2003 - N Engl J Med
-    quote !g = As in our findings with regard to Flights 2 and 3, the risk of transmission can vary widely. The variation in risk might be influenced by the duration of the flight, the stage of illness, the type of air-ventilation system in use, the size of the aircraft, and the number of infected persons on board. In addition, some investigators have proposed that poorly characterized host factors in certain patients predispose them to transmit the virus to large numbers of persons (making them so-called “super-spreaders”), a hypothesis that has been used to explain epidemiologic clustering in Hong Kong and Singapore and that might be applicable to the index patient on Flight 2
-
-    / December, 2003 - N Engl J Med
-    quote !h = It is important to emphasize that the true attack rate on Flight 2 may be different from the rate we calculated. Sixteen of the 22 cases that resulted from this flight had laboratory confirmation of SARS-CoV. No specimens were available for testing from five patients, and one patient had a negative test; some patients who were deemed to have probable cases of SARS may not have been infected with SARS-CoV.
-
-    / December, 2003 - N Engl J Med
-    quote !i = On the other hand, five of the cases resulted in death, and the other patients had illness compatible with a diagnosis of SARS whose onset occurred within the expected incubation period. Forty-six of the passengers who were considered not to have been infected were not interviewed, including the two who sat next to the index patient, and it is possible that routine surveillance missed some additional infections.
-
-    / December, 2003 - N Engl J Med
-    quote !j = The fact that only 45 percent of the passengers were interviewed despite intensive investigation by three health departments over the course of two months highlights the difficulties faced by such investigations and raises the possibility that more transmission occurred than was recognized.
-
-    / December, 2003 - N Engl J Med
-    quote !k = In contrast, another flight carrying four symptomatic persons resulted in transmission to at most one other person, and no illness was documented in passengers on the flight that carried a person who had presymptomatic SARS.
+    # / December, 2003 - N Engl J Med
+    # quote !e = There was no significant difference in risk between persons seated in an aisle seat and those seated in a middle or window seat (6 of 39 [15 percent] vs. 12 of 72 [17 percent]; relative risk, 0.9; 95 percent confidence interval, 0.4 to 2.3). Hand contact might have been expected to increase the risk among passengers who sat in aisle seats, but we did not find such a pattern. Two of the 20 passengers who became infected (and whose seating assignments are known) were seated within 0.9 m (36 in.) of the index patient.
+    #
+    # / December, 2003 - N Engl J Med
+    # quote !f = As was expected on the basis of the known patterns of transmission of SARS, the fact that the virus appeared to be transmitted by passengers who were in the symptomatic phase of illness but not by those who were in the presymptomatic phase suggests that the risk of transmission varies according to the phase of illness. It is likely that persons who fly during the incubation period (within 10 days before the onset of illness) pose very little or no risk to other passengers. However, we might have missed some cases because of the low percentage of passengers from Flight 1 who were contacted and because of the limitations in routine surveillance.
+    #
+    # / December, 2003 - N Engl J Med
+    # quote !g = As in our findings with regard to Flights 2 and 3, the risk of transmission can vary widely. The variation in risk might be influenced by the duration of the flight, the stage of illness, the type of air-ventilation system in use, the size of the aircraft, and the number of infected persons on board. In addition, some investigators have proposed that poorly characterized host factors in certain patients predispose them to transmit the virus to large numbers of persons (making them so-called “super-spreaders”), a hypothesis that has been used to explain epidemiologic clustering in Hong Kong and Singapore and that might be applicable to the index patient on Flight 2
+    #
+    # / December, 2003 - N Engl J Med
+    # quote !h = It is important to emphasize that the true attack rate on Flight 2 may be different from the rate we calculated. Sixteen of the 22 cases that resulted from this flight had laboratory confirmation of SARS-CoV. No specimens were available for testing from five patients, and one patient had a negative test; some patients who were deemed to have probable cases of SARS may not have been infected with SARS-CoV.
+    #
+    # / December, 2003 - N Engl J Med
+    # quote !i = On the other hand, five of the cases resulted in death, and the other patients had illness compatible with a diagnosis of SARS whose onset occurred within the expected incubation period. Forty-six of the passengers who were considered not to have been infected were not interviewed, including the two who sat next to the index patient, and it is possible that routine surveillance missed some additional infections.
+    #
+    # / December, 2003 - N Engl J Med
+    # quote !j = The fact that only 45 percent of the passengers were interviewed despite intensive investigation by three health departments over the course of two months highlights the difficulties faced by such investigations and raises the possibility that more transmission occurred than was recognized.
+    #
+    # / December, 2003 - N Engl J Med
+    # quote !k = In contrast, another flight carrying four symptomatic persons resulted in transmission to at most one other person, and no illness was documented in passengers on the flight that carried a person who had presymptomatic SARS.
 
 
   # sneezing, coughing, transmission- discuss this paper with Ayush
@@ -3789,7 +3787,8 @@ feed Pre2019
   // The role of the airline transportation network in the prediction and predictability of global epidemics
   doi: https://doi.org/10.1073/pnas.0510525103
   ref 'Colizza_et_al_2006
-    head = From our study, it emerges that the air-transportation-network properties are responsible for the global pattern of emerging diseases.
+    head =  In this article, we present a stochastic computational framework for the forecast of global epidemics that considers the complete worldwide air travel infrastructure complemented with census population data.
+
 
     > Abstract
       The systematic study of large-scale networks has unveiled the ubiquitous presence of connectivity patterns characterized by large-scale heterogeneities and unbounded statistical fluctuations. These features affect dramatically the behavior of the diffusion processes occurring on networks, determining the ensuing statistical properties of their evolution pattern and dynamics. In this article, we present a stochastic computational framework for the forecast of global epidemics that considers the complete worldwide air travel infrastructure complemented with census population data. We address two basic issues in global epidemic modeling: (i) we study the role of the large scale properties of the airline transportation network in determining the global diffusion pattern of emerging diseases; and (ii) we evaluate the reliability of forecasts and outbreak scenarios with respect to the intrinsic stochasticity of disease transmission and traffic flows. To address these issues we define a set of quantitative measures able to characterize the level of heterogeneity and predictability of the epidemic pattern. These measures may be used for the analysis of containment policies and epidemic risk assessment.
@@ -3800,7 +3799,8 @@ feed Pre2019
       !c
 
     / Feb, 2006 - National Academy of Sciences
-    quote !a = The complex features characterizing this network are the origin of the heterogeneous and seemingly erratic spreading on the global scale of diseases such as severe acute respiratory syndrome. The analysis provided here show that large-scale mathematical models that take fully into account the complexity of the transportation matrix can be used to obtain detailed forecast of emergent disease outbreaks.
+    quote !a = From our study, it emerges that the air-transportation-network properties are responsible for the global pattern of emerging diseases.
+
 
     / Feb, 2006 - National Academy of Sciences
     quote !b = We have also shown that it is possible to provide quantitative measurements of the predictability of epidemic patterns, providing a tool that might be used to obtain confidence intervals in epidemic forecast and in the risk analysis of containment scenarios. It is clear that to make the forecast more realistic, it is necessary to introduce more details in the disease dynamics. In particular, seasonal effects and geographical heterogeneity in the basic transmission rate (due to different hygienic conditions and health care systems in different countries) should be addressed.
