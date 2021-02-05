@@ -307,7 +307,7 @@ feed April2020
 
 
   # Ventilation - Airborne
-  @@PauloRodrigues
+  # @@PauloRodrigues
   // Airborne route and bad use of ventilation systems as non-negligible factors in SARS-CoV-2 transmission
   doi: https://doi.org/10.1016/j.mehy.2020.109781
   ref 'Correia_et_al_04_25_2020

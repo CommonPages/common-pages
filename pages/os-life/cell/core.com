@@ -10,7 +10,7 @@ index: hide
     #   cell
 
     >
-      {image:$os-figures.ApFigures.'Figure_3_2_1}
+      {image:#os-figures.ApFigures.'Figure_3_2_1}
 
   /// An organelle is a specialized subunit within a cell that has a specific function. Organelles are either separately enclosed within their own lipid bilayers (also called membrane-bound organelles) or are spatially distinct functional units without a surrounding lipid bilayer (non-membrane bound organelles).
   model Organelle

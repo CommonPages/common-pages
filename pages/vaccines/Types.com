@@ -346,7 +346,7 @@ subject module Types
 
 
     >
-     Intranasal immunization with inactivated viruses has not succeeded in inducing effective antibodies in other studies, while several approaches to increase the efficacy of intranasal or other mucosal immunization by inactivated viruses, inactivated bacteria or constructs containing viral or bacterial proteins have been presented
+      Intranasal immunization with inactivated viruses has not succeeded in inducing effective antibodies in other studies, while several approaches to increase the efficacy of intranasal or other mucosal immunization by inactivated viruses, inactivated bacteria or constructs containing viral or bacterial proteins have been presented
 
    # https://scholar.google.com/scholar?start=30&hl=en&as_sdt=2005&sciodt=0,5&cites=14353175282944868235&scipsc=
    # refer for papers

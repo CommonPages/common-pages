@@ -3,7 +3,7 @@
 # Lexicon
 #
 
-import $os-figures.ApFigures._
+import #os-figures.ApFigures._
 
 import assets._
 import basis._

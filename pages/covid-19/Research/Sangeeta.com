@@ -3651,7 +3651,7 @@ feed Sangeeta
 
 
   # CoronaVac
-  @@QiangGao
+  # @@QiangGao
   // Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18–59 years: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial
   doi: https://doi.org/10.1016/S1473-3099(20)30843-4
   ref 'Zhang_et_al_11_17_2020
@@ -5730,7 +5730,7 @@ feed Sangeeta
 
 
   #
-  @@Zhong
+  # @@Zhong
   // Clinical Characteristics of Coronavirus Disease 2019 in China.
   doi: https://doi.org/10.1056/NEJMoa2002032
   ref 'Guan_et_al_04_30_2020

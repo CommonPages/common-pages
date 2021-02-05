@@ -17,14 +17,14 @@ model module Foundations
   model module Virology
     head = Organism, Replication, DNA, RNA, Protein, Protein Synthesis, Microorganism, Pathogen, Host, Infection, Virus, DNA Virus, RNA Virus, Viral Entry, Viral Replication, Viral Shedding, Transmission
 
-    import $os-life.basis.Structure as *structural_organization
-    import $os-life.basis.Functions as *properties_of_life
-    import $os-life.basis.Functions.Reproduction as *reproduce
-    import $os-life.chem as *chemical
-    import $os-life.cell as *cellular
-    import $os-life.tissue as *tissue
-    import $os-life.system as *organ_system
-    import $os-life.organism as *organism
+    import #os-life.basis.Structure as *structural_organization
+    import #os-life.basis.Functions as *properties_of_life
+    import #os-life.basis.Functions.Reproduction as *reproduce
+    import #os-life.chem as *chemical
+    import #os-life.cell as *cellular
+    import #os-life.tissue as *tissue
+    import #os-life.system as *organ_system
+    import #os-life.organism as *organism
 
     >
       Life processes of are maintained at several levels of {*structural_organization}. For humans and many other organisms, these include the {*chemical}, {*cellular}, {*tissue}, organ, {*organ_system}, and finally the {*organism} level.

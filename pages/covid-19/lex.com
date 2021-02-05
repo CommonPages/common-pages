@@ -35,6 +35,6 @@ import News._
 
 import assets.Figures._
 
-let *Mutation mean $os-life.cell.gene.Mutation
+let *Mutation mean #os-life.cell.gene.Mutation
 
 let *source_control mean *SourceControl

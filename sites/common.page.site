@@ -9,7 +9,7 @@ hosts:
   - claimspace.org
   - claimspace.test
 pages:
-  - "$os-figures"
-  - "$os-life"
-  - "$covid-19"
-  - "$vaccines"
+  - "#os-figures"
+  - "#os-life"
+  - "#covid-19"
+  - "#vaccines"

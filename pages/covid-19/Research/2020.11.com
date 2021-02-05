@@ -260,7 +260,7 @@ feed November2020
 
 
   # Immunity
-  @@ScottHensley
+  # @@ScottHensley
   // Seasonal human coronavirus antibodies are boosted upon SARS-CoV-2 infection but not associated with protection
   doi: https://doi.org/10.1101/2020.11.06.20227215
   ref 'Anderson_et_al_11_10_2020

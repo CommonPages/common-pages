@@ -16,16 +16,16 @@ module basis
       InBrief
 
     path InBrief
-      let 'levels mean $os-figures.ApFigures.'Figure_1_2_1
-      let 'systems1 mean $os-figures.ApFigures.'Figure_1_2_2
-      let 'systems2 mean $os-figures.ApFigures.'Figure_1_2_3
-      let 'resp mean $os-figures.ApFigures.'Figure_23_1_1
-      let 'lung mean $os-figures.ApFigures.'Figure_23_2_1
-      let 'lungtissue mean $os-figures.ApFigures.'Figure_23_1_8
-      let 'cancerousepithelia mean $os-figures.ApFigures.'Figure_4_0_1
-      let 'epithelia mean $os-figures.ApFigures.'Figure_4_2_2
-      let 'epithelia2 mean $os-figures.ApFigures.'Figure_4_2_4
-      let 'genericcell mean $os-figures.ApFigures.'Figure_3_2_1
+      let 'levels mean #os-figures.ApFigures.'Figure_1_2_1
+      let 'systems1 mean #os-figures.ApFigures.'Figure_1_2_2
+      let 'systems2 mean #os-figures.ApFigures.'Figure_1_2_3
+      let 'resp mean #os-figures.ApFigures.'Figure_23_1_1
+      let 'lung mean #os-figures.ApFigures.'Figure_23_2_1
+      let 'lungtissue mean #os-figures.ApFigures.'Figure_23_1_8
+      let 'cancerousepithelia mean #os-figures.ApFigures.'Figure_4_0_1
+      let 'epithelia mean #os-figures.ApFigures.'Figure_4_2_2
+      let 'epithelia2 mean #os-figures.ApFigures.'Figure_4_2_4
+      let 'genericcell mean #os-figures.ApFigures.'Figure_3_2_1
 
       / The Body's Structure
       /// For any question of health or fitness it is helpful to first understand the body's basic architecture; that is, how its smallest parts are assembled into larger structures.

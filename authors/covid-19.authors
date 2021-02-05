@@ -50,10 +50,6 @@ authors:
     fullname: Lydia Bourouiba
     email: lbouro@mit.edu
 
-  RainaMacIntyre:
-    fullname: C Raina MacIntyre
-    email: rainam@protonmail.com
-
   Morawska:
     fullname: L. Morawska
     email: l.morawska@qut.edu.au
@@ -194,10 +190,6 @@ authors:
     fullname: David L. Johnson
     email: David-Johnson@ouhsc.edu
 
-  Lai:
-    fullname: A. C. K. Lai
-    email: alvinlai@cityu.edu.hk
-
   Wilcox:
     fullname: M.H. Wilcox
     email: Mark.wilcox@leedsth.nhs.uk
@@ -217,10 +209,6 @@ authors:
   XiHe:
     fullname: Xi He
     email: ehylau@hku.hk
-
-  ChristianDrosten:
-    fullname: Christian Drosten
-    email: clemens.wendtner@muenchen-klinik.de
 
   GavinJoynt:
     fullname: Gavin M Joynt
@@ -253,10 +241,6 @@ authors:
   LanjuanLi:
     fullname: Lanjuan Li
     email: ljli@zju.edu.cn
-
-  KwokYuen:
-    fullname: Kwok-Yung Yuen
-    email: kyyuen@hku.hk
 
   Tangfeng:
     fullname: Tangfeng Lv
@@ -318,17 +302,9 @@ authors:
     fullname: D. Paraskevis
     email: dparask@med.uoa.gr
 
-  LucyDorp:
-    fullname: Lucy van Dorp
-    email: lucy.dorp.12@ucl.ac.uk
-
   GiorgioMattiuz:
     fullname: Giorgio Mattiuz
     email: giorgio.mattiuz@unifi.it
-
-  MichaelFarzan:
-    fullname: Michael Farzan
-    email: hchoe@scripps.edu
 
   NidhanBiswas:
     fullname: Nidhan K. Biswas
@@ -534,10 +510,6 @@ authors:
     fullname: Shu-An Lee
     email: salee@fcu.edu.tw
 
-  YLi:
-    fullname: Y. Li
-    email: tcliyi@polyu.edu.hk
-
   LorettaFernandez:
     fullname: Loretta A. Fernandez
     email: l.fernandez@northeastern.edu
@@ -574,6 +546,7 @@ authors:
   Lai:
     fullname: A.C.K. Lai
     email: mcklai@ntu.edu.sg
+    # email: alvinlai@cityu.edu.hk
     link: https://www.sciencedirect.com/science/article/abs/pii/S1352231005004231#!
 
   JennieKwon:
@@ -704,10 +677,6 @@ authors:
     fullname: John A. Jernigan
     email: jqj9@cdc.gov
 
-  HsienLin:
-    fullname: Hsien-Ho Lin
-    email: hsienho@ntu.edu.tw
-
   MeiyunWang:
     fullname: Meiyun Wang
     email: mywang@ha.edu.cn
@@ -831,17 +800,9 @@ authors:
     fullname: Clive B. Beggs
     email: c.beggs@leedsbeckett.ac.uk
 
-  MaheshJayaweera:
-    fullname: Mahesh Jayaweera
-    email: mahesh@guom.lk
-
   TakuyaYamagishi:
     fullname: Takuya Yamagishi
     email: tack-8@niid.go.jp
-
-  EmanuelGoldman:
-    fullname: Emanuel Goldman
-    email: egoldman@njms.rutgers.edu
 
   Manuel:
     fullname: Manuel Döhla
@@ -850,10 +811,6 @@ authors:
   FeiXiao:
     fullname: Fei Xiao
     email: xiaof35@mail.sysu.edu.cn
-
-  WenjieTan:
-    fullname: Wenjie Tan
-    email: tanwj@ivdc.chinacdc.cn
 
   MahmoudPourkarim:
     fullname: Mahmoud Reza Pourkarim
@@ -878,10 +835,6 @@ authors:
   VernonLee:
     fullname: Vernon J M Lee
     email: vernon_lee@moh.gov.sg
-
-  HiroshiNishiura:
-    fullname: Hiroshi Nishiura
-    email: nishiurah@med.hokudai.ac.jp
 
   JiYoungRhee:
     fullname:  Ji Young Rhee
@@ -1211,10 +1164,6 @@ authors:
     fullname: Tangchun Wu
     email: wut@tjmu.edu.cn
 
-  EliRosenberg:
-    fullname: Eli S. Rosenberg
-    email: erosenberg2@albany.edu
-
   BenGoldacre:
     fullname: Ben Goldacre
     email: ben.goldacre@phc.ox.ac.uk
@@ -1230,10 +1179,6 @@ authors:
   ArnaudFontanet:
     fullname: Arnaud Fontanet
     email: arnaud.fontanet@pasteur.fr
-
-  JasonSheltzer:
-    fullname: Jason M. Sheltzer
-    email: sheltzer@cshl.edu
 
   JasonSheltzer:
     fullname: Jason M. Sheltzer
@@ -1376,10 +1321,6 @@ authors:
     fullname: Yanling Wu
     email: yanlingwu@fudan.edu.cn
 
-  KwokYuen:
-    fullname: Kwok-Yung Yuen
-    email: kyyuen@hku.hk
-
   XinghuanWang:
     fullname: Xinghuan Wang
     email: wangxinghuan@whu.edu.cn
@@ -1425,10 +1366,6 @@ authors:
     fullname: Otto O. Yang
     email: oyang@mednet.ucla.edu
 
-  KwokYuen:
-    fullname: Kwok-Yung Yuen
-    email: kyyuen@hku.hk
-
   BelenVivar:
     fullname: Belen Prado-Vivar
     email: bprado@usfq.edu.ec
@@ -1458,10 +1395,6 @@ authors:
     fullname: Saurabh Mehandru
     email: saurabh.mehandru@mssm.edu
 
-  ChuanQin:
-    fullname: Chuan Qin
-    email: qinchuan@pumc.edu.cn
-
   ArthurEdridge:
     fullname: Arthur W. D. Edridge
     email: a.w.edridge@amsterdamumc.nl
@@ -1470,10 +1403,6 @@ authors:
   AniaWajnberg:
     fullname: Ania Wajnberg
     email: ania.wajnberg@mountsinai.org
-
-  MalikPeiris:
-    fullname: J.S. Malik Peiris
-    email: malik@hku.hk
 
   ScottHensley:
     fullname: Scott E. Hensley
@@ -1499,14 +1428,6 @@ authors:
   ChuanQin:
     fullname: Chuan Qin
     email: qinchuan@pumc.edu.cn
-
-  DanBarouch:
-    fullname: Dan H. Barouch
-    email: dbarouch@bidmc.harvard.edu
-
-  AkikoIwasaki:
-    fullname: Akiko Iwasaki
-    email: akiko.iwasaki@yale.edu
 
   MarkPandori:
     fullname: Mark Pandori
@@ -1603,10 +1524,6 @@ authors:
     fullname: Michael Farzan
     email: mfarzan@scripps.edu
 
-  RalphBaric:
-    fullname: Ralph S. Baric
-    email: rbaric@email.unc.edu
-
   KaitlynSadtler:
     fullname: Kaitlyn Sadtler
     email: kaitlyn.sadtler@nih.gov
@@ -1632,10 +1549,6 @@ authors:
   RobertMolenaar:
     fullname: Robert Jan Molenaar
     email: r.molenaar@gdanimalhealth.com
-
-  JesseBloom:
-    fullname: Jesse D. Bloom
-    email: jbloom@fredhutch.org
 
   LucyDorp:
     fullname: Lucy van Dorp
@@ -1919,10 +1832,6 @@ authors:
     fullname: Denis Y Logunov
     email: ldenisy@gmail.com
 
-  SusanBuchbinder:
-    fullname: Susan P Buchbinder
-    email: susan.buchbinder@sfdph.org
-
   AnnDuerr:
     fullname: Ann Duerr
     email: aduerr@hvtn.org
@@ -1946,11 +1855,6 @@ authors:
   GiuseppePantaleo:
     fullname: Giuseppe Pantaleo
     email: giuseppe.pantaleo@chuv.ch
-
-  VincentMunster:
-    fullname: Vincent Munster
-    email: vincent.munster@nih.gov
-    link: https://ned.nih.gov/search/ViewDetails.aspx?NIHID=0014385336
 
   DavidPace:
     fullname: David Pace
@@ -2157,6 +2061,7 @@ authors:
   JianweiWang:
     fullname: Jianwei Wang
     emial: jianwei.wang@ipbcams.ac.cn
+    # email: wangjw28@163.com
 
   LangChen:
     fullname: Lang Chen
@@ -2319,10 +2224,6 @@ authors:
   ZhengliShi:
     fullname: Zhengli Shi
     email: zlshi@wh.iov.cn
-
-  ZhengliShi:
-    fullname: Zhengli Shi
-    email: zlshi@wh.iov.cn
     link: http://sourcedb.whiov.cas.cn/yw/rck/200907/t20090718_2100074.html
 
   Hatzakis:
@@ -2333,21 +2234,9 @@ authors:
     fullname: Houssam Shaib
     email: hs45@aub.edu.lb
 
-  TungPhan:
-    fullname: Tung Phan
-    email: phantg@upmc.edu
-
   WenjieTan:
     fullname: Wenjie Tan
     email: tanwj@ivdc.chinacdc.cn
-
-  JianweiWang:
-    fullname: Jianwei Wang
-    email: wangjw28@163.com
-
-  JustinLessler:
-    fullname: Justin Lessler
-    email: justin@jhu.edu
 
   ZhangYing:
     fullname: Zhang Ying
@@ -2368,10 +2257,6 @@ authors:
   EunhaShim:
     fullname: Eunha Shim
     email: alicia@ssu.ac.kr
-
-  BarnabyYoung:
-    fullname: Barnaby Edward Young
-    email: Barnaby_young@ncid.sg
 
   SarahScott:
     fullname: Sarah E Scott
@@ -2451,10 +2336,6 @@ authors:
     fullname: Shunqing Xu
     email: xust@hust.edu.cn
 
-  KwokYuen:
-    fullname: Kwok-Yung Yuen
-    email: kyyuen@hku.hk
-
   ChristopheFraser:
     fullname: Christophe Fraser
     email: christophe.fraser@bdi.ox.ac.uk
@@ -2492,6 +2373,7 @@ authors:
   YLi:
     fullname: Y. Li
     email: liyg@hku.hk
+    # email: tcliyi@polyu.edu.hk
 
   AlessandroVespignani:
     fullname: Alessandro Vespignani

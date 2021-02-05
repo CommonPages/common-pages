@@ -3164,7 +3164,7 @@ feed May2020
 
 
   # Diagnostic
-  @@PeiShi
+  # @@PeiShi
   // A high-throughput neutralizing antibody assay for COVID-19 diagnosis and vaccine evaluation
   doi: https://doi.org/10.1101/2020.05.21.109546
   ref 'Muruato_et_al_05_22_2020

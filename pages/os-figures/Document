@@ -1,5 +1,5 @@
 
-id: "$os-figures"
+id: "#os-figures"
 name: "Figures"
 network: "common.page"
 authorize:

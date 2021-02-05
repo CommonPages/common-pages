@@ -1,7 +1,7 @@
 
-id: "$os-life"
+id: "#os-life"
 name: "Life"
 network: "common.page"
 authorize:
 use:
-  - "$os-figures"
+  - "#os-figures"
