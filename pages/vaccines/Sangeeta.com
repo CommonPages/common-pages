@@ -13,6 +13,7 @@ feed Sangeeta
     quote !a =
 
   #
+
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -23,8 +24,6 @@ feed Sangeeta
 
     / February, 2021 - bioRxiv
     quote !a =
-
-
 
   #
 
@@ -39,8 +38,6 @@ feed Sangeeta
     / February, 2021 - bioRxiv
     quote !a =
 
-
-
   #
 
   // DUMMY TITLE
@@ -54,10 +51,7 @@ feed Sangeeta
     / February, 2021 - bioRxiv
     quote !a =
 
-
-
   #
-
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -70,9 +64,222 @@ feed Sangeeta
     quote !a =
 
 
+  #
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+  #
+  // Safety and immunogenicity of a candidate Middle East respiratory syndrome coronavirus viral-vectored vaccine: a dose-escalation, open-label, non-randomised, uncontrolled, phase 1 trial
+  doi: https://doi.org/10.1016/S1473-3099(20)30160-2
+  ref 'Folegatti_et_al_04_20_2020
+    head = This dose-escalation, open-label, non-randomised, uncontrolled, phase 1 trial was done at the Centre for Clinical Vaccinology and Tropical Medicine (Oxford, UK) and included healthy people aged 18–50 years with negative pre-vaccination tests for HIV antibodies, hepatitis B surface antigen, and hepatitis C antibodies (and a negative urinary pregnancy test for women). Participants received a single intramuscular injection of ChAdOx1 MERS at three different doses: the low-dose group received 5 × 109 viral particles, the intermediate-dose group received 2·5 × 1010 viral particles, and the high-dose group received 5 × 1010 viral particles.
+
+    > Background
+      Cases of Middle East respiratory syndrome coronavirus (MERS-CoV) infection continue to rise in the Arabian Peninsula 7 years after it was first described in Saudi Arabia. MERS-CoV poses a significant risk to public health security because of an absence of currently available effective countermeasures. We aimed to assess the safety and immunogenicity of the candidate simian adenovirus-vectored vaccine expressing the full-length spike surface glycoprotein, ChAdOx1 MERS, in humans.
+
+    > Methods
+      This dose-escalation, open-label, non-randomised, uncontrolled, phase 1 trial was done at the Centre for Clinical Vaccinology and Tropical Medicine (Oxford, UK) and included healthy people aged 18–50 years with negative pre-vaccination tests for HIV antibodies, hepatitis B surface antigen, and hepatitis C antibodies (and a negative urinary pregnancy test for women). Participants received a single intramuscular injection of ChAdOx1 MERS at three different doses: the low-dose group received 5 × 109 viral particles, the intermediate-dose group received 2·5 × 1010 viral particles, and the high-dose group received 5 × 1010 viral particles. The primary objective was to assess safety and tolerability of ChAdOx1 MERS, measured by the occurrence of solicited, unsolicited, and serious adverse events after vaccination. The secondary objective was to assess the cellular and humoral immunogenicity of ChAdOx1 MERS, measured by interferon-γ-linked enzyme-linked immunospot, ELISA, and virus neutralising assays after vaccination. Participants were followed up for up to 12 months. This study is registered with ClinicalTrials.gov, NCT03399578.
+
+    > Findings
+      Between March 14 and Aug 15, 2018, 24 participants were enrolled: six were assigned to the low-dose group, nine to the intermediate-dose group, and nine to the high-dose group. All participants were available for follow-up at 6 months, but five (one in the low-dose group, one in the intermediate-dose group, and three in the high-dose group) were lost to follow-up at 12 months. A single dose of ChAdOx1 MERS was safe at doses up to 5 × 1010 viral particles with no vaccine-related serious adverse events reported by 12 months. One serious adverse event reported was deemed to be not related to ChAdOx1 MERS. 92 (74% [95% CI 66–81]) of 124 solicited adverse events were mild, 31 (25% [18–33]) were moderate, and all were self-limiting. Unsolicited adverse events in the 28 days following vaccination considered to be possibly, probably, or definitely related to ChAdOx1 MERS were predominantly mild in nature and resolved within the follow-up period of 12 months. The proportion of moderate and severe adverse events was significantly higher in the high-dose group than in the intermediate-dose group (relative risk 5·83 [95% CI 2·11–17·42], p<0·0001) Laboratory adverse events considered to be at least possibly related to the study intervention were self-limiting and predominantly mild in severity. A significant increase from baseline in T-cell (p<0·003) and IgG (p<0·0001) responses to the MERS-CoV spike antigen was observed at all doses. Neutralising antibodies against live MERS-CoV were observed in four (44% [95% CI 19–73]) of nine participants in the high-dose group 28 days after vaccination, and 19 (79% [58–93]) of 24 participants had antibodies capable of neutralisation in a pseudotyped virus neutralisation assay.
+
+    > Interpretation
+      ChAdOx1 MERS was safe and well tolerated at all tested doses. A single dose was able to elicit both humoral and cellular responses against MERS-CoV. The results of this first-in-human clinical trial support clinical development progression into field phase 1b and 2 trials.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2020 - Lancet Infect Dis.
+    quote !a = ChAdOx1 MERS was safe and well tolerated at all tested doses. A single dose was able to elicit both humoral and cellular responses against MERS-CoV. The results of this first-in-human clinical trial support clinical development progression into field phase 1b and 2 trials.
+
+    / April, 2020 - Lancet Infect Dis.
+    quote !b = The vaccine was immunogenic at all doses, inducing seroconversion in the majority of participants and T-cell responses in all, with responses demonstrating good durability up to 1 year after vaccination. Onset of detectable immune responses was rapid, with T-cell responses peaking 14 days after vaccination and antibodies at 28 days.
+
+    / April, 2020 - Lancet Infect Dis.
+    quote !c = In this study, we have shown that the candidate ChAdOx1 MERS vaccine given as a single dose was safe and well tolerated in all three groups, although a higher reactogenicity profile was observed at the dose of 5 × 1010 viral particles, with five of nine participants in that group reporting short-lived fever (temperature higher than 37·5°C).
+
+    / April, 2020 - Lancet Infect Dis.
+    quote !d = No serious adverse reactions occurred. The majority of adverse events reported were mild or moderate in severity, and all adverse events were self-limiting.
+
+
+    / April, 2020 - Lancet Infect Dis.
+    quote !e = The profile of adverse events reported in this trial is similar to that for another ChAdOx1 vectored vaccine expressing influenza A antigens and other closely related simian adenoviruses, such as ChAdOx2, ChAd3, and ChAd63 vectored vaccines expressing different antigens.
+
+
+
+  #
+  // International Seroepidemiology of Adenovirus Serotypes 5, 26, 35, and 48 in Pediatric and Adult Populations
+  doi: https://dx.doi.org/10.1016%2Fj.vaccine.2011.05.025
+  ref 'Barouch_et_al_05_25_2011
+    head = We report Ad5, Ad26, Ad35, and Ad48 NAb titers in 4,381 individuals from North America, South America, sub-Saharan Africa, and Southeast Asia.
+
+    > Abstract
+      Recombinant adenovirus serotype 5 (rAd5) vaccine vectors for HIV-1 and other pathogens have been shown to be limited by high titers of Ad5 neutralizing antibodies (NAbs) in the developing world. Alternative serotype rAd vectors have therefore been constructed. Here we report Ad5, Ad26, Ad35, and Ad48 NAb titers in 4,381 individuals from North America, South America, sub-Saharan Africa, and Southeast Asia. As expected, Ad5 NAb titers were both frequent and high magnitude in sub-Saharan Africa and Southeast Asia. In contrast, Ad35 NAb titers proved infrequent and low in all regions studied, and Ad48 NAbs were rare in all regions except East Africa. Ad26 NAbs were moderately common in adults in sub-Saharan Africa and Southeast Asia, but Ad26 NAb titers proved markedly lower than Ad5 NAb titers in all regions, and these relatively low Ad26 NAb titers did not detectably suppress the immunogenicity of 4×1010 vp of a rAd26-Gag/Pol/Env/Nef vaccine in rhesus monkeys. These data inform the clinical development of alternative serotype rAd vaccine vectors in the developing world.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / May, 2011 - Vaccine
+    quote !a = Ad5 NAb titers were both frequent and high magnitude in sub-Saharan Africa and Southeast Asia.
+
+    / May, 2011 - Vaccine
+    quote !b = Ad35 NAb titers proved infrequent and low in all regions studied, and Ad48 NAbs were rare in all regions except East Africa.
+
+    / May, 2011 - Vaccine
+    quote !c = Ad26 NAbs were moderately common in adults in sub-Saharan Africa and Southeast Asia, but Ad26 NAb titers proved markedly lower than Ad5 NAb titers in all regions, and these relatively low Ad26 NAb titers did not detectably suppress the immunogenicity of 4×1010 vp of a rAd26-Gag/Pol/Env/Nef vaccine in rhesus monkeys.
+
+    / May, 2011 - Vaccine
+    quote !d = Our data show that Ad26, Ad35, and Ad48 NAb titers were substantially lower than Ad5 NAb titers in multiple large international human populations (N = 4381).
+
+    / May, 2011 - Vaccine
+    quote !e = The low Ad26 and Ad35 seroprevalence and NAb titers in pediatric populations suggest that seroconversion to these Ads is an age-dependent process. We previously reported that Ad5 seroconversion was also age-dependent, with maternal antibodies disappearing by approximately 6 months of age and high Ad5 NAb.titers often developing by age 2 in sub-Saharan Africa.
+
+    / May, 2011 - Vaccine
+    quote !f = Our current data from infants, schoolchildren, and adults from South Africa suggest that Ad26 and Ad35 NAbs increase at a slower rate than do Ad5 NAbs, likely reflecting a lower rate of natural infection with these serotypes. These data may be relevant for HIV-1 vaccine development, since infants and pre-adolescents represent potential ultimate vaccine target populations.
+
+    / May, 2011 - Vaccine
+    quote !g = We observed that relatively low baseline Ad26 NAb titers did not detectably suppress humoral or cellular immune responses elicited by a rAd26-Gag/Pol/Env/Nef vaccine in rhesus monkeys. Baseline Ad26-specific T cell responses were also induced in these animals (data not shown), although the impact of Ad-specific cellular immune responses on rAd vector immunogenicity remains unclear.
+
+
 
   #
 
+  // Safety and immunogenicity of a recombinant adenovirus type-5 vector-based Ebola vaccine in healthy adults in Sierra Leone: a single-centre, randomised, double-blind, placebo-controlled, phase 2 trial
+  doi: https://doi.org/10.1016/S0140-6736(16)32617-4
+  ref 'Zhu_et_al_12_22_2016
+    head = We did a single-centre, randomised, double-blind, placebo-controlled, phase 2 clinical trial at Sierra Leone–China Friendship Hospital, Freetown, Sierra Leone. We recruited healthy adults aged 18–50 years who were HIV negative, had no history of Ebola virus infection, and had no previous immunisation with other Ebola vaccine candidates.
+
+    > Background
+      A recombinant adenovirus type-5 vector-based vaccine expressing the glycoprotein of Ebola Zaire Makona variant showed good safety and immunogenicity in a phase 1 trial of healthy Chinese adults. We aimed to assess the safety and immunogenicity of this vaccine in healthy adults in Sierra Leone and to determine the optimal dose.
+
+    > Methods
+      We did a single-centre, randomised, double-blind, placebo-controlled, phase 2 clinical trial at Sierra Leone–China Friendship Hospital, Freetown, Sierra Leone. We recruited healthy adults aged 18–50 years who were HIV negative, had no history of Ebola virus infection, and had no previous immunisation with other Ebola vaccine candidates. Participants were sequentially enrolled and randomly assigned (2:1:1), by computer-generated block randomisation (block size of eight), to receive the high-dose vaccine (1·6 × 1011 viral particles), low-dose vaccine (8·0 × 1010 viral particles), or placebo (containing only vaccine excipients, with no viral particles). Participants, investigators, and study staff (except two study pharmacists) were masked from treatment allocation. The primary safety outcome was occurrence of solicited adverse reactions within 7 days of vaccination, analysed by intention to treat. The primary immunogenicity outcome was glycoprotein-specific antibody responses at days 14, 28, and 168 after vaccination, analysed in all vaccinated participants who had blood samples drawn for antibody tests. The trial is registered with the Pan African Clinical Trials Registry, number PACTR201509001259869, and is completed.
+
+    > Findings
+      During Oct 10–28, 2015, 500 participants were enrolled and randomly assigned to receive the high-dose vaccine (n=250), low-dose vaccine (n=125), or placebo (n=125). 132 (53%) participants in the high-dose group, 60 (48%) in the low-dose group, and 54 (43%) in the placebo group reported at least one solicited adverse reaction within 7 days of vaccination. Most adverse reactions were mild and self-limiting. Solicited injection-site adverse reactions were significantly more frequent in vaccine recipients (65 [26%] in high-dose group and 31 [25%] in low-dose group) than in those receiving placebo (17 [14%]; p=0·0169). Glycoprotein-specific antibody responses were detected from day 14 onwards (geometric mean titre 1251·0 [95% CI 976·6–1602·5] in low-dose group and 1728·4 [1459·4–2047·0] in high-dose group) and peaked at day 28 (1471·8 [1151·0–1881·8] and 2043·1 [1762·4–2368·4]), but declined quickly in the following months (223·3 [148·2–336·4] and 254·2 [185·0–349·5] at day 168). Geometric mean titres in the placebo group remained around 6·0–6·8 throughout the study period. Three serious adverse events (malaria, gastroenteritis, and one fatal asthma episode) were reported in the high-dose vaccine group, but none was deemed related to the vaccine.
+
+    > Interpretation
+      The recombinant adenovirus type-5 vector-based Ebola vaccine was safe and highly immunogenic in healthy Sierra Leonean adults, and 8·0 × 1010 viral particles was the optimal dose.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / December, 2016 - The Lancet
+    quote !a = The recombinant adenovirus type-5 vector-based Ebola vaccine was safe and highly immunogenic in healthy Sierra Leonean adults, and 8·0 × 1010 viral particles was the optimal dose.
+
+    / December, 2016 - The Lancet
+    quote !b = In this phase 2 trial, the high-dose vaccine was associated with increased injection-site reactions, which was consistent with findings of the phase 1 study. However, no severe safety concern of the vaccine was raised, and most adverse reactions were mild or moderate
+
+    / December, 2016 - The Lancet
+    quote !c = One participant in the high-dose group had a fatal serious adverse event (asthma episode) 5 days after vaccination. This participant did not report her previous asthma history at enrolment and was therefore randomised and vaccinated. Although this episode was considered unlikely to have been triggered by the vaccine.
+
+    / December, 2016 - The Lancet
+    quote !d = Although a high titre of glycoprotein-specific antibodies could be achieved within 28 days of vaccination at a dose of 8·0 × 1010 viral particles or more, humoral immunity was not as robust and long-lasting as we expected. Durability of the vaccine-elicited specific antibodies was insufficient in the following months, with a much lower antibody titre on day 168 than that observed in Chinese participants who received 1·6 × 1011 viral particles in the phase 1 trial (unpublished data).
+
+    # / December, 2016 - The Lancet
+    # quote !e = More than 85% of healthy Sierra Leonean adults in our study had pre-existing immunity against this vector. We tried to circumvent this problem by increasing the vaccine dose administered. However, our results showed that although a high titre of glycoprotein-specific antibodies could be achieved within 28 days of vaccination at a dose of 8·0 × 1010 viral particles or more, humoral immunity was not as robust and long-lasting as we expected.
+
+    / December, 2016 - The Lancet
+    quote !e = We did HIV tests at enrolment to exclude HIV-infected individuals from the study. At the end of the study (day 168), five participants in the high-dose group and one in the placebo group were identified as HIV positive, corresponding to annual infection rates of 4% and 1·6 %, respectively. Although HIV infection rates did not differ significantly among the treatment groups, this result is still important to note.
+
+
+
+
+
+  # # HIV, AD5
+  // Efficacy Trial of a DNA/rAd5 HIV-1 Preventive Vaccine
+  doi: https://doi.org/10.1056/NEJMoa1310566
+  ref 'Hammer_et_al_11_28_2013
+    head = In our study, we enrolled 2504 participants at 21 sites in the United States. We tested the efficacy of a DNA prime–recombinant adenovirus type 5 boost (DNA/rAd5) vaccine regimen in persons at increased risk for HIV-1 infection in the United States. On April 22, 2013, the data and safety monitoring board recommended stopping vaccinations. At that time, approximately two thirds of the total predicted person-years of follow-up between enrollment and the 24-month study visit had been completed.
+
+    > Background
+      A safe and effective vaccine for the prevention of human immunodeficiency virus type 1 (HIV-1) infection is a global priority. We tested the efficacy of a DNA prime–recombinant adenovirus type 5 boost (DNA/rAd5) vaccine regimen in persons at increased risk for HIV-1 infection in the United States.
+
+    > Methods
+      At 21 sites, we randomly assigned 2504 men or transgender women who have sex with men to receive the DNA/rAd5 vaccine (1253 participants) or placebo (1251 participants). We assessed HIV-1 acquisition from week 28 through month 24 (termed week 28+ infection), viral-load set point (mean plasma HIV-1 RNA level 10 to 20 weeks after diagnosis), and safety. The 6-plasmid DNA vaccine (expressing clade B Gag, Pol, and Nef and Env proteins from clades A, B, and C) was administered at weeks 0, 4, and 8. The rAd5 vector boost (expressing clade B Gag-Pol fusion protein and Env glycoproteins from clades A, B, and C) was administered at week 24.
+
+    > Results
+      In April 2013, the data and safety monitoring board recommended halting vaccinations for lack of efficacy. The primary analysis showed that week 28+ infection had been diagnosed in 27 participants in the vaccine group and 21 in the placebo group (vaccine efficacy, −25.0%; 95% confidence interval, −121.2 to 29.3; P=0.44), with mean viral-load set points of 4.46 and 4.47 HIV-1 RNA log10 copies per milliliter, respectively. Analysis of all infections during the study period (41 in the vaccine group and 31 in the placebo group) also showed lack of vaccine efficacy (P=0.28). The vaccine regimen had an acceptable side-effect profile.
+
+    > Conclusions
+      The DNA/rAd5 vaccine regimen did not reduce either the rate of HIV-1 acquisition or the viral-load set point in the population studied. (Funded by the National Institute of Allergy and Infectious Diseases; ClinicalTrials.gov number, NCT00865566. opens in new tab.)
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / November, 2013 - N Engl J Med
+    quote !a = The DNA/rAd5 vaccine regimen did not reduce either the rate of HIV-1 acquisition or the viral-load set point in the population studied.
+
+    / November, 2013 - N Engl J Med
+    quote !b = The vaccine regimen had an acceptable side-effect profile. Vaccine recipients had a significantly higher rate of reactogenicity than did placebo recipients, but most reactions were mild or moderate.
+
+    / November, 2013 - N Engl J Med
+    quote !c = Nonfatal adverse events were balanced in the two study groups, with only one event (a severe viral syndrome) judged to be related to a study product. Six participants (all in the placebo group) died during the study
+
+    / November, 2013 - N Engl J Med
+    quote !d = The rAd5 vector that we used in this study differed substantially from that used in the Step study, since it had deletions in more of the adenovirus genome and included HIV-1 gene inserts coding for Env.
+
+
+
+  # HIV, AD5
+  // Overview of STEP and Phambili trial results: two phase IIb test-of-concept studies investigating the efficacy of MRK adenovirus type 5 gag/pol/nef subtype B HIV vaccine
+  doi: https://doi.org/10.1097/coh.0b013e32833d2d2b
+  ref 'Gray_et_al_09_2010
+    head = Two phase IIb test-of-concept studies evaluated the replication-defective adenovirus type 5 (Ad5) vaccine MRK gag/pol/nef HIV vaccine to prevent infection or decrease early plasma viral load in disparate populations. The STEP study enrolled men and women in the Americas, Caribbean and Australia; the Phambili trial enrolled men and women in South Africa, where the modes of sexual transmission and HIV-1 risk, subtypes of HIV-1, and background Ad5 seroprevalence differed.
+
+    > Purpose of review
+      Two phase IIb test-of-concept studies evaluated the replication-defective adenovirus type 5 (Ad5) vaccine MRK gag/pol/nef HIV vaccine to prevent infection or decrease early plasma viral load in disparate populations. The STEP study enrolled men and women in the Americas, Caribbean and Australia; the Phambili trial enrolled men and women in South Africa, where the modes of sexual transmission and HIV-1 risk, subtypes of HIV-1, and background Ad5 seroprevalence differed.
+
+    > Recent findings
+      Vaccination in both studies were stopped, after the first interim efficacy analysis of the STEP study crossed predetermined nonefficacy boundaries. Neither trial demonstrated a decrease in HIV acquisition nor decreased early plasma viral load in vaccinees compared with placebo recipients. Post-hoc analyses of men enrolled in the STEP study showed a larger number of HIV infections in the subgroup of vaccinated men who were Ad5-seropositive and uncircumcised compared with a comparable placebo group. This was not demonstrated in the Phambili study, in which most men were heterosexual, whereas most in STEP were homosexual/bisexual. Further analysis of the STEP study has yet to explain the effect of Ad5 seroprevalence on increased HIV-1 susceptibility in men receiving the vaccine. However, promising vaccine effects on early viral control were seen, and the possibility of effects on early viral load set-point in women in Phambili was seen.
+
+    > Summary
+      These trials have provided a number of lessons about the importance of clinical trials in the HIV vaccine discovery process, and insight into the type and level of immune response that will be required for control of viral replication.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / September, 2010 - Current Opinion in HIV and AIDS:
+    quote !a = Vaccination in both studies were stopped, after the first interim efficacy analysis of the STEP study crossed predetermined nonefficacy boundaries.
+
+    / September, 2010 - Current Opinion in HIV and AIDS:
+    quote !b = Neither trial demonstrated a decrease in HIV acquisition nor decreased early plasma viral load in vaccinees compared with placebo recipients.
+
+    / September, 2010 - Current Opinion in HIV and AIDS:
+    quote !c = Post-hoc analyses of men enrolled in the STEP study showed a larger number of HIV infections in the subgroup of vaccinated men who were Ad5-seropositive and uncircumcised compared with a comparable placebo group.Further analysis of the STEP study has yet to explain the effect of Ad5 seroprevalence on increased HIV-1 susceptibility in men receiving the vaccine.
+
+    / September, 2010 - Current Opinion in HIV and AIDS:
+    quote !d = Promising vaccine effects on early viral control were seen, and the possibility of effects on early viral load set-point in women in Phambili was seen.
+
+
+
+  #
   // Vaccine development against coronavirus (2003 to present): An overview, recent advances, current scenario, opportunities and challenges
   doi: https://dx.doi.org/10.1016%2Fj.dsx.2020.07.022
   ref 'Badgujar_et_al_07_21_2020
