@@ -786,9 +786,6 @@ subject module Transmission
     - Other Claims
       !HEPAfilters
 
-    -
-      Airways
-
     claim !HEPAfilters = One study has emphasized on importance of efficacy of HEPA filters for airborne contaminant in airliner cabins.
       -
         'Mazumdar_et_al_05_29_2008
@@ -853,31 +850,46 @@ subject module Transmission
         'Freedman_et_al_09_25_2020.!p
         'Freedman_et_al_09_25_2020.!f
 
+    # Airlines is low risk
+    - Triage 
+      'Schwartz_et_al_04_14_2020
+      'Schwartz_et_al_04_14_2020.!a
+    # dominant transmission routes in air cabins are probably the close contact route for influenza, the fomite route for norovirus, and all 3 routes (airborne, close contact, and fomite routes) for SARS CoV.
+    -
+      'Lei_et_al_01_06_2008
+      'Lei_et_al_01_06_2008.!a
+      'Lei_et_al_01_06_2008.!b
+    # In one Influenza outbreak the airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
+    -
+      'Moser_et_al_1979
+      'Moser_et_al_1979.!a
+    # Outbreak in SARS - Illness in passengers was related to the physical proximity to the index patient
+    -
+      'Olsen_et_al_2003
+      'Olsen_et_al_2003.!a
+      'Olsen_et_al_2003.!b
+      'Olsen_et_al_2003.!c
+      'Olsen_et_al_2003.!d
+    # Using airline transportation network can help in analysis of containment policies and epidemic risk assessment.
+    -
+      'Colizza_et_al_2006
+      'Colizza_et_al_2006.!a
+      'Colizza_et_al_2006.!b
+      'Colizza_et_al_2006.!c
+    # Long flight and Passengers seated within two rows of the index patient were exposed to TB
+    -
+      'Kenyon_et_al_04_11_1996
+      'Kenyon_et_al_04_11_1996.!a
+    # Tranmission to 12 patients in flight - Unsure about measures or no Measures (Check again)
+    -
+      'Yang_et_al_03_30_2020
+      'Yang_et_al_03_30_2020.!a
 
-    subject Airways
-      -
-        'Lei_et_al_01_06_2020
-        'Moser_et_al_1979
-        'Olsen_et_al_2003
-        'Colizza_et_al_2006
-        'Olsen_et_al_12_18_2003
-        'Kenyon_et_al_04_11_1996
-        'Hickman_et_al_03_22_1995
-        'Yang_et_al_03_30_2020
-      - Latest papers on flight
-        'Olsen_et_al_12_18_2003
-        'Kenyon_et_al_04_11_1996
-        'Moser_et_al_1979
-        'Hickman_et_al_03_22_1995
-        'Zheng_et_al_03_14_2020
-        'Zhao_et_al_01_30_2020
-        'Liu_et_al_03_12_2020
-        'Qian_et_al_03_17_2020
-        'Yang_et_al_03_30_2020
-        'Chen_et_al_07_30_2020
-        'Lei_et_al_12_15_2017
-      - Latest papers on airplane
-        'Furuse_et_al_06_10_2020
-        'Kenyon_et_al_04_11_1996
-        'Moser_et_al_1979
-        'Liu_et_al_03_12_2020
+    # Study in Wuhan found strong and significant association between travel by train with increase in COVID-19 cases whereas associations with flights failed to reach statistical significance.
+    -
+      'Zhao_et_al_01_30_2020
+      'Zhao_et_al_01_30_2020.!a
+    # In Response to Zhao authors stated airlines played an important role in spread of epidemics (Can skip this)
+    -
+      'Zheng_et_al_03_14_2020
+      'Zheng_et_al_03_14_2020.!a

@@ -634,6 +634,7 @@ subject module Vaccines
         !OngoingTrials
         !Phase12SputnikV
         !Phase3SputnikV
+        !Phase3
 
       - Key Concerns
         Ad5-nCOV.!Concern
@@ -666,6 +667,13 @@ subject module Vaccines
           'SputnikV_et_al_11_11_2020.!c
           'SputnikV_et_al_11_11_2020.!d
 
+      claim !Phase3 = Phase 3 trial results were published in Feb of 2020. 21977 adults were randomized to recieve vaccine or placebo. Authors reported that this interim analysis of the phase 3 trial of Gam-COVID-Vac showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort.
+        -
+          'Logunov_et_al_02_02_2021
+          'Logunov_et_al_02_02_2021.!a
+          'Logunov_et_al_02_02_2021.!b
+          'Logunov_et_al_02_02_2021.!c
+
     / Sinovac
     subject CoronaVac
       head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. In Jan of 2021, Brazil announced that Sinovac has an efficacy rate just over 50 percent. Sinovac is approved for use in China.
@@ -695,6 +703,7 @@ subject module Vaccines
       -
         !OngoingTrials
         !Phase12CoronaVac
+        !Phase12OldPeople
         !Phase3Brazil
 
       / On going clinical trials
@@ -712,6 +721,16 @@ subject module Vaccines
           'Zhang_et_al_11_17_2020.!a
           'Zhang_et_al_11_17_2020.!b
           'Zhang_et_al_11_17_2020.!c
+
+      / Old People
+      claim !Phase12OldPeople = Phase 1 & 2 trial for age 60 and above were published in Feb of 2020. 72 participants were enrolled in phase 1, 350 participants were enrolled in phase 2 to recieve vaccine or placebo. Authors reported that CoronaVac is safe and well tolerated in older adults. Neutralising antibody titres induced by the 3 μg dose were similar to those of the 6 μg dose, and higher than those of the 1·5 μg dose
+        -
+          'Wu_et_al_02_03_2021
+          'Wu_et_al_02_03_2021.!a
+          'Wu_et_al_02_03_2021.!b
+          'Wu_et_al_02_03_2021.!c
+
+
 
       claim !Phase3Brazil = In January of 2021, the Brazilian government announced that the CoronaVac has an efficacy rate of just over 50 percent. Interim results has not been published yet.
         -
