@@ -8,15 +8,13 @@ subject module Vaccines
     Candidates
     Effects
     Variants
-
+  -
+    Triage
   - Questions
     ?AsymptomaticInfection
     ?ReducedTransmission
     ?AntigenExposure
     ?EpigeneticChange
-
-  -
-    Triage
 
   / Approved Vaccines
   subject Approved
@@ -225,6 +223,7 @@ subject module Vaccines
         !Olderpeopledose
       - Efficacy against UK and SA variant
         !Variantefficacy
+        !AntibodyNeutralization
 
 
 
@@ -299,6 +298,11 @@ subject module Vaccines
           'Wu_et_al_01_25_2021.!a
           'Wu_et_al_01_25_2021.!b
 
+      claim !AntibodyNeutralization = One study found that both infection- and vaccine(Moderna Vaccine)-induced antibodies were effective at neutralizing the SARS-CoV-2 B.1.1.7 variant
+        -
+          'Edara_et_al_02_05_2021
+          'Edara_et_al_02_05_2021.!a
+
 
     / Oxford–AstraZeneca
     subject AZD1222
@@ -332,6 +336,9 @@ subject module Vaccines
         !Phase12AstraZeneca
         !OldAge
         !Phase3
+        !Phas3Dosing
+      - Efficacy against UK variant
+        !VariantEfficacy
 
       - Key Concern
         !EffectiveDosing
@@ -344,8 +351,6 @@ subject module Vaccines
         !ReasoningLowDose2
       -
         Ad5-nCOV.!IntranasalDelivery
-
-
 
       / Clinical Trails
       claim !OngoingTrials = Phase 1 & 2 trials began in April of 2020. Phase 2 & 3 trials started in May of 2020 in UK. The estimated primary completion date is March of 2021. Trials will evaluate the safety, efficacy, and Immunogenicity of AZD1222.
@@ -400,6 +405,12 @@ subject module Vaccines
           'Voysey_et_al_12_08_2020.!f
 
       / Effective Dosing
+      claim !Phas3Dosing = 17,177 (8948 in UK, 6753 in Brazil and 1476 in South Africa) participants were eligible efficacy analysis. The primary analysis of overall vaccine efficacy >14 days after the second dose including LD/SD and SD/SD groups, based on the prespecified criteria was 66.7%. Vaccine efficacy after a single standard dose of vaccine from day 22 to day 90 post vaccination was 76%. Authors stated that vaccinating with a single dose, with a second dose given after a 3 month period is an effective strategy.
+        -
+          'Voysey_et_al_02_01_2021
+          'Voysey_et_al_02_01_2021.!a
+
+      / Effective Dosing
       claim !EffectiveDosing = Researchers have raised concerns about the lingering unknowns in the phase III trials about the most effective dosing regimen and how well it works in older adults.
         -
           'Ledford_et_al_12_08_2020
@@ -430,6 +441,8 @@ subject module Vaccines
           'Pace_et_al_02_17_2015
           'Pace_et_al_02_17_2015.!a
           'Pace_et_al_02_17_2015.!b
+
+      claim !VariantEfficacy = Efficacy data of ChAdOx1 nCoV-19 Vaccine Against SARS-CoV-2 was published in Feb of 2020. Authors reported that efficacy of ChAdOx1 nCoV-19 against the B.1.1.7 variant of SARS-CoV-2 is similar to the efficacy of the vaccine against other lineages.
 
     / CanSino Bio
     subject Ad5-nCOV
@@ -885,7 +898,6 @@ subject module Vaccines
           'Sapkal_et_al_01_27_2021
           'Sapkal_et_al_01_27_2021.!a
 
-
   / Candidate Vaccines
   subject Candidates
 
@@ -1039,6 +1051,9 @@ subject module Vaccines
       Approved.Tozinameran.!Variantefficacy
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
+      Approved.mRNA-1273.!AntibodyNeutralization
+    - Oxford
+      Approved.AZD1222.!VariantEfficacy
     - Covaxin
       Approved.BBV152.!UKvariant
     - Novavax
@@ -1050,8 +1065,9 @@ subject module Vaccines
       Variants.B117.!VaccineEffectiveness
     - Other Claims (SA Variant)
       Variants.B1351.!Reinfection
+    - Key Concern  
       Variants.B1351.!Neutralizingescape
-
+      Variants.B1351.!RecurrentDeletion
 
   —
   / Vaccine Cohorts and Considerations

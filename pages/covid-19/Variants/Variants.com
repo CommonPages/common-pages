@@ -792,6 +792,7 @@ subject Variants
       !Vaccineefficacy
       !Reinfection
       !Neutralizingescape
+      !RecurrentDeletion
     - Mutation
       !Mutation
       !E484K
@@ -867,6 +868,14 @@ subject Variants
       -
         'Wibmer_et_al_01_19_2021
         'Wibmer_et_al_01_19_2021.!g
+
+    claim !RecurrentDeletion = Deletions in RDRs (recurrent deletion regions) confer resistance to neutralizing antibodies. By altering stretches of amino acids, deletions appear to accelerate SARS-CoV-2 antigenic evolution and may, more generally, drive adaptive evolution.
+      -
+        'McCarthy_et_al_02_03_2021
+        'McCarthy_et_al_02_03_2021.!a
+        'McCarthy_et_al_02_03_2021.!b
+        'McCarthy_et_al_02_03_2021.!c
+
 
 
 
