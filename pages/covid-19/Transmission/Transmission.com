@@ -770,7 +770,7 @@ subject module Transmission
 
   / Inflight Transmission
   subject Airline
-    head =
+    head = There are a small number of published reports which demonstrate in-flight transmission despite use of non-pharmaceutical interventions, while some have reported lack of secondary transmission. Transmission risk has been reported higher in flights with no masking policy. Present and past studies have shown that tranmission is associated with close proximity with index patient. Poor ventilation could accelerate transmission.
 
     - Reports
       !InflightTransmission

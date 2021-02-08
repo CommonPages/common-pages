@@ -1,12 +1,37 @@
 feed Feb2021
 
   -
+    'Gilbert_et_al_02_05_2021
     'Emary_et_al_02_04_2021
     'Edara_et_al_02_05_2021
     'Voysey_et_al_02_01_2021
     'McCarthy_et_al_02_03_2021
     'Logunov_et_al_02_02_2021
     'Wu_et_al_02_03_2021
+
+  // Oxford/AstraZeneca Covid-19 shot less effective against South African variant: study
+  doi: https://www.timeslive.co.za/news/south-africa/2021-02-07-oxfordastrazeneca-covid-19-shot-less-effective-against-south-african-variant-study/
+  ref 'REUTERS_et_al_02_07_2021
+    head = "In this small phase I/II trial, early data has shown limited efficacy against mild disease primarily due to the B.1.351 South African variant," an AstraZeneca spokesman said in response to the FT report.
+
+  
+
+    / February, 2021 - Times Live
+    quote !a =
+
+  // Newborn antibodies to SARS-CoV-2 detected in cord blood after maternal vaccination
+  doi: https://doi.org/10.1101/2021.02.03.21250579
+  ref 'Gilbert_et_al_02_05_2021
+    head = We report the first known case of an infant with SARS-CoV-2 IgG antibodies detectable in cord blood after maternal vaccination. A vigorous, healthy, full-term female was born to a COVID-19 naive mother who had received a single dose of mRNA vaccine for SARS-CoV-2 three weeks prior to delivery.
+
+    > Abstract
+      Maternal vaccination for Influenza and TDaP have been well studied in terms of safety and efficacy for protection of the newborn by placental passage of antibodies. Similar newborn protection would be expected after maternal vaccination against SARS-CoV-2 (the virus responsible for COVID-19). There is a significant and urgent need for research regarding safety and efficacy of vaccination against SARS-CoV-2 during pregnancy. Here, we report the first known case of an infant with SARS-CoV-2 IgG antibodies detectable in cord blood after maternal vaccination. Case presentation: A vigorous, healthy, full-term female was born to a COVID-19 naive mother who had received a single dose of mRNA vaccine for SARS-CoV-2 three weeks prior to delivery. Cord blood antibodies (IgG) were detected to the S-protein of SARS-CoV-2 at time of delivery.
+
+    - quotes
+      !a
+
+    / February, 2021 - medRxiv
+    quote !a = Cord blood antibodies (IgG) were detected to the S-protein of SARS-CoV-2 at time of delivery.
 
   // Efficacy of ChAdOx1 nCoV-19 (AZD1222) Vaccine Against SARS-CoV-2 VOC 202012/01 (B.1.1.7)
   doi: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3779160

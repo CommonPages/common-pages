@@ -6,8 +6,8 @@ subject module Vaccines
   -
     Approved
     Candidates
+    EfficacyVariants
     Effects
-    Variants
   -
     Triage
   - Questions
@@ -221,6 +221,8 @@ subject module Vaccines
       -
         !Olderpeople
         !Olderpeopledose
+      -
+        !PregnantWomen
       - Efficacy against UK and SA variant
         !Variantefficacy
         !AntibodyNeutralization
@@ -303,6 +305,12 @@ subject module Vaccines
           'Edara_et_al_02_05_2021
           'Edara_et_al_02_05_2021.!a
 
+      / Pregnant Women
+      claim !PregnantWomen = A mother had received a single dose of moderna vaccine for SARS-CoV-2 three weeks prior to delivery. Authors of study reported that SARS-CoV-2 IgG antibodies are detectable in a newborn’s cord blood sample after only a single dose.
+        -
+          'Gilbert_et_al_02_05_2021
+          'Gilbert_et_al_02_05_2021.!a
+
 
     / Oxford–AstraZeneca
     subject AZD1222
@@ -337,9 +345,10 @@ subject module Vaccines
         !OldAge
         !Phase3
         !Phas3Dosing
-      - Efficacy against UK variant
+      - Efficacy against UK Variant
         !VariantEfficacy
-
+      - Efficacy against SA Variant
+        !SAVariant
       - Key Concern
         !EffectiveDosing
       -
@@ -443,6 +452,15 @@ subject module Vaccines
           'Pace_et_al_02_17_2015.!b
 
       claim !VariantEfficacy = Efficacy data of ChAdOx1 nCoV-19 Vaccine Against SARS-CoV-2 was published in Feb of 2020. Authors reported that efficacy of ChAdOx1 nCoV-19 against the B.1.1.7 variant of SARS-CoV-2 is similar to the efficacy of the vaccine against other lineages.
+        -
+          'Emary_et_al_02_04_2021
+          'Emary_et_al_02_04_2021.!a
+          'Emary_et_al_02_04_2021.!b
+          'Emary_et_al_02_04_2021.!c
+
+      claim !SAVariant = In a press release AstraZeneca says its vaccine appeared to offer only limited protection against mild disease caused by the South African variant of Covid-19.
+        -
+          'REUTERS_et_al_02_07_2021
 
     / CanSino Bio
     subject Ad5-nCOV
@@ -900,6 +918,7 @@ subject module Vaccines
 
   / Candidate Vaccines
   subject Candidates
+    head = There are several candidates of vaccines which are in phase 1 & 3 trials. Some of them have shown promising results and awaiting approval for emergency use. 
 
     / Johnson & Johnson
     subject Ad26COV2S
@@ -1042,8 +1061,58 @@ subject module Vaccines
           'Novavax_et_al_01_28_2021.!d
 
   / Vaccine efficacy against Variants
-  subject Variants
-    head =
+  subject EfficacyVariants
+    head =  Many variants have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of concerns to scientists as it can impact efficacy of Vaccines.
+
+    >
+      Many {Variants variants} have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of concerns to scientists as it can impact efficacy of Vaccines.
+
+      <h6> South Africa Variant (B.1.351)</h6>
+      <table>
+        <tr>
+        <th>Vaccine</th>
+        <th>No. of Participants</th>
+        <th>Efficacy Findings</th>
+        <tr>
+        <th>Novovax</th>
+        <td>4422</td>
+        <td>60% Efficacy HIV negative (89% UK)
+        49% Efficacy HIV positive
+        No hospitalisation or Death in SA</td>
+        </tr>
+        <tr>
+        <th>J&J</th>
+        <td>10,900</td>
+        <td>57% Efficacy (72% in US, D614G)
+        No hospitalisation or death in SA</td>
+        </tr>
+        <tr>
+        <th>Oxford Astra-Zeneca</th>
+        <td>2000</td>
+        <td>Minimal Protection vs mild-moderate infection (Details pending)</td>
+        </tr>
+      </table>
+
+      <h6> UK Variant (B.1.1.7) </h6>
+      <table>
+        <tr>
+        <th>Vaccine</th>
+        <th>No. of Participants</th>
+        <th>Efficacy Findings</th>
+        </tr>
+        <tr>
+        <th>Novovax</th>
+        <td>15203</td>
+        <td>86% efficacy (vs 96% for D614G) in 56 symptomatic cases by sequencing</td>
+        </tr>
+        <tr>
+        <th>Oxford Astra-Zeneca</th>
+        <td>4236</td>
+        <td>75% Efficacy (vs 84% for D614G) in 120 symptomatic cases by sequencing
+        </td>
+        </tr>
+
+      </table>
 
     - Phizer
       Variants.B1351.!Vaccineefficacy
@@ -1065,7 +1134,7 @@ subject module Vaccines
       Variants.B117.!VaccineEffectiveness
     - Other Claims (SA Variant)
       Variants.B1351.!Reinfection
-    - Key Concern  
+    - Key Concern
       Variants.B1351.!Neutralizingescape
       Variants.B1351.!RecurrentDeletion
 

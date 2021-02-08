@@ -7240,7 +7240,7 @@ feed Sangeeta
       !a
 
 
-    / February, 2020 - medRxiv
+    / March, 2020 - medRxiv
     quote !a = The symptoms of COVID-19 patients infected in this flight were relatively mild. Most likely time for transmission in the ten passengers was during or immediately before the flight. Transmission on an aircraft of SARS-CoV-2 might occur when COVID-19 patients fly, especially during the symptomatic phase of illness.
 
     # / February, 2020 - medRxiv
