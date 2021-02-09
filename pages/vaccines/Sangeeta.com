@@ -13,45 +13,6 @@ feed Sangeeta
     quote !a =
 
   #
-
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2021 - bioRxiv
-    quote !a =
-
-  #
-
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2021 - bioRxiv
-    quote !a =
-
-  #
-
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2021 - bioRxiv
-    quote !a =
-
-  #
   // DUMMY TITLE
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
@@ -64,14 +25,417 @@ feed Sangeeta
     quote !a =
 
 
+
   #
-  // DUMMY TITLE
+  // Immune enhancing properties of the novel Matrix-M™ adjuvant leads to potentiated immune responses to an influenza vaccine in mice
+  doi: https://doi.org/10.1016/j.vaccine.2013.01.039
+  ref 'Magnusson_et_al_03_23_2013
+    head = The present study is a pre-clinical evaluation of the efficacy and mode-of-action of Matrix-M™ formulated influenza vaccine in mice. We compared the mode of action of Matrix-M™ with Alum, FCA and AS03 alone or formulated with influenza split virion antigen injected intramuscularly.
+
+    > Abstract
+      The novel saponin based adjuvant Matrix-M™ was recently used in a Phase I study of seasonal influenza in elderly. The present study is a pre-clinical evaluation of the efficacy and mode-of-action of Matrix-M™ formulated influenza vaccine in mice. A manuscript on safety profile and immunogenicity in elderly humans is under preparation.
+
+      We have previously shown that subcutaneous injections of Matrix-M™, without coformulated antigen, results in a dose-dependent recruitment of leukocytes to draining lymph nodes (dLNs). Herein we compared the mode of action of Matrix-M™ with Alum, FCA and AS03 alone or formulated with influenza split virion antigen injected intramuscularly. The elicited responses in dLNs and spleen were investigated 48 h later. Matrix-M™ was particularly efficient in activation of central innate immune cells such as neutrophils, DCs and macrophages compared to the other adjuvants analyzed. Moreover, the adjuvant influence on the recall immune response to influenza antigen was studied by in vitro re-stimulation of splenocytes from mice immunized with influenza antigen adjuvanted with Matrix-M™, Alum or AS03. Splenocytes from mice immunized with influenza antigen and Matrix-M™ produced both Th1 and Th2 cytokines upon re-stimulation. This response was significantly stronger than that induced by the other adjuvants studied. Interestingly, increased levels of the neutrophil chemoattractant KC were produced by antigen stimulated splenocytes from mice immunized with Matrix-M™ adjuvanted vaccine, which is in agreement with the increase of neutrophils into dLNs and spleen after Matrix-M™ injection. Furthermore, influenza antigen adjuvanted with Matrix-M™ induced significantly higher antigen-specific IgG1 and IgG2a responses compared to antigen alone. In conclusion, adjuvant Matrix-M™ activates the innate immune system without antigen present. This activation may explain the enhanced immunity to influenza seen with Matrix-M™ adjuvant. Despite this potent immune activation mediated by Matrix-M™, GLP-toxicity studies and clinical data suggest that Matrix-M™ adjuvant has a mild to moderate safety profile.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / March, 2013 - Vaccine
+    quote !a = Matrix-M™ was particularly efficient in activation of central innate immune cells such as neutrophils, DCs and macrophages compared to the other adjuvants analyzed.
+
+    / March, 2013 - Vaccine
+    quote !b = Splenocytes from mice immunized with influenza antigen and Matrix-M™ produced both Th1 and Th2 cytokines upon re-stimulation. This response was significantly stronger than that induced by the other adjuvants studied.
+
+    / March, 2013 - Vaccine
+    quote !c = Influenza antigen adjuvanted with Matrix-M™ induced significantly higher antigen-specific IgG1 and IgG2a responses compared to antigen alone.
+
+    / March, 2013 - Vaccine
+    quote !d = Increased levels of the neutrophil chemoattractant KC were produced by antigen stimulated splenocytes from mice immunized with Matrix-M™ adjuvanted vaccine, which is in agreement with the increase of neutrophils into dLNs and spleen after Matrix-M™ injection.
+
+    / March, 2013 - Vaccine
+    quote !e = Adjuvant Matrix-M™ activates the innate immune system without antigen present. This activation may explain the enhanced immunity to influenza seen with Matrix-M™ adjuvant. Despite this potent immune activation mediated by Matrix-M™, GLP-toxicity studies and clinical data suggest that Matrix-M™ adjuvant has a mild to moderate safety profile.
+
+
+
+  #
+  // Intramuscular Matrix-M-adjuvanted virosomal H5N1 vaccine induces high frequencies of multifunctional Th1 CD4+ cells and strong antibody responses in mice
+  doi: https://doi.org/10.1016/j.vaccine.2009.09.044
+  ref 'Madhun_et_al_12_09_2009
+    head = We investigated the detailed humoral and cellular immune responses in mice vaccinated intranasally or intramuscularly with inactivated influenza H5N1 (NIBRG-14) virosomal vaccine alone or formulated with Matrix-M adjuvant.
+
+    > Abstract
+      Ideally, a candidate pandemic influenza vaccine should elicit rapid and strong cell-mediated and humoral immune responses, which are long-lasting and exhibit broad cross-reactivity against drifted strains. The present study investigated the detailed humoral and cellular immune responses in mice vaccinated intranasally or intramuscularly with inactivated influenza H5N1 (NIBRG-14) virosomal vaccine alone or formulated with Matrix-M adjuvant. The intramuscular Matrix-M-adjuvanted vaccine induced a strong immediate and long-term humoral immune response with high cross-reactivity against drifted H5N1 viruses and showed a dose-sparing potential. Additionally, the vaccine induced a balanced Th1/Th2 cytokine profile and most importantly high frequencies of multifunctional Th1 CD4+ cells. Our results highlight that Matrix-M adjuvant is a promising parenteral adjuvant for formulating pandemic candidate vaccines.
+
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / December, 2009 - Vaccine
+    quote !a = The intramuscular Matrix-M-adjuvanted vaccine induced a strong immediate and long-term humoral immune response with high cross-reactivity against drifted H5N1 viruses and showed a dose-sparing potential.
+
+    / December, 2009 - Vaccine
+    quote !b = The vaccine induced a balanced Th1/Th2 cytokine profile and most importantly high frequencies of multifunctional Th1 CD4+ cells.
+
+    / December, 2009 - Vaccine
+    quote !c = Our results highlight that Matrix-M adjuvant is a promising parenteral adjuvant for formulating pandemic candidate vaccines.
+
+  #
+  // Matrix-M Adjuvated Seasonal Virosomal Influenza Vaccine Induces Partial Protection in Mice and Ferrets against Avian H5 and H7 Challenge
+  doi: https://doi.org/10.1371/journal.pone.0135723
+  ref 'Cox_et_al_09_24_2015
+    head = We evaluate whether a seasonal trivalent virosomal vaccine (TVV) adjuvated with the saponin-based adjuvant Matrix-M (MM) can confer protection against avian influenza H5 and H7 virus strains in mice and ferrets.
+
+    > Abstract
+      There is a constant threat of zoonotic influenza viruses causing a pandemic outbreak in humans. It is virtually impossible to predict which virus strain will cause the next pandemic and it takes a considerable amount of time before a safe and effective vaccine will be available once a pandemic occurs. In addition, development of pandemic vaccines is hampered by the generally poor immunogenicity of avian influenza viruses in humans. An effective pre-pandemic vaccine is therefore required as a first line of defense. Broadening of the protective efficacy of current seasonal vaccines by adding an adjuvant may be a way to provide such first line of defense. Here we evaluate whether a seasonal trivalent virosomal vaccine (TVV) adjuvated with the saponin-based adjuvant Matrix-M (MM) can confer protection against avian influenza H5 and H7 virus strains in mice and ferrets. We demonstrate that mice were protected from death against challenges with H5N1 and H7N7, but that the protection was not complete as evidenced by severe clinical signs. In ferrets, protection against H7N9 was not observed. In contrast, reduced upper and lower respiratory tract viral loads and reduced lung pathology, was achieved in H5N1 challenged ferrets. Together these results suggest that, at least to some extent, Matrix-M adjuvated seasonal virosomal influenza vaccine can serve as an interim measure to decrease morbidity and mortality associated with a pandemic outbreak.
+
+    - quotes
+      !a
+      !b
+
+
+    / September, 2015 - PLOS ONE
+    quote !a = Our data suggests that Matrix-M adjuvation can serve as an interim measure to decrease morbidity and mortality associated with pandemic outbreaks prior to the availability of matched vaccine.
+
+    / September, 2015 - PLOS ONE
+    quote !b = Matrix-M adjuvation enhances the antibody response in mice and broadens the protective efficacy of a seasonal virosomal vaccine and provides protection against HPAI H5N1 and H7N7 influenza strains in mice and reduced upper and lower respiratory tract viral loads and reduced lung pathology, was achieved in H5N1 challenged ferrets.
+
+
+
+  #
+  //  Matrix-M adjuvant enhances antibody, cellular and protective immune responses of a Zaire Ebola/Makona virus glycoprotein (GP) nanoparticle vaccine
+  doi: https://doi.org/10.1016/j.vaccine.2016.02.033
+  ref 'Bengtsson_et_al_02_24_2016
+    head = We explored the use of the saponin adjuvant, Matrix-M, for the development of a protective, protein-based vaccine against EBOV disease. In this report a full length, unmodified Zaire EBOV GP gene from the 2014 EBOV Makona strain (EBOV/Mak) was cloned into a baculovirus vector. A recombinant EBOV/Mak full length GP nanoparticle vaccine formulated with Matrix-M, AlPO4 or saline was evaluated.
+
+    > Abstract
+      Ebola virus (EBOV) causes severe hemorrhagic fever for which there is no approved treatment or preventive vaccine. Immunological correlates of protective immunity against EBOV disease are not well understood. However, non-human primate studies have associated protection of experimental vaccines with binding and neutralizing antibodies to the EBOV glycoprotein (GP) as well as EBOV GP-specific CD4(+) and CD8(+) T cells. In this report a full length, unmodified Zaire EBOV GP gene from the 2014 EBOV Makona strain (EBOV/Mak) was cloned into a baculovirus vector. Recombinant EBOV/Mak GP was produced in Sf9 insect cells as glycosylated trimers and, when purified, formed spherical 30-40 nm particles. In mice, EBOV/Mak GP co-administered with the saponin adjuvant Matrix-M was significantly more immunogenic, as measured by virus neutralization titers and anti-EBOV/Mak GP IgG as compared to immunization with AlPO4 adjuvanted or non-adjuvanted EBOV/Mak GP. Similarly, antigen specific T cells secreting IFN-γ were induced most prominently by EBOV/Mak GP with Matrix-M. Matrix-M also enhanced the frequency of antigen-specific germinal center B cells and follicular helper T (TFH) cells in the spleen in a dose-dependent manner. Immunization with EBOV/Mak GP with Matrix-M was 100% protective in a lethal viral challenge murine model; whereas no protection was observed with the AlPO4 adjuvant and only 10% (1/10) mice were protected in the EBOV/Mak GP antigen alone group. Matrix-M adjuvanted vaccine induced a rapid onset of specific IgG and neutralizing antibodies, increased frequency of multifunctional CD4+ and CD8(+) T cells, specific TFH cells, germinal center B cells, and persistence of EBOV GP-specific plasma B cells in the bone marrow. Taken together, the addition of Matrix-M adjuvant to the EBOV/Mak GP nanoparticles enhanced both B and T-cell immune stimulation which may be critical for an Ebola subunit vaccine with broad and long lasting protective immunity.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / February, 2016 - Vaccine
+    quote !a = Our data indicates that co-administration of the Matrix-M adjuvant with purified EBOV/Mak GP nanoparticles provides robust stimulation of the anti-EBOV/Mak GP immune response resulting in 100% protective efficacy in the mouse model.
+
+    / February, 2016 - Vaccine
+    quote !b = We observed a more rapid onset of anti-EBOV/Mak GP IgG and EBOV neutralization antibodies, increased concentration of IgG2a, as well as increased frequency of multifunctional CD4+ and CD8+ T cells, TFH cells, germinal center B cells and persistence of EBOV/Mak GP-specific plasma B cells in the bone marrow. These data, along with the reported safety profile of Matrix-M in clinical trials, have progressed the investigation of this vaccine into NHP studies and a phase I clinical trial.
+
+    / February, 2016 - Vaccine
+    quote !c = In mice, EBOV/Mak GP co-administered with the saponin adjuvant Matrix-M was significantly more immunogenic, as measured by virus neutralization titers and anti-EBOV/Mak GP IgG as compared to immunization with AlPO4 adjuvanted or non-adjuvanted EBOV/Mak GP.
+
+    / February, 2016 - Vaccine
+    quote !d = Antigen specific T cells secreting IFN-γ were induced most prominently by EBOV/Mak GP with Matrix-M. Matrix-M also enhanced the frequency of antigen-specific germinal center B cells and follicular helper T (TFH) cells in the spleen in a dose-dependent manner.
+
+    / February, 2016 - Vaccine
+    quote !e = The addition of Matrix-M adjuvant to the EBOV/Mak GP nanoparticles enhanced both B and T-cell immune stimulation which may be critical for an Ebola subunit vaccine with broad and long lasting protective immunity.
+
+
+
+  #
+  // Matrix M TM adjuvanted virosomal H5N1 vaccine induces balanced Th1/Th2 CD4 + T cell responses in man.
+  doi: https://doi.org/10.4161/hv.29583
+  ref 'Pedersen_et_al_06_23_2014
+    head = We evaluated the ability of a candidate virosomal H5N1 vaccine adjuvanted with Matrix MTM to induce CD4+ and CD8+ T cell responses in a phase 1 clinical trial. We vaccinated 60 healthy adult volunteers (at days 0 and 21) with 30 μg haemagglutinin (HA) alone or 1.5, 7.5, or 30 μg HA formulated with Matrix MTM. To evaluate the T cellular responses, lymphocytes were stimulated in vitro with homologous (A/Vietnam/1194/2004 [H5N1]) and heterologous H5N1 (A/Anhui/1/05 or A/Bar-headed Goose/Qinghai/1A/05) antigens.
+
+    > Abstract
+      T cellular responses play a significant role in mediating protective immune responses against influenza in humans. In the current study, we evaluated the ability of a candidate virosomal H5N1 vaccine adjuvanted with Matrix MTM to induce CD4+ and CD8+ T cell responses in a phase 1 clinical trial. We vaccinated 60 healthy adult volunteers (at days 0 and 21) with 30 μg haemagglutinin (HA) alone or 1.5, 7.5, or 30 μg HA formulated with Matrix MTM. To evaluate the T cellular responses, lymphocytes were stimulated in vitro with homologous (A/Vietnam/1194/2004 [H5N1]) and heterologous H5N1 (A/Anhui/1/05 or A/Bar-headed Goose/Qinghai/1A/05) antigens. The antigen-specific cytokine responses were measured by intracellular cytokine staining and by multiplex (Luminex) assays. An increase in CD4+ Th1 and Th2 cytokines was detected 21 days after the first vaccine dose. No increase in Th cytokine responses was observed after the second dose, although it is possible that the cytokine levels peaked earlier than sampling point at day 42. Formulation with the Matrix MTM adjuvant augmented both the homologous and cross-reactive cytokine response. Antigen-specific CD8+ T cell responses were detected only in a few vaccinated individuals. The concentrations of Th1 and to a lesser extent, Th2 cytokines at 21 days post-vaccination correlated moderately with subsequent days 35 and 180 serological responses as measured by the microneutralisation, haemagglutination inhibition, and single radial hemolysis assays. Results presented here show that the virosomal H5N1 vaccine induced balanced Th1/Th2 cytokine responses and that Matrix MTM is a promising adjuvant for future development of candidate pandemic influenza vaccines.
+
+    - quotes
+      !a
+      !b
+
+
+    / June, 2014 - Human Vaccines & Immunotherapeutics
+    quote !a = The virosomal H5N1 vaccine adjuvanted with Matrix MTM adjuvant induces a balanced T helper response with production of both Th1 and Th2 cytokines in humans. The vaccine also induced T cells cross-reactive toward the HA of heterologous H5N1 virus clades, thus emphasizing the promise for this vaccine against divergent influenza H5N1 viruses.
+
+    / June, 2014 - Human Vaccines & Immunotherapeutics
+    quote !b = Formulation with the Matrix MTM adjuvant augmented both the homologous and cross-reactive cytokine response.
+
+
+  #
+  //  Meta-Analysis on Randomized Controlled Trials of Vaccines with QS-21 or ISCOMATRIX Adjuvant: Safety and Tolerability
   doi: https://doi.org/xyz
   ref 'Xiao_et_al_02_20_2020
     head =
 
     - quotes
       !a
+
+    / February, 2021 - bioRxiv
+    quote !a =
+
+
+
+  #
+  // Matrix-M™ adjuvant enhances immunogenicity of both protein- and modified vaccinia virus Ankara-based influenza vaccines in mice
+  doi: https://doi.org/10.1007/s12026-018-8991-x
+  ref 'Magnusson_et_al_03_28_2018
+    head = BALB/c mice were vaccinated with either protein- or rMVA-based HA influenza vaccines, formulated with or without the saponin-based Matrix-M™ adjuvant.
+
+    > Abstract
+      Influenza viruses continuously circulate in the human population and escape recognition by virus neutralizing antibodies induced by prior infection or vaccination through accumulation of mutations in the surface proteins hemagglutinin (HA) and neuraminidase (NA). Various strategies to develop a vaccine that provides broad protection against different influenza A viruses are under investigation, including use of recombinant (r) viral vectors and adjuvants. The replication-deficient modified vaccinia virus Ankara (MVA) is a promising vaccine vector that efficiently induces B and T cell responses specific for the antigen of interest. It is assumed that live vaccine vectors do not require an adjuvant to be immunogenic as the vector already mediates recruitment and activation of immune cells. To address this topic, BALB/c mice were vaccinated with either protein- or rMVA-based HA influenza vaccines, formulated with or without the saponin-based Matrix-M™ adjuvant. Co-formulation with Matrix-M significantly increased HA vaccine immunogenicity, resulting in antigen-specific humoral and cellular immune responses comparable to those induced by unadjuvanted rMVA-HA. Of special interest, rMVA-HA immunogenicity was also enhanced by addition of Matrix-M, demonstrated by enhanced HA inhibition antibody titres and cellular immune responses. Matrix-M added to either protein- or rMVA-based HA vaccines mediated recruitment and activation of antigen-presenting cells and lymphocytes to the draining lymph node 24 and 48 h post-vaccination. Taken together, these results suggest that adjuvants can be used not only with protein-based vaccines but also in combination with rMVA to increase vaccine immunogenicity, which may be a step forward to generate new and more effective influenza vaccines.
+
+    - quotes
+      !a
+
+    / March, 2018 - Immunologic Research
+    quote !a = Our results show that influenza vaccines based on recombinant HA protein or rMVA-HA can be potentiated by Matrix-M adjuvant, resulting in improved humoral and cellular responses. This is potentially mediated by recruitment and activation of immune cells in the dLN (draining lymph node). Combination of a vector-based vaccine with Matrix-M adjuvant might prove a promising step towards next-generation influenza vaccines.
+
+    # / March, 2018 - Immunologic Research
+    # quote !a = Co-formulation with Matrix-M significantly increased HA vaccine immunogenicity, resulting in antigen-specific humoral and cellular immune responses comparable to those induced by unadjuvanted rMVA-HA.
+    #
+    # / March, 2018 - Immunologic Research
+    # quote !a = rMVA-HA immunogenicity was also enhanced by addition of Matrix-M, demonstrated by enhanced HA inhibition antibody titres and cellular immune responses.
+
+    # / March, 2018 - Immunologic Research
+    # quote !a = Matrix-M added to either protein- or rMVA-based HA vaccines mediated recruitment and activation of antigen-presenting cells and lymphocytes to the draining lymph node 24 and 48 h post-vaccination.
+
+
+
+  #
+  // Matrix‐M adjuvanted virosomal H5N1 vaccine confers protection against lethal viral challenge in a murine model
+  doi: https://doi.org/10.1111/j.1750-2659.2011.00256.x
+  ref 'Pedersen_et_al_05_09_2011
+    head = This study investigated in a murine model the protective efficacy of Matrix‐M adjuvanted virosomal influenza H5N1 vaccine against highly pathogenic lethal viral challenge. Mice were vaccinated intranasally (IN) or intramuscularly (IM) with 7·5 μg and 30 μg HA of inactivated A/Vietnam/1194/2004 (H5N1) (NIBRG‐14) virosomal adjuvanted vaccine formulated with or without 10 μg of Matrix‐M adjuvant and challenged IN with the highly pathogenic A/Vietnam/1194/2004 (H5N1) virus.
+
+    > Background
+      A candidate pandemic influenza H5N1 vaccine should provide rapid and long‐lasting immunity against antigenically drifted viruses. As H5N1 viruses are poorly immunogenic, this may require a combination of immune potentiating strategies. An attractive approach is combining the intrinsic immunogenicity of virosomes with another promising adjuvant to further boost the immune response. As regulatory authorities have not yet approved a surrogate correlate of protection for H5N1 vaccines, it is important to test the protective efficacy of candidate H5N1 vaccines in a viral challenge study.
+
+    > Objectives
+      This study investigated in a murine model the protective efficacy of Matrix‐M adjuvanted virosomal influenza H5N1 vaccine against highly pathogenic lethal viral challenge.
+
+    > Methods
+      Mice were vaccinated intranasally  or intramuscularly (IM) with 7·5 μg and 30 μg HA of inactivated A/Vietnam/1194/2004 (H5N1) (NIBRG‐14) virosomal adjuvanted vaccine formulated with or without 10 μg of Matrix‐M adjuvant and challenged IN with the highly pathogenic A/Vietnam/1194/2004 (H5N1) virus.
+
+    > Results and conclusions
+      IM vaccination provided protection irrespective of dose and the presence of Matrix‐M adjuvant, whilst the IN vaccine required adjuvant to protect against the challenge. The Matrix‐M adjuvanted vaccine induced a strong and cross‐reactive serum antibody response indicative of seroprotection after both IM and IN administration. In addition, the IM vaccine induced the highest frequencies of influenza specific CD4+ and CD8+ T‐cells. The results confirm a high potential of Matrix‐M adjuvanted virosomal vaccines and support the progress of this vaccine into a phase 1 clinical trial.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / May, 2011 - Influenza Journal
+    quote !a = The Matrix‐M adjuvanted vaccine induced a strong and cross‐reactive serum antibody response indicative of seroprotection after both Intramuscularly (IM) and intranasally (IN) administration.
+
+    / May, 2011 - Influenza Journal
+    quote !b = Intramuscularly (IM) vaccination provided protection irrespective of dose and the presence of Matrix‐M adjuvant, whilst the intranasally (IN) vaccine required adjuvant to protect against the challenge.
+
+    / May, 2011 - Influenza Journal
+    quote !c = The Intramuscularly (IM) vaccine induced the highest frequencies of influenza specific CD4+ and CD8+ T‐cells.
+
+    / May, 2011 - Influenza Journal
+    quote !d = The results confirm a high potential of Matrix‐M adjuvanted virosomal vaccines and support the progress of this vaccine into a phase 1 clinical trial.
+
+    / May, 2011 - Influenza Journal
+    quote !e = In this study we found an augmentation of the Matrix‐M mucosal adjuvant properties by using a higher antigen dose (7·5 μg HA) compared with the dose (5 μg HA) we have previously studied.
+
+    / May, 2011 - Influenza Journal
+    quote !f = We found that a single dose of Matrix‐M adjuvanted virosomal vaccine (7·5 μg HA) elicited similar HI (Haemagglutination inhibition) antibody titres (GMT 196) as found in the protected virosomal alone IM 7·5 μg HA (haemagglutination assay) group, suggesting that a single dose of Matrix‐M adjuvanted vaccine would also provide protection. Furthermore, the levels of cross‐reactive HI (Haemagglutination inhibition) antibodies against different strains (GMT 128 for IBCDC‐RG‐6) suggest that the vaccine could be used for pre‐pandemic vaccination.
+
+
+
+  #
+  // Matrix-M™ Adjuvant Induces Local Recruitment, Activation and Maturation of Central Immune Cells in Absence of Antigen.
+  doi: https://doi.org/10.1371/journal.pone.0041451
+  ref 'Reimer_et_al_07_23_2012
+    head = The aim of this study was to elucidate the mechanism of action of adjuvant Matrix-M™ without antigen and Alum was used as reference adjuvant.
+
+    > Abstract
+      Saponin-based adjuvants are widely used to enhance humoral and cellular immune responses towards vaccine antigens, although it is not yet completely known how they mediate their stimulatory effects. The aim of this study was to elucidate the mechanism of action of adjuvant Matrix-M™ without antigen and Alum was used as reference adjuvant. Adjuvant Matrix-M™ is comprised of 40 nm nanoparticles composed of Quillaja saponins, cholesterol and phospholipid. BALB/c mice were subcutaneously injected once with, 3, 12 or 30 µg of Matrix-M™, resulting in recruitment of leukocytes to draining lymph nodes (dLNs) and spleen 48 h post treatment. Flow cytometry analysis identified CD11b+ Gr-1high granulocytes as the cell population increasing most in dLNs and spleen. Additionally, dendritic cells, F4/80int cells, T-, B- and NK-cells were recruited to dLNs and in spleen the number of F4/80int cells, and to some extent, B cells and dendritic cells, increased. Elevated levels of early activation marker CD69 were detected on T-, B- and NK-cells, CD11b+ Gr-1high cells, F4/80int cells and dendritic cells in dLNs. In spleen CD69 was mainly up-regulated on NK cells. B cells and dendritic cells in dLNs and spleen showed an increased expression of the co-stimulatory molecule CD86 and dendritic cells in dLNs expressed elevated levels of MHC class II. The high-dose (30 µg) of Matrix-M™ induced detectable serum levels of IL-6 and MIP-1β 4 h post administration, most likely representing spillover of locally produced cytokines. A lesser increase of IL-6 in serum after administration of 12 µg Matrix-M™ was also observed. In conclusion, early immunostimulatory properties were demonstrated by Matrix-M™ alone, as therapeutic doses resulted in a local transient immune response with recruitment and activation of central immune cells to dLNs. These effects may play a role in enhancing uptake and presentation of vaccine antigens to elicit a competent immune response.
+      
+    - quotes
+      !a
+      !b
+      !c
+
+    / July, 2012 - Plos One
+    quote !a = The high-dose (30 µg) of Matrix-M™ induced detectable serum levels of IL-6 and MIP-1β 4 h post administration, most likely representing spillover of locally produced cytokines.
+
+    / July, 2012 - Plos One
+    quote !b = A lesser increase of IL-6 in serum after administration of 12 µg Matrix-M™ was also observed
+
+    / July, 2012 - Plos One
+    quote !c = Early immunostimulatory properties were demonstrated by Matrix-M™ alone, as therapeutic doses resulted in a local transient immune response with recruitment and activation of central immune cells to dLNs (draining lymph nodes). These effects may play a role in enhancing uptake and presentation of vaccine antigens to elicit a competent immune response.
+
+
+
+  #
+  // Evaluation of a virosomal H5N1 vaccine formulated with Matrix M™ adjuvant in a phase I clinical trial
+  doi: https://doi.org/10.1016/j.vaccine.2011.08.042
+  ref 'Cox_et_al_10_19_2011
+    head =  This study evaluated the tolerability and immunogenicity of a Matrix M™ adjuvanted virosomal H5N1 vaccine in a phase I clinical trial. Sixty healthy adults were vaccinated intramuscularly with two doses of influenza H5N1 (NIBRG-14) virosomal vaccine alone (30 μg haemagglutinin (HA)) or 1.5, 7.5 or 30 μg HA formulated with 50 μg Matrix M™ adjuvant.
+
+    > Abstract
+      The avian influenza H5 virus epizootic continues to cause zoonosis with human fatalities, highlighting the continued need for pandemic preparedness against this subtype. This study evaluated the tolerability and immunogenicity of a Matrix M™ adjuvanted virosomal H5N1 vaccine in a phase I clinical trial. Sixty healthy adults were vaccinated intramuscularly with two doses of influenza H5N1 (NIBRG-14) virosomal vaccine alone (30 μg haemagglutinin (HA)) or 1.5, 7.5 or 30 μg HA formulated with 50 μg Matrix M™ adjuvant. The antibody response was analysed by haemagglutination inhibition (HI), microneutralisation (MN) and single radial haemolysis (SRH) assays. The vaccine was well tolerated in all groups but injection site pain was more frequently observed in the Matrix M™ adjuvanted groups. The vaccine elicited homologous and heterologous H5N1-specific antibody responses and the Matrix M™ adjuvanted formulations met all the EU regulatory criteria. In conclusion, Matrix M™ adjuvant was well tolerated and augmented the antibody response allowing considerable dose sparing down to 1.5 μg HA.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / October, 2011 - Vaccine
+    quote !a = Matrix M™ adjuvant was well tolerated and augmented the antibody response allowing considerable dose sparing down to 1.5 μg HA.
+
+    / October, 2011 - Vaccine
+    quote !b = The vaccine was well tolerated in all groups but injection site pain was more frequently observed in the Matrix M™ adjuvanted groups.
+
+    / October, 2011 - Vaccine
+    quote !c =  The vaccine elicited homologous and heterologous H5N1-specific antibody responses and the Matrix M™ adjuvanted formulations met all the EU regulatory criteria.
+
+
+
+  #
+
+  // Innate immune responses induced by the saponin adjuvant Matrix-M in specific pathogen free pigs
+  doi: https://doi.org/10.1186/s13567-017-0437-2
+  ref 'Ahlberg_et_al_05_22_2017
+    head = Immunomodulatory effects of Matrix-M were evaluated at contact exposure of specific pathogen free (SPF) pigs  to conventionally reared pigs.
+
+    > Abstract
+      Saponin-based adjuvants have been widely used to enhance humoral and cellular immune responses in many species, but their mode of action is not fully understood. A characterization of the porcine transcriptional response to Matrix-M was performed in vitro using lymphocytes, monocytes or monocyte-derived dendritic cells (MoDCs) and in vivo. The effect of Matrix-M was also evaluated in specific pathogen free (SPF) pigs exposed to conventionally reared pigs. The pro-inflammatory cytokine genes IL1B and CXCL8 were up-regulated in monocytes and lymphocytes after Matrix-M exposure. Matrix-M also induced IL12B, IL17A and IFNG in lymphocytes and IFN-α gene expression in MoDCs. Several genes were indicated as up-regulated by Matrix-M in blood 18 h after injection, of which the genes for IFN-α and TLR2 could be statistically confirmed. Respiratory disease developed in all SPF pigs mixed with conventional pigs within 1–3 days. Two out of four SPF pigs injected with saline prior to contact exposure displayed systemic symptoms that was not recorded for the four pigs administered Matrix-M. Granulocyte counts, serum amyloid A levels and transcription of IL18 and TLR2 coincided with disease progression in the pigs. These results support further evaluation of Matrix-M as a possible enhancer of innate immune responses during critical moments in pig management.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+     / May, 2017 - Veterinary Research
+     quote !a = Both the in vitro and in vivo results indicate an immunomodulatory effect of Matrix-M in the pig. In the contact exposure model, Matrix-M seemed to be able to reduce or delay systemic symptoms resembling Glässer’s disease. There was no discernible effect on local respiratory symptoms.
+
+     / May, 2017 - Veterinary Research
+     quote !b = Matrix-M could be suitable to enhance innate immune responses during critical moments in pig management. Equally important, the capacity to a rapid activation of innate immune parameters is highly desirable in adjuvants used for emergency vaccination.
+
+    / May, 2017 - Veterinary Research
+    quote !c = The pro-inflammatory cytokine genes IL1B and CXCL8 were up-regulated in monocytes and lymphocytes after Matrix-M exposure.
+
+    / May, 2017 - Veterinary Research
+    quote !d = Matrix-M also induced IL12B, IL17A and IFNG in lymphocytes and IFN-α gene expression in MoDCs. Several genes were indicated as up-regulated by Matrix-M in blood 18 h after injection, of which the genes for IFN-α and TLR2 could be statistically confirmed.
+
+    / May, 2017 - Veterinary Research
+    quote !e = Although all contact SPF pigs in this model developed respiratory disease, only control pigs administered saline developed symptoms of systemic disease that was not recorded for the four pigs administered Matrix-M.
+
+    / May, 2017 - Veterinary Research
+    quote !f = Granulocyte counts, serum amyloid A levels and transcription of IL18 and TLR2 indicated a difference in kinetics of disease development between the two experimental groups.
+
+
+
+  #
+  // Matrix-M™ adjuvation broadens protection induced by seasonal trivalent virosomal influenza vaccine
+  doi: https://doi.org/10.1186/s12985-015-0435-9
+  ref 'Cox_et_al_12_08_2015
+    head = To assess the immune potentiating properties of Matrix-M™, mice were immunized with virosomal trivalent seasonal vaccine adjuvated with Matrix-M™.
+
+    > Background
+      Influenza virus infections are responsible for significant morbidity worldwide and therefore it remains a high priority to develop more broadly protective vaccines. Adjuvation of current seasonal influenza vaccines has the potential to achieve this goal.
+
+    > Methods
+      To assess the immune potentiating properties of Matrix-M™, mice were immunized with virosomal trivalent seasonal vaccine adjuvated with Matrix-M™. Serum samples were isolated to determine the hemagglutination inhibiting (HAI) antibody titers against vaccine homologous and heterologous strains. Furthermore, we assess whether adjuvation with Matrix-M™ broadens the protective efficacy of the virosomal trivalent seasonal vaccine against vaccine homologous and heterologous influenza viruses.
+
+    > Results
+      Matrix-M™ adjuvation enhanced HAI antibody titers and protection against vaccine homologous strains. Interestingly, Matrix-M™ adjuvation also resulted in HAI antibody titers against heterologous influenza B strains, but not against the tested influenza A strains. Even though the protection against heterologous influenza A was induced by the adjuvated vaccine, in the absence of HAI titers the protection was accompanied by severe clinical scores and body weight loss. In contrast, in the presence of heterologous HAI titers full protection against the heterologous influenza B strain without any disease symptoms was obtained.
+
+    > Conclusion
+      The results of this study emphasize the promising potential of a Matrix-M™-adjuvated seasonal trivalent virosomal influenza vaccine. Adjuvation of trivalent virosomal vaccine does not only enhance homologous protection, but in addition induces protection against heterologous strains and thus provides overall more potent and broad protective immunity.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / December, 2015 - Virology Journal
+    quote !a = The results of this study emphasize the promising potential of a Matrix-M™-adjuvated seasonal trivalent virosomal influenza vaccine. Adjuvation of trivalent virosomal vaccine does not only enhance homologous protection, but in addition induces protection against heterologous strains and thus provides overall more potent and broad protective immunity.
+
+    / December, 2015 - Virology Journal
+    quote !b = Matrix-M™ adjuvation also resulted in HAI antibody titers against heterologous influenza B strains, but not against the tested influenza A strains.
+
+    / December, 2015 - Virology Journal
+    quote !c = Even though the protection against heterologous influenza A was induced by the adjuvated vaccine, in the absence of HAI titers the protection was accompanied by severe clinical scores and body weight loss. In contrast, in the presence of heterologous HAI titers full protection against the heterologous influenza B strain without any disease symptoms was obtained.
+
+
+
+  #
+  // ISCOM technology-based Matrix M™ adjuvant: success in future vaccines relies on formulation
+  doi: https://doi.org/10.1586/erv.11.25
+  ref 'Bengtsson_et_al_01_09_2014
+    head = We show that the novel and widely tested saponin based Matrix M™ (Isconova AB, Uppsala, Sweden) adjuvant formulation is ready for application in humans.
+
+    > Summary
+      Adjuvant development is driven by the need to improve immune responses to vaccine antigens without increasing side effects beyond an acceptable level. Adjuvant use in human vaccines has been both limited and cautious and, until the last decade, only aluminum salt adjuvants were approved. In animal vaccines, however, several adjuvants and antigen-presentation systems have been used, including plain saponins, immune-stimulating complexes (ISCOMs), matrix, montanide oils, carbopol formulations, poxvirus constructs and DNA-based formulations. Here, we show that the novel and widely tested saponin based Matrix M™ (Isconova AB, Uppsala, Sweden) adjuvant formulation is ready for application in humans.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      # !h
+      # !i
+      # !j
+      # !k
+      # !l
+      # !m
+
+
+    / January, 2014 - Expert Review of Vaccines
+    quote !a = The adjuvant activities of matrix formulations parallel those of ISCOMs, inducing high and long-lasting levels of broadly reacting antibodies supported by a balanced Th1/Th2 response including multifunctional T cells and CTLs. The adjuvant properties of matrix fulfil the demands of a modern adjuvant: a formulation with dose-sparing capacity, improved quality of immune responses and an acceptable safety profile.
+
+    / January, 2014 - Expert Review of Vaccines
+    quote !b = In contrast to most adjuvant formulations, ISCOMs and matrix adjuvant do not exert adjuvant activity through depot or slow-release effects. On the contrary, adjuvant and antigen is rapidly removed from the site of injection
+
+    / January, 2014 - Expert Review of Vaccines
+    quote !c = Matrix formulations perform well with most types of antigen, with the exception of low-molecular-weight hydrophilic antigens. Such antigens probably require some ‘physical’ help in terms of size and/or multimericity.
+
+    / January, 2014 - Expert Review of Vaccines
+    quote !d = The formulation of vaccines with matrix adjuvant is convenient as the vaccine antigen(s) is simply mixed with a suspension of matrix particles in physiological buffers not requiring adsorption or emulsification.
+
+    / January, 2014 - Expert Review of Vaccines
+    quote !e = The novel formulation, Matrix M, consists of two individually formed matrix particles, each with a different and well-characterized saponin fraction with complementary properties. The mixture of individually formulated particles significantly improves both adjuvant activity and safety profile. One type of particle consists of highly adjuvant active saponin molecules (Fraction-C saponin), the other of a weaker but very well-tolerated saponin (Fraction A). By mixing the two matrix particles, the dose of the highly active but slightly reactogenic Matrix C™ component may be lowered by a factor of 5–10 while keeping the high-dose adjuvant activity. Hence the safety margin is substantially increased, which is essential for certain sensitive animal species.
+
+
+    / January, 2014 - Expert Review of Vaccines
+    quote !f = Matrix M has recently entered into a human clinical trial with promising results in terms of both efficacy and safety.
+
+    / January, 2014 - Expert Review of Vaccines
+    quote !g = Matrix M exhibits all qualities of a modern, safe and effective adjuvant. It induces well-balanced and potent cellular and humoral immune responses.
+
+    # / January, 2014 - Expert Review of Vaccines
+    # quote !h = The potent adjuvant effects of saponins have been known for decades and their use in foot-and-mouth disease vaccines dates back to the middle of the last century. The adjuvant activities induced by Quillaja saponin are characterized by enhancement of a combination of antibody and cellular immune responses whereas, for example, aluminum salt adjuvants (Al(OH)3 and AlPO3) and most oil adjuvants mainly promote an antibody response. Adverse effects associated with saponin use are associated with their lytic properties, pain and a general molecular instability leading to degradation at physiological pH at ambient temperatures
+    #
+    # / January, 2014 - Expert Review of Vaccines
+    # quote !i = The idea behind the ISCOM was to coformulate antigen and adjuvant in a particle. The resulting spherical ISCOM particle of approximately 40 nm diameter is remarkably stable, held together by the strong affinity between saponin and cholesterol. The particle also provides chemical stability to the fragile saponin molecules under conditions where free saponins degrade quickly.
+    #
+    # / January, 2014 - Expert Review of Vaccines
+    # quote !j = Immune-stimulating complexes are designed to be the ultimate adjuvant formulation when it comes to efficacy, inducing long-lasting biologically active antibodies and cellular immune responses including cytotoxic T cells (CTLs). ISCOMs were found to be efficient in a variety of animals, including man.
+    #
+    # / January, 2014 - Expert Review of Vaccines
+    # quote !k = A major challenge in ISCOM manufacturing is related to the physical incorporation of the antigen. With membrane-derived antigens, the technology is feasible, however, with other antigens, particularly recombinant DNA proteins, reproducible and efficient incorporation is difficult.
+    #
+    # / January, 2014 - Expert Review of Vaccines
+    # quote !l = Various technical solutions of binding antigens to ISCOM constituents were useful at the laboratory scale, but were less robust for commercial scale vaccine production
+    #
+    # / January, 2014 - Expert Review of Vaccines
+    # quote !m = Another challenge is the adjustment of the adjuvant or saponin dose, as the saponins are the cornerstones of the ISCOM particle. The amount of saponin required for the actual construction is often considerably higher than that needed to achieve a potent adjuvant effect. High doses of saponin may be reactive, particularly in mice.
+
+
 
   #
   // Safety and immunogenicity of a candidate Middle East respiratory syndrome coronavirus viral-vectored vaccine: a dose-escalation, open-label, non-randomised, uncontrolled, phase 1 trial

@@ -4,9 +4,91 @@
   ############################################################################################
   # Everything below in this section is not updated claims.
   ############################################################################################
-  #### 1/26/21 ####
+  #### 2/9/21 ####
+  # VACCINES QUESTIONS
+  >
+    Does your vaccine cause infertility? What can you share about the Pfizer-BioNTech COVID-19 vaccine in pregnant women?
+    There are no data to suggest that the Pfizer-BioNTech COVID-19 vaccine causes infertility. It has been incorrectly suggested that COVID-19 vaccines will cause infertility because of a very short amino acid sequence in the spike protein of SARS-CoV-2 that is partly shared with a protein in the placenta called syncytin-1. From a scientific perspective, the differences between the two sequences are quite significant, making it very unlikely our vaccine could generate a response that would harm the placenta.
+
+    Until findings are available from clinical trials and additional studies, only limited data are available on the safety of COVID-19 vaccines, including mRNA vaccines, administered during pregnancy:
+    Limited data are currently available from animal developmental and reproductive toxicity studies. No safety concerns were demonstrated in rats that received Moderna COVID-19 vaccine before or during pregnancy; studies of the Pfizer-BioNTech vaccine are ongoing.
+    Studies in people who are pregnant are planned.
+    Both vaccine manufacturers are monitoring people in the clinical trials who became pregnant
+
+    mRNA vaccines do not contain the live virus that causes COVID-19 and, therefore, cannot give someone COVID-19. Additionally, mRNA vaccines do not interact with a person’s DNA because the mRNA does not enter the nucleus of the cell. Cells break down the mRNA quickly. Based on how mRNA vaccines work, experts believe they are unlikely to pose a specific risk for people who are pregnant. However, the actual risks of mRNA vaccines to the pregnant person and her fetus are unknown because these vaccines have not been studied in pregnant women.
+
+    a recent study in JAMA Network Open compared the outcomes of pregnancies in women that have / have not had SARS-CoV-2 infection, which showed that SARS-CoV-2 infection during pregnancy was not associated with adverse pregnancy outcomes
 
 
+  > Do mRNA vaccines change a person’s DNA?
+    mRNA is a transient carrier of information that does not integrate into human DNA
+  # -
+  #   Developing mRNA-vaccine technologies
+  #   mRNA-based therapeutics — developing a new class of drugs
+  #   In vitro-Transcribed mRNA Therapeutics: Out of the Shadows and Into the Spotlight
+  #   Suppression of RNA Recognition by Toll-like Receptors: The Impact of Nucleoside Modification and the Evolutionary Origin of RNA
+  >
+    Unlike a traditional vaccine that uses inactivated, dead, or portions of actual virus to spur an immune response, mRNA delivers a message to your body’s cells via a lipid nanoparticle envelope that instructs the cells to generate the spike protein found on the surface of a coronavirus that initiates infection.[vi],[vii] Instructing cells to generate the spike protein spurs an immune response, including generation of antibodies specific to the SARS-CoV-2 spike protein.
+  # -
+  #   mRNA vaccine delivery using lipid nanoparticles.
+  #   Lipid-based mRNA vaccine delivery systems
+
+  >
+    How long will you be watching people who have been vaccinated? How do we know that bad side effects can’t happen long after vaccination, if the vaccine’s only been studied for less than a year?
+    Does Pfizer and BioNTech’s vaccine cause Bell’s palsy?
+    When will you be able to share more information about vaccinating those in younger age groups (12-15 and 16-17 years of age)?
+
+  >
+    Can your vaccine cause people to develop COVID-19?
+    No. Pfizer and BioNTech’s COVID-19 vaccine is an mRNA vaccine, which does not use the live virus but rather a small portion of the viral sequence of the SARS-CoV-2 virus to instruct the body to produce the spike protein displayed on the surface of the virus. That spike protein then generates an immune response to the virus to potentially prevent infection. The vaccine does not allow the SARS-CoV-2 virus to replicate and it cannot cause any known illness.[x]
+  # -
+  #   mRNA as a Transformative Technology for Vaccine Development to Control Infectious Diseases
+    # No vaccine can cause a patient to develop the disease against which they were vaccinated.[xi] Potential side effects of the Pfizer-BioNTech COVID-19 vaccine include injection site pain, fatigue, headache, muscle pain, chills, joint pain, fever, injection site swelling, injection site redness, nausea, malaise, and lymphadenopathy (enlargement of the lymph nodes).[
+
+  # Vaccine Considerations for People with Underlying Medical Condition
+    # People who have weakened immune systems
+    # People who have autoimmune conditions
+    # People who have previously had Guillain-Barre syndrome
+    # People who have previously had Bell’s palsy
+    #
+    # some rare side effects of vaccination will almost certainly emerge, like the reports of small numbers of people developing anaphylaxis. But so will medical events whose timing just comes down to random chance — and the potential ripple effects of those reports already have experts concerned.
+    #
+    # A three-year review of adverse reports logged into a U.S. national vaccine database found that anaphylaxis after vaccination is rare, occurring at a rate of about 1.31 per million doses of vaccine administered. Of those cases, 85% were in people with a history of allergies. None of the 33 cases — out of 25 million vaccinations — died. Some needed epinephrine, the drug in EpiPens, but others recovered after treatment with antihistamines.
+
+  >
+    Does Pfizer and BioNTech’s vaccine cause Bell’s palsy?
+    Bell’s palsy is a condition that affects the nerves controlling facial muscles and can occur after a viral infection. It is typically temporary and resolves in a few weeks.[xvii] The observed frequency of reported Bell’s palsy in the vaccine group is consistent with the expected background rate in the general population, and there is no indication of a causal relationship at this time. Pfizer and BioNTech together with FDA will continue to monitor for cases of Bell’s palsy as the vaccine is given to larger populations.
+
+    Cases of Bell’s palsy were reported in participants in the mRNA COVID-19 vaccine clinical trials.However, the Food and Drug Administration (FDA) does not consider these to be above the rate expected in the general population. They have not concluded these cases were caused by vaccination. Therefore, persons who have previously had Bell’s Palsy may receive an mRNA COVID-19 vaccine.
+
+
+    Bell’s palsy, too, has been linked in at least one circumstance to a vaccine, an intranasally administered flu vaccine that was briefly brought to market in Switzerland.
+
+    Eight people in the Pfizer and Moderna trials, which enrolled nearly 74,000 participants in total, were diagnosed with the condition — seven in the vaccine arms and one in the placebo arm of the Moderna trial. The jury is still out on whether Bell’s palsy, which afflicts about 40,000 people a year in the U.S., is an occasional side effect of taking a Covid-19 vaccine.
+
+    As vaccinations begin on a larger scale, reports of other potential side effects will likely pop up. A few cases of something are anecdotes, not data, and definitely not proof of a causal relationship. While they must and will be studied, investigations of this sort take time.
+
+    The American Academy of Otolaryngology–Head and Neck Surgery (AAO-HNS) has reviewed the data submitted to the U.S. Food and Drug Administration (FDA) related to the recently approved COVID-19 vaccines from Pfizer-BioNTech and Moderna that reported four and three cases of facial paralysis (Bell’s palsy) respectively in patients who were vaccinated and one patient who received the placebo.
+    there is no clear basis upon which to conclude a causal relationship at this time.
+    At this time, there is insufficient evidence to conclude the existence of a causal relationship between vaccination against COVID-19 and Bell's palsy
+    The FDA will continue surveillance for cases of Bell’s palsy with deployment of the vaccine into larger populations. AAO-HNS feels these rare events should not dissuade healthcare personnel or patients from receiving these critical vaccines.
+  # https://www.entnet.org/content/aao-hns-statement-bell%E2%80%99s-palsy-related-approved-covid-19-vaccines
+
+    # In a statement issued by the American Academy of Otolaryngology-Head and Neck Surgery, recommendations are presented for the treatment of Bell's palsy after COVID-19 vaccination and for unvaccinated patients.
+    #
+    #
+    # The absence of large numbers of confirmed and published in-flight transmissions of SARS-CoV-2 is encouraging but is not definitive evidence that fliers are safe. The circumstances for robust study have been too few among the disruption of the pandemic to know with precision the risk and factors needed to quantitate transmission under widely varying circumstances. At present, based on circumstantial data, strict use of masks appears to be protective. Structured prospective studies to quantitate transmission risk on flight with rigid masking protocols are now most pressing. At the same time, those with robust data on in-flight transmission in the days prior to on-board masking should come forward and publish these data.
+
+
+
+
+
+  >
+    People who have autoimmune conditions People with autoimmune conditions may receive an mRNA COVID-19 vaccine. However, they should be aware that no data are currently available on the safety of mRNA COVID-19 vaccines for them. Individuals from this group were eligible for enrollment in clinical trials.
+
+
+
+  ########
   >
     inactivated vaccines, virally and bacterially vectored vaccines, recombinant protein and DNA vaccines, as well as the use of attenuated vaccines.
 
@@ -101,7 +183,7 @@
   >
     Vaccines such as the Oxford/Astra Zeneca ChAdOx1 and the Pfizer-BioNTech BNT162b2 [24] elicit neutralization titers in a similar range to the convalescent plasma in this study. However, these vaccines may elicit a broader antibody response and protective T cell immunity. Protective T cell immunity also likely occurs following natural infection. Further more, it is unclear what degree of neutralization mediates protection, and infection may be particularly sensitive to inhibition at exposure.
 
-  
+
 
 
   >
@@ -112,7 +194,7 @@
 
 
   ##### 1/31/21 ######  AYUSH
-  # PREGNANCY 
+  # PREGNANCY
   # https://www.nytimes.com/2021/01/26/opinion/covid-vaccine-rumors.html
 
   # https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948517/Information_for_Healthcare_Professionals_on_Pfizer_BioNTech.pdf

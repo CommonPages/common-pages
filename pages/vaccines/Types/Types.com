@@ -32,6 +32,12 @@ subject module Types
 
   # REFER FOR PAPERS : Vaccine development against coronavirus (2003 to present): An overview, recent advances, current scenario, opportunities and challenges
 
+  # General Vaccines
+  >
+    Novel adjuvants & delivery vehicles for vaccines development: A road ahead
+    The ABC of clinical and experimental adjuvants—a brief overview.
+    Adjuvants—a classification and review of their modes of action.
+
   # First generation vaccines
   subject Liveattenuatedvaccine
     head = Live attenuated vaccines have always received great importance because of its quickly available high immunogenic response due to presence of natural antigenic material [21]. It is successfully used against various infectious diseases such as polio, rubella, chicken pox, and mumps etc [21,26]. Further live attenuated vaccine possesses the great capacity to deliver/present different kinds of antigens across the virus life-cycle in their parent conformations [[26], [27], [28], [29], [30]]. This is the first generation vaccine, various efforts have been reported to develop the live attenuated vaccine in the past against coronaviruses
@@ -94,24 +100,111 @@ subject module Types
       # Recombinant SARS-CoV virus with lack of E gene
 
 
-
-
-
-
-
-  
-
-
-
   subject Matrix-M™adjuvant
     head =
 
+    #  Matrix M™ adjuvant used in diff vaccines/ Our data indicates that co-administration of the Matrix-M adjuvant.  Matrix MTM is a promising adjuvant for future development of candidate pandemic influenza vaccines./ Combination of a vector-based vaccine with Matrix-M adjuvant might prove a promising step towards next-generation influenza vaccines. Our results highlight that Matrix-M adjuvant is a promising parenteral adjuvant for formulating pandemic candidate vaccines. Despite this potent immune activation mediated by Matrix-M™, GLP-toxicity studies and clinical data suggest that Matrix-M™ adjuvant has a mild to moderate safety profile.
+
+
+    >
+      Several results/data highlight that Matrix-M adjuvant is a promising parenteral adjuvant for formulating pandemic candidate vaccines.
+
+
+    claim !Immuneresponse = Matrix-M adjuvant has been evaluated in numerous preclinical and clinical studies without any reports of cytotoxicity or side effects.  Matrix-M adjuvanted induced a strong immediate and long-term humoral immune response with high cross-reactivity and showed a dose-sparing potential.
+
+      # -
+      #   'Madhun_et_al_12_09_2009
+      #   'Madhun_et_al_12_09_2009.!a
+      #   'Madhun_et_al_12_09_2009.!b
+      #   'Madhun_et_al_12_09_2009.!c
+      # -
+      #   'Pedersen_et_al_06_23_2014
+      #   'Pedersen_et_al_06_23_2014.!a
+      #   'Pedersen_et_al_06_23_2014.!b
+      #   # An adjuvanted herpes simplex virus 2 subunit vaccine elicits a T cell response in mice and is an effective therapeutic vaccine in Guinea pigs
+      #   # T-helper 1 cells elicited by H5N1 vaccination predict seroprotection
+      # -
+      #   'Magnusson_et_al_03_23_2013
+      #   'Magnusson_et_al_03_23_2013.!a
+      #   'Magnusson_et_al_03_23_2013.!b
+      #   'Magnusson_et_al_03_23_2013.!c
+      #   'Magnusson_et_al_03_23_2013.!e
+      #   'Reimer_et_al_07_23_2012
+      #   # Matrix-M adjuvant: enhancing immune responses by ‘setting the stage’ for the antigen
+      # -
+      #   'Pedersen_et_al_05_09_2011
+      #   'Pedersen_et_al_05_09_2011.!a
+      #   'Pedersen_et_al_05_09_2011.!b
+      #   'Pedersen_et_al_05_09_2011.!c
+      #   'Pedersen_et_al_05_09_2011.!d
+      #   'Pedersen_et_al_05_09_2011.!f
+      # -
+      #   'Cox_et_al_10_19_2011
+      #   'Cox_et_al_10_19_2011.!a
+      #   'Cox_et_al_10_19_2011.!b
+      #   'Cox_et_al_10_19_2011.!c
+      # -
+      #   'Bengtsson_et_al_02_24_2016
+      #   'Bengtsson_et_al_02_24_2016.!a
+      #   'Bengtsson_et_al_02_24_2016.!b
+      #   'Bengtsson_et_al_02_24_2016.!c
+      #   'Bengtsson_et_al_02_24_2016.!d
+      #   'Bengtsson_et_al_02_24_2016.!e
+      # -
+      #   'Reimer_et_al_07_23_2012
+      #   'Reimer_et_al_07_23_2012.!a
+      #   'Reimer_et_al_07_23_2012.!c
+      # -
+      #   'Bengtsson_et_al_01_09_2014
+      #   'Bengtsson_et_al_01_09_2014.!a
+      #   'Bengtsson_et_al_01_09_2014.!b
+      #   'Bengtsson_et_al_01_09_2014.!c
+      #   'Bengtsson_et_al_01_09_2014.!d
+      #   'Bengtsson_et_al_01_09_2014.!e
+      #   'Bengtsson_et_al_01_09_2014.!f
+      #   'Bengtsson_et_al_01_09_2014.!g
+      # -
+      #   'Cox_et_al_12_08_2015
+      #   'Cox_et_al_12_08_2015.!a
+      #   'Cox_et_al_12_08_2015.!b
+      #   'Cox_et_al_12_08_2015.!c
+      # -
+      #   'Ahlberg_et_al_05_22_2017
+      #   'Ahlberg_et_al_05_22_2017.!a
+      #   'Ahlberg_et_al_05_22_2017.!b
+      #   'Ahlberg_et_al_05_22_2017.!c
+      #   'Ahlberg_et_al_05_22_2017.!d
+      #   'Ahlberg_et_al_05_22_2017.!e
+
+
+
+    claim !Intranasal = One murine model study supports a high effectiveness of Matrix‐M as an intranasal adjuvant.
+      # -
+      #   'Pedersen_et_al_05_09_2011
+      #   'Pedersen_et_al_05_09_2011.!b
+
+
+    claim !Morbidity = An animal study demonstrated that at least to some extent, Matrix-M adjuvated seasonal virosomal influenza vaccine can serve as an interim measure to decrease morbidity and mortality associated with a pandemic outbreak.
+
+      # -
+      #   'Cox_et_al_09_24_2015
+      #   'Cox_et_al_09_24_2015.!a
+      #   'Cox_et_al_09_24_2015.!b
+
+
+    >
+      The dysregulation of TLR signaling may cause autoimmunity. This review discusses the contribution of TLR signaling to the initiation and progression of autoimmune diseases, such as rheumatoid arthritis, experimental autoimmune encephalitis, myocarditis, hepatitis, kidney disease, systemic lupus erythematosus, diabetes, obesity, and experimental autoimmune uveitis as well as aging. The involvement of TLR signaling in the pathogenesis of autoimmune diseases may provide novel targets for the development of therapeutics.
+      Several studies suggest that Toll-like receptors (TLRs) play an essential role in the pathogenesis of autoimmune diseases.
+
+      Autoimmune diseases are a family of chronic systemic inflammatory disorders, characterized by the dysregulation of the immune system which finally results in the break of tolerance to self-antigen.
+      TLRs belong to the family of pattern recognition receptors (PRRs) that recognize a wide range of pathogen-associated molecular patterns (PAMPs).
     # -
-    #   Elicitation of Potent Neutralizing Antibody Responses by Designed Protein Nanoparticle Vaccines for SARS-CoV-2
-    #   https://www.cell.com/cell/fulltext/S0092-8674(20)31450-1
-    #   Potential adjuvants for the development of a SARS-CoV-2 vaccine based on experimental results from similar coronaviruses
-    #   The continued advance of vaccine adjuvants – ‘we can work it out’
-    #   Innate immune responses induced by the saponin adjuvant Matrix-M in specific pathogen free pigs
+    #   The Critical Role of Toll-Like Receptor Signaling Pathways in the Induction and Progression of Autoimmune Diseases
+    #   Toll-Like Receptor Pathways in Autoimmune Diseases
+
+    >
+      In humans, one study reported an association of HIV disease progression and a functional TLR7 polymorphism [40]. RNAs and their associated proteins having the potential to activate TLR7 have also been implicated in the etiology and development of lupus in humans [17]. Also, such nucleic acid-containing autoantigens are vulnerable to the degradation process mediated by extracellular nucleases before associating with TLR7 (also TLR9), and loss-of-function mutations of DNase I have been correlated with patients with systemic lupus erythematosus (SLE) [17]. Another meta-analysis showed an association between the TLR7 allele and SLE in Asian patients [41].
+      TLR7 is an important pattern recognition receptor of the innate immune system and initiates a signaling cascade that culminates in the production of type I interferons.83 A twofold increase in TLR7 expression was found to be sufficient to lead to autoantibody production and spontaneous autoimmunity in transgenic mouse models.84
 
 
 
@@ -271,12 +364,6 @@ subject module Types
 
     >
       The major limitation of the nucleic acid vaccine is the limited immune response attributed to specified or engineered genetic material, tedious genetic engineering task, local pain at site of injection, pyrexia and essential need of adjuvant for long time immunity [64,65].
-
-
-
-
-
-
 
   # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7443330/ # Second generation vaccine
   subject Subunitvaccines
