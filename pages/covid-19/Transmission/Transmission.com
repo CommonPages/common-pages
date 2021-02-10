@@ -812,12 +812,21 @@ subject module Transmission
         'Swadi_et_al_01_05_2021.!a
         'Swadi_et_al_01_05_2021.!b
         'Swadi_et_al_01_05_2021.!c
+      -  Limitations
         'Swadi_et_al_01_05_2021.!d
       -
         'Freedman_et_al_09_25_2020
         'Freedman_et_al_09_25_2020.!a
         'Freedman_et_al_09_25_2020.!b
         'Freedman_et_al_09_25_2020.!c
+      - Limitations
+        'Freedman_et_al_09_25_2020.!e
+        'Freedman_et_al_09_25_2020.!g
+        'Freedman_et_al_09_25_2020.!h
+        'Freedman_et_al_09_25_2020.!k
+        'Freedman_et_al_09_25_2020.!l
+        'Freedman_et_al_09_25_2020.!m
+        'Freedman_et_al_09_25_2020.!n
         # 'Freedman_et_al_09_25_2020.!d
       -
         'Murphy_et_al_10_21_2020
@@ -827,15 +836,40 @@ subject module Transmission
       -
         'Choi_et_al_09_18_2020
         'Choi_et_al_09_18_2020.!a
+        'Choi_et_al_09_18_2020.!c
+      - Limitation
+        'Choi_et_al_09_18_2020.!d
+        'Choi_et_al_09_18_2020.!e
       -
         'Speake_et_al_2020
         'Speake_et_al_2020.!a
         'Speake_et_al_2020.!b
         'Speake_et_al_2020.!c
+      - Limitations
+        'Speake_et_al_2020.!d
+        'Speake_et_al_2020.!e
+        'Speake_et_al_2020.!f
+        'Speake_et_al_2020.!g
+        'Speake_et_al_2020.!h
+        'Speake_et_al_2020.!i
+        'Speake_et_al_2020.!j
+        'Speake_et_al_2020.!k
+        'Speake_et_al_2020.!l
+        'Speake_et_al_2020.!m
+        'Speake_et_al_2020.!n
+
+      - Limitations
+        'Hertzberget_al_2016
+        'Hertzberget_al_2016.!a
+        'Hertzberget_al_2016.!b
+        'Hertzberget_al_2016.!c
+        'Hertzberget_al_2016.!d
+
 
       - Early Outbreak (No Interventions)
         'Yang_et_al_03_30_2020
         'Yang_et_al_03_30_2020.!a
+
 
     / Lack of Secondary Tranmission
     claim !NoTransmission = While some reports states that there is lack of secondary tranmission in flight and transmission is not inevitable even with large numbers of infected persons aboard.
@@ -853,6 +887,13 @@ subject module Transmission
       -
         'Freedman_et_al_09_25_2020
         'Freedman_et_al_09_25_2020.!n
+      -  Dispute
+        'Speake_et_al_2020
+        'Speake_et_al_2020.!d
+      -
+        'Hertzberget_al_2016
+        'Hertzberget_al_2016.!a
+        'Hertzberget_al_2016.!b
 
     / No Mask
     claim !NoMask = Authors of SARS-CoV-2 In-flight outbreak review stated that on flights with mass transmission events, masking was not mandated in any way and, was rarely practiced.

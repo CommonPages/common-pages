@@ -80,15 +80,125 @@
     # The absence of large numbers of confirmed and published in-flight transmissions of SARS-CoV-2 is encouraging but is not definitive evidence that fliers are safe. The circumstances for robust study have been too few among the disruption of the pandemic to know with precision the risk and factors needed to quantitate transmission under widely varying circumstances. At present, based on circumstantial data, strict use of masks appears to be protective. Structured prospective studies to quantitate transmission risk on flight with rigid masking protocols are now most pressing. At the same time, those with robust data on in-flight transmission in the days prior to on-board masking should come forward and publish these data.
 
 
-
-
-
   >
     People who have autoimmune conditions People with autoimmune conditions may receive an mRNA COVID-19 vaccine. However, they should be aware that no data are currently available on the safety of mRNA COVID-19 vaccines for them. Individuals from this group were eligible for enrollment in clinical trials.
 
 
+  >
+    Limitations - Freedman
+    The absence of large numbers of confirmed and published in-flight transmissions of SARS-CoV-2 is encouraging but is not definitive evidence that fliers are safe.
+     The circumstances for robust study have been too few among the disruption of the pandemic to know with precision the risk and factors needed to quantitate transmission under widely varying circumstances. At present, based on circumstantial data, strict use of masks appears to be protective.
 
-  ########
+    Reports of suspected in-flight transmission of SARS-CoV-2 are relatively few, which probably reflects the challenges of establishing in-flight transmission; the fact that flight-associated transmission may be rare; and the fact that as the pandemic progressed, many airlines adopted measures to decrease risk (e.g., reduced food and beverage services, removal of in-flight entertainment, provision of masks and sanitizing wipes, limitation of movement around the cabin, and enhanced cleaning of the airplane)
+    'Speake_et_al_2020
+    https://wwwnc.cdc.gov/eid/article/26/12/20-3910_article
+
+    With over two billion airline passengers annually, in-flight transmission of infectious diseases is an important global health concern.
+
+    Many instances of in-flight transmission have been documented, but the relative influence of the many factors (see below) affecting in-flight transmission has not been quantified. Long-standing guidance by public health agencies is that the primary transmission risk associated with air travel for most respiratory infectious diseases is associated with sitting within two rows of an infectious passenger. The effect of proximity may be one of these factors.
+    Infection at a distance from the index case indicates other factors, such as airflow, movement of passenger/crew members, fomites and contacts between passengers in the departure gate before boarding, or after deplaning, are involved
+    Cabin transmission of infectious diseases can occur through several routes.
+    ref 'Hertzberget_al_2016
+
+  >
+    Long-standing guidance by public health agencies is that the primary transmission risk associated with air travel for most respiratory infectious diseases is associated with sitting within 2 rows of an infectious passenger. This transmission zone, which actually comprises 5 rows—2 in front of the index case, 2 behind the index case, and the row in which the index case is seated—has been based on investigations of in-flight transmission of tuberculosis but is believed to have wide applicability1 This rule is empirical and does not directly take into account the physical and biological bases for droplet transmission—that is, ≤1 meter of contact.
+
+
+    ref 'Hertzberget_al_2016
+    https://doi.org/10.1016/j.aogh.2016.06.003 - for papers for inflight for other diseases
+
+
+
+
+  >
+    Other studies, however, have emphasized the difficulty of measuring and understanding the complex airflow inside an aircraft cabin, even under steady-state conditions (17). In addition, movement of passengers and crew can also affect airflow patterns on board; further study of the dynamics of airflow on aircraft under real-world conditions is warranted.
+    'Speake_et_al_2020
+    https://wwwnc.cdc.gov/eid/article/26/12/20-3910_article
+
+
+
+  >
+    for both severe acute respiratory syndrome–associated coronavirus (SARS-CoV) and influenza, approximately 50% of airplane transmission occurred beyond these rows.4
+
+  >
+    Studies of airplane transmission are commonly biased by contacts sharing exposure risks before boarding the aircraft
+
+  > first case in canada
+  # -
+  #   'Silverstein_et_al_02_13_2020
+  #   'Silverstein_et_al_02_13_2020.!a
+  #   'Silverstein_et_al_02_13_2020.!b
+  #   'Silverstein_et_al_02_13_2020.!c
+
+  >
+    Other published reports describe suspected flight-associated transmission of SARS-CoV-2 (2,3,13,14), but these reports lack supportive genomic evidence.
+  # -
+  #   Probable aircraft transmission of Covid-19 in-flight from the Central African Republic to France.
+  #   Assessment of SARS-CoV-2 transmission on an international flight and among a tourist group.
+  #   Asymptomatic transmission of SARS-CoV-2 on evacuation flight.
+
+
+
+
+
+
+  >
+    A report funded by the US Federal Aviation Administration concluded that human movement might explain the transmission of SARS-CoV-1 “to passengers seated as far as seven rows from the infected passenger during the SARS outbreak in 2003” (17).
+  # -
+  #   Airliner Cabin Environment Research. Infectious disease transmission in airliner cabins [cited 2020 Sep 17]. https://www.faa.gov/data_research/research/med_humanfacs/cer/media/InfectiousDiseaseTransmission.pdf
+
+  >
+    The spatial distribution of secondary cases on this flight suggests that the current public health practice for contact tracing of passengers exposed to SARS-CoV-2 while aboard aircraft may benefit from additional study (18,19).
+
+    Although infrequently reported and very difficult to assess accurately, there is a risk of disease transmission during commercial air travel and this risk has become the focus of heightened attention. The growing mobility of people and popularity of airline transportation has amplified the potential for disease to be transmitted to passengers not only during but also before and after flights.
+
+  # -
+  #   Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
+  #   World Health Organization. Contact tracing in the context of COVID-19 [cited 2020 May 14]. https://www.who.int/publications/i/item/contact-tracing-in-the-context-of-covid-19External Link
+
+  >
+    Risk of disease transmission within the aircraft cabin also seems to be affected by cabin ventilation.Transmission becomes widespread within all sections of the passenger cabin when the ventilation system is nonoperational, as shown by an influenza outbreak when passengers were kept aboard a grounded aircraft with an inoperative ventilation system
+  # -
+  #   Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
+
+  >
+    Risk assessment incorporating epidemiological data into mathematical models may show how proximity and ventilation affects disease transmission aboard commercial airlines.
+  # -
+  #   Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
+  >
+    Deterministic modelling with data from an in-flight tuberculosis investigation revealed that doubling ventilation rate within the cabin reduced infection risk by half.
+  # -
+  #   Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
+  >
+    The transmission of Mycobacterium tuberculosis is the most studied model of the spread of airborne pathogens aboard aircraft. Several studies about in-flight transmission of tuberculosis have been reported, with most being done in the mid-1990s
+  # -
+  #   Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
+
+  >
+    This pattern could be important because it did not follow the typical example of in-flight transmission of airborne pathogens—ie, risk of disease transmission is associated with a flight time of more than 8 h and sitting within two rows of the index passenger.
+
+  >
+    US CDC and WHO guidelines exist, on when and how to notify passengers and flight crew after they have been exposed to infectious diseases aboard commercial aircraft.4,  7,  29,  51,  86 Briefly, the airline is consulted whenever a health department determines that a passenger is infectious at time of flight. The airline then notifies passengers and flight crews in writing. Notification is typically limited to flights longer than 8 h and, in some cases, dependent upon the design of the aircraft, to passengers seated only in the same cabin area.
+
+    Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
+
+  >
+    Second, most of the secondary infections were in persons seated at the window, 2 of whom denied ever leaving their seat during the flight. This finding was unanticipated given the widely held view that persons in window seats are at lower risk for exposure to an infectious pathogen during flight, a belief supported by data simulating transmission of droplet-mediated respiratory illnesses during flights of similar duration on single-aisle airplanes in the United States (20).
+  # -
+  #   Behaviors, movements, and transmission of droplet-mediated respiratory diseases during transcontinental airline flights.
+
+  >
+    Other studies, however, have emphasized the difficulty of measuring and understanding the complex airflow inside an aircraft cabin, even under steady-state conditions (17). In addition, movement of passengers and crew can also affect airflow patterns on board; further study of the dynamics of airflow on aircraft under real-world conditions is warranted.
+  # -
+  #   Airliner Cabin Environment Research. Infectious disease transmission in airliner cabins [cited 2020 Sep 17]. https://www.faa.gov/data_research/research/med_humanfacs/cer/media/InfectiousDiseaseTransmission.pdf
+  >
+    the possibility that there was >1 SARS-CoV-2 superspreader in the mid cabin during the flight (21).
+
+    Review Article: Influenza Transmission on Aircraft A Systematic Literature Review
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4969063/
+
+
+  ##########################################
   >
     inactivated vaccines, virally and bacterially vectored vaccines, recombinant protein and DNA vaccines, as well as the use of attenuated vaccines.
 
