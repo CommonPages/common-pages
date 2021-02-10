@@ -78,6 +78,7 @@ feed February2020
     quote !d = CT scan of three cases showed typical viral pneumonia with ground glass opacity, while no viral RNAs were detected in first three or all the upper respiratory samples. Sputum is most accurate for laboratory diagnosis of NCP, followed by nasal swabs.
 
   # SARS-CoV2 indicate that furin is more dispensable than TMPRSS2 for viral entry, furin
+  @@MichaelLetko
   // Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses
   doi: https://doi.org/10.1038/s41564-020-0688-y
   ref 'Letko_et_al_02_24_2020
@@ -114,6 +115,7 @@ feed February2020
 
 
   # testing, face mask
+  @@CarolineWilliams
   // Exhaled Mycobacterium tuberculosis output and detection of subclinical disease by face-mask sampling: prospective observational studies
   doi: https://doi.org/10.1016/S1473-3099(19)30707-8
   ref 'Williams_et_al_02_18_2020
@@ -151,6 +153,7 @@ feed February2020
 
 
   # Pangolians probable host, origin, recombination of a Pangolin-CoV-like virus with a Bat-CoV-RaTG13-like virus..There is only the one batch of pangolins carrying this interesting CoV. Did they get it from animals in co-captivity? Or did they get it from the human smugglers over weeks-months in captivity? # whether SARS-CoV-2 is a recombinant virus, and whether such recombination might have facilitated its emergence, THIS PAPER IS ALREADY DONE - IN RESEARCH.I, CLUB IT WITH THE ARGUMENT-  RECOMBINATION EVENT,
+  @@YongyiShen
   // Isolation and Characterization of 2019-nCoV-like Coronavirus from Malayan Pangolins
   doi: https://doi.org/10.1101/2020.02.17.951335
   ref 'Xiao_et_al_02_20_2020
@@ -259,6 +262,7 @@ feed February2020
 
 
   # DNA Vaccine
+  @@KateBroderick
   // Immunogenicity of a DNA vaccine candidate for COVID-19
   doi: https://doi.org/10.1038/s41467-020-16505-0
   ref 'Smith_et_al_02_25_2020
@@ -397,6 +401,7 @@ feed February2020
 
 
   # Origin
+  @@ZhiyongPeng
   // Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China
   doi: https://doi.org/10.1001/jama.2020.1585
   ref 'Wang_et_al_2020c
@@ -420,6 +425,7 @@ feed February2020
 
 
   # Indoor Tranmission
+  @@AdamKucharski
   // Secondary attack rate and superspreading events for SARS-CoV-2
   doi: https://doi.org/10.1016/S0140-6736(20)30462-1
   ref 'Liu_et_al_2020g
@@ -469,6 +475,7 @@ feed February2020
 
 
   # Timeline - Epidemic
+  @@ChiZhang
   // MRCA time and epidemic dynamics of the 2019 novel coronavirus
   doi: https://doi.org/10.1101/2020.01.25.919688
   ref 'Zhang_et_al_2020i
@@ -482,6 +489,7 @@ feed February2020
 
 
   # AsymptomaticPhase
+  @@HiroshiNishiura
   // Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19)
   doi: https://doi.org/10.1101/2020.02.03.20020248
   ref 'Nishiura_et_al_2020b
@@ -495,6 +503,7 @@ feed February2020
 
 
   # Frontiers
+  @@YouWei
   // A Deep Learning Approach to Antibiotic Discovery
   doi: https://doi.org/10.1111/bjh.16725
   ref 'Stokes_et_al_2020
@@ -540,6 +549,7 @@ feed February2020
 
 
   # Origin Wuhan
+  @@JianWang
   // Identification of a novel coronavirus causing severe pneumonia in humans: a descriptive study.
   doi: http://doi.org/10.1097/CM9.0000000000000722
   ref 'Ren_et_al_2020
@@ -559,6 +569,7 @@ feed February2020
 
 
   # Transmission , Ro, HerdImmunity?
+  @@Joacim
   // The reproductive number of COVID-19 is higher compared to SARS coronavirus
   doi: https://doi.org/10.1093/jtm/taaa021
   ref 'Liu_et_al_2020e
@@ -600,6 +611,7 @@ feed February2020
 
 
   # Tag - Prevention for clinical care
+  @@GavinJoynt
   // COVID-19: A critical care perspective informed by lessons learnt from other viral epidemics
   doi: https://doi.org/10.1016/j.accpm.2020.02.002
   ref 'Ling_et_al_2020
@@ -643,6 +655,7 @@ feed February2020
 
 
   # Viral shedding among asymptomatic/ Superspreader
+  @@SandraCiesek
   // Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China
   doi: https://doi.org/10.1056/NEJMc2001899
   ref 'Hoehl_et_al_2020

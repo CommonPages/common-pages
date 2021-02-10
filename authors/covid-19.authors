@@ -1,4 +1,4 @@
-authors:
+`authors:
   MichelleHolshue:
     fullname: Michelle Holshue
     twitter: https://twitter.com/phnursemichelle
@@ -2407,3 +2407,74 @@ authors:
   XiKe:
     fullname: Xi Ke
     email: 292891648@qq.com
+
+  JulienRiou:
+    fullname: Julien Riou
+    email: julien.riou@ispm.unibe.ch
+
+  KerriBasile:
+    fullname: Kerri Basile
+    email: js.eden@sydney.edu.au
+
+  FlorianKrammer:
+    fullname: Florian Krammer
+    email: florian.krammer@mssm.edu
+
+  JoAnneFlynn:
+    fullname: JoAnne L. Flynn
+    email: joanne@pitt.edu
+    link: https://www.immunology.pitt.edu/person/joanne-l-flynn-phd
+
+  MichaelLetko:
+    fullname: Michael Letko
+    email: michael.letko@wsu.edu
+    link: https://graduate.vetmed.wsu.edu/participating-programs/iid/research-areas/michael-letko
+
+  CarolineWilliams:
+    fullname: Caroline M Williams
+    email: cw329@le.ac.uk
+
+  YongyiShen:
+    fullname: Yongyi Shen
+    email: guangzhouchenwu@sina.com
+
+  KateBroderick:
+    fullname: Kate Broderick
+    email: kbroderick@inovio.com
+    link: https://www.sbir.gov/node/398609
+
+  ZhiyongPeng:
+    fullname: Zhiyong Peng
+    email: pengzy5@hotmail.com
+
+  AdamKucharski:
+    fullname: Adam J Kucharski
+    email: adam.kucharski@lshtm.ac.uk
+
+  ChiZhang:
+    fullname: Chi Zhang
+    email: zhangchi@ivpp.ac.cn
+
+  HiroshiNishiura:
+    fullname: Hiroshi Nishiura
+    email: nishiurah@med.hokudai.ac.jp
+
+  YouWei:
+    fullname:  You‐Dong Wei
+    email: havonewei@163.com
+
+  JianWang:
+    fullname: Jian-Wei Wang
+    email: jianwei.wang@ipbcams.ac.cn
+
+  Joacim:
+    fullname: Joacim Rocklöv
+    email: joacim.rocklov@umu.se
+
+  GavinJoynt:
+    fullname: Gavin M. Joynt
+    email: gavinmjoynt@cuhk.edu.hk
+
+  SandraCiesek:
+    fullname: Sandra Ciesek
+    email: sandra.ciesek@kgu.de

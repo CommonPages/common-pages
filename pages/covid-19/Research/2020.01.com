@@ -32,6 +32,7 @@ feed January2020
 
 
   # Origin
+  @@JulienRiou
   // Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.4.2000058
   ref 'Riou_et_al_01_24_2020
@@ -166,6 +167,7 @@ feed January2020
 
 
   # Structure, Origin, Came from bats not civets  ? !b
+  @@FangLi
   // Receptor Recognition by the Novel Coronavirus from Wuhan: an Analysis Based on Decade-Long Structural Studies of SARS Coronavirus
   doi: https://doi.org/10.1128/JVI.00127-20
   ref 'Wan_et_al_2020
@@ -203,6 +205,7 @@ feed January2020
 
 
   # Origin ? Epidemics - Iran
+  @@KerriBasile
   // An emergent clade of SARS-CoV-2 linked to returned travellers from Iran
   doi: https://doi.org/10.1093/ve/veaa027
   ref 'Eden_et_al_2020
@@ -277,6 +280,7 @@ feed January2020
 
 
   # Tag- BCG vaccine
+  @@FlorianKrammer
   // BCG Vaccination Protects against Experimental Viral Infection in Humans through the Induction of Cytokines Associated with Trained Immunity
   doi: https://doi.org/10.1101/2020.03.17.20037713
   ref 'Arts_et_al_2020
@@ -290,6 +294,7 @@ feed January2020
 
 
   # Tag- BCG vaccine
+  @@JoAnneFlynn
   // Prevention of tuberculosis in macaques after intravenous BCG immunization
   doi: https://doi.org/10.1038/s41586-019-1817-8
   ref 'Darrah_et_al_2020
