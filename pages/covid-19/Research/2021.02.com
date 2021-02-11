@@ -9,12 +9,42 @@ feed Feb2021
     'Logunov_et_al_02_02_2021
     'Wu_et_al_02_03_2021
 
+  // Decreased SARS-CoV-2 viral load following vaccination
+  doi: https://doi.org/10.1101/2021.02.06.21251283
+  ref 'Tiefenbrun_et_al_02_08_2021
+    head = We analyzed positive SARS-CoV-2 test results following inoculation with the BNT162b2 mRNA vaccine.
+
+    > Abstract
+      Beyond their substantial protection of individual vaccinees, it is hoped that the COVID-19 vaccines would reduce viral load in breakthrough infections thereby further suppress onward transmission. Here, analyzing positive SARS-CoV-2 test results following inoculation with the BNT162b2 mRNA vaccine, we find that the viral load is reduced 4-fold for infections occurring 12-28 days after the first dose of vaccine. These reduced viral loads hint to lower infectiousness, further contributing to vaccine impact on virus spread.
+
+    - quotes
+      !a
+
+    / February, 2021 - medRxiv
+    quote !a = Our results show that infections occurring 12 days or longer following vaccination have significantly reduced viral loads, potentially affecting viral shedding and contagiousness as well as severity of the disease
+
+
+  // Antibodies elicited by SARS-CoV-2 infection and boosted by vaccination neutralize an emerging variant and SARS-CoV-1
+  doi: https://doi.org/10.1101/2021.02.05.21251182
+  ref 'Stamatatos_et_al_02_08_2021
+    head = Here we examined whether sera and monoclonal antibodies from convalescent donors, prior to and following a single immunization with the Pfizer or Moderna mRNA vaccines, neutralize the Wuhan-Hu-1 strain and a variant, B.1.351 from South Africa.
+
+    > Abstract
+      The emergence of SARS-CoV-2 variants raises concerns about their resistance to neutralizing antibodies elicited from previous infection, or from vaccination. Here we examined whether sera and monoclonal antibodies from convalescent donors, prior to and following a single immunization with the Pfizer or Moderna mRNA vaccines, neutralize the Wuhan-Hu-1 strain and a variant, B.1.351 from South Africa. Pre-vaccination sera weakly neutralized Wuhan-Hu-1 and sporadically neutralized B.1.351. Immunization with either vaccine generated anamnestic B and CD4+ T cell responses and a 1000-fold increase in neutralizing antibody titers against both strains and SARS-CoV-1. Neutralization was likely due to anti-RBD and anti-S2 antibodies. Our study highlights the importance of vaccination of both uninfected and of previously infected subjects, as the elicited immune response will neutralize distinct viral strains.
+
+    - quotes
+      !a
+
+    / February, 2021 - medRxiv
+    quote !a = Immunization with either vaccine generated anamnestic B and CD4+ T cell responses and a 1000-fold increase in neutralizing antibody titers against both strains and SARS-CoV-1. Neutralization was likely due to anti-RBD and anti-S2 antibodies.
+
+
   // Oxford/AstraZeneca Covid-19 shot less effective against South African variant: study
   doi: https://www.timeslive.co.za/news/south-africa/2021-02-07-oxfordastrazeneca-covid-19-shot-less-effective-against-south-african-variant-study/
   ref 'REUTERS_et_al_02_07_2021
     head = "In this small phase I/II trial, early data has shown limited efficacy against mild disease primarily due to the B.1.351 South African variant," an AstraZeneca spokesman said in response to the FT report.
 
-  
+
 
     / February, 2021 - Times Live
     quote !a =

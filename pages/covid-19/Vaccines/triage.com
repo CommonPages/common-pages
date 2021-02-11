@@ -90,3 +90,12 @@
       'Saadat_et_al_02_01_2021.!a
       'Saadat_et_al_02_01_2021.!b
       'Saadat_et_al_02_01_2021.!c
+    # 1000 fold increase in neutralising antibodies to those previously infected with the virus
+    -
+      'Stamatatos_et_al_02_08_2021
+      'Stamatatos_et_al_02_08_2021.!a
+
+  # Phizer reduces viral load and thus stops transmission    
+  - Triage
+    'Tiefenbrun_et_al_02_08_2021
+    'Tiefenbrun_et_al_02_08_2021.!a
