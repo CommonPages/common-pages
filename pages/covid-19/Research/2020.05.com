@@ -1493,7 +1493,7 @@ feed May2020
 
 
   # Severe Covid , !c !f severe covid - clinical recommendation tocilizumab
-  @@ShaohuaLi
+  # @@ShaohuaLi
   // Clinical and pathological investigation of patients with severe COVID-19
   doi: https://doi.org/10.1172/jci.insight.138070
   ref 'Li_et_al_05_19_2020b

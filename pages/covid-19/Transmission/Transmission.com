@@ -859,11 +859,16 @@ subject module Transmission
         'Speake_et_al_2020.!n
 
       - Limitations
-        'Hertzberget_al_2016
-        'Hertzberget_al_2016.!a
-        'Hertzberget_al_2016.!b
-        'Hertzberget_al_2016.!c
-        'Hertzberget_al_2016.!d
+        'Hertzberg_et_al_2016
+        'Hertzberg_et_al_2016.!a
+        'Hertzberg_et_al_2016.!b
+        'Hertzberg_et_al_2016.!c
+        'Hertzberg_et_al_2016.!d
+      -
+        'Mangili_et_al_03_12_2005
+        'Mangili_et_al_03_12_2005.!a
+        'Mangili_et_al_03_12_2005.!b
+        'Mangili_et_al_03_12_2005.!o1
 
 
       - Early Outbreak (No Interventions)
@@ -891,15 +896,28 @@ subject module Transmission
         'Speake_et_al_2020
         'Speake_et_al_2020.!d
       -
-        'Hertzberget_al_2016
-        'Hertzberget_al_2016.!a
-        'Hertzberget_al_2016.!b
+        'Hertzberg_et_al_2016
+        'Hertzberg_et_al_2016.!a
+        'Hertzberg_et_al_2016.!b
 
     / No Mask
     claim !NoMask = Authors of SARS-CoV-2 In-flight outbreak review stated that on flights with mass transmission events, masking was not mandated in any way and, was rarely practiced.
       -
         'Freedman_et_al_09_25_2020
         'Freedman_et_al_09_25_2020.!o
+      -
+        'Mangili_et_al_03_12_2005
+        'Mangili_et_al_03_12_2005.!n1
+      -
+        'Hoehl_et_al_08_18_2020
+        'Hoehl_et_al_08_18_2020.!a
+        'Hoehl_et_al_08_18_2020.!c
+      -  Limitations
+        'Hoehl_et_al_08_18_2020.!b
+        'Hoehl_et_al_08_18_2020.!d
+        'Hoehl_et_al_08_18_2020.!e
+        'Hoehl_et_al_08_18_2020.!f
+
 
     / Mask
     claim !Mask = While on flights with rigid masking policies, no transmission was found from PCR+ index cases aboard.

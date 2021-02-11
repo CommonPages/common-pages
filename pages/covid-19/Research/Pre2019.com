@@ -3098,40 +3098,45 @@ feed Pre2019
       !b
       !c
       !d
-
+    - Limitations
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
 
     / December, 2003 - N Engl J Med
     quote !a = After one flight carrying a symptomatic person and 119 other persons, laboratory-confirmed SARS developed in 16 persons, 2 others were given diagnoses of probable SARS, and 4 were reported to have SARS but could not be interviewed.
 
     / December, 2003 - N Engl J Med
-    quote !b = Illness in passengers was related to the physical proximity to the index patient, with illness reported in 8 of the 23 persons who were seated in the three rows in front of the index patient, as compared with 10 of the 88 persons who were seated elsewhere
+    quote !b = Illness in passengers was related to the physical proximity to the index patient, with illness reported in 8 of the 23 persons who were seated in the three rows in front of the index patient, as compared with 10 of the 88 persons who were seated elsewhere.
 
     / December, 2003 - N Engl J Med
-    quote !c = Another flight carrying four symptomatic persons resulted in transmission to at most one other person, and no illness was documented in passengers on the flight that carried a person who had presymptomatic SARS
+    quote !c = Another flight carrying four symptomatic persons resulted in transmission to at most one other person, and no illness was documented in passengers on the flight that carried a person who had presymptomatic SARS.
 
     / December, 2003 - N Engl J Med
     quote !d = Transmission of SARS may occur on an aircraft when infected persons fly during the symptomatic phase of illness. Measures to reduce the risk of transmission are warranted.
 
-    # / December, 2003 - N Engl J Med
-    # quote !e = There was no significant difference in risk between persons seated in an aisle seat and those seated in a middle or window seat (6 of 39 [15 percent] vs. 12 of 72 [17 percent]; relative risk, 0.9; 95 percent confidence interval, 0.4 to 2.3). Hand contact might have been expected to increase the risk among passengers who sat in aisle seats, but we did not find such a pattern. Two of the 20 passengers who became infected (and whose seating assignments are known) were seated within 0.9 m (36 in.) of the index patient.
-    #
-    # / December, 2003 - N Engl J Med
-    # quote !f = As was expected on the basis of the known patterns of transmission of SARS, the fact that the virus appeared to be transmitted by passengers who were in the symptomatic phase of illness but not by those who were in the presymptomatic phase suggests that the risk of transmission varies according to the phase of illness. It is likely that persons who fly during the incubation period (within 10 days before the onset of illness) pose very little or no risk to other passengers. However, we might have missed some cases because of the low percentage of passengers from Flight 1 who were contacted and because of the limitations in routine surveillance.
-    #
-    # / December, 2003 - N Engl J Med
-    # quote !g = As in our findings with regard to Flights 2 and 3, the risk of transmission can vary widely. The variation in risk might be influenced by the duration of the flight, the stage of illness, the type of air-ventilation system in use, the size of the aircraft, and the number of infected persons on board. In addition, some investigators have proposed that poorly characterized host factors in certain patients predispose them to transmit the virus to large numbers of persons (making them so-called “super-spreaders”), a hypothesis that has been used to explain epidemiologic clustering in Hong Kong and Singapore and that might be applicable to the index patient on Flight 2
-    #
-    # / December, 2003 - N Engl J Med
-    # quote !h = It is important to emphasize that the true attack rate on Flight 2 may be different from the rate we calculated. Sixteen of the 22 cases that resulted from this flight had laboratory confirmation of SARS-CoV. No specimens were available for testing from five patients, and one patient had a negative test; some patients who were deemed to have probable cases of SARS may not have been infected with SARS-CoV.
-    #
-    # / December, 2003 - N Engl J Med
-    # quote !i = On the other hand, five of the cases resulted in death, and the other patients had illness compatible with a diagnosis of SARS whose onset occurred within the expected incubation period. Forty-six of the passengers who were considered not to have been infected were not interviewed, including the two who sat next to the index patient, and it is possible that routine surveillance missed some additional infections.
-    #
-    # / December, 2003 - N Engl J Med
-    # quote !j = The fact that only 45 percent of the passengers were interviewed despite intensive investigation by three health departments over the course of two months highlights the difficulties faced by such investigations and raises the possibility that more transmission occurred than was recognized.
-    #
-    # / December, 2003 - N Engl J Med
-    # quote !k = In contrast, another flight carrying four symptomatic persons resulted in transmission to at most one other person, and no illness was documented in passengers on the flight that carried a person who had presymptomatic SARS.
+    / December, 2003 - N Engl J Med
+    quote !e = There was no significant difference in risk between persons seated in an aisle seat and those seated in a middle or window seat. Hand contact might have been expected to increase the risk among passengers who sat in aisle seats, but we did not find such a pattern. Two of the 20 passengers who became infected (and whose seating assignments are known) were seated within 0.9 m (36 in.) of the index patient.
+
+    / December, 2003 - N Engl J Med
+    quote !f = As was expected on the basis of the known patterns of transmission of SARS, the fact that the virus appeared to be transmitted by passengers who were in the symptomatic phase of illness but not by those who were in the presymptomatic phase suggests that the risk of transmission varies according to the phase of illness. It is likely that persons who fly during the incubation period (within 10 days before the onset of illness) pose very little or no risk to other passengers. However, we might have missed some cases because of the low percentage of passengers from Flight 1 who were contacted and because of the limitations in routine surveillance.
+
+    / December, 2003 - N Engl J Med
+    quote !g = As in our findings with regard to Flights 2 and 3, the risk of transmission can vary widely. The variation in risk might be influenced by the duration of the flight, the stage of illness, the type of air-ventilation system in use, the size of the aircraft, and the number of infected persons on board. In addition, some investigators have proposed that poorly characterized host factors in certain patients predispose them to transmit the virus to large numbers of persons (making them so-called “super-spreaders”), a hypothesis that has been used to explain epidemiologic clustering in Hong Kong and Singapore and that might be applicable to the index patient on Flight 2
+
+    / December, 2003 - N Engl J Med
+    quote !h = It is important to emphasize that the true attack rate on Flight 2 may be different from the rate we calculated. Sixteen of the 22 cases that resulted from this flight had laboratory confirmation of SARS-CoV. No specimens were available for testing from five patients, and one patient had a negative test; some patients who were deemed to have probable cases of SARS may not have been infected with SARS-CoV.
+
+    / December, 2003 - N Engl J Med
+    quote !i = On the other hand, five of the cases resulted in death, and the other patients had illness compatible with a diagnosis of SARS whose onset occurred within the expected incubation period. Forty-six of the passengers who were considered not to have been infected were not interviewed, including the two who sat next to the index patient, and it is possible that routine surveillance missed some additional infections.
+
+    / December, 2003 - N Engl J Med
+    quote !j = The fact that only 45 percent of the passengers were interviewed despite intensive investigation by three health departments over the course of two months highlights the difficulties faced by such investigations and raises the possibility that more transmission occurred than was recognized.
+
+
 
 
   # sneezing, coughing, transmission- discuss this paper with Ayush

@@ -273,7 +273,7 @@
     / medRxiv — May 6, 2020
     quote !a = The pandemic may be readily controllable through a combination of testing, treatment if necessary, and self-isolation after testing positive (TTI) of symptomatic individuals together with social protection (e.g., facemask use, handwashing). Even with 20% effective social protection, TTI of 1 in 4 symptomatic individuals can substantially "flatten the curve" cutting the peak daily incidence in half.
 
-  @@JasonAbaluck
+  # @@JasonAbaluck
   // The Case for Universal Cloth Mask Adoption and Policies to Increase Supply of Medical Masks for Health Workers
   doi: http://dx.doi.org/10.2139/ssrn.3567438
   ref 'Abaluck_04_2020

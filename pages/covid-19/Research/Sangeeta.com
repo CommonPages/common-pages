@@ -6,6 +6,34 @@ feed Sangeeta
 
 
   #
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -19,7 +47,7 @@ feed Sangeeta
     quote !a =
 
   #
-  //
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -31,7 +59,7 @@ feed Sangeeta
     quote !a =
 
   #
-  //
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -41,121 +69,593 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Maximizing Fit for Cloth and Medical Procedure Masks to Improve Performance and Reduce SARS-CoV-2 Transmission and Exposure, 2021
+  doi: http://dx.doi.org/10.15585/mmwr.mm7007e1
+  ref 'Brooks_et_al_02_10_2021
+    head = During January 2021, CDC conducted various experiments to assess two methods to improve medical procedure mask performance by improving fit and, in turn, filtration: 1) double masking and 2) knotting and tucking the medical procedure mask.  Each modification substantially improved source control and reduced wearer exposure.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+
+    / Feburary, 2021 - MMWR Morb Mortal Wkly Rep.
+    quote !a = The data in this report underscore the finding that good fit can increase overall mask efficiency. Multiple simple ways to improve fit have been demonstrated to be effective. Continued innovative efforts to improve the fit of cloth and medical procedure masks to enhance their performance merit attention.
+
+    / Feburary, 2021 - MMWR Morb Mortal Wkly Rep.
+    quote !b = The first experiment assessed how effectively various mask combinations reduced the amount of particles emitted during a cough (i.e., source control) in terms of collection efficiency: Results from the first experiment demonstrated that the unknotted medical procedure mask alone blocked 42.0% of the particles from a simulated cough, and the cloth mask alone blocked 44.3% . The combination of the cloth mask covering the medical procedure mask (double mask) blocked 92.5% of the cough particles.
+
+    / Feburary, 2021 - MMWR Morb Mortal Wkly Rep.
+    quote !c = The second experiment assessed how effectively the two modifications to medical procedure masks reduced exposure to aerosols emitted during a period of breathing: In the second experiment, adding a cloth mask over the source headform’s medical procedure mask or knotting and tucking the medical procedure mask reduced the cumulative exposure of the unmasked receiver by 82.2%  and 62.9% , respectively. When the source was unmasked and the receiver was fitted with the double mask or the knotted and tucked medical procedure mask, the receiver’s cumulative exposure was reduced by 83.0%  and 64.5%, respectively. When the source and receiver were both fitted with double masks or knotted and tucked masks, the cumulative exposure of the receiver was reduced 96.4% and 95.9%, respectively.
+
+    / Feburary, 2021 - MMWR Morb Mortal Wkly Rep.
+    quote !d = Until vaccine-induced population immunity is achieved, universal masking is a highly effective means to slow the spread of SARS-CoV-2** when combined with other protective measures, such as physical distancing, avoiding crowds and poorly ventilated indoor spaces, and good hand hygiene.
+
+
+
+  #
+  // Effectiveness of Mask Wearing to Control Community Spread of SARS-CoV-2
+  doi: https://doi.org/10.1001/jama.2021.1505
+  ref 'Brooks_et_al_02_10_2021
+    head =
+
+    # - quotes
+    #   !a
+
+    # / February, 2021 - JAMA
+    # quote !a =
+    #
+    # / February, 2021 - JAMA
+    # quote !a = In recent laboratory experiments, multilayer cloth masks were more effective than single-layer masks, blocking as much as 50% to 70% of exhaled small droplets and particles.
+    #
+    # / February, 2021 - JAMA
+    # quote !a = In some cases, cloth masks have performed similar to surgical or procedure masks for source control.
+    #
+    # / February, 2021 - JAMA
+    # quote !a =  masks protect uninfected wearers. Masks form a barrier to large respiratory droplets that could land on exposed mucous membranes of the eye, nose, and mouth. Masks can also partially filter out small droplets and particles from inhaled air.
+    #
+    # / February, 2021 - JAMA
+    # quote !a = Multiple layers of fabric and fabrics with higher thread counts improve filtration. However, the observed effectiveness of cloth masks to protect the wearer is lower than their effectiveness for source control,3 and the filtration capacity of cloth masks can be highly dependent on design, fit, and materials used.
+    #
+    # / February, 2021 - JAMA
+    # quote !a = Epidemiological investigations have helped quantify the benefit of mask wearing to prevent the spread of SARS-CoV-2 (Table; Supplement). At a hair salon in which all staff and clients were required to wear a mask under local ordinance and company policy, 2 symptomatic, infected stylists attended to 139 clients and no infections were observed in the 67 clients who were reached for interviewing and testing.
+    #
+    # During a COVID-19 outbreak on the USS Theodore Roosevelt, persons who wore masks experienced a 70% lower risk of testing positive for SARS-CoV-2 infection.4 Similar reductions have been reported in case contact investigations when contacts were masked5 and in household clusters in which household members were masked.6
+    #
+    # A study that examined changes in growth rates for infections in 15 states and the District of Columbia before and after mask mandates showed that rates were growing before the mandates were enacted and slowed significantly after, with greater benefit the longer the mandates had been in place.
+
+
+
+  #
+  // Behaviors, movements, and transmission of droplet-mediated respiratory diseases during transcontinental airline flights
+  doi: https://doi.org/xyz
+  ref 'Hertzberg_et_al_04_03_2018
+    head = On 10 transcontinental US flights, we chronicled behaviors and movements of individuals in the economy cabin on single-aisle aircraft. We simulated transmission during flight based on these data. We also present the results of qPCR panels assaying for 18 common respiratory viruses for 228 samples collected from the air and hard surfaces, and taken before, during, and after the 10 flights.
+
+    > Abstract
+      With over 3 billion airline passengers annually, the inflight transmission of infectious diseases is an important global health concern. Over a dozen cases of inflight transmission of serious infections have been documented, and air travel can serve as a conduit for the rapid spread of newly emerging infections and pandemics. Despite sensational media stories and anecdotes, the risks of transmission of respiratory viruses in an airplane cabin are unknown. Movements of passengers and crew may facilitate disease transmission. On 10 transcontinental US flights, we chronicled behaviors and movements of individuals in the economy cabin on single-aisle aircraft. We simulated transmission during flight based on these data. Our results indicate there is low probability of direct transmission to passengers not seated in close proximity to an infectious passenger. This data-driven, dynamic network transmission model of droplet-mediated respiratory disease is unique. To measure the true pathogen burden, our team collected 229 environmental samples during the flights. Although eight flights were during Influenza season, all qPCR assays for 18 common respiratory viruses were negative.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+    - Handwashing
+      !f
+    - Limitations
+      !e
+      !g
+      !h
+      !i
+      !j
+
+    / April, 2018 - PNAS
+    quote !a = Our simulations indicate that a droplet-mediated respiratory infectious disease is unlikely to be directly transmitted beyond 1 m from the infectious passenger. Thus, transmission is limited to one row in front of or in back of an infectious passenger. This is more conservative than current public health guidance, calling for surveillance of passengers within two rows of an infectious passenger.
+
+    / April, 2018 - PNAS
+    quote !b = Although eight flights were during Influenza season, all qPCR assays for 18 common respiratory viruses were negative.
+
+    / April, 2018 - PNAS
+    quote !c = Our simulations also indicate that an infectious flight attendant can generate several infections; thus, it is imperative that flight attendants not fly when they are ill.
+
+    / April, 2018 - PNAS
+    quote !d = The average number of contacts is greatest for those in aisle seats (64, IQR: 50–77), less so in middle seats (58, IQR: 45–73), and least in window seats. Passengers seated midcabin have more contacts if they leave their seats.
+
+
+    / April, 2018 - PNAS
+    quote !e = Some transmissions may have occurred while waiting in the airport, while boarding, or while deplaning. Alternatively, some passengers may have been infected by other sources before or after the flight. Three of the five flights in these case reports range from 9.5 to 14 h, providing many more opportunities for transmission. Other transmissions may have occurred via fomites.
+
+    / April, 2018 - PNAS
+    quote !f = Flyers can protect themselves from fomite transmission by exercising careful hand hygiene.
+
+    / April, 2018 - PNAS
+    quote !g = Our model assumes that droplets are the main transmission route for influenza and SARS. This assumption is based on general public health agency guidance to health care providers, but it may not be true: significant transmission may also occur via smaller virus-laden particles (the smallest being aerosols), which have larger dispersion distances.
+
+    / April, 2018 - PNAS
+    quote !h = Our model assumes omnidirectional transmission and does not take into account seat backs as barriers. Thus, our simulation results may be overestimating risk of direct droplet-mediated transmission.
+
+    / April, 2018 - PNAS
+    quote !i = We caution about extrapolating these findings to short-hop domestic flights, international flights, or flights on other airlines. On our study flights, half of the passengers never left their seats during flight. On short-hop flights, the amount of movement may be much less. Conversely, on longer international flights, there will be substantially more movement of passengers and crew, leading to many additional close contacts.
+
+    / April, 2018 - PNAS
+    quote !j = Our results also cannot be extrapolated from single-aisle cabins to double-aisle cabins commonly used for international flights. Different airlines will have different cabin-disinfection protocols and supervise their cabin-cleaning staff in different ways.
+
+
+
+  #
+  // Aircraft Cabin Air Recirculation and Symptoms of the Common Cold
+  doi: https://sci-hub.se/10.1001/jama.288.4.483
+  ref 'Zitter_et_al_2002
+    head = A natural experiment conducted among 1100 passengers departing the San Francisco Bay area in California and traveling to Denver, Colo, during January through early April 1999, and who completed a questionnaire in the boarding area and a follow-up telephone interview 5 to 7 days later. Forty-seven percent traveled aboard airplanes using 100% fresh air for ventilation, and 53% traveled aboard aircraft that recirculated upto 50% of cabin air.
+
+    > Context
+      In recent years, new commercial aircraft have been designed to recirculate approximately 50% of the cabin air to increase fuel efficiency. Some older aircraft use only fresh air. Whether air recirculation increases the transmission of infectious disease is unknown; some studies have demonstrated higher rates of the common cold among persons working in buildings that recirculate air.
+
+    > Objective
+      To evaluate the role of air recirculation as a predictor of postflight upper respiratory tract infections (URIs).
+
+    > Design, Setting, and Participants
+      A natural experiment conducted among 1100 passengers departing the San Francisco Bay area in California and traveling to Denver, Colo, during January through early April 1999, and who completed a questionnaire in the boarding area and a follow-up telephone interview 5 to 7 days later. Forty-seven percent traveled aboard airplanes using 100% fresh air for ventilation, and 53% traveled aboard aircraft that recirculated cabin air.
+
+    > Main Outcome Measure
+      Incidence of reporting new URI symptoms within 1 week of the flight.
+
+    > Results
+      Passengers on airplanes that did and did not recirculate air had similar rates of postflight respiratory symptoms. The rates of reporting a cold were 19% vs 21% (P = .34); a runny nose and a cold, 10% vs 11%, (P = .70); and an aggregation of 8 URI symptoms, 3% in both groups (P>.99). Results were similar after statistical adjustment for potential confounders.
+
+    > Conclusion
+      We found no evidence that aircraft cabin air recirculation increases the risk for URI symptoms in passengers traveling aboard commercial jets.
+
+    - quotes
+      !a
+      !b
+
+    / July, 2002 - JAMA: The Journal of the American Medical Association
+    quote !a = We found no evidence that aircraft cabin air recirculation increases the risk for URI symptoms in passengers traveling aboard commercial jets on a 2 hour flight.
+
+    / July, 2002 - JAMA: The Journal of the American Medical Association
+    quote !b = Passengers on airplanes that did and did not recirculate air had similar rates of postflight respiratory symptoms. The rates of reporting a cold were 19% vs 21% (P = .34); a runny nose and a cold, 10% vs 11%, (P = .70); and an aggregation of 8 URI symptoms, 3% in both groups (P>.99).
+
+
+
+  #
+  // The microbiological composition of airliner cabin air
+  doi: https://pubmed.ncbi.nlm.nih.gov/7661830/
+  ref 'Wick_et_al_1995
+    head = We sampled the microbiologic climate of 45 domestic and international flights. We also sampled common locations in a major southwestern city.
+
+    > Abstract
+      Hundreds of millions of passengers travel on U.S. airliners annually. These large numbers, together with the close proximity required onboard, raise a concern about microbiologic disease transmission in cabin air. Previous air quality surveys generally concentrated on environmental tobacco smoke and particulate matter. They largely ignored the microorganisms also present. We sampled the microbiologic climate of 45 domestic and international flights. We also sampled common locations in a major southwestern city. The concentration of microorganisms in airline cabin air is much lower than in ordinary city locations. We conclude that the small number of microorganisms found in U.S. airliner cabin environments does not contribute to the risk of disease transmission among passengers.
+
+    - quotes
+      !a
+      !b
+
+    / March, 1995 - Aviat Space Environ Med.
+    quote !a = The concentration of microorganisms in airline cabin air is much lower than in ordinary city locations.
+
+    / March, 1995 - Aviat Space Environ Med.
+    quote !b = We conclude that the small number of microorganisms found in U.S. airliner cabin environments does not contribute to the risk of disease transmission among passengers.
+
+
+  #
+  // Influenza Transmission on Aircraft: A Systematic Literature Review
+  doi: https://doi.org/10.1097/EDE.0000000000000438
+  ref 'Leitmeyer_et_al_2016
+    head = We identified 14 peer-reviewed publications describing contact tracing of passengers after possible exposure to influenza virus aboard an aircraft. Contact tracing during the initial phase of the influenza A(H1N1)pdm09 pandemic was described in 11 publications.
+
+
+    > Background
+      Air travel is associated with the spread of influenza through infected passengers and potentially through in-flight transmission. Contact tracing after exposure to influenza is not performed systematically. We performed a systematic literature review to evaluate the evidence for influenza transmission aboard aircraft.
+
+    > Methods
+      Using PubMed and EMBASE databases, we identified and critically appraised identified records to assess the evidence of such transmission to passengers seated in close proximity to the index cases. We also developed a bias assessment tool to evaluate the quality of evidence provided in the retrieved studies.
+
+    > Results
+      We identified 14 peer-reviewed publications describing contact tracing of passengers after possible exposure to influenza virus aboard an aircraft. Contact tracing during the initial phase of the influenza A(H1N1)pdm09 pandemic was described in 11 publications. The studies describe the follow-up of 2,165 (51%) of 4,252 traceable passengers. Altogether, 163 secondary cases were identified resulting in an overall secondary attack rate among traced passengers of 7.5%. Of these secondary cases, 68 (42%) were seated within two rows of the index case.
+
+    > Conclusion
+      We found an overall moderate quality of evidence for transmission of influenza virus aboard an aircraft. The major limiting factor was the comparability of the studies. A majority of secondary cases was identified at a greater distance than two rows from the index case. A standardized approach for initiating, conducting, and reporting contact tracing could help to increase the evidence base for better assessing influenza transmission aboard aircraft.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+    - seated within two rows from the index case.
+      !m
+    - greater distance than two rows from the index case.
+      !n
+
+
+    / September, 2016 - Epidemiology
+    quote !a = Overall, the quality of evidence in the published literature of transmission of influenza virus during flight is moderate. There is evidence that influenza transmission aboard aircraft occurs, but the published data do not permit any conclusive assessment of the likelihood and extent. The major limiting factor was the comparability of the studies.
+
+    / September, 2016 - Epidemiology
+    quote !b = The studies were often biased by other potential exposures before or after the flight. There might be an association between seating and transmission to passengers in proximity to an index case, but the evidence is not robust enough to propose a single standard approach for contact tracing of passengers following potential transmission of influenza on board aircraft.
+
+    / September, 2016 - Epidemiology
+    quote !c = Contact tracing of influenza is specifically challenging due to the characteristics and natural history of the influenza virus. Existing evidence supports the potential role of several means for transmission of influenza: droplets, aerosols, and contact.
+
+    / September, 2016 - Epidemiology
+    quote !d = Investigation of influenza transmission is challenging as most influenza infections are asymptomatic, symptoms of influenza-like illness are nonspecific with the majority of respiratory diseases not being influenza, and the short incubation period of 0.7–2.8 days makes timely intervention difficult.
+
+    / September, 2016 - Epidemiology
+    quote !e = Although influenza transmission is very common, only a very small number of articles describe contact tracing of influenza cases aboard aircraft; we found only 14 articles in 35 years. This might be due to the fact that contact tracing is not performed during a “normal” influenza season, but is increasingly used early in a pandemic, based on extraordinary objectives. The data extraction was challenging due to missing, incomplete, or unclear description of the investigation. Thus, the conclusions that can be reached regarding transmission aboard aircraft are limited.
+
+    / September, 2016 - Epidemiology
+    quote !f = The number of infected passengers on board seemed not to be directly associated with the number of secondary cases. In-flight influenza transmission therefore seems to be rather a multifactorial event including the number of index cases, infectivity, and proximity to the index case as well as other factors not investigated so far, e.g., immune status, age, contaminated surfaces, etc.
+
+    / September, 2016 - Epidemiology
+    quote !g = Possibilities to become infected before or after the flight are manifold, especially if influenza activity is high in the country of origin. In some of the studies reviewed, prior and posthoc exposure cannot be clearly separated from in-flight exposure. Systematic studies on the transmission of influenza on aircraft (e.g., the mode and extent/effectiveness including also seroepidemiologic and environmental analyses) are limited
+
+    / September, 2016 - Epidemiology
+    quote !h = In many studies, the purpose of contact tracing and the intervention measure were not clear.
+
+    / September, 2016 - Epidemiology
+    quote !i = The main limiting factors for the comparability of the studies analyzed were different secondary case definitions, contact-tracing strategy employed, and numbers of passengers successfully followed-up. Broader unspecific case definitions, e.g., based on influenza-like illness symptoms, might lead to misclassification and overestimation of transmission.
+
+    / September, 2016 - Epidemiology
+    quote !j = Previous studies have shown that the incidence of confirmed influenza A(H1N1)pdm09 among persons with respiratory illness is low: in a study of 79 symptomatic travelers (90% with ARI, 66% with fever) who flew on a commercial airplane from North America to Sweden, only 5% were confirmed to be infected with A(H1N1)pdm09 and 34% were rhinovirus-positive.47
+
+    / September, 2016 - Epidemiology
+    quote !k = The assumption that the risk of transmission increases with the length of flight time due to a higher exposure, as shown for tuberculosis and modeled for influenza, was not corroborated in the studies analyzed here: there were short and long flights with high and low numbers of secondary cases.
+
+    / September, 2016 - Epidemiology
+    quote !l = In a modeling attempt, the risk of infection posed by a single case of influenza A(H1N1)pdm09 was estimated at 5–10 new infections over an 11-hour flight. The same study estimated that the risk for transmission is lower in first compared with economy class which is in line with some but not all studies, as transmission occurred in small aircraft with one compartment as well.
+
+    / September, 2016 - Epidemiology
+    quote !m = The studies included in this review indicate that 42% of secondary cases were seated within two rows of an index case, increasing to 70% when restricting the analysis to confirmed influenza A(H1N1)pdm09 cases. These findings suggest a higher risk in close proximity.
+
+    / September, 2016 - Epidemiology
+    quote !n = A majority of secondary cases was identified at a greater distance than two rows from the index case.
+
+
+
+  #
+  // Asymptomatic Transmission of SARS-CoV-2 on Evacuation Flight
+  doi: https://doi.org/10.3201/eid2611.203353
+  ref 'Bae_et_al_08_21_2020
+    head = We conducted a cohort study in a controlled environment to measure asymptomatic transmission of severe acute respiratory syndrome coronavirus 2 on a flight from Italy to South Korea. Our research provides evidence of asymptomatic transmission of COVID-19 on an airplane. It also suggest that stringent global regulations are necessary for the prevention of transmission of this virus on aircraft.
+
+    > Abstract
+      We conducted a cohort study in a controlled environment to measure asymptomatic transmission of severe acute respiratory syndrome coronavirus 2 on a flight from Italy to South Korea. Our results suggest that stringent global regulations are necessary for the prevention of transmission of this virus on aircraft.
+
+    - quotes
+      !a
+      !b
+    - limitations
+      !c
+    - mitigation/ prevention
+      !d
+
+
+    / August, 2020 - Emerging Infectious Diseases
+    quote !a = Among the 299 passengers, 6 had a confirmed positive result for SARS-CoV-2 on quarantine day 1 and were transferred immediately to the hospital. At 14 days after the positive test, the 6 patients reported no symptoms and were categorized as asymptomatic.
+
+    / August, 2020 - Emerging Infectious Diseases
+    quote !b = On quarantine day 14, a 28-year-old woman who had no underlying disease had a confirmed positive test result for COVID-19. On the flight from Milan, Italy, to South Korea, she wore an N95 mask, except when she used a toilet. The toilet was shared by passengers sitting nearby, including an asymptomatic patient. She was seated 3 rows away from the asymptomatic patient. Given that she did not go outside and had self-quarantined for 3 weeks alone at her home in Italy before the flight and did not use public transportation to get to the airport, it is highly likely that her infection was transmitted in the flight via indirect contact with an asymptomatic patient.
+
+    / August, 2020 - Emerging Infectious Diseases
+    quote !c = Considering the difficulty of airborne infection transmission inflight because of high-efficiency particulate-arresting filters used in aircraft ventilation systems, contact with contaminated surfaces or infected persons when boarding, moving, or disembarking from the aircraft may play a critical role in inflight transmission of infectious diseases
+
+    / August, 2020 - Emerging Infectious Diseases
+    quote !d = Our findings suggest the following strategies for the prevention of SARS-CoV-2 transmission on an aircraft. First, masks should be worn during the flight. Second, because contact with contaminated surfaces increases the risk for transmission of SARS-CoV-2 among passengers, hand hygiene is necessary to prevent infections. Third, physical distance should be maintained before boarding and after disembarking from the aircraft.
+
+
+  #
+  // Assessment of SARS-CoV-2 Transmission on an International Flight and Among a Tourist Group
+  doi: https://doi.org/10.1001/jamanetworkopen.2020.18044
+  ref 'Hoehl_et_al_08_18_2020
+    head = This case series assessed a commercial airline flight from Tel Aviv, Israel, to Frankfurt, Germany, that occurred on March 9th, 2020. At the destination airport, we conducted a medical evaluation of the tourist group, including testing for severe acute respiratory syndrome coronavirus (SARS-CoV-2) in a throat swab specimen. In addition, we contacted all passengers 4 to 5 weeks later by phone and conducted structured interviews.
+
+    > Introduction
+      This case series assessed a commercial airline flight from Tel Aviv, Israel, to Frankfurt, Germany, that occurred on March 9th, 2020. Among 102 passengers on a Boeing 737-900 aircraft were 24 members of a tourist group. Starting 7 days earlier, the group had contact with a hotel manager who later received a diagnosis of coronavirus disease 2019 (COVID-19). No member of the group had received a diagnosis of COVID-19 before the flight, and no measures to prevent transmission (eg, wearing of masks) had been applied. The flight duration was 4 hours 40 minutes.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+
+    / August, 2020 - JAMA Netw Open.
+    quote !a = Of the 24 members of the tourist group, 7 tested positive for SARS-CoV-2 RNA in a throat swab sample on arrival. Four of the 7 were symptomatic during the flight, 2 were presymptomatic, and 1 remained asymptomatic.
+
+    / August, 2020 - JAMA Netw Open.
+    quote !b = These transmissions may have also occurred before or after the flight. The risk of transmission of droplet-mediated infections on an aircraft depends on proximity to an index case and on other factors, such as movement of passengers and crew, fomites, and contact among passengers in the departure gate.
+
+    / August, 2020 - JAMA Netw Open.
+    quote !c = In our study, both passengers with likely onboard transmission were seated within 2 rows of an index case.
+
+    / August, 2020 - JAMA Netw Open.
+    quote !d = The airflow in the cabin from the ceiling to the floor and from the front to the rear may have been associated with a reduced transmission rate. It could be speculated that the rate may have been reduced further had the passengers worn masks.
+
+    / August, 2020 - JAMA Netw Open.
+    quote !e = Our findings do not rule out airborne transmission of SARS-CoV-2 in an airplane cabin.
+
+    / August, 2020 - JAMA Netw Open.
+    quote !f = We did not obtain information on the crew of the airplane and were not able to contact all passengers. We also did not obtain antibody tests from all passengers. Additional transmissions may have occurred and remained undetected.
+
+    / August, 2020 - JAMA Netw Open.
+    quote !g = A total of 71 of the other 78 passengers (91%) who had been exposed to the group on the flight completed the interview. Serum samples were obtained from 13 of these individuals 6 to 9 weeks after the flight. One reported having tested positive by polymerase chain reaction 4 days after the flight. This passenger did not recall any symptoms. We detected SARS-CoV-2 IgG 7 weeks after the flight, and the PRNT result was also positive. The passenger negated contact with patients with COVID-19 before or after the flight.
+
+    / August, 2020 - JAMA Netw Open.
+    quote !h = Seven other passengers reported having had symptoms suggestive of COVID-19 within 14 days after the flight. One had a headache, muscle ache, and hoarseness starting 5 days after the flight. This passenger had not been tested and negated known contact with a patients with COVID-19.
+
+
+
+  #
+  // Probable aircraft transmission of Covid-19 in-flight from the Central African Republic to France.
+  doi: https://doi.org/10.1016/j.tmaid.2020.101643
+  ref 'Eldin_et_al_03_25_2020
+    head = We report here a case of COVID-19 most likely acquired during a flight from Bangui, Central African Republic to Paris, France.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / March, 2020 - Travel Med Infect Dis.
+    quote !a = Given the incubation time range of COVID-19 ( 5.5 days), we excluded that our patient acquired COVID-19 in France before leaving to CAR. Furthermore, only 15 documented cases were identified in France before our patient traveled to CAR none of which was documented in Marseille area, where the patient currently live.
+
+    / March, 2020 - Travel Med Infect Dis.
+    quote !b = Acquisition in France on return, between February 25th and 27th, with a short incubation time was considered possible, but unlikely given that no local circulation was documented in Marseille area during this period of time. The more likely place of exposure was therefore suspected to be in CAR, in a first instance, because the patient had multiple contacts in small closed rooms with several groups of people
+
+    / March, 2020 - Travel Med Infect Dis.
+    quote !c = However, investigation conducted by telephone in collaboration with the Medical Doctor of the Pasteur Institute of Bangui, where the meeting was organized, and by contacting the three other French collaborators from the company X who participated to the meeting, revealed that none of the other French and African participants presented with respiratory symptoms during the event or soon after
+
+    / March, 2020 - Travel Med Infect Dis.
+    quote !d = This data provides no strong argument for a potential exposure of our patient during his stay in CAR. Furthermore, the first confirmed case of COVID-19 in CAR was identified on March 8th only, in an Italian patient flying from Milano, Italy to CAR, long after our patient returned to France. In addition, no case of COVID-19 was reported to the GeoSentinel network in patients returning from CAR, so far.
+
+    / March, 2020 - Travel Med Infect Dis.
+    quote !e = By contrast, the first case of COVID-19 diagnosed in Cameroun was a French national who entered in the country after flying Air France (AF775, on February, 24th) from Paris to Yaoundé with a stopover in Bangui. Our patient and his partner, used the same flight from Bangui to Yaoundé and then to Paris and Marseille in economic class. Therefore, our patient likely get infected in the plane, while traveling with the patient diagnosed eleven days later with COVID-19, in Cameroun
+
+    / March, 2020 - Travel Med Infect Dis.
+    quote !f = This report illustrates how easily SARS-CoV-2 may travel together with their human carriers and spread the virus on board. Travel restrictions clearly make sense in the current context, not only to limit the spread of the disease to still unaffected areas but also to prevent travelers from getting infected on board.
 
 
   #
   // Transmission of infectious diseases during commercial air travel
   doi: https://doi.org/10.1016/S0140-6736(05)71089-8
-  ref 'Doremalen_et_al_03_12_2005
+  ref 'Mangili_et_al_03_12_2005
     head = We review knowledge about transmission of infectious diseases associated with commercial air travel, with particular emphasis on transmission within the aircraft passenger cabin.
 
     > Summary
       Because of the increasing ease and affordability of air travel and mobility of people, airborne, food-borne, vector-borne, and zoonotic infectious diseases transmitted during commercial air travel are an important public health issue. Heightened fear of bioterrorism agents has caused health officials to re-examine the potential of these agents to be spread by air travel. The severe acute respiratory syndrome outbreak of 2002 showed how air travel can have an important role in the rapid spread of newly emerging infections and could potentially even start pandemics. In addition to the flight crew, public health officials and health care professionals have an important role in the management of infectious diseases transmitted on airlines and should be familiar with guidelines provided by local and international authorities.
 
-    - quotes
+    - Limitations
       !a
+      !b
+      !o1
+    - two rows of a contagious passenger for a flight time of more than 8 h./ risk of disease transmission is associated with a flight time of more than 8 h and sitting within two rows of the index passenger.
+      !c
+      !k
+    - seat as far as seven rows from the source passenger were affected.
+      !d
+      !o
+    - ventilation affects disease transmission aboard commercial airlines
+      !e
+      !f
+      !g
+      !h
+    - Tuberculosis
+      !i
+      !j
+      !k
+      !l
+    - SARS
+      !m
+      !n
+      !o
+      !q
+    - Common Cold
+      !r
+    - Influenza
+      !s
+      !t
+      !u
+      !v
+    - Meningococcal disease
+      !w
+      !x
+      !y
+      !z
+      !a1
+      !b1
+    - The most commonly reported diseases transmitted on aircraft have been spread by the fecal-oral route via contaminated food.
+      !c1
+      !d1
+      !e1
+      !f1
+      !g1
+      !h1
+    -
+      !i1
+    - Malaria
+      !j1
+    - Dengue
+      !k1
+    -
+      !l1
+    - Good hand hygiene
+      !m1
+    - masks play a crucial part in infection control in health care settings, their use is unproven in disease control within the aircraft cabin.
+      !n1
+
+
 
     / March, 2005 - The Lancet
-    quote !a = Transmission of infectious diseases probably happens more frequently than reported for various reasons, including reporting bias and the fact that most diseases have a longer incubation period than air travel. Important questions include: what factors affect the transmission of infectious diseases within the aircraft cabin? How effective are the ventilation systems used within commercial aircraft with regard to emerging infections? Further assessment of risk through mathematical modelling is needed and will provide insight into disease transmission within the aircraft cabin as well as control of outbreaks of different diseases.
-    # 
-    # The risk of disease transmission within the confined space of the aircraft cabin is difficult to determine. Insufficient data prohibits meta-analysis, which would allow an idea of the probability of disease transmission for each respective contagion. Many of the available epidemiological studies are compromised by reporting bias caused by incomplete passenger manifests, thereby complicating risk assessment.
-    #
-    # Despite these limitations, data suggest that risk of disease transmission to other symptom-free passengers within the aircraft cabin is associated with sitting within two rows of a contagious passenger for a flight time of more than 8 h.3,  4,  7,  9,  12,  29,  30,  31 This association is mainly derived from investigations of in-flight transmission of tuberculosis, but is believed to be relevant to other airborne infectious diseases.3,  4,  7,  9,  32,  33,  34
-    #
-    # Some variation in this association has been reported, with one outbreak of severe acute respiratory syndrome (SARS) in which passengers seated as far as seven rows from the source passenger were affected.31,  32
-    #
-    #
-    # Transmission becomes widespread within all sections of the passenger cabin when the ventilation system is nonoperational, as shown by an influenza outbreak when passengers were kept aboard a grounded aircraft with an inoperative ventilation system.
-    #
-    # Risk assessment incorporating epidemiological data into mathematical models may show how proximity and ventilation affects disease transmission aboard commercial airlines.
-    #
-    # Deterministic modelling with data from an in-flight tuberculosis investigation revealed that doubling ventilation rate within the cabin reduced infection risk by half.
-    #
-    # Risk also reduced exponentially to almost zero in passengers seated 15 seats from the infectious source
-    #
+    quote !a = The environmental control system used in commercial aircraft seems to restrict the spread of airborne pathogens, and the perceived risk is greater than the actual risk. Transmission of infectious diseases probably happens more frequently than reported for various reasons, including reporting bias and the fact that most diseases have a longer incubation period than air travel. Important questions include: what factors affect the transmission of infectious diseases within the aircraft cabin? How effective are the ventilation systems used within commercial aircraft with regard to emerging infections? Further assessment of risk through mathematical modelling is needed and will provide insight into disease transmission within the aircraft cabin as well as control of outbreaks of different diseases.
+
+    / March, 2005 - The Lancet
+    quote !b = The risk of disease transmission within the confined space of the aircraft cabin is difficult to determine. Insufficient data prohibits meta-analysis, which would allow an idea of the probability of disease transmission for each respective contagion. Many of the available epidemiological studies are compromised by reporting bias caused by incomplete passenger manifests, thereby complicating risk assessment.
+
+    / March, 2005 - The Lancet
+    quote !c = Despite these limitations, data suggest that risk of disease transmission to other symptom-free passengers within the aircraft cabin is associated with sitting within two rows of a contagious passenger for a flight time of more than 8 h. This association is mainly derived from investigations of in-flight transmission of tuberculosis, but is believed to be relevant to other airborne infectious diseases.
+
+    / March, 2005 - The Lancet
+    quote !d = Some variation in this association has been reported, with one outbreak of severe acute respiratory syndrome (SARS) in which passengers seated as far as seven rows from the source passenger were affected.
+
+    / March, 2005 - The Lancet
+    quote !e = Transmission becomes widespread within all sections of the passenger cabin when the ventilation system is nonoperational, as shown by an influenza outbreak when passengers were kept aboard a grounded aircraft with an inoperative ventilation system.
+
+    / March, 2005 - The Lancet
+    quote !f = Deterministic modelling with data from an in-flight tuberculosis investigation revealed that doubling ventilation rate within the cabin reduced infection risk by half.
+
+    / March, 2005 - The Lancet
+    quote !g = Risk also reduced exponentially to almost zero in passengers seated 15 seats from the infectious source.
+
     # Tuberculosis
-    # Several studies about in-flight transmission of tuberculosis have been reported, with most being done in the mid-1990s.4,  29,  30,  39,  40,  41 Two of the seven investigations revealed a probable link of onboard transmission. In the first occurrence, a flight attendant was the index case, and two documented tuberculin skin test conversions occurred during 5 months in 1992 in 212 fellow crew members and 59 frequent flyer passengers
+    / March, 2005 - The Lancet
+    quote !h = Several studies about in-flight transmission of tuberculosis have been reported, with most being done in the mid-1990s. Two of the seven investigations revealed a probable link of onboard transmission. In the first occurrence, a flight attendant was the index case, and two documented tuberculin skin test conversions occurred during 5 months in 1992 in 212 fellow crew members and 59 frequent flyer passengers
+
+    / March, 2005 - The Lancet
+    quote !i = The second, and largest, incident was of a passenger with pulmonary tuberculosis travelling from Baltimore to Chicago and then on to Honolulu. Four of 15 fellow passengers seated within two rows of the index passenger had positive tuberculin skin test conversion.
+
+    / March, 2005 - The Lancet
+    quote !j = Although there is a risk of tuberculosis within the aircraft cabin, no cases of active disease have been reported as a result of air travel.
+
+    / March, 2005 - The Lancet
+    quote !k = Transmission within the aircraft cabin seems to be more likely with close proximity to a contagious passenger (within two rows) over a long time (greater than 8 h) and not as a result of the practice of recirculating 50% of the cabin air.
+
+    / March, 2005 - The Lancet
+    quote !l = An overall probability of infection in the order of one in 1000 when a symptomatic source is present has been suggested, and this probability of risk is similar to, if not less than, those in other confined spaces.
+
+    # SARS
+    / March, 2005 - The Lancet
+    quote !m = The global spread by air travellers and in-flight spread of SARS has been documented. The disease is believed to usually be spread by large aerosolised droplets or by direct and indirect contact, but airborne or small droplet transmission better explains the distribution of SARS cases that has occurred on commercial airlines
+
+    / March, 2005 - The Lancet
+    quote !n = A total of 40 flights have been investigated for carrying SARS-infected passengers.31,  32,  46,  47,  48 Five of these flights have been associated with probable on-board transmission of SARS in 37 passengers.31,  32,  46 Most of those passengers were seated within five rows of the index case.
+
+    / March, 2005 - The Lancet
+    quote !o = One 3-hour flight carrying 120 passengers travelling from Hong Kong to Beijing on March 15, 2003, began a superspreading event accounting for 22 of the 37 people who contracted SARS after air travel. Laboratory-confirmed SARS coronavirus infection occurred in 16 people, two passengers had a diagnosis of probable SARS, and four were reported to have SARS but could not be interviewed. The number of secondary cases from that flight remains under investigation, but more than 300 people might have been affected. This pattern could be important because it did not follow the typical example of in-flight transmission of airborne pathogens—ie, risk of disease transmission is associated with a flight time of more than 8 h and sitting within two rows of the index passenger. The duration of the Hong Kong to Beijing flight was 3 h and affected passengers were seated seven rows in front and five rows behind the index passenger.
+
+    # / March, 2005 - The Lancet
+    # quote !p = This pattern could be important because it did not follow the typical example of in-flight transmission of airborne pathogens—ie, risk of disease transmission is associated with a flight time of more than 8 h and sitting within two rows of the index passenger.The duration of the Hong Kong to Beijing flight was 3 h and affected passengers were seated seven rows in front and five rows behind the index passenger. Possible explanations for this outbreak distribution include: airborne transmission rather than direct contact spread; a malfunctioning cabin filtration system; and passengers infected before or after the flight
     #
-    # The second, and largest, incident was of a passenger with pulmonary tuberculosis travelling from Baltimore to Chicago and then on to Honolulu. Four of 15 fellow passengers seated within two rows of the index passenger had positive tuberculin skin test conversion.
-    #
-    # Although there is a risk of tuberculosis within the aircraft cabin, no cases of active disease have been reported as a result of air travel. Transmission within the aircraft cabin seems to be more likely with close proximity to a contagious passenger (within two rows) over a long time (greater than 8 h) and not as a result of the practice of recirculating 50% of the cabin air.
-    #
-    #  An overall probability of infection in the order of one in 1000 when a symptomatic source is present has been suggested,35 and this probability of risk is similar to, if not less than, those in other confined spaces.42
-    #
-    #  SARS
-    #  The global spread by air travellers and in-flight spread of SARS has been documented.31,  32,  46,  47,  48 The disease is believed to usually be spread by large aerosolised droplets or by direct and indirect contact, but airborne or small droplet transmission better explains the distribution of SARS cases that has occurred on commercial airlines
-    #
-    #
-    #  The global spread by air travellers and in-flight spread of SARS has been documented.31,  32,  46,  47,  48 The disease is believed to usually be spread by large aerosolised droplets or by direct and indirect contact, but airborne or small droplet transmission better explains the distribution of SARS cases that has occurred on commercial airlines.
-    #
-    #
-    #  The global spread by air travellers and in-flight spread of SARS has been documented.31,  32,  46,  47,  48 The disease is believed to usually be spread by large aerosolised droplets or by direct and indirect contact, but airborne or small droplet transmission better explains the distribution of SARS cases that has occurred on commercial airlines.Laboratory-confirmed SARS coronavirus infection occurred in 16 people, two passengers had a diagnosis of probable SARS, and four were reported to have SARS but could not be interviewed. The number of secondary cases from that flight remains under investigation, but more than 300 people might have been affected.32
-    #
-    #  This pattern could be important because it did not follow the typical example of in-flight transmission of airborne pathogens—ie, risk of disease transmission is associated with a flight time of more than 8 h and sitting within two rows of the index passenger..
-    #
-    #  The duration of the Hong Kong to Beijing flight was 3 h and affected passengers were seated seven rows in front and five rows behind the index passenger.31 Possible explanations for this outbreak distribution include: airborne transmission rather than direct contact spread; a malfunctioning cabin filtration system; and passengers infected before or after the flight
-    #
-    #  No on-board transmissions have occurred since late March, 2003, when the WHO issued specific guidelines for in-flight containment of SARS.
-    #
-    #  Common cold outbreaks as a result of air travel have not been reported, which could be attributable to the difficulties of investigating such outbreaks in view of the ubiquitous nature of the common cold. One study compared the risk of developing an upper respiratory tract infection during air travel in passengers flying on aircraft that recirculated 50% cabin air versus aircraft using 100% fresh air in the passenger cabin.36 Recirculation of aircraft cabin air was not a risk factor for contracting upper respiratory tract infection symptoms.36
-    #
-    #  INFLUENZA
-    #  only three studies of in-flight transmission of influenza have been reported.33,  37,  55 The first was in an outbreak of influenza A/Texas strain aboard a commercial carrier in 197937 that resulted in 72% of all passengers aboard the airline contracting influenza within 72 h. The secondary attack rate in their families was estimated to be 20% within 2 weeks. The high transmission rate in this particular case was believed attributable to passengers being kept aboard the aircraft for 3 h with an inoperative ventilation system while repair work was being done.
-    #
-    #  The second study described an outbreak of influenza A/Taiwan/1/86 at a naval air station in 1989 in military personnel who were returning from temporary duty.55 Transmission of influenza occurred both on the ground and aboard two DC-9 aircraft that transported the squadron from Puerto Rico to a Florida naval station.
-    #
-    #  The third outbreak happened in 1999 in mine workers travelling on a 75-seat aircraft.33 15 passengers travelling with the index case developed symptoms within 4 days. Nine of the 15 were seated within two rows, and all were seated within five rows, of the index case. No further influenza outbreaks aboard commercial aircraft have been reported since 1999.
-    #
-    #  Meningococcal disease
-    #  The third outbreak happened in 1999 in mine workers travelling on a 75-seat aircraft.33 15 passengers travelling with the index case developed symptoms within 4 days. Nine of the 15 were seated within two rows, and all were seated within five rows, of the index case. No further influenza outbreaks aboard commercial aircraft have been reported since 1999.The US Centers for Disease Control received 21 reports of suspected air travel-associated meningococcal disease from 1999 to 2001.34 In all cases the index person was contagious while aboard a commercial flight, but no secondary cases of the disease were reported.
-    #
-    #  People seated next to an ill passenger should be quickly contacted and given chemoprophylaxis within 24 h of identifying the index case. Chemoprophylaxis given more than 14 days after onset of illness in the index case is probably of little or no value.
-    #
-    #  From 1996 to 2000 30% of all imported measles cases were estimated to be in people who flew while symptomatic with the disease.
-    #
-    #
-    #  Three case studies have described measles transmission during commercial air travel.58,  60,  61,  62 A case report in 1982 identified seven secondary cases of measles epidemiologically linked to the index case as a result of in-transit exposure; one was a passenger flying on the same aircraft as the index case and five others were people who had visited at least one common departure gate with the index case.
-    #
-    #
-    #  In the same year, another study reported an index passenger who infected two fellow passengers on a flight from Venezuela to Miami.61
-    #
-    #  A third report recorded eight cases of in-flight transmitted measles during a 10-h flight from New York to Tel Aviv in 1994.62 The source case was not identified but was speculated to be a crew member. In 2004, a passenger with measles travelled from Japan to Hawaii, but this did not result in any transmission to other air travellers.59
-    #
-    #
-    #  International adoptions have a significant role in the number of imported measles cases. In April, 2004, an outbreak in children adopted from an orphanage in China resulted in temporary suspension of adoptions from that particular orphanage.60 Nine of the ten confirmed cases were thought to be infectious while travelling. One secondary case was a female student in close contact with an infected child.
-    #
-    #  The most commonly reported diseases transmitted on aircraft have been spread by the fecal-oral route via contaminated food. A total of 41 in-flight food-borne outbreaks resulting in 11 deaths were documented between 1947 and 1999
-    #
-    #  Salmonella is the most usually reported food-borne pathogen spread via a commercial airline, with fifteen documented outbreaks between 1947 and 1999 infecting nearly 4000 passengers and resulting in seven deaths.
-    #
-    #  Eight food-borne outbreaks caused by Staphylococcus and one associated death were reported between 1947 and 1999.
-    #
-    #  One of the largest cases involved 57% of the passengers served a ham omelette on an international flight in 1975.65 Surprisingly, only one viral-induced enteritis outbreak has been described.66 In this incident, contaminated orange juice was the vehicle of transmission and a Norwalk-like agent was isolated from fecal samples of 30 ill passengers.
-    #
-    #  There have been a few reported cases of ill passengers as a result of food or water contaminated with Vibrio cholerae consumed during international air travel.63,  67,  68 The first documented in-flight outbreak was in 1972 on a flight from London to Sydney via Singapore.67 Of the 47 people who developed cholera, which was attributed to a cold appetiser served during the flight, one died.
-    #
-    #  The largest outbreak of airline-associated cholera occurred in 1992, during a cholera epidemic in Latin America.68 During a flight from Buenos Aires via Lima to Los Angeles, 75 passengers developed cholera, resulting in ten passengers being admitted and one death. A cold seafood dish, prepared in one of the cholera-affected countries, was implicated as the source of transmission.
-    #
-    #
-    #   No food-borne or water-borne outbreaks have been reported over the past 5 years, which is probably attributable to greater use of prepackaged frozen meals, improved food handling, and inspection, but might represent under-reporting by passengers or reporting bias.
-    #
-    #   Many cases of malaria occurring in and around airports all over the world in people who had not travelled to endemic areas, known as airport malaria, is evidence that malaria-carrying mosquitoes can be imported on aircraft. A total of 87 cases of airport malaria have been reported, 75 of which happened in Europe
-    #
-    #   A case of dengue fever was reported in Germany in a couple returning from a trip to Hawaii.71 Airport transmission of dengue fever was suspected in this particular case.
-    #
-    #
-    #   Up to now, no zoonotic outbreaks associated with air travel have been reported; however, continued monitoring of air transport of animals, especially from developing countries, is needed.
-    #
-    #   Good hand hygiene has been proven to reduce the risk of disease transmission, and air travellers should make it part of their normal travel routine.
-    #
-    #   Although masks play a crucial part in infection control in health care settings, their use is unproven in disease control within the aircraft cabin.
-    #
-    #   Health officials have access to passenger manifests, but these lists are frequently incomplete or unavailable, making it difficult to locate potentially exposed passengers.4,  24 Contact information in one large investigation into in-flight tuberculosis transmission was inaccurate for 15% of passengers.4,  29 Although air carriers are under no obligation to archive passenger manifests, most have internal policies to do so for up to 3 months.24
-    #
-    #   The environmental control system used in commercial aircraft seems to restrict the spread of airborne pathogens, and the perceived risk is greater than the actual risk.12 Transmission of infectious diseases probably happens more frequently than reported for various reasons, including reporting bias and the fact that most diseases have a longer incubation period than air travel. Important questions include: what factors affect the transmission of infectious diseases within the aircraft cabin? How effective are the ventilation systems used within commercial aircraft with regard to emerging infections? Further assessment of risk through mathematical modelling is needed and will provide insight into disease transmission within the aircraft cabin as well as control of outbreaks of different diseases.
-    #
-    #
-    #
+    / March, 2005 - The Lancet
+    quote !q = No on-board transmissions have occurred since late March, 2003, when the WHO issued specific guidelines for in-flight containment of SARS.
+
+
+    # Common cold
+    / March, 2005 - The Lancet
+    quote !r = Common cold outbreaks as a result of air travel have not been reported, which could be attributable to the difficulties of investigating such outbreaks in view of the ubiquitous nature of the common cold. One study compared the risk of developing an upper respiratory tract infection during air travel in passengers flying on aircraft that recirculated 50% cabin air versus aircraft using 100% fresh air in the passenger cabin.36 Recirculation of aircraft cabin air was not a risk factor for contracting upper respiratory tract infection symptoms.36
+
+    # INFLUENZA
+    / March, 2005 - The Lancet
+    quote !s = The fact that influenza outbreaks worldwide have been affected by influenza strains imported by air travel is well established; however, only three studies of in-flight transmission of influenza have been reported. The first was in an outbreak of influenza A/Texas strain aboard a commercial carrier in 1979 that resulted in 72% of all passengers aboard the airline contracting influenza within 72 h.
+
+    / March, 2005 - The Lancet
+    quote !t = The second study described an outbreak of influenza A/Taiwan/1/86 at a naval air station in 1989 in military personnel who were returning from temporary duty. Transmission of influenza occurred both on the ground and aboard two DC-9 aircraft that transported the squadron from Puerto Rico to a Florida naval station.
+
+    / March, 2005 - The Lancet
+    quote !u = The third outbreak happened in 1999 in mine workers travelling on a 75-seat aircraft.33 15 passengers travelling with the index case developed symptoms within 4 days. Nine of the 15 were seated within two rows, and all were seated within five rows, of the index case. No further influenza outbreaks aboard commercial aircraft have been reported since 1999.
+
+    # Meningococcal disease
+    / March, 2005 - The Lancet
+    quote !v = The third outbreak happened in 1999 in mine workers travelling on a 75-seat aircraft.33 15 passengers travelling with the index case developed symptoms within 4 days. Nine of the 15 were seated within two rows, and all were seated within five rows, of the index case. No further influenza outbreaks aboard commercial aircraft have been reported since 1999.The US Centers for Disease Control received 21 reports of suspected air travel-associated meningococcal disease from 1999 to 2001.34 In all cases the index person was contagious while aboard a commercial flight, but no secondary cases of the disease were reported.
+
+    / March, 2005 - The Lancet
+    quote !w = People seated next to an ill passenger should be quickly contacted and given chemoprophylaxis within 24 h of identifying the index case. Chemoprophylaxis given more than 14 days after onset of illness in the index case is probably of little or no value.
+
+    / March, 2005 - The Lancet
+    quote !x = From 1996 to 2000 30% of all imported measles cases were estimated to be in people who flew while symptomatic with the disease.
+
+    / March, 2005 - The Lancet
+    quote !y = Three case studies have described measles transmission during commercial air travel. A case report in 1982 identified seven secondary cases of measles epidemiologically linked to the index case as a result of in-transit exposure; one was a passenger flying on the same aircraft as the index case and five others were people who had visited at least one common departure gate with the index case.
+
+    / March, 2005 - The Lancet
+    quote !z = In the same year, another study reported an index passenger who infected two fellow passengers on a flight from Venezuela to Miami.
+
+    / March, 2005 - The Lancet
+    quote !a1 = A third report recorded eight cases of in-flight transmitted measles during a 10-h flight from New York to Tel Aviv in 1994.62 The source case was not identified but was speculated to be a crew member. In 2004, a passenger with measles travelled from Japan to Hawaii, but this did not result in any transmission to other air travellers.59
+
+    / March, 2005 - The Lancet
+    quote !b1 = International adoptions have a significant role in the number of imported measles cases. In April, 2004, an outbreak in children adopted from an orphanage in China resulted in temporary suspension of adoptions from that particular orphanage.60 Nine of the ten confirmed cases were thought to be infectious while travelling. One secondary case was a female student in close contact with an infected child.
+
+    / March, 2005 - The Lancet
+    quote !c1 = The most commonly reported diseases transmitted on aircraft have been spread by the fecal-oral route via contaminated food. A total of 41 in-flight food-borne outbreaks resulting in 11 deaths were documented between 1947 and 1999
+
+    / March, 2005 - The Lancet
+    quote !d1 = Salmonella is the most usually reported food-borne pathogen spread via a commercial airline, with fifteen documented outbreaks between 1947 and 1999 infecting nearly 4000 passengers and resulting in seven deaths.
+
+    / March, 2005 - The Lancet
+    quote !e1 = Eight food-borne outbreaks caused by Staphylococcus and one associated death were reported between 1947 and 1999.
+
+    / March, 2005 - The Lancet
+    quote !f1 = One of the largest cases involved 57% of the passengers served a ham omelette on an international flight in 1975.65 Surprisingly, only one viral-induced enteritis outbreak has been described.66 In this incident, contaminated orange juice was the vehicle of transmission and a Norwalk-like agent was isolated from fecal samples of 30 ill passengers.
+
+    / March, 2005 - The Lancet
+    quote !g1 = There have been a few reported cases of ill passengers as a result of food or water contaminated with Vibrio cholerae consumed during international air travel. The first documented in-flight outbreak was in 1972 on a flight from London to Sydney via Singapore. 67 Of the 47 people who developed cholera, which was attributed to a cold appetiser served during the flight, one died.
+
+    / March, 2005 - The Lancet
+    quote !h1 = The largest outbreak of airline-associated cholera occurred in 1992, during a cholera epidemic in Latin America.68 During a flight from Buenos Aires via Lima to Los Angeles, 75 passengers developed cholera, resulting in ten passengers being admitted and one death. A cold seafood dish, prepared in one of the cholera-affected countries, was implicated as the source of transmission.
+
+    / March, 2005 - The Lancet
+    quote !i1 = No food-borne or water-borne outbreaks have been reported over the past 5 years, which is probably attributable to greater use of prepackaged frozen meals, improved food handling, and inspection, but might represent under-reporting by passengers or reporting bias.
+
+    / March, 2005 - The Lancet
+    quote !j1 = Many cases of malaria occurring in and around airports all over the world in people who had not travelled to endemic areas, known as airport malaria, is evidence that malaria-carrying mosquitoes can be imported on aircraft. A total of 87 cases of airport malaria have been reported, 75 of which happened in Europe
+
+    / March, 2005 - The Lancet
+    quote !k1 = A case of dengue fever was reported in Germany in a couple returning from a trip to Hawaii.71 Airport transmission of dengue fever was suspected in this particular case.
+
+    / March, 2005 - The Lancet
+    quote !l1 = Up to now, no zoonotic outbreaks associated with air travel have been reported; however, continued monitoring of air transport of animals, especially from developing countries, is needed.
+
+    / March, 2005 - The Lancet
+    quote !m1 = Good hand hygiene has been proven to reduce the risk of disease transmission, and air travellers should make it part of their normal travel routine.
+
+    / March, 2005 - The Lancet
+    quote !n1 = Although masks play a crucial part in infection control in health care settings, their use is unproven in disease control within the aircraft cabin.
+
+    / March, 2005 - The Lancet
+    quote !o1 = Health officials have access to passenger manifests, but these lists are frequently incomplete or unavailable, making it difficult to locate potentially exposed passengers. Contact information in one large investigation into in-flight tuberculosis transmission was inaccurate for 15% of passengers.Although air carriers are under no obligation to archive passenger manifests, most have internal policies to do so for up to 3 months.24
+
 
 
 
@@ -183,7 +683,7 @@ feed Sangeeta
   #
   // On the 2-Row Rule for Infectious Disease Transmission on Aircraft
   doi: https://doi.org/10.1016/j.aogh.2016.06.003
-  ref 'Hertzberget_al_2016
+  ref 'Hertzberg_et_al_2016
     head = We document reports of in-flight transmission of respiratory infectious diseases by large droplets for which seat plans are given. We summarize these reports and estimate the risks for passengers seated within and outside the 2-row risk zone. we identified 8 reports of respiratory infectious disease transmission on airplanes for which enough information was available to calculate post-flight attack rates inside and outside the 2-row transmission zone. Five reports concerned diseases transmitted by droplets, specifically SARS, influenza, and measles.
 
     > Background
@@ -1499,7 +1999,7 @@ feed Sangeeta
     quote !e = Most of the secondary infections were in persons seated at the window, 2 of whom denied ever leaving their seat during the flight. This finding was unanticipated given the widely held view that persons in window seats are at lower risk for exposure to an infectious pathogen during flight, a belief supported by data simulating transmission of droplet-mediated respiratory illnesses during flights of similar duration on single-aisle airplanes in the United States.
 
     / December, 2020 - Emerg Infect Dis.
-    quote !f = The risk for secondary SARS-CoV-2 infections from an infectious passenger during flight does not seem to be uniform. On this flight, there were 2 potentially infectious persons with a B lineage virus, but no B lineage secondary infections were identified. Several persons with potentially infectious primary cases with A2-RP virus strain were in the mid and aft cabins (4 mid cabin and 5 aft cabin), and yet no secondary cases were identified in the aft cabin. This disparity raises the possibility that there was >1 SARS-CoV-2 superspreader in the mid cabin during the flight (21). Although no reports of unwell passengers were logged with the airline for this flight.
+    quote !f = The risk for secondary SARS-CoV-2 infections from an infectious passenger during flight does not seem to be uniform. On this flight, there were 2 potentially infectious persons with a B lineage virus, but no B lineage secondary infections were identified. Several persons with potentially infectious primary cases with A2-RP virus strain were in the mid and aft cabins (4 mid cabin and 5 aft cabin), and yet no secondary cases were identified in the aft cabin. This disparity raises the possibility that there was >1 SARS-CoV-2 superspreader in the mid cabin during the flight. Although no reports of unwell passengers were logged with the airline for this flight.
 
     / December, 2020 - Emerg Infect Dis.
     quote !g = Although semiquantitative data on comparative viral loads based on cycle threshold values was available, we could not use these data to further investigate the role of upper respiratory tract viral load for determining transmission risk because samples were collected after the flight. Therefore, viral loads of passengers during the flight are unknown.

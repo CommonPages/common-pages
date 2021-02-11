@@ -107,7 +107,8 @@
     ref 'Hertzberget_al_2016
     https://doi.org/10.1016/j.aogh.2016.06.003 - for papers for inflight for other diseases
 
-
+  # On Board Transmission, Seating Proximity, and Attack Rate
+  # Results of the Bias Assessment/Evaluation of the Evidence Level
 
 
   >
@@ -115,10 +116,6 @@
     'Speake_et_al_2020
     https://wwwnc.cdc.gov/eid/article/26/12/20-3910_article
 
-
-
-  >
-    for both severe acute respiratory syndrome–associated coronavirus (SARS-CoV) and influenza, approximately 50% of airplane transmission occurred beyond these rows.4
 
   >
     Studies of airplane transmission are commonly biased by contacts sharing exposure risks before boarding the aircraft
@@ -129,15 +126,6 @@
   #   'Silverstein_et_al_02_13_2020.!a
   #   'Silverstein_et_al_02_13_2020.!b
   #   'Silverstein_et_al_02_13_2020.!c
-
-  >
-    Other published reports describe suspected flight-associated transmission of SARS-CoV-2 (2,3,13,14), but these reports lack supportive genomic evidence.
-  # -
-  #   Probable aircraft transmission of Covid-19 in-flight from the Central African Republic to France.
-  #   Assessment of SARS-CoV-2 transmission on an international flight and among a tourist group.
-  #   Asymptomatic transmission of SARS-CoV-2 on evacuation flight.
-
-
 
 
 
@@ -161,28 +149,12 @@
   # -
   #   Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
 
-  >
-    Risk assessment incorporating epidemiological data into mathematical models may show how proximity and ventilation affects disease transmission aboard commercial airlines.
-  # -
-  #   Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
-  >
-    Deterministic modelling with data from an in-flight tuberculosis investigation revealed that doubling ventilation rate within the cabin reduced infection risk by half.
-  # -
-  #   Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
-  >
-    The transmission of Mycobacterium tuberculosis is the most studied model of the spread of airborne pathogens aboard aircraft. Several studies about in-flight transmission of tuberculosis have been reported, with most being done in the mid-1990s
-  # -
-  #   Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
+
 
   >
-    This pattern could be important because it did not follow the typical example of in-flight transmission of airborne pathogens—ie, risk of disease transmission is associated with a flight time of more than 8 h and sitting within two rows of the index passenger.
+    The risk of transmission of droplet-mediated infections on an aircraft depends on proximity to an index case and on other factors, such as movement of passengers and crew, fomites, and contact among passengers in the departure gate.
 
-  >
-    US CDC and WHO guidelines exist, on when and how to notify passengers and flight crew after they have been exposed to infectious diseases aboard commercial aircraft.4,  7,  29,  51,  86 Briefly, the airline is consulted whenever a health department determines that a passenger is infectious at time of flight. The airline then notifies passengers and flight crews in writing. Notification is typically limited to flights longer than 8 h and, in some cases, dependent upon the design of the aircraft, to passengers seated only in the same cabin area.
 
-    Transmission of infectious diseases during commercial air travel. - REFER FOR  aircraft cabin environment
-
-  >
     Second, most of the secondary infections were in persons seated at the window, 2 of whom denied ever leaving their seat during the flight. This finding was unanticipated given the widely held view that persons in window seats are at lower risk for exposure to an infectious pathogen during flight, a belief supported by data simulating transmission of droplet-mediated respiratory illnesses during flights of similar duration on single-aisle airplanes in the United States (20).
   # -
   #   Behaviors, movements, and transmission of droplet-mediated respiratory diseases during transcontinental airline flights.
@@ -196,6 +168,16 @@
 
     Review Article: Influenza Transmission on Aircraft A Systematic Literature Review
     https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4969063/
+
+
+  >
+    Compelling data now demonstrate that community mask wearing is an effective nonpharmacologic intervention to reduce the spread of this infection, especially as source control to prevent spread from infected persons, but also as protection to reduce wearers’ exposure to infection.
+
+    Universal masking is one of the prevention strategies recommended by CDC to slow the spread of SARS-CoV-2, the virus that causes coronavirus disease 2019 (COVID-19. As of February 1, 2021, 14 states and the District of Columbia had universal masking mandates. Mask wearing has also been mandated by executive order for federal property* as well as on domestic and international transportation conveyances.
+
+  >
+    Epidemiological investigations have helped quantify the benefit of mask wearing to prevent the spread of SARS-CoV-2 (
+
 
 
   ##########################################
