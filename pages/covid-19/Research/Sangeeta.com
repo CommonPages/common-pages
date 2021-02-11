@@ -157,7 +157,7 @@ feed Sangeeta
 
   #
   // Behaviors, movements, and transmission of droplet-mediated respiratory diseases during transcontinental airline flights
-  doi: https://doi.org/xyz
+  doi: https://www.pnas.org/content/115/14/3623
   ref 'Hertzberg_et_al_04_03_2018
     head = On 10 transcontinental US flights, we chronicled behaviors and movements of individuals in the economy cabin on single-aisle aircraft. We simulated transmission during flight based on these data. We also present the results of qPCR panels assaying for 18 common respiratory viruses for 228 samples collected from the air and hard surfaces, and taken before, during, and after the 10 flights.
 
@@ -189,7 +189,6 @@ feed Sangeeta
 
     / April, 2018 - PNAS
     quote !d = The average number of contacts is greatest for those in aisle seats (64, IQR: 50–77), less so in middle seats (58, IQR: 45–73), and least in window seats. Passengers seated midcabin have more contacts if they leave their seats.
-
 
     / April, 2018 - PNAS
     quote !e = Some transmissions may have occurred while waiting in the airport, while boarding, or while deplaning. Alternatively, some passengers may have been infected by other sources before or after the flight. Three of the five flights in these case reports range from 9.5 to 14 h, providing many more opportunities for transmission. Other transmissions may have occurred via fomites.
@@ -528,7 +527,7 @@ feed Sangeeta
 
 
     / March, 2005 - The Lancet
-    quote !a = The environmental control system used in commercial aircraft seems to restrict the spread of airborne pathogens, and the perceived risk is greater than the actual risk. Transmission of infectious diseases probably happens more frequently than reported for various reasons, including reporting bias and the fact that most diseases have a longer incubation period than air travel. Important questions include: what factors affect the transmission of infectious diseases within the aircraft cabin? How effective are the ventilation systems used within commercial aircraft with regard to emerging infections? Further assessment of risk through mathematical modelling is needed and will provide insight into disease transmission within the aircraft cabin as well as control of outbreaks of different diseases.
+    quote !a = The environmental control system used in commercial aircraft seems to restrict the spread of airborne pathogens, and the perceived risk is greater than the actual risk. Transmission of infectious diseases probably happens more frequently than reported for various reasons, including reporting bias and the fact that most diseases have a longer incubation period than air travel.
 
     / March, 2005 - The Lancet
     quote !b = The risk of disease transmission within the confined space of the aircraft cabin is difficult to determine. Insufficient data prohibits meta-analysis, which would allow an idea of the probability of disease transmission for each respective contagion. Many of the available epidemiological studies are compromised by reporting bias caused by incomplete passenger manifests, thereby complicating risk assessment.
@@ -583,7 +582,7 @@ feed Sangeeta
 
     # Common cold
     / March, 2005 - The Lancet
-    quote !r = Common cold outbreaks as a result of air travel have not been reported, which could be attributable to the difficulties of investigating such outbreaks in view of the ubiquitous nature of the common cold. One study compared the risk of developing an upper respiratory tract infection during air travel in passengers flying on aircraft that recirculated 50% cabin air versus aircraft using 100% fresh air in the passenger cabin.36 Recirculation of aircraft cabin air was not a risk factor for contracting upper respiratory tract infection symptoms.36
+    quote !r = Common cold outbreaks as a result of air travel have not been reported, which could be attributable to the difficulties of investigating such outbreaks in view of the ubiquitous nature of the common cold. One study compared the risk of developing an upper respiratory tract infection during air travel in passengers flying on aircraft that recirculated 50% cabin air versus aircraft using 100% fresh air in the passenger cabin. Recirculation of aircraft cabin air was not a risk factor for contracting upper respiratory tract infection symptoms.
 
     # INFLUENZA
     / March, 2005 - The Lancet
@@ -597,7 +596,7 @@ feed Sangeeta
 
     # Meningococcal disease
     / March, 2005 - The Lancet
-    quote !v = The third outbreak happened in 1999 in mine workers travelling on a 75-seat aircraft.33 15 passengers travelling with the index case developed symptoms within 4 days. Nine of the 15 were seated within two rows, and all were seated within five rows, of the index case. No further influenza outbreaks aboard commercial aircraft have been reported since 1999.The US Centers for Disease Control received 21 reports of suspected air travel-associated meningococcal disease from 1999 to 2001.34 In all cases the index person was contagious while aboard a commercial flight, but no secondary cases of the disease were reported.
+    quote !v = The third outbreak happened in 1999 in mine workers travelling on a 75-seat aircraft. 15 passengers travelling with the index case developed symptoms within 4 days. Nine of the 15 were seated within two rows, and all were seated within five rows, of the index case. No further influenza outbreaks aboard commercial aircraft have been reported since 1999.The US Centers for Disease Control received 21 reports of suspected air travel-associated meningococcal disease from 1999 to 2001. In all cases the index person was contagious while aboard a commercial flight, but no secondary cases of the disease were reported.
 
     / March, 2005 - The Lancet
     quote !w = People seated next to an ill passenger should be quickly contacted and given chemoprophylaxis within 24 h of identifying the index case. Chemoprophylaxis given more than 14 days after onset of illness in the index case is probably of little or no value.
@@ -627,7 +626,7 @@ feed Sangeeta
     quote !e1 = Eight food-borne outbreaks caused by Staphylococcus and one associated death were reported between 1947 and 1999.
 
     / March, 2005 - The Lancet
-    quote !f1 = One of the largest cases involved 57% of the passengers served a ham omelette on an international flight in 1975.65 Surprisingly, only one viral-induced enteritis outbreak has been described.66 In this incident, contaminated orange juice was the vehicle of transmission and a Norwalk-like agent was isolated from fecal samples of 30 ill passengers.
+    quote !f1 = One of the largest cases involved 57% of the passengers served a ham omelette on an international flight in 1975. Surprisingly, only one viral-induced enteritis outbreak has been described. In this incident, contaminated orange juice was the vehicle of transmission and a Norwalk-like agent was isolated from fecal samples of 30 ill passengers.
 
     / March, 2005 - The Lancet
     quote !g1 = There have been a few reported cases of ill passengers as a result of food or water contaminated with Vibrio cholerae consumed during international air travel. The first documented in-flight outbreak was in 1972 on a flight from London to Sydney via Singapore. 67 Of the 47 people who developed cholera, which was attributed to a cold appetiser served during the flight, one died.
@@ -642,7 +641,7 @@ feed Sangeeta
     quote !j1 = Many cases of malaria occurring in and around airports all over the world in people who had not travelled to endemic areas, known as airport malaria, is evidence that malaria-carrying mosquitoes can be imported on aircraft. A total of 87 cases of airport malaria have been reported, 75 of which happened in Europe
 
     / March, 2005 - The Lancet
-    quote !k1 = A case of dengue fever was reported in Germany in a couple returning from a trip to Hawaii.71 Airport transmission of dengue fever was suspected in this particular case.
+    quote !k1 = A case of dengue fever was reported in Germany in a couple returning from a trip to Hawaii. Airport transmission of dengue fever was suspected in this particular case.
 
     / March, 2005 - The Lancet
     quote !l1 = Up to now, no zoonotic outbreaks associated with air travel have been reported; however, continued monitoring of air transport of animals, especially from developing countries, is needed.

@@ -772,38 +772,26 @@ subject module Transmission
   subject Airline
     head = There are a small number of published reports which demonstrate in-flight transmission despite use of non-pharmaceutical interventions, while some have reported lack of secondary transmission. Transmission risk has been reported higher in flights with no masking policy. Present and past studies have shown that tranmission is associated with close proximity with index patient. Poor ventilation could accelerate transmission.
 
+    -
+      AirlinesOtherPathogens
+
     - Reports
       !InflightTransmission
       !NoTransmission
       !PublicTransport
-      !SARS
-    - Routes for other Pathogens
-      !RoutesPathogens
-    - Risk (Close Proximity)
-      !CloseProximityTB
-      !PysicalProximity
+    - Close Proximity
       !CloseProximity
-    - Risk (Mask)
+    - Masking
       !NoMask
       !Mask
-    - Risk (Ventilation)
-      !InfluenzaOutbreak
-      !HEPAfilters
     - Other Claims
       !EpidemicRisk
 
-    / HEPA Filters
-    claim !HEPAfilters = One study has emphasized on importance of efficacy of HEPA filters for airborne contaminant in airliner cabins.
+    / Wuhan
+    claim !PublicTransport = Study in Wuhan found strong and significant association between travel by train with increase in COVID-19 cases whereas associations with flights failed to reach statistical significance.
       -
-        'Mazumdar_et_al_05_29_2008
-        'Mazumdar_et_al_05_29_2008.!a
-
-    / SARS
-    claim !SARS = Low incidence of inflight tranmission was observed in SARS. The risk of in‐flight transmission of SARS appears to be far lower than that reported for influenza, but may be increased with superspreaders on board
-      -
-        'Wilder-Smith_et_al_10_22_2003
-        'Wilder-Smith_et_al_10_22_2003.!a
-        'Wilder-Smith_et_al_10_22_2003.!b
+        'Zhao_et_al_01_30_2020
+        'Zhao_et_al_01_30_2020.!a
 
     / Inflight Transmission
     claim !InflightTransmission = A small number of published reports provides evidence of flight-associated SARS-CoV-2 transmission despite implementation of non-pharmaceutical interventions.
@@ -828,11 +816,15 @@ subject module Transmission
         'Freedman_et_al_09_25_2020.!m
         'Freedman_et_al_09_25_2020.!n
         # 'Freedman_et_al_09_25_2020.!d
+
+      # Large outbreak Transmission occured in 1 flight, despite implementation of NPI. also had cases away from 2 rows (!e).
       -
         'Murphy_et_al_10_21_2020
         'Murphy_et_al_10_21_2020.!a
         'Murphy_et_al_10_21_2020.!b
         'Murphy_et_al_10_21_2020.!c
+        'Murphy_et_al_10_21_2020.!d
+        'Murphy_et_al_10_21_2020.!e
       -
         'Choi_et_al_09_18_2020
         'Choi_et_al_09_18_2020.!a
@@ -858,23 +850,47 @@ subject module Transmission
         'Speake_et_al_2020.!m
         'Speake_et_al_2020.!n
 
-      - Limitations
-        'Hertzberg_et_al_2016
-        'Hertzberg_et_al_2016.!a
-        'Hertzberg_et_al_2016.!b
-        'Hertzberg_et_al_2016.!c
-        'Hertzberg_et_al_2016.!d
+      # 2 likely SARS-CoV-2 transmissions on this flight, with 7 index cases. both passengers with likely onboard transmission were seated within 2 rows of an index case. & No mask was used. Limitations are that airborne cannot be ruled out and transmission could have also happened before or after flight.
       -
-        'Mangili_et_al_03_12_2005
-        'Mangili_et_al_03_12_2005.!a
-        'Mangili_et_al_03_12_2005.!b
-        'Mangili_et_al_03_12_2005.!o1
+        'Hoehl_et_al_08_18_2020
+        'Hoehl_et_al_08_18_2020.!a
+        'Hoehl_et_al_08_18_2020.!c
+      -  Limitations
+        'Hoehl_et_al_08_18_2020.!b
+        'Hoehl_et_al_08_18_2020.!d
+        'Hoehl_et_al_08_18_2020.!e
+        'Hoehl_et_al_08_18_2020.!f
 
+      # Other published reports describe suspected flight-associated transmission of SARS-CoV-2, but these reports lack supportive genomic evidence.
+      -
+        'Eldin_et_al_03_25_2020
+        'Eldin_et_al_03_25_2020.!a
+        'Eldin_et_al_03_25_2020.!b
+        'Eldin_et_al_03_25_2020.!c
+        'Eldin_et_al_03_25_2020.!d
+        'Eldin_et_al_03_25_2020.!e
+      -
+        'Hoehl_et_al_08_18_2020
+        'Hoehl_et_al_08_18_2020.!a
+        'Hoehl_et_al_08_18_2020.!c
+        'Hoehl_et_al_08_18_2020.!g
+        'Hoehl_et_al_08_18_2020.!h
+      - limitations
+        'Hoehl_et_al_08_18_2020.!b
+        'Hoehl_et_al_08_18_2020.!d
+        'Hoehl_et_al_08_18_2020.!e
+        'Hoehl_et_al_08_18_2020.!f
+      -
+        'Bae_et_al_08_21_2020.!a
+        'Bae_et_al_08_21_2020.!b
+      - limitations
+        'Bae_et_al_08_21_2020.!c
+      - mitigation/ prevention
+        'Bae_et_al_08_21_2020.!d
 
       - Early Outbreak (No Interventions)
         'Yang_et_al_03_30_2020
         'Yang_et_al_03_30_2020.!a
-
 
     / Lack of Secondary Tranmission
     claim !NoTransmission = While some reports states that there is lack of secondary tranmission in flight and transmission is not inevitable even with large numbers of infected persons aboard.
@@ -895,19 +911,13 @@ subject module Transmission
       -  Dispute
         'Speake_et_al_2020
         'Speake_et_al_2020.!d
-      -
-        'Hertzberg_et_al_2016
-        'Hertzberg_et_al_2016.!a
-        'Hertzberg_et_al_2016.!b
 
     / No Mask
     claim !NoMask = Authors of SARS-CoV-2 In-flight outbreak review stated that on flights with mass transmission events, masking was not mandated in any way and, was rarely practiced.
       -
         'Freedman_et_al_09_25_2020
         'Freedman_et_al_09_25_2020.!o
-      -
-        'Mangili_et_al_03_12_2005
-        'Mangili_et_al_03_12_2005.!n1
+
       -
         'Hoehl_et_al_08_18_2020
         'Hoehl_et_al_08_18_2020.!a
@@ -918,7 +928,6 @@ subject module Transmission
         'Hoehl_et_al_08_18_2020.!e
         'Hoehl_et_al_08_18_2020.!f
 
-
     / Mask
     claim !Mask = While on flights with rigid masking policies, no transmission was found from PCR+ index cases aboard.
       -
@@ -926,27 +935,6 @@ subject module Transmission
         'Freedman_et_al_09_25_2020.!p
         'Freedman_et_al_09_25_2020.!f
 
-    / Influenza, Norovirus & SARS
-    claim !RoutesPathogens = For other pathogens, dominant transmission routes in air cabins are probably the close contact route for influenza, the fomite route for norovirus, and all 3 routes (airborne, close contact, and fomite routes) for SARS CoV.
-      -
-        'Lei_et_al_01_06_2008
-        'Lei_et_al_01_06_2008.!a
-        'Lei_et_al_01_06_2008.!b
-
-    / Influenza
-    claim !InfluenzaOutbreak = In one Influenza outbreak the airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
-      -
-        'Moser_et_al_1979
-        'Moser_et_al_1979.!a
-
-    / SARS
-    claim !PysicalProximity = In an Outbreak in SARS, Illness in passengers was related to the physical proximity to the index patient
-      -
-        'Olsen_et_al_2003
-        'Olsen_et_al_2003.!a
-        'Olsen_et_al_2003.!b
-        'Olsen_et_al_2003.!c
-        'Olsen_et_al_2003.!d
 
     / Epidemic Risk Assessment
     claim !EpidemicRisk =  Using airline transportation network can help in analysis of containment policies and epidemic risk assessment.
@@ -956,15 +944,338 @@ subject module Transmission
         'Colizza_et_al_2006.!b
         'Colizza_et_al_2006.!c
 
-    / TB
-    claim !CloseProximityTB = Long flight and Passengers seated within two rows of the index patient were exposed to TB
+    subject AirlinesOtherPathogens
+      head =
+
       -
-        'Kenyon_et_al_04_11_1996
-        'Kenyon_et_al_04_11_1996.!a
+        !OutbreakOtherPathogens
+        !TransmissionRisk
+        !RoutesPathogens
+        !Limitation
+
+      / Outbreak Reports
+      claim !OutbreakOtherPathogens = This paper reported x y z
+
+        -
+          !SARS
+          !Influenza
+          !CommonCold
+          !Tuberculosis
+          !Measles
+          !Malaria
+          !Dengue
+          !MeningococcalDisease
+          !FoodborneOutbreaks
 
 
-    / Wuhan
-    claim !PublicTransport = Study in Wuhan found strong and significant association between travel by train with increase in COVID-19 cases whereas associations with flights failed to reach statistical significance.
-      -
-        'Zhao_et_al_01_30_2020
-        'Zhao_et_al_01_30_2020.!a
+        / Tuberculosis
+        claim !Tuberculosis = There is one documented report which found that long flight (more than 8 hrs) and Passengers seated within two rows of the index patient were exposed to Tuberculosis
+          -
+            'Kenyon_et_al_04_11_1996
+            'Kenyon_et_al_04_11_1996.!a
+          -
+            'Mangili_et_al_03_12_2005
+            'Mangili_et_al_03_12_2005.!i
+            'Mangili_et_al_03_12_2005.!j
+            'Mangili_et_al_03_12_2005.!k
+            'Mangili_et_al_03_12_2005.!l
+
+        / SARS
+        claim !SARS = Previous outbreak reports on inflight transmission for SARS revealed physical proximity as a major risk factor for tranmission and also showed tranmission beyond 2 row perimeter indicating possible airborne transmission. Fomite may also have been one of the possible routes for transmission. Risk of in‐flight transmission of SARS appears to be far lower than that reported for influenza, but may be increased with superspreaders on board. Study mostly reported symptomatic transmissions, and no illness was documented in passengers on the flight that carried a person who had presymptomatic SARS. Superspreading event was also documented in one airline.
+
+          -
+            !Mangilietal
+            !Olsenet
+            !Wilder-Smith
+            !Lei
+
+          claim !Mangilietal = One Review paper reported several SARS outbreak. Authors reported the disease is believed to usually be spread by large aerosolised droplets or by direct and indirect contact, but airborne or small droplet transmission better explains the distribution of SARS cases that has occurred on commercial airlines. Superspreading event was also documented in an airline. In one outbreak passengers seated as far as seven rows from the source passenger were also affected.
+            -
+              'Mangili_et_al_03_12_2005
+              'Mangili_et_al_03_12_2005.!m
+              'Mangili_et_al_03_12_2005.!n
+              'Mangili_et_al_03_12_2005.!o
+              'Mangili_et_al_03_12_2005.!q
+            # Beyond 2 row
+            -
+              'Mangili_et_al_03_12_2005
+              'Mangili_et_al_03_12_2005.!d
+              'Mangili_et_al_03_12_2005.!o
+
+          claim !Olsenet = One study reported that illness in passengers was related to the physical proximity to the index patient, with illness reported in 8 of the 23 persons who were seated in the three rows in front of the index patient, as compared with 10 of the 88 persons who were seated elsewhere. Presymptomatic Tranmission was not documented.
+            -
+              'Olsen_et_al_2003
+              'Olsen_et_al_2003.!a
+              'Olsen_et_al_2003.!b
+              'Olsen_et_al_2003.!c
+              'Olsen_et_al_2003.!d
+
+          claim !Wilder-Smith = Low incidence of inflight tranmission was observed in SARS. The risk of in‐flight transmission of SARS appears to be far lower than that reported for influenza, but may be increased with superspreaders on board
+            -
+              'Wilder-Smith_et_al_10_22_2003
+              'Wilder-Smith_et_al_10_22_2003.!a
+              'Wilder-Smith_et_al_10_22_2003.!b
+
+          claim !Lei = One mathematical modelling study stated airborne, close contact, and fomite routes as dominant route of in-flight tranmission for SARS.
+            -
+              'Lei_et_al_01_06_2008
+              'Lei_et_al_01_06_2008.!a
+              'Lei_et_al_01_06_2008.!b
+
+        / Common Cold
+        claim !CommonCold = Common cold outbreaks as a result of air travel have not been reported. One study compared the risk of developing an upper respiratory tract infection during air travel that recirculated 50% cabin air versus aircraft using 100% fresh air in the passenger cabin. Recirculation of aircraft cabin air was not a risk factor.
+
+          -
+            'Mangili_et_al_03_12_2005
+            'Mangili_et_al_03_12_2005.!r
+
+          -
+            ?OutbreakReports
+
+          question ?OutbreakReports = Are there documented reports on common cold inflight tranmission?
+
+        / Influenza
+        claim !Influenza = Many studies reported tranmission within 2 row and close proximity as dominant route for inflight tranmission while in one literature review majority of secondary cases happened away from 2 rows. In-flight influenza tranmission therefore seems to rather a multifactorial event. In one outbreak, an inoperative airplane ventilation system led to a superspeading event.
+
+          -
+            !Mangili
+            !Hertzberget
+            !Leitmeyer
+            !Moser
+            !Lei
+
+          claim !Mangili = One review paper documented 3 influenza outbreaks. Transmission occured both on the ground and aboard. In one outbreak where 15 people got illness, 9 were seated within two rows, and all were seated within five rows, of the index case.
+            -
+              'Mangili_et_al_03_12_2005
+              'Mangili_et_al_03_12_2005.!s
+              'Mangili_et_al_03_12_2005.!t
+              'Mangili_et_al_03_12_2005.!u
+              'Mangili_et_al_03_12_2005.!v
+
+
+          claim !Leitmeyer = One literature review reported findings and limitations of 14 peer reviewed publications describing Influenza outbreak and stated that the quality of evidence for transmission is moderate. In one report, a majority of secondary cases was identified at a greater distance than two rows from the index case.  Authors concluded that In-flight influenza transmission seems to be rather a multifactorial event including the number of index cases, infectivity, and proximity to the index case as well as other factors such as, immune status, age, contaminated surfaces.
+            -
+              'Leitmeyer_et_al_2016
+              'Leitmeyer_et_al_2016.!a
+              'Leitmeyer_et_al_2016.!b
+              'Leitmeyer_et_al_2016.!c
+              'Leitmeyer_et_al_2016.!d
+              'Leitmeyer_et_al_2016.!e
+              'Leitmeyer_et_al_2016.!n
+              'Leitmeyer_et_al_2016.!f
+              'Leitmeyer_et_al_2016.!g
+              'Leitmeyer_et_al_2016.!h
+              'Leitmeyer_et_al_2016.!i
+              'Leitmeyer_et_al_2016.!j
+              'Leitmeyer_et_al_2016.!k
+              'Leitmeyer_et_al_2016.!l
+
+
+          claim !Moser = In one Influenza outbreak the airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
+            -
+              'Moser_et_al_1979
+              'Moser_et_al_1979.!a
+
+          claim !Lei = Studies reported that most dominant transmission routes in air cabins are probably the close contact route for influenza.
+            -
+              'Lei_et_al_01_06_2008
+              'Lei_et_al_01_06_2008.!a
+              'Lei_et_al_01_06_2008.!b
+            -
+              'Leitmeyer_et_al_2016
+              'Leitmeyer_et_al_2016.!m
+
+          claim !Hertzberget = A literature review found that there is a∼ 6% risk to passengers seated within the 2-rows of infected individual(s) and ∼ 2% risk to passengers seated beyond 2-rows from the infectious individual. Authors concluded that Infection at a distance from the index case indicates other factors, such as airflow, movement of passenger/crew members, fomites and contacts between passengers in the departure gate before boarding, or after deplaning, are involved.
+            -
+              'Hertzberg_et_al_2016
+              'Hertzberg_et_al_2016.!a
+              'Hertzberg_et_al_2016.!b
+
+
+        / Meningococcal Disease
+        claim !MeningococcalDisease = There is one report of Meningococcal Disease tranmission which is associated with air travel. It is defined as the development of the illness within 14 days of travel on a flight lasting at least 8 h, including ground delay, take off, and landing.
+          -
+            'Mangili_et_al_03_12_2005
+            'Mangili_et_al_03_12_2005.!w
+
+        / Measles
+        claim !Measles =
+          -
+            'Mangili_et_al_03_12_2005.!x
+            'Mangili_et_al_03_12_2005.!y
+            'Mangili_et_al_03_12_2005.!z
+            'Mangili_et_al_03_12_2005.!a1
+            'Mangili_et_al_03_12_2005.!b1
+
+        / Malaria
+        claim !Malaria = A literature review reported that malaria-carrying mosquitoes can be imported on aircraft. A total of 87 cases of airport malaria have been reported, 75 of which happened in Europe
+          -
+            'Mangili_et_al_03_12_2005
+            'Mangili_et_al_03_12_2005.!j1
+
+        / Dengue
+        claim !Dengue = A literature review reported a case of dengue fever in Germany in a couple returning from a trip to Hawaii. Airport transmission of dengue fever was suspected in this particular case.
+          -
+            'Mangili_et_al_03_12_2005
+            'Mangili_et_al_03_12_2005.!k1
+
+        / Food-borne or Water-borne Outbreaks
+        claim !FoodborneOutbreaks
+          - Eight food-borne outbreaks caused by Staphylococcus and one associated death were reported between 1947 and 1999. The most commonly reported diseases transmitted on aircraft have been spread by the fecal-oral route via contaminated food.
+            'Mangili_et_al_03_12_2005.!c1
+            'Mangili_et_al_03_12_2005.!d1
+            'Mangili_et_al_03_12_2005.!e1
+            'Mangili_et_al_03_12_2005.!f1
+            'Mangili_et_al_03_12_2005.!g1
+            'Mangili_et_al_03_12_2005.!h1
+
+          # No cases reported in 5 years
+          -
+            'Mangili_et_al_03_12_2005
+            'Mangili_et_al_03_12_2005.!i1
+
+      claim !TransmissionRisk = One modelling study found x y z..
+
+        claim !Handhygiene
+          -
+            'Hertzberg_et_al_04_03_2018
+            'Hertzberg_et_al_04_03_2018.!f
+
+          >
+            Good hand hygiene has been proven to reduce the risk of disease transmission, and air travellers should make it part of their normal travel routine.
+          -
+            'Mangili_et_al_03_12_2005
+            'Mangili_et_al_03_12_2005.!m1
+
+        claim !WithintwoRows
+          - seated within two rows from the index case.
+            'Leitmeyer_et_al_2016
+            'Leitmeyer_et_al_2016.!m
+          # In an Outbreak in SARS, Illness in passengers was related to the physical proximity to the index patient
+          # Symptomatic phase index patient was travelling
+          -
+            'Olsen_et_al_2003
+            'Olsen_et_al_2003.!a
+            'Olsen_et_al_2003.!b
+            'Olsen_et_al_2003.!c
+            'Olsen_et_al_2003.!d
+
+          # More in Close Proximity (but also beyond)
+          -
+            'Hertzberg_et_al_2016
+            'Hertzberg_et_al_2016.!a
+            'Hertzberg_et_al_2016.!b
+          - Limitations
+            'Hertzberg_et_al_2016
+            'Hertzberg_et_al_2016.!c
+            'Hertzberg_et_al_2016.!d
+          # Long flight and Passengers seated within two rows of the index patient were exposed to TB
+          -
+            'Kenyon_et_al_04_11_1996
+            'Kenyon_et_al_04_11_1996.!a
+
+          -  8 h and sitting within two rows of the index passenger.
+            'Mangili_et_al_03_12_2005
+            'Mangili_et_al_03_12_2005.!c
+            'Mangili_et_al_03_12_2005.!k
+
+          # Modelling study shows transmission unlikely to be directly transmitted beyond 1 m from the infectious passenger. 2 row is more conservative.
+          -
+            'Hertzberg_et_al_04_03_2018
+            'Hertzberg_et_al_04_03_2018.!a
+          - Limitations
+            'Hertzberg_et_al_04_03_2018.!e
+            'Hertzberg_et_al_04_03_2018.!g
+            'Hertzberg_et_al_04_03_2018.!h
+            'Hertzberg_et_al_04_03_2018.!i
+            'Hertzberg_et_al_04_03_2018.!j
+
+        claim !Furtherthantworows
+          - greater distance than two rows from the index case.
+            'Leitmeyer_et_al_2016
+            'Leitmeyer_et_al_2016.!n
+
+          - greater distance than two rows from the index case.
+            'Mangili_et_al_03_12_2005
+            'Mangili_et_al_03_12_2005.!d
+            'Mangili_et_al_03_12_2005.!o
+
+        claim !Ventilation =
+          # In one Influenza outbreak the airplane ventilation system was inoperative during the delay and this may account for the high attack rate.
+          -
+            'Moser_et_al_1979
+            'Moser_et_al_1979.!a
+
+          # Air recirculation - Another study showed that the concentration of microorganisms in the cabin air is much lower than ordinary city locations.
+          -
+            'Wick_et_al_1995
+            'Wick_et_al_1995.!a
+            'Wick_et_al_1995.!b
+
+
+          # One study has emphasized on importance of efficacy of HEPA filters for airborne contaminant in airliner cabins.
+          -
+            'Mazumdar_et_al_05_29_2008
+            'Mazumdar_et_al_05_29_2008.!a
+
+          >
+            A study comparing the risk for an upper respiratory infection during air travel in 50% recirculated versus 100% fresh air found no difference between the two groups
+          -
+            'Zitter_et_al_2002
+            'Zitter_et_al_2002.!a
+            'Zitter_et_al_2002.!b
+
+          - Ventilation affects disease transmission aboard commercial airlines
+            'Mangili_et_al_03_12_2005.!e
+            'Mangili_et_al_03_12_2005.!f
+            'Mangili_et_al_03_12_2005.!g
+            'Mangili_et_al_03_12_2005.!h
+
+        claim !Masking =
+          - Masks play a crucial part in infection control in health care settings, their use is unproven in disease control within the aircraft cabin.
+            'Mangili_et_al_03_12_2005.!n1
+
+        claim !AisleSeat =
+          -
+            'Hertzberg_et_al_04_03_2018
+            'Hertzberg_et_al_04_03_2018.!d
+
+        claim !Flightattened
+          -
+            'Hertzberg_et_al_04_03_2018
+            'Hertzberg_et_al_04_03_2018.!c
+
+      / Influenza, Norovirus & SARS
+      claim !RoutesPathogens = For other pathogens, dominant transmission routes in air cabins are probably the close contact route for influenza, the fomite route for norovirus, and all 3 routes (airborne, close contact, and fomite routes) for SARS CoV.
+        -
+          'Lei_et_al_01_06_2008
+          'Lei_et_al_01_06_2008.!a
+          'Lei_et_al_01_06_2008.!b
+
+        - passengers within 2 rows of the index case in the influenza A H1N1 outbreak and passengers in aisle seats in the in‐flight norovirus outbreak had a significantly higher infection risk than others.
+          'Lei_et_al_12_15_2017
+          'Lei_et_al_12_15_2017.!a
+        -
+          'Lei_et_al_12_15_2017
+          'Lei_et_al_12_15_2017.!d
+
+      claim !Limitation =
+        >
+          Many instances of in-flight transmission have been documented, and air travel can serve as a conduit for the rapid spread of newly emerging infections and pandemics. But the relative influence of the many factors (see below) affecting in-flight transmission has not been quantified. Long-standing guidance by public health agencies is that the primary transmission risk associated with air travel for most respiratory infectious diseases is associated with sitting within two rows of an infectious passenger. The effect of proximity may be one of these factors.
+          Infection at a distance from the index case indicates other factors, such as airflow, movement of passenger/crew members, fomites and contacts between passengers in the departure gate before boarding, or after deplaning, are involved
+          Cabin transmission of infectious diseases can occur through several routes.
+          The risk of disease transmission within the confined space of the aircraft cabin is difficult to determine. Insufficient data prohibits meta-analysis, which would allow an idea of the probability of disease transmission for each respective contagion. Many of the available epidemiological studies are compromised by reporting bias caused by incomplete passenger manifests, thereby complicating risk assessment.
+          Transmission of infectious diseases probably happens more frequently than reported for various reasons, including reporting bias and the fact that most diseases have a longer incubation period than air travel.
+          In-flight transmission therefore seems to be rather a multifactorial event including the number of index cases, infectivity, and proximity to the index case as well as other factors not investigated so far, e.g., immune status, age, contaminated surfaces, etc. Possibilities to become infected before or after the flight are manifold, especially if influenza activity is high in the country of origin. In some of the studies reviewed, prior and posthoc exposure cannot be clearly separated from i
+        - Limitations
+          'Mangili_et_al_03_12_2005
+          'Mangili_et_al_03_12_2005.!a
+          'Mangili_et_al_03_12_2005.!b
+          'Mangili_et_al_03_12_2005.!o1
+
+        -  Limitations
+          'Olsen_et_al_2003.!f
+          'Olsen_et_al_2003.!g
+          'Olsen_et_al_2003.!h
+          'Olsen_et_al_2003.!i
+          'Olsen_et_al_2003.!j
