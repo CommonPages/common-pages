@@ -833,6 +833,7 @@ feed February2020
 
 
   # Tag - Treatment
+  @@CaoBin
   // 2019 new coronavirus antiviral treatment is available
   doi: https://doi.org/10.3760/cma.j.issn.1001-0939.2020.0002
   ref 'Hui_et_al_2020
@@ -846,6 +847,7 @@ feed February2020
 
 
   # Vaccine
+  @@MaxCrispin
   // Vulnerabilities in coronavirus glycan shields despite extensive glycosylation
   doi: https://doi.org/10.1101/2020.02.20.957472
   ref 'Watanabe_et_al_2020
@@ -863,6 +865,7 @@ feed February2020
 
 
   # Remediation
+  @@YunhuiLiu
   // Potential interventions for novel coronavirus in China: A systematic review
   doi: https://doi.org/10.1002/jmv.25707
   ref 'Zhang_et_al_2020e
@@ -888,6 +891,7 @@ feed February2020
 
 
   # Asymtomatic
+  @@ShanghaiTong
   // Epidemiological Characteristics of 2143 Pediatric Patients With 2019 Coronavirus Disease in China
   doi: https://doi.org/10.1542/peds.2020-0702
   ref 'Dong_et_al_2020b
@@ -903,6 +907,7 @@ feed February2020
 
 
   # aketoamideinhibitor
+  @@HongLiu
   // α-Ketoamides as Broad-Spectrum Inhibitors of Coronavirus and Enterovirus Replication: Structure-Based Design, Synthesis, and Activity Assessment
   doi: https://doi.org/10.1021/acs.jmedchem.9b01828
   ref 'Zhang_et_al_2020c
@@ -922,6 +927,7 @@ feed February2020
 
 
   # Remdesivir and Choloroquine
+  @@ZhihongHu
   // Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro
   doi: https://doi.org/10.1038/s41422-020-0282-0
   ref 'Wang_et_al_2020
@@ -939,6 +945,7 @@ feed February2020
 
 
   # Remediation
+  @@GuangdiLi
   // Therapeutic options for the 2019 novel coronavirus (2019-nCoV)
   doi: https://doi.org/10.1038/d41573-020-00016-0
   ref 'Li_et_al_2020
@@ -1026,6 +1033,7 @@ feed February2020
 
 
   # Convalescent plasma
+  @@YuanShi
   // Convalescent plasma as a potential therapy for COVID-19
   doi: https://doi.org/10.1016/S1473-3099(20)30141-9
   ref 'Chen_et_al_2020
@@ -1047,6 +1055,7 @@ feed February2020
 
 
   # Tag - Origin
+  @@ZhengShi
   // A pneumonia outbreak associated with a new coronavirus of probable bat origin
   link: https://www.nature.com/articles/s41586-020-2012-7
   doi: https://doi.org/10.1038/s41586-020-2012-7

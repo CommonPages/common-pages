@@ -158,6 +158,7 @@ feed March2020
     quote !a =
 
   # Antigen - N protien
+  @@YuzhangWu
   // Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein
   doi: https://doi.org/10.1101/2020.03.07.20032524
   ref 'Diao_et_al_03_13_2020
@@ -176,6 +177,7 @@ feed March2020
     quote !a =
 
   # Ocular Transmission
+  @@ZheLiu
   // Role of the Eye in Transmitting Human Coronavirus: What We Know and What We Do Not Know
   doi: https://doi.org/10.20944/preprints202003.0271.v2
   ref 'Sun_et_al_03_24_2020
@@ -197,6 +199,7 @@ feed March2020
     quote !b = Due to low sensitivity of Rt-PCR current negative RT-PCR results can not exclude the possibility of presence of SARS-CoV and 2019- nCoV in tears and conjunctival secretions.
 
   # Face Mask use, Policy - Relevant in timeline?
+  @@HabidaElachola
   // COVID-19: Facemask use prevalence in international airports in Asia, Europe and the Americas, March 2020
   doi: https://doi.org/10.1016/j.tmaid.2020.101637
   ref 'Elachola_et_al_03_20_2020
@@ -235,6 +238,7 @@ feed March2020
 
 
   # Hydroxychloroquine
+  @@QiangTong
   // COVID-19: a recommendation to examine the effect of hydroxychloroquine in preventing infection and progression
   doi: https://doi.org/10.1093/jac/dkaa114
   ref 'Zhou_et_al_03_20_2020
@@ -287,6 +291,7 @@ feed March2020
 
 
   # Hydroxychloroquine
+  @@NicasioMancini
   // Combined prophylactic and therapeutic use maximizes hydroxychloroquine anti-SARS-CoV-2 effects in vitro
   doi: https://doi.org/10.1101/2020.03.29.014407
   ref 'Clementi_et_al_03_31_2020
@@ -300,6 +305,7 @@ feed March2020
 
 
   # Hydroxychloroquine / Antiviral - In vitro efficacy stats
+  @@SeungtaekKim
   // Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs
   doi: https://doi.org/10.1101/2020.03.20.999730
   ref 'Jeon_et_al_03_28_2020
@@ -313,6 +319,7 @@ feed March2020
 
 
   # check publisher, origin
+  @@EdwardHolmes
   // A Genomic Perspective on the Origin and Emergence of SARS-CoV-2
   doi: https://doi.org/10.1016/j.cell.2020.03.035
   ref 'Zhang_et_al_03_26_2020
@@ -397,6 +404,7 @@ feed March2020
 
 
   # the shared identity of critical AA sites between SARS-CoV-2 and GD Pangolin-CoV may be due to random mutations coupled with natural selection, rather than recombination, origin
+  @@JianLu
   // On the origin and continuing evolution of SARS-CoV-2
   doi: https://doi.org/10.1093/nsr/nwaa036
   ref 'Tang_et_al_03_03_2020
@@ -459,6 +467,7 @@ feed March2020
 
 
   # Angiotensin converting enzyme 2 (ACE2), Receptor utilization, Phylogenetic analysis, not from wuhan, intermediate hosts of SARS-CoV-2, interspecies transmission,
+  @@XingGe
   // Predicting the angiotensin converting enzyme 2 (ACE2) utilizing capability as the receptor of SARS-CoV-2.
   doi: https://doi.org/10.1016/j.micinf.2020.03.003
   ref 'Xiao_et_al_03_19_2020
@@ -485,6 +494,7 @@ feed March2020
 
 
   # not originated in Wuhan market
+  @@LiangshengZhang
   // Genomic variations of COVID-19 suggest multiple outbreak sources of transmission.
   doi: https://doi.org/10.1101/2020.02.25.20027953
   ref 'Zhang_et_al_03_05_2020
@@ -528,6 +538,7 @@ feed March2020
 
 
   # ACE2, origin, pangalion may be host and not
+  @@FangLi
   // Structural basis of receptor recognition by SARS-CoV-2
   doi: https://doi.org/10.1038/s41586-020-2179-y
   ref 'Shang_et_al_03_30_2020
@@ -579,6 +590,7 @@ feed March2020
 
 
   # Pangolians probable host, origin, selectively mediated convergent evolution rather than recombination, although it is difficult to differentiate between these scenarios on the basis of the current data..There is only the one batch of pangolins carrying this interesting CoV. Did they get it from animals in co-captivity? Or did they get it from the human smugglers over weeks-months in captivity?
+  @@YanHu
   // Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins
   doi: https://doi.org/10.1038/s41586-020-2169-0
   ref 'Lam_et_al_03_26_2020
@@ -812,6 +824,7 @@ feed March2020
 
 
   # Clinical Recommendation - Hyperinflammation
+  @@AranSinganayagam
   // Immunosuppression for hyperinflammation in COVID-19: a double-edged sword?
   doi: https://doi.org/10.1016/S0140-6736(20)30691-7
   ref 'Ritchie_et_al_03_24_2020
@@ -825,6 +838,7 @@ feed March2020
 
 
   # Tocilizumab
+  @@Michot
   // Tocilizumab, an anti-IL-6 receptor antibody, to treat COVID-19-related respiratory failure: a case report
   doi: https://doi.org/10.1016/j.annonc.2020.03.300
   ref 'Michot_et_al_03_06_2020
@@ -835,6 +849,7 @@ feed March2020
 
 
   # IL-1 inhibitor, IL-6 inhibitor (cytokine inhibitor), FRONTIER CYTOKINE INHIBITOR
+  @@PioConti
   // Induction of Pro-Inflammatory Cytokines (IL-1 and IL-6) and Lung Inflammation by Coronavirus-19 (COVI-19 or SARS-CoV-2): Anti-Inflammatory Strategies
   doi: https://doi.org/10.23812/CONTI-E
   ref 'Conti_et_al_03_14_2020
@@ -852,6 +867,7 @@ feed March2020
 
 
   # Origin
+  @@MaciejBoni
   // Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic
   doi: https://doi.org/10.1101/2020.03.30.015008
   ref 'Boni_et_al_03_31_2020
@@ -998,6 +1014,7 @@ feed March2020
 
 
   # Cruise Ship - Diamond Princess, Origin !a
+  @@LeahMoriarty
   // Public Health Responses to COVID-19 Outbreaks on Cruise Ships — Worldwide, February–March 2020
   doi: http://dx.doi.org/10.15585/mmwr.mm6912e3
   ref 'Moriarty_et_al_2020
@@ -1011,6 +1028,7 @@ feed March2020
 
 
   # Indoor , Familial
+  @@JinsongLin
   // Alert for non‐respiratory symptoms of Coronavirus Disease 2019 (COVID‐19) patients in epidemic period: A case report of familial cluster with three asymptomatic COVID‐19 patients
   doi: https://doi.org/10.1002/jmv.25776
   ref 'Lu_et_al_2020b
@@ -1024,6 +1042,7 @@ feed March2020
 
 
   # Origin - Indoor Tranmission
+  @@ZhangYing
   // Analysis on Cluster Cases of COVID-19 in Tianjin
   doi: https://doi.org/10.3760/cma.j.cn112338-20200225-00165
   ref 'Liu_et_al_2020h
@@ -1046,6 +1065,7 @@ feed March2020
 
 
   # Indoor Tranmission
+  @@PengLi
   // Transmission of COVID-19 in the Terminal Stage of Incubation Period: A Familial Cluster
   doi: https://doi.org/10.1016/j.ijid.2020.03.027
   ref 'Peng-Li_et_al_2020
@@ -1056,6 +1076,7 @@ feed March2020
 
 
   # Origin, Indoor tranmission
+  @@LiJi
   // Clinical features of pediatric patients with COVID-19: a report of two family cluster cases
   doi: https://doi.org/10.1007/s12519-020-00356-2
   ref 'Ji_et_al_2020
