@@ -2251,6 +2251,9 @@ feed Pre2019
     / Jan, 2008 - Indoor Air.
     quote !b = The results suggested that the dominant transmission routes in air cabins are probably the close contact route for influenza, the fomite route for norovirus, and all 3 routes (airborne, close contact, and fomite routes) for SARS CoV.
 
+    / Jan, 2008 - Indoor Air.
+    quote !c = For norovirus, the simulation results suggested that the fomite route played the dominant role in most cases; as a result, passengers in aisle seats had a significantly higher infection risk than others.
+
 
 
 

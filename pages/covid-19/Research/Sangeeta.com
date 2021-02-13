@@ -611,10 +611,10 @@ feed Sangeeta
     quote !z = In the same year, another study reported an index passenger who infected two fellow passengers on a flight from Venezuela to Miami.
 
     / March, 2005 - The Lancet
-    quote !a1 = A third report recorded eight cases of in-flight transmitted measles during a 10-h flight from New York to Tel Aviv in 1994.62 The source case was not identified but was speculated to be a crew member. In 2004, a passenger with measles travelled from Japan to Hawaii, but this did not result in any transmission to other air travellers.59
+    quote !a1 = A third report recorded eight cases of in-flight transmitted measles during a 10-h flight from New York to Tel Aviv in 1994. The source case was not identified but was speculated to be a crew member. In 2004, a passenger with measles travelled from Japan to Hawaii, but this did not result in any transmission to other air travellers.
 
     / March, 2005 - The Lancet
-    quote !b1 = International adoptions have a significant role in the number of imported measles cases. In April, 2004, an outbreak in children adopted from an orphanage in China resulted in temporary suspension of adoptions from that particular orphanage.60 Nine of the ten confirmed cases were thought to be infectious while travelling. One secondary case was a female student in close contact with an infected child.
+    quote !b1 = International adoptions have a significant role in the number of imported measles cases. In April, 2004, an outbreak in children adopted from an orphanage in China resulted in temporary suspension of adoptions from that particular orphanage. Nine of the ten confirmed cases were thought to be infectious while travelling. One secondary case was a female student in close contact with an infected child.
 
     / March, 2005 - The Lancet
     quote !c1 = The most commonly reported diseases transmitted on aircraft have been spread by the fecal-oral route via contaminated food. A total of 41 in-flight food-borne outbreaks resulting in 11 deaths were documented between 1947 and 1999
