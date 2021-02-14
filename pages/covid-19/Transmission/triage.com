@@ -59,7 +59,7 @@ index: hide
     It has previously been observed for SARS and influenza that transmission may also occur among passengers seated beyond the 2-row perimeter, indicating possible airborne transmission.
 
   >
-     On 10 transcontinental US flights, one study chronicled behaviors and movements of individuals in the economy cabin on single-aisle aircraft, the results indicated that transmission is limited to one row in front of or in back of an infectious passenger.
+    On 10 transcontinental US flights, one study chronicled behaviors and movements of individuals in the economy cabin on single-aisle aircraft, the results indicated that transmission is limited to one row in front of or in back of an infectious passenger.
 
     indicate that a droplet-mediated respiratory infectious disease is unlikely to be directly transmitted beyond 1 m from the infectious passenger. Thus, transmission is limited to one row in front of or in back of an infectious passenger. This is more conservative than current public health guidance, calling for surveillance of passengers within two rows of an infectious passenger.
 
@@ -75,7 +75,7 @@ index: hide
 
 
 
-  
+
   >
     The currently used environmental control system managing the air flow should minimize risks for passengers other than sitting within close proximity to an index patient
 

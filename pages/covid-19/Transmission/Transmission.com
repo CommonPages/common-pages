@@ -773,55 +773,60 @@ subject module Transmission
     head = There are a small number of published reports which demonstrate in-flight transmission despite use of non-pharmaceutical interventions, while some have reported lack of secondary transmission. Transmission risk has been reported higher in flights with no masking policy. Present and past studies have shown that tranmission is associated with close proximity with index patient. Poor ventilation could accelerate transmission.
 
     >
-      Many instances of in-flight transmission have been documented and also for other {AirlinesOtherPathogens.!OutbreakOtherPathogens pathogens} , and air travel can serve as a conduit for the rapid spread of newly emerging infections and pandemics. But the relative influence of the many factors affecting in-flight transmission has not been quantified.
+      Many instances of in-flight transmission for Covid-19 and for {AirlinesOtherPathogens.!OutbreakOtherPathogens other pathogens} have been documented. But the relative influence of the many factors that affects in-flight transmission has not been quantified.
 
     -
       !InflightTransmission
       !NoTransmission
 
-    > Limitations
-      In some of the studies reviewed, prior and posthoc exposure cannot be clearly separated from in-flight exposure. Systematic studies on the transmission on aircraft (e.g., the {AirlinesOtherPathogens.!RoutesPathogens mode} and extent/effectiveness including also seroepidemiologic and environmental analyses) are {AirlinesOtherPathogens.!Limitation limited}.
-      The risk of disease transmission within the confined space of the aircraft cabin is difficult to determine. Insufficient data prohibits meta-analysis, which would allow an idea of the probability of disease transmission for each respective contagion. Many of the available epidemiological studies are compromised by reporting bias caused by incomplete passenger manifests, thereby complicating risk assessment.
-      Infection at a distance from the index case has also been reported which indicates that In-flight transmission therefore seems to be rather a multifactorial event including the number of index cases, infectivity, and proximity to the index case as well as other factors not investigated so far, e.g., immune status, age, contaminated surfaces, etc. Possibilities to become infected before or after the flight are manifold, especially if disease activity is high in the country of origin.
+    >
+      <h6>Limitations</h6>
+      In some of the above studies reviewed, prior and posthoc exposure cannot be clearly separated from in-flight exposure. Systematic studies on the transmission on aircraft (e.g., the {AirlinesOtherPathogens.!RoutesPathogens mode} and extent/effectiveness including also seroepidemiologic and environmental analyses) are limited and are compromised by reporting bias caused by incomplete passenger manifests along with delay in reporting, thereby complicating risk assessment.
+
+    >
+      <h4> Transmission Factors </h4>
+      In-flight transmission seems to be a multifactorial event including the number of index cases, infectivity, before and after flight exposure, air cabin ventilation and proximity to the index case as well as other factors e.g., immune status, age, contaminated surfaces, etc.
 
 
     >
-      Most epidemiological data show how proximity can effect disease transmission.
-      Long-standing guidance by public health agencies is that the primary transmission risk associated with air travel for most respiratory infectious diseases is associated with sitting within two rows of an infectious passenger.
-      But the effect of proximity may be one of these factors.
-
-      In past.. {AirlinesOtherPathogens.!TransmissionRisk.!WithintwoRows Within 2 rows} ...  {AirlinesOtherPathogens.!TransmissionRisk.!Furtherthantworows further away from 2 rows} documented for influenza ... {AirlinesOtherPathogens.!TransmissionRisk.!AisleSeat AisleSeat} have more contact therefore could be higher risk based on past studies
+      <h6>Close Promximity</h6>
+      Previous Studies of inflight transmission of other respiratory infectious diseases, revealed that sitting near a person ({AirlinesOtherPathogens.!TransmissionRisk.!WithintwoRows within 2 rows}) with a respiratory infectious disease is a major risk factor for transmission. However, it has also been previously observed previously observed (SARS and influenza) that transmission may also occur among passengers seated {AirlinesOtherPathogens.!TransmissionRisk.!Furtherthantworows beyond the 2-row} perimeter. The average number of contacts is greatest for those in {AirlinesOtherPathogens.!TransmissionRisk.!AisleSeat Aisle Seat}, less so in middle seats, and least in window seats.
+      For Covid-19, transmission within 2 rows has been observed, however the effect of proximity may be one of the factors.
 
     # Find CDC recommend 2 row contact tracing claim
     -
       !CloseProximity
 
-
     >
-      Flight Ventilation is good enough to stop aerosol transmission when flying. Other studies have ...ventilation affects disease transmission aboard commercial airlines.
+      <h6>Cabin Air Ventilation</h6>
+      During flight, the [air enters the cabin](https://jamanetwork.com/journals/jama/fullarticle/2771435) from overhead inlets and flows downwards toward floor-level outlets. Air enters and leaves the cabin at the same seat row or nearby rows. There is relatively little airflow forward and backward between rows, making it less likely to spread respiratory particles between rows. [When parked at the terminal](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)71089-8/fulltext#secd4380707e303), fresh air is supplied to the aircraft by auxiliary power units. During flight, fresh air is supplied into the cabin from the engines where the air is heated, compressed, cooled, and passed into the cabin to be circulated by the ventilation system
 
     -
       AirlinesOtherPathogens.!TransmissionRisk.!Ventilation
 
 
     >
-      In Past studies {AirlinesOtherPathogens.!TransmissionRisk.!Masking Masking} was .....
+      <h6>Masking</h6>
+      Based on the past airline transmission reports, the use of {AirlinesOtherPathogens.!TransmissionRisk.!Masking Mask} is unproven in disease control within the aircraft cabin.
+      For Covid-19 there have been contradictory findings about the role of mask in inflight transmission.
     -
       !NoMask
       !Mask
       !OutbreakwithMask
+
     >
-      CDC WHO guidelines recommends
+      <h6>Sanitation</h6>
+      [CDC](https://www.cdc.gov/quarantine/air/managing-sick-travelers/ncov-airlines.html) has provided an recommendations for the commercial airline industry for practicing sanitations. Guidelines also contains recommendations for managing ill travelers onboard if COVID-19 infection is suspected.
     -
       AirlinesOtherPathogens.!TransmissionRisk.!Handhygiene
 
-
-    > Other claims
-      Infected Flight attendant can pose higher risk
-    - Other Claims
+    >
+      <h6>Other claims</h6>
+    -
+      AirlinesOtherPathogens.!TransmissionRisk.!Flightattendant
+    -
       !EpidemicRisk
-
-    - SEE ALSO:
+    - See Also:
       AirlinesOtherPathogens
 
 
@@ -1021,13 +1026,12 @@ subject module Transmission
 
     / Airline Transmission on other pathogens
     subject AirlinesOtherPathogens
-      head =
+      head = Airline tranmission have been documented on SARS, Influenza, Common Cold, Tuberculosis, Measles, Meningococcal Disease, Malaria, Dengue, and Food & Water borne Outbreaks. There are several factors (such as infectivity, proximity, containment measures, air-cabin ventilation and many more) that influence in-flight transmission. These factors including mode of tranmission have not been effectively quantified.
 
       -
         !OutbreakOtherPathogens
         !TransmissionRisk
         !RoutesPathogens
-        !Limitation
 
       / Outbreak Reports for Infectious Disease
       claim !OutbreakOtherPathogens = Several Outbreak reports in Airlines have been documented on SARS, Influenza, Common Cold, Tuberculosis, Measles, Meningococcal Disease, Malaria, Dengue, and Food & Water borne Outbreaks
@@ -1213,8 +1217,7 @@ subject module Transmission
             'Mangili_et_al_03_12_2005.!i1
 
       / Tranmission Factors
-      claim !TransmissionRisk =
-
+      claim !TransmissionRisk = Based on studies, in-flight transmission seems to be a multifactorial event. Proximity within 2 row perimeter have been major risk factor, however further away from 2 rows have also been documented for SARS and Influenza. Increasing ventilation decreases risk of disease transmission. Aisle Seat passengers appear to be at more risk. Role of masking is unproven.
         -
           !WithintwoRows
           !Furtherthantworows
@@ -1337,7 +1340,7 @@ subject module Transmission
             'Lei_et_al_12_15_2017.!a
           -
             'Lei_et_al_01_06_2008
-            'Lei_et_al_01_06_2008.!c  
+            'Lei_et_al_01_06_2008.!c
 
         / Flight Attendant
         claim !Flightattendant = One simulation showed that an infectious flight attendant can generate several infections.
