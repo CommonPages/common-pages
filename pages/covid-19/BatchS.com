@@ -6,8 +6,40 @@
   ############################################################################################
   #### 2/9/21 ####
   # VACCINES QUESTIONS
+
+   # mRNA vaccines will not affect our DNA??
+
   >
     Does your vaccine cause infertility? What can you share about the Pfizer-BioNTech COVID-19 vaccine in pregnant women?
+    Are COVID-19 Vaccines Going To Cause Infertility?
+
+    he claim that the vaccines for COVID-19/SARS-CoV-2 will cause infertility because of some kind of crossreactive immune response between the spike protein antigens and syncytin proteins is baseless
+
+    Someone has claimed that the COVID-19 vaccines are going to cause infertility because of a shared amino acid sequence in the spike protein of SARS-CoV-2 and a placental protein, which will make the immune system attack both as it can’t tell the difference.Some have argued that COVID-19 vaccines will cause infertility because of antibodies directed against the spike (S) protein will cross-react with syncytin proteins because of an underlying sequence homology.
+
+
+    Some have argued that COVID-19 vaccines will cause infertility because of antibodies directed against the spike (S) protein will cross-react with syncytin proteins because of an underlying sequence homology.
+
+
+    The truth? This sequence is too short for the immune system to meaningfully confuse it with placental proteins. It’s sort of like saying that you are going to be confused with a criminal because you wear a commonly sold red bracelet that was also found on the criminal. It’s not realistic. If this were true, we would also expect COVID-19 to cause early pregnancy loss a significant amount of the time.
+    The evidence available to us does not support that this is the case. There is no reasonable basis to believe that vaccines against COVID-19/SARS-CoV-2 will affect fertility.
+
+    https://edwardnirenberg.medium.com/are-covid-19-vaccines-going-to-cause-infertility-939bbdb62b64
+  >
+    Genetic studies of mice in which syncytins are knocked out (mutations are introduced so that no functional protein is generated) show that syncytins are critical for the formation of a placenta, and in their absence it fails to form.
+    In humans, there are two proteins responsible for this: syncytin-1 (present in every layer of the trophoblast, the outer layer of cells in the blastocyst, a very early point in the development of a mammal appearing between days 5 and 9) and syncytin-2 (found in cytotrophoblast cells). The placenta is required for pregnancy, and thus tampering with syncytins can result in infertility.The placenta is a temporary and autonomous organ made by the fetus (not the mother) which helps to establish a blood supply within the wall of the uterus so that the developing human can exchange nutrients and waste with the mother. In addition, the placenta helps to mediate immunological tolerance between the mother and the fetus. Each is not-self compared with the other, so the placenta forms a barrier between the two so that neither’s immune system can respond to the other.
+    The placenta has a layer called the syncytiotrophoblast (SCT) which implants into the uterine wall and helps to establish a fetal blood supply, and is in direct contact with the maternal circulation. This is a true syncytium and it has multiple critical supportive functions, including the production of hormones that help to regulate fetal development, the regulation of gas, nutrient, and waste exchange between the fetus and mother, and it serves as a direct barrier against infection. In addition to the SCT, there are so-called giant cells formed from cytotrophoblast that invade into the uterine wall and remodel the vasculature to enhance blood supply to the fetus later in pregnancy. And all this because of a few viruses!
+
+  >
+    As we’ve established, the SCT supports the overall structure of the placental villi and has many important roles in supporting a pregnancy. SCT cells do indeed express syncytin-1, and an immune response directed against SCT cells can tragically result in early pregnancy loss. People with certain autoimmune diseases like antiphospholipid syndrome (aPS) and systemic lupus erythematosus are (SLE) are at much higher risk for pregnancy loss, which is thought to occur from an inappropriate immune response directed against the trophoblast cells.
+
+  >
+    While COVID-19 seems to be a more severe disease in pregnancy, there is no evidence right now of an increase in early pregnancy losses, as might be expected if there were an aberrant immune response directed against placental antigens.
+
+  >
+    case reports discussing pregnancy losses in patients with COVID-19, but case reports cannot tell us whether the two events are related, merely that they co-occurred. Though we should not take absence of evidence as evidence of absence, right nowthere isn’t good data to suggest that having COVID-19 significantly raises the risk of spontaneous abortion, suggesting that at a minimum (factoring in how long the pandemic has been going), if such occurrences are related, they are rare.
+
+
     There are no data to suggest that the Pfizer-BioNTech COVID-19 vaccine causes infertility. It has been incorrectly suggested that COVID-19 vaccines will cause infertility because of a very short amino acid sequence in the spike protein of SARS-CoV-2 that is partly shared with a protein in the placenta called syncytin-1. From a scientific perspective, the differences between the two sequences are quite significant, making it very unlikely our vaccine could generate a response that would harm the placenta.
 
     Until findings are available from clinical trials and additional studies, only limited data are available on the safety of COVID-19 vaccines, including mRNA vaccines, administered during pregnancy:
@@ -15,9 +47,27 @@
     Studies in people who are pregnant are planned.
     Both vaccine manufacturers are monitoring people in the clinical trials who became pregnant
 
+
+    vertical transmission of COVID-19 from mother-to-child or mother-to-fetus appears to be very rare, even though the placenta does express ACE2, the receptor for SARS-CoV-2, and it will be important to continue monitoring patients who acquire the virus via vertical transmission to determine if any anomalies result.
+
+    . If very small homologies exist, they will not be detected by the BLAST algorithm (hence the qualifier in the search output of “significant similarity”). There is a sequence of 5 amino acids (there is a divergence for one of them, or else it would be 6) which is shared between the spike protein and the syncytin-1 protein:
+
+
+    Lastly, one may wonder, how did this short stretch of amino acids end up in the spike protein? Is it proof that SARS-CoV-2 is a bioweapon? No. Unequivocally, absolutely no. The answer is much more basic than that: evolution. The spike protein evolved to allow SARS-CoV-2 to fuse its membrane with a target cell’s. Syncytins evolved to do the same (but they’re from a different virus). But some sequences will be selected for by evolutionary pressures that enhance transmission. If a particular sequence is selected for because it is good at mediating fusion, this will show up across multiple lifeforms (this is known as convergent evolution). Both syncytin and spike are class I fusion proteins.
+
     mRNA vaccines do not contain the live virus that causes COVID-19 and, therefore, cannot give someone COVID-19. Additionally, mRNA vaccines do not interact with a person’s DNA because the mRNA does not enter the nucleus of the cell. Cells break down the mRNA quickly. Based on how mRNA vaccines work, experts believe they are unlikely to pose a specific risk for people who are pregnant. However, the actual risks of mRNA vaccines to the pregnant person and her fetus are unknown because these vaccines have not been studied in pregnant women.
 
-    a recent study in JAMA Network Open compared the outcomes of pregnancies in women that have / have not had SARS-CoV-2 infection, which showed that SARS-CoV-2 infection during pregnancy was not associated with adverse pregnancy outcomes
+    a recent study in JAMA Network Open compared the outcomes of pregnancies in women that have / have not had SARS-CoV-2 infection, which showed that SARS-CoV-2 infection during pregnancy was not associated with adverse pregnancy outcomes.
+
+    This seems to be based on perceived similarities between the coronavirus’s spike protein – which is the key part of the virus that the vaccines target – and a protein found in the placenta called syncytin-1. This has led to the unfounded theory that antibodies against the spike protein will attack syncytin-1, stopping it performing its important role in the placenta. This is simply not true. The similarity between the proteins is insufficient for this to be of any concern.
+
+    Evidence shows that the risk of miscarriage is not increased in women who have had a SARS-CoV-2 infection in early pregnancy. This indicates that even if spike protein antibodies are present within the uterus, they don’t have a negative effect on implantation or early development of the placenta.
+
+    The mother’s blood supply is not fully connected to the placenta until the end of the first trimester. The passage of antibodies from mother to baby across the placenta then follows in the second and third trimesters. This is a normal part of pregnancy and provides protection to the baby against infectious diseases. This is known as passive immunity and continues after the baby is born with antibodies being transferred via breast milk.
+
+    While pregnant women haven’t been recruited into these trials yet, due to these trials’ large size, there have been instances when women involved have become pregnant. In the cases where this has happened, there has been no adverse effect on the pregnancy.
+
+    It has been incorrectly suggested that COVID-19 vaccines will cause infertility because of a shared amino acid sequence in the spike protein of SARS-CoV-2 and a placental protein,” she said in an email. “The sequence, however, is too short to plausibly give rise to autoimmunity. The idea behind this technology is that both of these vaccines contain the sequence of the RNA that encodes for the spike protein of SARS-COV2,” said Matthew Frieman, associate professor of microbiology and immunology at the University of Maryland School of Medicine.Jacob Yount, an associate professor of the department of microbial infection and immunity at Ohio State University, College of Medicine, has studied the syncytin proteins as well as SARS-CoV-2. Yount said the COVID vaccines do not contain syncytin-1 protein or mRNA encoding syncytin-1, and thus there is no reason to think that an immune response against syncytin-1 would be developed.
 
 
   > Do mRNA vaccines change a person’s DNA?
@@ -85,6 +135,7 @@
 
 
   >
+
     Limitations - Freedman
     The absence of large numbers of confirmed and published in-flight transmissions of SARS-CoV-2 is encouraging but is not definitive evidence that fliers are safe.
      The circumstances for robust study have been too few among the disruption of the pandemic to know with precision the risk and factors needed to quantitate transmission under widely varying circumstances. At present, based on circumstantial data, strict use of masks appears to be protective.

@@ -29,6 +29,8 @@ subject module Types
   >
     The only SARS vaccines to reach human phase 1 clinical trials were based on inactivated virus, soluble S glycoprotein and DNA approaches (52). MERS vaccines tested in human phase 1 clinical trials include a DNA-based vaccine alone (60); DNA in combination with adenovirus or modified vaccinia Ankara (MVA) viral vectors as a prime-boost strategy (52, 61); and a chimp adenovirus vaccine (62). Efficacy against disease has not been tested in humans since it has not been deemed ethical to perform challenge studies with lethal viruses for which there is no effective treatment.
 
+    However, so far there is no real indication that one approach will be better than the others.
+
 
   # REFER FOR PAPERS : Vaccine development against coronavirus (2003 to present): An overview, recent advances, current scenario, opportunities and challenges
 
@@ -41,6 +43,8 @@ subject module Types
   # First generation vaccines
   subject Liveattenuatedvaccine
     head = Live attenuated vaccines have always received great importance because of its quickly available high immunogenic response due to presence of natural antigenic material [21]. It is successfully used against various infectious diseases such as polio, rubella, chicken pox, and mumps etc [21,26]. Further live attenuated vaccine possesses the great capacity to deliver/present different kinds of antigens across the virus life-cycle in their parent conformations [[26], [27], [28], [29], [30]]. This is the first generation vaccine, various efforts have been reported to develop the live attenuated vaccine in the past against coronaviruses
+
+    # The original form of the influenza vaccine, developed in the 1960s and still in widespread use, instead delivers the whole virus (which has been killed). It doesn’t grow inside the human cells, but the body can recognise and respond to it. We know this works. Since we don’t know for sure which part of SARS-CoV-2 we should be concentrating on, perhaps using the whole dead virus and allowing the body to respond as it sees fit might be better? The main problem with this approach is time. It takes six months to prepare a batch of influenza vaccine, because the virus has to be grown in the laboratory and then treated thoroughly to make sure it’s completely dead and safe to inject. We don’t want to wait that long to make a COVID-19 vaccine – particularly if it then doesn’t work. The European company Valneva is, however, using this approach. Its vaccine may turn out to be the best in the end, but it won’t be ready until at least mid-2021.
 
     # - antigen,
     # - immunogenic response
@@ -108,6 +112,9 @@ subject module Types
 
     >
       Several results/data highlight that Matrix-M adjuvant is a promising parenteral adjuvant for formulating pandemic candidate vaccines.
+    >
+      for people with autoimmune diseases as the Novavax vaccine (its uses matrix adjuvant) avoid TLR7 agonists.
+
 
 
     claim !Immuneresponse = Matrix-M adjuvant has been evaluated in numerous preclinical and clinical studies without any reports of cytotoxicity or side effects.  Matrix-M adjuvanted induced a strong immediate and long-term humoral immune response with high cross-reactivity and showed a dose-sparing potential.
@@ -365,11 +372,18 @@ subject module Types
     >
       The major limitation of the nucleic acid vaccine is the limited immune response attributed to specified or engineered genetic material, tedious genetic engineering task, local pain at site of injection, pyrexia and essential need of adjuvant for long time immunity [64,65].
 
+
   # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7443330/ # Second generation vaccine
   subject Subunitvaccines
     head =  Subunit vaccines use one or more antigens suitable for eliciting a robust immune response. In theory, the subunit vaccine is a very easy and safe vaccine, but in practice, it requires a suitable adjuvant to stimulate the host immune response. Several previous attempts were partially successful with SARS-CoV.
 
     # These vaccines do not contain the viral genetic materials, while they include only essential antigenic protein component to stimulate the immunogenic response. A protein subunit vaccine involves the use of synthetic or isolated or recombinant or derived highly antigenic protein base subunits with the short antigen segment which offers safer vaccine designing approach [23]. Various protein subunit vaccines are successfully formulated against various pathogens such as influenza virus, hepatitis B, pneumonia and meningitis etc [23,[50], [51], [52], [53], [54], [55]]. In case of coronavirus vaccine, various kind of proteins in full or segmented form are reported in literature which involves the receptor binding domain or membrane protein or nucleo-capaside protein or spike protein or envelop protein
+
+    # Another plan would be to make and deliver a preparation containing simply the whole spike protein, rather than asking the body to create it. This would be similar to the vaccines against hepatitis B and shingles, which are known as subunit vaccines. This should also be safe, and if it turned out that the protein wasn’t the correct target, it ought to be relatively easy to change. The drawback is this type of vaccine requires repeat doses within a few months of each other, to ensure the body really does react to it. This is because the protein doesn’t last in the body. For instance, the hepatitis B vaccine needs three doses over six months to be effective, and many people require a booster within five years. If the initial course of a COVID-19 subunit vaccine was two doses, six months apart, that could be quite difficult to achieve for everyone in the world.
+
+
+
+
 
     >
       Immunization of animals with the S1 RBD domain fused with the IgG1 FC portion (RBD-FC) induced highly potent antibodies which could bind with the RBD domain of the S1 domain, completely neutralize SARS-CoV, and inhibit SARS-CoV entry into Vero E6 cells (Du et al., 2009b, 2007; He et al., 2004).
@@ -411,4 +425,4 @@ subject module Types
 
   # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7443330/
   subject RNAvaccines
-    head =
+    head = While a number of mRNA vaccines have been produced against cancers and infectious agents, so far none are in routine use.

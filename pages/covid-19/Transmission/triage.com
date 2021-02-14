@@ -6,10 +6,25 @@ index: hide
 
   # Over a dozen cases of inflight transmission of serious infections have been documented, and air travel can serve as a conduit for the rapid spread of newly emerging infections and pandemics.Despite sensational media stories and anecdotes, the risks of transmission of respiratory viruses in an airplane cabin are unknown.
   >
-    Many instances of in-flight transmission have been documented, but the relative influence of the many factors (see below) affecting in-flight transmission has not been quantified. Long-standing guidance by public health agencies is that the primary transmission risk associated with air travel for most respiratory infectious diseases is associated with sitting within two rows of an infectious passenger. The effect of proximity may be one of these factors.
+    Many instances of in-flight transmission have been documented, and air travel can serve as a conduit for the rapid spread of newly emerging infections and pandemics. But the relative influence of the many factors affecting in-flight transmission has not been quantified. Long-standing guidance by public health agencies is that the primary transmission risk associated with air travel for most respiratory infectious diseases is associated with sitting within two rows of an infectious passenger. The effect of proximity may be one of these factors.
     Infection at a distance from the index case indicates other factors, such as airflow, movement of passenger/crew members, fomites and contacts between passengers in the departure gate before boarding, or after deplaning, are involved
     Cabin transmission of infectious diseases can occur through several routes.
     ref 'Hertzberget_al_2016
+
+    Many instances of in-flight transmission have been documented, and air travel can serve as a conduit for the rapid spread of newly emerging infections and pandemics.
+    But the relative influence of the many factors affecting in-flight transmission has not been quantified.
+    Most epidemiological data  show how proximity and ventilation affects disease transmission aboard commercial airlines.
+
+    Long-standing guidance by public health agencies is that the primary transmission risk associated with air travel for most respiratory infectious diseases is associated with sitting within two rows of an infectious passenger.
+    But the effect of proximity may be one of these factors. Infection at a distance from the index case has also been reported which indicates that In-flight transmission therefore seems to be rather a multifactorial event including the number of index cases, infectivity, and proximity to the index case as well as other factors not investigated so far, e.g., immune status, age, contaminated surfaces, etc. Possibilities to become infected before or after the flight are manifold, especially if disease activity is high in the country of origin.In some of the studies reviewed, prior and posthoc exposure cannot be clearly separated from in-flight exposure. Systematic studies on the transmission on aircraft (e.g., the mode and extent/effectiveness including also seroepidemiologic and environmental analyses) are limited.
+    The risk of disease transmission within the confined space of the aircraft cabin is difficult to determine. Insufficient data prohibits meta-analysis, which would allow an idea of the probability of disease transmission for each respective contagion. Many of the available epidemiological studies are compromised by reporting bias caused by incomplete passenger manifests, thereby complicating risk assessment.
+
+     typical example of in-flight transmission of airborne pathogens—ie, risk of disease transmission is associated with a flight time of more than 8 h and sitting within two rows of the index
+
+
+
+
+    In-flight transmission therefore seems to be rather a multifactorial event including the number of index cases, infectivity, and proximity to the index case as well as other factors not investigated so far, e.g., immune status, age, contaminated surfaces, etc. Possibilities to become infected before or after the flight are manifold, especially if influenza activity is high in the country of origin. In some of the studies reviewed, prior and posthoc exposure cannot be clearly separated from in-flight exposure. Systematic studies on the transmission on aircraft (e.g., the mode and extent/effectiveness including also seroepidemiologic and environmental analyses) are limited
 
     The risk of disease transmission within the confined space of the aircraft cabin is difficult to determine. Insufficient data prohibits meta-analysis, which would allow an idea of the probability of disease transmission for each respective contagion. Many of the available epidemiological studies are compromised by reporting bias caused by incomplete passenger manifests, thereby complicating risk assessment.
 

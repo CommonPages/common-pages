@@ -99,7 +99,7 @@ feed Sangeeta
   // Maximizing Fit for Cloth and Medical Procedure Masks to Improve Performance and Reduce SARS-CoV-2 Transmission and Exposure, 2021
   doi: http://dx.doi.org/10.15585/mmwr.mm7007e1
   ref 'Brooks_et_al_02_10_2021
-    head = During January 2021, CDC conducted various experiments to assess two methods to improve medical procedure mask performance by improving fit and, in turn, filtration: 1) double masking and 2) knotting and tucking the medical procedure mask.  Each modification substantially improved source control and reduced wearer exposure.
+    head = During January 2021, CDC conducted various experiments to assess two methods to improve medical procedure mask performance by improving fit and, in turn, filtration: 1) double masking and 2) knotting and tucking the medical procedure mask. Each modification substantially improved source control and reduced wearer exposure.
 
     - quotes
       !a
@@ -109,7 +109,7 @@ feed Sangeeta
 
 
     / Feburary, 2021 - MMWR Morb Mortal Wkly Rep.
-    quote !a = The data in this report underscore the finding that good fit can increase overall mask efficiency. Multiple simple ways to improve fit have been demonstrated to be effective. Continued innovative efforts to improve the fit of cloth and medical procedure masks to enhance their performance merit attention.
+    quote !a = The data in this report underscore the finding that good fit can increase overall mask efficiency. Multiple simple ways to improve fit have been demonstrated to be effective.
 
     / Feburary, 2021 - MMWR Morb Mortal Wkly Rep.
     quote !b = The first experiment assessed how effectively various mask combinations reduced the amount of particles emitted during a cough (i.e., source control) in terms of collection efficiency: Results from the first experiment demonstrated that the unknotted medical procedure mask alone blocked 42.0% of the particles from a simulated cough, and the cloth mask alone blocked 44.3% . The combination of the cloth mask covering the medical procedure mask (double mask) blocked 92.5% of the cough particles.
@@ -438,7 +438,7 @@ feed Sangeeta
       !e
 
     / March, 2020 - Travel Med Infect Dis.
-    quote !a = Given the incubation time range of COVID-19 ( 5.5 days), we excluded that our patient acquired COVID-19 in France before leaving to CAR. Furthermore, only 15 documented cases were identified in France before our patient traveled to CAR none of which was documented in Marseille area, where the patient currently live.
+    quote !a = Given the incubation time range of COVID-19 (5.5 days), we excluded that our patient acquired COVID-19 in France before leaving to CAR. Furthermore, only 15 documented cases were identified in France before our patient traveled to CAR none of which was documented in Marseille area, where the patient currently live.
 
     / March, 2020 - Travel Med Infect Dis.
     quote !b = Acquisition in France on return, between February 25th and 27th, with a short incubation time was considered possible, but unlikely given that no local circulation was documented in Marseille area during this period of time. The more likely place of exposure was therefore suspected to be in CAR, in a first instance, because the patient had multiple contacts in small closed rooms with several groups of people
@@ -500,6 +500,7 @@ feed Sangeeta
     - Meningococcal disease
       !w
       !x
+    - Measles
       !y
       !z
       !a1
@@ -632,7 +633,7 @@ feed Sangeeta
     quote !g1 = There have been a few reported cases of ill passengers as a result of food or water contaminated with Vibrio cholerae consumed during international air travel. The first documented in-flight outbreak was in 1972 on a flight from London to Sydney via Singapore. 67 Of the 47 people who developed cholera, which was attributed to a cold appetiser served during the flight, one died.
 
     / March, 2005 - The Lancet
-    quote !h1 = The largest outbreak of airline-associated cholera occurred in 1992, during a cholera epidemic in Latin America.68 During a flight from Buenos Aires via Lima to Los Angeles, 75 passengers developed cholera, resulting in ten passengers being admitted and one death. A cold seafood dish, prepared in one of the cholera-affected countries, was implicated as the source of transmission.
+    quote !h1 = The largest outbreak of airline-associated cholera occurred in 1992, during a cholera epidemic in Latin America. During a flight from Buenos Aires via Lima to Los Angeles, 75 passengers developed cholera, resulting in ten passengers being admitted and one death. A cold seafood dish, prepared in one of the cholera-affected countries, was implicated as the source of transmission.
 
     / March, 2005 - The Lancet
     quote !i1 = No food-borne or water-borne outbreaks have been reported over the past 5 years, which is probably attributable to greater use of prepackaged frozen meals, improved food handling, and inspection, but might represent under-reporting by passengers or reporting bias.
