@@ -3,7 +3,17 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received nine major revisions, expanding the subjects covered and correcting existing claims.
 
-  public: january-24-2021
+
+  public: February-14-2021
+  / February 14, 2021
+  revision February_14
+    head = We've summarized preliminary results of vaccine efficacy for 2 of the major variants (B.1.1.7 & B.1.351). Some vaccines have shown efficacy against new variants however, a efficacy drop-off is consistent in all the vaccines to date, more for B.1.351 (Identified in South Africa) variant compared with B.1.1.7 (Identified in UK).
+
+    -
+      Vaccines.EfficacyVariants
+
+
+  public: January-24-2021
   / January 24, 2021
   revision January_24
     head = We've updated the Vitamin D section under disease susceptibility and severity. Data from observational studies have suggested that vitamin D supplementation can lower the odds of developing respiratory infections, but randomised trials have yielded mixed results.

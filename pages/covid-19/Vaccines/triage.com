@@ -95,7 +95,4 @@
       'Stamatatos_et_al_02_08_2021
       'Stamatatos_et_al_02_08_2021.!a
 
-  # Phizer reduces viral load and thus stops transmission    
-  - Triage
-    'Tiefenbrun_et_al_02_08_2021
-    'Tiefenbrun_et_al_02_08_2021.!a
+  

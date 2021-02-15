@@ -9,7 +9,7 @@ page #covid-19
   >
     This is a {assets.Community living document} which represents the work of many authors. Please send corrections and respond to open questions by posting to the [COVID-19 Page Feed](/feed/covid-19). Follow [@CommonPages](https://twitter.com/CommonPages) for updates.
 
-    <small>Recent updates: {Revisions.January_24}, {Revisions.January_23} and {Revisions.January_21}</small>
+    <small>Recent updates: {Revisions.February_14} {Revisions.January_24}, {Revisions.January_23} and {Revisions.January_21}</small>
 
   - Concepts
     Foundations

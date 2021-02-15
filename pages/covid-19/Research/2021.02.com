@@ -149,6 +149,9 @@ feed Feb2021
     / February, 2021 - Preprints with the Lancet
     quote !c = Virus neutralisation activity by vaccineinduced antibodies was 9-fold lower against the B.1.1.7 variant than against a canonical non B.1.1.7 lineage. Vaccine efficacy against symptomatic NAAT positive infection was similar for B.1.1.7 and non-B1.1.7 lineages and 84% respectively). There was no difference in anti-spike antibody titres between individuals who had received a prior ChAdOx1 vectored vaccine and those who were naïve to ChAdOx1.
 
+    / February, 2021 - Preprints with the Lancet
+    quote !d = Vaccine efficacy against primary symptomatic B.1.1.7 disease was 74.6% (95% CI 41.6%, 88.9%), similar to efficacy seen against symptomatic non-B.1.1.7 disease of 84.1% (95% CI 70.7%, 91.4%).
+
 
   // Infection and mRNA-1273 vaccine antibodies neutralize SARS-CoV-2 UK variant
   doi: https://doi.org/10.1101/2021.02.02.21250799

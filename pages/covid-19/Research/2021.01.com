@@ -35,6 +35,7 @@ feed Jan2021
       !b
       !c
       !d
+      !e
 
     / Jan, 2021 - Novavax
     quote !a = The first interim analysis is based on 62 cases, of which 56 cases of COVID-19 were observed in the placebo group versus 6 cases observed in the NVX-CoV2373 group, resulting in a point estimate of vaccine efficacy of 89.3% (95% CI: 75.2 – 95.4). Of the 62 cases, 61 were mild or moderate, and 1 was severe (in placebo group).
@@ -48,6 +49,9 @@ feed Jan2021
     / Jan, 2021 - Novavax
     quote !d = Prior infection with COVID-19 may not completely protect against subsequent infection by the South Africa escape variant, however, vaccination with NVX-CoV2373 provided significant protection.
 
+    / Jan, 2021 - Novavax
+    quote !e = The clinical trial also achieved its primary efficacy endpoint in the overall trial population, including HIV-positive and HIV-negative subjects (efficacy of 49.4%; 95% CI: 6.1 – 72.8).
+
 
 
   // Johnson & Johnson Announces Single-Shot Janssen COVID-19 Vaccine Candidate Met Primary Endpoints in Interim Analysis of its Phase 3 ENSEMBLE Trial
@@ -59,6 +63,7 @@ feed Jan2021
       !a
       !b
       !c
+      !d
 
     / Jan, 2020 - J & J
     quote !a = Vaccine Candidate 72% Effective in the US and 66% Effective Overall at Preventing Moderate to Severe COVID-19, 28 Days after Vaccination
@@ -68,6 +73,9 @@ feed Jan2021
 
     / Jan, 2020 - J & J
     quote !c = Protection Against Severe Disease Across Geographies, Ages, and Multiple Virus Variants, including the SARS-CoV-2 Variant from the B.1.351 Lineage Observed in South Africa
+
+    / Jan, 2020 - J & J
+    quote !d = The level of protection against moderate to severe COVID-19 infection was 72% in the United States, 66% in Latin America and 57% in South Africa, 28 days post-vaccination.
 
 
 

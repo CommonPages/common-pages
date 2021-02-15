@@ -54,6 +54,8 @@ subject module Vaccines
         !BNT162b1
         !BNT162b2
         !Phase3
+      - Viral Load
+        !Viralload
       - Efficacy against Variants
         Variants.B1351.!Vaccineefficacy
         Variants.B117.!Phizer
@@ -120,6 +122,11 @@ subject module Vaccines
         -
           'Xie_et_al_01_27_2021
           'Xie_et_al_01_27_2021.!a
+
+      claim !Viralload = In Feb of 2020, one study showed that infections occurring 12 days or longer following Pfizer vaccination have significantly reduced viral loads, potentially affecting viral shedding and contagiousness as well as severity of the disease
+        -
+          'Tiefenbrun_et_al_02_08_2021
+          'Tiefenbrun_et_al_02_08_2021.!a
 
       / Severe Allergic Reactions
       dispute AnaphylaxisPEG = There have been reports of anaphylactic reactions in persons receiving the Pfizer-BioNTech COVID-19 vaccine outside of clinical trials. The cause of the reactions is disputed. The CDC recommends persons with a history of an anaphylactic reaction to any component of the mRNA SARS-CoV-2 vaccines to avoid the vaccines.
@@ -464,12 +471,18 @@ subject module Vaccines
           'Emary_et_al_02_04_2021.!a
           'Emary_et_al_02_04_2021.!b
           'Emary_et_al_02_04_2021.!c
+          'Emary_et_al_02_04_2021.!d
 
       claim !SAVariant = In a press release AstraZeneca says its vaccine appeared to offer only limited protection against mild disease caused by the South African variant of Covid-19.
         -
           'REUTERS_et_al_02_07_2021
 
       claim !SAVariantEfficacy = 2026 HIV-uninfected adults were enrolled between June 24th and Nov 9th, 2020; 1010 and 1011 received at least one dose of placebo or vaccine, respectively. Median age was 31 years. Authors concluded that a two-dose regimen of ChAdOx1-nCoV19 did not show protection against mild-moderate Covid-19 due to B.1.351 variant, however, VE against severe Covid-19 is undetermined.
+        -
+          'Madhi_et_al_02_12_2021
+          'Madhi_et_al_02_12_2021.!a
+          'Madhi_et_al_02_12_2021.!b
+          'Madhi_et_al_02_12_2021.!c
 
 
     / CanSino Bio
@@ -1007,6 +1020,7 @@ subject module Vaccines
         -
           'J&J_et_al_01_29_2021
           'J&J_et_al_01_29_2021.!c
+          'J&J_et_al_01_29_2021.!d
 
     / Novavax
     subject NVX-CoV2373
@@ -1069,41 +1083,46 @@ subject module Vaccines
           'Novavax_et_al_01_28_2021.!b
           'Novavax_et_al_01_28_2021.!c
           'Novavax_et_al_01_28_2021.!d
+          'Novavax_et_al_01_28_2021.!e
 
   / Vaccine efficacy against Variants
   subject EfficacyVariants
-    head =  Many variants have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of concerns to scientists as it can impact efficacy of Vaccines.
+    head =  Many variants have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of concerns to scientists as it can impact efficacy of vaccines and it's studies are being conducted.
 
     >
-      Many {Variants variants} have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of concerns to scientists as it can impact efficacy of Vaccines.
+      Preliminary results of vaccine efficacy for 2 of the major variants (B.1.1.7 & B.1.351) are summarized below.
 
-      <h6> South Africa Variant (B.1.351)</h6>
+    >
+
+      <h5> {Variants.B1351 B.1.351 (Identified in South Africa)}</h5>
       <table>
         <tr>
         <th>Vaccine</th>
         <th>No. of Participants</th>
         <th>Efficacy Findings</th>
+        </tr>
         <tr>
-        <th>Novovax</th>
+        <th>{Candidates.NVX-CoV2373 Novavax}</th>
         <td>4422</td>
-        <td>60% Efficacy HIV negative (89% UK)
+        <td>{Candidates.NVX-CoV2373.!UKandSAvariant 60% Efficacy} HIV negative (89% UK)
         49% Efficacy HIV positive
         No hospitalisation or Death in SA</td>
         </tr>
         <tr>
-        <th>J&J</th>
+        <th>{Candidates.Ad26COV2S J&J}</th>
         <td>10,900</td>
-        <td>57% Efficacy (72% in US, D614G)
+        <td>{Candidates.Ad26COV2S.!SAVariant 57% Efficacy} (72% in US, D614G)
         No hospitalisation or death in SA</td>
         </tr>
         <tr>
-        <th>Oxford Astra-Zeneca</th>
+        <th>{Approved.AZD1222 Oxford Astra-Zeneca}</th>
         <td>2000</td>
-        <td>Minimal Protection vs mild-moderate infection (Details pending)</td>
+        <td>{Approved.AZD1222.!SAVariantEfficacy Minimal Protection vs mild-moderate infection}</td>
         </tr>
       </table>
 
-      <h6> UK Variant (B.1.1.7) </h6>
+    >
+      <h5> {Variants.B117 B.1.1.7 (Identified in UK)} </h5>
       <table>
         <tr>
         <th>Vaccine</th>
@@ -1111,20 +1130,23 @@ subject module Vaccines
         <th>Efficacy Findings</th>
         </tr>
         <tr>
-        <th>Novovax</th>
+        <th>{Candidates.NVX-CoV2373 Novavax}</th>
         <td>15203</td>
-        <td>86% efficacy (vs 96% for D614G) in 56 symptomatic cases by sequencing</td>
+        <td>{Candidates.NVX-CoV2373.!UKandSAvariant 86% efficacy} (vs 96% for D614G) in 56 symptomatic cases by sequencing</td>
         </tr>
         <tr>
-        <th>Oxford Astra-Zeneca</th>
+        <th>{Approved.AZD1222 Oxford Astra-Zeneca}</th>
         <td>4236</td>
-        <td>75% Efficacy (vs 84% for D614G) in 120 symptomatic cases by sequencing
+        <td>{Approved.AZD1222.!VariantEfficacy 75% Efficacy} (vs 84% for D614G) in 120 symptomatic cases by sequencing
         </td>
         </tr>
 
       </table>
 
-    - Phizer
+    >
+      Some vaccines have shown efficacy against new variants however, a efficacy drop-off is consistent in all the vaccines to date, more for B.1.351 variant compared with B.1.1.7.
+
+    - Pfizer
       Variants.B1351.!Vaccineefficacy
       Variants.B117.!Phizer
       Approved.Tozinameran.!Variantefficacy
@@ -1141,7 +1163,7 @@ subject module Vaccines
     - Novavax
       Candidates.NVX-CoV2373.!UKandSAvariant
     - Johnson & Johnson
-      Vaccines.Candidates.Ad26COV2S.!SAVariant
+      Candidates.Ad26COV2S.!SAVariant
     - Other Claims (UK Variant)
       Variants.B117.!Phase3trialConcern
       Variants.B117.!VaccineEffectiveness
