@@ -355,6 +355,7 @@ subject module Vaccines
         !VariantEfficacy
       - Efficacy against SA Variant
         !SAVariant
+        !SAVariantEfficacy
       - Key Concern
         !EffectiveDosing
       -
@@ -467,6 +468,9 @@ subject module Vaccines
       claim !SAVariant = In a press release AstraZeneca says its vaccine appeared to offer only limited protection against mild disease caused by the South African variant of Covid-19.
         -
           'REUTERS_et_al_02_07_2021
+
+      claim !SAVariantEfficacy = 2026 HIV-uninfected adults were enrolled between June 24th and Nov 9th, 2020; 1010 and 1011 received at least one dose of placebo or vaccine, respectively. Median age was 31 years. Authors concluded that a two-dose regimen of ChAdOx1-nCoV19 did not show protection against mild-moderate Covid-19 due to B.1.351 variant, however, VE against severe Covid-19 is undetermined.
+
 
     / CanSino Bio
     subject Ad5-nCOV
@@ -1130,6 +1134,8 @@ subject module Vaccines
       Approved.mRNA-1273.!NeutralisingUKvariant
     - Oxford
       Approved.AZD1222.!VariantEfficacy
+      Approved.AZD1222.!SAVariant
+      Approved.AZD1222.!SAVariantEfficacy
     - Covaxin
       Approved.BBV152.!UKvariant
     - Novavax

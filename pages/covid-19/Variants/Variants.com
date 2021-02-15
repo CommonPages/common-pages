@@ -474,6 +474,8 @@ subject Variants
       Vaccines.Approved.BBV152.!UKvariant
       Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
       Vaccines.Approved.mRNA-1273.!NeutralisingUKvariant
+    - Children
+      !Children
     - Mutation
       !Mutation
     - Potential significance of N501Y Mutation
@@ -741,6 +743,13 @@ subject Variants
           'Kemp_et_al_12_29_2020.!e
           'Kemp_et_al_12_29_2020.!a
 
+    claim !Children = One study compared wave 1 data with the characteristics of children and young people admitted with acute respiratory COVID-19 during wave 2. Authors found no evidence of more severe disease having occurred in children and young people during the second wave, suggesting that infection with the B.1.1.7 variant does not result in an appreciably different clinical course to the original strain.
+      -
+        'Brookman_et_al_02_10_2021
+        'Brookman_et_al_02_10_2021.!a
+        'Brookman_et_al_02_10_2021.!b
+        'Brookman_et_al_02_10_2021.!c
+
   / B.1.351 (South Africa Variant)
   subject B1351
     head = On the 18th of December, the B.1.351 variant was reported to spread in South Africa. This lineage has multiple spike mutations and is associated with increased transmissibility. As of the 30th of December, this variant has been reported in four other countries.
@@ -790,6 +799,8 @@ subject Variants
       Variants.B117.!Phizer
       Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
       Vaccines.Candidates.Ad26COV2S.!SAVariant
+      Vaccines.Approved.AZD1222.!SAVariant
+      Vaccines.Approved.AZD1222.!SAVariantEfficacy
       !Vaccineefficacy
       !Reinfection
       !Neutralizingescape

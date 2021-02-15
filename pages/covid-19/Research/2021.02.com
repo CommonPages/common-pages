@@ -1,13 +1,68 @@
 feed Feb2021
 
   -
+    'Brookman_et_al_02_10_2021
+    'Madhi_et_al_02_12_2021
+    'Tiefenbrun_et_al_02_08_2021
     'Gilbert_et_al_02_05_2021
+    'REUTERS_et_al_02_07_2021
     'Emary_et_al_02_04_2021
     'Edara_et_al_02_05_2021
     'Voysey_et_al_02_01_2021
     'McCarthy_et_al_02_03_2021
     'Logunov_et_al_02_02_2021
     'Wu_et_al_02_03_2021
+
+  // Effect of the new SARS-CoV-2 variant B.1.1.7 on children and young people
+  doi: https://doi.org/10.1016/S2352-4642(21)00030-4
+  ref 'Brookman_et_al_02_10_2021
+    head =  We have previously published data pertaining to children and young people admitted during the first wave and here, we compare those data with the characteristics of children and young people admitted with acute respiratory COVID-19 thus far during wave 2.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2021 - The Lancet
+    quote !a = Between March 1, and May 31, 2020, 20 children and young people (aged 18 years or younger and positive for SARS-CoV-2) were admitted to King's College Hospital. Between Nov 1, 2020, and Jan 19, 2021, 60 children and young people positive for SARS-CoV-2 were admitted.
+
+    / February, 2021 - The Lancet
+    quote !b = These early second wave data show that many children and young people have been admitted to hospital. This might be due to the higher prevalence of SARS-CoV-2 within our local community.
+
+    / February, 2021 - The Lancet
+    quote !c = We have found no evidence of more severe disease having occurred in children and young people during the second wave, suggesting that infection with the B.1.1.7 variant does not result in an appreciably different clinical course to the original strain.
+
+
+
+  // Safety and efficacy of the ChAdOx1 nCoV-19 (AZD1222) Covid-19 vaccine against the B.1.351 variant in South Africa
+  doi: https://doi.org/10.1101/2021.02.10.21251247
+  ref 'Madhi_et_al_02_12_2021
+    head = We conducted a randomized multicentre, double blinded controlled trial on safety and efficacy of ChAdOx1-nCoV19 in HIV-uninfected people in South Africa. Participants age 18 to <65 years randomized (1:1) to two doses of vaccine containing 5x1010 viral particles or placebo 21-35 days apart. Post 2nd-dose serum samples were tested by pseudotyped and live virus neutralization assays against the D614G and B.1.351 variants.
+
+    > Background
+      Assessing safety and efficacy of Covid-19 vaccines in different populations is essential, as is investigation of efficacy against emerging SARS-CoV-2 variants of concern including the B.1.351 (501Y.V2) variant first identified in South Africa.
+    > Methods
+      We conducted a randomized multicentre, double blinded controlled trial on safety and efficacy of ChAdOx1-nCoV19 in HIV-uninfected people in South Africa. Participants age 18 to <65 years randomized (1:1) to two doses of vaccine containing 5x1010 viral particles or placebo (0.9%NaCl) 21-35 days apart. Post 2nd-dose serum samples (n=25) were tested by pseudotyped (PSVNA) and live virus (LVNA) neutralization assays against the D614G and B.1.351 variants. Primary endpoints were safety and vaccine efficacy (VE) >14 days following second dose against laboratory confirmed symptomatic Covid-19.
+    > Results
+      2026 HIV-uninfected adults were enrolled between June 24th and Nov 9th, 2020; 1010 and 1011 received at least one dose of placebo or vaccine, respectively. Median age was 31 years. The B.1.351 variant showed increased resistance to vaccinee sera using the PSVNA and LVNA. In the primary endpoint analysis, 23/717 (3.2%) placebo and 19/750 (2.5%) vaccine recipients developed mild-moderate Covid-19; VE 21.9% (95%Confidence Interval: -49.9; 59.8). Of the primary endpoint cases, 39/42 (92.9%) were the B.1.351 variant; against which VE was 10.4% (95%CI: -76.8; 54.8) analyzed as a secondary objective. The incidence of serious adverse events was balanced between the vaccine and placebo groups.
+    > Conclusions
+      A two-dose regimen of ChAdOx1-nCoV19 did not show protection against mild-moderate Covid-19 due to B.1.351 variant, however, VE against severe Covid-19 is undetermined. (Funded by The Bill & Melinda Gates Foundation and South African Medical Research Council; ClinicalTrails.gov number,
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2021 - medRxiv
+    quote !a = The B.1.351 variant showed increased resistance to vaccinee sera using the PSVNA and LVNA.
+
+    / February, 2021 - medRxiv
+    quote !b = In the primary endpoint analysis, 23/717 (3.2%) placebo and 19/750 (2.5%) vaccine recipients developed mild-moderate Covid-19; VE 21.9% (95%Confidence Interval: -49.9; 59.8).
+
+    / February, 2021 - medRxiv
+    quote !c = Of the primary endpoint cases, 39/42 (92.9%) were the B.1.351 variant; against which VE was 10.4% (95%CI: -76.8; 54.8) analyzed as a secondary objective.
+
+
 
   // Decreased SARS-CoV-2 viral load following vaccination
   doi: https://doi.org/10.1101/2021.02.06.21251283
