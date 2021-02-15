@@ -82,17 +82,24 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
+
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+  // Infection and mRNA-1273 vaccine antibodies neutralize SARS-CoV-2 UK variant
+  doi: https://doi.org/10.1101/2021.02.02.21250799
+  ref 'Edara_et_al_02_05_2021
+    head = We describe the neutralizing antibody response in 20 acutely infected COVID-19 patients (8-24 days PSO), 20 convalescent COVID-19 individuals (30-90 days PSO), and 14 healthy adult participants that received two injections of the mRNA-1273 vaccine at a dose of 100 µg against a panel of SARS-CoV-2 variants. This includes an early from Seattle, WA5 isolate (USA-WA1/2020), a later D614G variant isolated from a residual nasopharyngeal swab collected from a patient in Atlanta, GA in March 2020 (SARS-CoV-2/human/USA/GA-EHC-083E/2020), and a B.1.1.7 variant isolated from a residual nasopharyngeal swab collected from a patient in San Diego, CA (SARS-CoV-2/human/USA/CA_CDC_5574/2020).
+
+
+    > Abstract
+      Antibody responses against the SARS-CoV-2 Spike protein correlate with protection against COVID-19. Serum neutralizing antibodies appear early after symptom onset following SARS-CoV-2 infection and can last for several months. Similarly, the messenger RNA vaccine, mRNA-1273, generates serum neutralizing antibodies that are detected through at least day 119. However, the recent emergence of the B.1.1.7 variant has raised significant concerns about the breadth of these neutralizing antibody responses. In this study, we used a live virus neutralization assay to compare the neutralization potency of sera from infected and vaccinated individuals against a panel of SARS-CoV-2 variants, including SARS-CoV-2 B.1.1.7. We found that both infection- and vaccine-induced antibodies were effective at neutralizing the SARS-CoV-2 B.1.1.7 variant. These findings support the notion that in the context of the UK variant, vaccine-induced immunity can provide protection against COVID-19. As additional SARS-CoV-2 viral variants continue to emerge, it is crucial to monitor their impact on neutralizing antibody responses following infection and vaccination.
 
     - quotes
       !a
 
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
+    / February, 2021 - medRxiv
+    quote !a = These results show that neutralizing antibody titers following natural infection or vaccination are effective against the UK variant (B.1.1.7) and viral strains containing single point mutations at positions 501 and 614 within the spike protein. These findings support the notion that in the context of the UK variant, vaccine-induced immunity can provide protection against COVID-19.
+
 
 
   #

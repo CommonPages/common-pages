@@ -473,6 +473,7 @@ subject Variants
       !Phizer
       Vaccines.Approved.BBV152.!UKvariant
       Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
+      Vaccines.Approved.mRNA-1273.!NeutralisingUKvariant
     - Mutation
       !Mutation
     - Potential significance of N501Y Mutation

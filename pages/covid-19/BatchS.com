@@ -9,6 +9,7 @@
 
    # mRNA vaccines will not affect our DNA??
 
+
   >
     Does your vaccine cause infertility? What can you share about the Pfizer-BioNTech COVID-19 vaccine in pregnant women?
     Are COVID-19 Vaccines Going To Cause Infertility?

@@ -226,6 +226,7 @@ subject module Vaccines
       - Efficacy against UK and SA variant
         !Variantefficacy
         !AntibodyNeutralization
+        !NeutralisingUKvariant
 
 
 
@@ -262,6 +263,11 @@ subject module Vaccines
           'Widge_et_al_01_07_2021.!b
           'Widge_et_al_01_07_2021.!c
           'Widge_et_al_01_07_2021.!d
+
+      claim !NeutralisingUKvariant = One study showed that neutralizing antibody titers following natural infection or vaccination are effective against the UK variant (B.1.1.7) and viral strains containing single point mutations at positions 501 and 614 within the spike protein.
+        -
+          'Edara_et_al_02_05_2021
+          'Edara_et_al_02_05_2021.!a
 
       / Old People
       claim !Olderpeople = In September 2020, a second report of results from Moderna trials showed that in older people, the two-dose vaccine series had an acceptable safety and reactogenicity profile with mostly mild-to-moderate local and systemic adverse events of short duration, which occurred predominantly after the second dose.
@@ -918,7 +924,7 @@ subject module Vaccines
 
   / Candidate Vaccines
   subject Candidates
-    head = There are several candidates of vaccines which are in phase 1 & 3 trials. Some of them have shown promising results and awaiting approval for emergency use. 
+    head = There are several candidates of vaccines which are in phase 1 & 3 trials. Some of them have shown promising results and awaiting approval for emergency use.
 
     / Johnson & Johnson
     subject Ad26COV2S
@@ -1121,6 +1127,7 @@ subject module Vaccines
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
       Approved.mRNA-1273.!AntibodyNeutralization
+      Approved.mRNA-1273.!NeutralisingUKvariant
     - Oxford
       Approved.AZD1222.!VariantEfficacy
     - Covaxin

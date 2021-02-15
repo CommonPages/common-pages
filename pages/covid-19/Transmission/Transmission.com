@@ -790,7 +790,7 @@ subject module Transmission
 
     >
       <h6>Close Promximity</h6>
-      Previous Studies of inflight transmission of other respiratory infectious diseases, revealed that sitting near a person ({AirlinesOtherPathogens.!TransmissionRisk.!WithintwoRows within 2 rows}) with a respiratory infectious disease is a major risk factor for transmission. However, it has also been previously observed previously observed (SARS and influenza) that transmission may also occur among passengers seated {AirlinesOtherPathogens.!TransmissionRisk.!Furtherthantworows beyond the 2-row} perimeter. The average number of contacts is greatest for those in {AirlinesOtherPathogens.!TransmissionRisk.!AisleSeat Aisle Seat}, less so in middle seats, and least in window seats.
+      Previous Studies of inflight transmission of other respiratory infectious diseases, revealed that sitting near a person ({AirlinesOtherPathogens.!TransmissionRisk.!WithintwoRows within 2 rows}) with a respiratory infectious disease is a major risk factor for transmission. However, it has also been previously observed (SARS and influenza) that transmission may also occur among passengers seated {AirlinesOtherPathogens.!TransmissionRisk.!Furtherthantworows beyond the 2-row} perimeter. The average number of contacts is greatest for those in {AirlinesOtherPathogens.!TransmissionRisk.!AisleSeat Aisle Seat}, less so in middle seats, and least in window seats.
       For Covid-19, transmission within 2 rows has been observed, however the effect of proximity may be one of the factors.
 
     # Find CDC recommend 2 row contact tracing claim
@@ -799,7 +799,7 @@ subject module Transmission
 
     >
       <h6>Cabin Air Ventilation</h6>
-      During flight, the [air enters the cabin](https://jamanetwork.com/journals/jama/fullarticle/2771435) from overhead inlets and flows downwards toward floor-level outlets. Air enters and leaves the cabin at the same seat row or nearby rows. There is relatively little airflow forward and backward between rows, making it less likely to spread respiratory particles between rows. [When parked at the terminal](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)71089-8/fulltext#secd4380707e303), fresh air is supplied to the aircraft by auxiliary power units. During flight, fresh air is supplied into the cabin from the engines where the air is heated, compressed, cooled, and passed into the cabin to be circulated by the ventilation system
+      During flight, the [air enters the cabin](https://jamanetwork.com/journals/jama/fullarticle/2771435) from overhead inlets and flows downwards toward floor-level outlets. Air enters and leaves the cabin at the same seat row or nearby rows. There is relatively little airflow forward and backward between rows, making it less likely to spread respiratory particles between rows. Fresh air is supplied into the cabin from the engines where the air is heated, compressed, cooled, and passed into the cabin to be circulated by the ventilation system. [When parked at the terminal](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)71089-8/fulltext#secd4380707e303), fresh air is supplied to the aircraft by auxiliary power units. 
 
     -
       AirlinesOtherPathogens.!TransmissionRisk.!Ventilation
