@@ -10,6 +10,17 @@ feed Jan2021
 
   #
 
+  // S1095_NERVTAG_update_note_on_B.1.1.7_severity
+  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961042/S1095_NERVTAG_update_note_on_B.1.1.7_severity_20210211.pdf
+  ref 'Nervtag_et_al_01_21_2021
+    head = Here we report updated and additional analyses, which together strengthen the earlier finding of increased disease severity in people infected with VOC B.1.1.7 compared to other virus variants.
+
+    - quotes
+      !a
+
+    / Jan, 2021 - NERVTAG
+    quote !a = There is evidence from analysis of multiple different datasets that infection with VOC B.1.1.7 is associated with an increased risk of hospitalisation and death compared to infection with non-VOC viruses.
+
 
   // Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K, and N501Y variants by BNT162b2 vaccine-elicited sera
   doi: https://doi.org/10.1101/2021.01.27.427998

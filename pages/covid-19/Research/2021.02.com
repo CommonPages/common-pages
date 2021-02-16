@@ -13,6 +13,89 @@ feed Feb2021
     'Logunov_et_al_02_02_2021
     'Wu_et_al_02_03_2021
 
+
+  # incomplete - Spike and mutation quotes   
+  // A SARS-CoV-2 lineage A variant (A.23.1) with altered spike has emerged and is dominating the current Uganda epidemic
+  doi: https://doi.org/10.1101/2021.02.08.21251393
+  ref 'Bugembe_et_al_02_11_2021
+    head = We report here newly emerging A sub-lineages, A.23 and A.23.1, encoding replacements in the spike protein, nsp6, ORF8 and ORF9, with A.23.1 the major virus lineage now observed in Kampala
+
+    > Abstract
+      The Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) was first detected in March 2020 in Uganda. Recently the epidemic showed a shift of SARS-CoV-2 variant distribution and we report here newly emerging A sub-lineages, A.23 and A.23.1, encoding replacements in the spike protein, nsp6, ORF8 and ORF9, with A.23.1 the major virus lineage now observed in Kampala. Although the clinical impact of the A.23.1 variant is not yet clear it is essential to continue careful monitoring of this variant, as well as rapid assessment of the consequences of the spike protein changes for vaccine efficacy.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / February, 2021 - medRxiv
+    quote !a = Across the entire epidemic, 80 (39%) strains belonged to the major lineage B whereas 123 (61%) strains were classified as lineage A. In the period of June to October 2020 characterised by truck driver movement and no flights, lineage B.1 strains predominated, similar to pattern observed in Kenya. By late December 2020 to January 2021 almost exclusively lineage A viruses (N=49) were found in Kampala with only one B.1.
+
+    / February, 2021 - medRxiv
+    quote !b = The genome sequences from 6 lethal Ugandan cases belonged to two lineages A.25 and Of note, the SARS-CoV-2 lineage A is far less prevalent than lineage B in Europe, UK and USA as compared to Asia. The presence of lineage A viruses from lethal and community cases throughout Uganda indicates that this lineage is circulating in Uganda and capable of producing a severe infection.
+
+    / February, 2021 - medRxiv
+    quote !c = Outbreaks of SARS-CoV-2 infections were reported in the Amuru and Kitgum prisons in August 2020. The SARS-CoV-2 genome sequences identified from individuals from Amuru and Kitgum prisons belonged exclusively to a lineage A with three amino acid (aa) changes encoded in the spike protein (F157L, V367F and Q613H) that now define lineage A.
+
+    / February, 2021 - medRxiv
+    quote !d = By October 2020, lineage A.23 viruses were also found outside of the prisons in a community sample from Lira (a town 140 km from Amuru), and in two samples from the Kitgum hospital and in a community sample from Kampala. Lineage A viruses contributed to only 25% of the viruses in the Kampala region in the period June to October 2020,. By December 2020, 49 of the 50 sequenced samples from the Kampala region (from 9 clinical sites) belonged to the new A.23.1 lineage.
+
+    / February, 2021 - medRxiv
+    quote !e =
+
+
+
+
+
+
+  // Emergence of a Novel SARS-CoV-2 Variant in Southern California
+  doi: https://doi.org/10.1001/jama.2021.1612
+  ref 'Zhang_et_al_02_11_2021
+    head = We analyzed variants of SARS-CoV-2 in Southern California to establish whether one of these known strains or a novel variant had emerged.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2021 - Jama
+    quote !a = Sequence analysis of 405871 global samples on GISAID on January 22, 2021, revealed that CAL.20C was only found in Southern California in October 2020 (4 cases). In November 2020, 30 cases were also identified in Northern California and individual cases in 5 additional states. As of January 22, 2021, CAL.20C has been detected in 26 states and other countries
+
+    / February, 2021 - Jama
+    quote !b = Unlike clade 20G, currently the largest reported clade in North America, this strain is defined by 3 mutations in the S-protein characterizing it as a subclade of 20C.
+
+    / February, 2021 - Jama
+    quote !c = The S protein L452R mutation is within a known receptor binding domain that has been found to be resistant to certain spike (S) protein monoclonal antibodies
+
+
+  // Sensitivity of infectious SARS-CoV-2 B.1.1.7 and B.1.351 variants to neutralizing antibodies
+  doi: https://doi.org/10.1101/2021.02.12.430472
+  ref 'Planas_et_al_02_12_2021
+    head = We analyzed the cross reactivity of the humoral response to pre-existing SARS-CoV-2 viruses and recently emerging variants, in sera from long-term convalescent individuals and recent vaccine recipients.
+
+    > Abstract
+      SARS-CoV-2 B.1.1.7 and B.1.351 variants emerged respectively in United Kingdom and South Africa and spread in many countries. Here, we isolated infectious B.1.1.7 and B.1.351 strains and examined their sensitivity to anti-SARS-CoV-2 antibodies present in sera and nasal swabs, in comparison with a D614G reference virus. We established a novel rapid neutralization assay, based on reporter cells that become GFP+ after overnight infection. B.1.1.7 was neutralized by 79/83 sera from convalescent patients collected up to 9 months post symptoms, almost similar to D614G. There was a mean 6-fold reduction in titers and even loss of activity against B.1.351 in 40% of convalescent sera after 9 months. Early sera from 19 vaccinated individuals were almost as potent against B.1.1.7 but less efficacious against B.1.351, when compared to D614G. Nasal swabs from vaccine recipients were not neutralizing, except in individuals who were diagnosed COVID-19+ before vaccination. Thus, faster-spreading variants acquired a partial resistance to humoral immunity generated by natural infection or vaccination, mostly visible in individuals with low antibody levels.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / February, 2021 - bioRxiv
+    quote !a = B.1.1.7 was neutralized by 79/83 sera from convalescent patients collected up to 9 months post symptoms, almost similar to D614G.
+
+    / February, 2021 - bioRxiv
+    quote !b = There was a mean 6-fold reduction in titers and even loss of activity against B.1.351 in 40% of convalescent sera after 9 months.
+
+    / February, 2021 - bioRxiv
+    quote !c = Early sera from 19 vaccinated individuals were almost as potent against B.1.1.7 but less efficacious against B.1.351, when compared to D614G.
+
+    / February, 2021 - bioRxiv
+    quote !d = faster-spreading variants acquired a partial resistance to humoral immunity generated by natural infection or vaccination, mostly visible in individuals with low antibody levels.
+
+
   // Effect of the new SARS-CoV-2 variant B.1.1.7 on children and young people
   doi: https://doi.org/10.1016/S2352-4642(21)00030-4
   ref 'Brookman_et_al_02_10_2021

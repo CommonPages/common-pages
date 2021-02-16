@@ -412,7 +412,7 @@ subject Variants
         'Adlhoch_et_al_11_12_2020.!c1
         'Adlhoch_et_al_11_12_2020.!d1
 
-  / B.1.1.7 (UK Variant)
+  / B.1.1.7 (Identified in UK)
   subject B117
     head = In mid December of 2020, the B.1.1.7 variant was reported in the UK. This variant is defined by a set of 17 changes or mutations. It has increased transmissibility. Preliminary analyses so far indicate that there is no change in disease severity. As of the 30th of December, this variant has been reported in 31 other countries.
 
@@ -750,7 +750,7 @@ subject Variants
         'Brookman_et_al_02_10_2021.!b
         'Brookman_et_al_02_10_2021.!c
 
-  / B.1.351 (South Africa Variant)
+  / B.1.351 (Identified in South Africa)
   subject B1351
     head = On the 18th of December, the B.1.351 variant was reported to spread in South Africa. This lineage has multiple spike mutations and is associated with increased transmissibility. As of the 30th of December, this variant has been reported in four other countries.
 
@@ -893,7 +893,7 @@ subject Variants
 
     # CALL N501Y
 
-  / P1 (Brazil Variant)
+  / P1 (Identified in Brazil)
   subject P1Variant
     head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike, raising concerns about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection.
 
@@ -948,7 +948,7 @@ subject Variants
       'Wibmer_et_al_01_19_2021
       'Wibmer_et_al_01_19_2021.!d
 
-  / CAL.20C (California Variant)
+  / CAL.20C (Identified in California)
   subject CAL20C
     head =  CAL.20C was first observed in July of 2020 in samples from LA county. It was not detected in Southern California again until October. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected in Northern California, New York and Washington DC. Functional differences in CAL.20C—both in terms of infectivity and antibody resistance—are unknown at this time.
     -
