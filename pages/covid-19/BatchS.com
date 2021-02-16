@@ -10,6 +10,8 @@
    # mRNA vaccines will not affect our DNA??
 
 
+
+
   >
     Does your vaccine cause infertility? What can you share about the Pfizer-BioNTech COVID-19 vaccine in pregnant women?
     Are COVID-19 Vaccines Going To Cause Infertility?
@@ -22,7 +24,11 @@
     Some have argued that COVID-19 vaccines will cause infertility because of antibodies directed against the spike (S) protein will cross-react with syncytin proteins because of an underlying sequence homology.
 
 
+
+
     The truth? This sequence is too short for the immune system to meaningfully confuse it with placental proteins. It’s sort of like saying that you are going to be confused with a criminal because you wear a commonly sold red bracelet that was also found on the criminal. It’s not realistic. If this were true, we would also expect COVID-19 to cause early pregnancy loss a significant amount of the time.
+
+
     The evidence available to us does not support that this is the case. There is no reasonable basis to believe that vaccines against COVID-19/SARS-CoV-2 will affect fertility.
 
     https://edwardnirenberg.medium.com/are-covid-19-vaccines-going-to-cause-infertility-939bbdb62b64
@@ -35,10 +41,31 @@
     As we’ve established, the SCT supports the overall structure of the placental villi and has many important roles in supporting a pregnancy. SCT cells do indeed express syncytin-1, and an immune response directed against SCT cells can tragically result in early pregnancy loss. People with certain autoimmune diseases like antiphospholipid syndrome (aPS) and systemic lupus erythematosus are (SLE) are at much higher risk for pregnancy loss, which is thought to occur from an inappropriate immune response directed against the trophoblast cells.
 
   >
-    While COVID-19 seems to be a more severe disease in pregnancy, there is no evidence right now of an increase in early pregnancy losses, as might be expected if there were an aberrant immune response directed against placental antigens.
+    Data on pregnancy and COVID-19 are woefully incomplete. But they offer some reassurance: Fetal infections later in pregnancy appear to be rare, and experts are cautiously optimistic that the coronavirus won’t warp early fetal development (see sidebar). But emerging data suggest some substance to the other worry of Afshar’s patients: Pregnancy does appear to make women’s bodies more vulnerable to severe COVID-19, the disease caused by SARS-CoV-2. That’s partly because of pregnant women’s uniquely adjusted immune systems, and partly because the coronavirus’ points of attack—the lungs and the cardiovascular system—are already stressed in pregnancy.
 
   >
-    case reports discussing pregnancy losses in patients with COVID-19, but case reports cannot tell us whether the two events are related, merely that they co-occurred. Though we should not take absence of evidence as evidence of absence, right nowthere isn’t good data to suggest that having COVID-19 significantly raises the risk of spontaneous abortion, suggesting that at a minimum (factoring in how long the pandemic has been going), if such occurrences are related, they are rare.
+    The thing is, there is already excellent reason to doubt this is a reasonable claim, and that’s because of COVID-19.While COVID-19 seems to be a more severe disease in pregnancy, there is no evidence right now of an increase in early pregnancy losses, as might be expected if there were an aberrant immune response directed against placental antigens.
+
+    Severe acute respiratory syndrome coronavirus 2 infection during the first trimester of pregnancy does not seem to predispose to early pregnancy loss; its cumulative incidence did not differ between women with spontaneous abortion and women with ongoing pregnancy.
+  -
+    'Cosma_et_al_2020
+    'Cosma_et_al_2020.!a
+    'Cosma_et_al_2020.!b
+
+  >
+    The COVID-19 pandemic environment does not seem to affect early first-trimester miscarriage rates in asymptomatic patients.
+  -
+    'Rotshenker-Olshinka_et_al_11_09_2020
+    'Rotshenker-Olshinka_et_al_11_09_2020.!a
+  >
+    These findings suggest that SARS-CoV-2 infection in pregnancy is not associated with adverse pregnancy outcomes.
+  -
+    'Adhikari_et_al_11_19_2020
+    'Adhikari_et_al_11_19_2020.!a
+
+
+  >
+    case reports discussing pregnancy losses in patients with COVID-19, but case reports cannot tell us whether the two events are related, merely that they co-occurred. Though we should not take absence of evidence as evidence of absence, right now there isn’t good data to suggest that having COVID-19 significantly raises the risk of spontaneous abortion, suggesting that at a minimum (factoring in how long the pandemic has been going), if such occurrences are related, they are rare.
 
 
     There are no data to suggest that the Pfizer-BioNTech COVID-19 vaccine causes infertility. It has been incorrectly suggested that COVID-19 vaccines will cause infertility because of a very short amino acid sequence in the spike protein of SARS-CoV-2 that is partly shared with a protein in the placenta called syncytin-1. From a scientific perspective, the differences between the two sequences are quite significant, making it very unlikely our vaccine could generate a response that would harm the placenta.

@@ -2,12 +2,6 @@ feed Sangeeta
   #
 
   #
-
-
-
-  #
-
-  #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
@@ -33,31 +27,6 @@ feed Sangeeta
     quote !a =
 
 
-
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -71,6 +40,261 @@ feed Sangeeta
     quote !a =
 
 
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  #
+  //
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  # Syncytin-A knockout mice demonstrate the critical role in placentation of a fusogenic, endogenous retrovirus-derived, envelope gene
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // SARS-CoV-2 Variant B.1.1.7 is Susceptible to Neutralizing Antibodies Elicited by Ancestral Spike Vaccines
+  doi: https://doi.org/10.1001/jama.2021.1967
+  ref 'Shimabukuro_et_al_02_12_2021
+    head =
+
+    - quotes
+      !a
+
+    / February, 2021 - JAMA
+    quote !a =
+
+  #
+  // Immediate hypersensitivity reactions following monovalent 2009 pandemic influenza A (H1N1) vaccines: reports to VAERS
+  doi: https://doi.org/10.1016/j.vaccine.2013.09.066
+  ref 'Halsey_et_al_12_09_2013
+    head = A systematic review of reports to the Vaccine Adverse Event Reporting System (VAERS) following monovalent 2009 pandemic influenza A (H1N1) vaccines.
+
+    > Background
+      Hypersensitivity disorders following vaccinations are a cause for concern.
+
+    > Objective
+      To determine the type and rate by age, gender, and vaccine received for reported hypersensitivity reactions following monovalent 2009 pandemic influenza A (H1N1) vaccines.
+
+    > Design
+      A systematic review of reports to the Vaccine Adverse Event Reporting System (VAERS) following monovalent 2009 pandemic influenza A (H1N1) vaccines.
+
+    > Setting/patients
+      US Civilian reports following vaccine received from October 1, 2009 through May 31, 2010.
+
+    > Measurements
+      Age, gender, vaccines received, diagnoses, clinical signs, and treatment were reviewed by nurses and physicians with expertise in vaccine adverse events. A panel of experts, including seven allergists reviewed complex illnesses and those with conflicting evidence for classification of the event.
+
+    > Results
+      Of 1984 reports, 1286 were consistent with immediate hypersensitivity disorders and 698 were attributed to anxiety reactions, syncope, or other illnesses. The female-to-male ratio was ≥4:1 for persons 20-to-59 years of age, but approximately equal for children under 10. One hundred eleven reports met Brighton Collaboration criteria for anaphylaxis; only one-half received epinephrine for initial therapy. The overall rate of reported hypersensitivity reactions was 10.7 per million vaccine doses distributed, with a 2-fold higher rate for live vaccine.
+
+    > Limitations
+      Underreporting, especially of mild events, would result in an underestimate of the true rate of immediate hypersensitivity reactions. Selective reporting of events in adult females could have resulted in higher rates than reported for males.
+
+    > Conclusions
+      Adult females may be at higher risk of hypersensitivity reactions after influenza vaccination than men. Although the risk of hypersensitivity reactions following 2009 pandemic influenza A (H1N1) vaccines was low, all clinics administering vaccines should be familiar with treatment guidelines for these adverse events, including the use of intramuscular epinephrine early in the course of serious hypersensitivity reactions.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / December, 2013 - Vaccine
+    quote !a = Females of childbearing age had higher rates of allergic reactions after influenza vaccination than males, but equal rates in other ages.
+
+    / December, 2013 - Vaccine
+    quote !b = The female-to-male ratio was ≥4:1 for persons 20-to-59 years of age, but approximately equal for children under 10.
+
+    / December, 2013 - Vaccine
+    quote !c = The rate of reported hypersensitivity reactions following 2009 H1N1 vaccine was 10.8 per million.
+
+    / December, 2013 - Vaccine
+    quote !d = The rates of hypersensitivity reactions were equal for 3 manufacturers of vaccine, but higher following live vaccine.
+
+    / December, 2013 - Vaccine
+    quote !e = Epinephrine was underutilized for treatment of anaphylaxis following influenza vaccination.
+
+
+
+
+  #
+  // Anaphylaxis after vaccination reported to the Vaccine Adverse Event Reporting System,
+  doi: https://doi.org/10.1016/j.jaci.2018.12.1003
+  ref 'Su_et_al_01_14_2019
+    head = We identified domestic reports of anaphylaxis within VAERS using a combination of Medical Dictionary for Regulatory Activity queries and Preferred Terms. We performed a descriptive analysis, including history of hypersensitivity (anaphylaxis, respiratory allergies, and drug allergies) and vaccines given.
+
+    > Background
+      Anaphylaxis, a rare and potentially life-threatening hypersensitivity reaction, can occur after vaccination.
+
+    > Objective
+      We sought to describe reports of anaphylaxis after vaccination made to the Vaccine Adverse Event Reporting System (VAERS) during 1990-2016.
+
+    > Methods
+      We identified domestic reports of anaphylaxis within VAERS using a combination of Medical Dictionary for Regulatory Activity queries and Preferred Terms. We performed a descriptive analysis, including history of hypersensitivity (anaphylaxis, respiratory allergies, and drug allergies) and vaccines given. We reviewed all serious reports and all nonserious reports with available medical records to determine if they met the Brighton Collaboration case definition for anaphylaxis or received a physician's diagnosis.
+
+    > Results
+      During the analytic period, VAERS received 467,960 total reports; 828 met the Brighton Collaboration case definition or received a physician's diagnosis of anaphylaxis: 654 (79%) were classified as serious, and 669 (81%) had medical records available. Of 478 reports in children aged less than 19 years, 65% were male; childhood vaccines were most commonly reported. Of 350 reports in persons aged 19 years or greater, 80% were female, and influenza vaccines were most frequently reported. Overall, 41% of reports described persons with no history of hypersensitivity. We identified 8 deaths, 4 among persons with no history of hypersensitivity.
+
+    > Conclusion
+      Anaphylaxis after vaccination is rare in the United States and can occur among persons with no history of hypersensitivity. Most persons recover fully with treatment, but serious complications, including death, can occur.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / January, 2020 - ANAPHYLAXIS, DRUG ALLERGY, URTICARIA, AND ANGIOEDEMA
+    quote !a = Anaphylaxis after vaccination is a rarely reported event in the United States, with a reported rate of 1.3 cases per 1 million doses administered.
+
+    / January, 2020 - ANAPHYLAXIS, DRUG ALLERGY, URTICARIA, AND ANGIOEDEMA
+    quote !b = Data in this analysis and elsewhere indicate that anaphylaxis after vaccination (and the possibility of death) is a rare event.
+
+    / January, 2020 - ANAPHYLAXIS, DRUG ALLERGY, URTICARIA, AND ANGIOEDEMA
+    quote !c = Some findings in this analysis are consistent with previous observations. The predominance of male sex in younger age groups (eg, aged <19 years) and female sex in older age groups (eg, aged ≥19 years) has been observed in previous analyses
+
+    / January, 2020 - ANAPHYLAXIS, DRUG ALLERGY, URTICARIA, AND ANGIOEDEMA
+    quote !d = Most reports in this analysis (67%) noted symptoms less than 2 hours after vaccination, which is consistent with the rapid development of symptoms described by other investigators.
+
+    / January, 2020 - ANAPHYLAXIS, DRUG ALLERGY, URTICARIA, AND ANGIOEDEMA
+    quote !e = Reported histories of hypersensitivity were also similar to histories described by other investigators, including respiratory allergies, such as asthma and drug allergies.
+
+    / January, 2020 - ANAPHYLAXIS, DRUG ALLERGY, URTICARIA, AND ANGIOEDEMA
+    quote !f = Although histories of sensitivity to penicillin or cephalosporins were commonly reported, vaccines do not contain these antibiotics; therefore patients with such sensitivities might be predisposed to allergic reactions in general.
+
+    / January, 2020 - ANAPHYLAXIS, DRUG ALLERGY, URTICARIA, AND ANGIOEDEMA
+    quote !g = A history of asthma can increase the likelihood of a severe or even fatal episode of anaphylaxis.
+
+
+
+
+
+
+  // Allergic reactions including anaphylaxis after receipt of the first dose of Pfizer-BioNTech COVID-19 vaccine—United States, December 14–23, 2020.
+  doi: http://dx.doi.org/10.15585/mmwr.mm7002e1
+  ref 'Shimabukuro_et_al_01_06_2021
+    head = During December 14–23, 2020, monitoring by the Vaccine Adverse Event Reporting System detected 21 cases of anaphylaxis after administration of a reported 1,893,360 first doses of the Pfizer-BioNTech COVID-19 vaccine (11.1 cases per million doses); 71% of these occurred within 15 minutes of vaccination.
+
+
+    - quotes
+      !a
+      !b
+    -
+      !c
+
+    / January, 2021 - MMWR Morb Mortal Wkly Rep
+    quote !a = Most (90%) reported anaphylaxis cases after receipt of Pfizer-BioNTech COVID-19 vaccine occurred in women, although 64% of the vaccine doses administered with sex of recipient recorded were given in women.
+
+    / January, 2021 - MMWR Morb Mortal Wkly Rep
+    quote !b = Most (86%) anaphylaxis cases had symptom onset within 30 minutes of vaccination, and most persons with anaphylaxis (81%) had a history of allergies or allergic reactions, including some with previous anaphylaxis events; up to 30% of persons in the general population might have some type of allergy or history of allergic reactions.
+
+    / January, 2021 - MMWR Morb Mortal Wkly Rep
+    quote !c = Whereas a female predominance has been previously observed in a review of immediate hypersensitivity reports to VAERS after influenza A(H1N1) vaccine, the current finding could be impacted by the observation that more women than men had received a first dose of Pfizer-BioNTech COVID-19 vaccine during the analytic period.
+
+
+  #
+  // Allergic Reactions Including Anaphylaxis After Receipt of the First Dose of Moderna COVID-19 Vaccine — United States, December 21, 2020–January 10, 2021
+  doi: http://dx.doi.org/10.15585/mmwr.mm7004e1
+  ref 'Shimabukuro_et_al_01_29_2021
+    head = During December 21, 2020–January 10, 2021, monitoring by the Vaccine Adverse Event Reporting System detected 10 cases of anaphylaxis after administration of a reported 4,041,396 first doses of Moderna COVID-19 vaccine (2.5 cases per million doses administered). In nine cases, onset occurred within 15 minutes of vaccination. No anaphylaxis-related deaths were reported.
+
+    - quotes
+      !a
+      !b
+
+    / January, 2021 - MMWR Morb Mortal Wkly Rep
+    quote !a = The clinical and epidemiologic characteristics of anaphylaxis case reports after receipt of Moderna COVID-19 vaccine are similar to those reported after receipt of the Pfizer-BioNTech COVID-19 vaccine. For both vaccines, symptom onset after vaccination occurred quickly, usually within minutes. A strong female predominance of anaphylaxis case reports exists for both vaccines. Finally, many persons experiencing anaphylaxis after receiving either vaccine had a history of allergies or allergic reactions, with several having experienced an anaphylaxis episode in the past. Similar patient characteristics in case reports of nonanaphylaxis allergic reactions were observed among the two vaccines.
+
+    / January, 2021 - MMWR Morb Mortal Wkly Rep
+    quote !b = All 10 anaphylaxis cases reported after receipt of Moderna COVID-19 vaccine occurred in women. Whereas a previous review of anaphylaxis reports to VAERS found that 80% of cases reported in adults involved females, the current finding could be affected by the observation that more women than men had received a first dose of Moderna COVID-19 vaccine during the analytic period (61% of doses administered versus 36%, respectively). In a previous analysis of the Pfizer-BioNTech COVID-19 vaccine, two thirds of first doses were administered in women.
+
+
+
+
+  #
+  // Allergic reactions including anaphylaxis after receipt of the first dose of Pfizer-BioNTech COVID-19 vaccine.
+  doi: http://jamanetwork.com/article.aspx?doi=10.1001/jama.2021.0600
+  ref 'Shimabukuro_et_al_01_21_2021
+    head = During December 14 to 23, 2020, after administration of a reported 1 893 360 first doses of Pfizer-BioNTech COVID-19 vaccine (1 177 527 in women, 648 327 in men, and 67 506 with sex of recipient not reported),3 CDC identified 21 case reports submitted to VAERS that met Brighton Collaboration case definition criteria for anaphylaxis (Table), corresponding to an estimated rate of 11.1 cases per million doses administered.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / January, 2021 - JAMA.
+    quote !a = Median interval from vaccine receipt to symptom onset was 13 minutes (range, 2-150 minutes); 15 patients (71%) had onset within 15 minutes; 18 (86%) had onset within 30 minutes
+
+    / January, 2021 - JAMA.
+    quote !b = The most common symptoms and signs were urticaria, angioedema, rash, and a sense of throat closure.
+
+    / January, 2021 - JAMA.
+    quote !c = Seventeen (81%) of 21 patients with anaphylaxis had a documented history of allergies or allergic reactions, including to drugs or medical products, foods, and insect stings; 7 (33%) had experienced an episode of anaphylaxis in the past, including one after receipt of rabies vaccine and another after receipt of influenza A(H1N1) vaccine
+
+    / January, 2021 - JAMA.
+    quote !d = During the same period, VAERS identified 83 cases of nonanaphylaxis allergic reactions after Pfizer-BioNTech COVID-19 vaccination. Commonly reported symptoms in nonanaphylaxis allergic reactions included pruritus, rash, itchy and scratchy sensations in the throat, and mild respiratory symptoms.
+
+
+  #
+  // Reports of Anaphylaxis After Receipt of mRNA COVID-19 Vaccines in the US—December 14, 2020-January 18, 2021
+  doi: https://doi.org/10.1001/jama.2021.1967
+  ref 'Shimabukuro_et_al_02_12_2021
+    head = This analysis updates the reporting rates of anaphylaxis in individuals following receipt of either the Pfizer-BioNTech or Moderna vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / February, 2021 - JAMA
+    quote !a = Continued safety monitoring of mRNA COVID-19 vaccines in the US has confirmed that anaphylaxis following vaccination is a rare event, with rates of 4.7 cases/million Pfizer-BioNTech vaccine doses administered and 2.5 cases/million Moderna vaccine doses administered, based on information through January 18, 2021. When considered in the context of morbidity and mortality from COVID-19,9 the benefits of vaccination far outweigh the risk of anaphylaxis, which is treatable.
+
+    / December, 2020 - JAMA Netw Open.
+    quote !b = Because of the acute, life-threatening nature of anaphylaxis, immediate epinephrine administration is indicated for all cases.
+
+    / December, 2020 - JAMA Netw Open.
+    quote !c = There were no apparent clinical differences between anaphylaxis cases with symptom onset within 30 minutes and those with symptom onset after 30 minutes (a 15-minute postvaccination observation period is recommended for all persons and a 30-minute period is recommended for those with a history of certain allergic reactions)
+
+    / December, 2020 - JAMA Netw Open.
+    quote !d = Common signs and symptoms in anaphylaxis cases were generalized urticaria, diffuse erythematous rash, angioedema, respiratory and airway obstruction symptoms, and nausea.
+
+    / December, 2020 - JAMA Netw Open.
+    quote !e = Twenty-one (32%) of the 66 case reports noted a prior episode of anaphylaxis from other exposures; prior exposures included vaccines (rabies, influenza A[H1N1], seasonal influenza, unspecified), contrast media (gadolinium-based, iodine-based, unspecified intravenous), unspecified infusions, sulfa drugs, penicillin, prochlorperazine, latex, walnuts, unspecified tree nuts, jellyfish stings, and unspecified exposures.
+
+
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -82,6 +306,116 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
+
+
+
+  #
+  // Pregnancy Outcomes Among Women With and Without Severe Acute Respiratory Syndrome Coronavirus 2 Infection.
+  doi: https://doi.org/10.1001/jamanetworkopen.2020.29256
+  ref 'Adhikari_et_al_11_19_2020
+    head = This observational cohort study of maternal and neonatal outcomes among delivered women with and without SARS-CoV-2 during pregnancy was conducted from March 18 through August 22, 2020, at Parkland Health and Hospital System (Dallas, Texas), a high-volume prenatal clinic system and public maternity hospital with widespread access to SARS-CoV-2 testing in outpatient, emergency department, and inpatient settings.
+
+    > Objectives
+      To evaluate adverse outcomes associated with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in pregnancy and to describe clinical management, disease progression, hospital admission, placental abnormalities, and neonatal outcomes.
+
+    > Design, Setting, and Participants
+      This observational cohort study of maternal and neonatal outcomes among delivered women with and without SARS-CoV-2 during pregnancy was conducted from March 18 through August 22, 2020, at Parkland Health and Hospital System (Dallas, Texas), a high-volume prenatal clinic system and public maternity hospital with widespread access to SARS-CoV-2 testing in outpatient, emergency department, and inpatient settings. Women were included if they were tested for SARS-CoV-2 during pregnancy and delivered. For placental analysis, the pathologist was blinded to illness severity.
+
+    > Exposures
+      SARS-CoV-2 infection during pregnancy.
+
+    > Main Outcomes and Measures
+      The primary outcome was a composite of preterm birth, preeclampsia with severe features, or cesarean delivery for abnormal fetal heart rate among women delivered after 20 weeks of gestation. Maternal illness severity, neonatal infection, and placental abnormalities were described.
+
+    > Results
+      From March 18 through August 22, 2020, 3374 pregnant women (mean [SD] age, 27.6 [6] years) tested for SARS-CoV-2 were delivered, including 252 who tested positive for SARS-CoV-2 and 3122 who tested negative. The cohort included 2520 Hispanic (75%), 619 Black (18%), and 125 White (4%) women. There were no differences in age, parity, body mass index, or diabetes among women with or without SARS-CoV-2. SARS-CoV-2 positivity was more common among Hispanic women (230 [91%] positive vs 2290 [73%] negative; difference, 17.9%; 95% CI, 12.3%-23.5%; P < .001). There was no difference in the composite primary outcome (52 women [21%] vs 684 women [23%]; relative risk, 0.94; 95% CI, 0.73-1.21; P = .64). Early neonatal SARS-CoV-2 infection occurred in 6 of 188 tested infants (3%), primarily born to asymptomatic or mildly symptomatic women. There were no placental pathologic differences by illness severity. Maternal illness at initial presentation was asymptomatic or mild in 239 women (95%), and 6 of those women (3%) developed severe or critical illness. Fourteen women (6%) were hospitalized for the indication of COVID-19.
+
+    > Conclusions and Relevance
+      In a large, single-institution cohort study, SARS-CoV-2 infection during pregnancy was not associated with adverse pregnancy outcomes. Neonatal infection may be as high as 3% and may occur predominantly among asymptomatic or mildly symptomatic women. Placental abnormalities were not associated with disease severity, and hospitalization frequency was similar to rates among nonpregnant women.
+
+    - quotes
+      !a
+
+    / November, 2020 - Obstetrics and Gynecology
+    quote !a = In this cohort study of 252 SARS-CoV-2–positive and 3122 negative pregnant women tested in outpatient and inpatient settings at a large county medical center, adverse pregnancy outcomes were similar, and neonatal infection occurred in 3% of infants, predominantly among infants born to asymptomatic or mildly symptomatic women. Placental abnormalities were not associated with disease severity, and the rate of hospitalization was similar to rates among nonpregnant women.
+
+    / November, 2020 - Obstetrics and Gynecology
+    quote !a =
+
+    / November, 2020 - Obstetrics and Gynecology
+    quote !a =
+
+    / November, 2020 - Obstetrics and Gynecology
+    quote !a =
+    / November, 2020 - Obstetrics and Gynecology
+    quote !a =
+
+
+    / November, 2020 - Obstetrics and Gynecology
+    quote !a =
+
+    / November, 2020 - Obstetrics and Gynecology
+    quote !a =
+
+
+  #
+  // COVID-19 pandemic effect on early pregnancy: are miscarriage rates altered, in asymptomatic women?
+  doi: https://doi.org/10.1007/s00404-020-05848-0
+  ref 'Rotshenker-Olshinka_et_al_11_09_2020
+    head = A retrospective cohort study conducted at a university-affiliated fertility center in Montreal, Quebec, since the COVID-19 shut down, March 13 until May 6, 2020. In our cohort, we assessed the influence of the pandemic environment, rather than the disease itself, on early pregnancy.
+
+    > Purpose
+      To evaluate the effect of the COVID-19 pandemic state on early, first-trimester pregnancies.
+
+    > Methods
+      A retrospective cohort study conducted at a university-affiliated fertility center in Montreal, Quebec, since the COVID-19 shut down, March 13 until May 6, 2020. Included: all women who came for a first-trimester viability scan during the study period (Study group) and between March 1, 2019 and May 17, 2019, approximately one year prior (Control). The study population denied symptoms of COVID-19. We reviewed all first trimester scans. Early first-trimester pregnancy outcomes (Viable pregnancy, arrested pregnancy including biochemical pregnancy loss and miscarriage, and ectopic pregnancy) were measured as total number and percentage. A multivariate analysis was performed to control for other potentially significant variables, as was a power analysis supporting sample size.
+
+    > Results
+      113 women came for a first-trimester viability scan in the study period, and 172 in the control period (5–11 weeks gestational age), mean maternal age 36.5 ± 4.5 and 37.2 ± 5.4 years (p = 0.28). Viable clinical pregnancy rate was not different between the two groups (76.1 vs. 80.2% in the pandemic and pre-pandemic groups p = 0.41). No significant difference was seen in the total number of arrested pregnancies (defined as the sum of biochemical, 1st trimester miscarriages, and blighted ova) (22.1 vs. 16.9% p = 0.32), or in each type of miscarriage.
+
+    > Conclusion
+      The COVID-19 pandemic environment does not seem to affect early first-trimester miscarriage rates in asymptomatic patients.
+
+    - quotes
+      !a
+
+    / November, 2020 - Archives of Gynecology and Obstetrics
+    quote !a = The COVID-19 pandemic environment does not seem to affect early first-trimester miscarriage rates in asymptomatic patients.
+
+
+
+  #
+  // Coronavirus disease 2019 and first-trimester spontaneous abortion: a case-control study of 225 pregnant patients
+  doi: https://doi.org/10.1016/j.ajog.2020.10.005
+  ref 'Cosma_et_al_2020
+    head = We evaluated SARS Cov 2 infection as a risk factor for early pregnancy loss in the first trimester of pregnancy. We conducted a case-control study at S. Anna Hospital, Turin, among pregnant women in their first trimester, paired for last menstruation. The cumulative incidence of coronavirus disease 2019 was compared between women with spontaneous abortion (case group, n¼100) and those with ongoing pregnancy (control group, n¼125)..
+
+
+    > Background
+      The disease caused by the severe acute respiratory syndrome coronavirus 2 was named coronavirus disease 2019 and classified as a global public health emergency. The evidence related to the impact of coronavirus disease 2019 on pregnancy is limited to the second and third trimester of pregnancy, whereas data on the first trimester are scant. Many viral infections can be harmful to the fetus during the first trimester of pregnancy, and whether severe acute respiratory syndrome coronavirus 2 is one of them is still unknown.
+
+    > Objective
+      With this study, we evaluated severe acute respiratory syndrome coronavirus 2 infection as a risk factor for early pregnancy loss in the first trimester of pregnancy. Furthermore, coronavirus disease 2019 course in the first trimester was assessed.
+
+    > Study Design
+      Between February 22 and May 21, 2020, we conducted a case-control study at S. Anna Hospital, Turin, among pregnant women in their first trimester, paired for last menstruation. The cumulative incidence of coronavirus disease 2019 was compared between women with spontaneous abortion (case group, n¼100) and those with ongoing pregnancy (control group, n¼125). Current or past infection was determined by the detection of severe acute respiratory syndrome coronavirus 2 from nasopharyngeal swab and severe acute respiratory syndrome coronavirus 2 immunoglobulin G and immunoglobulin M antibodies in a blood sample. Patient demographics, coronavirus disease 2019 erelated symptoms, and the main risk factors for abortion were collected.
+
+    > Results
+      Of 225 women, 23 (10.2%) had a positive test result for coronavirus disease 2019. There was no difference in the cumulative incidence of coronavirus disease 2019 between the cases (11/100, 11%) and the controls (12/125, 9.6%) (P¼.73). Logistic regression analysis confirmed that coronavirus disease 2019 was not an independent predictor of early pregnancy loss (odds ratio, 1.28; confidence interval, 0.53e3.08). Coronavirus disease 2019erelated symptoms in the first trimester were fever, anosmia, ageusia, cough, arthralgia, and diarrhea; no cases of pneumonia or hospital admission owing to coronavirus disease 2019 related symptoms were recorded. No difference in the incidence of symptoms was noted between the 2 groups.
+
+    > Conclusion
+      Severe acute respiratory syndrome coronavirus 2 infection during the first trimester of pregnancy does not seem to predispose to early pregnancy loss; its cumulative incidence did not differ between women with spontaneous abortion and women with ongoing pregnancy. Coronavirus disease 2019 appears to have a favorable maternal course at the beginning of pregnancy, consistent with what has been observed during the second and third trimesters.
+
+    - quotes
+      !a
+      !b
+
+    / 2020 - American Journal of Obstetrics & Gynecology
+    quote !a = Severe acute respiratory syndrome coronavirus 2 infection during the first trimester of pregnancy does not seem to predispose to early pregnancy loss; its cumulative incidence did not differ between women with spontaneous abortion and women with ongoing pregnancy.
+
+    / 2020 - American Journal of Obstetrics & Gynecology
+    quote !b =  Coronavirus disease 2019 appears to have a favorable maternal course at the beginning of pregnancy, consistent with what has been observed during the second and third trimesters.
+
 
 
   #
@@ -973,18 +1307,6 @@ feed Sangeeta
     quote !d = The large variation in morbidity and mortality at each farm suggests that outbreaks can be so mild that they could be easily missed.
 
 
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
 
 
 
@@ -1047,8 +1369,6 @@ feed Sangeeta
       !g
       !h
       !i
-
-
 
     / January, 2021 - bioRxiv
     quote !a = A number of circulating SARS-CoV-2 variants that have been associated with rapidly increasing case numbers and have particular prevalence in the UK (B1.1.7/501Y.V1), South Africa (501Y.V2) and Brazil (B1.1.28/501.V3). Our experiments indicate that these variants, and potentially others that carry K417N/T, E484K and N501Y mutations, can reduce the neutralization potency of vaccinee plasma.
