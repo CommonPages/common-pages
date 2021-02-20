@@ -1,4 +1,4 @@
-/ Tranmission of COVID-19 Virus
+/ Transmission of COVID-19 Virus
 subject module Transmission_old
 
   subject module Modes
@@ -345,7 +345,7 @@ subject module Transmission_old
 
       subject module IndoorLocation
 
-        - Indoor Tranmission (unsorted)
+        - Indoor Transmission (unsorted)
           'Chan_et_al_2020
           'Qian_et_al_2020
           'Allen_et_al_06_19_2020
@@ -1011,7 +1011,7 @@ subject module Transmission_old
 
   # -------------------------------------------
   subject module Spreading
-    subject TranmissionOrder
+    subject TransmissionOrder
       subject PrimaryTrans
         -
           'Xu_et_al_03_30_2020
@@ -1341,7 +1341,7 @@ subject module Transmission_old
       -
         'Endo_et_al_04_09_2020
 
-    / Human-to-animal Tranmission (should not be here)
+    / Human-to-animal Transmission (should not be here)
     subject HumanAnimalTransmission
       head = There is some evidence of human-to-animal transmission of SARS-CoV-2, including examples in felids. Some institutions have advised those infected with SARS-CoV-2 to restrict contact with animals.
       -

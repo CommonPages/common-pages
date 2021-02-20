@@ -3292,7 +3292,7 @@ feed May2020
     # quote !a =
 
 
-  # Tranmission - Aerosol
+  # Transmission - Aerosol
   @@LinseyMarr
   // Re-thinking the Potential for Airborne Transmission of SARS-CoV-2
   doi: https://doi.org/10.20944/preprints202005.0126.v1
@@ -3317,7 +3317,7 @@ feed May2020
     quote !c = In fact, a physics-based simulation suggests that the majority of exposure at close range occurs by inhalation of small droplets rather than by contact with large droplets that land on the mouth, nose, and eyes, unless the people are closer than 30 cm or the droplets are very large.
 
 
-  # Aerosol Tranmission - Mitigation Measures
+  # Aerosol Transmission - Mitigation Measures
   @@ChangYuWu
   // Collection of SARS-CoV-2 Virus from the Air of a Clinic within a University Student Health Care Center and Analyses of the Viral Genomic Sequence
   doi: https://doi.org/10.4209/aaqr.2020.02.0202
@@ -3518,7 +3518,7 @@ feed May2020
     / May, 2020 - Nature
     quote !a = We performed structural studies, which revealed that CB6 recognizes an epitope that overlaps with angiotensin-converting enzyme 2 (ACE2)-binding sites in the SARS-CoV-2 receptor-binding domain, and thereby interferes with virus–receptor interactions by both steric hindrance and direct competition for interface residues. Our results suggest that CB6 deserves further study as a candidate for translation to the clinic.
 
-  # Tranmission
+  # Transmission
   // Shared SARS-CoV-2 diversity suggests localised transmission of minority variants
   doi: https://doi.org/10.1101/2020.05.28.118992
   ref 'Lythgoe_et_al_05_29_2020
@@ -3636,7 +3636,7 @@ feed May2020
   // Introductions and early spread of SARS-CoV-2 in the New York City area
   doi: https://doi.org/10.1126/science.abc1917
   ref 'Reiche_et_al_05_29_2020
-    head = Our Results show that the NYC SARS-CoV-2 epidemic has been mainly sourced from untracked tranmission between US and Europe, with limited evidence of direct introductions from China where the virus originated.
+    head = Our Results show that the NYC SARS-CoV-2 epidemic has been mainly sourced from untracked transmission between US and Europe, with limited evidence of direct introductions from China where the virus originated.
 
     > Abstract
       New York City (NYC) has emerged as one of the epicenters of the current SARS-CoV-2 pandemic. To identify the early transmission events underlying the rapid spread of the virus in the NYC metropolitan area, we sequenced the virus causing COVID-19 in patients seeking care at the Mount Sinai Health System. Phylogenetic analysis of 84 distinct SARS-CoV2 genomes indicates multiple, independent but isolated introductions mainly from Europe and other parts of the United States. Moreover, we find evidence for community transmission of SARS-CoV-2 as suggested by clusters of related viruses found in patients living in different neighborhoods of the city.
@@ -4649,7 +4649,7 @@ feed May2020
     quote !h = Large-scale serosurveys should be conducted regularly and prospectively planned over the course of the different waves of the pandemic and beyond to provide serological data from different age groups.
 
 
-  # Aerosol, Indoor Tranmission
+  # Aerosol, Indoor Transmission
   @@ZhicongYang
   // COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020
   doi: https://doi.org/10.3201/eid2607.200764

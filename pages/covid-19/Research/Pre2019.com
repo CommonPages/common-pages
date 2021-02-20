@@ -663,7 +663,7 @@ feed Pre2019
     quote !a =
 
 
-  # Aerosol Flight Tranmission
+  # Aerosol Flight Transmission
   // Modeling the Fate of Expiratory Aerosols and the Associated Infection Risk in an Aircraft Cabin Environment
   doi: https://doi.org/10.1080/02786820802641461
   ref 'Wan_et_al_02_25_2009
@@ -791,7 +791,7 @@ feed Pre2019
     / August, 2006 - J Hosp Infect.
     quote !e = Whether an individual acquires an infection depends on the final inhaled pathogen dose and the host's immune response.
 
-  # Tranmission - SARS - Droplet
+  # Transmission - SARS - Droplet
   // Cluster of SARS among Medical Students Exposed to Single Patient, Hong Kong
   doi: https://dx.doi.org/10.3201%2Feid1002.030452
   ref 'Wong_et_al_02_10_2004
@@ -825,7 +825,7 @@ feed Pre2019
     / August, 2016 - Clin Infect Dis
     quote !a =
 
-  # Tranmission Modes
+  # Transmission Modes
   @@LydiaBourouiba
   // Violent expiratory events: on coughing and sneezing
   doi: https://doi.org/10.1017/jfm.2014.88
@@ -2231,7 +2231,7 @@ feed Pre2019
     # quote !k = While we focus on deaths occurring in hospitals, there are also non-hospitalized COVID-19 deaths, including >9000 in retirement homes in France. We explicitly removed retirement home population from our analyses as transmission dynamics may be different in these closed populations. This means our estimates of immunity in the general population are unaffected by deaths in retirement homes, however, in the event of large numbers of non-hospitalized deaths in the wider community, we would underestimate the proportion of the population infected. Analyses of excess death will be important to explore these issues.
 
 
-  # Inflight Tranmission
+  # Inflight Transmission
   @@YLi
   // Routes of Transmission of Influenza A H1N1, SARS CoV, and Norovirus in Air Cabin: Comparative Analyses
   doi: https://doi.org/10.1111/ina.12445
@@ -2274,7 +2274,7 @@ feed Pre2019
     / July, 2011 - Journal of Aerosol Science
     quote !a = Droplet number and droplet volume production rates can be estimated for each aerosol size distribution mode during speech and coughing and these can then be coupled with models of transport in realistic environments. The distributions will also provide a basis for devising experiments to measure parameters for those models such as pathogen concentrations in the different respiratory fluids comprising each mode, and the inactivation rates of those pathogens in the aerosol phase.
 
-  # Aerosol Tranmission - Fecal
+  # Aerosol Transmission - Fecal
   @@KaisenLin
   // Aerosolization of Ebola Virus Surrogates in Wastewater Systems
   doi: https://doi.org/10.1021/acs.est.6b04846
@@ -2287,7 +2287,7 @@ feed Pre2019
     # / Jan, 2017 - American Chemical Society
     # quote !a =
 
-  # Aerosol / Fecal Tranmission
+  # Aerosol / Fecal Transmission
   @@DavidJohnson
   // Lifting the Lid on Toilet Plume Aerosol: A Literature Review With Suggestions for Future Research
   doi: https://doi.org/10.1016/j.ajic.2012.04.330
@@ -2736,7 +2736,7 @@ feed Pre2019
     / April, 2020 - Chinese Journal of Epidemiology
     quote !a = The first case occurred on 21 January, 2020, this case was a department store employee who had a purchasing history at whole sale markets in other provinces and cities before the onset, and 3 employees were still on duty after symptom onsets. The median of the incubation period of customer cases was 6 days, and the median of the interval between onset and medical treatment of customer cases was 7 days.
 
-  # Indoor tranmission - Care facilities
+  # Indoor transmission - Care facilities
   // Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington
   doi: https://doi.org/10.1056/NEJMoa2005412
   ref 'Mcmichael_et_al_2020

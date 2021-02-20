@@ -40,7 +40,7 @@ feed August2020
     quote !c = ChAdOx1 nCoV-19 group, spike-specific T-cell responses peaked on day 14. Anti-spike IgG responses rose by day 28 and were boosted following a second dose. Neutralising antibody responses against SARS-CoV-2 were detected in 32 (91%) of 35 participants after a single dose
 
 
-  # Phizer Vaccine
+  # Pfizer Vaccine
   @@JudithAbsalon
   // Phase I/II study of COVID-19 RNA vaccine BNT162b1 in adults
   doi: https://doi.org/10.1038/s41586-020-2639-4

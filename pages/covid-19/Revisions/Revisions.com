@@ -3,11 +3,18 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received nine major revisions, expanding the subjects covered and correcting existing claims.
 
+  public: February-20-2021
+  / February 20, 2021
+  revision February_20
+    head = A new section dedicated to inflight transmission risk is now available.
+
+    -
+      Transmission.Airline
 
   public: February-14-2021
   / February 14, 2021
   revision February_14
-    head = We've summarized preliminary results of vaccine efficacy for 2 of the major variants (B.1.1.7 & B.1.351). Some vaccines have shown efficacy against new variants however, a efficacy drop-off is consistent in all the vaccines to date, more for B.1.351 (Identified in South Africa) variant compared with B.1.1.7 (Identified in UK).
+    head = We've summarized preliminary results of vaccine efficacy for 2 of the major variants (B.1.1.7 & B.1.351). Some vaccines have shown efficacy against new variants. However, an efficacy drop-off is consistent in all the vaccines to date, more for B.1.351 (identified in South Africa) compared with B.1.1.7 (identified in UK).
 
     -
       Vaccines.EfficacyVariants
@@ -31,7 +38,7 @@ revision feed Revisions
   / January 21, 2021
   revision January_21
     let *variants mean Variants
-    head = This revision contains updates to the *variants section. Researchers have noted a small but significant reduction in the neutralizing activity of both the Phizer and Moderna vaccines several new variants (UK, South Africa, Brazil). We've also added research on the new California Variant.
+    head = This revision contains updates to the *variants section. Researchers have noted a small but significant reduction in the neutralizing activity of both the Pfizer and Moderna vaccines several new variants (UK, South Africa, Brazil). We've also added research on the new California Variant.
 
     - see also
       Variants.B117.!VaccineEffectiveness

@@ -281,7 +281,7 @@ subject module Containment
   # / Projection Model
   # subject ProjectionModel
   #   head = Projection models summarising plausible transmission scenarios, mitigation measures suggest the continual of non-nonpharmaceutical interventions is necessary for COVID-19 containment.
-  #   -- Tranmission Dynamics
+  #   -- Transmission Dynamics
   #     'Kissler_et_al_2020
   #   -- Serosurvey
   #     'Vespignani_et_al_2020
@@ -297,7 +297,7 @@ subject module Containment
 
   # / Indoor Mitigation
   # subject Indoormitigation
-  #   head = The layout and design of a building, as well as occupancy and type of heating, ventilation, and air conditioning (HVAC) system, can all impact potential airborne spread of the virus. Improvements to ventilation and air cleaning can reduce risk of airborne tranmission.
+  #   head = The layout and design of a building, as well as occupancy and type of heating, ventilation, and air conditioning (HVAC) system, can all impact potential airborne spread of the virus. Improvements to ventilation and air cleaning can reduce risk of airborne transmission.
   #   -- Gyms
   #     'Dominski_et_al_07_17_2020
   #   -- Meat and Poultry Processing Plants

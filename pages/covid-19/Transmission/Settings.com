@@ -25,7 +25,7 @@ subject module Settings
       -
         HouseholdLocation
         MultiusePublicPlace
-      - Indoor Tranmission (unsorted)
+      - Indoor Transmission (unsorted)
         'Chan_et_al_2020
         'Qian_et_al_2020
         'Allen_et_al_06_19_2020

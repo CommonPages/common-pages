@@ -398,7 +398,7 @@ feed April2020
     / April, 2020 - Sudanese Journal of Paediatrics
     quote !a =
 
-  # Nosocomial Tranmission and Mitigatin !a
+  # Nosocomial Transmission and Mitigatin !a
   // Transmission of COVID-19 to Health Care Personnel During Exposures to a Hospitalized Patient - Solano County, California, February 2020
   doi: https://doi.org/10.15585/mmwr.mm6915e5
   ref 'Heinzerling_et_al_04_14_2020
@@ -415,7 +415,7 @@ feed April2020
     quote !a = Unprotected, prolonged patient contact, as well as certain exposures, including some aerosol-generating procedures, were associated with SARS-CoV-2 infection in HCP. Early recognition and isolation of patients with possible infection and recommended PPE use can help minimize unprotected, high-risk HCP exposures and protect the health care workforce.
 
 
-  # Nosocomial Tranmission
+  # Nosocomial Transmission
   // SARS-CoV-2 infection in health care workers: a retrospective analysis and a model study
   doi: https://doi.org/10.1101/2020.03.29.20047159
   ref 'Sr_et_al_04_01_2020
@@ -468,7 +468,7 @@ feed April2020
 
 
 
-  # Asymptomatic Tranmission , Children Tranmission
+  # Asymptomatic Transmission , Children Transmission
   @@KostasDanis
   // Cluster of Coronavirus Disease 2019 (COVID-19) in the French Alps, February 2020
   doi: https://doi.org/10.1093/cid/ciaa424
@@ -1046,7 +1046,7 @@ feed April2020
     # quote !l = It is also possible that future analyses based on more recent, expanded datasets will not reveal major climatic effects on Covid-19 growth rates, because the worldwide enforcement of severe containment actions strongly limits the natural spread potential of the disease, thus fading associations between climate and disease dynamics.
 
 
-  # Airborne Tranmission
+  # Airborne Transmission
   // Airborne transmission of COVID-19: epidemiologic evidence from two outbreak investigations
   doi: https://doi.org/10.13140/RG.2.2.36685.38881
   ref 'Shen_et_al_04_03_2020

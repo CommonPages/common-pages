@@ -132,7 +132,7 @@ feed 2019
     / Jan, 2019 - BMC Infect Dis
     quote !a =
 
-  # Environment - Tranmission - Humidity
+  # Environment - Transmission - Humidity
   @@LinseyMarr
   // Humidity-Dependent Decay of Viruses, but Not Bacteria, in Aerosols and Droplets Follows Disinfection Kinetics
   doi: https://doi.org/10.1021/acs.est.9b04959

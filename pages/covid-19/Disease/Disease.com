@@ -256,13 +256,13 @@ subject module Disease
     claim !PregnantWomen = Some studies have suggested that in pregnant women COVID-19 has not lead to maternal deaths. Research thus far has shown no confirmed cases of vertical transmission of SARS-CoV-2 from mothers with COVID-19 to their fetuses though recent case reports demonstrate SARS-CoV-2 infection of the placenta.
       -
       # >
-      #   Studies which shows no vertical tranmission
+      #   Studies which shows no vertical transmission
       # --
         'Favre_et_al_2020
         'Sutton_et_al_2020
         'Schwartz_et_al_2020
       # >
-      #   Studies which shows vertical tranmission / Infection on placenta
+      #   Studies which shows vertical transmission / Infection on placenta
       # --
         'Dong_et_al_2020
         'Hosier_et_al_2020

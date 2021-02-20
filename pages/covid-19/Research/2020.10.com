@@ -245,7 +245,7 @@ feed October2020
     / October, 2020 - Nature Biology
     quote !a = For those who develop a low neutralizing antibody response, titres can return to baseline over a relatively short period, whereas those who develop a robust neutralizing antibody response maintain titres despite the initial decline.
 
-  # Cross Reactive T Cells . Tranmission Dynamics  - REDO THIS PAPER - Herd immunity context .Tranmission Dynamics
+  # Cross Reactive T Cells . Transmission Dynamics  - REDO THIS PAPER - Herd immunity context .Transmission Dynamics
   // Cross-reactive memory T cells and herd immunity to SARS-CoV-2
   doi: https://doi.org/10.1038/s41577-020-00460-4
   ref 'Lipsitch_et_al_10_06_2020

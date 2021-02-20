@@ -1041,7 +1041,7 @@ feed March2020
     # quote !a =
 
 
-  # Origin - Indoor Tranmission
+  # Origin - Indoor Transmission
   @@ZhangYing
   // Analysis on Cluster Cases of COVID-19 in Tianjin
   doi: https://doi.org/10.3760/cma.j.cn112338-20200225-00165
@@ -1064,7 +1064,7 @@ feed March2020
     # quote !a =
 
 
-  # Indoor Tranmission
+  # Indoor Transmission
   @@PengLi
   // Transmission of COVID-19 in the Terminal Stage of Incubation Period: A Familial Cluster
   doi: https://doi.org/10.1016/j.ijid.2020.03.027
@@ -1075,7 +1075,7 @@ feed March2020
     # quote !a =
 
 
-  # Origin, Indoor tranmission
+  # Origin, Indoor transmission
   @@LiJi
   // Clinical features of pediatric patients with COVID-19: a report of two family cluster cases
   doi: https://doi.org/10.1007/s12519-020-00356-2

@@ -207,8 +207,8 @@ subject module Modes
       #     'Wong_et_al_06_01_2020
       #     'Wu_et_al_05_11_2020
 
-      # Tranmission paper taken after cleaning up viability
-      # - Aersol Tranmission in animal when they were kept separate
+      # Transmission paper taken after cleaning up viability
+      # - Aersol Transmission in animal when they were kept separate
       #   'Richard_et_al_07_08_2020
       # - Aerosol Transmission Dynamics
       #   'Vuorinen_et_al_05_31_2020

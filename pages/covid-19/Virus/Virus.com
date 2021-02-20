@@ -540,7 +540,7 @@ subject module Virus
         'Bhattacharyya_et_al_2020
 
 
-  # / Tranmission
+  # / Transmission
   # subject module Transmission
   #   head = ABC
   #
@@ -696,7 +696,7 @@ subject module Virus
   #         'Hoseinzadeh_et_al_07_09_2020
   #         'Cahill_et_al_06_11_2020
   #
-  #     / Animal to Human Tranmission
+  #     / Animal to Human Transmission
   #     subject AnimaltohumanTransmission
   #       head = Modes of trasmission from Animal to Human
   #       # Bats, Pangolins, Pets, Rodents, Animals which carry these virus.
@@ -710,7 +710,7 @@ subject module Virus
   #
   #   / Environmental Settings
   #   subject module Environment
-  #     head = Studies suggest that temperature has impact on tranmission of COVID-19. Low temperature is beneficial to viral tranmission.
+  #     head = Studies suggest that temperature has impact on transmission of COVID-19. Low temperature is beneficial to viral transmission.
   #     -
   #       WeatherConditions
   #       Settings
@@ -760,10 +760,10 @@ subject module Virus
   #           'Wu_et_al_05_11_2020
   #           'Ding_et_al_08_15_2020
   #
-  #       / Indoor Tranmission/ Indoor Settings
+  #       / Indoor Transmission/ Indoor Settings
   #       subject IndoorTransmission
   #         head = Based on studies close contact in the family is the main transmission route of infection.
-  #         - Indoor Tranmission
+  #         - Indoor Transmission
   #           'Chan_et_al_2020
   #           'Qian_et_al_2020
   #           'Allen_et_al_06_19_2020
@@ -959,7 +959,7 @@ subject module Virus
   #
   #       / Outdoor Transmission/ Outdoor Settings
   #       subject OutdoorTransmission
-  #         head = Based on data collected so far, Outdoor Tranmission is possible but seems to be rare.
+  #         head = Based on data collected so far, Outdoor Transmission is possible but seems to be rare.
   #         -
   #           'Qian_et_al_2020.!h
   #
@@ -997,7 +997,7 @@ subject module Virus
   #           'Mahabir_et_al_09_22_2016
   #
   #
-  #   / Asymtomatic Tranmission
+  #   / Asymtomatic Transmission
   #   subject AsymptomaticTransmission
   #     head = People can transmit the virus without showing symptoms, but it is unclear how often this happens.
   #
@@ -1078,7 +1078,7 @@ subject module Virus
   #     -
   #       'Endo_et_al_04_09_2020
   #
-  #   / Human-to-animal Tranmission
+  #   / Human-to-animal Transmission
   #   subject HumanAnimalTransmission
   #     head = There is some evidence of human-to-animal transmission of SARS-CoV-2, including examples in felids. Some institutions have advised those infected with SARS-CoV-2 to restrict contact with animals.
   #     -

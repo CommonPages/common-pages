@@ -224,7 +224,7 @@ feed Clinicaltrials
 
 
 
-  # Phizer
+  # Pfizer
   // Phase I/II Trial Investigating the Safety and Effects of Four BNT162 Vaccines Against COVID-19
   doi: https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001038-36/DE#summary
   ref 'ClinicalTrials-U1111-1249-4220
@@ -234,7 +234,7 @@ feed Clinicaltrials
     / April, 2020 - Clinical Trials EU
     quote !a =
 
-  # Phizer
+  # Pfizer
   // Study to Describe the Safety, Tolerability, Immunogenicity, and Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Individuals
   doi: https://clinicaltrials.gov/ct2/show/study/NCT04368728
   ref 'ClinicalTrials-NCT04368728

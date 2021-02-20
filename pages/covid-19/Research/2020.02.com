@@ -424,7 +424,7 @@ feed February2020
     # quote !a =
 
 
-  # Indoor Tranmission
+  # Indoor Transmission
   @@AdamKucharski
   // Secondary attack rate and superspreading events for SARS-CoV-2
   doi: https://doi.org/10.1016/S0140-6736(20)30462-1

@@ -60,7 +60,7 @@ subject module Spreading
         'Kang_et_al_07_07_2020
         'Lai_et_al_05_21_2020
 
-  / Tranmission Scale
+  / Transmission Scale
   subject TransmissionScale
     head = The spread of the virus can also be understood in terms of the scale of the spread.
     -
@@ -265,7 +265,7 @@ subject module Spreading
         'Xu_et_al_03_30_2020
         'Gralton_et_al_08_19_2013
 
-  / Tranmission Nature
+  / Transmission Nature
   subject TransmissionNature
     head = The nature of the transmission is important in capturing and controlling the spread of the virus in a community.
     -
@@ -287,7 +287,7 @@ subject module Spreading
         'Yang_et_al_03_08_2020
         'Yu_et_al_02_18_2020
 
-    / Asymtomatic Tranmission
+    / Asymtomatic Transmission
     subject AsymptomaticTrans
       head = Interestingly, there were reports indicating asymptomatic transmission, i.e., transmission from a positive patient who did not show any symptoms at all.
       -

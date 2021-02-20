@@ -58,7 +58,7 @@ subject module Vaccines
         !Viralload
       - Efficacy against Variants
         Variants.B1351.!Vaccineefficacy
-        Variants.B117.!Phizer
+        Variants.B117.!Pfizer
         !Variantefficacy
       - Severe Reactions
         AnaphylaxisPEG
@@ -123,7 +123,7 @@ subject module Vaccines
             'Polack_et_al_12_31_2020
             'Polack_et_al_12_31_2020.!g
 
-      claim !Variantefficacy = In Jan of 2020, a study reported Pfizer vaccine has modestly reduced efficacy (0.81 - 1.46 fold) against UK and South African COVID19 variants
+      claim !Variantefficacy = In Jan of 2020, a study reported that the Pfizer vaccine has modestly reduced efficacy (0.81 - 1.46 fold) against UK and South African COVID19 variants.
         -
           'Xie_et_al_01_27_2021
           'Xie_et_al_01_27_2021.!a
@@ -429,7 +429,7 @@ subject module Vaccines
           'Wu_et_al_01_25_2021.!a
           'Wu_et_al_01_25_2021.!b
 
-      claim !AntibodyNeutralization = One study found that both infection- and vaccine(Moderna Vaccine)-induced antibodies were effective at neutralizing the SARS-CoV-2 B.1.1.7 variant
+      claim !AntibodyNeutralization = One study found that both infection- and vaccine-induced antibodies were effective at neutralizing the SARS-CoV-2 B.1.1.7 variant.
         -
           'Edara_et_al_02_05_2021
           'Edara_et_al_02_05_2021.!a
@@ -581,7 +581,7 @@ subject module Vaccines
           'Pace_et_al_02_17_2015.!a
           'Pace_et_al_02_17_2015.!b
 
-      claim !VariantEfficacy = Efficacy data of ChAdOx1 nCoV-19 Vaccine Against SARS-CoV-2 was published in Feb of 2020. Authors reported that efficacy of ChAdOx1 nCoV-19 against the B.1.1.7 variant of SARS-CoV-2 is similar to the efficacy of the vaccine against other lineages.
+      claim !VariantEfficacy = Efficacy data of ChAdOx1 nCoV-19 vaccine against SARS-CoV-2 was published in Feb of 2020. Authors reported that efficacy of ChAdOx1 nCoV-19 against the B.1.1.7 variant of SARS-CoV-2 is similar to the efficacy of the vaccine against other lineages.
         -
           'Emary_et_al_02_04_2021
           'Emary_et_al_02_04_2021.!a
@@ -1050,7 +1050,7 @@ subject module Vaccines
           'Bricker_et_al_12_03_2020.!b
           'Bricker_et_al_12_03_2020.!c
 
-      claim !UKvariant = In Jan of 2020, Covaxin reported that a comparable neutralization activity of the vaccinated individuals sera showed against UK-variant and the heterologous strain with similar efficiency, dispel the uncertainty of possible neutralization escape.
+      claim !UKvariant = In Jan of 2020, Covaxin reported that a comparable neutralization activity of the vaccinated individuals sera showed against UK-variant and the heterologous strain with similar efficiency, dispeling the uncertainty of possible neutralization escape.
         -
           'Sapkal_et_al_01_27_2021
           'Sapkal_et_al_01_27_2021.!a
@@ -1132,7 +1132,7 @@ subject module Vaccines
           'J&J_et_al_01_29_2021.!a
           'J&J_et_al_01_29_2021.!b
 
-      claim !SAVariant = J & J reported that protection against severe disease across geographies, ages, and multiple virus variants, including the SARS-CoV-2 variant from the B.1.351 Lineage was also observed in South Africa
+      claim !SAVariant = J & J reported that protection against severe disease across geographies, ages, and multiple virus variants, including the SARS-CoV-2 variant from the B.1.351 Lineage was also observed in South Africa.
         -
           'J&J_et_al_01_29_2021
           'J&J_et_al_01_29_2021.!c
@@ -1193,7 +1193,7 @@ subject module Vaccines
           'Novavax_et_al_01_28_2021
           'Novavax_et_al_01_28_2021.!a
 
-      claim !UKandSAvariant = In Jan of 2020, Novavax reported that NVX-CoV2373 demonstrate clinical efficacy against both UK and SA variant. Novavax also reported that prior infection with COVID-19 may not completely protect against subsequent infection by the South Africa escape variant, however, vaccination with NVX-CoV2373 provided significant protection.
+      claim !UKandSAvariant = In Jan of 2020, Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and SA variants. Novavax also reported that prior infection with COVID-19 may not completely protect against subsequent infection by the South Africa escape variant, however, vaccination with NVX-CoV2373 provided significant protection.
         -
           'Novavax_et_al_01_28_2021
           'Novavax_et_al_01_28_2021.!b
@@ -1201,9 +1201,9 @@ subject module Vaccines
           'Novavax_et_al_01_28_2021.!d
           'Novavax_et_al_01_28_2021.!e
 
-  / Vaccine efficacy against Variants
+  / Vaccine Efficacy Against Variants
   subject EfficacyVariants
-    head =  Many variants have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of concerns to scientists as it can impact efficacy of vaccines and it's studies are being conducted.
+    head =  Many variants have emerged at the end of 2020 and beginning of 2021 which share defining amino acid mutations. Some of these mutations are of concerns to scientists, as they may impact the efficacy of vaccines.
 
     >
       Preliminary results of vaccine efficacy for 2 of the major variants (B.1.1.7 & B.1.351) are summarized below.
@@ -1260,11 +1260,11 @@ subject module Vaccines
       </table>
 
     >
-      Some vaccines have shown efficacy against new variants however, a efficacy drop-off is consistent in all the vaccines to date, more for B.1.351 variant compared with B.1.1.7.
+      Some vaccines have shown efficacy against new variants. However, an efficacy drop-off is consistent across all the vaccines to date, more for B.1.351 variant compared with B.1.1.7.
 
     - Pfizer
       Variants.B1351.!Vaccineefficacy
-      Variants.B117.!Phizer
+      Variants.B117.!Pfizer
       Approved.Tozinameran.!Variantefficacy
     - Moderna
       Approved.mRNA-1273.!Variantefficacy

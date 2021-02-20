@@ -240,7 +240,7 @@ feed June2020
     quote !a = No statistically significant correlation between PCR-positive environmental samples and the extent of infection spread inside the household could be observed.
 
 
-  # Close contact . Indirect Tranmission
+  # Close contact . Indirect Transmission
   // Indirect Virus Transmission in Cluster of COVID-19 Cases, Wenzhou, China, 2020
   doi: https://dx.doi.org/10.3201%2Feid2606.200412
   ref 'Cai_et_al_06_26_2020
@@ -1384,7 +1384,7 @@ feed June2020
     quote !a = Although no known transmission events were determined to be associated with these specimens, the findings suggest the potential for HVAC systems to facilitate transmission by environmental contamination via shared air volumes with locations remote from areas where infected persons reside.
 
 
-  # Airborne Tranmission
+  # Airborne Transmission
   @@AdriaanBax
   // The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission
   doi: https://doi.org/10.1073/pnas.2006874117

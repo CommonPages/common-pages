@@ -470,7 +470,7 @@ subject Variants
       !Phase3trialConcern
       Variants.B1351.!Vaccineefficacy
       !VaccineEffectiveness
-      !Phizer
+      !Pfizer
       Vaccines.Approved.BBV152.!UKvariant
       Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
       Vaccines.Approved.mRNA-1273.!NeutralisingUKvariant
@@ -705,7 +705,7 @@ subject Variants
         'McCarthy_et_al_11_19_2020
         'McCarthy_et_al_11_19_2020.!c
 
-    claim !Phizer = One study reported that the Phizer covid vaccine (BNT162b2) had equivalent neutralizing titers to the N501 and Y501 viruses, which are key mutational sites for the UK and South Africa variants.
+    claim !Pfizer = One study reported that the Pfizer vaccine (BNT162b2) had equivalent neutralizing titers to the N501 and Y501 viruses, which are key mutational sites for the UK and South Africa variants.
       -
         'Xie_et_al_01_07_2021
         'Xie_et_al_01_07_2021.!a
@@ -796,7 +796,7 @@ subject Variants
     - Severity
       !Severity
     - Vaccine Related claims
-      Variants.B117.!Phizer
+      Variants.B117.!Pfizer
       Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
       Vaccines.Candidates.Ad26COV2S.!SAVariant
       Vaccines.Approved.AZD1222.!SAVariant
@@ -861,7 +861,7 @@ subject Variants
 
 
     #  encoding E484K or N501Y or the K417N:E484K:N501Y combination
-    claim !Vaccineefficacy = One study showed that the neutralizing activity of the Phizer and Moderna vaccines against some SARS-CoV-2 variants was reduced by a small but significant margin. These mutation can reduce the neutralization potency of vaccine plasma.
+    claim !Vaccineefficacy = One study showed that the neutralizing activity of the Pfizer and Moderna vaccines against some SARS-CoV-2 variants was reduced by a small but significant margin. These mutations can reduce the neutralization potency of vaccine plasma.
       -
         'Wang_et_al_01_19_2021
         'Wang_et_al_01_19_2021.!a
