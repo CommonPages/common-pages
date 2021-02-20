@@ -9,8 +9,45 @@
 
    # mRNA vaccines will not affect our DNA??
 
+  >
+    New research has shown that the Pfizer vaccine generates a robust immune response after one dose, opening up the possibility that the second dose of the vaccine can be delayed for longer than first thought
+
+    Some Covid-19 Vaccines Are Effective After One Dose, Can Be Stored in Normal Freezers, Data Show.
+    COVID vaccine is ‘highly effective’ after one dose; can be stored at higher temperatures
+    The vaccine developed by Pfizer Inc. and BioNTech SE generates robust immunity after one dose, according to new research out of Israel, and further data showed that the University of Oxford and AstraZeneca PLC vaccine similarly prevented Covid-19 when doses were spaced three months apart.
 
 
+
+  >
+    Pfizer said it will be asking the FDA to approve an amended plan to store the vaccine at temperatures commonly found in pharmaceutical freezers and refrigerators. Pfizer said it submitted new data that shows the vaccine is stable for two weeks in a refrigerator set between minus 13 and 5 degrees Fahrenheit.
+
+
+  >
+    It has been hypothesized that preexisting anti-vector immunity may affect immune responses induced by human adenoviral vector-based vaccinations and their resulting efficacy2,40. However, several studies have shown that this may be a less substantial concern for other viral vector-based vaccines41,42,43.It has been hypothesized that preexisting anti-vector immunity may affect immune responses induced by human adenoviral vector-based vaccinations and their resulting efficacy2,40. However, several studies have shown that this may be a less substantial concern for other viral vector-based vaccines41,42,43.Furthermore, some evidence suggests the negative impact of preexisting vector immunity can be overcome by booster schedules44.
+
+  >
+    The observation of reduced second-dose reactogenicity is in contrast to reported profiles of two mRNA vaccines for COVID-19 and a protein-adjuvant vaccine technology, in which, although generally well tolerated, reactogenicity increased with the second dose.
+  -
+    'Barrett_et_al_12_17_2020
+    'Barrett_et_al_12_17_2020.!c
+  # -
+  #   An mRNA vaccine against SARS-CoV-2—preliminary report.
+  #   Phase 1–2 trial of a SARS-CoV-2 recombinant spike protein nanoparticle vaccine.
+  #   COVID-19 vaccine BNT162b1 elicits human antibody and TH1 T cell responses.
+
+
+  >
+    Antibodies against the ChAdOx1 vector are induced by the first vaccination but do not prevent boosting and are not further increased by the second vaccination with either a 4-week or 8-week interval. These observations are also important for further development of viral vectors in general, particularly as multiple vaccines are being developed that use the same viral vectors as those in development for SARS-CoV-2 vaccines, including Ad26, Ad5 and ChAdOx1
+  # -
+  #   'Zhu_et_al_07_20_2020
+  #   'Logunov_et_al_09_04_2020
+  #   'Sadoff_et_al_09_25_2020
+  #   Phase 1 safety and immunogenicity study of a respiratory syncytial virus vaccine with an adenovirus 26 vector encoding prefusion F (Ad26.RSV.preF) in adults aged ≥60 years.
+  #   Safety and immunogenicity of a 2-dose heterologous vaccination regimen with Ad26.ZEBOV and MVA-BN-Filo ebola vaccines: 12-month data from a phase 1 randomized clinical trial in Uganda and Tanzania.
+
+  
+
+  #########
 
   >
     Does your vaccine cause infertility? What can you share about the Pfizer-BioNTech COVID-19 vaccine in pregnant women?

@@ -104,19 +104,24 @@ subject module Vaccines
 
         claim !Safetyandefficacy = The favorable safety profile observed during phase 1 testing of BNT162b2 was confirmed in the phase 2/3 portion of the trial. A two-dose regimen of BNT162b2 conferred 95% protection against Covid-19 in persons 16 years of age or older.
           -
-            'Polack_et_al_12_10_2020
-            'Polack_et_al_12_10_2020.!a
-            'Polack_et_al_12_10_2020.!c
+            'Polack_et_al_12_31_2020
+            'Polack_et_al_12_31_2020.!a
+            'Polack_et_al_12_31_2020.!c
+
+          # The study was not designed to assess the efficacy of a single-dose regimen. Nevertheless, in the interval between the first and second doses, the observed vaccine efficacy against Covid-19 was 52%, indicating early protection by the vaccine, starting as soon as 12 days after the first dose.
+          # Between the first dose and the second dose, 39 cases in the BNT162b2 group and 82 cases in the placebo group were observed, resulting in a vaccine efficacy of 52% (95% CI, 29.5 to 68.4) during this interval and indicating early protection by the vaccine, starting as soon as 12 days after the first dose.
+          -
+            'Polack_et_al_12_31_2020.!h
 
         claim !AdverseEffect = The safety profile of BNT162b2 was characterized by short-term, mild-to-moderate pain at the injection site, fatigue, and headache. The incidence of serious adverse events was low and was similar in the vaccine and placebo groups.
           -
-            'Polack_et_al_12_10_2020
-            'Polack_et_al_12_10_2020.!f
+            'Polack_et_al_12_31_2020
+            'Polack_et_al_12_31_2020.!f
 
         claim !Reactogenicity = Systemic reactogenicity was more common and severe after the second dose than after the first dose, although local reactogenicity was similar after the two doses.
           -
-            'Polack_et_al_12_10_2020
-            'Polack_et_al_12_10_2020.!g
+            'Polack_et_al_12_31_2020
+            'Polack_et_al_12_31_2020.!g
 
       claim !Variantefficacy = In Jan of 2020, a study reported Pfizer vaccine has modestly reduced efficacy (0.81 - 1.46 fold) against UK and South African COVID19 variants
         -
@@ -190,7 +195,7 @@ subject module Vaccines
             'CDC_et_al_2020.!e
             'CDC_et_al_2020.!f
 
-        > Triage 
+        > Triage
           Anaphylaxis is a severe, life-threatening allergic reaction that occurs rarely after vaccination. Data in this analysis and elsewhere indicate that anaphylaxis after vaccination (and the possibility of death) is a rare event.
         -
           'Su_et_al_01_14_2019
@@ -515,10 +520,10 @@ subject module Vaccines
       / Phase 1 & 2
       claim !Phase12AstraZeneca = Between April and May of 2020, 1077 participants were enrolled and assigned to receive either ChAdOx1 nCoV-19 or a placebo. The authors reported that spike-specific antibodies peaked at day 28 and neutralizing antibodies after a booster dose peaked at day 56. Adverse effects observed were pain at the injection site, headache, fever, chills, muscle ache, malaise in more than 60% of participants; paracetamol increase tolerability for some patients.
         -
-          'Folegatti_et_al_08_15_2020
-          'Folegatti_et_al_08_15_2020.!a
-          'Folegatti_et_al_08_15_2020.!b
-          'Folegatti_et_al_08_15_2020.!c
+          'Folegatti_et_al_07_20_2020
+          'Folegatti_et_al_07_20_2020.!a
+          'Folegatti_et_al_07_20_2020.!b
+          'Folegatti_et_al_07_20_2020.!c
 
 
       / Old People

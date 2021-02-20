@@ -1,5 +1,175 @@
 feed Sangeeta
   #
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Phase 1/2 trial of SARS-CoV-2 vaccine ChAdOx1 nCoV-19 with a booster dose induces multifunctional antibody responses
+  doi: https://doi.org/xyz
+  ref 'Barrett_et_al_12_17_2020
+    head = We describe safety and exploratory humoral and cellular immunogenicity of the vaccine, from subgroups of volunteers in a single-blinded phase 1/2 randomized controlled trial of healthy adults aged 18–55 years (NCT04324606), who were subsequently allocated to receive a homologous full-dose (SD/SD D56; n = 20) or half-dose (SD/LD D56; n = 32) ChAdOx1 booster vaccine 56 d following prime vaccination.
+
+    > Abstract
+      More than 190 vaccines are currently in development to prevent infection by the novel severe acute respiratory syndrome coronavirus 2. Animal studies suggest that while neutralizing antibodies against the viral spike protein may correlate with protection, additional antibody functions may also be important in preventing infection. Previously, we reported early immunogenicity and safety outcomes of a viral vector coronavirus vaccine, ChAdOx1 nCoV-19 (AZD1222), in a single-blinded phase 1/2 randomized controlled trial of healthy adults aged 18–55 years (NCT04324606). Now we describe safety and exploratory humoral and cellular immunogenicity of the vaccine, from subgroups of volunteers in that trial, who were subsequently allocated to receive a homologous full-dose (SD/SD D56; n = 20) or half-dose (SD/LD D56; n = 32) ChAdOx1 booster vaccine 56 d following prime vaccination. Previously reported immunogenicity data from the open-label 28-d interval prime-boost group (SD/SD D28; n = 10) are also presented to facilitate comparison. Additionally, we describe volunteers boosted with the comparator vaccine (MenACWY; n = 10). In this interim report, we demonstrate that a booster dose of ChAdOx1 nCoV-19 is safe and better tolerated than priming doses. Using a systems serology approach we also demonstrate that anti-spike neutralizing antibody titers, as well as Fc-mediated functional antibody responses, including antibody-dependent neutrophil/monocyte phagocytosis, complement activation and natural killer cell activation, are substantially enhanced by a booster dose of vaccine. A booster dose of vaccine induced stronger antibody responses than a dose-sparing half-dose boost, although the magnitude of T cell responses did not increase with either boost dose. These data support the two-dose vaccine regime that is now being evaluated in phase 3 clinical trials.
+
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+
+    / December, 2020 - Nature Medicine
+    quote !a = In this interim report, we demonstrate that a booster dose of ChAdOx1 nCoV-19 is safe and better tolerated than priming doses. Using a systems serology approach we also demonstrate that anti-spike neutralizing antibody titers, as well as Fc-mediated functional antibody responses, including antibody-dependent neutrophil/monocyte phagocytosis, complement activation and natural killer cell activation, are substantially enhanced by a booster dose of vaccine.
+
+    / December, 2020 - Nature Medicine
+    quote !b = A booster dose of vaccine induced stronger antibody responses than a dose-sparing half-dose boost, although the magnitude of T cell responses did not increase with either boost dose. These data support the two-dose vaccine regime that is now being evaluated in phase 3 clinical trials.
+
+    / December, 2020 - Nature Medicine
+    quote !c = We show clearly that, although systemic reactogenicity is prominent after a priming dose of ChAdOx1 nCoV-19, a second dose is consistently less reactogenic, regardless of dose interval.
+
+    / December, 2020 - Nature Medicine
+    quote !d = There was no association between reactogenicity and presence or absence of antibodies to either SARS-CoV-2 or ChAdOx1 at the time of vaccination. This is an important finding when considering extended use of the vaccine after licensure, when antibody screening will not be performed before vaccination and a variable proportion of the population will already have been exposed to SARS-CoV-2.
+
+    / December, 2020 - Nature Medicine
+    quote !e = Antibodies against the ChAdOx1 vector are induced by the first vaccination but do not prevent boosting and are not further increased by the second vaccination with either a 4-week or 8-week interval. These observations are also important for further development of viral vectors in general, particularly as multiple vaccines are being developed that use the same viral vectors as those in development for SARS-CoV-2 vaccines, including Ad26, Ad5 and ChAdOx1
+
+    / December, 2020 - Nature Medicine
+    quote !f = We show that NAbs are consistently induced across two different dosing intervals, as demonstrated across two assays using either live virus neutralization or pseudotyped virus neutralization as a readout, although we acknowledge that we do not yet have data on the durability of these responses. These observations are similar to those reported for several other COVID-19 vaccines, in which higher titers of NAbs are produced following two-dose vaccination regimens.
+
+
+
+
+  #
+  // Single-dose administration and the influence of the timing of the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine: a pooled analysis of four randomised trials
+  doi: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00432-3/fulltext?utm_campaign=tlcoronavirus21&utm_source=twitter&utm_medium=social#seccestitle10
+  ref 'Voysey_et_al_02_19_2021
+    head = We present data from three single-blind randomised controlled trials—one phase 1/2 study in the UK (COV001), one phase 2/3 study in the UK (COV002), and a phase 3 study in Brazil (COV003)—and one double-blind phase 1/2 study in South Africa (COV005).
+
+
+    > Background
+      The ChAdOx1 nCoV-19 (AZD1222) vaccine has been approved for emergency use by the UK regulatory authority, Medicines and Healthcare products Regulatory Agency, with a regimen of two standard doses given with an interval of 4–12 weeks. The planned roll-out in the UK will involve vaccinating people in high-risk categories with their first dose immediately, and delivering the second dose 12 weeks later. Here, we provide both a further prespecified pooled analysis of trials of ChAdOx1 nCoV-19 and exploratory analyses of the impact on immunogenicity and efficacy of extending the interval between priming and booster doses. In addition, we show the immunogenicity and protection afforded by the first dose, before a booster dose has been offered.
+
+    > Methods
+      We present data from three single-blind randomised controlled trials—one phase 1/2 study in the UK (COV001), one phase 2/3 study in the UK (COV002), and a phase 3 study in Brazil (COV003)—and one double-blind phase 1/2 study in South Africa (COV005). As previously described, individuals 18 years and older were randomly assigned 1:1 to receive two standard doses of ChAdOx1 nCoV-19 (5 × 1010 viral particles) or a control vaccine or saline placebo. In the UK trial, a subset of participants received a lower dose (2·2 × 1010 viral particles) of the ChAdOx1 nCoV-19 for the first dose. The primary outcome was virologically confirmed symptomatic COVID-19 disease, defined as a nucleic acid amplification test (NAAT)-positive swab combined with at least one qualifying symptom (fever ≥37·8°C, cough, shortness of breath, or anosmia or ageusia) more than 14 days after the second dose. Secondary efficacy analyses included cases occuring at least 22 days after the first dose. Antibody responses measured by immunoassay and by pseudovirus neutralisation were exploratory outcomes. All cases of COVID-19 with a NAAT-positive swab were adjudicated for inclusion in the analysis by a masked independent endpoint review committee. The primary analysis included all participants who were SARS-CoV-2 N protein seronegative at baseline, had had at least 14 days of follow-up after the second dose, and had no evidence of previous SARS-CoV-2 infection from NAAT swabs. Safety was assessed in all participants who received at least one dose. The four trials are registered at ISRCTN89951424 (COV003) and ClinicalTrials.gov, NCT04324606 (COV001), NCT04400838 (COV002), and NCT04444674 (COV005).
+
+    > Findings
+      Between April 23 and Dec 6, 2020, 24 422 participants were recruited and vaccinated across the four studies, of whom 17 178 were included in the primary analysis (8597 receiving ChAdOx1 nCoV-19 and 8581 receiving control vaccine). The data cutoff for these analyses was Dec 7, 2020. 332 NAAT-positive infections met the primary endpoint of symptomatic infection more than 14 days after the second dose. Overall vaccine efficacy more than 14 days after the second dose was 66·7% (95% CI 57·4–74·0), with 84 (1·0%) cases in the 8597 participants in the ChAdOx1 nCoV-19 group and 248 (2·9%) in the 8581 participants in the control group. There were no hospital admissions for COVID-19 in the ChAdOx1 nCoV-19 group after the initial 21-day exclusion period, and 15 in the control group. 108 (0·9%) of 12 282 participants in the ChAdOx1 nCoV-19 group and 127 (1·1%) of 11 962 participants in the control group had serious adverse events. There were seven deaths considered unrelated to vaccination (two in the ChAdOx1 nCov-19 group and five in the control group), including one COVID-19-related death in one participant in the control group. Exploratory analyses showed that vaccine efficacy after a single standard dose of vaccine from day 22 to day 90 after vaccination was 76·0% (59·3–85·9). Our modelling analysis indicated that protection did not wane during this initial 3-month period. Similarly, antibody levels were maintained during this period with minimal waning by day 90 (geometric mean ratio [GMR] 0·66 [95% CI 0·59–0·74]). In the participants who received two standard doses, after the second dose, efficacy was higher in those with a longer prime-boost interval (vaccine efficacy 81·3% [95% CI 60·3–91·2] at ≥12 weeks) than in those with a short interval (vaccine efficacy 55·1% [33·0–69·9] at <6 weeks). These observations are supported by immunogenicity data that showed binding antibody responses more than two-fold higher after an interval of 12 or more weeks compared with an interval of less than 6 weeks in those who were aged 18–55 years (GMR 2·32 [2·01–2·68]).
+
+    > Interpretation
+      The results of this primary analysis of two doses of ChAdOx1 nCoV-19 were consistent with those seen in the interim analysis of the trials and confirm that the vaccine is efficacious, with results varying by dose interval in exploratory analyses. A 3-month dose interval might have advantages over a programme with a short dose interval for roll-out of a pandemic vaccine to protect the largest number of individuals in the population as early as possible when supplies are scarce, while also improving protection after receiving a second dose.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+    -
+      !h
+      !i
+      !j
+
+
+    / Feburary, 2021 - The Lancet
+    quote !a = Exploratory analyses are presented in this report that show protection with dosing intervals from less than 6 weeks to 12 weeks or more and that a longer interval provides better protection after a booster dose without compromising protection in a 3-month period before the second dose is administered.
+
+    / Feburary, 2021 - The Lancet
+    quote !b = We report a prespecified full primary analysis of the efficacy of the ChAdOx1 nCoV-19 vaccine more than 14 days after a second dose, with 332 symptomatic cases of COVID-19 in an analysis population of 17 178 study participants and an efficacy of 66·7% (95% CI 57·4–74·0), confirming the results of our published interim analysis (131 cases reported in the interim analysis).
+
+    / Feburary, 2021 - The Lancet
+    quote !c = In this updated analysis, there were no additional hospital admissions or cases of severe COVID-19 in the ChAdOx1 nCoV-19-vaccinated group after the initial 21-day period after vaccination, compared with 15 in the control group.
+
+    / Feburary, 2021 - The Lancet
+    quote !d = In exploratory analyses, a single standard dose of ChAdOx1 nCoV-19 had an efficacy of 76·0% against symptomatic COVD-19 in the first 90 days after vaccination, with no significant waning of protection during this period. (geometric mean ratio [GMR] 0·66 [95% CI 0·59–0·74]).
+
+    / Feburary, 2021 - The Lancet
+    quote !e = In our study, vaccine efficacy after the second dose was higher in those with a longer prime-boost interval, reaching 81·3% in those with a dosing interval of 12 weeks or more versus 55·1% in those with an interval of less than 6 weeks.
+
+    / Feburary, 2021 - The Lancet
+    quote !f = These observations are supported by immunogenicity data that showed binding antibody responses more than two-fold higher after an interval of 12 or more weeks compared with an interval of less than 6 weeks in those who were aged 18–55 years (GMR 2·32 [2·01–2·68]).
+
+    # / Feburary, 2021 - The Lancet
+    # quote !a = In exploratory analyses, a single standard dose of ChAdOx1 nCoV-19 had an efficacy of 76·0% against symptomatic COVD-19 in the first 90 days after vaccination, with no significant waning of protection during this period. It is not clear how long protection might last with a single dose because follow-up is limited to the time periods described here, and, for this reason, a second dose of vaccine is recommended. Similarly, antibody levels were maintained during this period with minimal waning by day 90 (geometric mean ratio [GMR] 0·66 [95% CI 0·59–0·74]).
+
+    / Feburary, 2021 - The Lancet
+    quote !g = A second dose of ChAdOx1 nCoV-19 induces increased neutralising antibody levels and is probably necessary for long-lasting protection.
+
+    / Feburary, 2021 - The Lancet
+    quote !h = The slightly lower vaccine efficacy against symptomatic COVID-19 of 66·7% after a booster dose appears counterintuitive compared with the 76% efficacy after a single dose, although these differences are non-significant. Cases included in single-dose estimates occurred earlier in the year than those included in post-second-dose analyses, and the intensity of the epidemics varied in the different countries, making single-dose and two-dose estimates difficult to directly compare with each other.
+
+    / Feburary, 2021 - The Lancet
+    quote !i = No correlate of protection has yet been defined for COVID-19 vaccines; however, the data presented here on the relationship between antibody levels and efficacy suggest that humoral immunity might play a role. By contrast, high protective efficacy recorded early after a single dose of vaccine in this study, and also seen with other vaccines from different manufacturers, suggests other immunological mechanisms might be at play early after the first dose, because lower levels of neutralising antibody are detected after a single dose. Further study of correlates of protection is ongoing.
+
+    # / Feburary, 2021 - The Lancet
+    # quote !a = In our data, the length of follow-up after the second dose was short and follow-up tends to be longer in those who were boosted early and thus have shorter prime-boost intervals. Furthermore, the participants who contribute to the analysis of single-dose efficacy are a mixture of participants with events occurring before their booster dose and participants who did not receive a booster dose. These two cohorts differ in some key characteristics; participants who received a booster dose were slightly younger, a greater proportion were men, and a smaller proportion were white compared with those who did not receive a booster dose.
+
+    / Feburary, 2021 - The Lancet
+    quote !j = It is not clear what effect each of these individual sources of variation in the data have on vaccine efficacy estimates. However, the same trend seen with efficacy is also seen in the immunological data, suggesting an underlying biological mechanism.
+
+
+
+
+  #
+  // Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine
+  doi: https://doi.org/10.1056/NEJMc2036242
+  ref 'Skowronski_et_al_02_17_2021
+    head = This is a correspondence letter to the editor regarding Polack et al. (Dec. 31) report a vaccine efficacy of 94.8% against Covid-19 after two doses of the BNT162b2 mRNA vaccine (Pfizer–BioNTech), where they also reported a vaccine efficacy of 52.4% from after the first dose to before the second dose, but in their calculation, they included data that were collected during the first 2 weeks after the first dose, when immunity would have still been mounting. We used documents submitted to the Food and Drug Administration to derive the vaccine efficacy beginning from 2 weeks after the first dose to before the second dose.
+
+    - quotes
+      !a
+    - reccomendation
+      !b
+      !c
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !a = Based on the documents submitted to the Food and Drug Administration, we observed that even before the second dose, BNT162b2 was highly efficacious, with a vaccine efficacy of 92.6%, a finding similar to the first-dose efficacy of 92.1% reported for the mRNA-1273 vaccine (Moderna).
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !b = With such a highly protective first dose, the benefits derived from a scarce supply of vaccine could be maximized by deferring second doses until all priority group members are offered at least one dose. There may be uncertainty about the duration of protection with a single dose, but the administration of a second dose within 1 month after the first, as recommended, provides little added benefit in the short term, while high-risk persons who could have received a first dose with that vaccine supply are left completely unprotected.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !c = Given the current vaccine shortage, postponement of the second dose is a matter of national security that, if ignored, will certainly result in thousands of Covid-19–related hospitalizations and deaths this winter in the United States — hospitalizations and deaths that would have been prevented with a first dose of vaccine.
+
+
+  #
+  // Early rate reductions of SARS-CoV-2 infection and COVID-19 in BNT162b2 vaccine recipients
+  doi: https://doi.org/10.1016/S0140-6736(21)00448-7
+  ref 'Amit_et_al_02_18_2021
+    head = We examined early reductions in SARS-CoV-2 infection and COVID-19 rates in vaccinated healthecare workers (HCWs). To assess vaccine-associated rate reductions we analysed a retrospective cohort of 9109 vaccine-eligible HCWs, comparing vaccinated versus unvaccinated.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / Feburary, 2021 - The Lancet
+    quote !a = Our data show substantial early reductions in SARS-CoV-2 infection and symptomatic COVID-19 rates following first vaccine dose administration. Early reductions of COVID-19 rates provide support of delaying the second dose in countries facing vaccine shortages and scarce resources, so as to allow higher population coverage with a single dose.
+
+    / Feburary, 2021 - The Lancet
+    quote !b =  Compared with a symptomatic COVID-19 rate of 5·0 per 10 000 person-days in unvaccinated HCWs, disease rates were 2·8 and 1·2 per 10 000 person-days on days 1–14 and days 15–28 after the first dose of the vaccine, respectively. Adjusted rate reductions of COVID-19 disease were 47% (95% CI 17–66) and 85% (71–92) for days 1–14 and days 15–28 after the first dose, respectively.
+
+    / Feburary, 2021 - The Lancet
+    quote !c = Compared with a SARS-CoV-2 infection rate of 7·4 per 10 000 person-days in unvaccinated HCWs, infection rates were 5·5 per 10 000 person-days and 3·0 per 10 000 person-days on days 1–14 and 15-28 after the first dose of the vaccine, respectively. Adjusted rate reductions of SARS-CoV-2 infections were 30% (95% CI 2–50) and 75% (72–84) for days 1–14 and days 15–28 after the first dose, respectively
+
+
+
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -15,7 +185,7 @@ feed Sangeeta
 
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  // Diagnosis value of SARS-CoV-2 antigen/antibody combined testing using rapid diagnostic tests at hospital admission
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -27,20 +197,7 @@ feed Sangeeta
     quote !a =
 
 
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  // Comprehensive mapping of mutations in the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human plasma antibodies
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -54,7 +211,7 @@ feed Sangeeta
 
   #
   #
-  //
+  // High prevalence of the antibody against Syncytin-1 in schizophrenia
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2020
     head =
@@ -88,6 +245,7 @@ feed Sangeeta
 
     / February, 2021 - JAMA
     quote !a =
+
 
   #
   // Immediate hypersensitivity reactions following monovalent 2009 pandemic influenza A (H1N1) vaccines: reports to VAERS
@@ -145,7 +303,7 @@ feed Sangeeta
 
 
   #
-  // Anaphylaxis after vaccination reported to the Vaccine Adverse Event Reporting System,
+  // Anaphylaxis after vaccination reported to the Vaccine Adverse Event Reporting System.
   doi: https://doi.org/10.1016/j.jaci.2018.12.1003
   ref 'Su_et_al_01_14_2019
     head = We identified domestic reports of anaphylaxis within VAERS using a combination of Medical Dictionary for Regulatory Activity queries and Preferred Terms. We performed a descriptive analysis, including history of hypersensitivity (anaphylaxis, respiratory allergies, and drug allergies) and vaccines given.
@@ -4049,7 +4207,7 @@ feed Sangeeta
   @@JudithAbsalon
   // Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine
   doi: https://doi.org/10.1056/NEJMoa2034577
-  ref 'Polack_et_al_12_10_2020
+  ref 'Polack_et_al_12_31_2020
     head = In an ongoing multinational, placebo-controlled, observer-blinded, pivotal efficacy trial, we randomly assigned persons 16 years of age or older in a 1:1 ratio to receive two doses, 21 days apart, of either placebo or the BNT162b2 vaccine candidate (30 μg per dose).
 
     > Background
@@ -4066,6 +4224,7 @@ feed Sangeeta
 
     - quotes
       !a
+      !h
       !b
       !c
       !d
@@ -4073,6 +4232,9 @@ feed Sangeeta
 
     / December, 2020 - The New England Journal of Medicine
     quote !a = A two-dose regimen of BNT162b2 conferred 95% protection against Covid-19 in persons 16 years of age or older. Safety over a median of 2 months was similar to that of other viral vaccines.
+
+    / December, 2020 - The New England Journal of Medicine
+    quote !h = The study was not designed to assess the efficacy of a single-dose regimen. Nevertheless, in the interval between the first and second doses, the observed vaccine efficacy against Covid-19 was 52%, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. In the first 7 days after dose 2, it was 91%, reaching full efficacy against disease with onset at least 7 days after dose 2.
 
     # / December, 2020 - The New England Journal of Medicine
     # quote !a = The vaccine met both primary efficacy end points, with more than a 99.99% probability of a true vaccine efficacy greater than 30% and greatly exceeded the minimum FDA criteria for authorization.
@@ -4650,23 +4812,6 @@ feed Sangeeta
 
     / August, 2020 - JAMA
     quote !a = The most common adverse reaction was injection site pain, followed by fever, which were mild and self-limiting; no serious adverse reactions were noted.
-
-
-
-
-  # ASK AYUSH IF HE HAS DONE THIS PAPER
-  @@AndrewPollard
-  // Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial
-  doi: https://doi.org/10.1016/S0140-6736(20)31604-4
-  ref 'Xiao_et_al_02_20_2020
-    head =
-
-    - quotes
-      !a
-
-    / February, 2020 - bioRxiv
-    quote !a =
-
 
 
   #
