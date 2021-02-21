@@ -14,6 +14,8 @@ subject Variants
     A231
   -
     ?Antibodies
+  -
+    Triage
 
 
   / D614 and G614
@@ -446,7 +448,7 @@ subject Variants
         </tr>
         <tr>
         <th>Severity</th>
-        <td> No difference in Severity compared to other variants</td>
+        <td> Increased risk of severity, hospitalization and death</td>
         </tr>
         <tr>
         <th>Immune Escape</th>
@@ -465,6 +467,7 @@ subject Variants
       !Transmission
     - Severity
       !Severity
+      !SeverityHospitalizationDeath
     - Reinfection
       !Reinfection
     - Vaccine related claims
@@ -475,6 +478,9 @@ subject Variants
       Vaccines.Approved.BBV152.!UKvariant
       Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
       Vaccines.Approved.mRNA-1273.!NeutralisingUKvariant
+      Vaccines.Approved.mRNA-1273.!SAvariant
+    - Pre Existing Immunity
+      !PreexistingImmunity
 
     >
       [Coronavirus outbreaks](https://cphpost.dk/?p=122479) occured in two schools and and eight daycare in Feb of 2020. At the last count the two schools had a total of 69 infections among staff and students, while up to 20 have been infected at the daycare institutions. Researchers have raised concern about infection of B117 among children which have not seen with the old variants.
@@ -754,6 +760,19 @@ subject Variants
         'Brookman_et_al_02_10_2021.!b
         'Brookman_et_al_02_10_2021.!c
 
+
+    claim !PreexistingImmunity =  One study repored that Immune sera from long-term convalescent individuals and recent vaccine recipients, had slightly reduced but largely preserved activity against B.1.1.7 when compared to the reference D614G strain.
+      -
+        'Planas_et_al_02_12_2021
+        'Planas_et_al_02_12_2021.!a
+        'Planas_et_al_02_12_2021.!c
+
+    claim !SeverityHospitalizationDeath = In an updated analysis of B.1.1.7 severity on Jan 21st of 2021, scientists reported that B.1.1.7 increased risk of severity, Hospitalization and Death
+      -
+        'Nervtag_et_al_01_21_2021
+        'Nervtag_et_al_01_21_2021.!a
+
+
   / B.1.351 (Identified in South Africa)
   subject B1351
     head = On the 18th of December, the B.1.351 variant was reported to spread in South Africa. This lineage has multiple spike mutations and is associated with increased transmissibility. As of the 30th of December, this variant has been reported in four other countries.
@@ -805,10 +824,17 @@ subject Variants
       Vaccines.Candidates.Ad26COV2S.!SAVariant
       Vaccines.Approved.AZD1222.!SAVariant
       Vaccines.Approved.AZD1222.!SAVariantEfficacy
+      Vaccines.Approved.Tozinameran.!VariantEfficacySA
+      Vaccines.Approved.mRNA-1273.!SAvariant
       !Vaccineefficacy
       !Reinfection
       !Neutralizingescape
       !RecurrentDeletion
+
+    - Pre Existing Immunity
+      !PreexistingImmunity
+    - Treatment
+      !Treatment
     - Mutation
       !Mutation
       !E484K
@@ -892,6 +918,18 @@ subject Variants
         'McCarthy_et_al_02_03_2021.!b
         'McCarthy_et_al_02_03_2021.!c
 
+    claim !PreexistingImmunity = One study found analyzed the cross reactivity of the humoral response to pre-existing SARS-CoV-2 viruses and recently emerging variants, in sera from long-term convalescent individuals and recent vaccine recipients. The B.1.351 variant is less sensitive or even unsensitive to a large part of the sera tested, particularly when global antibody levels are low.
+      -
+        'Planas_et_al_02_12_2021
+        'Planas_et_al_02_12_2021.!b
+        'Planas_et_al_02_12_2021.!c
+        'Planas_et_al_02_12_2021.!d
+
+    claim !Treatment = South Africa and Brazil variant was partially (Casirivimab) or fully (Bamlanivimab) resistant to antibodies used for COVID-19 treatment and was less efficiently inhibited by serum/plasma from convalescent or BNT162b2 vaccinated individuals.
+      -
+        'Hoffmann_et_al_02_11_2021
+        'Hoffmann_et_al_02_11_2021.!a
+
 
 
 
@@ -954,14 +992,20 @@ subject Variants
 
   / CAL.20C (Identified in California)
   subject CAL20C
-    head =  CAL.20C was first observed in July of 2020 in samples from LA county. It was not detected in Southern California again until October. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected in Northern California, New York and Washington DC. Functional differences in CAL.20C—both in terms of infectivity and antibody resistance—are unknown at this time.
-    -
+    head = CAL.20C was first observed in July of 2020 in samples from LA county. It was not detected in Southern California again until October. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected in Northern California, New York and Washington DC. Functional differences in CAL.20C—both in terms of infectivity and antibody resistance—are unknown at this time.
+
+    - Triage
       'Zhang_et_al_01_20_2021
       'Zhang_et_al_01_20_2021.!a
       'Zhang_et_al_01_20_2021.!b
       'Zhang_et_al_01_20_2021.!c
       'Zhang_et_al_01_20_2021.!d
       'Zhang_et_al_01_20_2021.!e
+    -
+      'Zhang_et_al_02_11_2021
+      'Zhang_et_al_02_11_2021.!a
+      'Zhang_et_al_02_11_2021.!b
+      'Zhang_et_al_02_11_2021.!c
 
   / A.23.1(Identified in Uganda)
   subject A231

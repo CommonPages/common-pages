@@ -60,6 +60,7 @@ subject module Vaccines
         Variants.B1351.!Vaccineefficacy
         Variants.B117.!Pfizer
         !Variantefficacy
+        !VariantEfficacySA
       - Severe Reactions
         AnaphylaxisPEG
       -
@@ -127,6 +128,15 @@ subject module Vaccines
         -
           'Xie_et_al_01_27_2021
           'Xie_et_al_01_27_2021.!a
+
+      claim !VariantEfficacySA = Another studies reported that neutralizing activity of pfizer against B.1.351-spike virus was weaker and was reduced by approximately two thirds when compared against D614G.
+        -
+          'Liu_et_al_02_17_2021
+          'Liu_et_al_02_17_2021.!a
+          'Liu_et_al_02_17_2021.!b
+        -
+          'Wu_et_al_02_17_2021
+          'Wu_et_al_02_17_2021.!a
 
       claim !Viralload = In Feb of 2020, one study showed that infections occurring 12 days or longer following Pfizer vaccination have significantly reduced viral loads, potentially affecting viral shedding and contagiousness as well as severity of the disease
         -
@@ -328,6 +338,7 @@ subject module Vaccines
         !Variantefficacy
         !AntibodyNeutralization
         !NeutralisingUKvariant
+        !SAvariant
       -
         Tozinameran.AnaphylaxisPEG
 
@@ -409,6 +420,12 @@ subject module Vaccines
           'Wu_et_al_01_25_2021.!c
           'Wu_et_al_01_25_2021.!a
           'Wu_et_al_01_25_2021.!b
+
+      # REDO THIS CLAIm
+      claim !SAvariant = One study found that mutaions found in SA and UK variant caused resistance to neutralization
+        -
+          'Wu_et_al_02_17_2021
+          'Wu_et_al_02_17_2021.!a
 
       claim !AntibodyNeutralization = One study found that both infection- and vaccine-induced antibodies were effective at neutralizing the SARS-CoV-2 B.1.1.7 variant.
         -
@@ -1247,10 +1264,12 @@ subject module Vaccines
       Variants.B1351.!Vaccineefficacy
       Variants.B117.!Pfizer
       Approved.Tozinameran.!Variantefficacy
+      Approved.Tozinameran.!VariantEfficacySA
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
       Approved.mRNA-1273.!AntibodyNeutralization
       Approved.mRNA-1273.!NeutralisingUKvariant
+      Approved.mRNA-1273.!SAvariant
     - Oxford
       Approved.AZD1222.!VariantEfficacy
       Approved.AZD1222.!SAVariant
