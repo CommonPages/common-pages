@@ -8,6 +8,7 @@ subject module Vaccines
     Candidates
     EfficacyVariants
     Effects
+    EffectiveDosing
   -
     Triage
   - Questions
@@ -42,7 +43,7 @@ subject module Vaccines
           </tr>
           <tr>
           <th>Storage</th>
-          <td>Freezer storage only at –94°F (–70°C)</td>
+          <td>Freezer storage only at –94°F (–70°C). Approval pending for -25°C to -15°C storage</td>
           </tr>
         </table>
 
@@ -54,6 +55,12 @@ subject module Vaccines
         !BNT162b1
         !BNT162b2
         !Phase3
+      -
+        !Israel
+        !Israelday13
+        !IsraelHCW
+      -
+        !OldAge
       - Viral Load
         !Viralload
       - Efficacy against Variants
@@ -63,6 +70,9 @@ subject module Vaccines
         !VariantEfficacySA
       - Severe Reactions
         AnaphylaxisPEG
+      >
+        In Feb of 2021, Pfizer Inc. (NYSE: PFE) and BioNTech SE (Nasdaq: BNTX) {'BioNTech_et_al_02_19_2021 announced} the submission of new data to the U.S. Food and Drug Administration (FDA) demonstrating the stability of their COVID-19 vaccine when stored at -25°C to -15°C (-13°F to 5°F), temperatures more commonly found in pharmaceutical freezers and refrigerators.
+
       -
         ?Approvals
 
@@ -295,6 +305,36 @@ subject module Vaccines
             'Shimabukuro_et_al_01_21_2021
             'Shimabukuro_et_al_01_21_2021.!b
 
+      / Vaccination in Israel
+      claim !Israel = In Feb of 2021, researchers provided an estimate for the pfizer vaccine effectiveness based on vaccination in Israel. 1st dose, the analysis shows effectiveness of 72% in reducing SARS-CoV-2 positive cases (symptomatic and asymptomatic), 83% reduction of COVID-19 hospitalizations and 86% reduction in severe cases in 60 years and older individuals the second week after the 2nd dose. On weeks 3-4 after the 2nd dose, vaccine effectiveness reached 95%+. Authors concluded that high effectiveness of the vaccine only starts after three weeks, which coincides with the administration of the 2nd dose.
+        -
+          'Aran_et_al_02_19_2021
+          'Aran_et_al_02_19_2021.!a
+          'Aran_et_al_02_19_2021.!b
+
+      claim !Israelday13 = Authors reported the effectiveness of the first dose of BNT162b2 vaccine in reducing SARS-CoV-2 infection 13-24 days after immunization to be approximately 51%. Authors concluded that immunization with the second dose (after 21 days) should be continued to attain the anticipated protection.
+        -
+          'Chodick_et_al_01_29_2021
+          'Chodick_et_al_01_29_2021.!a
+          'Chodick_et_al_01_29_2021.!b
+          'Chodick_et_al_01_29_2021.!c
+
+      claim !IsraelHCW = A study conducted in vaccinated healthecare workers (Israel), showed the first dose of Pfizer’s vaccine was 85% effective in preventing symptomatic disease by 15 to 28 days after it was administered. The authors conclude that Pfizer vaccine generates a robust immune response after one dose.
+        -
+          'Amit_et_al_02_18_2021
+          'Amit_et_al_02_18_2021.!a
+          'Amit_et_al_02_18_2021.!b
+          'Amit_et_al_02_18_2021.!c
+
+      / Old people
+      claim !OldAge = Real world immune responses following vaccination with mRNA-based vaccine BNT162b2 showed a high proportion of individuals above the age of 80 have suboptimal neutralising antibody responses following first dose vaccination with BNT162b2, and that the second dose is associated with robust neutralising responses.
+        -
+          'Collier_et_al_02_20_2021
+          'Collier_et_al_02_20_2021.!a
+          'Collier_et_al_02_20_2021.!b
+          'Collier_et_al_02_20_2021.!c
+          'Collier_et_al_02_20_2021.!d
+          'Collier_et_al_02_20_2021.!e
 
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
@@ -330,6 +370,7 @@ subject module Vaccines
         !Phase1Moderna
         !Durability
         !Phase3
+        !Phase2
       -
         !Olderpeople
         !Olderpeopledose
@@ -439,6 +480,13 @@ subject module Vaccines
           'Gilbert_et_al_02_05_2021
           'Gilbert_et_al_02_05_2021.!a
 
+      / Phase 2
+      claim !Phase2 = Data of phase 2 trials (conducted in 8 sites in the USA) was published in Feb of 2021. Authors reported that Moderna vaccine at 50 and 100 ug elicits robust immune responses in healthy adults. Immunogenicity is generally similar in younger (18-55 yr) and older (≥55 yr) adults. Safety profile of mRNA-1273 is acceptable; no serious adverse effects were observed. Results support 2-dose regimens of 50 or 100 ug mRNA-1273 SARS-CoV-2 vaccine.
+        -
+          'Chu_et_al_02_09_2021
+          'Chu_et_al_02_09_2021.!a
+          'Chu_et_al_02_09_2021.!b
+
 
     / Oxford–AstraZeneca
     subject AZD1222
@@ -465,14 +513,20 @@ subject module Vaccines
           <td>Stable in refrigerator for at least 6 months</td>
           </tr>
         </table>
-
       -
         !OngoingTrials
+      - Pre clinical trials
         !AnimalStudies
+        !MiceDosing
+      - Phase 1 & 2
         !Phase12AstraZeneca
+        !Phase12Dosing
+      - Old age
         !OldAge
+      - Phase 3
         !Phase3
         !Phas3Dosing
+        !PooledAnalysis
       - Efficacy against UK Variant
         !VariantEfficacy
       - Efficacy against SA Variant
@@ -516,6 +570,11 @@ subject module Vaccines
             'Graham_et_al_06_20_2020
             'Graham_et_al_06_20_2020.!a
 
+      claim !MiceDosing = Single dose ChAdOx1 generated a similar type of immune response in aged mice but of a reduced magnitude than in younger mice. Study recommends a prime-boost strategy is a rational approach to enhance immunogenicity in older persons.
+        -
+          'Silva-Cayetano_et_al_12_15_2020
+          'Silva-Cayetano_et_al_12_15_2020.!a
+
       / Phase 1 & 2
       claim !Phase12AstraZeneca = Between April and May of 2020, 1077 participants were enrolled and assigned to receive either ChAdOx1 nCoV-19 or a placebo. The authors reported that spike-specific antibodies peaked at day 28 and neutralizing antibodies after a booster dose peaked at day 56. Adverse effects observed were pain at the injection site, headache, fever, chills, muscle ache, malaise in more than 60% of participants; paracetamol increase tolerability for some patients.
         -
@@ -523,6 +582,17 @@ subject module Vaccines
           'Folegatti_et_al_07_20_2020.!a
           'Folegatti_et_al_07_20_2020.!b
           'Folegatti_et_al_07_20_2020.!c
+
+      / Effective Dosing
+      claim !Phase12Dosing = In interim report of Phase 1 & 2 trials published in December of 2020, the authors demonstrate that a booster dose of ChAdOx1 nCoV-19 is safe and better tolerated than priming doses. The vaccine enhances both the titer and the functionality of the antibody response. Reduced second-dose reactogenicity was observed. The data supports the decision to change from a one- to two-dose regimen for the phase 3 trials of ChAdOx1 nCoV-19.
+        -
+          'Barrett_et_al_12_17_2020
+          'Barrett_et_al_12_17_2020.!a
+          'Barrett_et_al_12_17_2020.!b
+          'Barrett_et_al_12_17_2020.!c
+          'Barrett_et_al_12_17_2020.!d
+          'Barrett_et_al_12_17_2020.!e
+          'Barrett_et_al_12_17_2020.!f
 
 
       / Old People
@@ -547,6 +617,16 @@ subject module Vaccines
         -
           'Voysey_et_al_02_01_2021
           'Voysey_et_al_02_01_2021.!a
+
+      / Pooled Analysis of 4 RCT
+      claim !PooledAnalysis = In a pooled analysis of four randomised trials authors reported that a single standard dose of ChAdOx1 nCoV-19 had an efficacy of 76·0% against symptomatic COVD-19 in the first 90 days after vaccination, with no significant waning of protection during this period. It also confirms the results of published interim analysis of 66.7% efficacy (more than 14 days after a second dose). A 3-month dose interval might have advantages over a programme with a short dose interval for roll-out.
+        -
+          'Voysey_et_al_02_19_2021
+          'Voysey_et_al_02_19_2021.!a
+          'Voysey_et_al_02_19_2021.!d
+          'Voysey_et_al_02_19_2021.!e
+          'Voysey_et_al_02_19_2021.!f
+
 
       / Effective Dosing
       claim !EffectiveDosing = Researchers have raised concerns about the lingering unknowns in the phase III trials about the most effective dosing regimen and how well it works in older adults.
@@ -1364,6 +1444,78 @@ subject module Vaccines
       #   'DeStefano_et_al_02_12_2019.!c
       #   'DeStefano_et_al_02_12_2019.!d
       #   'DeStefano_et_al_02_12_2019.!e
+
+  subject EffectiveDosing
+    head =
+    # Phizer
+    -
+      Approved.Tozinameran.!Israel
+      Approved.Tozinameran.!Israelday13
+      Approved.Tozinameran.!IsraelHCW
+    # Phizer Old age
+    -
+      Approved.Tozinameran.!OldAge
+    # Pfizer Phase 3
+    >
+      The study was not designed to assess the efficacy of a single-dose regimen. Nevertheless, in the interval between the first and second doses, the observed vaccine efficacy against Covid-19 was 52%, indicating early protection by the vaccine, starting as soon as 12 days after the first dose.
+    -
+      'Polack_et_al_12_31_2020
+      'Polack_et_al_12_31_2020.!h
+
+    >
+      In a letter published in the New England Journal of Medicine, two Canada-based researchers said.
+      The second dose of Pfizer Inc’s COVID-19 vaccine could be delayed in order to cover all priority groups as the first one is highly protective, with a vaccine efficacy of 92.6%, a finding similar to the first-dose efficacy of 92.1% reported for the mRNA-1273 vaccine (Moderna).
+
+      Based on the documents submitted to the Food and Drug Administration, we observed that even before the second dose, BNT162b2 was highly efficacious, with a vaccine efficacy of 92.6%, a finding similar to the first-dose efficacy of 92.1% reported for the mRNA-1273 vaccine (Moderna).
+
+      According to clinical trial results Pfizer provided to the FDA, its vaccine showed 52.4% effectiveness after one shot. However, that research did not show the effectiveness of the vaccine two weeks after the shot was given. The effectiveness jumped to 94% more than two weeks out from the first shot and 95% efficacy a week after the second shot.
+
+    -
+      'Skowronski_et_al_02_17_2021
+      'Skowronski_et_al_02_17_2021.!a
+      'Skowronski_et_al_02_17_2021.!b
+      'Skowronski_et_al_02_17_2021.!c
+
+
+    # Moderna
+    >
+      These findings were similar to the first-dose efficacy of 92.1% reported for Moderna Inc's mRNA-1273 vaccine.
+
+      Additional analyses were done to assess efficacy against COVID-19 after one dose of mRNA1273. In participants in the mITT set who only received one dose of the vaccine at the time of the interim analysis, VE after one dose was 80.2% (95% CI 55.2%, 92.5%). These participants had a median follow-up time of 28 days (range: 1 to 108 days). The small, non-random sample and short median follow-up time limits the interpretation of these results
+      There appears to be some protection against COVID-19 disease following one dose; however, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
+      The table has the 92.1%
+    # -
+    #   https://www.fda.gov/media/144434/download
+
+    -
+      Approved.mRNA-1273.!Phase2
+
+    # Oxford
+    # A second dose of ChAdOx1 nCoV-19 induces increased neutralising antibody levels and is probably necessary for long-lasting protection. second dose is still required to potentiate long-lived immunity.
+    -
+      Approved.AZD1222.!MiceDosing
+      Approved.AZD1222.!Phase12AstraZeneca
+      Approved.AZD1222.!Phase12Dosing
+      Approved.AZD1222.!Phas3Dosing
+      Approved.AZD1222.!PooledAnalysis
+
+
+    #  HEAD TEXT - efficacy of two standard doses of the vaccine
+    >
+      We show that NAbs are consistently induced across two different dosing intervals, as demonstrated across two assays using either live virus neutralization or pseudotyped virus neutralization as a readout, although we acknowledge that we do not yet have data on the durability of these responses. These observations are similar to those reported for several other COVID-19 vaccines, in which higher titers of NAbs are produced following two-dose vaccination regimens.
+
+      The analysis presented here provides strong evidence for the efficacy of two standard doses of the vaccine, which is the regimen approved by the MHRA and other regulators.
+
+    # -
+    #   'Logunov_et_al_09_04_2020
+    #   An mRNA vaccine against SARS-CoV-2—preliminary report.
+    #   Phase 1–2 trial of a SARS-CoV-2 recombinant spike protein nanoparticle vaccine.
+    #   COVID-19 vaccine BNT162b1 elicits human antibody and TH1 T cell responses.
+    -
+      'Folegatti_et_al_07_20_2020
+      'Barrett_et_al_12_17_2020
+
+
 
   —
   / Types of Vaccines
