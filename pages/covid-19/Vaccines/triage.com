@@ -132,6 +132,17 @@
     'Polack_et_al_12_31_2020
     'Polack_et_al_12_31_2020.!h
 
+  # pfizer old age
+  >
+    A high proportion of individuals above the age of 80 have suboptimal neutralising antibody responses following first dose vaccination with BNT162b2, and that the second dose is associated with robust neutralising responses. Thus, cautioning against extending the dosing interval in this high risk population.
+  -
+    'Collier_et_al_02_20_2021
+    'Collier_et_al_02_20_2021.!a
+    'Collier_et_al_02_20_2021.!b
+    'Collier_et_al_02_20_2021.!c
+    'Collier_et_al_02_20_2021.!d
+    'Collier_et_al_02_20_2021.!e
+
 
   >
     In a letter published in the New England Journal of Medicine, two Canada-based researchers said.
@@ -156,9 +167,14 @@
   # -
   #   https://www.fda.gov/media/144434/download
 
-  >
-    Moderna phase 3 trials- one dose data
-  # https://www.sciencedirect.com/science/article/pii/S0264410X21001535?via%3Dihub
+
+  > # Phase 2
+    mRNA-1273 vaccine at 50 and 100 ug elicits robust immune responses in healthy adults. Immunogenicity is generally similar in younger (18-55 yr) and older (≥55 yr) adults. Safety profile of mRNA-1273 is acceptable; no serious adverse effects were observed. Results support 2-dose regimens of 50 or 100 ug mRNA-1273 SARS-CoV-2 vaccine.
+  -
+    'Chu_et_al_02_09_2021
+    'Chu_et_al_02_09_2021.!a
+    'Chu_et_al_02_09_2021.!b
+
 
 
 
@@ -188,6 +204,11 @@
   -
     'Barrett_et_al_12_17_2020
     'Barrett_et_al_12_17_2020.!c
+
+  # Reactogenicity was generally greater after the second dose, however was well tolerated.
+  -
+    'Mulligan_et_al_08_12_2020
+    'Mulligan_et_al_08_12_2020.!e
 
 
   # Oxford Phase 3 - single dose and effective dosing

@@ -20,12 +20,6 @@
   #   Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine.
 
 
-  > # Phase 2
-    mRNA-1273 vaccine at 50 and 100 ug elicits robust immune responses in healthy adults. Immunogenicity is generally similar in younger (18-55 yr) and older (≥55 yr) adults. Safety profile of mRNA-1273 is acceptable; no serious adverse effects were observed. Results support 2-dose regimens of 50 or 100 ug mRNA-1273 SARS-CoV-2 vaccine.
-  -
-    'Chu_et_al_02_09_2021
-    'Chu_et_al_02_09_2021.!a
-    'Chu_et_al_02_09_2021.!b
 
   >
     mRNA vaccines are safe and protective against symptomatic Covid-19. As part of their submissions to the United States FDA for emergency use authorisation, both Pfizer/BioNTech and Moderna included a compelling finding: that the vaccines provided some protection just 14 days after the first shot.
@@ -134,7 +128,7 @@
     Some models have suggested that using a less effective vaccine or delaying a second dose to provide first doses to more people will end the pandemic sooner.
 
   >
-    In a plublished letter the authors strongly support vaccination against COVID-19 with the Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2 when adhering to the 3-week dosing schedule that was found highly effective in the phase 3 randomised clinical trial—regarded as the gold standard. However they  do not support the second dose being delayed to 12 weeks, as implemented by UK Chief Medical Officers.
+    In a plublished letter the authors strongly support vaccination against COVID-19 with the Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2 when adhering to the 3-week dosing schedule that was found highly effective in the phase 3 randomised clinical trial—regarded as the gold standard. However they do not support the second dose being delayed to 12 weeks, as implemented by UK Chief Medical Officers.
 
     UK's delayed second dose strategy for BNT162b2 is, in our view, a misguided conjecture. It will yield some protection for the individual after a first dose: how much, and for how long, is unknown and without patient consent.
   -
@@ -162,18 +156,6 @@
     'Mulligan_et_al_08_12_2020
     'Widge_et_al_12_03_2020
     'Collier_et_al_02_20_2021
-
-  # pfizer old age
-  >
-    A high proportion of individuals above the age of 80 have suboptimal neutralising antibody responses following first dose vaccination with BNT162b2, and that the second dose is associated with robust neutralising responses. Thus, cautioning against extending the dosing interval in this high risk population.
-  -
-    'Collier_et_al_02_20_2021
-    'Collier_et_al_02_20_2021.!a
-    'Collier_et_al_02_20_2021.!b
-    'Collier_et_al_02_20_2021.!c
-    'Collier_et_al_02_20_2021.!d
-    'Collier_et_al_02_20_2021.!e
-
 
   >
     In the Moderna 1273 mRNA vaccine study in older individuals (above 55 years), neutralisation was only detectable after the second dose, whilst binding antibodies were detectable after both doses.
@@ -218,7 +200,6 @@
 
 
   >
-
     New research has shown that the Pfizer vaccine generates a robust immune response after one dose, opening up the possibility that the second dose of the vaccine can be delayed for longer than first thought
 
     Some Covid-19 Vaccines Are Effective After One Dose, Can Be Stored in Normal Freezers, Data Show.
@@ -234,13 +215,13 @@
   >
     It has been hypothesized that preexisting anti-vector immunity may affect immune responses induced by human adenoviral vector-based vaccinations and their resulting efficacy2,40. However, several studies have shown that this may be a less substantial concern for other viral vector-based vaccines41,42,43.It has been hypothesized that preexisting anti-vector immunity may affect immune responses induced by human adenoviral vector-based vaccinations and their resulting efficacy2,40. However, several studies have shown that this may be a less substantial concern for other viral vector-based vaccines41,42,43.Furthermore, some evidence suggests the negative impact of preexisting vector immunity can be overcome by booster schedules44.
 
-  >
-    The observation of reduced second-dose reactogenicity is in contrast to reported profiles of two mRNA vaccines for COVID-19 and a protein-adjuvant vaccine technology, in which, although generally well tolerated, reactogenicity increased with the second dose.
-  -
-    'Barrett_et_al_12_17_2020
-    'Barrett_et_al_12_17_2020.!c
-    'Mulligan_et_al_08_12_2020
-    'Mulligan_et_al_08_12_2020.!e
+  # >
+  #   The observation of reduced second-dose reactogenicity is in contrast to reported profiles of two mRNA vaccines for COVID-19 and a protein-adjuvant vaccine technology, in which, although generally well tolerated, reactogenicity increased with the second dose.
+  # -
+  #   'Barrett_et_al_12_17_2020
+  #   'Barrett_et_al_12_17_2020.!c
+  #   'Mulligan_et_al_08_12_2020
+  #   'Mulligan_et_al_08_12_2020.!e
   # -
   #   An mRNA vaccine against SARS-CoV-2—preliminary report.
   #   Phase 1–2 trial of a SARS-CoV-2 recombinant spike protein nanoparticle vaccine.
