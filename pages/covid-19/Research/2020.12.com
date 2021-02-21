@@ -1,6 +1,8 @@
 feed December2020
 
   -
+    'Katz_et_al_12_04_2020
+    'Hou_et_al_12_18_2020
     'Weissman_et_al_12_01_2020
     'Ella_et_al_12_22_2020
     'Ella_et_al_02_20_2020
@@ -12,6 +14,27 @@ feed December2020
 
 
   #
+
+  // A Booster Dose Enhances Immunogenicity of the COVID-19 Vaccine Candidate ChAdOx1 nCoV-19 in Aged Mice
+  doi: https://doi.org/10.1016/j.medj.2020.12.006
+  ref 'Silva-Cayetano_et_al_12_15_2020
+    head = We use in-depth immunophenotyping to characterize the innate and adaptive immune response induced upon intramuscular administration of the adenoviral vectored ChAdOx1 nCoV-19 (AZD-1222) COVID-19 vaccine candidate in mice.
+
+    > Background
+      The spread of SARS-CoV-2 has caused a worldwide pandemic that has affected almost every aspect of human life. The development of an effective COVID-19 vaccine could limit the morbidity and mortality caused by infection and may enable the relaxation of social-distancing measures. Age is one of the most significant risk factors for poor health outcomes after SARS-CoV-2 infection; therefore, it is desirable that any new vaccine candidates elicit a robust immune response in older adults.
+    > Methods
+      Here, we use in-depth immunophenotyping to characterize the innate and adaptive immune response induced upon intramuscular administration of the adenoviral vectored ChAdOx1 nCoV-19 (AZD-1222) COVID-19 vaccine candidate in mice.
+    > Findings
+      A single vaccination generates spike-specific Th1 cells, Th1-like Foxp3+ regulatory T cells, polyfunctional spike-specific CD8+ T cells. and granzyme-B-producing CD8 effectors. Spike-specific IgG and IgM are generated from both the early extrafollicular antibody response and the T follicular helper cell-supported germinal center reaction, which is associated with the production of virus-neutralizing antibodies. A single dose of this vaccine generated a similar type of immune response in aged mice but of a reduced magnitude than in younger mice. We report that a second dose enhances the immune response to this vaccine in aged mice.
+    > Conclusions
+      This study shows that ChAdOx1 nCoV-19 induces both cellular and humoral immunity in adult and aged mice and suggests a prime-boost strategy is a rational approach to enhance immunogenicity in older persons.
+
+    - quotes
+      !a
+
+    / December, 2020 - Med
+    quote !a =  A single dose of this vaccine generated a similar type of immune response in aged mice but of a reduced magnitude than in younger mice. We report that a second dose enhances the immune response to this vaccine in aged mice.
+    
 
   // Increased risk for COVID-19 in patients with vitamin D deficiency
   doi: https://www.sciencedirect.com/science/article/pii/S0899900720303890

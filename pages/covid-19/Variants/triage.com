@@ -22,7 +22,26 @@ index: hide
     'Zhang_et_al_02_11_2021.!c
 
   # B.1.1.7 Increased risk of severity, Hospitalization and Death
-
   -
     'Nervtag_et_al_01_21_2021
-    'Nervtag_et_al_01_21_2021.!a  
+    'Nervtag_et_al_01_21_2021.!a
+
+  # Decrease in Titer for mRNA vaccine against SA variant (Test tube)
+  -
+    'Liu_et_al_02_17_2021
+    'Liu_et_al_02_17_2021.!a
+    'Liu_et_al_02_17_2021.!b
+  -
+    'Wu_et_al_02_17_2021
+    'Wu_et_al_02_17_2021.!a
+
+  # Reduced antibody response against mutations of SA for BNT162b2  
+  -
+    'Garcia-Beltran_et_al_02_18_2021
+    'Garcia-Beltran_et_al_02_18_2021.!a
+
+
+  # South Africa and Brazil variant was partially (Casirivimab) or fully (Bamlanivimab) resistant to antibodies used for COVID-19 treatment and was less efficiently inhibited by serum/plasma from convalescent or BNT162b2 vaccinated individuals.
+  -
+    'Hoffmann_et_al_02_11_2021
+    'Hoffmann_et_al_02_11_2021.!a

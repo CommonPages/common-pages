@@ -12,6 +12,25 @@
     !EfficacyNeed
     !CautionNSAID
     !Singledose
+  - Triage
+  # Pfizer lower temperature storage and FDA approval data submitted
+    'BioNTech_et_al_02_19_2021
+  # Pfizer Israel data for vaccine effectiveness outside clinical trial (real scenarious for old people and general efficacy)
+  -
+    'Aran_et_al_02_19_2021
+    'Aran_et_al_02_19_2021.!a
+    'Aran_et_al_02_19_2021.!b
+  # Pfizer Israel 51% effectiveness day 13-24
+  -
+    'Chodick_et_al_01_29_2021
+    'Chodick_et_al_01_29_2021.!a
+    'Chodick_et_al_01_29_2021.!b
+    'Chodick_et_al_01_29_2021.!c
+  # Single dose ChAdOx1 generated a similar type of immune response in aged mice but of a reduced magnitude than in younger mice. Study recommends a prime-boost strategy is a rational approach to enhance immunogenicity in older persons.
+  -
+    'Silva-Cayetano_et_al_12_15_2020
+    'Silva-Cayetano_et_al_12_15_2020.!a
+
 
   claim !Identification = Researchers have indentified S Protien as promising target for deoptimization. Neutralising epitopes on SARS-CoV-2 RBD were identified for development of SARS-CoV-2 Vaccine
     -
@@ -82,6 +101,7 @@
         'Chen_et_al_01_13_2021.!a
         'Chen_et_al_01_13_2021.!b
         'Chen_et_al_01_13_2021.!c
+
 
 
   claim !Singledose = A single study showed evidence that a single vaccine dose may be enough for those previously infected with SARS Cov-2

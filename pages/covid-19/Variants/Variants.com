@@ -11,6 +11,7 @@ subject Variants
     B1351
     P1Variant
     CAL20C
+    A231
   -
     ?Antibodies
 
@@ -474,6 +475,9 @@ subject Variants
       Vaccines.Approved.BBV152.!UKvariant
       Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
       Vaccines.Approved.mRNA-1273.!NeutralisingUKvariant
+
+    >
+      [Coronavirus outbreaks](https://cphpost.dk/?p=122479) occured in two schools and and eight daycare in Feb of 2020. At the last count the two schools had a total of 69 infections among staff and students, while up to 20 have been infected at the daycare institutions. Researchers have raised concern about infection of B117 among children which have not seen with the old variants.
     - Children
       !Children
     - Mutation
@@ -958,6 +962,46 @@ subject Variants
       'Zhang_et_al_01_20_2021.!c
       'Zhang_et_al_01_20_2021.!d
       'Zhang_et_al_01_20_2021.!e
+
+  / A.23.1(Identified in Uganda)
+  subject A231
+    head = Emerging A sub-lineages, A.23 and A.23.1 of the SARS-COV-2 has been found in Uganda. A.23.1 sub-lineage is the major virus lineage now observed in the Kampala region in Uganda. A.23.1 has been found encode multiple spike proteins, nsp6 (nonstructural protein), ORF8 and ORF9 (open reading frames 8 and 9) protein changes. A.23 and A.23.1 sub-lineages are now circulating in 12 countries outside of Uganda (from Africa, Asia, Europe, North America and Oceania).
+
+    >
+      <table>
+        <tr>
+        <th> Spike Mutation</th>
+        <td>F157L, V367F, Q613H, R102I, P681R and some more additional changes in amino acid is observed </td>
+        </tr>
+        <tr>
+        <th>Other Mutation (Including N-terminal)</th>
+        <td> nsp3: E95K, nsp6: M86I, L98F, ORF 8: L84S, E92K and ORF9 N: S202N, Q418H. NTD: P26S and R102I plus 8 additional singleton changes (observed in only one genome)</td>
+        <tr>
+        <th>Transmissibility</th>
+        <td> Estimated higher </td>
+        </tr>
+        <tr>
+        <th>Severity</th>
+        <td> Not established</td>
+        </tr>
+        <tr>
+        <th>Immune Escape</th>
+        <td> Not established</td>
+        </tr>
+      </table>
+    - Triage
+      'Bugembe_et_al_02_11_2021
+      'Bugembe_et_al_02_11_2021.!a
+      'Bugembe_et_al_02_11_2021.!b
+      'Bugembe_et_al_02_11_2021.!c
+      'Bugembe_et_al_02_11_2021.!d
+      'Bugembe_et_al_02_11_2021.!e
+      'Bugembe_et_al_02_11_2021.!f
+      'Bugembe_et_al_02_11_2021.!g
+      'Bugembe_et_al_02_11_2021.!h
+      'Bugembe_et_al_02_11_2021.!i
+      'Bugembe_et_al_02_11_2021.!j
+
 
 
   question ?Antibodies = Whether these mutations render preexisting antibodies ineffective has become a public concern, as it could result in reinfection or loss of vaccine efficacy. To what extent a person infected by one strain is protected against infection of another strain? What evidence exists as to the efficacy of vaccines against each variant?

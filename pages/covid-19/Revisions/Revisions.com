@@ -11,6 +11,14 @@ revision feed Revisions
     -
       Transmission.Airline
 
+  public: February-16-2021
+  / February 16, 2021
+  revision February_16
+    head = We have updated the reports of Anaphylaxis after Moderna and Pfizer vaccines in the US (December 14, 2020-January 18, 2021). These reactions appear to be a rare event with rates of 4.7 cases/million Pfizer-BioNTech vaccine doses administered and 2.5 cases/million Moderna vaccine doses administered. The cause of these reactions is disputed. Immediate epinephrine administration is recommended for treatment. CDC has provided guidelines on management of anaphylaxis after COVID-19 vaccination.
+
+    -
+      Vaccines.Approved.Tozinameran.AnaphylaxisPEG
+
   public: February-14-2021
   / February 14, 2021
   revision February_14

@@ -3971,8 +3971,6 @@ feed Sangeeta
     quote !a = The increased risk of HIV-1 acquisition in vaccine recipients, irrespective of number of doses received, warrants further investigation to understand the biological mechanism. We caution against further use of the Ad5 vector for HIV vaccines.
 
 
-
-
   #
   @@EvanAnderson
   // Safety and Immunogenicity of SARS-CoV-2 mRNA-1273 Vaccine in Older Adults

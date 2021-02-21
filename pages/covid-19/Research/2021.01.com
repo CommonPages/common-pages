@@ -1,6 +1,7 @@
 feed Jan2021
 
   -
+    'Nervtag_et_al_01_21_2021
     'Song_et_al_01_12_2021
     'Sadoff_et_al_01_13_2021
     'Widge_et_al_01_07_2021
@@ -9,6 +10,38 @@ feed Jan2021
     'Pilotto_et_al_01_02_2021
 
   #
+  // The effectiveness of the first dose of BNT162b2 vaccine in reducing SARS-CoV-2 infection 13-24 days after immunization: real-world evidence
+  doi: https://doi.org/10.1101/2021.01.27.21250612
+  ref 'Chodick_et_al_01_29_2021
+    head = We conducted a retrospective cohort study using data from 2·6 million-member state-mandated health provider in Israel. Study population consisted of all members aged 16 or above years who were vaccinated with BNT162b2-vaccine between December/19/2020 and January/15/2021. Daily and cumulative infection rates in days 13-24 were compared to days 1-12 after first dose.
+
+    > Background
+      BNT162b2 vaccines showed high efficacy against COVID-19 in a randomised controlled phase-III trial. A vaccine effectiveness evaluation in real life settings is urgently needed, especially given the global disease surge. Hence, we assessed the short-term effectiveness of the first dose of BNT162b2-vaccine against SARS-CoV-2 infection. Given the BNT162b2 Phase-III results, we hypothesized that the cumulative incidence of SARS-CoV-2 infection among vaccinees will decline after 12 days following immunization compared to the incidence during the preceding days.
+
+    > Methods
+      We conducted a retrospective cohort study using data from 2·6 million-member state-mandated health provider in Israel. Study population consisted of all members aged 16 or above years who were vaccinated with BNT162b2-vaccine between December/19/2020 and January/15/2021. We collected information regarding medical history and positive SARS-CoV-2 polymerase chain reaction test from days after first dose to January/17/2021. Daily and cumulative infection rates in days 13-24 were compared to days 1-12 after first dose using Kaplan-Meier survival analysis and generalized linear models.
+
+    > Findings
+      Data of 503,875 individuals (mean age 59·7 years SD=14·7, 47·8% males) were analysed, of whom 351,897 had 13-24 days of follow-up. The cumulative incidence of SARS-CoV-2 infection was 0·57% (n=2484) during days 1-12 and 0·27% (n=614) in days 13-24. A 51·4% relative risk reduction (RRR) was calculated in weighted-average daily incidence of SARS-CoV-2 infection from 43·41-per-100,000(SE=12·07) in days 1-12 to 21·08-per-100,000(SE=6·16) in days 13-24 following immunization. The decrement in incidence was evident from day 18 after first dose. Similar RRRs were calculated in individuals aged 60 or above (44.5%), younger individuals (50.2%), females (50.0%) and males (52.1%). Findings were similar in sub-populations and patients with various comorbidities.
+
+    > Conclusions
+      We demonstrated an effectiveness of 51% of BNT162b2 vaccine against SARS-CoV-2 infection 13-24 days after immunization with the first dose. Immunization with the second dose should be continued to attain the anticipated protection.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / Jan, 2021 - medRxiv
+    quote !a = We showed approximately 51% effectiveness of BNT162b2 COVID-19 vaccine against PCR-confirmed SARS-CoV-2 infection 13-24 days after immunization with the first dose using the preceding 1-12 days as a reference. This estimate was consistent across age, sex, sector, or comorbidity, except for diabetes.
+
+    / Jan, 2021 - medRxiv
+    quote !b = the BNT162b2 vaccine (at 30 mcg, the same dose used in the efficacy study), induced only a modest level of neutralizing antibodies in volunteers aged 18-55 and even lower in volunteers aged 65-85 after the first injection as measured on day 21 of the safety and immunogenicity study. If extrapolated to our estimation of vaccine effectiveness, the immunogenicity data may suggest that these levels of neutralizing antibodies were associated with 90% protective efficacy against COVID-19 and with only around 50% protection against SARS-CoV-2 overall infections 12 to 21 days after immunization with first dose of the BNT162b2 vaccine.
+
+    / Jan, 2021 - medRxiv
+    quote !c = The BNT162b2 vaccine should be administered in two dose regimen 21 days apart as licensed for EUA, to achieve maximum protection and impact in reducing COVID-19 devastating burden and possibly the transmission of SARS-CoV-2.
+
+
 
   // S1095_NERVTAG_update_note_on_B.1.1.7_severity
   doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961042/S1095_NERVTAG_update_note_on_B.1.1.7_severity_20210211.pdf

@@ -1,6 +1,11 @@
 feed Feb2021
 
   -
+    'Aran_et_al_02_19_2021
+    'BioNTech_et_al_02_19_2021
+    'Hoffmann_et_al_02_11_2021
+    'Wu_et_al_02_17_2021
+    'CDC_et_al_02_10_2021
     'Brookman_et_al_02_10_2021
     'Madhi_et_al_02_12_2021
     'Tiefenbrun_et_al_02_08_2021
@@ -14,7 +19,114 @@ feed Feb2021
     'Wu_et_al_02_03_2021
 
 
-  # incomplete - Spike and mutation quotes   
+  
+
+
+  // Estimating real-world COVID-19 vaccine effectiveness in Israel using aggregated counts
+  doi: https://doi.org/10.1101/2021.02.05.21251139
+  ref 'Aran_et_al_02_19_2021
+    head = Here, using counts of positive and hospitalized cases of vaccinated individuals, we conduct a sensitive analysis of the vaccine effectiveness.  Our analysis provides an estimate for the effectiveness of the vaccine in reducing positive cases, hospitalizations and severe cases.
+
+    > Abstract
+      The vaccination roll-out of the COVID-19 vaccines in Israel has been highly successful. By February 9th, approximately 39% of the population has already been administered at least one dose of the BNT162b2 vaccine. Efforts to estimate the true real-world effectiveness of the vaccine have been hampered by disease dynamics and social-economic discrepancies. Here, using counts of positive and hospitalized cases of vaccinated individuals, we conduct a sensitive analysis of the vaccine effectiveness. Under an assumption of no effectiveness on the first two weeks after the 1st dose, the analysis shows effectiveness of 72% in reducing SARS-CoV-2 positive cases (symptomatic and asymptomatic), 83% reduction of COVID-19 hospitalizations and 86% reduction in severe cases in 60 years and older individuals the second week after the 2nd dose. On weeks 3-4 after the 2nd dose, we observe vaccine effectiveness of 95%+, however cases may still accumulate. Our analysis suggests that high effectiveness of the vaccine only starts after three weeks, which coincides with the administration of the 2nd dose. As more granular data will be available, it will be possible to extract more exact estimates; however, the emerging evidence suggest that the vaccine is highly effective in reducing cases, hospitalizations and deaths.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2021 - medRxiv
+    quote !a = Under an assumption of no effectiveness on the first two weeks after the 1st dose, the analysis shows effectiveness of 72% in reducing SARS-CoV-2 positive cases (symptomatic and asymptomatic), 83% reduction of COVID-19 hospitalizations and 86% reduction in severe cases in 60 years and older individuals the second week after the 2nd dose.
+
+    / February, 2021 - medRxiv
+    quote !b = On weeks 3-4 after the 2nd dose, we observe vaccine effectiveness of 95%+, however cases may still accumulate. Our analysis suggests that high effectiveness of the vaccine only starts after three weeks, which coincides with the administration of the 2nd dose.
+
+
+  // Pfizer and BioNTech Submit COVID-19 Vaccine Stability Data at Standard Freezer Temperature to the U.S. FDA
+  doi: https://www.globenewswire.com/news-release/2021/02/19/2178817/0/en/Pfizer-and-BioNTech-Submit-COVID-19-Vaccine-Stability-Data-at-Standard-Freezer-Temperature-to-the-U-S-FDA.html
+  ref 'BioNTech_et_al_02_19_2021
+    head =  Pfizer Inc. (NYSE: PFE) and BioNTech SE (Nasdaq: BNTX) announced the submission of new data to the U.S. Food and Drug Administration (FDA) demonstrating the stability of their COVID-19 vaccine when stored at -25°C to -15°C (-13°F to 5°F), temperatures more commonly found in pharmaceutical freezers and refrigerators. The data have been submitted to the FDA to support a proposed update to the U.S. Emergency Use Authorization (EUA) Prescribing Information, which would allow for vaccine vials to be stored at these temperatures for a total of two weeks as an alternative or complement to storage in an ultra-low temperature freezer.
+
+
+    / February, 2021 - BioNTech
+    quote !a =
+
+  // Circulating SARS-CoV-2 variants escape neutralization by vaccine-induced humoral immunity
+  doi: https://doi.org/10.1101/2021.02.14.21251704
+  ref 'Garcia-Beltran_et_al_02_18_2021
+    head = We evaluated the neutralization potency of 48 sera from BNT162b2 and mRNA-1273 vaccine recipients against pseudoviruses bearing spike proteins derived from 10 strains of SARS-CoV-2.
+
+    > Abstract
+      Vaccination elicits immune responses capable of potently neutralizing SARS-CoV-2. However, ongoing surveillance has revealed the emergence of variants harboring mutations in spike, the main target of neutralizing antibodies. To understand the impact of globally circulating variants, we evaluated the neutralization potency of 48 sera from BNT162b2 and mRNA-1273 vaccine recipients against pseudoviruses bearing spike proteins derived from 10 strains of SARS-CoV-2. While multiple strains exhibited vaccine-induced cross-neutralization comparable to wild-type pseudovirus, 5 strains harboring receptor-binding domain mutations, including K417N/T, E484K, and N501Y, were highly resistant to neutralization. Cross-neutralization of B.1.351 variants was weak and comparable to SARS-CoV and bat-derived WIV1-CoV, suggesting that a relatively small number of mutations can mediate potent escape from vaccine responses. While the clinical impact of neutralization resistance remains uncertain, these results highlight the potential for variants to escape from neutralizing humoral immunity and emphasize the need to develop broadly protective interventions against the evolving pandemic.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2021 - medRxiv
+    quote !a = 5 strains harboring receptor-binding domain mutations, including K417N/T, E484K, and N501Y, were highly resistant to neutralization.
+
+    / February, 2021 - medRxiv
+    quote !b = Cross-neutralization of B.1.351 variants was weak and comparable to SARS-CoV and bat-derived WIV1-CoV, suggesting that a relatively small number of mutations can mediate potent escape from vaccine responses.
+
+  // SARS-CoV-2 variants B.1.351 and B.1.1.248: Escape from therapeutic antibodies and antibodies induced by infection and vaccination
+  doi: https://doi.org/10.1101/2021.02.11.430787
+  ref 'Hoffmann_et_al_02_11_2021
+    head = We show that the S protein of the UK, South Africa and Brazil variants mediate robust entry into human cell lines and that entry is blocked by soluble ACE2 (sACE2), protease inhibitors active against TMPRSS2 and membrane fusion inhibitors.
+
+    > Abstract
+      The global spread of SARS-CoV-2/COVID-19 is devastating health systems and economies worldwide. Recombinant or vaccine-induced neutralizing antibodies are used to combat the COVID-19 pandemic. However, recently emerged SARS-CoV-2 variants B.1.1.7 (UK), B.1.351 (South Africa) and B.1.1.248 (Brazil) harbor mutations in the viral spike (S) protein that may alter virus-host cell interactions and confer resistance to inhibitors and antibodies. Here, using pseudoparticles, we show that entry of UK, South Africa and Brazil variant into human cells is susceptible to blockade by entry inhibitors. In contrast, entry of the South Africa and Brazil variant was partially (Casirivimab) or fully (Bamlanivimab) resistant to antibodies used for COVID-19 treatment and was less efficiently inhibited by serum/plasma from convalescent or BNT162b2 vaccinated individuals. These results suggest that SARS-CoV-2 may escape antibody responses, which has important implications for efforts to contain the pandemic.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2021 - bioRxiv
+    quote !a =  We show that entry of UK, South Africa and Brazil variant into human cells is susceptible to blockade by entry inhibitors.
+
+    / February, 2021 - bioRxiv
+    quote !b = SARS-CoV-2 variants South Africa and Brazil are partially (Casirivimab) or fully (Bamlanivimab) resistant against antibodies used for COVID-19 treatment and are inhibited less efficiently by convalescent plasma or sera from individuals immunized with the mRNA vaccine BNT162b2.
+
+
+  // Neutralizing Activity of BNT162b2-Elicited Serum — Preliminary Report
+  doi: https://doi.org/10.1056/NEJMc2102017
+  ref 'Liu_et_al_02_17_2021
+    head = We engineered S mutations from the B.1.351 lineage into USA-WA1/2020, a relatively early isolate of the virus. We subsequently produced three recombinant viruses.  The first had an N-terminal domain deletion and the globally dominant D614G substitution (del242-244+D614G),2,3 the second had mutations affecting three amino acids at the receptor-binding site (K417N, E484K, and N501Y) and a D614G substitution (B.1.351-RBD+D614G), and the third had all the mutations found in the S gene in the B.1.351 lineage (B.1.351-spike). We performed 50% plaque reduction neutralization testing (PRNT50) using 20 serum samples that had been obtained from 15 participants in the pivotal trial 2 or 4 weeks after the administration of boost immunization with 30 μg of BNT162b2.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2021 - NEJM
+    quote !a = As compared with neutralization of USA-WA1/2020, neutralization of Δ242-244+D614G virus was similar and neutralization of the B.1.351-spike virus was weaker by approximately two thirds.
+
+    / February, 2021 - NEJM
+    quote !b = Virus with mutant residues in the receptor-binding site (K417N, E484K, and N501Y) is more poorly neutralized than virus with Δ242-244, which is located in the N-terminal domain of the spike protein.
+
+
+  // Serum Neutralizing Activity Elicited by mRNA-1273 Vaccine — Preliminary Report
+  doi: https://doi.org/10.1056/NEJMc2102179
+  ref 'Wu_et_al_02_17_2021
+    head = We assayed the serum neutralizing activity against recombinant vesicular stomatitis virus (rVSV)–based SARS-CoV-2 (a pseudovirus-based model) in specimens obtained from participants in the phase 1 trial of the mRNA-1273 vaccine. We tested pseudoviruses bearing the spike protein from the original Wuhan-Hu-1 isolate, the D614G variant, the B.1.1.7 and B.1.351 variants, and other variants
+
+    - quotes
+      !a
+
+    / February, 2021 - NEJM
+    quote !a = We observed a decrease in titers of neutralizing antibodies against the B.1.351 variant and a subset of its mutations affecting the RBD. In serum samples obtained 1 week after the participants received the second dose of vaccine, we detected reductions by a factor of 2.7 in titers of neutralizing antibodies against the partial panel of mutations and by a factor of 6.4 against the full panel of mutations
+
+
+
+  // Interim considerations: preparing for the potential management of anaphylaxis after COVID-19 vaccination
+  doi: https://www.cdc.gov/vaccines/covid-19/clinical-considerations/managing-anaphylaxis.html
+  ref 'CDC_et_al_02_10_2021
+    head = This section has been expanded to indicate that trained personnel qualified to recognize and treat symptoms of anaphylaxis should be available at vaccination locations at all times. The recommendations for medications and supplies have also been updated. This section also has been updated to provide additional information related to anaphylaxis symptoms.
+
+
+    / February, 2021 - CDC
+    quote !a =
+
+
+  # incomplete - Spike and mutation quotes
   // A SARS-CoV-2 lineage A variant (A.23.1) with altered spike has emerged and is dominating the current Uganda epidemic
   doi: https://doi.org/10.1101/2021.02.08.21251393
   ref 'Bugembe_et_al_02_11_2021
@@ -29,6 +141,15 @@ feed Feb2021
       !c
       !d
 
+    - Mutation
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+
     / February, 2021 - medRxiv
     quote !a = Across the entire epidemic, 80 (39%) strains belonged to the major lineage B whereas 123 (61%) strains were classified as lineage A. In the period of June to October 2020 characterised by truck driver movement and no flights, lineage B.1 strains predominated, similar to pattern observed in Kenya. By late December 2020 to January 2021 almost exclusively lineage A viruses (N=49) were found in Kampala with only one B.1.
 
@@ -42,9 +163,22 @@ feed Feb2021
     quote !d = By October 2020, lineage A.23 viruses were also found outside of the prisons in a community sample from Lira (a town 140 km from Amuru), and in two samples from the Kitgum hospital and in a community sample from Kampala. Lineage A viruses contributed to only 25% of the viruses in the Kampala region in the period June to October 2020,. By December 2020, 49 of the 50 sequenced samples from the Kampala region (from 9 clinical sites) belonged to the new A.23.1 lineage.
 
     / February, 2021 - medRxiv
-    quote !e =
+    quote !e = The changes in spike protein observed in Uganda and global A.23 and A.23.1 viruses are shown. Many amino acid (aa) changes were single events with no apparent transmission observed. However, the initial lineage A.23 genomes from Amuru and Kitgum encoded three amino acid changes in the exposed S1 domain of spike, including F157L, V367F and Q613H.
 
+    / February, 2021 - medRxiv
+    quote !f = V367F change is reported to modestly increase infectivity.
 
+    / February, 2021 - medRxiv
+    quote !g = Importantly, the Q613H change may have similar consequences as the D614G change observed in the B.1 lineage found predominantly in Europe and USA; in particular, D614G was reported to increase infectivity.
+
+    / February, 2021 - medRxiv
+    quote !h = Of concern, the recent Kampala and global A.23.1 virus sequences from December 2020-January 2021 now encoded 4 or 5 amino acid changes in the spike protein (now defining lineage A.23.1) plus additional protein changes in nsp3, nsp6, ORF8 and ORF9.
+
+    / February, 2021 - medRxiv
+    quote !i = The P681R spike change encoded by all recent Kampala genomes since December 2020 adds a basic amino acid adjacent to the spike furin cleavage site.  A similar change (P681H) is encoded by the recently emerging VOC B.1.1.7 that is now spreading globally across 75 countries as of 5 February 2021.
+
+    / February, 2021 - medRxiv
+    quote !j = There are also changes in the spike N-terminal domain (NTD), a known target of immune selection, observed in samples from Kampala A.23.1 lineage, including P26S and R102I plus 8 additional singleton changes
 
 
 

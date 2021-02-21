@@ -134,26 +134,39 @@ subject module Vaccines
           'Tiefenbrun_et_al_02_08_2021.!a
 
       / Severe Allergic Reactions
-      dispute AnaphylaxisPEG = There have been reports of anaphylactic reactions in persons receiving the Pfizer-BioNTech COVID-19 vaccine outside of clinical trials. The cause of the reactions is disputed. The CDC recommends persons with a history of an anaphylactic reaction to any component of the mRNA SARS-CoV-2 vaccines to avoid the vaccines.
+      dispute AnaphylaxisPEG = There have been reports of anaphylactic reactions in persons receiving the Pfizer-BioNTech & Moderna COVID-19 vaccine. However, these reactions appear to be a rare event. The cause of these reactions is disputed. Immediate epinephrine administration is recommended for treatment. CDC has provided guidelines on management of anaphylaxis after COVID-19 vaccination.
+
+        >
+          Anaphylaxis is a severe, life-threatening allergic reaction that occurs rarely after vaccination. {Research.Sangeeta.'Su_et_al_01_14_2019 Past studies} have indicated that anaphylaxis after vaccination (and the possibility of death) is a rare event.
+
+        -
+          !Reports
+        -
+          !Findings
+        >
+          In a previous {Research.Sangeeta.'Halsey_et_al_12_09_2013 study} after receiving influenza A(H1N1) vaccine female predominance of immediate hypersensitivity was also observed. {Research.Sangeeta.'Shimabukuro_et_al_01_29_2021 The current findings} of the first dose of Moderna COVID-19 vaccine could be affected by the observation that more women than men had received the vaccine (61% of doses administered versus 36%, respectively). In a {Research.Sangeeta.'Shimabukuro_et_al_01_06_2021 analysis} of the Pfizer-BioNTech COVID-19 vaccine also, two thirds of first doses were administered in women.
+
+        -
+          !Symptoms
+          !Treatment
 
 
-        claim !Anaphylaxisconcern = Scientists have raised concerns about allergic reactions (anaphylaxis) to the Pfizer SARS-CoV-2 mRNA vaccine. Some suspect that severe allergy-like reactions may be due to a compound (PEG-polyethylene glycol) in the packaging of mRNA that forms the vaccine’s main ingredient.
-          -
-            'Castells_et_al_12_30_2020
-            'Castells_et_al_12_30_2020.!a
-            'Castells_et_al_12_30_2020.!b
-          -
-            'Vrieze_et_al_12_21_2020
-            'Vrieze_et_al_12_21_2020.!a
-            'Vrieze_et_al_12_21_2020.!b
-            'Vrieze_et_al_12_21_2020.!c
-            'Vrieze_et_al_12_21_2020.!e
-            'Vrieze_et_al_12_21_2020.!g
-            'Vrieze_et_al_12_21_2020.!f
-          -
-            'Stone_et_al_12_14_2018
-            'Stone_et_al_12_14_2018.!b
+        >
+          CDC has provided guideline on early recognition of anaphylaxis, Personnel, medications, and supplies for assessing, managing anaphylaxis, and consideration for special populations.
+        -
+          !CDCrecommendation
+          !CDCrecommendation2
+          !CDCrecommendation3
 
+        >
+          Scientists have {Research.Sangeeta.'Castells_et_al_12_30_2020 raised concerns} about allergic reactions ({Research.Sangeeta.'Vrieze_et_al_12_21_2020 anaphylaxis}) to the Pfizer SARS-CoV-2 mRNA vaccine. Some suspect that severe allergy-like reactions may be due to a compound ({Research.Sangeeta.'Stone_et_al_12_14_2018 PEG-polyethylene glycol}) in the packaging of mRNA that forms the vaccine’s main ingredient.
+        -
+          !Anaphylaxisreasoning
+          !DisputePEG
+
+
+
+        / Resoning PEG
         claim !Anaphylaxisreasoning = Some research studies have also reasoned that severe allergic reactions after vaccination maybe due to PEG.
 
           claim !ReasoningAnaphylaxis = Acute allergic reactions after vaccination might be caused by the vaccine antigen, residual nonhuman protein, or preservatives and stabilizers in the vaccine formulation, also known as excipients. Although, anaphylaxis have historically been more typically associated with the inactive components or products of the vaccine manufacturing process, such as egg, gelatin, or latex.
@@ -178,6 +191,7 @@ subject module Vaccines
               'Stone_et_al_12_14_2018
               'Stone_et_al_12_14_2018.!b
 
+        / Dispute PEG
         claim !DisputePEG = Some researhcers have been skeptical of the proposed link of PEG to the observed allergic reactions to the Pfizer vaccine.
           -
             'Vrieze_et_al_12_21_2020
@@ -185,6 +199,7 @@ subject module Vaccines
             'Vrieze_et_al_12_21_2020.!i
 
 
+        / CDC Recommendation
         claim !CDCrecommendation = The CDC recommends all persons with a history of an anaphylactic reaction to any component of the mRNA SARS-Cov-2 vaccines, patients with a history of immediate reactions associated with PEG, and  patients with a history of anaphylaxis after receiving either the BioNTech–Pfizer or the Moderna vaccine, who should avoid these vaccines.
           -
             'CDC_et_al_2020
@@ -195,116 +210,79 @@ subject module Vaccines
             'CDC_et_al_2020.!e
             'CDC_et_al_2020.!f
 
-        > Triage
-          Anaphylaxis is a severe, life-threatening allergic reaction that occurs rarely after vaccination. Data in this analysis and elsewhere indicate that anaphylaxis after vaccination (and the possibility of death) is a rare event.
-        -
-          'Su_et_al_01_14_2019
-          'Su_et_al_01_14_2019.!a
-          'Su_et_al_01_14_2019.!b
-          'Su_et_al_01_14_2019.!c
-          'Su_et_al_01_14_2019.!d
-          'Su_et_al_01_14_2019.!e
-          'Su_et_al_01_14_2019.!f
-          'Su_et_al_01_14_2019.!g
+        claim !CDCrecommendation2 = Persons with an immediate allergic reaction to the first dose of an mRNA COVID-19 vaccine should not receive additional doses of either of the mRNA COVID-19 vaccines.
+          -
+            'CDC_et_al_02_10_2021
 
-        >
-          Based on this early monitoring, anaphylaxis after receipt of Moderna COVID-19 vaccine appears to be a rare event; however, comparisons of anaphylaxis risk with that associated with non–COVID-19 vaccines are constrained at this time by the limited data available this early in the COVID-19 vaccination program.
+        claim !CDCrecommendation3 = In addition to screening for contraindications and precautions before administering COVID-19 vaccines, vaccine locations should have the necessary supplies and trained staff members available to manage anaphylaxis, implement postvaccination observation periods, immediately treat persons experiencing anaphylaxis signs and symptoms with intramuscular injection of epinephrine, and transport patients to facilities where they can receive advanced medical care.
+          -
+            'CDC_et_al_02_10_2021
 
 
-        >
-          Reports of Anaphylaxis After Receipt of mRNA COVID-19 Vaccines in the US—December 14, 2020-January 18, 2021
+        / Anaphylaxis Reports
+        claim !Reports = Reports of Anaphylaxis After Receipt of mRNA COVID-19 Vaccines in the US—December 14, 2020-January 18, 2021 has confirmed that anaphylaxis following vaccination is a rare event, with rates of 4.7 cases/million Pfizer-BioNTech vaccine doses administered and 2.5 cases/million Moderna vaccine doses administered.
+          -
+            'Shimabukuro_et_al_02_12_2021
+            'Shimabukuro_et_al_02_12_2021.!a
+            'Shimabukuro_et_al_02_12_2021.!b
+            'Shimabukuro_et_al_02_12_2021.!c
+            'Shimabukuro_et_al_02_12_2021.!d
+            'Shimabukuro_et_al_02_12_2021.!e
 
-          Continued safety monitoring of mRNA COVID-19 vaccines in the US has confirmed that anaphylaxis following vaccination is a rare event, with rates of 4.7 cases/million Pfizer-BioNTech vaccine doses administered and 2.5 cases/million Moderna vaccine doses administered, based on information through January 18, 2021. When considered in the context of morbidity and mortality from COVID-19,9 the benefits of vaccination far outweigh the risk of anaphylaxis, which is treatable.
+          - Moderna
+            'Shimabukuro_et_al_01_29_2021
+            'Shimabukuro_et_al_01_29_2021.!a
+            'Shimabukuro_et_al_01_29_2021.!b
 
+          - Pfizer
+            'Shimabukuro_et_al_01_06_2021
+            'Shimabukuro_et_al_01_06_2021.!a
+            'Shimabukuro_et_al_01_06_2021.!b
+            'Shimabukuro_et_al_01_06_2021.!c
+          -
+            'Shimabukuro_et_al_01_21_2021
+            'Shimabukuro_et_al_01_21_2021.!a
+            'Shimabukuro_et_al_01_21_2021.!b
+            'Shimabukuro_et_al_01_21_2021.!c
+            'Shimabukuro_et_al_01_21_2021.!d
 
-          This analysis updates the reporting rates of anaphylaxis in individuals following receipt of either the Pfizer-BioNTech or Moderna vaccine.
+        / Findings
+        claim !Findings = For both vaccines (Moderna and Pfizer), symptom onset after vaccination have usually occured within minutes. So far, there has been a strong female predominance for anaphylaxis for both vaccines. Most anaphylaxis reactions have occured to people with a history of allergies or allergic reactions, with several having experienced an anaphylaxis episode in the past.
 
+          # Women
+          -
+            'Shimabukuro_et_al_01_29_2021
+            'Shimabukuro_et_al_01_29_2021.!a
+            'Shimabukuro_et_al_01_29_2021.!b
 
-          The clinical and epidemiologic characteristics of anaphylaxis case reports after receipt of Moderna COVID-19 vaccine are similar to those reported after receipt of the Pfizer-BioNTech COVID-19 vaccine. For both vaccines, symptom onset after vaccination occurred quickly, usually within minutes. A strong female predominance of anaphylaxis case reports exists for both vaccines. Finally, many persons experiencing anaphylaxis after receiving either vaccine had a history of allergies or allergic reactions, with several having experienced an anaphylaxis episode in the past. Similar patient characteristics in case reports of nonanaphylaxis allergic reactions were observed among the two vaccines.
-        -
-          'Shimabukuro_et_al_02_12_2021
-          'Shimabukuro_et_al_02_12_2021.!a
-          'Shimabukuro_et_al_02_12_2021.!b
-          'Shimabukuro_et_al_02_12_2021.!c
-          'Shimabukuro_et_al_02_12_2021.!d
-          'Shimabukuro_et_al_02_12_2021.!e
+          -
+            'Shimabukuro_et_al_01_06_2021
+            'Shimabukuro_et_al_01_06_2021.!a
+          -
+            'Shimabukuro_et_al_01_06_2021.!c
 
+          # Early as 30 min
+          -
+            'Shimabukuro_et_al_01_06_2021
+            'Shimabukuro_et_al_01_06_2021.!b
+          -
+            'Shimabukuro_et_al_01_29_2021
+            'Shimabukuro_et_al_01_29_2021.!a
 
-        >
-          Allergic reactions including anaphylaxis after receipt of the first dose of Pfizer-BioNTech COVID-19 vaccine—United States, December 14–23, 2020.- detected 21 cases of anaphylaxis after administration of a reported 1,893,360 first doses of the Pfizer-BioNTech COVID-19 vaccine (11.1 cases per million doses); 71% of these occurred within 15 minutes of vaccination.
+        / Treatment
+        claim !Treatment = Studies indicate that because of the acute, life-threatening nature of anaphylaxis, immediate epinephrine administration is recommended for all cases.
+          -
+            'Shimabukuro_et_al_02_12_2021
+            'Shimabukuro_et_al_02_12_2021.!b
 
-        -
-          'Shimabukuro_et_al_01_06_2021
-          'Shimabukuro_et_al_01_06_2021.!a
-          'Shimabukuro_et_al_01_06_2021.!b
-          'Shimabukuro_et_al_01_06_2021.!c
-        -
-          'Shimabukuro_et_al_01_21_2021
-          'Shimabukuro_et_al_01_21_2021.!a
-          'Shimabukuro_et_al_01_21_2021.!b
-          'Shimabukuro_et_al_01_21_2021.!c
-          'Shimabukuro_et_al_01_21_2021.!d
-
-
-
-        >
-          Allergic Reactions Including Anaphylaxis After Receipt of the First Dose of Moderna COVID-19 Vaccine — United States, December 21, 2020–January 10, 2021 - During December 21, 2020–January 10, 2021, monitoring by the Vaccine Adverse Event Reporting System detected 10 cases of anaphylaxis after administration of a reported 4,041,396 first doses of Moderna COVID-19 vaccine (2.5 cases per million doses administered). In nine cases, onset occurred within 15 minutes of vaccination. No anaphylaxis-related deaths were reported.
-        -
-          'Shimabukuro_et_al_01_29_2021
-          'Shimabukuro_et_al_01_29_2021.!a
-          'Shimabukuro_et_al_01_29_2021.!b
-
-        >
-          All 10 anaphylaxis cases reported after receipt of Moderna COVID-19 vaccine occurred in women. Whereas a previous review of anaphylaxis reports to VAERS found that 80% of cases reported in adults involved females, the current finding could be affected by the observation that more women than men had received a first dose of Moderna COVID-19 vaccine during the analytic period (61% of doses administered versus 36%, respectively). In a previous analysis of the Pfizer-BioNTech COVID-19 vaccine, two thirds of first doses were administered in women.
-        -
-          'Shimabukuro_et_al_01_29_2021
-          'Shimabukuro_et_al_01_29_2021.!a
-          'Shimabukuro_et_al_01_29_2021.!b
-
-        >
-          Most reported anaphylaxis cases after receipt of Pfizer-BioNTech COVID-19 vaccine occurred in women, although 64% of the vaccine doses administered with sex of recipient recorded were given in women.
-        -
-          'Shimabukuro_et_al_01_06_2021
-          'Shimabukuro_et_al_01_06_2021.!a
-        -
-          'Shimabukuro_et_al_01_06_2021.!c
-
-        >
-          Because of the acute, life-threatening nature of anaphylaxis, immediate epinephrine administration is indicated for all cases.
-        -
-          'Shimabukuro_et_al_02_12_2021
-          'Shimabukuro_et_al_02_12_2021.!b
-
-        >
-          Common signs and symptoms in anaphylaxis cases were generalized urticaria, diffuse erythematous rash, angioedema, respiratory and airway obstruction symptoms, and nausea.
-        -
-          'Shimabukuro_et_al_02_12_2021
-          'Shimabukuro_et_al_02_12_2021.!d
-        -
-          'Shimabukuro_et_al_01_21_2021
-          'Shimabukuro_et_al_01_21_2021.!b
-
-        >
-          Most (86%) anaphylaxis cases had symptom onset within 30 minutes of vaccination, and most persons with anaphylaxis (81%) had a history of allergies or allergic reactions, including some with previous anaphylaxis events; up to 30% of persons in the general population might have some type of allergy or history of allergic reactions.
-        -
-          'Shimabukuro_et_al_01_06_2021
-          'Shimabukuro_et_al_01_06_2021.!b
-        -
-          'Shimabukuro_et_al_01_29_2021
-          'Shimabukuro_et_al_01_29_2021.!a
-
-
-
-
-        >
-          Some findings in this analysis are consistent with previous observations. The predominance of male sex in younger age groups (eg, aged <19 years) and female sex in older age groups (eg, aged ≥19 years) has been observed in previous analyses
-
-        >
-          Whereas a female predominance has been previously observed in a review of immediate hypersensitivity reports to VAERS after influenza A(H1N1) vaccine ('Halsey_et_al_12_09_2013), the current finding could be impacted by the observation that more women than men had received a first dose of Pfizer-BioNTech COVID-19 vaccine during the analytic period.
-
-        >
-          CDC guidance on use of mRNA COVID-19 vaccines and management of anaphylaxis is available (3,4). Persons with an immediate allergic reaction to the first dose of an mRNA COVID-19 vaccine should not receive additional doses of either of the mRNA COVID-19 vaccines. In addition to screening for contraindications and precautions before administering COVID-19 vaccines, vaccine locations should have the necessary supplies and trained staff members available to manage anaphylaxis, implement postvaccination observation periods, immediately treat persons experiencing anaphylaxis signs and symptoms with intramuscular injection of epinephrine, and transport patients to facilities where they can receive advanced medical care.
-
+        / Symptoms
+        claim !Symptoms = Studies have observed that common signs and symptoms in anaphylaxis cases were generalized urticaria, diffuse erythematous rash, angioedema, respiratory and airway obstruction symptoms, and nausea.
+          -
+            'Shimabukuro_et_al_02_12_2021
+            'Shimabukuro_et_al_02_12_2021.!d
+          -
+            'Shimabukuro_et_al_01_21_2021
+            'Shimabukuro_et_al_01_21_2021.!b
 
 
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
@@ -350,6 +328,9 @@ subject module Vaccines
         !Variantefficacy
         !AntibodyNeutralization
         !NeutralisingUKvariant
+      -
+        Tozinameran.AnaphylaxisPEG
+
 
 
 
