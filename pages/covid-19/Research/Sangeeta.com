@@ -1,5 +1,6 @@
 feed Sangeeta
   #
+
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -12,9 +13,259 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
+
+
+  #
+  // What does 95% COVID-19 vaccine efficacy really mean
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head = It is imperative to dispel any ambiguity about how vaccine efficacy shown in trials translates into protecting individuals and populations.
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+
+  #
+  // Report to JCVI on estimated efficacy of a single dose of Pfizer BioNTech (BNT162b2 mRNA) vaccine and of a single dose of ChAdOx1 vaccine (AZD1222)
+  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/949505/annex-a-phe-report-to-jcvi-on-estimated-efficacy-of-single-vaccine-dose.pdf
+  ref 'JCVI_et_al
+    head = This report outlines the estimated single dose vaccine efficacy (VE) of the Pfizer and ChAdOx1 Covid-19 vaccines as discussed at the JCVI COVID-19 sub-group meeting of December 22nd December 2020.
+
+    - Pfizer single dose VE
+      !a
+      !c
+    - counter to initial pfizer single dose
+      !b
+    - ChadOx1 single dose VE
+      !d
+      !e
+    - Moderna single dose VE
+      !f
+      !g
+
+    /
+    quote !a = Pfizer single dose VE: single dose VE at any time after dose 1 and before dose 2 was given as 52.4% (29.5-68.4) [39 events in the vaccine arm and 82 placebo]. For the period 2 to 7 days after dose 2 it was given as 90.5% (61.0-98.8) [2 events vs 21].
+
+    /
+    quote !b = The 52.4% figure, however, includes COID-19 infections occurring shortly after the first dose, an interval within which this dose would not be expected to have had an effect (i.e prior to the recipient mounting an immune response). It would therefore be appropriate to calculate the VE of a single dose in a period after this 10 days. A reasonable interval to use for post first dose VE would therefore be from >14 days to the time of the second dose (scheduled 21 days after the first dose) or to 7 days after the second dose base on the assumption the second dose would not have induced a response in this interval. Unfortunately, this analysis is not presented in the paper.
+
+    /
+    quote !c = This analysis indicates a VE of about 90% from 2 weeks after the first dose and for the following 2 weeks. It does not indicate VE beyond this time point as participants had received a second dose. Assuming the period up to 7 days post the second dose is still dose 1 protection then the VE is at least 74% (bottom end of 95%CI). This estimate of ~ 90% is much higher than the 52.4% reported in the paper where the early cases post the first dose were included.
+
+    /
+    quote !d = ChadOx1 single dose VE: The level of protection gained from a single dose of COVID-19 Vaccine AstraZeneca was assessed in an exploratory analysis that included participants who had received one dose. Vaccine efficacy from 22 days post dose 1 was 73.00% (95% CI: 48.79; 85.76 [COVID-19 Vaccine AstraZeneca 12/7,998 vs control 44/7,982]).
+    /
+    quote !e = Exploratory analyses for COVID-19 Vaccine AstraZeneca showed that increased immunogenicity was associated with a longer dose interval. Efficacy is currently demonstrated with more certainty for dose intervals from 8 to 12 weeks. Data for intervals longer than 12 weeks are limited.
+    /
+    quote !f = Moderna: The details below are taken from Vaccines and Related Biological Products Advisory Committee December 17, 2020 Meeting Briefing Document - FDA. This shows that from 15 days after the first dose to the time of the second dose VE was 92.1% (68.8%-99.1%). Cumulative cases show a divergence between the vaccine and placebo groups from about 14 days after the first dose.
+
+    /
+    quote !g = Additional analyses were done to assess efficacy against COVID-19 after one dose of mRNA1273. In participants in the mITT set who only received one dose of the vaccine at the time of the interim analysis, VE after one dose was 80.2% (95% CI 55.2%, 92.5%). These participants had a median follow-up time of 28 days. The small, non-random sample and short median follow-up time limits the interpretation of these results. There appears to be some protection against COVID-19 disease following one dose; however, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
+
+
+
+
+  #
+  // Delayed Second Dose versus Standard Regimen for Covid-19 Vaccination
+  doi: https://doi.org/10.1056/NEJMclde2101987
+  ref 'Kadire_et_al_02_17_2021
+    head = Which one of the following approaches would you take? Base your choice on the literature, your own experience, published guidelines, and other information sources. 1) Recommend delaying the second dose. 2) Recommend following the standard regimen. To aid in your decision making, each of these approaches is defended in a short essay by an expert in the field.
+
+    - Recommend Delaying the Second Dose
+      !a
+      !b
+      !c
+      !g
+    - Potential risks: Are there potential risks from delaying the second dose?
+      !d
+      !e
+      !f
+    - Recommend Following the Standard Regimen
+      !h
+      !i
+      !j
+      !k
+      !l
+      !m
+      !n
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !a = Some argue that any deviation from the protocol used in the clinical trials is unscientific. But the argument is based on an overly narrow definition of science. In both trials, the cases in the placebo and active vaccine groups began to diverge about 10 days after the first dose, with growing vaccine efficacy over time. By the day of the injection of the second dose, the efficacy of the first dose was somewhere in the range of 80 to 90%.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !b = Why consider delaying the second vaccine dose? First, with Covid-19 currently killing approximately 3000 people in the United States per day, we face a crucial tradeoff: do we use our limited vaccination capacity to increase the protection of persons who have received a first dose from approximately 85% (after dose one) to 95% (after dose two) by administering a second dose? Or do we use that same capacity to take a similar number of people from an unprotected state to one in which they are 80 to 90% protected? One model shows that the expected number of Covid-19 cases would be significantly lower if more people were given a first dose, even if it came at the cost of deferring the second doses
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !c = Second, we have recently seen the emergence of several viral variants, with one (B.1.1.7, often referred to as the U.K. variant) that is approximately 50% more infectious than the native coronavirus. This variant rapidly became the dominant strain in much of England, and the Centers for Disease Control and Prevention (CDC) now predicts the same for the United States in the next 6 weeks. This prospect further increases the imperative to vaccinate the population, particularly people at high risk, more quickly.
+
+    # Potential risks: Are there potential risks from delaying the second dose?
+    / February, 2021 - The New England Journal of Medicine
+    quote !d = It is possible that the second dose will be less effective when given later, though few scientists believe this will be the case. Immunity may begin to wane between the first dose and a delayed second dose, although the rarity of recurrent infections probably means that immunity, at least that created by native infection, lasts for much longer than 3 months.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !e = Some people may forget to return for their second dose after a longer delay, though a reminder system that works for a return in 3 to 4 weeks should work a month or two later. It is possible that some people will be confused by a change in the vaccine schedule, and the confusion may lead them to eschew vaccination altogether or believe that they need only a single dose. The probability of this is hard to quantify, though it can most likely be addressed with a strong messaging campaign.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !f = Some experts have warned that partial vaccination leading to a less robust immune response may increase the risk of mutations, which, as we’ve seen, can lead to variants with more problematic characteristics
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !g = Although there are risks to the strategy of a delayed second dose, the benefits of giving far more people a first dose sooner merit strong consideration of the strategy, particularly since the vaccine shortage is likely to ease by late spring.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !h = Recommend Following the Standard Regimen: My recommendation is that at this time in the United States, we should not delay the second dose of mRNA vaccine beyond the intervals evaluated for their emergency use authorization. Although the immune response to the first dose is unlikely to degrade quickly, it is incomplete, and there are no data to inform how long a second dose could be delayed without compromising effectiveness.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !i = We don’t even know the duration of immunity produced by the two-dose regimen or how dose timing affects immunity in elderly and immunocompromised persons, who account for most hospitalizations and deaths. Substantially delaying a second dose might simultaneously leave these people inadequately protected and impede progress toward the goal of alleviating the surge in hospitalizations.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !j = Populations essential to social and economic functioning, such as frontline health care personnel and other essential workers, need assurance that if they get vaccinated, they can expect a high level of protection and can work more safely. Delaying a second dose cannot provide that assurance and may have an untoward impact on their future willingness to work or to be vaccinated.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !k = Some models have suggested that using a less effective vaccine or delaying a second dose to provide first doses to more people will end the pandemic sooner. However, these models do not account for the potential degradation of the immune response or for spillover effects of such decisions on vaccine acceptance. Many people are skeptical of vaccines, fearing that the speed of development has necessitated cutting corners and that political pressure has influenced vaccine recommendations. Suddenly changing dosing recommendations puts public confidence at serious risk and will impede willingness to be vaccinated at all.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !l = Cases of Covid-19 have already occurred in vaccine recipients, as was seen in the phase 3 trials, which will raise questions about the delayed-second-dose strategy and erode trust in the vaccine rollout. If these breakthrough cases appear to occur more frequently before the second, delayed dose, confidence will be further compromised, ultimately delaying the end of the pandemic and social and economic recovery.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !m = The appearance of SARS-CoV-2 variants implies that the virus is under evolutionary pressure. Some have postulated — although this is speculative — that subinhibitory levels of antibody response before a second dose, if widespread, could contribute to selection of antigenic variants that could escape current vaccines. Even though we now know how to make Covid-19 vaccines, designing, testing, manufacturing, and administering a vaccine against a new variant will take time and will be challenging.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !n = Currently, our nation is unable to rapidly administer the doses it has. It is likely that supply constraints will ease within a month or two, as manufacturing becomes more efficient, and other vaccines will probably become available. Meanwhile, vaccines are not the only tool for quashing this pandemic. In the short term, adherence to basic public health measures is projected to save 1.5 times as many lives as vaccines.
+
+
+
+
+
+
+  #
+  // A preliminary report of a randomized controlled phase 2 trial of the safety and immunogenicity of mRNA-1273 SARS-CoV-2 vaccine
+  doi: https://doi.org/10.1016/j.vaccine.2021.02.007
+  ref 'Chu_et_al_02_09_2021
+    head = This phase 2, randomized, observer-blind, placebo-controlled trial was conducted in 8 sites in the USA, in healthy adults aged ≥18 years with no known history or risk of SARS-CoV-2 infection, and had not previously received an investigational CoV vaccine or treatment. Participants were stratified into two age cohorts (≥18-<55 and ≥55) and were randomly assigned (1:1:1) to either 50 or 100 µg of mRNA-1273, or placebo administered as two intramuscular injections 28 days apart.
+
+    > Background
+      Vaccines are urgently needed to prevent the global spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We assessed the safety and immunogenicity of vaccine candidate mRNA-1273, encoding the prefusion-stabilized spike protein of SARS-CoV-2.
+
+    > Methods
+      This phase 2, randomized, observer-blind, placebo-controlled trial was conducted in 8 sites in the USA, in healthy adults aged ≥18 years with no known history or risk of SARS-CoV-2 infection, and had not previously received an investigational CoV vaccine or treatment. Participants were stratified into two age cohorts (≥18-<55 and ≥55) and were randomly assigned (1:1:1) to either 50 or 100 µg of mRNA-1273, or placebo administered as two intramuscular injections 28 days apart. The primary outcomes were safety, reactogenicity, and immunogenicity assessed by anti-SARS-CoV-2-spike binding antibody level (bAb). Secondary outcome was immunogenicity assessed by SARS-CoV-2 neutralizing antibody (nAb) response.
+
+    > Results
+      Between 29 May and 8 July 2020, 600 participants were randomized, 300 per age cohort. The most common solicited adverse reactions were pain at injection site, headache, and fatigue following each vaccination in both age cohorts. One serious adverse event deemed unrelated by the site investigator occurred 33 days post-vaccination one. mRNA-1273 induced bAb and nAb by 28 days post-vaccination one that were higher at the 100 µg dose relative to the 50 µg dose; this difference was less apparent post-vaccination two. Binding antibodies and nAb increased substantially by 14 days following the second vaccination (day 43) to levels exceeding those of convalescent sera and remained elevated through day 57.
+
+    > Conclusions
+      Vaccination with mRNA-1273 resulted in significant immune responses to SARS-CoV-2 in participants 18 years and older, with an acceptable safety profile, confirming the safety and immunogenicity of 50 and 100 ug mRNA-1273 given as a 2 dose-regimen.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2021 - Vaccine
+    quote !a = Vaccination with mRNA-1273 resulted in significant immune responses to SARS-CoV-2 in participants 18 years and older, with an acceptable safety profile, confirming the safety and immunogenicity of 50 and 100 ug mRNA-1273 given as a 2 dose-regimen.
+
+    / February, 2021 - Vaccine
+    quote !b = The most common solicited adverse reactions were pain at injection site, headache, and fatigue following each vaccination in both age cohorts. One serious adverse event deemed unrelated by the site investigator occurred 33 days post-vaccination one.
+
+
+
+  #
+  // Age-related heterogeneity in Neutralising antibody responses to SARS-CoV-2 following BNT162b2 vaccination
+  doi: https://doi.org/10.1101/2021.02.03.21251054
+  ref 'Collier_et_al_02_20_2021
+    head = We assessed real world immune responses following vaccination with mRNA-based vaccine BNT162b2. We did a prospective cohort study of individuals presenting for first dose vaccination.
+
+
+    > Abstract
+      Background Vaccines remain the cornerstone for containing the SARS-CoV-2 pandemic. mRNA vaccines provide protection in clinical trials using a two-dose approach, separated by a three to four week gap. UK policy in 2021 is to extend the dosing interval from three to twelve weeks. There is a paucity of data in the elderly, even though these individuals are the first to receive vaccines due to risk of severe disease. Here we assessed real world immune responses following vaccination with mRNA-based vaccine BNT162b2.
+
+    > Methods
+      We did a prospective cohort study of individuals presenting for first dose vaccination. Following the first and second doses of the BNT162b2 vaccine, we measured IFNgamma; T cell responses, as well as binding antibody (IgA, IgG and IgG1-4) responses to Spike and Spike RBD. We also measured neutralising antibody responses to Spike in sera using a lentiviral pseudotyping system. We correlated age with immune responses and compared responses after the first and second doses.
+
+    > Findings
+      Median age was 63.5 years amongst 42 participants. Three weeks after the first dose a lower proportion of participants over 80 years old achieved adequate neutralisation titre of >1:20 for 50% neutralisation as compared to those under 80 (8/17 versus 19/24, p=0.03). Geometric mean neutralisation titres in this age group after the first dose were lower than in younger individuals (p<0.001). Binding IgA and IgG1 and 3 responses developed post vaccination, as observed in natural infection. T- cell responses were not different in those above or below 80 years. Following the second dose, 50% neutralising antibody titres were above 1:20 in all individuals and there was no longer a difference by age grouping.
+
+    > Interpretation
+      A high proportion of individuals above the age of 80 have suboptimal neutralising antibody responses following first dose vaccination with BNT162b2, cautioning against extending the dosing interval in this high risk population.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / February, 2021 - MedRxiv
+    quote !a = A high proportion of individuals above the age of 80 have suboptimal neutralising antibody responses following first dose vaccination with BNT162b2, and that the second dose is associated with robust neutralising responses. Thus, cautioning against extending the dosing interval in this high risk population.
+
+    / February, 2021 - MedRxiv
+    quote !b = Following the second dose, 50% neutralising antibody titres were above 1:20 in all individuals and there was no longer a difference by age grouping.
+
+    / February, 2021 - MedRxiv
+    quote !c = Three weeks after the first dose a lower proportion of participants over 80 years old achieved adequate neutralisation titre of >1:20 for 50% neutralisation as compared to those under 80 (8/17 versus 19/24, p=0.03). Geometric mean neutralisation titres in this age group after the first dose were lower than in younger individuals (p<0.001)
+
+    / February, 2021 - MedRxiv
+    quote !d = Binding IgA antibodies to Spike and RBD increased following the first and second doses, mirroring levels seen in natural nfection. IgG3 responses to Spike and RBD increased predominantly after the second dose; this subclass has been associated with multifunctional antibody responses.
+
+    / February, 2021 - MedRxiv
+    quote !e = T cell responses were generally good across age groups following first dose, though lower in the over 80 age group.
+
+
+
+
+
+  #
+  // Delayed second dose of the BNT162b2 vaccine: innovation or misguided conjecture?
+  doi: https://doi.org/10.1016/S0140-6736(21)00455-4
+  ref 'Robertson_et_al_02_19_2021
+    head = In a plublished letter the authors strongly support vaccination against COVID-19 with the Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2 when adhering to the 3-week dosing schedule that was found highly effective in the phase 3 randomised clinical trial—regarded as the gold standard. However they  do not support the second dose being delayed to 12 weeks, as implemented by UK Chief Medical Officers.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / February, 2021 - The Lancet
+    quote !a = We would strongly recommend that the UK Government reverts to the two doses in a 3-week schedule (94% efficacy) for BNT162b2; or, as recently supported by WHO and the US Centers for Disease Control and Prevention, adopt no more than a 6-week delay to the second dose “in exceptional circumstances”
+
+    / February, 2021 - The Lancet
+    quote !b = UK's delayed second dose strategy for BNT162b2 is, in our view, a misguided conjecture. It will yield some protection for the individual after a first dose: how much, and for how long, is unknown and without patient consent.
+
+    / February, 2021 - The Lancet
+    quote !c = The idea of protecting more of the population by delaying the second dose is predicated on a joint statement by the JCVI and Public Health England (PHE) that a first dose provides 89–90% efficacy (protection). This is contrary to the clinical data or efficacy generated from real-life clinical observational data from Israel.
+
+    / February, 2021 - The Lancet
+    quote !d = The JCVI performed an unplanned, retrospective analysis of the randomised clinical trial data. They compared COVID-19 cases in the vaccine group versus the control group from a 6-day window (15–21 days), selected retrospectively after examining the data. The resulting 89% efficacy (95% CI 52–97) was based only on roughly 20 events. Retrospective analyses in therapeutic trials can be hypothesis-generating but should not be used to treat individuals. The JCVI then made a major assumption that the 89% effectiveness persists from day 21 to day 85 in the absence of the second dose,4,  5 for which no empirical evidence was adduced.
+
+    / February, 2021 - The Lancet
+    quote !e = In a further major, incorrect assumption, the JCVI stated “There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other”. No scientific data on mRNA vaccines exists to support this assumption. The available quality peer-reviewed, published immunology data would refute the assumptions documented by the JCVI and PHE.
+
+    / February, 2021 - The Lancet
+    quote !f = The JCVI assumption that mRNA vaccines (BNT162b2 and Moderna's mRNA-1273 SARS-CoV-2 vaccine) would behave similarly to the AZD1222 viral vector DNA vaccine developed by the University of Oxford and AstraZeneca is not supported by published evidence. Phase 1/2 trial data of AZD1222 show a substantial specific anti-virus spike protein T-cell responses at day 7, which peaks at day 14. This response is not seen with BNT162b2
+
+    / February, 2021 - The Lancet
+    quote !g = There are marked quantitative differences in the production and duration of neutralising antibodies (NAbs). The mRNA vaccines show marked falls in NAb titres (compared with the DNA vaccine) in the period before the scheduled second dose (day 22 and day 29 for BNT162b211,  12 and mRNA-1273,9 respectively), something we have specifically highlighted as occurring in all age groups.3 Inevitably, NAb titres will continue to fall during days 21–85, leading to very reduced immunity and increased risk to individuals of infection, especially in frail older people.
+
+    / February, 2021 - The Lancet
+    quote !h = An efficacy of 52·4% was reported out to day 22 for BNT162b2, and efficacy of 50–60% has been reported in observational cohort studies from Israel covering the same period.
+
+    / February, 2021 - The Lancet
+    quote !i = We have no concerns regarding the second dose of AZD1222 at 12 weeks, as this is supported by evidence. However, if escape variants arise due to sub-optimal dosing with BNT162b2, they will likely be resistant to other vaccines that target the same viral spike protein.
+
+
+
   #
   // Phase 1/2 trial of SARS-CoV-2 vaccine ChAdOx1 nCoV-19 with a booster dose induces multifunctional antibody responses
-  doi: https://doi.org/xyz
+  doi: https://doi.org/10.1038/s41591-020-01179-4
   ref 'Barrett_et_al_12_17_2020
     head = We describe safety and exploratory humoral and cellular immunogenicity of the vaccine, from subgroups of volunteers in a single-blinded phase 1/2 randomized controlled trial of healthy adults aged 18–55 years (NCT04324606), who were subsequently allocated to receive a homologous full-dose (SD/SD D56; n = 20) or half-dose (SD/LD D56; n = 32) ChAdOx1 booster vaccine 56 d following prime vaccination.
 
@@ -55,7 +306,7 @@ feed Sangeeta
 
   #
   // Single-dose administration and the influence of the timing of the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine: a pooled analysis of four randomised trials
-  doi: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00432-3/fulltext?utm_campaign=tlcoronavirus21&utm_source=twitter&utm_medium=social#seccestitle10
+  doi: https://doi.org/10.1016/S0140-6736(21)00432-3
   ref 'Voysey_et_al_02_19_2021
     head = We present data from three single-blind randomised controlled trials—one phase 1/2 study in the UK (COV001), one phase 2/3 study in the UK (COV002), and a phase 3 study in Brazil (COV003)—and one double-blind phase 1/2 study in South Africa (COV005).
 
@@ -3526,15 +3777,20 @@ feed Sangeeta
 
   #
   // SARS-CoV-2 mRNA vaccine design enabled by prototype pathogen preparedness
-  doi: https://doi.org/10.1038/s41586-020-2608-y
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+  doi: https://doi.org/10.1038/s41586-020-2622-0
+  ref 'Corbett_et_al_08_05_2020
+    head = Structural studies have led to the development of mutations that stabilize Betacoronavirus spike proteins in the prefusion state, improving their expression and increasing immunogenicity1. This principle has been applied to design mRNA-1273, an mRNA vaccine that encodes a SARS-CoV-2 spike protein that is stabilized in the prefusion conformation.
+
+    > Abstract
+      A vaccine for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is needed to control the coronavirus disease 2019 (COVID-19) global pandemic. Structural studies have led to the development of mutations that stabilize Betacoronavirus spike proteins in the prefusion state, improving their expression and increasing immunogenicity1. This principle has been applied to design mRNA-1273, an mRNA vaccine that encodes a SARS-CoV-2 spike protein that is stabilized in the prefusion conformation. Here we show that mRNA-1273 induces potent neutralizing antibody responses to both wild-type (D614) and D614G mutant2 SARS-CoV-2 as well as CD8+ T cell responses, and protects against SARS-CoV-2 infection in the lungs and noses of mice without evidence of immunopathology. mRNA-1273 is currently in a phase III trial to evaluate its efficacy.
 
     - quotes
       !a
 
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
+    / August, 2020 - Nature
+    quote !a = We show that mRNA-1273 induces potent neutralizing antibody responses to both wild-type (D614) and D614G mutant2 SARS-CoV-2 as well as CD8+ T cell responses, and protects against SARS-CoV-2 infection in the lungs and noses of mice without evidence of immunopathology. mRNA-1273 is currently in a phase III trial to evaluate its efficacy.
+
+
 
 
   #
@@ -4182,7 +4438,7 @@ feed Sangeeta
       !f
 
     / October, 2020 - The New England Journal of Medicine
-    quote !a = The safety and immunogenicity data from this U.S. phase 1 trial support the selection of BNT162b2 for advancement to a pivotal phase 2–3 safety and efficacy evaluation in participants 18 to 85 years of age..
+    quote !a = The safety and immunogenicity data from this U.S. phase 1 trial support the selection of BNT162b2 for advancement to a pivotal phase 2–3 safety and efficacy evaluation in participants 18 to 85 years of age.
 
     / October, 2020 - The New England Journal of Medicine
     quote !b = BNT162b2 was associated with a lower incidence and severity of systemic reactions than BNT162b1, particularly in older adults.

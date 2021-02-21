@@ -72,13 +72,14 @@ subject module Vaccines
           'ClinicalTrials-NCT04368728
 
       / Phase 1 & 2: BNT162b1
-      claim !BNT162b1 = Phase 1 and 2 results for BNT162b1 were posted in August of 2020. The authors reported robust immunogenicity with a similar safety profile to other mRNA-based vaccines, and recommended rapid production of the vaccine, concurrent with efficacy testing.
+      claim !BNT162b1 = Phase 1 and 2 results for BNT162b1 were posted in August of 2020. The authors reported robust immunogenicity with a similar safety profile to other mRNA-based vaccines, and recommended rapid production of the vaccine, concurrent with efficacy testing. Reactogenicity was generally greater after the second dose, however was well tolerated.
         -
           'Mulligan_et_al_08_12_2020
           'Mulligan_et_al_08_12_2020.!a
           'Mulligan_et_al_08_12_2020.!b
           'Mulligan_et_al_08_12_2020.!c
           'Mulligan_et_al_08_12_2020.!d
+          'Mulligan_et_al_08_12_2020.!e
 
       / Phase 1 & 2: BNT162b2
       claim !BNT162b2 = In October of 2020, a second report of results from the Pfizer trial showed a lower incidence and severity of systemic reactions from BNT162b2. The authors recommended that BNT162b1 advance to a phase 2-3 safety and efficacy evaluation.

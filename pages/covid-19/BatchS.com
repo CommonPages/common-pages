@@ -10,6 +10,215 @@
    # mRNA vaccines will not affect our DNA??
 
   >
+    mRNA vaccines provide protection in clinical trials using a two-dose approach, separated by a three to four week gap.
+    The clinical trials of the Pfizer–BioNTech and Moderna vaccines involved two injections given 3 to 4 weeks apart.
+
+    Although trial evidence for both vaccines indicates partial protection against COVID-19 illness after 1 dose (1, 2), the vaccines are authorized only as 2-dose series and have not yet been evaluated for single-dose use.
+
+  # -
+  #   Safety and efficacy of the BNT162b2 mRNA covid-19 vaccine.
+  #   Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine.
+
+
+  > # Phase 2
+    mRNA-1273 vaccine at 50 and 100 ug elicits robust immune responses in healthy adults. Immunogenicity is generally similar in younger (18-55 yr) and older (≥55 yr) adults. Safety profile of mRNA-1273 is acceptable; no serious adverse effects were observed. Results support 2-dose regimens of 50 or 100 ug mRNA-1273 SARS-CoV-2 vaccine.
+  -
+    'Chu_et_al_02_09_2021
+    'Chu_et_al_02_09_2021.!a
+    'Chu_et_al_02_09_2021.!b
+
+  >
+    mRNA vaccines are safe and protective against symptomatic Covid-19. As part of their submissions to the United States FDA for emergency use authorisation, both Pfizer/BioNTech and Moderna included a compelling finding: that the vaccines provided some protection just 14 days after the first shot.
+    Based on these observations, academics and lawmakers have been seduced by the idea of reducing the two-dose schedule for mRNA vaccines to just one dose, delaying the second dose until more people receive the initial immunisation, or even decreasing the dose of vaccine by half, all with the goal of getting more shots into more arms as quickly as possible. The notion of maximising the number of vaccinated people by these methods has rapidly gained support.
+
+    In a time of crisis, regulators might be justified in making a decision such as this with little data in order to make the most of limited vaccine supplies and protect as many people as possible. However, in this case, they are not, both because it’s not supported by the data that we do have, and because it doesn’t address the actual problem currently facing the UK, the US, and Canada, which is the distribution of existing supplies.
+  >
+    https://blogs.bmj.com/bmj/2021/01/05/covid-19-vaccines-to-delay-or-not-to-delay-second-doses/
+    Covid-19 vaccines: to delay or not to delay second doses
+
+    Post-Vaccination COVID-19 among Healthcare Workers, Israel
+    https://wwwnc.cdc.gov/eid/article/27/4/21-0016_article
+
+    A recent analysis of BNT162b2 vaccine data estimated vaccine efficacy of 89–91% during days 15–28 after the first dose.
+    Annex A: Report to JCVI on estimated efficacy of a single dose of Pfizer BioNTech (BNT162b2 mRNA) vaccine and of a single dose of ChAdOx1 vaccine (AZD1222)
+    https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/949505/annex-a-phe-report-to-jcvi-on-estimated-efficacy-of-single-vaccine-dose.pdf
+
+  >
+    Should people who have already received a first dose of vaccine have their second dose delayed by a number of months until there is a greater supply, so that more people can receive a first dose? Or should those who have gotten the first dose receive the second dose according to the standard schedule, 3 to 4 weeks after the first dose, as recommended by the Food and Drug Administration (FDA)?
+
+    Which one of the following approaches would you take? Base your choice on the literature, your own experience, published guidelines, and other information sources.
+
+    Recommend delaying the second dose.
+
+    Recommend following the standard regimen.
+
+    Are there potential risks from delaying the second dose?
+
+
+    Given concerns about the limited availability of the two-dose mRNA vaccine, the ongoing debate regarding the most effective use of the currently available doses. Should people who have already received a first dose of vaccine have their second dose delayed by a number of months until there is a greater supply, so that more people can receive a first dose? Or should those who have gotten the first dose receive the second dose according to the standard schedule, 3 to 4 weeks after the first dose, as recommended by the Food and Drug Administration (FDA)? You must consider the benefits and risks of the two approaches, on both individual and population levels, and decide what to recommend to the task force.
+
+  - Recommend Delaying the Second Dose
+    'Kadire_et_al_02_17_2021.!a
+    'Kadire_et_al_02_17_2021.!b
+    'Kadire_et_al_02_17_2021.!c
+    'Kadire_et_al_02_17_2021.!g
+  - Potential risks: Are there potential risks from delaying the second dose?
+    'Kadire_et_al_02_17_2021.!d
+    'Kadire_et_al_02_17_2021.!e
+    'Kadire_et_al_02_17_2021.!f
+  - Recommend Following the Standard Regimen
+    'Kadire_et_al_02_17_2021.!h
+    'Kadire_et_al_02_17_2021.!i
+    'Kadire_et_al_02_17_2021.!j
+    'Kadire_et_al_02_17_2021.!k
+    'Kadire_et_al_02_17_2021.!l
+    'Kadire_et_al_02_17_2021.!m
+    'Kadire_et_al_02_17_2021.!n
+
+  >
+    On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach.6 And on January 21, 2021, the CDC liberalized its guidance regarding the timing of the second dose, saying for the first time that a delay of up to 6 weeks after dose one would be acceptable.
+
+    In the UK, the Joint Committee on Vaccination and Immunisation has expanded the timeframe for a second dose of the Pfizer/BioNTech mRNA vaccine from three weeks – the spacing used in the clinical trials that showed 95% efficacy in protecting against Covid-19 – to up to 12 weeks.
+    (A second dose of the AstraZeneca vaccine, which is the other jab authorized in the UK, can also be administered up to 12 weeks after the first, a practice with some support from clinical trial data.)
+  # -
+  #   Interim clinical considerations for use of mRNA COVID-19 vaccines currently authorized in the United States
+
+  >
+    There appears to be some protection against COVID-19 disease following one dose; however, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
+
+
+  # https://www.nature.com/articles/d41586-021-00045-8
+  >
+    The decision so far applies to two of the three vaccines now approved for use in the United Kingdom — those made by Pfizer–BioNTech and the University of Oxford–AstraZeneca. In clinical trials, each was tested using two doses, given at least three weeks apart. The United Kingdom’s decision to extend the gap to three months has divided researchers. Pfizer–BioNTech say they do not have evidence of what happens to immunity beyond 21 days after the first dose. The World Health Organization recommends that the second dose of this vaccine be given no later than six weeks after the first, on the basis of available clinical-trial data.
+
+  >
+    The JCVI said in a statement on 6 January: “With most vaccines an extended interval between the prime and booster doses leads to a better immune response to the booster dose.” It has provided a summary explanation for its decision,
+
+  >
+    The JCVI says in its statement that, according to published results, the Pfizer–BioNTech vaccine was 52.4% effective during the three-week period between the two doses. It adds that most vaccine failures recorded during this period occurred shortly after vaccination, and that the short-term protection provided by the first dose seems to be very high from day ten after vaccination. For the AstraZeneca vaccine, it says that vaccine efficacy from 22 days after the first dose was 73%.
+
+  >
+    The JCVI adds that: “Protective immunity from the first dose likely lasts for a duration of 12 weeks.” But it has not published evidence to support this.
+
+  >
+    some are concerned that relatively weak immune responses induced by a single dose of vaccine could encourage the emergence of new variants of the virus — and that such variants could be more resistant to immune responses, particularly those generated by vaccines, increasing the risk that these variants could become a global threat.The JCVI has provided no assessment of the risks of such vaccine-resistant variants emerging, nor guidance as to how these strains or fading protection against COVID-19 should be monitored.
+
+    But there are reasons to think that there is only a small threat of a vaccine-resistant variant emerging as a result of postponing a second vaccine dose by a few weeks. Natural coronavirus infection already generates a range of immune responses, and the virus, which mutates relatively slowly, would struggle to evade the complex antibody responses generated by vaccines.
+
+
+  # https://www.theguardian.com/commentisfree/2021/jan/06/mrna-vaccines-schedule-covid-19
+  >
+    According to the trial data, vaccine efficacy drops to around 50% after a single shot for both mRNA vaccines. While this estimate includes the 14 days immediately after the primary shot (before the maximum immune response is expected to kick in), it suggests that a single-shot regimen would provide substantially less protection. Even if the first 14 days are excluded, after which efficacy is estimated to be over 90%, the confidence intervals – or what scientists estimate is the range of the true efficacy – indicate that this protection could vary by nearly 30%.
+
+  >
+    This also is at odds with data obtained from earlier studies with mRNA vaccines against both Sars-CoV-2 (the cause of Covid-19) and its cousin, Mers-CoV. Studies of Sars-CoV-2 infections in monkeys suggest that for a single mRNA vaccine shot to be protective, the dose must be higher. Phase 1 clinical trials designed to assess tolerability and immune responses in healthy volunteers to different doses showed that higher ones were associated with more serious side-effects. It’s questionable whether a single-shot vaccine could be both protective and safe.
+
+  >
+    The argument that the second (booster) shot of an mRNA vaccine could be delayed is also not supported by the science. Because of the expedited trial process, we don’t yet have information on immune durability, that is, the length of time that protective immunity endures. Typically booster shots are intended to provide the immune system with advanced “training” to make better antibodies, and to hardwire immune memory so that vaccine protection lasts.
+
+  >
+    mRNA is essentially a rapidly degrading set of instructions for cells to make the spike protein of Sars-CoV-2, which is what the immune system responds to. When the mRNA degrades, the cell will stop making the spike protein and the immune system will stop responding to it. mRNA is a notoriously unstable molecule, which is why the vaccines must be stored in ultracold freezers prior to use, so there is just a short window of time for the immune system to mount a response after a shot. Hence a booster shot being necessary to “remind” the immune system about the protein it had briefly encountered.
+
+  >
+    There is a significant risk that a single shot would be inadequate, particularly for elderly people, the group most in need of protection. It is well-known that age diminishes the duration and magnitude of immune responses, and we cannot gamble the safety of the most vulnerable based on an intriguing preliminary result. It is not worth risking an untested vaccine regimen when we are so tantalisingly close to having enough vaccines for everyone, especially when we know the current two-shot regimen is broadly protective.
+
+  >
+    Another concern about using altered vaccination schedules or regimens is that this may result in exposing circulating virus to low levels of antibodies, leading to evolutionary selection of variants that may be able to bypass those antibodies. The spectre of these “escape” mutants has been invoked by the simultaneous independent emergence of variants with mutations in the receptor-binding domain of the spike protein, a key target for antibodies, in the UK, South Africa and elsewhere.
+
+  >
+    Coadministration with other vaccines
+    https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html
+
+
+  >
+    Some models have suggested that using a less effective vaccine or delaying a second dose to provide first doses to more people will end the pandemic sooner.
+
+  >
+    In a plublished letter the authors strongly support vaccination against COVID-19 with the Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2 when adhering to the 3-week dosing schedule that was found highly effective in the phase 3 randomised clinical trial—regarded as the gold standard. However they  do not support the second dose being delayed to 12 weeks, as implemented by UK Chief Medical Officers.
+
+    UK's delayed second dose strategy for BNT162b2 is, in our view, a misguided conjecture. It will yield some protection for the individual after a first dose: how much, and for how long, is unknown and without patient consent.
+  -
+    'Robertson_et_al_02_19_2021
+    'Robertson_et_al_02_19_2021.!a
+    'Robertson_et_al_02_19_2021.!b
+    'Robertson_et_al_02_19_2021.!c
+    'Robertson_et_al_02_19_2021.!d
+    'Robertson_et_al_02_19_2021.!e
+    'Robertson_et_al_02_19_2021.!f
+    'Robertson_et_al_02_19_2021.!g
+    'Robertson_et_al_02_19_2021.!h
+    'Robertson_et_al_02_19_2021.!i
+
+  >
+    The idea of protecting more of the population by delaying the second dose is predicated on a joint statement by the JCVI and Public Health England (PHE) that a first dose provides 89–90% efficacy (protection).4,  5 This is contrary to the clinical data or efficacy generated from real-life clinical observational data from Israel.6,  7
+
+  # -
+  #   https://www.medrxiv.org/content/10.1101/2021.02.05.21251139v2
+  #   https://www.medrxiv.org/content/10.1101/2021.01.27.21250612v1
+
+  >
+    The mRNA vaccines show marked falls in NAb titres (compared with the DNA vaccine) in the period before the scheduled second dose (day 22 and day 29 for BNT162b2, and mRNA-1273, respectively), something we have specifically highlighted as occurring in all age groups. Inevitably, NAb titres will continue to fall during days 21–85, leading to very reduced immunity and increased risk to individuals of infection, especially in frail older people.
+  -
+    'Mulligan_et_al_08_12_2020
+    'Widge_et_al_12_03_2020
+    'Collier_et_al_02_20_2021
+
+  # pfizer old age
+  >
+    A high proportion of individuals above the age of 80 have suboptimal neutralising antibody responses following first dose vaccination with BNT162b2, and that the second dose is associated with robust neutralising responses. Thus, cautioning against extending the dosing interval in this high risk population.
+  -
+    'Collier_et_al_02_20_2021
+    'Collier_et_al_02_20_2021.!a
+    'Collier_et_al_02_20_2021.!b
+    'Collier_et_al_02_20_2021.!c
+    'Collier_et_al_02_20_2021.!d
+    'Collier_et_al_02_20_2021.!e
+
+
+  >
+    In the Moderna 1273 mRNA vaccine study in older individuals (above 55 years), neutralisation was only detectable after the second dose, whilst binding antibodies were detectable after both doses.
+  -
+    'Anderson_et_al_09_29_2020
+
+  >
+    Interestingly, in aged mice the ChAdOx nCov-19 vaccine responses were lower as compared to younger mice, and this was overcome by booster dosing.
+  # -
+  #   AYUSH
+
+  >
+    The ChAdOx nCov-19 vaccine was reported as being effective even with a twelve week gap between the two doses
+
+  >
+    Individuals over 80 are nonetheless likely to be at prolonged increased risk for infection, based on studies in non-human primates linking protection from SARS-CoV-2 challenge with neutralising antibody titres, but not T cell responses.
+
+  >
+    In a clinical study specifically looking at older adults vaccinated with BNT162b2 the GMT (geometric mean titre) after first dose was 12 in a set of 12 subjects between ages of 65 an 85 years, rising to 149 seven days after the second dose
+  -
+    'Walsh_et_al_10_14_2020
+
+  >
+    in the Moderna 1273 mRNA vaccine study in older individuals (above 55 years), neutralisation was only detectable after the second dose, whilst binding antibodies were detectable after both doses
+  # -
+  #   Safety and Immunogenicity of SARS-CoV-2 mRNA-1273 Vaccine in Older Adults
+
+  >
+    Interestingly, in aged mice the ChAdOx nCov-19 vaccine responses were lower as compared to younger mice, and this was overcome by booster dosing.
+  # -
+  #   A Booster Dose Enhances Immunogenicity of the COVID19 Vaccine Candidate ChAdOx1 nCoV-19 in Aged Mice.
+
+  >
+    We have no concerns regarding the second dose of AZD1222 at 12 weeks, as this is supported by evidence.
+
+  >
+    We show that mRNA-1273 induces potent neutralizing antibody responses to both wild-type (D614) and D614G mutant2 SARS-CoV-2 as well as CD8+ T cell responses, and protects against SARS-CoV-2 infection in the lungs and noses of mice without evidence of immunopathology. mRNA-1273 is currently in a phase III trial to evaluate its efficacy.
+  -
+    'Corbett_et_al_08_05_2020
+    'Corbett_et_al_08_05_2020.!a
+
+
+
+  >
+
     New research has shown that the Pfizer vaccine generates a robust immune response after one dose, opening up the possibility that the second dose of the vaccine can be delayed for longer than first thought
 
     Some Covid-19 Vaccines Are Effective After One Dose, Can Be Stored in Normal Freezers, Data Show.
@@ -30,6 +239,8 @@
   -
     'Barrett_et_al_12_17_2020
     'Barrett_et_al_12_17_2020.!c
+    'Mulligan_et_al_08_12_2020
+    'Mulligan_et_al_08_12_2020.!e
   # -
   #   An mRNA vaccine against SARS-CoV-2—preliminary report.
   #   Phase 1–2 trial of a SARS-CoV-2 recombinant spike protein nanoparticle vaccine.
@@ -45,7 +256,7 @@
   #   Phase 1 safety and immunogenicity study of a respiratory syncytial virus vaccine with an adenovirus 26 vector encoding prefusion F (Ad26.RSV.preF) in adults aged ≥60 years.
   #   Safety and immunogenicity of a 2-dose heterologous vaccination regimen with Ad26.ZEBOV and MVA-BN-Filo ebola vaccines: 12-month data from a phase 1 randomized clinical trial in Uganda and Tanzania.
 
-  
+
 
   #########
 
