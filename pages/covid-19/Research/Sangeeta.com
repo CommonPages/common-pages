@@ -48,23 +48,25 @@ feed Sangeeta
       !f
       !g
 
-    /
+    / Feb, 2020 - JCVI
     quote !a = Pfizer single dose VE: single dose VE at any time after dose 1 and before dose 2 was given as 52.4% (29.5-68.4) [39 events in the vaccine arm and 82 placebo]. For the period 2 to 7 days after dose 2 it was given as 90.5% (61.0-98.8) [2 events vs 21].
 
-    /
+    / Feb, 2020 - JCVI
     quote !b = The 52.4% figure, however, includes COID-19 infections occurring shortly after the first dose, an interval within which this dose would not be expected to have had an effect (i.e prior to the recipient mounting an immune response). It would therefore be appropriate to calculate the VE of a single dose in a period after this 10 days. A reasonable interval to use for post first dose VE would therefore be from >14 days to the time of the second dose (scheduled 21 days after the first dose) or to 7 days after the second dose base on the assumption the second dose would not have induced a response in this interval. Unfortunately, this analysis is not presented in the paper.
 
-    /
+    / Feb, 2020 - JCVI
     quote !c = This analysis indicates a VE of about 90% from 2 weeks after the first dose and for the following 2 weeks. It does not indicate VE beyond this time point as participants had received a second dose. Assuming the period up to 7 days post the second dose is still dose 1 protection then the VE is at least 74% (bottom end of 95%CI). This estimate of ~ 90% is much higher than the 52.4% reported in the paper where the early cases post the first dose were included.
 
-    /
+    / Feb, 2020 - JCVI
     quote !d = ChadOx1 single dose VE: The level of protection gained from a single dose of COVID-19 Vaccine AstraZeneca was assessed in an exploratory analysis that included participants who had received one dose. Vaccine efficacy from 22 days post dose 1 was 73.00% (95% CI: 48.79; 85.76 [COVID-19 Vaccine AstraZeneca 12/7,998 vs control 44/7,982]).
-    /
+
+    / Feb, 2020 - JCVI
     quote !e = Exploratory analyses for COVID-19 Vaccine AstraZeneca showed that increased immunogenicity was associated with a longer dose interval. Efficacy is currently demonstrated with more certainty for dose intervals from 8 to 12 weeks. Data for intervals longer than 12 weeks are limited.
-    /
+
+    / Feb, 2020 - JCVI
     quote !f = Moderna: The details below are taken from Vaccines and Related Biological Products Advisory Committee December 17, 2020 Meeting Briefing Document - FDA. This shows that from 15 days after the first dose to the time of the second dose VE was 92.1% (68.8%-99.1%). Cumulative cases show a divergence between the vaccine and placebo groups from about 14 days after the first dose.
 
-    /
+    / Feb, 2020 - JCVI
     quote !g = Additional analyses were done to assess efficacy against COVID-19 after one dose of mRNA1273. In participants in the mITT set who only received one dose of the vaccine at the time of the interim analysis, VE after one dose was 80.2% (95% CI 55.2%, 92.5%). These participants had a median follow-up time of 28 days. The small, non-random sample and short median follow-up time limits the interpretation of these results. There appears to be some protection against COVID-19 disease following one dose; however, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
 
 
@@ -244,7 +246,7 @@ feed Sangeeta
     quote !c = The idea of protecting more of the population by delaying the second dose is predicated on a joint statement by the JCVI and Public Health England (PHE) that a first dose provides 89–90% efficacy (protection). This is contrary to the clinical data or efficacy generated from real-life clinical observational data from Israel.
 
     / February, 2021 - The Lancet
-    quote !d = The JCVI performed an unplanned, retrospective analysis of the randomised clinical trial data. They compared COVID-19 cases in the vaccine group versus the control group from a 6-day window (15–21 days), selected retrospectively after examining the data. The resulting 89% efficacy (95% CI 52–97) was based only on roughly 20 events. Retrospective analyses in therapeutic trials can be hypothesis-generating but should not be used to treat individuals. The JCVI then made a major assumption that the 89% effectiveness persists from day 21 to day 85 in the absence of the second dose,4,  5 for which no empirical evidence was adduced.
+    quote !d = The JCVI performed an unplanned, retrospective analysis of the randomised clinical trial data. They compared COVID-19 cases in the vaccine group versus the control group from a 6-day window (15–21 days), selected retrospectively after examining the data. The resulting 89% efficacy (95% CI 52–97) was based only on roughly 20 events. Retrospective analyses in therapeutic trials can be hypothesis-generating but should not be used to treat individuals. The JCVI then made a major assumption that the 89% effectiveness persists from day 21 to day 85 in the absence of the second dose, for which no empirical evidence was adduced.
 
     / February, 2021 - The Lancet
     quote !e = In a further major, incorrect assumption, the JCVI stated “There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other”. No scientific data on mRNA vaccines exists to support this assumption. The available quality peer-reviewed, published immunology data would refute the assumptions documented by the JCVI and PHE.

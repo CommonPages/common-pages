@@ -1447,74 +1447,124 @@ subject module Vaccines
 
   subject EffectiveDosing
     head =
-    # Phizer
-    -
-      Approved.Tozinameran.!Israel
-      Approved.Tozinameran.!Israelday13
-      Approved.Tozinameran.!IsraelHCW
-    # Phizer Old age
-    -
-      Approved.Tozinameran.!OldAge
-    # Pfizer Phase 3
     >
-      The study was not designed to assess the efficacy of a single-dose regimen. Nevertheless, in the interval between the first and second doses, the observed vaccine efficacy against Covid-19 was 52%, indicating early protection by the vaccine, starting as soon as 12 days after the first dose.
+      On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach. And on January 21, 2021, the CDC liberalized its guidance regarding the timing of the second dose, saying for the first time that a delay of up to 6 weeks after dose one would be acceptable.
+      The World Health Organization recommends that the second dose of this vaccine be given no later than six weeks after the first, on the basis of available clinical-trial data.
     -
-      'Polack_et_al_12_31_2020
-      'Polack_et_al_12_31_2020.!h
-
-    >
-      In a letter published in the New England Journal of Medicine, two Canada-based researchers said.
-      The second dose of Pfizer Inc’s COVID-19 vaccine could be delayed in order to cover all priority groups as the first one is highly protective, with a vaccine efficacy of 92.6%, a finding similar to the first-dose efficacy of 92.1% reported for the mRNA-1273 vaccine (Moderna).
-
-      Based on the documents submitted to the Food and Drug Administration, we observed that even before the second dose, BNT162b2 was highly efficacious, with a vaccine efficacy of 92.6%, a finding similar to the first-dose efficacy of 92.1% reported for the mRNA-1273 vaccine (Moderna).
-
-      According to clinical trial results Pfizer provided to the FDA, its vaccine showed 52.4% effectiveness after one shot. However, that research did not show the effectiveness of the vaccine two weeks after the shot was given. The effectiveness jumped to 94% more than two weeks out from the first shot and 95% efficacy a week after the second shot.
+    # evidence from trial
+      Pfizer
+      !Limitationonedose
+      !ArgumentEfficacy
+      !JCVIPfizer
 
     -
-      'Skowronski_et_al_02_17_2021
-      'Skowronski_et_al_02_17_2021.!a
-      'Skowronski_et_al_02_17_2021.!b
-      'Skowronski_et_al_02_17_2021.!c
-
-
-    # Moderna
-    >
-      These findings were similar to the first-dose efficacy of 92.1% reported for Moderna Inc's mRNA-1273 vaccine.
-
-      Additional analyses were done to assess efficacy against COVID-19 after one dose of mRNA1273. In participants in the mITT set who only received one dose of the vaccine at the time of the interim analysis, VE after one dose was 80.2% (95% CI 55.2%, 92.5%). These participants had a median follow-up time of 28 days (range: 1 to 108 days). The small, non-random sample and short median follow-up time limits the interpretation of these results
-      There appears to be some protection against COVID-19 disease following one dose; however, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
-      The table has the 92.1%
-    # -
-    #   https://www.fda.gov/media/144434/download
+      Moderna
+    # Argument on efficacy data from scientists
 
     -
-      Approved.mRNA-1273.!Phase2
+    # Evidence from trial
+      Oxford
+    # JCVI Comments & Supporting data upto 3 months delay
+
+    subject Pfizer
+      head =
+      -
+        Approved.Tozinameran.!Israel
+        Approved.Tozinameran.!Israelday13
+        Approved.Tozinameran.!IsraelHCW
+      # Phizer Old age
+      -
+        Approved.Tozinameran.!OldAge
+
+    / Single dose Efficacy
+    claim !Limitationonedose = In phase 3 trial authors observed single-dose vaccine efficacy against Covid-19 was 52%, indicating early protection by the vaccine, starting as soon as 12 days after the first dose.. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
+      -
+        'Polack_et_al_12_31_2020
+        'Polack_et_al_12_31_2020.!h
+
+    / Argument for Single dose efficacy
+    claim !ArgumentEfficacy = Based on clinical trial results Pfizer provided to the FDA (52% efficacy after one dose) two Canada-based researchers argued that research did not show the effectiveness of the vaccine two weeks after the shot was given. The effectiveness jumped to 94% more than two weeks out from the first shot and 95% efficacy a week after the second shot. This finding is similar to the first-dose efficacy of 92.1% reported for the Moderna vaccine. They conclude mRNA vaccine could be delayed in order to cover all priority groups
+      -
+        'Skowronski_et_al_02_17_2021
+        'Skowronski_et_al_02_17_2021.!a
+        'Skowronski_et_al_02_17_2021.!b
+        'Skowronski_et_al_02_17_2021.!c
+
+    subject Moderna
+      >
+        These findings were similar to the first-dose efficacy of 92.1% reported for Moderna Inc's mRNA-1273 vaccine.
+
+        Additional analyses were done to assess efficacy against COVID-19 after one dose of mRNA1273. In participants in the mITT set who only received one dose of the vaccine at the time of the interim analysis, VE after one dose was 80.2% (95% CI 55.2%, 92.5%). These participants had a median follow-up time of 28 days (range: 1 to 108 days). The small, non-random sample and short median follow-up time limits the interpretation of these results
+        There appears to be some protection against COVID-19 disease following one dose; however, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
+        The table has the 92.1%
+      # -
+      #   https://www.fda.gov/media/144434/download
+
+      -
+        Approved.mRNA-1273.!Phase2
+
+    subject Oxford
+      # A second dose of ChAdOx1 nCoV-19 induces increased neutralising antibody levels and is probably necessary for long-lasting protection. second dose is still required to potentiate long-lived immunity.
+      -
+        Approved.AZD1222.!MiceDosing
+        Approved.AZD1222.!Phase12AstraZeneca
+        Approved.AZD1222.!Phase12Dosing
+        Approved.AZD1222.!Phas3Dosing
+        Approved.AZD1222.!PooledAnalysis
+
+
+    claim !JCVIPfizer = In the UK, the Joint Committee on Vaccination and Immunisation has expanded the timeframe for a second dose of the Pfizer/BioNTech mRNA vaccine from three weeks. They resoned that vaccine efficacy is much higher ~ 90% (in protecting against Covid-19 – to up to 12 weeks) is much higher than the 52.4% reported in the paper where the early cases post the first dose were included.
+      -
+        'JCVI_et_al
+        'JCVI_et_al.!a
+        'JCVI_et_al.!b
+        'JCVI_et_al.!c
 
     # Oxford
-    # A second dose of ChAdOx1 nCoV-19 induces increased neutralising antibody levels and is probably necessary for long-lasting protection. second dose is still required to potentiate long-lived immunity.
     -
-      Approved.AZD1222.!MiceDosing
-      Approved.AZD1222.!Phase12AstraZeneca
-      Approved.AZD1222.!Phase12Dosing
-      Approved.AZD1222.!Phas3Dosing
-      Approved.AZD1222.!PooledAnalysis
-
-
-    #  HEAD TEXT - efficacy of two standard doses of the vaccine
-    >
-      We show that NAbs are consistently induced across two different dosing intervals, as demonstrated across two assays using either live virus neutralization or pseudotyped virus neutralization as a readout, although we acknowledge that we do not yet have data on the durability of these responses. These observations are similar to those reported for several other COVID-19 vaccines, in which higher titers of NAbs are produced following two-dose vaccination regimens.
-
-      The analysis presented here provides strong evidence for the efficacy of two standard doses of the vaccine, which is the regimen approved by the MHRA and other regulators.
-
-    # -
-    #   'Logunov_et_al_09_04_2020
-    #   An mRNA vaccine against SARS-CoV-2—preliminary report.
-    #   Phase 1–2 trial of a SARS-CoV-2 recombinant spike protein nanoparticle vaccine.
-    #   COVID-19 vaccine BNT162b1 elicits human antibody and TH1 T cell responses.
+      'JCVI_et_al
+      'JCVI_et_al.!d
+      'JCVI_et_al.!e
+    # Moderna
     -
-      'Folegatti_et_al_07_20_2020
-      'Barrett_et_al_12_17_2020
+      'JCVI_et_al.!f
+      'JCVI_et_al.!g
 
+    #  do not support the second dose being delayed to 12 weeks, as implemented by UK Chief Medical Officers. strongly recommend that the UK Government reverts to the two doses in a 3-week schedule (94% efficacy) for BNT162b2 argument against JCVI recommendation (claims)
+
+    # The JCVI then made a major assumption that the 89% effectiveness persists from day 21 to day 85 in the absence of the second dose, for which no empirical evidence was adduced.
+    # NAb titres will continue to fall during days 21–85, leading to very reduced immunity and increased risk to individuals of infection, especially in frail older people
+    # In a further major, incorrect assumption, the JCVI stated “There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other”. No scientific data on mRNA vaccines exists to support this assumption.
+    -
+      'Robertson_et_al_02_19_2021
+      'Robertson_et_al_02_19_2021.!a
+      'Robertson_et_al_02_19_2021.!b
+      'Robertson_et_al_02_19_2021.!c
+      'Robertson_et_al_02_19_2021.!d
+      'Robertson_et_al_02_19_2021.!e
+      'Robertson_et_al_02_19_2021.!f
+      'Robertson_et_al_02_19_2021.!g
+      'Robertson_et_al_02_19_2021.!h
+      'Robertson_et_al_02_19_2021.!i
+
+    # argument on both side
+    - Recommend Delaying the Second Dose
+      'Kadire_et_al_02_17_2021.!a
+      'Kadire_et_al_02_17_2021.!b
+      'Kadire_et_al_02_17_2021.!c
+      'Kadire_et_al_02_17_2021.!g
+    - Potential risks: Are there potential risks from delaying the second dose?
+      'Kadire_et_al_02_17_2021.!d
+      'Kadire_et_al_02_17_2021.!e
+      'Kadire_et_al_02_17_2021.!f
+    - Recommend Following the Standard Regimen
+      'Kadire_et_al_02_17_2021.!h
+      'Kadire_et_al_02_17_2021.!i
+      'Kadire_et_al_02_17_2021.!j
+      'Kadire_et_al_02_17_2021.!k
+      'Kadire_et_al_02_17_2021.!l
+      'Kadire_et_al_02_17_2021.!m
+      'Kadire_et_al_02_17_2021.!n
 
 
   —
