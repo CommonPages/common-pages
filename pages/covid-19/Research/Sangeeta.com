@@ -13,6 +13,79 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  #
+  // Optimising the COVID-19 vaccination programme for maximum short-term impact
+  doi: https://www.gov.uk/government/publications/prioritising-the-first-covid-19-vaccine-dose-jcvi-statement/optimising-the-covid-19-vaccination-programme-for-maximum-short-term-impact
+  ref 'JVCI_et_al_01_26_2021
+    head = A new variant of COVID-19 has been identified in the UK, which has been associated with an increase in COVID -19 cases. Given this, the Joint Committee on Vaccination and Immunisation (JCVI) has considered options for increasing the short-term impact of the vaccination programme.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+
+
+    / January, 2021 - JVCI
+    quote !a = The committee supports a 2-dose vaccine schedule for the Pfizer-BioNTech and AstraZeneca vaccines. Given the data available, and evidence from the use of many other vaccines, JCVI advises a maximum interval between the first and second doses of 12 weeks for both vaccines. It can be assumed that protection from the first dose will wane in the medium term, and the second dose will still be required to provide more durable protection.
+
+    # / January, 2021 - JVCI
+    # quote !b = Short-term vaccine efficacy from the first dose of the Pfizer-BioNTech vaccine is calculated at around 90%.
+
+    / January, 2021 - JVCI
+    quote !b = Published efficacy between dose 1 and 2 of the Pfizer vaccine was 52.4%. Based on the timing of cases accrued in the phase 3 study, most of the vaccine failures in the period between doses occurred shortly after vaccination, suggesting that short-term protection from dose 1 is very high from day 10 after vaccination. Using data for those cases observed between day 15 and 21, efficacy against symptomatic COVID-19 was estimated at 89%.
+
+    # / January, 2021 - JVCI
+    # quote !a = Short-term vaccine efficacy from the first dose of the AstraZeneca vaccine is calculated at around 70%, with high protection against severe disease.
+
+    / January, 2021 - JVCI
+    quote !c = The level of protection gained from a single dose of the AstraZeneca vaccine was assessed in an exploratory analysis. Vaccine efficacy from 22 days post dose 1 was 73%. High protection against hospitalisation was seen from 21 days after dose 1 until 2 weeks after the second dose, suggesting that a single dose of the AstraZeneca vaccine will provide high short-term protection against severe disease. Protective immunity from the first dose likely lasts for a duration of 12 weeks.
+
+    / January, 2021 - JVCI
+    quote !d = With most vaccines an extended interval between the prime and booster doses leads to a better immune response to the booster dose. There is evidence that a longer interval between the first and second doses promotes a stronger immune response with the AstraZeneca vaccine.
+
+    / January, 2021 - JVCI
+    quote !e = There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other.
+
+    / January, 2021 - JVCI
+    quote !f = Given the high level of protection afforded by the first dose, models suggest that initially vaccinating a greater number of people with a single dose will prevent more deaths and hospitalisations than vaccinating a smaller number of people with 2 doses.
+
+    / January, 2021 - JVCI
+    quote !g = The second dose is still important to provide longer lasting protection and is expected to be as or more effective when delivered at an interval of 12 weeks from the first dose.
+
+    / January, 2021 - JVCI
+    quote !h = The rate of vaccine delivery in the UK is currently limited by vaccine supply rather than by workforce capacity. An extended interval between vaccine doses together with initial prioritisation of the first vaccine dose would increase the flow of vaccine supply in the short term. This will allow for more first doses to be delivered to more people earlier.
+
+
 
 
   #
@@ -3779,7 +3852,7 @@ feed Sangeeta
   // SARS-CoV-2 mRNA vaccine design enabled by prototype pathogen preparedness
   doi: https://doi.org/10.1038/s41586-020-2622-0
   ref 'Corbett_et_al_08_05_2020
-    head = Structural studies have led to the development of mutations that stabilize Betacoronavirus spike proteins in the prefusion state, improving their expression and increasing immunogenicity1. This principle has been applied to design mRNA-1273, an mRNA vaccine that encodes a SARS-CoV-2 spike protein that is stabilized in the prefusion conformation.
+    head = Structural studies have led to the development of mutations that stabilize Betacoronavirus spike proteins in the prefusion state, improving their expression and increasing immunogenicity. This principle has been applied to design mRNA-1273, an mRNA vaccine that encodes a SARS-CoV-2 spike protein that is stabilized in the prefusion conformation.
 
     > Abstract
       A vaccine for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is needed to control the coronavirus disease 2019 (COVID-19) global pandemic. Structural studies have led to the development of mutations that stabilize Betacoronavirus spike proteins in the prefusion state, improving their expression and increasing immunogenicity1. This principle has been applied to design mRNA-1273, an mRNA vaccine that encodes a SARS-CoV-2 spike protein that is stabilized in the prefusion conformation. Here we show that mRNA-1273 induces potent neutralizing antibody responses to both wild-type (D614) and D614G mutant2 SARS-CoV-2 as well as CD8+ T cell responses, and protects against SARS-CoV-2 infection in the lungs and noses of mice without evidence of immunopathology. mRNA-1273 is currently in a phase III trial to evaluate its efficacy.
@@ -3788,7 +3861,7 @@ feed Sangeeta
       !a
 
     / August, 2020 - Nature
-    quote !a = We show that mRNA-1273 induces potent neutralizing antibody responses to both wild-type (D614) and D614G mutant2 SARS-CoV-2 as well as CD8+ T cell responses, and protects against SARS-CoV-2 infection in the lungs and noses of mice without evidence of immunopathology. mRNA-1273 is currently in a phase III trial to evaluate its efficacy.
+    quote !a = We show that mRNA-1273 induces potent neutralizing antibody responses to both wild-type (D614) and D614G mutant SARS-CoV-2 as well as CD8+ T cell responses, and protects against SARS-CoV-2 infection in the lungs and noses of mice without evidence of immunopathology. mRNA-1273 is currently in a phase III trial to evaluate its efficacy.
 
 
 

@@ -77,11 +77,34 @@
   # -
   #   Interim clinical considerations for use of mRNA COVID-19 vaccines currently authorized in the United States
 
+
+  - Pfizer single dose VE
+    'JCVI_et_al.!a
+    'JCVI_et_al.!c
+  - counter to initial pfizer single dose
+    'JCVI_et_al.!b
+  - ChadOx1 single dose VE
+    'JCVI_et_al.!d
+    'JCVI_et_al.!e
+  - Moderna single dose VE
+    'JCVI_et_al.!f
+    'JCVI_et_al.!g
+
   >
     There appears to be some protection against COVID-19 disease following one dose; however, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
 
 
   # https://www.nature.com/articles/d41586-021-00045-8
+  # In an independent report the Joint Committee on Vaccination and Immunisation (JCVI) has considered options for increasing the short-term impact of the vaccination programme.
+  # The committee supports a 2-dose vaccine schedule for the Pfizer-BioNTech and AstraZeneca vaccines. Given the data available, and evidence from the use of many other vaccines, JCVI advises a maximum interval between the first and second doses of 12 weeks for both vaccines. It can be assumed that protection from the first dose will wane in the medium term, and the second dose will still be required to provide more durable protection.
+  # Short-term vaccine efficacy from the first dose of the Pfizer-BioNTech vaccine is calculated at around 90%.
+  # Short-term vaccine efficacy from the first dose of the AstraZeneca vaccine is calculated at around 70%, with high protection against severe disease. There is evidence that a longer interval between the first and second doses promotes a stronger immune response with the AstraZeneca vaccine.There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other.
+
+  # -
+  #   'JVCI_et_al_01_26_2021
+
+  >
+    Proponents argue that offering a greater number of people some protection will save more lives overall than will giving more protection to fewer people. Others say that an emergency is not the time to alter vaccination protocols that have been established through clinical trials and confirmed by regulators.
   >
     The decision so far applies to two of the three vaccines now approved for use in the United Kingdom — those made by Pfizer–BioNTech and the University of Oxford–AstraZeneca. In clinical trials, each was tested using two doses, given at least three weeks apart. The United Kingdom’s decision to extend the gap to three months has divided researchers. Pfizer–BioNTech say they do not have evidence of what happens to immunity beyond 21 days after the first dose. The World Health Organization recommends that the second dose of this vaccine be given no later than six weeks after the first, on the basis of available clinical-trial data.
 
