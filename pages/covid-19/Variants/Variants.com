@@ -932,9 +932,6 @@ subject Variants
 
 
 
-
-    # CALL N501Y
-
   / P1 (Identified in Brazil)
   subject P1Variant
     head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike, raising concerns about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection.
