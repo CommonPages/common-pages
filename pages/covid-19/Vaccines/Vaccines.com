@@ -1448,23 +1448,57 @@ subject module Vaccines
   subject EffectiveDosing
     head =
     >
-      On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach. And on January 21, 2021, the CDC liberalized its guidance regarding the timing of the second dose, saying for the first time that a delay of up to 6 weeks after dose one would be acceptable.
-      The World Health Organization recommends that the second dose of this vaccine be given no later than six weeks after the first, on the basis of available clinical-trial data.
+      mRNA vaccines (Pfizer and Moderna) provide protection in clinical trials using a two-dose approach, separated by a three to four week gap.  Clinical trials for mRNA vaccines single-dose use have not yet been conducted. Oxford AstraZeneca vaccine have also show to provide protection using two-dose approach, separated by three months.
+
+    > Pfizer
+      However, based on Pfizer vaccination data so far, single dose efficacy 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
+
+    > Moderna
+      Vaccine efficacy for Moderna after one dose was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
+
+    > Oxford
+      Vaccine efficacy after a single standard dose of AstraZeneca vaccine from day 22 to day 90 post vaccination was 76%.
+
+    >
+      On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach. The Joint Committee on Vaccination and Immunisation (UK) has expanded the timeframe for a second dose of the Pfizer/BioNTech mRNA vaccine from three weeks – to up to 12 weeks.
+
+
+
+    # And on January 21, 2021, the CDC liberalized its guidance regarding the timing of the second dose, saying for the first time that a delay of up to 6 weeks after dose one would be acceptable.
+    # The World Health Organization recommends that the second dose of this vaccine be given no later than six weeks after the first, on the basis of available clinical-trial data.
+
     -
-    # evidence from trial
-      Pfizer
+      !JCVIPfizer
+      !JCVIModerna
+      !JCVIOxford
+      !Nodifferenceefficacy
+
+    -
+      # Pfizer
+      # !JCVIPfizer
       !Limitationonedose
       !ArgumentEfficacy
-      !JCVIPfizer
+
+    # -
+    #   Moderna
+    #   !JCVIModerna
+    # -
+    #   Oxford
+    #   !JCVIOxford
+    # -
+    #   !Nodifferenceefficacy
+
+    >
+      In a plublished letter the authors strongly support vaccination against COVID-19 with the Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2 when adhering to the 3-week dosing schedule that was found highly effective in the phase 3 randomised clinical trial—regarded as the gold standard. However they do not support the second dose being delayed to 12 weeks, as implemented by UK Chief Medical Officers. UK's delayed second dose strategy for BNT162b2 is, in our view, a misguided conjecture. It will yield some protection for the individual after a first dose: how much, and for how long, is unknown and without patient consent.
+    -
+      !Keyconcern1
+      !Keyconcern2
+      !Keyconcern3
+      !Keyconcern4
+      !Keyconcern5
 
     -
-      Moderna
-    # Argument on efficacy data from scientists
-
-    -
-    # Evidence from trial
-      Oxford
-    # JCVI Comments & Supporting data upto 3 months delay
+      !DelayedvsStandard
 
     subject Pfizer
       head =
@@ -1476,13 +1510,13 @@ subject module Vaccines
       -
         Approved.Tozinameran.!OldAge
 
-    / Single dose Efficacy
-    claim !Limitationonedose = In phase 3 trial authors observed single-dose vaccine efficacy against Covid-19 was 52%, indicating early protection by the vaccine, starting as soon as 12 days after the first dose.. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
+    / Phase 3 trial observation on Single dose
+    claim !Limitationonedose = In phase 3 trial authors observed single-dose vaccine efficacy against Covid-19 was 52%, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
       -
         'Polack_et_al_12_31_2020
         'Polack_et_al_12_31_2020.!h
 
-    / Argument for Single dose efficacy
+    / Delaying Second dose
     claim !ArgumentEfficacy = Based on clinical trial results Pfizer provided to the FDA (52% efficacy after one dose) two Canada-based researchers argued that research did not show the effectiveness of the vaccine two weeks after the shot was given. The effectiveness jumped to 94% more than two weeks out from the first shot and 95% efficacy a week after the second shot. This finding is similar to the first-dose efficacy of 92.1% reported for the Moderna vaccine. They conclude mRNA vaccine could be delayed in order to cover all priority groups
       -
         'Skowronski_et_al_02_17_2021
@@ -1504,7 +1538,7 @@ subject module Vaccines
         Approved.mRNA-1273.!Phase2
 
     subject Oxford
-      # A second dose of ChAdOx1 nCoV-19 induces increased neutralising antibody levels and is probably necessary for long-lasting protection. second dose is still required to potentiate long-lived immunity.
+      # A second dose of ChAdOx1 nCoV-19 induces increased neutralising antibody levels and is probably necessary for long-lasting protection. Second dose is still required to potentiate long-lived immunity.
       -
         Approved.AZD1222.!MiceDosing
         Approved.AZD1222.!Phase12AstraZeneca
@@ -1513,6 +1547,8 @@ subject module Vaccines
         Approved.AZD1222.!PooledAnalysis
 
 
+
+    / JCVI reasoning on Pfizer
     claim !JCVIPfizer = In the UK, the Joint Committee on Vaccination and Immunisation has expanded the timeframe for a second dose of the Pfizer/BioNTech mRNA vaccine from three weeks. They resoned that vaccine efficacy is much higher ~ 90% (in protecting against Covid-19 – to up to 12 weeks) is much higher than the 52.4% reported in the paper where the early cases post the first dose were included.
       -
         'JCVI_et_al
@@ -1520,51 +1556,89 @@ subject module Vaccines
         'JCVI_et_al.!b
         'JCVI_et_al.!c
 
-    # Oxford
-    -
-      'JCVI_et_al
-      'JCVI_et_al.!d
-      'JCVI_et_al.!e
-    # Moderna
-    -
-      'JCVI_et_al.!f
-      'JCVI_et_al.!g
+    / JCVI reasoning on Oxford
+    claim !JCVIOxford = The Joint Committee on Vaccination and Immunisation (JCVI) supports the exploratory analysis data of AstraZeneca phase 3 trial that calculated the short-term vaccine efficacy from the first dose to be around 70%, with high protection against severe disease. High protection against hospitalisation was seen from 21 days after dose 1 until 2 weeks after the second dose, suggesting that a single dose of the AstraZeneca vaccine will provide high short-term protection against severe disease. Protective immunity from the first dose likely lasts for a duration of 12 weeks.
+      -
+        'JVCI_et_al_01_26_2021
+        'JVCI_et_al_01_26_2021.!c
+        'JVCI_et_al_01_26_2021.!d
+      -
+        'JCVI_et_al
+        'JCVI_et_al.!d
+        'JCVI_et_al.!e
 
-    #  do not support the second dose being delayed to 12 weeks, as implemented by UK Chief Medical Officers. strongly recommend that the UK Government reverts to the two doses in a 3-week schedule (94% efficacy) for BNT162b2 argument against JCVI recommendation (claims)
+    / JCVI reasoning on Moderna
+    claim !JCVIModerna = The Joint Committee on Vaccination and Immunisation (JCVI) states that the vaccine efficacy (VE) was 92.1% from 15 days after the first dose to the time of the second dose.
+      -
+        'JCVI_et_al
+        'JCVI_et_al.!f
+        'JCVI_et_al.!g
 
-    # The JCVI then made a major assumption that the 89% effectiveness persists from day 21 to day 85 in the absence of the second dose, for which no empirical evidence was adduced.
-    # NAb titres will continue to fall during days 21–85, leading to very reduced immunity and increased risk to individuals of infection, especially in frail older people
-    # In a further major, incorrect assumption, the JCVI stated “There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other”. No scientific data on mRNA vaccines exists to support this assumption.
-    -
-      'Robertson_et_al_02_19_2021
-      'Robertson_et_al_02_19_2021.!a
-      'Robertson_et_al_02_19_2021.!b
-      'Robertson_et_al_02_19_2021.!c
-      'Robertson_et_al_02_19_2021.!d
-      'Robertson_et_al_02_19_2021.!e
-      'Robertson_et_al_02_19_2021.!f
-      'Robertson_et_al_02_19_2021.!g
-      'Robertson_et_al_02_19_2021.!h
-      'Robertson_et_al_02_19_2021.!i
+    / JCVI reasoning for Delayed 2nd dose
+    claim !Nodifferenceefficacy = There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other.
+      -
+        'JVCI_et_al_01_26_2021
+        'JVCI_et_al_01_26_2021.!e
 
-    # argument on both side
-    - Recommend Delaying the Second Dose
-      'Kadire_et_al_02_17_2021.!a
-      'Kadire_et_al_02_17_2021.!b
-      'Kadire_et_al_02_17_2021.!c
-      'Kadire_et_al_02_17_2021.!g
-    - Potential risks: Are there potential risks from delaying the second dose?
-      'Kadire_et_al_02_17_2021.!d
-      'Kadire_et_al_02_17_2021.!e
-      'Kadire_et_al_02_17_2021.!f
-    - Recommend Following the Standard Regimen
-      'Kadire_et_al_02_17_2021.!h
-      'Kadire_et_al_02_17_2021.!i
-      'Kadire_et_al_02_17_2021.!j
-      'Kadire_et_al_02_17_2021.!k
-      'Kadire_et_al_02_17_2021.!l
-      'Kadire_et_al_02_17_2021.!m
-      'Kadire_et_al_02_17_2021.!n
+
+
+
+
+
+    claim !Keyconcern1 = Scientists have questioned the idea of protecting more of the population by delaying the second dose is predicated on a joint statement by the JCVI and Public Health England (PHE) that a first dose provides 89–90% efficacy (protection). This is contrary to the clinical data or efficacy generated from real-life clinical observational data from Israel.
+      -
+        'Robertson_et_al_02_19_2021
+        'Robertson_et_al_02_19_2021.!h
+        'Robertson_et_al_02_19_2021.!c
+
+    claim !Keyconcern2 = Scientists have raised concerns about a major assumption JCVI made that the 89% effectiveness persists from day 21 to day 85 in the absence of the second dose. There are no empirical evidence to support this.
+      -
+        'Robertson_et_al_02_19_2021
+        'Robertson_et_al_02_19_2021.!d
+
+    claim !Keyconcern3 = Scientists also mentioned that NAb titres will continue to fall during days 21–85, leading to very reduced immunity and increased risk to individuals of infection, especially in frail older people.
+      -
+        'Robertson_et_al_02_19_2021
+        'Robertson_et_al_02_19_2021.!g
+      -
+        'Kadire_et_al_02_17_2021
+        'Kadire_et_al_02_17_2021.!d
+
+    claim !Keyconcern4 = Scientists pointed a further major, incorrect assumption, the JCVI stated “There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other”. No scientific data on mRNA vaccines exists to support this assumption.
+
+      -
+        'Robertson_et_al_02_19_2021
+        'Robertson_et_al_02_19_2021.!e
+        'Robertson_et_al_02_19_2021.!f
+
+    claim !Keyconcern5 = Scientists have not raised concerns regarding the second dose of Oxford (AZD1222) vaccine at 12 weeks, as this is supported by evidence. However they argued that if escape variants arise due to sub-optimal dosing with BNT162b2, they will likely be resistant to other vaccines that target the same viral spike protein.
+      -
+        'Robertson_et_al_02_19_2021
+        'Robertson_et_al_02_19_2021.!i
+      -
+        'Kadire_et_al_02_17_2021
+        'Kadire_et_al_02_17_2021.!f
+
+
+    claim !DelayedvsStandard = In a short essay by an expert each of the two approaches: delaying the second dose and following the standard regimen is defended To aid in public decision making.
+
+      - Recommend Delaying the Second Dose
+        'Kadire_et_al_02_17_2021.!a
+        'Kadire_et_al_02_17_2021.!b
+        'Kadire_et_al_02_17_2021.!c
+        'Kadire_et_al_02_17_2021.!g
+      - Potential risks: Are there potential risks from delaying the second dose?
+        'Kadire_et_al_02_17_2021.!d
+        'Kadire_et_al_02_17_2021.!e
+        'Kadire_et_al_02_17_2021.!f
+      - Recommend Following the Standard Regimen
+        'Kadire_et_al_02_17_2021.!h
+        'Kadire_et_al_02_17_2021.!i
+        'Kadire_et_al_02_17_2021.!j
+        'Kadire_et_al_02_17_2021.!k
+        'Kadire_et_al_02_17_2021.!l
+        'Kadire_et_al_02_17_2021.!m
+        'Kadire_et_al_02_17_2021.!n
 
 
   —
