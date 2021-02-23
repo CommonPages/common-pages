@@ -3,6 +3,13 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received nine major revisions, expanding the subjects covered and correcting existing claims.
 
+  public: February-23-2021
+  / February 23, 2021
+  revision February_23
+    head = We have added a dispute node regarding effective dosing schedule for vaccines. On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach for Pfizer vaccine. And on January 21, 2021, the CDC liberalized its guidance regarding the timing of the second dose for mRNA vaccines. JCVI and some scientists have reasoned that mRNA vaccine could be delayed despite little data available, in order to cover all priority groups. While others have strongly disagreed the second dose being delayed to 12 weeks and have raised several concerns regarding this strategy.
+    -
+      Vaccines.EffectiveDosing
+
   public: February-20-2021
   / February 20, 2021
   revision February_20

@@ -1445,26 +1445,22 @@ subject module Vaccines
       #   'DeStefano_et_al_02_12_2019.!d
       #   'DeStefano_et_al_02_12_2019.!e
 
-  subject EffectiveDosing
-    head =
-    >
-      mRNA vaccines (Pfizer and Moderna) provide protection in clinical trials using a two-dose approach, separated by a three to four week gap.  Clinical trials for mRNA vaccines single-dose use have not yet been conducted. Oxford AstraZeneca vaccine have also show to provide protection using two-dose approach, separated by three months.
-
-    > Pfizer
-      However, based on Pfizer vaccination data so far, single dose efficacy 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
-
-    > Moderna
-      Vaccine efficacy for Moderna after one dose was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
-
-    > Oxford
-      Vaccine efficacy after a single standard dose of AstraZeneca vaccine from day 22 to day 90 post vaccination was 76%.
+  / Effective Dosing Schedule
+  dispute EffectiveDosing
+    head = On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach for Pfizer vaccine. And on January 21, 2021, the CDC liberalized its guidance regarding the timing of the second dose for mRNA vaccines. JCVI and some scientists have reasoned that mRNA vaccine could be delayed despite little data available, in order to cover all priority groups. While others have strongly disagreed the second dose being delayed to 12 weeks and have raised several concerns regarding this strategy.
 
     >
-      On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach. The Joint Committee on Vaccination and Immunisation (UK) has expanded the timeframe for a second dose of the Pfizer/BioNTech mRNA vaccine from three weeks – to up to 12 weeks.
+      mRNA vaccines ({Approved.Tozinameran Pfizer} and {Approved.mRNA-1273 Moderna}) provide protection in clinical trials using a two-dose approach, separated by a three to four week gap- which is considered a standard approach for vaccination. Clinical trials for mRNA vaccines single-dose use have not yet been conducted. {Approved.AZD1222 Oxford AstraZeneca} vaccine have also show to provide protection using two-dose approach, separated by three months.
+      The limited availability of the two-dose mRNA vaccine has sparked an {!DelayedvsStandard ongoing debate} regarding delaying the second dose or following the standard regimen, for the most effective use of the currently available doses.
 
 
+      <h5>Vaccine Efficacy for Single dose</h5>
+      Based on Pfizer vaccination data so far, {Approved.Tozinameran.!Israelday13 single dose efficacy} 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
+      Vaccine efficacy for Moderna [after one dose](https://www.fda.gov/media/144434/download) was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose
+      Vaccine efficacy after a {Approved.AZD1222.!PooledAnalysis single standard dose} of AstraZeneca vaccine from day 22 to day 90 post vaccination was 76%.
 
-    # And on January 21, 2021, the CDC liberalized its guidance regarding the timing of the second dose, saying for the first time that a delay of up to 6 weeks after dose one would be acceptable.
+
+      On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach. The [Joint Committee on Vaccination and Immunisation (UK)](https://www.gov.uk/government/publications/prioritising-the-first-covid-19-vaccine-dose-jcvi-statement/optimising-the-covid-19-vaccination-programme-for-maximum-short-term-impact) has expanded the timeframe for second dose of the Pfizer/BioNTech mRNA vaccine from three weeks – to up to 12 weeks. And on January 21, 2021, the [CDC](https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html) liberalized its guidance regarding the timing of the second dose, saying for the first time that a delay of up to 6 weeks after dose one would be acceptable.
     # The World Health Organization recommends that the second dose of this vaccine be given no later than six weeks after the first, on the basis of available clinical-trial data.
 
     -
@@ -1473,23 +1469,13 @@ subject module Vaccines
       !JCVIOxford
       !Nodifferenceefficacy
 
+    >
+      Few other scientists have also supported the decision of delaying the 2nd dose of mRNA vaccine in order to cover all priority groups.
     -
-      # Pfizer
-      # !JCVIPfizer
-      !Limitationonedose
       !ArgumentEfficacy
 
-    # -
-    #   Moderna
-    #   !JCVIModerna
-    # -
-    #   Oxford
-    #   !JCVIOxford
-    # -
-    #   !Nodifferenceefficacy
-
     >
-      In a plublished letter the authors strongly support vaccination against COVID-19 with the Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2 when adhering to the 3-week dosing schedule that was found highly effective in the phase 3 randomised clinical trial—regarded as the gold standard. However they do not support the second dose being delayed to 12 weeks, as implemented by UK Chief Medical Officers. UK's delayed second dose strategy for BNT162b2 is, in our view, a misguided conjecture. It will yield some protection for the individual after a first dose: how much, and for how long, is unknown and without patient consent.
+      However, some scientists strongly do not support the second dose being delayed to 12 weeks. They have raised several concerns for UK's delayed second dose strategy for Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2.
     -
       !Keyconcern1
       !Keyconcern2
@@ -1497,54 +1483,14 @@ subject module Vaccines
       !Keyconcern4
       !Keyconcern5
 
-    -
-      !DelayedvsStandard
-
-    subject Pfizer
-      head =
-      -
-        Approved.Tozinameran.!Israel
-        Approved.Tozinameran.!Israelday13
-        Approved.Tozinameran.!IsraelHCW
-      # Phizer Old age
-      -
-        Approved.Tozinameran.!OldAge
-
-    / Phase 3 trial observation on Single dose
-    claim !Limitationonedose = In phase 3 trial authors observed single-dose vaccine efficacy against Covid-19 was 52%, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
-      -
-        'Polack_et_al_12_31_2020
-        'Polack_et_al_12_31_2020.!h
 
     / Delaying Second dose
-    claim !ArgumentEfficacy = Based on clinical trial results Pfizer provided to the FDA (52% efficacy after one dose) two Canada-based researchers argued that research did not show the effectiveness of the vaccine two weeks after the shot was given. The effectiveness jumped to 94% more than two weeks out from the first shot and 95% efficacy a week after the second shot. This finding is similar to the first-dose efficacy of 92.1% reported for the Moderna vaccine. They conclude mRNA vaccine could be delayed in order to cover all priority groups
+    claim !ArgumentEfficacy = Based on clinical trial results Pfizer provided to the FDA (52% efficacy after one dose) two Canada-based researchers argued that research did not show the effectiveness of the vaccine two weeks after the shot was given. The effectiveness jumped to 94% more than two weeks out from the first shot and 95% efficacy a week after the second shot. This finding is similar to the first-dose efficacy of 92.1% reported for the Moderna vaccine. They conclude mRNA vaccine could be delayed in order to cover all priority groups.
       -
         'Skowronski_et_al_02_17_2021
         'Skowronski_et_al_02_17_2021.!a
         'Skowronski_et_al_02_17_2021.!b
         'Skowronski_et_al_02_17_2021.!c
-
-    subject Moderna
-      >
-        These findings were similar to the first-dose efficacy of 92.1% reported for Moderna Inc's mRNA-1273 vaccine.
-
-        Additional analyses were done to assess efficacy against COVID-19 after one dose of mRNA1273. In participants in the mITT set who only received one dose of the vaccine at the time of the interim analysis, VE after one dose was 80.2% (95% CI 55.2%, 92.5%). These participants had a median follow-up time of 28 days (range: 1 to 108 days). The small, non-random sample and short median follow-up time limits the interpretation of these results
-        There appears to be some protection against COVID-19 disease following one dose; however, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
-        The table has the 92.1%
-      # -
-      #   https://www.fda.gov/media/144434/download
-
-      -
-        Approved.mRNA-1273.!Phase2
-
-    subject Oxford
-      # A second dose of ChAdOx1 nCoV-19 induces increased neutralising antibody levels and is probably necessary for long-lasting protection. Second dose is still required to potentiate long-lived immunity.
-      -
-        Approved.AZD1222.!MiceDosing
-        Approved.AZD1222.!Phase12AstraZeneca
-        Approved.AZD1222.!Phase12Dosing
-        Approved.AZD1222.!Phas3Dosing
-        Approved.AZD1222.!PooledAnalysis
 
 
 
@@ -1581,10 +1527,7 @@ subject module Vaccines
         'JVCI_et_al_01_26_2021.!e
 
 
-
-
-
-
+    / Key Concerns
     claim !Keyconcern1 = Scientists have questioned the idea of protecting more of the population by delaying the second dose is predicated on a joint statement by the JCVI and Public Health England (PHE) that a first dose provides 89–90% efficacy (protection). This is contrary to the clinical data or efficacy generated from real-life clinical observational data from Israel.
       -
         'Robertson_et_al_02_19_2021
