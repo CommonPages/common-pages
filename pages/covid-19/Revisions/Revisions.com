@@ -10,6 +10,13 @@ revision feed Revisions
     -
       Vaccines.EffectiveDosing
 
+  public: February-22-2021
+  / February 22, 2021
+  revision February_22
+    head = We have updated latest data on Pfizer vaccine. Pfizer has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. Data from Israel has shown high effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appear to be a rare event. Efficacy drop off is observed against new strains & more so for B.1.351 (identified in SA).
+    -
+      Vaccines.Approved.Tozinameran
+
   public: February-20-2021
   / February 20, 2021
   revision February_20

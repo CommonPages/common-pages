@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Pfizer first posted a phase 1/2/3 clinical trial for two vaccine candidates in April of 2020. One of the two reached phase 3. The trial will not complete until 2023, but has already reported favorable safety and efficacy data. More than 29 countries have approved the vaccine for emergency use.
+      head = Pfizer first posted a phase 1/2/3 clinical trial in April of 2020. Interim trial reports and real world data has already reported favorable safety and efficacy (95%). It has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. Data from Israel has shown high effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appear to be a rare event. Efficacy drop off is observed against new strains & more so for B.1.351 (identified in SA).
 
       >
         Tozinameran is a COVID-19 vaccine developed by [BioNTech](https://biontech.de/) and manufactured and distributed by [Pfizer](https://www.pfizer.com/), which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the {Virus.Structure spike protein} of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
@@ -68,6 +68,7 @@ subject module Vaccines
         Variants.B117.!Pfizer
         !Variantefficacy
         !VariantEfficacySA
+        !ImmuneEscape
       - Severe Reactions
         AnaphylaxisPEG
       >
@@ -336,6 +337,13 @@ subject module Vaccines
           'Collier_et_al_02_20_2021.!d
           'Collier_et_al_02_20_2021.!e
 
+          
+      claim !ImmuneEscape = One study evaluated neutralization potency of 48 sera from Pfizer and Moderna vaccine recipients against pseudoviruses bearing spike proteins derived from 10 strains of SARS-CoV-2. Authors reported that 5 strains harboring receptor-binding domain mutations, including K417N/T, E484K, and N501Y, were highly resistant to neutralization. Cross-neutralization of B.1.351 variants was weak suggesting that a relatively small number of mutations can mediate potent escape from vaccine responses.
+        -
+          'Garcia-Beltran_et_al_02_18_2021
+          'Garcia-Beltran_et_al_02_18_2021.!a
+          'Garcia-Beltran_et_al_02_18_2021.!b
+
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
     / Moderna
@@ -381,6 +389,7 @@ subject module Vaccines
         !AntibodyNeutralization
         !NeutralisingUKvariant
         !SAvariant
+        Tozinameran.!ImmuneEscape
       -
         Tozinameran.AnaphylaxisPEG
 
@@ -1346,11 +1355,13 @@ subject module Vaccines
       Variants.B117.!Pfizer
       Approved.Tozinameran.!Variantefficacy
       Approved.Tozinameran.!VariantEfficacySA
+      Approved.Tozinameran.!ImmuneEscape
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
       Approved.mRNA-1273.!AntibodyNeutralization
       Approved.mRNA-1273.!NeutralisingUKvariant
       Approved.mRNA-1273.!SAvariant
+      Approved.Tozinameran.!ImmuneEscape
     - Oxford
       Approved.AZD1222.!VariantEfficacy
       Approved.AZD1222.!SAVariant

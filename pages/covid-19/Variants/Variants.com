@@ -826,6 +826,7 @@ subject Variants
       Vaccines.Approved.AZD1222.!SAVariantEfficacy
       Vaccines.Approved.Tozinameran.!VariantEfficacySA
       Vaccines.Approved.mRNA-1273.!SAvariant
+      Vaccines.Approved.Tozinameran.!ImmuneEscape
       !Vaccineefficacy
       !Reinfection
       !Neutralizingescape
