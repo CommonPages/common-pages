@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Pfizer first posted a phase 1/2/3 clinical trial in April of 2020. Interim trial reports and real world data has already reported favorable safety and efficacy (95%). It has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. Data from Israel has shown high effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appear to be a rare event. Efficacy drop off is observed against new strains & more so for B.1.351 (identified in SA).
+      head = Pfizer first posted clinical trials in April of 2020. Interim trial reports and real world data have shown favorable safety and efficacy (95%). It has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appear to be a rare event. An efficacy drop off is observed against new strains & more so for B.1.351 (identified in SA).
 
       >
         Tozinameran is a COVID-19 vaccine developed by [BioNTech](https://biontech.de/) and manufactured and distributed by [Pfizer](https://www.pfizer.com/), which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the {Virus.Structure spike protein} of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
@@ -337,7 +337,7 @@ subject module Vaccines
           'Collier_et_al_02_20_2021.!d
           'Collier_et_al_02_20_2021.!e
 
-          
+
       claim !ImmuneEscape = One study evaluated neutralization potency of 48 sera from Pfizer and Moderna vaccine recipients against pseudoviruses bearing spike proteins derived from 10 strains of SARS-CoV-2. Authors reported that 5 strains harboring receptor-binding domain mutations, including K417N/T, E484K, and N501Y, were highly resistant to neutralization. Cross-neutralization of B.1.351 variants was weak suggesting that a relatively small number of mutations can mediate potent escape from vaccine responses.
         -
           'Garcia-Beltran_et_al_02_18_2021
@@ -1458,20 +1458,21 @@ subject module Vaccines
 
   / Effective Dosing Schedule
   dispute EffectiveDosing
-    head = On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach for Pfizer vaccine. And on January 21, 2021, the CDC liberalized its guidance regarding the timing of the second dose for mRNA vaccines. JCVI and some scientists have reasoned that mRNA vaccine could be delayed despite little data available, in order to cover all priority groups. While others have strongly disagreed the second dose being delayed to 12 weeks and have raised several concerns regarding this strategy.
+    head = As of January 2020, the United Kingdom has endorsed the delayed-second-dose approach, and the CDC has liberalized its guidance regarding the timing of the second dose for mRNA vaccines. JCVI and some scientists have proposed delaying the second dose in order to cover all priority groups, despite little data available. Others have strongly disagreed.
 
     >
-      mRNA vaccines ({Approved.Tozinameran Pfizer} and {Approved.mRNA-1273 Moderna}) provide protection in clinical trials using a two-dose approach, separated by a three to four week gap- which is considered a standard approach for vaccination. Clinical trials for mRNA vaccines single-dose use have not yet been conducted. {Approved.AZD1222 Oxford AstraZeneca} vaccine have also show to provide protection using two-dose approach, separated by three months.
-      The limited availability of the two-dose mRNA vaccine has sparked an {!DelayedvsStandard ongoing debate} regarding delaying the second dose or following the standard regimen, for the most effective use of the currently available doses.
+      mRNA vaccines ({Approved.Tozinameran Pfizer} and {Approved.mRNA-1273 Moderna}) provide protection in clinical trials using a two-dose approach, separated by a three to four week gap- which is considered a standard approach for vaccination. Clinical trials for single-dose use of mRNA vaccines have not yet been conducted. The {Approved.AZD1222 Oxford AstraZeneca} vaccine has also been shown to provide protection using two-dose approach, separated by three months.
 
+      The limited availability of the two-dose mRNA vaccines has sparked an {!DelayedvsStandard ongoing debate} regarding delaying the second dose or following the standard regimen, to optimize the use of the currently available doses.
 
-      <h5>Vaccine Efficacy for Single dose</h5>
-      Based on Pfizer vaccination data so far, {Approved.Tozinameran.!Israelday13 single dose efficacy} 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
-      Vaccine efficacy for Moderna [after one dose](https://www.fda.gov/media/144434/download) was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose
-      Vaccine efficacy after a {Approved.AZD1222.!PooledAnalysis single standard dose} of AstraZeneca vaccine from day 22 to day 90 post vaccination was 76%.
+    > Single Dose Efficacy
+      Based on Pfizer vaccination data so far, a {Approved.Tozinameran.!Israelday13 single dose efficacy} 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
 
+      Efficacy for Moderna [after one dose](https://www.fda.gov/media/144434/download) was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
 
-      On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach. The [Joint Committee on Vaccination and Immunisation (UK)](https://www.gov.uk/government/publications/prioritising-the-first-covid-19-vaccine-dose-jcvi-statement/optimising-the-covid-19-vaccination-programme-for-maximum-short-term-impact) has expanded the timeframe for second dose of the Pfizer/BioNTech mRNA vaccine from three weeks – to up to 12 weeks. And on January 21, 2021, the [CDC](https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html) liberalized its guidance regarding the timing of the second dose, saying for the first time that a delay of up to 6 weeks after dose one would be acceptable.
+      Vaccine efficacy after a {Approved.AZD1222.!PooledAnalysis single standard dose} of the AstraZeneca vaccine from day 22 to day 90 post vaccination was 76%.
+
+      On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach. The [Joint Committee on Vaccination and Immunisation (UK)](https://www.gov.uk/government/publications/prioritising-the-first-covid-19-vaccine-dose-jcvi-statement/optimising-the-covid-19-vaccination-programme-for-maximum-short-term-impact) has expanded the timeframe for the second dose of the Pfizer/BioNTech mRNA vaccines from three weeks – to up to 12 weeks. On January 21, 2021, the [CDC](https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html) liberalized its guidance regarding the timing of the second dose, saying for the first time that a delay of up to 6 weeks after dose one would be acceptable.
     # The World Health Organization recommends that the second dose of this vaccine be given no later than six weeks after the first, on the basis of available clinical-trial data.
 
     -
@@ -1481,22 +1482,23 @@ subject module Vaccines
       !Nodifferenceefficacy
 
     >
-      Few other scientists have also supported the decision of delaying the 2nd dose of mRNA vaccine in order to cover all priority groups.
+      A number of scientists have also supported the decision to delay the second dose of the mRNA vaccines in order to cover all priority groups.
     -
       !ArgumentEfficacy
 
     >
-      However, some scientists strongly do not support the second dose being delayed to 12 weeks. They have raised several concerns for UK's delayed second dose strategy for Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2.
-    -
-      !Keyconcern1
-      !Keyconcern2
-      !Keyconcern3
-      !Keyconcern4
-      !Keyconcern5
+      However, some scientists strongly do not support the second dose being delayed to 12 weeks. They have raised several concerns for the UK's delayed second dose strategy for the Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2.
+
+    - Key Concerns
+      !KeyConcern1
+      !KeyConcern2
+      !KeyConcern3
+      !KeyConcern4
+      !KeyConcern5
 
 
     / Delaying Second dose
-    claim !ArgumentEfficacy = Based on clinical trial results Pfizer provided to the FDA (52% efficacy after one dose) two Canada-based researchers argued that research did not show the effectiveness of the vaccine two weeks after the shot was given. The effectiveness jumped to 94% more than two weeks out from the first shot and 95% efficacy a week after the second shot. This finding is similar to the first-dose efficacy of 92.1% reported for the Moderna vaccine. They conclude mRNA vaccine could be delayed in order to cover all priority groups.
+    claim !ArgumentEfficacy = Based on clinical trial results Pfizer provided to the FDA (52% efficacy after one dose) two Canada-based researchers argued that research did not show the effectiveness of the vaccine two weeks after the shot was given. The effectiveness jumped to 94% more than two weeks out from the first shot and 95% efficacy a week after the second shot. This finding is similar to the first-dose efficacy of 92.1% reported for the Moderna vaccine. They conclude that the mRNA vaccine could be delayed in order to cover all priority groups.
       -
         'Skowronski_et_al_02_17_2021
         'Skowronski_et_al_02_17_2021.!a
@@ -1505,7 +1507,7 @@ subject module Vaccines
 
 
 
-    / JCVI reasoning on Pfizer
+    / JCVI Supports a Pfizer Delay
     claim !JCVIPfizer = In the UK, the Joint Committee on Vaccination and Immunisation has expanded the timeframe for a second dose of the Pfizer/BioNTech mRNA vaccine from three weeks. They resoned that vaccine efficacy is much higher ~ 90% (in protecting against Covid-19 – to up to 12 weeks) is much higher than the 52.4% reported in the paper where the early cases post the first dose were included.
       -
         'JCVI_et_al
@@ -1513,7 +1515,7 @@ subject module Vaccines
         'JCVI_et_al.!b
         'JCVI_et_al.!c
 
-    / JCVI reasoning on Oxford
+    / JCVI Supports an Oxford Delay
     claim !JCVIOxford = The Joint Committee on Vaccination and Immunisation (JCVI) supports the exploratory analysis data of AstraZeneca phase 3 trial that calculated the short-term vaccine efficacy from the first dose to be around 70%, with high protection against severe disease. High protection against hospitalisation was seen from 21 days after dose 1 until 2 weeks after the second dose, suggesting that a single dose of the AstraZeneca vaccine will provide high short-term protection against severe disease. Protective immunity from the first dose likely lasts for a duration of 12 weeks.
       -
         'JVCI_et_al_01_26_2021
@@ -1524,33 +1526,32 @@ subject module Vaccines
         'JCVI_et_al.!d
         'JCVI_et_al.!e
 
-    / JCVI reasoning on Moderna
+    / JCVI Supports a Moderna Delay
     claim !JCVIModerna = The Joint Committee on Vaccination and Immunisation (JCVI) states that the vaccine efficacy (VE) was 92.1% from 15 days after the first dose to the time of the second dose.
       -
         'JCVI_et_al
         'JCVI_et_al.!f
         'JCVI_et_al.!g
 
-    / JCVI reasoning for Delayed 2nd dose
+    / JCVI Supports Delayed Second Doses
     claim !Nodifferenceefficacy = There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other.
       -
         'JVCI_et_al_01_26_2021
         'JVCI_et_al_01_26_2021.!e
 
 
-    / Key Concerns
-    claim !Keyconcern1 = Scientists have questioned the idea of protecting more of the population by delaying the second dose is predicated on a joint statement by the JCVI and Public Health England (PHE) that a first dose provides 89–90% efficacy (protection). This is contrary to the clinical data or efficacy generated from real-life clinical observational data from Israel.
+    claim !KeyConcern1 = Scientists have questioned the idea of protecting more of the population by delaying the second dose. The strategy is predicated on a joint statement by the JCVI and Public Health England (PHE) that a first dose provides 89–90% efficacy (protection). This is contrary to the clinical data or efficacy data observed from real-life clinical observations from Israel.
       -
         'Robertson_et_al_02_19_2021
         'Robertson_et_al_02_19_2021.!h
         'Robertson_et_al_02_19_2021.!c
 
-    claim !Keyconcern2 = Scientists have raised concerns about a major assumption JCVI made that the 89% effectiveness persists from day 21 to day 85 in the absence of the second dose. There are no empirical evidence to support this.
+    claim !KeyConcern2 = Scientists have raised concerns about a major assumption JCVI made that the 89% effectiveness persists from day 21 to day 85 in the absence of the second dose. They say that there are no empirical evidence to support this.
       -
         'Robertson_et_al_02_19_2021
         'Robertson_et_al_02_19_2021.!d
 
-    claim !Keyconcern3 = Scientists also mentioned that NAb titres will continue to fall during days 21–85, leading to very reduced immunity and increased risk to individuals of infection, especially in frail older people.
+    claim !KeyConcern3 = Scientists also mentioned that NAb titres will continue to fall during days 21–85, leading to very reduced immunity and increased risk to individuals of infection, especially in frail older people.
       -
         'Robertson_et_al_02_19_2021
         'Robertson_et_al_02_19_2021.!g
@@ -1558,14 +1559,13 @@ subject module Vaccines
         'Kadire_et_al_02_17_2021
         'Kadire_et_al_02_17_2021.!d
 
-    claim !Keyconcern4 = Scientists pointed a further major, incorrect assumption, the JCVI stated “There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other”. No scientific data on mRNA vaccines exists to support this assumption.
-
+    claim !KeyConcern4 = Scientists identified a further major assumption which they say is incorrect. The JCVI stated, “There is currently no strong evidence to expect that the immune response from the Pfizer-BioNTech and AstraZeneca vaccines differ substantially from each other.” No scientific data on mRNA vaccines exists to support this assumption.
       -
         'Robertson_et_al_02_19_2021
         'Robertson_et_al_02_19_2021.!e
         'Robertson_et_al_02_19_2021.!f
 
-    claim !Keyconcern5 = Scientists have not raised concerns regarding the second dose of Oxford (AZD1222) vaccine at 12 weeks, as this is supported by evidence. However they argued that if escape variants arise due to sub-optimal dosing with BNT162b2, they will likely be resistant to other vaccines that target the same viral spike protein.
+    claim !KeyConcern5 = Scientists have not raised concerns regarding the second dose of Oxford (AZD1222) vaccine at 12 weeks, as this is supported by evidence. However they argued that if escape variants arise due to sub-optimal dosing with BNT162b2, they will likely be resistant to other vaccines that target the same viral spike protein.
       -
         'Robertson_et_al_02_19_2021
         'Robertson_et_al_02_19_2021.!i
@@ -1574,18 +1574,18 @@ subject module Vaccines
         'Kadire_et_al_02_17_2021.!f
 
 
-    claim !DelayedvsStandard = In a short essay by an expert each of the two approaches: delaying the second dose and following the standard regimen is defended To aid in public decision making.
+    claim !DelayedvsStandard = In a short essay by two experts, each author advocated one of the two approaches: delaying the second dose and following the standard regimen.
 
-      - Recommend Delaying the Second Dose
+      - Recommending a delayed regimen
         'Kadire_et_al_02_17_2021.!a
         'Kadire_et_al_02_17_2021.!b
         'Kadire_et_al_02_17_2021.!c
         'Kadire_et_al_02_17_2021.!g
-      - Potential risks: Are there potential risks from delaying the second dose?
+      - Potential risks
         'Kadire_et_al_02_17_2021.!d
         'Kadire_et_al_02_17_2021.!e
         'Kadire_et_al_02_17_2021.!f
-      - Recommend Following the Standard Regimen
+      - Recommending the standard regimin
         'Kadire_et_al_02_17_2021.!h
         'Kadire_et_al_02_17_2021.!i
         'Kadire_et_al_02_17_2021.!j

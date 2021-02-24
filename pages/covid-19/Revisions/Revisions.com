@@ -6,14 +6,14 @@ revision feed Revisions
   public: February-23-2021
   / February 23, 2021
   revision February_23
-    head = We have added a dispute node regarding effective dosing schedule for vaccines. On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach for Pfizer vaccine. And on January 21, 2021, the CDC liberalized its guidance regarding the timing of the second dose for mRNA vaccines. JCVI and some scientists have reasoned that mRNA vaccine could be delayed despite little data available, in order to cover all priority groups. While others have strongly disagreed the second dose being delayed to 12 weeks and have raised several concerns regarding this strategy.
+    head = There is a dispute regarding the effective dosing schedule for a number of vaccines. The United Kingdom has endorsed the delayed-second-dose approach, and the CDC has liberalized its guidance regarding the timing of the second dose for mRNA vaccines. JCVI and some scientists have proposed delaying the second dose in order to cover all priority groups, despite little data available. Others have strongly disagreed.
     -
       Vaccines.EffectiveDosing
 
   public: February-22-2021
   / February 22, 2021
   revision February_22
-    head = We have updated latest data on Pfizer vaccine. Pfizer has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. Data from Israel has shown high effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appear to be a rare event. Efficacy drop off is observed against new strains & more so for B.1.351 (identified in SA).
+    head = We have updated the latest data on the Pfizer vaccine. Pfizer has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as disease severity. Data from Israel have shown that high effectiveness only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains.
     -
       Vaccines.Approved.Tozinameran
 
