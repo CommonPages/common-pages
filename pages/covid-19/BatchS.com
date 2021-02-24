@@ -9,15 +9,21 @@
 
    # mRNA vaccines will not affect our DNA??
 
+
+
+ 
+
+
+
   >
     mRNA vaccines provide protection in clinical trials using a two-dose approach, separated by a three to four week gap.
     The clinical trials of the Pfizer–BioNTech and Moderna vaccines involved two injections given 3 to 4 weeks apart.
 
     Although trial evidence for both vaccines indicates partial protection against COVID-19 illness after 1 dose (1, 2), the vaccines are authorized only as 2-dose series and have not yet been evaluated for single-dose use.
 
-  # -
-  #   Safety and efficacy of the BNT162b2 mRNA covid-19 vaccine.
-  #   Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine.
+# -
+#   Safety and efficacy of the BNT162b2 mRNA covid-19 vaccine.
+#   Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine.
 
 
 

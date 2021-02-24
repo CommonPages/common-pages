@@ -454,6 +454,18 @@ subject Variants
         <th>Immune Escape</th>
         <td> Probable, extent unclear </td>
         </tr>
+        <tr>
+        <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
+        <td> Partial; {Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant Novavax (96->86%)}; {Vaccines.Approved.AZD1222.!VariantEfficacy Astra Zeneca (84->75%)} </td>
+        </tr>
+        <tr>
+        <th>Countries reported (uptil Feb 24, 2021)</th>
+        <td> 93 </td>
+        </tr>
+        <tr>
+        <th>US States reported (uptil Feb 24, 2021)</th>
+        <td> 44 </td>
+        </tr>
       </table>
     -
       !Switzerland
@@ -799,10 +811,10 @@ subject Variants
         </tr>
         <tr>
         <th>Other Mutation (Including N-terminal)</th>
-        <td>L18F, D80A, D215G, del 242-244, R264I </td>
+        <td>L18F, D80A, D215G, del 242-244, R264I, A701V </td>
         <tr>
         <th>Transmissibility</th>
-        <td> Evidence of increased Transmissibility  </td>
+        <td> No </td>
         </tr>
         <tr>
         <th>Severity</th>
@@ -810,7 +822,19 @@ subject Variants
         </tr>
         <tr>
         <th>Immune Escape</th>
-        <td> Probable, extent unclear </td>
+        <td> Yes </td>
+        </tr>
+        <tr>
+        <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
+        <td> Yes, reduced in 3 vaccine trials. No efficacy {Vaccines.Approved.AZD1222.!SAVariantEfficacy with Oxford Astra-Zeneca} </td>
+        </tr>
+        <tr>
+        <th>Countries reported (uptil Feb 24, 2021)</th>
+        <td> 46 </td>
+        </tr>
+        <tr>
+        <th>US States reported (uptil Feb 24, 2021)</th>
+        <td> 13 </td>
         </tr>
       </table>
 
@@ -957,10 +981,10 @@ subject Variants
         </tr>
         <tr>
         <th>Other Mutation (Including N-terminal)</th>
-        <td>L18F, T20N, P26S & Others </td>
+        <td>L18F, T20N, P26S, D138Y, R190S, H655Y, T10271 </td>
         <tr>
         <th>Transmissibility</th>
-        <td> Not established </td>
+        <td> No </td>
         </tr>
         <tr>
         <th>Severity</th>
@@ -968,8 +992,21 @@ subject Variants
         </tr>
         <tr>
         <th>Immune Escape</th>
-        <td> Not established</td>
+        <td> Yes </td>
         </tr>
+        <tr>
+        <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
+        <td> Likely not established </td>
+        </tr>
+        <tr>
+        <th>Countries reported (uptil Feb 24, 2021)</th>
+        <td> 22 </td>
+        </tr>
+        <tr>
+        <th>US States reported (uptil Feb 24, 2021)</th>
+        <td> 4 </td>
+        </tr>
+
       </table>
 
     -

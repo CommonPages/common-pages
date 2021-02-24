@@ -60,6 +60,8 @@ subject module Vaccines
         !Israelday13
         !IsraelHCW
       -
+        !Singledosemetastudy
+      -
         !OldAge
       - Viral Load
         !Viralload
@@ -327,6 +329,18 @@ subject module Vaccines
           'Amit_et_al_02_18_2021.!b
           'Amit_et_al_02_18_2021.!c
 
+      claim !Singledosemetastudy = One study calculated that Pfizer dose 1 efficacy is likely to be near 82% and perhaps as high as 93% and Moderna vaccine dose 1 efficacy is likely to be between 88% and 94%. Confidence interval data was not be calculated. Authors recognized the evidence for COVID-19 vaccine deferred boost timing and suggests the use of a 3 to 5 month dose 2 boost schedule to minimize hospitalizations and deaths.
+        -
+          'Epperly_et_al_01_11_2021
+          'Epperly_et_al_01_11_2021.!a
+          'Epperly_et_al_01_11_2021.!b
+          'Epperly_et_al_01_11_2021.!c
+          'Epperly_et_al_01_11_2021.!d
+          'Epperly_et_al_01_11_2021.!e
+          'Epperly_et_al_01_11_2021.!f
+          'Epperly_et_al_01_11_2021.!g
+          'Epperly_et_al_01_11_2021.!h
+
       / Old people
       claim !OldAge = Real world immune responses following vaccination with mRNA-based vaccine BNT162b2 showed a high proportion of individuals above the age of 80 have suboptimal neutralising antibody responses following first dose vaccination with BNT162b2, and that the second dose is associated with robust neutralising responses.
         -
@@ -382,6 +396,8 @@ subject module Vaccines
       -
         !Olderpeople
         !Olderpeopledose
+      -
+        Tozinameran.!Singledosemetastudy
       -
         !PregnantWomen
       - Efficacy against UK and SA variant
@@ -1468,7 +1484,7 @@ subject module Vaccines
     > Single Dose Efficacy
       Based on Pfizer vaccination data so far, a {Approved.Tozinameran.!Israelday13 single dose efficacy} 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
 
-      Efficacy for Moderna [after one dose](https://www.fda.gov/media/144434/download) was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose.
+      Efficacy for Moderna [after one dose](https://www.fda.gov/media/144434/download) was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose. One {Approved.Tozinameran.!Singledosemetastudy meta study} calculated that Pfizer dose 1 efficacy is likely to be near 82% and perhaps as high as 93% and Moderna vaccine dose 1 efficacy is likely to be between 88% and 94%.
 
       Vaccine efficacy after a {Approved.AZD1222.!PooledAnalysis single standard dose} of the AstraZeneca vaccine from day 22 to day 90 post vaccination was 76%.
 

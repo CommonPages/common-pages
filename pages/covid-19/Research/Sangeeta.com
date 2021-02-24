@@ -24,17 +24,58 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
+
+
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+  // Evidence For COVID-19 Vaccine Deferred Dose 2 Boost Timing.
+  doi: https://ssrn.com/abstract=3760833
+  ref 'Epperly_et_al_01_11_2021
+    head = This meta study selected vaccines approved under US FDA EUA and evaluated the available vaccine immune response data, infection immune response data, general immunological supporting material, current vaccination plan performance, current COVID-19 infection and mortality data, existing US CDC guidance, and other bioinformatic data to understand and suggest opportunities for improved epidemiologic action.
+
+    >
+      Both Pfizer and Moderna vaccine trials used accelerated methods to achieve rapid FDA approval with minimal and wise compromises. While many established vaccines use boost / dose 2 timings that are typically in the 3 to 120 months range , dose 2 timings for both trials were less than 30 days as part of a crucial effort to rapidly develop a vaccine with significant efficacy. Data from both trials showed excellent dose 1 efficacy; however, neither of the related Safety and Efficacy publications highlighted this dose 1 efficacy excellence.
+
+      The trials, manufacturing, and distribution programs have rapidly delivered millions of doses to points of care. However, the ability to administer these doses at localities as rapidly as they can be distributed has been shown as the largest current challenge to achieving the widespread vaccination. Improvements could reduce mortality rates that presently exceed 2000 per day, avoid serious cases at a time where hospital census is at full capacity or beyond, and minimize long-term sequelae.
+
+      This study suggests that it is possible to achieve these and other goals by recognizing the evidence for COVID-19 vaccine deferred boost timing and using a more conventional, decades-tested, boost timing on the order of months. This would enable currently limited US resources to effectively double the population being vaccinated over the next few months, enabling more rapid vaccination of those at highest-risk for severe infections.
 
     - quotes
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
 
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
+    / January, 2021 - SSRN
+    quote !a = By using the data captured but not well presented in the Pfizer and Moderna studies, it is possible to provide information regarding dose 1 efficacy of both vaccines. This evidence suggests good efficacy of dose 1 for both vaccines and strong likelihood of much greater than 3 month durability of dose 1. It also suggests the use of a 3 to 5 month dose 2 boost schedule to minimize hospitalizations and deaths (on the order of 1000 deaths per day of deferral.) Potential to increase the period over which some level of sterilizing immunity could persist
+
+    / January, 2021 - SSRN
+    quote !b = It also suggests the utility of an appropriate study that would monitor antibody titer and B/T cell prevalence in an appropriately sized group of dose 1 recipients to further guide the timing of the 2nd dose going forward.
+
+    / January, 2021 - SSRN
+    quote !c = While 95% confidence intervals were not calculated here, they could be calculated using compete study datasets. Table 1 shows that the Pfizer dose 1 efficacy is likely to be near 82% and perhaps as high as 93%. The Moderna vaccine dose 1 efficacy is likely to be between 88% and 94%, keeping in mind the small N of 2 infections in the vaccine arm show a narrow time period where the efficacy calculates to 96% based on the data from “Dose 1 + 14 Days To Dose 2 + 14 Days”
+
+    / January, 2021 - SSRN
+    quote !d = In the Pfizer study, there was a minor omission in the study data that presented the dose 1 data in a manner that made it difficult to correctly calculate dose 1 efficacy. Specifically, the table in Figure 3 describing “After dose 1 to before dose 2” cannot be used to properly calculate dose 1 efficacy because it does not allow any time for seroconversion, whereas the data for “>=7 days after dose 2” properly allows for seroconversion. The “dose 1 + 7 days to dose 2” data was omitted. As an aside, this also creates an imbalance in the data presentation such that dose 1 and dose 2 efficacy data in the study is not properly comparable due to this difference in methods
+
+    / January, 2021 - SSRN
+    quote !e = In the Moderna study, the chart presents data that enables dose 1 and dose 2 efficacy data to be properly calculated using a 14 day seroconversion screen, but the dose 1 efficacy data is not presented in the article.
+
+    / January, 2021 - SSRN
+    quote !f = In the case of the Pfizer study, some data had to be extracted visually from the Figure 3 chart to arrive at the necessary data. While there is potential for minor error in visually interpreting this data from the chart, that visual chart interpretation error is likely to affect the Pfizer dose 1 efficacy calculation by less than 2 percentage points. The needed data to improve the calculations below surely exist elsewhere in Pfizer documents.
+
+    / January, 2021 - SSRN
+    quote !g = Even if dose 1 had only a 60% efficacy, which is clearly lower than a reasonable calculation would determine, it could be argued that doubling the vaccinated population with these dose 1 efficacies would be more holistically efficacious than ensuring a 95% efficacy during a period of vaccinating those at high-risk. This is further bolstered by the vaccine arm of Moderna having found zero serious cases even during the dose 1 only period. The vaccine arm of Pfizer “at least 7 days after Dose 2” had 1 case where an individual was found to have “oxygen saturation … 93% on room air … not hospitalized, did not seek further medical care”.
+
+    / January, 2021 - SSRN
+    quote !h = While durability is improved with a 2 or more dose regimen18, dose timing is subject to optimization.
+
+
+
 
 
 
