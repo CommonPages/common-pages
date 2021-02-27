@@ -1195,6 +1195,7 @@ subject module Vaccines
         !Phase12
         !InterimResults
         !Phase3
+        !FDAPhase3
       - SA Variant
         !SAVariant
 
@@ -1235,6 +1236,14 @@ subject module Vaccines
           'J&J_et_al_01_29_2021
           'J&J_et_al_01_29_2021.!a
           'J&J_et_al_01_29_2021.!b
+
+
+      claim !FDAPhase3 = In Feb of 2021, FDA released a briefing document on updated data obtained from J&J trials. The vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa . The vaccine also showed 86% efficacy against severe forms of Covid-19 in the United States, and 82% against severe disease in South Africa. There were no reports of grade 4 local reactions & systemic reactions
+        -
+          'FDA_et_al_02_24_2021
+          'FDA_et_al_02_24_2021.!a
+          'FDA_et_al_02_24_2021.!b
+          'FDA_et_al_02_24_2021.!c
 
       claim !SAVariant = J & J reported that protection against severe disease across geographies, ages, and multiple virus variants, including the SARS-CoV-2 variant from the B.1.351 Lineage was also observed in South Africa.
         -

@@ -94,3 +94,25 @@
     -
       'Stamatatos_et_al_02_08_2021
       'Stamatatos_et_al_02_08_2021.!a
+
+  claim !ExpertRecommendation = Scientists have proposed interventions and provided recommendations for government to increase COVID-19 vaccination rates. Recommendations include using media to communicate campaigns which leveraging evidence of Vaccine effectiveness, Using behavioral insights to make vaccination more accessible & encourage early adopters communicate about their decision to take vaccine to accelerate the emergence of pro-vaccination norms.
+    -
+      'Chevallier_et_al_02_09_2021
+      'Chevallier_et_al_02_09_2021.!a
+      'Chevallier_et_al_02_09_2021.!b
+      'Chevallier_et_al_02_09_2021.!c
+
+
+  claim !BellsPalsy = Researchers have called for robust surveillance for potential mRNA vaccine-associated Bell's palsy. Authors reported the estimated incidence rate of Bell's palsy in the general population ranges from 15 to 30 cases per 100 000 person-years. Authors concluded that Bell's palsy usually self-resolves and despite the occurrence, the available coronavirus mRNA vaccines offer a substantial net benefit to public health.
+    -
+      'Ozonoff_et_al_02_24_2021
+      'Ozonoff_et_al_02_24_2021.!a
+      'Ozonoff_et_al_02_24_2021.!b
+      'Ozonoff_et_al_02_24_2021.!c
+
+  claim !Scotland = National prospective cohort study comprising almost the entire Scottish population demonstrated that a single dose of either the BNT162b2 mRNA or ChAdOx1 vaccines was associated with substantial protection against COVID-19 hospitalisation. Peak VEs of 85% for the BNT162b2 vaccine and 94% for the ChAdOx1 vaccine were found against COVID-19 related hospitalisations. In the oldest age group (≥80 years), based on a pooled analysis for both vaccines, peak VE of 81% was observed. VE tended to increase over time after the first dose for this age group, with the optimal time being >28 days.
+    -
+      'Vasileiou_et_al_02_20_2020
+      'Vasileiou_et_al_02_20_2020.!a
+      'Vasileiou_et_al_02_20_2020.!b
+      'Vasileiou_et_al_02_20_2020.!c

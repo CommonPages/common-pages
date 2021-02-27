@@ -417,7 +417,7 @@ subject Variants
 
   / B.1.1.7 (Identified in UK)
   subject B117
-    head = In mid December of 2020, the B.1.1.7 variant was reported in the UK. This variant is defined by a set of 17 changes or mutations. It has increased transmissibility. Preliminary analyses so far indicate that there is no change in disease severity. As of the 30th of December, this variant has been reported in 31 other countries.
+    head = In mid December of 2020, the B.1.1.7 variant was reported in the UK. This variant is defined by a set of 17 changes or mutations. It has increased transmissibility (50% more), increased risk of severity, hospitalization and death. As of the 22nd Feb of 2021, this variant has been reported in 93 countries.
 
     >
       On 14 December 2020, variant referred as SARS-CoV-2 VOC 202012/01 (Variant of Concern, year 2020, month 12, variant 01) was identified in [United Kingdom](https://www.bmj.com/content/371/bmj.m4857). This variant is defined by a set of 17 changes or mutations. As of 30 December, VOC-202012/01 variant has been reported in 31 other countries/territories/areas in five of the six WHO regions.
@@ -784,10 +784,9 @@ subject Variants
         'Nervtag_et_al_01_21_2021
         'Nervtag_et_al_01_21_2021.!a
 
-
   / B.1.351 (Identified in South Africa)
   subject B1351
-    head = On the 18th of December, the B.1.351 variant was reported to spread in South Africa. This lineage has multiple spike mutations and is associated with increased transmissibility. As of the 30th of December, this variant has been reported in four other countries.
+    head = On the 18th of December, the B.1.351 variant was reported to spread in South Africa. This lineage has multiple spike mutations and is associated with increased transmissibility. Immune Escape has been observed and an efficacy drop-off is consistent across all the vaccines to date. As of the 22nd of February 2021, this variant has been reported in 46 countries.
 
     >
       On 18 December, national authorities in South Africa announced the detection of a new variant of SARS-CoV-2 that is rapidly spreading in three provinces of South Africa. South Africa has named this variant 501Y.V2, because of a N501Y mutation. While SARS-CoV-2 B.1.1.7 from the UK also has the N501Y mutation, [phylogenetic analysis](https://nextstrain.org/sars-cov-2/) has shown that B.1.351 from South Africa are different virus variants. As of 30 December, the B.1.351 variant from South Africa has been reported from four other countries to date.
@@ -955,11 +954,9 @@ subject Variants
         'Hoffmann_et_al_02_11_2021
         'Hoffmann_et_al_02_11_2021.!a
 
-
-
   / P1 (Identified in Brazil)
   subject P1Variant
-    head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike, raising concerns about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility or propensity for re-infection.
+    head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike, raising concerns about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility, immune escape or propensity for re-infection. As of 22nd of February 2021, this variant has been reported in 22 countries.
 
     >
       <table>

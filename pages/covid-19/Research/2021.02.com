@@ -1,6 +1,9 @@
 feed Feb2021
 
   -
+    'Goyal_et_al_02_23_2021
+    'FDA_et_al_02_24_2021
+    'Zhou_et_al_02_17_2021
     'Aran_et_al_02_19_2021
     'BioNTech_et_al_02_19_2021
     'Hoffmann_et_al_02_11_2021
@@ -18,8 +21,204 @@ feed Feb2021
     'Logunov_et_al_02_02_2021
     'Wu_et_al_02_03_2021
 
+  // Effectiveness of First Dose of COVID-19 Vaccines Against Hospital Admissions in Scotland: National Prospective Cohort Study of 5.4 Million People
+  doi: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789264
+  ref 'Vasileiou_et_al_02_20_2020
+    head = We conducted a prospective cohort study using the Early Pandemic Evaluation and Enhanced Surveillance of COVID-19 (EAVE II) database comprising of linked vaccination, primary care, RT-PCR testing, hospitalisation and mortality records for 5.4 million people in Scotland (covering ~99% of population).
 
-  
+    > Background:
+      The BNT162b2 mRNA (Pfizer-BioNTech) and ChAdOx1 (Oxford-AstraZeneca) COVID-19 vaccines have demonstrated high efficacy against infection in phase 3 clinical trials and are now being used in national vaccination programmes in the UK and several other countries. There is an urgent need to study the ‘real-world’ effects of these vaccines. The aim of our study was to estimate the effectiveness of the first dose of these COVID-19 vaccines in preventing hospital admissions.
+
+    > Methods:
+      We conducted a prospective cohort study using the Early Pandemic Evaluation and Enhanced Surveillance of COVID-19 (EAVE II) database comprising of linked vaccination, primary care, Real-Time Polymerase Chain Reaction (RT-PCR) testing, hospitalisation and mortality records for 5.4 million people in Scotland (covering ~99% of population). A time-dependent Cox model and Poisson regression models were fitted to estimate effectiveness against COVID-19 related hospitalisation (defined as 1- Adjusted Hazard Ratio) following the first dose of vaccine.
+
+    > Findings:
+      The first dose of the BNT162b2 vaccine was associated with a vaccine effect of 85% (95% confidence interval [CI] 76 to 91) for COVID-19 related hospitalisation at 28-34 days post-vaccination. Vaccine effect at the same time interval for the ChAdOx1 vaccine was 94% (95% CI 73 to 99). Results of combined vaccine effect for prevention of COVID-19 related hospitalisation were comparable when restricting the analysis to those aged ≥80 years (81%; 95% CI 65 to 90 at 28-34 days post-vaccination).
+
+    > Interpretation:
+      A single dose of the BNT162b2 mRNA and ChAdOx1 vaccines resulted in substantial reductions in the risk of COVID-19 related hospitalisation in Scotland.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2020 - bioRxiv
+    quote !a = The first dose of the BNT162b2 vaccine was associated with a vaccine effect of 85% (95% confidence interval [CI] 76 to 91) for COVID-19 related hospitalisation at 28-34 days post-vaccination.
+
+    / February, 2020 - bioRxiv
+    quote !b = Vaccine effect at the same time interval for the ChAdOx1 vaccine was 94% (95% CI 73 to 99).
+
+    / February, 2020 - bioRxiv
+    quote !c = Results of combined vaccine effect for prevention of COVID-19 related hospitalisation were comparable when restricting the analysis to those aged ≥80 years (81%; 95% CI 65 to 90 at 28-34 days post-vaccination).
+
+  // Increased transmission of SARS-CoV-2 lineage B.1.1.7 (VOC 2020212/01) is not accounted for by a replicative advantage in primary airway cells or antibody escape
+  doi: https://doi.org/10.1101/2021.02.24.432576
+  ref 'Brown_et_al_02_24_2021
+    head = We demonstrate that there is no difference in viral replication between B.1.1.7 and other contemporaneous SARS-CoV-2 strains in primary human airway epithelial (HAE) cells.
+
+    > Abstract
+      Lineage B.1.1.7 (Variant of Concern 202012/01) is a new SARS-CoV-2 variant which was first sequenced in the UK in September 2020 before becoming the majority strain in the UK and spreading worldwide. The rapid spread of the B.1.1.7 variant results from increased transmissibility but the virological characteristics which underpin this advantage over other circulating strains remain unknown. Here, we demonstrate that there is no difference in viral replication between B.1.1.7 and other contemporaneous SARS-CoV-2 strains in primary human airway epithelial (HAE) cells. However, B.1.1.7 replication is disadvantaged in Vero cells potentially due to increased furin-mediated cleavage of its spike protein as a result of a P681H mutation directly adjacent to the S1/S2 cleavage site. In addition, we show that B.1.1.7 does not escape neutralisation by convalescent or post-vaccination sera. Thus, increased transmission of B.1.1.7 is not caused by increased replication, as measured on HAE cells, or escape from serological immunity.
+
+    - quotes
+      !a
+
+    / February, 2021 - medRxiv
+    quote !a = B.1.1.7 does not escape neutralisation by convalescent or post-vaccination sera. Thus, increased transmission of B.1.1.7 is not caused by increased replication, as measured on HAE cells, or escape from serological immunity.
+
+  // Bell's palsy and SARS-CoV-2 vaccines
+  doi: https://doi.org/10.1016/S1473-3099(21)00076-1
+  ref 'Ozonoff_et_al_02_24_2021
+    head = Both mRNA vaccines demonstrate an imbalance of cases of Bell's palsy in the vaccine groups compared with the placebo groups. This Comment has three purposes: to briefly review the literature on the association of Bell's palsy with vaccination, and vaccination for respiratory viruses such as influenza in particular, to consider biological mechanisms that might explain observed associations, and to reconsider statistical and epidemiological evidence from the reported safety data of the SARS-CoV-2 vaccine trials.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2021 - The lancet
+    quote !a = Publicly available data from the Pfizer-BioNTech and Moderna vaccine trials suggest an imbalance in the incidence of Bell's palsy following vaccination compared with the placebo arm of each trial. Combining data from both trials, among nearly 40 000 vaccine arm participants, there were seven Bell's palsy cases compared with one Bell's palsy case among placebo arm participants. This estimated rate ratio of roughly 7·0, suggests vaccination might be associated with Bell's palsy (p=0·07).
+
+    / February, 2021 - The lancet
+    quote !b =  The estimated incidence rate of Bell's palsy in the general population ranges from 15 to 30 cases per 100 000 person-years. The observed incidence of Bell's palsy in the vaccine arms is between 3·5-times and 7-times higher than would be expected in the general population.
+
+    / February, 2021 - The lancet
+    quote !c =  Overall, both passive and active surveillance systems will be important to ensure vaccine safety. While we call for robust surveillance for potential mRNA vaccine-associated Bell's palsy, we also note that Bell's palsy usually self-resolves and we feel the available coronavirus mRNA vaccines offer a substantial net benefit to public health.
+
+
+  // COVID-19 Vaccine Hesitancy: Shortening the Last Mile
+  doi: https://doi.org/10.1016/j.tics.2021.02.002
+  ref 'Chevallier_et_al_02_09_2021
+    head =  We propose three main intervention routes, which should receive urgent research and governmental attention.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2021 - Cell
+    quote !a = First, use communication campaigns leveraging evidence-based levers and argumentation tools with experts.
+
+    / February, 2021 - Cell
+    quote !b = Second, use behavioral insights to make vaccination more accessible.
+
+    / February, 2021 - Cell
+    quote !c = Third, help early adopters communicate about their decision to be vaccinated to accelerate the emergence of pro-vaccination norms.
+
+  // Viral load and contact heterogeneity predict SARS-CoV-2 transmission and super-spreading events
+  doi: https://elifesciences.org/articles/63537
+  ref 'Goyal_et_al_02_23_2021
+    head =  We designed mathematical models which link observed viral loads with epidemiologic features of each virus, including distribution of transmissions attributed to each infected person and duration between symptom onset in the transmitter and secondarily infected person.
+
+    > Abstract
+      SARS-CoV-2 is difficult to contain because many transmissions occur during pre-symptomatic infection. Unlike influenza, most SARS-CoV-2 infected people do not transmit while a small percentage infect large numbers of people. We designed mathematical models which link observed viral loads with epidemiologic features of each virus, including distribution of transmissions attributed to each infected person and duration between symptom onset in the transmitter and secondarily infected person. We identify that people infected with SARS-CoV-2 or influenza can be highly contagious for less than one day, congruent with peak viral load. SARS-CoV-2 super-spreader events occur when an infected person is shedding at a very high viral load and has a high number of exposed contacts. The higher predisposition of SARS-CoV-2 towards super-spreading events cannot be attributed to additional weeks of shedding relative to influenza. Rather, a person infected with SARS-CoV-2 exposes more people within equivalent physical contact networks, likely due to aerosolization.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2021 - eLife
+    quote !a = People infected with SARS-CoV-2 or influenza can be highly contagious for less than one day, congruent with peak viral load. SARS-CoV-2 super-spreader events occur when an infected person is shedding at a very high viral load and has a high number of exposed contacts.
+
+    / February, 2021 - eLife
+    quote !b = The higher predisposition of SARS-CoV-2 towards super-spreading events cannot be attributed to additional weeks of shedding relative to influenza. Rather, a person infected with SARS-CoV-2 exposes more people within equivalent physical contact networks, likely due to aerosolization.
+
+  //  Janssen Ad26.COV2.S Vaccine for the Prevention of COVID-19
+  doi: https://www.fda.gov/media/146217/download
+  ref 'FDA_et_al_02_24_2021
+    head = Janssen has submitted safety and efficacy data from an ongoing multi-national Phase 3 randomized, double-blind and placebo-controlled trial of a single dose (5x1010 vp) of Ad26.COV2.S in approximately 40,000 participants.
+
+    >
+      On February 4, 2021, Janssen Biotech, Inc. (the Sponsor) submitted an Emergency Use Authorization (EUA) request to FDA for an investigational vaccine intended to prevent COVID19 caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The vaccine, known as Ad26.COV2.S, is a replication-incompetent adenovirus type 26 (Ad26) vectored vaccine encoding a stabilized variant of the SARS-CoV-2 S protein. The proposed use under an EUA is for active immunization to prevent COVID-19 caused by SARS-CoV-2 in individuals 18 years of age and older. The proposed dosing regimen is a single intramuscular injection at the dose level of 5×1010 viral particles (vp).
+      In support of their EUA request, Janssen has submitted safety and efficacy data from an ongoing multi-national Phase 3 randomized, double-blind and placebo-controlled trial of a single dose (5x1010 vp) of Ad26.COV2.S in approximately 40,000 participants. The EUA request followed a successful protocol-specified primary analysis that evaluated co-primary efficacy endpoints of molecularly confirmed, moderate to severe/critical COVID-19 with onset at least 14 and 28 days, respectively, after vaccination in participants without evidence of SARS-CoV-2 infection prior to vaccination. The co-primary efficacy analysis (data cutoff of January 22, 2021) included 39,321 randomized (1:1) participants with a median follow-up time of 2 months postvaccination. These participants were included in the per-protocol efficacy analysis population.
+      Vaccine efficacy (VE) against central laboratory-confirmed moderate to severe/critical COVID19 across all geographic areas in which the trial was conducted was 66.9% (95% CI 59.0, 73.4) when considering cases occurring at least 14 days after the single-dose vaccination and 66.1% (55.0, 74.8) when considering cases occurring at least 28 days after vaccination. For the vaccine and placebo groups, respectively, there were 116 and 348 COVID-19 cases that occurred at least 14 days after vaccination, and 66 and 193 cases that occurred at least 28 days after vaccination. Analyses of secondary endpoints demonstrated vaccine efficacy against central laboratory confirmed and blind-adjudicated severe/critical COVID-19 occurring at least 14 days and at least 28 days after vaccination of 76.7% (54.6, 89.1) and 85.4% (54.2, 96.9), respectively. VE estimates for prevention of moderate to severe/critical COVID-19 and for prevention of severe/critical COVID-19 including positive PCR results still awaiting confirmation by the central laboratory were similar (but with narrower confidence intervals) to the VE estimates that included only centrally-confirmed cases. In a post hoc analysis of all COVID-19 related hospitalizations starting 14 days after vaccination, including non-centrally confirmed cases, there were 2 cases in the vaccine group (with no cases after 28 days) compared with 29 cases in the placebo group (with 16 cases after 28 days). As of February 5, 2021, there were 7 COVID-19 related deaths in the study in the placebo group and no COVID-19 related deaths in the vaccine group.
+      In general, VE among the subgroups (age, comorbidity, race, ethnicity) appears to be similar to the VE in the overall study population. A lower VE estimate was observed for the subgroup of participants 60 years of age and older with comorbidities compared with the overall population, but with an observed trend of increasing VE with narrower confidence intervals as numbers of cases included in the analysis increased (i.e., counting cases from 14 days rather than 28 days and including cases not yet centrally confirmed). There were no COVID-19-related deaths and no COVID-19 cases requiring medical intervention occurring 28 days or more post-vaccination among participants age 60 years or older with medical comorbidities in the vaccine group. The VE results for some other subgroups with small numbers of participants (≥75 years of age, certain racial subgroups) have limited interpretability. Data were insufficient to assess VE in participants with evidence of prior SARS-CoV-2 infection.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2021 - FDA Briefing Document
+    quote !a = Vaccine efficacy (VE) against central laboratory-confirmed moderate to severe/critical COVID19 across all geographic areas in which the trial was conducted was 66.9% (95% CI 59.0, 73.4) when considering cases occurring at least 14 days after the single-dose vaccination and 66.1% (55.0, 74.8) when considering cases occurring at least 28 days after vaccination.
+
+    / February, 2021 - FDA Briefing Document
+    quote !b = VE estimates for prevention of moderate to severe/critical COVID-19 and for prevention of severe/critical COVID-19 including positive PCR results still awaiting confirmation by the central laboratory were similar (but with narrower confidence intervals) to the VE estimates that included only centrally-confirmed cases.
+
+    / February, 2021 - FDA Briefing Document
+    quote !c = VE among the subgroups (age, comorbidity, race, ethnicity) appears to be similar to the VE in the overall study population. A lower VE estimate was observed for the subgroup of participants 60 years of age and older with comorbidities compared with the overall population, but with an observed trend of increasing VE with narrower confidence intervals as numbers of cases included in the analysis increased (i.e., counting cases from 14 days rather than 28 days and including cases not yet centrally confirmed).
+
+  // Evidence of escape of SARS-CoV-2 variant B.1.351 from natural and vaccine induced sera
+  doi: https://doi.org/10.1016/j.cell.2021.02.037
+  ref 'Zhou_et_al_02_17_2021
+    head =  We describe a structure-function analysis of B.1.351 using a large cohort of convalescent and vaccinee serum samples. We examine neutralization of a B.1.351 viral isolate and compare this to neutralization of Victoria, an early Wuhan related isolate.
+
+    >
+      The race to produce vaccines against SARS-CoV-2 began when the first sequence was published, and this forms the basis for vaccines currently deployed globally. Independent lineages of SARS-CoV-2 have recently been reported: UK–B.1.1.7, South Africa–B.1.351 and Brazil–P.1. These variants have multiple changes in the immunodominant spike protein which facilitates viral cell entry via the Angiotensin converting enzyme-2 (ACE2) receptor. Mutations in the receptor recognition site on the spike are of great concern for their potential for immune escape. Here we describe a structure-function analysis of B.1.351 using a large cohort of convalescent and vaccinee serum samples. The receptor binding domain mutations provide tighter ACE2 binding and widespread escape from monoclonal antibody neutralization largely driven by E484K although K417N and N501Y act together against some important antibody classes. In a number of cases it would appear that convalescent and some vaccine serum offers limited protection against this variant.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / February, 2021 - Cell
+    quote !a = The receptor binding domain mutations provide tighter ACE2 binding and widespread escape from monoclonal antibody neutralization largely driven by E484K although K417N and N501Y act together against some important antibody classes.
+
+    / February, 2021 - Cell
+    quote !b = the use of monoclonal antibody therapy or prophylaxis, particularly for extended periods in chronically infected immunocompromised individuals, is likely to drive the emergence of resistance mutations.
+
+    / February, 2021 - Cell
+    quote !c = we demonstrate that the B.1.351 CoV-2 strain is much more difficult to neutralize than parental strains, 14/20 of a panel of monoclonal antibodies are seriously compromised or neutralization is completely knocked out
+
+    / February, 2021 - Cell
+    quote !d = In a number of cases it would appear that convalescent and some vaccine serum offers limited protection against this variant.
+
+  // No higher infectivity but immune escape of SARS-CoV-2 501Y.V2 variants
+  doi: https://doi.org/10.1016/j.cell.2021.02.042
+  ref 'Li_et_al_02_18_2021
+    head = We investigated the biological significance—using assays of infectivity and of antigenicity—of a set of 18 501Y.V2 lineage-related mutants. We analyzed the infectivity of the pseudotyped viruses for multiple SARS-CoV-2-susceptible cell lines. We also profiled the antigenicity of the pseudotyped viruses to monoclonal antibodies, to SARS-CoV-2 convalescent sera, and to RBD immunize animal sera.
+
+    >
+      The 501Y.V2 variants of SARS-CoV-2 containing multiple mutations in Spike are now dominant in South Africa and are rapidly spreading to other countries. Here, experiments with 18 pseudotyped viruses showed that the 501Y.V2 variants do not confer increased infectivity in multiple cell types except for murine ACE2-overexpressing cells, where a substantial increase in infectivity was observed. Notably, the susceptibility of the 501Y.V2 variants to 12 of 17 neutralizing monoclonal antibodies was substantially diminished, and the neutralization ability of the sera from convalescent patients and immunized mice was also reduced for these variants. The neutralization resistance was mainly caused by E484K and N501Y mutations in the receptor-binding domain of Spike. The enhanced infectivity in murine ACE2-overexpressing cells suggests the possibility of spillover of the 501Y.V2 variants to mice. Moreover, the neutralization resistance we detected for the 501Y.V2 variants suggests the potential for compromised efficacy of monoclonal antibodies and vaccines.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+
+
+    / February, 2021 - Cell
+    quote !a = We found that compared with the reference 614G variant, the infectivity of the 501Y.V2 variants in human receptor cells did not change significantly, but did alter antigenicity.
+
+    / February, 2021 - Cell
+    quote !b = The neutralizing activity of multiple RBD-targeting monoclonal antibodies decreased significantly, and polyclonal antibodies (from RBD-immunized mouse sera and from SARS-CoV-2 convalescent sera) also had decreased neutralizing activity against 501Y.V2 variants to certain degrees.
+
+    / February, 2021 - Cell
+    quote !c = We found that multiple pseudotyped viruses harboring N501Y and K417N mutations (including 501Y.V2-2 and 501Y.V2-3) were significantly more infective towards HEK293T cells expressing murine ACE2 compared to the reference 614G variant. At minimum, these findings suggest a risk that the predominant variants of the 501Y.V2 lineage could be transmitted to mice, further extending the SARS-CoV-2 host range.
+
+    / February, 2021 - Cell
+    quote !d = Monoclonal antibodies P2C-1F11 and H014 showed no reduction in their neutralizing capacity against all three 501Y.V2 pseudotyped viruses.
+
+    / February, 2021 - Cell
+    quote !e = The K417N mutation actually increases viral sensitivity to neutralization. The K417N mutation increases the probability of conversion to the open conformation, thus enhancing the S protein’s binding capacity for ACE2 and increasing viral infectivity.
+
+    / February, 2021 - Cell
+    quote !f = Since both the E484 and N501 residues are fully exposed, it is reasonable to speculate that mutations to these sites may weaken antibody binding , potentially thereby reducing the sensitivity of the virus to neutralizing antibodies.
+
+    / February, 2021 - Cell
+    quote !g = The 501Y.V2 variants showed no obvious changes in infectivity SARS-CoV-2-susceptible cell lines. However, RBD mutations led to significantly higher viral infection in HEK293T cells expressing the murine ortholog of ACE2 .
+
+    / February, 2021 - Cell
+    quote !h = mutation of three amino acids in the RBD of the 501Y.V2 variants decreased sensitivity to neutralization by SARS-CoV-2 convalescent sera and RBD-immunized sera, while mutations outside of the RBD had minimal effects on viral infectivity and antigenicity.
+
+
+
 
 
   // Estimating real-world COVID-19 vaccine effectiveness in Israel using aggregated counts
