@@ -1523,6 +1523,7 @@ subject module Vaccines
       Variants.B117.!VaccineEffectiveness
     - Other Claims (SA Variant)
       Variants.B1351.!Reinfection
+      Variants.B1351.!ProtectionagainstB1351
     - Key Concern
       Variants.B1351.!Neutralizingescape
       Variants.B1351.!RecurrentDeletion

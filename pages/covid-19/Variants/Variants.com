@@ -477,6 +477,10 @@ subject Variants
     - Transmission
       !GrowthRate
       !Transmission
+    - Replication
+      !ReplicationTransmissibility
+    - Viral Load
+      !Viralload
     - Severity
       !Severity
       !SeverityHospitalizationDeath
@@ -512,8 +516,6 @@ subject Variants
       !Antibodyresistance
     - Potential significance of P681H Mutation
       !P681HFurin
-    - Other claims
-      !Viralload
     - Origin Theory
       !Immunocompromised
 
@@ -785,6 +787,11 @@ subject Variants
         'Nervtag_et_al_01_21_2021
         'Nervtag_et_al_01_21_2021.!a
 
+    claim !ReplicationTransmissibility = One study tested growth of B.1.1.7 against a control virus in Vero cells and Human Airway Epithelial cells (HAEs). They demonstrate that there is no difference in viral replication between B.1.1.7 and other contemporaneous SARS-CoV-2 strains in primary human airway epithelial (HAE) cells. Authors reported that increased transmission of B.1.1.7 is not caused by increased replication.
+      -
+        'Brown_et_al_02_24_2021
+        'Brown_et_al_02_24_2021.!a
+
   / B.1.351 (Identified in South Africa)
   subject B1351
     head = On the 18th of December, the B.1.351 variant was reported to spread in South Africa. This lineage has multiple spike mutations and is associated with increased transmissibility. Immune Escape has been observed and an efficacy drop-off is consistent across all the vaccines to date. As of the 22nd of February 2021, this variant has been reported in 46 countries.
@@ -856,7 +863,7 @@ subject Variants
       !Reinfection
       !Neutralizingescape
       !RecurrentDeletion
-
+      !ProtectionagainstB1351
     - Pre Existing Immunity
       !PreexistingImmunity
     - Treatment
@@ -955,6 +962,15 @@ subject Variants
       -
         'Hoffmann_et_al_02_11_2021
         'Hoffmann_et_al_02_11_2021.!a
+
+    claim !ProtectionagainstB1351 = One study performed a structure-function analysis of B.1.351 using a large cohort of convalescent and vaccinee serum samples and examined neutralization of a B.1.351 viral isolate and compare this to neutralization of Victoria, an early Wuhan related isolate. Authors reported that B.1.351 CoV-2 strain is much more difficult to neutralize than parental strains. Authors also reported that convalescent and some vaccine serum offers limited protection against this variant.
+      -
+        'Zhou_et_al_02_17_2021
+        'Zhou_et_al_02_17_2021.!a
+        'Zhou_et_al_02_17_2021.!b
+        'Zhou_et_al_02_17_2021.!c
+        'Zhou_et_al_02_17_2021.!d
+
 
   / P1 (Identified in Brazil)
   subject P1Variant
