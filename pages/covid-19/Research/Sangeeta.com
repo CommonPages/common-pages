@@ -28,7 +28,7 @@ feed Sangeeta
       !a
       !b
       !c
-      !d
+
 
     / February, 2021 - medRxiv
     quote !a = Post-vaccine antibodies in ExCOVID individuals increase exponentially within 7-15 days after the first dose compared to naïve subjects (p<0.0001).
@@ -39,18 +39,6 @@ feed Sangeeta
     / February, 2021 - medRxiv
     quote !c = One vaccine dose is sufficient to induce a good antibody response in ExCOVID subjects and poses caution for a second dose: over stimulation with high amount of antigens could switch-off the immune response due to antigen exhaustion, which occurs in response to several viruses. Alternatively, overactivation of the immune response may drive the development of low-affinity antibodies for SARS-CoV-2 which may foster an antibody dependent enhancement (ADE) reaction when re-exposed to the virus.
 
-
-    / February, 2021 - medRxiv
-    quote !d = Young subjects had a higher antibody response.
-
-    / February, 2021 - medRxiv
-    quote !a =
-
-    / February, 2021 - medRxiv
-    quote !a =
-
-    / February, 2021 - medRxiv
-    quote !a =
 
 
   #

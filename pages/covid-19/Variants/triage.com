@@ -25,3 +25,16 @@ index: hide
   -
     'Brown_et_al_02_24_2021
     'Brown_et_al_02_24_2021.!a
+
+  >
+    Evidence suggesting that the B.1.351 variant isn’t more infectious than other coronaviruses, but able to evade antibodies produced during previous infections.
+    Experiments with 18 pseudotyped viruses showed that the 501Y.V2 variants showed no higher infectivity in cells with hACE2 comparing to 614G variant; while it showed increased infectivity in cells with mACE2 compared to 614G variant.
+    501Y.V2 escaped neutralization by most of neutralizing monoclonal antibodies. and significantly compromised the inhibitory effects of polyclonal antibodies. The neutralization resistance was mainly caused by E484K and N501Y mutations in the receptor-binding domain of Spike. The enhanced infectivity in murine ACE2-overexpressing cells suggests the possibility of spillover of the 501Y.V2 variants to mice.
+  -
+    'Li_et_al_02_23_2021
+    'Li_et_al_02_23_2021.!a
+    'Li_et_al_02_23_2021.!b
+    'Li_et_al_02_23_2021.!c
+    'Li_et_al_02_23_2021.!d
+    'Li_et_al_02_23_2021.!e
+    'Li_et_al_02_23_2021.!f  

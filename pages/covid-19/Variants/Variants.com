@@ -481,7 +481,7 @@ subject Variants
       !Severity
       !SeverityHospitalizationDeath
     - Reinfection
-      !Reinfection  
+      !Reinfection
     - Vaccine related claims
       !Phase3trialConcern
       Variants.B1351.!Vaccineefficacy
@@ -491,6 +491,7 @@ subject Variants
       Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
       Vaccines.Approved.mRNA-1273.!NeutralisingUKvariant
       Vaccines.Approved.mRNA-1273.!SAvariant
+      Vaccines.Approved.Tozinameran.!IsraelB117
     - Pre Existing Immunity
       !PreexistingImmunity
 
@@ -850,6 +851,7 @@ subject Variants
       Vaccines.Approved.Tozinameran.!VariantEfficacySA
       Vaccines.Approved.mRNA-1273.!SAvariant
       Vaccines.Approved.Tozinameran.!ImmuneEscape
+      Vaccines.Approved.Tozinameran.!PriorInfectionSingleDose.!SingleDose
       !Vaccineefficacy
       !Reinfection
       !Neutralizingescape

@@ -3,6 +3,20 @@
 revision feed Revisions
   head = The first draft of Common COVID-19 was published on November 21, 2020. It has received nine major revisions, expanding the subjects covered and correcting existing claims.
 
+  public: February-26-2021
+  / February 26, 2021
+  revision February_26
+    head = We've added claims  immune responses induced by these mRNA vaccines in individuals who recovered from COVID-19. Single dose mRNA mounts robust antibody and T-Cell responses. We have also updated real evidence data (Pfizer and Oxford) of Israel and Scotland and findings on severe reaction (Bells Palsy) for Pfizer vaccine.
+    -
+      Vaccines.Approved.Tozinameran
+      Vaccines.Approved.Tozinameran.!Singledosemetastudy
+      Vaccines.Approved.Tozinameran.!SingleDoseHumoralPfizer
+      Vaccines.Approved.Tozinameran.!Israel
+      Vaccines.Approved.Tozinameran.!Scotland
+      Vaccines.Approved.Tozinameran.!PriorInfectionSingleDose
+      Vaccines.Approved.Tozinameran.!BellsPalsy
+
+
   public: February-23-2021
   / February 23, 2021
   revision February_23

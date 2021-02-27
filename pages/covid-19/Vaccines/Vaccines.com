@@ -59,8 +59,15 @@ subject module Vaccines
         !Israel
         !Israelday13
         !IsraelHCW
+        !IsraelMassVaccination
+        !IsraelMassVaccination2
+      -
+        !Scotland
       -
         !Singledosemetastudy
+        !SingleDoseHumoralPfizer
+      -
+        !PriorInfectionSingleDose
       -
         !OldAge
       - Viral Load
@@ -71,8 +78,10 @@ subject module Vaccines
         !Variantefficacy
         !VariantEfficacySA
         !ImmuneEscape
+        !IsraelB117
       - Severe Reactions
         AnaphylaxisPEG
+        !BellsPalsy
       >
         In Feb of 2021, Pfizer Inc. (NYSE: PFE) and BioNTech SE (Nasdaq: BNTX) {'BioNTech_et_al_02_19_2021 announced} the submission of new data to the U.S. Food and Drug Administration (FDA) demonstrating the stability of their COVID-19 vaccine when stored at -25°C to -15°C (-13°F to 5°F), temperatures more commonly found in pharmaceutical freezers and refrigerators.
 
@@ -308,12 +317,27 @@ subject module Vaccines
             'Shimabukuro_et_al_01_21_2021
             'Shimabukuro_et_al_01_21_2021.!b
 
-      / Vaccination in Israel
+      / Real-world evidence: Israel
       claim !Israel = In Feb of 2021, researchers provided an estimate for the pfizer vaccine effectiveness based on vaccination in Israel. 1st dose, the analysis shows effectiveness of 72% in reducing SARS-CoV-2 positive cases (symptomatic and asymptomatic), 83% reduction of COVID-19 hospitalizations and 86% reduction in severe cases in 60 years and older individuals the second week after the 2nd dose. On weeks 3-4 after the 2nd dose, vaccine effectiveness reached 95%+. Authors concluded that high effectiveness of the vaccine only starts after three weeks, which coincides with the administration of the 2nd dose.
         -
           'Aran_et_al_02_19_2021
           'Aran_et_al_02_19_2021.!a
           'Aran_et_al_02_19_2021.!b
+        -
+          'Dagan_et_al_02_24_2021
+          'Dagan_et_al_02_24_2021.!a
+          'Dagan_et_al_02_24_2021.!b
+          'Dagan_et_al_02_24_2021.!c
+          'Dagan_et_al_02_24_2021.!d
+          'Dagan_et_al_02_24_2021.!e
+          'Dagan_et_al_02_24_2021.!f
+        -
+          'Jabal_et_al_02_10_2021
+          'Jabal_et_al_02_10_2021.!a
+          'Jabal_et_al_02_10_2021.!b
+          'Jabal_et_al_02_10_2021.!c
+          'Jabal_et_al_02_10_2021.!d
+          'Jabal_et_al_02_10_2021.!e
 
       claim !Israelday13 = Authors reported the effectiveness of the first dose of BNT162b2 vaccine in reducing SARS-CoV-2 infection 13-24 days after immunization to be approximately 51%. Authors concluded that immunization with the second dose (after 21 days) should be continued to attain the anticipated protection.
         -
@@ -328,6 +352,25 @@ subject module Vaccines
           'Amit_et_al_02_18_2021.!a
           'Amit_et_al_02_18_2021.!b
           'Amit_et_al_02_18_2021.!c
+
+      claim !IsraelMassVaccination = A study in a Israel nationwide mass vaccination setting estimates a high effectiveness of the BNT162b2 vaccine for preventing symptomatic Covid-19 in a noncontrolled setting and also suggests that effectiveness is high for the more serious outcomes: hospitalization, severe illness, and death., a finding consistent with that of the randomized trial.
+        -
+          'Dagan_et_al_02_24_2021
+          'Dagan_et_al_02_24_2021.!a
+        - 2nd dose
+          'Dagan_et_al_02_24_2021.!b
+        - single dose
+          'Dagan_et_al_02_24_2021.!c
+          'Dagan_et_al_02_24_2021.!d
+        -
+          'Dagan_et_al_02_24_2021.!e
+        - Variants efficacy
+          'Dagan_et_al_02_24_2021.!f
+
+      claim !IsraelMassVaccination2 = A study in a nationwide mass vaccination setting found indications that effectiveness may be slightly lower among persons with higher numbers of coexisting conditions.
+        -
+          'Dagan_et_al_02_24_2021.
+          'Dagan_et_al_02_24_2021.!e
 
       claim !Singledosemetastudy = One study calculated that Pfizer dose 1 efficacy is likely to be near 82% and perhaps as high as 93% and Moderna vaccine dose 1 efficacy is likely to be between 88% and 94%. Confidence interval data was not be calculated. Authors recognized the evidence for COVID-19 vaccine deferred boost timing and suggests the use of a 3 to 5 month dose 2 boost schedule to minimize hospitalizations and deaths.
         -
@@ -357,6 +400,77 @@ subject module Vaccines
           'Garcia-Beltran_et_al_02_18_2021
           'Garcia-Beltran_et_al_02_18_2021.!a
           'Garcia-Beltran_et_al_02_18_2021.!b
+
+      claim !BellsPalsy = Researchers have called for robust surveillance for potential mRNA vaccine-associated Bell's palsy. Authors reported the estimated incidence rate of Bell's palsy in the general population ranges from 15 to 30 cases per 100000 person-years. Authors concluded that Bell's palsy usually self-resolves and despite the occurrence, the available coronavirus mRNA vaccines offer a substantial net benefit to public health.
+        -
+          'Ozonoff_et_al_02_24_2021
+          'Ozonoff_et_al_02_24_2021.!a
+          'Ozonoff_et_al_02_24_2021.!b
+          'Ozonoff_et_al_02_24_2021.!c
+
+      / Real-world evidence: Scotland
+      claim !Scotland = National prospective cohort study comprising almost the entire Scottish population demonstrated that a single dose of either the BNT162b2 mRNA or ChAdOx1 vaccines was associated with substantial protection against COVID-19 hospitalisation. Peak VEs of 85% for the BNT162b2 vaccine and 94% for the ChAdOx1 vaccine were found against COVID-19 related hospitalisations. In the oldest age group (≥80 years), based on a pooled analysis for both vaccines, peak VE of 81% was observed. VE tended to increase over time after the first dose for this age group, with the optimal time being >28 days.
+        -
+          'Vasileiou_et_al_02_20_2020
+          'Vasileiou_et_al_02_20_2020.!a
+          'Vasileiou_et_al_02_20_2020.!b
+          'Vasileiou_et_al_02_20_2020.!c
+
+      claim !IsraelB117 = A study in a Israel nationwide mass vaccination settings showed that Pfizer vaccine is effective against B.1.1.7 variant
+        - Variants efficacy
+          'Dagan_et_al_02_24_2021
+          'Dagan_et_al_02_24_2021.!f
+
+      / Single dose for previously infected with Covid-19
+      claim !PriorInfectionSingleDose = In previously infected individuals, studies found a roboust antibody and T-cell responses after a single dose of mRNA vaccines suggesting that subjects will benefit from even a single immunization. Reactogenicity was substantially more pronounced with pre-existing immunity. Booster dose of Pfizer vaccine didn't mount strong immune response. Authors cautioned about over-stimulation and overactivation with the use of 2nd dose mRNA vaccine.
+
+        claim !SingleDose = Multiple studies suggests that previously infected subjects will benefit from even a single immunization with either the Pfizer or Moderna vaccines. Individuals with previous SARS-CoV-2 infection mounted robust antibody and T-cell responses after a single dose of mRNA vaccines. One study showed a 1000-fold increase in neutralizing antibody titers against both strains (Wuhan-Hu-1 strain and a variant, B.1.351 from South Africa.) and SARS-CoV-1.
+          -
+            'Saadat_et_al_02_18_2021
+            'Saadat_et_al_02_18_2021.!a
+            'Saadat_et_al_02_18_2021.!b
+            'Saadat_et_al_02_18_2021.!c
+          # One study found that a single immunization with the Pfizer or Moderna mRNA vaccines generated anamnestic B and CD4+ T cell responses and a 1000-fold increase in neutralizing antibody titers against both strains (Wuhan-Hu-1 strain and a variant, B.1.351 from South Africa.) and SARS-CoV-1.
+          -
+            'Stamatatos_et_al_02_08_2021
+            'Stamatatos_et_al_02_08_2021.!a
+            'Stamatatos_et_al_02_08_2021.!b
+            'Stamatatos_et_al_02_08_2021.!c
+
+
+          # In this short report, we show that the antibody response to the first vaccine dose in individuals with pre-existing immunity is equal to or even exceeds the titers found in naïve individuals after the second dose. We also show that the reactogenicity is significantly higher in individuals who have been infected with SARS-CoV-2 in the past. These observations are in line with the first vaccine dose serving as boost in naturally infected individuals providing a rationale for updating vaccine recommendations to considering a single vaccine dose to be sufficient to reach immunity.
+
+          -
+            'Krammer_et_al_02_01_2021
+            'Krammer_et_al_02_01_2021.!a
+            'Krammer_et_al_02_01_2021.!b
+            'Krammer_et_al_02_01_2021.!c
+
+        claim !PfizerBooster = One study reported that immune responses to the booster dose of mRNA vaccine BNT162b2 are poor in subjects with a prior history of SARS-CoV-2 infection.
+          -
+            'Samanovic_et_al_02_09_2021
+            'Samanovic_et_al_02_09_2021.!a
+
+        claim !Reactogenicityseconddose = Another study reported that mRNA vaccine reactogenicity after the first dose is substantially more pronounced in individuals with pre-existing immunity akin to side-effects reported for the second dose in the phase III vaccine trials.
+          -
+            'Krammer_et_al_02_01_2021
+            'Krammer_et_al_02_01_2021.!b
+
+        claim !Concern = One study cautioned against the use of 2nd dose raising concern that over stimulation with high amount of antigens could switch-off the immune response due to antigen exhaustion, which occurs in response to several viruses. Alternatively, overactivation of the immune response may drive the development of low-affinity antibodies for SARS-CoV-2 which may foster an antibody dependent enhancement (ADE) reaction when re-exposed to the virus.
+          -
+            'Levi_et_al_02_06_2021
+            'Levi_et_al_02_06_2021.!a
+            'Levi_et_al_02_06_2021.!b
+            'Levi_et_al_02_06_2021.!c
+
+      claim !SingleDoseHumoralPfizer = In one study, some infection-naive individuals generated both weak T-cell responses and low titres of neutralising antibodies, and might not persist for a 12-week delay until second vaccine is administered. Authors also found median anti-S titres post-vaccination in the infection-cohort to be lower than those seen 2–8 weeks after natural infection alone, and this difference was particularly striking in those older than 50 years.
+        -
+          'Prendecki_et_al_02_25_2021
+          'Prendecki_et_al_02_25_2021.!a
+          'Prendecki_et_al_02_25_2021.!b
+          'Prendecki_et_al_02_25_2021.!c
+          'Prendecki_et_al_02_25_2021.!d
+
 
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
@@ -399,6 +513,8 @@ subject module Vaccines
       -
         Tozinameran.!Singledosemetastudy
       -
+        Tozinameran.!PriorInfectionSingleDose
+      -
         !PregnantWomen
       - Efficacy against UK and SA variant
         !Variantefficacy
@@ -406,8 +522,10 @@ subject module Vaccines
         !NeutralisingUKvariant
         !SAvariant
         Tozinameran.!ImmuneEscape
-      -
+      - Severe Reaction
         Tozinameran.AnaphylaxisPEG
+        Tozinameran.!BellsPalsy
+
 
 
 
@@ -512,7 +630,6 @@ subject module Vaccines
           'Chu_et_al_02_09_2021.!a
           'Chu_et_al_02_09_2021.!b
 
-
     / Oxford–AstraZeneca
     subject AZD1222
       head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The Oxford-AstraZeneca vaccine has been authorized for use in UK, Argentina, India and El Salvador.
@@ -552,6 +669,8 @@ subject module Vaccines
         !Phase3
         !Phas3Dosing
         !PooledAnalysis
+      -
+        Tozinameran.!Scotland
       - Efficacy against UK Variant
         !VariantEfficacy
       - Efficacy against SA Variant
@@ -703,7 +822,6 @@ subject module Vaccines
           'Madhi_et_al_02_12_2021.!a
           'Madhi_et_al_02_12_2021.!b
           'Madhi_et_al_02_12_2021.!c
-
 
     / CanSino Bio
     subject Ad5-nCOV
@@ -1381,12 +1499,15 @@ subject module Vaccines
       Approved.Tozinameran.!Variantefficacy
       Approved.Tozinameran.!VariantEfficacySA
       Approved.Tozinameran.!ImmuneEscape
+      Approved.Tozinameran.!IsraelB117
+      Approved.Tozinameran.!PriorInfectionSingleDose.!SingleDose
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
       Approved.mRNA-1273.!AntibodyNeutralization
       Approved.mRNA-1273.!NeutralisingUKvariant
       Approved.mRNA-1273.!SAvariant
       Approved.Tozinameran.!ImmuneEscape
+      Approved.Tozinameran.!PriorInfectionSingleDose.!SingleDose
     - Oxford
       Approved.AZD1222.!VariantEfficacy
       Approved.AZD1222.!SAVariant
@@ -1491,11 +1612,13 @@ subject module Vaccines
       The limited availability of the two-dose mRNA vaccines has sparked an {!DelayedvsStandard ongoing debate} regarding delaying the second dose or following the standard regimen, to optimize the use of the currently available doses.
 
     > Single Dose Efficacy
-      Based on Pfizer vaccination data so far, a {Approved.Tozinameran.!Israelday13 single dose efficacy} 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen.
+      Based on <strong>Pfizer</strong> vaccination data so far, a {Approved.Tozinameran.!Israelday13 single dose efficacy} 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen. {Approved.Tozinameran.!Scotland National prospective cohort study in Scotland} comprising almost the entire Scottish population demonstrated vaccine efficacy of 85% for COVID-19 related hospitalisation
 
-      Efficacy for Moderna [after one dose](https://www.fda.gov/media/144434/download) was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose. One {Approved.Tozinameran.!Singledosemetastudy meta study} calculated that Pfizer dose 1 efficacy is likely to be near 82% and perhaps as high as 93% and Moderna vaccine dose 1 efficacy is likely to be between 88% and 94%.
+      Efficacy for <strong>Moderna</strong> [after one dose](https://www.fda.gov/media/144434/download) was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose. One {Approved.Tozinameran.!Singledosemetastudy meta study} calculated that Pfizer dose 1 efficacy is likely to be near 82% and perhaps as high as 93% and Moderna vaccine dose 1 efficacy is likely to be between 88% and 94%. {Approved.Tozinameran.!PriorInfectionSingleDose In previously infected individuals}, Single dose mRNA vaccine mounted robust antibody and T-cell responses
 
-      Vaccine efficacy after a {Approved.AZD1222.!PooledAnalysis single standard dose} of the AstraZeneca vaccine from day 22 to day 90 post vaccination was 76%.
+      Vaccine efficacy after a {Approved.AZD1222.!PooledAnalysis single standard dose} of the <strong>Oxford-AstraZeneca</strong> vaccine from day 22 to day 90 post vaccination was 76%. {Research.Feb2021.'Vasileiou_et_al_02_20_2020.!b National prospective cohort study in Scotland} showed Vaccine efficacy of 94% at 28-34 days post-vaccination.
+
+
 
       On December 30, 2020, the United Kingdom endorsed the delayed-second-dose approach. The [Joint Committee on Vaccination and Immunisation (UK)](https://www.gov.uk/government/publications/prioritising-the-first-covid-19-vaccine-dose-jcvi-statement/optimising-the-covid-19-vaccination-programme-for-maximum-short-term-impact) has expanded the timeframe for the second dose of the Pfizer/BioNTech mRNA vaccines from three weeks – to up to 12 weeks. On January 21, 2021, the [CDC](https://www.cdc.gov/vaccines/covid-19/info-by-product/clinical-considerations.html) liberalized its guidance regarding the timing of the second dose, saying for the first time that a delay of up to 6 weeks after dose one would be acceptable.
     # The World Health Organization recommends that the second dose of this vaccine be given no later than six weeks after the first, on the basis of available clinical-trial data.
