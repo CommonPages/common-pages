@@ -42,16 +42,42 @@ feed Sangeeta
 
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
+  // COVID-19 epidemic in the Brazilian state of Amazonas was driven by long-term persistence of endemic SARS-CoV-2 lineages and the recent emergence of the new Variant of Concern P.1
+  doi: 10.21203/rs.3.rs-275494/v1
+  ref 'Naveca_et_al_02_25_2021
+    head = The Northern Brazilian state of Amazonas is one of the most heavily affected country regions by the COVID-19 epidemic and experienced two exponential growing waves in early and late 2020. We did a genomic epidemiology study based on 250 SARS-CoV-2 genomes from different Amazonas municipalities sampled between March 2020 and January 2021.
+
+
+    > Abstract
+      The Northern Brazilian state of Amazonas is one of the most heavily affected country regions by the COVID-19 epidemic and experienced two exponential growing waves in early and late 2020. Through a genomic epidemiology study based on 250 SARS-CoV-2 genomes from different Amazonas municipalities sampled between March 2020 and January 2021 we revealed that the first exponential growth phase was driven mostly by the dissemination of lineage B.1.195 which was gradually replaced by lineage B.1.1.28. The second wave coincides with the emergence of the variant of concern (VOC) P.1 which evolved from a local B.1.1.28 clade in late November and rapidly replaced the parental lineage in less than two months. Our findings support that successive lineage replacements in Amazonas were driven by a complex combination of variable levels of social distancing measures and the emergence of a more transmissible VOC P.1 virus. These data provide unique insights to understanding the mechanisms that underlie the COVID-19 epidemic waves and the risk of disseminating SARS-CoV-2 VOC P.1 in Brazil and potentially worldwide.
 
     - quotes
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
 
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
+    / February, 2021 - Research Square
+    quote !a = The results revealed that the first exponential growth phase was driven mostly by the dissemination of lineage B.1.195 (that was the dominant variant at the first epidemic wave) which was gradually replaced by lineage B.1.1.28. Our analyses suggest that epidemiological rather than virological factors probably drove this first lineage replacement.
+
+    / February, 2021 - Research Square
+    quote !b = The second wave coincides with the emergence of the variant of concern (VOC) P.1 which evolved from a local B.1.1.28 clade in late November and rapidly replaced the parental lineage in less than two months.
+
+    / February, 2021 - Research Square
+    quote !c = Our findings support that successive lineage replacements in Amazonas were driven by a complex combination of variable levels of social distancing measures and the emergence of a more transmissible VOC P.1 virus.
+
+    / February, 2021 - Research Square
+    quote !d = The lack of efficient social distancing and other mitigation measures probably accelerated the early transmission of VOC P.1, while the high transmissibility of this VOC further fueled the rapid upsurge in SARS-CoV-2 cases and hospitalizations observed in Manaus following its emergence.
+
+    / February, 2021 - Research Square
+    quote !e =  This finding revealed that the diversity of SARS-CoV-2 variants carrying mutations of concern at the Spike protein in Manaus could be larger than initially described and that those variants probably circulated for some time before the expansion of lineage P.1. Although only the lineage P.1 seems to have displayed a rapid dissemination so far, our findings alert for the potential spread of other P.1-related VOC in the Amazonas state and for the importance of a continuous molecular surveillance system to track the viral diversity in real-time in Brazil.
+
+    / February, 2021 - Research Square
+    quote !f = These findings collectively support those lineage replacements could be a recurrent phenomenon in the local evolution of SARS-CoV-2 driven by ecological and virological factors.
+
+
 
 
   #

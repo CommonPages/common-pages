@@ -37,4 +37,21 @@ index: hide
     'Li_et_al_02_23_2021.!c
     'Li_et_al_02_23_2021.!d
     'Li_et_al_02_23_2021.!e
-    'Li_et_al_02_23_2021.!f  
+    'Li_et_al_02_23_2021.!f
+
+    
+  >
+    A comprehensive SARS-CoV-2 genomic investigation performed to date in the Brazilian state of Amazonas revealed that Covid-19 epidemic  was driven by long-term persistence of endemic SARS-CoV-2 lineages and the recent emergence of the new Variant of Concern P.1.
+
+    he feeble adoption of non-pharmaceutical interventions as it occurred in Amazonas and other Brazilian states represents a significant risk for the continuous emergence and dissemination of new variants.
+
+    the first exponential growth phase was driven mostly by the dissemination of lineage B.1.195 which was gradually replaced by lineage B.1.1.28. The second wave coincides with the emergence of the variant of concern (VOC) P.1 which evolved from a local B.1.1.28 clade in late November and rapidly replaced the parental lineage in less than two months.ur findings support that successive lineage replacements in Amazonas were driven by a complex combination of variable levels of social distancing measures and the emergence of a more transmissible VOC P.1 virus. These data provide unique insights to understanding the mechanisms that underlie the COVID-19 epidemic waves and the risk of disseminating SARS-CoV-2 VOC P.1 in Brazil and potentially worldwide.
+
+  -
+    'Naveca_et_al_02_25_2021
+    'Naveca_et_al_02_25_2021.!a
+    'Naveca_et_al_02_25_2021.!b
+    'Naveca_et_al_02_25_2021.!c
+    'Naveca_et_al_02_25_2021.!d
+    'Naveca_et_al_02_25_2021.!e
+    'Naveca_et_al_02_25_2021.!f
