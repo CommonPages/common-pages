@@ -84,16 +84,7 @@
         'Chen_et_al_01_13_2021.!c
 
 
-  claim !Singledose = A single study showed evidence that a single vaccine dose may be enough for those previously infected with SARS Cov-2
-    -
-      'Saadat_et_al_02_18_2021
-      'Saadat_et_al_02_18_2021.!a
-      'Saadat_et_al_02_18_2021.!b
-      'Saadat_et_al_02_18_2021.!c
-    # 1000 fold increase in neutralising antibodies to those previously infected with the virus
-    -
-      'Stamatatos_et_al_02_08_2021
-      'Stamatatos_et_al_02_08_2021.!a
+
 
 
   claim !ExpertRecommendation = Scientists have proposed interventions and provided recommendations for government to increase COVID-19 vaccination rates. Recommendations include using media to communicate campaigns which leveraging evidence of Vaccine effectiveness, Using behavioral insights to make vaccination more accessible & encourage early adopters communicate about their decision to take vaccine to accelerate the emergence of pro-vaccination norms.
@@ -117,6 +108,7 @@
       'Vasileiou_et_al_02_20_2020.!a
       'Vasileiou_et_al_02_20_2020.!b
       'Vasileiou_et_al_02_20_2020.!c
+  
 
   >
     A study in a nationwide mass vaccination setting estimates a high effectiveness of the BNT162b2 vaccine for preventing symptomatic Covid-19 in a noncontrolled setting and also suggests that effectiveness is high for the more serious outcomes: hospitalization, severe illness, and death., a finding consistent with that of the randomized trial.
@@ -210,3 +202,12 @@
     'Levi_et_al_02_06_2021.!a
     'Levi_et_al_02_06_2021.!b
     'Levi_et_al_02_06_2021.!c
+
+  # Single Dose Pfizer
+  -
+    'Jabal_et_al_02_10_2021
+    'Jabal_et_al_02_10_2021.!a
+    'Jabal_et_al_02_10_2021.!b
+    'Jabal_et_al_02_10_2021.!c
+    'Jabal_et_al_02_10_2021.!d
+    'Jabal_et_al_02_10_2021.!e

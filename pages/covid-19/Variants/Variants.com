@@ -481,7 +481,7 @@ subject Variants
       !Severity
       !SeverityHospitalizationDeath
     - Reinfection
-      !Reinfection
+      !Reinfection  
     - Vaccine related claims
       !Phase3trialConcern
       Variants.B1351.!Vaccineefficacy
@@ -495,7 +495,7 @@ subject Variants
       !PreexistingImmunity
 
     >
-      [Coronavirus outbreaks](https://cphpost.dk/?p=122479) occured in two schools and and eight daycare in Feb of 2020. At the last count the two schools had a total of 69 infections among staff and students, while up to 20 have been infected at the daycare institutions. Researchers have raised concern about infection of B117 among children which have not seen with the old variants.
+      [Coronavirus outbreaks](https://cphpost.dk/?p=122479) occured in two schools and and eight daycare in Feb of 2020. At the last count the two schools had a total of 69 infections among staff and students, while up to 20 have been infected at the daycare institutions. Researchers have raised concern about infection of B.1.1.7 among children which have not seen with the old variants.
     - Children
       !Children
     - Mutation

@@ -1,6 +1,7 @@
 feed Feb2021
 
   -
+    'Vasileiou_et_al_02_20_2020
     'Goyal_et_al_02_23_2021
     'FDA_et_al_02_24_2021
     'Zhou_et_al_02_17_2021
@@ -20,6 +21,39 @@ feed Feb2021
     'McCarthy_et_al_02_03_2021
     'Logunov_et_al_02_02_2021
     'Wu_et_al_02_03_2021
+
+  // Impact of age, ethnicity, sex and prior infection status on immunogenicity following a single dose of the BNT162b2 mRNA COVID-19 vaccine: real-world evidence from healthcare workers, Israel, December 2020 to January 2021
+  doi: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.6.2100096
+  ref 'Jabal_et_al_02_10_2021
+    head =  We present early results from vaccination in healthcare workers (HCWs) in Israel.
+
+
+    > Abstract
+      The coronavirus disease (COVID-19) pandemic, which started in 2019 in China, continues to spread, despite multiple lockdowns and prolonged control measures implemented in most countries. As at 25 January 2021, over 99 million cases and 2.1 million deaths were reported globally. In December 2020, several vaccine candidates were shown to be safe and efficacious in trials and mass vaccination (in combination with existing control measures) is seen as one of the central elements to controlling the pandemic. Although clinical trial data are encouraging, real-world evidence with regards to the vaccines remains scarce. In particular, describing immunogenicity and effectiveness among specific ethnic groups is important as the disease disproportionately affects certain ethnic minorities for reasons not fully understood but not fully attributable to socio-demographic factors. Likewise, the post-vaccination immune response among those previously infected remains unclear. Here we present early results from vaccination in healthcare workers (HCWs) in Israel.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / February, 2021 - Eurosurveillance
+    quote !a = A single dose of the BNT162b2 mRNA COVID19 vaccine was immunogenic in the vast majority (92%) of our study cohort 21 days post vaccination, a result compatible with trial data
+
+    / February, 2021 - Eurosurveillance
+    quote !b = Information on co-morbidities was not available and since the study population only includes HCWs, it may not be representative of the wider population: elderly individuals in particular are under-represented. Larger scale data should be analysed to confirm or refute such a possibility.
+
+    / February, 2021 - Eurosurveillance
+    quote !c = Vaccinating individuals with evidence of prior COVID-19 infection lead to a boost response, achieving IgG titres approximately one order of magnitude higher compared with naïve individuals.
+
+    / February, 2021 - Eurosurveillance
+    quote !d = Our study confirms recently published evidence suggesting that immune memory persists at least 6 months post infection. One single case in our cohort who showed a boost-type response almost 10 months after testing positive by PCR suggests this could be even longer.
+
+    / February, 2021 - Eurosurveillance
+    quote !e = A single dose of vaccine in these individuals seems to boost the response although the optimal timing between infection and vaccination as well as the ensuing duration of protection remain to be determined.
+
+
 
   // Effectiveness of First Dose of COVID-19 Vaccines Against Hospital Admissions in Scotland: National Prospective Cohort Study of 5.4 Million People
   doi: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789264
