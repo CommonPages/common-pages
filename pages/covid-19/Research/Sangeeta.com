@@ -1,17 +1,6 @@
 feed Sangeeta
   #
 
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -24,6 +13,225 @@ feed Sangeeta
 
     / December, 2020 - JAMA Netw Open.
     quote !a =
+
+
+  #
+  // A cautionary note on recall vaccination in ex-COVID-19 subjects
+  doi:  https://doi.org/10.1101/2021.02.01.21250923
+  ref 'Levi_et_al_02_06_2021
+    head = We tested the antibody response developed after the first dose of the mRNA based vaccine encoding the SARS-CoV-2 full-length spike protein (BNT162b2) in 124 healthcare professionals of which 57 had a previous history of COVID-19 (ExCOVID).
+
+    > Abstract
+      Currently approved COVID-19 vaccines based on mRNA or adenovirus require a first jab followed by recall immunization. There is no indication as to whether individuals who have recovered from COVID-19 should be vaccinated, and if so, if they should receive one or two vaccine doses. Here, we tested the antibody response developed after the first dose of the mRNA based vaccine encoding the SARS-CoV-2 full-length spike protein (BNT162b2) in 124 healthcare professionals of which 57 had a previous history of COVID-19 (ExCOVID). Post-vaccine antibodies in ExCOVID individuals increase exponentially within 7-15 days after the first dose compared to naïve subjects (p<0.0001). We developed a multivariate Linear Regression (LR) model with l2 regularization to predict the IgG response for SARS-COV-2 vaccine. We found that the antibody response of ExCOVID patients depends on the IgG pre-vaccine titer and on the symptoms that they developed during the disorder, with anosmia/dysgeusia and gastrointestinal disorders being the most significantly positively correlated in the LR. Thus, one vaccine dose is sufficient to induce a good antibody response in ExCOVID subjects. This poses caution for ExCOVID subjects to receive a second jab both because they may have a overreaction of the inflammatory response and also in light of the current vaccine shortage.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / February, 2021 - medRxiv
+    quote !a = Post-vaccine antibodies in ExCOVID individuals increase exponentially within 7-15 days after the first dose compared to naïve subjects (p<0.0001).
+
+    / February, 2021 - medRxiv
+    quote !b = The antibody response of ExCOVID patients depends on the IgG pre-vaccine titer and on the symptoms that they developed during the disorder, with anosmia/dysgeusia and gastrointestinal disorders being the most significantly positively correlated in the LR, while sore throat was negatively correlated because 45% non-COVID individuals reported it.
+
+    / February, 2021 - medRxiv
+    quote !c = One vaccine dose is sufficient to induce a good antibody response in ExCOVID subjects and poses caution for a second dose: over stimulation with high amount of antigens could switch-off the immune response due to antigen exhaustion, which occurs in response to several viruses. Alternatively, overactivation of the immune response may drive the development of low-affinity antibodies for SARS-CoV-2 which may foster an antibody dependent enhancement (ADE) reaction when re-exposed to the virus.
+
+
+    / February, 2021 - medRxiv
+    quote !d = Young subjects had a higher antibody response.
+
+    / February, 2021 - medRxiv
+    quote !a =
+
+    / February, 2021 - medRxiv
+    quote !a =
+
+    / February, 2021 - medRxiv
+    quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Robust spike antibody responses and increased reactogenicity in seropositive individuals after a single dose of SARS-CoV-2 mRNA
+  doi: https://doi.org/10.1101/2021.01.29.21250653
+  ref 'Krammer_et_al_02_01_2021
+    head = We describe the antibody responses in 109 individuals with and without documented pre-existing SARS-CoV-2 immunity (seronegative: 68, seropositive: 41) who received their first vaccine dose in 2020.
+
+    > Abstract
+      An important question is arising as COVID-19 vaccines are getting rolled out: Should individuals who already had a SARS-CoV-2 infection receive one or two shots of the currently authorized mRNA vaccines. In this short report, we show that the antibody response to the first vaccine dose in individuals with pre-existing immunity is equal to or even exceeds the titers found in naïve individuals after the second dose. We also show that the reactogenicity is significantly higher in individuals who have been infected with SARS-CoV-2 in the past. Changing the policy to give these individuals only one dose of vaccine would not negatively impact on their antibody titers, spare them from unnecessary pain and free up many urgently needed vaccine doses.
+
+    - quotes
+      !a
+      !b
+      !c
+
+
+    / February, 2021 - medRxiv
+    quote !a = Findings suggest that a single dose of mRNA vaccine elicits very rapid immune responses in seropositive individuals with post-vaccine antibody titers that are comparable to or exceed titers found in naïve individuals who received two vaccinations.
+
+    / February, 2021 - medRxiv
+    quote !b = We also noted that vaccine reactogenicity after the first dose is substantially more pronounced in individuals with pre-existing immunity akin to side-effects reported for the second dose in the phase III vaccine trials
+
+    # / February, 2021 - medRxiv
+    # quote !a = Changing the policy to give these individuals only one dose of vaccine would not negatively impact on their antibody titers, spare them from unnecessary pain and free up many urgently needed vaccine doses.
+
+    / February, 2021 - medRxiv
+    quote !c = These observations are in line with the first vaccine dose serving as boost in naturally infected individuals; providing a rationale for updating vaccine recommendations to considering a single vaccine dose to be sufficient to reach immunity.
+
+
+
+  #
+  // Poor antigen-specific responses to the second BNT162b2 mRNA vaccine dose in SARS-CoV-2-experienced individuals
+  doi: https://doi.org/10.1101/2021.02.07.21251311
+  ref 'Samanovic_et_al_02_09_2021
+    head = We evaluated immune responses in 32 subjects who received two-dose BNT162b2 mRNA vaccination. we observed robust antibody responses in individuals who were SARS-CoV-2-naive, with increases in total binding antibody titers, neutralizing antibody titers, and antigen-specific ASC following each dose of the vaccine
+
+    > Abstract
+      The advent of COVID-19 vaccines will play a major role in helping to end the pandemic that has killed millions worldwide. Vaccine candidates have demonstrated robust humoral responses and have protected against infection. However, efficacy trials were focused on individuals with no prior exposure to SARS-CoV-2, and, as a result, little is known about immune responses induced by these mRNA vaccines in individuals who recovered from COVID-19. Here, we evaluated immune responses in 32 subjects who received two-dose BNT162b2 mRNA vaccination. In individuals naive to SARS-CoV-2, we observed robust increases in humoral and antigen-specific antibody-secreting cell (ASC) responses following each dose of vaccine, whereas individuals with prior exposure to SARS-CoV-2 demonstrated strong humoral and antigen-specific ASC responses to the first dose but muted responses to the second dose of the vaccine for the time points studied. These data highlight an important gap in our knowledge and may have major implications for how these vaccines should be used to prevent COVID-19.
+
+    - quotes
+      !a
+
+    / February, 2021 - medRxiv
+    quote !a = In individuals naive to SARS-CoV-2, we observed robust increases in humoral and antigen-specific antibody-secreting cell (ASC) responses following each dose of vaccine, whereas individuals with prior exposure to SARS-CoV-2 demonstrated strong humoral and antigen-specific ASC responses to the first dose but did not respond as strongly following a second vaccine dose.
+
+
+
+  #
+  // Effect of previous SARS-CoV-2 infection on humoral and T-cell responses to single-dose BNT162b2 vaccine
+  doi: https://doi.org/10.1016/S0140-6736(21)00502-X
+  ref 'Prendecki_et_al_02_25_2021
+    head = We have investigated immunological responses to single-dose BNT162b2 using a combination of serology, live virus neutralisation, and T-cell enzyme-linked immunospot (ELISpot) assays. 72 HCWs from Imperial College Healthcare NHS Trust, who were vaccinated between Dec 23 and Dec 31, 2020, provided blood samples at the time of receiving their first dose of BNT162b2 vaccine and 21-25 days after vaccination.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / February, 2021 - The Lancet
+    quote !a = We show that individuals with previous SARS-CoV-2 infection generate strong humoral and cellular responses to one dose of BNT162b2 vaccine, with evidence of high titres of in-vitro live virus neutralisation. In contrast, most individuals who are infection-naive generate both weak T-cell responses and low titres of neutralising antibodies, which might not provide sufficient immunity to protect from clinical disease or viral shedding, and might not persist for a 12-week delay until second vaccine is administered.
+
+    # / February, 2021 - The Lancet
+    # quote !a = those with serological evidence of previous disease at baseline mount robust antibody and T-cell responses after a single dose of BNT162b2 vaccine. Conversely, some infection-naive individuals mount very little demonstrable response to single-dose vaccination, which might not provide sufficient immunity to protect from clinical disease or viral shedding, and might not persist for a 12-week delay until second vaccine is administered.
+
+    / February, 2021 - The Lancet
+    quote !b = One infection-naive individual included in our study developed symptomatic, PCR-proven infection 5 weeks after one dose of vaccine; notably, their anti-S titre post-vaccination was 61·8 AU/mL.
+
+    / February, 2021 - The Lancet
+    quote !c = We found median anti-S titres post-vaccination in the infection-cohort to be lower than those seen 2–8 weeks after natural infection alone, and this difference was particularly striking in those older than 50 years. Two participants did not seroconvert, and eight participants generated antibody titres less than 250 AU/mL, which might not be sufficient for any virus neutralisation based on correlation of virus neutralisation and anti-S titre in our study. All ten of these individuals were older than 50 years
+
+    / February, 2021 - The Lancet
+    quote !d = These results also highlight the need for continuing rigorous use of personal protective equipment after vaccination to prevent both infection and asymptomatic spread of disease.
+
+
+
+  #
+  // No higher infectivity but immune escape of SARS-CoV-2 501Y.V2 variants
+  doi: https://doi.org/10.1016/j.cell.2021.02.042
+  ref 'Li_et_al_02_23_2021
+    head = We here constructed 18 501Y.V2-related pseudoviruses using a VSV-based system, and systematically studied the effects of mutations on virus infectivity and antigenicity.
+
+    > Summary
+      The 501Y.V2 variants of SARS-CoV-2 containing multiple mutations in Spike are now dominant in South Africa and are rapidly spreading to other countries. Here, experiments with 18 pseudotyped viruses showed that the 501Y.V2 variants do not confer increased infectivity in multiple cell types except for murine ACE2-overexpressing cells, where a substantial increase in infectivity was observed. Notably, the susceptibility of the 501Y.V2 variants to 12 of 17 neutralizing monoclonal antibodies was substantially diminished, and the neutralization ability of the sera from convalescent patients and immunized mice was also reduced for these variants. The neutralization resistance was mainly caused by E484K and N501Y mutations in the receptor-binding domain of Spike. The enhanced infectivity in murine ACE2-overexpressing cells suggests the possibility of spillover of the 501Y.V2 variants to mice. Moreover, the neutralization resistance we detected for the 501Y.V2 variants suggests the potential for compromised efficacy of monoclonal antibodies and vaccines.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+
+
+    / February, 2021 - Cell
+    quote !a = Experiments with 18 pseudotyped viruses showed that the 501Y.V2 variants do not confer increased infectivity in multiple cell types except for murine ACE2-overexpressing cells, where a substantial increase in infectivity was observed (when compared with the reference 614G variant).
+
+    / February, 2021 - Cell
+    quote !b = The susceptibility of the 501Y.V2 variants to 12 of 17 neutralizing monoclonal antibodies was substantially diminished, and the neutralization ability of the sera from convalescent patients and immunized mice was also reduced for these variants.
+
+    / February, 2021 - Cell
+    quote !c = 501Y.V2 escaped neutralization by most of neutralizing monoclonal antibodies. 501Y.V2 significantly compromised the inhibitory effects of polyclonal antibodies.
+
+    / February, 2021 - Cell
+    quote !d = The neutralization resistance was mainly caused by E484K and N501Y mutations in the receptor-binding domain of Spike.
+
+    / February, 2021 - Cell
+    quote !e = The enhanced infectivity in murine ACE2-overexpressing cells suggests the possibility of spillover of the 501Y.V2 variants to mice, further extending the SARS-CoV-2 host range.
+
+    / February, 2021 - Cell
+    quote !f = The neutralization resistance we detected for the 501Y.V2 variants suggests the potential for compromised efficacy of monoclonal antibodies and vaccines.
+
+    / February, 2021 - Cell
+    quote !g = It also remains unclear whether the variants induce strong immune responses.
+
+
+
+  #
+  // BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Mass Vaccination Setting
+  doi: https://doi.org/10.1056/NEJMoa2101765
+  ref 'Dagan_et_al_02_24_2021
+    head = In this study, data from Israel’s largest health care organization were used to evaluate the effectiveness of the BNT162b2 mRNA vaccine. All persons who were newly vaccinated during the period from December 20, 2020, to February 1, 2021, were matched to unvaccinated controls in a 1:1 ratio according to demographic and clinical characteristics. Each study group included 596,618 persons.
+
+    > Background
+      As mass vaccination campaigns against coronavirus disease 2019 (Covid-19) commence worldwide, vaccine effectiveness needs to be assessed for a range of outcomes across diverse populations in a noncontrolled setting. In this study, data from Israel’s largest health care organization were used to evaluate the effectiveness of the BNT162b2 mRNA vaccine.
+
+    > Methods
+      All persons who were newly vaccinated during the period from December 20, 2020, to February 1, 2021, were matched to unvaccinated controls in a 1:1 ratio according to demographic and clinical characteristics. Study outcomes included documented infection with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), symptomatic Covid-19, Covid-19–related hospitalization, severe illness, and death. We estimated vaccine effectiveness for each outcome as one minus the risk ratio, using the Kaplan–Meier estimator.
+
+    > Results
+      Each study group included 596,618 persons. Estimated vaccine effectiveness for the study outcomes at days 14 through 20 after the first dose and at 7 or more days after the second dose was as follows: for documented infection, 46% (95% confidence interval [CI], 40 to 51) and 92% (95% CI, 88 to 95); for symptomatic Covid-19, 57% (95% CI, 50 to 63) and 94% (95% CI, 87 to 98); for hospitalization, 74% (95% CI, 56 to 86) and 87% (95% CI, 55 to 100); and for severe disease, 62% (95% CI, 39 to 80) and 92% (95% CI, 75 to 100), respectively. Estimated effectiveness in preventing death from Covid-19 was 72% (95% CI, 19 to 100) for days 14 through 20 after the first dose. Estimated effectiveness in specific subpopulations assessed for documented infection and symptomatic Covid-19 was consistent across age groups, with potentially slightly lower effectiveness in persons with multiple coexisting conditions.
+
+    > Conclusions
+      This study in a nationwide mass vaccination setting suggests that the BNT162b2 mRNA vaccine is effective for a wide range of Covid-19–related outcomes, a finding consistent with that of the randomized trial.
+
+    - quotes
+      !a
+    - 2nd dose
+      !b
+    - single dose
+      !c
+      !d
+    -
+      !e
+    - variant efficacy
+      !f
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !a = This study in a nationwide mass vaccination setting estimates a high effectiveness of the BNT162b2 vaccine for preventing symptomatic Covid-19 in a noncontrolled setting, similar to the vaccine efficacy reported in the randomized trial. Our study also suggests that effectiveness is high for the more serious outcomes: hospitalization, severe illness, and death. Furthermore, the estimated benefit increases in magnitude as time passes.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !b = Estimated vaccine effectiveness during the follow-up period starting 7 days after the second dose was 92% for documented infection, 94% for symptomatic Covid-19, 87% for hospitalization, and 92% for severe Covid-19.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !c = Estimated effectiveness during days 14 through 20 (after one dose) and days 21 through 27 (gradual shifting between the first and second vaccine doses) was 46% and 60% for documented infection, 57% and 66% for symptomatic Covid-19, 74% and 78% for hospitalization, 62% and 80% for severe Covid-19, and 72% and 84% for Covid-19–related death, respectively.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !d = Estimated effectiveness in preventing death from Covid-19 was 72% (95% CI, 19 to 100) for days 14 through 20 after the first dose.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !e = Estimated effectiveness in specific subpopulations assessed for documented infection and symptomatic Covid-19 was consistent across age groups, with potentially slightly lower effectiveness in persons with multiple coexisting conditions.
+
+    / February, 2021 - The New England Journal of Medicine
+    quote !f = During the study period, an increasing share of SARS-CoV-2 isolates in Israel — up to 80% in the days before data extraction — were of the B.1.1.7 variant. Thus, this study estimates an average effectiveness of the vaccine over multiple strains. Although we cannot provide a specific effectiveness estimate for the B.1.1.7 variant, the plateau observed during the later periods in the cumulative incidence curve for vaccinated persons suggests that the BNT162b2 vaccine is also effective for this variant, an observation consistent with previous reports that showed preserved neutralizing antibody titers. The B.1.351 variant was estimated to be rare in Israel at the time of data extraction.
+
 
 
 
@@ -1594,7 +1802,7 @@ feed Sangeeta
   # vaccine shortage
   // Single Dose Vaccination in Healthcare Workers Previously Infected with SARS-CoV-2
   doi: https://doi.org/10.1101/2021.01.30.21250843
-  ref 'Saadat_et_al_02_01_2021
+  ref 'Saadat_et_al_02_18_2021
     head = We studied antibody responses to a single dose of the Pfizer-BioNTech or Moderna vaccines in healthcare workers (HCW)(59 volunteers) with laboratory-confirmed COVID-19 infection and compared to them to antibody responses of HCW who were IgG negative to SARS-CoV-2 spike protein.
 
     > Abstract

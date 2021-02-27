@@ -505,9 +505,18 @@ feed Feb2021
 
     - quotes
       !a
+      !b
+      !c
 
     / February, 2021 - medRxiv
     quote !a = Immunization with either vaccine generated anamnestic B and CD4+ T cell responses and a 1000-fold increase in neutralizing antibody titers against both strains and SARS-CoV-1. Neutralization was likely due to anti-RBD and anti-S2 antibodies.
+
+    / February, 2021 - medRxiv
+    quote !b = Our results suggest that the observed increase in neutralizing antibody responses post-vaccination is primarily due to an increase in anti-RBD antibodies. The inability of an NTD-directed mAb to neutralize B.1.351 however, suggests anti-NTD neutralizing antibodies generated in response to infection with variants from early in the pandemic, may not be effective against emerging mutant variants.
+
+    / February, 2021 - medRxiv
+    quote !c = Our study strongly suggests that previously infected subjects will benefit from even a single immunization with either the Pfizer or Moderna vaccines. They also suggest that boosting pre-existing antibody responses to the spike protein will lead to significant increases in serum neutralizing antibody responses against vaccine-matched and emerging variants.
+
 
 
   // Oxford/AstraZeneca Covid-19 shot less effective against South African variant: study

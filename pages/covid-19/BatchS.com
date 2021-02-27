@@ -11,7 +11,62 @@
 
 
 
- 
+  >
+    We previously observed that anosmia/dysgeusia was associated with an increase of antibodies over time, independently of vaccination (Levi et al. submitted).
+
+
+  >
+    Over stimulation with high amount of antigens could switch-off the immune response due to antigen exhaustion, which occurs in response to several viruses. Alternatively, overactivation of the immune response may drive the development of low-affinity antibodies for SARS-CoV-2 which may foster an antibody dependent enhancement (ADE) reaction when re-exposed to the virus.
+    T-cell exhaustion: characteristics, causes and conversion.
+    Progress and Pitfalls in the Quest for Effective SARS-CoV-2 (COVID-19)
+
+  >
+    Successful phase 3 trial outcomes have been reported for numerous vaccines that induce robust humoral and cellular immune responses against the SARS-CoV-2 spike protein.
+    Safety and efficacy of the BNT162b2 mRNA Covid-19 vaccine.
+    Safety and immunogenicity of two RNA-based Covid-19 vaccine candidates
+    T cell and antibody responses induced by a single dose of ChAdOx1 nCoV-19 (AZD1222) vaccine in a phase 1/2 clinical trial.
+    Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine.
+    Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK.
+    BNT162b2 induces SARS-CoV-2-neutralising antibodies and T cells in humans.
+
+  >
+    To gain rapid control of accelerating cases and maximise public health impact, the UK Government has adopted the strategy of delaying second vaccination to 12 weeks. This policy has generated controversy, particularly among health-care workers (HCWs), the majority of whom have received BNT162b2 mRNA vaccine.
+
+  >
+    Limited data on immune responses to single-dose vaccination with BNT162b2 are available, and vaccine responses following previous natural infection have not been assessed in clinical trials.
+
+
+  >
+    Existing studies predicting risk of re-infection based on neutralising antibody titres, or longevity of immunological responses, are highly heterogeneous.
+  # -
+  #   Primary exposure to SARS-CoV-2 protects against reinfection in rhesus macaques.
+  #   Longitudinal observation and decline of neutralizing antibody responses in the three months following SARS-CoV-2 infection in humans.
+  #   Robust neutralizing antibodies to SARS-CoV-2 infection persist for months.
+  #   SARS-CoV-2 responsive T cell numbers are associated with protection from COVID-19: a prospective cohort study in keyworkers.
+  #   SARS-CoV-2 infection protects against rechallenge in rhesus macaques.
+
+  >
+    In keeping with published reports of other vaccines, serological response to BNT162b2 inversely correlates with age.
+
+    Factors that influence the immune response to vaccination.
+
+
+  >
+    Lineage B.1.1.7 (Variant of Concern 202012/01) is a new SARS-CoV-2 variant which was first sequenced in the UK in September 2020 before becoming the majority strain in the UK and spreading worldwide.The rapid spread of the B.1.1.7 variant results from increased transmissibility but the virological characteristics which underpin this advantage over other circulating strains remain unknown.
+
+  >
+    This differs from viruses with the D614G mutation in spike (S), whose global spread was at least partially accounted for by increased viral replication that was evident in HAE cultures,In infected individuals, a small but significant decrease in Ct values in G614 compared to D614 infections in the UK demonstrated increased viral load for variants carrying D614G (Volz, Hill, et al., 2021).
+
+  >
+    For B.1.1.7, early analysis using the number of mapped sequencing reads or Ct values as proxies for viral load suggested an increased viral burden associated with B.1.1.7 infection (Golubchik et al., 2021; Kidd et al., 2020) but more recent reports show no such association at either the population level or longitudinally in individuals (Kissler et al., 2021; Walker et al., 2021). The more recent reports and our data suggest there is no clear replicative advantage for B.1.1.7 in vitro or at the population level.
+
+
+
+
+
+
+
+
 
 
 
