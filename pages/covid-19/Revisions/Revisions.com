@@ -6,7 +6,7 @@ revision feed Revisions
   public: February-26-2021
   / February 26, 2021
   revision February_26
-    head = We've added claims  immune responses induced by these mRNA vaccines in individuals who recovered from COVID-19. Single dose mRNA mounts robust antibody and T-Cell responses. We have also updated real evidence data (Pfizer and Oxford) of Israel and Scotland and findings on severe reaction (Bells Palsy) for Pfizer vaccine.
+    head = We've added claims regarding immune responses induced by mRNA vaccines in individuals who have recovered from COVID-19. Single dose mRNA vaccination mounts robust antibody and T-Cell responses. We have also updated evidence for the Pfizer and Oxford vaccines from Israel and Scotland, and findings on severe reactions (Bells Palsy) for the Pfizer vaccine.
     -
       Vaccines.Approved.Tozinameran
       Vaccines.Approved.Tozinameran.!Singledosemetastudy

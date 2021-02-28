@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Pfizer first posted clinical trials in April of 2020. Interim trial reports and real world data have shown favorable safety and efficacy (95%). It has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appear to be a rare event. An efficacy drop off is observed against new strains & more so for B.1.351 (identified in SA).
+      head = Pfizer first posted clinical trials in April of 2020. Interim trial reports and real world data have shown favorable safety and efficacy (95%). It has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351.
 
       >
         Tozinameran is a COVID-19 vaccine developed by [BioNTech](https://biontech.de/) and manufactured and distributed by [Pfizer](https://www.pfizer.com/), which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the {Virus.Structure spike protein} of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
@@ -317,8 +317,8 @@ subject module Vaccines
             'Shimabukuro_et_al_01_21_2021
             'Shimabukuro_et_al_01_21_2021.!b
 
-      / Real-world evidence: Israel
-      claim !Israel = In Feb of 2021, researchers provided an estimate for the pfizer vaccine effectiveness based on vaccination in Israel. 1st dose, the analysis shows effectiveness of 72% in reducing SARS-CoV-2 positive cases (symptomatic and asymptomatic), 83% reduction of COVID-19 hospitalizations and 86% reduction in severe cases in 60 years and older individuals the second week after the 2nd dose. On weeks 3-4 after the 2nd dose, vaccine effectiveness reached 95%+. Authors concluded that high effectiveness of the vaccine only starts after three weeks, which coincides with the administration of the 2nd dose.
+      / Real-world Evidence: Israel
+      claim !Israel = In Feb of 2021, researchers provided an estimate of Pfizer vaccine effectiveness from Israel. Analysis shows a first dose effectiveness of 72% in reducing SARS-CoV-2 positive cases (symptomatic and asymptomatic), 83% reduction of COVID-19 hospitalizations and 86% reduction in severe cases in 60 years and older individuals the second week after the 2nd dose. On weeks 3-4 after the 2nd dose, vaccine effectiveness reached 95%+. Authors concluded that high effectiveness of the vaccine only starts after three weeks, which coincides with the administration of the 2nd dose.
         -
           'Aran_et_al_02_19_2021
           'Aran_et_al_02_19_2021.!a
@@ -372,7 +372,7 @@ subject module Vaccines
           'Dagan_et_al_02_24_2021.
           'Dagan_et_al_02_24_2021.!e
 
-      claim !Singledosemetastudy = One study calculated that Pfizer dose 1 efficacy is likely to be near 82% and perhaps as high as 93% and Moderna vaccine dose 1 efficacy is likely to be between 88% and 94%. Confidence interval data was not be calculated. Authors recognized the evidence for COVID-19 vaccine deferred boost timing and suggests the use of a 3 to 5 month dose 2 boost schedule to minimize hospitalizations and deaths.
+      claim !Singledosemetastudy = One study calculated that Pfizer dose 1 efficacy is likely to be near 82% and perhaps as high as 93% and Moderna vaccine dose 1 efficacy is likely to be between 88% and 94%. Confidence interval data was not calculated. Authors recognized the evidence for COVID-19 vaccine deferred boost timing and suggest the use of a 3 to 5 month dose, 2 boost schedule to minimize hospitalizations and deaths.
         -
           'Epperly_et_al_01_11_2021
           'Epperly_et_al_01_11_2021.!a
@@ -384,7 +384,7 @@ subject module Vaccines
           'Epperly_et_al_01_11_2021.!g
           'Epperly_et_al_01_11_2021.!h
 
-      / Old people
+      / Old People
       claim !OldAge = Real world immune responses following vaccination with mRNA-based vaccine BNT162b2 showed a high proportion of individuals above the age of 80 have suboptimal neutralising antibody responses following first dose vaccination with BNT162b2, and that the second dose is associated with robust neutralising responses.
         -
           'Collier_et_al_02_20_2021
@@ -401,15 +401,15 @@ subject module Vaccines
           'Garcia-Beltran_et_al_02_18_2021.!a
           'Garcia-Beltran_et_al_02_18_2021.!b
 
-      claim !BellsPalsy = Researchers have called for robust surveillance for potential mRNA vaccine-associated Bell's palsy. Authors reported the estimated incidence rate of Bell's palsy in the general population ranges from 15 to 30 cases per 100000 person-years. Authors concluded that Bell's palsy usually self-resolves and despite the occurrence, the available coronavirus mRNA vaccines offer a substantial net benefit to public health.
+      claim !BellsPalsy = Researchers have called for robust surveillance for potential mRNA vaccine-associated Bell's palsy. Authors reported the estimated incidence rate of Bell's palsy in the general population ranges from 15 to 30 cases per 100,000 person-years. Authors concluded that Bell's palsy usually self-resolves and despite the occurrence, and the available coronavirus mRNA vaccines offer a substantial net benefit to public health.
         -
           'Ozonoff_et_al_02_24_2021
           'Ozonoff_et_al_02_24_2021.!a
           'Ozonoff_et_al_02_24_2021.!b
           'Ozonoff_et_al_02_24_2021.!c
 
-      / Real-world evidence: Scotland
-      claim !Scotland = National prospective cohort study comprising almost the entire Scottish population demonstrated that a single dose of either the BNT162b2 mRNA or ChAdOx1 vaccines was associated with substantial protection against COVID-19 hospitalisation. Peak VEs of 85% for the BNT162b2 vaccine and 94% for the ChAdOx1 vaccine were found against COVID-19 related hospitalisations. In the oldest age group (≥80 years), based on a pooled analysis for both vaccines, peak VE of 81% was observed. VE tended to increase over time after the first dose for this age group, with the optimal time being >28 days.
+      / Real-world Evidence: Scotland
+      claim !Scotland = A national prospective cohort study comprising almost the entire Scottish population demonstrated that a single dose of either the BNT162b2 mRNA or ChAdOx1 vaccines was associated with substantial protection against COVID-19 hospitalisation. Peak VEs of 85% for the BNT162b2 vaccine and 94% for the ChAdOx1 vaccine were found against COVID-19 related hospitalisations. In the oldest age group (≥80 years), based on a pooled analysis for both vaccines, peak VE of 81% was observed. VE tended to increase over time after the first dose for this age group, with the optimal time being >28 days.
         -
           'Vasileiou_et_al_02_20_2020
           'Vasileiou_et_al_02_20_2020.!a
@@ -421,8 +421,8 @@ subject module Vaccines
           'Dagan_et_al_02_24_2021
           'Dagan_et_al_02_24_2021.!f
 
-      / Single dose for previously infected with Covid-19
-      claim !PriorInfectionSingleDose = In previously infected individuals, studies found a roboust antibody and T-cell responses after a single dose of mRNA vaccines suggesting that subjects will benefit from even a single immunization. Reactogenicity was substantially more pronounced with pre-existing immunity. Booster dose of Pfizer vaccine didn't mount strong immune response. Authors cautioned about over-stimulation and overactivation with the use of 2nd dose mRNA vaccine.
+      / Single Dose for Previously Infected Individuals
+      claim !PriorInfectionSingleDose = In previously infected individuals, studies found a roboust antibody and T-cell responses after a single dose of mRNA vaccines suggesting that subjects will benefit from even a single immunization. Reactogenicity was substantially more pronounced with pre-existing immunity. A booster dose of Pfizer vaccine didn't mount a strong immune response. Authors cautioned about over-stimulation and overactivation with the use of 2nd dose mRNA vaccine.
 
         claim !SingleDose = Multiple studies suggests that previously infected subjects will benefit from even a single immunization with either the Pfizer or Moderna vaccines. Individuals with previous SARS-CoV-2 infection mounted robust antibody and T-cell responses after a single dose of mRNA vaccines. One study showed a 1000-fold increase in neutralizing antibody titers against both strains (Wuhan-Hu-1 strain and a variant, B.1.351 from South Africa.) and SARS-CoV-1.
           -
@@ -463,7 +463,7 @@ subject module Vaccines
             'Levi_et_al_02_06_2021.!b
             'Levi_et_al_02_06_2021.!c
 
-      claim !SingleDoseHumoralPfizer = In one study, some infection-naive individuals generated both weak T-cell responses and low titres of neutralising antibodies, and might not persist for a 12-week delay until second vaccine is administered. Authors also found median anti-S titres post-vaccination in the infection-cohort to be lower than those seen 2–8 weeks after natural infection alone, and this difference was particularly striking in those older than 50 years.
+      claim !SingleDoseHumoralPfizer = In one study, some infection-naive individuals generated both weak T-cell responses and low titres of neutralising antibodies, and might not persist for a 12-week delay until a second dose is administered. Authors also found median anti-S titres post-vaccination in the infection-cohort to be lower than those seen 2–8 weeks after natural infection alone, and this difference was particularly striking in those older than 50 years.
         -
           'Prendecki_et_al_02_25_2021
           'Prendecki_et_al_02_25_2021.!a
