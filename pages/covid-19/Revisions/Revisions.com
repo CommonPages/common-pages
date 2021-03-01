@@ -93,7 +93,7 @@ revision feed Revisions
     - see
       Vaccines.Approved.mRNA-1273.!Durability
       Vaccines.Approved.CoronaVac.!Phase3Brazil
-      Vaccines.Candidates.Ad26COV2S.!InterimResults
+      Vaccines.Approved.Ad26COV2S.!InterimResults
       Vaccines.Triage.!CautionNSAID
 
   public: january-16-2021

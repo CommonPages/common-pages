@@ -1,7 +1,7 @@
 @sangeetamotiani
 @ayushanand
 subject module Vaccines
-  head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. Eight vaccines have been approved for emergency use, though none have yet completed clinical trials.
+  head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. 11 vaccines have been approved for emergency use. Efficacy dropoff has been observed against newer strains more so for B.1.351 (Identified in South Aftica).
 
   -
     Approved
@@ -476,7 +476,7 @@ subject module Vaccines
 
     / Moderna
     subject mRNA-1273
-      head = Moderna first posted phase 3 interim results in November of 2020. The Phase 3 clinical trial will not complete until 2022, but has already reported   favorable safety and 94% efficacy against symptomatic COVID-19. The Moderna vaccine has been approved for emergency use in USA and Canada.
+      head = Moderna first posted phase 3 interim results in November of 2020. The Phase 3 clinical trial will not complete until 2022, but has already reported   favorable safety and 94% efficacy against symptomatic COVID-19. As of Feb of 2021, the Moderna vaccine has been approved for emergency use in 8 countries. Reduced neutralization against newer strains has been observed (more so for B.1.351).
 
       >
         The lipid nanoparticle mRNA-1273 vaccine developed by [Moderna](https://www.modernatx.com/) uses a platform based on an mRNA biologic process that uses a cell’s natural physiology to create SARS-CoV-2 {Virus.Structure spike protein} that elicit an immune response to protect against infection.
@@ -632,7 +632,7 @@ subject module Vaccines
 
     / Oxford–AstraZeneca
     subject AZD1222
-      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The Oxford-AstraZeneca vaccine has been authorized for use in UK, Argentina, India and El Salvador.
+      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown to offer limited protection against mild disease caused by the B.1.351 Variant. As of Feb 2021, The Oxford-AstraZeneca vaccine has been authorized for emergency use in 27 countries.
 
       >
         Oxford–AstraZeneca is a COVID-19 vaccine candidate developed by University of Oxford, UK, and the pharmaceutical firm [AstraZeneca](https://www.astrazeneca.com/) in Cambridge, UK. It is given by intramuscular injection, using as a vector the modified chimpanzee adenovirus ChAdOx1.
@@ -825,7 +825,7 @@ subject module Vaccines
 
     / CanSino Bio
     subject Ad5-nCOV
-      head = In July 2020, phase 2 trials demonstrated the AD5-nCOV (trade-named Convidicea) produced a strong immune response. CanSino Bio is running Phase 3 trials in a number of countries, including Pakistan, Russia, Mexico and Chile, and are estimated to complete in January of 2022. The vaccine has been approved for emergency use in China. Some researchers have raised concerns that the vaccine may increase the risk of HIV-1 acquisition among men.
+      head = In July 2020, phase 2 trials demonstrated the AD5-nCOV (trade-named Convidicea) produced a strong immune response. CanSino Bio is running Phase 3 trials in a number of countries, including Pakistan, Russia, Mexico and Chile, and are estimated to complete in January of 2022. In February 2021, interim analysis from global trials showed an efficacy of 65.7% against moderate cases of COVID-19 and 90.98% efficacy against severe cases. The vaccine has been approved for emergency use in China, Pakistan and Mexico.
 
       >
         AD5-nCOV, trade-named Convidicea, is being developed by Chinese biopharmaceutical company [CanSino Biologics](https://en.wikipedia.org/wiki/CanSino_Biologics). Ad5-nCoV is using Viral Vector, Recombinant adenovirus.
@@ -885,6 +885,11 @@ subject module Vaccines
           'Zhu_et_al_07_20_2020.!a
           'Zhu_et_al_07_20_2020.!b
           'Zhu_et_al_07_20_2020.!c
+
+      / Phase 3
+      claim !Phase3 = In February 2021, interim analysis from global trials showed an efficacy of 65.7% against moderate cases of COVID-19 and 90.98% efficacy against severe cases
+        -
+          'Peshimam_et_al_02_08_2021
 
       claim !Olderpeople = The same study also reported that Adenovirus 5 vector-based vaccine had reduced reactogenicity in adults aged 55 years and older compared with adults aged 18–54 years after a single dose of vaccine, although immunogenicity was concurrently reduced in this older age group.
         -
@@ -999,7 +1004,7 @@ subject module Vaccines
 
     / Sputnik V
     subject Gam-COVID-Vac
-      head =  Sputnik V Phase 3 trials are currently ongoing. Interim data was released in November of 2020. Efficacy amounted to 92%. No unexpected adverse events were reported during the trials. Sputnik V has been approved for emergency use in Russia, Belarus & Argentina.
+      head =  Sputnik V Phase 3 trials are currently ongoing. Phase 3 trial results were published in Feb of 2021. The vaccine showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort. As of Feb of 2021 Sputnik V has been approved for emergency use in 34 countries.
 
       >
         [Sputnik V](https://sputnikvaccine.com/), is a Non-replicating viral vector. [Gam-COVID-Vac](https://en.wikipedia.org/wiki/Gam-COVID-Vac) is a viral two-vector vaccine based on two human adenoviruses — a common cold virus — containing the gene that encodes the {Virus.Structure spike protein} (S) of SARS-CoV-2 to stimulate an immune response. The recombinant adenovirus type-26 (rAd26, component I) and adenovirus type-5 (rAd5, Component II) are both used as vectors in the vaccine. They were biotechnology-derived and contain the SARS-CoV-2 S protein gene. Both of them are administered intramuscularly: the Ad26 based vaccine is used on the first day and the Ad5 vaccine is used on the 21st day to boost response.
@@ -1068,7 +1073,7 @@ subject module Vaccines
 
     / Sinovac
     subject CoronaVac
-      head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. In Jan of 2021, Brazil announced that Sinovac has an efficacy rate just over 50 percent. Sinovac is approved for use in China.
+      head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. In Jan of 2021, Brazil announced that Sinovac has an efficacy rate just over 50 percent. As of Feb of 2021, Sinovac is approved for emergency use in 15 Countries.
 
       >
         CoronaVac is developed by the Chinese biopharmaceutical company [Sinovac](http://www.sinovac.com/).  The vaccine contains chemically-inactivated whole SARS-CoV-2 virus.
@@ -1131,7 +1136,7 @@ subject module Vaccines
 
     / Sinopharm
     subject Sinopharm
-      head = The Sinopharm vaccine for SARS-CoV-2 is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants. Sinopharm has announced that the vaccine has an efficacy of 79.34%. It has been approved for use in the UAE, Bahrain and China.
+      head = The Sinopharm vaccine for SARS-CoV-2 is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants. Sinopharm has announced that the vaccine has an efficacy of 79.34%. As of Feb of 2021, it has been approved for use in 17 countries.
 
       >
         <table>
@@ -1277,13 +1282,9 @@ subject module Vaccines
           'Sapkal_et_al_01_27_2021
           'Sapkal_et_al_01_27_2021.!a
 
-  / Candidate Vaccines
-  subject Candidates
-    head = There are several candidates of vaccines which are in phase 1 & 3 trials. Some of them have shown promising results and awaiting approval for emergency use.
-
     / Johnson & Johnson
     subject Ad26COV2S
-      head = In Phase 1 & 2, trials authors reported favorable safety profile and immunogenicity for further clinical development. Phase 3 trials started in September of 2020 and is currently ongoing in  US, Argentina, Brazil, Chile, Colombia, Mexico, Peru, Philippines, South Africa and Ukraine.
+      head = In Phase 1 & 2, trials authors reported favorable safety profile and immunogenicity for further clinical development. Phase 3 trials started in September of 2020 and is currently ongoing. In interim analysis, the single shot vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa. As of Feb of 2021, single shot J&J Vaccine has been approved for emergency use in USA, Baharain and South Africa.
 
       >
         [Janssen Pharmaceutica](https://www.janssen.com/) (Johnson & Johnson), BIDMC" is using non replicating viral vector. The Johnson & Johnson vaccine uses double-stranded DNA and is based on the virus’s genetic instructions for building the {Virus.Structure spike protein}. The researchers added the gene for the coronavirus spike protein to another virus called Adenovirus 26.
@@ -1369,9 +1370,13 @@ subject module Vaccines
           'J&J_et_al_01_29_2021.!c
           'J&J_et_al_01_29_2021.!d
 
+  / Candidate Vaccines
+  subject Candidates
+    head = There are several candidates of vaccines which are in phase 1 & 3 trials. Some of them have shown promising results and awaiting approval for emergency use.
+
     / Novavax
     subject NVX-CoV2373
-      head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum. Novavax Phase 3 trials are currently ongoing in UK, US and Mexico.
+      head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum. Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and SA variants. Novavax Phase 3 trials are currently ongoing in UK, US and Mexico.
 
       >
         NVX-CoV2373 [Novavax](https://www.novavax.com/) is a protein subunit vaccine that contains the {Virus.Structure spike protein} of the SARS-CoV-2 molecule. NVX-CoV2373 is SARS-CoV-2 recombinant spike protein nanoparticle with adjuvant.
@@ -1456,9 +1461,9 @@ subject module Vaccines
         No hospitalisation or Death in SA</td>
         </tr>
         <tr>
-        <th>{Candidates.Ad26COV2S J&J}</th>
+        <th>{Approved.Ad26COV2S J&J}</th>
         <td>10,900</td>
-        <td>{Candidates.Ad26COV2S.!SAVariant 57% Efficacy} (72% in US, D614G)
+        <td>{Approved.Ad26COV2S.!SAVariant 57% Efficacy} (72% in US, D614G)
         No hospitalisation or death in SA</td>
         </tr>
         <tr>
@@ -1517,13 +1522,14 @@ subject module Vaccines
     - Novavax
       Candidates.NVX-CoV2373.!UKandSAvariant
     - Johnson & Johnson
-      Candidates.Ad26COV2S.!SAVariant
+      Approved.Ad26COV2S.!SAVariant
     - Other Claims (UK Variant)
       Variants.B117.!Phase3trialConcern
       Variants.B117.!VaccineEffectiveness
     - Other Claims (SA Variant)
       Variants.B1351.!Reinfection
       Variants.B1351.!ProtectionagainstB1351
+      Variants.B1351.!ImmuneEscapeInfectivity
     - Key Concern
       Variants.B1351.!Neutralizingescape
       Variants.B1351.!RecurrentDeletion
@@ -1814,7 +1820,7 @@ subject module Vaccines
         Approved.Ad5-nCOV
         Approved.Gam-COVID-Vac
         Approved.AZD1222
-        Candidates.Ad26COV2S
+        Approved.Ad26COV2S
 
 
       # For some diseases Viral vectors are used in combination with other vaccine technologies in a strategy called heterologous prime-boost. In this system, one vaccine is given as a priming step, followed by vaccination using an alternative vaccine as a booster. The heterologous prime-boost strategy aims to provide a stronger overall immune response. Viral vector vaccines are being pursued as both prime and boost vaccines as part of this strategy.

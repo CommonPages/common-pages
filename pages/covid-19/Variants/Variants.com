@@ -2,7 +2,7 @@
 @ayushanand
 / Mutations and Variants
 subject Variants
-  head = Multiple strains of SARS-CoV-2 were identified as early as March of 2020, though their functional differences were not clear. Many of variants that have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of interest to scientists. There is no evidence that any are more lethal, but a number are likely more transmissible. The effectiveness of vaccines against these new strains is not yet clear.
+  head = Multiple strains of SARS-CoV-2 were identified as early as March of 2020, though their functional differences were not clear. Many of variants that have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of interest to scientists. There is evidence that some of the strains are more lethal, and a number are likely more transmissible. The vaccine efficacy drop off has been observed against newer strains. 
 
   -
     D614
@@ -847,12 +847,14 @@ subject Variants
 
     - Transmission
       !Transmission
+      !ImmuneEscapeInfectivity
+      !TransmissionMice
     - Severity
       !Severity
     - Vaccine Related claims
       Variants.B117.!Pfizer
       Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant
-      Vaccines.Candidates.Ad26COV2S.!SAVariant
+      Vaccines.Approved.Ad26COV2S.!SAVariant
       Vaccines.Approved.AZD1222.!SAVariant
       Vaccines.Approved.AZD1222.!SAVariantEfficacy
       Vaccines.Approved.Tozinameran.!VariantEfficacySA
@@ -864,6 +866,7 @@ subject Variants
       !Neutralizingescape
       !RecurrentDeletion
       !ProtectionagainstB1351
+      !ImmuneEscapeInfectivity
     - Pre Existing Immunity
       !PreexistingImmunity
     - Treatment
@@ -971,6 +974,24 @@ subject Variants
         'Zhou_et_al_02_17_2021.!c
         'Zhou_et_al_02_17_2021.!d
 
+    claim !ImmuneEscapeInfectivity = One study found that the infectivity of the 501Y.V2 variants in human receptor cells did not change significantly, but did alter antigenicity. Neutralizing activity of multiple RBD-targeting monoclonal antibodies & Polyclonal antibodies were decreased.
+      -
+        'Li_et_al_02_18_2021
+        'Li_et_al_02_18_2021.!a
+        'Li_et_al_02_18_2021.!b
+
+        'Li_et_al_02_18_2021.!d
+        'Li_et_al_02_18_2021.!e
+        'Li_et_al_02_18_2021.!f
+        'Li_et_al_02_18_2021.!g
+        'Li_et_al_02_18_2021.!h
+
+
+    claim !TransmissionMice = One study found that RBD mutations led to significantly higher viral infection in HEK293T cells expressing the murine ortholog of ACE2. Authors quoted that B.1.351 lineage could be transmitted to mice.
+      -
+        'Li_et_al_02_18_2021
+        'Li_et_al_02_18_2021.!c
+
 
   / P1 (Identified in Brazil)
   subject P1Variant
@@ -999,7 +1020,7 @@ subject Variants
         <td>L18F, T20N, P26S, D138Y, R190S, H655Y, T10271 </td>
         <tr>
         <th>Transmissibility</th>
-        <td> No </td>
+        <td> No</td>
         </tr>
         <tr>
         <th>Severity</th>
@@ -1024,7 +1045,7 @@ subject Variants
 
       </table>
 
-    -
+    - Triage
       'Faria_et_al_01_12_2021
       'Faria_et_al_01_12_2021.!a
       'Faria_et_al_01_12_2021.!b
@@ -1035,10 +1056,17 @@ subject Variants
       'Faria_et_al_01_12_2021.!g
       'Faria_et_al_01_12_2021.!h
       'Faria_et_al_01_12_2021.!i
-
     - Neutralization resistance
       'Wibmer_et_al_01_19_2021
       'Wibmer_et_al_01_19_2021.!d
+    -
+      'Naveca_et_al_02_25_2021
+      'Naveca_et_al_02_25_2021.!a
+      'Naveca_et_al_02_25_2021.!b
+      'Naveca_et_al_02_25_2021.!c
+      'Naveca_et_al_02_25_2021.!d
+      'Naveca_et_al_02_25_2021.!e
+      'Naveca_et_al_02_25_2021.!f
 
   / CAL.20C (Identified in California)
   subject CAL20C

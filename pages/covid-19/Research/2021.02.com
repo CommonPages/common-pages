@@ -22,6 +22,29 @@ feed Feb2021
     'Logunov_et_al_02_02_2021
     'Wu_et_al_02_03_2021
 
+  // DUMMY TITLE
+  doi: https://doi.org/xyz
+  ref 'Xiao_et_al_02_20_2020
+    head =
+
+    - quotes
+      !a
+
+    / February, 2020 - bioRxiv
+    quote !a =
+
+
+  // CanSinoBIO's COVID-19 vaccine 65.7% effective in global trials, Pakistan official says
+  doi: https://www.reuters.com/article/us-health-coronavirus-vaccine-pakistan/cansinobios-covid-19-vaccine-657-effective-in-global-trials-pakistan-official-says-idUSKBN2A81N0
+  ref 'Peshimam_et_al_02_08_2021
+    head = CanSino Biologics Inc’s (CanSinoBIO) COVID-19 vaccine showed 65.7% efficacy in preventing symptomatic cases and a 90.98% success rate in stopping severe disease in an interim analysis of global trials, Pakistan’s health minister said on Monday.
+
+    - quotes
+      !a
+
+    / February, 2021 - Reuters
+    quote !a =
+
   // Impact of age, ethnicity, sex and prior infection status on immunogenicity following a single dose of the BNT162b2 mRNA COVID-19 vaccine: real-world evidence from healthcare workers, Israel, December 2020 to January 2021
   doi: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.6.2100096
   ref 'Jabal_et_al_02_10_2021
@@ -249,9 +272,7 @@ feed Feb2021
     quote !g = The 501Y.V2 variants showed no obvious changes in infectivity SARS-CoV-2-susceptible cell lines. However, RBD mutations led to significantly higher viral infection in HEK293T cells expressing the murine ortholog of ACE2 .
 
     / February, 2021 - Cell
-    quote !h = mutation of three amino acids in the RBD of the 501Y.V2 variants decreased sensitivity to neutralization by SARS-CoV-2 convalescent sera and RBD-immunized sera, while mutations outside of the RBD had minimal effects on viral infectivity and antigenicity.
-
-
+    quote !h = Mutation of three amino acids in the RBD of the 501Y.V2 variants decreased sensitivity to neutralization by SARS-CoV-2 convalescent sera and RBD-immunized sera, while mutations outside of the RBD had minimal effects on viral infectivity and antigenicity.
 
 
 
