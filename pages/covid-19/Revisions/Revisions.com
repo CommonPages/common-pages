@@ -1,7 +1,13 @@
 
-/ Revision Feed
+# / Revision Feed
 revision feed Revisions
-  head = The first draft of Common COVID-19 was published on November 21, 2020. It has received nine major revisions, expanding the subjects covered and correcting existing claims.
+  let *living_document mean assets.Community
+  let *contribute mean assets.Contribute
+  let *February_26 mean February_26
+  let *February_23 mean February_23
+  let *February_22 mean February_22
+
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *February_26 and *February_23). You can *contribute by sending corrections and responding to open questions.
 
   public: February-26-2021
   / February 26, 2021

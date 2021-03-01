@@ -1,7 +1,7 @@
 @sangeetamotiani
 @ayushanand
 subject module Vaccines
-  head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. 11 vaccines have been approved for emergency use. Efficacy dropoff has been observed against newer strains more so for B.1.351 (Identified in South Aftica).
+  head = By mid-December 2020, 57 vaccine candidates were in clinical research, including 40 in Phase I–II trials and 17 in Phase II–III trials. In Phase III trials, several COVID-19 vaccines demonstrated efficacy as high as 95% in preventing symptomatic COVID-19 infections. However, an efficacy dropoff has been observed against some newer strains. 11 vaccines are currently approved for emergency use.
 
   -
     Approved
@@ -19,7 +19,7 @@ subject module Vaccines
 
   / Approved Vaccines
   subject Approved
-    head = To date there are eight COVID-19 vaccines that have been approved for emergency use. Approvals vary by country and vaccine availability is low. The vaccines have been approved on the basis of efficacy and acceptable safety profiles, though none have completed clinical trials.
+    head = To date there are 11 COVID-19 vaccines that have been approved for emergency use. Approvals vary by country and vaccine availability is low. The vaccines have been approved on the basis of efficacy and acceptable safety profiles, though none have completed clinical trials.
 
     / Pfizer
     subject Tozinameran
@@ -1370,16 +1370,22 @@ subject module Vaccines
           'J&J_et_al_01_29_2021.!c
           'J&J_et_al_01_29_2021.!d
 
+    —
+    subject EpiVacCorona
+
+    —
+    subject CoviVac
+
   / Candidate Vaccines
   subject Candidates
-    head = There are several candidates of vaccines which are in phase 1 & 3 trials. Some of them have shown promising results and awaiting approval for emergency use.
+    head = Several candidate vaccines are currently in clinical trials. Some have shown promising preliminary results, and are awaiting approval for emergency use.
 
     / Novavax
     subject NVX-CoV2373
-      head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum. Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and SA variants. Novavax Phase 3 trials are currently ongoing in UK, US and Mexico.
+      head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in COVID-19 convalescent serum. Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and South African variants. Novavax Phase 3 trials are currently ongoing in the UK, US and Mexico.
 
       >
-        NVX-CoV2373 [Novavax](https://www.novavax.com/) is a protein subunit vaccine that contains the {Virus.Structure spike protein} of the SARS-CoV-2 molecule. NVX-CoV2373 is SARS-CoV-2 recombinant spike protein nanoparticle with adjuvant.
+        NVX-CoV2373 [Novavax](https://www.novavax.com/) is a protein subunit vaccine that contains the {Virus.Structure spike protein} of the SARS-CoV-2 molecule. NVX-CoV2373 is a SARS-CoV-2 recombinant spike protein nanoparticle with adjuvant.
 
         <table>
           <tr>
@@ -1409,14 +1415,14 @@ subject module Vaccines
 
 
       / On-going trials
-      claim !Ongoing = Clinical trials for Novavax started since May of 2020. Phase 3 trials started in September of 2020 in UK and another phase 3 trial participating 30,000 people in US & Mexico started in December of 2020. Trials will evaluate Safety, Tolerability, Immunogenicity, and Efficacy of NVX-CoV2373 Against COVID-19.
+      claim !Ongoing = Clinical trials for Novavax started in May of 2020. Phase 3 trials started in September of 2020 in UK and another phase 3 trial with 30,000 participants in the US and Mexico started in December of 2020. Trials will evaluate safety, tolerability, immunogenicity, and efficacy of NVX-CoV2373 against COVID-19.
         -
           'ClinicalTrials-NCT04583995_et_al_09_11_2020
           'ClinicalTrials-NCT04611802_et_al_11_02_2020
           'Novavax_et_al_12_28_2020
 
       / Phase 1 & 2
-      claim !Phase12JNovavax = 131 healthy adults participated in phase 1 & 2 trials. In September of 2020, Authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum.  Reactogenicity events (fatigue, malaise, and tenderness) was absent or mild in the majority of participants.
+      claim !Phase12JNovavax = 131 healthy adults participated in phase 1 and 2 trials. In September of 2020, Authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in Covid-19 convalescent serum. Reactogenicity events (fatigue, malaise, and tenderness) were absent or mild in the majority of participants.
         -
           'Keech_et_al_09_02_2020
           'Keech_et_al_09_02_2020.!a
@@ -1424,12 +1430,12 @@ subject module Vaccines
           'Keech_et_al_09_02_2020.!c
           'Keech_et_al_09_02_2020.!d
 
-      claim !Phase3 = In Jan of 2020, Novavax announced that NVX-CoV2373, met the primary endpoint, with a vaccine efficacy of 89.3%, in its Phase 3 clinical trial conducted in the United Kingdom (UK).
+      claim !Phase3 = In Jan of 2020, Novavax announced that NVX-CoV2373 met the primary endpoint, with a vaccine efficacy of 89.3%, in its Phase 3 clinical trial conducted in the United Kingdom.
         -
           'Novavax_et_al_01_28_2021
           'Novavax_et_al_01_28_2021.!a
 
-      claim !UKandSAvariant = In Jan of 2020, Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and SA variants. Novavax also reported that prior infection with COVID-19 may not completely protect against subsequent infection by the South Africa escape variant, however, vaccination with NVX-CoV2373 provided significant protection.
+      claim !UKandSAvariant = In Jan of 2020, Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and South African variants. Novavax also reported that prior infection with COVID-19 may not completely protect against subsequent infection by the South African escape variant, however, vaccination with NVX-CoV2373 provided significant protection.
         -
           'Novavax_et_al_01_28_2021
           'Novavax_et_al_01_28_2021.!b
@@ -1439,7 +1445,7 @@ subject module Vaccines
 
   / Vaccine Efficacy Against Variants
   subject EfficacyVariants
-    head =  Many variants have emerged at the end of 2020 and beginning of 2021 which share defining amino acid mutations. Some of these mutations are of concerns to scientists, as they may impact the efficacy of vaccines.
+    head =  Many variants have emerged at the end of 2020 and beginning of 2021 which share defining amino acid mutations. Some of these mutations are of concern to scientists, as they may impact the efficacy of vaccines.
 
     >
       Preliminary results of vaccine efficacy for 2 of the major variants (B.1.1.7 & B.1.351) are summarized below.
