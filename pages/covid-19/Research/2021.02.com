@@ -1,6 +1,7 @@
 feed Feb2021
 
   -
+    'Accorsi_et_al_02_25_2021
     'Vasileiou_et_al_02_20_2020
     'Goyal_et_al_02_23_2021
     'FDA_et_al_02_24_2021
@@ -22,16 +23,137 @@ feed Feb2021
     'Logunov_et_al_02_02_2021
     'Wu_et_al_02_03_2021
 
-  // DUMMY TITLE
-  doi: https://doi.org/xyz
-  ref 'Xiao_et_al_02_20_2020
-    head =
+  // A Novel SARS-CoV-2 Variant of Concern, B.1.526, Identified in New York
+  doi: https://doi.org/10.1101/2021.02.23.21252259
+  ref 'Annavajhala_et_al_02_25_2021
+    head = To survey for these novel variants in our patient population in New York City, PCR assays were designed to identify viruses with two signature mutations, E484K and N501Y.
+
+    > Abstract
+      Recent months have seen surges of SARS-CoV-2 infection across the globe along with considerable viral evolution. Extensive mutations in the spike protein of variants B.1.1.7, B1.351, and P.1 have raised concerns that the efficacy of current vaccines and therapeutic monoclonal antibodies could be threatened. In vitro studies have shown that one mutation, E484K, plays a crucial role in the loss of neutralizing activity of some monoclonal antibodies as well as most convalescent and vaccinee sera against variant B.1.351. In fact, two vaccine trials have recently reported lower protective efficacy in South Africa, where B.1.351 is dominant. To survey for these novel variants in our patient population in New York City, PCR assays were designed to identify viruses with two signature mutations, E484K and N501Y. We observed a steady increase in the detection rate from late December to mid-February, with an alarming rise to 12.3% in the past two weeks. Whole genome sequencing further demonstrated that most of our E484K isolates (n=49/65) fell within a single lineage: NextStrain clade 20C or Pangolin lineage B.1.526. Patients with this novel variant came from diverse neighborhoods in the metropolitan area, and they were on average older and more frequently hospitalized. Phylogenetic analyses of sequences in the database further reveal that this B.1.526 variant is scattered in the Northeast of US, and its unique set of spike mutations may also pose an antigenic challenge for current interventions.
 
     - quotes
       !a
+      !b
+      !c
 
-    / February, 2020 - bioRxiv
-    quote !a =
+    / February, 2021 - medRxiv
+    quote !a =  We observed a steady increase in the detection rate from late December to mid-February, with an alarming rise to 12.3% in the past two weeks.
+
+    / February, 2021 - medRxiv
+    quote !b = Whole genome sequencing further demonstrated that most of our E484K isolates (n=49/65) fell within a single lineage: NextStrain clade 20C or Pangolin lineage B.1.526.
+
+    / February, 2021 - medRxiv
+    quote !c = Phylogenetic analyses of sequences in the database further reveal that this B.1.526 variant is scattered in the Northeast of US, and its unique set of spike mutations may also pose an antigenic challenge for current interventions.
+
+  // SARS-CoV-2 lineage B.1.526 emerging in the New York region detected by software utility created to query the spike mutational landscape
+  doi: https://doi.org/xyz
+  ref 'West-Jr_et_al_02_23_2021
+    head = We have developed a software tool, Variant Database (VDB), for quickly examining the changing landscape of spike mutations.
+
+    > Abstract
+      Wide-scale SARS-CoV-2 genome sequencing is critical to monitoring and understanding viral evolution during the ongoing pandemic. Variants first detected in the United Kingdom, South Africa, and Brazil have spread to multiple countries. We have developed a software tool, Variant Database (VDB), for quickly examining the changing landscape of spike mutations. Using this tool, we detected an emerging lineage of viral isolates in the New York region that shares mutations with previously reported variants. The most common sets of spike mutations in this lineage (now designated as B.1.526) are L5F, T95I, D253G, E484K or S477N, D614G, and A701V. This lineage appeared in late November 2020, and isolates from this lineage account for ~25% of coronavirus genomes sequenced and deposited from New York during February 2021.
+
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2021 - bioRxiv
+    quote !a = we detected an emerging lineage of viral isolates in the New York region that shares mutations with previously reported variants.
+
+    / February, 2021 - bioRxiv
+    quote !b = The most common sets of spike mutations in this lineage are L5F, T95I, D253G, E484K or S477N, D614G, and A701V.
+
+    / February, 2021 - bioRxiv
+    quote !c = This lineage appeared in late November 2020, and isolates from this lineage account for ~25% of coronavirus genomes sequenced and deposited from New York during February 2021.
+
+
+  // How to detect and reduce potential sources of biases in studies of SARS-CoV-2 and COVID-19
+  doi: https://doi.org/xyz
+  ref 'Accorsi_et_al_02_25_2021
+    head =  We have outlined and proposed solutions to common biases that can occur across different types of observational studies of COVID-19, including cross-sectional seroprevalence, longitudinal seroprotection, risk factor studies to inform interventions, studies to estimate the secondary attack rate, and studies that use the secondary attack rate to make inferences about relative infectiousness or susceptibility.
+
+    > Abstract
+      In response to the coronavirus disease (COVID-19) pandemic, public health scientists have produced a large and rapidly expanding body of literature that aims to answer critical questions, such as the proportion of the population in a geographic area that has been infected; the transmissibility of the virus and factors associated with high infectiousness or susceptibility to infection; which groups are the most at risk of infection, morbidity and mortality; and the degree to which antibodies confer protection to re-infection. Observational studies are subject to a number of different biases, including confounding, selection bias, and measurement error, that may threaten their validity or influence the interpretation of their results. To assist in the critical evaluation of a vast body of literature and contribute to future study design, we outline and propose solutions to biases that can occur across different categories of observational studies of COVID-19. We consider potential biases that could occur in five categories of studies: (1) cross-sectional seroprevalence, (2) longitudinal seroprotection, (3) risk factor studies to inform interventions, (4) studies to estimate the secondary attack rate, and (5) studies that use secondary attack rates to make inferences about infectiousness and susceptibility.
+
+
+    - Seroprevalence measurement to estimate cumulative incidence
+      !a
+      !b
+      !c
+      !d
+      !e
+    - Seroprotection
+      !f
+      !g
+      !h
+      !i
+    - Infection Risk Factor
+      !j
+      !k
+      !l
+
+    # Seroprevalence measurement to estimate cumulative incidence
+    / February, 2021 - Eur J Epidemiol
+    quote !a =  Seroprevalence estimates may be unrepresentative of the target population when the individuals enrolled in the study are not representative of that population.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !b = Biases may arise from nonrandom willingness to participate in a survey, even if a random sample of the population is approached to participate.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !c = False negative serologic tests, if not properly accounted for, can underestimate seroprevalence, while false positive tests, if not properly accounted for, can overestimate it—the latter problem being most serious near the start of the epidemic.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !d = Adjustments for test sensitivity and specificity should be done with care, accounting for the often small numbers of validation samples and possible differences between the populations in which the tests were validated and the study population.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !e = Seroprevalence may underestimate cumulative incidence if some individuals who initially have antibody levels sufficient to test positive on a serologic test have waning levels that drop below the threshold for positivity, a phenomenon sometimes called “seroreversion”
+
+    # Seroprotection
+    / February, 2021 - Eur J Epidemiol
+    quote !f = Estimates of the (total) effect of prior infection on (re)-infection may be biased toward the null (no protection) if seropositive individuals remain more exposed to infection than seronegative ones (confounding by risk of infection).
+
+    / February, 2021 - Eur J Epidemiol
+    quote !g = Seroprotection estimates may be biased in either direction if individuals are enrolled at varying phases of their local epidemics or from communities with differently sized outbreaks.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !h = Imperfect sensitivity or specificity of serologic tests may result in bias toward the null due to misclassification of exposure status (seropositivity) in seroprotection studies.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !i = Increases in risky behavior by those who are seropositive (risk compensation) may increase the risk of reinfection for such individuals, thereby reducing the magnitude of seroprotection by creating an indirect effect through which prior infection/seropositivity increases the risk of infection.
+
+    # Infection risk factors
+    / February, 2021 - Eur J Epidemiol
+    quote !j = If a study considers a selected group of individuals who are tested to ascertain infection risk factors, selection bias can play a role (in either direction) if the risk factor of interest is related to the likelihood of hospitalization/death, and hospitalization/death also affects the likelihood of being tested.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !k = Studies of infection risk factors that include selected groups of individuals who are tested may also suffer from another selection bias if there are differential testing rates or differences in testing criteria between the groups.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !l = In studies that use confirmed cases among the population as the outcome of interest, including both tested and untested individuals, differential misclassification bias can occur if untested individuals are assumed to be uninfected.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !m = Differential misclassification bias can also arise if testing is performed at different time points, both virologic and serologic testing are used in the outcome measure, or the presence of symptoms affects test performance
+
+    # Secondary Attack Rate Estimation
+    / February, 2021 - Eur J Epidemiol
+    quote !n = Biases in estimating the SAR can be introduced through two key mechanisms: misclassification of the index case(s) and misclassification of close contacts.
+
+    # 1. misclassification of the index case(s)
+    / February, 2021 - Eur J Epidemiol
+    quote !o = Identifying a non-primary case as the index case may bias SAR estimates up, down, or create no bias in some household settings.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !p =  Failure to identify the existence of multiple index cases in a cluster can bias SAR estimates upward
+
+    # 2. Secondary attack rate estimation: misclassification of close contacts
+    / February, 2021 - Eur J Epidemiol
+    quote !q = Imprecise definitions of “close contact” can complicate estimation and interpretation of the SAR.
+
+    / February, 2021 - Eur J Epidemiol
+    quote !r = Besides factors related to the identification of index cases and close contacts, attention must be paid to contact patterns, including the duration of contact, contact frequency, and the setting where contact occurs, when using the SAR to make inferences about infectiousness.
+
 
 
   // CanSinoBIO's COVID-19 vaccine 65.7% effective in global trials, Pakistan official says

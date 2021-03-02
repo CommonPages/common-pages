@@ -2,7 +2,7 @@
 @ayushanand
 / Mutations and Variants
 subject Variants
-  head = Multiple strains of SARS-CoV-2 were identified as early as March of 2020, though their functional differences were not clear. Many of variants that have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of interest to scientists. There is evidence that some of the strains are more lethal, and a number are likely more transmissible. The vaccine efficacy drop off has been observed against newer strains. 
+  head = Multiple strains of SARS-CoV-2 were identified as early as March of 2020, though their functional differences were not clear. Many of variants that have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of interest to scientists. There is evidence that some of the strains are more lethal, and a number are likely more transmissible. The vaccine efficacy drop off has been observed against newer strains.
 
   -
     D614
@@ -1085,7 +1085,7 @@ subject Variants
       'Zhang_et_al_02_11_2021.!b
       'Zhang_et_al_02_11_2021.!c
 
-  / A.23.1(Identified in Uganda)
+  / A.23.1 (Identified in Uganda)
   subject A231
     head = Emerging A sub-lineages, A.23 and A.23.1 of the SARS-COV-2 has been found in Uganda. A.23.1 sub-lineage is the major virus lineage now observed in the Kampala region in Uganda. A.23.1 has been found encode multiple spike proteins, nsp6 (nonstructural protein), ORF8 and ORF9 (open reading frames 8 and 9) protein changes. A.23 and A.23.1 sub-lineages are now circulating in 12 countries outside of Uganda (from Africa, Asia, Europe, North America and Oceania).
 
@@ -1123,6 +1123,21 @@ subject Variants
       'Bugembe_et_al_02_11_2021.!h
       'Bugembe_et_al_02_11_2021.!i
       'Bugembe_et_al_02_11_2021.!j
+
+  / B.1.526 (Identified in New York)
+  subject B1526
+    head =
+
+    - Triage
+      'West-Jr_et_al_02_23_2021
+      'West-Jr_et_al_02_23_2021.!a
+      'West-Jr_et_al_02_23_2021.!b
+      'West-Jr_et_al_02_23_2021.!c
+    -
+      'Annavajhala_et_al_02_25_2021
+      'Annavajhala_et_al_02_25_2021.!a
+      'Annavajhala_et_al_02_25_2021.!b
+      'Annavajhala_et_al_02_25_2021.!c  
 
 
 
