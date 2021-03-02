@@ -13,7 +13,7 @@ revision feed Revisions
   public: March-01-2021
   / March 01, 2021
   revision March_01
-    head = We've update P.1 (Identified in Brazil) variant section and added a new variant of concern B.1.526 (Identified in New York). P.1 variant is estimated to be 1.4 and 2.2 times more transmissible than other lineages. Researchers have reported significant levels of neutralizing resitance and raised concern towards propensity for re-infection. B.1.526 variant consist of multiple spike mutation and may pose an antigenic challenge for current interventions.
+    head = We've update P.1 (Identified in Brazil) variant section and added a new variant of concern B.1.526 (Identified in New York). P.1 variant is estimated to be somewhere between 1.4 and 2.2 times more transmissible than other lineages. Researchers have reported significant levels of neutralizing resitance and raised concern towards propensity for re-infection. B.1.526 variant consist of multiple spike mutation and may pose an antigenic challenge for current interventions.
 
     -
       Variants.P1Variant

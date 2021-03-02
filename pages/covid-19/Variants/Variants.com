@@ -996,7 +996,7 @@ subject Variants
 
   / P.1 (Identified in Brazil)
   subject P1Variant
-    head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike. It is estimated to be 1.4 and 2.2 times more transmissible than other lineages. Studies have reported significant levels of neutralizing resitance and raised concern towards propensity for re-infection. As of 22nd of February 2021, this variant has been reported in 22 countries.
+    head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike. It is estimated to be somewhere between 1.4 and 2.2 times more transmissible than other lineages. Studies have reported significant levels of neutralizing resitance and raised concern towards propensity for re-infection. As of 22nd of February 2021, this variant has been reported in 22 countries.
 
     >
       <table>
