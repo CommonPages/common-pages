@@ -16,6 +16,177 @@ feed Sangeeta
 
 
   #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Evaluation of a SARS-CoV-2 Vaccine NVX-CoV2373 in Younger and Older Adults.
+  doi: https://doi.org/10.1101/2021.02.26.21252482
+  ref 'Formica_et_al_03_01_2021
+    head = The phase 2 component of our randomized, placebo-controlled, phase 1-2 trial was designed to identify which dosing regimen of NVX-CoV2373 should move forward into late phase studies in younger (18-59 years) and older (60-84 years) participants and was based on immunogenicity and safety data through day 35 (14 days after the second dose). Participants were randomly assigned to receive either one or two intramuscular doses of 5-microgram or 25-microgram NVX-CoV2373 or placebo, 21 days apart, approximately 45% were older participants.
+
+
+    > Background
+      NVX CoV2373 is a recombinant severe acute respiratory coronavirus 2 (rSARS-CoV-2) nanoparticle vaccine composed of trimeric full-length SARS CoV-2 spike glycoproteins and Matrix-M1 adjuvant.
+
+    > Methods
+      The phase 2 component of our randomized, placebo-controlled, phase 1-2 trial was designed to identify which dosing regimen of NVX-CoV2373 should move forward into late phase studies in younger (18-59 years) and older (60-84 years) participants and was based on immunogenicity and safety data through day 35 (14 days after the second dose). Participants were randomly assigned to receive either one or two intramuscular doses of 5-microgram or 25-microgram NVX-CoV2373 or placebo, 21 days apart. Primary endpoints were immunoglobulin G (IgG) anti-spike protein response, 7 day solicited reactogenicity, and unsolicited adverse events. A key secondary endpoint was wild type virus neutralizing antibody response.
+
+    > Results
+      After randomization, approximately 250 participants each were assigned to one of four vaccine groups or placebo. Of these, approximately 45% were older participants. Reactogenicity was predominantly mild to moderate in severity and of short duration (median <3 days) after first and second vaccination with NVX-CoV2373, with higher frequencies and intensity after second vaccination and with the higher dose, and occurred less frequently and was of lower intensity in older participants. The two-dose regimen of 5-microgram NVX-CoV2373 induced robust geometric mean titer (GMT) IgG anti-spike protein (65,019 and 28,137 EU/mL) and wild-type virus neutralizing antibody (2201 and 981 titers) responses in younger and older participants, respectively, with seroconversion rates of 100% in both age groups. Neutralizing antibody responses exceeded those seen in convalescent sera for both age groups.
+
+    > Conclusions
+      The study confirmed that the two-dose regimen of 5 microgram NVX CoV2373 is highly immunogenic and well tolerated in both younger and older participants. (Funded by the Coalition for Epidemic Preparedness Innovations; ClinicalTrials.gov number: NCT04368988).
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / March, 2021 - medRxiv
+    quote !a = The study confirmed that the two-dose regimen of 5 microgram Matrix-M1 adjuvanted rSARS-CoV-2 nanoparticle vaccine (NVX CoV2373) is highly immunogenic and well tolerated in both younger and older participants.
+
+    / March, 2021 - medRxiv
+    quote !b = The two-dose regimen of 5-microgram NVX-CoV2373 induced robust geometric mean titer (GMT) IgG anti-spike protein (65,019 and 28,137 EU/mL) and wild-type virus neutralizing antibody (2201 and 981 titers) responses in younger and older participants, respectively, with seroconversion rates of 100% in both age groups.
+
+    / March, 2021 - medRxiv
+    quote !c = Neutralizing antibody responses exceeded those seen in convalescent sera for both age groups.
+
+    / March, 2021 - medRxiv
+    quote !d = Reactogenicity was predominantly mild to moderate in severity and of short duration (median <3 days) after first and second vaccination with NVX-CoV2373, with higher frequencies and intensity after second vaccination and with the higher dose, and occurred less frequently and was of lower intensity in older participants.
+
+
+
+
+
+
+  #
+  // Diagnosis value of SARS-CoV-2 antigen/antibody combined testing using rapid diagnostic tests at hospital admission
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  // Comprehensive mapping of mutations in the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human plasma antibodies
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  #
+  // High prevalence of the antibody against Syncytin-1 in schizophrenia
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+  # Syncytin-A knockout mice demonstrate the critical role in placentation of a fusogenic, endogenous retrovirus-derived, envelope gene
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2020
+    head =
+
+    - quotes
+      !a
+
+    / December, 2020 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // SARS-CoV-2 Variant B.1.1.7 is Susceptible to Neutralizing Antibodies Elicited by Ancestral Spike Vaccines
+  doi: https://doi.org/10.1001/jama.2021.1967
+  ref 'Shimabukuro_et_al_02_12_2021
+    head =
+
+    - quotes
+      !a
+
+    / February, 2021 - JAMA
+    quote !a =
+
+
+  #
   // A cautionary note on recall vaccination in ex-COVID-19 subjects
   doi:  https://doi.org/10.1101/2021.02.01.21250923
   ref 'Levi_et_al_02_06_2021
@@ -758,82 +929,6 @@ feed Sangeeta
     quote !c = Compared with a SARS-CoV-2 infection rate of 7·4 per 10 000 person-days in unvaccinated HCWs, infection rates were 5·5 per 10 000 person-days and 3·0 per 10 000 person-days on days 1–14 and 15-28 after the first dose of the vaccine, respectively. Adjusted rate reductions of SARS-CoV-2 infections were 30% (95% CI 2–50) and 75% (72–84) for days 1–14 and days 15–28 after the first dose, respectively
 
 
-
-
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-  #
-  // Diagnosis value of SARS-CoV-2 antigen/antibody combined testing using rapid diagnostic tests at hospital admission
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-  // Comprehensive mapping of mutations in the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human plasma antibodies
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-  #
-  #
-  // High prevalence of the antibody against Syncytin-1 in schizophrenia
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-  # Syncytin-A knockout mice demonstrate the critical role in placentation of a fusogenic, endogenous retrovirus-derived, envelope gene
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
-
-
-  #
-  // SARS-CoV-2 Variant B.1.1.7 is Susceptible to Neutralizing Antibodies Elicited by Ancestral Spike Vaccines
-  doi: https://doi.org/10.1001/jama.2021.1967
-  ref 'Shimabukuro_et_al_02_12_2021
-    head =
-
-    - quotes
-      !a
-
-    / February, 2021 - JAMA
-    quote !a =
 
 
   #
@@ -2191,19 +2286,6 @@ feed Sangeeta
     / December, 2020 - JAMA Netw Open.
     quote !a =
 
-
-
-
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID-19
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2020
-    head =
-
-    - quotes
-      !a
-
-    / December, 2020 - JAMA Netw Open.
-    quote !a =
 
 
   #
@@ -7879,6 +7961,8 @@ feed Sangeeta
     / April, 2020 - Journal of Medical Virology
     quote !a = Our study results suggested the presence of SARS‐CoV‐2 RNA in the feces of COVID‐19 patients, and more importantly, viral shedding from feces might remain for a long time after negative conversion in pharyngeal swabs, suggesting that fecal‐oral transmission may serve as an alternative infection route for SARS‐CoV‐2
 
+
+
   #
   @@JeroenKampen
   // Shedding of infectious virus in hospitalized patients with coronavirus disease-2019 (COVID19): duration and key determinants
@@ -7919,20 +8003,38 @@ feed Sangeeta
 
 
   #
-  //
+  // Duration of infectiousness and correlation with RT-PCR cycle threshold values in cases of COVID-19, England, January to May 2020
   doi: https://doi.org/10.2807/1560-7917.ES.2020.25.32.2001483
   ref 'Singanayagam_et_al_08_12_2020
-    head =
+    head = Virus culture was attempted from 324 URT samples (from 253 cases) that tested positive for SARS-CoV-2 by RT-PCR. Samples were obtained from a range of clinical scenarios including community and healthcare worker surveillance, symptomatic persons tested as part of the early epidemic response and samples acquired in outbreak investigations.
 
     - quotes
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
 
     / August, 2020 - Euro Surveill.
-    quote !a =
+    quote !a = This study identified that Ct values and the presence of infectious virus were similar in samples from asymptomatic and presymptomatic persons, compared with those who were symptomatic, and is one of the first reports of virus isolation from cases who remain completely asymptomatic. The findings suggest that asymptomatic and presymptomatic persons do represent a source of potentially transmissible virus.
+
+    / August, 2020 - Euro Surveill.
+    quote !b = This study adds to the evidence base on duration of infectiousness following mild-to-moderate COVID-19, demonstrating that infectious virus can persist for a week or more after symptom onset, declining over time.
+
+    / August, 2020 - Euro Surveill.
+    quote !c = We observed a strong relationship between Ct value and ability to recover infectious virus. The estimated OR of recovering infectious virus decreased by 0.67 for each unit increase in Ct value. The estimated probability of recovery of virus from samples with Ct > 35 was 8.3%
+
+    / August, 2020 - Euro Surveill.
+    quote !d = Based on the real-world data described here, we recommend that infection control measures for persons with mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days.
+
+    / August, 2020 - Euro Surveill.
+    quote !e = Detection of cultivable SARS-CoV-2 from URT samples is valuable as a proxy for infectiousness; however, as the human infectious dose remains unknown, the significance of low titres of infectious virus for human-to-human transmission remains uncertain.
+
+    / August, 2020 - Euro Surveill.
+    quote !f = Taken together with data presented here, the results of Van Kampen et al. indicate that more prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
 
 
-
-  #
 
   # Universal Masking, HCWs
   @@DeepakBhatt
@@ -7946,6 +8048,7 @@ feed Sangeeta
 
     / July, 2020 - JAMA.
     quote !a = During the preintervention period, the SARS-CoV-2 positivity rate increased exponentially from 0% to 21.32%, with a weighted mean increase of 1.16% per day and a case doubling time of 3.6 days. During the intervention period, the positivity rate decreased linearly from 14.65% to 11.46%, with a weighted mean decline of 0.49% per day and a net slope change of 1.65% more decline per day compared with the preintervention period.
+
 
 
   # Universal Masking, HCW

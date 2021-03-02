@@ -9,7 +9,19 @@
 
    # mRNA vaccines will not affect our DNA??
 
-
+  >
+    Asymptomatic and presymptomatic persons are likely to be a source of infectious virus. we recommend that infection control measures for persons with mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days. Data indicates that more prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
+  - Asymptomatic and presymptomatic persons are likely to be a source of infectious virus.
+    'Singanayagam_et_al_08_12_2020
+    'Singanayagam_et_al_08_12_2020.!a
+  - mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days.
+    'Singanayagam_et_al_08_12_2020.!b
+  - We observed a strong relationship between Ct value and ability to recover infectious virus.
+    'Singanayagam_et_al_08_12_2020.!c
+    'Singanayagam_et_al_08_12_2020.!d
+    'Singanayagam_et_al_08_12_2020.!e
+  - prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
+    'Singanayagam_et_al_08_12_2020.!f
 
   >
     We previously observed that anosmia/dysgeusia was associated with an increase of antibodies over time, independently of vaccination (Levi et al. submitted).

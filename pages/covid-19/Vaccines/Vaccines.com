@@ -1410,6 +1410,7 @@ subject module Vaccines
         !Ongoing
         !Phase12JNovavax
         !Phase3
+        !Phase2
       - UK and SA Variant
         !UKandSAvariant
 
@@ -1434,6 +1435,15 @@ subject module Vaccines
         -
           'Novavax_et_al_01_28_2021
           'Novavax_et_al_01_28_2021.!a
+
+      claim !Phase2 = In March of 2021, Phase 2 trial report was published. 250 participants were randomized in which 45% were above 60. Authors reported that two-dose regimen of 5 microgram Matrix-M1 adjuvanted rSARS-CoV-2 nanoparticle vaccine (NVX CoV2373) is highly immunogenic and well tolerated in both younger and older participants. Reactogenicity was predominantly mild to moderate in severity and of short duration after first and second vaccination, with higher frequencies and intensity after second vaccination and with the higher dose, and occurred less frequently and was of lower intensity in older participants.
+        -
+          'Formica_et_al_03_01_2021
+          'Formica_et_al_03_01_2021.!a
+          'Formica_et_al_03_01_2021.!b
+          'Formica_et_al_03_01_2021.!c
+          'Formica_et_al_03_01_2021.!d
+
 
       claim !UKandSAvariant = In Jan of 2020, Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and South African variants. Novavax also reported that prior infection with COVID-19 may not completely protect against subsequent infection by the South African escape variant, however, vaccination with NVX-CoV2373 provided significant protection.
         -
