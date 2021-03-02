@@ -93,6 +93,13 @@ feed Feb2021
       !j
       !k
       !l
+      !m
+    - Secondary Attack Rate Estimation
+      !n
+      !o
+      !p
+      !q
+      !r
 
     # Seroprevalence measurement to estimate cumulative incidence
     / February, 2021 - Eur J Epidemiol

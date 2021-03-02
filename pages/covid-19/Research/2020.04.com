@@ -2216,8 +2216,13 @@ feed April2020
   ref 'Lipsitch_et_al_2020
     head = Clinical trials are being set up at a rapid rate to test various approaches to preventing COVID-19. Getting fully interpretable and unbiased results from these trials depends on serological testing of participants at baseline and at the end of the trial.
 
+
+
     > Abstract
       Researchers starting clinical trials of prevention measures for COVID-19 have a unique window of opportunity for collecting blood from the participants, at baseline and at the end of the trial, to be able to incorporate critical data into their analysis once serological tests for the causative coronavirus become available.
+
+    - quotes
+      !a
 
 
     / April, 2020 -  Nat Med

@@ -12,6 +12,8 @@ subject Variants
     P1Variant
     CAL20C
     A231
+    B1526
+
   -
     ?Antibodies
   -
@@ -992,10 +994,9 @@ subject Variants
         'Li_et_al_02_18_2021
         'Li_et_al_02_18_2021.!c
 
-
-  / P1 (Identified in Brazil)
+  / P.1 (Identified in Brazil)
   subject P1Variant
-    head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike, raising concerns about convergent evolution to a new phenotype, potentially associated with an increase in transmissibility, immune escape or propensity for re-infection. As of 22nd of February 2021, this variant has been reported in 22 countries.
+    head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike. It is estimated to be 1.4 and 2.2 times more transmissible than other lineages. Studies have reported significant levels of neutralizing resitance and raised concern towards propensity for re-infection. As of 22nd of February 2021, this variant has been reported in 22 countries.
 
     >
       <table>
@@ -1019,8 +1020,8 @@ subject Variants
         <th>Other Mutation (Including N-terminal)</th>
         <td>L18F, T20N, P26S, D138Y, R190S, H655Y, T10271 </td>
         <tr>
-        <th>Transmissibility</th>
-        <td> No</td>
+        <th>{!Transmission Transmissibility}</th>
+        <td> 1.4 and 2.2 times more transmissible</td>
         </tr>
         <tr>
         <th>Severity</th>
@@ -1028,7 +1029,7 @@ subject Variants
         </tr>
         <tr>
         <th>Immune Escape</th>
-        <td> Yes </td>
+        <td> {!AntibodyEscape Yes} </td>
         </tr>
         <tr>
         <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
@@ -1045,28 +1046,68 @@ subject Variants
 
       </table>
 
-    - Triage
-      'Faria_et_al_01_12_2021
-      'Faria_et_al_01_12_2021.!a
-      'Faria_et_al_01_12_2021.!b
-      'Faria_et_al_01_12_2021.!c
-      'Faria_et_al_01_12_2021.!d
-      'Faria_et_al_01_12_2021.!e
-      'Faria_et_al_01_12_2021.!f
-      'Faria_et_al_01_12_2021.!g
-      'Faria_et_al_01_12_2021.!h
-      'Faria_et_al_01_12_2021.!i
-    - Neutralization resistance
-      'Wibmer_et_al_01_19_2021
-      'Wibmer_et_al_01_19_2021.!d
     -
-      'Naveca_et_al_02_25_2021
-      'Naveca_et_al_02_25_2021.!a
-      'Naveca_et_al_02_25_2021.!b
-      'Naveca_et_al_02_25_2021.!c
-      'Naveca_et_al_02_25_2021.!d
-      'Naveca_et_al_02_25_2021.!e
-      'Naveca_et_al_02_25_2021.!f
+      !Origin
+      !OriginCause
+    -
+      !Transmission
+    -
+      !NeutralisingResitance
+      !AntibodyEscape
+    -
+      !Mutation
+
+    - Potential biologic significance of N501Y Mutation
+      Variants.B117.!N501Y
+      Variants.B117.!N501YK417N
+      Variants.B117.!N501neutralization
+      Variants.B117.!EntryN501
+    - Potential Significance of E484K mutation
+      Variants.B1351.!E484
+      Variants.B1351.!AntibodiesE484k
+
+    / Mutation
+    claim !Mutation = The new P.1 lineage carries 17 unique amino acid changes, 3 deletions, and 4 synonymous mutations, and one 4nt insertion. It also includes everal mutations of known biological importance such as E484K, K417T, and N501Y
+      -
+        'Faria_et_al_01_12_2021
+        'Faria_et_al_01_12_2021.!a
+        'Faria_et_al_01_12_2021.!b
+        'Faria_et_al_01_12_2021.!c
+
+    / Origin
+    claim !Origin = The P.1 lineage was identified in 42% RT-PCR positive samples collected between 15 to 23 December, but it was absent in 26 publicly available genome surveillance samples collected in Manaus between March to November 2020. Findings indicate local transmission and possible recent increase in the frequency of a new lineage from the Amazon region and appears to have arisen entirely independently.
+      -
+        'Faria_et_al_01_12_2021
+        'Faria_et_al_01_12_2021.!e
+        'Faria_et_al_01_12_2021.!h
+
+    / Antibody Escape
+    claim !NeutralisingResitance = One study suggest that this lineage is also likely to exhibit significant levels of neutralization resistance.
+      -
+        'Wibmer_et_al_01_19_2021
+        'Wibmer_et_al_01_19_2021.!d
+
+    claim !OriginCause = One study reports that epidemiological factors (such as lack of mitigation measures) rather than virological factors was cause of accelerated early transmission of this variant.
+      -
+        'Naveca_et_al_02_25_2021
+        'Naveca_et_al_02_25_2021.!a
+        'Naveca_et_al_02_25_2021.!b
+        'Naveca_et_al_02_25_2021.!c
+        'Naveca_et_al_02_25_2021.!d
+        'Naveca_et_al_02_25_2021.!e
+        'Naveca_et_al_02_25_2021.!f
+
+    claim !AntibodyEscape = One study found the effectiveness of antibodies dropped sixfold against P.1 compared with other coronaviruses and plasma from vaccinated individuals failed to efficiently neutralize P.1 lineage isolates. Authors concluded that P.1 variant may escape from neutralizing antibodies generated in response to polyclonal stimulation against previously circulating variants of SARS-CoV-2.
+      -
+        'DeSouza_et_al_03_01_2021
+        'DeSouza_et_al_03_01_2021.!a
+        'DeSouza_et_al_03_01_2021.!b
+
+    / Transmission
+    claim !Transmission = Researchers have estimated that this lineage is somewhere between 1.4 and 2.2 times more transmissible than other lineages of coronaviruses.
+      -
+        'Zimmer_et_al_03_01_2021
+        'Zimmer_et_al_03_01_2021.!a
 
   / CAL.20C (Identified in California)
   subject CAL20C
@@ -1126,7 +1167,7 @@ subject Variants
 
   / B.1.526 (Identified in New York)
   subject B1526
-    head =
+    head = A new lineage has been identified in New York that shares mutations with with previously reported variants. This lineage appeared in late November 2020, and isolates from this lineage account for ~25% of coronavirus genomes sequenced and deposited from New York during February 2021. The lineage consist of multiple spike mutation and may pose an antigenic challenge for current interventions.
 
     - Triage
       'West-Jr_et_al_02_23_2021
@@ -1137,7 +1178,7 @@ subject Variants
       'Annavajhala_et_al_02_25_2021
       'Annavajhala_et_al_02_25_2021.!a
       'Annavajhala_et_al_02_25_2021.!b
-      'Annavajhala_et_al_02_25_2021.!c  
+      'Annavajhala_et_al_02_25_2021.!c
 
 
 

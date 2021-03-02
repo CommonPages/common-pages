@@ -260,7 +260,7 @@ feed October2020
     / October, 2020 - Nature
     quote !a = Key potential impacts of cross-reactive T cell memory are already incorporated into epidemiological models based on data of transmission dynamics, particularly with regard to their implications for herd immunity.
 
-  #
+
 
   # Why Face Mask, efficacy, model,
   // Effectiveness of Face Masks in Preventing Airborne Transmission of SARS-CoV-2

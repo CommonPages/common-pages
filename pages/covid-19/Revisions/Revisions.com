@@ -3,11 +3,21 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *March_01 mean March_01
   let *February_26 mean February_26
   let *February_23 mean February_23
   let *February_22 mean February_22
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *February_26 and *February_23). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *March_01, *February_26 and *February_23). You can *contribute by sending corrections and responding to open questions.
+
+  public: March-01-2021
+  / March 01, 2021
+  revision March_01
+    head = We've update P.1 (Identified in Brazil) variant section and added a new variant of concern B.1.526 (Identified in New York). P.1 variant is estimated to be 1.4 and 2.2 times more transmissible than other lineages. Researchers have reported significant levels of neutralizing resitance and raised concern towards propensity for re-infection. B.1.526 variant consist of multiple spike mutation and may pose an antigenic challenge for current interventions.
+
+    -
+      Variants.P1Variant
+      Variants.B1526
 
   public: February-26-2021
   / February 26, 2021
