@@ -3,17 +3,17 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
-  let *March_01 mean March_01
+  let *March_1 mean March_01
   let *February_26 mean February_26
   let *February_23 mean February_23
   let *February_22 mean February_22
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *March_01, *February_26 and *February_23). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *March_1, *February_26 and *February_23). You can *contribute by sending corrections and responding to open questions.
 
-  public: March-01-2021
-  / March 01, 2021
+  public: March-1-2021
+  / March 1, 2021
   revision March_01
-    head = We've update P.1 (Identified in Brazil) variant section and added a new variant of concern B.1.526 (Identified in New York). P.1 variant is estimated to be somewhere between 1.4 and 2.2 times more transmissible than other lineages. Researchers have reported significant levels of neutralizing resitance and raised concern towards propensity for re-infection. B.1.526 variant consist of multiple spike mutation and may pose an antigenic challenge for current interventions.
+    head = We've update the section on the P.1 variant (Identified in Brazil) and added a new variant of concern recently identified in New York (B.1.526). The P.1 variant is estimated to be somewhere between 1.4 and 2.2 times more transmissible than other lineages. Researchers have reported significant levels of neutralizing resistance and raised concern about the propensity for re-infection. The B.1.526 variant consists of multiple spike mutations and may pose an antigenic challenge for current interventions.
 
     -
       Variants.P1Variant

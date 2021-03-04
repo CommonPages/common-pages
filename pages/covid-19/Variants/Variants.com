@@ -996,7 +996,7 @@ subject Variants
 
   / P.1 (Identified in Brazil)
   subject P1Variant
-    head = A new lineage named P.1 comprises 42% (13 out of 31) of the genomes from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike. It is estimated to be somewhere between 1.4 and 2.2 times more transmissible than other lineages. Studies have reported significant levels of neutralizing resitance and raised concern towards propensity for re-infection. As of 22nd of February 2021, this variant has been reported in 22 countries.
+    head = A new lineage named P.1 from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike. It is estimated to be somewhere between 1.4 and 2.2 times more transmissible than other lineages. Studies have reported significant levels of neutralizing resitance and raised concerns about the propensity for re-infection. As of February 2021, this variant has been reported in 22 countries.
 
     >
       <table>
@@ -1167,7 +1167,7 @@ subject Variants
 
   / B.1.526 (Identified in New York)
   subject B1526
-    head = A new lineage has been identified in New York that shares mutations with with previously reported variants. This lineage appeared in late November 2020, and isolates from this lineage account for ~25% of coronavirus genomes sequenced and deposited from New York during February 2021. The lineage consist of multiple spike mutation and may pose an antigenic challenge for current interventions.
+    head = A new lineage has been identified in New York that shares mutations with with previously reported variants. This lineage appeared in late November 2020, and isolates from this lineage account for ~25% of coronavirus genomes sequenced and deposited from New York during February 2021. The lineage consists of multiple spike mutation and may pose an antigenic challenge for current interventions.
 
     - Triage
       'West-Jr_et_al_02_23_2021
