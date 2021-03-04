@@ -9,9 +9,6 @@ page #covid-19
   -
     Revisions
 
-  - Concepts
-    Foundations
-
   - Claims
     Timeline
     Virus
@@ -24,3 +21,6 @@ page #covid-19
     Treatment
     Vaccines
     Effects
+
+  - Concepts
+    Foundations
