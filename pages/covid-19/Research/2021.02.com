@@ -24,6 +24,7 @@ feed Feb2021
     'Wu_et_al_02_03_2021
 
   // A Novel SARS-CoV-2 Variant of Concern, B.1.526, Identified in New York
+  @@David
   doi: https://doi.org/10.1101/2021.02.23.21252259
   ref 'Annavajhala_et_al_02_25_2021
     head = To survey for these novel variants in our patient population in New York City, PCR assays were designed to identify viruses with two signature mutations, E484K and N501Y.
@@ -175,6 +176,7 @@ feed Feb2021
     quote !a =
 
   // Impact of age, ethnicity, sex and prior infection status on immunogenicity following a single dose of the BNT162b2 mRNA COVID-19 vaccine: real-world evidence from healthcare workers, Israel, December 2020 to January 2021
+  @@MichaelEdelstein
   doi: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.6.2100096
   ref 'Jabal_et_al_02_10_2021
     head =  We present early results from vaccination in healthcare workers (HCWs) in Israel.
@@ -208,6 +210,7 @@ feed Feb2021
 
 
   // Effectiveness of First Dose of COVID-19 Vaccines Against Hospital Admissions in Scotland: National Prospective Cohort Study of 5.4 Million People
+  @@EleftheriaVasileiou
   doi: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789264
   ref 'Vasileiou_et_al_02_20_2020
     head = We conducted a prospective cohort study using the Early Pandemic Evaluation and Enhanced Surveillance of COVID-19 (EAVE II) database comprising of linked vaccination, primary care, RT-PCR testing, hospitalisation and mortality records for 5.4 million people in Scotland (covering ~99% of population).
@@ -239,6 +242,7 @@ feed Feb2021
     quote !c = Results of combined vaccine effect for prevention of COVID-19 related hospitalisation were comparable when restricting the analysis to those aged ≥80 years (81%; 95% CI 65 to 90 at 28-34 days post-vaccination).
 
   // Increased transmission of SARS-CoV-2 lineage B.1.1.7 (VOC 2020212/01) is not accounted for by a replicative advantage in primary airway cells or antibody escape
+  @@WendyBarclay
   doi: https://doi.org/10.1101/2021.02.24.432576
   ref 'Brown_et_al_02_24_2021
     head = We demonstrate that there is no difference in viral replication between B.1.1.7 and other contemporaneous SARS-CoV-2 strains in primary human airway epithelial (HAE) cells.
@@ -253,6 +257,7 @@ feed Feb2021
     quote !a = B.1.1.7 does not escape neutralisation by convalescent or post-vaccination sera. Thus, increased transmission of B.1.1.7 is not caused by increased replication, as measured on HAE cells, or escape from serological immunity.
 
   // Bell's palsy and SARS-CoV-2 vaccines
+  @@OferLevy
   doi: https://doi.org/10.1016/S1473-3099(21)00076-1
   ref 'Ozonoff_et_al_02_24_2021
     head = Both mRNA vaccines demonstrate an imbalance of cases of Bell's palsy in the vaccine groups compared with the placebo groups. This Comment has three purposes: to briefly review the literature on the association of Bell's palsy with vaccination, and vaccination for respiratory viruses such as influenza in particular, to consider biological mechanisms that might explain observed associations, and to reconsider statistical and epidemiological evidence from the reported safety data of the SARS-CoV-2 vaccine trials.
@@ -273,6 +278,7 @@ feed Feb2021
 
 
   // COVID-19 Vaccine Hesitancy: Shortening the Last Mile
+  @@CoralieChevallier
   doi: https://doi.org/10.1016/j.tics.2021.02.002
   ref 'Chevallier_et_al_02_09_2021
     head =  We propose three main intervention routes, which should receive urgent research and governmental attention.
@@ -292,6 +298,7 @@ feed Feb2021
     quote !c = Third, help early adopters communicate about their decision to be vaccinated to accelerate the emergence of pro-vaccination norms.
 
   // Viral load and contact heterogeneity predict SARS-CoV-2 transmission and super-spreading events
+  @@JoshuaSchiffer
   doi: https://elifesciences.org/articles/63537
   ref 'Goyal_et_al_02_23_2021
     head =  We designed mathematical models which link observed viral loads with epidemiologic features of each virus, including distribution of transmissions attributed to each infected person and duration between symptom onset in the transmitter and secondarily infected person.
@@ -335,6 +342,7 @@ feed Feb2021
     quote !c = VE among the subgroups (age, comorbidity, race, ethnicity) appears to be similar to the VE in the overall study population. A lower VE estimate was observed for the subgroup of participants 60 years of age and older with comorbidities compared with the overall population, but with an observed trend of increasing VE with narrower confidence intervals as numbers of cases included in the analysis increased (i.e., counting cases from 14 days rather than 28 days and including cases not yet centrally confirmed).
 
   // Evidence of escape of SARS-CoV-2 variant B.1.351 from natural and vaccine induced sera
+  @@DamingZhou
   doi: https://doi.org/10.1016/j.cell.2021.02.037
   ref 'Zhou_et_al_02_17_2021
     head =  We describe a structure-function analysis of B.1.351 using a large cohort of convalescent and vaccinee serum samples. We examine neutralization of a B.1.351 viral isolate and compare this to neutralization of Victoria, an early Wuhan related isolate.
@@ -361,6 +369,7 @@ feed Feb2021
     quote !d = In a number of cases it would appear that convalescent and some vaccine serum offers limited protection against this variant.
 
   // No higher infectivity but immune escape of SARS-CoV-2 501Y.V2 variants
+  @@XiaowangQu
   doi: https://doi.org/10.1016/j.cell.2021.02.042
   ref 'Li_et_al_02_18_2021
     head = We investigated the biological significance—using assays of infectivity and of antigenicity—of a set of 18 501Y.V2 lineage-related mutants. We analyzed the infectivity of the pseudotyped viruses for multiple SARS-CoV-2-susceptible cell lines. We also profiled the antigenicity of the pseudotyped viruses to monoclonal antibodies, to SARS-CoV-2 convalescent sera, and to RBD immunize animal sera.
@@ -406,6 +415,7 @@ feed Feb2021
 
 
   // Estimating real-world COVID-19 vaccine effectiveness in Israel using aggregated counts
+  @@DvirAran
   doi: https://doi.org/10.1101/2021.02.05.21251139
   ref 'Aran_et_al_02_19_2021
     head = Here, using counts of positive and hospitalized cases of vaccinated individuals, we conduct a sensitive analysis of the vaccine effectiveness.  Our analysis provides an estimate for the effectiveness of the vaccine in reducing positive cases, hospitalizations and severe cases.
@@ -425,6 +435,7 @@ feed Feb2021
 
 
   // Pfizer and BioNTech Submit COVID-19 Vaccine Stability Data at Standard Freezer Temperature to the U.S. FDA
+  @@AmyRose
   doi: https://www.globenewswire.com/news-release/2021/02/19/2178817/0/en/Pfizer-and-BioNTech-Submit-COVID-19-Vaccine-Stability-Data-at-Standard-Freezer-Temperature-to-the-U-S-FDA.html
   ref 'BioNTech_et_al_02_19_2021
     head =  Pfizer Inc. (NYSE: PFE) and BioNTech SE (Nasdaq: BNTX) announced the submission of new data to the U.S. Food and Drug Administration (FDA) demonstrating the stability of their COVID-19 vaccine when stored at -25°C to -15°C (-13°F to 5°F), temperatures more commonly found in pharmaceutical freezers and refrigerators. The data have been submitted to the FDA to support a proposed update to the U.S. Emergency Use Authorization (EUA) Prescribing Information, which would allow for vaccine vials to be stored at these temperatures for a total of two weeks as an alternative or complement to storage in an ultra-low temperature freezer.
@@ -434,6 +445,7 @@ feed Feb2021
     quote !a =
 
   // Circulating SARS-CoV-2 variants escape neutralization by vaccine-induced humoral immunity
+  @@AlejandroBalazs
   doi: https://doi.org/10.1101/2021.02.14.21251704
   ref 'Garcia-Beltran_et_al_02_18_2021
     head = We evaluated the neutralization potency of 48 sera from BNT162b2 and mRNA-1273 vaccine recipients against pseudoviruses bearing spike proteins derived from 10 strains of SARS-CoV-2.
@@ -452,6 +464,7 @@ feed Feb2021
     quote !b = Cross-neutralization of B.1.351 variants was weak and comparable to SARS-CoV and bat-derived WIV1-CoV, suggesting that a relatively small number of mutations can mediate potent escape from vaccine responses.
 
   // SARS-CoV-2 variants B.1.351 and B.1.1.248: Escape from therapeutic antibodies and antibodies induced by infection and vaccination
+  @@Stefan
   doi: https://doi.org/10.1101/2021.02.11.430787
   ref 'Hoffmann_et_al_02_11_2021
     head = We show that the S protein of the UK, South Africa and Brazil variants mediate robust entry into human cell lines and that entry is blocked by soluble ACE2 (sACE2), protease inhibitors active against TMPRSS2 and membrane fusion inhibitors.
@@ -471,6 +484,7 @@ feed Feb2021
 
 
   // Neutralizing Activity of BNT162b2-Elicited Serum — Preliminary Report
+  @@XupingXie
   doi: https://doi.org/10.1056/NEJMc2102017
   ref 'Liu_et_al_02_17_2021
     head = We engineered S mutations from the B.1.351 lineage into USA-WA1/2020, a relatively early isolate of the virus. We subsequently produced three recombinant viruses.  The first had an N-terminal domain deletion and the globally dominant D614G substitution (del242-244+D614G),2,3 the second had mutations affecting three amino acids at the receptor-binding site (K417N, E484K, and N501Y) and a D614G substitution (B.1.351-RBD+D614G), and the third had all the mutations found in the S gene in the B.1.351 lineage (B.1.351-spike). We performed 50% plaque reduction neutralization testing (PRNT50) using 20 serum samples that had been obtained from 15 participants in the pivotal trial 2 or 4 weeks after the administration of boost immunization with 30 μg of BNT162b2.
@@ -487,6 +501,7 @@ feed Feb2021
 
 
   // Serum Neutralizing Activity Elicited by mRNA-1273 Vaccine — Preliminary Report
+  @@DarinEdwards
   doi: https://doi.org/10.1056/NEJMc2102179
   ref 'Wu_et_al_02_17_2021
     head = We assayed the serum neutralizing activity against recombinant vesicular stomatitis virus (rVSV)–based SARS-CoV-2 (a pseudovirus-based model) in specimens obtained from participants in the phase 1 trial of the mRNA-1273 vaccine. We tested pseudoviruses bearing the spike protein from the original Wuhan-Hu-1 isolate, the D614G variant, the B.1.1.7 and B.1.351 variants, and other variants
@@ -511,6 +526,7 @@ feed Feb2021
 
   # incomplete - Spike and mutation quotes
   // A SARS-CoV-2 lineage A variant (A.23.1) with altered spike has emerged and is dominating the current Uganda epidemic
+  @@MatthewCotten
   doi: https://doi.org/10.1101/2021.02.08.21251393
   ref 'Bugembe_et_al_02_11_2021
     head = We report here newly emerging A sub-lineages, A.23 and A.23.1, encoding replacements in the spike protein, nsp6, ORF8 and ORF9, with A.23.1 the major virus lineage now observed in Kampala
@@ -567,6 +583,7 @@ feed Feb2021
 
 
   // Emergence of a Novel SARS-CoV-2 Variant in Southern California
+  @@JasminePlummer
   doi: https://doi.org/10.1001/jama.2021.1612
   ref 'Zhang_et_al_02_11_2021
     head = We analyzed variants of SARS-CoV-2 in Southern California to establish whether one of these known strains or a novel variant had emerged.
@@ -587,6 +604,7 @@ feed Feb2021
 
 
   // Sensitivity of infectious SARS-CoV-2 B.1.1.7 and B.1.351 variants to neutralizing antibodies
+  @@OlivierSchwartz
   doi: https://doi.org/10.1101/2021.02.12.430472
   ref 'Planas_et_al_02_12_2021
     head = We analyzed the cross reactivity of the humoral response to pre-existing SARS-CoV-2 viruses and recently emerging variants, in sera from long-term convalescent individuals and recent vaccine recipients.
@@ -614,6 +632,7 @@ feed Feb2021
 
 
   // Effect of the new SARS-CoV-2 variant B.1.1.7 on children and young people
+  @@AtulGupta
   doi: https://doi.org/10.1016/S2352-4642(21)00030-4
   ref 'Brookman_et_al_02_10_2021
     head =  We have previously published data pertaining to children and young people admitted during the first wave and here, we compare those data with the characteristics of children and young people admitted with acute respiratory COVID-19 thus far during wave 2.
@@ -635,6 +654,7 @@ feed Feb2021
 
 
   // Safety and efficacy of the ChAdOx1 nCoV-19 (AZD1222) Covid-19 vaccine against the B.1.351 variant in South Africa
+  @@ShabirMadhi
   doi: https://doi.org/10.1101/2021.02.10.21251247
   ref 'Madhi_et_al_02_12_2021
     head = We conducted a randomized multicentre, double blinded controlled trial on safety and efficacy of ChAdOx1-nCoV19 in HIV-uninfected people in South Africa. Participants age 18 to <65 years randomized (1:1) to two doses of vaccine containing 5x1010 viral particles or placebo 21-35 days apart. Post 2nd-dose serum samples were tested by pseudotyped and live virus neutralization assays against the D614G and B.1.351 variants.
@@ -665,6 +685,7 @@ feed Feb2021
 
 
   // Decreased SARS-CoV-2 viral load following vaccination
+  @@RoyKishony
   doi: https://doi.org/10.1101/2021.02.06.21251283
   ref 'Tiefenbrun_et_al_02_08_2021
     head = We analyzed positive SARS-CoV-2 test results following inoculation with the BNT162b2 mRNA vaccine.
@@ -680,6 +701,7 @@ feed Feb2021
 
 
   // Antibodies elicited by SARS-CoV-2 infection and boosted by vaccination neutralize an emerging variant and SARS-CoV-1
+  @@Andrew
   doi: https://doi.org/10.1101/2021.02.05.21251182
   ref 'Stamatatos_et_al_02_08_2021
     head = Here we examined whether sera and monoclonal antibodies from convalescent donors, prior to and following a single immunization with the Pfizer or Moderna mRNA vaccines, neutralize the Wuhan-Hu-1 strain and a variant, B.1.351 from South Africa.
@@ -714,6 +736,7 @@ feed Feb2021
     quote !a =
 
   // Newborn antibodies to SARS-CoV-2 detected in cord blood after maternal vaccination
+  @@ChadRudnick
   doi: https://doi.org/10.1101/2021.02.03.21250579
   ref 'Gilbert_et_al_02_05_2021
     head = We report the first known case of an infant with SARS-CoV-2 IgG antibodies detectable in cord blood after maternal vaccination. A vigorous, healthy, full-term female was born to a COVID-19 naive mother who had received a single dose of mRNA vaccine for SARS-CoV-2 three weeks prior to delivery.
@@ -728,6 +751,7 @@ feed Feb2021
     quote !a = Cord blood antibodies (IgG) were detected to the S-protein of SARS-CoV-2 at time of delivery.
 
   // Efficacy of ChAdOx1 nCoV-19 (AZD1222) Vaccine Against SARS-CoV-2 VOC 202012/01 (B.1.1.7)
+  @@SagidaBibi
   doi: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3779160
   ref 'Emary_et_al_02_04_2021
     head = Volunteers enrolled in phase II/III vaccine efficacy studies in the United Kingdom and randomised 1:1. Swabs were tested by NAAT for SARS-CoV-2, and positive samples were sequenced. Neutralising antibody responses were measured using a live virus neutralisation assay against the B.1.1.7 and Victoria lineages of the virus.
@@ -763,6 +787,7 @@ feed Feb2021
 
 
   // Infection and mRNA-1273 vaccine antibodies neutralize SARS-CoV-2 UK variant
+  @@MehulSuthar
   doi: https://doi.org/10.1101/2021.02.02.21250799
   ref 'Edara_et_al_02_05_2021
     head = In this study, we used a live virus neutralization assay to compare the neutralization potency of sera from infected and vaccinated individuals against a panel of SARS-CoV-2 variants, including SARS-CoV-2 B.1.1.7.
@@ -777,6 +802,7 @@ feed Feb2021
     quote !a =  We found that both infection- and vaccine-induced antibodies were effective at neutralizing the SARS-CoV-2 B.1.1.7 variant.
 
   // Single Dose Administration, And The Influence Of The Timing Of The Booster Dose On Immunogenicity and Efficacy Of ChAdOx1 nCoV-19 (AZD1222) Vaccine
+  @@ShabirMadhi
   doi: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3777268
   ref 'Voysey_et_al_02_01_2021
     head = We present data from phase III efficacy trials of ChAdOx1 nCoV-19 in the United Kingdom and Brazil, and phase I/II clinical trials in the UK and South Africa, against symptomatic disease caused by SARS-CoV-2.
@@ -825,6 +851,7 @@ feed Feb2021
 
 
   // Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine (CoronaVac) in healthy adults aged 60 years and older: a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial
+  @@YuliangZhao
   doi: https://doi.org/10.1016/S1473-3099(20)30987-7
   ref 'Wu_et_al_02_03_2021
     head = We did a randomised, double-blind, placebo-controlled, phase 1/2 clinical trial of CoronaVac in healthy adults aged 60 years and older in Renqiu (Hebei, China). Vaccine or placebo was given by intramuscular injection in two doses (days 0 and 28).
@@ -853,6 +880,7 @@ feed Feb2021
     quote !c = In phase 1, seroconversion after the second dose was observed in 24 of 24 participants in the 3 μg group and 22 of 23 in the 6 μg group. In phase 2, seroconversion was seen in 88 of 97 participants in the 1·5 μg group, 96 of 98 in the 3 μg group, and 97 of 98 in the 6 μg group. There were no detectable antibody responses in the placebo groups.
 
   // Safety and efficacy of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine: an interim analysis of a randomised controlled phase 3 trial in Russia
+  @@DenisLogunov
   doi: https://doi.org/10.1016/S0140-6736(21)00234-8
   ref 'Logunov_et_al_02_02_2021
     head = We did a randomised, double-blind, placebo-controlled, phase 3 trial at 25 hospitals and polyclinics in Moscow, Russia. The vaccine was administered (0·5 mL/dose) intramuscularly in a prime-boost regimen: a 21-day interval between the first dose (rAd26) and the second dose (rAd5), both vectors carrying the gene for the full-length SARS-CoV-2 glycoprotein S.
