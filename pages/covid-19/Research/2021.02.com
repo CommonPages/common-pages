@@ -1,6 +1,7 @@
 feed Feb2021
 
   -
+    'Faria_et_al_02_25_2021
     'Accorsi_et_al_02_25_2021
     'Vasileiou_et_al_02_20_2020
     'Goyal_et_al_02_23_2021
@@ -22,6 +23,106 @@ feed Feb2021
     'McCarthy_et_al_02_03_2021
     'Logunov_et_al_02_02_2021
     'Wu_et_al_02_03_2021
+
+
+  // Persistence of antibodies to SARS-CoV-2 in relation to symptoms in a nationwide prospective study
+  doi: https://dx.doi.org/10.1093%2Fcid%2Fciab172
+  ref 'Hartog_et_al_02_24_2021
+    head = Participants from a prospective representative serological study in the Netherlands were included based on IgG seroconversion to the Spike S1 protein of SARS-CoV-2 (N=353), with up to three consecutive serum samples per seroconverted participant (N=738). IgM, IgA and IgG antibody concentrations to S1, and increase in IgG avidity in relation to time since onset of disease symptoms, were determined.
+
+    > Background
+      Assessing the duration of immunity following infection with SARS-CoV-2 is a first priority to gauge the degree of protection following infection. Such knowledge is lacking especially in the general population. Here, we studied changes in Immunoglobulin (Ig) isotype seropositivity and IgG binding strength of SARS-CoV-2-specific serum antibodies up to 7 months following onset of symptoms in a nationwide sample.
+
+    >  Methods
+      Participants from a prospective representative serological study in the Netherlands were included based on IgG seroconversion to the Spike S1 protein of SARS-CoV-2 (N=353), with up to three consecutive serum samples per seroconverted participant (N=738). IgM, IgA and IgG antibody concentrations to S1, and increase in IgG avidity in relation to time since onset of disease symptoms, were determined.
+
+    > Results
+      While SARS-CoV-2-specific IgM and IgA antibodies declined rapidly after the first month post onset of disease, specific IgG was still present in 92% (95% confidence interval, CI, 89-95) of the participants after 7 months. The estimated 2-fold decrease of IgG antibodies was 158 days (95% CI 136-189). Concentrations sustained better in persons reporting significant symptoms compared to asymptomatic persons or those with mild upper respiratory complaints only. Similarly, avidity of IgG antibodies for symptomatic persons showed a steeper increase over time compared with persons with mild or no symptoms (p=0.022).
+
+    >  Conclusion
+      SARS-CoV-2-specific IgG antibodies persist and show increasing avidity over time, indicative of underlying immune maturation. These data support development of immune memory against SARS-CoV-2 providing insight into protection of the general unvaccinated part of the population.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2021 - Clin Infect Dis.
+    quote !a = While SARS-CoV-2-specific IgM and IgA antibodies declined rapidly after the first month post onset of disease, specific IgG was still present in 92% of the participants after 7 months. The estimated 2-fold decrease of IgG antibodies was 158 days
+
+    / February, 2021 - Clin Infect Dis.
+    quote !b = Concentrations sustained better in persons reporting significant symptoms compared to asymptomatic persons or those with mild upper respiratory complaints only. Similarly, avidity of IgG antibodies for symptomatic persons showed a steeper increase over time compared with persons with mild or no symptoms
+
+  // Deep immune profiling of MIS-C demonstrates marked but transient immune activation compared to adult and pediatric COVID-19
+  doi: https://doi.org/10.1126/sciimmunol.abf7570
+  ref 'Vella_et_al_03_02_2021
+    head = A subset of children, present with Multisystem Inflammatory Syndrome in Children (MIS-C) that can lead to vascular complications and shock, but rarely death following SARS-Cov-2 infection. We analyzed peripheral blood immune responses in hospitalized SARS-CoV-2 infected pediatric patients (pediatric COVID-19) and patients with MIS-C.
+
+    > Abstract
+      Pediatric COVID-19 following SARS-CoV-2 infection is associated with fewer hospitalizations and often milder disease than in adults. A subset of children, however, present with Multisystem Inflammatory Syndrome in Children (MIS-C) that can lead to vascular complications and shock, but rarely death. The immune features of MIS-C compared to pediatric COVID-19 or adult disease remain poorly understood. We analyzed peripheral blood immune responses in hospitalized SARS-CoV-2 infected pediatric patients (pediatric COVID-19) and patients with MIS-C. MIS-C patients had patterns of T cell-biased lymphopenia and T cell activation similar to severely ill adults, and all patients with MIS-C had SARS-CoV-2 spike-specific antibodies at admission. A distinct feature of MIS-C patients was robust activation of vascular patrolling CX3CR1+ CD8+ T cells that correlated with the use of vasoactive medication. Finally, whereas pediatric COVID-19 patients with acute respiratory distress syndrome (ARDS) had sustained immune activation, MIS-C patients displayed clinical improvement over time, concomitant with decreasing immune activation. Thus, non-MIS-C versus MIS-C SARS-CoV-2 associated illnesses are characterized by divergent immune signatures that are temporally distinct from one another and implicate CD8+ T cells in the clinical presentation and trajectory of MIS-C.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / March, 2021 - Science Immunology
+    quote !a = MIS-C patients had patterns of T cell-biased lymphopenia and T cell activation similar to severely ill adults, and all patients with MIS-C had SARS-CoV-2 spike-specific antibodies at admission.
+
+    / March, 2021 - Science Immunology
+    quote !b = A distinct feature of MIS-C patients was robust activation of vascular patrolling CX3CR1+ CD8+ T cells that correlated with the use of vasoactive medication.
+
+    / March, 2021 - Science Immunology
+    quote !c = Pediatric COVID-19 patients with acute respiratory distress syndrome (ARDS) had sustained immune activation, MIS-C patients displayed clinical improvement over time, concomitant with decreasing immune activation.
+
+    / March, 2021 - Science Immunology
+    quote !d = Non-MIS-C versus MIS-C SARS-CoV-2 associated illnesses are characterized by divergent immune signatures that are temporally distinct from one another
+
+
+
+  // Genomics and epidemiology of a novel SARS-CoV-2 lineage in Manaus, Brazil
+  doi: https://raw.githubusercontent.com/CADDE-CENTRE/Novel-SARS-CoV-2-P1-Lineage-in-Brazil/main/manuscript/FINAL_P1_MANUSCRIPT_25-02-2021_combined.pdf
+  ref 'Faria_et_al_02_25_2021
+    head = We report the evolution and emergence of a SARS-CoV-2 lineage of concern associated with rapid transmission in Manaus.
+
+    > Abstract
+      Cases of SARS-CoV-2 infection in Manaus, Brazil, resurged in late 2020, despite high levels of previous infection there. Through genome sequencing of viruses sampled in Manaus between November 2020 and January 2021, we identified the emergence and circulation of a novel SARS-CoV-2 variant of concern, lineage P.1, that acquired 17 mutations, including a trio in the spike protein (K417T, E484K and N501Y) associated with increased binding to the human ACE2 receptor. Molecular clock analysis shows that P.1 emergence occurred around early November 2020 and was preceded by a period of faster molecular evolution. Using a two-category dynamical model that integrates genomic and mortality data, we estimate that P.1 may be 1.4–2.2 times more transmissible and able to evade 25-61% of protective immunity elicited by previous infection with non-P.1 lineages. Enhanced global genomic surveillance of variants of concern, which may exhibit increased transmissibility and/or immune evasion, is critical to accelerate pandemic responsiveness.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / Feb, 2021 - CADDE-CENTRE
+    quote !a = We identified the emergence and circulation of a novel SARS-CoV-2 variant of concern, lineage P.1, that acquired 17 mutations, including a trio in the spike protein (K417T, E484K and N501Y) associated with increased binding to the human ACE2 receptor.
+
+    / Feb, 2021 - CADDE-CENTRE
+    quote !b = Molecular clock analysis shows that P.1 emergence occurred around early November 2020 and was preceded by a period of faster molecular evolution.
+
+    / Feb, 2021 - CADDE-CENTRE
+    quote !c = Using a two-category dynamical model that integrates genomic and mortality data, we estimate that P.1 may be 1.4–2.2 times more transmissible and able to evade 25-61% of protective immunity elicited by previous infection with non-P.1 lineages.
+
+  // Transmission of SARS-CoV-2 in domestic cats imposes a narrow bottleneck
+  doi: https://doi.org/10.1371/journal.ppat.1009373
+  ref 'Braun_et_al_02_26_2021
+    head = We use a cat transmission model to show that SARS-CoV-2 genetic diversity is largely shaped by genetic drift and purifying selection, with the notable exception of a single variant in Spike at residue 655 (H655Y).
+
+    > Abstract
+      The evolutionary mechanisms by which SARS-CoV-2 viruses adapt to mammalian hosts and, potentially, undergo antigenic evolution depend on the ways genetic variation is generated and selected within and between individual hosts. Using domestic cats as a model, we show that SARS-CoV-2 consensus sequences remain largely unchanged over time within hosts, while dynamic sub-consensus diversity reveals processes of genetic drift and weak purifying selection. We further identify a notable variant at amino acid position 655 in Spike (H655Y), which was previously shown to confer escape from human monoclonal antibodies. This variant arises rapidly and persists at intermediate frequencies in index cats. It also becomes fixed following transmission in two of three pairs. These dynamics suggest this site may be under positive selection in this system and illustrate how a variant can quickly arise and become fixed in parallel across multiple transmission pairs. Transmission of SARS-CoV-2 in cats involved a narrow bottleneck, with new infections founded by fewer than ten viruses. In RNA virus evolution, stochastic processes like narrow transmission bottlenecks and genetic drift typically act to constrain the overall pace of adaptive evolution. Our data suggest that here, positive selection in index cats followed by a narrow transmission bottleneck may have instead accelerated the fixation of S H655Y, a potentially beneficial SARS-CoV-2 variant. Overall, our study suggests species- and context-specific adaptations are likely to continue to emerge. This underscores the importance of continued genomic surveillance for new SARS-CoV-2 variants as well as heightened scrutiny for signatures of SARS-CoV-2 positive selection in humans and mammalian model systems.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2021 - Plos
+    quote !a = We find very narrow transmission bottlenecks in cats, involving transmission of only 2–5 viruses. Our findings show cat models recapitulate key aspects of SARS-CoV-2 evolution in humans
+
+    / February, 2021 - Plos
+    quote !b = Positive selection in index cats followed by a narrow transmission bottleneck may have instead accelerated the fixation of S H655Y, a potentially beneficial SARS-CoV-2 variant.
+
+    / February, 2021 - Plos
+    quote !c = Our study suggests species- and context-specific adaptations are likely to continue to emerge.
 
   // A Novel SARS-CoV-2 Variant of Concern, B.1.526, Identified in New York
   @@David

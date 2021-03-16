@@ -1,6 +1,7 @@
 feed Jan2021
 
   -
+    'Lopez-Leon_et_al_01_30_2021
     'Nervtag_et_al_01_21_2021
     'Song_et_al_01_12_2021
     'Sadoff_et_al_01_13_2021
@@ -10,6 +11,37 @@ feed Jan2021
     'Pilotto_et_al_01_02_2021
 
   #
+
+  // More than 50 Long-term effects of COVID-19: a systematic review and meta-analysis
+  doi: https://doi.org/10.1101/2021.01.27.21250617
+  ref 'Lopez-Leon_et_al_01_30_2021
+    head = This systematic review and meta-analysis aims to identify studies assessing long-term effects of COVID-19 and estimates the prevalence of each symptom, sign, or laboratory parameter of patients at a post-COVID-19 stage.
+
+    > Abstract
+      COVID-19, caused by SARS-CoV-2, can involve sequelae and other medical complications that last weeks to months after initial recovery, which has come to be called Long-COVID or COVID long-haulers. This systematic review and meta-analysis aims to identify studies assessing long-term effects of COVID-19 and estimates the prevalence of each symptom, sign, or laboratory parameter of patients at a post-COVID-19 stage. LitCOVID (PubMed and Medline) and Embase were searched by two independent researchers. All articles with original data for detecting long-term COVID-19 published before 1st of January 2021 and with a minimum of 100 patients were included. For effects reported in two or more studies, meta-analyses using a random-effects model were performed using the MetaXL software to estimate the pooled prevalence with 95% CI. Heterogeneity was assessed using I2 statistics. This systematic review followed Preferred Reporting Items for Systematic Reviewers and Meta-analysis (PRISMA) guidelines, although the study protocol was not registered. A total of 18,251 publications were identified, of which 15 met the inclusion criteria. The prevalence of 55 long-term effects was estimated, 21 meta-analyses were performed, and 47,910 patients were included. The follow-up time ranged from 14 to 110 days post-viral infection. The age of the study participants ranged between 17 and 87 years. It was estimated that 80% (95% CI 65-92) of the patients that were infected with SARS-CoV-2 developed one or more long-term symptoms. The five most common symptoms were fatigue (58%), headache (44%), attention disorder (27%), hair loss (25%), and dyspnea (24%). All meta-analyses showed medium (n=2) to high heterogeneity (n=13). In order to have a better understanding, future studies need to stratify by sex, age, previous comorbidities, severity of COVID-19 (ranging from asymptomatic to severe), and duration of each symptom. From the clinical perspective, multi-disciplinary teams are crucial to developing preventive measures, rehabilitation techniques, and clinical management strategies with whole-patient perspectives designed to address long COVID-19 care.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / January, 2021 - medRxiv
+    quote !a = It was estimated that 80% (95% CI 65-92) of the patients that were infected with SARS-CoV-2 developed one or more long-term symptoms.
+
+    / January, 2021 - medRxiv
+    quote !b = We identified a total of 55 long-term effects associated with COVID-19 in the literature reviewed
+
+    / January, 2021 - medRxiv
+    quote !c = The five most common symptoms were fatigue (58%), headache (44%), attention disorder (27%), hair loss (25%), and dyspnea (24%).
+
+    / January, 2021 - medRxiv
+    quote !d = An abnormal chest XRay/CT was observed in 34% (95% CI 27-42) of the patients. Markers reported to be elevated were D-dimer (20%, 95% CI 6-39), NTproBNP (11%, 95% CI 6-17) C-reactive protein (8%, 95% CI 5-12), serum ferritin (8% 95% CI 4-14), procalcitonin (4% 95% CI 2-9) and IL-6 (3% 95% CI% 1-7)
+
+    / January, 2021 - medRxiv
+    quote !e = Other symptoms were related to lung disease (cough, chest discomfort, reduced pulmonary diffusing capacity, sleep apnea, and pulmonary fibrosis), cardiovascular (arrhythmias, myocarditis), neurological (dementia, depression, anxiety, attention disorder, obsessivecompulsive disorders), and others were unspecific such as hair loss, tinnitus, and night sweat.
+
   // The effectiveness of the first dose of BNT162b2 vaccine in reducing SARS-CoV-2 infection 13-24 days after immunization: real-world evidence
   doi: https://doi.org/10.1101/2021.01.27.21250612
   ref 'Chodick_et_al_01_29_2021

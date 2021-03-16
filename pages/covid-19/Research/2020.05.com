@@ -169,7 +169,6 @@ feed May2020
       Care must be taken in interpreting RT-PCR tests for SARS-CoV-2 infection—particularly early in the course of infection—when using these results as a basis for removing precautions intended to prevent onward transmission. If clinical suspicion is high, infection should not be ruled out on the basis of RT-PCR alone, and the clinical and epidemiologic situation should be carefully considered.
 
 
-
     - quotes
       !a
 

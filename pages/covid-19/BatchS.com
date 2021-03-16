@@ -628,9 +628,9 @@
     The emergence of SARS-CoV-2 variants with mutations in the spike protein, most recently circulating isolates from the United Kingdom (B.1.1.7) and Republic of South Africa (B.1.351), has led to lower neutralization from convalescent serum by pseudovirus neutralization (PsVN) assays and resistance to certain monoclonal antibodies.
 
   -
-    'Cele_et_al_2021
-    'Cele_et_al_2021.!a
-    'Cele_et_al_2021.!b
+    'Cele_et_al_02_27_2021
+    'Cele_et_al_02_27_2021.!a
+    'Cele_et_al_02_27_2021.!b
   -
     'Wibmer_et_al_01_19_2021
     'Wibmer_et_al_01_19_2021.!a

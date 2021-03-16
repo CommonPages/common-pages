@@ -45,13 +45,40 @@ index: hide
     'Pilotto_et_al_01_02_2021.!b
     'Pilotto_et_al_01_02_2021.!c
 
-  # Neuroinvasion  
+  # Neuroinvasion
   -
     'Song_et_al_01_12_2021
     'Song_et_al_01_12_2021.!a
     'Song_et_al_01_12_2021.!b
     'Song_et_al_01_12_2021.!c
 
+  # Complication - MISC Children - Deep immune profiling of MIS-C demonstrates marked but transient immune activation compared to adult and pediatric COVID-19
+  -
+    'Vella_et_al_03_02_2021
+    'Vella_et_al_03_02_2021.!a
+    'Vella_et_al_03_02_2021.!b
+    'Vella_et_al_03_02_2021.!c
+    'Vella_et_al_03_02_2021.!d
+
+  # Long Covid
+  -
+    'Lopez-Leon_et_al_01_30_2021
+    'Lopez-Leon_et_al_01_30_2021.!a
+    'Lopez-Leon_et_al_01_30_2021.!b
+    'Lopez-Leon_et_al_01_30_2021.!c
+    'Lopez-Leon_et_al_01_30_2021.!d
+    'Lopez-Leon_et_al_01_30_2021.!e
+
+  # Igg duration more than 7 months. More on symptomatic over asymptotic
+  -
+    'Hartog_et_al_02_24_2021
+    'Hartog_et_al_02_24_2021.!a
+    'Hartog_et_al_02_24_2021.!b
+
+  # Vitamin D deficiency was not significantly associated with either number of infections, recoveries or mortality rate of COVID-19 among European countries.
+  -
+    'Bakaloudi_et_al_03_10_2021
+    'Bakaloudi_et_al_03_10_2021.!a
 
   # > Claim / Background
   #   Estimated mean incubation period of approximately 5 days is comparable to known mean values of the incubation period for severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome

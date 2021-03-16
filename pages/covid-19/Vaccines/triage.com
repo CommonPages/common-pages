@@ -89,3 +89,48 @@
       'Chevallier_et_al_02_09_2021.!a
       'Chevallier_et_al_02_09_2021.!b
       'Chevallier_et_al_02_09_2021.!c
+
+  # T Cell immunity from mRNA vaccine and convalescent works well against new variants
+  -
+    'Tarke_et_al_03_01_2021
+    'Tarke_et_al_03_01_2021.!a
+    'Tarke_et_al_03_01_2021.!b
+
+  # Removing the polybasic cleavage site of spike results in an optimal antigen. design is used by J&J and Novavax.
+  -
+    'Amanat_et_al_03_02_2021
+    'Amanat_et_al_03_02_2021.!a
+
+  # Bharat Biotech Phase 3 - 81%
+  -
+    'Bharatbiotech_et_al_03_23_2021
+    'Bharatbiotech_et_al_03_23_2021.!a
+
+  # Novavax against B.1.351 - Efficacy 51%
+  -
+    'Shinde_et_al_03_03_2021
+    'Shinde_et_al_03_03_2021.!a
+    'Shinde_et_al_03_03_2021.!b
+    'Shinde_et_al_03_03_2021.!c
+
+  # Single dose in HCW mRNA had good enough antibodies
+  -
+    'Saadat_et_al_03_01_2020
+    'Saadat_et_al_03_01_2020.!a
+    'Saadat_et_al_03_01_2020.!b
+
+  # Pregnancy - One Scientists pointed out the need for monitoring pregnant women taking vaccines to make evidence-based recommendations. Author also quoted that multiple strands of evidence have shown that vaccination does not harm fertility.
+  -
+    'Male_et_al_03_03_2021
+    'Male_et_al_03_03_2021.!a
+    'Male_et_al_03_03_2021.!b
+
+
+  # B-Cell Response - mRNA and Prior SARS-CoV-2 individual
+  -
+    'Goel_et_al_03_06_2021
+    'Goel_et_al_03_06_2021.!a
+    'Goel_et_al_03_06_2021.!b
+    'Goel_et_al_03_06_2021.!c
+    'Goel_et_al_03_06_2021.!d
+    'Goel_et_al_03_06_2021.!e

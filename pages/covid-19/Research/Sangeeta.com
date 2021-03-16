@@ -2050,22 +2050,30 @@ feed Sangeeta
 
   #
   // Escape of SARS-CoV-2 501Y.V2 variants from neutralization by convalescent plasma
-  doi: https://www.ahri.org/wp-content/uploads/2021/01/MEDRXIV-2021-250224v1-Sigal.pdf
-  ref 'Cele_et_al_2021
-    head = We address whether the 501Y.V2 variant could escape the neutralizing antibody response elicited by natural infection with earlier variants. We were the first to outgrow two variants of 501Y.V2 from South Africa, designated 501Y.V2.HV001 and 501Y.V2.HVdF002. We examined the neutralizing effect of convalescent plasma collected from six adults hospitalized with COVID-19 using a microneutralization assay with live (authentic) virus.
+  doi: https://www.medrxiv.org/content/10.1101/2021.01.26.21250224v2.full.pdf
+  ref 'Cele_et_al_02_27_2021
+    head = We compared neutralization of a first wave virus (B.1.1.117) versus the 501Y.V2 variant using plasma collected from adults hospitalized with COVID-19 from two South African infection waves, with the second wave dominated by 501Y.V2 infections.
 
     > Abstract
-      New SARS-CoV-2 variants with mutations in the spike glycoprotein have arisen inde3 pendently at multiple locations and may have functional significance. The combination of mutations in the 501Y.V2 variant first detected in South Africa include the N501Y, K417N, and E484K mutations in the receptor binding domain (RBD) as well as muta6 tions in the N-terminal domain (NTD). Here we address whether the 501Y.V2 variant could escape the neutralizing antibody response elicited by natural infection with earlier variants. We were the first to outgrow two variants of 501Y.V2 from South Africa, designated 501Y.V2.HV001 and 501Y.V2.HVdF002. We examined the neutralizing effect of convalescent plasma collected from six adults hospitalized with COVID-19 using a microneutralization assay with live (authentic) virus. Whole genome sequencing of the infecting virus of the plasma donors confirmed the absence of the spike mutations which characterize 501Y.V2. We infected with 501Y.V2.HV001 and 501Y.V2.HVdF002 and compared plasma neutralization to first wave virus which contained the D614G mutation but no RBD or NTD mutations. We observed that neutralization of the 501Y.V2 variants was strongly attenuated, with IC50 6 to 200-fold higher relative to first wave virus. The degree of attenuation varied between participants and included a knockout of neutralization activity. This observation indicates that 501Y.V2 may escape the neutralizing antibody response elicited by prior natural infection. It raises a concern of potential reduced protection against re-infection and by vaccines designed to target the spike protein of earlier SARS-CoV-2 variants.
+      New SARS-CoV-2 variants with mutations in the spike glycoprotein have arisen independently at multiple locations and may have functional significance. The combination of mutations in the 501Y.V2 variant first detected in South Africa include the N501Y, K417N, and E484K mutations in the receptor binding domain (RBD) as well as muta6 tions in the N-terminal domain (NTD). Here we address whether the 501Y.V2 variant could escape the neutralizing antibody response elicited by natural infection with earlier variants. We were the first to outgrow two variants of 501Y.V2 from South Africa, designated 501Y.V2.HV001 and 501Y.V2.HVdF002. We examined the neutralizing effect of convalescent plasma collected from six adults hospitalized with COVID-19 using a microneutralization assay with live (authentic) virus. Whole genome sequencing of the infecting virus of the plasma donors confirmed the absence of the spike mutations which characterize 501Y.V2. We infected with 501Y.V2.HV001 and 501Y.V2.HVdF002 and compared plasma neutralization to first wave virus which contained the D614G mutation but no RBD or NTD mutations. We observed that neutralization of the 501Y.V2 variants was strongly attenuated, with IC50 6 to 200-fold higher relative to first wave virus. The degree of attenuation varied between participants and included a knockout of neutralization activity. This observation indicates that 501Y.V2 may escape the neutralizing antibody response elicited by prior natural infection. It raises a concern of potential reduced protection against re-infection and by vaccines designed to target the spike protein of earlier SARS-CoV-2 variants.
 
     - quotes
       !a
       !b
+      !c
+      !d
 
-    /
-    quote !a = We present data suggesting that the 501Y.V2 variant first detected in South Africa is able to escape the neutralizing antibody response elicited by natural infection with earlier variants.
+    / Feb, 2021 - medRxiv
+    quote !a = Sequencing demonstrated that infections in first wave plasma donors were with viruses harbouring none of the 501Y.V2-defining RBD or NTD mutations, except for one with E484K. 501Y.V2 virus was effectively neutralized by plasma from second wave infections and first wave virus was effectively neutralized by first wave plasma
 
-    /
-    quote !b = We infected with 501Y.V2.HV001 and 501Y.V2.HVdF002 and compared plasma neutralization to first wave virus which contained the D614G mutation but no RBD or NTD mutations. We observed that neutralization of the 501Y.V2 variants was strongly attenuated, with IC50 6 to 200-fold higher relative to first wave virus. The degree of attenuation varied between participants and included a knockout of neutralization activity.
+    / Feb, 2021 - medRxiv
+    quote !b = In cross-neutralization, 501Y.V2 virus was poorly neutralized by first wave plasma, with an 8.4-fold drop in neutralization relative to first wave virus and a 15.1-fold drop relative to 501Y.V2 neutralization by second wave plasma.
+
+    / Feb, 2021 - medRxiv
+    quote !c = In contrast, second wave plasma neutralization of first wave virus was more effective, showing 4.1-fold decline relative to 501Y.V2 virus neutralization and 2.3-fold decline relative to first wave plasma neutralization.
+
+    / Feb, 2021 - medRxiv
+    quote !d = Vaccines based on VOC sequences could retain activity against other circulating SARS-CoV-2 lineages.
 
 
 

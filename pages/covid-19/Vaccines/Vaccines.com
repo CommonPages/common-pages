@@ -430,6 +430,10 @@ subject module Vaccines
             'Saadat_et_al_02_18_2021.!a
             'Saadat_et_al_02_18_2021.!b
             'Saadat_et_al_02_18_2021.!c
+          -
+            'Saadat_et_al_03_01_2020
+            'Saadat_et_al_03_01_2020.!a
+            'Saadat_et_al_03_01_2020.!b  
           # One study found that a single immunization with the Pfizer or Moderna mRNA vaccines generated anamnestic B and CD4+ T cell responses and a 1000-fold increase in neutralizing antibody titers against both strains (Wuhan-Hu-1 strain and a variant, B.1.351 from South Africa.) and SARS-CoV-1.
           -
             'Stamatatos_et_al_02_08_2021
@@ -1934,6 +1938,8 @@ subject module Vaccines
   question ?AntigenExposure = Are there any differences in safety or efficacy for individuals who have had a prior antigen exposure?
 
   question ?EpigeneticChange = Is there any evidence of epigenetic changes in innate immune cells as a result of vaccination?
+
+    # https://twitter.com/h_i_g_s_c_h/status/1366902844490670080?s=21
 
   # Questions - Protective threshold in Individuals
 

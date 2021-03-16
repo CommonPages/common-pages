@@ -70,6 +70,7 @@ subject Variants
         'Zhou_et_al_10_27_2020.!b
         'Zhou_et_al_10_27_2020.!c
 
+
     claim !AnimalStudies2 = The same study also reports that there is no evidence for a phenotypic change in pathogenicity in an animal model.
       -
         'Zhou_et_al_10_27_2020
