@@ -83,7 +83,6 @@ feed Sangeeta
 
   #
   // Evaluation of a SARS-CoV-2 Vaccine NVX-CoV2373 in Younger and Older Adults.
-  @@
   doi: https://doi.org/10.1101/2021.02.26.21252482
   ref 'Formica_et_al_03_01_2021
     head = The phase 2 component of our randomized, placebo-controlled, phase 1-2 trial was designed to identify which dosing regimen of NVX-CoV2373 should move forward into late phase studies in younger (18-59 years) and older (60-84 years) participants and was based on immunogenicity and safety data through day 35 (14 days after the second dose). Participants were randomly assigned to receive either one or two intramuscular doses of 5-microgram or 25-microgram NVX-CoV2373 or placebo, 21 days apart, approximately 45% were older participants.
@@ -174,9 +173,8 @@ feed Sangeeta
     quote !a =
 
 
-  #
+  # @@TomShimabukuro
   // SARS-CoV-2 Variant B.1.1.7 is Susceptible to Neutralizing Antibodies Elicited by Ancestral Spike Vaccines
-  @@TomShimabukuro
   doi: https://doi.org/10.1001/jama.2021.1967
   ref 'Shimabukuro_et_al_02_12_2021
     head =
@@ -188,9 +186,8 @@ feed Sangeeta
     quote !a =
 
 
-  #
+  # @@MariaRescigno
   // A cautionary note on recall vaccination in ex-COVID-19 subjects
-  @@MariaRescigno
   doi:  https://doi.org/10.1101/2021.02.01.21250923
   ref 'Levi_et_al_02_06_2021
     head = We tested the antibody response developed after the first dose of the mRNA based vaccine encoding the SARS-CoV-2 full-length spike protein (BNT162b2) in 124 healthcare professionals of which 57 had a previous history of COVID-19 (ExCOVID).
@@ -216,9 +213,9 @@ feed Sangeeta
 
 
   #
+  # @@FelipeNaveca
   // COVID-19 epidemic in the Brazilian state of Amazonas was driven by long-term persistence of endemic SARS-CoV-2 lineages and the recent emergence of the new Variant of Concern P.1
-  @@FelipeNaveca
-  doi: 10.21203/rs.3.rs-275494/v1
+  doi: https://doi.org/10.21203/rs.3.rs-275494/v1
   ref 'Naveca_et_al_02_25_2021
     head = The Northern Brazilian state of Amazonas is one of the most heavily affected country regions by the COVID-19 epidemic and experienced two exponential growing waves in early and late 2020. We did a genomic epidemiology study based on 250 SARS-CoV-2 genomes from different Amazonas municipalities sampled between March 2020 and January 2021.
 
@@ -255,9 +252,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@FlorianKrammer
   // Robust spike antibody responses and increased reactogenicity in seropositive individuals after a single dose of SARS-CoV-2 mRNA
-  @@FlorianKrammer
   doi: https://doi.org/10.1101/2021.01.29.21250653
   ref 'Krammer_et_al_02_01_2021
     head = We describe the antibody responses in 109 individuals with and without documented pre-existing SARS-CoV-2 immunity (seronegative: 68, seropositive: 41) who received their first vaccine dose in 2020.
@@ -285,9 +281,9 @@ feed Sangeeta
 
 
 
-  #
+  # @@MarkMulligan
   // Poor antigen-specific responses to the second BNT162b2 mRNA vaccine dose in SARS-CoV-2-experienced individuals
-  @@MarkMulligan
+
   doi: https://doi.org/10.1101/2021.02.07.21251311
   ref 'Samanovic_et_al_02_09_2021
     head = We evaluated immune responses in 32 subjects who received two-dose BNT162b2 mRNA vaccination. we observed robust antibody responses in individuals who were SARS-CoV-2-naive, with increases in total binding antibody titers, neutralizing antibody titers, and antigen-specific ASC following each dose of the vaccine
@@ -303,9 +299,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@MariaPrendecki
   // Effect of previous SARS-CoV-2 infection on humoral and T-cell responses to single-dose BNT162b2 vaccine
-  @@MariaPrendecki
   doi: https://doi.org/10.1016/S0140-6736(21)00502-X
   ref 'Prendecki_et_al_02_25_2021
     head = We have investigated immunological responses to single-dose BNT162b2 using a combination of serology, live virus neutralisation, and T-cell enzyme-linked immunospot (ELISpot) assays. 72 HCWs from Imperial College Healthcare NHS Trust, who were vaccinated between Dec 23 and Dec 31, 2020, provided blood samples at the time of receiving their first dose of BNT162b2 vaccine and 21-25 days after vaccination.
@@ -333,9 +328,8 @@ feed Sangeeta
 
 
 
-  # Repeat Already done
+  # @@XiaowangQu
   // No higher infectivity but immune escape of SARS-CoV-2 501Y.V2 variants
-  @@XiaowangQu
   doi: https://doi.org/10.1016/j.cell.2021.02.042
   ref 'Li_et_al_02_23_2021
     head = We here constructed 18 501Y.V2-related pseudoviruses using a VSV-based system, and systematically studied the effects of mutations on virus infectivity and antigenicity.
@@ -378,8 +372,8 @@ feed Sangeeta
 
 
   #
+  # @@RanBalicer
   // BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Mass Vaccination Setting
-  @@RanBalicer
   doi: https://doi.org/10.1056/NEJMoa2101765
   ref 'Dagan_et_al_02_24_2021
     head = In this study, data from Israel’s largest health care organization were used to evaluate the effectiveness of the BNT162b2 mRNA vaccine. All persons who were newly vaccinated during the period from December 20, 2020, to February 1, 2021, were matched to unvaccinated controls in a 1:1 ratio according to demographic and clinical characteristics. Each study group included 596,618 persons.
@@ -429,9 +423,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@DavidEpperly
   // Evidence For COVID-19 Vaccine Deferred Dose 2 Boost Timing.
-  @@DavidEpperly
   doi: https://ssrn.com/abstract=3760833
   ref 'Epperly_et_al_01_11_2021
     head = This meta study selected vaccines approved under US FDA EUA and evaluated the available vaccine immune response data, infection immune response data, general immunological supporting material, current vaccination plan performance, current COVID-19 infection and mortality data, existing US CDC guidance, and other bioinformatic data to understand and suggest opportunities for improved epidemiologic action.
@@ -589,9 +582,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@RobertWachter
   // Delayed Second Dose versus Standard Regimen for Covid-19 Vaccination
-  @@RobertWachter
   doi: https://doi.org/10.1056/NEJMclde2101987
   ref 'Kadire_et_al_02_17_2021
     head = Which one of the following approaches would you take? Base your choice on the literature, your own experience, published guidelines, and other information sources. 1) Recommend delaying the second dose. 2) Recommend following the standard regimen. To aid in your decision making, each of these approaches is defended in a short essay by an expert in the field.
@@ -662,9 +654,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@BrettLeav
   // A preliminary report of a randomized controlled phase 2 trial of the safety and immunogenicity of mRNA-1273 SARS-CoV-2 vaccine
-  @@BrettLeav
   doi: https://doi.org/10.1016/j.vaccine.2021.02.007
   ref 'Chu_et_al_02_09_2021
     head = This phase 2, randomized, observer-blind, placebo-controlled trial was conducted in 8 sites in the USA, in healthy adults aged ≥18 years with no known history or risk of SARS-CoV-2 infection, and had not previously received an investigational CoV vaccine or treatment. Participants were stratified into two age cohorts (≥18-<55 and ≥55) and were randomly assigned (1:1:1) to either 50 or 100 µg of mRNA-1273, or placebo administered as two intramuscular injections 28 days apart.
@@ -693,9 +684,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@RavindraGupta
   // Age-related heterogeneity in Neutralising antibody responses to SARS-CoV-2 following BNT162b2 vaccination
-  @@RavindraGupta
   doi: https://doi.org/10.1101/2021.02.03.21251054
   ref 'Collier_et_al_02_20_2021
     head = We assessed real world immune responses following vaccination with mRNA-based vaccine BNT162b2. We did a prospective cohort study of individuals presenting for first dose vaccination.
@@ -739,9 +729,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@JohnRobertson
   // Delayed second dose of the BNT162b2 vaccine: innovation or misguided conjecture?
-  @@JohnRobertson
   doi: https://doi.org/10.1016/S0140-6736(21)00455-4
   ref 'Robertson_et_al_02_19_2021
     head = In a plublished letter the authors strongly support vaccination against COVID-19 with the Pfizer-BioNTech COVID-19 mRNA vaccine BNT162b2 when adhering to the 3-week dosing schedule that was found highly effective in the phase 3 randomised clinical trial—regarded as the gold standard. However they  do not support the second dose being delayed to 12 weeks, as implemented by UK Chief Medical Officers.
@@ -786,9 +775,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@DanielJenkin
   // Phase 1/2 trial of SARS-CoV-2 vaccine ChAdOx1 nCoV-19 with a booster dose induces multifunctional antibody responses
-  @@DanielJenkin
   doi: https://doi.org/10.1038/s41591-020-01179-4
   ref 'Barrett_et_al_12_17_2020
     head = We describe safety and exploratory humoral and cellular immunogenicity of the vaccine, from subgroups of volunteers in a single-blinded phase 1/2 randomized controlled trial of healthy adults aged 18–55 years (NCT04324606), who were subsequently allocated to receive a homologous full-dose (SD/SD D56; n = 20) or half-dose (SD/LD D56; n = 32) ChAdOx1 booster vaccine 56 d following prime vaccination.
@@ -828,9 +816,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@AndrewPollard
   // Single-dose administration and the influence of the timing of the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine: a pooled analysis of four randomised trials
-  @@AndrewPollard
   doi: https://doi.org/10.1016/S0140-6736(21)00432-3
   ref 'Voysey_et_al_02_19_2021
     head = We present data from three single-blind randomised controlled trials—one phase 1/2 study in the UK (COV001), one phase 2/3 study in the UK (COV002), and a phase 3 study in Brazil (COV003)—and one double-blind phase 1/2 study in South Africa (COV005).
@@ -903,8 +890,8 @@ feed Sangeeta
 
 
   #
+  # @@JeanVergnes
   // Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine
-  @@JeanVergnes
   doi: https://doi.org/10.1056/NEJMc2036242
   ref 'Skowronski_et_al_02_17_2021
     head = This is a correspondence letter to the editor regarding Polack et al. (Dec. 31) report a vaccine efficacy of 94.8% against Covid-19 after two doses of the BNT162b2 mRNA vaccine (Pfizer–BioNTech), where they also reported a vaccine efficacy of 52.4% from after the first dose to before the second dose, but in their calculation, they included data that were collected during the first 2 weeks after the first dose, when immunity would have still been mounting. We used documents submitted to the Food and Drug Administration to derive the vaccine efficacy beginning from 2 weeks after the first dose to before the second dose.
@@ -925,9 +912,8 @@ feed Sangeeta
     quote !c = Given the current vaccine shortage, postponement of the second dose is a matter of national security that, if ignored, will certainly result in thousands of Covid-19–related hospitalizations and deaths this winter in the United States — hospitalizations and deaths that would have been prevented with a first dose of vaccine.
 
 
-  #
+  # @@EyalLeshem
   // Early rate reductions of SARS-CoV-2 infection and COVID-19 in BNT162b2 vaccine recipients
-  @@EyalLeshem
   doi: https://doi.org/10.1016/S0140-6736(21)00448-7
   ref 'Amit_et_al_02_18_2021
     head = We examined early reductions in SARS-CoV-2 infection and COVID-19 rates in vaccinated healthecare workers (HCWs). To assess vaccine-associated rate reductions we analysed a retrospective cohort of 9109 vaccine-eligible HCWs, comparing vaccinated versus unvaccinated.
@@ -949,9 +935,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@NealHalsey
   // Immediate hypersensitivity reactions following monovalent 2009 pandemic influenza A (H1N1) vaccines: reports to VAERS
-  @@NealHalsey
   doi: https://doi.org/10.1016/j.vaccine.2013.09.066
   ref 'Halsey_et_al_12_09_2013
     head = A systematic review of reports to the Vaccine Adverse Event Reporting System (VAERS) following monovalent 2009 pandemic influenza A (H1N1) vaccines.
@@ -1005,9 +990,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@John
   // Anaphylaxis after vaccination reported to the Vaccine Adverse Event Reporting System.
-  @@John
   doi: https://doi.org/10.1016/j.jaci.2018.12.1003
   ref 'Su_et_al_01_14_2019
     head = We identified domestic reports of anaphylaxis within VAERS using a combination of Medical Dictionary for Regulatory Activity queries and Preferred Terms. We performed a descriptive analysis, including history of hypersensitivity (anaphylaxis, respiratory allergies, and drug allergies) and vaccines given.
@@ -1061,9 +1045,8 @@ feed Sangeeta
 
 
 
-
+  # @@TomShimabukuro
   // Allergic reactions including anaphylaxis after receipt of the first dose of Pfizer-BioNTech COVID-19 vaccine—United States, December 14–23, 2020.
-  @@TomShimabukuro
   doi: http://dx.doi.org/10.15585/mmwr.mm7002e1
   ref 'Shimabukuro_et_al_01_06_2021
     head = During December 14–23, 2020, monitoring by the Vaccine Adverse Event Reporting System detected 21 cases of anaphylaxis after administration of a reported 1,893,360 first doses of the Pfizer-BioNTech COVID-19 vaccine (11.1 cases per million doses); 71% of these occurred within 15 minutes of vaccination.
@@ -1085,9 +1068,8 @@ feed Sangeeta
     quote !c = Whereas a female predominance has been previously observed in a review of immediate hypersensitivity reports to VAERS after influenza A(H1N1) vaccine, the current finding could be impacted by the observation that more women than men had received a first dose of Pfizer-BioNTech COVID-19 vaccine during the analytic period.
 
 
-  #
+  #  @@TomShimabukuro
   // Allergic Reactions Including Anaphylaxis After Receipt of the First Dose of Moderna COVID-19 Vaccine — United States, December 21, 2020–January 10, 2021
-  @@TomShimabukuro
   doi: http://dx.doi.org/10.15585/mmwr.mm7004e1
   ref 'Shimabukuro_et_al_01_29_2021
     head = During December 21, 2020–January 10, 2021, monitoring by the Vaccine Adverse Event Reporting System detected 10 cases of anaphylaxis after administration of a reported 4,041,396 first doses of Moderna COVID-19 vaccine (2.5 cases per million doses administered). In nine cases, onset occurred within 15 minutes of vaccination. No anaphylaxis-related deaths were reported.
@@ -1105,9 +1087,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@TomShimabukuro
   // Allergic reactions including anaphylaxis after receipt of the first dose of Pfizer-BioNTech COVID-19 vaccine.
-  @@TomShimabukuro
   doi: http://jamanetwork.com/article.aspx?doi=10.1001/jama.2021.0600
   ref 'Shimabukuro_et_al_01_21_2021
     head = During December 14 to 23, 2020, after administration of a reported 1 893 360 first doses of Pfizer-BioNTech COVID-19 vaccine (1 177 527 in women, 648 327 in men, and 67 506 with sex of recipient not reported),3 CDC identified 21 case reports submitted to VAERS that met Brighton Collaboration case definition criteria for anaphylaxis (Table), corresponding to an estimated rate of 11.1 cases per million doses administered.
@@ -1131,9 +1112,8 @@ feed Sangeeta
     quote !d = During the same period, VAERS identified 83 cases of nonanaphylaxis allergic reactions after Pfizer-BioNTech COVID-19 vaccination. Commonly reported symptoms in nonanaphylaxis allergic reactions included pruritus, rash, itchy and scratchy sensations in the throat, and mild respiratory symptoms.
 
 
-  #
+  # @@TomShimabukuro
   // Reports of Anaphylaxis After Receipt of mRNA COVID-19 Vaccines in the US—December 14, 2020-January 18, 2021
-  @@TomShimabukuro
   doi: https://doi.org/10.1001/jama.2021.1967
   ref 'Shimabukuro_et_al_02_12_2021
     head = This analysis updates the reporting rates of anaphylaxis in individuals following receipt of either the Pfizer-BioNTech or Moderna vaccine.
@@ -1175,9 +1155,8 @@ feed Sangeeta
 
 
 
-  #
+  # @@EmilyAdhikari
   // Pregnancy Outcomes Among Women With and Without Severe Acute Respiratory Syndrome Coronavirus 2 Infection.
-  @@EmilyAdhikari
   doi: https://doi.org/10.1001/jamanetworkopen.2020.29256
   ref 'Adhikari_et_al_11_19_2020
     head = This observational cohort study of maternal and neonatal outcomes among delivered women with and without SARS-CoV-2 during pregnancy was conducted from March 18 through August 22, 2020, at Parkland Health and Hospital System (Dallas, Texas), a high-volume prenatal clinic system and public maternity hospital with widespread access to SARS-CoV-2 testing in outpatient, emergency department, and inpatient settings.
@@ -1225,9 +1204,8 @@ feed Sangeeta
     quote !a =
 
 
-  #
+  # @@KerenOlshinka
   // COVID-19 pandemic effect on early pregnancy: are miscarriage rates altered, in asymptomatic women?
-  @@KerenOlshinka
   doi: https://doi.org/10.1007/s00404-020-05848-0
   ref 'Rotshenker-Olshinka_et_al_11_09_2020
     head = A retrospective cohort study conducted at a university-affiliated fertility center in Montreal, Quebec, since the COVID-19 shut down, March 13 until May 6, 2020. In our cohort, we assessed the influence of the pandemic environment, rather than the disease itself, on early pregnancy.
@@ -3021,7 +2999,7 @@ feed Sangeeta
 
 
   #
-  @@JohnShon
+  # @@JohnShon
   // Impact of B.1.1.7 variant mutations on antibody recognition of linear SARSCoV-2 epitopes
   doi: https://doi.org/10.1101/2021.01.06.20248960
   ref 'Haynes_et_al_01_08_2021

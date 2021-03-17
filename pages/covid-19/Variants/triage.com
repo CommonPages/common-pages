@@ -1,12 +1,12 @@
 index: hide
 . Triage
 
-  # P1
-  -
-    'Faria_et_al_02_25_2021
-    'Faria_et_al_02_25_2021.!a
-    'Faria_et_al_02_25_2021.!b
-    'Faria_et_al_02_25_2021.!c
+  # P1 - papers missing? 
+  # -
+  #   'Faria_et_al_02_25_2021
+  #   'Faria_et_al_02_25_2021.!a
+  #   'Faria_et_al_02_25_2021.!b
+  #   'Faria_et_al_02_25_2021.!c
 
   -
     'Wang_et_al_03_02_2021
@@ -35,7 +35,7 @@ index: hide
     'Cele_et_al_02_27_2021.!c
     'Cele_et_al_02_27_2021.!d
 
-  # Cross neutralisation - V2 neutralizea V3 thus vaccine should be designed based based on V2 
+  # Cross neutralisation - V2 neutralizea V3 thus vaccine should be designed based based on V2
   -
     'Moyo-Gwete_et_al_03_11_2021
     'Moyo-Gwete_et_al_03_11_2021.!a

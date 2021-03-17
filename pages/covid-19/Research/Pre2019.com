@@ -368,6 +368,23 @@ feed Pre2019
   - May, 1948
     'Hamburger_et_al_1948
 
+  // Epidemiology and Risk Factors for Venous Thrombosis
+  doi: https://doi.org/10.1053/j.seminhematol.2007.02.004
+  ref 'Cushman_et_al_04_11_2007
+    head = This review focuses on epidemiology of venous thrombosis and the general implications of this in patient management.
+
+    - quotes
+      !a
+      !b
+
+    / April, 2007 - Science Direct
+    quote !a = Venous thrombosis, including deep vein thrombosis (DVT) and pulmonary embolism (PE), occurs at an annual incidence of about 1 per 1,000 adults. Rates increase sharply after about age 45 years, and are slightly higher in men than women in older age
+
+    / April, 2007 - Science Direct
+    quote !b = Major risk factors for thrombosis, other than age, include exogenous factors such as surgery, hospitalization, immobility, trauma, pregnancy, and the puerperium and hormone use, and endogenous factors such as cancer, obesity, and inherited and acquired disorders of hypercoagulation.
+
+
+
   #
   @@VincentMunster
   // Distinct susceptibility of HIV vaccine vector-induced CD4 T cells to HIV infection
@@ -439,7 +456,7 @@ feed Pre2019
     quote !a = Given the increased risk together with the lack of efficacy in trials using rAd5, further HIV vaccine studies testing rAd5 vectors are not appropriate. When considering HIV vaccines that are designed to elicit a component of T-cell immunity, a risk/benefit analysis should consider the balance between anti-HIV responses and vector-directed responses that activate CD4+ T cells, thus rendering them more susceptible to HIV infection, and the potential for re-exposure to vector-related antigens in the environment with subsequent restimulation of the vector response.
 
   # HIV - Ad5
-  @@AnnDuerr
+  # @@AnnDuerr
   // Extended Follow-up Confirms Early Vaccine-Enhanced Risk of HIV Acquisition and Demonstrates Waning Effect Over Time Among Participants in a Randomized Trial of Recombinant Adenovirus HIV Vaccine (Step Study)
   doi: https://doi.org/10.1093/infdis/jis342
   ref 'Duerr_et_al_05_12_2012

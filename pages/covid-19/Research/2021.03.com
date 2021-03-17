@@ -1,6 +1,7 @@
 feed March2021
 
   -
+    'AstraZeneca_et_al_03_14_2021
     'Moyo-Gwete_et_al_03_11_2021
     'Martin_et_al_03_10_2021
     'Male_et_al_03_03_2021
@@ -16,6 +17,43 @@ feed March2021
     'DeSouza_et_al_03_01_2021
     'Zimmer_et_al_03_01_2021
 
+
+  // EMA’s safety committee continues investigation of COVID-19 Vaccine AstraZeneca and thromboembolic events – further update
+  doi: https://www.ema.europa.eu/en/news/emas-safety-committee-continues-investigation-covid-19-vaccine-astrazeneca-thromboembolic-events
+  ref 'EMA_et_al_03_15_2021
+    head = EMA is investigation thromboembolic events, and rigorous analysis of all the data related to thromboembolic events will be carried out in the coming days.
+
+    - quotes
+      !a
+      !b
+
+    / March, 2021 - European Medicine Agency
+    quote !a = Events involving blood clots, some with unusual features such as low numbers of platelets, have occurred in a very small number of people who received the vaccine. Many thousands of people develop blood clots annually in the EU for different reasons. The number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population.
+
+    / March, 2021 - European Medicine Agency
+    quote !b = While its investigation is ongoing, EMA currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
+
+
+
+
+  // Update on the safety of COVID-19 Vaccine AstraZeneca
+  doi: https://www.astrazeneca.com/media-centre/press-releases/2021/update-on-the-safety-of-covid-19-vaccine-astrazeneca.html
+  ref 'AstraZeneca_et_al_03_14_2021
+    head = Following a recent concern raised around thrombotic events, AstraZeneca would like to offer its reassurance on the safety of its COVID-19 vaccine based on clear scientific evidence. Safety is of paramount importance and the Company is continually monitoring the safety of its vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / March, 2021 - Oxford-AstraZeneca
+    quote !a = A careful review of all available safety data of more than 17 million people vaccinated in the European Union (EU) and UK with COVID-19 Vaccine AstraZeneca has shown no evidence of an increased risk of pulmonary embolism, deep vein thrombosis (DVT) or thrombocytopenia, in any defined age group, gender, batch or in any particular country.
+
+    / March, 2021 - Oxford-AstraZeneca
+    quote !b = So far across the  EU and UK, there have been 15 events of DVT and 22 events of pulmonary embolism reported among those given the vaccine, based on the number of cases the Company has received as of 8 March. This is much lower than would be expected to occur naturally in a general population of this size and is similar across other licensed COVID-19 vaccines.
+
+    / March, 2021 - Oxford-AstraZeneca
+    quote !c = In clinical trials, even though the number of thrombotic events was small, these were lower in the vaccinated group. There has also been no evidence of increased bleeding in over 60,000 participants enrolled.
 
   // Prevalence of vitamin D is not associated with the COVID-19 epidemic in Europe. A critical update of the existing evidence
   doi: https://doi.org/10.1101/2021.03.04.21252885

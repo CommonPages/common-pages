@@ -58,7 +58,7 @@ index: hide
     'Vella_et_al_03_02_2021.!a
     'Vella_et_al_03_02_2021.!b
     'Vella_et_al_03_02_2021.!c
-    'Vella_et_al_03_02_2021.!d
+  
 
   # Long Covid
   -

@@ -433,7 +433,7 @@ subject module Vaccines
           -
             'Saadat_et_al_03_01_2020
             'Saadat_et_al_03_01_2020.!a
-            'Saadat_et_al_03_01_2020.!b  
+            'Saadat_et_al_03_01_2020.!b
           # One study found that a single immunization with the Pfizer or Moderna mRNA vaccines generated anamnestic B and CD4+ T cell responses and a 1000-fold increase in neutralizing antibody titers against both strains (Wuhan-Hu-1 strain and a variant, B.1.351 from South Africa.) and SARS-CoV-1.
           -
             'Stamatatos_et_al_02_08_2021
@@ -692,6 +692,9 @@ subject module Vaccines
       -
         Ad5-nCOV.!IntranasalDelivery
 
+      - Adverse Reaction
+        !Thrombosis
+
       / Clinical Trails
       claim !OngoingTrials = Phase 1 & 2 trials began in April of 2020. Phase 2 & 3 trials started in May of 2020 in UK. The estimated primary completion date is March of 2021. Trials will evaluate the safety, efficacy, and Immunogenicity of AZD1222.
         -
@@ -826,6 +829,66 @@ subject module Vaccines
           'Madhi_et_al_02_12_2021.!a
           'Madhi_et_al_02_12_2021.!b
           'Madhi_et_al_02_12_2021.!c
+
+      / Thrombosis (Blood Clots)
+      claim !Thrombosis = As of March 10th of 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. EMA, UK Government so far, found no indication that the recent reports of bloodclots were associated with vaccine. AstraZeneca itself have reported no evidence of increased risk. Several scientists have urged to determine local background rates of these adverse events to investigate this further.  
+        >
+          On September of 2020, [Clinical Trial](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/) was put on hold in US because of suspected adverse reaction, however it was [resumed](https://www.astrazeneca.com/media-centre/press-releases/2020/fda-authorises-restart-of-the-covid-19-azd1222-vaccine-us-phase-iii-trial.html) in october of 2020. In December of 2020, Data reported from {Research.Sangeeta.'Voysey_et_al_12_08_2020 AstraZeneca’s clinical trials}, involving 24,000 people, found four of these thromboembolic events occurred in people given the vaccine.
+          As of March 10th of 2021, there have been 30 thromboembolic events reported from almost 5 million people given COVID vaccines in the Europe. Soon after the reports were published Ireland, Italy, Norway, Denmark, Iceland, Netherlands, France, Spain, Austria & Germany has temporarily paused their rollout of AstraZeneca Covid vaccine due to concern about the bloodclot.
+        >
+          European medicine agency have stated that the number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population and currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
+        -
+          !EMA
+        >
+          [UK government](https://www.gov.uk/government/news/mhra-response-to-danish-authorities-action-to-temporarily-suspend-the-astrazeneca-covid-19-vaccine) has stated that, In the UK, more than 11 million doses of the AstraZeneca vaccine have been administered, and the rate of blood clots has not been greater than the natural rate expected to occur. AstraZeneca itself in their press release have also reported that of 17 million people vaccinated in the United Kingdom and the European Union found no evidence of increased risk of blood clots.
+        -
+          !Oxford
+          !Oxford1
+          !Oxford2
+
+        >
+          Scientists have urged to determine the local background rates of these (and other) potential adverse events as past studies have reported that a small percentage of people will develop thromboembolic event at some point in their lives. The [background rate](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210833) of diseases that could be AEFI(Adverse event following immunization) can be used to estimate the number of expected events within a known population over a period of time.
+        -
+          !ThrombosisPast
+          !ThrombosisRisk
+
+        / Past studies
+        claim !ThrombosisPast = Past studies have shown that Venous thrombosis, including deep vein thrombosis (DVT) and pulmonary embolism (PE), occurs at an annual incidence of about 1 per 1,000 adults. Rates increase sharply after about age 45 years, and are slightly higher in men than women in older age
+          -
+            'Cushman_et_al_04_11_2007
+            'Cushman_et_al_04_11_2007.!a
+
+        claim !ThrombosisRisk = Past studies state that major risk factors for thrombosis, other than age, include exogenous factors such as surgery, hospitalization, immobility, trauma, pregnancy, and the puerperium and hormone use, and endogenous factors such as cancer, obesity, and inherited and acquired disorders of hypercoagulation.
+          -
+            'Cushman_et_al_04_11_2007
+            'Cushman_et_al_04_11_2007.!b
+
+        / European Medicines Agency
+        claim !EMA =  EMA has reported that Events involving blood clots, some with unusual features such as low numbers of platelets, have occurred in a very small number of people who received the vaccine. The number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population
+          -
+            'EMA_et_al_03_15_2021
+            'EMA_et_al_03_15_2021.!a
+            'EMA_et_al_03_15_2021.!b
+
+        / AstraZeneca on thrombosis incident
+        claim !Oxford = AstraZeneca has shown no evidence of an increased risk of pulmonary embolism, deep vein thrombosis (DVT) or thrombocytopenia, in any defined age group, gender, batch or in any particular country.
+          -
+            'AstraZeneca_et_al_03_14_2021
+            'AstraZeneca_et_al_03_14_2021.!a
+
+        / AstraZeneca on Natural Occurrence
+        claim !Oxford1 = The cases reported are much lower than would be expected to occur naturally in a general population of this size and is similar across other licensed COVID-19 vaccines.
+          -
+            'AstraZeneca_et_al_03_14_2021
+            'AstraZeneca_et_al_03_14_2021.!b
+
+        / AstraZeneca on clinical trials
+        claim !Oxford2 = In clinical trials, even though the number of thrombotic events was small, these were lower in the vaccinated group. There has also been no evidence of increased bleeding in over 60,000 participants enrolled.
+          -
+            'AstraZeneca_et_al_03_14_2021
+            'AstraZeneca_et_al_03_14_2021.!c
+
+
 
     / CanSino Bio
     subject Ad5-nCOV
