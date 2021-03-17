@@ -680,6 +680,8 @@ subject module Vaccines
       - Efficacy against SA Variant
         !SAVariant
         !SAVariantEfficacy
+      - Adverse Reaction
+        !Thrombosis  
       - Key Concern
         !EffectiveDosing
       -
@@ -692,8 +694,7 @@ subject module Vaccines
       -
         Ad5-nCOV.!IntranasalDelivery
 
-      - Adverse Reaction
-        !Thrombosis
+
 
       / Clinical Trails
       claim !OngoingTrials = Phase 1 & 2 trials began in April of 2020. Phase 2 & 3 trials started in May of 2020 in UK. The estimated primary completion date is March of 2021. Trials will evaluate the safety, efficacy, and Immunogenicity of AZD1222.
@@ -831,7 +832,7 @@ subject module Vaccines
           'Madhi_et_al_02_12_2021.!c
 
       / Thrombosis (Blood Clots)
-      claim !Thrombosis = As of March 10th of 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. EMA, UK Government so far, found no indication that the recent reports of bloodclots were associated with vaccine. AstraZeneca itself have reported no evidence of increased risk. Several scientists have urged to determine local background rates of these adverse events to investigate this further.  
+      claim !Thrombosis = As of March 10th of 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. EMA, UK Government so far, found no indication that the recent reports of bloodclots were associated with vaccine. AstraZeneca itself have reported no evidence of increased risk. Several scientists have urged to determine local background rates of these adverse events to investigate this further.
         >
           On September of 2020, [Clinical Trial](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/) was put on hold in US because of suspected adverse reaction, however it was [resumed](https://www.astrazeneca.com/media-centre/press-releases/2020/fda-authorises-restart-of-the-covid-19-azd1222-vaccine-us-phase-iii-trial.html) in october of 2020. In December of 2020, Data reported from {Research.Sangeeta.'Voysey_et_al_12_08_2020 AstraZeneca’s clinical trials}, involving 24,000 people, found four of these thromboembolic events occurred in people given the vaccine.
           As of March 10th of 2021, there have been 30 thromboembolic events reported from almost 5 million people given COVID vaccines in the Europe. Soon after the reports were published Ireland, Italy, Norway, Denmark, Iceland, Netherlands, France, Spain, Austria & Germany has temporarily paused their rollout of AstraZeneca Covid vaccine due to concern about the bloodclot.
