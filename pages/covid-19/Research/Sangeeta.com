@@ -7578,7 +7578,7 @@ feed Sangeeta
 
 
   # biomarker for disease severity
-  @@EnhuaXiao
+  # @@EnhuaXiao
   // Association between incubation period and clinical characteristics of patients with COVID-19
   doi: https://doi.org/10.1177/0300060520956834
   ref 'Cai_et_al_09_23_2020

@@ -1,6 +1,7 @@
 feed March2021
 
   -
+    'EMA_et_al_03_15_2021
     'AstraZeneca_et_al_03_14_2021
     'Moyo-Gwete_et_al_03_11_2021
     'Martin_et_al_03_10_2021
@@ -17,6 +18,58 @@ feed March2021
     'DeSouza_et_al_03_01_2021
     'Zimmer_et_al_03_01_2021
 
+  // AstraZeneca ChAdOx1-S COVID-19 vaccine: Update - European and UK reviews find no proven link with blood clots
+  doi: https://www.tga.gov.au/alert/astrazeneca-chadox1-s-covid-19-vaccine
+  ref 'TGA_et_al_03_19_2021
+    head = The Therapeutic Goods Administration (TGA) attended the EMA’s safety committee meeting on 18 March 2021 and released an update-  which found the number of blood clotting cases reported after vaccination, both in the large clinical trials undertaken prior to vaccine authorisation and during rollout of vaccination programs across the world, was lower than that expected in the general population. To 18 March 2021, the TGA has not received any reports of blood clots following administration of the AstraZeneca COVID-19 vaccine in Australia. They advise that people in Australia should continue to get the AstraZeneca vaccine when eligible.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / March, 2021 - JAMA Netw Open.
+    quote !a = The European Medicines Agency (EMA) and the United Kingdom (UK) Medicines and Healthcare products Regulatory Agency (MHRA) have completed preliminary reviews of the risk of blood clots in people vaccinated with the AstraZeneca COVID-19 vaccine. These reviews have found the benefits of the vaccine continue to outweigh the risks, and the vaccine is not associated with an increase in the overall risk of blood clots.
+
+    # / March, 2021 - JAMA Netw Open.
+    # quote !a = The Therapeutic Goods Administration (TGA) attended the EMA’s safety committee meeting on 18 March 2021, which found the number of blood clotting cases reported after vaccination, both in the large clinical trials undertaken prior to vaccine authorisation and during rollout of vaccination programs across the world, was lower than that expected in the general population. Around 20 million people in Europe, and several million more in other parts of the world, have received the vaccine.
+
+    / March, 2021 - JAMA Netw Open.
+    quote !b = The EMA safety committee noted there had been a very small number of cases of a rare type of blood clotting disease (disseminated intravascular coagulation) associated with low levels of blood platelets (blood cells that normally help blood to clot), with or without bleeding, as well as extremely rare cases of clots in the vessels draining blood from the brain (cerebral venous sinus thrombosis, CVST). It has not been proven that these cases were caused by the vaccine and a plausible mechanism for how they could have been caused by the vaccine has not been established.These conditions are also sometimes seen in people who have not received a COVID-19 vaccine or other vaccine.
+
+    / March, 2021 - JAMA Netw Open.
+    quote !c = The EMA safety committee also noted that COVID-19 disease itself is often associated with serious clotting problems, which can themselves be fatal.
+
+    / March, 2021 - JAMA Netw Open.
+    quote !d = Additionally, the EMA found there was no evidence of a problem related to specific batches of the vaccine or to particular manufacturing sites.
+
+    / March, 2021 - JAMA Netw Open.
+    quote !e = The MHRA has also published a statement with its own separate review of reported cases and data from hospital admissions and GP records. They found that all the available evidence did not suggest common blood clots in veins were caused by the vaccine. The MHRA is undertaking a detailed review of the five cases of CVST with low blood platelets that occurred in the UK, and also notes that these events can occur naturally. The MHRA is advising that people in the UK should continue to get the AstraZeneca COVID-19 vaccine when invited to do so.
+
+    / March, 2021 - JAMA Netw Open.
+    quote !f = The relevant expert clinical society, the International Society on Thrombosis and Haemostasis also recommends that all eligible adults continue to receive COVID-19 vaccinations, with the benefits of vaccination strongly outweighing any potential complications even for patients with a history of blood clots or for those taking blood thinning medications.
+
+  // ‘It’s a very special picture.’ Why vaccine safety experts put the brakes on AstraZeneca’s COVID-19 vaccine
+  doi: https://www.sciencemag.org/news/2021/03/it-s-very-special-picture-why-vaccine-safety-experts-put-brakes-astrazeneca-s-covid-19
+  ref 'Vogel_et_al_02_20_2020
+    head = The decision this week by more than 20 European countries to temporarily stop using AstraZeneca’s COVID-19 vaccine has opened a rift between vaccine safety experts, who say the cases of serious clotting and bleeding that triggered the pause are alarming and unusual, and public health officials concerned that the immunization pause on a continent in the grip of the pandemic’s third wave could take a heavy toll.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2020 - bioRxiv
+    quote !a = Vaccine safety officials say they did not take the decision lightly, and that symptoms seen in at least 13 patients, all between ages 20 and 50 and previously healthy, in at least five countries are more frequent than would be expected by chance. The patients, at least seven of whom have died, suffer from widespread blood clots, low platelet counts, and internal bleeding—not typical strokes or blood clots.
+
+    / February, 2020 - bioRxiv
+    quote !b = A somewhat similar blood disorder, called immune thrombocytopenia (ITP), has been seen in at least 36 people in the United States who had received the Pfizer and Moderna vaccines against COVID-19.
+
+    / February, 2020 - bioRxiv
+    quote !c = In Europe, a 49-year-old intensive care nurse in Austria was one of the first cases. She died last week from what officials called “clotting disorders” that culminated in internal bleeding. (A colleague at the same hospital who received the vaccine developed lung embolisms, but was expected to recover.) A similar constellation of symptoms has been identified in four patients in Norway, two of whom have died,
 
   // EMA’s safety committee continues investigation of COVID-19 Vaccine AstraZeneca and thromboembolic events – further update
   doi: https://www.ema.europa.eu/en/news/emas-safety-committee-continues-investigation-covid-19-vaccine-astrazeneca-thromboembolic-events
@@ -107,8 +160,6 @@ feed March2021
 
     / March, 2021 - medRxiv
     quote !e = our data provide evidence of both serological response and immunological memory following mRNA vaccination that is distinct based on prior SARS-CoV2 exposure.
-
-
 
 
   // SARS-CoV-2 501Y.V2 (B.1.351) elicits cross-reactive neutralizing antibodies

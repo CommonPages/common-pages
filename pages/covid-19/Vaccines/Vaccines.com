@@ -841,6 +841,10 @@ subject module Vaccines
           THe European Medicine Agency has stated that the number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population and currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
         -
           !EMA
+        >  
+          To 18 March 2021, the TGA has not received any reports of blood clots following administration of the AstraZeneca COVID-19 vaccine in Australia.
+        -
+          !TGA
         >
           The [UK government has stated](https://www.gov.uk/government/news/mhra-response-to-danish-authorities-action-to-temporarily-suspend-the-astrazeneca-covid-19-vaccine) that in the UK, more than 11 million doses of the AstraZeneca vaccine have been administered, and the rate of blood clots has not been greater than the natural rate expected to occur. AstraZeneca itself in their press release have also reported that of 17 million people vaccinated in the United Kingdom and the European Union, no evidence of increased risk of blood clots has been found.
         -
@@ -871,6 +875,21 @@ subject module Vaccines
             'EMA_et_al_03_15_2021
             'EMA_et_al_03_15_2021.!a
             'EMA_et_al_03_15_2021.!b
+          -
+            'TGA_et_al_03_19_2021
+            'TGA_et_al_03_19_2021.!b
+
+        / TGA
+        claim !TGA = After a committee meeting on March 18th, TGA released an update which found the AstraZeneca vaccine is not associated with an overall increased risk of blood clots.
+
+          -
+            'TGA_et_al_03_19_2021
+            'TGA_et_al_03_19_2021.!a
+            'TGA_et_al_03_19_2021.!b
+            'TGA_et_al_03_19_2021.!c
+            'TGA_et_al_03_19_2021.!d
+            'TGA_et_al_03_19_2021.!e
+            'TGA_et_al_03_19_2021.!f
 
         / AstraZeneca on thrombosis incident
         claim !Oxford = AstraZeneca has shown no evidence of an increased risk of pulmonary embolism, deep vein thrombosis (DVT) or thrombocytopenia, in any defined age group, gender, batch or in any particular country.
