@@ -1,7 +1,14 @@
 #!/bin/bash
 
-JAVA_HOME=/Users/$USER/Sites/common-pages/app/java ./app/versions/current/bin/common-dev \
+if [ $# -eq 0 ]
+  then
+    port=80
+else
+  port=$1
+fi
+
+JAVA_HOME=$(pwd)/app/java ./app/versions/current/bin/common-dev \
   -app.environment=author \
-  -http.port=:80 \
+  -http.port=:$port \
   -J-Xmx3072m \
   -J-Xms3072m \

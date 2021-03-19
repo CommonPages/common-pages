@@ -5,7 +5,7 @@ echo "I'm about to open a website which will instruct you to download and instal
 echo
 echo "When you're done, open Atom and follow any prompts."
 echo
-echo "After that, come back and run ./app/install-ide"
+echo "After that, come back and run ./app/common-atom"
 
 echo
 read -n 1 -s -r -p "Press any key to continue"

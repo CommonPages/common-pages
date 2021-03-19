@@ -1,0 +1,17 @@
+#!/bin/bash
+
+root=$(pwd)
+
+curl -o $root/app/java.tar.gz https://download.oracle.com/otn-pub/java/jdk/15.0.2%2B7/0d1cfde4252546c6931946de8db48ee2/jdk-15.0.2_linux-x64_bin.tar.gz
+cd $root/app
+
+rm -rf ./java
+tar -xvf java.tar.gz
+mv jdk-15.0.2.jdk/Contents/Home/ ./java
+rm -rf java.tar.gz
+rm -rf jdk-15.0.2.jdk/
+
+cd $root
+
+echo
+echo "INSTALLED JAVA"
