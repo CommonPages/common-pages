@@ -9,13 +9,13 @@ revision feed Revisions
   let *February_23 mean February_23
   let *February_22 mean February_22
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *March_17, *March_1, *February_26 and *February_23). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *March_17, *March_1 and *February_26). You can *contribute by sending corrections and responding to open questions.
 
 
   public: March-17-2021
   / March 17, 2021
   revision March_17
-    head = We have added Severe Adverse Reaction (Blood clots) to Oxford-AstraZeneca vaccine. As of March 10th of 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. EMA, UK Government so far, found no indication that the recent reports of bloodclots were associated with vaccine. AstraZeneca itself have reported no evidence of increased risk. Several scientists have urged to determine local background rates of these adverse events to investigate this further.
+    head = We have added a section on the observed severe adverse reactions to Oxford-AstraZeneca vaccine. As of March 10th, 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. 
     -
       Vaccines.Approved.AZD1222.!Thrombosis
 

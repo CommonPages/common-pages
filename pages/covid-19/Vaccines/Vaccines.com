@@ -681,7 +681,7 @@ subject module Vaccines
         !SAVariant
         !SAVariantEfficacy
       - Adverse Reaction
-        !Thrombosis  
+        !Thrombosis
       - Key Concern
         !EffectiveDosing
       -
@@ -832,23 +832,24 @@ subject module Vaccines
           'Madhi_et_al_02_12_2021.!c
 
       / Thrombosis (Blood Clots)
-      claim !Thrombosis = As of March 10th of 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. EMA, UK Government so far, found no indication that the recent reports of bloodclots were associated with vaccine. AstraZeneca itself have reported no evidence of increased risk. Several scientists have urged to determine local background rates of these adverse events to investigate this further.
+      claim !Thrombosis = As of March 10th of 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. EMA, UK Government so far, has found no indication that the recent reports of bloodclots were associated with the vaccine. AstraZeneca itself has reported no evidence of increased risk. Several scientists have urged that local background rates may be relevant.
         >
-          On September of 2020, [Clinical Trial](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/) was put on hold in US because of suspected adverse reaction, however it was [resumed](https://www.astrazeneca.com/media-centre/press-releases/2020/fda-authorises-restart-of-the-covid-19-azd1222-vaccine-us-phase-iii-trial.html) in october of 2020. In December of 2020, Data reported from {Research.Sangeeta.'Voysey_et_al_12_08_2020 AstraZeneca’s clinical trials}, involving 24,000 people, found four of these thromboembolic events occurred in people given the vaccine.
-          As of March 10th of 2021, there have been 30 thromboembolic events reported from almost 5 million people given COVID vaccines in the Europe. Soon after the reports were published Ireland, Italy, Norway, Denmark, Iceland, Netherlands, France, Spain, Austria & Germany has temporarily paused their rollout of AstraZeneca Covid vaccine due to concern about the bloodclot.
+          In September of 2020, [clinical crials](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/) of the AstraZeneca vaccine were put on hold in the US because of suspected adverse reactions. However, trials were [resumed](https://www.astrazeneca.com/media-centre/press-releases/2020/fda-authorises-restart-of-the-covid-19-azd1222-vaccine-us-phase-iii-trial.html) in October of 2020. In December of 2020, data reported from {Research.Sangeeta.'Voysey_et_al_12_08_2020 AstraZeneca’s clinical trials}, involving 24,000 people, found four thromboembolic events occurred in people given the vaccine.
+
+          As of March 10th of 2021, there have been 30 thromboembolic events reported from almost 5 million people given COVID vaccines in Europe. Soon after the reports were published Ireland, Italy, Norway, Denmark, Iceland, Netherlands, France, Spain, Austria and Germany have temporarily paused their rollout of the AstraZeneca vaccine due to concerns about bloodclots.
         >
-          European medicine agency have stated that the number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population and currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
+          THe European Medicine Agency has stated that the number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population and currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
         -
           !EMA
         >
-          [UK government](https://www.gov.uk/government/news/mhra-response-to-danish-authorities-action-to-temporarily-suspend-the-astrazeneca-covid-19-vaccine) has stated that, In the UK, more than 11 million doses of the AstraZeneca vaccine have been administered, and the rate of blood clots has not been greater than the natural rate expected to occur. AstraZeneca itself in their press release have also reported that of 17 million people vaccinated in the United Kingdom and the European Union found no evidence of increased risk of blood clots.
+          The [UK government has stated](https://www.gov.uk/government/news/mhra-response-to-danish-authorities-action-to-temporarily-suspend-the-astrazeneca-covid-19-vaccine) that in the UK, more than 11 million doses of the AstraZeneca vaccine have been administered, and the rate of blood clots has not been greater than the natural rate expected to occur. AstraZeneca itself in their press release have also reported that of 17 million people vaccinated in the United Kingdom and the European Union, no evidence of increased risk of blood clots has been found.
         -
           !Oxford
           !Oxford1
           !Oxford2
 
         >
-          Scientists have urged to determine the local background rates of these (and other) potential adverse events as past studies have reported that a small percentage of people will develop thromboembolic event at some point in their lives. The [background rate](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210833) of diseases that could be AEFI(Adverse event following immunization) can be used to estimate the number of expected events within a known population over a period of time.
+          Scientists have urged investigation into the local background rates of these (and other) potential adverse events as past studies have reported that a small percentage of people will develop thromboembolic event at some point in their lives. The [background rate](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210833) of diseases that could be AEFI (adverse event following immunization) can be used to estimate the number of expected events within a known population over a period of time.
         -
           !ThrombosisPast
           !ThrombosisRisk
