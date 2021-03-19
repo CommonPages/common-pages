@@ -210,10 +210,6 @@ authors:
     fullname: Xi He
     email: ehylau@hku.hk
 
-  GavinJoynt:
-    fullname: Gavin M Joynt
-    email: gavinmjoynt@cuhk.edu.hk
-
   KarenWong:
     fullname: Karen K. Wong
     email: kwong@wsgr.com
@@ -382,10 +378,6 @@ authors:
   DevabhaktuniSrikrishna:
     fullname: Devabhaktuni Srikrishna
     email: sri.devabhaktuni@gmail.com
-
-  RainaMacIntyre:
-    fullname: C. Raina MacIntyre
-    email: r.macintyre@unsw.edu.au
 
   JasonAbaluck:
     fullname: Jason Abaluck
@@ -633,10 +625,6 @@ authors:
   CarolineColijn:
     fullname: Caroline Colijn
     email: ccolijn@sfu.ca
-
-  HiroshiNishiura:
-    fullname: Hiroshi Nishiura
-    email: nishiurah@med.hokudai.ac.jp
 
   Zhiwei:
     fullname: Zhiwei Li
@@ -1272,14 +1260,6 @@ authors:
     fullname: Konstantin M.J. Sparrer
     email: beckmann@genzentrum.lmu.de
 
-  AkikoIwasaki:
-    fullname: Akiko Iwasaki
-    email: akiko.iwasaki@yale.edu
-
-  MehulSuthar:
-    fullname: Mehul S. Suthar
-    email: mehul.s.suthar@emory.edu
-
   IvanZanoni:
     fullname: Ivan Zanoni
     email: ivan.zanoni@childrens.harvard.edu
@@ -1517,8 +1497,8 @@ authors:
     email: benjamin.tenoever@mssm.edu
 
   MartinBeer:
-   fullname: Martin Beer
-   email: volker.thiel@vetsuisse.unibe.ch
+    fullname: Martin Beer
+    email: volker.thiel@vetsuisse.unibe.ch
 
   MichaelFarzan:
     fullname: Michael Farzan
@@ -1704,10 +1684,6 @@ authors:
     email: n.faria@imperial.ac.uk
     link: https://www.imperial.ac.uk/people/n.faria
 
-  JasminePlummer:
-    fullname: Jasmine T Plummer
-    email: jasmine.plummer@cshs.org
-
   DanBarouch:
     fullname: Dan H. Barouch
     email: dbarouch@bidmc.harvard.edu
@@ -1795,10 +1771,6 @@ authors:
   SimonGraham:
     fullname: Simon P. Graham
     email: simon.graham@pirbright.ac.uk
-
-  AndrewPollard:
-    fullname: Andrew J Pollard
-    email: andrew.pollard@paediatrics.ox.ac.uk
 
   MaheshiRamasamy:
     fullname: Maheshi N Ramasamy
@@ -1954,10 +1926,6 @@ authors:
     fullname: Clemens Wendtner
     email: clemens.wendtner@muenchen-klinik.de
     link: https://echo.unm.edu/doc/covid/4.14.20%20-%20Wendtner.pdf
-
-  AkikoIwasaki:
-    fullname: Akiko Iwasaki
-    email: nathan.grubaugh@yale.edu
 
   Sundararaj:
     fullname: Sundararaj Stanleyraj Jeremiah
@@ -2212,6 +2180,12 @@ authors:
     fullname: Zhihong Hu
     email: zlshi@wh.iov.cn
 
+  #
+  # ZhihongHu:
+  #   fullname: Zhihong Hu
+  #   email: huzh@wh.iov.cn
+  #   link: https://pubmed.ncbi.nlm.nih.gov/32020029/
+
   PatrickWoo:
     fullname: Patrick C.Y. Woo
     email: pcywoo@hku.hk
@@ -2416,10 +2390,6 @@ authors:
     fullname: Kerri Basile
     email: js.eden@sydney.edu.au
 
-  FlorianKrammer:
-    fullname: Florian Krammer
-    email: florian.krammer@mssm.edu
-
   JoAnneFlynn:
     fullname: JoAnne L. Flynn
     email: joanne@pitt.edu
@@ -2459,10 +2429,6 @@ authors:
     fullname: Hiroshi Nishiura
     email: nishiurah@med.hokudai.ac.jp
 
-  YouWei:
-    fullname:  You‐Dong Wei
-    email: havonewei@163.com
-
   JianWang:
     fullname: Jian-Wei Wang
     email: jianwei.wang@ipbcams.ac.cn
@@ -2498,11 +2464,6 @@ authors:
   HongLiu:
     fullname: Hong Liu
     email: hliu@simm.ac.cn
-
-  ZhihongHu:
-    fullname: Zhihong Hu
-    email: huzh@wh.iov.cn
-    link: https://pubmed.ncbi.nlm.nih.gov/32020029/
 
   GuangdiLi:
     fullname: Guangdi Li
@@ -2541,10 +2502,6 @@ authors:
   SeungtaekKim:
     fullname: Seungtaek Kim
     email: seungtaek.kim@ip-korea.org
-
-  EdwardHolmes:
-    fullname: Edward C. Holmes
-    email: edward.holmes@sydney.edu.au
 
   JianLu:
     fullname: Jian Lu
@@ -2588,10 +2545,6 @@ authors:
     fullname: Jinsong Lin
     email: sdgrxjbk@163.com
 
-  ZhangYing:
-    fullname: Zhang Ying
-    email: cdczhangying@sina.com
-
   PengLi:
     fullname: Peng Li
     email: lipengahmu@qq.com
@@ -2612,10 +2565,6 @@ authors:
     fullname: Eleftheria Vasileiou
     email: eleftheria.vasileiou@ed.ac.uk
 
-  WendyBarclay:
-    fullname: Wendy S. Barclay
-    email: w.barclay@imperial.ac.uk
-
   OferLevy:
     fullname: Ofer Levy
     email: ofer.levy@childrens.harvard.edu
@@ -2623,10 +2572,6 @@ authors:
   CoralieChevallier:
     fullname: Coralie Chevallier
     email: coralie.chevallier@gmail.com
-
-  JoshuaSchiffer:
-    fullname: Joshua T Schiffer
-    email: jschiffe@fredhutch.org
 
   DamingZhou:
     fullname: Daming Zhou
@@ -2651,10 +2596,6 @@ authors:
   Stefan:
     fullname: Stefan Pöhlmann
     email: spoehlmann@dpz.eu
-
-  XupingXie:
-    fullname: Xuping Xie
-    email: xuxie@utmb.edu
 
   DarinEdwards:
     fullname: Darin K. Edwards
@@ -2704,10 +2645,6 @@ authors:
     fullname: Yuliang Zhao
     email: yuliang_zh1@163.com
 
-  DenisLogunov:
-    fullname: Denis Y Logunov
-    email: ldenisy@gmail.com
-
   TomShimabukuro:
     fullname: Tom Shimabukuro
     email: tshimabukuro@cdc.gov
@@ -2719,10 +2656,6 @@ authors:
   FelipeNaveca:
     fullname: Felipe Naveca
     email: felipe.naveca@fiocruz.br
-
-  FlorianKrammer:
-    fullname: Florian Krammer
-    email: florian.krammer@mssm.edu
 
   MarkMulligan:
     fullname: Mark J. Mulligan
@@ -2781,10 +2714,6 @@ authors:
   John:
     fullname: John R. Su
     email: ezu2@cdc.gov
-
-  TomShimabukuro:
-    fullname: Tom Shimabukuro
-    email: TShimabukuro@cdc.gov
 
   EmilyAdhikari:
     fullname: Emily H. Adhikari
