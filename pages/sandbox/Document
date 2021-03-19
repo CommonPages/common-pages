@@ -1,0 +1,5 @@
+id: "#sandbox"
+name: "Sandbox"
+network: "common.page"
+use:
+  - "#os-life"
