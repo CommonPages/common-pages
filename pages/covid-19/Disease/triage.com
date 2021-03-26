@@ -58,7 +58,7 @@ index: hide
     'Vella_et_al_03_02_2021.!a
     'Vella_et_al_03_02_2021.!b
     'Vella_et_al_03_02_2021.!c
-  
+
 
   # Long Covid
   -
@@ -94,3 +94,21 @@ index: hide
   # Stable adaptive Immune Response for 90% patient for over 6 months. However response is heterogenous which means some proportion of population will always be prone to reinfection
   # -
   #   'Dan_et_al_11_16_2020
+
+
+  >
+    Long COVID was characterized by symptoms of fatigue, headache, dyspnea and anosmia and was more likely with increasing age and body mass index and female sex. Experiencing more than five symptoms during the first week of illness was associated with long COVID
+
+  -
+    'Sudre_et_al_03_10_2021
+    'Sudre_et_al_03_10_2021.!a
+    'Sudre_et_al_03_10_2021.!b
+    'Sudre_et_al_03_10_2021.!c
+
+  # IMMUNITY ROBUTNESS IN EXTREME OLD PPL
+  >
+    A study on Extreme aged individuals and centenarians who were infected with or exposed to SARS-CoV-2 found that they were ere able to elicit robust IgG and IgA antibodies directed toward SARS-CoV-2 spike protein. The antibodies were able to neutralize the virus. Humoral responses were still detectable after 60 days from initial diagnosis. Recovered participants who are of extreme old age would be protected if re-exposed to the same SARS-CoV-2 viral variant.
+  -
+    'Foley_et_al_03_08_2021
+    'Foley_et_al_03_08_2021.!a
+    'Foley_et_al_03_08_2021.!b

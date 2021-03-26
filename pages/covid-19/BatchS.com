@@ -19,54 +19,11 @@
 
   ## 3/22
 
-  >
-    In a Danish population-level observational study, researchers found that older people were more likely than younger people to test positive again if they had already tested positive. Protection in the population to be 80% or higher in those younger than 65 years, but to be approximately 47% in those aged 65 years and older. Thier data indicates that vaccination of previously infected individuals should be done because natural protection cannot be relied on.
-
-  -
-    'Hansen_et_al_03_17_2021
-    'Hansen_et_al_03_17_2021.!a
-    'Hansen_et_al_03_17_2021.!b
-    'Hansen_et_al_03_17_2021.!c
-    'Hansen_et_al_03_17_2021.!d
 
 
 
-  >  check the head text of this paper.
-    NTD-targeting antibodies are a key part of immunity to SARS-CoV-2. NTD neutralizing antibodies target a single antigenic site of vulnerability. Neutralizing NTD antibodies protect hamsters from SARS-CoV-2 challenge. Variants of concern have mutations in the NTD that escape neutralization
-  -
-    'McCallum_et_al_03_16_2021
-    'McCallum_et_al_03_16_2021.!a
-    'McCallum_et_al_03_16_2021.!b
-    'McCallum_et_al_03_16_2021.!c
-
-  >
-    COVID-19 vaccination with an mRNA-based vaccine showed a significant association with a reduced risk of asymptomatic SARS-CoV-2 infection as measured during pre-procedural molecular screening.
-    Positive molecular tests in asymptomatic individuals were reported in 42 (1.4%) of 3,006 tests performed on vaccinated patients and 1,436 (3.2%) of 45,327 tests performed on unvaccinated patients.
-  -
-    'Tande_et_al_03_10_2021
-    'Tande_et_al_03_10_2021.!a
-    'Tande_et_al_03_10_2021.!b
-    'Tande_et_al_03_10_2021.!c
-
-  >
-    Delayed boosting of RNA-based SARS-CoV-2 BNT162b2 vaccine potentially leaves most solid and haematological cancer patients wholly or partially unprotected, while prompt boosting of solid cancer patients quickly overcomes the poor efficacy of the primary inoculum in solid cancer patients. These data support prioritisation of cancer patients for an early (21-day) second dose of the BNT162b2 vaccine.
-  -
-    'Monin-Aldama_et_al_03_17_2021
-    'Monin-Aldama_et_al_03_17_2021.!a
-    'Monin-Aldama_et_al_03_17_2021.!b
 
 
-
-  >
-    Study showed that all of the 20 serum samples (the second dose of 30 μg of BNT162b2) efficiently neutralized USA-WA1/2020 and all the viruses with variant spikes. As compared with neutralization of USA-WA1/2020, neutralization of B.1.1.7-spike and P.1-spike viruses was roughly equivalent, and neutralization of B.1.351-spike virus was robust but lower. Data are also consistent with lower neutralization titers against the virus with the full set of B.1.351-spike mutations than against virus with either subset of mutations.
-
-  -
-    'Liu_et_al_03_08_2021
-    'Liu_et_al_03_08_2021.!a
-    'Liu_et_al_03_08_2021.!b
-    'Liu_et_al_03_08_2021.!c
-    'Liu_et_al_03_08_2021.!d
-    'Liu_et_al_03_08_2021.!e
 
 
   >
@@ -76,74 +33,15 @@
   #   (https://investors.modernatx.com/news-releases/news-release-details/modernas-covid-19-vaccine-candidate-meets-its-primary-efficacy. opens in new tab).
   #   Safety and efficacy of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine: an interim analysis of a randomised controlled phase 3 trial in Russia.
 
-  >
-    Neutralizing activity of the two mRNA vaccines against the B.1.351 variant has also been observed to be lower, by a factor of 8.6 (mRNA-1273 vaccine [Moderna]) or 6.5 (BNT-162b2 vaccine [Pfizer]) on pseudovirus neutralization assay, than activity against the D614G virus, whereas no difference was evident against the N510Y.V1 (B.1.1.7)–like mutant.
-  -
-  #   Increased resistance of SARS-CoV-2 variants B.1.351 and B.1.1.7 to antibody neutralization
-  #   Neutralization of SARS-CoV-2 lineage B.1.1.7 pseudovirus by BNT162b2 vaccine-elicited human sera.
-    'Liu_et_al_03_08_2021
-    'Liu_et_al_03_08_2021.!b
-    'Liu_et_al_03_08_2021.!c
-    'Liu_et_al_03_08_2021.!d
-
-
-  >
-    Our findings also suggest that mutations that result in amino acid substitutions K417N, E484K, and N501Y in the receptor-binding site have a greater effect on neutralization than the 242–244 deletion affecting the N-terminal domain of the spike protein.
-  -
-    'Liu_et_al_03_08_2021
-    'Liu_et_al_03_08_2021.!e
-
-  >
-    Study observed robust and comparable IgG titers (with COVID-19 mRNA vaccines) were observed across pregnant, lactating, and non-pregnant controls, all of which were significantly higher than those observed in pregnant women with prior SARS-CoV-2-infection. Immune transfer to neonates occurred via placental and breastmilk.
-  -
-    'Gray_et_al_03_08_2021
-    'Gray_et_al_03_08_2021.!a
-    'Gray_et_al_03_08_2021.!b
-
-  >
-    Press release from AstraZeneca & Oxford for interim efficacy  results from the US phase 3 trial report 79% vaccine efficacy at preventing symptomatic COVID-19, 100% efficacy against severe or critical disease and hospitalisation (although # of severe events on placebo not disclosed).
-    100% effective at preventing people from falling seriously ill or dying with no increase adverse events.
-
-    Comparable efficacy result across ethnicity and age, with 80% efficacy in participants aged 65 years and over. Favourable reactogenicity, overall safety profile, and no elevated blood clot risk. They plan to file for US Emergency Use Authorization (EUA) within weeks.
-    No blood clots observed in 21,583 who were vaccinated,even with 60% of the people having some type of co-comorbidity
-  -
-    'AstraZeneca_et_al_03_22_2021
-    'AstraZeneca_et_al_03_22_2021.!a
-    'AstraZeneca_et_al_03_22_2021.!b
-    'AstraZeneca_et_al_03_22_2021.!c
-    'AstraZeneca_et_al_03_22_2021.!d
-    'AstraZeneca_et_al_03_22_2021.!e
 
   >
     Previous trials have shown that an extended interval of up to 12 weeks demonstrated greater efficacy, which was also supported by immunogenicity data.
-
-  >
-    Vaccination of health care workers for SARS-CoV-2 reduces documented cases and hospitalisation in both those individuals vaccinated and members of their households.
-  -
-    'Shah_et_al_03_21_2021
-    'Shah_et_al_03_21_2021.!a
-    'Shah_et_al_03_21_2021.!b
-    'Shah_et_al_03_21_2021.!c
-
-  >
-    A study on Extreme aged individuals and centenarians who were infected with or exposed to SARS-CoV-2 found that they were ere able to elicit robust IgG and IgA antibodies directed toward SARS-CoV-2 spike protein. The antibodies were able to neutralize the virus. Humoral responses were still detectable after 60 days from initial diagnosis. Recovered participants who are of extreme old age would be protected if re-exposed to the same SARS-CoV-2 viral variant.
-  -
-    'Foley_et_al_03_08_2021
-    'Foley_et_al_03_08_2021.!a
-    'Foley_et_al_03_08_2021.!b
-
 
 
 
   ## 3/20
 
-  >  discuss d, e- and ask about head text
-    One study results demonstrated that P.1 is significantly less resistant to naturally acquired or vaccine induced antibody responses than B.1.351 and there is no evidence of widespread escape.  Despite the reduction in neutralization titres, immunization with vaccines designed against parent/ancestral strains likely provide some protection against P.1.
-  -
-    'Dejnirattisai_et_al_03_15_2021
-    'Dejnirattisai_et_al_03_15_2021.!b
-    'Dejnirattisai_et_al_03_15_2021.!c
-    'Dejnirattisai_et_al_03_15_2021.!d
+
 
   >
     What is driving the emergence of the new strains is difficult to determine, the emergence of B.1.1.7 occurred on the background of relatively low population immunity and may have been primarily driven by increased transmissibility. The emergence of B.1.351 occurred on the background of around 30% seropositivity in South Africa and P.1 on the background of an estimated 75% seropositivity in Manaus Brazil (Faria et al., 2021). It seems possible that selection of P.1 and B.1.351 may have been in part driven by immune escape, however until methods are developed to screen at a population level for the frequency of reinfection, it is not possible to determine this, especially as reinfection may lead to more mild or asymptomatic disease.
@@ -157,126 +55,19 @@
 
     Based on the results reported here the South African B.1.351 is the variant of greatest concern giving the largest reductions in neutralization titres and evidence of complete failure to neutralize in some cases and we believe developing vaccine constructs to B.1.351 to be the greatest priority.
 
-  >
-    In a correspondence letter, scientists communicated the evaluation of mRNA-1273 Vaccine efficacy against new variants (Serum Neutralizing Activity Elicited by mRNA-1273 Vaccine).They observed a decrease in titers of neutralizing antibodies against the P.1 variant, the B.1.427/B.1.429 variant (versions 1 and 2), the B.1.1.7+E484K variant, and the B.1.351 variant as well as a subset of its mutations in the RBD.
 
-    The largest effect on neutralization, reduction by a factor of 6.4, was measured against the B.1.351 variant.
-
-    The study found a significant reduction in neutralizing titers (mRNA-1273 Vaccine) when the E484K mutation was present.
-
-    Protection conferred by the mRNA-1273 vaccine against the P.1, B.1.427/B.1.429, and B.1.351 variants remains to be determined.
-  -
-    'Wu_et_al_03_17_2021
-    'Wu_et_al_03_17_2021.!a
-    'Wu_et_al_03_17_2021.!b
-    'Wu_et_al_03_17_2021.!c
-    'Wu_et_al_03_17_2021.!d
-
-  >
-    The emergence of SARS-CoV-2 variants has raised concerns about the breadth of neutralizing-antibody responses.
-    This study found neutralizing activity of infection- and vaccine-elicited antibodies against 4 SARS-CoV-2 variants, including B.1, B.1.1.7, and N501Y. These results suggest that infection- and vaccine-induced immunity may be retained against the B.1.1.7 variant.
-  -
-    'Edara_et_al_03_19_2021
-    'Edara_et_al_03_19_2021.!a
-    'Edara_et_al_03_19_2021.!b
-    'Edara_et_al_03_19_2021.!c
-
-  >
-    Domestic pets can contract SARS-CoV-2 infection but, based on the limited information available to date, it is unknown whether the new British B.1.1.7 variant can more easily infect certain animal species or increase the possibility of human-to-animal transmission.
-
-
-    Two reports released have found the first evidence that dogs and cats can become infected by B.1.1.7, a recent variant of the pandemic coronavirus that transmits more readily between people and also appears more lethal in them. The finds mark the first time one of the several major variants of concern has been seen outside of humans.
-
-    Our findings demonstrate for the first time the ability for companion animals to be infected by the B.1.1.7 variant of SARS-CoV-2 and raise questions regarding its pathogenicity in these animals. Moreover, given the enhanced infectivity and transmissibility of B.1.1.7 variant for humans, these findings also highlights more than ever the risk that companion animals may potentially play a significant role in SARS-CoV-2 outbreak dynamics than previously appreciated.
-  -
-    'Ferasin_et_al_03_18_2021
-    'Ferasin_et_al_03_18_2021.!a
-    'Ferasin_et_al_03_18_2021.!b
-
-  >
-    ittle information is known about the impact this virus can cause upon domestic and stray animals. The potential impact of SARS‐CoV‐2 has become of great interest in cats due to transmission among domestic cats and the severe phenotypes described recently in a domestic cat.
-    This study revealed the exposure of stray cats to SARS‐CoV‐2 in Spain and the existence of concomitant infections with other pathogens including T. gondii and FIV, suggesting that immunosuppressed animals might be especially susceptible to SARS‐CoV‐2 infection.
-
-  -
-    'Villanueva‐Saz_et_al_03_09_2021
-    'Villanueva‐Saz_et_al_03_09_2021.!a
-    'Villanueva‐Saz_et_al_03_09_2021.!b
-    'Villanueva‐Saz_et_al_03_09_2021.!c
-    'Villanueva‐Saz_et_al_03_09_2021.!d
-    'Villanueva‐Saz_et_al_03_09_2021.!e
-
-  >
-    One study The B1.351 and P.1 variants are able to infect common laboratory mice, replicating to high titers in the lungs. Although differences between viral lineages suggest that other factors are involved in the capacity of SARS-CoV-2 VOCs to infect mice. This abrogation of the species barrier raises the possibility of wild rodent secondary reservoirs.
-  -
-    'Montagutelli_et_al_03_18_2021
-    'Montagutelli_et_al_03_18_2021.!a
-    'Montagutelli_et_al_03_18_2021.!b
 
   >
     SARS-CoV-2 extensive circulation in humans has been associated with the emergence of variants, including variants of concern (VOCs) with diverse mutations in the spike and increased transmissibility or immune escape.
 
-  >
-    Study showed that entry inhibitors under clinical evaluation block all variants. B.1.351 and P.1 can escape from therapeutic antibodies. B.1.351 and P.1 evade antibodies induced by infection and vaccination. These results suggest that SARS-CoV-2 may escape neutralizing antibody responses.
-  -
-    'Hoffmann_et_al_03_20_2021
+
 
 
   ## 3/19
 
-  >
-    An analysis of the Pfizer BNT162b2 vaccination and infection records provides initial measurement of vaccine effectiveness across demographic groups- was uniform for men and women yet declined mildly but significantly with age and for patients with specific chronic comorbidities, including high blood pressure, COPD, immunosuppression and type 2 diabetes.
-  -
-    'Yelin_et_al_03_17_2021
-    'Yelin_et_al_03_17_2021.!c
-    'Yelin_et_al_03_17_2021.!d
-
-  >
-    These results add to previous reports regarding lower vaccine effectiveness for diabetic patients and patients with multiple coexisting conditions.
-  # discuss
-  -
-    'Chodick_et_al_01_29_2021
-    'Chodick_et_al_01_29_2021.!d
-  -
-    'Dagan_et_al_02_24_2021
-    'Dagan_et_al_02_24_2021.!e
-
-  > phase 4 study
-    The study results indicate that in real life the first dose of the new BNT162b2 mRNA COVID-19 vaccine confers around 50% protection against overall SARS-CoV-2 infections (symptomatic or asymptomatic). Together our findings and the 95% efficacy shown in the phase III trial, suggest that the BNT162b2 vaccine should be administered in two doses to achieve maximum protection and impact in terms of disease burden reduction and possibly reducing SARS-CoV-2 transmission.
-
-    this is the first and largest phase IV study on the effectiveness of the BNT162b2 mRNA COVID-19 vaccine in real-world settings. Our findings showed that the first dose of the vaccine is associated with an approximately 51% reduction in the incidence of PCR-confirmed SARS-CoV-2 infections at 13 to 24 days after immunization compared to the rate during the first 12 days.
-  -
-    'Chodick_et_al_01_29_2021
-    'Chodick_et_al_01_29_2021.!d
-  -
-    'Yelin_et_al_03_17_2021
-    'Yelin_et_al_03_17_2021.!a
-    'Yelin_et_al_03_17_2021.!b
-
-  >
-    In the study of immunogenicity of the first dose of the mRNA SARS-CoV-2 vaccine among solid organ transplant recipients, the majority of participants did not mount appreciable antispike antibody responses. Such patients may remain at higher early risk for COVID-19 despite vaccination. These results contrast with the robust early immunogenicity observed in mRNA vaccine trials, including 100% antispike seroconversion by day 15 following vaccination with mRNA-1273 5 and by day 21 following vaccination with BNT162b2.6
-  -
-    'Boyarsky_et_al_03_15_2021
-    'Boyarsky_et_al_03_15_2021.!a
 
 
-  >
-    Long COVID was characterized by symptoms of fatigue, headache, dyspnea and anosmia and was more likely with increasing age and body mass index and female sex. Experiencing more than five symptoms during the first week of illness was associated with long COVID
 
-  -
-    'Sudre_et_al_03_10_2021
-    'Sudre_et_al_03_10_2021.!a
-    'Sudre_et_al_03_10_2021.!b
-    'Sudre_et_al_03_10_2021.!c
-
-  >
-    A study conducted Between June 24 and November 9, 2020 on 2026 HIV-negative adults in South Africa found that two doses of the ChAdOx1 nCoV-19 vaccine had no efficacy against the B.1.351 variant in preventing mild-to-moderate Covid-19.
-
-  -
-    'Madhi_et_al_03_16_2021
-    'Madhi_et_al_03_16_2021.!a
-    'Madhi_et_al_03_16_2021.!b
-    'Madhi_et_al_03_16_2021.!c
-    'Madhi_et_al_03_16_2021.!d
 
 
   >
@@ -311,84 +102,8 @@
 
 
 
-  > phase 1 J&J
-    This randomized, double-blind, placebo-controlled phase 1 clinical trial of Ad26.COV2.S enrolled 25 participants. Antibodies were detected in vaccine recipients by day 8 and were observed in all vaccine recipients by day 57 after a single immunization. T-cell responses were also generated in vaccine recipients.
-  -
-    'Stephenson_et_al_03_11_2021
-    'Stephenson_et_al_03_11_2021.!a
-    'Stephenson_et_al_03_11_2021.!b
-    'Stephenson_et_al_03_11_2021.!c
-    'Stephenson_et_al_03_11_2021.!d
-
-
-  > mRNA or adenoviral vector vaccine
-    Receipt of vaccination with either an mRNA or adenoviral vector vaccine was not associated with a worsening of Long Covid symptoms, quality of life, or mental wellbeing. When compared to matched unvaccinated participants from the same cohort, those who had received a vaccine actually reported an overall improvement in Long Covid symptoms.
-  -
-    'Arnold_et_al_03_14_2021
-    'Arnold_et_al_03_14_2021.!a
-    'Arnold_et_al_03_14_2021.!b
-
-
-
   # 03/11
-  > CASE FATALITY - (B.1.1.7)
-    One study reported increased risk of death for VOC (B.1.1.7) compared with non-VOC cases in England (67% higher hazard of death) -- all the more so in men, the elderly, and those with comorbid conditions.
-  # VOC (B.1.1.7) has potential to spread faster with higher mortality than the pandemic to date.
-  -
-    'Grint_et_al_03_10_2021
-    'Grint_et_al_03_10_2021.!a
-    'Grint_et_al_03_10_2021.!b
-    'Grint_et_al_03_10_2021.!c
-    'Grint_et_al_03_10_2021.!d
-    'Grint_et_al_03_10_2021.!e
 
-  >
-    Several studies have established that B.1.1.7 is more transmissible than preexisting variants, but have not identified whether it leads to any change in disease severity.
-    For 1,146,534 (51%) of these tests, the presence or absence of B.1.1.7 can be identified because of mutations in this lineage preventing PCR amplification of the spike gene target (S gene target failure, SGTF1).
-
-
-  >  link this in the table
-    One study analysed a dataset linking 2,245,263 positive SARS-CoV-2 community tests and 17,452 COVID-19 deaths in England from 1 September 2020 to 14 February 2021. Their analysis estimated that B.1.1.7 infection was associated with 55% higher mortality compared to other strains of SARS-CoV-2 over this time period.
-    Our analysis suggests that B.1.1.7 is not only more transmissible than preexisting SARS-CoV-2 variants, but may also cause more severe illness.
-    The authors concluded that the emergence of new SARS-CoV-2 variants such as B.1.1.7 threatens to cancel out the improvements in COVID-19 treatment that were made over the course of 2020.
-    https://www.lshtm.ac.uk/newsevents/news/2021/b117-variant-linked-55-higher-mortality-compared-other-strains-sars-cov-2
-  # Karla.Diaz-Ordaz@lshtm.ac.uk , Ruth.Keogh@lshtm.ac.uk, Nicholas.Davies@lshtm.ac.uk
-  -
-    'Davies_et_al_03_15_2021
-    'Davies_et_al_03_15_2021.!a
-    'Davies_et_al_03_15_2021.!b
-    'Davies_et_al_03_15_2021.!c
-
-  >
-    There's evidence B.1.1.7 is both more transmissible (https://science.sciencemag.org/content/early/2021/03/03/science.abg3055) & more severe (https://www.nature.com/articles/s41586-021-03426-1 & https://www.bmj.com/content/372/bmj.n579).
-  -
-    # Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England
-  -  The findings build on recent research by LSHTM, published in Science, which concluded that this new variant is 43–90% more transmissible than pre-existing variants circulating in England.
-    'Davies_et_al_03_15_2021
-    'Davies_et_al_03_15_2021.!a
-    'Davies_et_al_03_15_2021.!b
-    'Davies_et_al_03_15_2021.!c
-  -  The variant of concern, in addition to being more transmissible, seems to be more lethal. The increased hazard ratio between 1.32 and 2.04, higher than for other variants, translates to a 32% to 104% increased risk of death, with the most probable hazard ratio estimate of 1.64, or a 64% increased risk of death. a recent variant of the pandemic coronavirus that transmits more readily between people and also appears more lethal in them.
-    'Challen_et_al_03_10_2021
-    'Challen_et_al_03_10_2021.!a
-    'Challen_et_al_03_10_2021.!b
-    'Challen_et_al_03_10_2021.!c
-    'Challen_et_al_03_10_2021.!d
-    'Challen_et_al_03_10_2021.!e
-
-
-
-
-  >
-    One community based study reported that individuals infected with B.1.1.7, were between 32% and 104% (central estimate   64%) more likely to die than equivalent individuals infected with previously circulating variants.  with the most probable hazard ratio estimate of 1.64, or a 64% increased risk of death.
-    The absolute risk of death in this group of community identified participants, however, remains relatively low, increasing from 2.5 to 4.1 deaths per 1000 cases.
-    R Challen rc538@exeter.ac.uk (or @rjchallen on Twitter)
-  -
-    'Challen_et_al_03_10_2021
-    'Challen_et_al_03_10_2021.!a
-    'Challen_et_al_03_10_2021.!b
-    'Challen_et_al_03_10_2021.!c
-    'Challen_et_al_03_10_2021.!d
 
   >
     What is already known on this topic
@@ -407,99 +122,15 @@
     Binding, non-neutralizing antibodies have also been shown to have a protective effect in many viral infections (Asthagiri Arunkumar et al., 2019; Dilillo et al., 2014; Saphire et al., 2018) and may be a factor in the substantial residual protection seen in the Johnson &Johnson and Novavax vaccine trials against B.1.351 in South Africa (Shinde et al., 2021). Production of non-neutralizing antibodies may also play a role in protection by mRNA vaccines after the first dose, as it is substantial and occurs during a time when neutralizing antibody titers are either very low or absent (Baden et al., 2020; Dagan et al., 2021; Polack et al., 2020). Finally, although some antibodies may lose neutralizing activity due to reduced affinity, they do still bind. Furthermore, B cells with these specificities potentially could undergo affinity maturation after exposure to a variant virus or a variant spike319 containing vaccine, leading to high affinity antibodies to variant viruses of concern.
 
 
-  >
-    One paper demonstrated that the antibody responses to SARS-CoV-2 mRNA vaccination comprise a large proportion of non-neutralizing antibodies and are co-dominated by NTD and RBD antibodies. The NTD portion of the spike represents, thus, an important vaccine target.
 
-  #    Several studies results showed the role of N-terminal domain (NTD) of the spike protein and NTD-specific neutralising antibodies might be under-estimated. Antibodies to it, generated by mRNA vaccines, shown to be important beyond RBD and may provide substantial protection against viral variants carrying E484K. Decreased B.1.1.7 neutralisation was also observed with monoclonal antibodies targeting the N-terminal domain (9 out of 10) indicates that this new variant may have also evolved to escape from this class of antibodies, that may have a yet unrecognized role in protective immunity. The presence of multiple escape mutations in NTD is supportive of the hypothesis that this region of the spike, in addition to RBM, is also under immune pressure
-  -
-    'Amanat_et_al_03_09_2021
-    'Amanat_et_al_03_09_2021.!a
-    'Amanat_et_al_03_09_2021.!b
-    'Amanat_et_al_03_09_2021.!c
-    'Amanat_et_al_03_09_2021.!d
-    'Amanat_et_al_03_09_2021.!e
-    'Amanat_et_al_03_09_2021.!f
-    'Amanat_et_al_03_09_2021.!g
-
-  # Decreased B.1.1.7 neutralisation was also observed with monoclonal antibodies targeting the N-terminal domain (9 out of 10), the RBM (5 out of 31), but not in RBD neutralising mAbs binding outside the RBM, indicates that this new variant may have also evolved to escape from this class of antibodies, that may have a yet unrecognized role in protective immunity. Taken together, the presence of multiple escape mutations in NTD is supportive of the hypothesis that this region of the spike, in addition to RBM, is also under immune pressure.
-  -
-    'Collier_et_al_03_11_2021
-    'Collier_et_al_03_11_2021.!b
-    'Collier_et_al_03_11_2021.!c
-
-  >
-    Neutralizing activity of NTD mAbs but not RBD mAbs against a clinical viral isolate carrying E484K as well as extensive changes in the NTD was abolished, suggesting that a proportion of vaccine induced RBD binding antibodies may provide substantial protection against viral variants carrying E484K.
-  -
-    'Amanat_et_al_03_09_2021
-    'Amanat_et_al_03_09_2021.!e
-
-  >
-    Our data indicate that reduction in binding to the E484K and B.1.351 variant RBDs was minor (often only 2-fold) compared to reported reduction in neutralization (which ranges from 6-8 fold to complete loss of neutralization. Although not tested here, it is likely that the reduction in binding to full length spike is even lower, given the many epitopes on the spike other than NTD and RBD. The maintenance of binding to a large degree observed in this study suggests that viral variants will have a minor impact on serological assays which are currently in wide use for medical, scientific and public health reasons
-  -
-    'Amanat_et_al_03_09_2021
-    'Amanat_et_al_03_09_2021.!h
-    'Amanat_et_al_03_09_2021.!i
-
-  >
-    several of the variants are associated with increased transmissibility, and also have been associated with decreased susceptibility to neutralizing antibodies from infected or vaccinated individuals. In contrast, the data presented here suggests that T cell responses are largely unaffected by the variants.
-
-  >
-    Emerging data suggest that T cell responses elicited by either natural infection or vaccination with the Pfizer/BioNTech and Moderna COVID-19 mRNA vaccines are not affected by the mutations found in the SARS-CoV-2 variants ( B.1.1.7, B.1.351, P.1 and CAL.20C variants)
-  -
-    'Tarke_et_al_03_01_2021
-    'Tarke_et_al_03_01_2021.!a
-
-  >
-    One study demonstrated a remarkable capacity of SARS-CoV-2 mRNA-based vaccines to induce robust germinal centers (GC) reactions for an extended period following vaccination. The induced GC reaction engages pre-existing as well as new B cell clones, which enables generation of high-affinity, broad, and durable humoral immunity.
-
- # Did you feel that your arm is on "fire" after SARS-CoV-2 mRNA vaccine? We looked at the lymph nodes draining the arm after mRNA vaccination in humans and those nodes DID have raging fires .. good kind of fires. We call them germinal centers.
- # - ask
-  -
-    'Ellebedy_et_al_03_09_2021
-    'Ellebedy_et_al_03_09_2021.!a
-    'Ellebedy_et_al_03_09_2021.!b
-
-  >
-    One findings indicate that individuals infected early during the pandemic then vaccinated may have a higher likelihood of protection against infection with the more recent isolates, including those containing the E484K mutation.
-  -
-    'Ellebedy_et_al_03_09_2021
-    'Ellebedy_et_al_03_09_2021.!c
 
   # Elicitation of high affinity and durable protective antibody responses is a hallmark  of a successful humoral immune response to vaccination
 
   > SA Variant intro
     This lineage was identified in South Africa after the first epidemic wave in a severely affected metropolitan area, Nelson Mandela Bay, located on the coast of the Eastern Cape Province. This lineage spread rapidly, becoming dominant in the Eastern Cape, Western Cape and KwaZulu-Natal Provinces within weeks.
 
-  >
 
-    A study shows that a B.1.351 variant (501Y.V2) that rapidly became dominant in parts of South Africa towards the end of 2020 may have emerged from the coast of the Eastern Cape Province after the first wave of the epidemic, and suggest that this lineage is associated with a selection advantage, most plausibly as a result of increased transmissibility or immune escape.
-  # Emergence of a SARS-CoV-2 variant of concern with mutations in spike glycoprotein
-  # One study characterized the genomic alterations, the rapid time course to dominance, epidemiology of the B.1.351 variant (501Y.V2) in South Africa, and suggest that this lineage is associated with a selection advantage, most plausibly as a result of increased transmissibility or immune escape.
 
-  -
-    'Tegally_et_al_03_09_2021
-    'Tegally_et_al_03_09_2021.!a
-    'Tegally_et_al_03_09_2021.!b
-
-  > question on dose scheduling - discuss with ayush
-    Two critical issues arise: how will the timing of delivery of the second dose affect both infection dynamics and prospects for the evolution of viral immune escape via a build-up of partially immune individuals. Both hinge on the robustness of the immune response elicited by a single dose, compared to natural and two-dose immunity.
-
-    Current uncertainties surrounding the strength and duration of adaptive immunity in response to natural infection or vaccination lead to very broad ranges for the possible outcomes of various dosing regimes. Nevertheless, ongoing elevated COVID-19 case numbers stresses the rapid need for effective, mass vaccine deployment.
-
-    With additional knowledge of the relative strength and duration of one-dose vaccinal immunity and corresponding, clinically-informed policies related to dosing regimes, pessimistic scenarios may be avoided.
-
-    Our work emphasizes that the impact of vaccine dosing regimes are strongly dependent on the relative robustness of immunity conferred by a single dose.
-     Our model illustrates that, ultimately, the long term impacts of this strategy, especially in terms of transmission and immune escape, will depend on the duration and strength of one-dose vaccinal immunity.
-
-    explores the trade-offs of accelerating immunity vs fostering antigenic drift of the virus
-
-  -
-    'Saad-Roy_et_al_03_09_2021
-    'Saad-Roy_et_al_03_09_2021.!a
-    'Saad-Roy_et_al_03_09_2021.!b
-    'Saad-Roy_et_al_03_09_2021.!c
-    'Saad-Roy_et_al_03_09_2021.!d
-    'Saad-Roy_et_al_03_09_2021.!e
 
   >
     About NVX-CoV2373
@@ -517,35 +148,6 @@
   # B.1.1.7 INTRO
 
 
-
-  >
-    Novavax, Inc. (Nasdaq: NVAX), announced final efficacy of 96.4% against mild, moderate and severe disease caused by the original COVID-19 strain in a pivotal Phase 3 trial in the United Kingdom (U.K.) of NVX‑CoV2373, the company’s vaccine candidate. The company also announced the complete analysis of its Phase 2b trial taking place in South Africa, with efficacy of 55.4% among the HIV- negative trial participants in a region where the vast majority of strains are B1.351 escape variants. Across both trials, NVX-CoV2373 demonstrated 100% protection against severe disease, including all hospitalization and death. Both studies achieved their statistical success criteria.
-  -  B.1.1.7/501Y.V1
-    'Novavax_et_al_03_11_2021
-    'Novavax_et_al_03_11_2021.!a
-    'Novavax_et_al_03_11_2021.!b
-  - B.1.351/501Y.V2
-    'Novavax_et_al_03_11_2021.!c
-  -
-    'Novavax_et_al_03_11_2021.!d
-
-  >
-    One study found that a single dose of an mRNA vaccine elicited rapid immune responses  in those who had recovered from #COVID19, and appeared to provide the same degree of protection or more compared to 2 doses of mRNA vaccine in those with no history of infection, based on antibody titres.
-
-
-  #   hat a single dose of mRNA vaccine elicited rapid immune responses in seropositive participants, with postvaccination antibody titers that were similar to or exceeded titers found in seronegative participants who received two vaccinations.
-  # - ASK- d
-  -
-    'Krammer_et_al_03_10_2021
-    'Krammer_et_al_03_10_2021.!a
-    'Krammer_et_al_03_10_2021.!b
-    'Krammer_et_al_03_10_2021.!c
-    'Krammer_et_al_03_10_2021.!d
-  - Side effects
-    'Krammer_et_al_03_10_2021.!f
-  - Side effects in ppl with pre-existing immunity
-    'Krammer_et_al_03_10_2021.!g
-
   >
     Wu and co-authors16 have also shown that variants carrying the E484K mutation resulted in a 3-to-6 fold reduction in neutralization by sera from mRNA-1273 vaccinated individuals.
 
@@ -553,91 +155,13 @@
     Other studies have reported a small reduction of neutralisation against the B.1.1.7 variant from individuals vaccinated with two doses of BNT162b215 and mRNA-1273.
 
 
-  - No significant impact on neutralization against the B.1.1.7 variant was detected in either case, however reduced neutralization was measured against the mutations present in B.1.351.Wu and co-authors have also shown that variants carrying the E484K mutation resulted in a 3-to-6 fold reduction in neutralization by sera from mRNA-1273 vaccinated individuals.
-    'Wu_et_al_01_25_2021
-
-  # The immune sera had slightly reduced but overall largely preserved neutralizing titers against the B.1.1.7 lineage pseudovirus. These data indicate that the B.1.1.7 lineage will not escape BNT162b2-mediated protection.
-  -
-    'Muik_et_al_03_12_2021
-    'Muik_et_al_03_12_2021.!a
-
-  >
-    An animal challenge study (Syrian hamster model), demonstrated the effectiveness of the ChAdOx1 nCoV-19 vaccine against clinical disease caused by B.1.1.7 or B.1.351 VOCs.
-  -
-    'Fischer_et_al_03_11_2021
-    'Fischer_et_al_03_11_2021.!a
-    'Fischer_et_al_03_11_2021.!b
-    'Fischer_et_al_03_11_2021.!c
-    'Fischer_et_al_03_11_2021.!d
-
-  >
-    One study reported that mRNA vaccines elicit potent neutralizing activity against homologous pseudovirus. Cross-neutralization of strains with receptor binding domain (RBD) mutations is poor. Both RBD and non-RBD mutations mediate escape from vaccine-induced humoral immunity. While the clinical impact of neutralization resistance remains uncertain, these results highlight the potential for variants to escape from neutralizing humoral immunity and emphasize the need to develop broadly protective interventions against the evolving pandemic.
-
-  -
-    'Garcia-Beltran_et_al_03_12_2021
-    'Garcia-Beltran_et_al_03_12_2021.!a
-    'Garcia-Beltran_et_al_03_12_2021.!b
-    'Garcia-Beltran_et_al_03_12_2021.!c
-    'Garcia-Beltran_et_al_03_12_2021.!d
-    'Garcia-Beltran_et_al_03_12_2021.!e
-    'Garcia-Beltran_et_al_03_12_2021.!f
-
-  >  discuss with ayush
-    A study described 3 cases of SARS-CoV-2 transmission with homologous whole genome sequencing that occurred despite the use of medical masks and eye protection; including transmission despite the source person being masked, transmission despite the exposed person being masked, and transmission despite both parties being masked.
-  -
-    'Klompas_et_al_03_11_2021
-    'Klompas_et_al_03_11_2021.!a
 
 
-  > asl ayush press release- do i need to mention and quote b
-    The Israel Ministry of Health (MoH), Pfizer Inc. and BioNTech SE announced real-world evidence demonstrating dramatically lower incidence rates of COVID-19 disease in individuals fully vaccinated with the Pfizer-BioNTech COVID-19 Vaccine (BNT162b2).
-    Vaccine effectiveness was at least 97% against symptomatic COVID-19 cases, hospitalizations, severe and critical hospitalizations, and deaths; 94% against asymptomatic SARS-CoV-2 infections.
-    Data suggest Pfizer-BioNTech vaccine prevents asymptomatic SARS-CoV-2 infection.
-  -
-    'Pfizer_et_al_03_11_2021
-    'Pfizer_et_al_03_11_2021.!a
-    'Pfizer_et_al_03_11_2021.!c
-
-
-
-
-
-
-  >
-    Results of one study  showed a broad range of neutralising titres against the wild-type pseudoviruses (bearing S protein with the full set of mutations present in the B.1.1.7 variant) were modestly reduced against B.1.1.7 variant. Decreased B.1.1.7 neutralisation was also observed with monoclonal antibodies targeting the N-terminal domain (9 out of 10), the RBM (5 out of 31), but not in RBD neutralising mAbs binding outside the RBM. Further reduction in neutralisation titres by vaccine sera when E484K was present alongside the B.1.1.7 S mutations. E484K emergence on a B.1.1.7 background represents a threat to the vaccine BNT162b.
-
- # —Sensitive (only a small reduction to neutralization)
- # —Role of NTD-specific neutralizing Abs likely underestimated
- # —Added mutation of E484K Δ responsivenessDown pointing backhand index
-  -
-    'Collier_et_al_03_11_2021
-    'Collier_et_al_03_11_2021.!a
-  -
-    'Collier_et_al_03_11_2021.!b
-    'Collier_et_al_03_11_2021.!c
-  - E484K mutation
-    'Collier_et_al_03_11_2021.!d
-    'Collier_et_al_03_11_2021.!e
-    'Collier_et_al_03_11_2021.!f
 
 
 
   ############  the march papers end #########
 
-
-  >
-    Asymptomatic and presymptomatic persons are likely to be a source of infectious virus. we recommend that infection control measures for persons with mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days. Data indicates that more prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
-  - Asymptomatic and presymptomatic persons are likely to be a source of infectious virus.
-    'Singanayagam_et_al_08_12_2020
-    'Singanayagam_et_al_08_12_2020.!a
-  - mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days.
-    'Singanayagam_et_al_08_12_2020.!b
-  - We observed a strong relationship between Ct value and ability to recover infectious virus.
-    'Singanayagam_et_al_08_12_2020.!c
-    'Singanayagam_et_al_08_12_2020.!d
-    'Singanayagam_et_al_08_12_2020.!e
-  - prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
-    'Singanayagam_et_al_08_12_2020.!f
 
   >
     We previously observed that anosmia/dysgeusia was associated with an increase of antibodies over time, independently of vaccination (Levi et al. submitted).
