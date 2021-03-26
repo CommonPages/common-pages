@@ -431,30 +431,30 @@ subject Variants
         <td>501.Y.V1</td>
         </tr>
         <tr>
-        <th>Mutation</th>
+        <th>Mutations</th>
         <td>23</td>
         </tr>
         <tr>
-        <th>Spike Mutation</th>
+        <th>Spike mutation</th>
         <td>8</td>
         </tr>
         <tr>
-        <th>Key Mutation</th>
-        <td>N501Y, E69/70 Deletion, P681H 144Y Deletion, A570D </td>
+        <th>Key RBD, spike mutations beyond N501Y in all</th>
+        <td> E69/70 Deletion, P681H 144Y Deletion, A570D </td>
         </tr>
         <tr>
-        <th>Other Mutation (Including N-terminal)</th>
+        <th>Other mutations (Including N-terminal)</th>
         <td>T7161, S982A, D1118H </td>
         <tr>
         <th>Transmissibility</th>
-        <td>{!GrowthRate 50% more transmissible}</td>
+        <td>>50% increased</td>
         </tr>
         <tr>
-        <th>Severity</th>
-        <td> Increased risk of severity, hospitalization and death</td>
+        <th>Lethality</th>
+        <td> Increased risk of severity, hospitalization and death, Likely increased >30%</td>
         </tr>
         <tr>
-        <th>Immune Escape</th>
+        <th>Immune Evasion</th>
         <td> Probable, extent unclear </td>
         </tr>
         <tr>
@@ -462,12 +462,12 @@ subject Variants
         <td> Partial; {Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant Novavax (96->86%)}; {Vaccines.Approved.AZD1222.!VariantEfficacy Astra Zeneca (84->75%)} </td>
         </tr>
         <tr>
-        <th>Countries reported (uptil Feb 24, 2021)</th>
-        <td> 93 </td>
+        <th>Countries reported (uptil March 19, 2021)</th>
+        <td> 94 </td>
         </tr>
         <tr>
-        <th>US States reported (uptil Feb 24, 2021)</th>
-        <td> 44 </td>
+        <th>US States reported (uptil March 19, 2021)</th>
+        <td> 48 </td>
         </tr>
       </table>
     -
@@ -808,43 +808,43 @@ subject Variants
         <td>501.Y.V2</td>
         </tr>
         <tr>
-        <th>Mutation</th>
+        <th>Mutations</th>
         <td>21</td>
         </tr>
         <tr>
-        <th>Spike Mutation</th>
+        <th>Spike mutations</th>
         <td>9</td>
         </tr>
         <tr>
-        <th>Key Mutation</th>
-        <td>N501Y, E484K, K417N, orf1b deletion </td>
+        <th>Key RBD, spike mutations beyond N501Y in all</th>
+        <td> E484K, K417N, orf1b deletion </td>
         </tr>
         <tr>
-        <th>Other Mutation (Including N-terminal)</th>
+        <th>Other mutations (Including N-terminal)</th>
         <td>L18F, D80A, D215G, del 242-244, R264I, A701V </td>
         <tr>
         <th>Transmissibility</th>
         <td> No </td>
         </tr>
         <tr>
-        <th>Severity</th>
+        <th>Lethality</th>
         <td> Not established</td>
         </tr>
         <tr>
-        <th>Immune Escape</th>
+        <th>Immune Evasion</th>
         <td> Yes </td>
         </tr>
         <tr>
         <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
-        <td> Yes, reduced in 3 vaccine trials. No efficacy {Vaccines.Approved.AZD1222.!SAVariantEfficacy with Oxford Astra-Zeneca} </td>
+        <td> 60% efficacy Novavax, 64% efficacy J&J. No {Vaccines.Approved.AZD1222.!SAVariantEfficacy with Oxford Astra-Zeneca}efficacy vs mild/mod infections</td>
         </tr>
         <tr>
-        <th>Countries reported (uptil Feb 24, 2021)</th>
-        <td> 46 </td>
+        <th>Countries reported (uptil March 19, 2021)</th>
+        <td> 48 </td>
         </tr>
         <tr>
-        <th>US States reported (uptil Feb 24, 2021)</th>
-        <td> 13 </td>
+        <th>US States reported (uptil March 19, 2021)</th>
+        <td> 26 </td>
         </tr>
       </table>
 
@@ -1010,39 +1010,39 @@ subject Variants
         <td>17</td>
         </tr>
         <tr>
-        <th>Spike Mutation</th>
+        <th>Spike mutations</th>
         <td>10</td>
         </tr>
         <tr>
-        <th>Key Mutation</th>
+        <th>Key RBD, spike mutations beyond N501Y in all</th>
         <td>N501Y, E484K, K417N/T, orf1b deletion </td>
         </tr>
         <tr>
-        <th>Other Mutation (Including N-terminal)</th>
+        <th>Other mutations (Including N-terminal)</th>
         <td>L18F, T20N, P26S, D138Y, R190S, H655Y, T10271 </td>
         <tr>
         <th>{!Transmission Transmissibility}</th>
         <td> 1.4 and 2.2 times more transmissible</td>
         </tr>
         <tr>
-        <th>Severity</th>
+        <th>Lethality</th>
         <td> Not established</td>
         </tr>
         <tr>
-        <th>Immune Escape</th>
+        <th>Immune Evasion</th>
         <td> {!AntibodyEscape Yes} </td>
         </tr>
         <tr>
         <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
-        <td> Likely not established </td>
+        <td> 68% efficacy J&J </td>
         </tr>
         <tr>
-        <th>Countries reported (uptil Feb 24, 2021)</th>
-        <td> 22 </td>
+        <th>Countries reported (uptil March 19, 2021)</th>
+        <td> 26 </td>
         </tr>
         <tr>
-        <th>US States reported (uptil Feb 24, 2021)</th>
-        <td> 4 </td>
+        <th>US States reported (uptil March 19, 2021)</th>
+        <td> 15 </td>
         </tr>
 
       </table>

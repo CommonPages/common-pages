@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Pfizer first posted clinical trials in April of 2020. Interim trial reports and real world data have shown favorable safety and efficacy (95%). It has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351.
+      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Systemic reactogenicity is more common and severe after 2nd dose. Pfizer vaccine has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351.
 
       >
         Tozinameran is a COVID-19 vaccine developed by [BioNTech](https://biontech.de/) and manufactured and distributed by [Pfizer](https://www.pfizer.com/), which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the {Virus.Structure spike protein} of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
@@ -345,6 +345,7 @@ subject module Vaccines
           'Chodick_et_al_01_29_2021.!a
           'Chodick_et_al_01_29_2021.!b
           'Chodick_et_al_01_29_2021.!c
+          'Chodick_et_al_01_29_2021.!d
 
       claim !IsraelHCW = A study conducted in vaccinated healthecare workers (Israel), showed the first dose of Pfizer’s vaccine was 85% effective in preventing symptomatic disease by 15 to 28 days after it was administered. The authors conclude that Pfizer vaccine generates a robust immune response after one dose.
         -
