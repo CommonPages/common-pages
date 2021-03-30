@@ -393,7 +393,7 @@ feed March2021
     quote !a = P.1, is not only refractory to multiple neutralizing monoclonal antibodies, but also more resistant to neutralization by convalescent plasma (6.5 fold) and vaccinee sera (2.2-2.8 fold).
 
     / March, 2021 - bioRxiv
-    quote !b = Both convalescent plasma and vaccinee sera show a significant loss of neutralizing activity against P.1, but the diminution is not as great as that reported against B.1.3513,20. Therefore, the threat of increased re-infection or decreased vaccine protection posed by P.1 may not be as severe as B.1.351.
+    quote !b = Both convalescent plasma and vaccinee sera show a significant loss of neutralizing activity against P.1, but the diminution is not as great as that reported against B.1.3513. Therefore, the threat of increased re-infection or decreased vaccine protection posed by P.1 may not be as severe as B.1.351.
 
     / March, 2021 - bioRxiv
     quote !c = The P.1 variant threatens current antibody therapies but less so the protective efficacy of our vaccines

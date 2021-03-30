@@ -487,8 +487,13 @@ subject Variants
     - Severity
       !Severity
       !SeverityHospitalizationDeath
+      !DenmarkSeverity
+      !Fatality
+      !SevereIllness
+      !MortalityHazardRatio
     - Reinfection
       !Reinfection
+      !ReinfectionCrossReactive
     - Vaccine related claims
       !Phase3trialConcern
       Variants.B1351.!Vaccineefficacy
@@ -499,9 +504,10 @@ subject Variants
       Vaccines.Approved.mRNA-1273.!NeutralisingUKvariant
       Vaccines.Approved.mRNA-1273.!SAvariant
       Vaccines.Approved.Tozinameran.!IsraelB117
+      !ReducedNeurtalizationmAbs
     - Pre Existing Immunity
       !PreexistingImmunity
-
+      !RetainedImmunity
     >
       [Coronavirus outbreaks](https://cphpost.dk/?p=122479) occured in two schools and and eight daycare in Feb of 2020. At the last count the two schools had a total of 69 infections among staff and students, while up to 20 have been infected at the daycare institutions. Researchers have raised concern about infection of B.1.1.7 among children which have not seen with the old variants.
     - Children
@@ -521,6 +527,8 @@ subject Variants
       !P681HFurin
     - Origin Theory
       !Immunocompromised
+    - Positive Selection
+      !PositiveSelection
 
     # When paper is out make counter for vaccine efficacy and increase reinfection risk - https://twitter.com/VirusesImmunity/status/1344391796214935560
 
@@ -586,6 +594,9 @@ subject Variants
         'NERVTAG_et_al_12_18_2020.!a
         'NERVTAG_et_al_12_18_2020.!b
         'NERVTAG_et_al_12_18_2020.!c
+      -
+        'Davies_et_al_03_15_2021
+        'Davies_et_al_03_15_2021.!a
 
     claim !Transmission = Findings from surveys suggest that the spread of B.1.1.7 was due to a lineage-specific transmissibility advantage, rather than general inefficacy of viral control.
       -
@@ -753,6 +764,12 @@ subject Variants
         'Harrington_et_al_01_09_2021.!a
         'Harrington_et_al_01_09_2021.!b
 
+    claim !ReinfectionCrossReactive = One study found that antibodies induced by B.1.1.7 infection were less cross-reactive with other dominant SARS-CoV-2 strains than those induced by the parental strain. Authors stated that The recent wave of global B.1.1.7 infections may not completely protect against re-infection with other SARS-CoV-2 strains.
+      -
+        'Faulkner_et_al_03_01_2021
+        'Faulkner_et_al_03_01_2021.!a
+        'Faulkner_et_al_03_01_2021.!b
+
     # Though, both the ‘B.1.1.7 UK variants & B.1.351 South Africa Variant’ represent unique combinations of mutations / deletions that have rarely been observed before scientists speculate that the two lineages may have acquired those during a persistent infection in an immunocompromised patient.
 
     claim !Immunocompromised = Researchers speculate that long chronic infection in immunodeficient or immunosuppressed individuals played a role in the origins of the B.1.1.7 variant, though this still remains a hypothesis.
@@ -794,6 +811,70 @@ subject Variants
       -
         'Brown_et_al_02_24_2021
         'Brown_et_al_02_24_2021.!a
+
+
+    claim !DenmarkSeverity = A study conduced on individuals in Denmark sampled between the 1st January and until the 9th February, 2021, identified in the national COVID-19 surveillance system found that Infection with lineage B.1.1.7 was associated with an increased risk of hospitalisation compared with other lineages.
+      -
+        'Bager_et_al_03_02_2021
+        'Bager_et_al_03_02_2021.!a
+        'Bager_et_al_03_02_2021.!b
+
+    claim !PositiveSelection = One study found that the emergence of the 501Y lineages coincided with a marked global change in positive selection signals, indicative of a general shift in the selective environment within which SARS-CoV-2 is evolving. Authors stated that, with the emergence of more divergent lineages such as V1, V2 and V3, it is likely that recombination will be both more readily detectable as these begin to co-circulate, and more likely to generate increasingly diverse variants.
+      -
+        'Martin_et_al_03_10_2021
+        'Martin_et_al_03_10_2021.!a
+        'Martin_et_al_03_10_2021.!b
+        'Martin_et_al_03_10_2021.!c
+        'Martin_et_al_03_10_2021.!d
+        'Martin_et_al_03_10_2021.!e
+        'Martin_et_al_03_10_2021.!f
+        'Martin_et_al_03_10_2021.!g
+        'Martin_et_al_03_10_2021.!h
+
+    claim !Fatality =  One study reported increased risk of death for VOC (B.1.1.7) compared with non-VOC cases in England (67% higher hazard of death) -- all the more so in men, the elderly, and those with comorbid conditions.
+      -
+        'Grint_et_al_03_10_2021
+        'Grint_et_al_03_10_2021.!a
+        'Grint_et_al_03_10_2021.!b
+        'Grint_et_al_03_10_2021.!c
+        'Grint_et_al_03_10_2021.!d
+        'Grint_et_al_03_10_2021.!e
+
+    claim !SevereIllness =  One study analysed a dataset linking 2,245,263 positive SARS-CoV-2 community tests and 17,452 COVID-19 deaths in England from 1 September 2020 to 14 February 2021. Their analysis estimated that B.1.1.7 infection was associated with 55% higher mortality compared to other strains of SARS-CoV-2 over this time period. Analysis suggest that B.1.1.7 is not only more transmissible than preexisting SARS-CoV-2 variants, but may also cause more severe illness. The authors concluded that the emergence of new SARS-CoV-2 variants such as B.1.1.7 threatens to cancel out the improvements in COVID-19 treatment that were made over the course of 2020.
+
+      # https://www.lshtm.ac.uk/newsevents/news/2021/b117-variant-linked-55-higher-mortality-compared-other-strains-sars-cov-2
+      # Karla.Diaz-Ordaz@lshtm.ac.uk , Ruth.Keogh@lshtm.ac.uk, Nicholas.Davies@lshtm.ac.uk
+      -
+        'Davies_et_al_03_15_2021
+        'Davies_et_al_03_15_2021.!a
+        'Davies_et_al_03_15_2021.!b
+        'Davies_et_al_03_15_2021.!c
+
+    claim !MortalityHazardRatio = One matched cohort study of 54906 positive SARS-CoV-2 participants in between 1 October 2020 and 29 January 2021 reported that the mortality hazard ratio associated with infection with VOC-202012/1 compared with infection with previously circulating variants was 1.64 (95% confidence interval 1.32 to 2.04) in patients who tested positive for covid-19 in the community. In this comparatively low risk group, this represents an increase in deaths from 2.5 to 4.1 per 1000 detected cases.
+      -
+        'Challen_et_al_03_10_2021
+        'Challen_et_al_03_10_2021.!a
+        'Challen_et_al_03_10_2021.!b
+        'Challen_et_al_03_10_2021.!c
+        'Challen_et_al_03_10_2021.!d
+        'Challen_et_al_03_10_2021.!e
+
+    claim !RetainedImmunity = Results of one study suggest that infection- and vaccine-induced immunity may be retained against the B.1.1.7 variant.
+      -
+        'Edara_et_al_03_19_2021
+        'Edara_et_al_03_19_2021.!a
+        'Edara_et_al_03_19_2021.!b
+        'Edara_et_al_03_19_2021.!c
+
+    claim !ReducedNeurtalizationmAbs = One study measured neutralising antibody responses following immunisations. Authors reported that mRNA vaccine sera exhibited a broad range of neutralising titres against the wild-type pseudoviruses that were modestly reduced against B.1.1.7 variant. This reduction was also evident in sera from some convalescent patients. Decreased B.1.1.7 neutralisation was also observed with monoclonal antibodies targeting the N-terminal domain , the RBM , but not in RBD neutralising mAbs binding outside the RBM. Introduction of the E484K mutation in a B.1.1.7 background led to a more substantial loss of neutralising activity by vaccine-elicited antibodies and mAbs over that conferred by the B.1.1.7 mutations alone.
+      -
+        'Collier_et_al_03_11_2021
+        'Collier_et_al_03_11_2021.!a
+        'Collier_et_al_03_11_2021.!b
+        'Collier_et_al_03_11_2021.!c
+        'Collier_et_al_03_11_2021.!d
+        'Collier_et_al_03_11_2021.!e
+        'Collier_et_al_03_11_2021.!f
 
   / B.1.351 (Identified in South Africa)
   subject B1351
@@ -870,8 +951,12 @@ subject Variants
       !RecurrentDeletion
       !ProtectionagainstB1351
       !ImmuneEscapeInfectivity
+      P1Variant.!EntryInhibitorsEscape
+      B117.!ReducedNeurtalizationmAbs
     - Pre Existing Immunity
       !PreexistingImmunity
+    - Cross Neutralization with other strains
+      !CrossNeutralization
     - Treatment
       !Treatment
     - Mutation
@@ -995,6 +1080,20 @@ subject Variants
         'Li_et_al_02_18_2021
         'Li_et_al_02_18_2021.!c
 
+    claim !CrossNeutralization =  Studies have found that Convalescent from 501Y.V2 neutralized 501Y.V1 and 501Y.V3. Researchers have stated that vaccines designed with the 501Y.V2 sequence may elicit more cross-reactive responses.
+      -
+        'Cele_et_al_02_27_2021
+        'Cele_et_al_02_27_2021.!a
+        'Cele_et_al_02_27_2021.!b
+        'Cele_et_al_02_27_2021.!c
+        'Cele_et_al_02_27_2021.!d
+      -
+        'Moyo-Gwete_et_al_03_11_2021
+        'Moyo-Gwete_et_al_03_11_2021.!a
+        'Moyo-Gwete_et_al_03_11_2021.!b
+        'Moyo-Gwete_et_al_03_11_2021.!c
+        'Moyo-Gwete_et_al_03_11_2021.!d
+
   / P.1 (Identified in Brazil)
   subject P1Variant
     head = A new lineage named P.1 from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike. It is estimated to be somewhere between 1.4 and 2.2 times more transmissible than other lineages. Studies have reported significant levels of neutralizing resitance and raised concerns about the propensity for re-infection. As of February 2021, this variant has been reported in 22 countries.
@@ -1055,9 +1154,13 @@ subject Variants
     -
       !NeutralisingResitance
       !AntibodyEscape
+      !Escape
+      !LessEscape
+      !EntryInhibitorsEscape
     -
       !Mutation
-
+    - Potential Significance to ACE2 receptor
+      !ReceptorBinding
     - Potential biologic significance of N501Y Mutation
       Variants.B117.!N501Y
       Variants.B117.!N501YK417N
@@ -1075,12 +1178,20 @@ subject Variants
         'Faria_et_al_01_12_2021.!b
         'Faria_et_al_01_12_2021.!c
 
+    claim !ReceptorBinding = A trio in the spike protein (K417T, E484K and N501Y) are associated with increased binding to the human ACE2 receptor.
+      -
+        'Faria_et_al_02_25_2021
+        'Faria_et_al_02_25_2021.!a
+
     / Origin
     claim !Origin = The P.1 lineage was identified in 42% RT-PCR positive samples collected between 15 to 23 December, but it was absent in 26 publicly available genome surveillance samples collected in Manaus between March to November 2020. Findings indicate local transmission and possible recent increase in the frequency of a new lineage from the Amazon region and appears to have arisen entirely independently.
       -
         'Faria_et_al_01_12_2021
         'Faria_et_al_01_12_2021.!e
         'Faria_et_al_01_12_2021.!h
+      -
+        'Faria_et_al_02_25_2021
+        'Faria_et_al_02_25_2021.!b
 
     / Antibody Escape
     claim !NeutralisingResitance = One study suggest that this lineage is also likely to exhibit significant levels of neutralization resistance.
@@ -1109,6 +1220,29 @@ subject Variants
       -
         'Zimmer_et_al_03_01_2021
         'Zimmer_et_al_03_01_2021.!a
+      -
+        'Faria_et_al_02_25_2021
+        'Faria_et_al_02_25_2021.!c
+
+    claim !Escape = One study reported that P.1, is not only refractory to multiple neutralizing monoclonal antibodies, but also more resistant to neutralization by convalescent plasma (6.5 fold) and vaccinee sera (2.2-2.8 fold). Authors also reported that the threat of increased re-infection or decreased vaccine protection posed by P.1 may not be as severe as B.1.351. The P.1 variant threatens current antibody therapies but less so the protective efficacy of our vaccines
+      -
+        'Wang_et_al_03_02_2021
+        'Wang_et_al_03_02_2021.!a
+        'Wang_et_al_03_02_2021.!b
+        'Wang_et_al_03_02_2021.!c
+
+    claim !LessEscape = One study results demonstrated that P.1 is significantly less resistant to naturally acquired or vaccine induced antibody responses than B.1.351 and there is no evidence of widespread escape.  Despite the reduction in neutralization titres, immunization with vaccines designed against parent/ancestral strains likely provide some protection against P.1.
+      -
+        'Dejnirattisai_et_al_03_15_2021
+        'Dejnirattisai_et_al_03_15_2021.!b
+        'Dejnirattisai_et_al_03_15_2021.!c
+        'Dejnirattisai_et_al_03_15_2021.!d
+
+
+    claim !EntryInhibitorsEscape = A study showed that entry inhibitors under clinical evaluation block all variants. B.1.351 and P.1 can escape from therapeutic antibodies. B.1.351 and P.1 evade antibodies induced by infection and vaccination. These results suggest that SARS-CoV-2 may escape neutralizing antibody responses.
+      -
+        'Hoffmann_et_al_03_20_2021
+        'Hoffmann_et_al_03_20_2021.!a
 
   / CAL.20C (Identified in California)
   subject CAL20C

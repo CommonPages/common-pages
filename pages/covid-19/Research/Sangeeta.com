@@ -943,9 +943,10 @@ feed Sangeeta
       The global spread of SARS-CoV-2/COVID-19 is devastating health systems and economies worldwide. Recombinant or vaccine-induced neutralizing antibodies are used to combat the COVID-19 pandemic. However, the recently emerged SARS-CoV-2 variants B.1.1.7 (UK), B.1.351 (South Africa) and P.1 (Brazil) harbor mutations in the viral spike (S) protein that may alter virus-host cell interactions and confer resistance to inhibitors and antibodies. Here, using pseudoparticles, we show that entry of all variants into human cells is susceptible to blockade by the entry inhibitors soluble ACE2, Camostat, EK-1 and EK-1-C4. In contrast, entry of the B.1.351 and P.1 variant was partially (Casirivimab) or fully (Bamlanivimab) resistant to antibodies used for COVID-19 treatment. Moreover, entry of these variants was less efficiently inhibited by plasma from convalescent COVID-19 patients and sera from BNT162b2 vaccinated individuals. These results suggest that SARS-CoV-2 may escape neutralizing antibody responses, which has important implications for efforts to contain the pandemic.
 
     - quotes
+      !a
 
-    # / March, 2021 - Cell
-    # quote !a = B.1.1.7, B.1.351 and P.1 do not show augmented host cell entry.
+    / March, 2021 - Cell
+    quote !a = SARS-CoV-2 may escape neutralizing antibody responses, which has important implications for efforts to contain the pandemic.
 
 
 
