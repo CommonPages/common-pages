@@ -90,321 +90,378 @@
       'Chevallier_et_al_02_09_2021.!b
       'Chevallier_et_al_02_09_2021.!c
 
-  # T Cell immunity from mRNA vaccine and convalescent works well against new variants
-  -
-    'Tarke_et_al_03_01_2021
-    'Tarke_et_al_03_01_2021.!a
-    'Tarke_et_al_03_01_2021.!b
-
-  # Removing the polybasic cleavage site of spike results in an optimal antigen. design is used by J&J and Novavax.
-  -
-    'Amanat_et_al_03_02_2021
-    'Amanat_et_al_03_02_2021.!a
-
-  # Bharat Biotech Phase 3 - 81%
-  -
-    'Bharatbiotech_et_al_03_23_2021
-    'Bharatbiotech_et_al_03_23_2021.!a
-
-  # Novavax against B.1.351 - Efficacy 51%
-  -
-    'Shinde_et_al_03_03_2021
-    'Shinde_et_al_03_03_2021.!a
-    'Shinde_et_al_03_03_2021.!b
-    'Shinde_et_al_03_03_2021.!c
-
-  # Single dose in HCW mRNA had good enough antibodies
-  -
-    'Saadat_et_al_03_01_2020
-    'Saadat_et_al_03_01_2020.!a
-    'Saadat_et_al_03_01_2020.!b
-
-  # Pregnancy - One Scientists pointed out the need for monitoring pregnant women taking vaccines to make evidence-based recommendations. Author also quoted that multiple strands of evidence have shown that vaccination does not harm fertility.
-  -
-    'Male_et_al_03_03_2021
-    'Male_et_al_03_03_2021.!a
-    'Male_et_al_03_03_2021.!b
 
 
-  # B-Cell Response - mRNA and Prior SARS-CoV-2 individual
-  -
-    'Goel_et_al_03_06_2021
-    'Goel_et_al_03_06_2021.!a
-    'Goel_et_al_03_06_2021.!b
-    'Goel_et_al_03_06_2021.!c
-    'Goel_et_al_03_06_2021.!d
-    'Goel_et_al_03_06_2021.!e
 
 
-  # older people were more likely to test positive again if they had already tested positive.
-  >
-    In a Danish population-level observational study, researchers found that older people were more likely than younger people to test positive again if they had already tested positive. Protection in the population to be 80% or higher in those younger than 65 years, but to be approximately 47% in those aged 65 years and older. Thier data indicates that vaccination of previously infected individuals should be done because natural protection cannot be relied on.
-  -
-    'Hansen_et_al_03_17_2021
-    'Hansen_et_al_03_17_2021.!a
-    'Hansen_et_al_03_17_2021.!b
-    'Hansen_et_al_03_17_2021.!c
-    'Hansen_et_al_03_17_2021.!d
+  claim !2Pdesign = Studies have shown that introducing stabilizing prolines plus removing the polybasic cleavage site of spike results in an optimal antigen. The SARS-CoV-2 S protein-based vaccines created during 2020 usually incorporate the dual-proline modification that can be traced back, first to the I559P change made to the HIV-1 Env trimer in 2002 and from there, to stabilization work on RSV F, MERS-CoV S, and other class I fusion proteins. There are 4 SARSCoV-2 vaccines that incorporate the 2P design - Moderna, BioNTech/Pfizer, Novavax and J&J.
 
-  >
-    Vaccination of health care workers for SARS-CoV-2 reduces documented cases and hospitalisation in both those individuals vaccinated and members of their households.
-  -
-    'Shah_et_al_03_21_2021
-    'Shah_et_al_03_21_2021.!a
-    'Shah_et_al_03_21_2021.!b
-    'Shah_et_al_03_21_2021.!c
-
-  >
-    One findings indicate that individuals infected early during the pandemic then vaccinated may have a higher likelihood of protection against infection with the more recent isolates, including those containing the E484K mutation.
-  -
-    'Ellebedy_et_al_03_09_2021
-    'Ellebedy_et_al_03_09_2021.!c
-
-
-  # mRna Asymptomatic
-  >
-    COVID-19 vaccination with an mRNA-based vaccine showed a significant association with a reduced risk of asymptomatic SARS-CoV-2 infection as measured during pre-procedural molecular screening.
-    Positive molecular tests in asymptomatic individuals were reported in 42 (1.4%) of 3,006 tests performed on vaccinated patients and 1,436 (3.2%) of 45,327 tests performed on unvaccinated patients.
-  -
-    'Tande_et_al_03_10_2021
-    'Tande_et_al_03_10_2021.!a
-    'Tande_et_al_03_10_2021.!b
-    'Tande_et_al_03_10_2021.!c
+    -
+      'Amanat_et_al_03_02_2021
+      'Amanat_et_al_03_02_2021.!a
+    -
+      'Sanders_et_al_03_10_2021
+      'Sanders_et_al_03_10_2021.!a
+      'Sanders_et_al_03_10_2021.!b
+    -
+      'Kirchdoerfer_et_al_03_02_2016
+      'Kirchdoerfer_et_al_03_02_2016.!a
+      'Kirchdoerfer_et_al_03_02_2016.!b
+      'Kirchdoerfer_et_al_03_02_2016.!c
+      'Kirchdoerfer_et_al_03_02_2016.!d
+      'Kirchdoerfer_et_al_03_02_2016.!e
+    -
+      'McLellan_et_al_11_01_2013
+      'McLellan_et_al_11_01_2013.!a
+      'McLellan_et_al_11_01_2013.!b
+      'McLellan_et_al_11_01_2013.!c
+    -
+      'Sanders_et_al_09_13_2013
+      'Sanders_et_al_09_13_2013.!a
+      'Sanders_et_al_09_13_2013.!b
 
 
-  # mRNA- delayed boosting in Cancer patients
-  >
-    Delayed boosting of RNA-based SARS-CoV-2 BNT162b2 vaccine potentially leaves most solid and haematological cancer patients wholly or partially unprotected, while prompt boosting of solid cancer patients quickly overcomes the poor efficacy of the primary inoculum in solid cancer patients. These data support prioritisation of cancer patients for an early (21-day) second dose of the BNT162b2 vaccine.
-  -
-    'Monin-Aldama_et_al_03_17_2021
-    'Monin-Aldama_et_al_03_17_2021.!a
-    'Monin-Aldama_et_al_03_17_2021.!b
 
-  # mRNA- preg woman
-  >
-    Study observed robust and comparable IgG titers (with COVID-19 mRNA vaccines) were observed across pregnant, lactating, and non-pregnant controls, all of which were significantly higher than those observed in pregnant women with prior SARS-CoV-2-infection. Immune transfer to neonates occurred via placental and breastmilk.
-  -
-    'Gray_et_al_03_08_2021
-    'Gray_et_al_03_08_2021.!a
-    'Gray_et_al_03_08_2021.!b
+  claim !Realworldvaccinationresults = A national record linkage study results showed that the vaccination of health care workers for SARS-CoV-2 reduces documented cases and hospitalisation in both those individuals vaccinated and members of their households.
+    -
+      'Shah_et_al_03_21_2021
+      'Shah_et_al_03_21_2021.!a
+      'Shah_et_al_03_21_2021.!b
+      'Shah_et_al_03_21_2021.!c
+
+  claim !TexasReal-world = Real-world experience with SARS-CoV-2 vaccination at University of Texas Southwestern Medical Center (UTSW) has shown a marked reduction in the incidence of infections among employees.
+    -
+      'Daniel_et_al_03_23_2021
+      'Daniel_et_al_03_23_2021.!a
+      'Daniel_et_al_03_23_2021.!b
 
 
-  # mRNA - lower neutralization titers- B.1.351. efficiently neutralized USA-WA1/2020 and all the viruses with variant spikes (B.1.1.7-spike and P.1-spike)
-  >
-    Study showed that all of the 20 serum samples (the second dose of 30 μg of BNT162b2) efficiently neutralized USA-WA1/2020 and all the viruses with variant spikes. As compared with neutralization of USA-WA1/2020, neutralization of B.1.1.7-spike and P.1-spike viruses was roughly equivalent, and neutralization of B.1.351-spike virus was robust but lower. Data are also consistent with lower neutralization titers against the virus with the full set of B.1.351-spike mutations than against virus with either subset of mutations.
+    # mRNA- preg woman
+  claim !Pregnantwomen = Study observed robust and comparable IgG titers (with COVID-19 mRNA vaccines) across pregnant, lactating, and non-pregnant controls, all of which were significantly higher than those observed in pregnant women with prior SARS-CoV-2-infection. Immune transfer to neonates occurred via placental and breastmilk.
+    -
+      'Gray_et_al_03_08_2021
+      'Gray_et_al_03_08_2021.!a
+      'Gray_et_al_03_08_2021.!b
 
-  -
-    'Liu_et_al_03_08_2021
-    'Liu_et_al_03_08_2021.!a
-    'Liu_et_al_03_08_2021.!b
-    'Liu_et_al_03_08_2021.!c
-    'Liu_et_al_03_08_2021.!d
-    'Liu_et_al_03_08_2021.!e
+  claim !Fertility = One Scientists pointed out the need for monitoring pregnant women taking vaccines to make evidence-based recommendations. Author also quoted that multiple strands of evidence have shown that vaccination does not harm fertility.
+    -
+      'Male_et_al_03_03_2021
+      'Male_et_al_03_03_2021.!a
+      'Male_et_al_03_03_2021.!b
+
+
+  claim !Asymptomatic = COVID-19 vaccination with an mRNA-based vaccine showed a significant association with a reduced risk of asymptomatic SARS-CoV-2 infection as measured during pre-procedural molecular screening.
+    -
+      'Tande_et_al_03_10_2021
+      'Tande_et_al_03_10_2021.!a
+      'Tande_et_al_03_10_2021.!b
+      'Tande_et_al_03_10_2021.!c
+
+  claim !Neutralizingactivity = One study reported that mRNA vaccines (BNT162b2 or mRNA-1273) elicit potent neutralizing activity against homologous pseudovirus. Cross-neutralization of strains with receptor binding domain (RBD) mutations is poor. Both RBD and non-RBD mutations mediate escape from vaccine-induced humoral immunity. Five of the 10 pseudoviruses, harboring receptor-binding domain mutations, including K417N/T, E484K, and N501Y, were highly resistant to neutralization. Cross-neutralization of B.1.351 variants was comparable to SARS-CoV and bat-derived WIV1-CoV, suggesting that a relatively small number of mutations can mediate potent escape from vaccine responses.
+    -
+      'Garcia-Beltran_et_al_03_12_2021
+      'Garcia-Beltran_et_al_03_12_2021.!a
+      'Garcia-Beltran_et_al_03_12_2021.!b
+      'Garcia-Beltran_et_al_03_12_2021.!c
+      'Garcia-Beltran_et_al_03_12_2021.!d
+      'Garcia-Beltran_et_al_03_12_2021.!e
+      'Garcia-Beltran_et_al_03_12_2021.!f
+
+
+  claim !Solidorgantransplantrecipients = The results of one study showed that after the first dose of the mRNA SARS-CoV-2 vaccine among solid organ transplant recipients, the majority of participants did not mount appreciable antispike antibody responses. Such patients may remain at higher early risk for COVID-19 despite vaccination.
+    -
+      'Boyarsky_et_al_03_15_2021
+      'Boyarsky_et_al_03_15_2021.!a
+
+
+  claim !Germinalcenters = A study demonstrated a remarkable capacity of SARS-CoV-2 mRNA-based vaccines to induce robust germinal centers (GC) reactions for an extended period following vaccination. The induced GC reaction engages pre-existing as well as new B cell clones, which enables generation of high-affinity, broad, and durable humoral immunity.
+
+   # Did you feel that your arm is on "fire" after SARS-CoV-2 mRNA vaccine? We looked at the lymph nodes draining the arm after mRNA vaccination in humans and those nodes DID have raging fires .. good kind of fires. We call them germinal centers.
+
+    -
+      'Ellebedy_et_al_03_09_2021
+      'Ellebedy_et_al_03_09_2021.!a
+      'Ellebedy_et_al_03_09_2021.!b
+
+
+  claim !RealworldevidenceSpain = A hospital wide vaccination program with the BNT162b2 mRNA Covid-19 vaccine in 2590 HCW in Spain showed a dramatic decline in new SARS-CoV-2 infection among HCW, even before the administration of the second dose of the vaccine- suggesting that a single dose may confer a substantial proportion.
+    -
+      'Guijarro_et_al_03_26_2021
+      'Guijarro_et_al_03_26_2021.!a
+      'Guijarro_et_al_03_26_2021.!b
+      'Guijarro_et_al_03_26_2021.!c
 
   >
-    Neutralizing activity of the two mRNA vaccines against the B.1.351 variant has also been observed to be lower, by a factor of 8.6 (mRNA-1273 vaccine [Moderna]) or 6.5 (BNT-162b2 vaccine [Pfizer]) on pseudovirus neutralization assay, than activity against the D614G virus, whereas no difference was evident against the N510Y.V1 (B.1.1.7)–like mutant.
-  -
-  #   Increased resistance of SARS-CoV-2 variants B.1.351 and B.1.1.7 to antibody neutralization
-  #   Neutralization of SARS-CoV-2 lineage B.1.1.7 pseudovirus by BNT162b2 vaccine-elicited human sera.
-    'Liu_et_al_03_08_2021
-    'Liu_et_al_03_08_2021.!b
-    'Liu_et_al_03_08_2021.!c
-    'Liu_et_al_03_08_2021.!d
+    The study suggests that most previously infected subjects will benefit from a single immunization with either Pfizer or Moderna vaccines as it will lead to significant in serum neutralizing antibody responses against vaccine-matched & emerging variants.
 
-  # mRNA vaccine effectiveness uniform for men and women yet declined mildly but significantly with age and for patients with specific chronic comorbidities
-  >
-    An analysis of the Pfizer BNT162b2 vaccination and infection records provides initial measurement of vaccine effectiveness across demographic groups- was uniform for men and women yet declined mildly but significantly with age and for patients with specific chronic comorbidities, including high blood pressure, COPD, immunosuppression and type 2 diabetes.
-  -
-    'Yelin_et_al_03_17_2021
-    'Yelin_et_al_03_17_2021.!c
-    'Yelin_et_al_03_17_2021.!d
 
-  >
-    These results add to previous reports regarding lower vaccine effectiveness for diabetic patients and patients with multiple coexisting conditions.
-  # discuss
-  -
-    'Chodick_et_al_01_29_2021
-    'Chodick_et_al_01_29_2021.!d
-  -
-    'Dagan_et_al_02_24_2021
-    'Dagan_et_al_02_24_2021.!e
+  claim !Previouslyinfectedantibodyresponse1 = One study found that a single dose of an mRNA vaccine elicited rapid immune responses in those who had recovered from Covid-19, with postvaccination antibody titers that were similar to or exceeded titers found in seronegative participants who received two vaccinations.
+    -
+      'Krammer_et_al_03_10_2021
+      'Krammer_et_al_03_10_2021.!a
+      'Krammer_et_al_03_10_2021.!b
+      'Krammer_et_al_03_10_2021.!c
+      'Krammer_et_al_03_10_2021.!d
+      'Krammer_et_al_03_10_2021.!f
+      'Krammer_et_al_03_10_2021.!g
 
-  > mRNA- phase 4 study
-    The study results indicate that in real life the first dose of the new BNT162b2 mRNA COVID-19 vaccine confers around 50% protection against overall SARS-CoV-2 infections (symptomatic or asymptomatic). Together our findings and the 95% efficacy shown in the phase III trial, suggest that the BNT162b2 vaccine should be administered in two doses to achieve maximum protection and impact in terms of disease burden reduction and possibly reducing SARS-CoV-2 transmission.
 
-    this is the first and largest phase IV study on the effectiveness of the BNT162b2 mRNA COVID-19 vaccine in real-world settings. Our findings showed that the first dose of the vaccine is associated with an approximately 51% reduction in the incidence of PCR-confirmed SARS-CoV-2 infections at 13 to 24 days after immunization compared to the rate during the first 12 days.
-  -
-    'Chodick_et_al_01_29_2021
-    'Chodick_et_al_01_29_2021.!d
+  claim !Previouslyinfectedantibodyresponse2 = The data indicate that in previously infected donors (PIDs) who generate adequate immunological memory to the RBD, a single vaccine dose (either the Pfizer/BioNTech or Moderna vaccines) elicited an a robust recall response resulting in RBD-binding and neutralizing antibody responses that are superior to a two-dose regimen in uninfected donors. These antibody responses cross-neutralized the B.1.351 variants, but at lower titers.
+
+    -
+      'Stamatatos_et_al_03_25_2021
+      'Stamatatos_et_al_03_25_2021.!a
+      'Stamatatos_et_al_03_25_2021.!b
+      'Stamatatos_et_al_03_25_2021.!c
+      'Stamatatos_et_al_03_25_2021.!d
+      'Stamatatos_et_al_03_25_2021.!g
+      'Stamatatos_et_al_03_25_2021.!h
+
+  claim !Previouslyinfectedantibodyresponse3 = After the first vaccine dose, recently infected participants had higher titers of antibody to S1, S2, and the receptor-binding domain than did those with no history of infection.
+
+    -
+      'Bradley_et_al_03_23_2021
+      'Bradley_et_al_03_23_2021.!a
+      'Bradley_et_al_03_23_2021.!b
+
+  # REPEATED DOWN IN PFIZER ALSO
+  claim !PreviouslyinfectedmRNA = One findings indicated that serum neutralizing antibody titers against the predominant circulating SARS-CoV-2 strain and recent variants (including those containing the E484K mutation) were substantially higher in the previously infected group.
+
+    -
+      'Ellebedy_et_al_03_09_2021
+      'Ellebedy_et_al_03_09_2021.!c
+
+  claim !HCWmRNA = One study on HCWs with previous COVID-19 infection found that they had higher antibody titer responses to a single dose of mRNA vaccine than those who were not previously infected. Antibody titers started peaking at 7 days and achieved higher titers and neutralization in 14 days compared with Ab-negative volunteers.
+    -
+      'Saadat_et_al_03_01_2020
+      'Saadat_et_al_03_01_2020.!a
+      'Saadat_et_al_03_01_2020.!b
+
+
+  claim !AntiRBDmemory = Authors of one study observed that pre-existing anti-RBD IgG memory appears to be important for a robust recall response to vaccination.
+    -
+      'Stamatatos_et_al_03_25_2021
+      'Stamatatos_et_al_03_25_2021.!g
+
+
+  claim !Previouslyinfectedsideeffects = Vaccine recipients with preexisting immunity had systemic side effects at higher frequencies than those without preexisting immunity.
+    -
+      'Krammer_et_al_03_10_2021
+      'Krammer_et_al_03_10_2021.!g
+
+
+
+
+  # PFIZER - RNA-based SARS-CoV-2 BNT162b2 vaccine - delayed boosting in Cancer patients
+  claim !Cancer = Delayed boosting of RNA-based SARS-CoV-2 BNT162b2 vaccine potentially leaves most solid and haematological cancer patients wholly or partially unprotected, while prompt boosting of solid cancer patients quickly overcomes the poor efficacy of the primary inoculum in solid cancer patients. This data supports prioritisation of cancer patients for an early (21-day) second dose of the BNT162b2 vaccine.
+    -
+      'Monin-Aldama_et_al_03_17_2021
+      'Monin-Aldama_et_al_03_17_2021.!a
+      'Monin-Aldama_et_al_03_17_2021.!b
+
+
+
+  claim !NeutralizingActivity = Study showed that serum samples obtained after the administration of the second dose of 30 μg of BNT162b2 efficiently neutralized USA-WA1/2020 and all the viruses with variant spikes (B.1.1.7-spike and P.1-spike). However, it showed lower neutralization titers against the virus with the full set of B.1.351-spike mutations than against virus with either subset of mutations.
+
+    -
+      'Liu_et_al_03_08_2021
+      'Liu_et_al_03_08_2021.!a
+      'Liu_et_al_03_08_2021.!b
+      'Liu_et_al_03_08_2021.!c
+      'Liu_et_al_03_08_2021.!d
+      'Liu_et_al_03_08_2021.!e
+
+
+  claim !ReducedtitiersagiantV2 = Neutralizing activity of the two mRNA vaccines against the B.1.351 variant has also been observed to be lower, by a factor of 8.6 (mRNA-1273 vaccine [Moderna]) or 6.5 (BNT-162b2 vaccine [Pfizer]) on pseudovirus neutralization assay, than activity against the D614G virus, whereas no difference was evident against the N510Y.V1 (B.1.1.7)–like mutant. In mRNA-1273 vaccine, significant reduction in neutralizing titers was observed when the E484K mutation was present.
+    -
+      'Wang_et_al_01_26_2021
+      'Wang_et_al_01_26_2021.!b
+      'Wang_et_al_01_26_2021.!c
+      'Wang_et_al_01_26_2021.!d
+    -
+      'Wu_et_al_03_17_2021
+      'Wu_et_al_03_17_2021.!a
+      'Wu_et_al_03_17_2021.!b
+      'Wu_et_al_03_17_2021.!c
+      'Wu_et_al_03_17_2021.!d
+    -
+      'Muik_et_al_03_12_2021
+      'Muik_et_al_03_12_2021.!a
+
+
+  # Vaccine effectiveness across demographic groups
+  claim !Sexagecomorbidities = An analysis of the Pfizer BNT162b2 vaccination and infection records was uniform for men and women yet declined mildly but significantly with age and for patients with specific chronic comorbidities, including high blood pressure, COPD, immunosuppression and type 2 diabetes.
+    -
+      'Yelin_et_al_03_17_2021
+      'Yelin_et_al_03_17_2021.!c
+      'Yelin_et_al_03_17_2021.!d
+
+
+  claim !Comorbidconditions = Analyses of real-world vaccination rollouts reports have shown lower vaccine effectiveness for diabetic patients and patients with multiple coexisting conditions.
+
+    -
+      'Yelin_et_al_03_17_2021
+      'Yelin_et_al_03_17_2021.!d
+    -
+      'Chodick_et_al_01_29_2021
+      'Chodick_et_al_01_29_2021.!d
+    -
+      'Dagan_et_al_02_24_2021
+      'Dagan_et_al_02_24_2021.!e
+
+
+  > mRNA- REALWORLD EVIDENCE
   -
     'Yelin_et_al_03_17_2021
     'Yelin_et_al_03_17_2021.!a
     'Yelin_et_al_03_17_2021.!b
 
-  # mRNA SARS-CoV-2 vaccine among solid organ transplant recipients,
-  >
-    In the study of immunogenicity of the first dose of the mRNA SARS-CoV-2 vaccine among solid organ transplant recipients, the majority of participants did not mount appreciable antispike antibody responses. Such patients may remain at higher early risk for COVID-19 despite vaccination. These results contrast with the robust early immunogenicity observed in mRNA vaccine trials, including 100% antispike seroconversion by day 15 following vaccination with mRNA-1273 5 and by day 21 following vaccination with BNT162b2.6
-  -
-    'Boyarsky_et_al_03_15_2021
-    'Boyarsky_et_al_03_15_2021.!a
+
+  claim !Longcovid = Receipt of vaccination with either an mRNA (Pfizer-BioNTech (BNT162b2)) or adenoviral vector (Oxford-AstraZeneca (ChAdOx1 nCoV-19)) vaccine was not associated with a worsening of Long Covid symptoms, quality of life, or mental wellbeing. In fact, those who had received a vaccine actually reported an overall improvement in Long Covid symptoms.
+    -
+      'Arnold_et_al_03_14_2021
+      'Arnold_et_al_03_14_2021.!a
+      'Arnold_et_al_03_14_2021.!b
 
 
-  > mRNA or adenoviral vector vaccine
-    Receipt of vaccination with either an mRNA or adenoviral vector vaccine was not associated with a worsening of Long Covid symptoms, quality of life, or mental wellbeing. When compared to matched unvaccinated participants from the same cohort, those who had received a vaccine actually reported an overall improvement in Long Covid symptoms.
-  -
-    'Arnold_et_al_03_14_2021
-    'Arnold_et_al_03_14_2021.!a
-    'Arnold_et_al_03_14_2021.!b
+  claim !Tcellresponses = Emerging data suggest that T cell responses elicited by either natural infection or vaccination with the Pfizer/BioNTech and Moderna COVID-19 mRNA vaccines are not affected by the mutations found in the SARS-CoV-2 variants (B.1.1.7, B.1.351, P.1 and CAL.20C variants).
+    -
+      'Tarke_et_al_03_01_2021
+      'Tarke_et_al_03_01_2021.!a
+      'Tarke_et_al_03_01_2021.!b
 
-  >
-    Emerging data suggest that T cell responses elicited by either natural infection or vaccination with the Pfizer/BioNTech and Moderna COVID-19 mRNA vaccines are not affected by the mutations found in the SARS-CoV-2 variants ( B.1.1.7, B.1.351, P.1 and CAL.20C variants)
-  -
-    'Tarke_et_al_03_01_2021
-    'Tarke_et_al_03_01_2021.!a
+  claim !BCellresponse = Data suggest that mRNA vaccines induced significant antibody and memory B cell responses. SARS-CoV2 recovered individuals had a significant immune response after the first dose. The magnitude of the memory B cell response induced by vaccination was lower in older individuals.
 
-
-  >
-    One study demonstrated a remarkable capacity of SARS-CoV-2 mRNA-based vaccines to induce robust germinal centers (GC) reactions for an extended period following vaccination. The induced GC reaction engages pre-existing as well as new B cell clones, which enables generation of high-affinity, broad, and durable humoral immunity.
-
- # Did you feel that your arm is on "fire" after SARS-CoV-2 mRNA vaccine? We looked at the lymph nodes draining the arm after mRNA vaccination in humans and those nodes DID have raging fires .. good kind of fires. We call them germinal centers.
- # - ask
-  -
-    'Ellebedy_et_al_03_09_2021
-    'Ellebedy_et_al_03_09_2021.!a
-    'Ellebedy_et_al_03_09_2021.!b
+    -
+      'Goel_et_al_03_06_2021
+      'Goel_et_al_03_06_2021.!a
+      'Goel_et_al_03_06_2021.!b
+      'Goel_et_al_03_06_2021.!c
+      'Goel_et_al_03_06_2021.!d
+      'Goel_et_al_03_06_2021.!e
 
 
 
-  >
-    One study found that a single dose of an mRNA vaccine elicited rapid immune responses  in those who had recovered from #COVID19, and appeared to provide the same degree of protection or more compared to 2 doses of mRNA vaccine in those with no history of infection, based on antibody titres.
+  claim !Mohpressrelease = The Israel Ministry of Health (MoH), Pfizer Inc. and BioNTech SE announced real-world evidence demonstrating dramatically lower incidence rates of COVID-19 disease in individuals fully vaccinated with the Pfizer-BioNTech COVID-19 Vaccine (BNT162b2). Vaccine effectiveness was at least 97% against symptomatic COVID-19 cases, hospitalizations, severe and critical hospitalizations, and deaths; 94% against asymptomatic SARS-CoV-2 infections. Data suggest Pfizer-BioNTech vaccine prevents asymptomatic SARS-CoV-2 infection.
+
+    -
+      'Pfizer_et_al_03_11_2021
+      'Pfizer_et_al_03_11_2021.!a
+      'Pfizer_et_al_03_11_2021.!c
 
 
-  #   hat a single dose of mRNA vaccine elicited rapid immune responses in seropositive participants, with postvaccination antibody titers that were similar to or exceeded titers found in seronegative participants who received two vaccinations.
-  # - ASK- d
-  -
-    'Krammer_et_al_03_10_2021
-    'Krammer_et_al_03_10_2021.!a
-    'Krammer_et_al_03_10_2021.!b
-    'Krammer_et_al_03_10_2021.!c
-    'Krammer_et_al_03_10_2021.!d
-  - Side effects
-    'Krammer_et_al_03_10_2021.!f
-  - Side effects in ppl with pre-existing immunity
-    'Krammer_et_al_03_10_2021.!g
+  claim !PreviouslyinfectedPfizer = One findings indicated that serum neutralizing antibody titers against the predominant circulating SARS-CoV-2 strain and recent variants (including those containing the E484K mutation) were substantially higher in the previously infected group.
+    -
+      'Ellebedy_et_al_03_09_2021
+      'Ellebedy_et_al_03_09_2021.!c
 
-  > asl ayush press release- do i need to mention and quote b
-    The Israel Ministry of Health (MoH), Pfizer Inc. and BioNTech SE announced real-world evidence demonstrating dramatically lower incidence rates of COVID-19 disease in individuals fully vaccinated with the Pfizer-BioNTech COVID-19 Vaccine (BNT162b2).
-    Vaccine effectiveness was at least 97% against symptomatic COVID-19 cases, hospitalizations, severe and critical hospitalizations, and deaths; 94% against asymptomatic SARS-CoV-2 infections.
-    Data suggest Pfizer-BioNTech vaccine prevents asymptomatic SARS-CoV-2 infection.
-  -
-    'Pfizer_et_al_03_11_2021
-    'Pfizer_et_al_03_11_2021.!a
-    'Pfizer_et_al_03_11_2021.!c
 
+
+  claim !PRAstrazeneca = On 22 March 2021, press release from AstraZeneca & Oxford for interim efficacy results from the US phase 3 trial reported 79% vaccine efficacy at preventing symptomatic COVID-19, 100% efficacy against severe or critical disease and hospitalisation with no increase adverse events (although number of severe events on placebo not disclosed), 80% efficacy in participants aged 65 years and over. No blood clots observed in 21,583 who were vaccinated, even with 60% of the people having some type of co-comorbidity.
+
+    -
+      'AstraZeneca_et_al_03_22_2021
+      'AstraZeneca_et_al_03_22_2021.!a
+      'AstraZeneca_et_al_03_22_2021.!b
+      'AstraZeneca_et_al_03_22_2021.!c
+      'AstraZeneca_et_al_03_22_2021.!d
+      'AstraZeneca_et_al_03_22_2021.!e
 
   >
-    One study reported that mRNA vaccines elicit potent neutralizing activity against homologous pseudovirus. Cross-neutralization of strains with receptor binding domain (RBD) mutations is poor. Both RBD and non-RBD mutations mediate escape from vaccine-induced humoral immunity. While the clinical impact of neutralization resistance remains uncertain, these results highlight the potential for variants to escape from neutralizing humoral immunity and emphasize the need to develop broadly protective interventions against the evolving pandemic.
+    Immediately after this press release (22 March 2021), the Data and Safety Monitoring Board (DSMB) notified NIAID, BARDA, and AstraZeneca that it was concerned by information released by AstraZeneca on initial data from its COVID-19 vaccine clinical trial. The DSMB expressed concern that AstraZeneca may have included outdated information from that trial, which may have provided an incomplete view of the efficacy data. They urged the company to work with the DSMB to review the efficacy data and ensure the most accurate, up-to-date efficacy data be made public as quickly as possible.
+  # https://www.nih.gov/news-events/news-releases/niaid-statement-astrazeneca-vaccine
 
-  -
-    'Garcia-Beltran_et_al_03_12_2021
-    'Garcia-Beltran_et_al_03_12_2021.!a
-    'Garcia-Beltran_et_al_03_12_2021.!b
-    'Garcia-Beltran_et_al_03_12_2021.!c
-    'Garcia-Beltran_et_al_03_12_2021.!d
-    'Garcia-Beltran_et_al_03_12_2021.!e
-    'Garcia-Beltran_et_al_03_12_2021.!f
+  claim !RevisedPRAstrazeneca = On 25 March 2021, AstraZeneca & Oxford updated their data. Positive high-level results from the primary analysis of the Phase III trial of AZD1222 in the US have confirmed vaccine efficacy consistent with the pre-specified interim analysis announced on Monday 22 March 2021. 76% vaccine efficacy against symptomatic COVID-19; 100% efficacy against severe or critical disease and hospitalisation; 85% efficacy against symptomatic COVID-19 in participants aged 65 years and over.
+    -
+      'AstraZeneca_et_al_03_25_2021
+      'AstraZeneca_et_al_03_25_2021.!a
+      'AstraZeneca_et_al_03_25_2021.!b
+      'AstraZeneca_et_al_03_25_2021.!c
+      'AstraZeneca_et_al_03_25_2021.!d
 
 
-  # AstraZeneca & Oxford- US press release
+  / Vaccine against the B.1.351 variant
+  claim !Vaccineefficacy = A study conducted on 2026 HIV-negative adults in South Africa found that two doses of the ChAdOx1 nCoV-19 vaccine had no efficacy against the B.1.351 variant in preventing mild-to-moderate Covid-19.
+    -
+      'Madhi_et_al_03_16_2021
+      'Madhi_et_al_03_16_2021.!a
+      'Madhi_et_al_03_16_2021.!b
+      'Madhi_et_al_03_16_2021.!c
+      'Madhi_et_al_03_16_2021.!d
+
+  claim !Animalchallenge = An animal challenge study (Syrian hamster model), demonstrated the effectiveness of the ChAdOx1 nCoV-19 vaccine against clinical disease caused by B.1.1.7 or B.1.351 VOCs. 9.5-fold reduction of virus neutralizing antibody titer in vaccinated hamster sera against B.1.351 compared to B.1.1.7. Minimal to no viral subgenomic RNA (sgRNA) and no infectious virus was detected in lungs of vaccinated animals. Histopathological evaluation showed extensive pulmonary pathology caused by B.1.1.7 or B.1.351 replication in the control animals, but none in the vaccinated animals.
+    -
+      'Fischer_et_al_03_11_2021
+      'Fischer_et_al_03_11_2021.!a
+      'Fischer_et_al_03_11_2021.!b
+      'Fischer_et_al_03_11_2021.!c
+
+
+
+  # CLINICAL TRIAL
   >
-    Press release from AstraZeneca & Oxford for interim efficacy  results from the US phase 3 trial report 79% vaccine efficacy at preventing symptomatic COVID-19, 100% efficacy against severe or critical disease and hospitalisation (although # of severe events on placebo not disclosed).
-    100% effective at preventing people from falling seriously ill or dying with no increase adverse events.
-
-    Comparable efficacy result across ethnicity and age, with 80% efficacy in participants aged 65 years and over. Favourable reactogenicity, overall safety profile, and no elevated blood clot risk. They plan to file for US Emergency Use Authorization (EUA) within weeks.
-    No blood clots observed in 21,583 who were vaccinated,even with 60% of the people having some type of co-comorbidity
-  -
-    'AstraZeneca_et_al_03_22_2021
-    'AstraZeneca_et_al_03_22_2021.!a
-    'AstraZeneca_et_al_03_22_2021.!b
-    'AstraZeneca_et_al_03_22_2021.!c
-    'AstraZeneca_et_al_03_22_2021.!d
-    'AstraZeneca_et_al_03_22_2021.!e
-
-  >
-    A study conducted Between June 24 and November 9, 2020 on 2026 HIV-negative adults in South Africa found that two doses of the ChAdOx1 nCoV-19 vaccine had no efficacy against the B.1.351 variant in preventing mild-to-moderate Covid-19.
-
-  -
-    'Madhi_et_al_03_16_2021
-    'Madhi_et_al_03_16_2021.!a
-    'Madhi_et_al_03_16_2021.!b
-    'Madhi_et_al_03_16_2021.!c
-    'Madhi_et_al_03_16_2021.!d
-
-  >
-    An animal challenge study (Syrian hamster model), demonstrated the effectiveness of the ChAdOx1 nCoV-19 vaccine against clinical disease caused by B.1.1.7 or B.1.351 VOCs.
-  -
-    'Fischer_et_al_03_11_2021
-    'Fischer_et_al_03_11_2021.!a
-    'Fischer_et_al_03_11_2021.!b
-    'Fischer_et_al_03_11_2021.!c
-    'Fischer_et_al_03_11_2021.!d
-
-
-  # Moderna -
-  >
-    In a correspondence letter, scientists communicated the evaluation of mRNA-1273 Vaccine efficacy against new variants (Serum Neutralizing Activity Elicited by mRNA-1273 Vaccine).They observed a decrease in titers of neutralizing antibodies against the P.1 variant, the B.1.427/B.1.429 variant (versions 1 and 2), the B.1.1.7+E484K variant, and the B.1.351 variant as well as a subset of its mutations in the RBD.
-
-    The largest effect on neutralization, reduction by a factor of 6.4, was measured against the B.1.351 variant.
-
-    The study found a significant reduction in neutralizing titers (mRNA-1273 Vaccine) when the E484K mutation was present.
-
-    Protection conferred by the mRNA-1273 vaccine against the P.1, B.1.427/B.1.429, and B.1.351 variants remains to be determined.
-  -
-    'Wu_et_al_03_17_2021
-    'Wu_et_al_03_17_2021.!a
-    'Wu_et_al_03_17_2021.!b
-    'Wu_et_al_03_17_2021.!c
-    'Wu_et_al_03_17_2021.!d
-
-  > phase 1 J&J
-    This randomized, double-blind, placebo-controlled phase 1 clinical trial of Ad26.COV2.S enrolled 25 participants. Antibodies were detected in vaccine recipients by day 8 and were observed in all vaccine recipients by day 57 after a single immunization. T-cell responses were also generated in vaccine recipients.
-  -
-    'Stephenson_et_al_03_11_2021
-    'Stephenson_et_al_03_11_2021.!a
-    'Stephenson_et_al_03_11_2021.!b
-    'Stephenson_et_al_03_11_2021.!c
-    'Stephenson_et_al_03_11_2021.!d
-
-  >
-    Novavax, Inc. (Nasdaq: NVAX), announced final efficacy of 96.4% against mild, moderate and severe disease caused by the original COVID-19 strain in a pivotal Phase 3 trial in the United Kingdom (U.K.) of NVX‑CoV2373, the company’s vaccine candidate. The company also announced the complete analysis of its Phase 2b trial taking place in South Africa, with efficacy of 55.4% among the HIV- negative trial participants in a region where the vast majority of strains are B1.351 escape variants. Across both trials, NVX-CoV2373 demonstrated 100% protection against severe disease, including all hospitalization and death. Both studies achieved their statistical success criteria.
-  -  B.1.1.7/501Y.V1
-    'Novavax_et_al_03_11_2021
-    'Novavax_et_al_03_11_2021.!a
-    'Novavax_et_al_03_11_2021.!b
-  - B.1.351/501Y.V2
-    'Novavax_et_al_03_11_2021.!c
-  -
-    'Novavax_et_al_03_11_2021.!d
+    This study will evaluate the efficacy of the Moderna COVID-19 vaccine against SARS-CoV-2 infection, as well as its effect on peak nasal viral load as a measure of infection and a proxy of infectiousness, in university students aged 18-26. 37500 participants. Estimated start date: March 22, 2021,  Estimated compeletion date: December 22, 2021
+    https://clinicaltrials.gov/ct2/show/NCT04811664
 
 
 
+  # J&J
+  claim !Phase1J&J = A randomized, double-blind, placebo-controlled phase 1 clinical trial of Ad26.COV2.S enrolled 25 participants. Antibodies were detected in vaccine recipients by day 8 and were observed in all vaccine recipients by day 57 after a single immunization. T-cell responses were also generated in vaccine recipients.
+    -
+      'Stephenson_et_al_03_11_2021
+      'Stephenson_et_al_03_11_2021.!a
+      'Stephenson_et_al_03_11_2021.!b
+      'Stephenson_et_al_03_11_2021.!c
+      'Stephenson_et_al_03_11_2021.!d
 
-  > question on dose scheduling - discuss with ayush
-    Two critical issues arise: how will the timing of delivery of the second dose affect both infection dynamics and prospects for the evolution of viral immune escape via a build-up of partially immune individuals. Both hinge on the robustness of the immune response elicited by a single dose, compared to natural and two-dose immunity.
 
-    Current uncertainties surrounding the strength and duration of adaptive immunity in response to natural infection or vaccination lead to very broad ranges for the possible outcomes of various dosing regimes. Nevertheless, ongoing elevated COVID-19 case numbers stresses the rapid need for effective, mass vaccine deployment.
+  # Novavax
+  claim !Phase3Novavax = In March of 2021, Novavax, Inc., announced final efficacy of 96.4% against mild, moderate and severe disease caused by the original COVID-19 strain in a pivotal Phase 3 trial in the United Kingdom (U.K.) of NVX‑CoV2373, the company’s vaccine candidate. The company also announced the complete analysis of its Phase 2b trial taking place in South Africa, with efficacy of 55.4% among the HIV- negative trial participants in a region where the vast majority of strains are B1.351 escape variants. Across both trials, NVX-CoV2373 demonstrated 100% protection against severe disease, including all hospitalization and death. Both studies achieved their statistical success criteria.
+    -
+      'Novavax_et_al_03_11_2021
+      'Novavax_et_al_03_11_2021.!a
+      'Novavax_et_al_03_11_2021.!b
+      'Novavax_et_al_03_11_2021.!c
+      'Novavax_et_al_03_11_2021.!d
 
-    With additional knowledge of the relative strength and duration of one-dose vaccinal immunity and corresponding, clinically-informed policies related to dosing regimes, pessimistic scenarios may be avoided.
+  / Vaccine Efficacy against B.1.1.7
+  claim !VaccineefficacyV1 = Novavax, Inc. announced that in the Phase 3 trial in the United Kingdom (U.K.) of NVX‑CoV2373, the efficacy was 86.3% against the B.1.1.7/501Y.V1 variant circulating in the U.K Phase 3 trial in the United Kingdom (U.K.) of NVX‑CoV2373.
+    -
+      'Novavax_et_al_03_11_2021
+      'Novavax_et_al_03_11_2021.!a
+      'Novavax_et_al_03_11_2021.!b
 
-    Our work emphasizes that the impact of vaccine dosing regimes are strongly dependent on the relative robustness of immunity conferred by a single dose.
-    Our model illustrates that, ultimately, the long term impacts of this strategy, especially in terms of transmission and immune escape, will depend on the duration and strength of one-dose vaccinal immunity.
+  / Vaccine Efficacy against B.1.351
+  claim !VaccineefficacyV2 = Efficacy in HIV-negative participants was 60.1%, and did not differ by baseline serostatus. Post-hoc vaccine efficacy against B.1.351 was 51.0% in HIV-negative participants. The NVX-CoV2373 vaccine was efficacious in preventing Covid-19, which was predominantly mild to moderate and due to the B.1.351 variant, while evidence of prior infection with the presumptive original SARS-CoV-2 did not confer protection against probable B.1.351 disease.
+    -
+      'Shinde_et_al_03_03_2021
+      'Shinde_et_al_03_03_2021.!a
+      'Shinde_et_al_03_03_2021.!b
+      'Shinde_et_al_03_03_2021.!c
 
-    explores the trade-offs of accelerating immunity vs fostering antigenic drift of the virus
 
-  -
-    'Saad-Roy_et_al_03_09_2021
-    'Saad-Roy_et_al_03_09_2021.!a
-    'Saad-Roy_et_al_03_09_2021.!b
-    'Saad-Roy_et_al_03_09_2021.!c
-    'Saad-Roy_et_al_03_09_2021.!d
-    'Saad-Roy_et_al_03_09_2021.!e
+  / Vaccine Efficacy against B.1.351
+  claim !VaccineefficacyV2UK = Phase 2b trial(2,665 HIV negative, 240 HIV positive) in South Africa, showed an efficacy of 55.4% among the HIV- negative trial participants in a region where the vast majority of strains are B1.351 escape variants.
+    -
+      'Novavax_et_al_03_11_2021
+      'Novavax_et_al_03_11_2021.!c
+
+
+  claim !Epidemiologicalconsiderationeffectivedose = A model based study exploring the trade-offs of accelerating immunity vs fostering antigenic drift of the virus  illustrated that ultimately, the long term impacts of one-dose policy strategy, especially in terms of transmission and immune escape, will depend on the duration and strength of one-dose vaccinal immunity.
+
+    -
+      'Saad-Roy_et_al_03_09_2021
+      'Saad-Roy_et_al_03_09_2021.!a
+      'Saad-Roy_et_al_03_09_2021.!b
+      'Saad-Roy_et_al_03_09_2021.!c
+      'Saad-Roy_et_al_03_09_2021.!d
+      'Saad-Roy_et_al_03_09_2021.!e
+
+
+    # Bharat Biotech Phase 3 - 81%
+
+  # BharatBiotechPhase3
+  claim !BharatBiotechPhase3 = Bharat Biotech announced the first interim analysis of its BBV152 (COVAXIN®). The Phase 3 study enrolled 25,800 participants between 18-98 years of age, including 2,433 over the age of 60 and 4,500 with comorbidities. The whole virion inactivated COVID-19 vaccine candidate demonstrated an interim vaccine efficacy of 81%. The vaccine candidate was well tolerated.
+    -
+      'Bharatbiotech_et_al_03_23_2021
+      'Bharatbiotech_et_al_03_23_2021.!a

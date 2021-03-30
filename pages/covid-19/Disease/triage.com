@@ -112,3 +112,26 @@ index: hide
     'Foley_et_al_03_08_2021
     'Foley_et_al_03_08_2021.!a
     'Foley_et_al_03_08_2021.!b
+
+
+  >
+    A case study of a solid organ transplant recipient with COVID-19 showed patients with solid organ transplantation, or patients who are otherwise immunosuppressed, who recover from infection with SARS-CoV-2 may not develop sufficient protective immunity and are at risk of reinfection. Mere presence of neutralizing antibodies during primary infection was insufficient to confer protection against reinfection.
+
+  -
+    'Klein_et_al_03_26_2021
+    'Klein_et_al_03_26_2021.!a
+    'Klein_et_al_03_26_2021.!b
+    'Klein_et_al_03_26_2021.!c
+    'Klein_et_al_03_26_2021.!d
+    'Klein_et_al_03_26_2021.!e
+    'Klein_et_al_03_26_2021.!f
+    'Klein_et_al_03_26_2021.!g
+
+  # older people were more likely to test positive again if they had already tested positive.
+  claim !Previouslyinfectedoldppl = In a Danish population-level observational study, researchers found that older people were more likely than younger people to test positive again if they had already tested positive. Protection in the population to be 80% or higher in those younger than 65 years, but to be approximately 47% in those aged 65 years and older. Thier data indicates that vaccination of previously infected individuals should be done because natural protection cannot be relied on.
+    -
+      'Hansen_et_al_03_17_2021
+      'Hansen_et_al_03_17_2021.!a
+      'Hansen_et_al_03_17_2021.!b
+      'Hansen_et_al_03_17_2021.!c
+      'Hansen_et_al_03_17_2021.!d

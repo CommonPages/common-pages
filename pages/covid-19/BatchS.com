@@ -10,6 +10,30 @@
    # mRNA vaccines will not affect our DNA??
 
 
+
+  > question on dose scheduling - discuss with ayush
+    Two critical issues arise: how will the timing of delivery of the second dose affect both infection dynamics and prospects for the evolution of viral immune escape via a build-up of partially immune individuals. Both hinge on the robustness of the immune response elicited by a single dose, compared to natural and two-dose immunity
+
+
+
+
+
+
+
+  claim !NTD = Combined with the observation that the vaccines elicited neutralizing antibody responses that are less potent against the B.1.351 variant with the 242-243 deletion in the NTD suggests that NTD mutations can modulate the sensitivity of emerging variants to anti-RBD neutralizing antibodies. The NTD region itself, which appears to tolerate antigenic variation in SARS-CoV-2 and other coronaviruses, does not appear to be the target of cross-neutralizing antibodies elicited by infection or vaccination.
+
+    -
+      'Stamatatos_et_al_03_25_2021
+      'Stamatatos_et_al_03_25_2021.!e
+      'Stamatatos_et_al_03_25_2021.!f
+
+
+
+  
+
+
+
+####### ends here#########
   > 3/23
 
     Recognition of aerosol transmission of infectious agents: a commentary

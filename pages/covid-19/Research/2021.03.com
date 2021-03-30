@@ -415,7 +415,10 @@ feed March2021
     quote !a = The sequences of the vast majority of SARS-CoV-2 T cell epitopes are not affected by the mutations found in the variants analyzed.
 
     / March, 2021 - bioRxiv
-    quote !b = CD4+ and CD8+ T cell responses in convalescent COVID-19 subjects or COVID-19 mRNA vaccinees are not substantially affected by mutations found in the SARS-CoV-2 variants.
+    quote !b = CD4+ and CD8+ T cell responses in convalescent COVID-19 subjects or COVID-19 mRNA vaccinees are not substantially affected by mutations found in the SARS-CoV-2 variants.(the B.1.1.7, B.1.351, P.1 and CAL.20C variants found in the UK, South Africa, Brazil and California, respectively.)
+  
+
+
 
   // Household COVID-19 risk and in-person schooling
   doi: https://doi.org/10.1101/2021.02.27.21252597

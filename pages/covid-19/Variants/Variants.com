@@ -971,11 +971,11 @@ subject Variants
 
     claim !ProtectionagainstB1351 = One study performed a structure-function analysis of B.1.351 using a large cohort of convalescent and vaccinee serum samples and examined neutralization of a B.1.351 viral isolate and compare this to neutralization of Victoria, an early Wuhan related isolate. Authors reported that B.1.351 CoV-2 strain is much more difficult to neutralize than parental strains. Authors also reported that convalescent and some vaccine serum offers limited protection against this variant.
       -
-        'Zhou_et_al_02_17_2021
-        'Zhou_et_al_02_17_2021.!a
-        'Zhou_et_al_02_17_2021.!b
-        'Zhou_et_al_02_17_2021.!c
-        'Zhou_et_al_02_17_2021.!d
+        Zhou_et_al_02_23_2021
+        Zhou_et_al_02_23_2021.!a
+        Zhou_et_al_02_23_2021.!b
+        Zhou_et_al_02_23_2021.!c
+        Zhou_et_al_02_23_2021.!d
 
     claim !ImmuneEscapeInfectivity = One study found that the infectivity of the 501Y.V2 variants in human receptor cells did not change significantly, but did alter antigenicity. Neutralizing activity of multiple RBD-targeting monoclonal antibodies & Polyclonal antibodies were decreased.
       -

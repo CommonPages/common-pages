@@ -260,3 +260,33 @@ index: hide
     'Montagutelli_et_al_03_18_2021
     'Montagutelli_et_al_03_18_2021.!a
     'Montagutelli_et_al_03_18_2021.!b
+
+
+  >
+    Reduced sensitivity to vaccine-elicited nAbs has been reported for other B.1.351 variants.
+
+  -
+    'Liu_et_al_03_08_2021
+    'Liu_et_al_03_08_2021.!b
+    'Liu_et_al_03_08_2021.!c
+    'Liu_et_al_03_08_2021.!d
+    'Liu_et_al_03_08_2021.!e
+  -
+    'Liu_et_al_02_17_2021
+    'Liu_et_al_02_17_2021.!a
+    'Liu_et_al_02_17_2021.!b
+  -
+    'Wu_et_al_03_17_2021
+    'Wu_et_al_03_17_2021.!b
+    'Wu_et_al_03_17_2021.!c
+    'Wu_et_al_03_17_2021.!d
+  -
+    # Antibody Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7.
+
+  > VARIANTS
+    Study reported that VOC (B.1.1.7) has a substantial transmission advantage with a 50% to 100% higher reproduction number.
+  -
+    'Volz_et_al_03_25_2021
+    'Volz_et_al_03_25_2021.!a
+    'Volz_et_al_03_25_2021.!b
+    'Volz_et_al_03_25_2021.!c

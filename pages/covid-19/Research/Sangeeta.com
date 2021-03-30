@@ -1,18 +1,6 @@
 feed Sangeeta
   #
 
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
-
-    - quotes
-      !a
-
-    / March, 2021 - JAMA Netw Open.
-    quote !a =
-
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -26,18 +14,7 @@ feed Sangeeta
     / March, 2021 - JAMA Netw Open.
     quote !a =
 
-
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
-
-    - quotes
-      !a
-
-    / March, 2021 - JAMA Netw Open.
-    quote !a =
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -74,6 +51,408 @@ feed Sangeeta
 
     / March, 2021 - JAMA Netw Open.
     quote !a =
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / March, 2021 - JAMA Netw Open.
+    quote !a =
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / March, 2021 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / March, 2021 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // A Next-Generation Cleaved, Soluble HIV-1 Env Trimer, BG505 SOSIP.664 gp140, Expresses Multiple Epitopes for Broadly Neutralizing but Not Non-Neutralizing Antibodies
+  doi: https://doi.org/10.1371/journal.ppat.1003618
+  ref 'Sanders_et_al_09_13_2013
+    head = We describe here the design and properties of a next-generation, fully cleaved and highly stable soluble gp140 trimer based on the BG505 subtype A sequence. We used several techniques, including ELISA and surface plasmon resonance (SPR), to determine the relationship between the ability of monoclonal antibodies (MAbs) to bind the soluble trimers and neutralize the corresponding virus.
+
+    > Abstract
+      A desirable but as yet unachieved property of a human immunodeficiency virus type 1 (HIV-1) vaccine candidate is the ability to induce broadly neutralizing antibodies (bNAbs). One approach to the problem is to create trimeric mimics of the native envelope glycoprotein (Env) spike that expose as many bNAb epitopes as possible, while occluding those for non-neutralizing antibodies (non-NAbs). Here, we describe the design and properties of soluble, cleaved SOSIP.664 gp140 trimers based on the subtype A transmitted/founder strain, BG505. These trimers are highly stable, more so even than the corresponding gp120 monomer, as judged by differential scanning calorimetry. They are also homogenous and closely resemble native virus spikes when visualized by negative stain electron microscopy (EM). We used several techniques, including ELISA and surface plasmon resonance (SPR), to determine the relationship between the ability of monoclonal antibodies (MAbs) to bind the soluble trimers and neutralize the corresponding virus. In general, the concordance was excellent, in that virtually all bNAbs against multiple neutralizing epitopes on HIV-1 Env were highly reactive with the BG505 SOSIP.664 gp140 trimers, including quaternary epitopes (CH01, PG9, PG16 and PGT145). Conversely, non-NAbs to the CD4-binding site, CD4-induced epitopes or gp41ECTO did not react with the trimers, even when their epitopes were present on simpler forms of Env (e.g. gp120 monomers or dissociated gp41 subunits). Three non-neutralizing MAbs to V3 epitopes did, however, react strongly with the trimers but only by ELISA, and not at all by SPR and to only a limited extent by EM. These new soluble trimers are useful for structural studies and are being assessed for their performance as immunogens.
+
+    - quotes
+      !a
+      !b
+
+    / September, 2013 - Plos Pathogens
+    quote !a = In general, the concordance was excellent, in that virtually all bNAbs against multiple neutralizing epitopes on HIV-1 Env were highly reactive with the BG505 SOSIP.664 gp140 trimers, including quaternary epitopes (CH01, PG9, PG16 and PGT145). Conversely, non-NAbs to the CD4-binding site, CD4-induced epitopes or gp41ECTO did not react with the trimers, even when their epitopes were present on simpler forms of Env (e.g. gp120 monomers or dissociated gp41 subunits).
+
+    / September, 2013 - Plos Pathogens
+    quote !b = Three non-neutralizing MAbs to V3 epitopes did, however, react strongly with the trimers but only by ELISA, and not at all by SPR and to only a limited extent by EM. These new soluble trimers are useful for structural studies and are being assessed for their performance as immunogens.
+
+
+
+
+  #
+  // Pre-fusion structure of a human coronavirus spike protein
+  doi: https://doi.org/10.1038/nature17200
+  ref 'Kirchdoerfer_et_al_03_02_2016
+    head = We present the structure of the HKU1 S protein ectodomain determined using cryo-electron microscopy (cryo-EM) to 4.0 Å resolution.
+
+
+    > Abstract
+      HKU1 is a human betacoronavirus that causes mild yet prevalent respiratory disease1, and is related to the zoonotic SARS and MERS betacoronaviruses, which have high fatality rates and pandemic potential. Cell tropism and host range is determined in part by the coronavirus spike (S) protein4, which binds cellular receptors and mediates membrane fusion. As the largest known class I fusion protein, its size and extensive glycosylation have hindered structural studies of the full ectodomain, thus preventing a molecular understanding of its function and limiting development of effective interventions. Here we present the 4.0 Å resolution structure of the trimeric HKU1 S protein determined using single-particle cryo-electron microscopy. In the pre-fusion conformation, the receptor-binding subunits, S1, rest above the fusion-mediating subunits, S2, preventing their conformational rearrangement. Surprisingly, the S1 C-terminal domains are interdigitated and form extensive quaternary interactions that occlude surfaces known in other coronaviruses to bind protein receptors. These features, along with the location of the two protease sites known to be important for coronavirus entry, provide a structural basis to support a model of membrane fusion mediated by progressive S protein destabilization through receptor binding and proteolytic cleavage. These studies should also serve as a foundation for the structure-based design of betacoronavirus vaccine immunogens.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / March, 2016 - Nature
+    quote !a = In the pre-fusion conformation, the receptor-binding subunits, S1, rest above the fusion-mediating subunits, S2, preventing their conformational rearrangement. Surprisingly, the S1 C-terminal domains are interdigitated and form extensive quaternary interactions that occlude surfaces known in other coronaviruses to bind protein receptors. These features, along with the location of the two protease sites known to be important for coronavirus entry, provide a structural basis to support a model of membrane fusion mediated by progressive S protein destabilization through receptor binding and proteolytic cleavage.
+
+    / March, 2016 - Nature
+    quote !b = Our studies provide a structural basis for S protein function wherein the pre-fusion S protein is progressively matured and destabilized by receptor binding and protease cleavage.
+
+    / March, 2016 - Nature
+    quote !c = The HCoV-HKU1 S protein trimer in a pre-fusion conformation is, to our knowledge, the largest class I viral fusion glycoprotein structure determined to date. Since betacoronavirus S proteins are similar in size and have a conserved domain organization, our findings should be generally applicable to other betacoronaviruses, including SARS-CoV and MERS-CoV.
+
+    / March, 2016 - Nature
+    quote !d = Following dissociation of the S1 subunits, HR1 would transition to a long α-helix, and the fusion peptide would be released from the side of the S2 subunit and inserted into host membranes. The structure and mechanistic insights presented here should enable engineering of pre-fusion stabilized coronavirus S proteins as vaccine immunogens against current and emerging betacoronaviruses, similar to recent efforts for other viral fusion proteins.
+
+    / March, 2016 - Nature
+    quote !e = This work also acts as a springboard for future studies to define mechanisms of antibody recognition and neutralization, which will lead to an improved understanding of coronavirus immunity.
+
+
+
+
+
+  #
+  // Structure-Based Design of a Fusion Glycoprotein Vaccine for Respiratory Syncytial Virus
+  doi: https://doi.org/10.1126/science.1243283
+  ref 'McLellan_et_al_11_01_2013
+    head = We sought to engineer a viral antigen that provides greater protection than currently available vaccines and focused on antigenic site Ø, a metastable site specific to the prefusion state of the RSV fusion (F) glycoprotein, as this site is targeted by extremely potent RSV-neutralizing antibodies.
+
+    >
+      Respiratory syncytial virus (RSV) is the leading cause of hospitalization for children under 5 yearsof age. We sought to engineer a viral antigen that provides greater protection than currently available vaccines and focused on antigenic site Ø, a metastable site specific to the prefusion state of the RSV fusion (F) glycoprotein, as this site is targeted by extremely potent RSV-neutralizing antibodies. Structure-based design yielded stabilized versions of RSV F that maintained antigenic site Ø when exposed to extremes of pH, osmolality, and temperature. Six RSV F crystal structures provided atomic-level data on how introduced cysteine residues and filled hydrophobic cavities improved stability. Immunization with site Ø–stabilized variants of RSV F in mice and macaques elicited levels of RSV-specific neutralizing activity many times the protective threshold.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / November, 2013 - Science
+    quote !a = Structure-based design yielded stabilized versions of RSV F that maintained antigenic site Ø when exposed to extremes of pH, osmolality, and temperature.
+
+    / November, 2013 - Science
+    quote !b = Six RSV F crystal structures provided atomic-level data on how introduced cysteine residues and filled hydrophobic cavities improved stability.
+
+    / November, 2013 - Science
+    quote !c = Immunization with site Ø–stabilized variants of RSV F in mice and macaques elicited levels of RSV-specific neutralizing activity many times the protective threshold.
+
+
+
+  #
+  // Virus vaccines: proteins prefer prolines
+  doi: https://doi.org/10.1016/j.chom.2021.02.002
+  ref 'Sanders_et_al_03_10_2021
+    head = The stabilization of trimeric class I fusion proteins into their pre-fusion forms has now become a standard vaccine development procedure for which there is a substantial blueprint. We review how this technique emerged during HIV-1 Env vaccine development and its subsequent wider application to other viral vaccines including SARS-CoV-2.
+
+
+    > Summary
+      Most viral vaccines are based on inducing neutralizing antibodies (NAbs) against the virus envelope or spike glycoproteins. Many viral surface proteins exist as trimers that transition from a pre-fusion state when key NAb epitopes are exposed to a post-fusion form in which the potential for virus-cell fusion no longer exists. For optimal vaccine performance, these viral proteins are often engineered to enhance stability and presentation of these NAb epitopes. The method involves the structure-guided introduction of proline residues at key positions that maintain the trimer in the pre-fusion configuration. We review how this technique emerged during HIV-1 Env vaccine development and its subsequent wider application to other viral vaccines including SARS-CoV-2.
+
+    - quotes
+      !a
+      !b
+
+    / March, 2021 - Cell Host & Microbe
+    quote !a = Many viral surface proteins exist as trimers that transition from a pre-fusion state when key NAb epitopes are exposed to a post-fusion form in which the potential for virus-cell fusion no longer exists. For optimal vaccine performance, these viral proteins are often engineered to enhance stability and presentation of these NAb epitopes. The method involves the structure-guided introduction of one or more proline substitutions into a loop between two helical regions of the fusion-mediating subunit; these changes hinder the transition of the protein toward the post-fusion form and hence stabilize the desired pre-fusion trimer.
+
+    / March, 2021 - Cell Host & Microbe
+    quote !b = The SARS-CoV-2 S protein-based vaccines created during 2020 usually incorporate the dual-proline modification that can be traced back, first to the I559P change made to the HIV-1 Env trimer in 2002 and from there, to stabilization work on RSV F, MERS-CoV S, and other class I fusion proteins.
+
+    / March, 2021 - Cell Host & Microbe
+    # quote !a = Stabilized pre-fusion trimers from RSV and HIV-1 are now in clinical trials, with promising data emerging on the antibody response to RSV F.
+
+
+
+
+  #
+  // Dramatic drop of new SARS-CoV-2 infections among health care workers after the first dose of the BNT162b2 mRNA Covid-19 Vaccine.
+  doi: https://doi.org/10.1101/2021.03.24.21254238
+  ref 'Guijarro_et_al_03_26_2021
+    head = The evolution of the incident rate of SARS-CoV-2 infection in a cohort of 2590 HCW after a mRNA SARS-CoV-2 vaccination, as compared to the rate in the community (n=170513). SARS-CoV-2 infections were microbiologically confirmed by an antigen, a CRP positive test, or both.
+
+    > Objectives
+      To evaluate the effect of mRNA SARS-Cov-2 vaccination on the incidence of new SARS-CoV-2 infections in health care workers (HCW).
+
+    > Methods
+      The evolution of the incident rate of SARS-CoV-2 infection in a cohort of 2590 HCW after a mRNA SARS-CoV-2 vaccination, as compared to the rate in the community (n=170513). SARS-CoV-2 infections were microbiologically confirmed by an antigen, a CRP positive test, or both.
+
+    > Results
+      A total of 1820 HCW (70,3% of total) received the first dose of the vaccine between January 10-16, 2021), and 296 (11,4%) the following week. All of them completed vaccination 3 weeks later. New SARS-COV-2 infections in HCW declined by 62% at 2-4 weeks after the first dose of mRNA SARS-CoV-2 vaccination and virtually disappeared after the second dose of the vaccine. Vaccination rate was negligible for this time period in the community (<5%). The decline in the incident rate of SARS-COoV-2 new infection in HCW shortly after the administration of the first dose of the vaccine was strikingly higher than the reduction observed in the general population (p<0.001and became even more pronounced after the second dose of the vaccine (p<0.001).
+
+    > Conclusions
+      mRNA SARS-CoV-2 vaccination is associated with a dramatic decline in new SARS-CoV-2 infection among HCW, even before the administration of the second dose of the vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+
+
+    / March, 2021 - medRxiv
+    quote !a = Our results show a dramatic reduction in new SARS-CoV-2 infections in HCW after a hospital wide vaccination program with the BNT162b2 mRNA Covid-19 vaccine. Interestingly, the decline was important even before the administration of the second dose of the vaccine, suggesting that a single dose may confer a substantial proportion.
+
+    / March, 2021 - medRxiv
+    quote !b = New SARS-COV-2 infections in HCW declined by 62% at 2-4 weeks after the first dose of mRNA SARS-CoV-2 vaccination and virtually disappeared after the second dose of the vaccine.
+
+    / March, 2021 - medRxiv
+    quote !c = The decline in the incident rate of SARS-COoV-2 new infection in HCW shortly after the administration of the first dose of the vaccine was strikingly higher than the reduction observed in the general population (p<0.001and became even more pronounced after the second dose of the vaccine (p<0.001).
+
+
+
+
+
+  #
+  // Longitudinal immune profiling of a SARS-CoV-2 reinfection in a solid organ transplant recipient
+  doi: https://doi.org/10.1101/2021.03.24.21253992
+  ref 'Klein_et_al_03_26_2021
+    head = We describe a renal transplant recipient who developed recurrent, symptomatic SARS-CoV-2 infection - confirmed by whole virus genome sequencing - 7 months after primary infection. To elucidate the immunological mechanisms responsible for SARS-CoV-2 reinfection, we performed longitudinal profiling of cellular and humoral responses during both initial SARSCoV-2 infection and reinfection.
+
+    > Abstract
+      Prior to the emergence of antigenically distinct SARS-CoV-2 variants, reinfections were reported infrequently - presumably due to the generation of durable and protective immune responses. However, case reports also suggested that rare, repeated infections may occur as soon as 48 days following initial disease onset. The underlying immunologic deficiencies enabling SARS-CoV-2 reinfections are currently unknown. Here we describe a renal transplant recipient who developed recurrent, symptomatic SARS-CoV-2 infection - confirmed by whole virus genome sequencing - 7 months after primary infection. To elucidate the immunological mechanisms responsible for SARS-CoV-2 reinfection, we performed longitudinal profiling of cellular and humoral responses during both primary and recurrent SARS-CoV-2 infection. We found that the patient responded to the primary infection with transient, poor-quality adaptive immune responses. The patients immune system was further compromised by intervening treatment for acute rejection of the renal allograft prior to reinfection. Importantly, we also identified the development of neutralizing antibodies and the formation of humoral memory responses prior to SARS-CoV-2 reinfection. However, these neutralizing antibodies failed to confer protection against reinfection, suggesting that additional factors are required for efficient prevention of SARS-CoV-2 reinfection. Further, we found no evidence supporting viral evasion of primary adaptive immune responses, suggesting that susceptibility to reinfection may be determined by host factors rather than pathogen adaptation in this patient. In summary, our study suggests that a low neutralizing antibody presence alone is not sufficient to confer resistance against reinfection. Thus, patients with solid organ transplantation, or patients who are otherwise immunosuppressed, who recover from infection with SARS-CoV-2 may not develop sufficient protective immunity and are at risk of reinfection.
+
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+
+    / March, 2021 - MedRxiv
+    quote !a = The results show that patients with solid organ transplantation, or patients who are otherwise immunosuppressed, who recover from infection with SARS-CoV-2 may not develop sufficient protective immunity and are at risk of reinfection.
+
+    / March, 2021 - MedRxiv
+    quote !b = We found that the patient responded to the primary infection with transient, poor-quality adaptive immune responses. The patients immune system was further compromised by intervening treatment for acute rejection of the renal allograft prior to reinfection.
+
+    / March, 2021 - MedRxiv
+    quote !c = We also identified the development of neutralizing antibodies and the formation of humoral memory responses prior to SARS-CoV-2 reinfection. However, these neutralizing antibodies failed to confer protection against reinfection, suggesting that additional factors are required for efficient prevention of SARS-CoV-2 reinfection.
+
+    / March 2021 - MedRxiv
+    quote !d = Through extensive clinical investigation and phylogenetic analysis of virus sequences, we confirmed that the patient was reinfected with a genetically distinct lineage of SARS-CoV-2, which was neither the result of persistent infection nor the result of infection by an antigenically distinct SARS-CoV-2 variant.
+
+    / March, 2021 - MedRxiv
+    quote !e = We found no evidence supporting viral evasion of primary adaptive immune responses, suggesting that susceptibility to reinfection may be determined by host factors rather than pathogen adaptation in this patient.
+
+
+    / March, 2021 - MedRxiv
+    quote !f = While T cell lymphopenia is common in even mild cases of COVID-19 and a characteristic response to many other viral infections, this patient did not develop T cell lymphopenia, and but instead presented with a profound and relatively specific reduction in naive T cell pools, most significantly in their CD4 compartment. Reduced naive T cell pools are a characteristic feature of aging and may contribute to the impaired immune responses observed in elderly individuals.
+
+    / March, 2021 - MedRxiv
+    quote !g = We hypothesize that the patient’s underlying immune deficiencies (low naïve CD4 pools) led to poor neutralizing antibody quality (IC50 titers approximately 1:10 to 1:30), which were insufficient to protect against SARS-CoV-2 reinfection in vivo.
+
+
+
+
+
+  #
+  // SARS-CoV-2 antibody testing—questions to be asked
+  doi: https://doi.org/10.1016/j.jaci.2020.05.020
+  ref 'Doremalen_et_al_05_29_2020
+    head = The interpretation of test results depends on many variables and factors, including sensitivity, specificity, potential cross-reactivity and cross-protectivity, the diagnostic value of antibodies of different isotypes, and the use of antibody testing in identification of acutely ill patients or in epidemiological settings. This article summarizes the currently available knowledge and literature in this extremely rapidly moving area.
+
+    - quotes
+      !a
+
+    / May, 202o - Journal of Allergy and Clinical Immunology
+    quote !a =
+
+
+
+
+  #
+  // Assessing transmissibility of SARS-CoV-2 lineage B.1.1.7 in England
+  doi: https://doi.org/10.1038/s41586-021-03470-x
+  ref 'Volz_et_al_03_25_2021
+    head = We find that changes in VOC frequency inferred from genetic data correspond closely to changes inferred by S-gene target failures (SGTF) in community-based diagnostic PCR testing.
+
+    > Abstract
+      The SARS-CoV-2 lineage B.1.1.7, designated a Variant of Concern 202012/01 (VOC) by Public Health England1, originated in the UK in late Summer to early Autumn 2020. Whole genome SARS-CoV-2 sequence data collected from community-based diagnostic testing shows an unprecedentedly rapid expansion of the B.1.1.7 lineage during Autumn 2020, suggesting a selective advantage. We find that changes in VOC frequency inferred from genetic data correspond closely to changes inferred by S-gene target failures (SGTF) in community-based diagnostic PCR testing. Analysis of trends in SGTF and non-SGTF case numbers in local areas across England shows that the VOC has higher transmissibility than non-VOC lineages, even if the VOC has a different latent period or generation time. The SGTF data indicate a transient shift in the age composition of reported cases, with a larger share of under 20 year olds among reported VOC than non-VOC cases. Time-varying reproduction numbers for the VOC and cocirculating lineages were estimated using SGTF and genomic data. The best supported models did not indicate a substantial difference in VOC transmissibility among different age groups. There is a consensus among all analyses that the VOC has a substantial transmission advantage with a 50% to 100% higher reproduction number.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / March, 2021 - Nature
+    quote !a = There is a consensus among all analyses that the VOC has a substantial transmission advantage with a 50% to 100% higher reproduction number.
+
+    / March, 2021 - Nature
+    quote !b = Analysis of trends in S-gene target failures (SGTF) and non-SGTF case numbers in local areas across England shows that the VOC has higher transmissibility than non-VOC lineages, even if the VOC has a different latent period or generation time.
+
+    / March, 2021 - Nature
+    quote !c =  The SGTF data indicate a transient shift in the age composition of reported cases, with a larger share of under 20 year olds among reported VOC than non-VOC cases. The best supported models did not indicate a substantial difference in VOC transmissibility among different age groups.
+
+
+
+  #
+  // AZD1222 US Phase III primary analysis confirms safety and efficacy
+  doi: https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2021/azd1222-us-phase-iii-primary-analysis-confirms-safety-and-efficacy.html
+  ref 'AstraZeneca_et_al_03_25_2021
+    head = This primary efficacy analysis included the accrual of 190 symptomatic cases of COVID-19 from the 32,449 trial participants, an additional 49 cases to the previously announced interim analysis. Participants were randomised on a 2:1 ratio between the vaccine and placebo group.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / March, 2021 - AstraZeneca
+    quote !a = Positive high-level results from the primary analysis of the Phase III trial of AZD1222 in the US have confirmed vaccine efficacy consistent with the pre-specified interim analysis announced on Monday 22 March 2021.
+
+    / March, 2021 - AstraZeneca
+    quote !b = The primary endpoint, vaccine efficacy at preventing symptomatic COVID-19 was 76% occurring 15 days or more after receiving two doses given four weeks apart. In addition, results were comparable across age groups, with vaccine efficacy of 85% in adults 65 years and older
+
+    / March, 2021 - AstraZeneca
+    quote !c = A key secondary endpoint, preventing severe or critical disease and hospitalisation, demonstrated 100% efficacy.
+
+    / March, 2021 - AstraZeneca
+    quote !d = The vaccine was well tolerated, and no safety concerns related to the vaccine were identified.
+
+
+
+  #
+  // Antibody Responses after a Single Dose of SARS-CoV-2 mRNA Vaccine.
+  doi: https://doi.org/10.1056/NEJMc2102051
+  ref 'Bradley_et_al_03_23_2021
+    head = We determined antibody levels at baseline and 3 weeks after the first dose of the BNT162b2 SARS-CoV-2 mRNA vaccine in 36 health care workers who received laboratory confirmation of SARS-CoV-2 infection 30 to 60 days before they received the vaccine and 152 health care workers without a history of SARS-CoV-2 infection.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / March, 2021 - The New England Journal of Medicine
+    quote !a = We found that after primary immunization, levels of blocking antibodies were higher among seropositive participants (i.e., the recently infected and undiagnosed groups) than among seronegative participants (the group with no history of infection).
+
+    / March, 2021 - The New England Journal of Medicine
+    quote !b = After the first vaccine dose, recently infected participants had higher titers of antibody to S1, S2, and the receptor-binding domain than did those with no history of infection.
+
+    / March, 2021 - The New England Journal of Medicine
+    quote !c = Using a multiplex bead-binding assay (Milliplex SARS-CoV-2 Antigen Panel 1 IgG, Millipore) that measures levels of IgG against SARS-CoV-2 spike protein subunits S1 and S2, the spike receptor-binding domain, and nucleocapsid protein, we found that after the first vaccine dose, antibody titers in both groups of participants were enhanced against all spike protein subunits but not against nucleocapsid protein, which is not a vaccine antigen.
+
+
+
+  #
+  // Early Evidence of the Effect of SARS-CoV-2 Vaccine at One Medical Center
+  doi: 10.1056/NEJMc2102153
+  ref 'Daniel_et_al_03_23_2021
+    head = We report data from the University of Texas Southwestern Medical Center (UTSW), which initiated a program on December 15, 2020, to offer vaccine against SARS-CoV-2 to its frontline employees in phase 1a of vaccination. In the initial 31 days of the vaccination campaign, 59% of 23,234 UTSW employees received a first dose of either one of the mRNA vaccines (the BNT162b2 vaccine (Pfizer–BioNTech) and the mRNA-1273 vaccine (Moderna)) and 30% received a second dose.
+
+    - quotes
+      !a
+      !b
+
+    / March, 2021 - The New England Journal of Medicine
+    quote !a = Between December 15, 2020, and January 28, 2021, a total of 350 of the 23,234 employees (1.5%) who were eligible to receive the vaccine were identified as being newly infected with SARS-CoV-2. The percentages of persons who became infected differed according to vaccination status, with infections in 234 of 8969 nonvaccinated employees, 112 of 6144 partially vaccinated employees, and 4 of 8121 fully vaccinated employees
+
+    / March, 2021 - The New England Journal of Medicine
+    quote !b = We observed a greater than 90% decrease in the number of employees who are either in isolation or quarantine. Real-world experience with SARS-CoV-2 vaccination at UTSW has shown a marked reduction in the incidence of infections among employees.
+
+
+
+  #
+  // mRNA vaccination boosts cross-variant neutralizing antibodies elicited by SARS-CoV-2 infection
+  doi: https://doi.org/10.1126/science.abg9175
+  ref 'Stamatatos_et_al_03_25_2021
+    head = We examined whether sera from recovered and naïve donors collected prior to, and following immunizations with existing mRNA vaccines, could neutralize the Wuhan-Hu-1 and B.1.351 variants.
+
+    > Abstract
+      Emerging SARS-CoV-2 variants have raised concerns about resistance to neutralizing antibodies elicited by previous infection or vaccination. We examined whether sera from recovered and naïve donors collected prior to, and following immunizations with existing mRNA vaccines, could neutralize the Wuhan-Hu-1 and B.1.351 variants. Pre-vaccination sera from recovered donors neutralized Wuhan-Hu-1 and sporadically neutralized B.1.351, but a single immunization boosted neutralizing titers against all variants and SARS-CoV-1 by up to 1000-fold. Neutralization was due to antibodies targeting the receptor binding domain and was not boosted by a second immunization. Immunization of naïve donors also elicited cross-neutralizing responses, but at lower titers. Our study highlights the importance of vaccinating both uninfected and previously infected persons to elicit cross-variant neutralizing antibodies.
+
+    - quotes
+      !h
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !i
+
+    / March, 2021 - Science
+    quote !h = The data indicate that in previously infected donors (PIDs) who generate adequate immunological memory to the RBD, a single vaccine dose elicits an anamnestic response resulting in RBD-binding and neutralizing antibody responses that are superior to a two-dose regimen in uninfected donors.
+
+    / March, 2021 - Science
+    quote !a = Our data suggest that the two mRNA vaccines that are based on the Wuhan-Hu-1 variant can elicit and/or boost neutralizing antibody responses, but that their potency is reduced against divergent variants.
+
+    / March, 2021 - Science
+    quote !b = The results indicate that in Naive donors (NDs), two doses of either the Pfizer/BioNTech or Moderna vaccines elicited nAb titers against the vaccine matched Wuhan-Hu-1, lower titers against B.1.351 and even lower titers against B.1.351-Δ242-243.
+
+    # / March, 2021 - Science
+    # quote !a = Only 8 of 13 vaccinated NDs were able to achieve 80% neutralization of B.1.351-Δ242-243, and none could achieve 80% neutralization of SARS-CoV-1.
+
+    / March, 2021 - Science
+    quote !c = The neutralizing titers elicited by a single immunization in previously infected (PIDs) were significantly higher than those elicited by two immunizations in naive donors (NDs) against all pseudoviruses tested; 10-fold higher against Wuhan-Hu-1, 20-fold higher against B.1.351, 30-fold higher against B.1.351-Δ242-243, and 7-fold higher against SARS-CoV-1.
+
+
+    / March, 2021 - Science
+    quote !d = Sera from PIDs who experienced symptomatic SARS-CoV-2 infection and who had detectable anti-RBD IgG titers prior to vaccination displayed generally weak nAb titers against Wuhan-Hu-1 at one to nine months post-infection and lower, or non-existent titers against the B.1.351 variants, in agreement with another report. However, provided RBD-specific IgG+ memory B cell and antibody responses were generated during infection, a single immunization with either mRNA vaccine elicited a robust recall response that boosted the autologous neutralizing titers by approximately 1000-fold and importantly, these antibody responses cross-neutralized the B.1.351 variants, but at lower titers.
+
+
+    / March, 2021 - Science
+    quote !e = Combined with the observation that the vaccines elicited neutralizing antibody responses that are less potent against the B.1.351 variant with the 242-243 deletion in the NTD suggests that NTD mutations can modulate the sensitivity of emerging variants to anti-RBD neutralizing antibodies.
+
+    / March, 2021 - Science
+    quote !f = The NTD region itself, which appears to tolerate antigenic variation in SARS-CoV-2 and other coronaviruses, does not appear to be the target of cross-neutralizing antibodies elicited by infection or vaccination.
+
+    / March, 2021 - Science
+    quote !g = Pre-existing anti-RBD IgG memory appears to be important for a robust recall response to vaccination. We observed that depleting RBD-specific antibodies from the sera of ten PIDs following one vaccination and from nine NDs after two vaccinations- efficiently removed RBD-specific but not anti-S2P specific antibodies from sera, as measured by ELISA. This depletion abrogated serum neutralization of Wuhan-Hu-1 virus, suggesting that the majority of neutralizing antibodies elicited or boosted by vaccination target this subdomain.
+
+    # / March, 2021 - Science
+    # quote !a = Although the correlates of protection for SARS CoV-2 vaccines have not been established, studies in non-human primates indicate that even low titers of neutralizing antibodies are sufficient to prevent experimental SARS-CoV-2 infection, particularly if CD8+ T-cell responses are mounted.
+
+    # / March, 2021 - Science
+    # quote !a = Our study suggests that most previously infected subjects will benefit from a single immunization with either the Pfizer/BioNTech or Moderna vaccines as it will lead to significant increases in serum neutralizing antibody responses against vaccine-matched and emerging variants.
+
+
+
+
+    # / March, 2021 - Science
+    # quote !i = The observation that a second dose administered three to four weeks following the first in previously infected donors who have clear evidence of RBD-directed immunological memory prior to vaccination did not further boost neutralizing titers, suggests that the second dose of an mRNA vaccine could be delayed in some persons who have previously been infected with SARS-CoV-2.
+
+
+    / March, 2021 - Science
+    quote !i = We note that there are other less-frequent mutations associated with this lineage, such as L18F, Δ244, L244H, and R246I that were not examined here which may further increase resistance to vaccine-elicited antibodies.
+
+
 
 
 
@@ -275,7 +654,7 @@ feed Sangeeta
     quote !a = Vaccination of health care workers for SARS-CoV-2 reduces documented cases and hospitalisation in both those individuals vaccinated and members of their households.
 
     / March, 2021 - medRxiv
-    quote !b = Among household members of vaccinated healthcare workers there was a 30% reduction in documented cases from day 14 post vaccination with similar, albeit not statistically significant, reductions in hospitalisation
+    quote !b = Among household members of vaccinated healthcare workers there was a 30% reduction in documented cases from day 14 post vaccination with similar, albeit not statistically significant, reductions in hospitalisation.
 
     # / March, 2021 - medRxiv
     # quote !a = Household members of vaccinated healthcare workers had a lower risk of COVID-19 case compared to household members of unvaccinated healthcare worker (rate per 100 person-years 9.40 versus 5.93; HR 0.70, 95% confidence interval [CI] 0.63-0.78).The effect size for COVID-19 hospitalization was similar, with the confidence interval crossing the null (HR 0.77 [0.53-1.10]).
@@ -319,7 +698,7 @@ feed Sangeeta
   // COVID-19 vaccine response in pregnant and lactating women: a cohort study
   doi: https://doi.org/10.1101/2021.03.07.21253094
   ref 'Gray_et_al_03_08_2021
-    head = 131 reproductive-age vaccine recipients (84 pregnant, 31 lactating, and 16 non-pregnant) were enrolled in a prospective cohort study at two academic medical centers.
+    head = We sought to evaluate the immunogenicity and reactogenicity of COVID-19 mRNA vaccination in pregnant and lactating women. 131 reproductive-age vaccine recipients (84 pregnant, 31 lactating, and 16 non-pregnant) were enrolled in a prospective cohort study at two academic medical centers.
 
     > Background
       Pregnant and lactating women were excluded from initial COVID-19 vaccine trials; thus, data to guide vaccine decision-making are lacking. We sought to evaluate the immunogenicity and reactogenicity of COVID-19 mRNA vaccination in pregnant and lactating women.
@@ -885,14 +1264,16 @@ feed Sangeeta
   // Real-World evidence confirms high effectiveness of Pfizer-Biontech Covid-19 Vaccine and profound public health impact of vaccination one year after pandemic declared.
   doi: https://www.pfizer.com/news/press-release/press-release-detail/real-world-evidence-confirms-high-effectiveness-pfizer#:~:text=Vaccine%20effectiveness%20was%20at%20least%2097%25%20against%20symptomatic%20COVID%2D19,SARS%2DCoV%2D2%20infections.
   ref 'Pfizer_et_al_03_11_2021
-    head = The Israel Ministry of Health (MoH), Pfizer Inc. and BioNTech SE announced real-world evidence demonstrating dramatically lower incidence rates of COVID-19 disease in individuals fully vaccinated with the Pfizer-BioNTech COVID-19 Vaccine (BNT162b2), underscoring the observed substantial public health impact of Israel’s nationwide immunization program.
+    head = The Israel Ministry of Health (MoH), Pfizer Inc. and BioNTech SE announced real-world evidence demonstrating dramatically lower incidence rates of COVID-19 disease in individuals fully vaccinated with the Pfizer-BioNTech COVID-19 Vaccine (BNT162b2), underscoring the observed substantial public health impact of Israel’s nationwide immunization program. Findings from the analysis were derived from de-identified aggregate Israel MoH surveillance data collected between January 17 and March 6, 2021, when the Pfizer-BioNTech COVID-19 Vaccine was the only vaccine available in the country and when the more transmissible B.1.1.7 variant (identified in UK) of SARS-CoV-2 was the dominant strain.
+
+
 
     - quotes
       !a
       !c
 
     / March, 2021 - Pfizer Inc.
-    quote !a = Findings from the analysis were derived from de-identified aggregate Israel MoH surveillance data collected between January 17 and March 6, 2021, when the Pfizer-BioNTech COVID-19 Vaccine was the only vaccine available in the country and when the more transmissible B.1.1.7 variant (identified in UK) of SARS-CoV-2 was the dominant strain. The latest analysis proves that two weeks after the second vaccine dose, protection is even stronger- Vaccine effectiveness was at least 97% against symptomatic COVID-19 cases, hospitalizations, severe and critical hospitalizations, and deaths; 94% against asymptomatic SARS-CoV-2 infections.
+    quote !a = The latest analysis proves that two weeks after the second vaccine dose, protection is even stronger- Vaccine effectiveness was at least 97% against symptomatic COVID-19 cases, hospitalizations, severe and critical hospitalizations, and deaths; 94% against asymptomatic SARS-CoV-2 infections. Data suggest Pfizer-BioNTech vaccine prevents asymptomatic SARS-CoV-2 infection.
 
     # / March, 2021 - Pfizer Inc.
     # quote !b = Data suggest Pfizer-BioNTech vaccine prevents asymptomatic SARS-CoV-2 infection.
@@ -1005,7 +1386,7 @@ feed Sangeeta
       !a
       !b
       !c
-      !d
+
 
     / March, 2021 - BioRxiv
     quote !a = We observed a 9.5-fold reduction of virus neutralizing antibody titer in vaccinated hamster sera against B.1.351 compared to B.1.1.7.
@@ -1016,8 +1397,8 @@ feed Sangeeta
     / March, 2021 - BioRxiv
     quote !c = Histopathological evaluation showed extensive pulmonary pathology caused by B.1.1.7 or B.1.351 replication in the control animals, but none in the vaccinated animals.
 
-    / March, 2021 - BioRxiv
-    quote !d = These data demonstrate the effectiveness of the ChAdOx1 nCoV-19 vaccine against clinical disease caused by B.1.1.7 or B.1.351 VOCs.
+    # / March, 2021 - BioRxiv
+    # quote !d = These data demonstrate the effectiveness of the ChAdOx1 nCoV-19 vaccine against clinical disease caused by B.1.1.7 or B.1.351 VOCs.
 
 
 
@@ -1146,7 +1527,7 @@ feed Sangeeta
 
 
     / March, 2021 - Novavax
-    quote !c = The company also announced the complete analysis of its Phase 2b trial(2,665 HIV negative, 240 HIV positive. Primary efficacy (dose 2 + 7 days)) taking place in South Africa, with   overall efficacy of 48.6% and efficacy of 55.4% among the HIV- negative trial participants. The vast majority of cases circulating during the efficacy analysis were due to the B.1.351/501Y.V2 variant circulating in South Africa. All five cases of severe disease observed in the trial occurred in the placebo group. The complete analysis shows that vaccine-induced protection began 14 days after dose 1, although increased efficacy was observed 7 days after dose 2.
+    quote !c = The company also announced the complete analysis of its Phase 2b trial(2,665 HIV negative, 240 HIV positive. Primary efficacy (dose 2 + 7 days)) taking place in South Africa, with  overall efficacy of 48.6% and efficacy of 55.4% among the HIV- negative trial participants. The vast majority of cases circulating during the efficacy analysis were due to the B.1.351/501Y.V2 variant circulating in South Africa. All five cases of severe disease observed in the trial occurred in the placebo group. The complete analysis shows that vaccine-induced protection began 14 days after dose 1, although increased efficacy was observed 7 days after dose 2.
 
     / March, 2021 - Novavax
     quote !d = In both the U.K. and South Africa trials, these analyses showed that the vaccine is well-tolerated, with low levels of severe, serious (SAEs) and medically attended adverse events at day 35, balanced between vaccine and placebo groups.
@@ -1242,19 +1623,19 @@ feed Sangeeta
 
 
   #
-  // Negligible impact of SARS-CoV-2 variants on CD4+ and CD8+ T cell reactivity in COVID-19 exposed donors and vaccinees
-  doi: https://doi.org/10.1101/2021.02.27.433180
-  ref 'Tarke_et_al_03_01_2021
-    head = We performed a comprehensive analysis of SARS-CoV-2-specific CD4+ and CD8+ T cell responses from COVID-19 convalescent subjects recognizing the ancestral strain, compared to variant lineages B.1.1.7, B.1.351, P.1, and CAL.20C as well as recipients of the Moderna (mRNA-1273) or Pfizer/BioNTech (BNT162b2) COVID-19 vaccines.
-
-    > Abstract
-      The emergence of SARS-CoV-2 variants highlighted the need to better understand adaptive immune responses to this virus. It is important to address whether also CD4+ and CD8+ T cell responses are affected, because of the role they play in disease resolution and modulation of COVID-19 disease severity. Here we performed a comprehensive analysis of SARS-CoV-2-specific CD4+ and CD8+ T cell responses from COVID-19 convalescent subjects recognizing the ancestral strain, compared to variant lineages B.1.1.7, B.1.351, P.1, and CAL.20C as well as recipients of the Moderna (mRNA-1273) or Pfizer/BioNTech (BNT162b2) COVID-19 vaccines. Similarly, we demonstrate that the sequences of the vast majority of SARS-CoV-2 T cell epitopes are not affected by the mutations found in the variants analyzed. Overall, the results demonstrate that CD4+ and CD8+ T cell responses in convalescent COVID-19 subjects or COVID-19 mRNA vaccinees are not substantially affected by mutations found in the SARS-CoV-2 variants.
-
-    - quotes
-      !a
-
-    / March, 2021 - bioRxiv
-    quote !a = We found negligible effects on both CD4+ or CD8+ T cell responses (in convalescent COVID-19 subjects or COVID-19 mRNA vaccinees) to all four variants investigated, to include the B.1.1.7, B.1.351, P.1 and CAL.20C variants found in the UK, South Africa, Brazil and California, respectively.
+  # // Negligible impact of SARS-CoV-2 variants on CD4+ and CD8+ T cell reactivity in COVID-19 exposed donors and vaccinees
+  # doi: https://doi.org/10.1101/2021.02.27.433180
+  # ref 'Tarke_et_al_03_01_2021
+  #   head = We performed a comprehensive analysis of SARS-CoV-2-specific CD4+ and CD8+ T cell responses from COVID-19 convalescent subjects recognizing the ancestral strain, compared to variant lineages B.1.1.7, B.1.351, P.1, and CAL.20C as well as recipients of the Moderna (mRNA-1273) or Pfizer/BioNTech (BNT162b2) COVID-19 vaccines.
+  #
+  #   > Abstract
+  #     The emergence of SARS-CoV-2 variants highlighted the need to better understand adaptive immune responses to this virus. It is important to address whether also CD4+ and CD8+ T cell responses are affected, because of the role they play in disease resolution and modulation of COVID-19 disease severity. Here we performed a comprehensive analysis of SARS-CoV-2-specific CD4+ and CD8+ T cell responses from COVID-19 convalescent subjects recognizing the ancestral strain, compared to variant lineages B.1.1.7, B.1.351, P.1, and CAL.20C as well as recipients of the Moderna (mRNA-1273) or Pfizer/BioNTech (BNT162b2) COVID-19 vaccines. Similarly, we demonstrate that the sequences of the vast majority of SARS-CoV-2 T cell epitopes are not affected by the mutations found in the variants analyzed. Overall, the results demonstrate that CD4+ and CD8+ T cell responses in convalescent COVID-19 subjects or COVID-19 mRNA vaccinees are not substantially affected by mutations found in the SARS-CoV-2 variants.
+  #
+  #   - quotes
+  #     !a
+  #
+  #   / March, 2021 - bioRxiv
+  #   quote !a = We found negligible effects on both CD4+ or CD8+ T cell responses (in convalescent COVID-19 subjects or COVID-19 mRNA vaccinees) to all four variants investigated, to include the B.1.1.7, B.1.351, P.1 and CAL.20C variants found in the UK, South Africa, Brazil and California, respectively.
 
 
 

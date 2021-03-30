@@ -5,7 +5,7 @@ feed Feb2021
     'Vasileiou_et_al_02_20_2020
     'Goyal_et_al_02_23_2021
     'FDA_et_al_02_24_2021
-    'Zhou_et_al_02_17_2021
+    Zhou_et_al_02_23_2021
     'Aran_et_al_02_19_2021
     'BioNTech_et_al_02_19_2021
     'Hoffmann_et_al_02_11_2021
@@ -442,7 +442,7 @@ feed Feb2021
   # @@DamingZhou
   // Evidence of escape of SARS-CoV-2 variant B.1.351 from natural and vaccine induced sera
   doi: https://doi.org/10.1016/j.cell.2021.02.037
-  ref 'Zhou_et_al_02_17_2021
+  ref Zhou_et_al_02_23_2021
     head =  We describe a structure-function analysis of B.1.351 using a large cohort of convalescent and vaccinee serum samples. We examine neutralization of a B.1.351 viral isolate and compare this to neutralization of Victoria, an early Wuhan related isolate.
 
     >
@@ -593,6 +593,8 @@ feed Feb2021
 
     / February, 2021 - NEJM
     quote !b = Virus with mutant residues in the receptor-binding site (K417N, E484K, and N501Y) is more poorly neutralized than virus with Δ242-244, which is located in the N-terminal domain of the spike protein.
+
+
 
   # @@DarinEdwards
   // Serum Neutralizing Activity Elicited by mRNA-1273 Vaccine — Preliminary Report
