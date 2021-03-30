@@ -1,0 +1,6 @@
+id: "#jeffmagee"
+name: "Jeff Magee"
+network: "common.page"
+use:
+  - "#covid-19"
+  - "#jeffmagee"
