@@ -63,6 +63,7 @@ feed Jan2021
       !a
       !b
       !c
+      !d
 
     / Jan, 2021 - medRxiv
     quote !a = We showed approximately 51% effectiveness of BNT162b2 COVID-19 vaccine against PCR-confirmed SARS-CoV-2 infection 13-24 days after immunization with the first dose using the preceding 1-12 days as a reference. This estimate was consistent across age, sex, sector, or comorbidity, except for diabetes.
@@ -72,6 +73,9 @@ feed Jan2021
 
     / Jan, 2021 - medRxiv
     quote !c = The BNT162b2 vaccine should be administered in two dose regimen 21 days apart as licensed for EUA, to achieve maximum protection and impact in reducing COVID-19 devastating burden and possibly the transmission of SARS-CoV-2.
+
+    / Jan, 2021 - medRxiv
+    quote !d = The somewhat lower effectiveness calculated among patients with diabetes is intriguing, particularly in light of a previous reports on impaired immunologic response after seasonal influenza vaccines among patients with diabetes or treated with anti-diabetic medications
 
 
 

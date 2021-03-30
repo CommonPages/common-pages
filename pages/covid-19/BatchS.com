@@ -9,19 +9,183 @@
 
    # mRNA vaccines will not affect our DNA??
 
+
+
+  > question on dose scheduling - discuss with ayush
+    Two critical issues arise: how will the timing of delivery of the second dose affect both infection dynamics and prospects for the evolution of viral immune escape via a build-up of partially immune individuals. Both hinge on the robustness of the immune response elicited by a single dose, compared to natural and two-dose immunity
+
+
+
+
+
+
+
+  claim !NTD = Combined with the observation that the vaccines elicited neutralizing antibody responses that are less potent against the B.1.351 variant with the 242-243 deletion in the NTD suggests that NTD mutations can modulate the sensitivity of emerging variants to anti-RBD neutralizing antibodies. The NTD region itself, which appears to tolerate antigenic variation in SARS-CoV-2 and other coronaviruses, does not appear to be the target of cross-neutralizing antibodies elicited by infection or vaccination.
+
+    -
+      'Stamatatos_et_al_03_25_2021
+      'Stamatatos_et_al_03_25_2021.!e
+      'Stamatatos_et_al_03_25_2021.!f
+
+
+
+  
+
+
+
+####### ends here#########
+  > 3/23
+
+    Recognition of aerosol transmission of infectious agents: a commentary
+    'Tellier_et_al_01_31_2019 - need to correct the ref.
+
+  # 'Muecksch_et_al_03_08_2021 - I dont know what claim to write
+
+  ## 3/22
+
+
+
+
+
+
+
+
   >
-    Asymptomatic and presymptomatic persons are likely to be a source of infectious virus. we recommend that infection control measures for persons with mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days. Data indicates that more prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
-  - Asymptomatic and presymptomatic persons are likely to be a source of infectious virus.
-    'Singanayagam_et_al_08_12_2020
-    'Singanayagam_et_al_08_12_2020.!a
-  - mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days.
-    'Singanayagam_et_al_08_12_2020.!b
-  - We observed a strong relationship between Ct value and ability to recover infectious virus.
-    'Singanayagam_et_al_08_12_2020.!c
-    'Singanayagam_et_al_08_12_2020.!d
-    'Singanayagam_et_al_08_12_2020.!e
-  - prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
-    'Singanayagam_et_al_08_12_2020.!f
+    Although the mRNA Covid-19 vaccines have modest neutralizing antibody activity after the first dose, they produce a greater increase in neutralizing activity after the second dose than that produced by the ChAdOx1 nCoV-19 and heterologous Sputnik V (adenovirus-26 followed by adenovirus-5 vector) Covid-19 vaccines.
+  # -
+  #   (https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-vaccine-candidate-against).
+  #   (https://investors.modernatx.com/news-releases/news-release-details/modernas-covid-19-vaccine-candidate-meets-its-primary-efficacy. opens in new tab).
+  #   Safety and efficacy of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine: an interim analysis of a randomised controlled phase 3 trial in Russia.
+
+
+  >
+    Previous trials have shown that an extended interval of up to 12 weeks demonstrated greater efficacy, which was also supported by immunogenicity data.
+
+
+
+  ## 3/20
+
+
+
+  >
+    What is driving the emergence of the new strains is difficult to determine, the emergence of B.1.1.7 occurred on the background of relatively low population immunity and may have been primarily driven by increased transmissibility. The emergence of B.1.351 occurred on the background of around 30% seropositivity in South Africa and P.1 on the background of an estimated 75% seropositivity in Manaus Brazil (Faria et al., 2021). It seems possible that selection of P.1 and B.1.351 may have been in part driven by immune escape, however until methods are developed to screen at a population level for the frequency of reinfection, it is not possible to determine this, especially as reinfection may lead to more mild or asymptomatic disease.
+
+
+  >  https://www.biorxiv.org/content/10.1101/2021.03.12.435194v1.full
+    Because P.1 and B.1.351 contain very similar changes in the RBD it might be assumed that neutralization of both would be similarly affected. This was indeed the case for neutralization by monoclonal antibodies directed at the RBD, where there was substantial escape from many antibodies in our panel or from antibodies being developed for clinical use. However, neutralization of P.1 was not compromised as severely as neutralization of B.1.351, when using convalescent or vaccine serum induced by earlier SARS-CoV-2 strains(Zhou et al., 2021). Using convalescent serum B.1.351 showed 13-fold reduction in neutralization compared to Victoria whilst P.1 was only reduced 3.1-fold, comparable to the reduction seen with B.1.1.7, which only harbours the single N501Y change in the RBD (Zhou et al., 2021;Supasa et al., 2021).
+
+  > https://www.biorxiv.org/content/10.1101/2021.03.12.435194v1.full
+    Similarly, neutralization of P.1 by vaccine serum was less impacted than neutralization of B.1.351 meaning that vaccination with Wuhan S will likely provide some protection against P.1. There is now clinical evidence that the ChAdOx1 nCoV-19 Oxford-AstraZeneca and NVX-CoV2373 Novavax vaccines provide protection from B.1.1.7 (Emary et al., 2021;Mahase, 2021). For B.1.351 both the Novavax (https://www.webmd.com/vaccines/covid-19-vaccine/news/20210131/vaccine-not-as-effective-against-south-african-variant) and Janssen vaccine (https://www.reuters.com/article/us-health-coronavirus-vaccines-johnson-j-idUSKBN29Z0F0) saw a marked decrease in efficacy against B.1.351, but still showed >50% protection against moderate and severe disease, whilst in a Phase II trial, ChAdOx1 nCoV-19 efficacy against mild to moderate disease caused by B.1.351 was 10.4% (95% CI: –76.8; 43.8), but efficacy against severe disease could not be assessed in this study (Madhi et al., 2021).
+
+    Based on the results reported here the South African B.1.351 is the variant of greatest concern giving the largest reductions in neutralization titres and evidence of complete failure to neutralize in some cases and we believe developing vaccine constructs to B.1.351 to be the greatest priority.
+
+
+
+  >
+    SARS-CoV-2 extensive circulation in humans has been associated with the emergence of variants, including variants of concern (VOCs) with diverse mutations in the spike and increased transmissibility or immune escape.
+
+
+
+
+  ## 3/19
+
+
+
+
+
+
+  >
+    Results of a recent interim analysis of the NVX-CoV2373 nanoparticle spike protein Covid-19 vaccine (Novavax), described in a press release, have not yet been published. However, reports suggest that the vaccine may have lower efficacy against the B.1.351 variant than against the original virus or the B.1.1.7 variant. In the absence of established correlates of protection against Covid-19 caused by the original virus or by B.1.351 or other variants, clinical evidence of the effectiveness of other Covid-19 vaccines against mild-to-moderate Covid-19 illness is needed.
+  # -
+  #   Novavax COVID-19 vaccine demonstrates 89.3% efficacy in UK phase 3 trial
+
+  >
+    Another recent multinational study that included South Africa evaluated the efficacy of a single dose of the Ad26.COV2.S nonreplicating adenovirus type 26 vaccine (Janssen). Interim results from South Africa reported a vaccine efficacy of 57% against moderate-to-severe Covid-19 and 89% against severe Covid-19 mainly due to the B.1.351 variant.
+  # -
+  #   (https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial. opens in new tab)
+
+  >
+    The Ad26.COV2.S vaccine study, however, submitted for end-point adjudication only cases confirmed by nucleic acid amplification test in patients who had at least three symptoms; consequently, the vaccine-efficacy analyses were likely to have excluded the majority of cases of mild Covid-19 in the study.
+  # -
+  #   A randomized double-blind, placebo-controlled phase 3 study to assess the efficacy and safety of Ad26.COV2.S for the prevention of SARS-CoV-2-mediated COVID-19 in adults aged 18 years and Older.
+
+  >
+    Of note, the immunogenicity of the Ad26.COV2.S vaccine is similar to that of the ChAdOx1 nCoV-19 vaccine after the first and second doses have been administered.13,31 The neutralizing antibody response induced by the Ad26.COV2.S vaccine against the B.1.351 variant has not yet been reported.
+  # -
+  #   (https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial. opens in new tab)
+  #
+  #   Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial.
+
+
+
+  >
+    Although efforts to develop second-generation Covid-19 vaccines targeted against B.1.351 and P1-like variants are under way, the only Covid-19 vaccines likely to be available for most of 2021 have been formulated against the original virus. ChAdOx1 nCoV-19 is likely to be one of the most accessible of all the currently authorized Covid-19 vaccines,33,34 with expected manufacture of approximately 3 billion doses during 2021, and the least costly.35 Relative resistance to human neutralizing antibody responses is expected to be a feature of the pandemic coronavirus in the years ahead, as a result of pressure on the virus to select for variants that can transmit despite immunity after natural infection or vaccination. Deliberations on the utility of the ChAdOx1 nCoV-19 vaccine also need to be made in the context of ongoing global spread and community transmission of the B.1.351 variant36 and the evolution of other SARS-CoV-2 lineages that include similar mutations.
+
+
+  #### 3/18
+
+
+
+  # 03/11
+
+
+  >
+    What is already known on this topic
+    The SARS-CoV-2 variant of concern 202012/1, first detected in the south east of England in autumn 2020, is more transmissible than previously circulating variants
+    The emergence of this variant coincided with high hospital occupancy, which is known to increase mortality
+    Before this study, unbiased estimates of the mortality of the variant of concern were not available
+    What this study adds
+    Individuals infected with the variant of concern, identified at UK community test centres, were between 32% and 104% (central estimate 64%) more likely to die than equivalent individuals infected with previously circulating variants
+    The absolute risk of death in this largely unvaccinated population remains low, but clinicians and public health officials should be aware that a higher mortality rate is likely even if practice remains unchanged
+
+
+  >
+    We describe properties of SARS-CoV-2 neutralizing antibodies that change as a consequence accumulated somatic mutations in convalescent individuals.
+
+  >
+    Binding, non-neutralizing antibodies have also been shown to have a protective effect in many viral infections (Asthagiri Arunkumar et al., 2019; Dilillo et al., 2014; Saphire et al., 2018) and may be a factor in the substantial residual protection seen in the Johnson &Johnson and Novavax vaccine trials against B.1.351 in South Africa (Shinde et al., 2021). Production of non-neutralizing antibodies may also play a role in protection by mRNA vaccines after the first dose, as it is substantial and occurs during a time when neutralizing antibody titers are either very low or absent (Baden et al., 2020; Dagan et al., 2021; Polack et al., 2020). Finally, although some antibodies may lose neutralizing activity due to reduced affinity, they do still bind. Furthermore, B cells with these specificities potentially could undergo affinity maturation after exposure to a variant virus or a variant spike319 containing vaccine, leading to high affinity antibodies to variant viruses of concern.
+
+
+
+
+  # Elicitation of high affinity and durable protective antibody responses is a hallmark  of a successful humoral immune response to vaccination
+
+  > SA Variant intro
+    This lineage was identified in South Africa after the first epidemic wave in a severely affected metropolitan area, Nelson Mandela Bay, located on the coast of the Eastern Cape Province. This lineage spread rapidly, becoming dominant in the Eastern Cape, Western Cape and KwaZulu-Natal Provinces within weeks.
+
+
+
+
+  >
+    About NVX-CoV2373
+
+    NVX-CoV2373 is a protein-based vaccine candidate engineered from the genetic sequence of SARS-CoV-2, the virus that causes COVID-19 disease. NVX-CoV2373 was created using Novavax’ recombinant nanoparticle technology to generate antigen derived from the coronavirus spike (S) protein and is adjuvanted with Novavax’ patented saponin-based Matrix-M™ to enhance the immune response and stimulate high levels of neutralizing antibodies. NVX-CoV2373 contains purified protein antigen and can neither replicate, nor can it cause COVID-19. In preclinical studies, NVX-CoV2373 induced antibodies that block binding of spike protein to cellular receptors and provided protection from infection and disease. It was generally well-tolerated and elicited robust antibody response numerically superior to that seen in human convalescent sera in Phase 1/2 clinical testing. NVX-CoV2373 is being evaluated in two pivotal Phase 3 trials, a trial in the U.K that demonstrated efficacy of 96.4% against the original virus strain and 89.7% overall, and the PREVENT-19 trial in the U.S. and Mexico that began in December 2020. It is also being tested in two ongoing Phase 2 studies that began in August: a Phase 2b trial in South Africa that demonstrated 48.65% efficacy against a newly emerging escape variant, and a Phase 1/2 continuation in the U.S. and Australia.
+
+    NVX-CoV2373 is stored and stable at 2°- 8°C, allowing the use of existing vaccine supply chain channels for its distribution. It is packaged in a ready-to-use liquid formulation in 10-dose vials.
+
+    About Matrix-M™
+
+    Novavax’ patented saponin-based Matrix-M™ adjuvant has demonstrated a potent and well-tolerated effect by stimulating the entry of antigen presenting cells into the injection site and enhancing antigen presentation in local lymph nodes, boosting immune response.
+
+
+    Recently, a new severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) lineage called B.1.1.7 (variant of concern: VOC 202012/01), which is reported to spread more efficiently and faster than other strains, emerged in the United Kingdom. This variant has an unusually large number of mutations, with 10 amino acid changes in the spike (S) protein, raising concerns that its recognition by neutralizing antibodies may be affected.
+  # B.1.1.7 INTRO
+
+
+  >
+    Wu and co-authors16 have also shown that variants carrying the E484K mutation resulted in a 3-to-6 fold reduction in neutralization by sera from mRNA-1273 vaccinated individuals.
+
+  >
+    Other studies have reported a small reduction of neutralisation against the B.1.1.7 variant from individuals vaccinated with two doses of BNT162b215 and mRNA-1273.
+
+
+
+
+
+
+
+  ############  the march papers end #########
+
 
   >
     We previously observed that anosmia/dysgeusia was associated with an increase of antibodies over time, independently of vaccination (Levi et al. submitted).
@@ -78,7 +242,7 @@
 
 
 
-
+###############
 
 
 

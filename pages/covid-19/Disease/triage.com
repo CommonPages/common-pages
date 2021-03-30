@@ -58,7 +58,7 @@ index: hide
     'Vella_et_al_03_02_2021.!a
     'Vella_et_al_03_02_2021.!b
     'Vella_et_al_03_02_2021.!c
-  
+
 
   # Long Covid
   -
@@ -94,3 +94,44 @@ index: hide
   # Stable adaptive Immune Response for 90% patient for over 6 months. However response is heterogenous which means some proportion of population will always be prone to reinfection
   # -
   #   'Dan_et_al_11_16_2020
+
+
+  >
+    Long COVID was characterized by symptoms of fatigue, headache, dyspnea and anosmia and was more likely with increasing age and body mass index and female sex. Experiencing more than five symptoms during the first week of illness was associated with long COVID
+
+  -
+    'Sudre_et_al_03_10_2021
+    'Sudre_et_al_03_10_2021.!a
+    'Sudre_et_al_03_10_2021.!b
+    'Sudre_et_al_03_10_2021.!c
+
+  # IMMUNITY ROBUTNESS IN EXTREME OLD PPL
+  >
+    A study on Extreme aged individuals and centenarians who were infected with or exposed to SARS-CoV-2 found that they were ere able to elicit robust IgG and IgA antibodies directed toward SARS-CoV-2 spike protein. The antibodies were able to neutralize the virus. Humoral responses were still detectable after 60 days from initial diagnosis. Recovered participants who are of extreme old age would be protected if re-exposed to the same SARS-CoV-2 viral variant.
+  -
+    'Foley_et_al_03_08_2021
+    'Foley_et_al_03_08_2021.!a
+    'Foley_et_al_03_08_2021.!b
+
+
+  >
+    A case study of a solid organ transplant recipient with COVID-19 showed patients with solid organ transplantation, or patients who are otherwise immunosuppressed, who recover from infection with SARS-CoV-2 may not develop sufficient protective immunity and are at risk of reinfection. Mere presence of neutralizing antibodies during primary infection was insufficient to confer protection against reinfection.
+
+  -
+    'Klein_et_al_03_26_2021
+    'Klein_et_al_03_26_2021.!a
+    'Klein_et_al_03_26_2021.!b
+    'Klein_et_al_03_26_2021.!c
+    'Klein_et_al_03_26_2021.!d
+    'Klein_et_al_03_26_2021.!e
+    'Klein_et_al_03_26_2021.!f
+    'Klein_et_al_03_26_2021.!g
+
+  # older people were more likely to test positive again if they had already tested positive.
+  claim !Previouslyinfectedoldppl = In a Danish population-level observational study, researchers found that older people were more likely than younger people to test positive again if they had already tested positive. Protection in the population to be 80% or higher in those younger than 65 years, but to be approximately 47% in those aged 65 years and older. Thier data indicates that vaccination of previously infected individuals should be done because natural protection cannot be relied on.
+    -
+      'Hansen_et_al_03_17_2021
+      'Hansen_et_al_03_17_2021.!a
+      'Hansen_et_al_03_17_2021.!b
+      'Hansen_et_al_03_17_2021.!c
+      'Hansen_et_al_03_17_2021.!d

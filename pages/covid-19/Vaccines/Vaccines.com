@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Pfizer first posted clinical trials in April of 2020. Interim trial reports and real world data have shown favorable safety and efficacy (95%). It has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351.
+      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Systemic reactogenicity is more common and severe after 2nd dose. Pfizer vaccine has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351.
 
       >
         Tozinameran is a COVID-19 vaccine developed by [BioNTech](https://biontech.de/) and manufactured and distributed by [Pfizer](https://www.pfizer.com/), which is given by intramuscular injection. It is an RNA vaccine composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the {Virus.Structure spike protein} of SARS-CoV-2, and is encapsulated in lipid nanoparticles.
@@ -345,6 +345,7 @@ subject module Vaccines
           'Chodick_et_al_01_29_2021.!a
           'Chodick_et_al_01_29_2021.!b
           'Chodick_et_al_01_29_2021.!c
+          'Chodick_et_al_01_29_2021.!d
 
       claim !IsraelHCW = A study conducted in vaccinated healthecare workers (Israel), showed the first dose of Pfizer’s vaccine was 85% effective in preventing symptomatic disease by 15 to 28 days after it was administered. The authors conclude that Pfizer vaccine generates a robust immune response after one dose.
         -
@@ -832,15 +833,24 @@ subject module Vaccines
           'Madhi_et_al_02_12_2021.!c
 
       / Thrombosis (Blood Clots)
-      claim !Thrombosis = As of March 10th of 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. EMA, UK Government so far, has found no indication that the recent reports of bloodclots were associated with the vaccine. AstraZeneca itself has reported no evidence of increased risk. Several scientists have urged that local background rates may be relevant.
+      claim !Thrombosis = As of March 10th of 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. Preliminary reviews have been completed. Experts so far, has found no indication that the recent reports of bloodclots were associated with the vaccine. AstraZeneca itself has reported no evidence of increased risk. Several scientists have urged that local background rates may be relevant. Experts advice that people should continue to take the vaccine as benefits outweigh the risk. 
         >
           In September of 2020, [clinical crials](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/) of the AstraZeneca vaccine were put on hold in the US because of suspected adverse reactions. However, trials were [resumed](https://www.astrazeneca.com/media-centre/press-releases/2020/fda-authorises-restart-of-the-covid-19-azd1222-vaccine-us-phase-iii-trial.html) in October of 2020. In December of 2020, data reported from {Research.Sangeeta.'Voysey_et_al_12_08_2020 AstraZeneca’s clinical trials}, involving 24,000 people, found four thromboembolic events occurred in people given the vaccine.
 
-          As of March 10th of 2021, there have been 30 thromboembolic events reported from almost 5 million people given COVID vaccines in Europe. Soon after the reports were published Ireland, Italy, Norway, Denmark, Iceland, Netherlands, France, Spain, Austria and Germany have temporarily paused their rollout of the AstraZeneca vaccine due to concerns about bloodclots.
+          As of March 10th of 2021, there have been 30 thromboembolic events reported from almost 5 million people given COVID vaccines in Europe. Soon after the reports were published several European countries have temporarily paused their rollout of the AstraZeneca vaccine due to concerns about bloodclots.
+
         >
-          THe European Medicine Agency has stated that the number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population and currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
+          Rare symptoms has been seen in at least 13 patients, all between ages 20 and 50. A plausible mechanism for how they could have been caused by the vaccine has not been established. These conditions are also sometimes seen in people who have not received a COVID-19 vaccine or other vaccine. However, COVID-19 disease itself is also often associated with {Disease.Course.!SevereCases.!BloodCoagulation serious} {Disease.Course.!SevereCases.!CardiacDysfunction clotting problems}.
+        -
+          !RareEvent
+        >
+          The European Medicine Agency has stated that the number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population and currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
         -
           !EMA
+        >
+          On March 18th 2021, the TGA has not received any reports of blood clots following administration of the AstraZeneca COVID-19 vaccine in Australia.
+        -
+          !TGA
         >
           The [UK government has stated](https://www.gov.uk/government/news/mhra-response-to-danish-authorities-action-to-temporarily-suspend-the-astrazeneca-covid-19-vaccine) that in the UK, more than 11 million doses of the AstraZeneca vaccine have been administered, and the rate of blood clots has not been greater than the natural rate expected to occur. AstraZeneca itself in their press release have also reported that of 17 million people vaccinated in the United Kingdom and the European Union, no evidence of increased risk of blood clots has been found.
         -
@@ -853,6 +863,8 @@ subject module Vaccines
         -
           !ThrombosisPast
           !ThrombosisRisk
+
+
 
         / Past studies
         claim !ThrombosisPast = Past studies have shown that Venous thrombosis, including deep vein thrombosis (DVT) and pulmonary embolism (PE), occurs at an annual incidence of about 1 per 1,000 adults. Rates increase sharply after about age 45 years, and are slightly higher in men than women in older age
@@ -871,6 +883,21 @@ subject module Vaccines
             'EMA_et_al_03_15_2021
             'EMA_et_al_03_15_2021.!a
             'EMA_et_al_03_15_2021.!b
+          -
+            'TGA_et_al_03_19_2021
+            'TGA_et_al_03_19_2021.!b
+
+        / TGA
+        claim !TGA = After a committee meeting on March 18th, TGA released an update which found the AstraZeneca vaccine is not associated with an overall increased risk of blood clots.
+
+          -
+            'TGA_et_al_03_19_2021
+            'TGA_et_al_03_19_2021.!a
+            'TGA_et_al_03_19_2021.!b
+            'TGA_et_al_03_19_2021.!c
+            'TGA_et_al_03_19_2021.!d
+            'TGA_et_al_03_19_2021.!e
+            'TGA_et_al_03_19_2021.!f
 
         / AstraZeneca on thrombosis incident
         claim !Oxford = AstraZeneca has shown no evidence of an increased risk of pulmonary embolism, deep vein thrombosis (DVT) or thrombocytopenia, in any defined age group, gender, batch or in any particular country.
@@ -889,6 +916,19 @@ subject module Vaccines
           -
             'AstraZeneca_et_al_03_14_2021
             'AstraZeneca_et_al_03_14_2021.!c
+
+        / Rare types of Blood Clots
+        claim !RareEvent = Patients have been reported to suffer from widespread blood clots, low platelet counts, and internal bleeding—not typical strokes or blood clots.
+          -
+            'Vogel_et_al_02_20_2020
+            'Vogel_et_al_02_20_2020.!a
+            'Vogel_et_al_02_20_2020.!b
+            'Vogel_et_al_02_20_2020.!c
+          -
+            'TGA_et_al_03_19_2021
+            'TGA_et_al_03_19_2021.!b
+            'TGA_et_al_03_19_2021.!c
+
 
 
 

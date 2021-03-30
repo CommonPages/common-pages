@@ -571,7 +571,7 @@ subject module Treatment
 
     / Severe Covid-19
     subject SevereCovid
-      head = According to NIH, Patients with COVID-19 are considered to have severe illness if they have SpO2 <94% on room air at sea level, respiratory rate >30, PaO2/FiO2 <300 mmHg, or lung infiltrates >50%. Given the high risk of complications from severe Covid-19, research recommends clinicans should establish timely, effective and safe supportive management goals of care.
+      head = According to NIH, Patients with COVID-19 are considered to have severe illness if they have SpO2 <94% on room air at sea level, respiratory rate >30, PaO2/FiO2 <300 mmHg, or lung infiltrates >50%. Given the high risk of complications from severe Covid-19, research recommends clinicans should establish timely, effective and safe supportive management goals of care. 
       -
         'Berlin_et_al_2020
         'Berlin_et_al_2020.!g
