@@ -54,7 +54,6 @@
 
   /// Erythropoiesis is the process which produces red blood cells (erythrocytes), which is the development from erythropoietic stem cell to mature red blood cell.
   model Erythropoiesis
-    #
     <
       RBCs
 

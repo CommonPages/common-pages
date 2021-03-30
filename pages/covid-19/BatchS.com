@@ -1310,7 +1310,7 @@
   #  As with other mutations: it is unlikely that a few mutations render a vaccine ineffective. The vaccines under development induce antibodies to many sites on Spike, so even if one target doesn't work, others should. Still, important to investigate, as scientists are doing.
 
 
-  #12/20
+  # 12/20
   # The UK / SA strains carry a series of deletions, in particular one at position 69/70 in the spike protein. While this deletion has been seen in other lineages before, it may play a role in transmission. Another deletion in the spike protein (144/145) might play a role.
 
   # The UK SARS-CoV-2 multiply mutated variant VUI 202012/01 also has an interesting Spike deletion 69/70 we have been studying. The deletion is increasing in frequency (blue), as is the new UK variant (red) (Dec still going)
@@ -1633,7 +1633,7 @@
 
     # Asymptomatic trasmission - check the dates with Ayush
     # Research early in the pandemic suggested that the rate of asymptomatic infections could be as high as 81%. But a meta-analysis published last month1, which included 13 studies involving 21,708 people, calculated the rate of asymptomatic presentation to be 17%.
-    #-
+    # -
      # Estimating the Extent of True Asymptomatic COVID-19 and Its Potential for Community Transmission: Systematic Review and Meta-Analysis
      # 'Nogrady_et_al_11_23_2020
     # 'Nogrady_et_al_11_23_2020.!a
@@ -1642,9 +1642,9 @@
 
     #  Viral dynamics
     # To understand what is happening in people with no symptoms, Cevik and colleagues conducted a systematic review and meta-analysis3 of 79 studies on the viral dynamics and transmissibility of SARS-CoV-2, which is posted on social-sciences preprint server SSRN. Some studies showed that those without symptoms had similar initial viral loads — the number of viral particles present in a throat swab — when compared with people with symptoms.But asymptomatic people seem to clear the virus faster and are infectious for a shorter period.
-    #-
-     #'Cevik_et_al_11_19_2020.!b
-     #'Nogrady_et_al_11_23_2020
+    # -
+     # 'Cevik_et_al_11_19_2020.!b
+     # 'Nogrady_et_al_11_23_2020
 
      # CHECK THIS PAPER WITH AYUSH:'Nogrady_et_al_11_23_2020
 
@@ -1715,8 +1715,8 @@
   #     'Wrapp_et_al_2020
   #  Although correlates of protection against SARS-CoV-2 infection in humans are not yet established, these results show that despite a slight expected decline in titers of binding and neutralizing antibodies, mRNA-1273 has the potential to provide durable humoral immunity.
         # -
-        #'Widge_et_al_12_03_2020
-        #'Widge_et_al_12_03_2020.!a
+        # 'Widge_et_al_12_03_2020
+        # 'Widge_et_al_12_03_2020.!a
   #
   #     https://www.nih.gov/news-events/news-releases/promising-interim-results-clinical-trial-nih-moderna-covid-19-vaccine
   #
@@ -1900,7 +1900,7 @@
   # >
   # "Phase II (600) Immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days; Adverse effects: mild in severity, pain at injection site[126]"
   # -
-      #'Zhang_et_al_11_17_2020
+      # 'Zhang_et_al_11_17_2020
   #   Safety and Immunogenicity Study of Inactivated Vaccine for Prevention of SARS-CoV-2 Infection(COVID-19)
   #   Brief Summary:
   #   This study is a randomized, double-blinded, and placebo controlled phase 1&2 clinical trial of the SARS-CoV-2 inactivated vaccine manufactured by Sinovac Research & Development Co., Ltd. The purpose of this study is to evaluate the safety and immunogenicity of the experimental vaccine in healthy adults aged≥60 years.
@@ -1960,7 +1960,7 @@
      #    >
      #      # Gao et al. report preclinical results of an early vaccine candidate called PiCoVacc, which protected rhesus macaque monkeys against SARS-CoV-2 infection when analyzed in short-term studies.
      #      # -
-     #      #'Gao_et_al_2020
+     #      # 'Gao_et_al_2020
      #
      #    >
      #      phase 1 and phase 2 trials of an inactivated COVID-19 vaccine, patients had a low rate of adverse reactions and demonstrated immunogenicity;
@@ -2143,7 +2143,7 @@
 
 
 
-############
+  #  ###########
   #
   #
   #  we tested several published SARS-CoV RBD-specific monoclonal antibodies and found that they do not have appreciable binding to 2019-nCoV S, suggesting that antibody cross-reactivity may be limited between the two RBDs.

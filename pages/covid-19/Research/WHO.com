@@ -1869,7 +1869,7 @@ feed WHO
     / Maskwearing and other measures in childrens
     quote !d = The behaviors of hand-washing and mask-wearing among primary school students were influenced by gender, grade, and other factors, therefore, parents should make efforts of behavior guidance whereas governments should enlarge medium publicity.
 
-  #38
+  # 38
   // Assessment of the Wearability of Facemasks against Air Pollution in Primary School-Aged Children in London
   doi: https://doi.org/10.3390/ijerph17113935
   ref 'Smart_et_al_2020_06_02

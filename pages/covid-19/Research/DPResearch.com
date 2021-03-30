@@ -122,7 +122,7 @@ feed DPResearch
 
   #  ------------
 
-  ##tags
+  # #tags
   // Prediction of Spatial and Temporal Distribution of Expiratory Droplets in an Aircraft Cabin
   doi: https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1055&context=ihpbc
   ref 'Gupta_et_al_2010
@@ -145,7 +145,7 @@ feed DPResearch
     quote !a =
 
   #  ------------
-  ##tags
+  # #tags
   doi: https://doi.org/xyz
   // Title of the Paper
   ref 'Xiao_et_al_02_20_2020
