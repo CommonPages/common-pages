@@ -638,6 +638,7 @@ subject module Disease
           !Damage
           !Uncoordination
           !Female
+          !Tcellresponses
 
         claim !Damage = One study has asserted that COVID-19 damages the function of CD4+ T cells and promotes excessive activation of CD8+ T cells, which may eventually diminish host antiviral immunity.
           -
@@ -657,6 +658,12 @@ subject module Disease
         claim !Female = One study found that female patients mounted significantly more robust T cell activation than male patients during SARS-CoV-2 infection, which was sustained in old age.
           -
             'Takahashi_et_al_06_09_2020
+
+        claim !Tcellresponses = Emerging data suggest that T cell responses elicited by either natural infection or vaccination with the Pfizer/BioNTech and Moderna COVID-19 mRNA vaccines are not affected by the mutations found in the SARS-CoV-2 variants (B.1.1.7, B.1.351, P.1 and CAL.20C variants).
+          -
+            'Tarke_et_al_03_01_2021
+            'Tarke_et_al_03_01_2021.!a
+            'Tarke_et_al_03_01_2021.!b
 
       # Nothing specific to SARS?
       # / B-cells

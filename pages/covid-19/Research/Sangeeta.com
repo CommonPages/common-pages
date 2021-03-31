@@ -588,7 +588,6 @@ feed Sangeeta
     # quote !c = Delayed boosting potentially leaves most solid and haematological cancer patients wholly or partially unprotected, with implications for their own health; their environment and the evolution of VOC strains. Prompt boosting of solid cancer patients quickly overcomes the poor efficacy of the primary inoculum in solid cancer patients.
 
 
-
   #
   // Centenarians and extremely old people living with frailty can elicit durable SARS-CoV-2 spike specific IgG antibodies with virus neutralization functions following virus infection
   doi:https://doi.org/10.1101/2021.03.05.21252707

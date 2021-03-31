@@ -9,7 +9,7 @@ profile page #jeffmagee
 
   - Claims
     !Foo
-
+  
   // Aerosol Transmission
   claim !Foo = Some of us think that the aerosol pathway is the dominant way of transmission, with some contribution from fomites, and a minor contribution from ballistic droplets (almost only for coughing and sneezing).
 

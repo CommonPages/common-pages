@@ -505,6 +505,10 @@ subject Variants
       Vaccines.Approved.mRNA-1273.!SAvariant
       Vaccines.Approved.Tozinameran.!IsraelB117
       !ReducedNeurtalizationmAbs
+      Vaccines.Approved.Tozinameran.!Tcellresponses
+      Vaccines.Approved.AZD1222.!Animalchallenge
+      Vaccines.Candidates.NVX-CoV2373.!VaccineefficacyV1
+
     - Pre Existing Immunity
       !PreexistingImmunity
       !RetainedImmunity
@@ -519,6 +523,7 @@ subject Variants
       !N501YK417N
       !EntryN501
       !N501neutralization
+      B1351.!CrossNeutralizingactivity
     - Potential significance of Deletion H69/V70
       !DelH69V70
       !Antibodyescape
@@ -953,10 +958,19 @@ subject Variants
       !ImmuneEscapeInfectivity
       P1Variant.!EntryInhibitorsEscape
       B117.!ReducedNeurtalizationmAbs
+      Vaccines.Approved.Tozinameran.!NeutralizingActivityseconddose
+      Vaccines.Approved.Tozinameran.!ReducedtitiersagiantV2
+      Vaccines.Approved.Tozinameran.!Tcellresponses
+      Vaccines.Approved.Tozinameran.!PreviouslyinfectedPfizer
+      Vaccines.Approved.AZD1222.!Vaccineefficacy
+      Vaccines.Approved.AZD1222.!Animalchallenge
+      Vaccines.Candidates.NVX-CoV2373.!VaccineefficacyV2
+      Vaccines.Candidates.NVX-CoV2373.!Vaccineefficacy2btrial
     - Pre Existing Immunity
       !PreexistingImmunity
     - Cross Neutralization with other strains
       !CrossNeutralization
+      !CrossNeutralizingactivity
     - Treatment
       !Treatment
     - Mutation
@@ -970,10 +984,12 @@ subject Variants
       Variants.B117.!N501YK417N
       Variants.B117.!N501neutralization
       Variants.B117.!EntryN501
+      !CrossNeutralizingactivity
 
     - Potential Significance of E484K mutation
       !E484
       !AntibodiesE484k
+      !CrossNeutralizingactivity
 
 
     claim !Mutation = This new lineage has three mutations at key sites in the RBD (K417N, E484K and N501Y). Two of these (E484K and N501Y) are within the receptor-binding motif (RBM).
@@ -1094,6 +1110,16 @@ subject Variants
         'Moyo-Gwete_et_al_03_11_2021.!c
         'Moyo-Gwete_et_al_03_11_2021.!d
 
+    claim !CrossNeutralizingactivity = One study reported that mRNA vaccines (BNT162b2 or mRNA-1273) elicit potent neutralizing activity against homologous pseudovirus. Cross-neutralization of strains with receptor binding domain (RBD) mutations is poor. Both RBD and non-RBD mutations mediate escape from vaccine-induced humoral immunity. Five of the 10 pseudoviruses, harboring receptor-binding domain mutations, including K417N/T, E484K, and N501Y, were highly resistant to neutralization. Cross-neutralization of B.1.351 variants was comparable to SARS-CoV and bat-derived WIV1-CoV, suggesting that a relatively small number of mutations can mediate potent escape from vaccine responses.
+      -
+        'Garcia-Beltran_et_al_03_12_2021
+        'Garcia-Beltran_et_al_03_12_2021.!a
+        'Garcia-Beltran_et_al_03_12_2021.!b
+        'Garcia-Beltran_et_al_03_12_2021.!c
+        'Garcia-Beltran_et_al_03_12_2021.!d
+        'Garcia-Beltran_et_al_03_12_2021.!e
+        'Garcia-Beltran_et_al_03_12_2021.!f
+
   / P.1 (Identified in Brazil)
   subject P1Variant
     head = A new lineage named P.1 from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike. It is estimated to be somewhere between 1.4 and 2.2 times more transmissible than other lineages. Studies have reported significant levels of neutralizing resitance and raised concerns about the propensity for re-infection. As of February 2021, this variant has been reported in 22 countries.
@@ -1166,9 +1192,15 @@ subject Variants
       Variants.B117.!N501YK417N
       Variants.B117.!N501neutralization
       Variants.B117.!EntryN501
+      Variants.B1351.!CrossNeutralizingactivity
     - Potential Significance of E484K mutation
       Variants.B1351.!E484
       Variants.B1351.!AntibodiesE484k
+      Variants.B1351.!CrossNeutralizingactivity
+    - Vaccine related claims
+      Vaccines.Approved.Tozinameran.!PreviouslyinfectedPfizer
+    - T Cell Response
+      Vaccines.Approved.Tozinameran.!Tcellresponses
 
     / Mutation
     claim !Mutation = The new P.1 lineage carries 17 unique amino acid changes, 3 deletions, and 4 synonymous mutations, and one 4nt insertion. It also includes everal mutations of known biological importance such as E484K, K417T, and N501Y

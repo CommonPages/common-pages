@@ -18,6 +18,17 @@ feed March2021
     'DeSouza_et_al_03_01_2021
     'Zimmer_et_al_03_01_2021
 
+  // The Pfizer-BioNTech Vaccine Is Said to Be Powerfully Protective in Adolescents
+  doi: https://www.nytimes.com/2021/03/31/health/pfizer-biontech-vaccine-adolescents.html
+  ref 'Nytimes_et_al_03_31_2021
+    head = A clinical trial found no symptomatic infections among vaccinated children ages 12 to 15, the companies said, and there were no serious side effects. The data have not yet been reviewed by independent experts.
+
+    - quotes
+      !a
+
+    / March, 2021 - New York Times
+    quote !a = No symptomatic infections were found among children who received the vaccine in a recent clinical trial.
+
   // AstraZeneca ChAdOx1-S COVID-19 vaccine: Update - European and UK reviews find no proven link with blood clots
   doi: https://www.tga.gov.au/alert/astrazeneca-chadox1-s-covid-19-vaccine
   ref 'TGA_et_al_03_19_2021
@@ -416,7 +427,7 @@ feed March2021
 
     / March, 2021 - bioRxiv
     quote !b = CD4+ and CD8+ T cell responses in convalescent COVID-19 subjects or COVID-19 mRNA vaccinees are not substantially affected by mutations found in the SARS-CoV-2 variants.(the B.1.1.7, B.1.351, P.1 and CAL.20C variants found in the UK, South Africa, Brazil and California, respectively.)
-  
+
 
 
 
