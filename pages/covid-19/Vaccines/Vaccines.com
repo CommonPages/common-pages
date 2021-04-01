@@ -1963,7 +1963,7 @@ subject module Vaccines
 
   / Vaccine Cohorts and Considerations
   subject Effects
-    head = There are various studies, clinical trials and real world evidence for various cohorts: Old people, Children, Pregnant Women, Previously Infected Individuals, CoMorbid Conditions, Cancer Patients, Solid Organ Transplant Recipients, and Long Covid. Findings are still being accumulated.
+    head = Studies into the safety and efficacy of COVID-19 vaccines have highlighted findings across a number of special cohorts: old people, children, pregnant women, previously infected individuals, individuals with co-morbid conditions, cancer patients, solid organ transplant recipients, and individuals with "long covid." Findings are still being accumulated.
 
     / Old People
     subject Oldpeople

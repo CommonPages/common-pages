@@ -6,17 +6,14 @@ revision feed Revisions
   let *March_31 mean March_31
   let *March_17 mean March_17
   let *March_1 mean March_01
-  let *February_26 mean February_26
-  let *February_23 mean February_23
-  let *February_22 mean February_22
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *March_31, *March_17, *March_1 and *February_26). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *March_31, *March_17 and *March_1). You can *contribute by sending corrections and responding to open questions.
 
 
   public: March-31-2021
   / March 31, 2021
   revision March_31
-    head = We have updated latest trial results and real world data for all the vaccines. We have added a new section "Vaccine Cohorts and Consideration".
+    head = We have updated the latest trial results and real world data for all COVID-19 vaccines, and have added a new section highlighting special considerations for a variety of cohorts.
 
     -
       Vaccines.Approved
