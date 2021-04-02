@@ -1,0 +1,6 @@
+id: "#aerosol"
+name: "Aerosol FAQ"
+network: "common.page"
+use:
+  - "#covid-19"
+  - "#aerosol"
