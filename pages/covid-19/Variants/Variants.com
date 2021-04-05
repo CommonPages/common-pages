@@ -447,27 +447,27 @@ subject Variants
         <td>T7161, S982A, D1118H </td>
         <tr>
         <th>Transmissibility</th>
-        <td>>50% increased</td>
+        <td> Increased-70% </td> 
         </tr>
         <tr>
         <th>Lethality</th>
-        <td> Increased risk of severity, hospitalization and death, Likely increased >30%</td>
+        <td> Increased 60% </td>
         </tr>
         <tr>
         <th>Immune Evasion</th>
-        <td> Probable, extent unclear </td>
+        <td> Minimal </td>
         </tr>
         <tr>
         <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
-        <td> Partial; {Vaccines.Candidates.NVX-CoV2373.!UKandSAvariant Novavax (96->86%)}; {Vaccines.Approved.AZD1222.!VariantEfficacy Astra Zeneca (84->75%)} </td>
+        <td> Minimal Reduction <10% point decline in 2 trials (Novavax and AZ)</td>
         </tr>
         <tr>
-        <th>Countries reported (uptil March 19, 2021)</th>
-        <td> 94 </td>
+        <th>Countries reported (uptil April 1st, 2021)</th>
+        <td> 114 </td>
         </tr>
         <tr>
-        <th>US States reported (uptil March 19, 2021)</th>
-        <td> 48 </td>
+        <th>US States reported (uptil April 1st, 2021)</th>
+        <td> 49 </td>
         </tr>
       </table>
     -
@@ -480,6 +480,7 @@ subject Variants
     - Transmission
       !GrowthRate
       !Transmission
+      !TransmissibilityB117
     - Replication
       !ReplicationTransmissibility
     - Viral Load
@@ -508,6 +509,7 @@ subject Variants
       Vaccines.Approved.Tozinameran.!Tcellresponses
       Vaccines.Approved.AZD1222.!Animalchallenge
       Vaccines.Candidates.NVX-CoV2373.!VaccineefficacyV1
+      !NTDneutralizing
 
     - Pre Existing Immunity
       !PreexistingImmunity
@@ -881,6 +883,22 @@ subject Variants
         'Collier_et_al_03_11_2021.!e
         'Collier_et_al_03_11_2021.!f
 
+    claim !NTDneutralizing =  Neutralizing NTD antibodies protect hamsters from SARS-CoV-2 challenge. Variants of concern have mutations in the NTD that escape neutralization
+      -
+        'McCallum_et_al_03_16_2021
+        'McCallum_et_al_03_16_2021.!a
+        'McCallum_et_al_03_16_2021.!b
+        'McCallum_et_al_03_16_2021.!c
+
+
+    claim !TransmissibilityB117 = One study reported that VOC (B.1.1.7) has a substantial transmission advantage with a 50% to 100% higher reproduction number.
+      -
+        'Volz_et_al_03_25_2021
+        'Volz_et_al_03_25_2021.!a
+        'Volz_et_al_03_25_2021.!b
+        'Volz_et_al_03_25_2021.!c
+
+
   / B.1.351 (Identified in South Africa)
   subject B1351
     head = On the 18th of December, the B.1.351 variant was reported to spread in South Africa. This lineage has multiple spike mutations and is associated with increased transmissibility. Immune Escape has been observed and an efficacy drop-off is consistent across all the vaccines to date. As of the 22nd of February 2021, this variant has been reported in 46 countries.
@@ -910,7 +928,7 @@ subject Variants
         <td>L18F, D80A, D215G, del 242-244, R264I, A701V </td>
         <tr>
         <th>Transmissibility</th>
-        <td> No </td>
+        <td> Not established </td>
         </tr>
         <tr>
         <th>Lethality</th>
@@ -925,19 +943,22 @@ subject Variants
         <td> 60% efficacy Novavax, 64% efficacy J&J. No {Vaccines.Approved.AZD1222.!SAVariantEfficacy with Oxford Astra-Zeneca}efficacy vs mild/mod infections</td>
         </tr>
         <tr>
-        <th>Countries reported (uptil March 19, 2021)</th>
-        <td> 48 </td>
+        <th>Countries reported (uptil April 1st, 2021)</th>
+        <td> 68 </td>
         </tr>
         <tr>
-        <th>US States reported (uptil March 19, 2021)</th>
-        <td> 26 </td>
+        <th>US States reported (uptil April 1st, 2021)</th>
+        <td> 31 </td>
         </tr>
       </table>
 
     - Transmission
       !Transmission
       !ImmuneEscapeInfectivity
+      !TimelineSA
+    - Animal Transmission
       !TransmissionMice
+      !MiceReplication
     - Severity
       !Severity
     - Vaccine Related claims
@@ -966,6 +987,9 @@ subject Variants
       Vaccines.Approved.AZD1222.!Animalchallenge
       Vaccines.Candidates.NVX-CoV2373.!VaccineefficacyV2
       Vaccines.Candidates.NVX-CoV2373.!Vaccineefficacy2btrial
+      !PlasmablastResponsemRNA
+      B117.!NTDneutralizing
+      Vaccines.Approved.Gam-COVID-Vac.!SputnikB1351
     - Pre Existing Immunity
       !PreexistingImmunity
     - Cross Neutralization with other strains
@@ -1071,12 +1095,12 @@ subject Variants
         'Hoffmann_et_al_02_11_2021.!a
 
     claim !ProtectionagainstB1351 = One study performed a structure-function analysis of B.1.351 using a large cohort of convalescent and vaccinee serum samples and examined neutralization of a B.1.351 viral isolate and compare this to neutralization of Victoria, an early Wuhan related isolate. Authors reported that B.1.351 CoV-2 strain is much more difficult to neutralize than parental strains. Authors also reported that convalescent and some vaccine serum offers limited protection against this variant.
-      -
-        Zhou_et_al_02_23_2021
-        Zhou_et_al_02_23_2021.!a
-        Zhou_et_al_02_23_2021.!b
-        Zhou_et_al_02_23_2021.!c
-        Zhou_et_al_02_23_2021.!d
+      # -
+      #   'Zhou_et_al_02_23_2021
+      #   'Zhou_et_al_02_23_2021.!a
+      #   'Zhou_et_al_02_23_2021.!b
+      #   'Zhou_et_al_02_23_2021.!c
+      #   'Zhou_et_al_02_23_2021.!d
 
     claim !ImmuneEscapeInfectivity = One study found that the infectivity of the 501Y.V2 variants in human receptor cells did not change significantly, but did alter antigenicity. Neutralizing activity of multiple RBD-targeting monoclonal antibodies & Polyclonal antibodies were decreased.
       -
@@ -1120,6 +1144,31 @@ subject Variants
         'Garcia-Beltran_et_al_03_12_2021.!e
         'Garcia-Beltran_et_al_03_12_2021.!f
 
+    claim !PlasmablastResponsemRNA = One study found that Polyclonal antibody responses in vaccinees were robust and comparable to or exceeded those seen after natural infection. However, that the ratio of binding to neutralizing antibodies after vaccination was greater than that after natural infection and, at the monoclonal level, study found that the majority of vaccine-induced antibodies did not have neutralizing activity. Neutralizing activity of NTD mAbs but not RBD mAbs against a clinical viral isolate carrying E484K as well as extensive changes in the NTD was abolished suggesting that a proportion of vaccine induced RBD binding antibodies may provide substantial protection against viral variants carrying E484K.
+      -
+        'Amanat_et_al_03_09_2021
+        'Amanat_et_al_03_09_2021.!a
+        'Amanat_et_al_03_09_2021.!b
+        'Amanat_et_al_03_09_2021.!c
+        'Amanat_et_al_03_09_2021.!d
+        'Amanat_et_al_03_09_2021.!e
+        'Amanat_et_al_03_09_2021.!f
+        'Amanat_et_al_03_09_2021.!g
+        'Amanat_et_al_03_09_2021.!h
+        'Amanat_et_al_03_09_2021.!i
+
+    claim !TimelineSA = A study shows that a B.1.351 variant (501Y.V2) that rapidly became dominant in parts of South Africa towards the end of 2020 may have emerged from the coast of the Eastern Cape Province after the first wave of the epidemic, and suggest that this lineage is associated with a selection advantage, most plausibly as a result of increased transmissibility or immune escape.
+      -
+        'Tegally_et_al_03_09_2021
+        'Tegally_et_al_03_09_2021.!a
+        'Tegally_et_al_03_09_2021.!b
+
+    claim !MiceReplication = One study The B1.351 and P.1 variants are able to infect common laboratory mice, replicating to high titers in the lungs. Although differences between viral lineages suggest that other factors are involved in the capacity of SARS-CoV-2 VOCs to infect mice. This abrogation of the species barrier raises the possibility of wild rodent secondary reservoirs.
+      -
+        'Montagutelli_et_al_03_18_2021
+        'Montagutelli_et_al_03_18_2021.!a
+        'Montagutelli_et_al_03_18_2021.!b
+
   / P.1 (Identified in Brazil)
   subject P1Variant
     head = A new lineage named P.1 from Manaus, Amazonas state, north Brazil was detected in mid-December. This variant contains multiple shared mutations in the spike. It is estimated to be somewhere between 1.4 and 2.2 times more transmissible than other lineages. Studies have reported significant levels of neutralizing resitance and raised concerns about the propensity for re-infection. As of February 2021, this variant has been reported in 22 countries.
@@ -1140,7 +1189,7 @@ subject Variants
         </tr>
         <tr>
         <th>Key RBD, spike mutations beyond N501Y in all</th>
-        <td>N501Y, E484K, K417N/T, orf1b deletion </td>
+        <td>E484K, K417N/T, orf1b deletion </td>
         </tr>
         <tr>
         <th>Other mutations (Including N-terminal)</th>
@@ -1155,19 +1204,19 @@ subject Variants
         </tr>
         <tr>
         <th>Immune Evasion</th>
-        <td> {!AntibodyEscape Yes} </td>
+        <td> {!AntibodyEscape Yes}, Less than B.1.351 </td>
         </tr>
         <tr>
         <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
-        <td> 68% efficacy J&J </td>
+        <td> No Clinical trials. Sera from vaccines for mRNA and AZ encouraging vs P.1 </td>
         </tr>
         <tr>
-        <th>Countries reported (uptil March 19, 2021)</th>
-        <td> 26 </td>
+        <th>Countries reported (uptil April 1st, 2021)</th>
+        <td> 36 </td>
         </tr>
         <tr>
-        <th>US States reported (uptil March 19, 2021)</th>
-        <td> 15 </td>
+        <th>US States reported (uptil April 1st, 2021)</th>
+        <td> 22 </td>
         </tr>
 
       </table>
@@ -1177,6 +1226,8 @@ subject Variants
       !OriginCause
     -
       !Transmission
+    - Replication
+      Variants.B1351.!MiceReplication
     -
       !NeutralisingResitance
       !AntibodyEscape
@@ -1199,6 +1250,8 @@ subject Variants
       Variants.B1351.!CrossNeutralizingactivity
     - Vaccine related claims
       Vaccines.Approved.Tozinameran.!PreviouslyinfectedPfizer
+      Variants.B1351.!PlasmablastResponsemRNA
+      Variants.B117.!NTDneutralizing
     - T Cell Response
       Vaccines.Approved.Tozinameran.!Tcellresponses
 

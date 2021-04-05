@@ -1383,6 +1383,8 @@ subject module Vaccines
         !Phase12SputnikV
         !Phase3SputnikV
         !Phase3
+      - Vaccine related claims
+        !SputnikB1351
 
       - Key Concerns
         Ad5-nCOV.!Concern
@@ -1421,6 +1423,12 @@ subject module Vaccines
           'Logunov_et_al_02_02_2021.!a
           'Logunov_et_al_02_02_2021.!b
           'Logunov_et_al_02_02_2021.!c
+
+      claim !SputnikB1351 = One study has shown that Sputnik V Ad26 / Ad5 vaccine failed to neutralize rcVSV-CoV2-S: B.1.351.
+        -
+          'Ikegame_et_al_04_03_2021
+          'Ikegame_et_al_04_03_2021.!a
+          'Ikegame_et_al_04_03_2021.!b
 
     / Sinovac
     subject CoronaVac
@@ -2205,6 +2213,11 @@ subject module Vaccines
       !KeyConcern4
       !KeyConcern5
 
+    >
+      While, some researchers have argued that delaying the second vaccine dose does not increase the rate at which Immune escape variants become prevalent, in fact it might actually help to slow their emergence.
+    -
+      !ImmuneEscapeVariants
+
     - Epidemiological Considerations
       !Epidemiologicalconsiderationeffectivedose
 
@@ -2314,6 +2327,12 @@ subject module Vaccines
         'Saad-Roy_et_al_03_09_2021.!c
         'Saad-Roy_et_al_03_09_2021.!d
         'Saad-Roy_et_al_03_09_2021.!e
+
+    claim !ImmuneEscapeVariants = In one article, Authors stated that as long as vaccination provides some protection against escape variants, the corresponding reduction in prevalence and incidence should reduce the rate at which new variants are generated and the speed of adaptation.
+      -
+        'Cobey_et_al_04_01_2021
+        'Cobey_et_al_04_01_2021.!a
+        'Cobey_et_al_04_01_2021.!b
 
 
 
