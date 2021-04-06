@@ -18,6 +18,19 @@ feed March2021
     'DeSouza_et_al_03_01_2021
     'Zimmer_et_al_03_01_2021
 
+  // Are Face Masks Effective? The Evidence.
+  link: https://swprs.org/face-masks-evidence/
+  ref 'Swiss_Policy_Research_03_21_2021
+    head = So far, most studies found little to no evidence for the effectiveness of cloth face masks in the general population, neither as personal protective equipment nor as a source control.
+
+    - quotes
+      !a
+      !b
+
+    quote !a = Some recent studies argued that cloth face masks are indeed effective against the new coronavirus and could at least prevent the infection of other people. However, most of these studies suffer from poor methodology and sometimes show the opposite of what they claim to show.
+
+    quote !b = A German study claimed that the introduction of mandatory face masks in German cities had led to a decrease in infections. But the data does not support this claim: in some cities there was no change, in others a decrease, in others an increase in infections (see graph below). The city of Jena was an ‘exception’ only because it simultaneously introduced the strictest quarantine rules in Germany, but the study did not mention this.
+
   // The Pfizer-BioNTech Vaccine Is Said to Be Powerfully Protective in Adolescents
   doi: https://www.nytimes.com/2021/03/31/health/pfizer-biontech-vaccine-adolescents.html
   ref 'Nytimes_et_al_03_31_2021

@@ -1,8 +1,9 @@
 
+@jeffmagee
 seo: #masks
 / Masking
 subject Masking
-  head = Mask effectiveness is highly dependent on the type of mask, the usage patterns of the wearer, and on each virus' transmissability. Their applicability in health care settings is unchallenged. The value of masking healthy individuals in community settings has been disputed, but there is growing direct and indirect evidence of benefit in a number of settings.
+  head = Mask effectiveness in preventing respiratory infection depends on the type of mask, the usage patterns of the wearer, and on each virus' transmissability. Their applicability in health care settings is unchallenged. The value of masking healthy individuals in community settings remains disputed, both in the scientific community and in public discourse.
 
   < See also
     Timeline.Response.WHOMaskingGuidelines
@@ -79,10 +80,16 @@ subject Masking
       'Seto_et_al_2003.!c
       'Seto_et_al_2003.!d
 
-  claim !IndirectCommunityEvidence = There is some indirect evidence that masking in community settings can be beneficial. One study into public regional data of SARS-CoV-2 infections in Germany concluded that face mask adoption reduced the daily growth rate of infections by around 47%.
+  dispute !IndirectCommunityEvidence = Some researchers have proposed indirect evidence that masking in community settings may be beneficial. One study into public regional data of SARS-CoV-2 infections in Germany concluded that face mask adoption reduced the daily growth rate of infections by around 47%. However, this conclusion has been disputed.
     -
       'Mitze_et_al_12_3_2020
       'Mitze_et_al_12_3_2020.!a
+    -
+      'Swiss_Policy_Research_03_21_2021
+      'Swiss_Policy_Research_03_21_2021.!a
+      'Swiss_Policy_Research_03_21_2021.!b
+
+
 
   claim !ExpertOpinionForHCW = The opinions expressed in relevant research have been consistently supportive of mask usage for the protection of health care workers, regardless of the availability of direct evidence for COVID-19.
     -
@@ -145,7 +152,11 @@ subject Masking
       -
         'MacIntyre_et_al_04_21_2020.!d
 
-  claim !COVID-19_Review = During the COVID-19 pandemic, at least 5 groups of researchers performed rapid literature reviews on the effectiveness of masks for respiratory viruses generally, to assess applicability to SARS-CoV-2. They generally supported the use of masks in health care settings. They generally found insufficient evidence to support community masking for protection in COVID-19, though one group was optimistic.
+  claim !COVID-19_Review = During the COVID-19 pandemic, at least 6 groups of researchers performed rapid literature reviews on the effectiveness of masks for respiratory viruses generally, to assess applicability to SARS-CoV-2. They generally supported the use of masks in health care settings. They generally found insufficient evidence to support community masking for protection in COVID-19, though one group was optimistic.
+    -
+      'Saijonkari_et_al_12_18_2020
+      'Saijonkari_et_al_12_18_2020.!a
+      'Saijonkari_et_al_12_18_2020.!b
     -
       'Sommerstein_et_al_07_06_2020
       'Sommerstein_et_al_07_06_2020.!e

@@ -1,6 +1,7 @@
 feed December2020
 
   -
+    'Saijonkari_et_al_12_18_2020
     'Katz_et_al_12_04_2020
     'Hou_et_al_12_18_2020
     'Weissman_et_al_12_01_2020
@@ -14,6 +15,20 @@ feed December2020
 
 
   #
+
+  // Face masks for preventing respiratory infections in the community: A systematic review
+  doi: 10.1101/2020.12.16.20248316v1
+  ref 'Saijonkari_et_al_12_18_2020
+    head = The Ministry of Social Affairs and Health in Finland commissioned this systematic literature review on the effectiveness and safety of using face masks in public environments in protecting against upper respiratory tract infections, to inform policy. Our review includes controlled trials or previous systematic reviews of mask use by the general public in public spaces, outside homes and healthcare facilities.
+
+    - quotes
+      !a
+      !b
+
+    quote !a = Use of masks prevented infections in one subgroup of one pilot study, so the effect of face masks on the transmission of infections outside the home appears small or nonexistent. Five of the eight systematic reviews showed no evidence of face masks being helpful in controlling the spread of respiratory infection or preventing exposure in healthy individuals.
+
+    quote !b = Randomized studies on the effect of face coverings in the general population are few. The reported effect of masks used outside the home on transmission of droplet-mediated respiratory infections in the population is minimal or non-existent.
+
 
   // A Booster Dose Enhances Immunogenicity of the COVID-19 Vaccine Candidate ChAdOx1 nCoV-19 in Aged Mice
   doi: https://doi.org/10.1016/j.medj.2020.12.006
@@ -34,7 +49,7 @@ feed December2020
 
     / December, 2020 - Med
     quote !a =  A single dose of this vaccine generated a similar type of immune response in aged mice but of a reduced magnitude than in younger mice. We report that a second dose enhances the immune response to this vaccine in aged mice.
-    
+
 
   // Increased risk for COVID-19 in patients with vitamin D deficiency
   doi: https://www.sciencedirect.com/science/article/pii/S0899900720303890

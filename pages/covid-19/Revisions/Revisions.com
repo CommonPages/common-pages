@@ -3,12 +3,27 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *April_6 mean April_6
   let *March_31 mean March_31
   let *March_17 mean March_17
-  let *March_1 mean March_01
+  let *masking mean Prevention.Masking
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *March_31, *March_17 and *March_1). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_6, *March_31 and *March_17). You can *contribute by sending corrections and responding to open questions.
 
+  public: April-6-2021
+  / April 6, 2021
+  revision April_6
+    head = We have updated the *masking section to include criticisms of the December study from Germany supporting masking in community settings. We've also referenced a systematic review from Finland which asserts that “the effect of face masks on the transmission of infections outside the home appears small or nonexistent.”
+
+    -
+      Prevention.Masking.!IndirectCommunityEvidence
+      'Swiss_Policy_Research_03_21_2021.!a
+      'Swiss_Policy_Research_03_21_2021.!b
+    -
+      Prevention.Masking.!COVID-19_Review
+      'Saijonkari_et_al_12_18_2020
+      'Saijonkari_et_al_12_18_2020.!a
+      'Saijonkari_et_al_12_18_2020.!b
 
   public: March-31-2021
   / March 31, 2021
