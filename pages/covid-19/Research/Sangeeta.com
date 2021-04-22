@@ -1,19 +1,6 @@
 feed Sangeeta
   #
 
-
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
-
-    - quotes
-      !a
-
-    / March, 2021 - JAMA Netw Open.
-    quote !a =
-
   #
 
   #
@@ -25,8 +12,11 @@ feed Sangeeta
     - quotes
       !a
 
-    / March, 2021 - JAMA Netw Open.
+    / April, 2021 - JAMA Netw Open.
     quote !a =
+
+
+  #
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -37,55 +27,1506 @@ feed Sangeeta
     - quotes
       !a
 
-    / March, 2021 - JAMA Netw Open.
+    / April, 2021 - JAMA Netw Open.
     quote !a =
 
+
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Safety and Efficacy of Single-Dose Ad26.COV2.S Vaccine against Covid-19
+  doi: https://doi.org/10.1056/NEJMoa2101544
+  ref 'Sadoff_et_al_04_21_2021
+    head = In an international, randomized, double-blind, placebo-controlled, phase 3 trial, we randomly assigned adult participants in a 1:1 ratio to receive a single dose of Ad26.COV2.S (5×1010 viral particles) or placebo.
+
+    > Background
+      The Ad26.COV2.S vaccine is a recombinant, replication-incompetent human adenovirus type 26 vector encoding full-length severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein in a prefusion-stabilized conformation.
+
+    > Methods
+      In an international, randomized, double-blind, placebo-controlled, phase 3 trial, we randomly assigned adult participants in a 1:1 ratio to receive a single dose of Ad26.COV2.S (5×1010 viral particles) or placebo. The primary end points were vaccine efficacy against moderate to severe–critical coronavirus disease 2019 (Covid-19) with an onset at least 14 days and at least 28 days after administration among participants in the per-protocol population who had tested negative for SARS-CoV-2. Safety was also assessed.
+
+    > Results
+      The per-protocol population included 19,630 SARS-CoV-2–negative participants who received Ad26.COV2.S and 19,691 who received placebo. Ad26.COV2.S protected against moderate to severe–critical Covid-19 with onset at least 14 days after administration (116 cases in the vaccine group vs. 348 in the placebo group; efficacy, 66.9%; adjusted 95% confidence interval [CI], 59.0 to 73.4) and at least 28 days after administration (66 vs. 193 cases; efficacy, 66.1%; adjusted 95% CI, 55.0 to 74.8). Vaccine efficacy was higher against severe–critical Covid-19 (76.7% [adjusted 95% CI, 54.6 to 89.1] for onset at ≥14 days and 85.4% [adjusted 95% CI, 54.2 to 96.9] for onset at ≥28 days). Despite 86 of 91 cases (94.5%) in South Africa with sequenced virus having the 20H/501Y.V2 variant, vaccine efficacy was 52.0% and 64.0% against moderate to severe–critical Covid-19 with onset at least 14 days and at least 28 days after administration, respectively, and efficacy against severe–critical Covid-19 was 73.1% and 81.7%, respectively. Reactogenicity was higher with Ad26.COV2.S than with placebo but was generally mild to moderate and transient. The incidence of serious adverse events was balanced between the two groups. Three deaths occurred in the vaccine group (none were Covid-19–related), and 16 in the placebo group (5 were Covid-19–related).
+
+    > Conclusions
+      A single dose of Ad26.COV2.S protected against symptomatic Covid-19 and asymptomatic SARS-CoV-2 infection and was effective against severe–critical disease, including hospitalization and death. Safety appeared to be similar to that in other phase 3 trials of Covid-19 vaccines. (Funded by Janssen Research and Development and others; ENSEMBLE ClinicalTrials.gov number, NCT04505722. opens in new tab.)
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = A single dose of Ad26.COV2.S protected against symptomatic Covid-19 and was particularly efficacious against severe–critical disease (including hospitalization and death), including in countries where variants that are considered to be relatively resistant to antibody neutralization predominate. Safety appeared to be similar to that seen in previous phase 3 trials of Covid-19 vaccines. The single-dose schedule and favorable storage conditions of this vaccine provide major advantages in its deployment and effect worldwide.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = Higher efficacy against severe–critical Covid-19 was observed, with vaccine efficacy of 77% against disease with onset at least 14 days after administration and 85% against disease with onset at least 28 days after administration.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = Efficacy against moderate to severe–critical Covid-19 was 67% against disease with onset at least 14 days after administration and 66% against disease with onset 28 days after administration.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !d = Despite 86 of 91 cases (94.5%) in South Africa with sequenced virus having the 20H/501Y.V2 variant, vaccine efficacy was 52.0% and 64.0% against moderate to severe–critical Covid-19 with onset at least 14 days and at least 28 days after administration, respectively, and efficacy against severe–critical Covid-19 was 73.1% and 81.7%, respectively.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !e = A preliminary analysis indicated that Ad26.COV2.S provided at least 66% protection against serologically confirmed asymptomatic infection with SARS-CoV-2. The effect on the incidence of symptomatic and asymptomatic SARS-CoV-2 infection by the vaccine suggests that it might be useful in reducing community-wide transmission.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !f = Efficacy against symptomatic infection was similar among younger and older participants and among participants with coexisting conditions and those without coexisting conditions
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !g = Vaccine efficacy against hospitalization among vaccine recipients 60 years of age or older with coexisting conditions was 82%, a finding consistent with this result.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !h = Reactogenicity to Ad26.COV2.S was transient, was lower in older participants than in younger participants, and resolved quickly. Severe reactogenicity (grade ≥3) was uncommon, and serious adverse events were rare.
+
+    # / April, 2021 - The New England Journal of Medicine
+    # quote !h =  A key strength of this trial is that it showed vaccine efficacy in an ethnically and geographically diverse population, including participants in regions with emerging SARS-CoV-2 variants, as well as in participants with coexisting conditions that have been associated with an increased risk of severe Covid-19.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !i = Three deaths occurred in the vaccine group (none were Covid-19–related), and 16 in the placebo group
+
+
+
+
+  #
+  // A tandem-repeat dimeric RBD protein-based COVID-19 vaccine ZF2001 protects mice and nonhuman primates
+  doi: https://doi.org/10.1101/2021.03.11.434928
+  ref 'An_et_al_03_11_2021
+    head = We report here the preclinical development of a COVID-19 vaccine candidate, ZF2001, which contains tandem-repeat dimeric receptor-binding domain (RBD) protein with alum-based adjuvant. We assessed vaccine immunogenicity and efficacy in both mice and non-human primates (NHPs).
+
+    > Abstract
+      A safe, efficacious and deployable vaccine is urgently needed to control COVID-19 pandemic. We report here the preclinical development of a COVID-19 vaccine candidate, ZF2001, which contains tandem-repeat dimeric receptor-binding domain (RBD) protein with alum-based adjuvant. We assessed vaccine immunogenicity and efficacy in both mice and non-human primates (NHPs). ZF2001 induced high levels of RBD-binding and SARS-CoV-2 neutralizing antibody in both mice and NHPs, and also elicited balanced TH1/TH2 cellular responses in NHPs. Two doses of ZF2001 protected Ad-hACE2-transduced mice against SARS-CoV-2 infection, as detected by reduced viral RNA and relieved lung injuries. In NHPs, vaccination of either 25 μg or 50 μg ZF2001 prevented infection with SARS-CoV-2 in lung, trachea and bronchi, with milder lung lesions. No evidence of disease enhancement is observed in both models. ZF2001 is being evaluated in the ongoing international multi-center Phase 3 trials (NCT04646590) and has been approved for emergency use in Uzbekistan.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / March, 2021 - bioRxiv
+    quote !a = ZF2001 induced high levels of RBD-binding and SARS-CoV-2 neutralizing antibody in both mice and NHPs, and also elicited balanced TH1/TH2 cellular responses in NHPs
+
+    / March, 2021 - bioRxiv
+    quote !b = Two doses of ZF2001 protected Ad-hACE2-transduced mice against SARS-CoV-2 infection, as detected by reduced viral RNA and relieved lung injuries. In NHPs, vaccination of either 25 μg or 50 μg ZF2001 prevented infection with SARS-CoV-2 in lung, trachea and bronchi, with milder lung lesions.
+
+    / March, 2021 - bioRxiv
+    quote !c = No evidence of disease enhancement is observed in both models.
+
+    / March, 2021 - bioRxiv
+    quote !d = In NHPs models, the higher vaccine dose (50 μg) did not show a superior immune response or better protection compared to the lower vaccine dose (25 μg). We speculate that 25 μg dose has already reached or is near to a saturated dosage to stimulate immune system. Larger dose may not further increase the immunogenicity. On the contrary, sometimes larger dose may decrease the protection as reported for an adenovirus-based vaccine AZD1222. The similar immunological trend was also observed in Phase 1 and 2 clinical trials.
+
+    / March, 2021 - bioRxiv
+    quote !e = This preclinical results in NHPs support the use of 25 μg vaccine dose to an ongoing Phase 3 large scale evaluation for safety and efficacy.
+
+    / March, 2021 - bioRxiv
+    quote !f = Preclinical results suggest that ZF2001 vaccine with different vaccine target, different adjuvant and different mechanism of action would diversify the current vaccine pipelines.
+
+
+  #
+  // SARS-CoV-2 Reinfection in a Liver Transplant Recipient
+  doi: https://doi.org/10.7326/L21-0108
+  ref 'Tomkins-Tinch_et_al_04_20_2021
+    head = We present a case of a liver transplant recipient with 2 distinct SARS-CoV-2 infections, separated by 111 days without symptoms and 2 negative test results for SARS-CoV-2 infection. The patient is a 61-year-old man who has a history of liver transplant due to chronic hepatitis B and C virus infections and is receiving maintenance immunosuppression with tacrolimus and mycophenolate mofetil.
+
+    - quotes
+      !a
+      !b
+
+    / April, 2021 - Annals of Internal Medicine
+    quote !a = Three lines of genomic evidence support reinfection rather than recrudescence: placement of the 2 infections on distant parts of the phylogenetic tree such that the second infection does not seem to be descended from the first, a preponderance of substitutions in the SARS-CoV-2 genomes relative to the number expected given the published substitution rate of the virus, and apparent reversions to the ancestral allele among several of these substitutions. Of note, the substitutions seen in the later time points were present before the selective pressure imposed by administration of remdesivir and convalescent plasma. Taken together with the clinical history, the genomic data are consistent with the second symptomatic period being the result of reinfection.
+
+    / April, 2021 - Annals of Internal Medicine
+    quote !b = An antibody response after the first infection was not detected, which we speculate contributed to the patient's susceptibility to repeated infection
+
+
+
+
+  #
+  // Response to first vaccination against SARS-CoV-2 in patients with multiple myeloma
+  doi: https://doi.org/10.1016/S2352-3026(21)00110-1
+  ref 'Bird_et_al_04_19_2021
+    head = In the UK, both Pfizer and AstraZeneca vaccines have been used with spacing of 12 weeks between the first and second doses. We retrospectively assessed serological response following the first SARS-CoV-2 vaccine dose in patients with multiple myeloma in our centre. Clinical characteristics of the 93 patients included.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / April, 2021 - The Lancet Haematology
+    quote !a = We found anti-SARS-CoV-2 IgG in 56% (95% CI 46–66) of patients after their first vaccination, which rises to 70% (95% CI 61–79) when measuring Total antibody.
+
+    / April, 2021 - The Lancet Haematology
+    quote !b = We found the same seropositive rates reported in trials when testing hospital staff with the same test as used in the patients with multiple myeloma (177 staff were tested post-vaccination, showing a SARS-CoV-2 IgG positive rate of 99% [175 of 177]). However, the IgG response rates seen in our patients are higher than that reported by Monin-Aldama and colleagues in patients with cancer, although different laboratory tests and patient populations might have contributed to this difference.
+
+    / April, 2021 - The Lancet Haematology
+    quote !c = We find no difference between the Pfizer and AstraZeneca vaccines, supporting the current advice for patients with multiple myeloma to receive whichever is available.
+
+    / April, 2021 - The Lancet Haematology
+    quote !d = Our data suggest lower positive antibody rates in patients with active multiple myeloma, patients with immunoparesis, and patients on any treatment.
+
+    / April, 2021 - The Lancet Haematology
+    quote !e = We advised patients to avoid vaccination on a day they were receiving anti-myeloma therapy except immunomodulatory agents. Omission of therapy pre-vaccination and post-vaccination should be balanced against the risk of disease relapse, so this decision making will need to be individualised.
+
+    / April, 2021 - The Lancet Haematology
+    quote !f = Our data suggest that most patients with multiple myeloma are likely to have some protection after one vaccination, which might improve after second vaccination.
+
+
+
+
+
+  #
+  // SPUTNIK V DEMONSTRATES 97.6% EFFICACY ACCORDING TO ANALYSIS OF DATA FROM 3.8 MILLION VACCINATED PERSONS IN RUSSIA MAKING IT THE MOST EFFICIENT COVID-19 VACCINE IN THE WORLD
+  doi: https://sputnikvaccine.com/newsroom/pressreleases/sputnik-v-demonstrates-97-6-efficacy-according-to-the-analysis-of-data-of-3-8-million-vaccinated-per/
+  ref 'SputnikV_et_al_04_19_2021
+    head = The Gamaleya National Research Center of Epidemiology and Microbiology of the Ministry of Health of the Russian Federation and the Russian Direct Investment Fund (RDIF, Russia’s sovereign wealth fund) today announced that the Sputnik V vaccine demonstrated efficacy of 97.6%, based on the analysis of data on the infection rate of coronavirus among those in Russia vaccinated with both components of Sputnik V.
+
+    - quotes
+      !a
+      !b
+
+    / April, 2021 - The Gamaleya National Research Center of Epidemiology and Microbiology
+    quote !a = Alexander Gintsburg, Director of the Gamaleya Research Institute of Epidemiology and Microbiology: “The actual efficacy of the Sputnik V vaccine may be even higher than the results of our analysis demonstrate, since the data on the case registration system allows a time lag between the collection of the sample (the actual date of the disease) and the diagnosis. Sputnik V has once again confirmed its high effectiveness in the prevention of coronavirus infection.”
+
+    / April, 2021 - The Gamaleya National Research Center of Epidemiology and Microbiology
+    quote !b = Kirill Dmitriev, CEO of the Russian Direct Investment Fund, commented: Data published by the leading medical journal The Lancet demonstrated efficacy of Sputnik V at 91.6%. The analysis of infection rate data of almost 4 million vaccinated people in Russia shows that efficacy of the vaccine is even higher, reaching 97.6%. This data confirms that Sputnik V demonstrates one of the best protection rates against coronavirus among all vaccines.
+
+
+
+  #
+  // COVID-19 dynamics after a national immunization program in Israel
+  doi: https://doi.org/10.1038/s41591-021-01337-2
+  ref 'Rossman_et_al_04_19_2021
+    head = We conducted a retrospective analysis of data from the Israeli Ministry of Health collected between 28 August 2020 and 24 February 2021. We studied the temporal dynamics of the number of new COVID-19 cases and hospitalizations after the vaccination campaign, which was initiated on 20 December 2020.
+
+    > Abstract
+      Studies on the real-life effect of the BNT162b2 vaccine for Coronavirus Disease 2019 (COVID-19) prevention are urgently needed. In this study, we conducted a retrospective analysis of data from the Israeli Ministry of Health collected between 28 August 2020 and 24 February 2021. We studied the temporal dynamics of the number of new COVID-19 cases and hospitalizations after the vaccination campaign, which was initiated on 20 December 2020. To distinguish the possible effects of the vaccination on cases and hospitalizations from other factors, including a third lockdown implemented on 8 January 2021, we performed several comparisons: (1) individuals aged 60 years and older prioritized to receive the vaccine first versus younger age groups; (2) the January lockdown versus the September lockdown; and (3) early-vaccinated versus late-vaccinated cities. A larger and earlier decrease in COVID-19 cases and hospitalization was observed in individuals older than 60 years, followed by younger age groups, by the order of vaccination prioritization. This pattern was not observed in the previous lockdown and was more pronounced in early-vaccinated cities. Our analysis demonstrates the real-life effect of a national vaccination campaign on the pandemic dynamics.
+
+
+    - quotes
+      !a
+      !b
+
+    / April, 2021 - Nature Medicine
+    quote !a = A larger and earlier decrease in COVID-19 cases and hospitalization was observed in individuals older than 60 years, followed by younger age groups, by the order of vaccination prioritization. This pattern was not observed in the previous lockdown and was more pronounced in early-vaccinated cities.
+
+    / April, 2021 - Nature Medicine
+    quote !b = Our analysis revealed that a little over 2 months after the initiation of the vaccination campaign, with 85% of individuals older than 60 years already vaccinated with two doses (24 February 2021), there was an approximately 77% drop in cases, a 45% drop in positive test percentage, a 68% drop in hospitalizations and a 67% drop in severe hospitalizations compared to peak values.
+
+
+
+  #
+  // COVID-19 Vaccine Janssen: EMA finds possible link to very rare cases of unusual blood clots with low blood platelets
+  doi: https://www.ema.europa.eu/en/news/covid-19-vaccine-janssen-ema-finds-possible-link-very-rare-cases-unusual-blood-clots-low-blood
+  ref 'EMA_et_al_04_20_2021
+    head = At its meeting of 20 April 2021, EMA’s safety committee (PRAC) concluded that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. PRAC also concluded that these events should be listed as very rare side effects of the vaccine. In reaching its conclusion, the Committee took into consideration all currently available evidence including eight reports from the United States of serious cases of unusual blood clots associated with low levels of blood platelets, one of which had a fatal outcome. As of 13 April 2021, over 7 million people had received Janssen’s vaccine in the United States.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+
+    / April, 2021 - EMA
+    quote !a = MA has reviewed eight cases of thrombosis in combination with thrombocytopenia in people who received Janssen’s COVID-19 vaccine in the United States. PRAC noted that the blood clots occurred mostly at unusual sites such as in veins in the brain (cerebral venous sinus thrombosis, CVST) and the abdomen (splanchnic vein thrombosis) and in arteries, together with low levels of blood platelets and sometimes bleeding. The cases reviewed were very similar to the cases that occurred with the COVID-19 vaccine developed by AstraZeneca, Vaxzevria.
+
+
+    / April, 2021 - EMA
+    quote !b = COVID-19 is associated with a risk of hospitalisation and death. The reported combination of blood clots and low blood platelets is very rare, and the overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects.
+
+    / April, 2021 - EMA
+    quote !c = All cases occurred in people under 60 years of age within three weeks after vaccination, the majority in women. Based on the currently available evidence, specific risk factors have not been confirmed.
+
+    / April, 2021 - EMA
+    quote !d = Healthcare professionals and people who will receive the vaccine should be aware of the possibility of very rare cases of blood clots combined with low levels of blood platelets occurring within three weeks of vaccination.
+
+    / April, 2021 - EMA
+    quote !e = One plausible explanation for the combination of blood clots and low blood platelets is an immune response, leading to a condition similar to one seen sometimes in patients treated with heparin called heparin induced thrombocytopenia, HIT. At this time, the pathophysiological mechanism has not been established, and it is currently not possible to identify specific risk factors.
+
+    / April, 2021 - EMA
+    quote !f = Healthcare professionals should tell people receiving the vaccine that they must seek medical attention if they develop: symptoms of blood clots such as shortness of breath, chest pain, leg swelling, persistent abdominal pain neurological symptoms such as severe and persistent headaches and blurred vision, tiny blood spots under the skin beyond the site of the injection.
+
+
+
+
+
+
+
+  #
+  // Towards Understanding ChAdOx1 nCov-19 Vaccine-induced Immune Thrombotic Thrombocytopenia (VITT)
+  doi: https://doi.org/10.21203/rs.3.rs-440461/v1
+  ref 'Greinacher_et_al_04_20_2021
+    head = We investigated vaccine, PF4, and VITT patient-derived anti-PF4 antibody interactions using dynamic light scattering, 3D-super-resolution microscopy, and electron microscopy.
+
+    > Background
+      SARS-CoV-2 vaccine ChAdOx1 nCov-19 rarely causes vaccine-induced immune thrombotic thrombocytopenia (VITT) that—like autoimmune heparin-induced thrombocytopenia—is mediated by platelet-activating anti-platelet factor 4 (PF4) antibodies.
+
+    > Methods
+      We investigated vaccine, PF4, and VITT patient-derived anti-PF4 antibody interactions using dynamic light scattering, 3D-super-resolution microscopy, and electron microscopy. Mass spectrometry was used to analyze vaccine composition. We investigated the mechanism for early post-vaccine inflammatory reactions as potential co-stimulant for anti-PF4 immune response. Finally, we evaluated VITT antibodies for inducing release of procoagulant DNA-containing neutrophil extracellular traps (NETs), and measured DNase activity in VITT patient serum.
+
+    > Results
+      Biophysical analyses showed formation of complexes between PF4 and vaccine constituents, including virus proteins that were recognized by VITT antibodies. EDTA, a vaccine constituent, increased microvascular leakage in mice allowing for circulation of virus- and virus-producing cell culture-derived proteins. Antibodies in normal sera cross-reacted with human proteins in the vaccine and likely contribute to commonly observed acute ChAdOx1 nCov-19 post-vaccination inflammatory reactions. Polyphosphates and DNA enhanced PF4-dependent platelet activation by VITT antibodies. In the presence of platelets, PF4 enhanced VITT antibody-driven procoagulant NETs formation, while DNase activity was reduced in VITT sera, with granulocyte-rich cerebral vein thrombosis observed in a VITT patient.
+
+    > Conclusions
+      ChAdOx1 nCoV-19 vaccine constituents (i) form antigenic complexes with PF4, (ii) EDTA increases microvascular permeability, and (iii) vaccine components cause acute inflammatory reactions. Antigen formation in a proinflammatory milieu offers an explanation for anti-PF4 antibody production. High-titer anti-PF4 antibodies activate platelets and induce neutrophil activation and NETs formation, fueling the VITT prothrombotic response.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / April, 2021 - Research Square
+    quote !a = ChAdOx1 nCoV-19 vaccine constituents (i) form antigenic complexes with PF4, (ii) EDTA increases microvascular permeability, and (iii) vaccine components cause acute inflammatory reactions. Antigen formation in a proinflammatory milieu offers an explanation for anti-PF4 antibody production. High-titer anti-PF4 antibodies activate platelets and induce neutrophil activation and NETs formation, fueling the VITT prothrombotic response.
+
+    / April, 2021 - Research Square
+    quote !b = Our study provides a mechanism by which an adenoviral vector vaccine can trigger an immune response leading to highly reactive anti-PF4 antibodies with downstream FcγIIa receptor-dependent amplification recruiting neutrophils and triggering NETosis with prothrombotic consequences.
+
+    / April, 2021 - Research Square
+    quote !c = Findings indicate it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. The degree of acute inflammatory response induced by the vaccine components appears as an important—potentially remediable—cofactor that could be diminished by reducing impurities and omitting EDTA.
+
+
+
+  #
+  // Distinct antibody and memory B cell responses in SARS-CoV-2 naïve and recovered individuals following mRNA vaccination
+  doi: https://doi.org/10.1126/sciimmunol.abi6950
+  ref 'Goel_et_al_04_15_2021
+    head = We interrogated antibody and antigen-specific memory B cells over time in 33 SARS-CoV-2 naïve and 11 SARS-CoV-2 recovered subjects.
+
+    > Abstract
+      Novel mRNA vaccines for SARS-CoV-2 have been authorized for emergency use. Despite their efficacy in clinical trials, data on mRNA vaccine-induced immune responses are mostly limited to serological analyses. Here, we interrogated antibody and antigen-specific memory B cells over time in 33 SARS-CoV-2 naïve and 11 SARS-CoV-2 recovered subjects. SARS-CoV-2 naïve individuals required both vaccine doses for optimal increases in antibodies, particularly for neutralizing titers against the B.1.351 variant. Memory B cells specific for full-length spike protein and the spike receptor binding domain (RBD) were also efficiently primed by mRNA vaccination and detectable in all SARS-CoV-2 naive subjects after the second vaccine dose, though the memory B cell response declined slightly with age. In SARS-CoV-2 recovered individuals, antibody and memory B cell responses were significantly boosted after the first vaccine dose; however, there was no increase in circulating antibodies, neutralizing titers, or antigen-specific memory B cells after the second dose. This robust boosting after the first vaccine dose strongly correlated with levels of pre-existing memory B cells in recovered individuals, identifying a key role for memory B cells in mounting recall responses to SARS-CoV-2 antigens. Together, our data demonstrated robust serological and cellular priming by mRNA vaccines and revealed distinct responses based on prior SARS-CoV-2 exposure, whereby COVID-19 recovered subjects may only require a single vaccine dose to achieve peak antibody and memory B cell responses. These findings also highlight the utility of defining cellular responses in addition to serologies and may inform SARS-CoV-2 vaccine distribution in a resource-limited setting.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / April, 2021 - Science Immunology
+    quote !a = We demonstrated that mRNA vaccines to SARS-CoV-2 induced robust antibody and memory B cell responses to full-length spike and the RBD.
+
+    / April, 2021 - Science Immunology
+    quote !b = SARS-CoV-2 naïve individuals required both vaccine doses for optimal increases in antibodies, particularly for neutralizing titers against the B.1.351 variant.
+
+    / April, 2021 - Science Immunology
+    quote !c = Memory B cells specific for full-length spike protein and the spike receptor binding domain (RBD) were also efficiently primed by mRNA vaccination and detectable in all SARS-CoV-2 naive subjects after the second vaccine dose, though the memory B cell response declined slightly with age.
+
+    / April, 2021 - Science Immunology
+    quote !d = In SARS-CoV-2 recovered individuals, antibody and memory B cell responses were significantly boosted after the first vaccine dose; however, there was no increase in circulating antibodies, neutralizing titers, or antigen-specific memory B cells after the second dose. This robust boosting after the first vaccine dose strongly correlated with levels of pre-existing memory B cells in recovered individuals, identifying a key role for memory B cells in mounting recall responses to SARS-CoV-2 antigens.
+
+    / April, 2021 - Science Immunology
+    quote !e = Our data demonstrated robust serological and cellular priming by mRNA vaccines and revealed distinct responses based on prior SARS-CoV-2 exposure, whereby COVID-19 recovered subjects may only require a single vaccine dose to achieve peak antibody and memory B cell responses.
+
+    # / April, 2021 - Science Immunology
+    # quote !f = Our analysis of antibodies and cellular memory reveals distinct responses to SARS-CoV-2 mRNA vaccines based on prior history of infection. The addition of memory B cells in this analysis, both in terms of frequency and phenotype, provides complemenary data that strengthens current serology-based evidence for a single-dose vaccine schedule in COVID-19 recovered individuals.
+
+    / April, 2021 - Science Immunology
+    quote !f = We also find associations of vacccine-induced immune responses with age and side effects, which may have relevance for future booster vaccines and public health campaigns.
+
+
+  #
+  // Anti-SARS-CoV-2 Spike Protein and Anti-Platelet Factor 4 Antibody Responses Induced by COVID-19 Disease and ChAdOx1 nCov-19 vaccination
+  doi: https://doi.org/10.21203/rs.3.rs-404769/v1
+  ref 'Greinacher_et_al_2021
+    head = Sera from 222 PCR-confirmed Covid-19 patients from five European centers were tested by PF4/heparin ELISA, heparin-dependent and PF4-dependent platelet activation assays. Immunogenic reactivity of purified anti-PF4 and anti-PF4/heparin antibodies from patients with VITT were tested against recombinant SARS-CoV-2 spike protein.
+
+    > Background
+      Some recipients of ChAdOx1 nCoV-19 COVID-19 Vaccine AstraZeneca develop antibody-mediated vaccine-induced thrombotic thrombocytopenia (VITT), associated with cerebral venous and other unusual thrombosis resembling autoimmune heparin-induced thrombocytopenia. A prothrombotic predisposition is also observed in Covid-19. We explored whether antibodies against the SARS-CoV-2 spike protein induced by Covid-19 cross-react with platelet factor 4 (PF4/CXLC4), the protein targeted in both VITT and autoimmune heparin-induced thrombocytopenia.
+
+    > Methods
+      Immunogenic epitopes of PF4 and SARS-CoV-2 spike protein were compared via prediction tools and 3D modelling software (IMED, SIM, MacMYPOL). Sera from 222 PCR-confirmed Covid-19 patients from five European centers were tested by PF4/heparin ELISA, heparin-dependent and PF4-dependent platelet activation assays. Immunogenic reactivity of purified anti-PF4 and anti-PF4/heparin antibodies from patients with VITT were tested against recombinant SARS-CoV-2 spike protein.
+
+    > Results
+      Three motifs within the spike protein sequence share a potential immunogenic epitope with PF4. Nineteen of 222 (8.6%) Covid-19 patient sera tested positive in the IgG-specific PF4/heparin ELISA, none of which showed platelet activation in the heparin-dependent activation assay, including 10 (4.5%) of the 222 Covid-19 patients who developed thromboembolic complications. Purified anti-PF4 and anti-PF4/heparin antibodies from two VITT patients did not show cross-reactivity to recombinant SARS-CoV-2 spike protein.
+
+    > Conclusions
+      The antibody responses to PF4 in SARS-CoV-2 infection and after vaccination with COVID-19 Vaccine AstraZeneca differ. Antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes through molecular mimicry. These findings make it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / April, 2021 - Research Square
+    quote !a = The antibody responses to PF4 in SARS-CoV-2 infection and after vaccination with COVID-19 Vaccine AstraZeneca differ. Antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes through molecular mimicry. These findings make it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT.
+
+    / April, 2021 - Research Square
+    quote !b = The results also make it unlikely that anti-SARS-CoV-2 spike protein antibodies are responsible for thrombotic complications in most Covid-19 patients.
+
+    / April, 2021 - Research Square
+    quote !c = Our study indicates there is no apparent need to change the SARS-CoV-2 antigen target for the vaccination strategy.
+
+
+
+
+  #
+  // Indoor Air Changes and Potential Implications for SARS-CoV-2 Transmission
+  doi: https://doi.org/10.1001/jama.2021.5053
+  ref 'Allen_et_al_04_16_2021
+    head = This article describes the rationale for limiting far-field airborne transmission of SARS-CoV-2 through increasing outdoor air ventilation and enhancing filtration, and provides suggested targets.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2021 - JAMA
+    quote !a = Increasing air changes per hour and air filtration is a simplified but important concept that could be deployed to help reduce risk from within-room, far-field airborne transmission of SARS-CoV-2 and other respiratory infectious diseases. Healthy building controls like higher ventilation and enhanced filtration are a fundamental, but often overlooked, part of risk reduction strategies that could have benefit beyond the current pandemic.
+
+    / April, 2021 - JAMA
+    quote !b = To reduce far-field airborne transmission of SARS-CoV-2 in small-volume indoor spaces (eg, classrooms, retail shops, homes if guests are visiting), the suggestions include targeting 4 to 6 air changes per hour, through any combination of the following: outdoor air ventilation; recirculated air that passes through a filter with at least a minimum efficiency rating value 13 (MERV 13) rating; or passage of air through portable air cleaners with HEPA (high-efficiency particulate air) filters.
+
+    / April, 2021 - JAMA
+    quote !c = The existing minimum standards for ACH vary based on building type. For example, according to ASHRAE, the predominant standard-setting organization for ventilation rates, the minimum required total ACH that occur in most households is 0.35 ACH of outdoor air, and schools should be designed for approximately 10 times higher rates, although most schools do not meet this in practice. The suggestion for increasing the target to 4 to 6 ACH is more consistent with rates set in hospitals, where the higher ACH requirements underscore the potential role of air change rates as an infection control strategy.
+
+    / April, 2021 - JAMA
+    quote !d = Despite the dose-response for SARS-CoV-2 being unknown, and continued scientific debate about the dominant mode of transmission, evidence support these suggestions. First, SARS-CoV-2 is primarily transmitted from the exhaled respiratory aerosols of infected individuals. Larger droplets (>100 μm) can settle out of the air due to gravitational forces within 6 feet, but people emit 100 times more smaller aerosols (<5 μm) during talking, breathing, and coughing. Smaller aerosols can stay aloft for 30 minutes to hours and travel well beyond 6 feet.1 Second, high-profile and well-described SARS-CoV-2 outbreaks across multiple space types (eg, restaurants, gyms, choir practice, schools, buses) share the common features of time indoors and low levels of ventilation, even when people remained physically distanced.
+
+    / April, 2021 - JAMA
+    quote !e = Higher ventilation and filtration rates more rapidly remove particles from indoor air, thereby reducing the intensity of exposure and duration that respiratory aerosols stay aloft inside a room. Fourth, this approach is consistent with what is used in hospitals to minimize risk of transmission. Fifth, reviews on the relationship between ventilation and infectious diseases found that the weight of evidence indicates ventilation plays a key role in infectious disease transmission, citing observational epidemiological studies showing low ventilation associated with transmission of measles, tuberculosis, rhinovirus, influenza, and SARS-CoV-1
+
+
+
+
+  #
+  // Thrombotic Thrombocytopenia after Ad26.COV2.S Vaccination — Response from the Manufacturer
+  doi: https://doi.org/10.1056/NEJMc2106075
+  ref 'Sadoff_et_al_04_16_2021
+    head = Manufacturers response to a case report by Muir et al that describes thrombosis, including cerebral venous sinus thrombosis (CVST), associated with severe thrombocytopenia and disseminated intravascular coagulation in a recipient of the Ad26.COV2.S vaccine (Johnson & Johnson/Janssen) against SARS-CoV-2.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = Among the more than 75,000 participants in the clinical trial program for our Janssen Ad26.COV2.S vaccine (of which approximately 50,000 received active vaccine), a single case of CVST with thrombocytopenia occurred in a vaccine recipient. We paused our program to review this case from our first phase 3 study; after consultation with external clinical experts, no clear causality was established, and the data and safety monitoring board agreed that we could restart the study. The vaccine recipient was subsequently found to have had antibodies against platelet factor 4 (PF4) at the time of the event, a finding similar to that in the case described by Muir and colleagues.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = As part of our postauthorization pharmacovigilance program, Janssen ongoing safety surveillance received reports of six cases of CVST with thrombocytopenia occurring 7 to 14 days after vaccination, including the case described by Muir et al. On April 13, 2021, in an abundance of caution, the Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC) recommended a pause in vaccination with Ad26.COV2.S in the United States to allow further study of the situation and to provide physicians. These cases were reported among more than 7.2 million persons who had been vaccinated with Ad26.COV2.S globally as of April 14, 2021. Thus, the reporting rate is less than 1 in 1,000,000 vaccinations, though it is possible that the cases are underreported.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = At this time, evidence is insufficient to establish a causal relationship between these events and the Ad26.COV2.S vaccine. CVST is a very rare health condition, and thus far, events reported in recipients of the Ad26.COV2.S vaccine are occurring within the range of published background incidence (0.2 to 1.57 per 100,000 person-years). It is important to note that the incidence of CVST associated with low platelets is unknown and is considered by the FDA and the CDC to be extremely low.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !d = Muir et al. suggested that coronavirus 2019 (Covid-19) vaccines using an adenoviral (Ad) vector platform may be related to the occurrence of thrombotic thrombocytopenia. Recent reports by Greinacher et al. and Schultz et al. concluded that vaccination with the ChAdOx1 nCoV-19 vaccine (Oxford–AstraZeneca) may lead to rare thrombotic thrombocytopenia. The vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !e = The Ad26.COV2.S vaccine uses a human Ad26–based vector, whereas the ChAdOx1 nCoV-19 vaccine uses a chimpanzee adenovirus–based vector. Ad26 is from Ad species D and can engage CD46 as its cellular receptor, whereas ChAdOx1 nCoV-19 is from Ad species E and uses the Coxsackie and adenovirus receptor (CAR) and possibly other molecules as its cellular receptors; these two vectors thus use different host cell receptors and are likely to have different phylogenetic and biologic characteristics.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !f = In addition, the Ad26.COV2.S vaccine transgene codes for a membrane-bound SARS-CoV-2 S protein (prefusion conformation–stabilized by two proline substitutions) that does not shed S1, most likely as a consequence of knocking out the furin cleavage site, which is different from the unmodified S protein encoded by the ChAdOx1 nCoV-19 vaccine. Therefore, these two adenoviral vector Covid-19 vaccines may have quite different biologic effects. More evidence is needed to clarify the observation of thrombotic thrombocytopenia in persons receiving a vaccine against Covid-19.
+
+
+
+  #
+  // Pathologic Antibodies to Platelet Factor 4 after ChAdOx1 nCoV-19 Vaccination
+  doi: https://doi.org/10.1056/NEJMoa2105385
+  ref 'Scully_et_al_04_16_2021
+    head = We report findings in 23 patients who presented with thrombosis and thrombocytopenia 6 to 24 days after receiving the first dose of the ChAdOx1 nCoV-19 vaccine (AstraZeneca).
+
+    > Background
+      The mainstay of control of the coronavirus disease 2019 (Covid-19) pandemic is vaccination against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Within a year, several vaccines have been developed and millions of doses delivered. Reporting of adverse events is a critical postmarketing activity.
+
+    > Methods
+      We report findings in 23 patients who presented with thrombosis and thrombocytopenia 6 to 24 days after receiving the first dose of the ChAdOx1 nCoV-19 vaccine (AstraZeneca). On the basis of their clinical and laboratory features, we identify a novel underlying mechanism and address the therapeutic implications.
+
+    > Results
+      In the absence of previous prothrombotic medical conditions, 22 patients presented with acute thrombocytopenia and thrombosis, primarily cerebral venous thrombosis, and 1 patient presented with isolated thrombocytopenia and a hemorrhagic phenotype. All the patients had low or normal fibrinogen levels and elevated d-dimer levels at presentation. No evidence of thrombophilia or causative precipitants was identified. Testing for antibodies to platelet factor 4 (PF4) was positive in 22 patients (with 1 equivocal result) and negative in 1 patient. On the basis of the pathophysiological features observed in these patients, we recommend that treatment with platelet transfusions be avoided because of the risk of progression in thrombotic symptoms and that the administration of a nonheparin anticoagulant agent and intravenous immune globulin be considered for the first occurrence of these symptoms.
+
+    > Conclusions
+      Vaccination against SARS-CoV-2 remains critical for control of the Covid-19 pandemic. A pathogenic PF4-dependent syndrome, unrelated to the use of heparin therapy, can occur after the administration of the ChAdOx1 nCoV-19 vaccine. Rapid identification of this rare syndrome is important because of the therapeutic implications.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = A pathogenic PF4-dependent syndrome, unrelated to the use of heparin therapy, can occur after the administration of the ChAdOx1 nCoV-19 vaccine. Rapid identification of this rare syndrome is important because of the therapeutic implications.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = We report the detection of anti-PF4 antibodies, unrelated to the use of heparin therapy, in a mostly young, generally healthy cohort of patients presenting with acute atypical thrombosis, primarily involving the cerebral veins, and concurrent thrombocytopenia.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = All the patients had low or normal fibrinogen levels and elevated d-dimer levels at presentation. No evidence of thrombophilia or causative precipitants was identified.
+
+    # / April, 2021 - The New England Journal of Medicine
+    # quote !a = Testing for antibodies to platelet factor 4 (PF4) was positive in 22 patients (with 1 equivocal result) and negative in 1 patient.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !d = On the basis of the pathophysiological features observed in these patients, we recommend that treatment with platelet transfusions be avoided because of the risk of progression in thrombotic symptoms and that the administration of a nonheparin anticoagulant agent (such as argatroban, danaparoid, fondaparinux, or direct oral anticoagulants) and intravenous immune globulin (IVIG) be considered for the first occurrence of these symptoms.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !e = The risk of thrombocytopenia and the risk of venous thromboembolism after vaccination against SARS-CoV-2 do not appear to be higher than the background risks in the general population, a finding consistent with the rare and sporadic nature of this syndrome.
+
+
+
+  #
+  // Alterations in T and B cell function persist in convalescent COVID-19 patients
+  doi: https://doi.org/10.1016/j.medj.2021.03.013
+  ref 'Shuwa_et_al_03_31_2021
+    head = We conducted an observational study examining lymphocyte populations in COVID-19 patients during hospitalization and at up to 6 months of convalescence.
+
+    > Background
+      Emerging studies indicate that some coronavirus disease 2019 (COVID-19) patients suffer from persistent symptoms, including breathlessness and chronic fatigue; however, the long-term immune response in these patients presently remains ill-defined.
+
+    > Methods
+      Here, we describe the phenotypic and functional characteristics of B and T cells in hospitalized COVID-19 patients during acute disease and at 3–6 months of convalescence.
+
+    > Findings
+      We report that the alterations in B cell subsets observed in acute COVID-19 patients were largely recovered in convalescent patients. In contrast, T cells from convalescent patients displayed continued alterations with persistence of a cytotoxic program evident in CD8+ T cells as well as elevated production of type 1 cytokines and interleukin-17 (IL-17). Interestingly, B cells from patients with acute COVID-19 displayed an IL-6/IL-10 cytokine imbalance in response to Toll-like receptor activation, skewed toward a pro-inflammatory phenotype. Whereas the frequency of IL-6+ B cells was restored in convalescent patients irrespective of clinical outcome, the recovery of IL-10+ B cells was associated with the resolution of lung pathology.
+
+    > Conclusions
+      Our data detail lymphocyte alterations in previously hospitalized COVID-19 patients up to 6 months following hospital discharge and identify 3 subgroups of convalescent patients based on distinct lymphocyte phenotypes, with 1 subgroup associated with poorer clinical outcome. We propose that alterations in B and T cell function following hospitalization with COVID-19 could affect longer-term immunity and contribute to some persistent symptoms observed in convalescent COVID-19 patients.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / March, 2021 - Med
+    quote !a = We report phenotypic and functional alterations to B and T cells across the trajectory of SARS-CoV-2 responses from acute disease requiring hospitalization into convalescence, identifying immune alterations that persist in convalescent COVID-19 patients for up to 6 months.
+
+    / March, 2021 - Med
+    quote !b = We identified a number of lymphocyte alterations that persisted in convalescent patients. Moreover, the compilation of lymphocyte parameters in convalescent COVID-19 patients identified 3 distinct patient subgroups, with 1 subgroup associated with poorer clinical outcome.
+
+    / March, 2021 - Med
+    quote !c = We propose that alterations in B and T cell function following hospitalization with COVID-19 could affect longer-term immunity and contribute to some persistent symptoms observed in convalescent COVID-19 patients.
+
+    / March, 2021 - Med
+    quote !d = We report that the alterations in B cell subsets observed in acute COVID-19 patients were largely recovered in convalescent patients. In contrast, T cells from convalescent patients displayed continued alterations with persistence of a cytotoxic program evident in CD8+ T cells as well as elevated production of type 1 cytokines and interleukin-17 (IL-17).
+
+    / March, 2021 - Med
+    quote !e = B cells from patients with acute COVID-19 displayed an IL-6/IL-10 cytokine imbalance in response to Toll-like receptor activation, skewed toward a pro-inflammatory phenotype. Whereas the frequency of IL-6+ B cells was restored in convalescent patients irrespective of clinical outcome, the recovery of IL-10+ B cells was associated with the resolution of lung pathology.
+
+
+
+    // Ten scientific reasons in support of airborne transmission of SARS-CoV-2.
+  doi: https://doi.org/10.1016/S0140-6736(21)00869-2
+  ref 'Greenhalgh_et_al_04_15_2021
+    head = Ten streams of evidence collectively support the hypothesis that SARS-CoV-2 is transmitted primarily by the airborne route.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+      !m
+      !n
+      !o
+      !p
+      !q
+
+    / April, 2021 - The Lancet
+    quote !a = We propose that it is a scientific error to use lack of direct evidence of SARS-CoV-2 in some air samples to cast doubt on airborne transmission while overlooking the quality and strength of the overall evidence base. There is consistent, strong evidence that SARS-CoV-2 spreads by airborne transmission. Although other routes can contribute, we believe that the airborne route is likely to be dominant.
+
+    / April, 2021 - The Lancet
+    quote !b = First, superspreading events account for substantial SARS-CoV-2 transmission; indeed, such events may be the pandemic's primary drivers. Detailed analyses of human behaviours and interactions, room sizes, ventilation, and other variables in choir concerts, cruise ships, slaughterhouses, care homes, and correctional facilities, among other settings, have shown patterns—eg, long-range transmission and overdispersion of the basic reproduction number (R0), discussed below—consistent with airborne spread of SARS-CoV-2 that cannot be adequately explained by droplets or fomites.6 The high incidence of such events strongly suggests the dominance of aerosol transmission.
+
+    / April, 2021 - The Lancet
+    quote !c = Second, long-range transmission of SARS-CoV-2 between people in adjacent rooms but never in each other's presence has been documented in quarantine hotels. Historically, it was possible to prove long-range transmission only in the complete absence of community transmission.
+
+    / April, 2021 - The Lancet
+    quote !d = Third, asymptomatic or presymptomatic transmission of SARS-CoV-2 from people who are not coughing or sneezing is likely to account for at least a third, and perhaps up to 59%, of all transmission globally and is a key way SARS-CoV-2 has spread around the world, supportive of a predominantly airborne mode of transmission.
+
+    / April, 2021 - The Lancet
+    quote !e = Direct measurements show that speaking produces thousands of aerosol particles and few large droplets, which supports the airborne route.
+
+    / April, 2021 - The Lancet
+    quote !f = Fourth, transmission of SARS-CoV-2 is higher indoors than outdoors and is substantially reduced by indoor ventilation. Both observations support a predominantly airborne route of transmission.
+
+    / April, 2021 - The Lancet
+    quote !g = Fifth, nosocomial infections have been documented in health-care organisations, where there have been strict contact-and-droplet precautions and use of personal protective equipment (PPE) designed to protect against droplet but not aerosol exposure.
+
+    / April, 2021 - The Lancet
+    quote !h = Sixth, viable SARS-CoV-2 has been detected in the air. In laboratory experiments, SARS-CoV-2 stayed infectious in the air for up to 3 h with a half-life of 1·1 h.12 Viable SARS-CoV-2 was identified in air samples from rooms occupied by COVID-19 patients in the absence of aerosol-generating health-care procedures and in air samples from an infected person's car. Although other studies have failed to capture viable SARS-CoV-2 in air samples, this is to be expected.
+
+    / April, 2021 - The Lancet
+    quote !i = Sampling of airborne virus is technically challenging for several reasons, including limited effectiveness of some sampling methods for collecting fine particles, viral dehydration during collection, viral damage due to impact forces (leading to loss of viability), reaerosolisation of virus during collection, and viral retention in the sampling equipment. Measles and tuberculosis, two primarily airborne diseases, have never been cultivated from room air.
+
+    / April, 2021 - The Lancet
+    quote !j = Seventh, SARS-CoV-2 has been identified in air filters and building ducts in hospitals with COVID-19 patients; such locations could be reached only by aerosols.
+
+    / April, 2021 - The Lancet
+    quote !k = Eighth, studies involving infected caged animals that were connected to separately caged uninfected animals via an air duct have shown transmission of SARS-CoV-2 that can be adequately explained only by aerosols.
+
+    / April, 2021 - The Lancet
+    quote !l = Ninth, no study to our knowledge has provided strong or consistent evidence to refute the hypothesis of airborne SARS-CoV-2 transmission. Some people have avoided SARS-CoV-2 infection when they have shared air with infected people, but this situation could be explained by a combination of factors, including variation in the amount of viral shedding between infectious individuals by several orders of magnitude and different environmental (especially ventilation) conditions.
+
+    / April, 2021 - The Lancet
+    quote !m = Wide variation in respiratory viral load of SARS-CoV-2 counters arguments that SARS-CoV-2 cannot be airborne because the virus has a lower R0 (estimated at around 2·5)21 than measles (estimated at around 15),22 especially since R0, which is an average, does not account for the fact that only a minority of infectious individuals shed high amounts of virus. Overdispersion of R0 is well documented in COVID-19.
+
+    / April, 2021 - The Lancet
+    quote !n = Tenth, there is limited evidence to support other dominant routes of transmission—ie, respiratory droplet or fomite.
+
+    / April, 2021 - The Lancet
+    quote !o = Ease of infection between people in close proximity to each other has been cited as proof of respiratory droplet transmission of SARS-CoV-2. However, close-proximity transmission in most cases along with distant infection for a few when sharing air is more likely to be explained by dilution of exhaled aerosols with distance from an infected person.
+
+    / April, 2021 - The Lancet
+    quote !p = The flawed assumption that transmission through close proximity implies large respiratory droplets or fomites was historically used for decades to deny the airborne transmission of tuberculosis and measles. This became medical dogma, ignoring direct measurements of aerosols and droplets which reveal flaws such as the overwhelming number of aerosols produced in respiratory activities and the arbitrary boundary in particle size of 5 μm between aerosols and droplets, instead of the correct boundary of 100 μm.
+
+    / April, 2021 - The Lancet
+    quote !q = It is sometimes argued that since respiratory droplets are larger than aerosols, they must contain more viruses. However, in diseases where pathogen concentrations have been quantified by particle size, smaller aerosols showed higher pathogen concentrations than droplets when both were measured.
+
+
+
+  #
+  // BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Mass Vaccination Setting
+  doi: https://doi.org/10.1056/NEJMoa2101765
+  ref 'Dagan_et_al_04_15_2021
+    head = In this study, data from Israel’s largest health care organization were used to evaluate the effectiveness of the BNT162b2 mRNA vaccine.
+
+    > Background
+      As mass vaccination campaigns against coronavirus disease 2019 (Covid-19) commence worldwide, vaccine effectiveness needs to be assessed for a range of outcomes across diverse populations in a noncontrolled setting. In this study, data from Israel’s largest health care organization were used to evaluate the effectiveness of the BNT162b2 mRNA vaccine.
+
+    > Methods
+      All persons who were newly vaccinated during the period from December 20, 2020, to February 1, 2021, were matched to unvaccinated controls in a 1:1 ratio according to demographic and clinical characteristics. Study outcomes included documented infection with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), symptomatic Covid-19, Covid-19–related hospitalization, severe illness, and death. We estimated vaccine effectiveness for each outcome as one minus the risk ratio, using the Kaplan–Meier estimator.
+
+    > Results
+      Each study group included 596,618 persons. Estimated vaccine effectiveness for the study outcomes at days 14 through 20 after the first dose and at 7 or more days after the second dose was as follows: for documented infection, 46% (95% confidence interval [CI], 40 to 51) and 92% (95% CI, 88 to 95); for symptomatic Covid-19, 57% (95% CI, 50 to 63) and 94% (95% CI, 87 to 98); for hospitalization, 74% (95% CI, 56 to 86) and 87% (95% CI, 55 to 100); and for severe disease, 62% (95% CI, 39 to 80) and 92% (95% CI, 75 to 100), respectively. Estimated effectiveness in preventing death from Covid-19 was 72% (95% CI, 19 to 100) for days 14 through 20 after the first dose. Estimated effectiveness in specific subpopulations assessed for documented infection and symptomatic Covid-19 was consistent across age groups, with potentially slightly lower effectiveness in persons with multiple coexisting conditions.
+
+    > Conclusions
+      This study in a nationwide mass vaccination setting suggests that the BNT162b2 mRNA vaccine is effective for a wide range of Covid-19–related outcomes, a finding consistent with that of the randomized trial.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = This study in a nationwide mass vaccination setting suggests that the BNT162b2 mRNA vaccine is effective for a wide range of Covid-19–related outcomes, a finding consistent with that of the randomized trial.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = Estimated vaccine effectiveness for the study outcomes at days 14 through 20 after the first dose and at 7 or more days after the second dose was as follows: for documented infection, 46% and 92%; for symptomatic Covid-19, 57% and 94%; for hospitalization, 74% and 87%; and for severe disease, 62% and 92%, respectively.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = Estimated effectiveness in preventing death from Covid-19 was 72% for days 14 through 20 after the first dose.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !d = Estimated effectiveness in specific subpopulations assessed for documented infection and symptomatic Covid-19 was consistent across age groups, with potentially slightly lower effectiveness in persons with multiple coexisting conditions.
+
+
+
+  #
+  // Single Vaccination with BNT162b2 or ChAdOx1 in Older People Induces Equivalent Antibody Generation but Enhanced Cellular Responses after ChAdOx1
+  doi: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3825573
+  ref 'Parry_et_al_04_13_2021
+    head = We recruited 165 participants aged 80+ years who had received a single dose of either BNT162b2 mRNA or ChAdOx1 adenovirus vaccine and studied adaptive immune responses after 5 weeks.
+
+    > Background
+      Extended-interval Covid vaccination regimens are now used widely in order to accelerate population coverage but the relative immunogenicity of different vaccines in older people remains uncertain.
+
+    > Methods
+      We recruited 165 participants aged 80+ years who had received a single dose of either BNT162b2 mRNA or ChAdOx1 adenovirus vaccine and studied adaptive immune responses after 5 weeks.
+
+    > Findings
+      Antibody responses against spike protein were detectable in 93% and 87% of mRNA or ChAdOx1 recipients respectively with median antibody titres of 19.3 and 19.6 U/ml (p=0.41). Spike-specific T cell responses were observed in 12% and 31% of mRNA and ChAdOx1 recipients respectively and median responses were 3-fold higher in ChAdOx1 vaccinees at 2 vs 6 spots/million respectively (p=<0.0001). Humoral and cellular immune responses against spike were correlated in both cohorts. Evidence of previous natural infection was seen in 8 donors and associated with 691-fold and 4-fold increase in humoral and cellular immune responses across the whole cohort.
+
+    > Interpretation
+      Single doses of either the BNT162b2 or ChAdOx1vaccine in older people thus induce humoral immunity in most donors and are markedly enhanced by previous infection. Cellular responses are weaker but show relative enhancement after the ChAdOx1 platform.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - SSRN
+    quote !a = Single doses of either the BNT162b2 or ChAdOx1vaccine in older people thus induce humoral immunity in most donors and are markedly enhanced by previous infection. Cellular responses are weaker but show relative enhancement after the ChAdOx1 platform.
+
+    / April, 2021 - SSRN
+    quote !b = Antibody responses against spike protein were detectable in 93% and 87% of mRNA or ChAdOx1 recipients respectively with median antibody titres of 19.3 and 19.6 U/ml.
+
+    / April, 2021 - SSRN
+    quote !c = Spike-specific T cell responses were observed in 12% and 31% of mRNA and ChAdOx1 recipients respectively and median responses were 3-fold higher in ChAdOx1 vaccinees at 2 vs 6 spots/million respectively.
+
+    / April, 2021 - SSRN
+    quote !d = Evidence of previous natural infection was seen in 8 donors and associated with 691-fold and 4-fold increase in humoral and cellular immune responses across the whole cohort.
+
+
+
+
+  #
+  // Cerebral venous thrombosis: a retrospective cohort study of 513,284 confirmed COVID-19 cases and a comparison with 489,871 people receiving a COVID-19 mRNA vaccine
+  doi: https://doi.org/10.17605/OSF.IO/H2MT7
+  ref 'Taquet_et_al_04_15_2021
+    head = Using an electronic health records network we estimated the absolute incidence of cerebral venous thrombosis (CVT) in the two weeks following COVID-19 diagnosis (N=513,284), or influenza (N=172,742), or receipt of the BNT162b2 or mRNA-1273 COVID-19 vaccines (N=489,871).
+
+    > Abstract
+      Using  an  electronic  health  records  network  we  estimated  the  absolute  incidence  of  cerebral  venous thrombosis  (CVT)  in  the  two  weeks  following  COVID-19  diagnosis(N=513,284),or  influenza (N=172,742),or  receipt  of  the  BNT162b2  or  mRNA-1273  COVID-19  vaccines(N=489,871).The incidence of portal vein thrombosis (PVT) was also assessed in these groups, as well asthe baseline CVTincidence over a two-week period. The incidence of CVT after COVID-19 diagnosis was 39.0 per million people (95% CI, 25.2–60.2). This was higher than the CVT incidence after influenza (0.0 per million people, 95% CI 0.0–22.2, adjusted RR=6.73, P=.003) or after receiving BNT162b2 or mRNA-1273 vaccine (4.1 per million people, 95% CI 1.1–14.9, adjusted RR=6.36, P<.001). The relative risks were similar if a broader definition of CVT was used. For PVT, the incidence was 436.4 per million people  (382.9-497.4)  after  COVID-19,  98.4  (61.4-157.6)  after  influenza,  and  44.9  (29.7-68.0) after BNT162b2 or mRNA-1273. The incidence of CVT following COVID-19 was higher than the incidence observed across the entire health records network (0.41 per million people over any 2-week period). Laboratory test results, availablein a subsetof the COVID-19 patients,provide preliminary evidence suggestive  of raised  D-dimer,  lowered  fibrinogen,  and  an  increased  rate  of  thrombocytopenia  in  the CVT and PVT groups. Mortality was 20% and 18.8% respectively. These data show that the incidence of CVT issignificantly increased after COVID-19,and greater than that observed with BNT162b2 and mRNA-1273 COVID-19 vaccines. The risk of CVT following COVID-19 is also higher than the latest estimate from the European Medicines Agency for theincidence associated withChAdOx1 nCoV-19 vaccine (5.0 per million people, 95% CI 4.3–5.8). Although requiring replication and corroboration, the present data highlight the risk of serious thrombotic events in COVID-19, and can help contextualizethe risks and benefits of vaccinationin this regard
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / April, 2021 - OSF
+    quote !a = The incidence of cerebral venous thrombosis (CVT) after COVID-19 diagnosis was 39.0 per million people (95% CI, 25.2–60.2). This was higher than the CVT incidence after influenza (0.0 per million people, 95% CI 0.0–22.2, adjusted RR=6.73, P=.003) or after receiving BNT162b2 or mRNA- 1273 vaccine (4.1 per million people, 95% CI 1.1–14.9, adjusted RR=6.36, P<.001). CVT has been reported to occur in about 5 in a million people after first dose of the AZ-Oxford COVID-19 vaccine.
+
+    / April, 2021 - OSF
+    quote !b = For portal vein thrombosis (PVT), the incidence was 436.4 per million people (382.9-497.4) after COVID-19, 98.4 (61.4-157.6) after influenza, and 44.9 (29.7-68.0) after BNT162b2 or mRNA-1273.
+
+    / April, 2021 - OSF
+    quote !c = The incidence of CVT following COVID-19 was higher than the incidence observed across the entire health records network (0.41 per million people over any 2-week period).
+
+    / April, 2021 - OSF
+    quote !d = Although the data do not cover most patients with a diagnosis of CVT, they suggest that patients with CVT after COVID-19 were significantly more likely to have elevated D-dimer level than patients with COVID-19 who did not have CVT, whereas patients with PVT after COVID-19 were significantly more likely to have low fibrinogen level and thrombocytopenia. Mortality was 20% and 18.8% respectively.
+
+    / April, 2021 - OSF
+    quote !e = These data show that the incidence of CVT is significantly increased after COVID-19, and greater than that observed with BNT162b2 and mRNA-1273 COVID-19 vaccines (about 10 times greater). The risk of CVT following COVID-19 is also higher than the latest estimate from the European Medicines Agency for the incidence associated with ChAdOx1 nCoV-19 vaccine (5.0 per million people)- (about 8 times greater).
+
+
+
+  #
+  // Cerebral Venous Thrombosis Associated with COVID-19
+  doi: https://doi.org/10.3174/ajnr.A6644
+  ref 'Cavalcanti_et_al_06_30_2020
+    head = We report an unusual presentation characterized by catastrophic cerebral venous thrombosis in three patients younger than 41 years of age, previously healthy patients, infected with SARS CoV 2, previously healthy and potentially without antecedent cardiopulmonary symptoms or fever.
+
+    > Abstract
+      Despite the severity of coronavirus disease 2019 (COVID-19) being more frequently related to acute respiratory distress syndrome and acute cardiac and renal injuries, thromboembolic events have been increasingly reported. We report a unique series of young patients with COVID-19 presenting with cerebral venous system thrombosis. Three patients younger than 41 years of age with confirmed Severe Acute Respiratory Syndrome coronavirus 2 (SARS-Cov-2) infection had neurologic findings related to cerebral venous thrombosis. They were admitted during the short period of 10 days between March and April 2020 and were managed in an academic institution in a large city. One patient had thrombosis in both the superficial and deep systems; another had involvement of the straight sinus, vein of Galen, and internal cerebral veins; and a third patient had thrombosis of the deep medullary veins. Two patients presented with hemorrhagic venous infarcts. The median time from COVID-19 symptoms to a thrombotic event was 7 days (range, 2–7 days). One patient was diagnosed with new-onset diabetic ketoacidosis, and another one used oral contraceptive pills. Two patients were managed with both hydroxychloroquine and azithromycin; one was treated with lopinavir-ritonavir. All patients had a fatal outcome. Severe and potentially fatal deep cerebral thrombosis may complicate the initial clinical presentation of COVID-19. We urge awareness of this atypical manifestation.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / June, 2020 - American Journal of Neurobiology
+    quote !a = No conclusions can be drawn other than that these cases provide hints as to the accumulating evidence that COVID-19 is a serious contributor to hypercoagulation, increasing the fatality of the disease. Heightened awareness of this atypical but potentially treatable complication of the COVID-19 disease spectrum is encouraged.
+
+    / June, 2020 - American Journal of Neurobiology
+    quote !b = One patient had thrombosis in both the superficial and deep systems; another had involvement of the straight sinus, vein of Galen, and internal cerebral veins; and a third patient had thrombosis of the deep medullary veins. Two patients presented with hemorrhagic venous infarcts.
+
+    / June, 2020 - American Journal of Neurobiology
+    quote !c = The median time from COVID-19 symptoms to a thrombotic event was 7 days (range, 2–7 days).
+
+    / June, 2020 - American Journal of Neurobiology
+    quote !d = One patient was diagnosed with new-onset diabetic ketoacidosis, and another one used oral contraceptive pills.
+
+    / June, 2020 - American Journal of Neurobiology
+    quote !e = All patients had a fatal outcome. Severe and potentially fatal deep cerebral thrombosis may complicate the initial clinical presentation of COVID-19.
+
+
+
+  #
+  // Autoimmune heparin‐induced thrombocytopenia
+  doi: https://doi.org/10.1111/jth.13813
+  ref 'Greinacher_et_al_08_28_2017
+    head = Heparin‐induced thrombocytopenia (HIT), a prothrombotic adverse drug reaction, is caused by the transient production of platelet‐activating antibodies of IgG class that recognize multimolecular complexes of (cationic) platelet factor 4 (PF4) bound to (polyanionic) heparin.
+
+    > Abstract
+      Autoimmune heparin‐induced thrombocytopenia (aHIT) indicates the presence in patients of anti‐platelet factor 4 (PF4)–polyanion antibodies that are able to activate platelets strongly even in the absence of heparin (heparin‐independent platelet activation). Nevertheless, as seen with serum obtained from patients with otherwise typical heparin‐induced thrombocytopenia (HIT), serum‐induced platelet activation is inhibited at high heparin concentrations (10–100 IU mL−1 heparin). Furthermore, upon serial dilution, aHIT serum will usually show heparin‐dependent platelet activation. Clinical syndromes associated with aHIT include: delayed‐onset HIT, persisting HIT, spontaneous HIT syndrome, fondaparinux‐associated HIT, heparin ‘flush’‐induced HIT, and severe HIT (platelet count of < 20 × 109 L−1) with associated disseminated intravascular coagulation (DIC). Recent studies have implicated anti‐PF4 antibodies that are able to bridge two PF4 tetramers even in the absence of heparin, probably facilitated by non‐heparin platelet‐associated polyanions (chondroitin sulfate and polyphosphates); nascent PF4–aHIT‐IgG complexes recruit additional heparin‐dependent HIT antibodies, leading to the formation of large multimolecular immune complexes and marked platelet activation. aHIT can persist for several weeks, and serial fibrin, D‐dimer, and fibrinogen levels, rather than the platelet count, may be helpful for monitoring treatment response. Although standard anticoagulant therapy for HIT ought to be effective, published experience indicates frequent failure of activated partial thromboplastin time (APTT)‐adjusted anticoagulants (argatroban, bivalirudin), probably because of underdosing in the setting of HIT‐associated DIC, known as ‘APTT confounding’. Thus, non‐APTT‐adjusted therapies with drugs such as danaparoid and fondaparinux, or even direct oral anticoagulants, such as rivaroxaban or apixaban, are suggested therapies, especially for long‐term management of persisting HIT. In addition, emerging data indicate that high‐dose intravenous immunoglobulin can interrupt HIT antibody‐induced platelet activation, leading to rapid platelet count recovery.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / August, 2017 - Journal of Thrombosis and Haemostasis.
+    quote !a = As seen with serum obtained from patients with otherwise typical heparin‐induced thrombocytopenia (HIT), serum‐induced platelet activation is inhibited at high heparin concentrations (10–100 IU mL−1 heparin).
+
+    / August, 2017 - Journal of Thrombosis and Haemostasis.
+    quote !b = Clinical syndromes associated with aHIT include: delayed‐onset HIT, persisting HIT, spontaneous HIT syndrome, fondaparinux‐associated HIT, heparin ‘flush’‐induced HIT, and severe HIT (platelet count of < 20 × 109 L−1) with associated disseminated intravascular coagulation (DIC).
+
+    / August, 2017 - Journal of Thrombosis and Haemostasis.
+    quote !c = Recent studies have implicated anti‐PF4 antibodies that are able to bridge two PF4 tetramers even in the absence of heparin, probably facilitated by non‐heparin platelet‐associated polyanions (chondroitin sulfate and polyphosphates); nascent PF4–aHIT‐IgG complexes recruit additional heparin‐dependent HIT antibodies, leading to the formation of large multimolecular immune complexes and marked platelet activation.
+
+    / August, 2017 - Journal of Thrombosis and Haemostasis.
+    quote !d = aHIT can persist for several weeks, and serial fibrin, D‐dimer, and fibrinogen levels, rather than the platelet count, may be helpful for monitoring treatment response.
+
+    / August, 2017 - Journal of Thrombosis and Haemostasis.
+    quote !e = Although standard anticoagulant therapy for HIT ought to be effective, published experience indicates frequent failure of activated partial thromboplastin time (APTT)‐adjusted anticoagulants (argatroban, bivalirudin), probably because of underdosing in the setting of HIT‐associated DIC, known as ‘APTT confounding’. Thus, non‐APTT‐adjusted therapies with drugs such as danaparoid and fondaparinux, or even direct oral anticoagulants, such as rivaroxaban or apixaban, are suggested therapies, especially for long‐term management of persisting HIT.
+
+    / August, 2017 - Journal of Thrombosis and Haemostasis.
+    quote !f = Emerging data indicate that high‐dose intravenous immunoglobulin can interrupt HIT antibody‐induced platelet activation, leading to rapid platelet count recovery.
+
+
+
+
+  #
+  // High-dose intravenous immunoglobulin for the treatment and prevention of heparin-induced thrombocytopenia: a review
+  doi: https://doi.org/10.1080/17474086.2019.1636645
+  ref 'Warkentin_et_al_07_05_2019
+    head = This article focuses on the scientific rationale for IVIG as an adjunct treatment for HIT. Further, the author presents a new illustrative case, review the available literature, and provides his opinions on how this treatment might evolve over time.
+
+
+    > ABSTRACT
+      Introduction: Heparin-induced thrombocytopenia (HIT) is known for its strong association with thrombosis and distinct pathogenesis involving anti-PF4/polyanion antibodies that activate platelets strongly through clustering of platelet FcγIIa receptors. Autoimmune HIT (aHIT) refers to a subgroup of patients whose HIT antibodies have both heparin-dependent and heparin-independent platelet-activating properties. aHIT patients have atypical clinical presentations including delayed-onset HIT, persisting (refractory) HIT, heparin ‘flush’ HIT, fondaparinux-associated HIT, severe thrombocytopenia (platelet count <20 × 109/L) with overt disseminated intravascular coagulation, and spontaneous HIT syndrome.
+
+      Areas covered: This article reviews all available literature describing the use of high-dose intravenous immunoglobulin (IVIG) as an adjunct treatment to anticoagulation in HIT patients. IVIG is usually effective in interrupting platelet activation by aHIT antibodies, manifesting as a rapid platelet count increase after starting IVIG (usual dose, 1g/kg × 2 days). Experience to date suggests IVIG de-escalates HIT and likely reduces thrombotic risk. A new case of aHIT successfully treated with IVIG is presented. Use of IVIG to prevent acute HIT with planned heparin reexposure in antibody-positive patients is also discussed.
+
+      Expert opinion: High-dose IVIG appears to rapidly inhibit HIT antibody-induced platelet activation and has the potential to become an important treatment adjunct for HIT, particularly in patients with aHIT.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / July, 2019 - Expert Review of Hematology
+    quote !a = High-dose IVIG appears to rapidly inhibit HIT antibody-induced platelet activation and has the potential to become an important treatment adjunct for HIT, particularly in patients with aHIT.
+
+    / July, 2019 - Expert Review of Hematology
+    quote !b = High-dose IVIG has been used anecdotally since 1989 to treat acute HIT. During this 30-year period, 36 patients have been reported as receiving IVIG for treating acute HIT. In all cases, IVIG use was considered adjunctive to alternative anticoagulation. Although the publication of only approximately 1 case per year might suggest that this therapy is only rarely performed, the recent and growing recognition of aHIT syndromes, and the appreciation that heparin-independent HIT antibody-induced platelet activation is exquisitely sensitive to inhibition by high-dose IVIG, suggests that this therapy might become increasingly common in the future, particularly in patients with severe and atypical clinical presentations of HIT.
+
+    / July, 2019 - Expert Review of Hematology
+    quote !c = In my view, it is rational to use a two-pronged treatment approach in such patients: (a) substitution of heparin with an effective, non-heparin alternative anticoagulant, and (b) administration of high-dose IVIG to inhibit HIT antibody-induced platelet activation. Since heparin itself has a short half-life, and since heparin is usually discontinued in patients with HIT, it is the inhibition of heparin-independent platelet activation by IVIG that is central to the rationale for use of IVIG in treatment of HIT.
+
+    / July, 2019 - Expert Review of Hematology
+    quote !d = Based on the reported experience to date, as well as theoretical considerations (dose-dependent inhibitory effect), I recommend that a standard dosing regimen of 1 g/kg × 2 days (i.e. 1 g/kg on day 1, and a further dose of 1 g/kg on day 2), calculated using ‘dosing weight’ rather than ‘ideal body weight’ [78], be given in most situations.
+
+
+
+  #
+  // Thrombosis and Thrombocytopenia after ChAdOx1 nCoV-19 Vaccination
+  doi: https://doi.org/10.1056/NEJMoa2104882
+  ref 'Schultz_et_al_04_09_2021
+    head = We describe the vaccine-induced syndrome of severe thrombosis and thrombocytopenia found among these five patients admitted to Oslo University Hospital.
+
+    > Summary
+      We report findings in five patients who presented with venous thrombosis and thrombocytopenia 7 to 10 days after receiving the first dose of the ChAdOx1 nCoV-19 adenoviral vector vaccine against coronavirus disease 2019 (Covid-19). The patients were health care workers who were 32 to 54 years of age. All the patients had high levels of antibodies to platelet factor 4–polyanion complexes; however, they had had no previous exposure to heparin. Because the five cases occurred in a population of more than 130,000 vaccinated persons, we propose that they represent a rare vaccine-related variant of spontaneous heparin-induced thrombocytopenia that we refer to as vaccine-induced immune thrombotic thrombocytopenia.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = Within 10 days after receiving a first immunization with ChAdOx1 nCoV-19, five health care workers 32 to 54 years of age presented with thrombosis in unusual sites and severe thrombocytopenia. Four of the patients had major cerebral hemorrhage, and the outcome was fatal in three.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = A common denominator in all five patients was a high level of antibodies to PF4 (platelet factor 4)–polyanion complexes; however, they had had no previous exposure to heparin. We therefore propose that these cases represent a vaccine-related variant of spontaneous heparin-induced thrombocytopenia that we refer to as vaccine-induced immune thrombotic thrombocytopenia (VITT).
+
+    # / April, 2021 - The New England Journal of Medicine
+    # quote !b = Four of the patients had severe cerebral venous thrombosis with intracranial hemorrhage, and the outcome was fatal in three.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = The results suggest that the serum in these patients contained immune complexes with a mixture of antibody specificities similar to those described in the serum of patients with autoimmune heparin-induced thrombocytopenia. It has not yet been determined whether the serum in our patients contained antibodies that bound PF4 alone.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !d = Our findings indicate a shared pathophysiological basis of the condition in these five patients and should raise awareness that a syndrome similar to autoimmune heparin-induced thrombocytopenia may occur in some persons after vaccination with ChAdOx1 nCoV-19.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !e = It is worth noting that platelet counts continued to increase in all the patients despite continuation of treatment with low-molecular-weight heparin. This finding may reflect the efficacy of early treatment with intravenous immune globulin, which has proved to be highly effective against spontaneous heparin-induced thrombocytopenia.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !f = The most important implication of our findings is that physicians should have a low threshold for requesting ELISA testing for PF4–polyanion antibodies, including confirmatory functional testing, in patients who have unexpected symptoms after vaccination.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !g = The findings of our study indicate that VITT may be more frequent than has been found in previous studies in which the safety of the ChAdOx1 nCoV-19 vaccine has been investigated.
+
+
+  #
+  // Thrombotic thrombocytopenia after ChAdOx1 nCov-19 vaccination.
+  doi: https://doi.org/10.1056/NEJMoa2104840
+  ref 'Greinacher_et_al_04_09_2021
+    head = We assessed the clinical and laboratory features of 11 patients in Germany and Austria in whom thrombosis or thrombocytopenia had developed after vaccination with ChAdOx1 nCov-19. We used a standard enzyme-linked immunosorbent assay to detect platelet factor 4 (PF4)–heparin antibodies and a modified (PF4-enhanced) platelet-activation test to detect platelet-activating antibodies under various reaction conditions.
+
+    > Background
+      Several cases of unusual thrombotic events and thrombocytopenia have developed after vaccination with the recombinant adenoviral vector encoding the spike protein antigen of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (ChAdOx1 nCov-19, AstraZeneca). More data were needed on the pathogenesis of this unusual clotting disorder.
+
+    > Methods
+      We assessed the clinical and laboratory features of 11 patients in Germany and Austria in whom thrombosis or thrombocytopenia had developed after vaccination with ChAdOx1 nCov-19. We used a standard enzyme-linked immunosorbent assay to detect platelet factor 4 (PF4)–heparin antibodies and a modified (PF4-enhanced) platelet-activation test to detect platelet-activating antibodies under various reaction conditions. Included in this testing were samples from patients who had blood samples referred for investigation of vaccine-associated thrombotic events, with 28 testing positive on a screening PF4–heparin immunoassay.
+
+    > Results
+      Of the 11 original patients, 9 were women, with a median age of 36 years (range, 22 to 49). Beginning 5 to 16 days after vaccination, the patients presented with one or more thrombotic events, with the exception of 1 patient, who presented with fatal intracranial hemorrhage. Of the patients with one or more thrombotic events, 9 had cerebral venous thrombosis, 3 had splanchnic-vein thrombosis, 3 had pulmonary embolism, and 4 had other thromboses; of these patients, 6 died. Five patients had disseminated intravascular coagulation. None of the patients had received heparin before symptom onset. All 28 patients who tested positive for antibodies against PF4–heparin tested positive on the platelet-activation assay in the presence of PF4 independent of heparin. Platelet activation was inhibited by high levels of heparin, Fc receptor–blocking monoclonal antibody, and immune globulin (10 mg per milliliter). Additional studies with PF4 or PF4–heparin affinity purified antibodies in 2 patients confirmed PF4-dependent platelet activation.
+
+    > Conclusion
+      Vaccination with ChAdOx1 nCov-19 can result in the rare development of immune thrombotic thrombocytopenia mediated by platelet-activating antibodies against PF4, which clinically mimics autoimmune heparin-induced thrombocytopenia.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+
+      / April, 2021 - The New England Journal of Medicine
+    quote !a = Vaccination with ChAdOx1 nCov-19 can result in the rare development of immune thrombotic thrombocytopenia mediated by platelet-activating antibodies against PF4, which clinically mimics autoimmune heparin-induced thrombocytopenia.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = Of the 11 original patients, 9 were women, with a median age of 36 years (range, 22 to 49). Beginning 5 to 16 days after vaccination, the patients presented with one or more thrombotic events, with the exception of 1 patient, who presented with fatal intracranial hemorrhage.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = Of the patients with one or more thrombotic events, 9 had cerebral venous thrombosis, 3 had splanchnic-vein thrombosis, 3 had pulmonary embolism, and 4 had other thromboses; of these patients, 6 died. Five patients had disseminated intravascular coagulation.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !d = None of the patients had received heparin before symptom onset. All 28 patients who tested positive for antibodies against PF4–heparin tested positive on the platelet-activation assay in the presence of PF4 independent of heparin.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !e = Unlike the usual situation in heparin-induced thrombocytopenia, these vaccinated patients did not receive any heparin to explain the subsequent occurrence of thrombosis and thrombocytopenia.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !f = These clinical features that resemble those of autoimmune heparin-induced thrombocytopenia were observed in the patients with vaccine-induced immune thrombotic thrombocytopenia.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !g = Clinicians should be aware that in some patients, venous or arterial thrombosis can develop at unusual sites such as the brain or abdomen, which becomes clinically apparent approximately 5 to 20 days after vaccination. If such a reaction is accompanied by thrombocytopenia, it can represent an adverse effect of the preceding Covid-19 vaccination. To date, this reaction has been reported only with the ChAdOx1 nCov-19 vaccine, which has been used in approximately 25% of vaccine recipients in Germany and in 30% of those in Austria.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !h = A strongly positive ELISA result that is obtained in a patient who has not been recently exposed to heparin would be a striking abnormality.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !i = We have shown that these antibodies recognize PF4 and that the addition of PF4 greatly enhances their detectability in a platelet-activation assay. Since vaccination of millions of persons will be complicated by a background of thrombotic events unrelated to vaccination, a PF4-dependent ELISA or a PF4-enhanced platelet-activation assay may be used to confirm the diagnosis of vaccine-induced immune thrombotic thrombocytopenia through this novel mechanism of postvaccination formation of platelet-activating antibodies against PF4. Although treatment decisions such as administering intravenous immune globulin and starting anticoagulation do not need to await laboratory diagnosis, detection of these unusual platelet-activating antibodies will be highly relevant for case identification and future risk–benefit assessment of this and other vaccines.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !j = Platelet activation was inhibited by high levels of heparin, Fc receptor–blocking monoclonal antibody, and immune globulin (10 mg per milliliter).
+
+    # / April, 2021 - The New England Journal of Medicine
+    # quote !f = Additional studies with PF4 or PF4–heparin affinity purified antibodies in 2 patients confirmed PF4-dependent platelet activation.
+
+
+
+
+
+  #
+  // Thrombotic Thrombocytopenia after Ad26.COV2.S Vaccination
+  doi: https://doi.org/10.1056/NEJMc2105869
+  ref 'Muir_et_al_04_14_2021
+    head = We describe a case of extensive thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation that resembled autoimmune heparin-induced thrombocytopenia3 in a patient who had received the Ad26.COV2.S vaccine (Johnson & Johnson/Janssen), a recombinant adenovirus serotype 26 vector encoding the SARS-CoV-2 spike glycoprotein.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    # / April, 2021 - The New England Journal of Medicine
+    # quote !a = A 48-year-old White woman with an unremarkable medical history presented to the emergency department with a 3-day history of malaise and abdominal pain. The initial evaluation at another hospital showed mild anemia and severe thrombocytopenia (platelet count, 13,000 per cubic millimeter [reference range, 150,000 to 400,000]). A peripheral-blood smear confirmed a marked reduction in the platelet count with occasional schistocytes.
+    #
+    / April, 2021 - The New England Journal of Medicine
+    quote !d = Additional studies showed a low fibrinogen level (89 mg per deciliter [reference range, 220 to 397]), a prolonged activated partial thromboplastin time (41 seconds [reference range, 25 to 37]), and a marked elevation in the d-dimer level (117.5 mg per liter [reference value, <0.5]), indicating a disseminated intravascular coagulation–like state.
+    #
+    # / April, 2021 - The New England Journal of Medicine
+    # quote !a = SARS-CoV-2 RNA was not detected on reverse-transcriptase–polymerase-chain-reaction assay of a sample obtained with a nasopharyngeal swab. Head CT that was performed after a report of new-onset headache showed cerebral venous sinus thrombosis involving the right transverse and straight sinuses.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = The administration of unfractionated heparin was initiated, but despite this treatment, the patient had progressive thrombosis with hemorrhagic stroke evident on magnetic resonance imaging and magnetic resonance venography of the brain. Repeat CT angiography showed new thrombus involving the right hepatic and splenic veins.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = It was noted that the patient had received the Ad26.COV2.S vaccine 14 days before symptom onset. The screening test for antibodies against platelet factor 4 (PF4)–heparin by latex-enhanced immunoassay was negative. However, the result of enzyme-linked immunosorbent assay for antibodies against PF4–polyanion was strongly positive (2.550 optical-density units [upper limit of normal range, ≤0.399). Heparin was switched to argatroban. She also received intravenous immune globulin at a dose of 1 g per kilogram of ideal body weight (as calculated according to the actual weight [112 kg] and height [168 cm] of the patient) for 2 days. This treatment was followed by an increase in the platelet count from 30,000 to 145,000 during a 5-day period. The patient remained critically ill at the time of this report.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = Our case suggests that the rare occurrence of vaccine-induced immune thrombotic thrombocytopenia could be related to adenoviral vector vaccines.
+
+
+  #
+  // Moderna Provides Clinical and Supply Updates on COVID-19 Vaccine Program Ahead of 2nd Annual Vaccines Day
+  doi: https://investors.modernatx.com/news-releases/news-release-details/moderna-provides-clinical-and-supply-updates-covid-19-vaccine
+  ref 'Moderna_et_al_04_13_2021
+    head = Moderna, Inc. shared an update on the Phase 3 COVE study of the Moderna COVID-19 Vaccine (mRNA-1273) - Updated cases show continued strong efficacy, including greater than 90% against cases of COVID-19 and greater than 95% against severe cases of COVID-19, with approximately 6 months median follow-up post dose 2.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / April, 2021 - Moderna, Inc.
+    quote !a = New preclinical data shows variant-specific booster vaccine candidates (mRNA-1273.351 and mRNA-1273.211) increase neutralizing titers against SARS-CoV-2 variants of concern.
+
+    / April, 2021 - Moderna, Inc.
+    quote !b = As of April 12, approximately 132 million doses have been delivered globally.
+
+    / April, 2021 - Moderna, Inc.
+    quote !c = New results from a preclinical study of the Company’s COVID-19 variant-specific vaccine candidates showed that the Company’s variant-specific booster vaccine candidates (mRNA-1273.351 and mRNA-1273.211) increase neutralizing titers against SARS-CoV-2 variants of concern. The multi-valent vaccine provided the broadest level of immunity. A boost at 6 months with mRNA-1273.351 closed the neutralizing titer gap for the variants of concern. Following the mRNA-1273.351 boost, neutralizing titers were comparable between the ancestral strain (Wuhan) and the new B.1.351 variant. The Company’s Phase 2 study to evaluate three approaches to boosting is ongoing.
+
+    / April, 2021 - Moderna, Inc.
+    quote !d =tAn updated review of adjudicated cases has identified over 900 cases of COVID-19 in the COVE study as of April 9th, including over 100 cases of severe COVID-19, as defined in the protocol, with a median follow-up of approximately 6 months post dose 2. Vaccine efficacy starting two weeks following the second dose and based on the updated adjudicated cases remains consistent with prior updates, including greater than 90% against all cases of COVID-19, and greater than 95% against severe cases of COVID-19.
+
+    / April, 2021 - Moderna, Inc.
+    quote !e = On April 13, the Company issued a statement on cerebral venous sinus thrombosis (CVST). A comprehensive assessment of the totality of the available safety data for mRNA-1273 after over 64.5 million doses administered globally does not suggest an association with CVST or thrombotic events, based on analyses performed using data through March 22, 2021.
+
+    / April, 2021 - Moderna, Inc.
+    quote !f = Through April 12, 2021, Moderna cumulatively delivered approximately 132 million doses globally, including approximately 117 million doses to the U.S. government and approximately 15 million doses delivered from Moderna’s ex-U.S. supply chain. The Company remains on track to deliver the second 100 million doses to the U.S. government by end of May 2021 followed by another 100 million additional doses by end of July 2021. The ex-U.S. supply chain was established approximately one quarter behind the U.S. supply chain and continues to ramp up.
+
+
+
+  #
+  // Joint CDC and FDA Statement on Johnson & Johnson COVID-19 Vaccine
+  doi: https://www.fda.gov/news-events/press-announcements/joint-cdc-and-fda-statement-johnson-johnson-covid-19-vaccine
+  ref 'Marks_et_al_04_13_2021
+    head = As of April 12, more than 6.8 million doses of the Johnson & Johnson (Janssen) vaccine have been administered in the U.S. CDC and FDA are reviewing data involving six reported U.S. cases of a rare and severe type of blood clot in individuals after receiving the J&J vaccine. The following statement is attributed to Dr. Peter Marks, director of the FDA’s Center for Biologics Evaluation and Research and Dr. Anne Schuchat, Principal Deputy Director of the CDC.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2021 - FDA
+    quote !a = In these cases, a type of blood clot called cerebral venous sinus thrombosis (CVST) was seen in combination with low levels of blood platelets (thrombocytopenia).
+
+    / April, 2021 - FDA
+    quote !b = All six cases occurred among women between the ages of 18 and 48, and symptoms occurred 6 to 13 days after vaccination.
+
+    / April, 2021 - FDA
+    quote !c = Treatment of this specific type of blood clot is different from the treatment that might typically be administered. Usually, an anticoagulant drug called heparin is used to treat blood clots. In this setting, administration of heparin may be dangerous, and alternative treatments need to be given.
+
+    / April, 2021 - FDA
+    quote !d = Right now, these adverse events appear to be extremely rare.
+
+    / April, 2021 - FDA
+    quote !e = People who have received the J&J vaccine who develop severe headache, abdominal pain, leg pain, or shortness of breath within three weeks after vaccination should contact their health care provider.
+
+
+
+  #
+  // Safety and immunogenicity of a recombinant tandem-repeat dimeric RBD-based protein subunit vaccine (ZF2001) against COVID-19 in adults: two randomised, double-blind, placebo-controlled, phase 1 and 2 trials
+  doi: https://doi.org/10.1016/S1473-3099(21)00127-4
+  ref 'Yang_et_al_03_24_2021
+    head = We did two randomised, double-blind, placebo-controlled, phase 1 and phase 2 trials. Phase 1 was done at two university hospitals in Chongqing and Beijing, China, and phase 2 was done at the Hunan Provincial Center for Disease Control and Prevention in Xiangtan, China. In phase 1, participants were randomly assigned (2:2:1) to receive three doses of the vaccine (25 μg or 50 μg) or placebo intramuscularly, 30 days apart. The mean age of participants was 32·6. In phase 2, participants were randomly assigned (1:1:1:1:1:1) to receive the vaccine (25 μg or 50 μg) or placebo intramuscularly, 30 days apart, in either a two-dose schedule or a three-dose schedule. The mean age of participants was 43·5 years.
+
+
+    > Background
+      Although several COVID-19 vaccines have been developed so far, they will not be sufficient to meet the global demand. Development of a wider range of vaccines, with different mechanisms of action, could help control the spread of SARS-CoV-2 globally. We developed a protein subunit vaccine against COVID-19 using a dimeric form of the receptor-binding domain (RBD) of the SARS-CoV-2 spike protein as the antigen. We aimed to assess the safety and immunogenicity of this vaccine, ZF2001, and determine the appropriate dose and schedule for an efficacy study.
+
+    > Methods
+      We did two randomised, double-blind, placebo-controlled, phase 1 and phase 2 trials. Phase 1 was done at two university hospitals in Chongqing and Beijing, China, and phase 2 was done at the Hunan Provincial Center for Disease Control and Prevention in Xiangtan, China. Healthy adults aged 18–59 years, without a history of SARS-CoV or SARS-CoV-2 infection, an RT-PCR-positive test result for SARS-CoV-2, a history of contact with confirmed or suspected COVID-19 cases, and severe allergies to any component of the vaccine were eligible for enrolment. In phase 1, participants were randomly assigned (2:2:1) to receive three doses of the vaccine (25 μg or 50 μg) or placebo intramuscularly, 30 days apart. In phase 2, participants were randomly assigned (1:1:1:1:1:1) to receive the vaccine (25 μg or 50 μg) or placebo intramuscularly, 30 days apart, in either a two-dose schedule or a three-dose schedule. Investigators, participants, and the laboratory team were masked to group allocation. For phase 1, the primary outcome was safety, measured by the occurrence of adverse events and serious adverse events. For phase 2, the primary outcome was safety and immunogenicity (the seroconversion rate and the magnitude, in geometric mean titres [GMTs], of SARS-CoV-2-neutralising antibodies). Analyses were done on an intention-to-treat and per-protocol basis. These trials are registered with ClinicalTrials.gov (NCT04445194 and NCT04466085) and participant follow-up is ongoing.
+
+    > Findings
+      Between June 22 and July 3, 2020, 50 participants were enrolled into the phase 1 trial and randomly assigned to receive three doses of placebo (n=10), the 25 μg vaccine (n=20), or the 50 μg vaccine (n=20). The mean age of participants was 32·6 (SD 9·4) years. Between July 12 and July 17, 2020, 900 participants were enrolled into the phase 2 trial and randomly assigned to receive two doses of placebo (n=150), 25 μg vaccine (n=150), or 50 μg vaccine (n=150), or three doses of placebo (n=150), 25 μg vaccine (n=150), or 50 μg vaccine (n=150). The mean age of participants was 43·5 (SD 9·2) years. In both phase 1 and phase 2, adverse events reported within 30 days after vaccination were mild or moderate (grade 1 or 2) in most cases (phase 1: six [60%] of ten participants in the placebo group, 14 [70%] of 20 in the 25 μg group, and 18 [90%] of 20 in the 50 μg group; phase 2: 37 [25%] of 150 in the two-dose placebo group, 43 [29%] of 150 in the two-dose 25 μg group, 50 [33%] of 150 in the two-dose 50 μg group, 47 [31%] of 150 in the three-dose placebo group, 72 [48%] of 150 in the three-dose 25 μg group, and 65 [43%] of 150 in the three-dose 50 μg group). In phase 1, two (10%) grade 3 or worse adverse events were reported in the 50 μg group. In phase 2, grade 3 or worse adverse events were reported by 18 participants (four [3%] in the two-dose 25 μg vaccine group, two [1%] in the two-dose 50 μg vaccine group, two [1%] in the three-dose placebo group, four [3%] in the three-dose 25 μg vaccine group, and six [4%] in the three-dose 50 μg vaccine group), and 11 were considered vaccine related (two [1%] in the two-dose 25 μg vaccine group, one [1%] in the two-dose 50 μg vaccine group, one [1%] in the three-dose placebo group, two [1%] in the three-dose 25 μg vaccine group, and five [3%] in the three-dose 50 μg vaccine group); seven participants reported serious adverse events (one [1%] in the two-dose 25 μg vaccine group, one [1%] in the two-dose 50 μg vaccine group, two [1%] in the three-dose placebo group, one [1%] in the three-dose 25 μg vaccine group, and two [1%] in the three-dose 50 μg vaccine group), but none was considered vaccine related. In phase 2, on the two-dose schedule, seroconversion rates of neutralising antibodies 14 days after the second dose were 76% (114 of 150 participants) in the 25 μg group and 72% (108 of 150) in the 50 μg group; on the three-dose schedule, seroconversion rates of neutralising antibodies 14 days after the third dose were 97% (143 of 148 participants) in the 25 μg group and 93% (138 of 148) in the 50 μg group. In the two-dose groups in phase 2, the SARS-CoV-2-neutralising GMTs 14 days after the second dose were 17·7 (95% CI 13·6–23·1) in the 25 μg group and 14·1 (10·8–18·3) in the 50 μg group. In the three-dose groups in phase 2, the SARS-CoV-2-neutralising GMTs 14 days after the third dose were 102·5 (95% CI 81·8–128·5) in the 25 μg group and 69·1 (53·0–90·0) in the 50 μg group.
+
+    > Interpretation
+      The protein subunit vaccine ZF2001 appears to be well tolerated and immunogenic. The safety and immunogenicity data from the phase 1 and 2 trials support the use of the 25 μg dose in a three-dose schedule in an ongoing phase 3 trial for large-scale evaluation of ZF2001's safety and efficacy.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / March, 2021 - The Lancet Infectious Diseases
+    quote !a = The protein subunit vaccine ZF2001 appears to be well tolerated and immunogenic. The safety and immunogenicity data from the phase 1 and 2 trials support the use of the 25 μg dose in a three-dose schedule in an ongoing phase 3 trial for large-scale evaluation of ZF2001's safety and efficacy.
+
+    / March, 2021 - The Lancet Infectious Diseases
+    quote !b = In these phase 1 and phase 2 trials, we found that vaccination with the 25 or 50 μg doses and two-dose or three-dose schedules was well tolerated.
+
+    / March, 2021 - The Lancet Infectious Diseases
+    quote !c = The frequency of adverse events between the vaccine and placebo groups was similar in both phase 1 and phase 2. Most adverse events were mild or moderate, with the most common symptoms being injection-site pain, redness, and swelling. These adverse events are anticipated for alum-adjuvanted protein subunit vaccines and were transient and resolved within 3–4 days after vaccination.
+
+    / March, 2021 - The Lancet Infectious Diseases
+    quote !d = Compared with other COVID-19 vaccine candidates, such as mRNA-based vaccines or adenovirus-vectored vaccines, the occurrences of fever and fatigue were lower with ZF2001
+
+    / March, 2021 - The Lancet Infectious Diseases
+    quote !e = Compared with another protein subunit vaccine, NVX-CoV2373, which used Matrix-M1 as an adjuvant, the occurrences of injection-site pain, fatigue, headache, and nausea were also lower with ZF2001
+
+    / March, 2021 - The Lancet Infectious Diseases
+    quote !f = The comparative immunogenicity showed that three doses of ZF2001 elicited neutralising GMTs two times greater than the GMTs tested for the convalescent serum samples.
+
+
+
+
+
+  #
+  // Serum sample neutralisation of BBIBP-CorV and ZF2001 vaccines to SARS-CoV-2 501Y.V2
+  doi: https://doi.org/10.1016/S2666-5247(21)00082-3
+  ref 'Huang_et_al_04_13_2021
+    head = We assessed neutralisation activity in 24 serum samples from participants in two clinical trials, 12 who had been vaccinated with BBIBP-CorV and 12 who had been vaccinated with ZF2001, who were randomly selected to cover a range of different neutralising titres. We measured the neutralising activity in these serum samples against live SARS-CoV-2 strains GDPCC (501Y.V2). SARS-CoV-2 strains HB02 (wild type) and BJ01 (D614G) were tested as the control.
+
+    - quotes
+      !a
+      !b
+
+    / April, 2021 - The Lancet
+    quote !a = Our findings suggest that the 501Y.V2 variant does not escape the immunity induced by vaccines targeting the whole virus (BBIBP-CorV) or S protein dimeric RBD (ZF2001). The potential 1·5 to 1·6 times reduction in neutralising GMTs should be taken into account for their effect on the clinical efficacy of these vaccines.
+
+    / April, 2021 - The Lancet
+    quote !b = All 24 serum samples from either recipients of BBIBP-CorV or ZF2001 largely preserved neutralisation of the 501Y.V2 variant, with slightly reduced geometric mean titres (GMTs) compared with their titres against the wild type or D614G strains. For BBIBP-CorV, the GMT decreased from 110·9 to 71·5. For ZF2001, this the GMT decreased from 106·1 to 66·6.
+
+
+
+  #
+  // PHASE 3 PREVENTION TRIAL SHOWED 81% REDUCED RISK OF SYMPTOMATIC SARS-COV-2 INFECTIONS WITH SUBCUTANEOUS ADMINISTRATION OF REGEN-COV™ (CASIRIVIMAB WITH IMDEVIMAB)
+  doi: https://investor.regeneron.com/news-releases/news-release-details/phase-3-prevention-trial-showed-81-reduced-risk-symptomatic-sars
+  ref 'Regeneron_et_al_04_12_2021
+    head = Regeneron Pharmaceuticals, Inc announced positive results from a Phase 3 trial (2069A) assessing the ability of REGEN-COV™ (casirivimab with imdevimab) to reduce the risk and burden of COVID-19 infection among household contacts of SARS-CoV-2 infected individuals. The Phase 3, double-blind, placebo-controlled trial assessed the effect of REGEN-COV on uninfected individuals without anti-SARS-CoV-2 antibodies or any COVID-19 symptoms, who lived in the same household as an individual who tested positive for SARS-CoV-2 within the prior 4 days. The trial enrolled 1,505 people who were not infected with SARS-CoV-2 at baseline and randomized to receive either 1 dose of REGEN-COV (1,200 mg) or placebo, administered as SC injections.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2021 - Regeneron Pharmaceuticals
+    quote !a = An antibody drug REGEN-COV™ (casirivimab with imdevimab)- 1,200 mg administered subcutaneously (SC) from Regeneron Pharmaceuticals Inc. reduced the risk of developing symptomatic Covid-19 infection by 81% compared with a placebo in people living with someone infected by the new coronavirus.
+
+    / April, 2021 - Regeneron Pharmaceuticals
+    quote !b = REGEN-COV rapidly protected household contacts from exposure to SARS-CoV-2 at home, with 72% protection against symptomatic infections in the first week, and 93% in subsequent weeks.
+
+    / April, 2021 - Regeneron Pharmaceuticals
+    quote !c = Among individuals who developed symptomatic infections, REGEN-COV recipients cleared the virus faster and had much shorter symptom duration.
+
+    / April, 2021 - Regeneron Pharmaceuticals
+    quote !d = The rapid and robust protection, together with the subcutaneous route of administration, support the practical utility of these antibodies in protecting against COVID-19 in multiple settings, including after high-risk exposures. These antibodies may be particularly useful in individuals who are not yet vaccinated, and may also have potential in those who are immunosuppressed and may not respond well to vaccines
+
+    / April, 2021 - Regeneron Pharmaceuticals
+    quote !e = Under an EUA issued by the U.S. Food and Drug Administration (FDA), REGEN-COV is currently available in the U.S. to treat mild-to-moderate COVID-19 in adults, as well as in pediatric patients at least 12 years of age and weighing at least 40 kg, who have received positive results of direct SARS-CoV-2 viral testing and are at high risk for progressing to severe COVID-19 and/or hospitalization. REGEN-COV has not been approved by the FDA but has been authorized for emergency use.
+
+
+
+
+  #
+  // SARS-Cov-2RNA found on particulate matter of Bergamo in Northern Italy: First evidence
+  doi: https://doi.org/10.1016/j.envres.2020.109754
+  ref 'Setti_et_al_2020
+    head = We have collected 34 PM10 samples in Bergamo area (the epicenter of the Italian COVID-19 epidemic) by using two air samplers over a continuous 3-weeks period.
+
+    > Background
+      The burden of COVID-19 was extremely severe in Northern Italy, an area characterized by high concentrations of particulate matter (PM), which is known to negatively affect human health. Consistently with evidence already available for other viruses, we initially hypothesized the possibility of SARS-CoV-2 presence on PM, and we performed a first experiment specifically aimed at confirming or excluding this research hyphotesys.
+
+    > Methods
+      We have collected 34 PM10 samples in Bergamo area (the epicenter of the Italian COVID-19 epidemic) by using two air samplers over a continuous 3-weeks period. Filters were properly stored and underwent RNA extraction and amplification according to WHO protocols in two parallel blind analyses performed by two different authorized laboratories. Up to three highly specific molecular marker genes (E, N, and RdRP) were used to test the presence of SARS-CoV-2 RNA on particulate matter.
+
+    > Results
+      The first test showed positive results for gene E in 15 out of 16 samples, simultaneously displaying positivity also for RdRP gene in 4 samples. The second blind test got 5 additional positive results for at least one of the three marker genes. Overall, we tested 34 RNA extractions for the E, N and RdRP genes, reporting 20 positive results for at least one of the three marker genes, with positivity separately confirmed for all the three markers. Control tests to exclude false positivities were successfully accomplished.
+
+    > Conclusion
+      This is the first evidence that SARS-CoV-2 RNA can be present on PM, thus suggesting a possible use as indicator of epidemic recurrence.
+
+    - quotes
+      !a
+      !b
+      !c
+
+
+    / September, 2020 - Environmental Research
+    quote !a = This is the first evidence that SARS-CoV-2RNA can be found on particulate matter, thus suggesting a possible use as indicator of epidemic recurrence.
+
+    / September, 2020 - Environmental Research
+    quote !b = Overall, we tested 34 RNA extractions for the E, N and RdRP genes, reporting 20 positive results for at least one of the three marker genes, with positivity separately confirmed for all the three markers.
+
+    / September, 2020 - Environmental Research
+    quote !c = COVID-19 burden seems more severe in areas with high concentrations of PM (particulate matter).
+
+  #
+  // SARS-CoV-2 infection rates of antibody-positive compared with antibody-negative health-care workers in England: a large, multicentre, prospective cohort study (SIREN)
+  doi: https://doi.org/10.1016/S0140-6736(21)00675-9
+  ref 'Hall_et_al_04_09_2021
+    head = We have presented the interim findings after 7 months of follow-up from the SIREN study (SARS-CoV-2 Immunity and Reinfection Evaluation study), a unique, large-scale, multicentre, prospective cohort study of health-care staff undergoing frequent asymptomatic testing, powered to detect and characterise reinfections and estimate the protective effect of SARS-CoV-2 antibodies. From June 18, 2020, to Dec 31, 2020, 30 625 participants were enrolled into the study.
+
+
+    > Background
+      Increased understanding of whether individuals who have recovered from COVID-19 are protected from future SARS-CoV-2 infection is an urgent requirement. We aimed to investigate whether antibodies against SARS-CoV-2 were associated with a decreased risk of symptomatic and asymptomatic reinfection.
+
+    > Methods
+      A large, multicentre, prospective cohort study was done, with participants recruited from publicly funded hospitals in all regions of England. All health-care workers, support staff, and administrative staff working at hospitals who could remain engaged in follow-up for 12 months were eligible to join The SARS-CoV-2 Immunity and Reinfection Evaluation study. Participants were excluded if they had no PCR tests after enrolment, enrolled after Dec 31, 2020, or had insufficient PCR and antibody data for cohort assignment. Participants attended regular SARS-CoV-2 PCR and antibody testing (every 2–4 weeks) and completed questionnaires every 2 weeks on symptoms and exposures. At enrolment, participants were assigned to either the positive cohort (antibody positive, or previous positive PCR or antibody test) or negative cohort (antibody negative, no previous positive PCR or antibody test). The primary outcome was a reinfection in the positive cohort or a primary infection in the negative cohort, determined by PCR tests. Potential reinfections were clinically reviewed and classified according to case definitions (confirmed, probable, or possible) and symptom-status, depending on the hierarchy of evidence. Primary infections in the negative cohort were defined as a first positive PCR test and seroconversions were excluded when not associated with a positive PCR test. A proportional hazards frailty model using a Poisson distribution was used to estimate incidence rate ratios (IRR) to compare infection rates in the two cohorts.
+
+    > Findings
+      From June 18, 2020, to Dec 31, 2020, 30 625 participants were enrolled into the study. 51 participants withdrew from the study, 4913 were excluded, and 25 661 participants (with linked data on antibody and PCR testing) were included in the analysis. Data were extracted from all sources on Feb 5, 2021, and include data up to and including Jan 11, 2021. 155 infections were detected in the baseline positive cohort of 8278 participants, collectively contributing 2 047 113 person-days of follow-up. This compares with 1704 new PCR positive infections in the negative cohort of 17 383 participants, contributing 2 971 436 person-days of follow-up. The incidence density was 7·6 reinfections per 100 000 person-days in the positive cohort, compared with 57·3 primary infections per 100 000 person-days in the negative cohort, between June, 2020, and January, 2021. The adjusted IRR was 0·159 for all reinfections (95% CI 0·13–0·19) compared with PCR-confirmed primary infections. The median interval between primary infection and reinfection was more than 200 days.
+
+    > Interpretation
+      A previous history of SARS-CoV-2 infection was associated with an 84% lower risk of infection, with median protective effect observed 7 months following primary infection. This time period is the minimum probable effect because seroconversions were not included. This study shows that previous infection with SARS-CoV-2 induces effective immunity to future infections in most individuals.
+
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / April, 2021 - The Lancet
+    quote !a = A previous history of SARS-CoV-2 infection was associated with an 84% lower risk of infection, with median protective effect observed 7 months following primary infection. This time period is the minimum probable effect because seroconversions were not included. This study shows that previous infection with SARS-CoV-2 induces effective immunity to future infections in most individuals.
+
+    # / April, 2021 - The Lancet
+    # quote !a = After 7 months of follow-up, this large observational study showed that previous SARS-CoV-2 infection protects most individuals against reinfection for an average of 7 months.
+
+    # / April, 2021 - The Lancet
+    # quote !a = This study supports the hypothesis that primary infection with SARS-CoV-2 provides a high degree of immunity to repeat infection in the short to medium term; with similar levels of prevention of symptomatic infection as the new licenced vaccines for working-age adults.
+
+    / April, 2021 - The Lancet
+    quote !b = We have also shown that immunity from previous infection is protective against reinfection with the B.1.1.7 variant.
+
+    / April, 2021 - The Lancet
+    quote !c = Primary infection also reduces the risk of asymptomatic infection and thus onward transmission.
+
+    # / April, 2021 - The Lancet
+    # quote !a = Our findings of a 93% lower risk of COVID-19 symptomatic infection, after a longer period of follow-up, show equal or higher protection from natural infection, both for symptomatic and asymptomatic infection.
+
+
+
+
+  #
+  // Reopening Italy’s Schools in September 2020: A Bayesian Estimation of the Change in the Growth Rate of New SARS-CoV-2 Cases
+  doi: https://doi.org/10.1101/2021.04.06.21254993
+  ref 'Casini_et_al_04_09_2021
+    head = We have applied a piecewise regression to the number of new daily CoViD-19 cases since September 1st, 2020 in order to highlight the start of the second wave and relate it to the reopening of schools in Italy.
+
+    > Objectives
+      CoViD-19’s second wave started a debate on the potential role of schools as a primary factor in the contagion resurgence. Two opposite positions appeared: those convinced that schools played a major role in spreading SARS-CoV-2 infections and those who were not. We studied the growth rate of the total number of SARS-CoV-2 infections in all the Italian regions, before and after the school reopening (September - October 2020), investigating the hypothesis of an association between schools and the resurgence of the virus in Italy.
+
+    > Methods
+      Using Bayesian piecewise linear regression to scrutinize the number of daily SARS-CoV-2 infections in each Italian, we looked for an estimate of a changepoint in the growth rate of those confirmed cases. We compared the changepoints with the school opening dates, for each Italian region. The regression allows to discuss the change in steepness of the infection curve, before and after the changepoint.
+
+    > Results
+      In 15 out of 21 Italian regions (71%), an estimated change in the rate of growth of the total number of daily SARS-CoV-2 infection cases occurred after an average of 16.66 days (CI 95% 14.47 to 18.73) since the school reopening. The number of days required for the SARS-CoV-2 daily cases to double went from an average of 47.50 days (CI 95% 37.18 to 57.61) before the changepoint to an average of 7.72 days (CI 95% 7.00 to 8.48) after it.
+
+    > Conclusion
+      Studying the rate of growth of daily SARS-CoV-2 cases in all the Italian regions provides some evidence in favor of a link between school reopening and the resurgence of the virus in Italy. The number of factors that could have played a role are too many to give a definitive answer. Still, the temporal correspondence warrants for a controlled experiment to clarify how much reopening schools mattered.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / April, 2021 - medRxiv.
+    quote !a = Studying the rate of growth of daily SARS-CoV-2 cases in all the Italian regions provides some evidence in favor of a link between school reopening and the resurgence of the virus in Italy. The number of factors that could have played a role are too many to give a definitive answer.
+
+    / April, 2021 - medRxiv.
+    quote !b = In 15 out of 21 Italian regions (71%), an estimated change in the rate of growth of the total number of daily SARS-CoV-2 infection cases occurred after an average of 16.66 days since the school reopening.
+
+    / April, 2021 - medRxiv.
+    quote !c = The number of days required for the SARS-CoV-2 daily cases to double went from an average of 47.50 days (CI 95% 37.18 to 57.61) before the changepoint to an average of 7.72 days (CI 95% 7.00 to 8.48) after it.
+
+
+
+  #
+  // Effectiveness of CoronaVac in the setting of high SARS-CoV-2 P.1 variant transmission in Brazil: A test-negative case-control study
+  doi: https://doi.org/10.1101/2021.04.07.21255081
+  ref 'Hitchings_et_al_04_07_2021
+    head = We performed a matched test-negative case-control study to estimate the effectiveness of an inactivated vaccine, CoronaVac, in healthcare workers (HCWs) in Manaus, where P.1 accounted for 75% of genotyped SARS-CoV-2 samples at the peak of its epidemic. Information from electronic surveillance databases was used to select cases of RT-PCR-confirmed SARS-CoV-2 infection and matched test-negative controls from 19 January, 2021 to 25 March, 2021.
+
+    > Background
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant P.1 emerged in the city of Manaus in late 2020 during a large resurgence of coronavirus disease (COVID-19), and has spread throughout Brazil. The effectiveness of vaccines in settings with widespread P.1 transmission has not been reported.
+
+    > Methods
+      We performed a matched test-negative case-control study to estimate the effectiveness of an inactivated vaccine, CoronaVac, in healthcare workers (HCWs) in Manaus, where P.1 accounted for 75% of genotyped SARS-CoV-2 samples at the peak of its epidemic. Information from electronic surveillance databases was used to select cases of RT-PCR-confirmed SARS-CoV-2 infection and matched test-negative controls from 19 January, 2021 to 25 March, 2021. We used conditional logistic regression to estimate the effectiveness in reducing the odds of primary and secondary outcomes of, respectively, symptomatic and any SARS-CoV-2 infection.
+
+    > Findings
+      Among 53,176 HCWs, 46,884 (88%) received at least one dose of CoronaVac and 2,656 (5%) underwent RT-PCR testing from 19 January, 2021 to 25 March, 2021. Of 2,797 RT-PCR tests, 776 (28%) were positive. 393 and 135 case-control pairs with and without, respectively, symptomatic illness were selected for the matched analyses. Vaccination with at least one dose was associated with a 0.50-fold reduction (adjusted vaccine effectiveness, 49.6%; 95% CI, 11.3 - 71.4) in the odds of symptomatic SARS-CoV-2 infection during the period 14 days or more after receiving the first dose. Estimated vaccine effectiveness of at least one dose against any SARS-CoV-2 infection was 35.1% (95% CI, −6.6 - 60.5) in the same time period.
+
+    > Interpretation
+      Administration of at least one dose of CoronaVac showed effectiveness against symptomatic SARS-CoV-2 infection in the setting of epidemic P.1 transmission, underscoring the need to increase vaccination efforts in response to the spread of this variant in Brazil and globally.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / April, 2021 - medRxiv
+    quote !a = Administration of at least one dose of CoronaVac showed effectiveness against symptomatic SARS-CoV-2 infection in the setting of epidemic P.1 transmission.
+
+    / April, 2021 - medRxiv
+    quote !b = Vaccination with at least one dose was associated with a 0.50-fold in the odds of symptomatic SARS-CoV-2 infection during the period 14 days or more after receiving the first dose.
+
+    / April, 2021 - medRxiv
+    quote !c = Estimated vaccine effectiveness of at least one dose against any SARS-CoV-2 infection was 35.1% in the same time period.
+
+
+
+  #
+  // Increasing frequency of SARS-CoV-2 lineages B.1.1.7, P.1 and P.2 and identification of a novel lineage harboring E484Q and N501T spike mutations in Minas Gerais, Southeast Brazil
+  doi: https://virological.org/t/increasing-frequency-of-sars-cov-2-lineages-b-1-1-7-p-1-and-p-2-and-identification-of-a-novel-lineage-harboring-e484q-and-n501t-spike-mutations-in-minas-gerais-southeast-brazil/676
+  ref 'Moreira_et_al_04_08_2021
+    head = We report preliminary results of an ongoing investigation of SARS-CoV-2 genomic diversity in the metropolitan region of Belo Horizonte (MRBH), Minas Gerais, Brazil. We sequenced and characterized 85 nearly complete SARS-CoV-2 genome sequences from randomized samples collected between 28 October 2020 and 15 March 2021.
+
+    > Summary
+      We report preliminary results of an ongoing investigation of SARS-CoV-2 genomic diversity in the metropolitan region of Belo Horizonte (MRBH), Minas Gerais, Brazil. We sequenced and characterized 85 nearly complete SARS-CoV-2 genome sequences from randomized samples collected between 28 October 2020 and 15 March 2021. Phylogenetic analysis reveals co-circulation of two variants of concern (VOC), B.1.1.7 (n=3, 3.53%) and P.1 (n=30, 35.29%), and variant of interest (VOI) P.2 (n=41, 48.23%). These variants harbor E484K (P.1 and P.2) and N501Y (P.1 and B.1.1.7) mutations that are associated with increased transmissibility or immune escape. The N501Y mutation has also been associated with an increase in COVID-19 hospitalizations and deaths. Notably, we find that between 28 Feb and 15 Mar, 68% of cases were caused by the P.1 lineage in the MRBH. In addition, we report a cluster of two sequences characterized by a unique array of 18 mutations, including new non-synonymous changes in the same critical spike amino acid positions, E484Q and N501T. This lineage seems to have emerged independently from the nationally widespread B.1.1.28, as previously reported for P.1 and P.2, and adds up to the composition of a complex epidemiological scenario of the SARS-CoV-2 pandemic in Brazil.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / April, 2021 - Virological.org
+    quote !a = Phylogenetic analysis reveals co-circulation of two variants of concern (VOC), B.1.1.7 (n=3, 3.53%) and P.1 (n=30, 35.29%), and variant of interest (VOI) P.2 (n=41, 48.23%). These variants harbor E484K (P.1 and P.2) and N501Y (P.1 and B.1.1.7) mutations that are associated with increased transmissibility or immune escape. The N501Y mutation has also been associated with an increase in COVID-19 hospitalizations and deaths.
+
+    / April, 2021 - Virological.org
+    quote !b = We find that between 28 Feb and 15 Mar, 68% of cases were caused by the P.1 lineage in the MRBH.
+
+    / April, 2021 - Virological.org
+    quote !c = We report a cluster of two sequences characterized by a unique array of 18 mutations, including new non-synonymous changes in the same critical spike amino acid positions, E484Q and N501T. This lineage seems to have emerged independently from the nationally widespread B.1.1.28, as previously reported for P.1 and P.2, and adds up to the composition of a complex epidemiological scenario of the SARS-CoV-2 pandemic in Brazil.
+
+
+
+  #
+  // SARS-CoV-2 outbreak in a long-term care facility after vaccination with BNT162b2Dirk Westhölter
+  doi: https://doi.org/10.1093/cid/ciab299
+  ref 'Westhölter_et_al_04_07_2021
+    head = We report a SARS-CoV-2 outbreak after application of the first dose of BNT162b2 vaccine in an elderly care home in North-Rhine Westfalia, Germany. In early January 2021 73/76 (96%) residents and about 90% of the employees received a first dose of BNT162b2.
+
+    - quotes
+      !a
+      !b
+
+    / April, 2021 - Clinical Infectious Diseases
+    quote !a = We report that a single dose of BNT162b2 did not prevent symptomatic and fatal outcomes of SARS-CoV-2 infections in this high-risk population up to 23 days after the initial vaccination indicating an incomplete protection against severe Covid-19 for that period.
+
+    / April, 2021 - Clinical Infectious Diseases
+    quote !b = Positive cases were detected 7 days (1), 14 days (10), 20 days (12) and 23 days (3) after the first vaccination. Only 3/26 (12%) residents were symptomatic at the time of diagnosis while 12/26 (46%) positively tested residents developed symptoms in the further course. Overall case fatality rate was 9/26 (35%). Of note, 5 of the 9 patients with fatal outcome were diagnosed on day 20 after vaccination.
+
+
+
+  #
+  // Early introductions and transmission of SARS-CoV-2 variant B.1.1.7 in the United States
+  doi: https://doi.org/10.1016/j.cell.2021.03.061
+  ref 'Alpert_et_al_04_02_2021
+    head = Using travel, genomic, and diagnostic data, we highlight that the primary ports of entry for B.1.1.7 in the US were in New York, California, and Florida.
+
+    > Summary
+      The emergence and spread of SARS-CoV-2 lineage B.1.1.7, first detected in the United Kingdom, has become a global public health concern because of its increased transmissibility. Over 2500 COVID-19 cases associated with this variant have been detected in the US since December 2020, but the extent of establishment is relatively unknown. Using travel, genomic, and diagnostic data, we highlight that the primary ports of entry for B.1.1.7 in the US were in New York, California, and Florida. Furthermore, we found evidence for many independent B.1.1.7 establishments starting in early December 2020, followed by interstate spread by the end of the month. Finally, we project that B.1.1.7 will be the dominant lineage in many states by mid to late March. Thus, genomic surveillance for B.1.1.7 and other variants urgently needs to be enhanced to better inform the public health response.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - Cell
+    quote !a = Flight data identifies NY, CA, and FL were high risk for importing B.1.1.7.
+
+    / April, 2021 - Cell
+    quote !b = B.1.1.7 was introduced separately to multiple US states starting in Dec 2020.
+
+    / April, 2021 - Cell
+    quote !c = Phylogenetic analysis shows evidence for domestic spread between regions in US.
+
+    / April, 2021 - Cell
+    quote !d = Exponential growth of B.1.1.7 projects that it will be the dominant lineage in many states by mid to late March.
+
+
+  #
+  // Cross-Reactive Neutralizing Antibody Responses Elicited by SARS-CoV-2 501Y.V2 (B.1.351)
+  doi: https://doi.org/10.1056/NEJMc2104192
+  ref 'Moyo-Gwete_et_al_04_07_2021
+    head = We performed the reverse experiment by assessing the cross-reactivity of the plasma neutralizing responses in the Groote Schuur Hospital cohort of patients with 501Y.V2 infection against the original variant and against 501Y.V3 (P.1), the variant first described in Brazil.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = 501Y.V2 elicits robust neutralizing antibody responses against both the original variant and 501Y.V3 (P.1), which indicates high levels of cross-reactivity. Our data indicate that vaccines built on the spike protein of 501Y.V2 may be promising candidates for the elicitation of cross-reactive neutralizing antibody responses to SARS-CoV-2.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = We first tested 57 plasma samples from patients at Groote Schuur Hospital against both 501Y.V2 and the original variant and found that 53 of 57 samples maintained neutralization activity against the original variant, with a geometric mean titer of 203.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = We tested a subset of 10 plasma samples against the 501Y.V3 (P.1) variant and found high levels of neutralization of this variant, with some samples showing higher potency against 501Y.V3 (P.1) than against 501Y.V2, a finding that may be due to the very different N-terminal domains of these variants.
+
+
+
+  #
+  // Neutralizing Response against Variants after SARS-CoV-2 Infection and One Dose of BNT162b2
+  doi: https://doi.org/10.1056/NEJMc2104036
+  ref 'Lustig_et_al_04_07_2021
+    head = A microneutralization assay with isolates of the original virus (sublineage B.1) and the B.1.1.7, B.1.351, and P.1 variants was performed on 18 serum samples from six health care workers (All six were women- 32 to 67 years of age) previously infected with SARS-CoV-2, with a sample obtained from each patient at three time points: 1 to 12 weeks after natural infection, immediately before vaccination, and 1 to 2 weeks after vaccination
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = This study showed that, in our small cohort, one vaccine dose substantially increased neutralizing activity against all variants tested, with similar titers detected across patients for each variant.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = Samples obtained at the first time point had neutralizing activity against the original virus and the B.1.1.7 and P.1 variants, with geometric mean titers of 456, 256, and 71, respectively, but had little or no neutralizing activity against the B.1.351 variant, with a geometric mean titer of 8.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = At the second time point, geometric mean titers were 81, 40, 36, and 7 for the original virus and the B.1.1.7, P.1, and B.1.351 variants, respectively.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !d = At the third time point, geometric mean titers were 9195, 8192, 2896, and 1625 for the original virus and the B.1.1.7, P.1, and B.1.351 variants, respectively — that is, the titers after vaccination were 114, 203, 81, and 228 times as high as the titers immediately before vaccination
+
+
+
+  #
+  // Glucocorticoids and B Cell Depleting Agents Substantially Impair Immunogenicity of mRNA Vaccines to SARS-CoV-2
+  doi: https://doi.org/10.1101/2021.04.05.21254656
+  ref 'Deepak_et_al_04_07_2021
+    head = We conducted a prospective assessment of mRNA-based vaccine immunogenicity in 133 adults with Chronic Inflammatory Diseases (CID) and 53 immunocompetent controls.
+
+    > Background
+      Individuals with Chronic Inflammatory Diseases (CID) are frequently treated with immunosuppressive medications that can increase their risk of severe COVID-19. While novel mRNA-based SARS-CoV-2 vaccination platforms provide robust protection in immunocompetent individuals, the immunogenicity in CID patients on immunosuppression is not well established. Therefore, determining the potency of SARS-CoV-2 vaccines in the setting of immunosuppression is essential to risk-stratify CID patients with impaired protection and provide clinical guidance regarding medication management.
+
+    > Methods
+      We conducted a prospective assessment of mRNA-based vaccine immunogenicity in 133 adults with CIDs and 53 immunocompetent controls. Blood from participants over 18 years of age was collected before initial immunization and 1-2 weeks after the second immunization. Serum anti-SARS-CoV-2 spike (S) IgG+ binding, neutralizing antibody titers, and circulating S-specific plasmablasts were quantified to assess the magnitude and quality of the humoral response following vaccination.
+
+    > Results
+      Compared to immunocompetent controls, a three-fold reduction in anti-S IgG titers (P=0.009) and SARS-CoV-2 neutralization (p<0.0001) were observed in CID patients. B cell depletion and glucocorticoids exerted the strongest effect with a 36- and 10-fold reduction in humoral responses, respectively (p<0.0001). Janus kinase inhibitors and antimetabolites, including methotrexate, also blunted antibody titers in multivariate regression analysis (P<0.0001, P=0.0023, respectively). Other targeted therapies, such as TNF inhibitors, IL-12/23 inhibitors, and integrin inhibitors, had only modest impacts on antibody formation and neutralization.
+
+    > Conclusions
+      CID patients treated with immunosuppressive therapies exhibit impaired SARS-CoV-2 vaccine-induced immunity, with glucocorticoids and B cell depletion therapy more severely impeding optimal responses.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / April, 2021 - medRxiv
+    quote !a = Compared to immunocompetent controls, a three-fold reduction in anti-S IgG titers (P=0.009) and SARS-CoV-2 neutralization (p<0.0001) were observed in CID patients.
+
+    / April, 2021 - medRxiv
+    quote !b = B cell depletion and glucocorticoids exerted the strongest effect with a 36- and 10-fold reduction in humoral responses, respectively.
+
+    / April, 2021 - medRxiv
+    quote !c = Janus kinase inhibitors and antimetabolites, including methotrexate, also blunted antibody titers in multivariate regression analysis (P<0.0001, P=0.0023, respectively). Other targeted therapies, such as TNF inhibitors, IL-12/23 inhibitors, and integrin inhibitors, had only modest impacts on antibody formation and neutralization.
+
+
+
+  #
+  // Reactive Infectious Mucocutaneous Eruption Associated With SARS-CoV-2 Infection
+  doi: https://doi.org/0.1001/jamadermatol.2021.0385
+  ref 'Holcomb_et_al_04_07_2021
+    head = This case highlights the first report of SARS-CoV-2–induced RIME in a 17 year old male and distinguishes this entity from other mucocutaneous eruptions, details its resolution with systemic steroids, and notes the potential for recurrence with subsequent milder symptoms.
+
 
     - quotes
       !a
 
-    / March, 2021 - JAMA Netw Open.
-    quote !a =
+    / April, 2021 - JAMA Dermatology
+    quote !a = The combination of anosmia and ageusia, multiple positive SARS-CoV-2 PCR tests, and no other identified contemporaneous infections (the elevated Mycoplasma pneumoniae IgG titer with low IgM titer and negative nasopharyngeal PCR likely indicated prior exposure) suggests SARS-CoV-2 as the infectious trigger.
+
+
+
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Science Brief: SARS-CoV-2 and Surface (Fomite) Transmission for Indoor Community Environments
+  doi: https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/surface-transmission.html
+  ref 'CDC_et_al_04_05_2021
+    head = CDC updated their Science brief regarding surface survival, Effectiveness of cleaning and disinfection, and Response to a case in an indoor environment, stating that people can be infected with SARS-CoV-2 through contact with surfaces. However, based on available epidemiological data and studies of environmental transmission factors, surface transmission is not the main route by which SARS-CoV-2 spreads, and the risk is considered to be low.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2021 - CDC
+    quote !a = The principal mode by which people are infected with SARS-CoV-2 is through exposure to respiratory droplets carrying infectious virus.
+
+    / April, 2021 - CDC
+    quote !b = In most situations, cleaning surfaces using soap or detergent, and not disinfecting, is enough to reduce risk. Disinfection is recommended in indoor community settings where there has been a suspected or confirmed case of COVID-19 within the last 24 hours.
+
+    / April, 2021 - CDC
+    quote !c = Based on limited epidemiologic and experimental data, the risk of infection from entering a space where a person with COVID-19 has been is low after 24 hours. After a person with suspected or confirmed COVID-19 has been in an indoor space, the risk of fomite transmission from any surfaces is minor after 3 days (72 hours), regardless of when it was last cleaned..
+
+
+    # / April, 2021 - CDC
+    # quote !a = There is little scientific support for routine use of disinfectants in community settings, whether indoor or outdoor, to prevent SARS-CoV-2 transmission from fomites. In public spaces and community settings, available epidemiological data and QMRA studies indicate that the risk of SARS-CoV-2 transmission from fomites is low—compared with risks from direct contact, droplet transmission or airborne transmission.
+
+
+    / April, 2021 - CDC
+    quote !d = Data from surface survival studies indicate that a 99% reduction in infectious SARS-CoV-2 and other coronaviruses can be expected under typical indoor environmental conditions within 3 days (72 hours) on common non-porous surfaces like stainless steel, plastic, and glass. However, experimental conditions on both porous and non-porous surfaces do not necessarily reflect real-world conditions, such as initial virus amount (e.g., viral load in respiratory droplets) and factors that can remove or degrade the virus, such as ventilation and changing environmental conditions 8, 9.
+
+    / April, 2021 - CDC
+    quote !e = They also do not account for inefficiencies in transfer of the virus between surfaces to hands and from hands to mouth, nose, and eyes. In fact, laboratory studies try to optimize the recovery of viruses from surfaces (e.g., purposefully swabbing the surface multiple times or soaking the contaminated surface in viral transport medium before swabbing).
+
+    / April, 2021 - CDC
+    quote !e = The risk of fomite transmission can be reduced by wearing masks consistently and correctly, practicing hand hygiene, cleaning, and taking other measures to maintain healthy facilities.
+
+
+
+  #
+  // Epidemiologic Evidence for Airborne Transmission of SARS-CoV-2 during Church Singing, Australia, 2020
+  doi: https://doi.org/10.3201/eid2706.210465
+  ref 'Katelaris_et_al_07_30_2021
+    head = We investigated a SARS-CoV-2 outbreak in a church in Sydney, New South Wales, Australia, and reviewed the epidemiologic and environmental findings to assess the possibility of airborne transmission of SARS-CoV-2.
+
+
+    > Abstract
+      An outbreak of severe acute respiratory syndrome coronavirus 2 infection occurred among church attendees after an infectious chorister sang at multiple services. We detected 12 secondary case-patients. Video recordings of the services showed that case-patients were seated in the same section, >15 m from the primary case-patient, without close physical contact, suggesting airborne transmission.
 
     - quotes
       !a
 
-    / March, 2021 - JAMA Netw Open.
-    quote !a =
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+    / March, 2021 - Emerging Infectious Diseases
+    quote !a = We detected 12 secondary case-patients linked to an infectious case-patient at church services on 2 days. Secondary case-patients were seated in the same area of the church, >15 m from the primary case-patient, with whom there was no evidence of close physical contact. We believe that transmission during this outbreak is best explained by airborne spread. Although we cannot completely exclude fomite transmission, this transmission would not explain the spatial clustering of case-patients within the church over 2 days.
 
-    - quotes
-      !a
 
-    / March, 2021 - JAMA Netw Open.
-    quote !a =
 
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Driving potent neutralization of a SARS-CoV-2 Variant of Concern with a heterotypic boost
+  doi: https://doi.org/10.1101/2021.04.03.438330
+  ref 'Sheward_et_al_04_05_2021
+    head = We immunized three rhesus macaques with two doses of soluble prefusion-stabilized Wu-Hu-1 spike protein (2 μg), adjuvanted with 50 μg of saponin-based Matrix-M™ (Novavax AB, Uppsala, Sweden), with a one-month interval between doses, mimicking an immunization schedule for approved SARS-CoV-2 vaccines.
+
+    > Abstract
+      The emergence of SARS-CoV-2 Variants of Concern (VOCs) with mutations in key neutralizing antibody epitopes threatens to undermine vaccines developed against the pandemic founder variant (Wu-Hu-1). Widespread vaccine rollout and continued transmission are creating a population that has antibody responses of varying potency to Wu-Hu-1. Against this background, it is critical to assess the outcomes of subsequent booster vaccination with variant antigens. It is not yet known whether such heterotypic vaccine boosts would be compromised by original antigenic sin, where pre-existing responses to a prior variant dampen responses to a new one, or whether the primed memory B cell repertoire would bridge the gap between Wu-Hu-1 and VOCs. Here, we show that a single adjuvanted dose of receptor binding domain (RBD) protein from VOC 501Y.V2 (B.1.351) drives an extremely potent neutralizing antibody response capable of cross-neutralizing both Wu-Hu-1 and 501Y.V2 in rhesus macaques previously immunized with Wu-Hu-1 spike protein.
 
     - quotes
       !a
+      !b
+      !c
+      !d
 
-    / March, 2021 - JAMA Netw Open.
-    quote !a =
+
+    / April, 2021 - bioRxiv
+    quote !a = We show that a single adjuvanted dose of receptor binding domain (RBD) protein from VOC 501Y.V2 (B.1.351) drives an extremely potent neutralizing antibody response capable of cross-neutralizing both Wu-Hu-1 and 501Y.V2 in rhesus macaques previously immunized with Wu-Hu-1 spike protein.
+
+    / April, 2021 - bioRxiv
+    quote !b = In contrast, for macaques previously immunized with three doses of Wu-Hu-1 spike, the reduced neutralization of 501Y.V2 compared to Wu-Hu-1 remained after the third homotypic spike immunization.
+
+    / April, 2021 - bioRxiv
+    quote !c = Despite weak immunogenicity as a priming antigen, soluble monomeric heterotypic RBD elicited a potent recall response. This was robust to the boosting dose, and effective as low as 2 μg, possibly aided by a dose-sparing effect of Matrix-M 21. This is particularly promising as RBD is a small, stable protein that can be rapidly synthesized and efficiently expressed.
+
+    / April, 2021 - bioRxiv
+    quote !d = After a single dose, neutralizing antibodies were detectable against Wu-Hu-1 but not 501Y.V2. Neutralizing antibody responses against Wu-Hu-1 were substantially boosted by the second immunization (GMT = 3980), and then waned over the following months as also reported in immunized humans
+
+
 
 
   #
@@ -7218,6 +8659,8 @@ feed Sangeeta
 
     - quotes
       !a
+      !b
+      !c
 
 
     / October, 2020 - The Lancet Infectious Diseases

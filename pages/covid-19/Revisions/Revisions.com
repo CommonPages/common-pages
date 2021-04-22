@@ -3,12 +3,28 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *April_22 mean April_22
   let *April_6 mean April_6
   let *March_31 mean March_31
   let *March_17 mean March_17
   let *masking mean Prevention.Masking
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_6, *March_31 and *March_17). You can *contribute by sending corrections and responding to open questions.
+
+
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_22, *April_6, *March_31 and *March_17). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: April-22-2021
+  / April 22, 2021
+  revision April_22
+    head = We have updated the latest trial results and real world data for all COVID-19 vaccines and have added a section on the thrombocytopenia and thrombotic complications developed after vaccination against SARS-CoV-2 with Johnson & Johnson/Janssen vaccine and ChAdOx1 nCov-19 following which, on April 13, 2021, the FDA and CDC had elected to pause the JJJ vaccine’s rollout in the US. As of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded there is a possible link between thrombosis and thrombocytopenia syndrome and J&J vaccine and that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. They also stressed that overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects.
+
+    -
+      Vaccines.Approved
+      Vaccines.Candidates
+    -
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia
+
 
   public: April-6-2021
   / April 6, 2021
@@ -43,7 +59,7 @@ revision feed Revisions
   revision March_17
     head = We have added a section on the observed severe adverse reactions to Oxford-AstraZeneca vaccine. As of March 10th, 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts.
     -
-      Vaccines.Approved.AZD1222.!Thrombosis
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia
 
   public: March-1-2021
   / March 1, 2021

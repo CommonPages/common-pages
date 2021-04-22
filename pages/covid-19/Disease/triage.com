@@ -96,6 +96,48 @@ index: hide
   #   'Dan_et_al_11_16_2020
 
 
+
+
+
+
+  ### UPDATE CLAIMS 4/20/21 ####
+
+  claim !Thromboembolicevents = Despite the severity of coronavirus disease 2019 (COVID-19) being more frequently related to acute respiratory distress syndrome and acute cardiac and renal injuries, thromboembolic events have been increasingly reported.
+    -
+      'Cavalcanti_et_al_06_30_2020
+      'Cavalcanti_et_al_06_30_2020.!a
+      'Cavalcanti_et_al_06_30_2020.!b
+      'Cavalcanti_et_al_06_30_2020.!c
+      'Cavalcanti_et_al_06_30_2020.!d
+      'Cavalcanti_et_al_06_30_2020.!e
+
+
+  claim !reinfection1 = Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months).
+    -
+      'Hall_et_al_04_09_2021
+      'Hall_et_al_04_09_2021.!a
+      'Hall_et_al_04_09_2021.!b
+      'Hall_et_al_04_09_2021.!c
+
+
+    
+  # 2 instructive reports on immunocompromised and covid today
+  claim ! = A case report of reinfection in a patient after liver transplant with serial virus genomic sequencing.
+    -
+      'Tomkins-Tinch_et_al_04_20_2021
+      'Tomkins-Tinch_et_al_04_20_2021.!a
+      'Tomkins-Tinch_et_al_04_20_2021.!b
+
+  >
+    One study identified lymphocyte changes in convalescent COVID-19 patients,  B cell changes seen during acute COVID-19 were largely restored in convalescence. T cells from convalescent COVID-19 patients displayed persistent changes. Lymphocyte signatures defined 3 convalescent patient groups, one with poorer outcomes.
+  -
+    'Shuwa_et_al_03_31_2021
+    'Shuwa_et_al_03_31_2021.!a
+    'Shuwa_et_al_03_31_2021.!b
+    'Shuwa_et_al_03_31_2021.!c
+    'Shuwa_et_al_03_31_2021.!d
+
+
   >
     Long COVID was characterized by symptoms of fatigue, headache, dyspnea and anosmia and was more likely with increasing age and body mass index and female sex. Experiencing more than five symptoms during the first week of illness was associated with long COVID
 
@@ -135,3 +177,10 @@ index: hide
       'Hansen_et_al_03_17_2021.!b
       'Hansen_et_al_03_17_2021.!c
       'Hansen_et_al_03_17_2021.!d
+
+
+  claim !RIME = A single study reported the observation of a newly associated mucocutaneous eruption (SARS-CoV-2–induced RIME) in a pediatric patient with confirmed SARS-CoV-2 infection.
+  -
+
+    'Holcomb_et_al_04_07_2021
+    'Holcomb_et_al_04_07_2021.!a

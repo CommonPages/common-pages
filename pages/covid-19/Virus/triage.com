@@ -87,3 +87,10 @@ index: hide
   -
     'Wibmer_et_al_01_19_2021
     'Wibmer_et_al_01_19_2021.!e
+
+
+  claim !SurfaceViabilitylimitations = Experimental conditions on both porous and non-porous surfaces do not necessarily reflect real-world conditions, such as initial virus amount (e.g., viral load in respiratory droplets) and factors that can remove or degrade the virus, such as ventilation and changing environmental conditions. They also do not account for inefficiencies in transfer of the virus between surfaces to hands and from hands to mouth, nose, and eyes. In fact, laboratory studies try to optimize the recovery of viruses from surfaces (e.g., purposefully swabbing the surface multiple times or soaking the contaminated surface in viral transport medium before swabbing).
+-
+  'CDC_et_al_04_05_2021
+  'CDC_et_al_04_05_2021.!e
+  'CDC_et_al_04_05_2021.!e

@@ -120,7 +120,7 @@ feed 2019
   # Aerosol
   // Recognition of aerosol transmission of infectious agents: a commentary
   doi: https://doi.org/10.1186/s12879-019-3707-y
-  ref 'Xiao_et_al_02_20_2020
+  ref 'Tellier_et_al_01_31_2019
     head = The potential for airborne transmission is much more dependent on various host, viral and environmental factors
 
     > Abstract
@@ -132,7 +132,7 @@ feed 2019
     / Jan, 2019 - BMC Infect Dis
     quote !a =
 
-    
+
 
   # Environment - Transmission - Humidity
   @@LinseyMarr

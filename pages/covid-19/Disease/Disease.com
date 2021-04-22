@@ -143,7 +143,7 @@ subject module Disease
           'Siddiqi_et_al_2020.!f
 
       / Blood Coagulation
-      claim !BloodCoagulation = There is growing evidence that COVID-19-infected patients are highly predisposed to developing blood clots.
+      claim !BloodCoagulation = Despite the severity of COVID-19 being more frequently related to acute respiratory distress syndrome and acute cardiac and renal injuries, thromboembolic events have been increasingly reported. There is growing evidence that COVID-19-infected patients are highly predisposed to developing blood clots. One study reported that the risk of the rare blood clotting known as cerebral venous thrombosis (CVT) following COVID-19 infection is around 100 times greater than normal, 10 times greater compared to mRNA vaccines and 8 times greater compared to AZ-Oxford vaccines or following influenza.
         -
           'Yin_et_al_2020
           'Xiong_et_al_2020
@@ -152,6 +152,16 @@ subject module Disease
           'Tang_et_al_2020
           'Ackermann_et_al_05_21_2020
           'Siddiqi_et_al_2020.!e
+        -
+          'Cavalcanti_et_al_06_30_2020
+          'Cavalcanti_et_al_06_30_2020.!a
+          'Cavalcanti_et_al_06_30_2020.!b
+          'Cavalcanti_et_al_06_30_2020.!c
+          'Cavalcanti_et_al_06_30_2020.!d
+          'Cavalcanti_et_al_06_30_2020.!e
+        -
+          Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!RiskCVT
+
 
       / Endothelial Cell Infection
       claim !EndothelialCellInfection = Some studies have lent evidence to the theory that COVID-19 can infect blood vessels. If true, this may explain not only the high prevalence of blood clots, strokes, and heart attacks, but also provide an answer for the diverse set of head-to-toe symptoms that have emerged.
@@ -268,10 +278,16 @@ subject module Disease
         'Hosier_et_al_2020
 
     / Air Pollution
-    claim !AirPollution = Two studies have suggested that long-term average exposure to air pollution increases vulnerability to the most severe COVID-19 outcomes.
+    claim !AirPollution = Few studies have suggested that long-term average exposure to air pollution increases vulnerability to the most severe COVID-19 outcomes.
       -
         'Wu_et_al_2020c
+      -
         'Setti_et_al_04_17_2020
+      -
+        'Setti_et_al_2020
+        'Setti_et_al_2020.!a
+        'Setti_et_al_2020.!b
+        'Setti_et_al_2020.!c
 
     / Vitamin D Levels
     dispute VitaminD

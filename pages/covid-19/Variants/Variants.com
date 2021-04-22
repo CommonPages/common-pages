@@ -447,7 +447,7 @@ subject Variants
         <td>T7161, S982A, D1118H </td>
         <tr>
         <th>Transmissibility</th>
-        <td> Increased-70% </td> 
+        <td> Increased-70% </td>
         </tr>
         <tr>
         <th>Lethality</th>
@@ -509,8 +509,8 @@ subject Variants
       Vaccines.Approved.Tozinameran.!Tcellresponses
       Vaccines.Approved.AZD1222.!Animalchallenge
       Vaccines.Candidates.NVX-CoV2373.!VaccineefficacyV1
+      Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
       !NTDneutralizing
-
     - Pre Existing Immunity
       !PreexistingImmunity
       !RetainedImmunity
@@ -990,11 +990,18 @@ subject Variants
       !PlasmablastResponsemRNA
       B117.!NTDneutralizing
       Vaccines.Approved.Gam-COVID-Vac.!SputnikB1351
+      Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
+      Vaccines.Approved.Sinopharm.!NoimmuneescapeB1351
+      Vaccines.Approved.Ad26COV2S.!Phase3ENSEMBLEtrial
+
     - Pre Existing Immunity
       !PreexistingImmunity
     - Cross Neutralization with other strains
       !CrossNeutralization
       !CrossNeutralizingactivity
+      Vaccines.Candidates.NVX-CoV2373.!Animalstudy
+      !NeutralizingantibodiesCrossreact
+
     - Treatment
       !Treatment
     - Mutation
@@ -1120,7 +1127,7 @@ subject Variants
         'Li_et_al_02_18_2021
         'Li_et_al_02_18_2021.!c
 
-    claim !CrossNeutralization =  Studies have found that Convalescent from 501Y.V2 neutralized 501Y.V1 and 501Y.V3. Researchers have stated that vaccines designed with the 501Y.V2 sequence may elicit more cross-reactive responses.
+    claim !CrossNeutralization = Studies have found that Convalescent from 501Y.V2 neutralized 501Y.V1 and 501Y.V3. Researchers have stated that vaccines designed with the 501Y.V2 sequence may elicit more cross-reactive responses.
       -
         'Cele_et_al_02_27_2021
         'Cele_et_al_02_27_2021.!a
@@ -1143,19 +1150,18 @@ subject Variants
         'Garcia-Beltran_et_al_03_12_2021.!d
         'Garcia-Beltran_et_al_03_12_2021.!e
         'Garcia-Beltran_et_al_03_12_2021.!f
-
-    claim !PlasmablastResponsemRNA = One study found that Polyclonal antibody responses in vaccinees were robust and comparable to or exceeded those seen after natural infection. However, that the ratio of binding to neutralizing antibodies after vaccination was greater than that after natural infection and, at the monoclonal level, study found that the majority of vaccine-induced antibodies did not have neutralizing activity. Neutralizing activity of NTD mAbs but not RBD mAbs against a clinical viral isolate carrying E484K as well as extensive changes in the NTD was abolished suggesting that a proportion of vaccine induced RBD binding antibodies may provide substantial protection against viral variants carrying E484K.
-      -
-        'Amanat_et_al_03_09_2021
-        'Amanat_et_al_03_09_2021.!a
-        'Amanat_et_al_03_09_2021.!b
-        'Amanat_et_al_03_09_2021.!c
-        'Amanat_et_al_03_09_2021.!d
-        'Amanat_et_al_03_09_2021.!e
-        'Amanat_et_al_03_09_2021.!f
-        'Amanat_et_al_03_09_2021.!g
-        'Amanat_et_al_03_09_2021.!h
-        'Amanat_et_al_03_09_2021.!i
+        claim !PlasmablastResponsemRNA = One study found that Polyclonal antibody responses in vaccinees were robust and comparable to or exceeded those seen after natural infection. However, that the ratio of binding to neutralizing antibodies after vaccination was greater than that after natural infection and, at the monoclonal level, study found that the majority of vaccine-induced antibodies did not have neutralizing activity. Neutralizing activity of NTD mAbs but not RBD mAbs against a clinical viral isolate carrying E484K as well as extensive changes in the NTD was abolished suggesting that a proportion of vaccine induced RBD binding antibodies may provide substantial protection against viral variants carrying E484K.
+          -
+            'Amanat_et_al_03_09_2021
+            'Amanat_et_al_03_09_2021.!a
+            'Amanat_et_al_03_09_2021.!b
+            'Amanat_et_al_03_09_2021.!c
+            'Amanat_et_al_03_09_2021.!d
+            'Amanat_et_al_03_09_2021.!e
+            'Amanat_et_al_03_09_2021.!f
+            'Amanat_et_al_03_09_2021.!g
+            'Amanat_et_al_03_09_2021.!h
+            'Amanat_et_al_03_09_2021.!i
 
     claim !TimelineSA = A study shows that a B.1.351 variant (501Y.V2) that rapidly became dominant in parts of South Africa towards the end of 2020 may have emerged from the coast of the Eastern Cape Province after the first wave of the epidemic, and suggest that this lineage is associated with a selection advantage, most plausibly as a result of increased transmissibility or immune escape.
       -
@@ -1168,6 +1174,15 @@ subject Variants
         'Montagutelli_et_al_03_18_2021
         'Montagutelli_et_al_03_18_2021.!a
         'Montagutelli_et_al_03_18_2021.!b
+
+    claim !NeutralizingantibodiesCrossreact = One study found that neutralizing antibodies against the B.1.351 (South African, 501Y.V2) variant cross-react to the original variant and against P.1 (Brazil, 501Y.V3), indicating that vaccines built on the spike protein of 501Y.V2 may be promising candidates for the elicitation of cross-reactive neutralizing antibody responses to SARS-CoV-2.
+
+      -
+        'Moyo-Gwete_et_al_04_07_2021
+        'Moyo-Gwete_et_al_04_07_2021.!a
+        'Moyo-Gwete_et_al_04_07_2021.!b
+        'Moyo-Gwete_et_al_04_07_2021.!c
+
 
   / P.1 (Identified in Brazil)
   subject P1Variant
@@ -1252,6 +1267,8 @@ subject Variants
       Vaccines.Approved.Tozinameran.!PreviouslyinfectedPfizer
       Variants.B1351.!PlasmablastResponsemRNA
       Variants.B117.!NTDneutralizing
+      Vaccines.Approved.CoronaVac.!Brazilsingledose
+      Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
     - T Cell Response
       Vaccines.Approved.Tozinameran.!Tcellresponses
 
@@ -1353,7 +1370,7 @@ subject Variants
     >
       <table>
         <tr>
-        <th> Spike Mutation</th>
+        <th> Spike Mutations</th>
         <td>F157L, V367F, Q613H, R102I, P681R and some more additional changes in amino acid is observed </td>
         </tr>
         <tr>
@@ -1399,6 +1416,46 @@ subject Variants
       'Annavajhala_et_al_02_25_2021.!a
       'Annavajhala_et_al_02_25_2021.!b
       'Annavajhala_et_al_02_25_2021.!c
+
+  / B.1.617 (Identified in India)
+  subject B1617
+    head =
+
+    >
+      <table>
+        <tr>
+        <th>Alternate Name</th>
+        <td></td>
+        </tr>
+        <tr>
+        <th>Spike mutations</th>
+        <td>5</td>
+        </tr>
+        <tr>
+        <th>Key Mutations in Spik (others are important)</th>
+        <td> L452R, E484Q, P681R </td>
+        </tr>
+        <tr>
+        <th>Transmissibility (vs ancestral)</th>
+        <td> Not established </td>
+        </tr>
+        <tr>
+        <th>Lethality</th>
+        <td> Not established</td>
+        </tr>
+        <tr>
+        <th>Immune Evasion</th>
+        <td> Very likely </td>
+        </tr>
+        <tr>
+        <th>Vaccine efficacy Clinical Trials and Lab Studies</th>
+        <td> No data</td>
+        </tr>
+        <tr>
+        <th>Countries reported (uptil April 18, 2021)</th>
+        <td>  </td>
+        </tr>
+      </table>
 
 
 

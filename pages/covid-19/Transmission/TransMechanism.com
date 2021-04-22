@@ -69,7 +69,7 @@ subject module TransMechanism
 
 
   # To read
-    # 'Xiao_et_al_02_20_2020	Recognition of aerosol transmission of infectious agents: a commentary.
+    # 'Tellier_et_al_01_31_2019 	Recognition of aerosol transmission of infectious agents: a commentary.
     # 'Bourouiba_et_al_04_25_2004	Violent expiratory events: on coughing and sneezing.
     # 'Duguid_et_al_05_15_2009
     # 'Tang_et_al_08_17_2006

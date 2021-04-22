@@ -4,10 +4,63 @@
   ############################################################################################
   # Everything below in this section is not updated claims.
   ############################################################################################
+
+  ##### 4/14/21
+
+  # MONOCLONAL ANTIBODY TREATMENT
+
+  claim !REGEN-COV = Regeneron Pharmaceuticals announced positive results from a Phase 3 trial (2069A) showing suggesting that the subcutaneous administration of REGEN-COV™ (casirivimab with imdevimab)-1,200 mg, reduced the risk of developing symptomatic Covid-19 infection by 81% in people living with someone infected by the new coronavirus. Among individuals who developed symptomatic infections, REGEN-COV recipients cleared the virus faster and had much shorter symptom duration.
+    -
+      'Regeneron_et_al_04_12_2021
+      'Regeneron_et_al_04_12_2021.!a
+      'Regeneron_et_al_04_12_2021.!b
+      'Regeneron_et_al_04_12_2021.!c
+      'Regeneron_et_al_04_12_2021.!d
+      'Regeneron_et_al_04_12_2021.!e
+
+
+  >
+    Measurements of indoor CO2 concentration by low-cost CO2 sensors can often be good indicators of infection risk and suitable for mass deployment.
+  -
+    'Peng_et_al_09_10_2020
+    'Peng_et_al_09_10_2020.!a
+    'Peng_et_al_09_10_2020.!b
+
+  >
+    Despite the dose-response for SARS-CoV-2 being unknown, and continued scientific debate about the dominant mode of transmission, evidence support these suggestions. First, SARS-CoV-2 is primarily transmitted from the exhaled respiratory aerosols of infected individuals. Larger droplets (>100 μm) can settle out of the air due to gravitational forces within 6 feet, but people emit 100 times more smaller aerosols (<5 μm) during talking, breathing, and coughing. Smaller aerosols can stay aloft for 30 minutes to hours and travel well beyond 6 feet.1 Second, high-profile and well-described SARS-CoV-2 outbreaks across multiple space types (eg, restaurants, gyms, choir practice, schools, buses) share the common features of time indoors and low levels of ventilation, even when people remained physically distanced.
+
+  >
+    his global immunization project presents a lot of firsts: the first authorized use of mRNA vaccines like the ones from Pfizer and Moderna; the first worldwide use of adenovirus vectors for vaccines like AstraZeneca’s, Johnson & Johnson’s, and Sputnik V; and the first attempt to immunize against a coronavirus. Which, if any, of these new frontiers might be linked to serious side effects? Which, if any, of the other vaccines could be drawn into this story, too? How can a tiny but disturbing risk be mitigated as we fight our way out of this pandemic? And what might be the implications for vaccine design in the years to come?
+
+    To answer these questions, scientists will have to figure out the biology behind this rare blood condition: what exactly causes it; when and why it happens. This is not an easy task.
+
+
+
   #### 2/9/21 ####
+
+
+
   # VACCINES QUESTIONS
 
+
+
+
    # mRNA vaccines will not affect our DNA??
+
+  >  transmission  document text- we can write like this
+    Much of our current understanding of the transmissibility of tuberculosis derives from inference and accident rather than from intentional scientific study. Published reports on various community outbreaks of tuberculosis have been particularly helpful in understanding the transmissibility of tuberculosis; in these reports, investigation of a cluster of cases has elucidated an important principle of disease transmission. In addition, numerous meticulous community-based studies have demonstrated repeatedly that a single variable the AFB smear status of the source case strongly predicts which patients are the most contagious. Beyond these observations, however, much has been left to speculation.
+
+    All the studies of airborne coronavirus transmission to date have used observational data and epidemiological modeling because conducting scientific experiments to detect tiny infective particles in large volumes of air is extremely difficult. In fact, there has been only one replicable, controlled experiment that definitively proved airborne spread of infectious respiratory disease.
+
+    Airborne transmission of SARS-CoV-2 has already played an important role in documented real-life COVID-19 spread in semi-enclosed environments [7, 13]; for example, cluster infection incidents in a choir in Washington State [14] and in a restaurant in Guangzhou, China [15].
+
+    available epidemiological data and QMRA studies
+
+    ques 2.5
+    If the aerosol route of transmission is confirmed to be important by the World Health Organization,20,69 we will need to reconsider guidelines on social distancing, ventilation systems, and shared spaces. To ensure that we put in place the correct mitigating measures, for example, face coverings, we need to have a better understanding of the different droplet behaviors and their different dispersion mechanisms depending on their size. This paper contributes to this debate by providing a new framework for categorizing droplets depending on their dispersion mechanism.
+
+  > create model
+    Systemic means affecting the entire body, rather than a single organ or body part. For example, systemic disorders, such as high blood pressure, or systemic diseases, such as the flu, affect the entire body. An infection that is in the bloodstream is called a systemic infection.
 
 
 
@@ -29,7 +82,7 @@
 
 
 
-  
+
 
 
 

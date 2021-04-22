@@ -62,6 +62,8 @@ subject module Vaccines
         !IsraelMassVaccination
         !IsraelMassVaccination2
         !Mohpressrelease
+        !IsraelvaccinationffectivnessCovid19outcomes
+        !Israelbenefitvaccinationprogram
       -
         !Scotland
       -
@@ -72,14 +74,23 @@ subject module Vaccines
         !RealworldevidenceSpain
       -
         !RealworldAnalysis
+      -
+        !GermanySingledoseincompleteprotection
+
       - Single Dose
         !Singledosemetastudy
         !SingleDoseHumoralPfizer
+        !Singledoseolderpeople
+        !GermanySingledoseincompleteprotection
       -
         !PriorInfectionSingleDose
         !PreviouslyinfectedPfizer
-      -
+        !PriorinfectionSingledoseBcells
+        !PriorinfectionPfizerneutralizingactivity
+      - Older People
         !OldAge
+        !Singledoseolderpeople
+        !GermanySingledoseincompleteprotection
       - Pregnant Women
         !PregnantwomenIgG
         !Fertility
@@ -87,6 +98,8 @@ subject module Vaccines
         !ChildrenPfizer
       - Solid organ transplant recipients
         !Solidorgantransplantrecipients
+      - Multiple Myeloma
+        !MultiplemyelomaPfizerAstraZeneca
       - Viral Load
         !Viralload
       - Asymptomatic Transmission
@@ -101,6 +114,7 @@ subject module Vaccines
         !NeutralizingActivityseconddose
         !ReducedtitiersagiantV2
         !PreviouslyinfectedPfizer
+        !PriorinfectionPfizerneutralizingactivity
       - Immune Response
         !Tcellresponses
         !BCellresponse
@@ -629,6 +643,70 @@ subject module Vaccines
           'Nytimes_et_al_03_31_2021.!a
 
 
+      claim !IsraelvaccinationffectivnessCovid19outcomes = Study of real-world effectiveness of the BNT162b2 mRNA vaccine (Pfizer) in Israel in over 1.1 million people suggested that it is effective for a wide range of Covid-19–related outcomes, a finding consistent with that of the randomized trial- for documented infection: 92% (88-95%); symptomatic Covid-19: 57%; hospitalization: 87%; and severe disease: 92%.
+        -
+          'Dagan_et_al_04_15_2021
+          'Dagan_et_al_04_15_2021.!a
+          'Dagan_et_al_04_15_2021.!b
+          'Dagan_et_al_04_15_2021.!c
+          'Dagan_et_al_04_15_2021.!d
+
+      claim !Israelbenefitvaccinationprogram = A large-scale, real-world data from Israel revealed that a larger and earlier decrease in COVID-19 cases and hospitalization in individuals older than 60 years, followed by younger age groups, by the order of vaccination prioritization. This pattern was not observed in the previous lockdown and was more pronounced in early-vaccinated cities.
+        -
+          'Rossman_et_al_04_19_2021
+          'Rossman_et_al_04_19_2021.!a
+          'Rossman_et_al_04_19_2021.!b
+
+      claim !PriorinfectionSingledoseBcells = One study analysis of antibodies and cellular memory reveals distinct responses to SARS-CoV-2 mRNA vaccines based on prior history of infection. The addition of memory B cells in this analysis, both in terms of frequency and phenotype, provides complemenary data that strengthens current serology-based evidence for a single-dose vaccine schedule in COVID-19 recovered individuals.
+
+      -
+        'Goel_et_al_04_15_2021
+        'Goel_et_al_04_15_2021.!a
+        'Goel_et_al_04_15_2021.!b
+        'Goel_et_al_04_15_2021.!c
+        'Goel_et_al_04_15_2021.!d
+        'Goel_et_al_04_15_2021.!e
+        'Goel_et_al_04_15_2021.!f
+
+
+      claim !Singledoseolderpeople = Single doses of either the BNT162b2 or ChAdOx1vaccine in older people thus induce humoral immunity in most donors and are markedly enhanced by previous infection. Cellular responses are weaker but show relative enhancement after the ChAdOx1 platform.
+      -
+        'Parry_et_al_04_13_2021
+        'Parry_et_al_04_13_2021.!a
+        'Parry_et_al_04_13_2021.!b
+        'Parry_et_al_04_13_2021.!c
+        'Parry_et_al_04_13_2021.!d
+
+
+      claim !MultiplemyelomaPfizerAstraZeneca = One study on 93 patients with multiple myeloma found anti-SARS-CoV-2 IgG in 56% of patients after their first vaccination, which rises to 70% when measuring Total antibody. There was no difference between the Pfizer and AstraZeneca vaccines, supporting the current advice for patients with multiple myeloma to receive whichever is available.
+        -
+          'Bird_et_al_04_19_2021
+          'Bird_et_al_04_19_2021.!a
+          'Bird_et_al_04_19_2021.!b
+          'Bird_et_al_04_19_2021.!c
+          'Bird_et_al_04_19_2021.!d
+          'Bird_et_al_04_19_2021.!e
+          'Bird_et_al_04_19_2021.!f
+
+      claim !GermanySingledoseincompleteprotection = Evidence from one real-world setting (an elderly care home in North-Rhine Westfalia, Germany) reported that a single dose of BNT162b2 did not prevent symptomatic and fatal outcomes of SARS-CoV-2 infections in this high-risk population up to 23 days after the initial vaccination indicating an incomplete protection against severe Covid-19 for that period.
+
+        -
+          'Westhölter_et_al_04_07_2021
+          'Westhölter_et_al_04_07_2021.!a
+          'Westhölter_et_al_04_07_2021.!b
+
+
+      claim !PriorinfectionPfizerneutralizingactivity = A small cohort study showed that one dose of the BNT162b2 vaccine substantially increased neutralizing activity against all variants (B.1.1.7, B.1.351, and P.1 variants) in persons previously infected with SARS-CoV-2. Similar titers were detected across patients for each variant.
+        -
+          'Lustig_et_al_04_07_2021
+          'Lustig_et_al_04_07_2021.!a
+          'Lustig_et_al_04_07_2021.!b
+          'Lustig_et_al_04_07_2021.!c
+          'Lustig_et_al_04_07_2021.!d
+
+
+
+
 
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
@@ -666,6 +744,7 @@ subject module Vaccines
         !Phase1Moderna
         !Durability
         !Phase3
+        !Phase3COVEstudyupdate
         !Phase2
       -
         Tozinameran.!TexasRealworld
@@ -673,6 +752,7 @@ subject module Vaccines
         Tozinameran.!Singledosemetastudy
       -
         Tozinameran.!PriorInfectionSingleDose
+        Tozinameran.!PriorinfectionSingledoseBcells
       - Old People
         !Olderpeople
         !Olderpeopledose
@@ -833,6 +913,16 @@ subject module Vaccines
           'Sanders_et_al_09_13_2013.!a
           'Sanders_et_al_09_13_2013.!b
 
+      claim !Phase3COVEstudyupdate = Moderna, Inc. shared an update on the Phase 3 COVE study of the Moderna COVID-19 Vaccine (mRNA-1273)- Moderna's vaccine has 90% efficacy against all cases of COVID19 & 95% efficacy against severe disease at the 6 month mark. New results from a preclinical study of the Company’s COVID-19 variant-specific vaccine candidates showed that the Company’s variant-specific booster vaccine candidates (mRNA-1273.351 and mRNA-1273.211) increase neutralizing titers against SARS-CoV-2 variants of concern. As of April 12, approximately 132 million doses have been delivered globally.
+        -
+          'Moderna_et_al_04_13_2021
+          'Moderna_et_al_04_13_2021.!a
+          'Moderna_et_al_04_13_2021.!b
+          'Moderna_et_al_04_13_2021.!c
+          'Moderna_et_al_04_13_2021.!d
+          'Moderna_et_al_04_13_2021.!e
+          'Moderna_et_al_04_13_2021.!f
+
     / Oxford–AstraZeneca
     subject AZD1222
       head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial.
@@ -882,6 +972,8 @@ subject module Vaccines
         Immediately after this press release (22 March 2021), [the Data and Safety Monitoring Board (DSMB) notified NIAID](https://www.nih.gov/news-events/news-releases/niaid-statement-astrazeneca-vaccine), BARDA, and AstraZeneca that it was concerned by information released by AstraZeneca on initial data from its COVID-19 vaccine clinical trial. The DSMB expressed concern that AstraZeneca may have included outdated information from that trial, which may have provided an incomplete view of the efficacy data. They urged the company to work with the DSMB to review the efficacy data and ensure the most accurate, up-to-date efficacy data be made public as quickly as possible.
       -
         !RevisedPRAstrazeneca
+      - Single Dose
+        Tozinameran.!Singledoseolderpeople
       - Pregnant Women
         Tozinameran.!Fertility
       - Efficacy against UK Variant
@@ -893,7 +985,7 @@ subject module Vaccines
       - Animal challenge
         !Animalchallenge
       - Adverse Reaction
-        !Thrombosis
+        !ThromboticThrombocytopenia
       - Key Concern
         !EffectiveDosing
       -
@@ -903,6 +995,8 @@ subject module Vaccines
         !LowDose
         !ReasoningLowDose
         !ReasoningLowDose2
+      - Multiple Myeloma
+        Tozinameran.!MultiplemyelomaPfizerAstraZeneca
       -
         Ad5-nCOV.!IntranasalDelivery
 
@@ -1043,102 +1137,318 @@ subject module Vaccines
           'Madhi_et_al_02_12_2021.!b
           'Madhi_et_al_02_12_2021.!c
 
-      / Thrombosis (Blood Clots)
-      claim !Thrombosis = As of March 10th of 2021, 30 thromboembolic events have been reported in Europe, following which several European countries have paused the AstraZeneca vaccine rollouts. Preliminary reviews have been completed. Experts so far, has found no indication that the recent reports of bloodclots were associated with the vaccine. AstraZeneca itself has reported no evidence of increased risk. Several scientists have urged that local background rates may be relevant. Experts advice that people should continue to take the vaccine as benefits outweigh the risk.
-        >
-          In September of 2020, [clinical crials](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/) of the AstraZeneca vaccine were put on hold in the US because of suspected adverse reactions. However, trials were [resumed](https://www.astrazeneca.com/media-centre/press-releases/2020/fda-authorises-restart-of-the-covid-19-azd1222-vaccine-us-phase-iii-trial.html) in October of 2020. In December of 2020, data reported from {Research.Sangeeta.'Voysey_et_al_12_08_2020 AstraZeneca’s clinical trials}, involving 24,000 people, found four thromboembolic events occurred in people given the vaccine.
-
-          As of March 10th of 2021, there have been 30 thromboembolic events reported from almost 5 million people given COVID vaccines in Europe. Soon after the reports were published several European countries have temporarily paused their rollout of the AstraZeneca vaccine due to concerns about bloodclots.
-
-        >
-          Rare symptoms has been seen in at least 13 patients, all between ages 20 and 50. A plausible mechanism for how they could have been caused by the vaccine has not been established. These conditions are also sometimes seen in people who have not received a COVID-19 vaccine or other vaccine. However, COVID-19 disease itself is also often associated with {Disease.Course.!SevereCases.!BloodCoagulation serious} {Disease.Course.!SevereCases.!CardiacDysfunction clotting problems}.
-        -
-          !RareEvent
-        >
-          The European Medicine Agency has stated that the number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population and currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
-        -
-          !EMA
-        >
-          On March 18th 2021, the TGA has not received any reports of blood clots following administration of the AstraZeneca COVID-19 vaccine in Australia.
-        -
-          !TGA
-        >
-          The [UK government has stated](https://www.gov.uk/government/news/mhra-response-to-danish-authorities-action-to-temporarily-suspend-the-astrazeneca-covid-19-vaccine) that in the UK, more than 11 million doses of the AstraZeneca vaccine have been administered, and the rate of blood clots has not been greater than the natural rate expected to occur. AstraZeneca itself in their press release have also reported that of 17 million people vaccinated in the United Kingdom and the European Union, no evidence of increased risk of blood clots has been found.
-        -
-          !Oxford
-          !Oxford1
-          !Oxford2
-
-        >
-          Scientists have urged investigation into the local background rates of these (and other) potential adverse events as past studies have reported that a small percentage of people will develop thromboembolic event at some point in their lives. The [background rate](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210833) of diseases that could be AEFI (adverse event following immunization) can be used to estimate the number of expected events within a known population over a period of time.
-        -
-          !ThrombosisPast
-          !ThrombosisRisk
+      / Thrombotic Thrombocytopenia (Blood Clots)
+      claim !ThromboticThrombocytopenia = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19 and Ad26.COV2.S vaccine (Johnson & Johnson/Janssen) suggesting a disorder that clinically resembles severe heparin-induced thrombocytopenia. One study indicated it is the adenovirus vector-based vaccines (ChAdOx1 nCoV-19 vaccine) that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. One case report of a patient (Ad26.COV2.S vaccine) suggests that the rare occurrence of vaccine-induced immune thrombotic thrombocytopenia (VITT) could be related to adenoviral vector vaccines. However, the manufacturers of Ad26.COV2.S vaccine hav argued that that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different. As of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded there is a possible link between thrombosis and thrombocytopenia syndrome and J&J vaccine and that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. They also stated that overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects.
 
 
+        / Oxford–AstraZeneca
+        subject ChAdOx1nCoV-19
+          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Couple of reports concluded that vaccination with the ChAdOx1 nCoV-19 vaccine may lead to rare thrombotic thrombocytopenia, infact one study indicated it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. However, one study results showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. More data is needed on the pathogenesis of this unusual clotting disorder.
 
-        / Past studies
-        claim !ThrombosisPast = Past studies have shown that Venous thrombosis, including deep vein thrombosis (DVT) and pulmonary embolism (PE), occurs at an annual incidence of about 1 per 1,000 adults. Rates increase sharply after about age 45 years, and are slightly higher in men than women in older age
+          >
+            In September of 2020, [clinical crials](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/) of the AstraZeneca vaccine were put on hold in the US because of suspected adverse reactions. However, trials were [resumed](https://www.astrazeneca.com/media-centre/press-releases/2020/fda-authorises-restart-of-the-covid-19-azd1222-vaccine-us-phase-iii-trial.html) in October of 2020. In December of 2020, data reported from {Research.Sangeeta.'Voysey_et_al_12_08_2020 AstraZeneca’s clinical trials}, involving 24,000 people, found four thromboembolic events occurred in people given the vaccine.
+
+            As of March 10th of 2021, there have been 30 thromboembolic events reported from almost 5 million people given COVID vaccines in Europe. Soon after the reports were published several European countries have temporarily paused their rollout of the AstraZeneca vaccine due to concerns about bloodclots.
+
+          >
+            Rare symptoms has been seen in at least 13 patients, all between ages 20 and 50. A plausible mechanism for how they could have been caused by the vaccine has not been established. These conditions are also sometimes seen in people who have not received a COVID-19 vaccine or other vaccine. However, COVID-19 disease itself is also often associated with {Disease.Course.!SevereCases.!BloodCoagulation serious} {Disease.Course.!SevereCases.!CardiacDysfunction clotting problems}.
           -
-            'Cushman_et_al_04_11_2007
-            'Cushman_et_al_04_11_2007.!a
-
-        claim !ThrombosisRisk = Past studies state that major risk factors for thrombosis, other than age, include exogenous factors such as surgery, hospitalization, immobility, trauma, pregnancy, and the puerperium and hormone use, and endogenous factors such as cancer, obesity, and inherited and acquired disorders of hypercoagulation.
+            !RareEvent
+          >
+            The European Medicine Agency has stated that the number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population and currently remains of the view that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalisation and death, outweigh the risks of side effects.
           -
-            'Cushman_et_al_04_11_2007
-            'Cushman_et_al_04_11_2007.!b
-
-        / European Medicines Agency
-        claim !EMA =  EMA has reported that Events involving blood clots, some with unusual features such as low numbers of platelets, have occurred in a very small number of people who received the vaccine. The number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population
+            !EMA
+          >
+            On March 18th 2021, the TGA has not received any reports of blood clots following administration of the AstraZeneca COVID-19 vaccine in Australia.
           -
-            'EMA_et_al_03_15_2021
-            'EMA_et_al_03_15_2021.!a
-            'EMA_et_al_03_15_2021.!b
+            !TGA
+          >
+            The [UK government has stated](https://www.gov.uk/government/news/mhra-response-to-danish-authorities-action-to-temporarily-suspend-the-astrazeneca-covid-19-vaccine) that in the UK, more than 11 million doses of the AstraZeneca vaccine have been administered, and the rate of blood clots has not been greater than the natural rate expected to occur. AstraZeneca itself in their press release have also reported that of 17 million people vaccinated in the United Kingdom and the European Union, no evidence of increased risk of blood clots has been found.
           -
-            'TGA_et_al_03_19_2021
-            'TGA_et_al_03_19_2021.!b
+            !Oxford
+            !Oxford1
+            !Oxford2
 
-        / TGA
-        claim !TGA = After a committee meeting on March 18th, TGA released an update which found the AstraZeneca vaccine is not associated with an overall increased risk of blood clots.
+          >
+            Scientists have urged investigation into the local background rates of these (and other) potential adverse events as past studies have reported that a small percentage of people will develop thromboembolic event at some point in their lives. The [background rate](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210833) of diseases that could be AEFI (adverse event following immunization) can be used to estimate the number of expected events within a known population over a period of time.
 
           -
-            'TGA_et_al_03_19_2021
-            'TGA_et_al_03_19_2021.!a
-            'TGA_et_al_03_19_2021.!b
-            'TGA_et_al_03_19_2021.!c
-            'TGA_et_al_03_19_2021.!d
-            'TGA_et_al_03_19_2021.!e
-            'TGA_et_al_03_19_2021.!f
+            !ThromboticThrombocytopeniareports
+          -
+            !ThrombosisPast
+            !ThrombosisRisk
 
-        / AstraZeneca on thrombosis incident
-        claim !Oxford = AstraZeneca has shown no evidence of an increased risk of pulmonary embolism, deep vein thrombosis (DVT) or thrombocytopenia, in any defined age group, gender, batch or in any particular country.
-          -
-            'AstraZeneca_et_al_03_14_2021
-            'AstraZeneca_et_al_03_14_2021.!a
 
-        / AstraZeneca on Natural Occurrence
-        claim !Oxford1 = The cases reported are much lower than would be expected to occur naturally in a general population of this size and is similar across other licensed COVID-19 vaccines.
-          -
-            'AstraZeneca_et_al_03_14_2021
-            'AstraZeneca_et_al_03_14_2021.!b
 
-        / AstraZeneca on clinical trials
-        claim !Oxford2 = In clinical trials, even though the number of thrombotic events was small, these were lower in the vaccinated group. There has also been no evidence of increased bleeding in over 60,000 participants enrolled.
-          -
-            'AstraZeneca_et_al_03_14_2021
-            'AstraZeneca_et_al_03_14_2021.!c
 
-        / Rare types of Blood Clots
-        claim !RareEvent = Patients have been reported to suffer from widespread blood clots, low platelet counts, and internal bleeding—not typical strokes or blood clots.
+
+          / Past studies
+          claim !ThrombosisPast = Past studies have shown that Venous thrombosis, including deep vein thrombosis (DVT) and pulmonary embolism (PE), occurs at an annual incidence of about 1 per 1,000 adults. Rates increase sharply after about age 45 years, and are slightly higher in men than women in older age
+            -
+              'Cushman_et_al_04_11_2007
+              'Cushman_et_al_04_11_2007.!a
+
+          claim !ThrombosisRisk = Past studies state that major risk factors for thrombosis, other than age, include exogenous factors such as surgery, hospitalization, immobility, trauma, pregnancy, and the puerperium and hormone use, and endogenous factors such as cancer, obesity, and inherited and acquired disorders of hypercoagulation.
+            -
+              'Cushman_et_al_04_11_2007
+              'Cushman_et_al_04_11_2007.!b
+
+          / European Medicines Agency
+          claim !EMA = EMA has reported that Events involving blood clots, some with unusual features such as low numbers of platelets, have occurred in a very small number of people who received the vaccine. The number of thromboembolic events overall in vaccinated people seems not to be higher than that seen in the general population
+            -
+              'EMA_et_al_03_15_2021
+              'EMA_et_al_03_15_2021.!a
+              'EMA_et_al_03_15_2021.!b
+            -
+              'TGA_et_al_03_19_2021
+              'TGA_et_al_03_19_2021.!b
+
+          / TGA
+          claim !TGA = After a committee meeting on March 18th, TGA released an update which found the AstraZeneca vaccine is not associated with an overall increased risk of blood clots.
+
+            -
+              'TGA_et_al_03_19_2021
+              'TGA_et_al_03_19_2021.!a
+              'TGA_et_al_03_19_2021.!b
+              'TGA_et_al_03_19_2021.!c
+              'TGA_et_al_03_19_2021.!d
+              'TGA_et_al_03_19_2021.!e
+              'TGA_et_al_03_19_2021.!f
+
+          / AstraZeneca on thrombosis incident
+          claim !Oxford = AstraZeneca has shown no evidence of an increased risk of pulmonary embolism, deep vein thrombosis (DVT) or thrombocytopenia, in any defined age group, gender, batch or in any particular country.
+            -
+              'AstraZeneca_et_al_03_14_2021
+              'AstraZeneca_et_al_03_14_2021.!a
+
+          / AstraZeneca on Natural Occurrence
+          claim !Oxford1 = The cases reported are much lower than would be expected to occur naturally in a general population of this size and is similar across other licensed COVID-19 vaccines.
+            -
+              'AstraZeneca_et_al_03_14_2021
+              'AstraZeneca_et_al_03_14_2021.!b
+
+          / AstraZeneca on clinical trials
+          claim !Oxford2 = In clinical trials, even though the number of thrombotic events was small, these were lower in the vaccinated group. There has also been no evidence of increased bleeding in over 60,000 participants enrolled.
+            -
+              'AstraZeneca_et_al_03_14_2021
+              'AstraZeneca_et_al_03_14_2021.!c
+
+          / Rare types of Blood Clots
+          claim !RareEvent = Patients have been reported to suffer from widespread blood clots, low platelet counts, and internal bleeding—not typical strokes or blood clots.
+            -
+              'Vogel_et_al_02_20_2020
+              'Vogel_et_al_02_20_2020.!a
+              'Vogel_et_al_02_20_2020.!b
+              'Vogel_et_al_02_20_2020.!c
+            -
+              'TGA_et_al_03_19_2021
+              'TGA_et_al_03_19_2021.!b
+              'TGA_et_al_03_19_2021.!c
+
+
+          / Thrombotic Thrombocytopenia Reports
+          claim !ThromboticThrombocytopeniareports = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Couple of reports concluded that vaccination with the ChAdOx1 nCoV-19 vaccine may lead to rare thrombotic thrombocytopenia, infact one study indicated it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. However, one study results showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. More data were needed on the pathogenesis of this unusual clotting disorder.
+            -
+              'Scully_et_al_04_16_2021
+              'Scully_et_al_04_16_2021.!a
+              'Scully_et_al_04_16_2021.!b
+              'Scully_et_al_04_16_2021.!c
+              'Scully_et_al_04_16_2021.!d
+              'Scully_et_al_04_16_2021.!e
+
+            -
+              'Greinacher_et_al_04_09_2021
+              'Greinacher_et_al_04_09_2021.!a
+              'Greinacher_et_al_04_09_2021.!b
+              'Greinacher_et_al_04_09_2021.!c
+              'Greinacher_et_al_04_09_2021.!d
+              'Greinacher_et_al_04_09_2021.!e
+              'Greinacher_et_al_04_09_2021.!f
+              'Greinacher_et_al_04_09_2021.!g
+              'Greinacher_et_al_04_09_2021.!h
+              'Greinacher_et_al_04_09_2021.!i
+              'Greinacher_et_al_04_09_2021.!j
+
+            -
+              'Schultz_et_al_04_09_2021
+              'Schultz_et_al_04_09_2021.!a
+              'Schultz_et_al_04_09_2021.!b
+              'Schultz_et_al_04_09_2021.!c
+              'Schultz_et_al_04_09_2021.!d
+              'Schultz_et_al_04_09_2021.!e
+              'Schultz_et_al_04_09_2021.!f
+              'Schultz_et_al_04_09_2021.!g
+
+            -
+              'Greinacher_et_al_08_28_2017
+              'Greinacher_et_al_08_28_2017.!a
+              'Greinacher_et_al_08_28_2017.!b
+              'Greinacher_et_al_08_28_2017.!c
+              'Greinacher_et_al_08_28_2017.!d
+              'Greinacher_et_al_08_28_2017.!e
+              'Greinacher_et_al_08_28_2017.!f
+
+            claim !DonotinduceVITT = One study found that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes, therefore making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT.
+
+              -
+                'Greinacher_et_al_2021
+                'Greinacher_et_al_2021.!a
+                'Greinacher_et_al_2021.!b
+                'Greinacher_et_al_2021.!c
+
+            claim !InduceVITT = One study findings indicates it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. It provides a mechanism by which an adenoviral vector vaccine can trigger an immune response leading to highly reactive anti-PF4 antibodies with downstream FcγIIa receptor-dependent amplification recruiting neutrophils and triggering NETosis with prothrombotic consequences.
+              -
+                'Greinacher_et_al_04_20_2021
+                'Greinacher_et_al_04_20_2021.!a
+                'Greinacher_et_al_04_20_2021.!b
+                'Greinacher_et_al_04_20_2021.!c
+
+        / Johnson & Johnson/Janssen
+        subject Ad26COV2S
+          head = One case study of extensive thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation that resembled autoimmune heparin-induced thrombocytopenia in a patient who had received the Ad26.COV2.S vaccine (Johnson & Johnson/Janssen). The case suggests that the rare occurrence of vaccine-induced immune thrombotic thrombocytopenia (VITT) could be related to adenoviral vector vaccines. However, the manufacturers of Ad26.COV2.S vaccine hav argued that that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different. As of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded there is a possible link between thrombosis and thrombocytopenia syndrome and J&J vaccine and that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. They also stated that overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects.
+
+          >
+            As of April 13, 2021, the Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC) have elected to pause the JJJ vaccine’s rollout in the US after receiving reports of six cases of CVSTs (cerebral venous sinus thromboses) with thrombocytopenia (low levels of blood platelets) occurring 7 to 14 days after vaccination.
+
+            In this time period, 6.8 million doses have been administered, thus the risk would be less than 1 per million as of right now. The mechanism for this phenomenon is not fully understood currently, but is thought to be due to an inappropriate immune response directed against platelets or elements of the coagulation cascade. The background rate of cerebral venous thrombosis which is thought to be 2 to 14 per million person-years. The scientists are not aware of a background rate for this combination of thrombocytopenia and CVSTs.
           -
-            'Vogel_et_al_02_20_2020
-            'Vogel_et_al_02_20_2020.!a
-            'Vogel_et_al_02_20_2020.!b
-            'Vogel_et_al_02_20_2020.!c
+            !CDCFDAStatement
           -
-            'TGA_et_al_03_19_2021
-            'TGA_et_al_03_19_2021.!b
-            'TGA_et_al_03_19_2021.!c
+            !Casereport
+            !Argument
+            !EMA
+
+
+          / Joint CDC and FDA Statement
+          claim !CDCFDAStatement = All six cases occurred among women between the ages of 18 and 48, and symptoms occurred 6 to 13 days after vaccination. In this setting, administration of heparin may be dangerous, and alternative treatments need to be given. People who have received the J&J vaccine who develop severe headache, abdominal pain, leg pain, or shortness of breath within three weeks after vaccination should contact their health care provider.
+            -
+              'Marks_et_al_04_13_2021
+              'Marks_et_al_04_13_2021.!a
+              'Marks_et_al_04_13_2021.!b
+              'Marks_et_al_04_13_2021.!c
+              'Marks_et_al_04_13_2021.!d
+              'Marks_et_al_04_13_2021.!e
+
+
+          / Case Report
+          claim !Casereport = One case study of extensive thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation that resembled autoimmune heparin-induced thrombocytopenia in a patient who had received the Ad26.COV2.S vaccine (Johnson & Johnson/Janssen). The case suggests that the rare occurrence of vaccine-induced immune thrombotic thrombocytopenia could be related to adenoviral vector vaccines.
+            -
+              'Muir_et_al_04_14_2021
+              'Muir_et_al_04_14_2021.!a
+              'Muir_et_al_04_14_2021.!b
+              'Muir_et_al_04_14_2021.!c
+
+          / Insufficient evidence to establish a causal relationship
+          claim !Argument = In a correspondence, the Manufacturers responded to a case report by Muir et al that describes thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation in a recipient of the Ad26.COV2.S vaccine against SARS-CoV-2, explaining that evidence is insufficient to establish a causal relationship between these events and the Ad26.COV2.S vaccine. Events reported in recipients of the Ad26.COV2.S vaccine are occurring within the range of published background incidence (0.2 to 1.57 per 100,000 person-years). They also responded to the suggestion made by Muir et al.- Covid-19 vaccines using an adenoviral (Ad) vector platform may be related to the occurrence of thrombotic thrombocytopenia, explaining that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different and these two adenoviral vector Covid-19 vaccines may have quite different biologic effects.
+
+            -
+              'Sadoff_et_al_04_16_2021
+              'Sadoff_et_al_04_16_2021.!a
+              'Sadoff_et_al_04_16_2021.!b
+              'Sadoff_et_al_04_16_2021.!c
+              'Sadoff_et_al_04_16_2021.!d
+              'Sadoff_et_al_04_16_2021.!e
+              'Sadoff_et_al_04_16_2021.!f
+
+
+          / European Medicines Agency
+          claim !EMA = At its meeting of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded there is a possible link between thrombosis and thrombocytopenia syndrome and J&J vaccine and that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. PRAC also concluded that these events should be listed as very rare side effects of the vaccine. They also stressed that overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects.
+            -
+              'EMA_et_al_04_20_2021
+              'EMA_et_al_04_20_2021.!a
+              'EMA_et_al_04_20_2021.!b
+              'EMA_et_al_04_20_2021.!c
+              'EMA_et_al_04_20_2021.!d
+              'EMA_et_al_04_20_2021.!e
+              'EMA_et_al_04_20_2021.!f
+
+
+
+        / Medical Evaluation for VITT
+        claim !Medicalevaluation = Healthcare professionals should tell people receiving the vaccine that they must seek medical attention if they develop: symptoms of blood clots such as shortness of breath, chest pain, leg swelling, persistent abdominal pain neurological symptoms such as severe and persistent headaches and blurred vision, tiny blood spots under the skin beyond the site of the injection.
+          -
+            'EMA_et_al_04_20_2021
+            'EMA_et_al_04_20_2021.!e
+          -
+            'Marks_et_al_04_13_2021
+            'Marks_et_al_04_13_2021.!e
+
+        / Treatment Approach
+        claim !Treatmentapproach = Case studies of Thrombotic Thrombocytopenia after ChAdOx1 nCov-19 and Ad26.COV2.S Vaccination found that inhibition of platelet activation by intravenous immune globulin paralleled its efficacy in the treatment of autoimmune heparin-induced thrombocytopenia. In this setting, administration of heparin may be dangerous. Non‐APTT‐adjusted therapies with drugs such as danaparoid and fondaparinux, or even direct oral anticoagulants, such as rivaroxaban or apixaban, are suggested therapies, especially for long‐term management of persisting HIT.
+
+          / Intravenous Immunoglobulin
+          claim !IntravenousImmunoglobulin = Case studies of Thrombotic Thrombocytopenia after ChAdOx1 nCov-19 and Ad26.COV2.S Vaccination found that inhibition of platelet activation by intravenous immune globulin paralleled its efficacy in the treatment of autoimmune heparin-induced thrombocytopenia. Past studies have also shown that High-dose IVIG appears to rapidly inhibit HIT antibody-induced platelet activation and has the potential to become an important treatment adjunct for HIT, particularly in patients with aHIT.
+            -
+              'Greinacher_et_al_04_09_2021
+              'Greinacher_et_al_04_09_2021.!j
+            -
+              'Schultz_et_al_04_09_2021
+              'Schultz_et_al_04_09_2021.!e
+            -
+              'Muir_et_al_04_14_2021
+              'Muir_et_al_04_14_2021.!b
+            -
+              'Scully_et_al_04_16_2021
+              'Scully_et_al_04_16_2021.!d
+
+
+            claim !PaststudiesIntravenousImmunoglobulin = A literature review describing the scientific rationale for the use of high-dose intravenous immunoglobulin (IVIG) found that High-dose IVIG appears to rapidly inhibit HIT antibody-induced platelet activation and has the potential to become an important treatment adjunct for HIT, particularly in patients with aHIT.
+              -
+                'Warkentin_et_al_07_05_2019
+                'Warkentin_et_al_07_05_2019.!a
+                'Warkentin_et_al_07_05_2019.!b
+                'Warkentin_et_al_07_05_2019.!c
+                'Warkentin_et_al_07_05_2019.!d
+
+          / Non‐APTT‐adjusted therapies
+          claim !nonAPTTadjustedtherapies = Published experience indicates frequent failure of activated partial thromboplastin time (APTT)‐adjusted anticoagulants (argatroban, bivalirudin), probably because of underdosing in the setting of HIT‐associated DIC, known as ‘APTT confounding’. Thus, non‐APTT‐adjusted therapies with drugs such as danaparoid and fondaparinux, or even direct oral anticoagulants, such as rivaroxaban or apixaban, are suggested therapies, especially for long‐term management of persisting HIT.
+            -
+              'Greinacher_et_al_08_28_2017
+              'Greinacher_et_al_08_28_2017.!e
+
+          / Heparin
+          claim !Heparin = Treatment of this specific type of blood clot is different from the treatment that might typically be administered. Usually, an anticoagulant drug called heparin is used to treat blood clots. In this setting, administration of heparin may be dangerous, and alternative treatments need to be given.
+            -
+             'Marks_et_al_04_13_2021
+             'Marks_et_al_04_13_2021.!e
+            -
+              'Muir_et_al_04_14_2021
+              'Muir_et_al_04_14_2021.!a
+            -
+              'Schultz_et_al_04_09_2021
+              'Schultz_et_al_04_09_2021.!e
+
+
+
+        /  Predictive Biomarker Signatures
+        claim !Biomarkers = aHIT can persist for several weeks, serial fibrin, D‐dimer, and fibrinogen levels, rather than the platelet count, may be helpful for monitoring treatment response.
+
+          -
+            'Greinacher_et_al_08_28_2017
+            'Greinacher_et_al_08_28_2017.!b
+            'Greinacher_et_al_08_28_2017.!d
+          -
+            'Scully_et_al_04_16_2021
+            'Scully_et_al_04_16_2021.!c
+          -
+            'Muir_et_al_04_14_2021
+            'Muir_et_al_04_14_2021.!d
+
+        / Risk of cerebral venous thrombosis (CVT)
+        claim !RiskCVT = One study reported that the risk of the rare blood clotting known as cerebral venous thrombosis (CVT) following COVID-19 infection is around 100 times greater than normal, 10 times greater compared to mRNA vaccines and 8 times greater compared to AZ-Oxford vaccines or following influenza.
+          -
+            'Taquet_et_al_04_15_2021
+            'Taquet_et_al_04_15_2021.!a
+            'Taquet_et_al_04_15_2021.!b
+            'Taquet_et_al_04_15_2021.!c
+            'Taquet_et_al_04_15_2021.!d
+            'Taquet_et_al_04_15_2021.!e
+
+        # / Anti-PF4 antibodies
+        # question ?Anti-PF4antibodies = How the development of pathologic platelet-activating anti-PF4 antibodies, unrelated to the use of heparin therapy, could be associated with vaccination against SARS-CoV-2?
+
+
+
 
       claim !PRAstrazeneca = On 22 March 2021, press release from AstraZeneca & Oxford for interim efficacy results from the US phase 3 trial reported 79% vaccine efficacy at preventing symptomatic COVID-19, 100% efficacy against severe or critical disease and hospitalisation with no increase adverse events (although number of severe events on placebo not disclosed), 80% efficacy in participants aged 65 years and over. No blood clots observed in 21,583 who were vaccinated, even with 60% of the people having some type of co-comorbidity.
         -
@@ -1173,6 +1483,120 @@ subject module Vaccines
           'Fischer_et_al_03_11_2021.!a
           'Fischer_et_al_03_11_2021.!b
           'Fischer_et_al_03_11_2021.!c
+
+    / Johnson & Johnson
+    subject Ad26COV2S
+      head = In Phase 1 & 2, trials authors reported favorable safety profile and immunogenicity for further clinical development. Phase 3 trials started in September of 2020 and is currently ongoing. In interim analysis, the single shot vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa. As of Feb of 2021, single shot J&J Vaccine has been approved for emergency use in USA, Baharain and South Africa.
+
+      >
+        [Janssen Pharmaceutica](https://www.janssen.com/) (Johnson & Johnson), BIDMC" is using non replicating viral vector. The Johnson & Johnson vaccine uses double-stranded DNA and is based on the virus’s genetic instructions for building the {Virus.Structure spike protein}. The researchers added the gene for the coronavirus spike protein to another virus called Adenovirus 26.
+
+        <table>
+          <tr>
+          <th>Vaccine Name</th>
+          <td>Ad26.COV2.S</td>
+          </tr>
+          <tr>
+          <th>Dose</th>
+          <td> 1 dose</td>
+          </tr>
+          <tr>
+          <th>Type</th>
+          <td>Muscle injection</td>
+          </tr>
+          <tr>
+          <th>Storage</th>
+          <td>Up to two years frozen at –4° F (–20° C), and up to three months refrigerated at 36–46° F (2–8° C)</td>
+          </tr>
+        </table>
+
+      -
+        !OngoingTrials
+        !AnimalStudies
+        !Phase12
+        !InterimResults
+        !Phase3
+        !FDAPhase3
+        !Phase1J&J
+        !Phase3ENSEMBLEtrial
+      - SA Variant
+        !SAVariant
+      - Adverse Effect
+        Approved.AZD1222.!ThromboticThrombocytopenia
+
+      / On-going  Trials
+      claim !OngoingTrials = Clinical Trials for Ad26.COV2.S started in June of 2020. Trials will evaluate Immunogenicity, Efficacy and Safety of Ad26.COV2.S vaccine. Estimated completion date for phase 3 trials is estimated to be March 2023.
+        -
+          'ClinicalTrials-NCT04505722_et_al_08_10_2020
+          'ClinicalTrials-NCT04436276_et_al_06_18_2020
+
+      / Studies on Animal
+      claim !AnimalStudies = One study in July of 2020 reported that Ad26 vaccine induced robust neutralizing antibody responses in rhesus macaques and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs following SARS-CoV-2 challenge.
+        -
+          'Mercado_et_al_07_2020
+          'Mercado_et_al_07_2020.!a
+          'Mercado_et_al_07_2020.!b
+          'Mercado_et_al_07_2020.!c
+
+      / Phase 1 & 2 trials
+      claim !Phase12 = In phase I-II trials Ad26.COV2.S was administered at a dose level of 5x1010 or 1x1011 viral particles (vp) per vaccination. In September of 2020 authors reported that the safety profile and immunogenicity after only a single dose are supportive for further clinical development of Ad26.COV2.S at a dose level of 5x1010 vp.
+        -
+          'Sadoff_et_al_09_25_2020
+          'Sadoff_et_al_09_25_2020.!a
+          'Sadoff_et_al_09_25_2020.!a1
+          'Sadoff_et_al_09_25_2020.!b
+          'Sadoff_et_al_09_25_2020.!c
+          'Sadoff_et_al_09_25_2020.!d
+
+      claim !InterimResults = Interim results of phase 1 & 2 trials were published in January of 2021. Authors reported that neutralizing-antibody titers against wild-type virus were detected in 90% or more of all participants on day 29 after the first vaccine dose and reached 100% by day 57 with a further increase in titers, regardless of vaccine dose or age group. Titers remained stable until at least day 71. Systemic adverse events were also reported.
+        -
+          'Sadoff_et_al_01_13_2021
+          'Sadoff_et_al_01_13_2021.!a
+          'Sadoff_et_al_01_13_2021.!b
+          'Sadoff_et_al_01_13_2021.!c
+          'Sadoff_et_al_01_13_2021.!d
+
+      claim !Phase3 = In Jan of 2021, J & J announced interim efficacy data of phase 3 trials. Vaccine Candidate 72% effective in the US and 66% effective overall at preventing moderate to severe COVID-19, 28 Days after vaccination. Vaccine is also 85% effective overall in preventing severe disease and demonstrated complete protection against COVID-19 related hospitalization and death as of day 28.
+        -
+          'J&J_et_al_01_29_2021
+          'J&J_et_al_01_29_2021.!a
+          'J&J_et_al_01_29_2021.!b
+
+
+      claim !FDAPhase3 = In Feb of 2021, FDA released a briefing document on updated data obtained from J&J trials. The vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa. The vaccine also showed 86% efficacy against severe forms of Covid-19 in the United States, and 82% against severe disease in South Africa. There were no reports of grade 4 local reactions & systemic reactions
+        -
+          'FDA_et_al_02_24_2021
+          'FDA_et_al_02_24_2021.!a
+          'FDA_et_al_02_24_2021.!b
+          'FDA_et_al_02_24_2021.!c
+
+      claim !SAVariant = J & J reported that protection against severe disease across geographies, ages, and multiple virus variants, including the SARS-CoV-2 variant from the B.1.351 Lineage was also observed in South Africa.
+        -
+          'J&J_et_al_01_29_2021
+          'J&J_et_al_01_29_2021.!c
+          'J&J_et_al_01_29_2021.!d
+
+      claim !Phase1J&J = Updated analysis of phase 1 trials was published on March of 2021. Phase 1 clinical trial enrolled 25 participants. Antibodies were detected in vaccine recipients by day 8 and were observed in all vaccine recipients by day 57 after a single immunization. T-cell responses were also generated in vaccine recipients.
+        -
+          'Stephenson_et_al_03_11_2021
+          'Stephenson_et_al_03_11_2021.!a
+          'Stephenson_et_al_03_11_2021.!b
+          'Stephenson_et_al_03_11_2021.!c
+          'Stephenson_et_al_03_11_2021.!d
+
+
+      claim !Phase3ENSEMBLEtrial = Results of the international, phase 3 ENSEMBLE trial were published in April of 2021. Authors reported that a single dose of Ad26.COV2.S protected against symptomatic Covid-19 and was particularly efficacious against severe–critical disease (including hospitalization and death)- 77% and 85% against disease (14 days and 28 day after administration), including in countries where variants that are considered to be relatively resistant to antibody neutralization predominate. Vaccine efficacy against 20H/501Y.V2 variant was 52.0% and 64.0% against moderate to severe–critical Covid-19 (14 days and 28 days after administration), and efficacy against severe–critical Covid-19 was 73.1% and 81.7%, respectively. This trial confirmed the findings from a phase 1–2a trial9 showing that Ad26.COV2.S had an acceptable safety and reactogenicity profile.
+        -
+          'Sadoff_et_al_04_21_2021
+          'Sadoff_et_al_04_21_2021.!a
+          'Sadoff_et_al_04_21_2021.!b
+          'Sadoff_et_al_04_21_2021.!c
+          'Sadoff_et_al_04_21_2021.!d
+          'Sadoff_et_al_04_21_2021.!e
+          'Sadoff_et_al_04_21_2021.!f
+          'Sadoff_et_al_04_21_2021.!g
+          'Sadoff_et_al_04_21_2021.!h
+          'Sadoff_et_al_04_21_2021.!i
 
     / CanSino Bio
     subject Ad5-nCOV
@@ -1355,7 +1779,7 @@ subject module Vaccines
 
     / Sputnik V
     subject Gam-COVID-Vac
-      head =  Sputnik V Phase 3 trials are currently ongoing. Phase 3 trial results were published in Feb of 2021. The vaccine showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort. As of Feb of 2021 Sputnik V has been approved for emergency use in 34 countries.
+      head =  Sputnik V Phase 3 trials are currently ongoing. Phase 3 trial results were published in Feb of 2021. The vaccine showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort. As of Feb of 2021 Sputnik V has been approved for emergency use in 34 countries. On April 19, 2021 The Gamaleya National Research Center of Epidemiology and Microbiology announced that the Sputnik V vaccine demonstrated efficacy of 97.6%, based on the analysis of infection rate data of almost 4 million vaccinated people with both components of Sputnik V in Russia.
 
       >
         [Sputnik V](https://sputnikvaccine.com/), is a Non-replicating viral vector. [Gam-COVID-Vac](https://en.wikipedia.org/wiki/Gam-COVID-Vac) is a viral two-vector vaccine based on two human adenoviruses — a common cold virus — containing the gene that encodes the {Virus.Structure spike protein} (S) of SARS-CoV-2 to stimulate an immune response. The recombinant adenovirus type-26 (rAd26, component I) and adenovirus type-5 (rAd5, Component II) are both used as vectors in the vaccine. They were biotechnology-derived and contain the SARS-CoV-2 S protein gene. Both of them are administered intramuscularly: the Ad26 based vaccine is used on the first day and the Ad5 vaccine is used on the 21st day to boost response.
@@ -1383,6 +1807,7 @@ subject module Vaccines
         !Phase12SputnikV
         !Phase3SputnikV
         !Phase3
+        !RealworldAnalysis
       - Vaccine related claims
         !SputnikB1351
 
@@ -1424,6 +1849,13 @@ subject module Vaccines
           'Logunov_et_al_02_02_2021.!b
           'Logunov_et_al_02_02_2021.!c
 
+
+      claim !RealworldAnalysis = On April 19, 2021 The Gamaleya National Research Center of Epidemiology and Microbiology announced that the Sputnik V vaccine demonstrated efficacy of 97.6%, based on the analysis of infection rate data of almost 4 million vaccinated people with both components of Sputnik V in Russia.
+        -
+          'SputnikV_et_al_04_19_2021
+          'SputnikV_et_al_04_19_2021.!a
+          'SputnikV_et_al_04_19_2021.!b
+
       claim !SputnikB1351 = One study has shown that Sputnik V Ad26 / Ad5 vaccine failed to neutralize rcVSV-CoV2-S: B.1.351.
         -
           'Ikegame_et_al_04_03_2021
@@ -1461,6 +1893,8 @@ subject module Vaccines
         !Phase12CoronaVac
         !Phase12OldPeople
         !Phase3Brazil
+      - Real World data
+        !Brazilsingledose
 
       / On going clinical trials
       claim !OngoingTrials = Clinical trials for Sinovac started since April 2020. The estimated completion date for phase 3 trials is October of 2021. Trials are on-going to evaluate the safety, tolerability, immunogenicity, and efficacy of CoronaVac Against COVID-19.
@@ -1493,6 +1927,14 @@ subject module Vaccines
           'Andreoni_et_al_01_13_2021
           'Andreoni_et_al_01_13_2021.!a
 
+
+      claim !Brazilsingledose = One observational study provided evidence for the effectiveness of CoronaVac in the setting of widespread P.1 transmission (Manaus). Estimated effectiveness after at least one dose of vaccine was 49.6% against symptomatic COVID-19, starting 14 days after administration of the first dose, symptomatic SARS-CoV-2 infection during the period 14 days or more after receiving the first dose.
+        -
+          'Hitchings_et_al_04_07_2021
+          'Hitchings_et_al_04_07_2021.!a
+          'Hitchings_et_al_04_07_2021.!b
+          'Hitchings_et_al_04_07_2021.!c
+
     / Sinopharm
     subject Sinopharm
       head = The Sinopharm vaccine for SARS-CoV-2 is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants. Sinopharm has announced that the vaccine has an efficacy of 79.34%. As of Feb of 2021, it has been approved for use in 17 countries.
@@ -1515,10 +1957,15 @@ subject module Vaccines
 
       >
         BBIBP-CorV is one of two inactivated virus COVID-19 vaccines being developed by Sinopharm.
-      -
+      - Animal Studies
         !AnimalStudies
+      - Ongoing Trials
         !OngoingTrials
+      - Phase 1 & 2
         !Phase12
+      - Efficacy against Variants
+        !NoimmuneescapeB1351
+
       >
         on Dec 9th of 2020, The U.A.E. gives full approval to BBIBP-CorV, [announcing](https://www.wam.ae/en/details/1395302893589) it has an efficacy rate of 86 percent. On Dec 30th of 2020, Sinopharm [announced](https://www.nytimes.com/2020/12/30/business/china-vaccine.html) that the vaccine has an efficacy of  79.34 percent rate in interim late-stage trials. However results of interim analysis has not been published yet.
 
@@ -1544,6 +1991,12 @@ subject module Vaccines
           'Xia_et_al_10_15_2020.!c
           'Xia_et_al_10_15_2020.!d
 
+
+      claim !NoimmuneescapeB1351 = One finding suggest that the 501Y.V2 variant does not escape the immunity induced by vaccines targeting the whole virus (BBIBP-CorV) or S protein dimeric RBD (ZF2001). The potential 1·5 to 1·6 times reduction in neutralising GMTs should be taken into account for their effect on the clinical efficacy of these vaccines.
+        -
+          'Huang_et_al_04_13_2021
+          'Huang_et_al_04_13_2021.!a
+          'Huang_et_al_04_13_2021.!b
 
 
 
@@ -1649,108 +2102,49 @@ subject module Vaccines
           'Bharatbiotech_et_al_03_23_2021
           'Bharatbiotech_et_al_03_23_2021.!a
 
-    / Johnson & Johnson
-    subject Ad26COV2S
-      head = In Phase 1 & 2, trials authors reported favorable safety profile and immunogenicity for further clinical development. Phase 3 trials started in September of 2020 and is currently ongoing. In interim analysis, the single shot vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa. As of Feb of 2021, single shot J&J Vaccine has been approved for emergency use in USA, Baharain and South Africa.
+    / ZF2001
+    subject ZF2001
+      head = ZF2001 is a COVID-19 vaccines developed in China. It is a recombinant dimeric receptor-binding domain (RBD) protein vaccine currently in phase 3 clinical trials and approved for emergency use in China and Uzbekistan. The vaccine has shown good immunogenicity in phase 1 and 2 trials.
 
-      >
-        [Janssen Pharmaceutica](https://www.janssen.com/) (Johnson & Johnson), BIDMC" is using non replicating viral vector. The Johnson & Johnson vaccine uses double-stranded DNA and is based on the virus’s genetic instructions for building the {Virus.Structure spike protein}. The researchers added the gene for the coronavirus spike protein to another virus called Adenovirus 26.
+      # The S protein RBD is an attractive vaccine target against COVID-19 To date, various vaccine candidates based on the RBD have shown efficacy in animal models against SARS-CoV, MERS-CoV, and SARS-CoV-2. Clinical data have been published for an RBD-based COVID-19 vaccine candidate, developed by BioNTech and Pfizer. This candidate, BNT162b1, is an mRNA-based vaccine and showed good immunogenicity in healthy adult volunteers, but it was not chosen for further development.
 
-        <table>
-          <tr>
-          <th>Vaccine Name</th>
-          <td>Ad26.COV2.S</td>
-          </tr>
-          <tr>
-          <th>Dose</th>
-          <td> 1 dose</td>
-          </tr>
-          <tr>
-          <th>Type</th>
-          <td>Muscle injection</td>
-          </tr>
-          <tr>
-          <th>Storage</th>
-          <td>Up to two years frozen at –4° F (–20° C), and up to three months refrigerated at 36–46° F (2–8° C)</td>
-          </tr>
-        </table>
-
-      -
-        !OngoingTrials
-        !AnimalStudies
+      - Preclinical Results
+        !Animalstudy
+      - Phase 1 & 2
         !Phase12
-        !InterimResults
-        !Phase3
-        !FDAPhase3
-        !Phase1J&J
-      - SA Variant
-        !SAVariant
+      - Efficacy against Variants
+        Sinopharm.!NoimmuneescapeB1351
 
-      / On-going  Trials
-      claim !OngoingTrials = Clinical Trials for Ad26.COV2.S started in June of 2020. Trials will evaluate Immunogenicity, Efficacy and Safety of Ad26.COV2.S vaccine. Estimated completion date for phase 3 trials is estimated to be March 2023.
+      / Phase I & II trials
+      claim !Phase12 = In the phase 1 and phase 2 trials the protein subunit vaccine ZF2001 appears to be well tolerated and immunogenic. The safety and immunogenicity data from the phase 1 and 2 trials support the use of the 25 μg dose in a three-dose schedule in an ongoing phase 3 trial for large-scale evaluation of ZF2001's safety and efficacy. Most adverse events were mild or moderate, with the most common symptoms being injection-site pain, redness, and swelling. Compared with mRNA-based vaccines or adenovirus-vectored vaccines, the occurrences of fever and fatigue were lower with ZF2001Compared with another protein subunit vaccine, NVX-CoV2373, which used Matrix-M1 as an adjuvant, the occurrences of injection-site pain, fatigue, headache, and nausea were also lower with ZF2001.
+
         -
-          'ClinicalTrials-NCT04505722_et_al_08_10_2020
-          'ClinicalTrials-NCT04436276_et_al_06_18_2020
+          'Yang_et_al_03_24_2021
+          'Yang_et_al_03_24_2021.!a
+          'Yang_et_al_03_24_2021.!b
+          'Yang_et_al_03_24_2021.!c
+          'Yang_et_al_03_24_2021.!d
+          'Yang_et_al_03_24_2021.!e
 
-      / Studies on Animal
-      claim !AnimalStudies = One study in July of 2020 reported that Ad26 vaccine induced robust neutralizing antibody responses in rhesus macaques and provided complete or near-complete protection in bronchoalveolar lavage and nasal swabs following SARS-CoV-2 challenge.
+
+      claim !Animalstudy = Preclinical results in animal models of both mice and Non-Human Primates(NHP) showed that ZF2001 vaccine was highly immunogenic in both mouse and NHP models, with high neutralizing GMTs against SARS-CoV-2. Two shots of vaccine protected both hACE2-transduced mice and NHPs against SARS-CoV-2 infection. No evidence of vaccine enhanced diseases was found in both models. This preclinical results in NHPs support the use of 25 μg vaccine dose to an ongoing Phase 3 large scale evaluation for safety and efficacy.
         -
-          'Mercado_et_al_07_2020
-          'Mercado_et_al_07_2020.!a
-          'Mercado_et_al_07_2020.!b
-          'Mercado_et_al_07_2020.!c
+          'An_et_al_03_11_2021
+          'An_et_al_03_11_2021.!a
+          'An_et_al_03_11_2021.!b
+          'An_et_al_03_11_2021.!c
+          'An_et_al_03_11_2021.!d
+          'An_et_al_03_11_2021.!e
+          'An_et_al_03_11_2021.!f
 
-      / Phase 1 & 2 trials
-      claim !Phase12 = In phase I-II trials Ad26.COV2.S was administered at a dose level of 5x1010 or 1x1011 viral particles (vp) per vaccination. In September of 2020 authors reported that the safety profile and immunogenicity after only a single dose are supportive for further clinical development of Ad26.COV2.S at a dose level of 5x1010 vp.
-        -
-          'Sadoff_et_al_09_25_2020
-          'Sadoff_et_al_09_25_2020.!a
-          'Sadoff_et_al_09_25_2020.!a1
-          'Sadoff_et_al_09_25_2020.!b
-          'Sadoff_et_al_09_25_2020.!c
-          'Sadoff_et_al_09_25_2020.!d
-
-      claim !InterimResults = Interim results of phase 1 & 2 trials were published in January of 2021. Authors reported that neutralizing-antibody titers against wild-type virus were detected in 90% or more of all participants on day 29 after the first vaccine dose and reached 100% by day 57 with a further increase in titers, regardless of vaccine dose or age group. Titers remained stable until at least day 71. Systemic adverse events were also reported.
-        -
-          'Sadoff_et_al_01_13_2021
-          'Sadoff_et_al_01_13_2021.!a
-          'Sadoff_et_al_01_13_2021.!b
-          'Sadoff_et_al_01_13_2021.!c
-          'Sadoff_et_al_01_13_2021.!d
-
-      claim !Phase3 = In Jan of 2021, J & J announced interim efficacy data of phase 3 trials. Vaccine Candidate 72% effective in the US and 66% effective overall at preventing moderate to severe COVID-19, 28 Days after vaccination. Vaccine is also 85% effective overall in preventing severe disease and demonstrated complete protection against COVID-19 related hospitalization and death as of day 28.
-        -
-          'J&J_et_al_01_29_2021
-          'J&J_et_al_01_29_2021.!a
-          'J&J_et_al_01_29_2021.!b
-
-
-      claim !FDAPhase3 = In Feb of 2021, FDA released a briefing document on updated data obtained from J&J trials. The vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa . The vaccine also showed 86% efficacy against severe forms of Covid-19 in the United States, and 82% against severe disease in South Africa. There were no reports of grade 4 local reactions & systemic reactions
-        -
-          'FDA_et_al_02_24_2021
-          'FDA_et_al_02_24_2021.!a
-          'FDA_et_al_02_24_2021.!b
-          'FDA_et_al_02_24_2021.!c
-
-      claim !SAVariant = J & J reported that protection against severe disease across geographies, ages, and multiple virus variants, including the SARS-CoV-2 variant from the B.1.351 Lineage was also observed in South Africa.
-        -
-          'J&J_et_al_01_29_2021
-          'J&J_et_al_01_29_2021.!c
-          'J&J_et_al_01_29_2021.!d
-
-      claim !Phase1J&J = Updated analysis of phase 1 trials was published on March of 2021. Phase 1 clinical trial enrolled 25 participants. Antibodies were detected in vaccine recipients by day 8 and were observed in all vaccine recipients by day 57 after a single immunization. T-cell responses were also generated in vaccine recipients.
-        -
-          'Stephenson_et_al_03_11_2021
-          'Stephenson_et_al_03_11_2021.!a
-          'Stephenson_et_al_03_11_2021.!b
-          'Stephenson_et_al_03_11_2021.!c
-          'Stephenson_et_al_03_11_2021.!d
 
     —
     subject EpiVacCorona
 
     —
     subject CoviVac
+
+
 
   / Candidate Vaccines
   subject Candidates
@@ -1789,6 +2183,8 @@ subject module Vaccines
         !Phase2
       -
         !Phase3Novavax
+      - Pre clinical study
+        !Animalstudy
       - UK and SA Variant
         !UKandSAvariant
         !VaccineefficacyV1
@@ -1863,6 +2259,13 @@ subject module Vaccines
         -
           'Novavax_et_al_03_11_2021
           'Novavax_et_al_03_11_2021.!c
+
+      claim !Animalstudy = Small preclinical study in non-human primates vaccinated with Novavax (Wu-Hu-1 spike protein, and then later with B.1.351 ("SA") variant of concern booster: showed that a single adjuvanted dose of receptor binding domain (RBD) protein from VOC 501Y.V2 (B.1.351) drives an extremely potent neutralizing antibody response capable of cross-neutralizing both Wu-Hu-1 and 501Y.V2.
+      -
+        'Sheward_et_al_04_05_2021
+        'Sheward_et_al_04_05_2021.!a
+        'Sheward_et_al_04_05_2021.!b
+        'Sheward_et_al_04_05_2021.!c
 
 
   / Vaccine Efficacy Against Variants
@@ -1958,6 +2361,11 @@ subject module Vaccines
       Candidates.NVX-CoV2373.!Vaccineefficacy2btrial
     - Johnson & Johnson
       Approved.Ad26COV2S.!SAVariant
+      Approved.Ad26COV2S.!Phase3ENSEMBLEtrial
+    - Sinopharm
+      Vaccines.Approved.Sinopharm.!NoimmuneescapeB1351
+    - ZF2001
+      Vaccines.Approved.Sinopharm.!NoimmuneescapeB1351
     - Other Claims (UK Variant)
       Variants.B117.!Phase3trialConcern
       Variants.B117.!VaccineEffectiveness
@@ -1979,11 +2387,14 @@ subject module Vaccines
 
       - Pfizer
         Approved.Tozinameran.!OldAge
+        Approved.Tozinameran.!Singledoseolderpeople
+        Approved.Tozinameran.!GermanySingledoseincompleteprotection
       - Moderna
         Approved.mRNA-1273.!Olderpeople
         Approved.mRNA-1273.!Olderpeopledose
       - Oxford
         Approved.AZD1222.!OldAge
+        Approved.Tozinameran.!Singledoseolderpeople
       - CanSinoBIO
         Approved.Ad5-nCOV.!Olderpeople
       - Sinovac
@@ -2040,6 +2451,8 @@ subject module Vaccines
 
       -
         Approved.Tozinameran.!PriorInfectionSingleDose
+        Approved.Tozinameran.!PriorinfectionSingledoseBcells
+        Approved.Tozinameran.!Singledoseolderpeople
       -
         !PreviouslyinfectedPfizer
         !Previouslyinfectedantibodyresponse1
@@ -2149,6 +2562,21 @@ subject module Vaccines
 
       -
         Approved.Tozinameran.!Solidorgantransplantrecipients
+
+    / Multiple Myeloma
+    subject Multiplemyeloma
+      head = One study on 93 patients with multiple myeloma found anti-SARS-CoV-2 IgG in 56% of patients after their first vaccination, which rises to 70% when measuring Total antibody. There was no difference between the Pfizer and AstraZeneca vaccines, supporting the current advice for patients with multiple myeloma to receive whichever is available.
+      -
+        Approved.Tozinameran.!MultiplemyelomaPfizerAstraZeneca
+
+
+    subject ChronicInflammatoryDiseasespatients
+      head = One study found that  Chronic Inflammatory Diseases (CID) Individuals with treated with immunosuppressive medications exhibited impaired SARS-CoV-2 vaccine-induced immunity, with glucocorticoids and B cell depletion therapy more severely impeding optimal responses.
+      -
+        'Deepak_et_al_04_07_2021
+        'Deepak_et_al_04_07_2021.!a
+        'Deepak_et_al_04_07_2021.!b
+        'Deepak_et_al_04_07_2021.!c
 
     / Long Covid
     subject LongCovid
