@@ -1486,7 +1486,7 @@ subject module Vaccines
 
     / Johnson & Johnson
     subject Ad26COV2S
-      head = In Phase 1 & 2, trials authors reported favorable safety profile and immunogenicity for further clinical development. Phase 3 trials started in September of 2020 and is currently ongoing. In interim analysis, the single shot vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa. As of Feb of 2021, single shot J&J Vaccine has been approved for emergency use in USA, Baharain and South Africa.
+      head = In Phase 1 & 2, trials authors reported favorable safety profile and immunogenicity for further clinical development. In interim analysis, the single shot vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa. Phase 3 RCT reported vaccine efficacy of 66% against infection and 85% against severe-critical Covid-19. Efficacy against SA B.1.351 was 64% against moderate disease and 82% against severe-critical disease.
 
       >
         [Janssen Pharmaceutica](https://www.janssen.com/) (Johnson & Johnson), BIDMC" is using non replicating viral vector. The Johnson & Johnson vaccine uses double-stranded DNA and is based on the virus’s genetic instructions for building the {Virus.Structure spike protein}. The researchers added the gene for the coronavirus spike protein to another virus called Adenovirus 26.
@@ -1585,7 +1585,8 @@ subject module Vaccines
           'Stephenson_et_al_03_11_2021.!d
 
 
-      claim !Phase3ENSEMBLEtrial = Results of the international, phase 3 ENSEMBLE trial were published in April of 2021. Authors reported that a single dose of Ad26.COV2.S protected against symptomatic Covid-19 and was particularly efficacious against severe–critical disease (including hospitalization and death)- 77% and 85% against disease (14 days and 28 day after administration), including in countries where variants that are considered to be relatively resistant to antibody neutralization predominate. Vaccine efficacy against 20H/501Y.V2 variant was 52.0% and 64.0% against moderate to severe–critical Covid-19 (14 days and 28 days after administration), and efficacy against severe–critical Covid-19 was 73.1% and 81.7%, respectively. This trial confirmed the findings from a phase 1–2a trial9 showing that Ad26.COV2.S had an acceptable safety and reactogenicity profile.
+      claim !Phase3ENSEMBLEtrial = Results of the international, phase 3 ENSEMBLE trial were published in April of 2021. Authors reported that a single dose of Ad26.COV2.S protected against symptomatic Covid-19 and was particularly efficacious against severe–critical disease (including hospitalization and death)- 66% against infection and 85% against severe-critical Covid-19. Vaccine efficacy against SA B.1.351 variant 64.0% against moderate disease and 81.7% against severe–critical disease. This trial confirmed the findings from a phase 1–2a trial showing that Ad26.COV2.S had an acceptable safety and reactogenicity profile.
+
         -
           'Sadoff_et_al_04_21_2021
           'Sadoff_et_al_04_21_2021.!a
@@ -1779,7 +1780,7 @@ subject module Vaccines
 
     / Sputnik V
     subject Gam-COVID-Vac
-      head =  Sputnik V Phase 3 trials are currently ongoing. Phase 3 trial results were published in Feb of 2021. The vaccine showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort. As of Feb of 2021 Sputnik V has been approved for emergency use in 34 countries. On April 19, 2021 The Gamaleya National Research Center of Epidemiology and Microbiology announced that the Sputnik V vaccine demonstrated efficacy of 97.6%, based on the analysis of infection rate data of almost 4 million vaccinated people with both components of Sputnik V in Russia.
+      head =  Sputnik V Phase 3 trials are currently ongoing. Phase 3 trial results were published in Feb of 2021. The vaccine showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort. On April 19, 2021 The Gamaleya National Research Center of Epidemiology and Microbiology announced that the Sputnik V vaccine demonstrated efficacy of 97.6%, based on the analysis of infection rate data of almost 4 million vaccinated people with both components of Sputnik V in Russia. As of Feb of 2021 Sputnik V has been approved for emergency use in 34 countries.
 
       >
         [Sputnik V](https://sputnikvaccine.com/), is a Non-replicating viral vector. [Gam-COVID-Vac](https://en.wikipedia.org/wiki/Gam-COVID-Vac) is a viral two-vector vaccine based on two human adenoviruses — a common cold virus — containing the gene that encodes the {Virus.Structure spike protein} (S) of SARS-CoV-2 to stimulate an immune response. The recombinant adenovirus type-26 (rAd26, component I) and adenovirus type-5 (rAd5, Component II) are both used as vectors in the vaccine. They were biotechnology-derived and contain the SARS-CoV-2 S protein gene. Both of them are administered intramuscularly: the Ad26 based vaccine is used on the first day and the Ad5 vaccine is used on the 21st day to boost response.
@@ -1864,7 +1865,7 @@ subject module Vaccines
 
     / Sinovac
     subject CoronaVac
-      head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. In Jan of 2021, Brazil announced that Sinovac has an efficacy rate just over 50 percent. As of Feb of 2021, Sinovac is approved for emergency use in 15 Countries.
+      head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. In Jan of 2021, Brazil announced that Sinovac has an efficacy rate just over 50 percent. Real world evidence showed that against P.1 variant, vaccine effiveness after at least one dose was 49.6% against symptomatic COVID-19. As of Feb of 2021, Sinovac is approved for emergency use in 15 Countries.
 
       >
         CoronaVac is developed by the Chinese biopharmaceutical company [Sinovac](http://www.sinovac.com/).  The vaccine contains chemically-inactivated whole SARS-CoV-2 virus.
@@ -1928,7 +1929,7 @@ subject module Vaccines
           'Andreoni_et_al_01_13_2021.!a
 
 
-      claim !Brazilsingledose = One observational study provided evidence for the effectiveness of CoronaVac in the setting of widespread P.1 transmission (Manaus). Estimated effectiveness after at least one dose of vaccine was 49.6% against symptomatic COVID-19, starting 14 days after administration of the first dose, symptomatic SARS-CoV-2 infection during the period 14 days or more after receiving the first dose.
+      claim !Brazilsingledose = One observational study showed that against the P.1 variant (Manaus) the estimated effectiveness after at least one dose of vaccine was 49.6% against symptomatic COVID-19.
         -
           'Hitchings_et_al_04_07_2021
           'Hitchings_et_al_04_07_2021.!a
@@ -1937,7 +1938,7 @@ subject module Vaccines
 
     / Sinopharm
     subject Sinopharm
-      head = The Sinopharm vaccine for SARS-CoV-2 is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants. Sinopharm has announced that the vaccine has an efficacy of 79.34%. As of Feb of 2021, it has been approved for use in 17 countries.
+      head = The Sinopharm vaccine for SARS-CoV-2 is in Phase III trials in Argentina, Bahrain, Egypt, Morocco, Pakistan, Peru, and the United Arab Emirates (UAE) with over 60,000 participants. Sinopharm has announced that the vaccine has an efficacy of 79.34%. One finding suggest that the 501Y.V2 variant does not escape the immunity induced by Sinopharm vaccine (BBIBP-CorV). As of Feb of 2021, it has been approved for use in 17 countries.
 
       >
         <table>
@@ -2104,7 +2105,7 @@ subject module Vaccines
 
     / ZF2001
     subject ZF2001
-      head = ZF2001 is a COVID-19 vaccines developed in China. It is a recombinant dimeric receptor-binding domain (RBD) protein vaccine currently in phase 3 clinical trials and approved for emergency use in China and Uzbekistan. The vaccine has shown good immunogenicity in phase 1 and 2 trials.
+      head = ZF2001 is a COVID-19 vaccines developed in China. It is a recombinant dimeric receptor-binding domain (RBD) protein vaccine currently in phase 3 clinical trials and approved for emergency use in China and Uzbekistan.  Preclinical results in animal models showed that ZF2001 vaccine was highly immunogenic in both mouse and Non-Human Primates(NHP), with high neutralizing GMTs against SARS-CoV-2. The vaccine has shown good immunogenicity in phase 1 and 2 trials. One finding suggest that the 501Y.V2 variant does not escape the immunity induced by  S protein dimeric RBD (ZF2001).
 
       # The S protein RBD is an attractive vaccine target against COVID-19 To date, various vaccine candidates based on the RBD have shown efficacy in animal models against SARS-CoV, MERS-CoV, and SARS-CoV-2. Clinical data have been published for an RBD-based COVID-19 vaccine candidate, developed by BioNTech and Pfizer. This candidate, BNT162b1, is an mRNA-based vaccine and showed good immunogenicity in healthy adult volunteers, but it was not chosen for further development.
 
