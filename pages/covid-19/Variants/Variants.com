@@ -1150,18 +1150,19 @@ subject Variants
         'Garcia-Beltran_et_al_03_12_2021.!d
         'Garcia-Beltran_et_al_03_12_2021.!e
         'Garcia-Beltran_et_al_03_12_2021.!f
-        claim !PlasmablastResponsemRNA = One study found that Polyclonal antibody responses in vaccinees were robust and comparable to or exceeded those seen after natural infection. However, that the ratio of binding to neutralizing antibodies after vaccination was greater than that after natural infection and, at the monoclonal level, study found that the majority of vaccine-induced antibodies did not have neutralizing activity. Neutralizing activity of NTD mAbs but not RBD mAbs against a clinical viral isolate carrying E484K as well as extensive changes in the NTD was abolished suggesting that a proportion of vaccine induced RBD binding antibodies may provide substantial protection against viral variants carrying E484K.
-          -
-            'Amanat_et_al_03_09_2021
-            'Amanat_et_al_03_09_2021.!a
-            'Amanat_et_al_03_09_2021.!b
-            'Amanat_et_al_03_09_2021.!c
-            'Amanat_et_al_03_09_2021.!d
-            'Amanat_et_al_03_09_2021.!e
-            'Amanat_et_al_03_09_2021.!f
-            'Amanat_et_al_03_09_2021.!g
-            'Amanat_et_al_03_09_2021.!h
-            'Amanat_et_al_03_09_2021.!i
+        
+    claim !PlasmablastResponsemRNA = One study found that Polyclonal antibody responses in vaccinees were robust and comparable to or exceeded those seen after natural infection. However, that the ratio of binding to neutralizing antibodies after vaccination was greater than that after natural infection and, at the monoclonal level, study found that the majority of vaccine-induced antibodies did not have neutralizing activity. Neutralizing activity of NTD mAbs but not RBD mAbs against a clinical viral isolate carrying E484K as well as extensive changes in the NTD was abolished suggesting that a proportion of vaccine induced RBD binding antibodies may provide substantial protection against viral variants carrying E484K.
+      -
+        'Amanat_et_al_03_09_2021
+        'Amanat_et_al_03_09_2021.!a
+        'Amanat_et_al_03_09_2021.!b
+        'Amanat_et_al_03_09_2021.!c
+        'Amanat_et_al_03_09_2021.!d
+        'Amanat_et_al_03_09_2021.!e
+        'Amanat_et_al_03_09_2021.!f
+        'Amanat_et_al_03_09_2021.!g
+        'Amanat_et_al_03_09_2021.!h
+        'Amanat_et_al_03_09_2021.!i
 
     claim !TimelineSA = A study shows that a B.1.351 variant (501Y.V2) that rapidly became dominant in parts of South Africa towards the end of 2020 may have emerged from the coast of the Eastern Cape Province after the first wave of the epidemic, and suggest that this lineage is associated with a selection advantage, most plausibly as a result of increased transmissibility or immune escape.
       -
