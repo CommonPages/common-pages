@@ -1150,7 +1150,7 @@ subject Variants
         'Garcia-Beltran_et_al_03_12_2021.!d
         'Garcia-Beltran_et_al_03_12_2021.!e
         'Garcia-Beltran_et_al_03_12_2021.!f
-        
+
     claim !PlasmablastResponsemRNA = One study found that Polyclonal antibody responses in vaccinees were robust and comparable to or exceeded those seen after natural infection. However, that the ratio of binding to neutralizing antibodies after vaccination was greater than that after natural infection and, at the monoclonal level, study found that the majority of vaccine-induced antibodies did not have neutralizing activity. Neutralizing activity of NTD mAbs but not RBD mAbs against a clinical viral isolate carrying E484K as well as extensive changes in the NTD was abolished suggesting that a proportion of vaccine induced RBD binding antibodies may provide substantial protection against viral variants carrying E484K.
       -
         'Amanat_et_al_03_09_2021
@@ -1347,10 +1347,18 @@ subject Variants
         'Hoffmann_et_al_03_20_2021
         'Hoffmann_et_al_03_20_2021.!a
 
-  / CAL.20C (Identified in California)
+  / (B.1.427/B.1.429 (Identified in California)
   subject CAL20C
-    head = CAL.20C was first observed in July of 2020 in samples from LA county. It was not detected in Southern California again until October. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected in Northern California, New York and Washington DC. Functional differences in CAL.20C—both in terms of infectivity and antibody resistance—are unknown at this time.
+    head = Named B.1.427/B.1.429 to denote its 2 lineages, the variant emerged in May 2020 and increased from 0% to >50% of sequenced cases from September 2020 to January 2021, showing 18.6-24% increased transmissibility relative to wild-type circulating strains. 20% more infectious, higher viral loads, some immune evasion but not enough to reduce vaccine efficacyCAL. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected in Northern California, New York and Washington DC.
 
+    - Growth Rate
+      !GrowthRate
+    - Transmission
+      !Transmission
+    - Antibody neutralization
+      !Antibodyneutralization
+    - Potential significance of L452R Mutation
+      !L452R
     - Triage
       'Zhang_et_al_01_20_2021
       'Zhang_et_al_01_20_2021.!a
@@ -1363,6 +1371,33 @@ subject Variants
       'Zhang_et_al_02_11_2021.!a
       'Zhang_et_al_02_11_2021.!b
       'Zhang_et_al_02_11_2021.!c
+
+
+    / Growth Rate
+    claim !GrowthRate = The B.1.427/B.1.429 variant grew to >50% of cases in California by early 2021.
+      -
+        'Deng_et_al_04_20_2021
+        'Deng_et_al_04_20_2021.!a
+
+    / Transmission
+    claim !Transmission = The variant is 20% more transmissible with 2-fold increased shedding in vivo.
+    -
+      'Deng_et_al_04_20_2021
+      'Deng_et_al_04_20_2021.!b
+
+    / Potential significance of L452R Mutation
+    claim !L452R = B.1.427 (CA)variant has a spike L452R mutation conferring increased infectivity in vitro.
+      -
+        'Deng_et_al_04_20_2021
+        'Deng_et_al_04_20_2021.!b
+        'Deng_et_al_04_20_2021.!c
+
+    / Antibody neutralization
+    claim !Antibodyneutralization = Antibody neutralization is reduced in COVID-19 patients and vaccine recipients.
+      -
+        'Deng_et_al_04_20_2021
+        'Deng_et_al_04_20_2021.!d
+
 
   / A.23.1 (Identified in Uganda)
   subject A231
@@ -1420,7 +1455,7 @@ subject Variants
 
   / B.1.617 (Identified in India)
   subject B1617
-    head =
+    head = B.1.617.1 variant first detected in sequences from India was designated under investigation on 1 April 2021 as VUI-21APR-01 (B.1.617.1). VUI-21APR-01 (B.1.617.1) cases have been imported to England with increasing frequency. As of 22 April 21, 119 genomically confirmed cases of B.1.617.1 have been identified in England, 94 have a link to travel, No cases are known to have died.
 
     >
       <table>
@@ -1457,6 +1492,50 @@ subject Variants
         <td>  </td>
         </tr>
       </table>
+
+    -
+      !UK
+    - Transmission
+      !Transmission
+    - Mutations
+      !Mutation
+    - Potential significance of L452R Mutation
+      !L452Rmutation
+
+
+
+    claim !UK = VUI-21APR-01 (B.1.617.1) cases have been imported to England with increasing frequency. As of 22 April 2021, 119 genomically confirmed cases of VUI-21APR-01 (B.1.617.1) have been identified in all regions of England; concentrated in the London, North West and East of England regions. 94 have a link to travel, No cases are known to have died.
+      -
+        'PHE_et_al_04_22_2021
+        'PHE_et_al_04_22_2021.!i
+        'PHE_et_al_04_22_2021.!j
+
+    / Transmission
+    claim !Transmission = B.1.617.1 is designated VUI-21APR-01 on the basis of the mutation profile and apparent successful transmission and spread.
+      -
+        'PHE_et_al_04_22_2021
+        'PHE_et_al_04_22_2021.!d
+
+    / Mutations
+    claim !Mutation = B.1.617.1 contains 3 clades with different mutation profiles which are: B.1.617.1 includes a large number of sequences and has a spike profile including L452R and E484Q. B.1.617.2 – has a different profile without E484Q and appears to have recent expansion. B.1.617.3 – has L452R and E484Q but is distinct from B.1.617.1 and currently remains small. Additionally B.1.617 contains the furin cleavage site mutation P681R, similar to P681H and several N-terminal domain mutations
+      -
+        'PHE_et_al_04_22_2021
+        'PHE_et_al_04_22_2021.!c
+        'PHE_et_al_04_22_2021.!e
+        'PHE_et_al_04_22_2021.!f
+        'PHE_et_al_04_22_2021.!g
+        'PHE_et_al_04_22_2021.!h
+
+
+    / Potential significance of L452R Mutation
+    claim !L452Rmutation = B.1.617 also contains the mutation L452R which is associated with antigenic escape from both monoclonal antibodies and convalescent antisera, and found in several other variants including signals in monitoring B.1.429 (CA)and A.27. L452R is also associated with enhanced receptor binding affinity. One study found that the spike L452R mutation shared by both the B.1.429 (CA) & B.1.617 (India) variants - 20% more infectious, higher viral loads —some immune evasion but would not expect enough to reduce vaccine efficacy.
+      -
+        'PHE_et_al_04_22_2021
+        'PHE_et_al_04_22_2021.!f
+      -
+        CAL20C.!L452R
+
+
 
 
 

@@ -17,6 +17,17 @@ feed Sangeeta
 
 
   #
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / April, 2021 - JAMA Netw Open.
+    quote !a =
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -29,6 +40,137 @@ feed Sangeeta
 
     / April, 2021 - JAMA Netw Open.
     quote !a =
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / April, 2021 - JAMA Netw Open.
+    quote !a =
+
+
+
+  #
+  // SARS-CoV-2 variants of concern and variants under investigation in England
+  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/979818/Variants_of_Concern_VOC_Technical_Briefing_9_England.pdf
+  ref 'PHE_et_al_04_22_2021
+    head = The enhanced investigations for all variants under investigation and variants of concern have been updated, including secondary attack rates, spatial risk mapping, and growth rate estimates. Numbers of all variants under investigation remain low and estimates have low certainty. Travel data are now included.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+    / April, 2021 - Public Health England
+    quote !a = VOC-20DEC-01 (B.1.1.7) remains predominant in the UK. Other variants of concern and variants under investigation remain a very low proportion of the available sequence data.
+
+    / April, 2021 - Public Health England
+    quote !b = A variant first detected in sequences from India was designated under investigation on 1 April 2021 as VUI-21APR-01 (B.1.617.1). VUI-21APR-01 (B.1.617.1) cases have been imported to England with increasing frequency.
+
+    / April, 2021 - Public Health England
+    quote !c = Based on available data from international and UK datasets, the lineage B.1.617 contains 3 clades with different mutation profiles which are: B.1.617.1 – includes a large number of sequences and has a spike profile including L452R and E484Q. B.1.617.2 – has a different profile without E484Q and appears to have recent expansion. B.1.617.3 – has L452R and E484Q but is distinct from B.1.617.1 and currently remains small.
+
+    / April, 2021 - Public Health England
+    quote !d = B.1.617.1 is designated VUI-21APR-01 on the basis of the mutation profile and apparent successful transmission and spread. B.1.617.2 with a lesser mutation profile, and B.1.617.3, not clearly spreading rapidly, are under surveillance and not designated as variants under investigation.
+
+    / April, 2021 - Public Health England
+    quote !e = Mutations at position 484 are well described as having a large impact on virus antigenicity and are associated with the VOC-20DEC-02 (B.1.351) and VOC-21JAN-02 (P.1) variants, however VUI-21APR-01 contains E484Q rather than the better described E484K. The majority of antigenic escape studies (monoclonal antibody and/or polyclonal sera) that find changes at position 484 implicate E484K, and to a lesser extent E484G/D/A/Y, while E484Q is not seen. Unlike E484K, E484Q is not known to be associated with any change in receptor binding avidity.
+
+    / April, 2021 - Public Health England
+    quote !f = B.1.617 also contains the mutation L452R which is associated with antigenic escape from both monoclonal antibodies and convalescent antisera, and found in several other variants including signals in monitoring B.1.429 and A.27. L452R is also associated with enhanced receptor binding affinity.
+
+    / April, 2021 - Public Health England
+    quote !g = Additionally B.1.617 contains the furin cleavage site mutation P681R, similar to P681H. 681R/H are found in multiple variant lineages, such as VOC-20DEC-01 (B.1.1.7), VUI-21FEB-04 (B.1.1.318) and VUI-21FEB-01 (A.23.1). Both P681H and P681R have been shown to optimise spike cleavage by furin; it has been hypothesised that this optimisation may enhance virus transmissibility.
+
+    / April, 2021 - Public Health England
+    quote !h = VUI-21APR-01 contains several N-terminal domain mutations. G142D is associated with escape from some N-terminal domain targeting monoclonal antibodies but is unclear if this has a large impact on convalescent or vaccine-driven immunity.
+
+    / April, 2021 - Public Health England
+    quote !i = As of 22 April 2021, 119 genomically confirmed cases of VUI-21APR-01 (B.1.617.1) have been identified in all regions of England; concentrated in the London, North West and East of England regions.
+
+    / April, 2021 - Public Health England
+    quote !j = Case detection indicates an increase in imported cases from March 2021. As of 22 April 2021 most cases of VUI-21APR-01 (B.1.617.1) in England occur as single cases with a few localised clusters detected. Only 3 cases in England have been identified without a known travel link, 94 have a link to travel, and 22 cases remain under investigation. No cases are known to have died in England with VUI-21APR-01 (B.1.617.1) as of 22 April 2021.
+
+
+  #
+  // Preliminary Findings of mRNA Covid-19 Vaccine Safety in Pregnant Persons
+  doi: https://doi.org/10.1056/NEJMoa2104983
+  ref 'Shimabukuro_et_al_04_21_2021
+    head = From December 14, 2020, to February 28, 2021, we used data from the “v-safe after vaccination health checker” surveillance system, the v-safe pregnancy registry, and the Vaccine Adverse Event Reporting System (VAERS) to characterize the initial safety of mRNA Covid-19 vaccines in pregnant persons.
+
+    > Background
+      Many pregnant persons in the United States are receiving messenger RNA (mRNA) coronavirus disease 2019 (Covid-19) vaccines, but data are limited on their safety in pregnancy.
+
+    > Methods
+      From December 14, 2020, to February 28, 2021, we used data from the “v-safe after vaccination health checker” surveillance system, the v-safe pregnancy registry, and the Vaccine Adverse Event Reporting System (VAERS) to characterize the initial safety of mRNA Covid-19 vaccines in pregnant persons.
+
+    > Results
+      A total of 35,691 v-safe participants 16 to 54 years of age identified as pregnant. Injection-site pain was reported more frequently among pregnant persons than among nonpregnant women, whereas headache, myalgia, chills, and fever were reported less frequently. Among 3958 participants enrolled in the v-safe pregnancy registry, 827 had a completed pregnancy, of which 115 (13.9%) resulted in a pregnancy loss and 712 (86.1%) resulted in a live birth (mostly among participants with vaccination in the third trimester). Adverse neonatal outcomes included preterm birth (in 9.4%) and small size for gestational age (in 3.2%); no neonatal deaths were reported. Although not directly comparable, calculated proportions of adverse pregnancy and neonatal outcomes in persons vaccinated against Covid-19 who had a completed pregnancy were similar to incidences reported in studies involving pregnant women that were conducted before the Covid-19 pandemic. Among 221 pregnancy-related adverse events reported to the VAERS, the most frequently reported event was spontaneous abortion (46 cases).
+
+    > Conclusions
+      Preliminary findings did not show obvious safety signals among pregnant persons who received mRNA Covid-19 vaccines. However, more longitudinal follow-up, including follow-up of large numbers of women vaccinated earlier in pregnancy, is necessary to inform maternal, pregnancy, and infant outcomes.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = Preliminary findings did not show any obvious safety signals with respect to pregnancy or neonatal outcomes associated with Covid-19 vaccination in the third trimester of pregnancy.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = Among 221 pregnancy-related adverse events reported to the VAERS, the most frequently reported event was spontaneous abortion (46 cases).
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !c = Adverse neonatal outcomes included preterm birth (in 9.4%) and small size for gestational age (in 3.2%); no neonatal deaths were reported.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !d = Injection-site pain was reported more frequently among pregnant persons than among nonpregnant women, whereas headache, myalgia, chills, and fever were reported less frequently.
+
+
+
+  #
+  // Transmission, infectivity, and neutralization of a spike L452R SARS-CoV-2 variant
+  doi: https://doi.org/10.1016/j.cell.2021.04.025
+  ref 'Deng_et_al_04_20_2021
+    head = We identified an emerging SARS-CoV-2 variant by viral whole-genome sequencing of 2,172 nasal/nasopharyngeal swab samples from 44 counties in California, a state in the Western United States.
+
+    > Summary
+      We identified an emerging SARS-CoV-2 variant by viral whole-genome sequencing of 2,172 nasal/nasopharyngeal swab samples from 44 counties in California, a state in the Western United States. Named B.1.427/B.1.429 to denote its 2 lineages, the variant emerged in May 2020 and increased from 0% to >50% of sequenced cases from September 2020 to January 2021, showing 18.6-24% increased transmissibility relative to wild-type circulating strains. The variant carries 3 mutations in the spike protein, including an L452R substitution. We found 2-fold increased B.1.427/B.1.429 viral shedding in vivo and increased L452R pseudovirus infection of cell cultures and lung organoids, albeit decreased relative to pseudoviruses carrying the N501Y mutation common to variants B.1.1.7, B.1.351, and P.1. Antibody neutralization assays revealed 4.0 to 6.7-fold and 2.0-fold decreases in neutralizing titers from convalescent patients and vaccine recipients, respectively. The increased prevalence of a more transmissible variant in California exhibiting decreased antibody neutralization warrants further investigation.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - Cell
+    quote !a = Named B.1.427/B.1.429 to denote its 2 lineages, the variant emerged in May 2020 and increased from 0% to >50% of sequenced cases from September 2020 to January 2021, showing 18.6-24% increased transmissibility relative to wild-type circulating strains.
+
+    / April, 2021 - Cell
+    quote !b = The variant carries 3 mutations in the spike protein, including an L452R substitution.
+
+    / April, 2021 - Cell
+    quote !c = We found 2-fold increased B.1.427/B.1.429 viral shedding in vivo and increased L452R pseudovirus infection of cell cultures and lung organoids, albeit decreased relative to pseudoviruses carrying the N501Y mutation common to variants B.1.1.7, B.1.351, and P.1.
+
+    / April, 2021 - Cell
+    quote !d = Antibody neutralization assays revealed 4.0 to 6.7-fold and 2.0-fold decreases in neutralizing titers from convalescent patients and vaccine recipients, respectively.
+
+
+
 
 
 

@@ -93,7 +93,9 @@
 
 
 
-  # CLINICAL TRIAL 4/22/21 ##### ALL RECENT PAPERS
+  # CLINICAL TRIAL 4/23/21 ##### ALL RECENT PAPERS
+
+  
 
   >
     A recent report showing low anti-SARS-CoV-2 IgG response to the Pfizer vaccine in patients with cancer included 38 patients with haematological malignancies (nine patients with multiple myeloma) and showed only a 13% response rate, raising concerns that multiple myeloma might be associated with attenuated vaccine response

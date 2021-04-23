@@ -5,7 +5,14 @@
   # Everything below in this section is not updated claims.
   ############################################################################################
 
-  ##### 4/14/21
+  ##### 4/23/21
+
+
+  # 20C was first observed in July of 2020 in samples from LA county. It was not detected in Southern California again until October.
+
+  # Named B.1.427/B.1.429 to denote its 2 lineages, the variant emerged in May 2020 and increased from 0% to >50% of sequenced cases from September 2020 to January 2021, showing 18.6-24% increased transmissibility relative to wild-type circulating strains. 20% more infectious, higher viral loads, some immune evasion but not enough to reduce vaccine efficacyCAL. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected in Northern California, New York and Washington DC.
+ 
+  # B.1.617.1 variant first detected in sequences from India was designated under investigation on 1 April 2021 as VUI-21APR-01 (B.1.617.1). VUI-21APR-01 (B.1.617.1) cases have been imported to England with increasing frequency. As of 22 April 21, 119 genomically confirmed cases of B.1.617.1 have been identified in England, 94 have a link to travel, No cases are known to have died.
 
   # MONOCLONAL ANTIBODY TREATMENT
 

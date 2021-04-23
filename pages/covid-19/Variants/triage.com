@@ -64,7 +64,18 @@ index: hide
     'Volz_et_al_03_25_2021.!c
 
 
-  ##### 4/11/21 UPDATE CLAIMS
+  ##### 4/23/21 UPDATE CLAIMS
+
+  >
+    A variant first detected in sequences from India was designated under investigation on 1 April 2021 as VUI-21APR-01 (B.1.617.1).
+
+
+     Potential significance of P681H Mutation
+
+
+
+
+
   >
     These variants harbor E484K is associated with immune escape and N501Y mutations is associated with increased transmissibility and increase in COVID-19 hospitalizations and deaths.
 

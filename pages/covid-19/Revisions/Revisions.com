@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *April_23 mean April_23
   let *April_22 mean April_22
   let *April_6 mean April_6
   let *March_31 mean March_31
@@ -11,7 +12,19 @@ revision feed Revisions
 
 
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_22, *April_6, *March_31 and *March_17). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_23, *April_22, *April_6, *March_31, and *March_17). You can *contribute by sending corrections and responding to open questions.
+
+
+
+  public: April-23-2021
+  / April 23, 2021
+  revision April_23
+    head = We have updated the latest information on VUI-21APR-01 (B.1.617.1) variant first detected in sequences from India and the L452R mutation, which is shared by both the B.1.429 (CA) & B.1.617 (India) variant showing 20% more infectious, higher viral loads, some immune evasion but not enough to reduce vaccine efficacy. We also updated one Preliminary findings for mRNA Covid-19 vaccines in pregnant individuals which did not show obvious safety signals among pregnant persons who received mRNA Covid-19 vaccines.
+    -
+      Variants.B1617
+      Variants.CAL20C
+    -
+      Vaccines.Approved.Tozinameran.!Pregnancynosafetysignals
 
 
   public: April-22-2021

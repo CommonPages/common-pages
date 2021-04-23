@@ -94,6 +94,7 @@ subject module Vaccines
       - Pregnant Women
         !PregnantwomenIgG
         !Fertility
+        !Pregnancynosafetysignals
       - Children
         !ChildrenPfizer
       - Solid organ transplant recipients
@@ -552,6 +553,14 @@ subject module Vaccines
           'Male_et_al_03_03_2021.!a
           'Male_et_al_03_03_2021.!b
 
+      claim !Pregnancynosafetysignals = Preliminary findings of one study did not show obvious safety signals among pregnant persons who received mRNA Covid-19 vaccines.
+        -
+          'Shimabukuro_et_al_04_21_2021
+          'Shimabukuro_et_al_04_21_2021.!a
+          'Shimabukuro_et_al_04_21_2021.!b
+          'Shimabukuro_et_al_04_21_2021.!c
+          'Shimabukuro_et_al_04_21_2021.!d
+
       claim !Asymptomatic = COVID-19 vaccination with an mRNA-based vaccine showed a significant association with a reduced risk of asymptomatic SARS-CoV-2 infection as measured during pre-procedural molecular screening.
         -
           'Tande_et_al_03_10_2021
@@ -760,6 +769,7 @@ subject module Vaccines
         !PregnantWomen
         Tozinameran.!PregnantwomenIgG
         Tozinameran.!Fertility
+        Tozinameran.!Pregnancynosafetysignals
       - Solid organ transplant recipients
         Tozinameran.!Solidorgantransplantrecipients
       - Asymptomatic Transmission
@@ -2428,10 +2438,12 @@ subject module Vaccines
       - Pfizer
         Approved.Tozinameran.!PregnantwomenIgG
         Approved.Tozinameran.!Fertility
+        Approved.Tozinameran.!Pregnancynosafetysignals
       - Moderna
         Approved.mRNA-1273.!PregnantWomen
         Approved.Tozinameran.!PregnantwomenIgG
         Approved.Tozinameran.!Fertility
+        Approved.Tozinameran.!Pregnancynosafetysignals
       - Oxford
         Approved.Tozinameran.!Fertility
 
