@@ -1,7 +1,7 @@
 @sangeetamotiani
 @ayushanand
 / Mutations and Variants
-subject Variants
+subject module Variants
   head = Multiple strains of SARS-CoV-2 were identified as early as March of 2020, though their functional differences were not clear. Many of variants that have emerged at the end of 2020 and beginning of 2021 share defining amino acid mutations. Some of these are mutations are of interest to scientists. There is evidence that some of the strains are more lethal, and a number are likely more transmissible. The vaccine efficacy drop off has been observed against newer strains.
 
   -
