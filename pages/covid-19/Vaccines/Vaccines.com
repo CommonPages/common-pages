@@ -2396,6 +2396,8 @@ subject module Vaccines
     subject Oldpeople
       head = Clinical trials for most vaccines have shown robust neutralizing antibodies after the administration of 2 dose. Vaccines have appeared to be safe and well tolerated.
 
+      - Danish Study
+        Disease.Immunity.?Reinfection.!Oldpeoplereinficationsuspectibility
       - Pfizer
         Approved.Tozinameran.!OldAge
         Approved.Tozinameran.!Singledoseolderpeople
@@ -2433,7 +2435,7 @@ subject module Vaccines
 
       - Past Animal studies
         !ChAdOx1Pregnant
-        !AdenovirusPregant
+        !AdenovirusPregnant
 
       - Pfizer
         Approved.Tozinameran.!PregnantwomenIgG
@@ -2453,7 +2455,7 @@ subject module Vaccines
           'Stedman_et_al_10_18_2019
           'Stedman_et_al_10_18_2019.!a
 
-      claim !AdenovirusPregant =  Murine studies of gorilla adenovirus-vectored vaccines for Zika virus have shown to prevent in-utero transmission of Zika virus.
+      claim !AdenovirusPregnant =  Murine studies of gorilla adenovirus-vectored vaccines for Zika virus have shown to prevent in-utero transmission of Zika virus.
         -
           'Hassan_et_al_09_03_2019
           'Hassan_et_al_09_03_2019.!a

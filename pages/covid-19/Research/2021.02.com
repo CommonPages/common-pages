@@ -52,6 +52,7 @@ feed Feb2021
      / February, 2021 - Clin Infect Dis.
      quote !b = Concentrations sustained better in persons reporting significant symptoms compared to asymptomatic persons or those with mild upper respiratory complaints only. Similarly, avidity of IgG antibodies for symptomatic persons showed a steeper increase over time compared with persons with mild or no symptoms
 
+
   // Deep immune profiling of MIS-C demonstrates marked but transient immune activation compared to adult and pediatric COVID-19
   doi: https://doi.org/10.1126/sciimmunol.abf7570
   ref 'Vella_et_al_03_02_2021

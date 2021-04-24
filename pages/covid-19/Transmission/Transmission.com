@@ -127,7 +127,7 @@ subject module Transmission
           'Lavezzo_et_al_04_18_2020.!b
           'Lavezzo_et_al_04_18_2020.!e
 
-      claim !AsymtomaticTransmissability = Some researchers have suggested that the relative transmissibility of asymptomatic cases could be significantly smaller compared to symptomatic and presymptomatic cases.
+      claim !AsymtomaticTransmissability = Some researchers have suggested that the relative transmissibility of asymptomatic cases could be significantly smaller compared to symptomatic and presymptomatic cases. The proportion of SARS-CoV-2 that is asymptomatic throughout the course of infection was estimated to be 20%. The secondary attack rate from asymptomatic infections may be lower than that from symptomatic infections.
         -
           'Buitrago-Garcia_et_al_09_22_2020
           'Buitrago-Garcia_et_al_09_22_2020.!d
@@ -149,11 +149,17 @@ subject module Transmission
           'He_et_al_04_18_2020.!a
         -
           'Luo_et_al_03_26_2020
+        -
+          'Buitrago-Garcia_et_al_09_22_2020
+          'Buitrago-Garcia_et_al_09_22_2020.!a
+          'Buitrago-Garcia_et_al_09_22_2020.!b
+          'Buitrago-Garcia_et_al_09_22_2020.!e
 
       claim !AsymtomaticExtent = A number of studies have suggested that the large majority of SARS-CoV-2 infections are eventually symptomatic, and that asymptomatic spread is unlikely to be a major driver of community transmission.
         -
           'Buitrago-Garcia_et_al_09_22_2020
           'Buitrago-Garcia_et_al_09_22_2020.!a
+          'Buitrago-Garcia_et_al_09_22_2020.!b
           'Buitrago-Garcia_et_al_09_22_2020.!d
           'Buitrago-Garcia_et_al_09_22_2020.!f
         -
@@ -170,6 +176,13 @@ subject module Transmission
           'Nogrady_et_al_11_23_2020
           'Nogrady_et_al_11_23_2020.!b
 
+      claim !AsymtomaticSARlower = The secondary attack rate from asymptomatic infections may be lower than that from symptomatic infections.
+        -
+        'Buitrago-Garcia_et_al_09_22_2020
+        'Buitrago-Garcia_et_al_09_22_2020.!d
+        'Buitrago-Garcia_et_al_09_22_2020.!a
+        'Buitrago-Garcia_et_al_09_22_2020.!b
+
       claim !AsymptomaticViralClearance = Viral loads appear to be similar between asymptomatic and symptomatic individuals infected with SARS-CoV-2, but faster viral clearance has been observed among asymptomatic individuals than those who are symptomatic.
         -
           'Cevik_et_al_11_19_2020
@@ -180,6 +193,9 @@ subject module Transmission
         -
           'Zhang_et_al_05_02_2020.
           'Zhang_et_al_05_02_2020.!a
+
+
+
 
 
     / Close Contacts

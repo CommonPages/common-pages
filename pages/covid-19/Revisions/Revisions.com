@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *April_24 mean April_24
   let *April_23 mean April_23
   let *April_22 mean April_22
   let *April_6 mean April_6
@@ -12,8 +13,18 @@ revision feed Revisions
 
 
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_23, *April_22, *April_6, *March_31, and *March_17). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_24, *April_23, *April_22, *April_6, *March_31, and *March_17). You can *contribute by sending corrections and responding to open questions.
 
+
+
+  public: April-24-2021
+  / April 24, 2021
+  revision April_24
+    head = We have updated the latest information on Reinfection and Antibodies. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). The concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. Previously infected older (65 years and above) and immunocompromised people are more at risk of reinfection. High degree of heterogeneity in immune response makes at least those with particularly low immune memory susceptible to re-infection relatively quickly. RBD-specific antibodies have greater potency to neutralize infection with divergent virus strains.
+
+    -
+      Disease.Immunity.AcquiredImmunity
+      Disease.Immunity.?Reinfection
 
 
   public: April-23-2021

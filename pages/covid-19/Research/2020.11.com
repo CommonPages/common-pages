@@ -254,9 +254,24 @@ feed November2020
     >  Interpretation
       Survivors of COVID-19 appear to be at increased risk of psychiatric sequelae, and a psychiatric diagnosis might be an independent risk factor for COVID-19. Although preliminary, our findings have implications for clinical services, and prospective cohort studies are warranted.
 
+    -
+      !a
+      !b
+      !c
+      !d
+
 
     / February, 2020 - bioRxiv
-    quote !a =
+    quote !a = In patients with no previous psychiatric history, a diagnosis of COVID-19 was associated with increased incidence of a first psychiatric diagnosis in the following 14 to 90 days compared with six other health events. The HR was greatest for anxiety disorders, insomnia, and dementia.
+
+    / February, 2020 - bioRxiv
+    quote !b = The incidence of any psychiatric diagnosis in the 14 to 90 days after COVID-19 diagnosis was 18·1% , including 5·8% (5·2–6·4) that were a first diagnosis. The incidence of a first diagnosis of dementia in the 14 to 90 days after COVID-19 diagnosis was 1·6% in people older than 65 years.
+
+    / February, 2020 - bioRxiv
+    quote !c = A psychiatric diagnosis in the previous year was associated with a higher incidence of COVID-19 diagnosis (relative risk 1·65, 95% CI 1·59–1·71; p<0·0001).
+
+    / February, 2020 - bioRxiv
+    quote !d = Survivors of COVID-19 appear to be at increased risk of psychiatric sequelae, and a psychiatric diagnosis might be an independent risk factor for COVID-19.
 
 
   # Immunity

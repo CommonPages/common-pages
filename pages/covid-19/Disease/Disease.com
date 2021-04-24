@@ -71,6 +71,7 @@ subject module Disease
       !AsymptomaticCases
       !SymptomaticCases
       !SevereCases
+      !LongCovid
       !LongTermConsequences
 
     / Asymptomatic Cases
@@ -88,7 +89,7 @@ subject module Disease
       # 'Graham_et_al_05_16_2020.!b
 
     / Symptomatic Cases
-    claim !SymptomaticCases = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash and neurological manifestations, and psychiatric effects have also been reported.
+    claim !SymptomaticCases = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash, Reactive Infectious Mucocutaneous Eruption and neurological manifestations, and psychiatric effects have also been reported.
       -
         'Chen_et_al_2020d
         'Ragona_et_al_2020
@@ -102,8 +103,35 @@ subject module Disease
         'Kluytmans_et_al_2020
         'Siddiqi_et_al_2020
         'Berlin_et_al_2020
-        # Psychiatric sequelae - Anxiety disorders, insomnia, and dementia reported
-        'Taquet_et_al_11_09_2020
+      -
+        !Psychiatricdiagnosis
+      -
+        !Neuroinvasion
+      -
+        !RIME
+
+      / Reactive Infectious Mucocutaneous Eruption
+      claim !RIME = A single study reported the observation of a newly associated mucocutaneous eruption (SARS-CoV-2–induced RIME) in a pediatric patient with confirmed SARS-CoV-2 infection.
+        -
+          'Holcomb_et_al_04_07_2021
+          'Holcomb_et_al_04_07_2021.!a
+
+      / Neuroinvasion
+      claim !Neuroinvasion = One study results provide evidence for the neuroinvasive capacity of SARS-CoV-2 and an unexpected consequence of direct infection of neurons by SARS-CoV-2 and demonstrate that neuronal infection can be prevented by blocking ACE2 with antibodies or by administering cerebrospinal fluid from a COVID-19 patient.
+      -
+        'Song_et_al_01_12_2021
+        'Song_et_al_01_12_2021.!a
+        'Song_et_al_01_12_2021.!b
+        'Song_et_al_01_12_2021.!c
+
+      / Psychiatric diagnosis
+      claim !Psychiatricdiagnosis = A diagnosis of COVID-19 was associated with increased incidence of a first psychiatric diagnosis in the following 14 to 90 days. The hazard ratios was greatest for anxiety disorders, insomnia, and dementia. A psychiatric diagnosis in the previous year was associated with a higher incidence of COVID-19 diagnosis. Survivors of COVID-19 appear to be at increased risk of psychiatric sequelae, and a psychiatric diagnosis might be an independent risk factor for COVID-19.
+        -
+          'Taquet_et_al_11_09_2020
+          'Taquet_et_al_11_09_2020.!a
+          'Taquet_et_al_11_09_2020.!b
+          'Taquet_et_al_11_09_2020.!c
+          'Taquet_et_al_11_09_2020.!d
 
     / Severe Cases
     claim !SevereCases = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others.
@@ -174,13 +202,61 @@ subject module Disease
         -
           'Meinhardt_et_al_06_04_2020
 
+    / Long Covid
+    claim !LongCovid = Long COVID was characterized by symptoms of fatigue, headache, dyspnea and anosmia and was more likely with increasing age and body mass index and female sex. Experiencing more than five symptoms during the first week of illness was associated with long COVID.
+      -
+        'Lopez-Leon_et_al_01_30_2021
+        'Lopez-Leon_et_al_01_30_2021.!a
+        'Lopez-Leon_et_al_01_30_2021.!b
+        'Lopez-Leon_et_al_01_30_2021.!c
+        'Lopez-Leon_et_al_01_30_2021.!d
+        'Lopez-Leon_et_al_01_30_2021.!e
+      -
+        'Sudre_et_al_03_10_2021
+        'Sudre_et_al_03_10_2021.!a
+        'Sudre_et_al_03_10_2021.!b
+        'Sudre_et_al_03_10_2021.!c
+
     / Long Term Consequences
-    claim !LongTermConsequences = COVID-19 is too new to be sure of any long term consequnces, but some researchers have speculated over reports of persistent fatigue and a possible increased disposition for Parkinson's disease.
+    claim !LongTermConsequences = There have been reports of persistent fatigue, memory/attention, and sleep disorders and a possible increased disposition for Parkinson's disease. One study reported that Long term neurological manifestations after hospitalization due to COVID-19 infection affects one third of survivors. Multiple neurological abnormalities including mild cognitive impairment are associated with severity of respiratory SARS-CoV-2 infection. One study identified lymphocyte changes in previously hospitalized COVID-19 patients up to 6 months following hospital discharge, proposing that this could affect longer-term immunity and contribute to some persistent symptoms observed in convalescent COVID-19 patients.
       -
         'Townsend_et_al_11_09_2020
         'Townsend_et_al_11_09_2020.!a
       -
         'Brundin_et_al_10_21_2020
+      -
+        'Pilotto_et_al_01_02_2021
+        'Pilotto_et_al_01_02_2021.!a
+        'Pilotto_et_al_01_02_2021.!b
+        'Pilotto_et_al_01_02_2021.!c
+      -
+        !Neurologicalsymptoms
+
+      - Psychiatric Sequelae
+        !SymptomaticCases.!Psychiatricdiagnosis
+      -
+        !Lymphocytechanges
+
+
+      / !Neurological Symptoms
+      claim !Neurologicalsymptoms = Long term neurological manifestations after hospitalization due to COVID-19 infection affects one third of survivors. Being fatigue, memory/attention, and sleep disorders the most frequent. Multiple neurological abnormalities including mild cognitive impairment are associated with severity of respiratory SARS-CoV-2 infection.
+        -
+          'Pilotto_et_al_01_02_2021
+          'Pilotto_et_al_01_02_2021.!a
+          'Pilotto_et_al_01_02_2021.!b
+          'Pilotto_et_al_01_02_2021.!c
+
+
+      claim !Lymphocytechanges = One study identified lymphocyte changes in previously hospitalized COVID-19 patients up to 6 months following hospital discharge. The authors propose alterations in B and T cell function following hospitalization with COVID-19 could affect longer-term immunity and contribute to some persistent symptoms observed in convalescent COVID-19 patients.
+
+        -
+          'Shuwa_et_al_03_31_2021
+          'Shuwa_et_al_03_31_2021.!a
+          'Shuwa_et_al_03_31_2021.!b
+          'Shuwa_et_al_03_31_2021.!c
+          'Shuwa_et_al_03_31_2021.!d
+
+
 
   / Severity
   // Susceptibility and Severity
@@ -303,6 +379,7 @@ subject module Disease
         !ObservationalStudyIndonesia
         !ReviewStudies
         !Crosssectionalstudy
+        !Nonsignificantassociation
       -
         !RCTEurope
         !RCTSpain
@@ -360,6 +437,13 @@ subject module Disease
         -
           'Amin_et_al_01_07_2021
           'Amin_et_al_01_07_2021.!a
+
+
+      / Non-significant correlations
+      claim !Nonsignificantassociation = A critical update of the existing evidence of Vitamin D among European countries found that Vitamin D deficiency was not significantly associated with either number of COVID-19 infections, recoveries, or mortalities per one million population.
+        -
+          'Bakaloudi_et_al_03_10_2021
+          'Bakaloudi_et_al_03_10_2021.!a
 
       —
       / Rationale
@@ -713,12 +797,11 @@ subject module Disease
 
     / Acquired Immunity
     subject AcquiredImmunity
-      head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. The longevity of COVID-19 antibodies is not yet clear. Long term immunity from T-cells and B-cells also remain uncertain.
+      head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. Specific IgG antibodies was still present after 7 months protecting most individuals against reinfection with concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only.  High degree of heterogeneity in immune response makes at least those with particularly low immune memory susceptible to re-infection relatively quickly. Long term immunity from T-cells and B-cells also remain uncertain. RBD-specific antibodies have greater potency to neutralize infection with divergent virus strains.
 
       / Antibodies
       subject Antibodies
-        head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. There is, however, a wide diversity in the antibody response among recovered patients. The longevity of COVID-19 antibodies is not yet clear.
-
+        head = Protective antibodies have been found in patients who have recovered from SARS-CoV-2 infections. However, there is a  high degree of heterogeneity making at least those with particularly low immune memory susceptible to re-infection relatively quickly. Several studies show that Specific IgG antibodies was still present after 7 months protecting most individuals against reinfection. Concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. There is a wide diversity in the antibody response among recovered patients.
         -
           !Detection
           !Caveats
@@ -751,7 +834,19 @@ subject module Disease
             'Robbiani_et_al_05_22_2020.!a
             'Wu_et_al_2020b
 
-        claim !Longevity = There are some reports of SARS-CoV-2 antibodies waning. Their longevity is still unknown. Antibodies to other coronaviruses are also known wane over time.
+        claim !Longevity = There have been reports of SARS-CoV-2 antibodies waning. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Specific IgG antibodies was still present after 7 months. Concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. A study on Extreme aged individuals and centenarians antibodies found that humoral responses were still detectable after 60 days from initial diagnosis. Past studies on antibodies longevity of diifferent coronaviruses have shown to last for atleast a year.
+          -
+            !Cv2Waning
+          - IGG duration more than 7 months
+            !Immunity6months
+            !Stability.!Heterogeneousimmuneresponse
+            !IGGduration7months
+            ?Reinfection.!7monthsprotection
+            !Diversity.!Age.!Extremeagedindividualsandcentenarians
+          - Past Studies
+            !Mers
+            !Sars
+            !Cv229E
 
           claim !Cv2Waning = There have been several reports already of the waning of neutralizing antibodies in SARS-CoV-2 patients.
             -
@@ -763,6 +858,20 @@ subject module Disease
               'Seow_et_al_10_26_2020
               'Seow_et_al_10_26_2020.!a
               'Seow_et_al_07_11_2020
+
+
+
+          # Igg duration more than 7 months
+          claim !IGGduration7months = SARS-CoV-2-specific IgG antibodies was still present after 7 months. Concentrations sustained better in persons reporting significant symptoms compared to asymptomatic persons or those with mild upper respiratory complaints only
+            -
+              'Hartog_et_al_02_24_2021
+              'Hartog_et_al_02_24_2021.!a
+              'Hartog_et_al_02_24_2021.!b
+
+          claim !Immunity6months = Prior SARS-CoV-2 infection that generated antibody responses offered protection from reinfection for most people in the six months following infection.
+            -
+              'Lumley_et_al_11_19_2020
+              'Lumley_et_al_11_19_2020.!a
 
           claim !Mers = MERS antibodies have been shown to last for 18 months
             -
@@ -778,11 +887,27 @@ subject module Disease
             -
               'Callow_et_al_1990
 
-        claim !Stability = Despite evidence of waning antibody protection, at least one study has indicated that some individuals have maintain stable IgG.
+        claim !Stability = Despite evidence of waning antibody protection, studies have indicated that individuals maintain stable IgG. Though there is a high degree of heterogeneity whereby some proportion of population will always be prone to reinfection.
           -
             'Chen_et_al_11_03_2020
+          -
+            !Heterogeneousimmuneresponse
+
+
+          claim !Heterogeneousimmuneresponse = Stable adaptive Immune Response for 90% patient for over 6 months. There is a high degree of heterogeneity making at least a fraction of the SARS-CoV-2-infected population with particularly low immune memory susceptible to re-infection relatively quickly.
+            -
+              'Dan_et_al_11_16_2020
+              'Dan_et_al_11_16_2020.!a
+
 
         claim !Diversity = Many studies have noted a diversity of antibody responses in COVID-19 patients; antibodies appear to vary widely in their efficacy and targeting. Responses differ among patients based on sex as well as the severity of infection.
+          -
+            !Gender
+            !Age
+            !WeakResponse
+            !StrongResponse
+            !Prevalence
+
 
           claim !Gender = A number of studies have noted varying antibody responses by gender.
             -
@@ -790,10 +915,19 @@ subject module Disease
               # -- Antibody response differ based on Gender
               'Jiang_et_al_2020.!e
 
-          claim !Age = Differences in antibody responses have been noted between children and adults. Children appear to generate more antibodies for the spike (S), than nucleocapsid (N) protein.
+          claim !Age = Differences in antibody responses have been noted between children and adults. Children appear to generate more antibodies for the spike (S), than nucleocapsid (N) protein. One study on Extreme aged individuals and centenarians who were infected with or exposed to SARS-CoV-2 found that they were able to elicit robust IgG and IgA antibodies directed toward SARS-CoV-2 spike protein. Humoral responses were still detectable after 60 days from initial diagnosis.
             -
               'Weisberg_et_al_11_05_2020
               'Tosif_et_al_11_11_2020
+            -
+              !Extremeagedindividualsandcentenarians
+
+            / Immunity robustness in Extreme old people
+            claim !Extremeagedindividualsandcentenarians = A study on Extreme aged individuals and centenarians who were infected with or exposed to SARS-CoV-2 found that they were able to elicit robust IgG and IgA antibodies directed toward SARS-CoV-2 spike protein. The antibodies were able to neutralize the virus. Humoral responses were still detectable after 60 days from initial diagnosis. Recovered participants who are of extreme old age would be protected if re-exposed to the same SARS-CoV-2 viral variant.
+              -
+                'Foley_et_al_03_08_2021
+                'Foley_et_al_03_08_2021.!a
+                'Foley_et_al_03_08_2021.!b
 
           claim !WeakResponse = There has been some speculation that mild cases may result in a weaker immune response, and in turn weaker antibody protection.
             # This paper reports waning antibodies and suggest that Asymtomatic may have weaker immune response
@@ -804,12 +938,14 @@ subject module Disease
               'WangTo_et_al_08_25_2020.!e
               'Prado-Vivar_et_al_09_08_2020.!b
 
-          claim !StrongResponse = Strong antibody responses have been observed in cases of severe disease, though the correlation is not yet clear.
+          claim !StrongResponse = Strong antibody responses have been observed in cases of severe disease, though the correlation is not yet clear. One study on Extreme aged individuals and centenarians who were infected with or exposed to SARS-CoV-2 found that they were able to elicit robust IgG and IgA antibodies directed toward SARS-CoV-2 spike protein. Humoral responses were still detectable after 60 days from initial diagnosis.
             -
               'Iwasaki_et_al_2020
             -
               'Tan_et_al_03_26_2020
               'Tan_et_al_03_26_2020.!c
+            -
+              !Diversity.!Age.!Extremeagedindividualsandcentenarians
 
           claim !TargetingA = In one study antibody responses against SARS-CoV-2’s spike protein were stronger among COVID-19 survivors, whereas antibody responses targeting the virus’s nucleocapsid protein were elevated in patients who died.
             -
@@ -826,6 +962,15 @@ subject module Disease
         claim !Prevalence = As of September 2020, one study indicated that fewer than 10% of the US adult population formed antibodies against SARS-CoV-2, and fewer than 10% of those with antibodies had been diagnosed.
           -
             'Anand_et_al_02_20_2020
+
+      / RBD specific Antibodies
+      subject RBDantibodies
+        head = RBD-specific antibodies have greater potency to neutralize infection with divergent virus strains, suggesting that the RBD of SARS-CoV-2 can also serve as an important target for the development of potent and specific nAbs.
+        -
+          'Jiang_et_al_04_02_2020
+        -
+          'Rogers_et_al_06_11_2020
+          'Rogers_et_al_06_11_2020.!b
 
       / T-cell Immunity
       subject TCellImmunity
@@ -889,6 +1034,8 @@ subject module Disease
       >
         Symptomatic reinfections with human non-SARS coronaviruses are common and not atypical within 1 year after initial infection, despite the presence of antibodies. Reinfections with human common cold coronaviruses are, however, typically milder than the primary infections.
 
+        Genetically distinct virus led to reinfection in few SARS-CoV-2 cases. Responses among few patients with Reinfection have been heterogenous. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Previously infected older (65 years and above) and immunocompromised people are more at risk of reinfection.
+
       # Genetically distinct virus led to reinfection in few cases. Responses among few patients with Reinfection have been heterogenous. Immunity from pre-existing immune response before second exposure has not been well documented.
 
       -
@@ -916,6 +1063,62 @@ subject module Disease
         'WangTo_et_al_08_25_2020.!e
       -
         'Galanti_et_al_05_03_2020
+      -
+        !Oldpeoplereinficationsuspectibility
+        AcquiredImmunity.Antibodies.!Diversity.!Age.!Extremeagedindividualsandcentenarians
+      -
+        !Immunocompromised
+      -
+        !7monthsprotection
+        AcquiredImmunity.Antibodies.!Longevity.!Immunity6months
+        !HCWsreinfection
+        AcquiredImmunity.Antibodies.!Stability.!Heterogeneousimmuneresponse
+
+
+
+      / Old people
+      claim !Oldpeoplereinficationsuspectibility = In a Danish population-level observational study, researchers found that older people were more likely than younger people to test positive again if they had already tested positive. Protection in the population to be 80% or higher in those younger than 65 years, but to be approximately 47% in those aged 65 years and older. Their data indicates that vaccination of previously infected individuals should be done because natural protection cannot be relied on.
+        -
+          'Hansen_et_al_03_17_2021
+          'Hansen_et_al_03_17_2021.!a
+          'Hansen_et_al_03_17_2021.!b
+          'Hansen_et_al_03_17_2021.!c
+          'Hansen_et_al_03_17_2021.!d
+
+
+      / Assessment of protection against reinfection
+      claim !7monthsprotection = Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months).
+        -
+          'Hall_et_al_04_09_2021
+          'Hall_et_al_04_09_2021.!a
+          'Hall_et_al_04_09_2021.!b
+          'Hall_et_al_04_09_2021.!c
+
+      claim !HCWsreinfection = One study on HCWs concluded that SARS-CoV-2 infection appears to result in protection against symptomatic infection in working age adults, at least in the short term.
+        -
+          'Hanrath_et_al_12_26_2020
+          'Hanrath_et_al_12_26_2020.!a
+
+      / Immunocompromised
+      claim !Immunocompromised = A case study of a solid organ transplant recipient with COVID-19 showed patients with solid organ transplantation, or patients who are otherwise immunosuppressed, who recover from infection with SARS-CoV-2 may not develop sufficient protective immunity and are at risk of reinfection. A case report of reinfection in a patient after liver transplant with serial virus genomic sequencing.
+        -
+          'Tomkins-Tinch_et_al_04_20_2021
+          'Tomkins-Tinch_et_al_04_20_2021.!a
+          'Tomkins-Tinch_et_al_04_20_2021.!b
+        -
+          'Klein_et_al_03_26_2021
+          'Klein_et_al_03_26_2021.!a
+          'Klein_et_al_03_26_2021.!b
+          'Klein_et_al_03_26_2021.!c
+          'Klein_et_al_03_26_2021.!d
+          'Klein_et_al_03_26_2021.!e
+          'Klein_et_al_03_26_2021.!f
+          'Klein_et_al_03_26_2021.!g
+
+
+
+
+
 
       claim !AnimalReinfection = Immunity from reinfection has been studied using animal models. Animals showed resistance to reinfection during challenge and rechallenge trials.
         -
@@ -936,11 +1139,16 @@ subject module Disease
         'Elsayed_et_al_09_05_2020
         'Yuan_et_al_2020
         'Lan_et_al_2020
+        !RelapseReport
         # >
         #   Past studies have suggested a potential link with use of corticosteroids with the relapse. However in relation to SARS-CoV-2 its still to be studied.
         # -
         'Chien_et_al_05_01_2004
         'Elsayed_et_al_09_05_2020.!a
+
+      claim !RelapseReport = One study (Rome, Italy) reported Out of the 176 recovered patients with COVID-19, 18% of patients  became RT-PCR positive for SARS-CoV-2 RNA after clinical recovery and previous negative results.
+        - Relapse Report
+          'Liotti_et_al_11_12_2020
 
 
     # Old Papers
