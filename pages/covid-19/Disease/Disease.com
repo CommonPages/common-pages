@@ -218,7 +218,7 @@ subject module Disease
         'Sudre_et_al_03_10_2021.!c
 
     / Long Term Consequences
-    claim !LongTermConsequences = There have been reports of persistent fatigue, memory/attention, and sleep disorders and a possible increased disposition for Parkinson's disease. One study reported that Long term neurological manifestations after hospitalization due to COVID-19 infection affects one third of survivors. Multiple neurological abnormalities including mild cognitive impairment are associated with severity of respiratory SARS-CoV-2 infection. One study identified lymphocyte changes in previously hospitalized COVID-19 patients up to 6 months following hospital discharge, proposing that this could affect longer-term immunity and contribute to some persistent symptoms observed in convalescent COVID-19 patients.
+    claim !LongTermConsequences = There have been reports of persistent fatigue, memory/attention, and sleep disorders and a possible increased disposition for Parkinson's disease. One study reported that Long term neurological manifestations after hospitalization due to COVID-19 infection affects one third of survivors. Multiple neurological abnormalities including mild cognitive impairment are associated with severity of SARS-CoV-2 infection. One study identified lymphocyte changes in previously hospitalized COVID-19 patients up to 6 months following hospital discharge, proposing that this could affect longer-term immunity and contribute to some persistent symptoms observed in convalescent COVID-19 patients. 
       -
         'Townsend_et_al_11_09_2020
         'Townsend_et_al_11_09_2020.!a

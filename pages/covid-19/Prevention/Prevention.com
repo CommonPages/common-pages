@@ -52,6 +52,7 @@ subject module Prevention
       # 'Allen_et_al_06_19_2020.!c
       # 'Allen_et_al_06_19_2020.!d
       # 'Allen_et_al_06_19_2020.!e
+      'Allen_et_al_04_16_2021
       'Somsen_et_al_05_27_2020
       # 'Somsen_et_al_05_27_2020.!f
       # addition of disinfection devices, such as germicidal ultraviolet may offer benefits.
@@ -69,6 +70,16 @@ subject module Prevention
       'Amoatey_et_al_05_12_2020
       # Past studies
       'Holmberg_et_al_05_19_2003
+
+
+      # claim !Indoorairchangefiltration = One study described the rationale for limiting far-field airborne transmission of SARS-CoV-2 through increasing outdoor air ventilation and enhancing filtration and 4-6 air changes per hour should be target for small volume spaces to help reduce risk from within-room.
+      #   -
+      #     'Allen_et_al_04_16_2021
+      #     'Allen_et_al_04_16_2021.!a
+      #     'Allen_et_al_04_16_2021.!b
+      #     'Allen_et_al_04_16_2021.!c
+      #     'Allen_et_al_04_16_2021.!d
+      #     'Allen_et_al_04_16_2021.!e
 
 
   / Disinfection

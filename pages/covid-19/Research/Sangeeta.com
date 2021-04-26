@@ -1595,6 +1595,7 @@ feed Sangeeta
       !c
       !d
       !e
+      !f
 
     / April, 2021 - CDC
     quote !a = The principal mode by which people are infected with SARS-CoV-2 is through exposure to respiratory droplets carrying infectious virus.
@@ -1617,7 +1618,7 @@ feed Sangeeta
     quote !e = They also do not account for inefficiencies in transfer of the virus between surfaces to hands and from hands to mouth, nose, and eyes. In fact, laboratory studies try to optimize the recovery of viruses from surfaces (e.g., purposefully swabbing the surface multiple times or soaking the contaminated surface in viral transport medium before swabbing).
 
     / April, 2021 - CDC
-    quote !e = The risk of fomite transmission can be reduced by wearing masks consistently and correctly, practicing hand hygiene, cleaning, and taking other measures to maintain healthy facilities.
+    quote !f = The risk of fomite transmission can be reduced by wearing masks consistently and correctly, practicing hand hygiene, cleaning, and taking other measures to maintain healthy facilities.
 
 
 

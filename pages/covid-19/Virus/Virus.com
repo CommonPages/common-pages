@@ -198,6 +198,8 @@ subject module Virus
       -
         'Liu_et_al_2020c
         'Liu_et_al_2020c.!a
+      -
+        Transmission.Dynamics.Superspreading.!SuperspreadingCause
 
     claim !Duration = Viral RNA can be detected in the upper respiratory tract long after the disappearance of infectious virus.
       -
@@ -232,7 +234,7 @@ subject module Virus
         'Weiss_et_al_07_22_2020
         'Weiss_et_al_07_22_2020.!a
 
-    claim !Variation = In some patients viral RNA has been detectable only for several days, while in other patients it has be detected for several weeks, and even months. However, the prolonged presence of viral RNA does not necessarily signify prolonged infectiousness.
+    claim !Variation = In some patients viral RNA has been detectable only for several days, while in other patients it has be detected for several weeks, and even months. However, the prolonged presence of viral RNA does not necessarily signify prolonged infectiousness. One study reported that prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
       -
         'Woelfel_et_al_2020b
         'Woelfel_et_al_2020b.!a
@@ -253,6 +255,7 @@ subject module Virus
       -
         'Xu_et_al_2020b
         'Xu_et_al_2020b.!a
+
 
     claim !Nose = Some studies have reported higher viral loads in the nose than in the throat at early stage of infection.
       -
@@ -288,7 +291,7 @@ subject module Virus
         'Perera_et_al_08_04_2020
         'Perera_et_al_08_04_2020.!a
 
-    claim !SevereShedding = Studies observed that severe or critical COVID-19 patients may shed infectious virus for longer periods of time.
+    claim !SevereShedding = Studies observed that severe or critical COVID-19 patients may shed infectious virus for longer periods of time. One study reported that prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
       -
         'Cevik_et_al_11_19_2020
         'Cevik_et_al_11_19_2020.!a
@@ -296,6 +299,9 @@ subject module Virus
         'Kampen_et_al_06_09_2020
         'Kampen_et_al_06_09_2020.!d
         'Kampen_et_al_06_09_2020.!e
+      -
+        'Singanayagam_et_al_08_12_2020
+        'Singanayagam_et_al_08_12_2020.!f
 
     claim !Others = Some studies have found SARS-CoV-2 in feces and semen, though the research on its infectiousness is still ongoing.
 

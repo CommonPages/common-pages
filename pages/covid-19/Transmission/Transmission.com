@@ -57,7 +57,7 @@ subject module Transmission
   subject Sources = Most SARS-CoV-2 infections are the result of close contact with an infected individual in the days prior to, or shortly following, symptom onset. True asymptomatic cases may not be major drivers of transmission. The risk of transmission within households is high, though children do not seem to be significant sources.
 
     / Presymptomatic Cases
-    claim !PresymptomaticCases = There mave been many case and cluster reports of presymptomatic transmission, suggesting that transmissability begins in the days leading up to symptom onset. Presymptomatic transmission may be a significant driver of infection.
+    claim !PresymptomaticCases = There mave been many case and cluster reports of presymptomatic transmission, suggesting that transmissability begins in the days leading up to symptom onset. Presymptomatic transmission may be a significant driver of infection. Asymptomatic and presymptomatic persons are likely to be a source of infectious virus. Infection control measures for persons with mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days.
       -
         'Buitrago-Garcia_et_al_09_22_2020
         'Buitrago-Garcia_et_al_09_22_2020.!e
@@ -84,6 +84,20 @@ subject module Transmission
       -
         'He_et_al_2020
         'He_et_al_2020.!a
+      -
+        !Sourceinfectiousvirus
+
+      claim !Sourceinfectiousvirus = Asymptomatic and presymptomatic persons are likely to be a source of infectious virus. Infection control measures for persons with mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days. Data indicates that more prolonged excretion of infectious virus could be associated with severe disease or an immunocompromised state.
+
+        -
+          'Singanayagam_et_al_08_12_2020
+          'Singanayagam_et_al_08_12_2020.!a
+          'Singanayagam_et_al_08_12_2020.!b
+          'Singanayagam_et_al_08_12_2020.!c
+          'Singanayagam_et_al_08_12_2020.!d
+          'Singanayagam_et_al_08_12_2020.!e
+          'Singanayagam_et_al_08_12_2020.!f
+
 
     / Symptomatic Cases
     claim !SymptomaticCases = Transmissability appears to peak around or before symptom onset. There have been reports that the risk of transmission declines after the first 5 days of symptoms, though infectiousness may last longer, particularly in cases of severe disease.
@@ -104,7 +118,20 @@ subject module Transmission
         'Kampen_et_al_06_09_2020.!e
 
     / Asymptomatic Cases
-    claim !AsymptomaticCases = True asymptomatic cases have been confirmed but their extent is difficult to establish. Asymptomatic transmission has been confirmed, but there is evidence that transmissability is lower. Asymptomatic transmission unlikely to be a major driver of infection.
+    claim !AsymptomaticCases = True asymptomatic cases have been confirmed but their extent is difficult to establish. Asymptomatic transmission has been confirmed, but there is evidence that transmissability is lower. Asymptomatic transmission unlikely to be a major driver of infection. However one study reported that asymptomatic and presymptomatic persons are likely to be a source of infectious virus. Infection control measures for persons with mild-to-moderate COVID-19 be particularly focussed immediately after onset of symptoms and retained for 10 days.
+
+      -
+        !AsymtomaticReports
+      -
+        !AsymtomaticTransmissability
+      -
+        !AsymtomaticExtent
+      -
+        !PresymptomaticCases.!Sourceinfectiousvirus
+      -
+        !AsymptomaticViralClearance
+
+
 
       claim !AsymtomaticReports = Many case and cluster reports have attributed transmission to individuals without symptoms. There are, however, challenges in distinguishing presymptomatic cases from true asymptomatic cases (those which will never experience symptoms).
         -
@@ -153,7 +180,9 @@ subject module Transmission
           'Buitrago-Garcia_et_al_09_22_2020
           'Buitrago-Garcia_et_al_09_22_2020.!a
           'Buitrago-Garcia_et_al_09_22_2020.!b
+          'Buitrago-Garcia_et_al_09_22_2020.!d
           'Buitrago-Garcia_et_al_09_22_2020.!e
+
 
       claim !AsymtomaticExtent = A number of studies have suggested that the large majority of SARS-CoV-2 infections are eventually symptomatic, and that asymptomatic spread is unlikely to be a major driver of community transmission.
         -
@@ -176,12 +205,12 @@ subject module Transmission
           'Nogrady_et_al_11_23_2020
           'Nogrady_et_al_11_23_2020.!b
 
-      claim !AsymtomaticSARlower = The secondary attack rate from asymptomatic infections may be lower than that from symptomatic infections.
-        -
-        'Buitrago-Garcia_et_al_09_22_2020
-        'Buitrago-Garcia_et_al_09_22_2020.!d
-        'Buitrago-Garcia_et_al_09_22_2020.!a
-        'Buitrago-Garcia_et_al_09_22_2020.!b
+      # claim !AsymtomaticSARlower = The secondary attack rate from asymptomatic infections may be lower than that from symptomatic infections.
+      #   -
+      #   'Buitrago-Garcia_et_al_09_22_2020
+      #   'Buitrago-Garcia_et_al_09_22_2020.!d
+      #   'Buitrago-Garcia_et_al_09_22_2020.!a
+      #   'Buitrago-Garcia_et_al_09_22_2020.!b
 
       claim !AsymptomaticViralClearance = Viral loads appear to be similar between asymptomatic and symptomatic individuals infected with SARS-CoV-2, but faster viral clearance has been observed among asymptomatic individuals than those who are symptomatic.
         -
@@ -320,12 +349,13 @@ subject module Transmission
         !AerosolTransmission
         !AerosolRisk
         !ShortRangeTransmission
+        !Airbornetransmissionevidence
       # >
       #   While CDC and WHO thinks droplet is more common and airborne route is rare.
       # # https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html
       # # https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations
 
-      claim !AerosolTransmission = Aerosol-based transmission has been documented in clusters of infections. It has also been documented in animal studies.
+      claim !AerosolTransmission = Aerosol-based transmission has been documented in clusters of infections. It has also been documented in animal studies. Ten streams of evidence collectively support the hypothesis that SARS-CoV-2 is transmitted primarily by the airborne route.
 
         claim !Ferrets = Two studies have documented transmission between ferrets at distances exceeding six feet, suggesting that the virus may be airborne.
           -
@@ -360,6 +390,29 @@ subject module Transmission
           'Beggs_et_al_05_26_2020
           'Beggs_et_al_05_26_2020.!a
           'Beggs_et_al_05_26_2020.!b
+
+      claim !Airbornetransmissionevidence = Ten streams of evidence collectively support the hypothesis that SARS-CoV-2 is transmitted primarily by the airborne route.
+        -
+          'Greenhalgh_et_al_04_15_2021
+          'Greenhalgh_et_al_04_15_2021.!a
+          'Greenhalgh_et_al_04_15_2021.!b
+          'Greenhalgh_et_al_04_15_2021.!c
+          'Greenhalgh_et_al_04_15_2021.!d
+          'Greenhalgh_et_al_04_15_2021.!e
+          'Greenhalgh_et_al_04_15_2021.!f
+          'Greenhalgh_et_al_04_15_2021.!g
+          'Greenhalgh_et_al_04_15_2021.!h
+          'Greenhalgh_et_al_04_15_2021.!i
+          'Greenhalgh_et_al_04_15_2021.!j
+          'Greenhalgh_et_al_04_15_2021.!k
+          'Greenhalgh_et_al_04_15_2021.!l
+          'Greenhalgh_et_al_04_15_2021.!m
+          'Greenhalgh_et_al_04_15_2021.!n
+          'Greenhalgh_et_al_04_15_2021.!o
+          'Greenhalgh_et_al_04_15_2021.!p
+          'Greenhalgh_et_al_04_15_2021.!q
+
+
 
     / Droplet Transmission
     claim !DropletTransmission = Transmission of SARS-CoV-2 can occur through infected secretions such as saliva and respiratory secretions or respiratory droplets, which are expelled when an infected person coughs, sneezes, talks or sings.
@@ -422,7 +475,37 @@ subject module Transmission
           'Döhla_et_al_06_02_2020
           'Döhla_et_al_06_02_2020.!a
 
+
       question ?SurfaceExtent = Are there case reports that show evidence of fomite transmission?
+
+      >
+        On April 5, 2021, CDC updated it's Science Brief on SARS-CoV-2 and Surface (Fomite) Transmission for Indoor Community Environments stating that people can be infected with SARS-CoV-2 through contact with surfaces, however, based on available epidemiological data and studies of environmental transmission factors, surface transmission is not the main route by which SARS-CoV-2 spreads, and the risk is considered to be low. The principal mode by which people are infected with SARS-CoV-2 is through exposure to respiratory droplets carrying infectious virus. In most situations, cleaning surfaces using soap or detergent, and not disinfecting, is enough to reduce risk.
+      -
+        !CDCupdate
+      -
+        !SurfaceViabilitylimitations
+
+
+      # CDC RECOMMENDATION ON SURFACE TRANSMISSION
+      claim !CDCupdate = In public spaces and community settings, available epidemiological data and QMRA studies indicate that the risk of SARS-CoV-2 transmission from fomites is low—compared with risks from direct contact, droplet transmission or airborne transmission. There is little scientific support for routine use of disinfectants in community settings, whether indoor or outdoor, to prevent SARS-CoV-2 transmission from fomites. In most situations, cleaning surfaces using soap or detergent, and not disinfecting, is enough to reduce risk.
+        -
+          'CDC_et_al_04_05_2021
+          'CDC_et_al_04_05_2021.!a
+          'CDC_et_al_04_05_2021.!b
+          'CDC_et_al_04_05_2021.!c
+          'CDC_et_al_04_05_2021.!d
+          'CDC_et_al_04_05_2021.!e
+          'CDC_et_al_04_05_2021.!f
+
+      / Limitations of Surface Viability Studies
+      claim !SurfaceViabilitylimitations = Experimental conditions on both porous and non-porous surfaces do not necessarily reflect real-world conditions, such as initial virus amount (e.g., viral load in respiratory droplets) and factors that can remove or degrade the virus, such as ventilation and changing environmental conditions. They also do not account for inefficiencies in transfer of the virus between surfaces to hands and from hands to mouth, nose, and eyes. In fact, laboratory studies try to optimize the recovery of viruses from surfaces (e.g., purposefully swabbing the surface multiple times or soaking the contaminated surface in viral transport medium before swabbing).
+        -
+          'CDC_et_al_04_05_2021
+          'CDC_et_al_04_05_2021.!d
+          'CDC_et_al_04_05_2021.!e
+          'CDC_et_al_04_05_2021.!f
+
+
 
     / Fecal Transmission
     claim !FecalTransmission = Viable SARS-CoV-2 has been found in feces, and a number of studies have suggested that fecal contamination may be a source of infection.
@@ -615,7 +698,7 @@ subject module Transmission
   subject Dynamics = Estimates of the average number of people infected by one person—the R<sub>0</sub>—have varied widely, and depend on the control measures in place. The COVID-19 epidemic may be characterized by overdispersion, whereby the majority of the transmission is driven by a minority of infected individuals (i.e. “superspreaders”).
 
     / Superspreading
-    subject Superspreading = There have been several documented superspreading events for SARS-CoV-2 where one individual or an event was responsible for many transmissions. Studies are showing evidence that COVID-19 epidemic is characterized by overdispersion whereby the majority of the transmission is driven by a minority of infected individuals.
+    subject Superspreading = There have been several documented superspreading events for SARS-CoV-2 where one individual or an event was responsible for many transmissions. Studies are showing evidence that COVID-19 epidemic is characterized by overdispersion whereby the majority of the transmission is driven by a minority of infected individuals. SARS-CoV-2 super-spreader events occur when an infected person is shedding at a very high viral load and has a high number of exposed contacts.
 
       # model Superspreading
       # 80-20 Rule on model superspeading
@@ -625,13 +708,14 @@ subject module Transmission
       -
         !Contextsuperspreader
         !SuperspreadingCovid
+        !SuperspreadingCause
       -
         !Paststudies
       -
         !8020Rule
         !NotoverDispersed
 
-      claim !Contextsuperspreader = Several superspeading events have been documented in other infectious diseases where one individual or an event was responsible for many transmissions.
+      claim !Contextsuperspreader = Several superspeading events have been documented in other infectious diseases where one individual or an event was responsible for many transmissions. One mathematical modelling study reported that SARS-CoV-2 super-spreader events occur when an infected person is shedding at a very high viral load and has a high number of exposed contacts.
         > Superspreading in SARS
         -
           'Lee_et_al_2003
@@ -660,6 +744,13 @@ subject module Transmission
           'Ju-Kim_et_al_04_08_2020.!a
         -
           'Miller_et_al_06_18_2020
+
+      / High Viral Load
+      claim !SuperspreadingCause = One mathematical modelling study, authors reported that people infected with SARS-CoV-2s can be highly contagious for less than one day, congruent with peak viral load. SARS-CoV-2 super-spreader events occur when an infected person is shedding at a very high viral load and has a high number of exposed contacts.
+        -
+          'Goyal_et_al_02_23_2021
+          'Goyal_et_al_02_23_2021.!a
+          'Goyal_et_al_02_23_2021.!b
 
       claim !Paststudies = According to Past studies in an epidemic, small number of infections dominate the transmission while most others fail to have secondary infections.
         -
@@ -751,8 +842,11 @@ subject module Transmission
         'Danis_et_al_04_11_2020
       - Italy
         'Lavezzo_et_al_04_18_2020
+        Settings.!ReopeningschoolsItaly
       - Malaysia
         'Chaw_et_al_07_10_2020
+      - Australia
+        Settings.!churchAustralia
 
     / Cluster and case reports on various settings
     subject Settings
@@ -772,9 +866,14 @@ subject module Transmission
       - Schools and Children
         'Heavey_et_al_05_28_2020
         'Stein-Zamir_et_al_07_21_2020
-
+      >
+        CoViD-19’s second wave started a debate on the potential role of schools as a primary factor in the contagion resurgence. Two opposite positions appeared: those convinced that schools played a major role in spreading SARS-CoV-2 infections and those who were not.
+      -
+        !ReopeningschoolsItaly
       - Hospital Transmission
         'Leclerc_et_al_06_05_2020
+      - Church
+        !churchAustralia
       - Train more than flights and car
         'Zhao_et_al_01_30_2020
       - Airlines is low risk
@@ -783,6 +882,20 @@ subject module Transmission
       - Heavy breathing, close proximity
         'Furuse_et_al_06_10_2020
         'Furuse_et_al_06_10_2020.!c
+
+
+      claim !ReopeningschoolsItaly = One study found that the rate of growth of daily SARS-CoV-2 cases in all the Italian regions provides some evidence in favor of a link between school reopening and the resurgence of the virus in Italy. The number of factors that could have played a role are too many to give a definitive answer.
+        -
+          'Casini_et_al_04_09_2021
+          'Casini_et_al_04_09_2021.!a
+          'Casini_et_al_04_09_2021.!b
+          'Casini_et_al_04_09_2021.!c
+
+
+      claim !churchAustralia = An outbreak occurred in a church in Sydney, New South Wales, Australia after an infectious chorister sang at multiple services. 12 secondary case-patients were detected. The case-patients were seated in the same section, >15 m from the primary case-patient, without close physical contact, suggesting airborne transmission.
+        -
+          'Katelaris_et_al_07_30_2021
+          'Katelaris_et_al_07_30_2021.!a
 
   / Inflight Transmission
   subject Airline

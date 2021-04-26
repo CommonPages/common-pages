@@ -146,14 +146,18 @@ subject module Testing
           !CTChallenges
           !CTSurveillance
 
-        claim !CTInfectiousness = *Cycle_threshold (C<sub>t</sub>) may be useful in assessing whether or not an individual is infectious.
+        claim !CTInfectiousness = *Cycle_threshold (C<sub>t</sub>) may be useful in assessing whether or not an individual is infectious. One study observed a strong relationship between Ct value and ability to recover infectious virus.
           -
             'Bullard_et_al_05_22_2020
             'Tom_et_al_2020
             'Service_et_al_10_02_2020
             'Service_et_al_10_02_2020.!d
             'Service_et_al_10_02_2020.!e
+          -
             'Singanayagam_et_al_08_12_2020
+            'Singanayagam_et_al_08_12_2020.!c
+            'Singanayagam_et_al_08_12_2020.!d
+            'Singanayagam_et_al_08_12_2020.!e
 
         claim !CTContagion = Results from one clinical trial suggested that patients with sufficiently high C<sub>t</sub> values are not contagious.
           # Need to find and Add more papers in this claim from CT value and old discharge subjects
@@ -288,6 +292,7 @@ subject module Testing
 
     claim !CT = Some researchers have proposed using C<sub>t</sub> values to infer infectiousness, to assist in the decision to lift isolation following an infection.
       -
+        'Sethuraman_et_al_05_06_2020
         'Sethuraman_et_al_05_06_2020.!b
 
   / Immunity

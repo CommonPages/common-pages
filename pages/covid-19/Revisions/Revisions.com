@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *April_26 mean April_26
   let *April_24 mean April_24
   let *April_23 mean April_23
   let *April_22 mean April_22
@@ -13,18 +14,35 @@ revision feed Revisions
 
 
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_24, *April_23, *April_22, *April_6, *March_31, and *March_17). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_26, *April_24, *April_23, *April_22, *April_6, *March_31, and *March_17). You can *contribute by sending corrections and responding to open questions.
 
+
+  public: April-26-2021
+  / April 26, 2021
+  revision April_26
+    head = On April 5, 2021, CDC updated it's Science Brief on SARS-CoV-2 and Surface (Fomite) Transmission for Indoor Community Environments stating that people can be infected with SARS-CoV-2 through contact with surfaces, however, based on available data, surface transmission is not the main route by which SARS-CoV-2 spreads, and the risk is considered to be low. Ten streams of evidence collectively support the hypothesis that SARS-CoV-2 is transmitted primarily by the airborne route. Asymptomatic and presymptomatic persons are likely to be a source of infectious virus. Super-spreader events occur when an infected person is shedding at a very high viral load and has a high number of exposed contacts. One modelling study reported evidence of a link between school reopening and the resurgence of the virus in Italy.
+
+    -
+      Transmission.Sources.!PresymptomaticCases
+      Transmission.Routes.!SurfaceTransmission.!CDCupdate
+      Transmission.Routes.!AirborneTransmission.!Airbornetransmissionevidence
+      Transmission.Dynamics.Superspreading.!SuperspreadingCause
+      Transmission.CaseReports.Settings.!ReopeningschoolsItaly
 
 
   public: April-24-2021
   / April 24, 2021
   revision April_24
-    head = We have updated the latest information on Reinfection and Antibodies. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). The concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. Previously infected older (65 years and above) and immunocompromised people are more at risk of reinfection. High degree of heterogeneity in immune response makes at least those with particularly low immune memory susceptible to re-infection relatively quickly. RBD-specific antibodies have greater potency to neutralize infection with divergent virus strains.
+    head = We have updated the latest information on Reinfection, Antibodies and Disease. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Previously infected older (65 years and above) and immunocompromised people are more at risk of reinfection. Those with particularly low immune memory are susceptible to re-infection relatively quickly. RBD-specific antibodies have greater potency to neutralize infection with divergent virus strains. Multiple neurological abnormalities including mild cognitive impairment are associated with severity of SARS-CoV-2 infection. Survivors of COVID-19 appear to be at increased risk of psychiatric sequelae. A study reported the observation of a newly associated mucocutaneous eruption (SARS-CoV-2–induced RIME) in a pediatric patient. Experiencing more than five symptoms during the first week of illness was associated with long COVID.
 
     -
       Disease.Immunity.AcquiredImmunity
       Disease.Immunity.?Reinfection
+      Disease.Course.!SymptomaticCases
+      Disease.Course.!LongCovid
+      Disease.Course.!LongTermConsequences
+
+
 
 
   public: April-23-2021
