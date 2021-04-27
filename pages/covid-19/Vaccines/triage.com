@@ -93,9 +93,20 @@
 
 
 
-  # CLINICAL TRIAL 4/23/21 ##### ALL RECENT PAPERS - I HAVE PUT ALL THESE PAPERS below
+  # CLINICAL TRIAL 4/27/21 ##### ALL RECENT PAPERS
 
 
+
+  >
+    These new observations also raise important scientific questions with clinical implications. What component or components of the vaccine (adenoviral sequence, spike protein, or other component) elicit a new (or recall) response to a seemingly unrelated host protein, PF4? Why does the complication appear to be more prevalent after exposure to one particular adenoviral vector? What is the risk after revaccination?  How do VITT antibodies compare with the anti-PF4–related antibodies that are present after SARS-CoV-2 infection, which have been described in patients who were suspected to have heparin-induced thrombocytopenia?10-12 Is PF4 a bystander component within an immune complex that activates platelets, or does it contribute directly to clot propagation? Does the atypical distribution of thrombi relate to antigen localization or vascular response? Is thrombosis propagated along vascular and hematopoietic surfaces that release diverse anionic cofactors, as in heparin-induced thrombocytopenia? In
+    The questions of whether certain populations can be identified as more suitable candidates for one or another vaccine and who and how to monitor for this rare potential complication will require additional study.
+
+  >
+    cases of immune thrombocytopenia and bleeding without thrombosis that were induced or revealed after exposure to the messenger RNA (mRNA)–based vaccines produced by Moderna (mRNA-1273) and Pfizer–BioNTech (BNT162b2) have been reported.2
+    Thrombocytopenia following Pfizer and Moderna SARS-CoV-2 vaccination
+
+
+# CLINICAL TRIAL 4/27/21 ##### ALL RECENT PAPERS - I HAVE PUT ALL THESE PAPERS below
 
   >
     A recent report showing low anti-SARS-CoV-2 IgG response to the Pfizer vaccine in patients with cancer included 38 patients with haematological malignancies (nine patients with multiple myeloma) and showed only a 13% response rate, raising concerns that multiple myeloma might be associated with attenuated vaccine response
@@ -327,7 +338,7 @@
     'Marks_et_al_04_13_2021.!d
     'Marks_et_al_04_13_2021.!e
 
-########## 4/21/21 - ADDED - CHECK WITH AYUSH - ADDED ALL THESE PAPERS AND UPDATED 
+########## 4/21/21 - ADDED - CHECK WITH AYUSH - ADDED ALL THESE PAPERS AND UPDATED
 
 
   / Risk of cerebral venous thrombosis (CVT) - ADDED

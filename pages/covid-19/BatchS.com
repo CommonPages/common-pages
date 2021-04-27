@@ -11,7 +11,7 @@
   # 20C was first observed in July of 2020 in samples from LA county. It was not detected in Southern California again until October.
 
   # Named B.1.427/B.1.429 to denote its 2 lineages, the variant emerged in May 2020 and increased from 0% to >50% of sequenced cases from September 2020 to January 2021, showing 18.6-24% increased transmissibility relative to wild-type circulating strains. 20% more infectious, higher viral loads, some immune evasion but not enough to reduce vaccine efficacyCAL. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected in Northern California, New York and Washington DC.
- 
+
   # B.1.617.1 variant first detected in sequences from India was designated under investigation on 1 April 2021 as VUI-21APR-01 (B.1.617.1). VUI-21APR-01 (B.1.617.1) cases have been imported to England with increasing frequency. As of 22 April 21, 119 genomically confirmed cases of B.1.617.1 have been identified in England, 94 have a link to travel, No cases are known to have died.
 
   # MONOCLONAL ANTIBODY TREATMENT
@@ -25,6 +25,11 @@
       'Regeneron_et_al_04_12_2021.!d
       'Regeneron_et_al_04_12_2021.!e
 
+
+     # They also stated that overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects. As of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded there is a possible link between thrombosis and thrombocytopenia syndrome and J&J vaccine and that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. EMA confirms overall benefit-risk remains positive. Cases of unusual blood clots with low platelets have occurred in people who received Vaxzevria (formerly COVID-19 Vaccine AstraZeneca). The chance of having this occur is very low, but you should still be aware of symptoms so you can get prompt medical treatment to help recovery and avoid complications.
+
+
+    #  The potential consequences of emerging variants are increased transmissibility, increased pathogenicity and the ability to escape natural or vaccine-induced immunity
 
   >
     Measurements of indoor CO2 concentration by low-cost CO2 sensors can often be good indicators of infection risk and suitable for mass deployment.

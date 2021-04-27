@@ -935,7 +935,7 @@ subject module Vaccines
 
     / Oxford–AstraZeneca
     subject AZD1222
-      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial.
+      head = Clinical trails for Oxford-AstraZeneca started as early as April of 2020 and will continue till 2023. In a Phase 3 interim primary efficacy analysis published in December of 2020, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial. Very rare cases of blood clots with low blood platelets occurring within 2 weeks of vaccination have been observed.
 
       >
         Oxford–AstraZeneca is a COVID-19 vaccine candidate developed by University of Oxford, UK, and the pharmaceutical firm [AstraZeneca](https://www.astrazeneca.com/) in Cambridge, UK. It is given by intramuscular injection, using as a vector the modified chimpanzee adenovirus ChAdOx1.
@@ -1148,12 +1148,11 @@ subject module Vaccines
           'Madhi_et_al_02_12_2021.!c
 
       / Thrombotic Thrombocytopenia (Blood Clots)
-      claim !ThromboticThrombocytopenia = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19 and Ad26.COV2.S vaccine (Johnson & Johnson/Janssen) suggesting a disorder that clinically resembles severe heparin-induced thrombocytopenia. One study indicated it is the adenovirus vector-based vaccines (ChAdOx1 nCoV-19 vaccine) that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. One case report of a patient (Ad26.COV2.S vaccine) suggests that the rare occurrence of vaccine-induced immune thrombotic thrombocytopenia (VITT) could be related to adenoviral vector vaccines. However, the manufacturers of Ad26.COV2.S vaccine hav argued that that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different. As of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded there is a possible link between thrombosis and thrombocytopenia syndrome and J&J vaccine and that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. They also stated that overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects.
-
+      claim !ThromboticThrombocytopenia = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19 and Ad26.COV2.S vaccine (Johnson & Johnson/Janssen) suggesting a disorder that clinically resembles severe heparin-induced thrombocytopenia. One study indicated it is the adenovirus vector-based vaccines (ChAdOx1 nCoV-19 vaccine) that are at risk of inducing vaccine-induced immune thrombotic thrombocytopenia (VITT) through adenovirus and/or other PF4-DNA interactions. One case report of a patient (Ad26.COV2.S vaccine) suggests that the rare occurrence of  VITT could be related to adenoviral vector vaccines. However, the manufacturers of Ad26.COV2.S vaccine have argued that that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different. European Medicines Agency's (EMA) safety committee (PRAC) concluded that a warning about unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine AstraZeneca and COVID-19 Vaccine Janssen. EMA confirms overall benefit-risk remains positive.
 
         / Oxford–AstraZeneca
         subject ChAdOx1nCoV-19
-          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Couple of reports concluded that vaccination with the ChAdOx1 nCoV-19 vaccine may lead to rare thrombotic thrombocytopenia, infact one study indicated it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. However, one study results showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. More data is needed on the pathogenesis of this unusual clotting disorder.
+          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Couple of reports concluded that vaccination with the ChAdOx1 nCoV-19 vaccine may lead to rare thrombotic thrombocytopenia, infact one study indicated it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. However, one study results showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. As of 7 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded that a warning about unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine AstraZeneca. EMA confirms overall benefit-risk remains positive.
 
           >
             In September of 2020, [clinical crials](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/) of the AstraZeneca vaccine were put on hold in the US because of suspected adverse reactions. However, trials were [resumed](https://www.astrazeneca.com/media-centre/press-releases/2020/fda-authorises-restart-of-the-covid-19-azd1222-vaccine-us-phase-iii-trial.html) in October of 2020. In December of 2020, data reported from {Research.Sangeeta.'Voysey_et_al_12_08_2020 AstraZeneca’s clinical trials}, involving 24,000 people, found four thromboembolic events occurred in people given the vaccine.
@@ -1184,6 +1183,10 @@ subject module Vaccines
 
           -
             !ThromboticThrombocytopeniareports
+          >
+            As of 07 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) cconcluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine Janssen. So far, most of the cases reported have occurred in women under 60 years of age within 2 weeks of vaccination. EMA confirms overall benefit-risk remains positive.
+          -
+            !EMAupdate
           -
             !ThrombosisPast
             !ThrombosisRisk
@@ -1255,6 +1258,18 @@ subject module Vaccines
               'TGA_et_al_03_19_2021.!b
               'TGA_et_al_03_19_2021.!c
 
+          / European Medicines Agency
+          claim !EMAupdate = As of 07 April 2021, EMA’s safety committee (PRAC) concluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine AstraZeneca. So far, most of the cases reported have occurred in women under 60 years of age within 2 weeks of vaccination. There is limited experience with the second dose. The benefits of the vaccine continue to outweigh the risks for people who receive it.
+
+            -
+              'EMA_et_al_04_07_2021
+              'EMA_et_al_04_07_2021.!a
+              'EMA_et_al_04_07_2021.!b
+              'EMA_et_al_04_07_2021.!c
+              'EMA_et_al_04_07_2021.!d
+              'EMA_et_al_04_07_2021.!e
+
+
 
           / Thrombotic Thrombocytopenia Reports
           claim !ThromboticThrombocytopeniareports = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Couple of reports concluded that vaccination with the ChAdOx1 nCoV-19 vaccine may lead to rare thrombotic thrombocytopenia, infact one study indicated it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. However, one study results showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. More data were needed on the pathogenesis of this unusual clotting disorder.
@@ -1315,7 +1330,7 @@ subject module Vaccines
 
         / Johnson & Johnson/Janssen
         subject Ad26COV2S
-          head = One case study of extensive thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation that resembled autoimmune heparin-induced thrombocytopenia in a patient who had received the Ad26.COV2.S vaccine (Johnson & Johnson/Janssen). The case suggests that the rare occurrence of vaccine-induced immune thrombotic thrombocytopenia (VITT) could be related to adenoviral vector vaccines. However, the manufacturers of Ad26.COV2.S vaccine hav argued that that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different. As of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded there is a possible link between thrombosis and thrombocytopenia syndrome and J&J vaccine and that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. They also stated that overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects.
+          head = One case study of extensive thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation that resembled autoimmune heparin-induced thrombocytopenia in a patient who had received the Ad26.COV2.S vaccine (Johnson & Johnson/Janssen). The case suggests that the rare occurrence of vaccine-induced immune thrombotic thrombocytopenia (VITT) could be related to adenoviral vector vaccines. However, the manufacturers of Ad26.COV2.S vaccine hav argued that that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different. As of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded that a warning about unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine Janssen. EMA confirms overall benefit-risk remains positive.
 
           >
             As of April 13, 2021, the Food and Drug Administration (FDA) and the Centers for Disease Control and Prevention (CDC) have elected to pause the JJJ vaccine’s rollout in the US after receiving reports of six cases of CVSTs (cerebral venous sinus thromboses) with thrombocytopenia (low levels of blood platelets) occurring 7 to 14 days after vaccination.
@@ -1326,6 +1341,9 @@ subject module Vaccines
           -
             !Casereport
             !Argument
+          >
+            At its meeting of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) cconcluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine Janssen. All cases occurred in people under 60 years of age within three weeks after vaccination, the majority in women. EMA confirms overall benefit-risk remains positive.
+          -
             !EMA
 
 
@@ -1349,7 +1367,7 @@ subject module Vaccines
               'Muir_et_al_04_14_2021.!c
 
           / Insufficient evidence to establish a causal relationship
-          claim !Argument = In a correspondence, the Manufacturers responded to a case report by Muir et al that describes thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation in a recipient of the Ad26.COV2.S vaccine against SARS-CoV-2, explaining that evidence is insufficient to establish a causal relationship between these events and the Ad26.COV2.S vaccine. Events reported in recipients of the Ad26.COV2.S vaccine are occurring within the range of published background incidence (0.2 to 1.57 per 100,000 person-years). They also responded to the suggestion made by Muir et al.- Covid-19 vaccines using an adenoviral (Ad) vector platform may be related to the occurrence of thrombotic thrombocytopenia, explaining that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different and these two adenoviral vector Covid-19 vaccines may have quite different biologic effects.
+          claim !Argument = In a correspondence, the Manufacturers responded to a case report by Muir et al that describes thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation in a recipient of the Ad26.COV2.S vaccine against SARS-CoV-2, explaining that evidence is insufficient to establish a causal relationship between these events and the Ad26.COV2.S vaccine. Events reported in recipients of the Ad26.COV2.S vaccine are occurring within the range of published background incidence (0.2 to 1.57 per 100,000 person-years). They also  explained that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different and these two adenoviral vector Covid-19 vaccines may have quite different biologic effects.
 
             -
               'Sadoff_et_al_04_16_2021
@@ -1362,7 +1380,8 @@ subject module Vaccines
 
 
           / European Medicines Agency
-          claim !EMA = At its meeting of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded there is a possible link between thrombosis and thrombocytopenia syndrome and J&J vaccine and that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. PRAC also concluded that these events should be listed as very rare side effects of the vaccine. They also stressed that overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects.
+          claim !EMA = At its meeting of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) cconcluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine Janssen. All cases occurred in people under 60 years of age within three weeks after vaccination, the majority in women. There is limited experience with the second dose. The benefits of the vaccine continue to outweigh the risks for people who receive it.
+
             -
               'EMA_et_al_04_20_2021
               'EMA_et_al_04_20_2021.!a
@@ -1382,6 +1401,9 @@ subject module Vaccines
           -
             'Marks_et_al_04_13_2021
             'Marks_et_al_04_13_2021.!e
+          -
+            'EMA_et_al_04_07_2021
+            'EMA_et_al_04_07_2021.!d
 
         / Treatment Approach
         claim !Treatmentapproach = Case studies of Thrombotic Thrombocytopenia after ChAdOx1 nCov-19 and Ad26.COV2.S Vaccination found that inhibition of platelet activation by intravenous immune globulin paralleled its efficacy in the treatment of autoimmune heparin-induced thrombocytopenia. In this setting, administration of heparin may be dangerous. Non‐APTT‐adjusted therapies with drugs such as danaparoid and fondaparinux, or even direct oral anticoagulants, such as rivaroxaban or apixaban, are suggested therapies, especially for long‐term management of persisting HIT.
@@ -1496,7 +1518,7 @@ subject module Vaccines
 
     / Johnson & Johnson
     subject Ad26COV2S
-      head = In Phase 1 & 2, trials authors reported favorable safety profile and immunogenicity for further clinical development. In interim analysis, the single shot vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa. Phase 3 RCT reported vaccine efficacy of 66% against infection and 85% against severe-critical Covid-19. Efficacy against SA B.1.351 was 64% against moderate disease and 82% against severe-critical disease.
+      head = In Phase 1 & 2, trials authors reported favorable safety profile and immunogenicity for further clinical development. In interim analysis, the single shot vaccine had a 72% overall efficacy rate in the United States and 64% in South Africa. Phase 3 RCT reported vaccine efficacy of 66% against infection and 85% against severe-critical Covid-19. Efficacy against SA B.1.351 was 64% against moderate disease and 82% against severe-critical disease. Very rare cases of blood clots with low blood platelets occurring within 2 weeks of vaccination have been observed.
 
       >
         [Janssen Pharmaceutica](https://www.janssen.com/) (Johnson & Johnson), BIDMC" is using non replicating viral vector. The Johnson & Johnson vaccine uses double-stranded DNA and is based on the virus’s genetic instructions for building the {Virus.Structure spike protein}. The researchers added the gene for the coronavirus spike protein to another virus called Adenovirus 26.

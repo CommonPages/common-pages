@@ -18,16 +18,6 @@ feed Sangeeta
 
   #
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
-
-    - quotes
-      !a
-
-    / April, 2021 - JAMA Netw Open.
-    quote !a =
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -40,7 +30,6 @@ feed Sangeeta
 
     / April, 2021 - JAMA Netw Open.
     quote !a =
-
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -52,6 +41,147 @@ feed Sangeeta
 
     / April, 2021 - JAMA Netw Open.
     quote !a =
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / April, 2021 - JAMA Netw Open.
+    quote !a =
+  #
+  // Thrombocytopenia following Pfizer and Moderna SARS-CoV-2 vaccination.
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / April, 2021 - JAMA Netw Open.
+    quote !a =
+  #
+
+  // SARS-CoV-2 Vaccine–Induced Immune Thrombotic Thrombocytopenia
+  doi: https://doi.org/10.1056/NEJMe2106315
+  ref 'Douglas_et_al_04_16_2021
+    head =
+
+  
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = No thrombotic signal was detected in clinical trials leading to the approval of the ChAdOx1 nCoV-19 vaccine,9 which has now been administered to 34 million people worldwide. The incidence of VITT, as initially estimated, is perhaps 1 case per 100,000 exposures. This should be considered in the context of the incidence of cerebral venous sinus thrombosis in the general population (estimated at 0.22 to 1.57 cases per 100,000 per year). The initial focus of these reports may reflect a propensity to study patients with severe thrombosis occurring in unusual locations, and a more complete picture of thrombotic complications is likely to emerge over time. More information on potential risk factors other than young age and female sex is needed. Also needed are data on the prevalence and titer of anti-PF4–related antibodies in all vaccine recipients, especially those who had thrombosis at sites other than those commonly reported to date among patients with VITT, in order to apply Bayesian analyses to estimate disease probability on the basis of both clinical features and antibody titer in optimized assays.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = Additional cases have now been reported to the European Medicines Agency, including at least 169 possible cases of cerebral venous sinus thrombosis and 53 possible cases of splanchnic vein thrombosis among 34 million recipients of the ChAdOx1 nCoV-19 vaccine, 35 possible cases of central nervous system thrombosis among 54 million recipients of the Pfizer–BioNTech mRNA vaccine, and 5 possible (but unvetted) cases of cerebral venous sinus thrombosis among 4 million recipients of the Moderna mRNA vaccine. Six possible cases of cerebral venous sinus thrombosis (with or without splanchnic vein thrombosis) have been reported among the more than 7 million recipients of the Johnson & Johnson/Janssen Ad26.COV2.S adenoviral vector vaccine. They clearly indicate the need for maintaining a high level of concern when patients present with central nervous system or abdominal symptoms after receiving any SARS-CoV-2 vaccine.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = A note of caution: although anti-PF4–polyanion antibodies are common — for example, they are detected in 25 to 50% of patients after cardiovascular surgery — heparin-induced thrombocytopenia is not, and only in rare cases does cerebral venous sinus thrombosis or thrombi in abdominal vessels develop in patients with heparin-induced thrombocytopenia. This suggests that our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established. T
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = As of April 9, 2021, at least five countries had instituted limitations — primarily based on age — on which patients should receive the ChAdOx1 nCoV-19 vaccine, and the Centers for Disease Control and Prevention and the Food and Drug Administration have put a temporary hold on administration of the Johnson & Johnson/Janssen vaccine.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = The limited information available relating to management suggests that intravenous immune globulin and high-dose glucocorticoids can improve the platelet count within days, which may limit the risk of hemorrhagic transformation, especially when anticoagulation is instituted. Immune globulin impedes antibody-mediated platelet clearance and may down-regulate platelet activation by immune complexes by blocking platelet FcRγIIA receptors, as in heparin-induced thrombocytopenia.7 Although the condition in several patients apparently improved when they were given low-molecular-weight heparin, it seems prudent to choose from among the nonheparin antithrombotic agents that are used to treat heparin-induced thrombocytopenia while the risk of bleeding is being mitigated.8 We expect that the high mortality rate associated with VITT will decrease with earlier recognition and improved intervention.
+
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = This constellation of thrombosis and thrombocytopenia prompted consideration of heparin-induced thrombocytopenia as the diagnosis. However, none of the patients had known exposure to heparin before the onset of illness. Although the pathogenesis of this syndrome of vaccine-induced immune thrombotic thrombocytopenia (VITT) is not yet clear, certain findings were consistent across the three studies. In almost every patient, high levels of antibodies to platelet factor 4 (PF4)–polyanion complexes were identified by enzyme-linked immunosorbent assay (ELISA), as well by assays based on platelet activation, which, when tested, was enhanced by addition of PF4. In contrast to heparin-induced thrombocytopenia, however, binding of antibody to PF4 occurred in the absence of heparin. This serologic pattern mirrors findings in patients with “atypical” or “autoimmune” heparin-induced thrombocytopenia, in whom thrombi develop in the absence of known previous exposure to heparin,6 but the distribution of thrombi in patients with that condition clearly differs from that in patients with VITT. On the basis of these reports, the diagnosis of VITT should be confirmed with an approved PF4 ELISA. Reliance cannot be placed on the rapid assays that are often used to detect heparin-induced thrombocytopenia unless they have been validated to make or to rule out a diagnosis of VITT, given the potential differences in antigenic target or sensitivity.5
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = The Journal has now highlighted three independent descriptions of 39 persons with a newly described syndrome characterized by thrombosis and thrombocytopenia that developed 5 to 24 days after initial vaccination with ChAdOx1 nCoV-19 (AstraZeneca), a recombinant chimpanzee adenoviral vector encoding the spike protein of SARS-CoV-2.3-5 These persons were healthy or in medically stable condition, and very few were known to have had previous thrombosis or a preexisting prothrombotic condition. Most of the patients included in these reports were women younger than 50 years of age, some of whom were receiving estrogen-replacement therapy or oral contraceptives. A remarkably high percentage of the patients had thromboses at unusual sites — specifically, cerebral venous sinus thrombosis or thrombosis in the portal, splanchnic, or hepatic veins. Other patients presented with deep venous thrombi, pulmonary emboli, or acute arterial thromboses. The median platelet counts at diagnosis were approximately 20,000 to 30,000 per cubic millimeter (range, approximately 10,000 to 110,000), but the rate of decline in platelet counts that preceded thrombosis is unknown. High levels of d-dimers and low levels of fibrinogen were common and suggest systemic activation of coagulation. Approximately 40% of the patients died, some from ischemic brain injury, superimposed hemorrhage, or both conditions, often after anticoagulation.
+  #
+
+  // Neutralization of variant under investigation B.1.617 with sera of BBV152 vaccinees
+  doi: https://doi.org/10.1101/2021.04.23.441101
+  ref 'Yadav_et_al_04_23_2021
+    head = We report the isolation of SARS-CoV-2 of new lineage B.1.617 with several spike mutations from Maharashtra state, India. Further, we investigated the neutralization efficiency of convalescent sera (n=17) and the sera collected from BBV152 (Covaxin) vaccinated individuals (n=28) against the B1(D614G) and B.1.617 variants.
+
+    > Abstract
+      The drastic rise in the number of cases in Maharashtra, India has created a matter of concern for public health experts. Twelve isolates of VUI lineage B.1.617 were propagated in VeroCCL81 cells and characterized. Convalescent sera of the COVID-19 cases and recipients of BBV152 (Covaxin) were able to neutralize VUI B.1.617.
+
+    - quotes
+      !a
+      !b
+
+    / April, 2021 - BioRxiv
+    quote !a = Convalescent sera of the COVID-19 cases and recipients of BBV152 (Covaxin) were able to neutralize VUI B.1.617. In this study, a drop in neutralization was detected with the B.1.617 variant., However, the reduction of neutralizing capability was limited to 2-fold.
+
+    / April, 2021 - BioRxiv
+    quote !b = These findings support earlier results comparing BBV152 induced immune responses to neutralize the D614G and B.1.1.7 variants equally.
+
+
+
+  #
+  // SARS-CoV-2 immune evasion by variant B.1.427/B.1.429
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / April, 2021 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // An emerging SARS-CoV-2 mutant evading cellular immunity and increasing viral infectivity
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / April, 2021 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Convergent evolution of SARS-CoV-2 spike mutations, L452R, E484Q and P681R, in the second wave of COVID-19 in Maharashtra, India
+  doi: https://doi.org/10.1101/2021.04.22.440932
+  ref 'Cherian_et_al_04_24_2021
+    head = In the backdrop of the global emergence of “variants of concern” (VOCs) during December 2020 and an upsurge in a state in the western part of India since January 2021, whole genome sequencing and analysis of spike protein mutations using sequence and structural approaches was undertaken to identify possible new variants and gauge the fitness of current circulating strains.
+
+    > Abstract
+      As the global severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic expands, genomic epidemiology and whole genome sequencing are being constantly used to investigate its transmissions and evolution. In the backdrop of the global emergence of “variants of concern” (VOCs) during December 2020 and an upsurge in a state in the western part of India since January 2021, whole genome sequencing and analysis of spike protein mutations using sequence and structural approaches was undertaken to identify possible new variants and gauge the fitness of current circulating strains.
+
+      Phylogenetic analysis revealed that the predominant clade in circulation was a distinct newly identified lineage B.1.617 possessing common signature mutations D111D, G142D, L452R, E484Q, D614G and P681R, in the spike protein including within the receptor binding domain (RBD). Of these, the mutations at residue positions 452, 484 and 681 have been reported in other globally circulating lineages. The structural analysis of RBD mutations L452R and E484Q along with P681R in the furin cleavage site, may possibly result in increased ACE2 binding and rate of S1-S2 cleavage resulting in better transmissibility. The same two RBD mutations indicated decreased binding to selected monoclonal antibodies (mAbs) and may affect their neutralization potential. Experimental validation is warranted for accessing both ACE2 binding and the effectiveness of commonly elicited neutralizing mAbs for the strains of lineage B.1.617.
+
+      The emergence of such local variants through the accumulation of convergent mutations during the COVID-19 second wave needs to be further investigated for their public health impact in the rest of the country and its possibility of becoming a VOC.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+
+    / April, 2021 - BioRxiv
+    quote !a = The study investigated the S protein mutations associated with the COVID-19 cases in Maharashtra observed since the month of February 2021. The continuous increase in positivity could be attributed to signature mutations in the spike protein and functionally significant co-occurring triple mutations (L452R, E484Q, P681R). As per GISAID submissions, the B.1.617 lineage has been reported from several countries including UK, USA, Switzerland, Germany, Singapore etc.
+
+    / April, 2021 - BioRxiv
+    quote !b = The unique combination of mutations L452R, E484Q and P681R noted in this study is an indication of convergent evolution.
+
+    / April, 2021 - BioRxiv
+    quote !c = The structural analysis of RBD mutations L452R and E484Q along with P681R in the furin cleavage site, may possibly result in increased ACE2 binding and rate of S1-S2 cleavage resulting in better transmissibility.
+
+    / April, 2021 - BioRxiv
+    quote !d = Structural analysis further showed that the two RBD mutations L452R and E484Q may decrease the binding ability of the selected monoclonal antibodies (mAbs)- REGN10933 and P2B-2F6 antibodies to the variant strains, compared to that in the wild-type strain and may affect their neutralization potential.
+
+    / April, 2021 - BioRxiv
+    quote !e = Phylogenetic analysis revealed that the predominant clade in circulation was a distinct newly identified lineage B.1.617 possessing common signature mutations D111D, G142D, L452R, E484Q, D614G and P681R, in the spike protein including within the receptor binding domain (RBD).
+
+    / April, 2021 - BioRxiv
+    quote !f = Of these, the mutations at residue positions 452, 484 and 681 have been reported in other globally circulating lineages. Mutations at both the residue positions 452 and 484 individually have been reported earlier. L452R has been noted in California lineages B.1.427 and B.1.429 while E484K mutation is common to the three VOCs having global impact. E484Q has also been reported in several sequences in the GISAID with the earliest strain noted in Denmark. P681H is one of the mutations in the UK-variant B.1.1.7 while P681R is one of the mutations in the VUI lineage A.23.1.
+
+    # / April, 2021 - BioRxiv
+    # quote !a = In addition, districts in western Maharashtra, such as Pune, Mumbai, Thane and Nashik showed presence of multiple lineages in circulation in comparison to the dominance of lineage B.1.617 in eastern Maharashtra.The co-occurrence of synonymous mutations with the non-synonymous mutations observed is interesting and being reported19,20. Notably D111D was found to be associated with the signature mutations.
+
 
 
 
@@ -365,13 +495,41 @@ feed Sangeeta
     / April, 2021 - Nature Medicine
     quote !b = Our analysis revealed that a little over 2 months after the initiation of the vaccination campaign, with 85% of individuals older than 60 years already vaccinated with two doses (24 February 2021), there was an approximately 77% drop in cases, a 45% drop in positive test percentage, a 68% drop in hospitalizations and a 67% drop in severe hospitalizations compared to peak values.
 
+  #
+
+  // AstraZeneca’s COVID-19 vaccine: EMA finds possible link to very rare cases of unusual blood clots with low blood platelets
+  doi: https://www.ema.europa.eu/en/news/astrazenecas-covid-19-vaccine-ema-finds-possible-link-very-rare-cases-unusual-blood-clots-low-blood
+  ref 'EMA_et_al_04_07_2021
+    head = EMA’s safety committee (PRAC) concluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine AstraZeneca. The Committee carried out an in-depth review of 62 cases of cerebral venous sinus thrombosis and 24 cases of splanchnic vein thrombosis reported in the EU drug safety database (EudraVigilance) as of 22 March 2021, 18 of which were fatal. The cases came mainly from spontaneous reporting systems of the EEA and the UK, where around 25 million people had received the vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2021 - EMA
+    quote !a = EMA is reminding healthcare professionals and people receiving the vaccine to remain aware of the possibility of very rare cases of blood clots combined with low levels of blood platelets occurring within 2 weeks of vaccination. So far, most of the cases reported have occurred in women under 60 years of age within 2 weeks of vaccination. Based on the currently available evidence, specific risk factors have not been confirmed. There is limited experience with the second dose.
+
+    / April, 2021 - EMA
+    quote !b = The PRAC noted that the blood clots occurred in veins in the brain (cerebral venous sinus thrombosis, CVST) and the abdomen (splanchnic vein thrombosis) and in arteries, together with low levels of blood platelets and sometimes bleeding.
+
+    / April, 2021 - EMA
+    quote !c = One plausible explanation for the combination of blood clots and low blood platelets is an immune response, leading to a condition similar to one seen sometimes in patients treated with heparin (heparin induced thrombocytopenia, HIT).
+
+    / April, 2021 - EMA
+    quote !d = Healthcare professionals should tell people receiving the vaccine that they must seek medical attention if they develop: symptoms of blood clots such as shortness of breath, chest pain, leg swelling, persistent abdominal pain neurological symptoms such as severe and persistent headaches and blurred vision, tiny blood spots under the skin beyond the site of the injection.
+
+    / April, 2021 - EMA
+    quote !e = The benefits of the vaccine continue to outweigh the risks for people who receive it. The vaccine is effective at preventing COVID-19 and reducing hospitalisations and deaths.
 
 
   #
   // COVID-19 Vaccine Janssen: EMA finds possible link to very rare cases of unusual blood clots with low blood platelets
   doi: https://www.ema.europa.eu/en/news/covid-19-vaccine-janssen-ema-finds-possible-link-very-rare-cases-unusual-blood-clots-low-blood
   ref 'EMA_et_al_04_20_2021
-    head = At its meeting of 20 April 2021, EMA’s safety committee (PRAC) concluded that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. PRAC also concluded that these events should be listed as very rare side effects of the vaccine. In reaching its conclusion, the Committee took into consideration all currently available evidence including eight reports from the United States of serious cases of unusual blood clots associated with low levels of blood platelets, one of which had a fatal outcome. As of 13 April 2021, over 7 million people had received Janssen’s vaccine in the United States.
+    head = At its meeting of 20 April 2021, EMA’s safety committee (PRAC) concluded that a warning about unusual blood clots with low blood platelets should be listed as very rare side effects of the vaccine. In reaching its conclusion, the Committee took into consideration all currently available evidence including eight reports from the United States of serious cases of unusual blood clots associated with low levels of blood platelets, one of which had a fatal outcome. As of 13 April 2021, over 7 million people had received Janssen’s vaccine in the United States.
 
     - quotes
       !a

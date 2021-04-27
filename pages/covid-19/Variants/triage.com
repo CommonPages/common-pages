@@ -64,7 +64,46 @@ index: hide
     'Volz_et_al_03_25_2021.!c
 
 
-  ##### 4/23/21 UPDATE CLAIMS
+  ##### 4/27/21 UPDATE CLAIMS
+
+
+  >
+    A recent report revealed that the L452R mutation reduced or abolished neutralizing activity of 14 out of 35 RBD-specific mAbs including three clinical stage mAbs.
+  -
+    'Cherian_et_al_04_24_2021
+    'Cherian_et_al_04_24_2021.!d
+
+  >
+    nother recent study22 has demonstrated that the mutation L452R can escape from human leukocyte antigen (HLA)-24-restricted cellular immunity and can also increase viral infectivity, potentially promoting viral replication.
+
+  >
+    The study investigated the S protein mutations associated with the COVID-19 cases in Maharashtra observed since the month of February 2021. The continuous increase in positivity could be attributed to signature mutations in the spike protein and functionally significant co-occurring triple mutations (L452R, E484Q, P681R). As per GISAID submissions, the B.1.617 lineage has been reported from several countries including UK, USA, Switzerland, Germany, Singapore etc. The unique combination of mutations L452R, E484Q and P681R noted in this study is an indication of convergent evolution.
+  -
+    'Cherian_et_al_04_24_2021
+    'Cherian_et_al_04_24_2021.!a
+    'Cherian_et_al_04_24_2021.!b
+    'Cherian_et_al_04_24_2021.!c
+    'Cherian_et_al_04_24_2021.!d
+    'Cherian_et_al_04_24_2021.!e
+    'Cherian_et_al_04_24_2021.!f
+
+  >
+    Convalescent sera of the COVID-19 cases and recipients of BBV152 (Covaxin) were able to neutralize VUI B.1.617. In this study, a drop in neutralization was detected with the B.1.617 variant., However, the reduction of neutralizing capability was limited to 2-fold.
+  -
+    'Yadav_et_al_04_23_2021
+    'Yadav_et_al_04_23_2021.!a
+    'Yadav_et_al_04_23_2021.!b
+
+  >
+    So far 21 countries have detected the B.1.617 variant, most of which have been reported from India.
+
+  >
+    As any mutations within the amino acid position 438-506 could significantly alter the virus properties leading to enhance infectivity, transmissibility, or escape immunity, both E484Q and L452R amino acid substitutions raised concerns as both were found in the receptor-binding domain (RBD) of the spike protein. This might enhance the transmissibility of the virus and confers resistance to the immune response of the body. It is well known how these mutations behave individually; however, the combined effect of these mutations is still unknown. The studies have suggested that L452R mutation could improve the interaction between spike protein and human angiotensin-converting enzyme 2 (ACE2) receptor [8, 9]. A recent study from California suggested that the newly identified variant of concern (20C/S:452R and 20C/S:452R) with the L452R mutation led to the increased infectivity [8]. Studies have also confirmed that the mutation E484Q could mildly increase the binding affinity to the ACE2 receptor [10].
+  # 8 Acquisition of the L452R mutation inthe ACE2-binding interface of Spike protein triggers recent massive expansion of SARS-Cov-2 variants
+  # 9 Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
+
+  >
+    Of these, the mutations at residue positions 452, 484 and 681 have been reported in other globally circulating lineages. Mutations at both the residue positions 452 and 484 individually have been reported earlier. L452R has been noted in California lineages B.1.427 and B.1.429 while E484K mutation is common to the three VOCs having global impact. E484Q has also been reported in several sequences in the GISAID with the earliest strain noted in Denmark. P681H is one of the mutations in the UK-variant B.1.1.7 while P681R is one of the mutations in the VUI lineage A.23.1.
 
   >
     A variant first detected in sequences from India was designated under investigation on 1 April 2021 as VUI-21APR-01 (B.1.617.1).
@@ -74,7 +113,7 @@ index: hide
 
 
 
-
+  ############### END ######
 
   >
     These variants harbor E484K is associated with immune escape and N501Y mutations is associated with increased transmissibility and increase in COVID-19 hospitalizations and deaths.
