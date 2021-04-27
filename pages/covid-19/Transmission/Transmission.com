@@ -746,7 +746,7 @@ subject module Transmission
           'Miller_et_al_06_18_2020
 
       / High Viral Load
-      claim !SuperspreadingCause = One mathematical modelling study, authors reported that people infected with SARS-CoV-2s can be highly contagious for less than one day, congruent with peak viral load. SARS-CoV-2 super-spreader events occur when an infected person is shedding at a very high viral load and has a high number of exposed contacts.
+      claim !SuperspreadingCause = In one mathematical modelling study, authors reported that people infected with SARS-CoV-2s can be highly contagious for less than one day, congruent with peak viral load. SARS-CoV-2 super-spreader events occur when an infected person is shedding at a very high viral load and has a high number of exposed contacts.
         -
           'Goyal_et_al_02_23_2021
           'Goyal_et_al_02_23_2021.!a
