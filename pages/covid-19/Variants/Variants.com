@@ -884,7 +884,7 @@ subject module Variants
         'Collier_et_al_03_11_2021.!e
         'Collier_et_al_03_11_2021.!f
 
-    claim !NTDneutralizing =  Neutralizing NTD antibodies protect hamsters from SARS-CoV-2 challenge. Variants of concern have mutations in the NTD that escape neutralization
+    claim !NTDneutralizing = Neutralizing NTD antibodies protect hamsters from SARS-CoV-2 challenge. Variants of concern have mutations in the NTD that escape neutralization.
       -
         'McCallum_et_al_03_16_2021
         'McCallum_et_al_03_16_2021.!a

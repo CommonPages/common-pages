@@ -434,7 +434,7 @@ subject module Transmission
       #   'Wong_et_al_02_10_2004
 
     / Surface Transmission
-    claim !SurfaceTransmission = Several studies have found that environmental contamination around COVID-19 patients is extensive, though the extent to which fomites are driving infection is still unclear.
+    claim !SurfaceTransmission = Several studies have found that environmental contamination around COVID-19 patients is extensive, though the extent to which fomites are driving infection is still unclear. On April 5, 2021, CDC updated it's reccomendation stating that surface transmission is not the main route by which SARS-CoV-2 spreads, and the risk is considered to be low. In most situations, cleaning surfaces using soap or detergent, and not disinfecting, is enough to reduce risk.
 
       >
         Viable SARS-CoV-2 virus has been detected on various surfaces. The virus can remain stable in favorable conditions, though the duration of viability varies widely by surface and environmental conditions.
@@ -479,7 +479,7 @@ subject module Transmission
       question ?SurfaceExtent = Are there case reports that show evidence of fomite transmission?
 
       >
-        On April 5, 2021, CDC updated it's Science Brief on SARS-CoV-2 and Surface (Fomite) Transmission for Indoor Community Environments stating that people can be infected with SARS-CoV-2 through contact with surfaces, however, based on available epidemiological data and studies of environmental transmission factors, surface transmission is not the main route by which SARS-CoV-2 spreads, and the risk is considered to be low. The principal mode by which people are infected with SARS-CoV-2 is through exposure to respiratory droplets carrying infectious virus. In most situations, cleaning surfaces using soap or detergent, and not disinfecting, is enough to reduce risk.
+        On April 5, 2021, CDC updated the reccomendation on Surface (Fomite) Transmission for Indoor Community Environments stating that people can be infected with SARS-CoV-2 through contact with surfaces, however, based on available data, surface transmission is not the main route by which SARS-CoV-2 spreads, and the risk is considered to be low. The principal mode by which people are infected with SARS-CoV-2 is through exposure to respiratory droplets carrying infectious virus. In most situations, cleaning surfaces using soap or detergent, and not disinfecting, is enough to reduce risk.
       -
         !CDCupdate
       -

@@ -1,7 +1,15 @@
 feed Sangeeta
   #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
 
-  #
+    - quotes
+      !a
+
+    / April, 2021 - JAMA Netw Open.
+    quote !a =
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -15,10 +23,6 @@ feed Sangeeta
     / April, 2021 - JAMA Netw Open.
     quote !a =
 
-
-  #
-  #
-
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -30,7 +34,9 @@ feed Sangeeta
 
     / April, 2021 - JAMA Netw Open.
     quote !a =
+
   #
+
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2021
@@ -42,58 +48,464 @@ feed Sangeeta
     / April, 2021 - JAMA Netw Open.
     quote !a =
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
+  // Recurrent deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape
+  doi: https://doi.org/10.1126/science.abf6950
+  ref 'McCarthy_et_al_03_12_2021
     head =
+
+    > Abstract
+      Zoonotic pandemics, such as that caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), can follow the spillover of animal viruses into highly susceptible human populations. The descendants of these viruses have adapted to the human host and evolved to evade immune pressure. Coronaviruses acquire substitutions more slowly than other RNA viruses. In the spike glycoprotein, we found that recurrent deletions overcome this slow substitution rate. Deletion variants arise in diverse genetic and geographic backgrounds, transmit efficiently, and are present in novel lineages, including those of current global concern. They frequently occupy recurrent deletion regions (RDRs), which map to defined antibody epitopes. Deletions in RDRs confer resistance to neutralizing antibodies. By altering stretches of amino acids, deletions appear to accelerate SARS-CoV-2 antigenic evolution and may, more generally, drive adaptive evolution.
 
     - quotes
       !a
 
-    / April, 2021 - JAMA Netw Open.
+    / March, 2021 - Science
     quote !a =
+
+    / March, 2021 - Science
+    quote !a =
+
+    / March, 2021 - Science
+    quote !a =
+
+
+    / March, 2021 - Science
+    quote !a =
+
+    / March, 2021 - Science
+    quote !a =
+
+    / March, 2021 - Science
+    quote !a =
+
+
+
   #
-  // Thrombocytopenia following Pfizer and Moderna SARS-CoV-2 vaccination.
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Mutations Strengthened SARS-CoV-2 Infectivity
+  doi: https://doi.org/10.1016/j.jmb.2020.07.009
+  ref 'Chen_et_al_09_04_2020
+    head = We employ an algebraic topology-based machine learning model to quantitatively evaluate the binding free energy changes of SARS-CoV-2 spike glycoprotein (S protein) and host angiotensin-converting enzyme 2 receptor following mutations.
+
+    > Abtsract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infectivity is a major concern in coronavirus disease 2019 (COVID-19) prevention and economic reopening. However, rigorous determination of SARS-CoV-2 infectivity is very difficult owing to its continuous evolution with over 10,000 single nucleotide polymorphisms (SNP) variants in many subtypes. We employ an algebraic topology-based machine learning model to quantitatively evaluate the binding free energy changes of SARS-CoV-2 spike glycoprotein (S protein) and host angiotensin-converting enzyme 2 receptor following mutations. We reveal that the SARS-CoV-2 virus becomes more infectious. Three out of six SARS-CoV-2 subtypes have become slightly more infectious, while the other three subtypes have significantly strengthened their infectivity. We also find that SARS-CoV-2 is slightly more infectious than SARS-CoV according to computed S protein-angiotensin-converting enzyme 2 binding free energy changes. Based on a systematic evaluation of all possible 3686 future mutations on the S protein receptor-binding domain, we show that most likely future mutations will make SARS-CoV-2 more infectious. Combining sequence alignment, probability analysis, and binding free energy calculation, we predict that a few residues on the receptor-binding motif, i.e., 452, 489, 500, 501, and 505, have high chances to mutate into significantly more infectious COVID-19 strains.
 
     - quotes
       !a
+      !b
+      !c
+      !d
 
-    / April, 2021 - JAMA Netw Open.
-    quote !a =
+    / September, 2020 - Journal of Molecular Biology
+    quote !a = We reveal that the SARS-CoV-2 virus becomes more infectious. Three out of six SARS-CoV-2 subtypes have become slightly more infectious, while the other three subtypes have significantly strengthened their infectivity.
+
+    / September, 2020 - Journal of Molecular Biology
+    quote !b = We also find that SARS-CoV-2 is slightly more infectious than SARS-CoV according to computed S protein-angiotensin-converting enzyme 2 binding free energy changes.
+
+    / September, 2020 - Journal of Molecular Biology
+    quote !c = Based on a systematic evaluation of all possible 3686 future mutations on the S protein receptor-binding domain, we show that most likely future mutations will make SARS-CoV-2 more infectious.
+
+    / September, 2020 - Journal of Molecular Biology
+    quote !d = Combining sequence alignment, probability analysis, and binding free energy calculation, we predict that a few residues on the receptor-binding motif, i.e., 452, 489, 500, 501, and 505, have high chances to mutate into significantly more infectious COVID-19 strains.
+
+
+
+  #
+  // Identification of SARS-CoV-2 spike mutations that attenuate monoclonal and serum antibody neutralization
+  doi: https://doi.org/10.1016/j.chom.2021.01.014
+  ref 'Liu_et_al_01_21_2021
+    head = To define immune-selected mutations in the S protein, we exposed a VSV-eGFP-SARS-CoV-2-S chimeric virus, in which the VSV glycoprotein is replaced with the S protein, to 19 neutralizing monoclonal antibodies (mAbs) against the receptor-binding domain (RBD) and generated 50 different escape mutants.
+
+    > Summary
+      Neutralizing antibodies against the SARS-CoV-2 spike (S) protein are a goal of COVID-19 vaccines and have received emergency use authorization as therapeutics. However, viral escape mutants could compromise efficacy. To define immune-selected mutations in the S protein, we exposed a VSV-eGFP-SARS-CoV-2-S chimeric virus, in which the VSV glycoprotein is replaced with the S protein, to 19 neutralizing monoclonal antibodies (mAbs) against the receptor-binding domain (RBD) and generated 50 different escape mutants. Each mAb had a unique resistance profile, although many shared residues within an epitope of the RBD. Some variants (e.g., S477N) were resistant to neutralization by multiple mAbs, whereas others (e.g., E484K) escaped neutralization by convalescent sera. Additionally, sequential selection identified mutants that escape neutralization by antibody cocktails. Comparing these antibody-mediated mutations with sequence variation in circulating SARS-CoV-2 revealed substitutions that may attenuate neutralizing immune responses in some humans and thus warrant further investigation.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / January, 2021 - Cell Host & Microbe
+    quote !a = Each mAb had a unique resistance profile, although many shared residues within an epitope of the RBD. Some variants (e.g., S477N) were resistant to neutralization by multiple mAbs, whereas others (e.g., E484K) escaped neutralization by convalescent human sera.
+
+    / January, 2021 - Cell Host & Microbe
+    quote !b = Multiple different mAbs led to resistance substitutions at K444, G446, N450, L452, S477, T478, P479, E484, F486, and P499, suggesting that they comprise major antigenic sites within the RBD.
+
+    / January, 2021 - Cell Host & Microbe
+    quote !c = Substitutions at position E484 were associated with relative resistance to neutralization by several convalescent human sera. Four variants at this position (E484A, E484D, E484G, and E484K) exhibited resistance to each of the human convalescent sera we tested.
+
+    / January, 2021 - Cell Host & Microbe
+    quote !d = For the wild-type S sequence and some escape mutants (e.g., L441R, K444N, L452R, and S477N), we observed a modest increase in infectivity at increasing concentration of soluble mACE2.
+
+    / January, 2021 - Cell Host & Microbe
+    quote !e = Sequential selection identified mutants that escape neutralization by antibody cocktails.
+
+    / January, 2021 - Cell Host & Microbe
+    quote !f = Comparing these antibody-mediated mutations with sequence variation in circulating SARS-CoV-2 revealed substitutions that may attenuate neutralizing immune responses in some humans and thus warrant further investigation.
+
+
+
+  #
+  // The Impact of Mutations in SARS-CoV-2 Spike on Viral Infectivity and Antigenicity
+  doi: https://doi.org/10.1016/j.cell.2020.07.012
+  ref 'Li_et_al_07_17_2020
+    head = We investigated 80 variants and 26 glycosylation site modifications for the infectivity and reactivity to a panel of neutralizing antibodies and sera from convalescent patients.
+
+    > Summary
+      The spike protein of SARS-CoV-2 has been undergoing mutations and is highly glycosylated. It is critically important to investigate the biological significance of these mutations. Here, we investigated 80 variants and 26 glycosylation site modifications for the infectivity and reactivity to a panel of neutralizing antibodies and sera from convalescent patients. D614G, along with several variants containing both D614G and another amino acid change, were significantly more infectious. Most variants with amino acid change at receptor binding domain were less infectious, but variants including A475V, L452R, V483A, and F490L became resistant to some neutralizing antibodies. Moreover, the majority of glycosylation deletions were less infectious, whereas deletion of both N331 and N343 glycosylation drastically reduced infectivity, revealing the importance of glycosylation for viral infectivity. Interestingly, N234Q was markedly resistant to neutralizing antibodies, whereas N165Q became more sensitive. These findings could be of value in the development of vaccine and therapeutic antibodies.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / July, 2020 - Cell
+    quote !a = D614G, along with several variants containing both D614G and another amino acid change, were significantly more infectious.
+
+    / July, 2020 - Cell
+    quote !b = Most variants with amino acid change at receptor binding domain were less infectious, but variants including A475V, L452R, V483A, and F490L became resistant to some neutralizing antibodies.
+
+    / July, 2020 - Cell
+    quote !c = The majority of glycosylation deletions were less infectious, whereas deletion of both N331 and N343 glycosylation drastically reduced infectivity, revealing the importance of glycosylation for viral infectivity.
+
+    / July, 2020 - Cell
+    quote !d = N234Q was markedly resistant to neutralizing antibodies, whereas N165Q became more sensitive.
+
+
+
+  #
+  // Complete map of SARS-CoV-2 RBD mutations that escape the monoclonal antibody LY-CoV555 and its cocktail with LY-CoV016
+  doi: https://doi.org/10.1016/j.xcrm.2021.100255
+  ref 'Starr_et_al_04_01_2021
+    head = We completely map all of the mutations to the SARS-CoV-2 spike receptor-binding domain (RBD) that escape binding by a leading monoclonal antibody, LY-CoV555, and its cocktail combination with LY-CoV016.
+
+    > Summary
+      Monoclonal antibodies and antibody cocktails are a promising therapeutic and prophylaxis for coronavirus disease 2019 (COVID-19). However, ongoing evolution of severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) can render monoclonal antibodies ineffective. Here, we completely map all of the mutations to the SARS-CoV-2 spike receptor-binding domain (RBD) that escape binding by a leading monoclonal antibody, LY-CoV555, and its cocktail combination with LY-CoV016. Individual mutations that escape binding by each antibody are combined in the circulating B.1.351 and P.1 SARS-CoV-2 lineages (E484K escapes LY-CoV555, K417N/T escapes LY-CoV016). In addition, the L452R mutation in the B.1.429 lineage escapes LY-CoV555. Furthermore, we identify single amino acid changes that escape the combined LY-CoV555+LY-CoV016 cocktail. We suggest that future efforts diversify the epitopes targeted by antibodies and antibody cocktails to make them more resilient to the antigenic evolution of SARS-CoV-2.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - Cell Reports Medicine
+    quote !a = Individual mutations that escape binding by each antibody are combined in the circulating B.1.351 and P.1 SARS-CoV-2 lineages (E484K escapes LY-CoV555, K417N/T escapes LY-CoV016).
+
+    / April, 2021 - Cell Reports Medicine
+    quote !b = The L452R mutation in the B.1.429 lineage escapes LY-CoV555.
+
+    / April, 2021 - Cell Reports Medicine
+    quote !c = We identify single amino acid changes that escape the combined LY-CoV555+LY-CoV016 cocktail.
+
+    / April, 2021 - Cell Reports Medicine
+    quote !d = We suggest that future efforts diversify the epitopes targeted by antibodies and antibody cocktails to make them more resilient to the antigenic evolution of SARS-CoV-2.
+
+
+
+
+  #
+  // Sputnik V Statement on Brazilian Health Regulator Anvisa's decision to postpone Sputnik V authorization in Brazil.
+  doi: https://sputnikvaccine.com/newsroom/pressreleases/sputnik-v-statement-on-brazilian-health-regulator-anvisa-s-decision-to-postpone-authorization/
+  ref 'SputnikV_et_al_04_28_2021
+    head = The decision by Brazil’s National Health Surveillance Agency (Anvisa) to delay the approval of Sputnik V is, unfortunately, of a political nature and has nothing to do with the regulator’s access to information or science. The regulator’s decision also contradicts an earlier decision by Brazil’s Ministry of Science, Technology and Innovation (MCTI) which recognized the Sputnik V vaccine as safe and permitted its production in Brazil.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    # / April, 2021 - Sputnik V
+    # quote !a = The Sputnik V team has addressed the technical issues raised by Anvisa board members during the meeting on April 26 to demonstrate that these allegations have no scientific grounds and cannot be treated seriously in the scientific community and among international regulators.
+
+    / April, 2021 - Sputnik V
+    quote !a = The Gamaleya Center, which carries out strict quality control of all Sputnik V production sites, has confirmed that no replication-competent adenoviruses (RCA) were ever found in any of the Sputnik V vaccine batches that have been produced. Existing quality controls ensure that no RCA can exist in Sputnik V vaccine. Prior to the inspection the Anvisa team received an official letter from the Gamaleya Center dated March 26, 2021 which clearly says: “In addition we would like to inform you that during the release of the vaccine product at the Center site and at the contract site of JBC Generium, not a single batch containing RCA was recorded.”
+
+    / April, 2021 - Sputnik V
+    quote !b = The quality and safety of Sputnik V are, among other things, assured by the fact that, unlike other vaccines, it uses a 4-stage purification technology that includes two stages of chromatography and two stages of tangential flow filtration. This purification technology helps to obtain a highly purified product that goes through mandatory quality control, including control for RCA or any additives presence. Control for RCA is carried out not only for the finished product but also at all stages of production, including the viral seed. Sputnik V team believes that its purification technology is the best among all vaccines and is one of the pillars for vaccine safety.
+
+    / April, 2021 - Sputnik V
+    quote !c = Only E1 and E3 type non-replicating adenoviral vectors, which are harmless for the human body, are used in the Sputnik V vaccine production.
+
+    / April, 2021 - Sputnik V
+    quote !d = Anvisa team in Moscow had full access to all the relevant documents as well as to research and production sites. All the relevant scientific documents and data as well as direct access to the Gamaleya Center scientists in charge of the vaccine development were made available to the Anvisa team.
+
+    / April, 2021 - Sputnik V
+    quote !e =  In response to queries about the sterilization processes validation the manufacturing sites that were being inspected provided risk assessment protocols and also the official commitment letter that clearly said that validation of sterilizing filtration will be performed and results will be provided to ANVISA.
+
+    / April, 2021 - Sputnik V
+    quote !f = The inspection scope included only the two production sites from which the deliveries to Brazil are planned.
+    / April, 2021 - Sputnik V.
+
+    quote !g = The safety and efficacy of the Sputnik V has been confirmed by 61 regulators in countries where the vaccine has been authorized with the total population of over 3 billion people. The real-world study in Russia after vaccination of 3.8 million people demonstrated the Sputnik V efficacy at 97.6%.
+
+    / April, 2021 - Sputnik V
+    quote !h = Unlike with other vaccines there were no cases of cerebral venous sinus thrombosis (CVST) during the use of the Sputnik V.
+
+    / April, 2021 - Sputnik V
+    quote !i = Several independent real-world studies in countries where the vaccine is being used in mass vaccination programs show strong evidence confirming Sputnik V’s efficacy and safety. Hungary’s government published the official data comparing 5 vaccines used in Hungary. This data shows that Sputnik V is the most efficient and safe vaccine. The Mexican official government vaccination study confirms that Sputnik V is the safest vaccine with 7 times fewer adverse effects per doses administered than mRNA vaccines. The real-world data from Argentina’s Ministry of Health showed that COVID-19 infection rate after the 1st dose vaccination is 2 times lower for Sputnik V compared with other vaccines. No cases of deaths were registered in Argentina after full-doze Sputnik V vaccination.
+
+
+
+  #
+  // Brazil Rejects the Gamaleya Vaccine
+  doi: https://blogs.sciencemag.org/pipeline/archives/2021/04/28/brazil-rejects-the-gamaleya-vaccine
+  ref 'Lowe_et_al_04_28_2021
+    head = Many may have heard that the Brazilian regulatory authorities have rejected Sputnik V vaccine , for several reasons. Crucial reason being - that every single lot of the Ad5 Gamaleya shot that they have data on appears to still have replication-competent adenovirus in it.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !a = The adenovirus vector vaccines (all of them so far in the pandemic – AZ/Oxford, J&J, Gamaleya, CanSino) are made by removing most of the adenovirus DNA instructions from some form of the virus, and inserting DNA to make coronavirus antigens instead. Oxford has a chimpanzee adenovirus, J&J has been using the Ad26 strain, CanSino has the Ad5 adenovirus, and the Gamaleya vaccine is one shot of Ad26 followed by a shot of Ad5. But all of them carry the DNA to make the coronavirus Spike protein (some of them in its native state, others with stabilizing amino acid mutations).
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !b = And all of them have had key parts of their original genome removed to make them unable to replicate in the body (deleting a gene called E1 is the standard way to do this).
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !c = That means that when you’re injected with such a vector vaccine, each viral particle is a one-shot deal. It infects a cell in your body and instructs it to make Spike protein (thereby setting off your immune response when that foreign protein gets presented), and that’s it. A real wild-type virus would of course make the whole suite of viral proteins, which would be assembled into countless new virus particles. These would then be released when the cell finally breaks apart and dies from the overload.
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !d = There have been debates over the years about whether you’d get a more effective vaccine that way, with a “replication-competent” adenovirus, but generally it’s believed that you can do fine with the “replication-incompetent” ones, which let you not give your patients a new viral infection at the same time.
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !e = Adenoviruses are everywhere. What happens when you’re infected with a wild-type variety? Generally you get respiratory infections that vary according to the person. With Ad5 and Ad26 they’re generally mild, sometimes unnoticeable, but in some people there can be serious trouble, which is another reason to avoid giving them replicating virus. The Ad5 variety has infected a solid proportion of the entire human race, as far as we can tell, which is one reason why you see people moving to less-common platforms like Ad26 or adenoviruses from other primate species entirely (as with Oxford/AZ).
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !f = It’s believed that if you already have antibodies and T-cells primed against the Ad5 vector itself (for example) that delivery of its payload will thus be impaired, leading to a less-effective vaccination.
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !g = This also makes you wonder about diminished efficacy of booster-shot regimens with such vectors, no matter what strain you start with, and what happens if you want to get vaccinated a few years later against a completely different pathogen whose vaccine uses a viral vector you’ve already been exposed to. For now, it looks like the booster-shot idea can work, although the second shot is surely chewed up more by the immune response.
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !h = We need to talk about how you make big piles of virus if you’ve kept them from replicating. That’s an interesting question that has a slick solution: you’re going to be using human cells (often the HEK293 line) to expand your virus production, and what you do is engineer those human cells so that they make the missing E1 protein that the virus needs to replicate. So as long as you’re growing up virus in these engineered cells, you’ll make more, but if they infect normal human cells that haven’t been jiggered to make a key viral protein (as in when you inject them as a vaccine) they’ll stall out on replication immediately.
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !i = There are still places where this can go wrong. Double-stranded DNA breaks, which can happen more or less randomly, are generally repaired by processes called “homologous recombination” and “nonhomologous end joining”, and these can lead to mix-and-match behavior between DNA from different sources. This process can be deliberately harnessed for gene editing – that’s what the classic CRISPR enzyme Cas9 does – but it can also be a source of trouble in a system like this one. There is a chance that the occasional viral particle might be able to regain the DNA sequence for the E1 protein by picking it up from the human-cell background. If that goes right (well, wrong), then that will turn it back into a replicating virus, and that’s just what it will do in your cell culture tanks.
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !j = This problem has been recognized for many years, of course, and no one’s forgotten about it. There are assays to screen for this sort of thing, and every time work gets going on a proposed new viral vector, updated assays are developed to screen that one, too. You can dive into these references for details on how to engineer both your viral vectors and your human cell lines to cut down on the chances of this happening as well. This is an accepted part of the vector vaccine production process.
+
+    / April, 2021 - Scienc Transalational Medicine
+    quote !k = Which is why the news that the Sputnik vaccine contains replicating adenovirus was surprising and unwelcome. As mentioned, this is probably not going to cause big problems in its vaccinated population, but it’s a completely unnecessary risk. And if such a vaccine is going into tens of millions of people (or more), it seems certain that there will be some people harmed by this avoidable problem.
+
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://twitter.com/angie_rasmussen/status/1387397186372005893
+  ref 'Rasmussen_et_al_04_28_2021
+    head = The Sputnik V vaccine Ad5 vector is evidently replication competent. So getting this vaccine means being infected with live adenovirus 5. Hence Brazil’s regulator correctly rejected it.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+      !m
+      !n
+
+
+    / April, 2021 - Twitter
+    quote !a = Adenovirus-vectored vaccines like J&J, AstraZeneca, and Sputnik V use infection with adenoviruses, common pathogens that usually cause common colds. But to increase safety and decrease risk of side effects, most vaccine vectors delete the AdV E1 and E3 genes.
+
+    / April, 2021 - Twitter
+    quote !b = E1/E3 deletions are standard in Ad-vectors. Deleting E1 prevents the virus from replicating and deleting E3 prevents it from interacting with the immune system.
+
+    / April, 2021 - Twitter
+    quote !c = This results in a vaccine vector that causes a transient infection, due to the vector’s inability to complete its replication cycle. When I got J&J it infected my cells, began expressing viral proteins, including SARS-CoV-2 spike, and then hit a block because of the E1 deletion.
+
+    / April, 2021 - Twitter
+    quote !d = Sputnik V is a heterologous Ad-vectored vaccine: the prime dose is an Ad26-vectored vaccine (like J&J), followed by a booster that uses Ad5. This was apparently found in testing the Ad5 booster.
+
+    / April, 2021 - Twitter
+    quote !e = When making adenovirus-vectored vaccines, once you’ve deleted a region of the genome, it doesn’t just reappear out of nowhere. The presence of replicating virus suggests E1 was either not deleted or it recombined during manufacturing with a full length AdV genome.
+
+    / April, 2021 - Twitter
+    quote !f = And while strong statements from Gamaleya and the RDIF dispute the findings, this isn’t the first observation that the Sputnik V doses submitted to regulators aren’t consistent with the phase 3 trial results published in Lancet. Slovakia’s drug regulator previously rejected a batch of Sputnik V for being substantively different than the batches reported in Lancet. The EMA has also said they have insufficient safety and QC data to authorize it in the EU.
+
+    # / April, 2021 - Twitter
+    # quote !a = Safety concerns have already reduced enthusiasm for these vaccines, and an unforced error like this further amplifies those concerns and decreases trust in the technology itself. I hope Gamaleya resolves these issues and supports it with data and robust QC/QA.
+
+    / April, 2021 - Twitter
+    quote !g = More info here: apparently the Ad5 vector was capable of forming plaques on A549 cells. The explanation is recombination, which begs the question: if it was manufactured using best practices, WTF did the vaccine vector recombine with?
+
+    / April, 2021 - Twitter
+    quote !h = Could be either a wild-type AdV or a packaging vector. To make replication-deficient vaccine vectors, you have to grow the virus in a "packaging" cell line expressing E1 in trans (on a separate piece of DNA called a plasmid).
+
+    / April, 2021 - Twitter
+    quote !i = At this stage recombination could occur with E1 DNA from the packaging cell line, but usually there are QC measures in place to ensure this doesn't happen. Deleting E1/E3 in many Ad-vectored systems is also needed to make "room" in the genome for the insert, SARS-CoV-2, spike.
+
+    / April, 2021 - Twitter
+    quote !j = I don't know enough about the specific AdV system used here, but it's reasonable to think that if E1 recombined w/ the Ad vector, it might replace spike. So that's doubly bad: you not only have a replication-competent Ad5, it's not expressing spike. Which is...the entire point.
+
+    / April, 2021 - Twitter
+    quote !k = One thing is clear: if the vaccine were forming plaques on A549s, that means there's infectious, fully replication competent virus there. A plaque is a "hole" in a carpet (monolayer) of cells on a culture plate caused by cytopathic effect (virus killing cells).
+
+    / April, 2021 - Twitter
+    quote !l = The plaque assay is a classical virological technique used to titrate infectious virus. An individual cell killed by a virus can't be seen without a microscope. To see a plaque with the naked eye, the virus has to spread to surrounding cells, and to do that it has to replicate.
+
+    / April, 2021 - Twitter
+    quote !m = No visible plaque = no spread to surrounding cells=no viral replication. So if they saw plaques on A549s (a type of lung cell that is convenient for plaquing adenoviruses), that means there was fully replication competent virus. It's a basic and inexcusable failure of QC/QA.
+
+    / April, 2021 - Twitter
+    quote !n = This is disappointing. Ad-vectored vaccines are easier than mRNA vaccines to store and distribute, and are going to be important for vaccinating people in hard-to-reach places. Despite rare side effects, they are generally considered safe and trial data shows they are effective.
+
+
+
+  #
+  // Acquisition of the L452R mutation in the ACE2-binding interface of Spike protein triggers recent massive expansion of SARS-Cov-2 variants
+  doi: https://doi.org/10.1101/2021.02.22.432189
+  ref 'Tchesnokova_et_al_02_22_2021
+    head = We investigated genetic variations in a 414-583 amino acid region of the Spike protein, partially encompassing the ACE2 receptor-binding domain (RBD), across a subset of 570 nasopharyngeal samples isolated between April 2020 and February 2021, from Washington, California, Arizona, Colorado, Minnesota and Illinois.
+
+    > Abstract
+      The recent rise in mutational variants of SARS-CoV-2, especially with changes in the Spike protein, is of significant concern due to the potential ability for these mutations to increase viral infectivity, virulence and/or ability to escape protective antibodies. Here, we investigated genetic variations in a 414-583 amino acid region of the Spike protein, partially encompassing the ACE2 receptor-binding domain (RBD), across a subset of 570 nasopharyngeal samples isolated between April 2020 and February 2021, from Washington, California, Arizona, Colorado, Minnesota and Illinois. We found that samples isolated since November have an increased number of amino acid mutations in the region, with L452R being the dominant mutation. This mutation is associated with a recently discovered CAL.20C viral variant from clade 20C, lineage B.1.429, that since November-December 2020 is associated with multiple outbreaks and is undergoing massive expansion across California. In some samples, however, we found a distinct L452R-carrying variant of the virus that, upon detailed analysis of the GISAID database genomes, is also circulating primarily in California, but emerged even more recently. The newly identified variant derives from the clade 20A (lineage B.1.232) and is named CAL.20A. We also found that the SARS-CoV-2 strain that caused the only recorded case of infection in an ape - gorillas in the San Diego Zoo, reported in January 2021 - is CAL.20A. In contrast to CAL.20C that carries two additional to L452R mutations in the Spike protein, L452R is the only mutation found in CAL.20A. According to the phylogenetic analysis, however, emergence of CAL.20C was also specifically triggered by acquisition of the L452R mutation. Further analysis of GISAID-deposited genomes revealed that several independent L452R-carrying lineages have recently emerged across the globe, with over 90% of the isolates reported between December 2020 - February 2021. Taken together, these results indicate that the L452R mutation alone is of significant adaptive value to SARS-CoV-2 and, apparently, the positive selection for this mutation became particularly strong only recently, possibly reflecting viral adaptation to the containment measures or increasing population immunity. While the functional impact of L452R has not yet been extensively evaluated, leucine-452 is positioned in the receptor-binding motif of RBD, in the interface of direct contact with the ACE2 receptor. Its replacement with arginine is predicted to result in both a much stronger binding to the receptor and escape from neutralizing antibodies. If true, this in turn might lead to significantly increased infectivity of the L452R variants, warranting their close surveillance and in-depth functional studies.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+
+
+    / Feburary, 2021 - BioRxiv
+    quote !a = Our results show that two independent nCoV variants recently emerged in the state of California that carry the L452R mutation in the Spike protein, the already defined and currently dominant CAL.20C as well as the more recently emerged CAL.20A identified here (The newly identified variant derives from the clade 20A).
+
+    / Feburary, 2021 - BioRxiv
+    quote !b = We found that samples isolated since November have an increased number of amino acid mutations in the region, with L452R being the dominant mutation. This mutation is associated with a recently discovered CAL.20C viral variant from clade 20C, lineage B.1.429, that since November-December 2020 is associated with multiple outbreaks and is undergoing massive expansion across California. According to the phylogenetic analysis, however, emergence of CAL.20C was also specifically triggered by acquisition of the L452R mutation.
+
+    # / Feburary, 2021 - BioRxiv
+    # quote !b = In some samples, however, we found a distinct L452R-carrying variant of the virus that, upon detailed analysis of the GISAID database genomes, is also circulating primarily in California, but emerged even more recently. The newly identified variant derives from the clade 20A (lineage B.1.232) and is named CAL.20A.
+
+    / Feburary, 2021 - BioRxiv
+    quote !c = In contrast to CAL.20C that carries two additional to L452R mutations in the Spike protein, L452R is the only mutation found in CAL.20A.
+
+    / Feburary, 2021 - BioRxiv
+    quote !d = It is also possible that CAL.20A is at least as fit as CAL.20C, but has not expanded as broadly because it emerged much more recently and after CAL.20C has underwent extensive expansion in the same geographic niche area.
+
+    / Feburary, 2021 - BioRxiv
+    quote !e = Emergence of both CAL.20A and CAL.20C was triggered by the L452R mutation alone provides direct evidence for the adaptive significance of this mutation specifically. And, apparently, the positive selection for this mutation became particularly strong only recently, possibly reflecting viral adaptation to the containment measures or increasing population immunity (to the original viral variants, i.e. the reconvalescents and vaccinated individuals).
+
+    / Feburary, 2021 - BioRxiv
+    quote !f = This would indicate that other mutations in CAL.20C might enhance the adaptive impact of L452R, i.e. that the genomic background of L542R plays a significant role as the target of positive selection.
+
+    / Feburary, 2021 - BioRxiv
+    quote !g = According to the public databases, in addition to the two California strains the L452R mutation has been acquired at this point by at least half a dozen independent lineages across multiple countries and continents, with over 90% of the isolates reported between December 2020 - February 2021. Such repeatedly emerging hot-spot mutations typically indicate strong positive selection.
+
+    # / Feburary, 2021 - BioRxiv
+    # quote !b = It appears that the selection for L452R became especially strong very recently.
+
+    / Feburary, 2021 - BioRxiv
+    quote !h = We also found that the SARS-CoV-2 strain that caused the only recorded case of infection in an ape - gorillas in the San Diego Zoo, reported in January 2021 - is CAL.20A. The gorilla CAL.20A variant carries two additional SNPs, both in the ORF1ab non-structural protein 2 (nsp2), a silent c934t and non-synonymous c810t (T183I), but with several sequence stretches unfortunately missing.
+
+    # / Feburary, 2021 - BioRxiv
+    # quote !e = Further analysis of GISAID-deposited genomes revealed that several independent L452R-carrying lineages have recently emerged across the globe, with over 90% of the isolates reported between December 2020 - February 2021.
+
+    # / Feburary, 2021 - BioRxiv
+    # quote !f = These results indicate that the L452R mutation alone is of significant adaptive value to SARS-CoV-2 and, apparently, the positive selection for this mutation became particularly strong only recently, possibly reflecting viral adaptation to the containment measures or increasing population immunity.
+
+    / Feburary, 2021 - BioRxiv
+    quote !i = While the functional impact of L452R has not yet been extensively evaluated, leucine-452 is positioned in the receptor-binding motif of RBD, in the interface of direct contact with the ACE2 receptor. Its replacement with arginine is predicted to result in both a much stronger binding to the receptor and escape from neutralizing antibodies. If true, this in turn might lead to significantly increased infectivity of the L452R variants, warranting their close surveillance and in-depth functional studies.
+
   #
 
   // SARS-CoV-2 Vaccine–Induced Immune Thrombotic Thrombocytopenia
   doi: https://doi.org/10.1056/NEJMe2106315
   ref 'Douglas_et_al_04_16_2021
-    head =
+    head = The Journal highlights 3 independent descriptions of 39 persons with a newly described syndrome characterized by thrombosis and thrombocytopenia that developed 5 to 24 days after initial vaccination with ChAdOx1 nCoV-19 (AstraZeneca). Pathogeny of the syndrome are not yet clear but certain findings are consistent. The diagnosis of VITT should be confirmed with an approved PF4 ELISA. Treatment management suggests that intravenous immune globulin and high-dose glucocorticoids, and nonheparin antithrombotic agents. Additional cases have now been reported to the European Medicines Agency. As of April 9, 2021, at least 5 countries had instituted limitations — primarily based on age — on which patients should receive the ChAdOx1 nCoV-19 vaccine, and the CDC and the FDA have put a temporary hold on administration of the Johnson & Johnson/Janssen vaccine.
 
-  
+    - Reports
+      !a
+      !b
+    - Pathogeny of VITT
+      !c
+      !d
+    - Diagnosis
+      !e
+    - Treatment management
+      !f
+      !g
+    - Additional cases reported
+      !i
+
+    # Clinical trial- No thrombotic signal, background rate, rare event
+    -
+      !h
+      !j
+
+    # Five countries have instituted limitations on ChAdOx1 nCoV-19 vaccine and CDC and FDA paused Johnson & Johnson/Janssen vaccine adminstration
+    -
+      !k
+
 
     / April, 2021 - The New England Journal of Medicine
-    quote !a = No thrombotic signal was detected in clinical trials leading to the approval of the ChAdOx1 nCoV-19 vaccine,9 which has now been administered to 34 million people worldwide. The incidence of VITT, as initially estimated, is perhaps 1 case per 100,000 exposures. This should be considered in the context of the incidence of cerebral venous sinus thrombosis in the general population (estimated at 0.22 to 1.57 cases per 100,000 per year). The initial focus of these reports may reflect a propensity to study patients with severe thrombosis occurring in unusual locations, and a more complete picture of thrombotic complications is likely to emerge over time. More information on potential risk factors other than young age and female sex is needed. Also needed are data on the prevalence and titer of anti-PF4–related antibodies in all vaccine recipients, especially those who had thrombosis at sites other than those commonly reported to date among patients with VITT, in order to apply Bayesian analyses to estimate disease probability on the basis of both clinical features and antibody titer in optimized assays.
+    quote !a = The Journal has now highlighted three independent descriptions of 39 persons with a newly described syndrome characterized by thrombosis and thrombocytopenia that developed 5 to 24 days after initial vaccination with ChAdOx1 nCoV-19 (AstraZeneca). These persons were healthy or in medically stable condition, and very few were known to have had previous thrombosis or a preexisting prothrombotic condition. Most of the patients included in these reports were women younger than 50 years of age, some of whom were receiving estrogen-replacement therapy or oral contraceptives.
 
     / April, 2021 - The New England Journal of Medicine
-    quote !a = Additional cases have now been reported to the European Medicines Agency, including at least 169 possible cases of cerebral venous sinus thrombosis and 53 possible cases of splanchnic vein thrombosis among 34 million recipients of the ChAdOx1 nCoV-19 vaccine, 35 possible cases of central nervous system thrombosis among 54 million recipients of the Pfizer–BioNTech mRNA vaccine, and 5 possible (but unvetted) cases of cerebral venous sinus thrombosis among 4 million recipients of the Moderna mRNA vaccine. Six possible cases of cerebral venous sinus thrombosis (with or without splanchnic vein thrombosis) have been reported among the more than 7 million recipients of the Johnson & Johnson/Janssen Ad26.COV2.S adenoviral vector vaccine. They clearly indicate the need for maintaining a high level of concern when patients present with central nervous system or abdominal symptoms after receiving any SARS-CoV-2 vaccine.
+    quote !b = A remarkably high percentage of the patients had thromboses at unusual sites — specifically, cerebral venous sinus thrombosis or thrombosis in the portal, splanchnic, or hepatic veins. Other patients presented with deep venous thrombi, pulmonary emboli, or acute arterial thromboses.
 
     / April, 2021 - The New England Journal of Medicine
-    quote !a = A note of caution: although anti-PF4–polyanion antibodies are common — for example, they are detected in 25 to 50% of patients after cardiovascular surgery — heparin-induced thrombocytopenia is not, and only in rare cases does cerebral venous sinus thrombosis or thrombi in abdominal vessels develop in patients with heparin-induced thrombocytopenia. This suggests that our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established. T
+    quote !c = The median platelet counts at diagnosis were approximately 20,000 to 30,000 per cubic millimeter (range, approximately 10,000 to 110,000), but the rate of decline in platelet counts that preceded thrombosis is unknown. High levels of d-dimers and low levels of fibrinogen were common and suggest systemic activation of coagulation. Approximately 40% of the patients died, some from ischemic brain injury, superimposed hemorrhage, or both conditions, often after anticoagulation.
 
     / April, 2021 - The New England Journal of Medicine
-    quote !a = As of April 9, 2021, at least five countries had instituted limitations — primarily based on age — on which patients should receive the ChAdOx1 nCoV-19 vaccine, and the Centers for Disease Control and Prevention and the Food and Drug Administration have put a temporary hold on administration of the Johnson & Johnson/Janssen vaccine.
+    quote !d = This constellation of thrombosis and thrombocytopenia prompted consideration of heparin-induced thrombocytopenia as the diagnosis. However, none of the patients had known exposure to heparin before the onset of illness. Although the pathogenesis of this syndrome of vaccine-induced immune thrombotic thrombocytopenia (VITT) is not yet clear, certain findings were consistent across the three studies. In almost every patient, high levels of antibodies to platelet factor 4 (PF4)–polyanion complexes were identified by enzyme-linked immunosorbent assay (ELISA), as well by assays based on platelet activation, which, when tested, was enhanced by addition of PF4. In contrast to heparin-induced thrombocytopenia, however, binding of antibody to PF4 occurred in the absence of heparin.
 
     / April, 2021 - The New England Journal of Medicine
-    quote !a = The limited information available relating to management suggests that intravenous immune globulin and high-dose glucocorticoids can improve the platelet count within days, which may limit the risk of hemorrhagic transformation, especially when anticoagulation is instituted. Immune globulin impedes antibody-mediated platelet clearance and may down-regulate platelet activation by immune complexes by blocking platelet FcRγIIA receptors, as in heparin-induced thrombocytopenia.7 Although the condition in several patients apparently improved when they were given low-molecular-weight heparin, it seems prudent to choose from among the nonheparin antithrombotic agents that are used to treat heparin-induced thrombocytopenia while the risk of bleeding is being mitigated.8 We expect that the high mortality rate associated with VITT will decrease with earlier recognition and improved intervention.
-
-
-    / April, 2021 - The New England Journal of Medicine
-    quote !a = This constellation of thrombosis and thrombocytopenia prompted consideration of heparin-induced thrombocytopenia as the diagnosis. However, none of the patients had known exposure to heparin before the onset of illness. Although the pathogenesis of this syndrome of vaccine-induced immune thrombotic thrombocytopenia (VITT) is not yet clear, certain findings were consistent across the three studies. In almost every patient, high levels of antibodies to platelet factor 4 (PF4)–polyanion complexes were identified by enzyme-linked immunosorbent assay (ELISA), as well by assays based on platelet activation, which, when tested, was enhanced by addition of PF4. In contrast to heparin-induced thrombocytopenia, however, binding of antibody to PF4 occurred in the absence of heparin. This serologic pattern mirrors findings in patients with “atypical” or “autoimmune” heparin-induced thrombocytopenia, in whom thrombi develop in the absence of known previous exposure to heparin,6 but the distribution of thrombi in patients with that condition clearly differs from that in patients with VITT. On the basis of these reports, the diagnosis of VITT should be confirmed with an approved PF4 ELISA. Reliance cannot be placed on the rapid assays that are often used to detect heparin-induced thrombocytopenia unless they have been validated to make or to rule out a diagnosis of VITT, given the potential differences in antigenic target or sensitivity.5
+    quote !e = This serologic pattern mirrors findings in patients with “atypical” or “autoimmune” heparin-induced thrombocytopenia, in whom thrombi develop in the absence of known previous exposure to heparin, but the distribution of thrombi in patients with that condition clearly differs from that in patients with VITT. On the basis of these reports, the diagnosis of VITT should be confirmed with an approved PF4 ELISA. Reliance cannot be placed on the rapid assays that are often used to detect heparin-induced thrombocytopenia unless they have been validated to make or to rule out a diagnosis of VITT, given the potential differences in antigenic target or sensitivity.
 
     / April, 2021 - The New England Journal of Medicine
-    quote !a = The Journal has now highlighted three independent descriptions of 39 persons with a newly described syndrome characterized by thrombosis and thrombocytopenia that developed 5 to 24 days after initial vaccination with ChAdOx1 nCoV-19 (AstraZeneca), a recombinant chimpanzee adenoviral vector encoding the spike protein of SARS-CoV-2.3-5 These persons were healthy or in medically stable condition, and very few were known to have had previous thrombosis or a preexisting prothrombotic condition. Most of the patients included in these reports were women younger than 50 years of age, some of whom were receiving estrogen-replacement therapy or oral contraceptives. A remarkably high percentage of the patients had thromboses at unusual sites — specifically, cerebral venous sinus thrombosis or thrombosis in the portal, splanchnic, or hepatic veins. Other patients presented with deep venous thrombi, pulmonary emboli, or acute arterial thromboses. The median platelet counts at diagnosis were approximately 20,000 to 30,000 per cubic millimeter (range, approximately 10,000 to 110,000), but the rate of decline in platelet counts that preceded thrombosis is unknown. High levels of d-dimers and low levels of fibrinogen were common and suggest systemic activation of coagulation. Approximately 40% of the patients died, some from ischemic brain injury, superimposed hemorrhage, or both conditions, often after anticoagulation.
-  #
+    quote !f = The limited information available relating to management suggests that intravenous immune globulin and high-dose glucocorticoids can improve the platelet count within days, which may limit the risk of hemorrhagic transformation, especially when anticoagulation is instituted. Immune globulin impedes antibody-mediated platelet clearance and may down-regulate platelet activation by immune complexes by blocking platelet FcRγIIA receptors, as in heparin-induced thrombocytopenia.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !g = Although the condition in several patients apparently improved when they were given low-molecular-weight heparin, it seems prudent to choose from among the nonheparin antithrombotic agents that are used to treat heparin-induced thrombocytopenia while the risk of bleeding is being mitigated. We expect that the high mortality rate associated with VITT will decrease with earlier recognition and improved intervention.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !h = No thrombotic signal was detected in clinical trials leading to the approval of the ChAdOx1 nCoV-19 vaccine, which has now been administered to 34 million people worldwide. The incidence of VITT, as initially estimated, is perhaps 1 case per 100,000 exposures. This should be considered in the context of the incidence of cerebral venous sinus thrombosis in the general population (estimated at 0.22 to 1.57 cases per 100,000 per year).
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !i = Additional cases have now been reported to the European Medicines Agency, including at least 169 possible cases of cerebral venous sinus thrombosis and 53 possible cases of splanchnic vein thrombosis among 34 million recipients of the ChAdOx1 nCoV-19 vaccine, 35 possible cases of central nervous system thrombosis among 54 million recipients of the Pfizer–BioNTech mRNA vaccine, and 5 possible (but unvetted) cases of cerebral venous sinus thrombosis among 4 million recipients of the Moderna mRNA vaccine. Six possible cases of cerebral venous sinus thrombosis (with or without splanchnic vein thrombosis) have been reported among the more than 7 million recipients of the Johnson & Johnson/Janssen Ad26.COV2.S adenoviral vector vaccine. They clearly indicate the need for maintaining a high level of concern when patients present with central nervous system or abdominal symptoms after receiving any SARS-CoV-2 vaccine.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !j = A note of caution: although anti-PF4–polyanion antibodies are common — for example, they are detected in 25 to 50% of patients after cardiovascular surgery — heparin-induced thrombocytopenia is not, and only in rare cases does cerebral venous sinus thrombosis or thrombi in abdominal vessels develop in patients with heparin-induced thrombocytopenia. This suggests that our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !k = As of April 9, 2021, at least five countries had instituted limitations — primarily based on age — on which patients should receive the ChAdOx1 nCoV-19 vaccine, and the Centers for Disease Control and Prevention and the Food and Drug Administration have put a temporary hold on administration of the Johnson & Johnson/Janssen vaccine.
+
+
+
+
 
   // Neutralization of variant under investigation B.1.617 with sera of BBV152 vaccinees
   doi: https://doi.org/10.1101/2021.04.23.441101
@@ -114,30 +526,77 @@ feed Sangeeta
     quote !b = These findings support earlier results comparing BBV152 induced immune responses to neutralize the D614G and B.1.1.7 variants equally.
 
 
-
   #
   // SARS-CoV-2 immune evasion by variant B.1.427/B.1.429
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  doi: https://doi.org/10.1101/2021.03.31.437925
+  ref 'McCallum_et_al_04_01_2021
+    head = We assessed neutralizing Ab responses following natural infection or mRNA vaccination using pseudoviruses expressing the wildtype or the B.1.427/B.1.429 S protein.
+
+    > Abstract
+      SARS-CoV-2 entry is mediated by the spike (S) glycoprotein which contains the receptor-binding domain (RBD) and the N-terminal domain (NTD) as the two main targets of neutralizing antibodies (Abs). A novel variant of concern (VOC) named CAL.20C (B.1.427/B.1.429) was originally detected in California and is currently spreading throughout the US and 29 additional countries. It is unclear whether antibody responses to SARS-CoV-2 infection or to the prototypic Wuhan-1 isolate-based vaccines will be impacted by the three B.1.427/B.1.429 S mutations: S13I, W152C and L452R. Here, we assessed neutralizing Ab responses following natural infection or mRNA vaccination using pseudoviruses expressing the wildtype or the B.1.427/B.1.429 S protein. Plasma from vaccinated or convalescent individuals exhibited neutralizing titers, which were reduced 3-6 fold against the B.1.427/B.1.429 variant relative to wildtype pseudoviruses. The RBD L452R mutation reduced or abolished neutralizing activity of 14 out of 35 RBD-specific monoclonal antibodies (mAbs), including three clinical-stage mAbs. Furthermore, we observed a complete loss of B.1.427/B.1.429 neutralization for a panel of mAbs targeting the N-terminal domain due to a large structural rearrangement of the NTD antigenic supersite involving an S13I-mediated shift of the signal peptide cleavage site. These data warrant closer monitoring of signal peptide variants and their involvement in immune evasion and show that Abs directed to the NTD impose a selection pressure driving SARS-CoV-2 viral evolution through conventional and unconventional escape mechanisms.
 
     - quotes
       !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
 
-    / April, 2021 - JAMA Netw Open.
-    quote !a =
+    / April, 2021 - bioRxiv
+    quote !a = Plasma from vaccinated or convalescent individuals (two doses of Pfizer/BioNTech BNT162b2 or Moderna mRNA-1273) exhibited neutralizing titers, which were reduced 3-6 fold against the B.1.427/B.1.429 variant relative to wildtype pseudoviruses.
+
+    / April, 2021 - bioRxiv
+    quote !b = The RBD L452R mutation reduced or abolished neutralizing activity of 14 out of 35 RBD-specific monoclonal antibodies (mAbs), including three clinical-stage mAbs (regdanvimab (CT-P59), etesevimab (LY-CoV016) and bamlanivimab (LY-CoV555).
+
+    / April, 2021 - bioRxiv
+    quote !c = Neutralization mediated by the Regeneron casirivimab/imdevimab mAb cocktail and by the VIR-7831/VIR-7832 (derivatives of S309) mAbs was indistinguishable against the wildtype and the B.1.427/B.1.49 variant.
+
+    / April, 2021 - bioRxiv
+    quote !d = We observed a complete loss of B.1.427/B.1.429 neutralization for a panel of mAbs targeting the N-terminal domain due to a large structural rearrangement of the NTD antigenic supersite involving an S13I-mediated shift of the signal peptide cleavage site.
+
+    / April, 2021 - bioRxiv
+    quote !e = The SARS-CoV-2 B.1.427/B.1.429 S NTD harbors the S13I and W152C substitutions and we demonstrate here that the former mutation leads to shifting the signal peptide cleavage site, effectively deleting the first two amino acid residues of the S glycoprotein (Q14 and C15).
+
+    / April, 2021 - bioRxiv
+    quote !f = The S13I/W152C mutations are efficiently evading the neutralizing activity of NTD-specific mAbs, and the acquisition of additional RBD mAb escape mutations (in addition to L452R) could further dampen Ab-mediated SARS-CoV-2 neutralization for B.1.427/B.1.429. For example, the independent acquisition of the E484K mutation in the B.1.351, P.1, B.1.526 variants and more recently the B.1.1.7 variant suggests this could also occur in the B.1.427/B.1.429 lineages, as supported by the presence in GISAID of 4 genome sequences with the E484K RBD mutation in the B.1.427 variant. Alternatively, the S13I mutation could emerge in any of these variants. We note that the S13I mutation was also detected in the SARS-CoV-2 B.1.526 lineage, which was originally described in New York.
+
+    # / April, 2021 - bioRxiv
+    # quote !f = This reduction correlates with the loss of neutralizing activity observed with all human mAbs directed to the NTD evaluated as well as reduction or loss of inhibition for about a third of RBD-specific mAbs tested.
+
+    / April, 2021 - bioRxiv
+    quote !g = These data warrant closer monitoring of signal peptide variants and their involvement in immune evasion and show that Abs directed to the NTD impose a selection pressure driving SARS-CoV-2 viral evolution through conventional and unconventional escape mechanisms.
+
+    / April, 2021 - bioRxiv
+    quote !h = The L18F substitution and the deletion of residue Y144 are found in 8% and 26% of viral genomes sequenced and are present in the B.1.351/P.1 lineages and the B.1.1.7 lineage, respectively. Both of these mutations are associated with reduction or abrogation of mAb binding and neutralization.
+
+
+
+
 
   #
   // An emerging SARS-CoV-2 mutant evading cellular immunity and increasing viral infectivity
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  doi: https://doi.org/10.1101/2021.04.02.438288
+  ref 'Motozono_et_al_04_05_2021
+    head = We demonstrate that two recently emerging mutants in the receptor binding domain of the SARS-CoV-2 spike protein, L452R (in B.1.427/429) and Y453F (in B.1.298), can escape from the HLA-24-restricted cellular immunity escape and further reinforce the affinity to viral receptor ACE2.
+
+    > Summary
+      During the current SARS-CoV-2 pandemic that is devastating the modern societies worldwide, many variants that naturally acquire multiple mutations have emerged. Emerging mutations can affect viral properties such as infectivity and immune resistance. Although the sensitivity of naturally occurring SARS-CoV-2 variants to humoral immunity has recently been investigated, that to human leukocyte antigen (HLA)-restricted cellular immunity remains unaddressed. Here we demonstrate that two recently emerging mutants in the receptor binding domain of the SARS-CoV-2 spike protein, L452R (in B.1.427/429) and Y453F (in B.1.298), can escape from the HLA-24-restricted cellular immunity. These mutations reinforce the affinity to viral receptor ACE2, and notably, the L452R mutation increases protein stability, viral infectivity, and potentially promotes viral replication. Our data suggest that the HLA-restricted cellular immunity potentially affects the evolution of viral phenotypes, and the escape from cellular immunity can be a further threat of the SARS-CoV-2 pandemic.
 
     - quotes
       !a
+      !b
 
-    / April, 2021 - JAMA Netw Open.
-    quote !a =
+    / April, 2021 - bioRxiv
+    quote !a = We showed direct evidence suggesting that the mutations in the RBM including L452R (in the B.1.427/429 lineage) and Y453F (in the B1.1.298 lineage) potentially escape from the HLA-A24-resticted cellular immunity, and further, the L452R mutant can also increase viral infectivity, potentially promoting viral replication. Therefore, these variants, particularly those possessing the L452R mutations, such as the B.1.427/429 lineage, can be the potential threat for these countries and regions with predominant HLA-A24 individuals.
+
+
+    / April, 2021 - bioRxiv
+    quote !b = These mutations reinforce the affinity to viral receptor ACE2, and notably, the L452R mutation increases protein stability, viral infectivity, and potentially promotes viral replication.
+
+
 
   #
   // Convergent evolution of SARS-CoV-2 spike mutations, L452R, E484Q and P681R, in the second wave of COVID-19 in Maharashtra, India
@@ -2256,13 +2715,15 @@ feed Sangeeta
 
 
     / March, 2021 - Cell
-    quote !a =  We define an antigenic map of the SARS-CoV-2 NTD and identify a supersite (designated site i) recognized by all known NTD-specific neutralizing mAbs
+    quote !a = We define an antigenic map of the SARS-CoV-2 NTD and identify a supersite (designated site i) recognized by all known NTD-specific neutralizing mAbs
 
     / March, 2021 - Cell
     quote !b = These monoclonal Abs (mAbs) inhibit cell-to-cell fusion, activate effector functions, and protect Syrian hamsters from SARS-CoV-2 challenge, albeit selecting escape mutants in some animals.
 
     / March, 2021 - Cell
     quote !c = Indeed, several SARS-CoV-2 variants, including the B.1.1.7, B.1.351 and P1 lineages, harbor frequent mutations within the NTD supersite suggesting ongoing selective pressure and the importance of NTD-specific neutralizing mAbs for protective immunity and vaccine design.
+
+
 
   #
   // Impact of the COVID-19 Vaccine on Asymptomatic Infection Among Patients Undergoing Pre-Procedural COVID-19 Molecular Screening

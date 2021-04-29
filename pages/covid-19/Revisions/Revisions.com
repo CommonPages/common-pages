@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *April_29 mean April_29
   let *April_26 mean April_26
   let *April_24 mean April_24
   let *April_23 mean April_23
@@ -10,7 +11,17 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_26, *April_24 and *April_23). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_29, *April_26, *April_24 and *April_23). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: April-29-2021
+  / April 29, 2021
+  revision April_29
+    head = On 28 April, 2021, Brazil’s National Health Surveillance Agency (Anvisa) rejected the import proposal of Sputnik V citing a range of concerns - crucial issue was that Ad5 Gamaleya shots appeared to still have replication-competent adenovirus in it. Sputnik V released a statement saying the allegations to be of political nature and have no scientific grounds.
+    -
+      Vaccines.Approved.Gam-COVID-Vac
+      Vaccines.Approved.Gam-COVID-Vac.!SputnikVstatement
+      
 
   public: April-26-2021
   / April 26, 2021

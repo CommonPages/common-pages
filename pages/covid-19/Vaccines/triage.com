@@ -95,15 +95,56 @@
 
   # CLINICAL TRIAL 4/27/21 ##### ALL RECENT PAPERS
 
+  >
+    The Journal highlights 3 independent descriptions of 39 persons with a newly described syndrome characterized by thrombosis and thrombocytopenia that developed 5 to 24 days after initial vaccination with ChAdOx1 nCoV-19 (AstraZeneca). Pathogeny of the syndrome are not yet clear but certain findings are consistent. The diagnosis of VITT should be confirmed with an approved PF4 ELISA. Treatment management suggests that intravenous immune globulin and high-dose glucocorticoids, and nonheparin antithrombotic agents. Additional cases have now been reported to the European Medicines Agency. As of April 9, 2021, at least 5 countries had instituted limitations — primarily based on age — on which patients should receive the ChAdOx1 nCoV-19 vaccine, and the CDC and the FDA have put a temporary hold on administration of the Johnson & Johnson/Janssen vaccine.
+  - Reports
+    'Douglas_et_al_04_16_2021
+    'Douglas_et_al_04_16_2021.!a
+    'Douglas_et_al_04_16_2021.!b
+  - Pathogeny of VITT
+    'Douglas_et_al_04_16_2021.!c
+    'Douglas_et_al_04_16_2021.!d
+  - Diagnosis
+    'Douglas_et_al_04_16_2021.!e
+  - Treatment management
+    'Douglas_et_al_04_16_2021.!f
+    'Douglas_et_al_04_16_2021.!g
+  - Additional cases reported
+    'Douglas_et_al_04_16_2021.!i
+  - Clinical trial- No thrombotic signal, background rate, rare event
+    'Douglas_et_al_04_16_2021.!h
+    'Douglas_et_al_04_16_2021.!j
+  - Five countries have instituted limitations on ChAdOx1 nCoV-19 vaccine and CDC and FDA paused Johnson & Johnson/Janssen vaccine adminstration
+    'Douglas_et_al_04_16_2021.!k
 
+  
 
   >
     These new observations also raise important scientific questions with clinical implications. What component or components of the vaccine (adenoviral sequence, spike protein, or other component) elicit a new (or recall) response to a seemingly unrelated host protein, PF4? Why does the complication appear to be more prevalent after exposure to one particular adenoviral vector? What is the risk after revaccination?  How do VITT antibodies compare with the anti-PF4–related antibodies that are present after SARS-CoV-2 infection, which have been described in patients who were suspected to have heparin-induced thrombocytopenia?10-12 Is PF4 a bystander component within an immune complex that activates platelets, or does it contribute directly to clot propagation? Does the atypical distribution of thrombi relate to antigen localization or vascular response? Is thrombosis propagated along vascular and hematopoietic surfaces that release diverse anionic cofactors, as in heparin-induced thrombocytopenia? In
     The questions of whether certain populations can be identified as more suitable candidates for one or another vaccine and who and how to monitor for this rare potential complication will require additional study.
 
   >
+    Additional cases have now been reported to the European Medicines Agency, including at least 169 possible cases of cerebral venous sinus thrombosis and 53 possible cases of splanchnic vein thrombosis among 34 million recipients of the ChAdOx1 nCoV-19 vaccine, 35 possible cases of central nervous system thrombosis among 54 million recipients of the Pfizer–BioNTech mRNA vaccine, and 5 possible (but unvetted) cases of cerebral venous sinus thrombosis among 4 million recipients of the Moderna mRNA vaccine. Six possible cases of cerebral venous sinus thrombosis (with or without splanchnic vein thrombosis) have been reported among the more than 7 million recipients of the Johnson & Johnson/Janssen Ad26.COV2.S adenoviral vector vaccine. They clearly indicate the need for maintaining a high level of concern when patients present with central nervous system or abdominal symptoms after receiving any SARS-CoV-2 vaccine.
+
+
+    As of April 9, 2021, at least five countries had instituted limitations — primarily based on age — on which patients should receive the ChAdOx1 nCoV-19 vaccine, and the Centers for Disease Control and Prevention and the Food and Drug Administration have put a temporary hold on administration of the Johnson & Johnson/Janssen vaccine.
+
+  >
     cases of immune thrombocytopenia and bleeding without thrombosis that were induced or revealed after exposure to the messenger RNA (mRNA)–based vaccines produced by Moderna (mRNA-1273) and Pfizer–BioNTech (BNT162b2) have been reported.2
-    Thrombocytopenia following Pfizer and Moderna SARS-CoV-2 vaccination
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = No thrombotic signal was detected in clinical trials leading to the approval of the ChAdOx1 nCoV-19 vaccine, which has now been administered to 34 million people worldwide. The incidence of VITT, as initially estimated, is perhaps 1 case per 100,000 exposures. This should be considered in the context of the incidence of cerebral venous sinus thrombosis in the general population (estimated at 0.22 to 1.57 cases per 100,000 per year).
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = Additional cases have now been reported to the European Medicines Agency, including at least 169 possible cases of cerebral venous sinus thrombosis and 53 possible cases of splanchnic vein thrombosis among 34 million recipients of the ChAdOx1 nCoV-19 vaccine, 35 possible cases of central nervous system thrombosis among 54 million recipients of the Pfizer–BioNTech mRNA vaccine, and 5 possible (but unvetted) cases of cerebral venous sinus thrombosis among 4 million recipients of the Moderna mRNA vaccine. Six possible cases of cerebral venous sinus thrombosis (with or without splanchnic vein thrombosis) have been reported among the more than 7 million recipients of the Johnson & Johnson/Janssen Ad26.COV2.S adenoviral vector vaccine. They clearly indicate the need for maintaining a high level of concern when patients present with central nervous system or abdominal symptoms after receiving any SARS-CoV-2 vaccine.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = A note of caution: although anti-PF4–polyanion antibodies are common — for example, they are detected in 25 to 50% of patients after cardiovascular surgery — heparin-induced thrombocytopenia is not, and only in rare cases does cerebral venous sinus thrombosis or thrombi in abdominal vessels develop in patients with heparin-induced thrombocytopenia. This suggests that our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = As of April 9, 2021, at least five countries had instituted limitations — primarily based on age — on which patients should receive the ChAdOx1 nCoV-19 vaccine, and the Centers for Disease Control and Prevention and the Food and Drug Administration have put a temporary hold on administration of the Johnson & Johnson/Janssen vaccine.
+
+
 
 
 # CLINICAL TRIAL 4/27/21 ##### ALL RECENT PAPERS - I HAVE PUT ALL THESE PAPERS below

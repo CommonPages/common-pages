@@ -246,7 +246,7 @@ subject module Vaccines
 
 
 
-        / Resoning PEG
+        / Reasoning PEG
         claim !Anaphylaxisreasoning = Some research studies have also reasoned that severe allergic reactions after vaccination maybe due to PEG.
 
           claim !ReasoningAnaphylaxis = Acute allergic reactions after vaccination might be caused by the vaccine antigen, residual nonhuman protein, or preservatives and stabilizers in the vaccine formulation, also known as excipients. Although, anaphylaxis have historically been more typically associated with the inactive components or products of the vaccine manufacturing process, such as egg, gelatin, or latex.
@@ -1812,7 +1812,7 @@ subject module Vaccines
 
     / Sputnik V
     subject Gam-COVID-Vac
-      head =  Sputnik V Phase 3 trials are currently ongoing. Phase 3 trial results were published in Feb of 2021. The vaccine showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort. On April 19, 2021 The Gamaleya National Research Center of Epidemiology and Microbiology announced that the Sputnik V vaccine demonstrated efficacy of 97.6%, based on the analysis of infection rate data of almost 4 million vaccinated people with both components of Sputnik V in Russia. As of Feb of 2021 Sputnik V has been approved for emergency use in 34 countries.
+      head = Sputnik V Phase 3 trial results were published in Feb of 2021. The vaccine showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort. On April 19, 2021 The Gamaleya National Research Center of Epidemiology and Microbiology announced the real world analysis data (4 million vaccinated people in Russia)- Sputnik V vaccine (2 doses) demonstrated efficacy of 97.6%. On 28 April, 2021, Brazil’s National Health Surveillance Agency (Anvisa) rejected the import proposal of Sputnik V citing a range of concerns - crucial issue was that Ad5 Gamaleya shots appeared to still have replication-competent adenovirus in it. Sputnik V has been approved in over 30 countries. However, European Union (except Hungary) has not yet approved the vaccine, saying it needs more information on the tests and manufacturing process.
 
       >
         [Sputnik V](https://sputnikvaccine.com/), is a Non-replicating viral vector. [Gam-COVID-Vac](https://en.wikipedia.org/wiki/Gam-COVID-Vac) is a viral two-vector vaccine based on two human adenoviruses — a common cold virus — containing the gene that encodes the {Virus.Structure spike protein} (S) of SARS-CoV-2 to stimulate an immune response. The recombinant adenovirus type-26 (rAd26, component I) and adenovirus type-5 (rAd5, Component II) are both used as vectors in the vaccine. They were biotechnology-derived and contain the SARS-CoV-2 S protein gene. Both of them are administered intramuscularly: the Ad26 based vaccine is used on the first day and the Ad5 vaccine is used on the 21st day to boost response.
@@ -1841,8 +1841,18 @@ subject module Vaccines
         !Phase3SputnikV
         !Phase3
         !RealworldAnalysis
-      - Vaccine related claims
+      - Efficacy against B.1.351 (SA Variant)
         !SputnikB1351
+      >
+        On 28 April, 2021, [https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/anvisa-nao-aprova-importacao-da-vacina-sputnik-v/apresentacao-sputnik-ggmed.pdf] (Brazil’s National Health Surveillance Agency (Anvisa) rejected) the import proposal of Sputnik V citing a lack of information guaranteeing its safety, quality and effectiveness and issues with the development of the vaccine. A crucial issue was that Ad5 Gamaleya shots appeared to still have replication-competent adenovirus in it.
+
+        On 8 April 2021, Slovakia's SUKL drug agency [https://www.reuters.com/business/healthcare-pharmaceuticals/slovak-drug-agency-says-it-cannot-back-sputnik-v-vaccine-due-lack-data-2021-04-07/] (rejected a batch of Sputnik V)for being substantively different than those reviewed by international scientists and by the European Union regulator. The European Medicines Agency (EMA) has also said they have insufficient safety and Quality data to authorize it in the EU.
+
+      - See also
+        'Rasmussen_et_al_04_28_2021
+        'Lowe_et_al_04_28_2021
+      -
+        !SputnikVstatement
 
       - Key Concerns
         Ad5-nCOV.!Concern
@@ -1882,7 +1892,7 @@ subject module Vaccines
           'Logunov_et_al_02_02_2021.!b
           'Logunov_et_al_02_02_2021.!c
 
-
+      / Real World Analysis
       claim !RealworldAnalysis = On April 19, 2021 The Gamaleya National Research Center of Epidemiology and Microbiology announced that the Sputnik V vaccine demonstrated efficacy of 97.6%, based on the analysis of infection rate data of almost 4 million vaccinated people with both components of Sputnik V in Russia.
         -
           'SputnikV_et_al_04_19_2021
@@ -1894,6 +1904,21 @@ subject module Vaccines
           'Ikegame_et_al_04_03_2021
           'Ikegame_et_al_04_03_2021.!a
           'Ikegame_et_al_04_03_2021.!b
+
+      / Sputnik V Statement on Brazil's decision
+      claim !SputnikVstatement = Sputnik V released a statement on Brazilian Health Regulator Anvisa's decision to postpone Sputnik V authorization, stating the allegations to be of political nature and have no scientific grounds and cannot be treated seriously in the scientific community and among international regulators.
+        -
+          'SputnikV_et_al_04_28_2021
+          'SputnikV_et_al_04_28_2021.!a
+          'SputnikV_et_al_04_28_2021.!b
+          'SputnikV_et_al_04_28_2021.!c
+          'SputnikV_et_al_04_28_2021.!d
+          'SputnikV_et_al_04_28_2021.!e
+          'SputnikV_et_al_04_28_2021.!f
+          'SputnikV_et_al_04_28_2021.!g
+          'SputnikV_et_al_04_28_2021.!h
+          'SputnikV_et_al_04_28_2021.!i
+
 
     / Sinovac
     subject CoronaVac
