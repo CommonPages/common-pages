@@ -25,12 +25,7 @@
       'Regeneron_et_al_04_12_2021.!d
       'Regeneron_et_al_04_12_2021.!e
 
-
-     # They also stated that overall benefits of COVID-19 Vaccine Janssen in preventing COVID-19 outweigh the risks of side effects. As of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded there is a possible link between thrombosis and thrombocytopenia syndrome and J&J vaccine and that a warning about unusual blood clots with low blood platelets should be added to the product information for COVID-19 Vaccine Janssen. EMA confirms overall benefit-risk remains positive. Cases of unusual blood clots with low platelets have occurred in people who received Vaxzevria (formerly COVID-19 Vaccine AstraZeneca). The chance of having this occur is very low, but you should still be aware of symptoms so you can get prompt medical treatment to help recovery and avoid complications.
-
-
-    #  The potential consequences of emerging variants are increased transmissibility, increased pathogenicity and the ability to escape natural or vaccine-induced immunity
-
+    
   >
     Measurements of indoor CO2 concentration by low-cost CO2 sensors can often be good indicators of infection risk and suitable for mass deployment.
   -

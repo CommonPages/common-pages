@@ -156,6 +156,7 @@ subject module Variants
       !Y453FSpreading
       !Y453FCrossborder
       !Y453FAntibodyescape
+      !HLAImmuneevasionL452RY453F
     - Del69_70
       !Del69_70
       !Del69_70independent
@@ -295,6 +296,11 @@ subject module Variants
       -
         'Adlhoch_et_al_11_12_2020
         'Adlhoch_et_al_11_12_2020.!g
+
+    claim !HLAImmuneevasionL452RY453F = We showed direct evidence suggesting that the mutations in the RBM including L452R (in the B.1.427/429 lineage) and Y453F (in the B1.1.298 lineage) potentially escape from the HLA-A24-resticted cellular immunity. Therefore, these variants, particularly those possessing the L452R mutations, such as the B.1.427/429 lineage, can be the potential threat for these countries and regions with predominant HLA-A24 individuals.
+      -
+        'Motozono_et_al_04_05_2021
+        'Motozono_et_al_04_05_2021.!a
 
     # VARIANT - CLUSTER 5
     claim !MutationCluster5 = Cluster 5 is reported to carry our Y453F candidate mutation, together with three other mutations in the spike protein falling outside the RBD (del69-70, I692V, M1229I), none of which is identified as mink-adapted.
@@ -474,6 +480,8 @@ subject module Variants
     -
       !Switzerland
       !Wales
+      !B117US
+      P1Variant.!BeloHorizonte
     - Background
       !UKlineage
       !Phylogeny
@@ -533,6 +541,9 @@ subject module Variants
       !Antibodyresistance
     - Potential significance of P681H Mutation
       !P681HFurin
+    - Potential significance of N-Terminal Domain Mutations
+      !NTDneutralizing
+      CAL20C.!Selectivepressure
     - Origin Theory
       !Immunocompromised
     - Positive Selection
@@ -570,6 +581,7 @@ subject module Variants
         'Drop_et_al_11_16_2020.!e
         'Drop_et_al_11_16_2020.!j
 
+    / Switzerland
     claim !Switzerland = An analysis of wastewater samples collected between July and December 2020 in Switzerland has identified several of the signature mutations that define the B.1.1.7 and 501.V2 lineages.
       -
         'Jahn_et_al_01_09_2021
@@ -577,6 +589,7 @@ subject module Variants
         'Jahn_et_al_01_09_2021.!b
         'Jahn_et_al_01_09_2021.!c
 
+    / Wales
     claim !Wales = Phylogeny results of 501N, 501Y Variant 1 and 501Y Variant 2 (also named B.1.1.7) indicated that the recent 501Y strains in the UK, since August/September 2020, emerged from the 20B clade and formed two lineages. Both lineages have clear geographical separation in Wales vs England.
       -
         'Leung_et_al_12_28_2020
@@ -892,12 +905,24 @@ subject module Variants
         'McCallum_et_al_03_16_2021.!c
 
 
+
     claim !TransmissibilityB117 = One study reported that VOC (B.1.1.7) has a substantial transmission advantage with a 50% to 100% higher reproduction number.
       -
         'Volz_et_al_03_25_2021
         'Volz_et_al_03_25_2021.!a
         'Volz_et_al_03_25_2021.!b
         'Volz_et_al_03_25_2021.!c
+
+    / USA
+    claim !B117US = One study found evidence for many independent B.1.1.7 establishments starting in early December 2020, followed by interstate spread by the end of the month. The authors project that B.1.1.7 will be the dominant lineage in many states by mid to late March.
+      -
+        'Alpert_et_al_04_02_2021
+        'Alpert_et_al_04_02_2021.!a
+        'Alpert_et_al_04_02_2021.!b
+        'Alpert_et_al_04_02_2021.!c
+        'Alpert_et_al_04_02_2021.!d
+
+
 
   / B.1.351 (Identified in South Africa)
   subject B1351
@@ -1240,6 +1265,8 @@ subject module Variants
       !Origin
       !OriginCause
     -
+      !BeloHorizonte
+    -
       !Transmission
     - Replication
       Variants.B1351.!MiceReplication
@@ -1249,8 +1276,9 @@ subject module Variants
       !Escape
       !LessEscape
       !EntryInhibitorsEscape
-    -
+    - Mutations
       !Mutation
+      !BeloHorizonte
     - Potential Significance to ACE2 receptor
       !ReceptorBinding
     - Potential biologic significance of N501Y Mutation
@@ -1272,7 +1300,7 @@ subject module Variants
     - T Cell Response
       Vaccines.Approved.Tozinameran.!Tcellresponses
 
-    / Mutation
+    / Mutations
     claim !Mutation = The new P.1 lineage carries 17 unique amino acid changes, 3 deletions, and 4 synonymous mutations, and one 4nt insertion. It also includes everal mutations of known biological importance such as E484K, K417T, and N501Y
       -
         'Faria_et_al_01_12_2021
@@ -1346,18 +1374,47 @@ subject module Variants
         'Hoffmann_et_al_03_20_2021
         'Hoffmann_et_al_03_20_2021.!a
 
+
+    / Belo Horizonte
+    claim !BeloHorizonte = Preliminary results of SARS-CoV-2 genomic diversity in the metropolitan region of Belo Horizonte (MRBH) revealed co-circulation of two variants of concern (VOC), B.1.1.7 and P.1, and variant of interest (VOI) P.2. These variants harbor E484K (P.1 and P.2) and N501Y (P.1 and B.1.1.7) mutations. It also reported a cluster of two sequences characterized by a unique array of 18 mutations, including new non-synonymous changes in the same critical spike amino acid positions, E484Q and N501T. Between 28 Feb and 15 Mar 68% of cases were caused by the P.1 lineage.
+
+    -
+      'Moreira_et_al_04_08_2021
+      'Moreira_et_al_04_08_2021.!a
+      'Moreira_et_al_04_08_2021.!b
+      'Moreira_et_al_04_08_2021.!c
+
   / B.1.427/B.1.429 (Identified in California)
   subject CAL20C
-    head = Named B.1.427/B.1.429 to denote its 2 lineages, the variant emerged in May 2020 and increased from 0% to >50% of sequenced cases from September 2020 to January 2021, showing 18.6-24% increased transmissibility relative to wild-type circulating strains. 20% more infectious, higher viral loads, some immune evasion but not enough to reduce vaccine efficacyCAL. Currently the CAL.20C strain is primarily found in Southern California, however it has also been detected in Northern California, New York and Washington DC.
-
-    - Growth Rate
+    head = Named B.1.427/B.1.429 to denote its 2 lineages, the variant emerged in May 2020 and increased from 0% to >50% of sequenced cases from September 2020 to January 2021, showing 18.6-24% increased transmissibility. 20% more infectious, higher viral loads, some immune evasion but not enough to reduce vaccine efficacy. The increased infectivity could be attributed to the L452R mutation which is also associated with enhanced receptor binding affinity, increase transmissibility and escape from neutralizing antibodies. The positive selection for this mutation became particularly strong only recently. CAL.20A.strain caused the only recorded case of infection in an ape - gorilla in the San Diego Zoo, reported in January 2021.
+    -
+      !California
+    -
       !GrowthRate
-    - Transmission
+    -
+      !Infectivity
+    -
       !Transmission
-    - Antibody neutralization
+    -
+      !CAL20Agorilla
+    -
       !Antibodyneutralization
+    -
+      !Mutation
     - Potential significance of L452R Mutation
-      !L452R
+      !Infectivity
+      !StrongACE2binding
+      !Transmissibility
+      !Immuneevasion
+      !AdaptiveevolutionL452R
+    - Potential significance of N-Terminal Domain Mutations
+      !NTDmutationB1427B1429
+      !Selectivepressure
+    - Potential significance of S13I/W152C Mutations
+      !S13IW152C
+    - Potential Significance of L18F substitution and Y144 deletion
+      !L18FdelY144
+
     - Triage
       'Zhang_et_al_01_20_2021
       'Zhang_et_al_01_20_2021.!a
@@ -1372,24 +1429,182 @@ subject module Variants
       'Zhang_et_al_02_11_2021.!c
 
 
+    / California
+    claim !California = A study showed that two independent nCoV variants recently emerged in the state of California that carry the L452R mutation in the Spike protein, the already defined and currently dominant CAL.20C as well as the more recently emerged CAL.20A (The newly identified variant derives from the clade 20A).
+      -
+        'Tchesnokova_et_al_02_22_2021
+        'Tchesnokova_et_al_02_22_2021.!a
+        'Tchesnokova_et_al_02_22_2021.!b
+        'Tchesnokova_et_al_02_22_2021.!c
+        'Tchesnokova_et_al_02_22_2021.!d
+        'Tchesnokova_et_al_02_22_2021.!e
+        'Tchesnokova_et_al_02_22_2021.!f
+        'Tchesnokova_et_al_02_22_2021.!g
+        'Tchesnokova_et_al_02_22_2021.!h
+        'Tchesnokova_et_al_02_22_2021.!i
+
+    claim !CAL20Agorilla = One study found that the SARS-CoV-2 strain that caused the only recorded case of infection in an ape - gorilla in the San Diego Zoo, reported in January 2021 - is CAL.20A.
+      -
+        'Tchesnokova_et_al_02_22_2021
+        'Tchesnokova_et_al_02_22_2021.!h
+
     / Growth Rate
     claim !GrowthRate = The B.1.427/B.1.429 variant grew to >50% of cases in California by early 2021.
       -
         'Deng_et_al_04_20_2021
         'Deng_et_al_04_20_2021.!a
 
-    / Transmission
-    claim !Transmission = The variant is 20% more transmissible with 2-fold increased shedding in vivo.
-    -
-      'Deng_et_al_04_20_2021
-      'Deng_et_al_04_20_2021.!b
+    / Infectivity
+    claim !Infectivity = The L452R mutation increases protein stability, viral infectivity, and potentially promotes viral replication. A study from California suggested that the newly identified variant of concern (20C/S:452R and 20C/S:452R) with the L452R mutation led to the increased infectivity.
+      -
+        'Motozono_et_al_04_05_2021
+        'Motozono_et_al_04_05_2021.!b
 
-    / Potential significance of L452R Mutation
-    claim !L452R = B.1.427 (CA)variant has a spike L452R mutation conferring increased infectivity in vitro.
+      -
+        'Chen_et_al_09_04_2020
+        'Chen_et_al_09_04_2020.!a
+        'Chen_et_al_09_04_2020.!b
+        'Chen_et_al_09_04_2020.!c
+        'Chen_et_al_09_04_2020.!d
+      -
+        !California
+      -
+        'Cherian_et_al_04_24_2021
+        'Cherian_et_al_04_24_2021.!c
+      -
+        'Liu_et_al_01_21_2021
+        'Liu_et_al_01_21_2021.!d
       -
         'Deng_et_al_04_20_2021
         'Deng_et_al_04_20_2021.!b
         'Deng_et_al_04_20_2021.!c
+
+    / Transmission
+    claim !Transmission = The variant is 20% more transmissible with 2-fold increased shedding in vivo.
+      -
+        'Deng_et_al_04_20_2021
+        'Deng_et_al_04_20_2021.!a
+        'Deng_et_al_04_20_2021.!c
+
+    / Mutations
+    claim !Mutation = In contrast to CAL.20C that carries two additional to L452R mutations in the Spike protein, L452R is the only mutation found in CAL.20A.
+      -
+        'Tchesnokova_et_al_02_22_2021
+        'Tchesnokova_et_al_02_22_2021.!c
+        'Tchesnokova_et_al_02_22_2021.!e
+        'Tchesnokova_et_al_02_22_2021.!f
+      -
+        'Deng_et_al_04_20_2021
+        'Deng_et_al_04_20_2021.!b
+
+    / Adaptive Evolution of L452R
+    claim !AdaptiveevolutionL452R = In addition to the two California strains, several independent L452R-carrying lineages have recently emerged across the globe, with over 90% of the isolates reported between December 2020 - February 2021. Such repeatedly emerging hot-spot mutations typically indicate strong positive selection, which might result from the selective pressure of RBD-specific neutralizing Abs.
+      -
+        'Tchesnokova_et_al_02_22_2021
+        'Tchesnokova_et_al_02_22_2021.!a
+        'Tchesnokova_et_al_02_22_2021.!b
+        'Tchesnokova_et_al_02_22_2021.!c
+        'Tchesnokova_et_al_02_22_2021.!f
+        'Tchesnokova_et_al_02_22_2021.!g
+
+
+      claim !Recentselection = The positive selection for this mutation became particularly strong only recently, possibly reflecting viral adaptation to the containment measures or increasing population immunity (to the original viral variants, i.e. the reconvalescents and vaccinated individuals.
+        -
+          'Tchesnokova_et_al_02_22_2021
+          'Tchesnokova_et_al_02_22_2021.!e
+
+    / Strong ACE2 Binding
+    claim !StrongACE2binding = Studies have shown that L452R mutation is associated with enhanced receptor binding affinity  and escape from neutralizing antibodies. This in turn might lead to significantly increased infectivity of the L452R variants.
+      -
+        'Tchesnokova_et_al_02_22_2021
+        'Tchesnokova_et_al_02_22_2021.!i
+      -
+        'Cherian_et_al_04_24_2021
+        'Cherian_et_al_04_24_2021.!c
+      -
+        'PHE_et_al_04_22_2021
+        'PHE_et_al_04_22_2021.!f
+      -
+        'Starr_et_al_08_11_2020
+        'Starr_et_al_08_11_2020.!f
+        'Starr_et_al_08_11_2020.!h
+        'Starr_et_al_08_11_2020.!c
+
+    / Transmissibilty
+    claim !Transmissibility = The structural analysis of RBD mutations L452R and E484Q along with P681R in the furin cleavage site, may possibly result in increased ACE2 binding and rate of S1-S2 cleavage resulting in better transmissibility.
+      -
+        'Cherian_et_al_04_24_2021
+        'Cherian_et_al_04_24_2021.!c
+
+
+    / Immune Evasion
+    claim !Immuneevasion = The mutation L452R is associated with antigenic escape from both monoclonal antibodies and convalescent antisera, and found in several other variants. Several reports revealed that the L452R mutation reduced the binding or neutralizing activity. One study demonstrated that the mutation L452R can escape from human leukocyte antigen (HLA)-24-restricted cellular immunity.
+      -
+        'McCallum_et_al_04_01_2021
+        'McCallum_et_al_04_01_2021.!b
+
+      -
+        'Cherian_et_al_04_24_2021
+        'Cherian_et_al_04_24_2021.!d
+      -
+        'PHE_et_al_04_22_2021
+        'PHE_et_al_04_22_2021.!f
+      -
+        Mink.!HLAImmuneevasionL452RY453F
+      -
+        'Tchesnokova_et_al_02_22_2021
+        'Tchesnokova_et_al_02_22_2021.!i
+      -
+        'Starr_et_al_04_01_2021
+        'Starr_et_al_04_01_2021.!b
+      -
+        'Liu_et_al_01_21_2021
+        'Liu_et_al_01_21_2021.!b
+      -
+        'Starr_et_al_08_11_2020
+        'Starr_et_al_08_11_2020.!c
+        'Starr_et_al_08_11_2020.!d
+        'Starr_et_al_08_11_2020.!f
+        'Starr_et_al_08_11_2020.!h
+      -
+        'Li_et_al_07_17_2020
+        'Li_et_al_07_17_2020.!b
+
+
+    claim !NTDmutationB1427B1429 = One study observed a complete loss of B.1.427/B.1.429 neutralization for a panel of mAbs targeting the N-terminal domain due to a large structural rearrangement of the NTD antigenic supersite involving an S13I-mediated shift of the signal peptide cleavage site.
+      -
+        'McCallum_et_al_04_01_2021
+        'McCallum_et_al_04_01_2021.!d
+
+
+    / Strong Selective Pressure of NTD mutations
+    claim !Selectivepressure = Several SARS-CoV-2 variants, including the B.1.1.7, B.1.351, P1, B.1.427/B.1.429 and B.1.617 lineages, harbor frequent mutations within the NTD supersite (site i) suggesting ongoing selective pressure from the host humoral immune response.
+      -
+        'McCallum_et_al_03_16_2021
+        'McCallum_et_al_03_16_2021.!a
+        'McCallum_et_al_03_16_2021.!c
+      - NTD mutations in B.1.427/B.1.429 variant
+        !NTDmutationB1427B1429
+      - NTD mutations in B.1.1.7 variant
+        Variants.B117.!NTDneutralizing
+      - NTD mutations in B.1.617 variant
+        Variants.B1617.!NTDmutationB1617
+
+
+
+    claim !S13IW152C = The S13I/W152C mutations are efficiently evading the neutralizing activity of NTD-specific mAbs, and the acquisition of additional RBD mAb escape mutations (in addition to L452R) could further dampen Ab-mediated SARS-CoV-2 neutralization for B.1.427/B.1.429. The S13I mutation could emerge in any of these variants. The S13I mutation was also detected in the SARS-CoV-2 B.1.526 lineage, which was originally described in New York.
+      -
+        'McCallum_et_al_04_01_2021
+        'McCallum_et_al_04_01_2021.!d
+        'McCallum_et_al_04_01_2021.!f
+        'McCallum_et_al_04_01_2021.!e
+
+
+
+    claim !L18FdelY144 = The L18F substitution and the deletion of residue Y144  are found in 8% and 26% of viral genomes sequenced and are present in the B.1.351/P.1 lineages and the B.1.1.7 lineage, respectively. Both of these mutations are associated with reduction or abrogation of mAb binding and neutralization.
+      -
+        'McCallum_et_al_04_01_2021
+        'McCallum_et_al_04_01_2021.!h
 
     / Antibody neutralization
     claim !Antibodyneutralization = Antibody neutralization is reduced in COVID-19 patients and vaccine recipients.
@@ -1440,6 +1655,10 @@ subject module Variants
   subject B1526
     head = A new lineage has been identified in New York that shares mutations with with previously reported variants. This lineage appeared in late November 2020, and isolates from this lineage account for ~25% of coronavirus genomes sequenced and deposited from New York during February 2021. The lineage consists of multiple spike mutation and may pose an antigenic challenge for current interventions.
 
+
+    - Potential significance of S13I/W152C Mutations
+      CAL20C.!S13IW152C
+
     - Triage
       'West-Jr_et_al_02_23_2021
       'West-Jr_et_al_02_23_2021.!a
@@ -1453,7 +1672,7 @@ subject module Variants
 
   / B.1.617 (Identified in India)
   subject B1617
-    head = B.1.617.1 variant first detected in sequences from India was designated under investigation on 1 April 2021 as VUI-21APR-01 (B.1.617.1). VUI-21APR-01 (B.1.617.1) cases have been imported to England with increasing frequency. As of 22 April 21, 119 genomically confirmed cases of B.1.617.1 have been identified in England, 94 have a link to travel, No cases are known to have died.
+    head = B.1.617.1 variant first detected in India was designated under investigation on 1 April 2021 as VUI-21APR-01. So far 21 countries have detected the B.1.617 variant, most of which have been reported from India. The continuous increase  could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.1, B.1.617.2,and B.1.617. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.
 
     >
       <table>
@@ -1466,7 +1685,7 @@ subject module Variants
         <td>5</td>
         </tr>
         <tr>
-        <th>Key Mutations in Spik (others are important)</th>
+        <th>Key Mutations in Spike (others are important)</th>
         <td> L452R, E484Q, P681R </td>
         </tr>
         <tr>
@@ -1487,21 +1706,36 @@ subject module Variants
         </tr>
         <tr>
         <th>Countries reported (uptil April 18, 2021)</th>
-        <td>  </td>
+        <td> 21 </td>
         </tr>
       </table>
 
     -
       !UK
-    - Transmission
+    -
       !Transmission
-    - Mutations
-      !Mutation
+    - Vaccine related claims
+      Vaccines.Approved.BBV152.!2foldNeutralizingdropB1617
+    -
+      !Mutations
+      !3Clades
+    >
+      Of these, the mutations at residue positions 452, 484 and 681 have been reported in other globally circulating lineages. Mutations at both the residue positions 452 and 484 individually have been reported earlier. L452R has been noted in California lineages B.1.427/B.1.429 while E484K mutation is common to the three VOCs having global impact. E484Q has also been reported in several sequences in the GISAID with the earliest strain noted in Denmark. P681H is one of the mutations in the UK-variant B.1.1.7 while P681R is one of the mutations in the VUI lineage A.23.1.
     - Potential significance of L452R Mutation
-      !L452Rmutation
+      CAL20C.!Infectivity
+      CAL20C.!StrongACE2binding
+      CAL20C.!Transmissibility
+      CAL20C.!Immuneevasion
+      CAL20C.!AdaptiveevolutionL452R
+    - Potential significance of P681R
+      !P681R
+    - Potential significance of N-Terminal Domain Mutations
+      !NTDmutationB1617
+      CAL20C.!Selectivepressure
+      CAL20C.!NTDmutationB1427B1429
 
 
-
+    / UK
     claim !UK = VUI-21APR-01 (B.1.617.1) cases have been imported to England with increasing frequency. As of 22 April 2021, 119 genomically confirmed cases of VUI-21APR-01 (B.1.617.1) have been identified in all regions of England; concentrated in the London, North West and East of England regions. 94 have a link to travel, No cases are known to have died.
       -
         'PHE_et_al_04_22_2021
@@ -1515,7 +1749,18 @@ subject module Variants
         'PHE_et_al_04_22_2021.!d
 
     / Mutations
-    claim !Mutation = B.1.617.1 contains 3 clades with different mutation profiles which are: B.1.617.1 includes a large number of sequences and has a spike profile including L452R and E484Q. B.1.617.2 – has a different profile without E484Q and appears to have recent expansion. B.1.617.3 – has L452R and E484Q but is distinct from B.1.617.1 and currently remains small. Additionally B.1.617 contains the furin cleavage site mutation P681R, similar to P681H and several N-terminal domain mutations
+    claim !Mutations = Investigations on the S protein mutations associated with the COVID-19 cases in Maharashtra observed since the month of February 2021 - The continuous increase in positivity could be attributed to signature mutations in the spike protein and functionally significant co-occurring triple mutations (L452R, E484Q, P681R). The unique combination of mutations L452R, E484Q and P681R noted is an indication of convergent evolution.
+      -
+        'Cherian_et_al_04_24_2021
+        'Cherian_et_al_04_24_2021.!a
+        'Cherian_et_al_04_24_2021.!b
+        'Cherian_et_al_04_24_2021.!c
+        'Cherian_et_al_04_24_2021.!d
+        'Cherian_et_al_04_24_2021.!e
+        'Cherian_et_al_04_24_2021.!f
+
+    / 3 Clades: B.1.617.1, B.1.617.2, and B.1.617.3
+    claim !3Clades = B.1.617 contains 3 clades with different mutation profiles: B.1.617.1 includes a large number of sequences and has a spike profile including L452R and E484Q. B.1.617.2 – has a different profile without E484Q and appears to have recent expansion. B.1.617.3 – has L452R and E484Q but is distinct from B.1.617.1 and currently remains small. Additionally B.1.617 contains the furin cleavage site mutation P681R, similar to P681H and several N-terminal domain mutations.
       -
         'PHE_et_al_04_22_2021
         'PHE_et_al_04_22_2021.!c
@@ -1524,16 +1769,21 @@ subject module Variants
         'PHE_et_al_04_22_2021.!g
         'PHE_et_al_04_22_2021.!h
 
+    # claim !L452Rmutation = One study found that the spike L452R mutation shared by both the B.1.429 (CA) & B.1.617 (India) variants - 20% more infectious, higher viral loads —some immune evasion but would not expect enough to reduce vaccine efficacy.
+    #   -
+    #     'PHE_et_al_04_22_2021
+    #     'PHE_et_al_04_22_2021.!f
 
-    / Potential significance of L452R Mutation
-    claim !L452Rmutation = B.1.617 also contains the mutation L452R which is associated with antigenic escape from both monoclonal antibodies and convalescent antisera, and found in several other variants including signals in monitoring B.1.429 (CA)and A.27. L452R is also associated with enhanced receptor binding affinity. One study found that the spike L452R mutation shared by both the B.1.429 (CA) & B.1.617 (India) variants - 20% more infectious, higher viral loads —some immune evasion but would not expect enough to reduce vaccine efficacy.
+
+    claim !P681R = The furin cleavage site mutation P681R, similar to P681H. 681R/H are found in multiple variant lineages, such as VOC-20DEC-01 (B.1.1.7), VUI-21FEB-04 (B.1.1.318) and VUI-21FEB-01 (A.23.1). Both P681H and P681R have been shown to optimise spike cleavage by furin; it has been hypothesised that this optimisation may enhance virus transmissibility.
       -
         'PHE_et_al_04_22_2021
-        'PHE_et_al_04_22_2021.!f
+        'PHE_et_al_04_22_2021.!g
+
+    claim !NTDmutationB1617 = One study reported VUI-21APR-01 (B.1.617.1) contains several N-terminal domain mutations.
       -
-        CAL20C.!L452R
-
-
+        'PHE_et_al_04_22_2021
+        'PHE_et_al_04_22_2021.!h
 
 
 

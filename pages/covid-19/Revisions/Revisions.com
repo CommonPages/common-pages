@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *April_30 mean April_30
   let *April_29 mean April_29
   let *April_26 mean April_26
   let *April_24 mean April_24
@@ -11,7 +12,29 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_29, *April_26, *April_24 and *April_23). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_30, *April_29, *April_26, *April_24 and *April_23). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: April-30-2021
+  / April 30, 2021
+  revision April_30
+    head = We have updated the Variant section on B.1.617 (Identified in India) and B.1.427/B.1.429 (Identified in California)- both of which share the L452R mutation. The L452R mutation is associated with enhanced receptor binding affinity, increases protein stability, viral infectivity, promotes viral replication, better transmissibility and escape from neutralizing antibodies. The positive selection for this mutation became particularly strong only recently.
+    -
+      Variants.CAL20C.!Infectivity
+      Variants.CAL20C.!StrongACE2binding
+      Variants.CAL20C.!Transmissibility
+      Variants.CAL20C.!Immuneevasion
+      Variants.CAL20C.!AdaptiveevolutionL452R
+      Variants.CAL20C.!NTDmutationB1427B1429
+      Variants.CAL20C.!Selectivepressure
+      Variants.CAL20C.!S13IW152C
+      Variants.CAL20C.!L18FdelY144
+
+    >
+      The continuous increase in cases in India (the B.1.617 variant) could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.1, B.1.617.2,and B.1.617. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.
+    -
+      Variants.B1617
+      Vaccines.Approved.BBV152.!2foldNeutralizingdropB1617
 
 
   public: April-29-2021
@@ -21,7 +44,7 @@ revision feed Revisions
     -
       Vaccines.Approved.Gam-COVID-Vac
       Vaccines.Approved.Gam-COVID-Vac.!SputnikVstatement
-      
+
 
   public: April-26-2021
   / April 26, 2021

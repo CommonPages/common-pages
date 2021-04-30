@@ -116,6 +116,7 @@ subject module Vaccines
         !ReducedtitiersagiantV2
         !PreviouslyinfectedPfizer
         !PriorinfectionPfizerneutralizingactivity
+        !NeutralizingtitersB1427B1429
       - Immune Response
         !Tcellresponses
         !BCellresponse
@@ -713,6 +714,13 @@ subject module Vaccines
           'Lustig_et_al_04_07_2021.!c
           'Lustig_et_al_04_07_2021.!d
 
+      / Vaccine efficacy againt B.1.427/B.1.429 variant (CA)
+      claim !NeutralizingtitersB1427B1429 = Plasma from vaccinated or convalescent individuals (two doses of Pfizer/BioNTech BNT162b2 or Moderna mRNA-1273) exhibited neutralizing titers, which were reduced 3-6 fold against the B.1.427/B.1.429 variant relative to wildtype pseudoviruses.
+        -
+          'McCallum_et_al_04_01_2021
+          'McCallum_et_al_04_01_2021.!a
+          'McCallum_et_al_04_01_2021.!b
+          'McCallum_et_al_04_01_2021.!c
 
 
 
@@ -781,6 +789,7 @@ subject module Vaccines
         !SAvariant
         Tozinameran.!ImmuneEscape
         Tozinameran.!ReducedtitiersagiantV2
+        Tozinameran.!NeutralizingtitersB1427B1429
       - Immune Response
         Tozinameran.!Tcellresponses
         Tozinameran.!BCellresponse
@@ -992,6 +1001,8 @@ subject module Vaccines
         !SAVariant
         !SAVariantEfficacy
         !Vaccineefficacy
+      - Efficacy against B.1.427/B.1.429 Variant (CA)
+        Tozinameran.!NeutralizingtitersB1427B1429
       - Animal challenge
         !Animalchallenge
       - Adverse Reaction
@@ -1812,7 +1823,7 @@ subject module Vaccines
 
     / Sputnik V
     subject Gam-COVID-Vac
-      head = Sputnik V Phase 3 trial results were published in Feb of 2021. The vaccine showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort. On April 19, 2021 The Gamaleya National Research Center of Epidemiology and Microbiology announced the real world analysis data (4 million vaccinated people in Russia)- Sputnik V vaccine (2 doses) demonstrated efficacy of 97.6%. On 28 April, 2021, Brazil’s National Health Surveillance Agency (Anvisa) rejected the import proposal of Sputnik V citing a range of concerns - crucial issue was that Ad5 Gamaleya shots appeared to still have replication-competent adenovirus in it. Sputnik V has been approved in over 30 countries. However, European Union (except Hungary) has not yet approved the vaccine, saying it needs more information on the tests and manufacturing process.
+      head = Sputnik V Phase 3 trial results showed 91·6% efficacy against COVID-19 and was well tolerated in a large cohort. On April 19, 2021 The Gamaleya National Research announced the real world analysis data (4 million vaccinated people in Russia)- Sputnik V vaccine (2 doses) demonstrated efficacy of 97.6%. On 28 April, 2021, Brazil’s National Health Surveillance Agency (Anvisa) rejected the import proposal of Sputnik V citing a range of concerns - crucial issue was that Ad5 Gamaleya shots appeared to still have replication-competent adenovirus in it. Sputnik V has been approved in over 30 countries. However, European Union (except Hungary) has not yet approved the vaccine, saying it needs more information on the tests and manufacturing process.
 
       >
         [Sputnik V](https://sputnikvaccine.com/), is a Non-replicating viral vector. [Gam-COVID-Vac](https://en.wikipedia.org/wiki/Gam-COVID-Vac) is a viral two-vector vaccine based on two human adenoviruses — a common cold virus — containing the gene that encodes the {Virus.Structure spike protein} (S) of SARS-CoV-2 to stimulate an immune response. The recombinant adenovirus type-26 (rAd26, component I) and adenovirus type-5 (rAd5, Component II) are both used as vectors in the vaccine. They were biotechnology-derived and contain the SARS-CoV-2 S protein gene. Both of them are administered intramuscularly: the Ad26 based vaccine is used on the first day and the Ad5 vaccine is used on the 21st day to boost response.
@@ -1841,12 +1852,12 @@ subject module Vaccines
         !Phase3SputnikV
         !Phase3
         !RealworldAnalysis
-      - Efficacy against B.1.351 (SA Variant)
+      - Efficacy against variants
         !SputnikB1351
       >
-        On 28 April, 2021, [https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/anvisa-nao-aprova-importacao-da-vacina-sputnik-v/apresentacao-sputnik-ggmed.pdf] (Brazil’s National Health Surveillance Agency (Anvisa) rejected) the import proposal of Sputnik V citing a lack of information guaranteeing its safety, quality and effectiveness and issues with the development of the vaccine. A crucial issue was that Ad5 Gamaleya shots appeared to still have replication-competent adenovirus in it.
+        On 28 April, 2021,[Brazil’s National Health Surveillance Agency (Anvisa) rejected](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/anvisa-nao-aprova-importacao-da-vacina-sputnik-v/apresentacao-sputnik-ggmed.pdf] ) the import proposal of Sputnik V citing a lack of information guaranteeing its safety, quality and effectiveness and issues with the development of the vaccine. A crucial issue was that Ad5 Gamaleya shots appeared to still have replication-competent adenovirus in it.
 
-        On 8 April 2021, Slovakia's SUKL drug agency [https://www.reuters.com/business/healthcare-pharmaceuticals/slovak-drug-agency-says-it-cannot-back-sputnik-v-vaccine-due-lack-data-2021-04-07/] (rejected a batch of Sputnik V)for being substantively different than those reviewed by international scientists and by the European Union regulator. The European Medicines Agency (EMA) has also said they have insufficient safety and Quality data to authorize it in the EU.
+        On 8 April 2021, [Slovakia's SUKL drug agency rejected](https://www.reuters.com/business/healthcare-pharmaceuticals/slovak-drug-agency-says-it-cannot-back-sputnik-v-vaccine-due-lack-data-2021-04-07/) a batch of Sputnik V for being substantively different than those reviewed by international scientists and by the European Union regulator. The European Medicines Agency (EMA) has also said they have insufficient safety and Quality data to authorize it in the EU.
 
       - See also
         'Rasmussen_et_al_04_28_2021
@@ -1899,6 +1910,7 @@ subject module Vaccines
           'SputnikV_et_al_04_19_2021.!a
           'SputnikV_et_al_04_19_2021.!b
 
+      / Efficacy against B.1.351 (SA Variant)
       claim !SputnikB1351 = One study has shown that Sputnik V Ad26 / Ad5 vaccine failed to neutralize rcVSV-CoV2-S: B.1.351.
         -
           'Ikegame_et_al_04_03_2021
@@ -1918,7 +1930,6 @@ subject module Vaccines
           'SputnikV_et_al_04_28_2021.!g
           'SputnikV_et_al_04_28_2021.!h
           'SputnikV_et_al_04_28_2021.!i
-
 
     / Sinovac
     subject CoronaVac
@@ -2062,7 +2073,7 @@ subject module Vaccines
 
     / Bharat Biotech
     subject BBV152
-      head = Clinical trials for the Bharat Biotech vaccine started as early as July of 2020 and are currently going on in India. In Phase 1 & 2 trials, authors reported that the vaccine induced binding and neutralising antibody responses, showed tolerable safety outcomes and enhanced humoral and cell-mediated immune responses. In Phase 3 trial an interim vaccine efficacy of 81% has been reported. The vaccine has already been approved for use in India.
+      head = Clinical trials for the Bharat Biotech vaccine started as early as July of 2020 and are currently going on in India. In Phase 1 & 2 trials, authors reported that the vaccine induced binding and neutralising antibody responses, showed tolerable safety outcomes and enhanced humoral and cell-mediated immune responses. In Phase 3 trial an interim vaccine efficacy of 81% has been reported. The vaccine has already been approved for use in India. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.
 
       >
         <table>
@@ -2088,12 +2099,14 @@ subject module Vaccines
         !AnimalStudies
         !Phase1
         !Phase2
-      - UK Variant
+      -  Vaccine Efficacy against Variants
         !UKvariant
+        !2foldNeutralizingdropB1617
       -
         !Intranasaltrial
       -
         !BharatBiotechPhase3
+
       - See Also
         Ad5-nCOV.!IntranasalDelivery
         !IntranasalAnimal
@@ -2149,6 +2162,7 @@ subject module Vaccines
           'Bricker_et_al_12_03_2020.!b
           'Bricker_et_al_12_03_2020.!c
 
+      / Bharat Biotech Vaccine Efficacy against B.1.1.7 (UK variant)
       claim !UKvariant = In Jan of 2020, Covaxin reported that a comparable neutralization activity of the vaccinated individuals sera showed against UK-variant and the heterologous strain with similar efficiency, dispeling the uncertainty of possible neutralization escape.
         -
           'Sapkal_et_al_01_27_2021
@@ -2159,6 +2173,13 @@ subject module Vaccines
         -
           'Bharatbiotech_et_al_03_23_2021
           'Bharatbiotech_et_al_03_23_2021.!a
+
+      / Bharat Biotech Vaccine Efficacy against B.1.617 variant (India)
+      claim !2foldNeutralizingdropB1617 = Convalescent sera of the COVID-19 cases and recipients of BBV152 (Covaxin) were able to neutralize VUI B.1.617. In this study, a drop in neutralization was detected with the B.1.617 variant. However, the reduction of neutralizing capability was limited to 2-fold.
+      -
+        'Yadav_et_al_04_23_2021
+        'Yadav_et_al_04_23_2021.!a
+        'Yadav_et_al_04_23_2021.!b
 
     / ZF2001
     subject ZF2001
@@ -2396,6 +2417,7 @@ subject module Vaccines
       Approved.Tozinameran.!IsraelB117
       Approved.Tozinameran.!PriorInfectionSingleDose.!SingleDose
       Approved.Tozinameran.!Tcellresponses
+      Approved.Tozinameran.!NeutralizingtitersB1427B1429
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
       Approved.mRNA-1273.!AntibodyNeutralization
@@ -2404,14 +2426,17 @@ subject module Vaccines
       Approved.Tozinameran.!ImmuneEscape
       Approved.Tozinameran.!PriorInfectionSingleDose.!SingleDose
       Approved.Tozinameran.!Tcellresponses
+      Approved.Tozinameran.!NeutralizingtitersB1427B1429
     - Oxford
       Approved.AZD1222.!VariantEfficacy
       Approved.AZD1222.!SAVariant
       Approved.AZD1222.!SAVariantEfficacy
       Approved.AZD1222.!Vaccineefficacy
       Approved.AZD1222.!Animalchallenge
+      Approved.Tozinameran.!NeutralizingtitersB1427B1429
     - Covaxin
       Approved.BBV152.!UKvariant
+      Approved.BBV152.!2foldNeutralizingdropB1617
     - Novavax
       Candidates.NVX-CoV2373.!UKandSAvariant
       Candidates.NVX-CoV2373.!VaccineefficacyV1
