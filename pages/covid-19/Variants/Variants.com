@@ -1720,7 +1720,8 @@ subject module Variants
       !Mutations
       !3Clades
     >
-      Of these, the mutations at residue positions 452, 484 and 681 have been reported in other globally circulating lineages. Mutations at both the residue positions 452 and 484 individually have been reported earlier. L452R has been noted in California lineages B.1.427/B.1.429 while E484K mutation is common to the three VOCs having global impact. E484Q has also been reported in several sequences in the GISAID with the earliest strain noted in Denmark. P681H is one of the mutations in the UK-variant B.1.1.7 while P681R is one of the mutations in the VUI lineage A.23.1.
+      Of these, the mutations at residue positions 452, 484 and 681 have been reported in other globally circulating lineages. Mutations at both the residue positions 452 and 484 individually have been reported earlier.
+      {CAL20C.!California L452R} has been noted in California lineages B.1.427/B.1.429 while {B1351.!E484K E484K mutation} is common to the three VOCs having global impact. E484Q has also been reported in several sequences in the GISAID with the earliest strain noted in Denmark. {B117.!P681HFurin P681H} is one of the mutations in the UK-variant B.1.1.7 while P681R is one of the mutations in the VUI lineage A.23.1.
     - Potential significance of L452R Mutation
       CAL20C.!Infectivity
       CAL20C.!StrongACE2binding
