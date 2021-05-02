@@ -6,19 +6,17 @@ revision feed Revisions
   let *April_30 mean April_30
   let *April_29 mean April_29
   let *April_26 mean April_26
-  let *April_24 mean April_24
-  let *April_23 mean April_23
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_30, *April_29, *April_26, *April_24 and *April_23). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_30, *April_29 and *April_26). You can *contribute by sending corrections and responding to open questions.
 
 
   public: April-30-2021
   / April 30, 2021
   revision April_30
-    head = We have updated the Variant section on B.1.617 (Identified in India) and B.1.427/B.1.429 (Identified in California)- both of which share the L452R mutation. The L452R mutation is associated with enhanced receptor binding affinity, increases protein stability, viral infectivity, promotes viral replication, better transmissibility and escape from neutralizing antibodies. The positive selection for this mutation became particularly strong only recently.
+    head = We have updated the variant section on B.1.617 (Identified in India) and B.1.427/B.1.429 (Identified in California)- both of which share the L452R mutation. The L452R mutation is associated with enhanced receptor binding affinity, increases protein stability, viral infectivity, promotes viral replication, better transmissibility and escape from neutralizing antibodies. The positive selection for this mutation became particularly strong only recently.
     -
       Variants.CAL20C.!Infectivity
       Variants.CAL20C.!StrongACE2binding
@@ -40,7 +38,7 @@ revision feed Revisions
   public: April-29-2021
   / April 29, 2021
   revision April_29
-    head = On 28 April, 2021, Brazil’s National Health Surveillance Agency (Anvisa) rejected the import proposal of Sputnik V citing a range of concerns - crucial issue was that Ad5 Gamaleya shots appeared to still have replication-competent adenovirus in it. Sputnik V released a statement saying the allegations to be of political nature and have no scientific grounds.
+    head = On 28 April, 2021, Brazil’s National Health Surveillance Agency (Anvisa) rejected the import proposal of Sputnik V citing a range of concerns. The crucial issue was that Ad5 Gamaleya shots appeared to still have replication-competent adenovirus in it. Sputnik V released a statement saying the allegations are of political nature and have no scientific grounds.
     -
       Vaccines.Approved.Gam-COVID-Vac
       Vaccines.Approved.Gam-COVID-Vac.!SputnikVstatement
