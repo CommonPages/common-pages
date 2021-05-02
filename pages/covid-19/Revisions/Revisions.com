@@ -29,7 +29,7 @@ revision feed Revisions
       Variants.CAL20C.!L18FdelY144
 
     >
-      The continuous increase in cases in India (the B.1.617 variant) could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.1, B.1.617.2,and B.1.617. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.
+      The continuous increase in cases in India (the B.1.617 variant) could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.2,and B.1.617.3. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.
     -
       Variants.B1617
       Vaccines.Approved.BBV152.!2foldNeutralizingdropB1617
