@@ -12,18 +12,7 @@ feed Sangeeta
     quote !a =
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
 
-    - quotes
-      !a
-
-    / April, 2021 - JAMA Netw Open.
-    quote !a =
-
-  #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2021
@@ -47,6 +36,282 @@ feed Sangeeta
 
     / April, 2021 - JAMA Netw Open.
     quote !a =
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / April, 2021 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://twitter.com/MPaiMD/status/1385741537221480449
+  ref 'Pai_et_al_04_24_2021
+    head = So you read today’s NACI advice - AZ ok if you’re 30+! Unless you can wait for mRNA Syringe! And then you read the MANY hot takes from experts, non-experts, and para-experts. And you are SCARED. Disclaimer: I’m a blood clot doctor. I am not a public health expert. Or an ID doc. But you wouldn’t believe how much I talk to people about weighing their risk of clots. (So much.) I can help you make good choices for you (and be less petrified if you just got AZ yesterday.)
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+
+    / April, 2021 - Twitter
+    quote !a = Here’s the real UP TO DATE (as of now) risk of getting VITT (the bad AZ clots). If you’re under 50 it’s between 1/50K and 1/100K.
+
+    / April, 2021 - Twitter
+    quote !b = We don’t really think gender impacts that risk. Or: history of clots (except HIT and maybe CSVT according to Health Canada), birth control, pregnancy, autoimmune disease, low or high platelets, family history of clots, taking blood thinners or aspirin.
+
+    / April, 2021 - Twitter
+    quote !c = Let’s hold onto that 1/50-100K risk. That is the risk of GETTING A BAD BLOOD CLOT WITH AZ. You can be somewhat reassured by this fact: healthcare providers across Canada know how to spot and treat these clots. They are treatable.
+
+    / April, 2021 - Twitter
+    quote !d = Risks don’t matter unless you weigh them. Put the 1/50-100K risk of taking AZ on one side of the scale. What’s going on the other side? The risk of not taking AZ. Are you scared of dying of COVID? Being hospitalized?
+
+    / April, 2021 - Twitter
+    quote !e = It will tell you how to weigh your AZ risk. Because you’re under 50 or 40. if there’s not a lot of COVID around, your risk of all that bad stuff is low. You don’t need to run for a COVID vaccine NOW if you’re literally seeing nobody.
+
+    / April, 2021 - Twitter
+    quote !f = There are some communities that have really high infection rates. Check out page 3, 6, 9. Notice how the scale tips? AZ benefits outweigh risks. No contest.
+
+    / April, 2021 - Twitter
+    quote !g = If you live in the GTA, and in many other hot areas of ON, you could ignore the scales and wait for Pfizer or Moderna. That is your right. But with community transmission being so high, you are taking on a large amount of risk.
+
+    / April, 2021 - Twitter
+    quote !h = For a vaccine (often, desperately hoping for any vaccine!) Many will not survive that wait. Most who survive will have longstanding health problems.
+
+    / April, 2021 - Twitter
+    quote !i = If you’re in a moderate risk area (page 4,7,10) the scale still tips towards getting AZ instead of waiting. A lot of places in ON are moderate risk. Some people with “public facing” or “essential work” in those areas are actually at high risk.
+
+    / April, 2021 - Twitter
+    quote !j = Other reasons to tip that scale: you have health problems, are older, are really worried about COVID, or COVID has attained your healthcare
+
+
+
+  #
+  // Recommendations on the use of COVID-19 vaccines.
+  doi: https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines.html
+  ref 'NACI_et_al_05_03_2021
+    head = Canada's National Advisory Committee on Immunization (NACI) recommends expanding the use of the AstraZeneca-Oxford vaccine to all Canadians over the age of 30, but only when the benefits outweigh the risks of rare, serious post-vaccine blood clots.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2021 - NACI
+    quote !a = A complete series with an mRNA COVID-19 vaccine should be preferentially offered to individuals in the authorized age group without contraindications to the vaccine. If an mRNA vaccine is contraindicated, another authorized COVID-19 vaccine should be offered.
+
+    / May, 2021 - NACI
+    quote !b = A complete series with the AstraZeneca COVID-19 vaccine may be offered to individuals 30 years of age and older without contraindications only if the individual does not wish to wait for an mRNA vaccine and all of the following conditions apply: The benefit-risk analysis determines that the benefit of earlier vaccination with the AstraZeneca COVID-19 vaccine outweighs the risk of COVID-19 while waiting for an mRNA COVID-19 vaccine.
+
+    / May, 2021 - NACI
+    quote !c = The benefits and relative risk and consequences of VITT and COVID-19 for the individual are clearly outlined, factoring in the anticipated waiting time to receive an mRNA vaccine as well as the availability of other effective personal public health measures to mitigate risk of COVID-19, and the individual makes an informed decision based on an understanding about these risks and benefits, and There will be substantial delay to receive an mRNA vaccine.
+
+    / May, 2021 - NACI
+    quote !d = Provinces and territories should adapt the age limit, based on their local epidemiology.
+
+
+  #
+  // Annex to Vaxzevria Art.5.3 - Visual risk contextualisation
+  doi: https://www.ema.europa.eu/en/documents/chmp-annex/annex-vaxzevria-art53-visual-risk-contextualisation_en.pdf
+  ref 'EMA_et_al_04_23_2021
+    head = EMA’s human medicines committee (CHMP) has further analysed available data to put the risks of very rare blood clots (thrombosis with thrombocytopenia syndrome, TTS) in the context of the benefits for different age groups and different rates of infection. The analysis will inform national decisions on the roll out of the vaccine, taking into account the pandemic situation as it evolves and other factors, such as vaccine availability. The analysis could change as new data become available.
+
+    - quotes
+      !a
+      !b
+
+    / April, 2021 - European Medicines Agency
+    quote !a = The Committee analysed the benefits and the risk of unusual blood clots with low platelets in different age groups in the context of the monthly infection rate: low (55 per 100,000 people), medium (401 per 100,000 people) and high (886 per 100,000 people).
+
+    / April, 2021 - European Medicines Agency
+    quote !b = The analysis looked at prevention of hospitalisations, ICU admissions and deaths due to COVID-19, considering an 80% vaccine effectiveness over a period of four months.
+
+
+
+  #
+  // News - Communicating the potential benefits and harms of the Astra-Zeneca COVID-19 vaccine
+  doi: https://wintoncentre.maths.cam.ac.uk/news/communicating-potential-benefits-and-harms-astra-zeneca-covid-19-vaccine/
+  ref 'WintonCentre_et_al_04_07_2021
+    head = All medical treatments have potential harms as well as potential benefits, and it's important to be able to weigh these against each other. For the potential benefit: incidence rates based on the Covid-19 Infection Survey, ONS, 1 April 2021. The proportion of hospitalisations were taken from Table 1 of the 29 July 2020 report of the Scientific Pandemic Influenza Group on Modelling, Operational sub-group (SPI-M-O). The proportion of ICU cases to hospitalisations was calculated using the PHE Benefit Estimation for COVID-19 Report from 3 April 2021. For the potential harms: numbers of cases of the blood clot reactions provided by MHRA up to March 31st in five-year age-bands.
+
+    - Potential harms
+      !a
+    - Potential benefits
+      !b
+      !c
+    - Illustrations
+      !d
+      !e
+      !f
+      !g
+    - Note
+      !h
+      !i
+    - Other potential vaccines available
+      !j
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !a = Following roll-out of the COVID-19 vaccine from Astra-Zeneca, large-scale monitoring has picked up a potential link to a specific kind of blood clot. Cases of a severe allergic reaction (anaphylaxis) have also been recorded, but for the Astra-Zeneca vaccine, cases are very rare, perhaps because of precautions being taken for those with known allergies. Other side effects are so far thought to be short term. The MHRA data point to these specific blood clots being more common in younger people.
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !b = The benefits of the vaccine are protection against COVID-19 (short-term and long COVID) - for the person being vaccinated and for those they come into contact with as it also reduces the chances of them being infected by the vaccinated person. These potential benefits, though, change according to: How likely a person is to be exposed to the virus (e.g. how prevalent the virus is, locally, at the time; what their occupational exposure is to it). How likely they are to have a poor outcome as a result of catching the virus (this is mostly affected by their age, but also underlying health conditions).
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !c = The potential benefits also accrue every day that the person is vaccinated (and exposed to the virus).
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !d = These illustrations show the approximate balance as it would be for people of different ages, over 16 weeks, at three different exposures to the virus (which would depend on local prevalence of the virus and how much an individual was exposed to other people who might be carrying it). People with underlying health conditions that increase their risk of a poor outcome from COVID-19 would have a higher benefit from the vaccine than illustrated for their age-range.
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !e = Illustration of the potential harms and benefits at a low exposure (incidence of 2 in 10,000 per day - roughly the UK in March 2021)
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !f = At medium exposure (incidence of 6 in 10,000 per day - roughly the UK in February 2021)
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !g = And at high exposure (incidence of 20 in 10,000 per day - roughly the UK at the height of the second wave)
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !h = It is very important to note that the benefits shown are approximate, as taken at a constant level of exposure to the virus over 16 weeks (very few in the UK would be likely to experience 16 weeks at the highest exposure rate). A vaccinated person will keep accruing this benefit over the lifetime of the vaccine’s protection. The risk from vaccination occurs only at the point of vaccination. This means that over time, the benefits will increase but the risks will not.
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !i = It is also important to note that the benefits illustrated are only for ICU admission due to COVID-19. For every 1 person shown as being saved from ICU admission, there are many more who might be being saved from suffering hospitalization and ‘long COVID’. We are also not illustrating the benefit of not spreading the virus to others.
+
+    / April, 2021 - Winton Centre for Risk and Evidence Communication
+    quote !j = When making decisions, it is also important to take into account other potential vaccines available. For example, if there were an equally effective vaccine available, immediately, that did not carry the risk of a blood clot reaction then that might swing a decision in favour of taking that vaccine in preference to the Astra-Zeneca vaccine. However, if such a vaccine were not immediately available, then the risk of exposure to the COVID-19 virus during each week of any delay before such an alternative were available would have to be weighed up in a decision whether to wait or not.
+
+    # / April, 2021 - Winton Centre for Risk and Evidence Communication
+    # quote !k = All of these factors make any decision over the Astra-Zeneca vaccine a complex one - the risk:benefit ratio varies between different people, and as prevalence of the virus changes.
+
+
+
+  #
+  // MHRA issues new advice, concluding a possible link between COVID-19 Vaccine AstraZeneca and extremely rare, unlikely to occur blood clots.
+  doi: https://www.gov.uk/government/news/mhra-issues-new-advice-concluding-a-possible-link-between-covid-19-vaccine-astrazeneca-and-extremely-rare-unlikely-to-occur-blood-clots
+  ref 'MHRA_et_al_04_07_2021
+    head = MHRA made a press release concluding a possible link between COVID-19 Vaccine AstraZeneca and extremely rare, unlikely to occur blood clots. The benefits of vaccination continue to outweigh any risks but the MHRA advises careful consideration be given to people who are at higher risk of specific types of blood clots because of their medical condition. The MHRA data point to these specific blood clots being more common in younger people. The MHRA is not recommending age restrictions in COVID-19 Vaccine AstraZeneca vaccine use.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+      !m
+      !n
+
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !a = The MHRA is not recommending age restrictions in COVID-19 Vaccine AstraZeneca vaccine use.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !b = The MHRA’s scientific review of UK reports of extremely rare and unlikely to occur specific blood clots with lowered platelets has concluded that the evidence of a link with COVID-19 Vaccine AstraZeneca is stronger but more work is still needed.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !c = Up to and including 31 March 2021, the MHRA had received 79 UK reports of blood clotting cases alongside low levels of platelets following the use of the COVID-19 Vaccine AstraZeneca: 44 of the 79 cases were of CVST with thrombocytopenia. 35 of the 79 cases were of thrombosis in other major veins with thrombocytopenia. 79 cases occurred in 51 women and 28 men, aged from 18 to 79 years. It should be noted that more women have been vaccinated with COVID-19 Vaccine AstraZeneca than men. 19 people have died out of the 79 cases – 13 females and 6 males. 11 out of the 19 people who died were under the age of 50, 3 of whom were under 30. 14 of these 19 cases were of CVST with thrombocytopenia and 5 were of thrombosis with thrombocytopenia. All 79 cases occurred after a first dose of the vaccine.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !d = This risk, based on reports up to and including 31 March, is slightly higher than the risk calculated from the reports published up to and including 24 March. However, likelihood of these blood clots occurring is still extremely rare.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !e = By 31 March 20.2 million doses of the COVID-19 Vaccine AstraZeneca had been given in the UK meaning the overall risk of these blood clots is approximately 4 people in a million who receive the vaccine.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !f = Anyone who did not have these side effects should come forward for their second dose when invited.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !g = The data suggest there is a slightly higher incidence reported in the younger adult age groups and the MHRA advises that this evolving evidence should be taken into account when considering the use of the vaccine.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !h = The MHRA is now issuing updated guidance for healthcare professionals on how to minimise risks, as well as further advice on symptoms for vaccine recipients to look out for 4 or more days after vaccination.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !i = Vaccines are the best way to protect people from COVID-19 and have already saved thousands of lives. Everyone should continue to get their vaccination when asked to do so unless specifically advised otherwise.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !j = As a precaution, administration of COVID-19 Vaccine AstraZeneca in people of any age who are at higher risk of blood clots because of their medical condition should be considered only if benefits from the protection from COVID-19 infection outweighs potential risks.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !k = Anyone who experienced cerebral or other major blood clots occurring with low levels of platelets after their first vaccine dose of COVID-19 Vaccine AstraZeneca should not have their second dose. Anyone who did not have these side effects should come forward for their second dose when invited.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !l = Pregnancy predisposes to thrombosis, therefore women should discuss with their healthcare professional whether the benefits of having the vaccine outweigh the risks for them.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !m = The MHRA recently confirmed that the evidence to date does not suggest that the COVID-19 Vaccine AstraZeneca causes venous thromboembolism without a low platelet count.
+
+    / April, 2021 - Medicines and Healthcare products Regulatory Agency
+    quote !n = While the MHRA continues to investigate these cases, as a precautionary measure, anyone who has symptoms four days or more after vaccination is advised to seek prompt medical advice, such as: a new onset of severe or persistent headache, blurred vision, confusion or seizures, develop shortness of breath, chest pain, leg swelling or persistent abdominal pain. unusual skin bruising or pinpoint round spots beyond the injection site
+
+
+
+  #
+  // JCVI statement on use of the AstraZeneca COVID-19 vaccine: 7 April 2021
+  doi: https://www.gov.uk/government/publications/use-of-the-astrazeneca-covid-19-vaccine-jcvi-statement/jcvi-statement-on-use-of-the-astrazeneca-covid-19-vaccine-7-april-2021
+  ref 'JCVI_et_al_04_07_2021
+    head = The Joint Committee on Vaccination and Immunisation (JCVI) published a statement following reports of an extremely rare adverse event after vaccination with the first dose of the AstraZeneca COVID-19 vaccine. This includes information on the use of the vaccine in those under 30.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / April, 2021 - JCVI
+    quote !a = There have been reports of an extremely rare adverse event of concurrent thrombosis (blood clots) and thrombocytopenia (low platelet count) following vaccination with the first dose of AstraZeneca ChAdOx1 nCoV-19 vaccine (AZD1222).
+
+    / April, 2021 - JCVI
+    quote !b = There has been no signal for thrombosis/thrombocytopenia following receipt of other COVID-19 vaccines approved for use in the UK (Pfizer-BioNTech and Moderna).
+
+    / April, 2021 - JCVI
+    quote !c = Given the very low numbers of events reported overall, there is currently a high level of uncertainty in estimates of the incidence of this extremely rare adverse event by age group. However, the available data do suggest there may be a trend for increasing incidence of this adverse event with decreasing age, with a slightly higher incidence reported in the younger adult age groups.
+
+    / April, 2021 - JCVI
+    quote !d = In contrast, the risks of severe disease associated with COVID-19 increases steeply with age, with the youngest adults at lowest risk. There are currently no known risk factors for this extremely rare condition, which appears to be an idiosyncratic reaction on first exposure to the AstraZeneca COVID-19 vaccine.
+
+    / April, 2021 - JCVI
+    quote !e = JCVI has weighed the relative balance of benefits and risks and advise that the benefits of prompt vaccination with the AstraZeneca COVID-19 vaccine far outweigh the risk of adverse events for individuals 30 years of age and over and those who have underlying health conditions which put them at higher risk of severe COVID-19 disease.
+
+    / April, 2021 - JCVI
+    quote !f = JCVI currently advises that it is preferable for adults aged <30 years without underlying health conditions that put them at higher risk of severe COVID-19 disease, to be offered an alternative COVID-19 vaccine, if available. People may make an informed choice to receive the AstraZeneca COVID-19 vaccine to receive earlier protection.
+
+    / April, 2021 - JCVI
+    quote !g = There are some adults <30 without underlying health conditions who are in phase 1, who were prioritised due to an increased risk of exposure and/or to reduce the risk of passing the infection on to vulnerable individuals. This includes health and social care workers, unpaid carers and household contacts of immunosuppressed individuals. Acting on a precautionary basis, if these persons are still unvaccinated, it is preferable for them to be offered an alternative COVID-19 vaccine, if available.
+
+    / April, 2021 - JCVI
+    quote !h = To date, there are no reports of the extremely rare thrombosis/thrombocytopenia events following receipt of the second dose of the AstraZeneca COVID-19 vaccine. All those who have received a first dose of the AstraZeneca COVID-19 vaccine should continue to be offered a second dose of AstraZeneca COVID-19 vaccine, irrespective of age. The second dose will be important for longer lasting protection against COVID-19.
+
+    / April, 2021 - JCVI
+    quote !i = JCVI advises that all individuals offered a COVID-19 vaccine should be fully informed about the benefits and risks of vaccination. This should include clear information on the extremely rare thrombosis/thrombocytopenia adverse event, how to monitor for symptoms that might be related to the adverse event, and what action should be taken by individuals and health professionals in the event of such symptoms arising.
+
+
+
+
   #
   // Recurrent deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape
   doi: https://doi.org/10.1126/science.abf6950

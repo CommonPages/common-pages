@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *May_05 mean May_05
   let *April_30 mean April_30
   let *April_29 mean April_29
   let *April_26 mean April_26
@@ -10,7 +11,33 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *April_30, *April_29 and *April_26). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_05, *April_30, *April_29 and *April_26). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: May-5-2021
+  / May 5, 2021
+  revision May_05
+    head = We've updated the Reccomendation section for Oxford–AstraZeneca use by The Joint Committee on Vaccination and Immunisation (JCVI- UK), Medicines and Healthcare products Regulatory Agency (MHRA), European Medicines Agency's (EMA),and Canada's National Advisory Committee on Immunization (NACI) upon concluding that there is a possible link between COVID-19 Vaccine AstraZeneca and extremely rare, unlikely to occur blood clots.
+
+    >
+      On 3 May 2021, NACI recommended expanding the use of the AstraZeneca-Oxford vaccine to all Canadians over the age of 30, but only when the benefits outweigh the risks of rare, serious post-vaccine blood clots.
+    -
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!NACI
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!MenakaPai
+
+    >
+      On 23 April 2021, To support national authorities making decisions on how to best use the vaccine in their territories, EMA’s human medicines committee (CHMP) has further analysed available data to put the risks of very rare blood clots in the context of the benefits for different age groups and different rates of infection. Also taking into account the pandemic situation as it evolves and other factors, such as vaccine availability. The analysis could change as new data become available.
+    -
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!CHMP
+    >
+      As of 07 April 2021, Medicines and Healthcare products Regulatory Agency (MHRA) and The Joint Committee on Vaccination and Immunisation (JCVI) concluded a possible link between COVID-19 Vaccine AstraZeneca and extremely rare blood clots. The MHRA data point to these specific blood clots being more common in younger people. The JCVI reccommended that adults aged <30 years without underlying health conditions to be offered an alternative COVID-19 vaccine, if available. They stated that the benefits of vaccination continue to outweigh any risks.
+    -
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!JCVI
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!MHRA
+    >
+      The Winton Centre for Risk and Evidence Communication with their illustrations of the potential harms and benefits made the complexities of decision over the Astra-Zeneca vaccine slightly clearer- at a low exposure (incidence of 2 in 10,000 per day - UK in March 2021). At medium exposure (incidence of 6 in 10,000 per day - UK in Feb 2021). And at high exposure (incidence of 20 in 10,000 per day - UK at the height of the second wave)
+    -
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!Wintoncentre
 
 
   public: April-30-2021

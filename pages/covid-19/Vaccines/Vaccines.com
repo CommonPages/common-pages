@@ -1188,21 +1188,34 @@ subject module Vaccines
             !Oxford
             !Oxford1
             !Oxford2
-
           >
             Scientists have urged investigation into the local background rates of these (and other) potential adverse events as past studies have reported that a small percentage of people will develop thromboembolic event at some point in their lives. The [background rate](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210833) of diseases that could be AEFI (adverse event following immunization) can be used to estimate the number of expected events within a known population over a period of time.
 
           -
             !ThromboticThrombocytopeniareports
           >
-            As of 07 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) cconcluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine Janssen. So far, most of the cases reported have occurred in women under 60 years of age within 2 weeks of vaccination. EMA confirms overall benefit-risk remains positive.
+            As of 07 April 2021, Medicines and Healthcare products Regulatory Agency (MHRA), The Joint Committee on Vaccination and Immunisation (JCVI) and European Medicines Agency's (EMA) safety committee (PRAC) all concluded a possible link between COVID-19 Vaccine AstraZeneca and extremely rare blood clots. The MHRA data point to these specific blood clots being more common in younger people. The MHRA is not recommending age restrictions in AstraZeneca COVID-19 vaccine use. The JCVI reccommended that adults aged <30 years without underlying health conditions to be offered an alternative COVID-19 vaccine, if available. EMA safety committee (PRAC) concluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine Janssen. All three stated that the benefits of vaccination continue to outweigh any risks.
           -
+            !MHRA
+            !JCVI
             !EMAupdate
+          - See also
+            !Wintoncentre
+          >
+            On 23 April 2021, To support national authorities making decisions on how to best use the vaccine in their territories, EMA’s human medicines committee (CHMP) analysed the benefits and the risk of very rare blood clots in different age groups in the context of different rates of infection- taking into account the pandemic situation as it evolves and other factors, such as vaccine availability, the analysis  will help in decisions of vaccine rollout. The analysis could change as new data become available.
+          -
+            !CHMP
+
+          >
+            On 29 March 2021, [Canada's National Advisory Committee on Immunization (NACI) had recommended](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/rapid-response-recommended-use-astrazeneca-covid-19-vaccine-younger-adults.html) that AstraZeneca COVID-19 vaccine should not be used in adults under 55 years of age at this time while the safety signal of Vaccine-Induced Prothrombotic Immune Thrombocytopenia (VIPIT) following vaccination with AstraZeneca COVID-19 vaccine is investigated further.
+            On 3 May 2021, NACI recommended expanding the use of the AstraZeneca-Oxford vaccine to all Canadians over the age of 30, but only when the benefits outweigh the risks of rare, serious post-vaccine blood clots.
+          -
+            !NACI
+          - See Also
+            !MenakaPai
           -
             !ThrombosisPast
             !ThrombosisRisk
-
-
 
 
 
@@ -1271,7 +1284,6 @@ subject module Vaccines
 
           / European Medicines Agency
           claim !EMAupdate = As of 07 April 2021, EMA’s safety committee (PRAC) concluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine AstraZeneca. So far, most of the cases reported have occurred in women under 60 years of age within 2 weeks of vaccination. There is limited experience with the second dose. The benefits of the vaccine continue to outweigh the risks for people who receive it.
-
             -
               'EMA_et_al_04_07_2021
               'EMA_et_al_04_07_2021.!a
@@ -1280,6 +1292,86 @@ subject module Vaccines
               'EMA_et_al_04_07_2021.!d
               'EMA_et_al_04_07_2021.!e
 
+          / The Joint Committee on Vaccination and Immunisation (JCVI)
+          claim !JCVI = The Joint Committee on Vaccination and Immunisation (JCVI) published a statement following reports of an extremely rare adverse event after vaccination with the first dose of the AstraZeneca COVID-19 vaccine. They reccommended that adults aged <30 years without underlying health conditions to be offered an alternative COVID-19 vaccine, if available. The benefits of vaccination continue to outweigh any risks.
+            -
+              'JCVI_et_al_04_07_2021
+              'JCVI_et_al_04_07_2021.!a
+              'JCVI_et_al_04_07_2021.!b
+              'JCVI_et_al_04_07_2021.!c
+              'JCVI_et_al_04_07_2021.!d
+              'JCVI_et_al_04_07_2021.!e
+              'JCVI_et_al_04_07_2021.!f
+              'JCVI_et_al_04_07_2021.!g
+              'JCVI_et_al_04_07_2021.!h
+              'JCVI_et_al_04_07_2021.!i
+
+          / Medicines and Healthcare products Regulatory Agency (MHRA)
+          claim !MHRA = MHRA made a press release concluding a possible link between COVID-19 Vaccine AstraZeneca and extremely rare, unlikely to occur blood clots. The MHRA data point to these specific blood clots being more common in younger people. The MHRA is not recommending age restrictions in COVID-19 Vaccine AstraZeneca vaccine use. The benefits of vaccination continue to outweigh any risks.
+            -
+              'MHRA_et_al_04_07_2021
+              'MHRA_et_al_04_07_2021.!a
+              'MHRA_et_al_04_07_2021.!b
+              'MHRA_et_al_04_07_2021.!c
+              'MHRA_et_al_04_07_2021.!d
+              'MHRA_et_al_04_07_2021.!e
+              'MHRA_et_al_04_07_2021.!f
+              'MHRA_et_al_04_07_2021.!g
+              'MHRA_et_al_04_07_2021.!h
+              'MHRA_et_al_04_07_2021.!i
+              'MHRA_et_al_04_07_2021.!j
+              'MHRA_et_al_04_07_2021.!k
+              'MHRA_et_al_04_07_2021.!l
+              'MHRA_et_al_04_07_2021.!m
+              'MHRA_et_al_04_07_2021.!n
+
+
+          / EMA Committee for Medicinal Products for Human Use (CHMP)
+          claim !CHMP = EMA’s human medicines committee (CHMP) analysed the benefits and the risk of unusual blood clots with low platelets in different age groups in the context of the monthly infection rate: low (55 per 100,000 people), medium (401 per 100,000 people) and high (886 per 100,000 people). The analysis along with taking into account the pandemic situation as it evolves and other factors, such as vaccine availability will help in decisions of vaccine rollout. The analysis could change as new data become available.
+            -
+              'EMA_et_al_04_23_2021
+              'EMA_et_al_04_23_2021.!a
+              'EMA_et_al_04_23_2021.!b
+
+          / Winton Centre for Risk and Evidence Communication
+          claim !Wintoncentre = There are various factors that make any decision over the Astra-Zeneca vaccine a complex one - the risk:benefit ratio varies between different people, as prevalence of the virus changes, and the availability of other potential vaccines. Our illustration of the potential harms and benefits make these complexities slightly clearer- at a low exposure (incidence of 2 in 10,000 per day - UK in March 2021). At medium exposure (incidence of 6 in 10,000 per day - UK in Feb 2021). And at high exposure (incidence of 20 in 10,000 per day - UK at the height of the second wave)
+            -
+              'WintonCentre_et_al_04_07_2021
+              'WintonCentre_et_al_04_07_2021.!a
+              'WintonCentre_et_al_04_07_2021.!b
+              'WintonCentre_et_al_04_07_2021.!c
+              'WintonCentre_et_al_04_07_2021.!d
+              'WintonCentre_et_al_04_07_2021.!e
+              'WintonCentre_et_al_04_07_2021.!f
+              'WintonCentre_et_al_04_07_2021.!g
+              'WintonCentre_et_al_04_07_2021.!h
+              'WintonCentre_et_al_04_07_2021.!i
+              'WintonCentre_et_al_04_07_2021.!j
+
+
+          / Canada's National Advisory Committee on Immunization (NACI)
+          claim !NACI = Canada's National Advisory Committee on Immunization (NACI) recommends expanding the use of the AstraZeneca-Oxford vaccine to all Canadians over the age of 30, but only when the benefits outweigh the risks of rare, serious post-vaccine blood clots. The anticipated waiting time to receive an mRNA vaccine as well as the availability of other effective personal public health measures to mitigate risk of COVID-19 are also factored.
+            -
+              'NACI_et_al_05_03_2021
+              'NACI_et_al_05_03_2021.!a
+              'NACI_et_al_05_03_2021.!b
+              'NACI_et_al_05_03_2021.!c
+              'NACI_et_al_05_03_2021.!d
+
+          / Menaka Pai on Twitter
+          claim !MenakaPai = The blood clot doctor talks about how people should weigh their risk of clots- that will help them to make good choices and be less petrified if they have already got AZ. If you’re under 50, your risk of getting VITT is between 1/50K and 1/100K - If you’re in low exposure area, your risk is low- you can wait for alternate vaccine. If you’re in a moderate risk area the scale still tips towards getting AZ instead of waiting. If you are in really high infection rate area - waiting for an alternate vaccine- puts you at larger risk- in such circumstances, AZ benefits outweigh risks. Dont really think- gender, history of clots (except HIT and maybe CSVT according to Health Canada), birth control, pregnancy, autoimmune disease, low or high platelets, family history of clots, taking blood thinners or aspirin impacts that risk.
+            -
+              'Pai_et_al_04_24_2021
+              'Pai_et_al_04_24_2021.!a
+              'Pai_et_al_04_24_2021.!b
+              'Pai_et_al_04_24_2021.!c
+              'Pai_et_al_04_24_2021.!d
+              'Pai_et_al_04_24_2021.!e
+              'Pai_et_al_04_24_2021.!f
+              'Pai_et_al_04_24_2021.!g
+              'Pai_et_al_04_24_2021.!h
+              'Pai_et_al_04_24_2021.!i
+              'Pai_et_al_04_24_2021.!j
 
 
           / Thrombotic Thrombocytopenia Reports
@@ -1415,6 +1507,9 @@ subject module Vaccines
           -
             'EMA_et_al_04_07_2021
             'EMA_et_al_04_07_2021.!d
+          -
+            'MHRA_et_al_04_07_2021
+            'MHRA_et_al_04_07_2021.!n
 
         / Treatment Approach
         claim !Treatmentapproach = Case studies of Thrombotic Thrombocytopenia after ChAdOx1 nCov-19 and Ad26.COV2.S Vaccination found that inhibition of platelet activation by intravenous immune globulin paralleled its efficacy in the treatment of autoimmune heparin-induced thrombocytopenia. In this setting, administration of heparin may be dangerous. Non‐APTT‐adjusted therapies with drugs such as danaparoid and fondaparinux, or even direct oral anticoagulants, such as rivaroxaban or apixaban, are suggested therapies, especially for long‐term management of persisting HIT.
@@ -1511,7 +1606,7 @@ subject module Vaccines
           'AstraZeneca_et_al_03_25_2021.!c
           'AstraZeneca_et_al_03_25_2021.!d
 
-      / Vaccine against the B.1.351 variant
+      / Vaccine efficacy against the B.1.351 variant
       claim !Vaccineefficacy = A study conducted on 2026 HIV-negative adults in South Africa found that two doses of the ChAdOx1 nCoV-19 vaccine had no efficacy against the B.1.351 variant in preventing mild-to-moderate Covid-19.
         -
           'Madhi_et_al_03_16_2021
