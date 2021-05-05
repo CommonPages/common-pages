@@ -49,7 +49,7 @@ feed Sangeeta
     quote !a =
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  // Menaka Pai, MSc MD FRCPC: on NACI advice on AZ vaccine - is it ok for 30+ ?- She explains how people should weigh their risk of clots to make good choices and be less petrified if they have already got AZ.
   doi: https://twitter.com/MPaiMD/status/1385741537221480449
   ref 'Pai_et_al_04_24_2021
     head = So you read today’s NACI advice - AZ ok if you’re 30+! Unless you can wait for mRNA Syringe! And then you read the MANY hot takes from experts, non-experts, and para-experts. And you are SCARED. Disclaimer: I’m a blood clot doctor. I am not a public health expert. Or an ID doc. But you wouldn’t believe how much I talk to people about weighing their risk of clots. (So much.) I can help you make good choices for you (and be less petrified if you just got AZ yesterday.)
