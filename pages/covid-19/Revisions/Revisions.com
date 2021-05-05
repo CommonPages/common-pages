@@ -17,7 +17,7 @@ revision feed Revisions
   public: May-5-2021
   / May 5, 2021
   revision May_05
-    head = We've updated the Reccomendation section for Oxford–AstraZeneca use by The Joint Committee on Vaccination and Immunisation (JCVI- UK), Medicines and Healthcare products Regulatory Agency (MHRA), European Medicines Agency's (EMA),and Canada's National Advisory Committee on Immunization (NACI) upon concluding that there is a possible link between COVID-19 Vaccine AstraZeneca and extremely rare, unlikely to occur blood clots.
+    head = We've updated the Reccomendation section for Oxford–AstraZeneca use by The Joint Committee on Vaccination and Immunisation (JCVI- UK), Medicines and Healthcare products Regulatory Agency (MHRA), European Medicines Agency's (EMA),and Canada's National Advisory Committee on Immunization (NACI) upon concluding that there is a possible link between COVID-19 Vaccine AstraZeneca and extremely rare blood clots.
 
     >
       On 3 May 2021, NACI recommended expanding the use of the AstraZeneca-Oxford vaccine to all Canadians over the age of 30, but only when the benefits outweigh the risks of rare, serious post-vaccine blood clots.
