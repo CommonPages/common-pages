@@ -4,27 +4,27 @@ revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
   let *May_10 mean May_10
-  let *May_05 mean May_05
+  let *May_5 mean May_5
   let *April_30 mean April_30
-  let *April_29 mean April_29
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_10, *May_05, *April_30 and *April_29). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_10, *May_5 and *April_30). You can *contribute by sending corrections and responding to open questions.
 
 
   public: May-10-2021
   / May 10, 2021
   revision May_10
-    head = We have updated the variant section on B.1.617 (Identified in India). VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021- it is at least as transmissible as B.1.1.7 (the Kent variant), there are insufficient data currently to assess the potential for immune escape. Almost half the cases in the UK (B.1.617.2) variant are related to travel or contact with a traveller. The other variants detected in India, VUI-21APR-01 and VUI-21APR-03 are not VOCs. B.1.617 evaded antibodies induced by infection or BNT162b2 vaccination, although with moderate efficiency. 
+    head = We have updated the variant section on B.1.617 (Identified in India). VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021; it is at least as transmissible as B.1.1.7 (the Kent variant). There are insufficient data currently to assess the potential for immune escape. Almost half the cases in the UK (B.1.617.2) variant are related to travel or contact with a traveller. The other variants detected in India, VUI-21APR-01 and VUI-21APR-03 are not VOCs. B.1.617 evaded antibodies induced by infection or BNT162b2 vaccination, although with moderate efficiency.
+
     -
       Variants.B1617.!B16172
       Variants.B1617.!Antibodyevasion
       Variants.B1617
 
     >
-      On May 7 2021, The Joint Committee on Vaccination and Immunisation (JCVI) issued advice to the UK government on the use of the COVID-19 Oxford/AstraZeneca vaccine for people aged under 40- to receive an alternative to the Oxford/AstraZeneca vaccine – where available and only if this does not cause substantial delays in being vaccinated.
+      On May 7 2021, The Joint Committee on Vaccination and Immunisation (JCVI) issued advice to the UK government on the use of the COVID-19 Oxford/AstraZeneca vaccine for people aged under 40 to receive an alternative to the Oxford/AstraZeneca vaccine where available and only if this does not cause substantial delays in being vaccinated.
     -
       Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!JCVIMay7
 
@@ -37,7 +37,7 @@ revision feed Revisions
 
   public: May-5-2021
   / May 5, 2021
-  revision May_05
+  revision May_5
     head = We've updated the recommendation section for Oxford–AstraZeneca use following updates from the Joint Committee on Vaccination and Immunisation (JCVI-UK), Medicines and Healthcare products Regulatory Agency (MHRA), European Medicines Agency's (EMA), and Canada's National Advisory Committee on Immunization (NACI). These agencies have concluded that there is a possible link between COVID-19 Vaccine AstraZeneca and extremely rare blood clots.
 
     >
