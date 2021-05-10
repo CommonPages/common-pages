@@ -1672,7 +1672,7 @@ subject module Variants
 
   / B.1.617 (Identified in India)
   subject B1617
-    head = B.1.617.1 variant first detected in India was designated under investigation on 1 April 2021 as VUI-21APR-01. So far 21 countries have detected the B.1.617 variant, most of which have been reported from India. The continuous increase  could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.2,and B.1.617.3. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.
+    head = B.1.617.1 variant first detected in India was designated under investigation on 1 April 2021 as VUI-21APR-01.The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.2,and B.1.617.3. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is at least as transmissible as B.1.1.7 (the Kent variant), there are insufficient data currently to assess the potential for immune escape. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. One study found B.1.617 evaded antibodies induced by infection or BNT162b2 vaccination, although with moderate efficiency. 
 
     >
       <table>
@@ -1712,13 +1712,16 @@ subject module Variants
 
     -
       !UK
-    -
+      !3Clades
+      !B16172
+    - Transmission
       !Transmission
+      !Antibodyevasion
+      !Fastspread
     - Vaccine related claims
       Vaccines.Approved.BBV152.!2foldNeutralizingdropB1617
     -
       !Mutations
-      !3Clades
     >
       Of these, the mutations at residue positions 452, 484 and 681 have been reported in other globally circulating lineages. Mutations at both the residue positions 452 and 484 individually have been reported earlier.
       {CAL20C.!California L452R} has been noted in California lineages B.1.427/B.1.429 while {B1351.!E484K E484K mutation} is common to the three VOCs having global impact. E484Q has also been reported in several sequences in the GISAID with the earliest strain noted in Denmark. {B117.!P681HFurin P681H} is one of the mutations in the UK-variant B.1.1.7 while P681R is one of the mutations in the VUI lineage A.23.1.
@@ -1743,11 +1746,42 @@ subject module Variants
         'PHE_et_al_04_22_2021.!i
         'PHE_et_al_04_22_2021.!j
 
+
+    / B.1.617.2 (VOC-21APR-02)
+    claim !B16172 = Following a rise in cases in the UK and evidence of community transmission, PHE has reclassified VUI-21APR-02 (B.1.617.2) as a Variant of Concern (VOC), now known as VOC-21APR-02 on 6 May 2021. This is based on evidence which suggests this variant, first detected in India, is at least as transmissible as B.1.1.7 (the Kent variant). There are insufficient data currently to assess the potential for immune escape. Almost half the cases in the UK are related to travel or contact with a traveller.
+      -
+        'PHE_et_al_05_07_2021
+        'PHE_et_al_05_07_2021.!a
+        'PHE_et_al_05_07_2021.!b
+        'PHE_et_al_05_07_2021.!c
+        'PHE_et_al_05_07_2021.!d
+        'PHE_et_al_05_07_2021.!e
+        'PHE_et_al_05_07_2021.!f
+        'PHE_et_al_05_07_2021.!g
+        'PHE_et_al_05_07_2021.!h
+        'PHE_et_al_05_07_2021.!i
+        'PHE_et_al_05_07_2021.!j
+        'PHE_et_al_05_07_2021.!k
+
+      -
+        'GovUK_et_al_05_07_2021
+        'GovUK_et_al_05_07_2021.!a
+        'GovUK_et_al_05_07_2021.!b
+        'GovUK_et_al_05_07_2021.!c
+
     / Transmission
     claim !Transmission = B.1.617.1 is designated VUI-21APR-01 on the basis of the mutation profile and apparent successful transmission and spread.
       -
         'PHE_et_al_04_22_2021
         'PHE_et_al_04_22_2021.!d
+
+    / Fast Spread
+    claim !Fastspread = One study results suggest that although B.1.617 may be able to evade control by antibodies, to some extent other factors might contribute to its fast spread, including a potential fitness benefit or reduced adherence to COVID-19 protection measures (e.g. mask wearing and social distancing).
+      -
+        'Hoffmann_et_al_05_05_2021
+        'Hoffmann_et_al_05_05_2021.!a
+        'Hoffmann_et_al_05_05_2021.!b
+        'Hoffmann_et_al_05_05_2021.!c
 
     / Mutations
     claim !Mutations = Investigations on the S protein mutations associated with the COVID-19 cases in Maharashtra observed since the month of February 2021 - The continuous increase in positivity could be attributed to signature mutations in the spike protein and functionally significant co-occurring triple mutations (L452R, E484Q, P681R). The unique combination of mutations L452R, E484Q and P681R noted is an indication of convergent evolution.
@@ -1786,6 +1820,10 @@ subject module Variants
         'PHE_et_al_04_22_2021
         'PHE_et_al_04_22_2021.!h
 
-
+    / Antibody Evasion
+    claim !Antibodyevasion = One study revealed that Bamlanivimab, a recombinant antibody with EUA did not inhibit entry driven by the B.1.617 S protein and evidence for moderate evasion of antibodies induced by infection and Comirnaty/BNT162b2 vaccination was obtained.
+      -
+        'Hoffmann_et_al_05_05_2021
+        'Hoffmann_et_al_05_05_2021.!b
 
   question ?Antibodies = Whether these mutations render preexisting antibodies ineffective has become a public concern, as it could result in reinfection or loss of vaccine efficacy. To what extent a person infected by one strain is protected against infection of another strain? What evidence exists as to the efficacy of vaccines against each variant?

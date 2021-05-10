@@ -141,9 +141,16 @@ index: hide
 
 
 
+  ###### 05/09/2021 ######
+
+  >
+    A variant first detected in India was designated under investigation on 1 April 2021 as VUI-21APR-01 (B.1.617.1). VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. VUI-21APR-03 (B.1.617.3) was designated variant under investigation on 27 April 2021. B.1.617.2 has spread rapidly in India based on available data. There have been multiple importations to the UK and onwards transmission within the UK. B.1.617.2 is at least as transmissible as B.1.1.7 (the Kent variant). There are insufficient data currently to assess the potential for immune escape.The current evidence suggests that the other variants detected in India, VUI-21APR-01 and VUI-21APR-03 are not VOCs.
+    VUI-21APR-02 (B.1.617.2) was escalated to a variant of concern on 6 May 2021 (VOC21APR-02).
 
 
 
+  >
+    The spread of variant B.1.617 in India might be partially due to increased fitness of this variant, i.e. an increased ability to amplify in patients and to be transmitted between patients.
 
 
 

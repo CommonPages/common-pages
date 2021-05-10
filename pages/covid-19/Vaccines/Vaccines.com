@@ -1159,11 +1159,11 @@ subject module Vaccines
           'Madhi_et_al_02_12_2021.!c
 
       / Thrombotic Thrombocytopenia (Blood Clots)
-      claim !ThromboticThrombocytopenia = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19 and Ad26.COV2.S vaccine (Johnson & Johnson/Janssen) suggesting a disorder that clinically resembles severe heparin-induced thrombocytopenia. One study indicated it is the adenovirus vector-based vaccines (ChAdOx1 nCoV-19 vaccine) that are at risk of inducing vaccine-induced immune thrombotic thrombocytopenia (VITT) through adenovirus and/or other PF4-DNA interactions. One case report of a patient (Ad26.COV2.S vaccine) suggests that the rare occurrence of  VITT could be related to adenoviral vector vaccines. However, the manufacturers of Ad26.COV2.S vaccine have argued that that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different. European Medicines Agency's (EMA) safety committee (PRAC) concluded that a warning about unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine AstraZeneca and COVID-19 Vaccine Janssen. EMA confirms overall benefit-risk remains positive.
+      claim !ThromboticThrombocytopenia = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19 and Ad26.COV2.S vaccine (Johnson & Johnson/Janssen) suggesting a disorder that clinically resembles severe heparin-induced thrombocytopenia. One study indicated it is the adenovirus vector-based vaccines (ChAdOx1 nCoV-19 vaccine) that are at risk of inducing vaccine-induced immune thrombotic thrombocytopenia (VITT) through adenovirus and/or other PF4-DNA interactions. One case report (Ad26.COV2.S vaccine) suggests that the rare occurrence of  VITT could be related to adenoviral vector vaccines. However, the manufacturers of Ad26.COV2.S vaccine have argued that that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different. European Medicines Agency's (EMA) concluded that a warning about unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine AstraZeneca and Johnson & Johnson/Janssen. On 3 May 2021, NACI recommended the use of the AstraZeneca-Oxford vaccine to all Canadians over the age of 30, but only when the benefits outweigh the risks of rare blood clots. On May 7 2021, JCVI issued advice to the UK government for people aged under 40- to receive an alternative to the Oxford/AstraZeneca vaccine – where available. They all confirm overall benefit-risk remains positive.
 
         / Oxford–AstraZeneca
         subject ChAdOx1nCoV-19
-          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Couple of reports concluded that vaccination with the ChAdOx1 nCoV-19 vaccine may lead to rare thrombotic thrombocytopenia, infact one study indicated it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. However, one study results showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. As of 7 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded that a warning about unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine AstraZeneca. EMA confirms overall benefit-risk remains positive.
+          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Couple of reports concluded that vaccination with the ChAdOx1 nCoV-19 vaccine may lead to rare thrombotic thrombocytopenia, infact one study indicated it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. However, one study results showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. As of 7 April 2021, EMA concluded that a warning about unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine AstraZeneca. On 3 May 2021, NACI recommended the use of the AstraZeneca-Oxford vaccine to all Canadians over the age of 30, but only when the benefits outweigh the risks of rare blood clots. On May 7 2021, JCVI issued advice to the UK government for people aged under 40- to receive an alternative to the Oxford/AstraZeneca vaccine – where available. They all confirm overall benefit-risk remains positive.
 
           >
             In September of 2020, [clinical crials](https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/) of the AstraZeneca vaccine were put on hold in the US because of suspected adverse reactions. However, trials were [resumed](https://www.astrazeneca.com/media-centre/press-releases/2020/fda-authorises-restart-of-the-covid-19-azd1222-vaccine-us-phase-iii-trial.html) in October of 2020. In December of 2020, data reported from {Research.Sangeeta.'Voysey_et_al_12_08_2020 AstraZeneca’s clinical trials}, involving 24,000 people, found four thromboembolic events occurred in people given the vaccine.
@@ -1216,6 +1216,12 @@ subject module Vaccines
           -
             !ThrombosisPast
             !ThrombosisRisk
+
+          >
+            On May 7 2021, The Joint Committee on Vaccination and Immunisation (JCVI) issued advice to the UK government on the use of the COVID-19 Oxford/AstraZeneca vaccine for people aged under 40- to receive an alternative to the Oxford/AstraZeneca vaccine – where available and only if this does not cause substantial delays in being vaccinated. This follows the decision on {!JCVI 7 April} to offer a preference for adults aged under 30.
+          -
+            !JCVIMay7
+
 
 
 
@@ -1373,6 +1379,17 @@ subject module Vaccines
               'Pai_et_al_04_24_2021.!i
               'Pai_et_al_04_24_2021.!j
 
+          / JCVI Advice on COVID-19 vaccine for people aged under 40
+          claim !JCVIMay7 = On May 7 2021, The Joint Committee on Vaccination and Immunisation (JCVI) have issued advice to the UK government - a preference for adults aged 30 to 39 without underlying health conditions to receive an alternative to the Oxford/AstraZeneca vaccine – where available and only if this does not cause substantial delays in being vaccinated. This follows the decision on 7 April to offer a preference for adults aged under 30.
+
+            -
+              'GOVUK_et_al_05_07_2021
+              'GOVUK_et_al_05_07_2021.!a
+              'GOVUK_et_al_05_07_2021.!b
+              'GOVUK_et_al_05_07_2021.!c
+              'GOVUK_et_al_05_07_2021.!d
+              'GOVUK_et_al_05_07_2021.!e
+
 
           / Thrombotic Thrombocytopenia Reports
           claim !ThromboticThrombocytopeniareports = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Couple of reports concluded that vaccination with the ChAdOx1 nCoV-19 vaccine may lead to rare thrombotic thrombocytopenia, infact one study indicated it is the adenovirus vector-based vaccines that are at risk of inducing VITT through adenovirus and/or other PF4-DNA interactions. However, one study results showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. More data were needed on the pathogenesis of this unusual clotting disorder.
@@ -1444,6 +1461,7 @@ subject module Vaccines
           -
             !Casereport
             !Argument
+            !Casereport2
           >
             At its meeting of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) cconcluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine Janssen. All cases occurred in people under 60 years of age within three weeks after vaccination, the majority in women. EMA confirms overall benefit-risk remains positive.
           -
@@ -1461,7 +1479,7 @@ subject module Vaccines
               'Marks_et_al_04_13_2021.!e
 
 
-          / Case Report
+          / Case Reports
           claim !Casereport = One case study of extensive thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation that resembled autoimmune heparin-induced thrombocytopenia in a patient who had received the Ad26.COV2.S vaccine (Johnson & Johnson/Janssen). The case suggests that the rare occurrence of vaccine-induced immune thrombotic thrombocytopenia could be related to adenoviral vector vaccines.
             -
               'Muir_et_al_04_14_2021
@@ -1481,6 +1499,14 @@ subject module Vaccines
               'Sadoff_et_al_04_16_2021.!e
               'Sadoff_et_al_04_16_2021.!f
 
+          claim !Casereport2 = One case series describes the first 12 reported cases of CVST with thrombocytopenia following Ad26.COV2.S vaccination in the US. The clinical presentation and laboratory features were similar to those seen in Europe after ChAdOx1 nCoV-19 vaccine. All were women, younger than 60 years, and had symptom onset ranging from 6 to 15 days after vaccination requiring hospitalization. Of 11 patients with heparin-platelet factor 4 enzyme-linked immunosorbent assay (ELISA) heparin-induced thrombocytopenia (HIT) antibody test results, all were positive.
+          -
+            'See_et_al_04_30_2021
+            'See_et_al_04_30_2021.!a
+            'See_et_al_04_30_2021.!b
+            'See_et_al_04_30_2021.!c
+            'See_et_al_04_30_2021.!d
+
 
           / European Medicines Agency
           claim !EMA = At its meeting of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) cconcluded that unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine Janssen. All cases occurred in people under 60 years of age within three weeks after vaccination, the majority in women. There is limited experience with the second dose. The benefits of the vaccine continue to outweigh the risks for people who receive it.
@@ -1497,7 +1523,7 @@ subject module Vaccines
 
 
         / Medical Evaluation for VITT
-        claim !Medicalevaluation = Healthcare professionals should tell people receiving the vaccine that they must seek medical attention if they develop: symptoms of blood clots such as shortness of breath, chest pain, leg swelling, persistent abdominal pain neurological symptoms such as severe and persistent headaches and blurred vision, tiny blood spots under the skin beyond the site of the injection.
+        claim !Medicalevaluation = As a precautionary measure, anyone who has the following symptoms from around 4 days to 4 weeks after vaccination is advised to seek prompt medical advice: symptoms of blood clots such as shortness of breath, chest pain, leg swelling, persistent abdominal pain, neurological symptoms such as severe and persistent headaches and blurred vision, problems speaking, weakness, drowsiness or seizures, tiny blood spots under the skin beyond the site of the injection.
           -
             'EMA_et_al_04_20_2021
             'EMA_et_al_04_20_2021.!e
@@ -1510,9 +1536,12 @@ subject module Vaccines
           -
             'MHRA_et_al_04_07_2021
             'MHRA_et_al_04_07_2021.!n
+          -
+            'GOVUK_et_al_05_07_2021
+            'GOVUK_et_al_05_07_2021.!e
 
         / Treatment Approach
-        claim !Treatmentapproach = Case studies of Thrombotic Thrombocytopenia after ChAdOx1 nCov-19 and Ad26.COV2.S Vaccination found that inhibition of platelet activation by intravenous immune globulin paralleled its efficacy in the treatment of autoimmune heparin-induced thrombocytopenia. In this setting, administration of heparin may be dangerous. Non‐APTT‐adjusted therapies with drugs such as danaparoid and fondaparinux, or even direct oral anticoagulants, such as rivaroxaban or apixaban, are suggested therapies, especially for long‐term management of persisting HIT.
+        claim !Treatmentapproach = Case studies of Thrombotic Thrombocytopenia after ChAdOx1 nCov-19 and Ad26.COV2.S Vaccination found that inhibition of platelet activation by intravenous immune globulin paralleled its efficacy in the treatment of autoimmune heparin-induced thrombocytopenia. Administration of heparin may be dangerous. Non‐APTT‐adjusted therapies (danaparoid and fondaparinux), or even direct oral anticoagulants (rivaroxaban or apixaban) are suggested therapies. One study found that the serum from patients with VITT activates platelets via the FcγRIIA, which can be blocked in vitro by anti-platelet therapies. A possible role for prophylactic treatment with aspirin following vaccination. However, with the rarity of the syndrome, the risk of such widespread aspirin usage may cause harms. Aspirin or ticagrelor use is not currently recommended in patients with confirmed VITT.
 
           / Intravenous Immunoglobulin
           claim !IntravenousImmunoglobulin = Case studies of Thrombotic Thrombocytopenia after ChAdOx1 nCov-19 and Ad26.COV2.S Vaccination found that inhibition of platelet activation by intravenous immune globulin paralleled its efficacy in the treatment of autoimmune heparin-induced thrombocytopenia. Past studies have also shown that High-dose IVIG appears to rapidly inhibit HIT antibody-induced platelet activation and has the potential to become an important treatment adjunct for HIT, particularly in patients with aHIT.
@@ -1528,6 +1557,14 @@ subject module Vaccines
             -
               'Scully_et_al_04_16_2021
               'Scully_et_al_04_16_2021.!d
+
+
+          claim !IVIg = One study results showed Serum from patients with VITT induced platelet aggregation, which was abrogated following IVIg treatment. Aggregation to patient sera was blocked by IV.3 F(ab) which targets FcγRIIA, and inhibitors of Src (dasatinib), Syk (entospletinib) and Btk kinases downstream of the receptor (ibrutinib and rilzabrutinib). Anti-platelet therapies COX (indomethacin) and P2Y12 (ticagrelor) also blocked aggregation.
+            -
+              'Smith_et_al_04_27_2021
+              'Smith_et_al_04_27_2021.!a
+              'Smith_et_al_04_27_2021.!b
+              'Smith_et_al_04_27_2021.!c
 
 
             claim !PaststudiesIntravenousImmunoglobulin = A literature review describing the scientific rationale for the use of high-dose intravenous immunoglobulin (IVIG) found that High-dose IVIG appears to rapidly inhibit HIT antibody-induced platelet activation and has the potential to become an important treatment adjunct for HIT, particularly in patients with aHIT.
@@ -1556,6 +1593,12 @@ subject module Vaccines
               'Schultz_et_al_04_09_2021
               'Schultz_et_al_04_09_2021.!e
 
+          / Aspirin
+          claim !Aspirin = In vitro findings in one study suggest a possible role for prophylactic treatment with aspirin (COX inhibitor) following  vaccination. However, with the rarity of the syndrome, the risk of such widespread aspirin usage may cause harms - due to the increased risk of bleeding - that outweigh any theoretical benefit. Aspirin or ticagrelor use is not currently recommended in patients with confirmed VITT.
+          -
+            'Smith_et_al_04_27_2021
+            'Smith_et_al_04_27_2021.!b
+            'Smith_et_al_04_27_2021.!c
 
 
         /  Predictive Biomarker Signatures

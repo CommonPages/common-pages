@@ -12,7 +12,6 @@ feed Sangeeta
     quote !a =
 
   #
-
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2021
@@ -21,20 +20,7 @@ feed Sangeeta
     - quotes
       !a
 
-    / April, 2021 - JAMA Netw Open.
-    quote !a =
-
-  #
-
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
-
-    - quotes
-      !a
-
-    / April, 2021 - JAMA Netw Open.
+    / May, 2021 - JAMA Netw Open.
     quote !a =
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -45,11 +31,357 @@ feed Sangeeta
     - quotes
       !a
 
-    / April, 2021 - JAMA Netw Open.
+    / May, 2021 - JAMA Netw Open.
     quote !a =
 
   #
-  // Menaka Pai, MSc MD FRCPC: on NACI advice on AZ vaccine - is it ok for 30+ ?- She explains how people should weigh their risk of clots to make good choices and be less petrified if they have already got AZ.
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Vaccination boosts naturally enhanced neutralizing breadth to SARS-CoV-2 one year after infection
+  doi: https://doi.org/10.1101/2021.05.07.443175
+  ref 'Wang_et_al_05_09_2021
+    head = We report on a cohort of 63 COVID-19-convalescent individuals assessed at 1.3, 6.2 and 12 months after infection, 41% of whom also received mRNA vaccines.
+
+    > Abstract
+      Over one year after its inception, the coronavirus disease-2019 (COVID-19) pandemic caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) remains difficult to control despite the availability of several excellent vaccines. Progress in controlling the pandemic is slowed by the emergence of variants that appear to be more transmissible and more resistant to antibodies. Here we report on a cohort of 63 COVID-19-convalescent individuals assessed at 1.3, 6.2 and 12 months after infection, 41% of whom also received mRNA vaccines. In the absence of vaccination antibody reactivity to the receptor binding domain (RBD) of SARS-CoV-2, neutralizing activity and the number of RBD-specific memory B cells remain relatively stable from 6 to 12 months. Vaccination increases all components of the humoral response, and as expected, results in serum neutralizing activities against variants of concern that are comparable to or greater than neutralizing activity against the original Wuhan Hu-1 achieved by vaccination of naive individuals. The mechanism underlying these broad-based responses involves ongoing antibody somatic mutation, memory B cell clonal turnover, and development of monoclonal antibodies that are exceptionally resistant to SARS-CoV-2 RBD mutations, including those found in variants of concern. In addition, B cell clones expressing broad and potent antibodies are selectively retained in the repertoire over time and expand dramatically after vaccination. The data suggest that immunity in convalescent individuals will be very long lasting and that convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants. Should memory responses evolve in a similar manner in vaccinated individuals, additional appropriately timed boosting with available vaccines could cover most circulating variants of concern.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+      !l
+      !m
+
+
+    # / May, 2021 - bioRxiv
+    # quote !a = The data suggest that immunity in convalescent individuals will be very long lasting and that convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants.
+
+    / May, 2021 - bioRxiv
+    quote !a = The remarkable evolution of breadth after infection and the robust enhancement of serologic responses and B cell memory achieved with mRNA vaccination suggests that convalescent individuals who are vaccinated should enjoy high levels of protection against emerging variants without a need to modify existing vaccines.
+
+    / May, 2021 - bioRxiv
+    quote !b = Vaccination increases all components of the humoral response, and as expected, results in serum neutralizing activities against variants of concern that are comparable to or greater than neutralizing activity against the original Wuhan Hu-1 achieved by vaccination of naive individuals. The mechanism underlying these broad-based responses involves ongoing antibody somatic mutation, memory B cell clonal turnover, and development of monoclonal antibodies that are exceptionally resistant to SARS-CoV-2 RBD mutations, including those found in variants of concern.
+
+    / May, 2021 - bioRxiv
+    quote !c = Vaccination results in serum neutralizing activities against variants of concern that are comparable to or greater than neutralizing activity against the original Wuhan Hu-1 achieved by vaccination of naïve individuals.
+
+    / May, 2021 - bioRxiv
+    quote !d = In the absence of vaccination antibody reactivity to the receptor binding domain (RBD) of SARS-CoV-2, neutralizing activity and the number of RBD-specific memory B cells remain relatively stable from 6 to 12 months.
+
+    / May, 2021 - bioRxiv
+    quote !e = In addition, B cell clones expressing broad and potent antibodies are selectively retained in the repertoire over time and expand dramatically after vaccination.
+
+    / May, 2021 - bioRxiv
+    quote !f = Should memory responses evolve in a similar manner in vaccinated individuals, additional appropriately timed boosting with available vaccines could cover most circulating variants of concern.
+
+    / May, 2021 - bioRxiv
+    quote !g = We found that the individuals that had not been vaccinated maintained their anti-RBD IgG, IgM titers between 6 and 12 months, with a slightly decrease in IgA titers. While vaccination significantly increases all components of the humoral response
+
+    / May, 2021 - bioRxiv
+    quote !h = We found that the number of RBD specific memory B cells was slightly decreased between 6m to 12m in the unvaccinated individuals, but it was increased more than 8 times in vaccination group.
+
+    / May, 2021 - bioRxiv
+    quote !i = The overall increase in neutralizing activity among conserved clones was due to accumulation of clones expressing antibodies with potent neutralizing activity and simultaneous loss of clones expressing antibodies with no measurable activity.
+
+    / May, 2021 - bioRxiv
+    quote !j = We found that continued clonal evolution of anti-SARS-CoV-2 antibodies over 12 months favors increasing potency and breadth resulting in monoclonal antibodies with exceptional activity against a broad group of variants.
+
+    / May, 2021 - bioRxiv
+    quote !k = We found different binding patterns between neutralizing and non-neutralizing antibodies. We conclude that neutralizing antibodies are retained and non-neutralizing antibodies targeting RBD surfaces that do not interact with ACE2 are removed from the repertoire over time.
+
+    / May, 2021 - bioRxiv
+    quote !l = Antibody affinity for RBD were similar among neutralizers and non-neutralizers at two timepoints. Although the differences were small, both neutralizers and non-neutralizers showed increased affinity over time.
+
+    / May, 2021 - bioRxiv
+    quote !m = Increased activity was evident against a panel of RBD mutants covering residues associated with circulating variants of concern: K417N, N440K, A475V, E484K and N501Y.
+
+
+
+
+  #
+  // Platelet Activation by Vaccine-Induced Immune Thrombotic Thrombocytopenia (VITT) Patient Serum is Blocked by COX, P2Y12 and Kinase Inhibitors
+  doi: https://doi.org/10.1101/2021.04.24.21255655
+  ref 'Smith_et_al_04_27_2021
+    head = Aggregation responses of healthy donor washed platelets were assessed in response to serum from patients with VITT pre- and post-intravenous immunoglobulin (IVIg) treatment and in the presence of anti-FcγRIIA blocking IV.3 F(ab), anti-platelet drugs and kinase inhibitors.
+
+    > Background
+      The novel coronavirus SARS-CoV-2 has caused a global pandemic. Vaccines are an important part of the response. Although rare, unusual thrombotic events and thrombocytopenia in recipients 4–16 days after vaccination with the AstraZeneca AZD1222 have been reported. This syndrome of vaccine-induced immune thrombotic thrombocytopenia (VITT) clinically resembles heparin induced thrombocytopenia (HIT), which is caused by platelet activating antibodies against platelet factor 4 (PF4). Here, we investigate the effect of serum from patients with VITT on platelet activation, and assess the ability of clinically available therapeutics to prevent platelet activation.
+
+    > Methods
+      Aggregation responses of healthy donor washed platelets were assessed in response to serum from patients with VITT pre- and post-intravenous immunoglobulin (IVIg) treatment and in the presence of anti-FcγRIIA blocking IV.3 F(ab), anti-platelet drugs and kinase inhibitors.
+
+    > Findings
+      Four patients (21 - 48 years old) presented with thrombosis (three patients: cerebral venous sinus thrombosis, one patient: ischemic stroke) and thrombocytopenia 10-14 days after AZD1222 vaccination. All patients tested positive for anti-PF4 antibody despite no prior heparin exposure. Serum from patients with VITT, but not healthy donor controls, induced platelet aggregation, which was abrogated following IVIg treatment. Aggregation to patient sera was blocked by IV.3 F(ab) which targets FcγRIIA, and inhibitors of Src, Syk and Btk kinases downstream of the receptor. Anti-platelet therapies indomethacin and ticagrelor also blocked aggregation.
+
+    > Interpretation
+      In conclusion, serum from patients with VITT activates platelets via the FcγRIIA, which can be blocked in vitro by anti-platelet therapies suggesting possible new therapeutic interventions for this rare syndrome.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / April, 2021 - medRxiv
+    quote !a = Serum from patients with VITT, but not healthy donor controls, induced platelet aggregation, which was abrogated following IVIg treatment. Aggregation to patient sera was blocked by IV.3 F(ab) which targets FcγRIIA, and inhibitors of Src (dasatinib), Syk (entospletinib) and Btk kinases downstream of the receptor (ibrutinib and rilzabrutinib). Anti-platelet therapies COX (indomethacin) and P2Y12 (ticagrelor) also blocked aggregation.
+
+    / April, 2021 - medRxiv
+    quote !b = These in vitro findings, suggest that prophylaxis in at risk groups with commonly used anti-platelet agents such as aspirin may potentially be able to reduce the impact of VITT and that tyrosine kinase inhibitors may be a treatment for clinically manifest VITT in addition to the current management intervention with corticosteroids and IVIg. These strategies, however, require further study.
+
+    / April, 2021 - medRxiv
+    quote !c = However, with the rarity of the syndrome, the risk of such widespread aspirin usage may cause harms - due to the increased risk of bleeding - that outweigh any theoretical benefit. Aspirin or ticagrelor use is not currently recommended in patients with confirmed VITT due to the already increased bleeding risk associated with the initial thrombocytopenia, reduced fibrinogen and secondary bleeding from CVST.
+
+    # / April, 2021 - medRxiv
+    # quote !a = Platelet aggregation can be abolished by direct blockade of FcγRIIA with IV.3 F(ab) or IVIg, or through inhibition of its downstream signalling kinases. Anti-platelet drugs targeting secondary mediator pathways of platelet activation also prevented aggregation.
+
+    # / April, 2021 - medRxiv
+    # quote !a = In patients with confirmed VITT, treatment with the Btk inhibitor rilzabrutinib may be a viable alternative. Rilzabrutinib is currently undergoing phase III clinical trials as a treatment to restore platelet counts in immune thrombocytopenia (ITP) with no reports of bleeding or thrombotic events.
+    #
+    # / April, 2021 - medRxiv
+    # quote !a = Fostamatinib has been used clinically to treat ITP without causing bleeding (and lowering rates of thrombosis).
+    #
+    # / April, 2021 - medRxiv
+    # quote !a = Entospletinib, although not associated with bleeding, is not yet in routine use outside of clinical trials and has not been specifically used in thrombocytopenic patients.
+
+
+  #
+  // US Case Reports of Cerebral Venous Sinus Thrombosis With Thrombocytopenia After Ad26.COV2.S Vaccination, March 2 to April 21, 2021
+  doi: https://doi.org/10.1001/jama.2021.7517
+  ref 'See_et_al_04_30_2021
+    head = Case series of 12 US patients with CVST and thrombocytopenia following use of Ad26.COV2.S vaccine under EUA reported to the Vaccine Adverse Event Reporting System (VAERS) from March 2 to April 21, 2021 (with follow-up reported through April 21, 2021).
+
+    > Importance
+      Cerebral venous sinus thrombosis (CVST) with thrombocytopenia, a rare and serious condition, has been described in Europe following receipt of the ChAdOx1 nCoV-19 vaccine (Oxford/AstraZeneca), which uses a chimpanzee adenoviral vector. A mechanism similar to autoimmune heparin-induced thrombocytopenia (HIT) has been proposed. In the US, the Ad26.COV2.S COVID-19 vaccine (Janssen/Johnson & Johnson), which uses a human adenoviral vector, received Emergency Use Authorization (EUA) on February 27, 2021. By April 12, 2021, approximately 7 million Ad26.COV2.S vaccine doses had been given in the US, and 6 cases of CVST with thrombocytopenia had been identified among the recipients, resulting in a temporary national pause in vaccination with this product on April 13, 2021.
+
+    > Objective
+      To describe reports of CVST with thrombocytopenia following Ad26.COV2.S vaccine receipt.
+
+    > Design, Setting, and Participants
+      Case series of 12 US patients with CVST and thrombocytopenia following use of Ad26.COV2.S vaccine under EUA reported to the Vaccine Adverse Event Reporting System (VAERS) from March 2 to April 21, 2021 (with follow-up reported through April 21, 2021).
+
+    > Exposures
+      Receipt of Ad26.COV2.S vaccine.
+
+    > Main Outcomes and Measures
+      Clinical course, imaging, laboratory tests, and outcomes after CVST diagnosis obtained from VAERS reports, medical record review, and discussion with clinicians.
+
+    > Results
+      Patients’ ages ranged from 18 to younger than 60 years; all were White women, reported from 11 states. Seven patients had at least 1 CVST risk factor, including obesity (n = 6), hypothyroidism (n = 1), and oral contraceptive use (n = 1); none had documented prior heparin exposure. Time from Ad26.COV2.S vaccination to symptom onset ranged from 6 to 15 days. Eleven patients initially presented with headache; 1 patient initially presented with back pain and later developed headache. Of the 12 patients with CVST, 7 also had intracerebral hemorrhage; 8 had non-CVST thromboses. After diagnosis of CVST, 6 patients initially received heparin treatment. Platelet nadir ranged from 9 ×103/µL to 127 ×103/µL. All 11 patients tested for the heparin-platelet factor 4 HIT antibody by enzyme-linked immunosorbent assay (ELISA) screening had positive results. All patients were hospitalized (10 in an intensive care unit [ICU]). As of April 21, 2021, outcomes were death (n = 3), continued ICU care (n = 3), continued non-ICU hospitalization (n = 2), and discharged home (n = 4).
+
+    > Conclusions and Relevance
+      The initial 12 US cases of CVST with thrombocytopenia after Ad26.COV2.S vaccination represent serious events. This case series may inform clinical guidance as Ad26.COV2.S vaccination resumes in the US as well as investigations into the potential relationship between Ad26.COV2.S vaccine and CVST with thrombocytopenia.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - JAMA Network
+    quote !a = In this case series of 12 patients, all were women, younger than 60 years, and had symptom onset ranging from 6 to 15 days after vaccination requiring hospitalization.
+
+    / April, 2021 - JAMA Network
+    quote !b = Of 11 patients with heparin-platelet factor 4 enzyme-linked immunosorbent assay (ELISA) heparin-induced thrombocytopenia (HIT) antibody test results, all were positive.
+
+    / April, 2021 - JAMA Network
+    quote !c = At last follow-up, outcomes were death (n = 3), intensive care unit (ICU) care (n = 3), non-ICU hospitalization (n = 2), and discharge to home (n = 4).
+
+    / April, 2021 - JAMA Network
+    quote !d = Of the 12 patients with CVST, 7 also had intracerebral hemorrhage; 8 had non-CVST thromboses.
+
+    / April, 2021 - JAMA Network
+    quote !e = Eleven patients initially presented with headache; 1 patient initially presented with back pain and later developed headache.
+
+
+
+  #
+  // JCVI advises on COVID-19 vaccine for people aged under 40
+  doi: https://www.gov.uk/government/news/jcvi-advises-on-covid-19-vaccine-for-people-aged-under-40
+  ref 'GOVUK_et_al_05_07_2021
+    head = The Joint Committee on Vaccination and Immunisation (JCVI) has issued advice to the UK government on the use of the coronavirus (COVID-19) Oxford/AstraZeneca vaccine for people aged under 40. This has been considered alongside the latest advice from the Medicines and Healthcare products Regulatory Agency (MHRA) on extremely rare cases of concurrent thrombosis (blood clots) and thrombocytopenia (low platelet count) following the first dose of the Oxford/AstraZeneca vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / May, 2021 - Gov.UK
+    quote !a = Considering this alongside the portfolio of vaccines available in the UK in the coming months and taking a precautionary approach in relation to the extremely small risk of thrombosis and thrombocytopenia following the first dose of the Oxford/AstraZeneca vaccine, the JCVI has advised a preference for adults aged 30 to 39 without underlying health conditions to receive an alternative to the Oxford/AstraZeneca vaccine – where available and only if this does not cause substantial delays in being vaccinated.
+
+    / May, 2021 - Gov.UK
+    quote !b = Up to 28 April 2021, the MHRA had received 242 reports of blood clotting cases in people who also had low levels of platelets in the UK, following the use of Oxford/AstraZeneca vaccine. These numbers are very small compared to the millions of people who have received the vaccine. The overall incidence of case reports of thromboembolic events with low platelets after first or unknown doses was 10.5 per million doses.
+
+    / May, 2021 - Gov.UK
+    quote !c = The majority of these extremely rare events occurred after the first dose.
+
+    / May, 2021 - Gov.UK
+    quote !d = Everybody who has already had a first dose of the Oxford/AstraZeneca vaccine should receive a second dose of the same jab, irrespective of age, except for the very small number of people who experienced blood clots with low platelet counts from their first vaccination. Getting the second vaccine dose is very important because it further increases the level of protection against COVID-19.
+
+    / May, 2021 - Gov.UK
+    quote !e = As a precautionary measure, anyone who has the following symptoms from around 4 days to 4 weeks after vaccination is advised to seek prompt medical advice: a severe headache that is not relieved with painkillers or is getting worse, a headache that feels worse when you lie down or bend over, a headache that is unusual for you and occurs with blurred vision, feeling or being sick, problems speaking, weakness, drowsiness or seizures, a rash that looks like small bruises or bleeding under the skin, shortness of breath, chest pain, leg swelling or persistent abdominal pain
+
+
+
+  // SARS-CoV-2 variant B.1.617 is resistant to Bamlanivimab and evades antibodies induced by infection and vaccination
+  doi: https://doi.org/10.1101/2021.05.04.442663
+  ref 'Hoffmann_et_al_05_05_2021
+    head = This variant harbors mutations in the RBD and other parts of the S protein that might alter important biological properties of the virus, including the efficiency of entry into target cells and the susceptibility to drugs and antibodies targeting the entry process. We analyzed whether B.1.617 is more adept in entering cells and/or evades antibody responses.
+    >
+      Summary
+      The emergence of SARS-CoV-2 variants threatens efforts to contain the COVID-19 pandemic. The number of COVID-19 cases and deaths in India has risen steeply in recent weeks and a novel SARS-CoV-2 variant, B.1.617, is believed to be responsible for many of these cases. The spike protein of B.1.617 harbors two mutations in the receptor binding domain, which interacts with the ACE2 receptor and constitutes the main target of neutralizing antibodies. Therefore, we analyzed whether B.1.617 is more adept in entering cells and/or evades antibody responses. B.1.617 entered two out of eight cell lines tested with slightly increased efficiency and was blocked by entry inhibitors. In contrast, B.1.617 was resistant against Bamlanivimab, an antibody used for COVID-19 treatment. Finally, B.1.617 evaded antibodies induced by infection or vaccination, although with moderate efficiency. Collectively, our study reveals that antibody evasion of B.1.617 may contribute to the rapid spread of this variant.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / May, 2021 - bioRxiv
+    quote !a = The present study reveals that the B.1.617 S protein can facilitate entry into Calu-3 lung and Caco-2 colon cells with slightly increased efficiency and shows that entry can be blocked by entry inhibitors: soluble ACE2 and Camostat.
+
+    / May, 2021 - bioRxiv
+    quote !b = In contrast, Bamlanivimab, a recombinant antibody with EUA did not inhibit entry driven by the B.1.617 S protein and evidence for moderate evasion of antibodies induced by infection and Comirnaty/BNT162b2 vaccination was obtained.
+
+    / May, 2021 - bioRxiv
+    quote !c = Our results suggest that although B.1.617 may be able to evade control by antibodies, to some extent other factors might contribute to its fast spread, including a potential fitness benefit or reduced adherence to COVID-19 protection measures (e.g. mask wearing and social distancing).
+
+
+
+  #
+  // SARS-CoV-2 variants of concern and variants under investigation in England
+  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984274/Variants_of_Concern_VOC_Technical_Briefing_10_England.pdf- Technical briefing 10
+  ref 'PHE_et_al_05_07_2021
+    head = This technical briefing includes national overview data and surveillance updates for VUI21APR-01 (B.1.617.1), VOC-21APR-02 (B.1.617.2) and VUI-21APR-03 (B.1.617.3), and a new clinical risk assessment for VOC-21APR-02 (B.1.617.2).
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+      !j
+      !k
+
+    / May, 2021 - PHE
+    quote !a = VUI-21APR-02 (B.1.617.2) was escalated to a variant of concern on 6 May 2021 (VOC21APR-02). It is assessed as having at least equivalent transmissibility to B.1.1.7 based on available data (moderate confidence). There are insufficient data currently to assess the potential for immune escape, reinfection or vaccine effectiveness.
+
+    / May, 2021 - PHE
+    quote !b = There has been a steep recent increase in the number of cases identified (N=509 genomically confirmed) of this variant of concern in the UK, which includes both imported (n=157 confirmed after travel) and domestically-acquired cases. Postcodes of residence are most frequently identified as London and the North West.
+
+    / May, 2021 - PHE
+    quote !c = There is no evidence that B.1.617.2 emerged from a zoonotic source.
+
+    / May, 2021 - PHE
+    quote !d = Transmissibility appears greater than wildtype SARS-COV-2.
+
+    / May, 2021 - PHE
+    quote !e = The majority of cases are very recent and there has been insufficient follow up time to allow an assessment of severity.
+
+    / May, 2021 - PHE
+    quote !f = B.1.617.2 has spread rapidly in India based on available data. There have been multiple importations to the UK and onwards transmission within the UK. In some regions, S gene target data suggests that this variant may be more frequent than is indicated by the current sequence data, due to the lag in sequencing, and may have replaced B.1.1.7 to some extent.
+
+    / May, 2021 - PHE
+    quote !g = Mutations potentially associated with antigenic change are monitored as part of horizon scanning. Figure 6 shows the proportion of these mutations over time in the all England genomic dataset, illustrating the increase in L452R. The most commonly occurring mutations are detailed in the figure.
+
+    / May, 2021 - PHE
+    quote !h = Variant defining mutations VOC-21APR-02 (B.1.617.2): T19R, 156-158del, L452R, T478K, D614G, P681R, D950N
+
+    / May, 2021 - PHE
+    quote !i = VUI-21APR-03 (B.1.617.3):T19R, 156-158del, L452R, E484Q, D614G, P681R, D950N
+
+    / May, 2021 - PHE
+    quote !j = The S-gene target in a specific three-target assay used in some Lighthouse Laboratories fails in B.1.1.7, previously predominant, but is detected in VUI-21APR-01, VOC-21APR-02 and VUI-21APR-03 variants as well as VOC-20DEC02 (B.1.351) and some others.
+
+    / May, 2021 - PHE
+    quote !k = Among 354 sequenced S gene positive samples in the second half of April 2021 (specimen dates up to 26 March 2021 due to reporting lag), 95% (n = 337) were variants under investigation or of concern, and 67.2% were VOC-21APR-02.
+
+
+
+
+
+  #
+  // Confirmed cases of COVID-19 variants identified in UK
+  doi: https://www.gov.uk/government/news/confirmed-cases-of-covid-19-variants-identified-in-uk
+  ref 'GovUK_et_al_05_07_2021
+    head = Following a rise in cases in the UK and evidence of community transmission, PHE has reclassified VUI-21APR-02 (B.1.617.2, classified as a Variant Under Investigation (VUI) on 28 April) as a Variant of Concern (VOC), now known as VOC-21APR-02.
+
+    - quotes
+      !a
+      !b
+      !c
+
+
+    / May, 2021 - Gov.UK
+    quote !a = This is based on evidence which suggests this variant, first detected in India, is at least as transmissible as B.1.1.7 (the Kent variant). The other characteristics of this variant are still being investigated.
+
+    / May, 2021 - Gov.UK
+    quote !b = Cases of VOC-21APR-02 have increased to 520 from 202 over the last week and almost half the cases are related to travel or contact with a traveller. The cases are spread across the country, however, the majority of the cases are in 2 areas – the North West (predominantly Bolton) and London – and this is where we are seeing the greatest transmission.
+
+    / May, 2021 - Gov.UK
+    quote !c = The current evidence suggests that the other variants detected in India, VUI-21APR-01 and VUI-21APR-03 are not VOCs, but this will be kept under constant review and investigations are ongoing into the reasons behind the different behaviours of these variants.
+
+
+
+  #
+  // Menaka Pai, MSc MD FRCPC: on NACI advice on AZ vaccine - is it ok for 30+ ?- She explains how people should weigh their risk of clots to make good choices and be less petrified `if they have already got AZ.
   doi: https://twitter.com/MPaiMD/status/1385741537221480449
   ref 'Pai_et_al_04_24_2021
     head = So you read today’s NACI advice - AZ ok if you’re 30+! Unless you can wait for mRNA Syringe! And then you read the MANY hot takes from experts, non-experts, and para-experts. And you are SCARED. Disclaimer: I’m a blood clot doctor. I am not a public health expert. Or an ID doc. But you wouldn’t believe how much I talk to people about weighing their risk of clots. (So much.) I can help you make good choices for you (and be less petrified if you just got AZ yesterday.)

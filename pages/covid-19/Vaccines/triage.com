@@ -91,6 +91,69 @@
       'Chevallier_et_al_02_09_2021.!c
 
 
+#### 05/10/21 ####
+
+
+  claim !Casereport2 = One case series describes the first 12 reported cases of CVST with thrombocytopenia following Ad26.COV2.S vaccination in the US. The clinical presentation and laboratory features were similar to those seen in Europe after ChAdOx1 nCoV-19 vaccine. All were women, younger than 60 years, and had symptom onset ranging from 6 to 15 days after vaccination requiring hospitalization. Of 11 patients with heparin-platelet factor 4 enzyme-linked immunosorbent assay (ELISA) heparin-induced thrombocytopenia (HIT) antibody test results, all were positive.
+  -
+    'See_et_al_04_30_2021
+    'See_et_al_04_30_2021.!a
+    'See_et_al_04_30_2021.!b
+    'See_et_al_04_30_2021.!c
+    'See_et_al_04_30_2021.!d
+
+  > intravenous immunoglobulin (IVIg)
+    One study results showed Serum from patients with VITT, but not healthy donor controls, induced platelet aggregation, which was abrogated following IVIg treatment. Aggregation to patient sera was blocked by IV.3 F(ab) which targets FcγRIIA, and inhibitors of Src (dasatinib), Syk (entospletinib) and Btk kinases downstream of the receptor (ibrutinib and rilzabrutinib). Anti-platelet therapies COX (indomethacin) and P2Y12 (ticagrelor) also blocked aggregation.
+  -
+    'Smith_et_al_04_27_2021
+    'Smith_et_al_04_27_2021.!a
+    'Smith_et_al_04_27_2021.!b
+    'Smith_et_al_04_27_2021.!c
+
+
+  >
+    serum from patients with VITT activates platelets via FcγRIIA, which can be blocked in vitro by anti-platelet therapies and downstream kinase inhibitors. This suggests that prophylaxis in at risk groups with commonly used anti-platelet agents such as aspirin may potentially be able to reduce the impact of VITT and that tyrosine kinase inhibitors may be a treatment for clinically manifest VITT in addition to the current management intervention with corticosteroids and IVIg.
+
+  >
+    In vitro findings in one study suggest a possible role for prophylactic treatment with aspirin (COX inhibitor) following  vaccination. However, with the rarity of the syndrome, the risk of such widespread aspirin usage may cause harms - due to the increased risk of bleeding - that outweigh any theoretical benefit. Aspirin or ticagrelor use is not currently recommended in patients with confirmed VITT due to the already increased bleeding risk associated with the initial thrombocytopenia, reduced fibrinogen and secondary bleeding from CVST.
+  -
+    'Smith_et_al_04_27_2021
+    'Smith_et_al_04_27_2021.!b
+    'Smith_et_al_04_27_2021.!c
+
+  >
+    One study found that the serum from patients with VITT activates platelets via the FcγRIIA, which can be blocked in vitro by anti-platelet therapies suggesting possible new therapeutic interventions. A possible role for prophylactic treatment with aspirin following vaccination. However, with the rarity of the syndrome, the risk of such widespread aspirin usage may cause harms. Aspirin or ticagrelor use is not currently recommended in patients with confirmed VITT.
+
+  >
+    One study results showed that the remarkable evolution of breadth after infection and the robust enhancement of serologic responses and B cell memory achieved with mRNA vaccination suggests that convalescent individuals who are vaccinated should enjoy high levels of protection against emerging variants without a need to modify existing vaccines.
+  -
+    'Wang_et_al_05_09_2021
+    'Wang_et_al_05_09_2021.!a
+    'Wang_et_al_05_09_2021.!b
+    'Wang_et_al_05_09_2021.!c
+    'Wang_et_al_05_09_2021.!d
+    'Wang_et_al_05_09_2021.!e
+    'Wang_et_al_05_09_2021.!f
+    'Wang_et_al_05_09_2021.!g
+    'Wang_et_al_05_09_2021.!h
+    'Wang_et_al_05_09_2021.!i
+    'Wang_et_al_05_09_2021.!j
+    'Wang_et_al_05_09_2021.!k
+    'Wang_et_al_05_09_2021.!l
+    'Wang_et_al_05_09_2021.!a
+    'Wang_et_al_05_09_2021.!m
+
+  >
+    We found that the individuals that had not been vaccinated maintained their anti-RBD IgG, IgM titers between 6 and 12 months, with a slightly decrease in IgA titers. While vaccination significantly increases all components of the humoral response.
+  -
+    'Wang_et_al_05_09_2021
+    'Wang_et_al_05_09_2021.!g
+
+  >
+    We found that the number of RBD specific memory B cells was slightly decreased between 6m to 12m in the unvaccinated individuals, but it was increased more than 8 times in vaccination group.
+  -
+    'Wang_et_al_05_09_2021
+    'Wang_et_al_05_09_2021.!h
 
 
   # CLINICAL TRIAL 4/27/21 ##### ALL RECENT PAPERS
@@ -117,7 +180,10 @@
   - Five countries have instituted limitations on ChAdOx1 nCoV-19 vaccine and CDC and FDA paused Johnson & Johnson/Janssen vaccine adminstration
     'Douglas_et_al_04_16_2021.!k
 
-  
+
+
+
+
 
   >
     These new observations also raise important scientific questions with clinical implications. What component or components of the vaccine (adenoviral sequence, spike protein, or other component) elicit a new (or recall) response to a seemingly unrelated host protein, PF4? Why does the complication appear to be more prevalent after exposure to one particular adenoviral vector? What is the risk after revaccination?  How do VITT antibodies compare with the anti-PF4–related antibodies that are present after SARS-CoV-2 infection, which have been described in patients who were suspected to have heparin-induced thrombocytopenia?10-12 Is PF4 a bystander component within an immune complex that activates platelets, or does it contribute directly to clot propagation? Does the atypical distribution of thrombi relate to antigen localization or vascular response? Is thrombosis propagated along vascular and hematopoietic surfaces that release diverse anionic cofactors, as in heparin-induced thrombocytopenia? In
