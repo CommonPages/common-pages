@@ -171,7 +171,7 @@ subject module Disease
           'Siddiqi_et_al_2020.!f
 
       / Blood Coagulation
-      claim !BloodCoagulation = Despite the severity of COVID-19 being more frequently related to acute respiratory distress syndrome and acute cardiac and renal injuries, thromboembolic events have been increasingly reported. There is growing evidence that COVID-19-infected patients are highly predisposed to developing blood clots. One study reported that the risk of the rare blood clotting known as cerebral venous thrombosis (CVT) following COVID-19 infection is around 100 times greater than normal, 10 times greater compared to mRNA vaccines and 8 times greater compared to AZ-Oxford vaccines or following influenza.
+      claim !BloodCoagulation = Despite the severity of COVID-19 being more frequently related to acute respiratory distress syndrome and acute cardiac and renal injuries, thromboembolic events have been increasingly reported. There is growing evidence that COVID-19-infected patients are highly predisposed to developing blood clots. One study reported that the risk of cerebral venous thrombosis (CVT) following COVID-19 infection is around 100 times greater than normal, 10 times greater compared to mRNA vaccines and 8 times greater compared to AZ-Oxford vaccines or following influenza.
         -
           'Yin_et_al_2020
           'Xiong_et_al_2020
@@ -189,6 +189,7 @@ subject module Disease
           'Cavalcanti_et_al_06_30_2020.!e
         -
           Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!RiskCVT
+
 
 
       / Endothelial Cell Infection
@@ -218,7 +219,7 @@ subject module Disease
         'Sudre_et_al_03_10_2021.!c
 
     / Long Term Consequences
-    claim !LongTermConsequences = There have been reports of persistent fatigue, memory/attention, and sleep disorders and a possible increased disposition for Parkinson's disease. One study reported that Long term neurological manifestations after hospitalization due to COVID-19 infection affects one third of survivors. Multiple neurological abnormalities including mild cognitive impairment are associated with severity of SARS-CoV-2 infection. One study identified lymphocyte changes in previously hospitalized COVID-19 patients up to 6 months following hospital discharge, proposing that this could affect longer-term immunity and contribute to some persistent symptoms observed in convalescent COVID-19 patients. 
+    claim !LongTermConsequences = There have been reports of persistent fatigue, memory/attention, and sleep disorders and a possible increased disposition for Parkinson's disease. One study reported that Long term neurological manifestations after hospitalization due to COVID-19 infection affects one third of survivors. Multiple neurological abnormalities including mild cognitive impairment are associated with severity of SARS-CoV-2 infection. One study identified lymphocyte changes in previously hospitalized COVID-19 patients up to 6 months following hospital discharge, proposing that this could affect longer-term immunity and contribute to some persistent symptoms observed in convalescent COVID-19 patients.
       -
         'Townsend_et_al_11_09_2020
         'Townsend_et_al_11_09_2020.!a
@@ -843,6 +844,7 @@ subject module Disease
             !IGGduration7months
             ?Reinfection.!7monthsprotection
             !Diversity.!Age.!Extremeagedindividualsandcentenarians
+            Vaccines.Approved.Tozinameran.!MemoryBcells
           - Past Studies
             !Mers
             !Sars
@@ -872,6 +874,7 @@ subject module Disease
             -
               'Lumley_et_al_11_19_2020
               'Lumley_et_al_11_19_2020.!a
+
 
           claim !Mers = MERS antibodies have been shown to last for 18 months
             -

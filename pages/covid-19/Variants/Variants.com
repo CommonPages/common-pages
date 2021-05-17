@@ -519,6 +519,8 @@ subject module Variants
       Vaccines.Approved.AZD1222.!Animalchallenge
       Vaccines.Candidates.NVX-CoV2373.!VaccineefficacyV1
       Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
+      Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
+      Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
       !NTDneutralizing
     - Pre Existing Immunity
       !PreexistingImmunity
@@ -741,6 +743,11 @@ subject module Variants
           'Hoffmann_et_al_05_21_2020.!b
         -
           'Peacock_et_al_09_30_2020
+        -
+          'Johnson_et_al_01_25_2021
+          'Johnson_et_al_01_25_2021.!a
+          'Johnson_et_al_01_25_2021.!b
+          'Johnson_et_al_01_25_2021.!c
         -
           'Zhu_et_al_08_25_2020
 
@@ -996,6 +1003,7 @@ subject module Variants
       Vaccines.Approved.mRNA-1273.!SAvariant
       Vaccines.Approved.Tozinameran.!ImmuneEscape
       Vaccines.Approved.Tozinameran.!PriorInfectionSingleDose.!SingleDose
+      Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
       !Vaccineefficacy
       !Reinfection
       !Neutralizingescape
@@ -1018,6 +1026,7 @@ subject module Variants
       Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
       Vaccines.Approved.Sinopharm.!NoimmuneescapeB1351
       Vaccines.Approved.Ad26COV2S.!Phase3ENSEMBLEtrial
+      Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
 
     - Pre Existing Immunity
       !PreexistingImmunity
@@ -1058,6 +1067,9 @@ subject module Variants
         'Voloch_et_al_12_26_2020
         'Voloch_et_al_12_26_2020.!a
         'Voloch_et_al_12_26_2020.!b
+      -
+        'Tada_et_al_05_16_2021
+        'Tada_et_al_05_16_2021.!g
 
     claim !E484 = One study reports that the mutations at site E484 (usually occur at just a few sites in the RBD’s receptor binding motif) have been found to reduce antibody binding.
       -
@@ -1297,6 +1309,8 @@ subject module Variants
       Variants.B117.!NTDneutralizing
       Vaccines.Approved.CoronaVac.!Brazilsingledose
       Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
+      Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
+      Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
     - T Cell Response
       Vaccines.Approved.Tozinameran.!Tcellresponses
 
@@ -1414,6 +1428,8 @@ subject module Variants
       !S13IW152C
     - Potential Significance of L18F substitution and Y144 deletion
       !L18FdelY144
+    - Vaccine related claims
+      Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
 
     - Triage
       'Zhang_et_al_01_20_2021
@@ -1569,6 +1585,9 @@ subject module Variants
       -
         'Li_et_al_07_17_2020
         'Li_et_al_07_17_2020.!b
+      -
+        'Tada_et_al_05_16_2021
+        'Tada_et_al_05_16_2021.!f
 
 
     claim !NTDmutationB1427B1429 = One study observed a complete loss of B.1.427/B.1.429 neutralization for a panel of mAbs targeting the N-terminal domain due to a large structural rearrangement of the NTD antigenic supersite involving an S13I-mediated shift of the signal peptide cleavage site.
@@ -1658,6 +1677,8 @@ subject module Variants
 
     - Potential significance of S13I/W152C Mutations
       CAL20C.!S13IW152C
+    - Vaccine related claims
+      Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
 
     - Triage
       'West-Jr_et_al_02_23_2021
@@ -1672,7 +1693,7 @@ subject module Variants
 
   / B.1.617 (Identified in India)
   subject B1617
-    head = B.1.617.1 variant first detected in India was designated under investigation on 1 April 2021 as VUI-21APR-01.The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.2,and B.1.617.3. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is at least as transmissible as B.1.1.7 (the Kent variant), there are insufficient data currently to assess the potential for immune escape. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. One study found B.1.617 evaded antibodies induced by infection or BNT162b2 vaccination, although with moderate efficiency. 
+    head = B.1.617.1 variant first detected in India was designated under investigation on 1 April 2021 as VUI-21APR-01. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.2,and B.1.617.3. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is at least as transmissible as B.1.1.7 (the Kent variant), there are insufficient data currently to assess the potential for immune escape. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The modest neutralization resistance of the variant spike proteins suggests that Pfizer and Moderna mRNA vaccines will remain protective against the B.1.617.1, B.1.617 and B.1.618 variants. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Progression to severe disease and death was low in all studies.
 
     >
       <table>
@@ -1706,7 +1727,7 @@ subject module Variants
         </tr>
         <tr>
         <th>Countries reported (uptil April 18, 2021)</th>
-        <td> 21 </td>
+        <td> 40 </td>
         </tr>
       </table>
 
@@ -1718,8 +1739,16 @@ subject module Variants
       !Transmission
       !Antibodyevasion
       !Fastspread
-    - Vaccine related claims
+      !Transmissionadv
+    - Severity
+      !Severity
+    - Vaccine related claims (B.1.617)
       Vaccines.Approved.BBV152.!2foldNeutralizingdropB1617
+      Vaccines.Approved.Tozinameran.!B1617B1618neutralizationPfizerModerna
+    - Vaccine related claims (B.1.617.1)
+      Vaccines.Approved.Tozinameran.!VaccineefficacymRNAB16171
+      Vaccines.Approved.Tozinameran.!VaccineefficacyBNT162b2B16171
+      Vaccines.Approved.AZD1222.!Covishieldneutralizing
     -
       !Mutations
     >
@@ -1731,8 +1760,15 @@ subject module Variants
       CAL20C.!Transmissibility
       CAL20C.!Immuneevasion
       CAL20C.!AdaptiveevolutionL452R
+    - Potential Significance of E484K mutation
+      Variants.B1351.!E484
+      Variants.B1351.!AntibodiesE484k
+      Variants.B1351.!CrossNeutralizingactivity
     - Potential significance of P681R
       !P681R
+      !P681Rmutation
+      !Pathogenicitytransmissibility
+      !Syncitiaformation
     - Potential significance of N-Terminal Domain Mutations
       !NTDmutationB1617
       CAL20C.!Selectivepressure
@@ -1783,6 +1819,16 @@ subject module Variants
         'Hoffmann_et_al_05_05_2021.!b
         'Hoffmann_et_al_05_05_2021.!c
 
+    / Transmission advantage of B.1.617
+    claim !Transmissionadv = One study raises the possibility of a transmission advantage of B.1.617 relative to Wuhan-1 with D614G in individuals with pre-existing immunity from vaccines/natural infection as well as in settings where there is low vaccine coverage and low prior exposure.
+    # The data nonetheless raise the possibility of a transmission advantage of B.1.617 in vaccinated individuals.
+      -
+        'Ferreira_et_al_05_09_2021
+        'Ferreira_et_al_05_09_2021.!d
+        'Ferreira_et_al_05_09_2021.!e
+        'Ferreira_et_al_05_09_2021.!c
+        'Ferreira_et_al_05_09_2021.!a
+
     / Mutations
     claim !Mutations = Investigations on the S protein mutations associated with the COVID-19 cases in Maharashtra observed since the month of February 2021 - The continuous increase in positivity could be attributed to signature mutations in the spike protein and functionally significant co-occurring triple mutations (L452R, E484Q, P681R). The unique combination of mutations L452R, E484Q and P681R noted is an indication of convergent evolution.
       -
@@ -1793,6 +1839,9 @@ subject module Variants
         'Cherian_et_al_04_24_2021.!d
         'Cherian_et_al_04_24_2021.!e
         'Cherian_et_al_04_24_2021.!f
+      -
+        'Ferreira_et_al_05_09_2021
+        'Ferreira_et_al_05_09_2021.!b
 
     / 3 Clades: B.1.617.1, B.1.617.2, and B.1.617.3
     claim !3Clades = B.1.617 contains 3 clades with different mutation profiles: B.1.617.1 includes a large number of sequences and has a spike profile including L452R and E484Q. B.1.617.2 – has a different profile without E484Q and appears to have recent expansion. B.1.617.3 – has L452R and E484Q but is distinct from B.1.617.1 and currently remains small. Additionally B.1.617 contains the furin cleavage site mutation P681R, similar to P681H and several N-terminal domain mutations.
@@ -1809,11 +1858,45 @@ subject module Variants
     #     'PHE_et_al_04_22_2021
     #     'PHE_et_al_04_22_2021.!f
 
-
+    / P681R mutation
     claim !P681R = The furin cleavage site mutation P681R, similar to P681H. 681R/H are found in multiple variant lineages, such as VOC-20DEC-01 (B.1.1.7), VUI-21FEB-04 (B.1.1.318) and VUI-21FEB-01 (A.23.1). Both P681H and P681R have been shown to optimise spike cleavage by furin; it has been hypothesised that this optimisation may enhance virus transmissibility.
       -
         'PHE_et_al_04_22_2021
         'PHE_et_al_04_22_2021.!g
+      -
+        'Tada_et_al_05_16_2021.
+        'Tada_et_al_05_16_2021.!h
+
+
+    claim !P681Rmutation = One study showed that the P681R mutation is associated with enhanced capacity to induce cell-cell fusion and syncytium formation upon the B.1.617.1 spike protein, potentially contributing to increased pathogenesis observed in hamsters and infection growth rates observed in humans. Virus infectivity and fusogenicity mediated by the PBCS is a key determinant of pathogenicity and transmissibility and there are indications that giant cells/syncitia formation are associated with fatal disease.
+      -
+        'Ferreira_et_al_05_09_2021
+        'Ferreira_et_al_05_09_2021.!c
+
+    / Pathogenicity/Transmissibilty
+    claim !Pathogenicitytransmissibility = Virus infectivity and fusogenicity mediated by the PBCS is a key determinant of pathogenicity and transmissibility. and there are indications that giant cells/syncitia formation are associated with fatal disease.
+      -
+        Variants.B117.!P681HFurin
+        !Lackfurincleavagesite
+      -
+        !Syncitiaformation
+
+
+      claim !Lackfurincleavagesite = In one study of a mutant SARS-CoV-2 that lacks the furin cleavage site (ΔPRRA), the results showed that the ΔPRRA mutant had reduced replication in a human respiratory cell line and was attenuated in both hamster and K18-hACE2 transgenic mouse models of SARS-CoV-2 pathogenesis.
+      -
+        'Johnson_et_al_01_25_2021
+        'Johnson_et_al_01_25_2021.!a
+        'Johnson_et_al_01_25_2021.!b
+        'Johnson_et_al_01_25_2021.!c
+
+    / Syncitia formation associated with fatal disease
+    claim !Syncitiaformation = One study indicates that giant cells/syncitia formation are associated with fatal disease.
+      -
+        'Braga_et_al_04_07_2021
+        'Braga_et_al_04_07_2021.!b
+        'Braga_et_al_04_07_2021.!a
+        'Braga_et_al_04_07_2021.!c
+        'Braga_et_al_04_07_2021.!d
 
     claim !NTDmutationB1617 = One study reported VUI-21APR-01 (B.1.617.1) contains several N-terminal domain mutations.
       -
@@ -1825,5 +1908,13 @@ subject module Variants
       -
         'Hoffmann_et_al_05_05_2021
         'Hoffmann_et_al_05_05_2021.!b
+
+    / Severity/ Death
+    claim !Severity = Progression to severe disease and death was low in all studies. Therefore, at population scale, extensive vaccination will likely protect against moderate to severe disease and will reduce transmission of B.1.617.
+      -
+        'Ferreira_et_al_05_09_2021
+        'Ferreira_et_al_05_09_2021.!f
+
+
 
   question ?Antibodies = Whether these mutations render preexisting antibodies ineffective has become a public concern, as it could result in reinfection or loss of vaccine efficacy. To what extent a person infected by one strain is protected against infection of another strain? What evidence exists as to the efficacy of vaccines against each variant?

@@ -8,9 +8,20 @@ feed Sangeeta
     - quotes
       !a
 
-    / April, 2021 - JAMA Netw Open.
+    / May, 2021 - JAMA Netw Open.
     quote !a =
 
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -33,7 +44,6 @@ feed Sangeeta
 
     / May, 2021 - JAMA Netw Open.
     quote !a =
-
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -46,41 +56,710 @@ feed Sangeeta
     / May, 2021 - JAMA Netw Open.
     quote !a =
 
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // The Spike Proteins of SARS-CoV-2 B.1.617 and B.1.618 Variants Identified in India Provide Partial Resistance to Vaccine-elicited and Therapeutic Monoclonal Antibodies
+  doi: https://doi.org/10.1101/2021.05.14.444076
+  ref 'Tada_et_al_05_16_2021
+    head = We generated lentiviruses pseudotyped by the variant proteins and determined their resistance to neutralization by convalescent sera, vaccine-elicited antibodies and therapeutic monoclonal antibodies.
+
+    > Abstract
+      Highly transmissible SARS-CoV-2 variants recently identified in India designated B.1.617 and B.1.618 have mutations within the spike protein that may contribute to their increased transmissibility and that could potentially result in re-infection or resistance to vaccine elicited antibody. B.1.617 encodes a spike protein with mutations L452R, E484Q, D614G and P681R while the B.1.618 spike has mutations D145-146, E484K and D614G. We generated lentiviruses pseudotyped by the variant proteins and determined their resistance to neutralization by convalescent sera, vaccine-elicited antibodies and therapeutic monoclonal antibodies. Viruses with B.1.617 and B.1.618 spike were neutralized with a 2-5-fold decrease in titer by convalescent sera and vaccine-elicited antibodies. The E484Q and E484K versions were neutralized with a 2-4-fold decrease in titer. Virus with the B.1.617 spike protein was neutralized with a 4.7-fold decrease in titer by the Regeneron monoclonal antibody cocktail as a result of the L452R mutation. The modest neutralization resistance of the variant spike proteins to vaccine elicited antibody suggests that current vaccines will remain protective against the B.1.617 and B.1.618 variants.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+
+    / May, 2021 - bioRxiv
+    quote !a = Viruses with the B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The neutralization resistance was mediated by the L452R, E484Q and E484K mutations.
+
+    / May, 2021 - bioRxiv
+    quote !b = Even with the 3-4-fold decrease in neutralization titer of vaccine elicited antibodies, average titers were around 1:500, a titer well above that found in the sera of individuals who have recovered from infection with earlier unmutated viruses- suggesting that vaccinated individuals will remain protected against the B.1.617 and B.1.618 variants
+
+    / May, 2021 - bioRxiv
+    quote !c = The E484Q and E484K versions were neutralized with a 2-4-fold decrease in titer.
+
+    / May, 2021 - bioRxiv
+    quote !d = The extent of resistance of the variants was similar to that of the earlier B.1.351 and the New York B.1.526 (E484K) variant. The L452R and E484Q mutations provide an increased affinity for binding to ACE2, likely contributing to the increased transmissibility of the variants.
+
+    / May, 2021 - bioRxiv
+    quote !e = Both variants (B.1.617 and B.1.618) were partially resistant to REGN10933, one of the two monoclonal antibodies constituting the REGN-COV2 therapy and virus with the B.1.617 spike was partially resistant to REGN10987 as well, resulting in a 4.7-fold decrease in neutralizing titer for the antibody cocktail as a result of the L452R mutation.
+
+    / May, 2021 - bioRxiv
+    quote !f = The L452R mutation, which is present in the California B.1.427/B.1.429 was found to have a significant effect on resistance to vaccine-elicited and monoclonal antibodies. The variant was found to be shed with 2-fold increase in infected individuals, increase viral infectivity in cell cultures and confer a 4 to 6.7-fold and 2-fold decrease in neutralizing titers of antibodies from convalescent and vaccinated donors, respectively [20].
+
+    / May, 2021 - bioRxiv
+    quote !g = The E484K mutation present in the B.1.351, B.1.526, P.1 and P.3 spike proteins has been shown to cause partial resistance to neutralization as compared to the earlier D614G spike protein. Mutation of the same position, E484Q, in B.1.617 caused a 2-4-fold decrease of neutralization by serum, demonstrating the importance of this residue as an epitope for antibody recognition.
+
+    / May, 2021 - bioRxiv
+    quote !h = The P681R mutation at the furin cleavage site of B.1.617 is similar to the P681H mutation found in the B.1.1.7 spike proteins. P681R appeared caused a detectable increase in the amount of cleaved spike protein on virions. The increase was not associated with an increase in infectivity on ACE2.293T cells but might have an effect on the infection in primary cells in vivo.
+
+
+
+
+
+  #
+  // Durability of mRNA-1273-induced antibodies against SARS-CoV-2 variants
+  doi: https://doi.org/10.1101/2021.05.13.444010
+  ref 'Pegu_et_al_05_16_2021
+    head = We present a comprehensive assessment of the impact of variants B.1.1.7, B.1.351, P.1, B.1.429, and B.1.526 on binding, neutralizing, and ACE2-blocking antibodies elicited by the vaccine mRNA-1273 over seven months.
+
+
+    > Abstract
+      SARS-CoV-2 mutations may diminish vaccine-induced protective immune responses, and the durability of such responses has not been previously reported. Here, we present a comprehensive assessment of the impact of variants B.1.1.7, B.1.351, P.1, B.1.429, and B.1.526 on binding, neutralizing, and ACE2-blocking antibodies elicited by the vaccine mRNA-1273 over seven months. Cross-reactive neutralizing responses were rare after a single dose of mRNA-1273. At the peak of response to the second dose, all subjects had robust responses to all variants. Binding and functional antibodies against variants persisted in most subjects, albeit at low levels, for 6 months after the primary series of mRNA-1273. Across all assays, B.1.351 had the greatest impact on antibody recognition, and B.1.1.7 the least. These data complement ongoing studies of clinical protection to inform the potential need for additional boost vaccinations.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+
+    / May, 2021 - bioRxiv
+    quote !a = mRNA-1273-elicited neutralizing antibody activity against SARS-CoV-2 variants persisted six months after the second dose, albeit at reduced levels compared to Wuhan-Hu-1 (WA1) and D614G, with more than half of subjects maintaining neutralizing activity against B.1.351 at the latest timepoint tested.
+
+    / May, 2021 - bioRxiv
+    quote !b = Binding and functional antibodies against variants (B.1.351, B.1.1.7, P.1, B.1.429, and B.1.526) persisted in most subjects, albeit at low levels, for 6 months after the primary series of mRNA-1273.
+
+    / May, 2021 - bioRxiv
+    quote !c = Cross-reactive neutralizing responses were rare after a single dose of mRNA-1273.
+
+    # / May, 2021 - bioRxiv
+    # quote !b = At the peak of response to the second dose, all subjects had robust responses to all variants.
+
+    / May, 2021 - bioRxiv
+    quote !d = Mutations present in the B.1.1.7 variant had a minimal impact, while mutations in B.1.351 had a considerably greater effect upon antibody recognition and function, ranging from 3- to 15-fold depending on the assay. In addition, variants P.1, B.1.429, and B.1.526 showed an intermediate effect.
+
+    / May, 2021 - bioRxiv
+    quote !e = Responses to the variants were limited after a single dose: at day 29 (4 weeks after the first dose), all subjects had binding antibodies against all variants tested, but only 2 of 24 sera (8%) could neutralize B.1.351 in pseudovirus or livevirus neutralization assays, and 33-54% could neutralize B.1.1.7 in the two assays respectively.
+
+    / May, 2021 - bioRxiv
+    quote !f = While a single dose of mRNA-1273 provides partial protection against COVID-19 disease in the interval prior to the second vaccination, and similar data were reported for the mRNA vaccine BNT162b2, our observation of the limited magnitude and breadth of neutralizing activity at Day 29 underscores the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants.
+
+
+
+
+  #
+  // Does mRNA SARS-CoV-2 vaccine influence patients' performance during IVF-ET cycle?
+  doi: https://doi.org/10.1186/s12958-021-00757-6
+  ref 'Orvieto_et_al_05_13_2021
+    head = The stimulation characteristics and embryological variables of couples undergoing IVF treatments after receiving mRNA SARS-CoV-2 vaccine were assessed and compared to their IVF cycles prior to vaccination.
+
+    > Objective
+      No information exists in the literature regarding the effect of mRNA SARS-CoV-2 vaccine on subsequent IVF cycle attempt. We therefore aim to assess the influence of mRNA SARS-CoV-2 vaccine on IVF treatments.
+
+    > Design
+      An observational study.
+
+    > Setting
+      A tertiary, university-affiliated medical center.
+
+    > Patients and Methods
+      All couples undergoing consecutive ovarian stimulation cycles for IVF before and after receiving mRNA SARS-CoV-2 vaccine, and reached the ovum pick-up (OPU) stage. The stimulation characteristics and embryological variables of couples undergoing IVF treatments after receiving mRNA SARS-CoV-2 vaccine were assessed and compared to their IVF cycles prior to vaccination.
+
+    > Main outcome measures
+      Stimulation characteristics and embryological variables.
+
+    > Results
+      Thirty-six couples resumed IVF treatment 7–85 days after receiving mRNA SARS-CoV-2 vaccine. No in-between cycles differences were observed in ovarian stimulation and embryological variables before and after receiving mRNA SARS-CoV-2 vaccination.
+
+    > Conclusions
+      mRNA SARS-CoV-2 vaccine did not affect patients’ performance or ovarian reserve in their immediate subsequent IVF cycle. Future larger studies with longer follow-up will be needed to validate our observations.
+
 
     - quotes
       !a
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
+    / May, 2021 - Reproductive Biology and Endocrinology
+    quote !a = We observed no influence of mRNA SARS-CoV-2 vaccine on patients’ performance during their immediate subsequent IVF cycle, reflecting no detrimental effects of the vaccine on patients’ ovarian reserve, nor the developing gametes/embryos, with an acceptable pregnancy rate (30 % per transfer).
+
+
+
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Data discrepancies and substandard reporting of interim data of Sputnik V phase 3 trial
+  doi: https://doi.org/10.1016/S0140-6736(21)00899-0
+  ref 'Bucci_et_al_05_12_2021
+    head = Several experts, found problematic data in the published phase 1/2 results. We have made multiple independent requests for access to the raw dataset, but these were never answered. Despite publicly denying some problems, formal corrections were made to the Article,2 thus addressing some concerns.5 Notwithstanding the previous issues and lack of transparency, the interim results from the phase 3 trial of the Sputnik V vaccine1 again raise serious concerns.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / May, 2021 - The Lancet
+    quote !a = We have a serious concern regarding the availability of the data from which the investigators draw their conclusions. The investigators state that data will not be shared before the trial is completed, and then only by approval of stakeholders, including a so-called security department. Data sharing is one of the cornerstones of research integrity; it should not be conditional and should follow the FAIR principles.
+
+    / May, 2021 - The Lancet
+    quote !b = The second concern pertains to the trial protocol, as already described in an open letter by the Russian Society for Evidence-Based Medicine.3 The Sputnik V investigators mention that three interim analyses were added to the study on Nov 5, 2020,1 but this change was not recorded on ClinicalTrials.gov (NCT04530396). Unfortunately, the full study protocol has not been made publicly available, so the rationale behind this change or the type I error rate adjustment, if any, is not known.
+
+    / May, 2021 - The Lancet
+    quote !c = Besides these protocol amendments, the definition of the primary outcome is unclear in the Article,1 where it says that when COVID-19 was suspected, participants were assessed with “COVID-19 diagnostic protocols, including PCR testing”. Here, we lack some crucial information, such as the clinical parameters determining suspected COVID-19, what diagnostic protocols were used, when the PCR testing was done, what specific method was used, or how many amplification cycles were used. The way cases of suspected COVID-19 were defined could have led to bias in PCR testing used to assess the number of confirmed COVID-19 cases, which is crucial for the efficacy determination.
+
+    / May, 2021 - The Lancet
+    quote !d = A final point of concern about the study protocol relates to the enrolment and randomisation of patients. According to the trial profile in figure 1 of the Article,1 35 963 individuals were screened and 21 977 individuals were randomised. The ClinicalTrials.gov record for NCT04530396 (Jan 20, 2021) mentions that 33 758 patients were enrolled. We would expect that this last figure should be equal to either the number of participants screened or randomised. Moreover, there is no information about what caused the exclusion of 13 986 participants, as per the trial profile.
+
+    / May, 2021 - The Lancet
+    quote !e = The third concern relates to the data reported and numerical results. We found the following data inconsistencies: (1) in figure 2 of the Article,1 data for the vaccinated group on day 20 refer to more individuals than at day 10, as if there was either information missing for 100 participants at day 10, or participants were enrolled after day 10 (figure 2 was formally corrected on Feb 20, 2021, but the correction statement did not state the reasons leading to such correction); and (2) in table S1 of the appendix,1 the number of participants reported for the different vaccinated age cohorts do not add up to the reported total (n=338 vs n=342). With such inconsistencies, we question the accuracy of the reported data.
+
+    / May, 2021 - The Lancet
+    quote !f = A very peculiar result of the major subgroup analysis of the primary outcome caught our attention. The vaccine efficacy was said to be high for all age groups. The reported percentages were 91·9% in the 18–30-year age group, 90·0% in the31–40-year age group, 91·3% in the 41–50-year age group, 92·7% in the 51–60-year age group, and 91·8% in participants older than 60 years. We checked the homogeneity of vaccine efficacy across age groups (interaction tests): the p value of the Tarone-adjusted Breslow-Day test was 0·9963, and the p value of a non-asymptotic test was 0·9956, indicating a very low probability of observing a homogeneity this good if the actual homogeneity is perfect. By applying 18 other homogeneity tests (six in table 1, seven in table S6, six in table 2 of the Article1), we could not find other major abnormality in the overall distribution of p values.
+
+    / May, 2021 - The Lancet
+    quote !g = We also found some highly coincidental results reported in table S3 of the appendix. In particular, two upper confidence limit values for two different distributions (placebo group at baseline for unstimulated and antigen-stimulated measures) both equal 0·708. Of course, this is possible, but we call once more for access to the data from which the statistics originate for close scrutiny.
+
+
+
+
+
+  #
+  // Antibody Responses After a Single Dose of ChAdOx1 nCoV-19 Vaccine in Healthcare Workers Previously Infected with SARS-CoV-2
+  doi: https://doi.org/10.1101/2021.05.08.21256866
+  ref 'Havervall_et_al_05_11_2021
+    head = We compared spike-specific IgG and pseudo-neutralizing spike-ACE2 blocking antibodies against SARS-CoV-2 wild type and variants B.1.1.7, B.1.351, and P1 following two doses of the mRNA vaccine BNT162b2 and a single dose of the adenovector vaccine ChAdOx1 nCoV-19 in 232 healthcare workers with and without previous COVID-19.
+
+    > Background
+      Recent reports demonstrate robust serological responses to a single dose of messenger RNA (mRNA) vaccines in individuals previously infected with SARS-CoV-2. Data on immune responses following a single-dose adenovirus-vectored vaccine expressing the SARS-CoV-2 spike protein (ChAdOx1 nCoV-19) in individuals with previous SARS-CoV-2 infection are however limited, and current guidelines recommend a two-dose regime regardless of preexisting immunity.
+
+    > Methods
+      We compared spike-specific IgG and pseudo-neutralizing spike-ACE2 blocking antibodies against SARS-CoV-2 wild type and variants B.1.1.7, B.1.351, and P1 following two doses of the mRNA vaccine BNT162b2 and a single dose of the adenovector vaccine ChAdOx1 nCoV-19 in 232 healthcare workers with and without previous COVID-19.
+
+    > Findings
+      The post-vaccine levels of spike-specific IgG and neutralizing antibodies against the SARS-CoV-2 wild type and all three variants of concern were similar or higher in participants receiving a single dose of ChAdOx1 nCoV-19 vaccine post SARS-CoV-2 infection (both < 11 months post infection (n=37) and ≥ 11 months infection (n=46)) compared to participants who received two doses of BNT162b2 vaccine (n=149).
+
+    > Interpretation
+      Our data support that a single dose ChAdOx1 nCoV-19 vaccine serves as an effective immune booster after priming with natural SARS-CoV-2 infection up to at least 11 months post infection.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / May, 2021 - medRxiv
+    quote !a = A single dose of the adenovector vaccine ChAdOx1 nCoV-19 following natural infection elicited a robust serological response with broad neutralizing capacity against SARS-CoV-2 wild type and variants of concern.
+
+    / May, 2021 - medRxiv
+    quote !b = Neutralizing antibody levels exceeded those after two doses of the mRNA vaccine BNT162b2.
+
+    / May, 2021 - medRxiv
+    quote !c = Our data support that a single dose of adenovector vaccine serves as an efficacious immune booster after priming with natural SARS-CoV-2 infection up to at least 11 months post infection.
+
+
+  #
+  // Heterologous prime-boost COVID-19 vaccination: initial reactogenicity data
+  doi: https://doi.org/10.1016/S0140-6736(21)01115-6
+  ref 'Shaw_et_al_05_12_2021
+    head = Com-COV (ISRCTN 69254139) is a UK multi-centre, participant-masked, randomised heterologous prime-boost COVID-19 vaccination study comparing all four prime-boost permutations of the ChAd and BNT vaccines both at 28-day and 84-day prime-boost intervals. Participants are 50 years and older with no or mild-to-moderate, well controlled comorbidity. We present the initial reactogenicity and safety data, ahead of the primary immunological outcome, which is projected to be available in June, 2021.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / May, 2021 - The Lancet
+    quote !a = In this interim safety analysis, we found an increase in systemic reactogenicity after the boost dose reported by participants in heterologous vaccine schedules in comparison to homologous vaccine schedules, and this was accompanied by increased paracetamol usage.
+
+    / May, 2021 - The Lancet
+    quote !b = Both heterologous vaccine schedules induced greater systemic reactogenicity following the boost dose than their homologous counterparts, with feverishness reported by 37 (34%) of 110 recipients of ChAd for prime and BNT for boost compared with 11 (10%) of 112 recipients of ChAd for both prime and boost. Feverishness was reported by 47 (41%) of 114 recipients of BNT for prime and ChAd for boost, compared with 24 (21%) of 112 recipients of BNT for both prime and boost (difference 21%, 95% CI 8-33%).
+
+    / May, 2021 - The Lancet
+    quote !c = Similar increases were observed for chills, fatigue, headache, joint pain, malaise, and muscle ache. There were no hospitalisations due to solicited symptoms, and most of this increase in reactogenicity was observed in the 48 h after immunisation.
+
+    / May, 2021 - The Lancet
+    quote !d = Pending availability of a more complete safety dataset and immunogenicity results for heterologous prime-boost schedules (to be reported shortly), these data suggest that the two heterologous vaccine schedules in this trial might have some short-term disadvantages.
+
+    / May, 2021 - The Lancet
+    quote !e = Routine prophylactic use of paracetamol after immunisation could help mitigate these7 and is being studied in Com-COV participants receiving prime and boost vaccines at 12-week intervals. Regardless, it is reassuring that all reactogenicity symptoms were short lived, and there were no concerns from the limited haematology and biochemistry data available.
+
+
+
+  #
+  // Cerebral venous thrombosis and portal vein thrombosis: a retrospective cohort study of 537,913 COVID-19 cases
+  doi: https://doi.org/10.1101/2021.04.27.21256153
+  ref 'Taquet_et_al_05_11_2021
+    head = Using an electronic health records network primarily based in the USA, we estimated the incidence of CVT occurring in confirmed COVID-19 cases (both hospitalised and nonhospitalised) and compared this incidence to two other groups: people who received a COVID-19 mRNA vaccine, and a cohort of patients with influenza. We could not make a direct comparison with rates after the ChAdOx1 nCoV-19 (“Oxford-AstraZeneca”) vaccine because this has not been used in the USA. We also examined the rate of portal vein thrombosis (PVT), another diagnosis associated with thrombosis in the venous system and thought to occur in VITT.
+
+    > Objectives
+      To estimate the absolute risk of cerebral venous thrombosis (CVT) and portal vein thrombosis (PVT) in the two weeks following a diagnosis of COVID-19, and to assess the relative risks (RR) compared to influenza or the administration of an mRNA vaccine against COVID-19.
+
+    > Design
+      Retrospective cohort study based on an electronic health records network
+
+    > Setting
+      Linked records between primary and secondary care centres within 59 healthcare organisations, primarily in the USA
+
+    > Participants
+      All patients with a confirmed diagnosis of COVID-19 between January 20, 2020 and March 25, 2021 were included (N=537,913, mean [SD] age: 46.2 [21.4] years; 54.9% females). Cohorts (matched for age, sex, and race) of participants diagnosed with influenza (N=392,424) or receiving the BNT162b2 or mRNA-1273 vaccine (N=366,869) were used for comparison.
+
+    > Main outcome measures
+      Diagnosis of CVT (ICD-10 code I67.6) or PVT (ICD-10 code I81) within 2 weeks after a diagnosis of COVID-19.
+
+    > Results
+      The incidence of CVT after COVID-19 diagnosis was 42.8 per million people (95% CI 28.5–64.2) including 35.3 per million (95% CI 22.6–55.2) first diagnoses. This was significantly higher than the CVT incidence in a matched cohort of patients with influenza (RR=3.83, 95% CI 1.56–9.41, P<0.001) and people who received an mRNA vaccine (RR=6.67, 95% CI 1.98–22.43, P<0.001). The incidence of PVT after COVID-19 diagnosis was 392.3 per million people (95% CI 342.8–448.9) including 175.0 per million (95% CI 143.0–214.1) first diagnoses. This was significantly higher than the PVT incidence in a matched cohort of patients with influenza (RR=1.39, 95% CI 1.06–1.83, P=0.02) and people who received an mRNA vaccine (RR=7.40, 95% CI 4.87–11.24, P<0.001). Mortality after CVT and PVT was 17.4% and 19.9% respectively.
+
+    > Conclusions
+      The incidence of CVT and PVT is significantly increased after COVID-19. The data highlight the risk of serious thrombotic events in COVID-19 and can help contextualize the risks and benefits of vaccination in this regard
 
     - quotes
       !a
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
+    / May, 2021 - medRxiv
+    quote !a = Our study estimates that the absolute risk of CVT and PVT are respectively 42.8 and 392.3 per million patients (both hospitalised and non-hospitalised) in the 2 weeks after a diagnosis of COVID-19. COVID-19 increases the risk of CVT and PVT compared to patients diagnosed with influenza, and to people who have received a COVID-19 mRNA vaccine (BNT162b2 or mRNA-1273).
+
+
+
+
+  // Meta-Analysis of Risk of Vaccine-Induced Immune Thrombotic Thrombocytopenia Following ChAdOx1-S Recombinant Vaccine
+  doi: https://doi.org/10.1101/2021.05.04.21256613
+  ref 'Chan_et_al_05_08_2021
+    head = We examined case reports, press releases and immunization data and calculated pooled estimates of VITT incidence using random effects models.
+
+    > Context
+      Vaccine-induced immune thrombotic thrombocytopenia (VITT) has been reported after administering ChAdOx1-S recombinant COVID-19 vaccine (marketed as Vaxzevira™ by Astra-Zeneca, Covishield™). Estimates of incidence vary between countries, due to different age distributions chosen, case definitions and choice of denominator (persons vaccinated vs immunizations given). This study clarifies these estimates by pooling data from ten countries and examining differences by age group.
+
+    > Methods
+      We examined case reports, press releases and immunization data and calculated pooled estimates of VITT incidence using random effects models. Sensitivity analyses considered different combinations of countries and varying assumptions on time between vaccination and reporting of cases.
+
+    > Results
+      Pooling all countries, VITT incidence was 0.73 per 100,000 persons receiving first dose of Covishield/Vaxzevira [95% CI .43,1.23]. Incidence for age 65 and over was 0.11 per 100,000 persons [95% CI .05-.26], and significantly higher among those under age 55: 1.67 per 100,000 persons [95% CI 1.30-2.14] in the UK, 5.06 per 100,000 persons in Norway [95% CI 2.16, 11.86]. The latter had the best data on counts of persons vaccinated. Incidence for age 55 to 64 years was 0.34 [95% CI 0.13, 0.85] in the UK, lower than for under age 55.
+
+    > Conclusion
+      VITT is a rare vaccine-associated adverse event. Incidence estimates vary between jurisdictions. However, even the highest reported incidence from Norway is low – and in settings with high community transmission, lower than risk of serious outcomes associated with Covid-19. Policymakers and individuals can use these data to calculate risk-benefit ratios and better target vaccine distribution.
+
+    - quotes
+      !a
+      !b
+
+
+    / May, 2021 - medRxiv
+    quote !a = This study confirms that vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is particularly rare. Overall risk is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000 This information can be used by policymakers in risk-benefit calculations, comparing risks of vaccine associated adverse events to benefits of avoiding COVID-19 infection, and in targeting vaccination campaigns accordingly.
+
+    / May, 2021 - medRxiv
+    quote !b = Incidence estimates vary between jurisdictions. However, even the highest reported incidence from Norway is low – and in settings with high community transmission, lower than risk of serious outcomes associated with Covid-19.
+
+    # / May, 2021 - medRxiv
+    # quote !c = Incidence for age 65 and over was 0.11 per 100,000 persons, and significantly higher among those under age 55: 1.67 per 100,000 persons in the UK, 5.06 per 100,000 persons in Norway. The latter had the best data on counts of persons vaccinated. Incidence for age 55 to 64 years was 0.34 in the UK, lower than for under age 55.
+
+
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Neutralization potential of Covishield vaccinated individuals against B.1.617.1
+  doi: https://doi.org/10.1101/2021.05.12.443645
+  ref 'Yadav_et_al_05_12_2021
+    head = The neutralizing-antibody (NAb) titer against B.1.167.1 and prototype B.1 variant (D614G) was determined of the vaccine sera (4 weeks after second dose) of COVID-19 naïve subjects (n=43) and COVID-19 recovered subjects (n=18).
+
+    > Abstract
+      Covishield comprises the larger proportion in the vaccination program in India. Hence, it is of utmost importance to understand neutralizing capability of vaccine against the B.1.617.1 variant which is considered to responsible for surge of the cases in India. The neutralizing-antibody (NAb) titer against B.1.167.1 and prototype B.1 variant (D614G) was determined of the vaccine sera (4 weeks after second dose) of COVID-19 naïve subjects (n=43) and COVID-19 recovered subjects (n=18). The results demonstrated that sera of COVID-19 recovered subjects (n=18) who received two doses of Covishield have higher NAb response compared to the COVID-19 naive with a significant difference (p<0.0001) in NAb titer against B.1 and B.1.617.1 In-spite of reduction in the neutralizing titer against B.1.617.1 variant; Covishield vaccine-induced antibodies are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals.
+
+    - quotes
+      !a
+      !b
+
+
+    / May, 2021 - BioRxiv
+    quote !a = The results demonstrated that sera of COVID-19 recovered subjects (n=18) who received two doses of Covishield have higher NAb response compared to the COVID-19 naive with a significant difference (p<0.0001) in NAb titer against B.1 and B.1.617.1
+
+    / May, 2021 - BioRxiv
+    quote !b = In-spite of reduction in the neutralizing titer against B.1.617.1 variant; Covishield vaccine-induced antibodies are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals.
+
+
+
+  #
+  // Interesting presentation to ACIP on cases of TTS following J&J's Covid19 vaccine. TTS = thrombosis with thrombocytopenia syndrome, ie those weird serious clotting events where people have dangerous clots but also low platelet levels.
+  doi: https://twitter.com/HelenBranswell/status/1392572238088572929
+  ref 'Branswell_et_al_05_13_2020
+    head = This tweet summarises the presentation to ACIP on cases of TTS following J&J's Covid-19 vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    / May, 2021 - Twitter
+    quote !a = The TTS cases after J&J are very similar to what's being seen with the AZ vaccine elsewhere, CDC gov vaccine safety expert Tom Shimabukuro tells ACIP. (AZ hasn't been used in the US. The number of cases has now reached 28, with 6 cases in men. Ages range from 18-59.)
+
+    / May, 2021 - Twitter
+    quote !b = So far no TTS cases have been reported in people who got the Pfizer or Moderna vaccines
+
+    / May, 2021 - Twitter
+    quote !c = Because of the small numbers, a few additional cases in a particular age slice can really change the risk picture pretty quickly. It currently appears that the major risk is for women between 30-49 yrs of age.
+
+    / May, 2021 - Twitter
+    quote !d = These are the kinds of clots people who developed TTS had. Some had more than one type.
+
+    / May, 2021 - Twitter
+    quote !e = Of the TTS cases seen after J&J vaccine, 3 have died. (This is unchanged from the last time CDC gov updated on TTS). None of the people who died received the blood thinner heparin, which is thought to be dangerous to use on people who develop TTS.
+
+    / May, 2021 - Twitter
+    quote !f = CDC staff told ACIP that the Covid vaccine work group still thinks the benefits of use of the J&J vaccine outweigh its risks, but the situation will continue to be monitored and if that changes will come back to ACIP.
+
+    / May, 2021 - Twitter
+    quote !g = Only 1.2M doses of the J&J vaccine have been used in the US since the pause on the vaccine was lifted. Graphs show that before the pause, it was used essentially equally in women & men. Since the pause was lifted, that has changed.
+
+
+
+  #
+  // Real-World Effectiveness of Ad26.COV2.S Adenoviral Vector Vaccine for COVID-19
+  doi: https://dx.doi.org/10.2139/ssrn.3835737
+  ref 'Corchado-Garcia_et_al_05_10_2021
+    head = we leveraged large-scale longitudinal curation of electronic health records (EHRs) from the multi-state Mayo Clinic health system (MN, AZ, FL, WN, IA). We compared the infection rate of 2,195 individuals who received a single dose of the Ad26.COV2.S vaccine from Johnson & Johnson (J&J) to the infection rate of 21,950 unvaccinated, propensity-matched individuals between February 27th and April 14th 2021.
+
+    > Abstract
+      In light of the massive and rapid vaccination campaign against COVID-19, continuous real-world effectiveness and safety assessment of the FDA-authorized vaccines is critical to amplify transparency, build public trust, and ultimately improve overall health outcomes. In this study, we leveraged large-scale longitudinal curation of electronic health records (EHRs) from the multi-state Mayo Clinic health system (MN, AZ, FL, WN, IA). We compared the infection rate of 2,195 individuals who received a single dose of the Ad26.COV2.S vaccine from Johnson & Johnson (J&J) to the infection rate of 21,950 unvaccinated, propensity-matched individuals between February 27th and April 14th 2021. Of the 1,779 vaccinated individuals with at least two weeks of follow-up, only 3 (0.17%) tested positive for SARS-CoV-2 15 days or more after vaccination compared to 128 of 17,744 (0.72%) unvaccinated individuals (4.34 fold reduction rate). This corresponds to a vaccine effectiveness of 76.7% (95% CI: 30.3-95.3%) in preventing SARS-CoV-2 infection with onset at least two weeks after vaccination. This data is consistent with the clinical trial-reported efficacy of Ad26.COV2.S in preventing moderate to severe COVID-19 with onset at least 14 days after vaccine administration (66.9%; 95% CI: 59.0-73.4%). Due to the recent authorization of the Ad26.COV2.S vaccine, there are not yet enough hospitalizations, ICU admissions, or deaths within this cohort to robustly assess the effect of vaccination on COVID-19 severity, but these outcomes will be continually assessed in near-real-time with our platform. Collectively, this study provides further evidence that a single dose of Ad26.COV2.S is highly effective in preventing SARS-CoV-2 infection and reaffirms the urgent need to continue mass vaccination efforts globally.
+
+    - quotes
+      !a
+      !b
+
+
+    / May, 2021 - SSRN
+    quote !a = Of the 1,779 vaccinated individuals with at least two weeks of follow-up, only 3 (0.17%) tested positive for SARS-CoV-2 15 days or more after vaccination compared to 128 of 17,744 (0.72%) unvaccinated individuals (4.34 fold reduction rate). This corresponds to a vaccine effectiveness of 76.7% (95% CI: 30.3-95.3%) in preventing SARS-CoV-2 infection with onset at least two weeks after vaccination. This data is consistent with the clinical trial-reported efficacy of Ad26.COV2.S in preventing moderate to severe COVID-19 with onset at least 14 days after vaccine administration (66.9%; 95% CI: 59.0-73.4%).
+
+    / May, 2021 - SSRN
+    quote !b = This study provides further evidence that a single dose of Ad26.COV2.S is highly effective in preventing SARS-CoV-2 infection and reaffirms the urgent need to continue mass vaccination efforts globally.
+
+
+
+  #
+  // Estimating the early impact of immunization against COVID-19 on deaths among elderly people in Brazil: analyses of secondary data on vaccine coverage and mortality
+  doi: https://doi.org/10.1101/2021.04.27.21256187
+  ref 'Victora_et_al_04_30_2021
+    head = Denominators for mortality rates were calculated by correcting population estimates for all-cause deaths reported in 2020. Proportionate mortality at ages 80+ and 90+ years relative to deaths at all ages were calculated, and mortality rate ratios compared these two age groups with individuals aged 0-79 years. Vaccine coverage data were obtained from the Ministry of Health vaccination monitoring website. All results were tabulated by two-week periods from epidemiological weeks 1-14, 2021.
+
+    > Background
+      Immunization against COVID-19 in Brazil started in January 2021, with health workers and the elderly as the priority groups. We assessed whether there was an impact of immunizations on the mortality of individuals aged 80+ years.
+
+    > Methods
+      By April 22, 2021, 147,454 COVID-19 deaths had been reported to the Brazilian Mortality Information System. Denominators for mortality rates were calculated by correcting population estimates for all-cause deaths reported in 2020. Proportionate mortality at ages 80+ and 90+ years relative to deaths at all ages were calculated, and mortality rate ratios compared these two age groups with individuals aged 0-79 years. Vaccine coverage data were obtained from the Ministry of Health vaccination monitoring website. All results were tabulated by two-week periods from epidemiological weeks 1-14, 2021.
+
+    > Findings
+      As the P.1 variant spread throughout Brazil, the total number of deaths increased over time starting in epidemiological week 9 of 2021. The proportion of all deaths occurring at ages 80+ years was over 25% in weeks 1-6 and declined rapidly to 13.1% in weeks 13-14. Mortality rates were over 13 times higher in the 80+ years age group compared to that of 0-79 year olds up to week 6, and declined to 6.9 times in weeks 13-14. Coronavac accounted for 77.3% and AstraZeneca for 15.9% of all doses administered. Vaccination coverage (first dose) increased rapidly among individuals aged 80+ years, reaching 49.1% in weeks 5-6 and over 90% after week 9.
+
+    > Interpretation
+      Rapid scaling up of vaccination coverage among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals, in a setting where the P.1 variant predominates. Had mortality rates among the elderly remained proportionate to what was observed up to week 6, an estimated additional 13,824 deaths would have been expected up to week 14.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - medRxiv
+    quote !a = Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals, in a setting where the P.1 variant predominates. Had mortality rates among the elderly remained proportionate to what was observed up to week 6, an estimated additional 13,824 deaths would have been expected up to week 14.
+
+    / April, 2021 - medRxiv
+    quote !b = As the P.1 variant spread throughout Brazil, the total number of deaths increased over time starting in epidemiological week 9 of 2021. The proportion of all deaths occurring at ages 80+ years was over 25% in weeks 1-6 and declined rapidly to 13.1% in weeks 13-14.
+
+    / April, 2021 - medRxiv
+    quote !c = Mortality rates were over 13 times higher in the 80+ years age group compared to that of 0-79 year olds up to week 6, and declined to 6.9 times in weeks 13-14.
+
+    / April, 2021 - medRxiv
+    quote !d = Coronavac accounted for 77.3% and AstraZeneca for 15.9% of all doses administered. Vaccination coverage (first dose) increased rapidly among individuals aged 80+ years, reaching 49.1% in weeks 5-6 and over 90% after week 9.
+
+
+
+
+  #
+  // Interrupting vaccination policies can greatly spread SARS-CoV-2 and enhance mortality from COVID-19 disease: The AstraZeneca case for France and Italy
+  doi: https://doi.org/10.1063/5.0050887
+  ref 'Faranda_et_al_04_27_2021
+    head = Several European countries have suspended the inoculation of the AstraZeneca vaccine out of suspicion that it causes deep vein thrombosis. In this letter, we report some Fermi estimates performed using a stochastic model aimed at making a risk–benefit analysis of the interruption of the delivery of the AstraZeneca vaccine in France and Italy.
+
+    > Abstract
+      Several European countries have suspended the inoculation of the AstraZeneca vaccine out of suspicion that it causes deep vein thrombosis. In this letter, we report some Fermi estimates performed using a stochastic model aimed at making a risk–benefit analysis of the interruption of the delivery of the AstraZeneca vaccine in France and Italy. Our results clearly show that excess deaths due to the interruption of the vaccination campaign injections largely overrun those due to thrombosis even in worst case scenarios of frequency and gravity of the vaccine side effects.
+
 
     - quotes
       !a
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
+    / April, 2021 - Chaos: An Interdisciplinary Journal of Nonlinear Science
+    quote !a = Our results clearly show that excess deaths due to the interruption of the vaccination campaign injections largely overrun those due to thrombosis even in worst case scenarios of frequency and gravity of the vaccine side effects.
+
+
+
+
+  #
+  // The impact of SARS-CoV-2 vaccines on antibody responses in the general population in the United Kingdom
+  doi: https://doi.org/10.1101/2021.04.22.21255911
+  ref 'Wei_et_al_04_23_2021
+    head = In this study based on 45,965 vaccinated participants from a large random sample of the UK population, we show post-vaccine (Pfizer-BioNTech or Oxford-AstraZeneca) anti-spike IgG responses vary by prior infection status, age, sex, the vaccine type, and number of doses received.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / April, 2021 - medRxiv
+    quote !a = In those who were previously infected, all age groups achieved high antibody response after first vaccination, in keeping with immune priming by natural infection followed by a vaccine boost.
+
+    / April, 2021 - medRxiv
+    quote !b = In those without evidence of prior infection, older participants had lower responses than younger participants after receiving a single dose of vaccine, with especially marked effects in those over 60 years; fewer older participants seroconverted, and quantitative antibody responses rose more slowly and to a lower level.
+
+    / April, 2021 - medRxiv
+    quote !c = Two vaccine doses in a conventional prime-boost regimen achieved high responses across all age groups, and particularly increased the number of older people seroconverting to similar levels to those receiving one dose after prior infection, as recently reported in a much smaller number of younger individuals.
+
+    / April, 2021 - medRxiv
+    quote !d = In those without evidence of previous infection, at older ages females had a higher probability of being IgG positive than males, and females were more likely to be in the ‘high response’ group from the latent class model.
+
+    / April, 2021 - medRxiv
+    quote !e = Participants who received a single dose of Oxford-AstraZeneca vaccine had lower absolute antibody levels and their response was slower than those who received a single dose of Pfizer-BioNTech vaccine. However, the antibody levels in participants who received a single dose of Pfizer-BioNTech waned over time, whereas levels remained approximately constant after a single dose of Oxford-AstraZeneca.
+
+
+
+
+  #
+  // Vaccine side-effects and SARS-CoV-2 infection after vaccination in users of the COVID Symptom Study app in the UK: a prospective observational study
+  doi: https://doi.org/10.1016/S1473-3099(21)00224-3
+  ref 'Menni_et_al_04_27_2021
+    head = In this prospective observational study, we examined the proportion and probability of self-reported systemic and local side-effects within 8 days of vaccination in individuals using the COVID Symptom Study app who received one or two doses of the BNT162b2 vaccine or one dose of the ChAdOx1 nCoV-19 vaccine.
+
+    > Background
+      The Pfizer-BioNTech (BNT162b2) and the Oxford-AstraZeneca (ChAdOx1 nCoV-19) COVID-19 vaccines have shown excellent safety and efficacy in phase 3 trials. We aimed to investigate the safety and effectiveness of these vaccines in a UK community setting.
+
+    > Methods
+      In this prospective observational study, we examined the proportion and probability of self-reported systemic and local side-effects within 8 days of vaccination in individuals using the COVID Symptom Study app who received one or two doses of the BNT162b2 vaccine or one dose of the ChAdOx1 nCoV-19 vaccine. We also compared infection rates in a subset of vaccinated individuals subsequently tested for SARS-CoV-2 with PCR or lateral flow tests with infection rates in unvaccinated controls. All analyses were adjusted by age (≤55 years vs >55 years), sex, health-care worker status (binary variable), obesity (BMI <30 kg/m2 vs ≥30 kg/m2), and comorbidities (binary variable, with or without comorbidities).
+
+    > Findings
+      Between Dec 8, and March 10, 2021, 627 383 individuals reported being vaccinated with 655 590 doses: 282 103 received one dose of BNT162b2, of whom 28 207 received a second dose, and 345 280 received one dose of ChAdOx1 nCoV-19. Systemic side-effects were reported by 13·5% (38 155 of 282 103) of individuals after the first dose of BNT162b2, by 22·0% (6216 of 28 207) after the second dose of BNT162b2, and by 33·7% (116 473 of 345 280) after the first dose of ChAdOx1 nCoV-19. Local side-effects were reported by 71·9% (150 023 of 208 767) of individuals after the first dose of BNT162b2, by 68·5% (9025 of 13 179) after the second dose of BNT162b2, and by 58·7% (104 282 of 177 655) after the first dose of ChAdOx1 nCoV-19. Systemic side-effects were more common (1·6 times after the first dose of ChAdOx1 nCoV-19 and 2·9 times after the first dose of BNT162b2) among individuals with previous SARS-CoV-2 infection than among those without known past infection. Local effects were similarly higher in individuals previously infected than in those without known past infection (1·4 times after the first dose of ChAdOx1 nCoV-19 and 1·2 times after the first dose of BNT162b2). 3106 of 103 622 vaccinated individuals and 50 340 of 464 356 unvaccinated controls tested positive for SARS-CoV-2 infection. Significant reductions in infection risk were seen starting at 12 days after the first dose, reaching 60% (95% CI 49–68) for ChAdOx1 nCoV-19 and 69% (66–72) for BNT162b2 at 21–44 days and 72% (63–79) for BNT162b2 after 45–59 days.
+
+    > Interpretation
+      Systemic and local side-effects after BNT162b2 and ChAdOx1 nCoV-19 vaccination occur at frequencies lower than reported in phase 3 trials. Both vaccines decrease the risk of SARS-CoV-2 infection after 12 days.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - The Lancet Infectious Diseases
+    quote !a = Short-term adverse effects of both BNT162b2 and ChAdOx1 nCoV-19 vaccines are moderate in frequency, mild in severity, and short-lived.
+
+    / April, 2021 - The Lancet Infectious Diseases
+    quote !b =  Adverse effects are more frequently reported in younger individuals, women, and among those who previously had COVID-19.
+
+    / April, 2021 - The Lancet Infectious Diseases
+    quote !c = The post-vaccine symptoms (both systemic and local) often last 1–2 days from the injection.
+
+    / April, 2021 - The Lancet Infectious Diseases
+    quote !d = Our data support results from randomised controlled trials in a large community-based scenario showing evidence of reduction in infection after 12 days and substantial protection after 3 weeks.
+
+
+  #
+  // Preliminary Analysis of Safety and Immunogenicity of a SARS-CoV-2 Variant Vaccine Booster
+  doi: https://doi.org/10.1101/2021.05.05.21256716
+  ref 'Wu_et_al_05_06_2021
+    head = This is a preliminary evaluation of mRNA-1273 and mRNA-1273.351 given as boosters to individuals that had been vaccinated 6.2 to 6.7 months previously with mRNA-1273 in an amended phase 2 clinical trial of mRNA-1273.The modified vaccines include a monovalent mRNA-1273.351 encoding for the S protein found in the B.1.351 variant and multivalent mRNA-1273.211 comprising a 1:1 mix of mRNA-1273 and mRNA-1273.351.
+
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative agent of a global pandemic of coronavirus disease 2019 (COVID-19) that has led to more than 3 million deaths worldwide. Safe and effective vaccines are now available, including the mRNA-1273 prototype vaccine, which encodes for the Wuhan SARS-CoV-2 spike (S) protein stabilized in the prefusion conformation by 2 proline substitutions. This vaccine showed 94% efficacy in prevention of symptomatic COVID-19 disease in a phase 3 clinical study. Recently, SARS-CoV-2 variants have emerged, some of which have shown decreased susceptibility to neutralization by vaccine-induced antibody, most notably the B.1.351 variant, although the overall impact on vaccine efficacy remains to be determined. In addition, recent evidence of waning antibody levels after infection or vaccination point to the need for periodic boosting of immunity. Here we present the preliminary evaluation of a clinical study on the use of the prototype mRNA-1273 or modified COVID-19 mRNA vaccines, designed to target emerging SARS-CoV-2 variants as booster vaccines in participants previously vaccinated approximately 6 months earlier with two doses of the prototype vaccine, mRNA-1273. The modified vaccines include a monovalent mRNA-1273.351 encoding for the S protein found in the B.1.351 variant and multivalent mRNA-1273.211 comprising a 1:1 mix of mRNA-1273 and mRNA-1273.351. As single 50 µg booster vaccinations, both mRNA-1273 and mRNA-1273.351 had acceptable safety profiles and were immunogenic. Antibody neutralization titers against B.1.351 and P.1 variants measured by SARS-CoV-2 pseudovirus neutralization (PsVN) assays before the booster vaccinations, approximately 6 to 8 months after the primary series, were low or below the assay limit of quantification, although geometric mean titers versus the wild-type strain remained above levels likely to be protective. Two weeks after the booster vaccinations, titers against the wild-type original strain, B.1.351, and P.1 variants increased to levels similar to or higher than peak titers after the primary series vaccinations. Although both mRNA-1273 and mRNA-1273.351 boosted neutralization of the wild-type original strain, and B.1.351 and P.1 variants, mRNA-1273.351 appeared to be more effective at increasing neutralization of the B.1.351 virus versus a boost with mRNA-1273. The vaccine trial is ongoing and boosting of clinical trial participants with the multivalent mRNA-1273.211 is currently being evaluated.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / May, 2021 - medRxiv
+    quote !a = As single 50 µg booster vaccinations, both mRNA-1273 and mRNA-1273.351 had acceptable safety profiles and were immunogenic.
+
+    / May, 2021 - medRxiv
+    quote !b = Antibody neutralization titers against B.1.351 and P.1 variants measured by SARS-CoV-2 pseudovirus neutralization (PsVN) assays before the booster vaccinations, approximately 6 to 8 months after the primary series, were low or below the assay limit of quantification, although geometric mean titers versus the wild-type strain remained above levels likely to be protective.
+
+    / May, 2021 - medRxiv
+    quote !c = Two weeks after the booster vaccinations, titers against the wild-type original strain, B.1.351, and P.1 variants increased to levels similar to or higher than peak titers after the primary series vaccinations.
+
+    / May, 2021 - medRxiv
+    quote !d = Although both mRNA-1273 and mRNA-1273.351 boosted neutralization of the wild-type original strain, and B.1.351 and P.1 variants, mRNA-1273.351 appeared to be more effective at increasing neutralization of the B.1.351 virus versus a boost with mRNA-1273. The vaccine trial is ongoing and boosting of clinical trial participants with the multivalent mRNA-1273.211 is currently being evaluated.
+
+    / May, 2021 - medRxiv
+    quote !e = For both boosters, the most commonly reported solicited local adverse event was injection site pain and reported systemic events included fatigue, headache, myalgia and arthralgia, consistent with safety profiles seen in the phase 2 and 3 studies. It should be noted that limited adverse events of fever post-vaccination were reported in the Part B (mRNA-1273; 15%) but not the Part C (mRNA-1273.351; 0%) participants, similar to those reported after the second mRNA-1273 vaccinations in the phase 2 and phase 3 clinical trials. Importantly, in this small study, the booster dose of mRNA-1273.351 appears to be tolerated (solicited local and systemic adverse events) at least as well if not better than a booster dose of mRNA-1273.
+
+
+    / May, 2021 - medRxiv
+    quote !f = The mRNA platform approach against SARS-CoV-2 VOCs in this trial appears to be effective at boosting antibody levels when applied as a booster dose, with mitigation of the reductions in neutralization seen against the B.1.351 and P.1 lineages. The mRNA platform allows for rapid design of vaccine antigens that incorporate key mutations, allowing for faster development of future alternative variant-matched vaccines should they be needed. The vaccine designs evaluated in this clinical study demonstrate the ability to boost immunity to titers that likely exceed those that peak after the primary vaccination series against both the wild-type virus and variants, and also demonstrate the potential of the mRNA-1273.351 booster to close the gap between neutralization of the wild-type virus and the B.1.351 variant. In the future, additional VOC designs can be rapidly developed, evaluated, and deployed if needed to address the evolving SARS-CoV-2 virus.
+
+
+
+  #
+  // An observational study to identify the prevalence of thrombocytopenia and anti‐PF4/polyanion antibodies in Norwegian health care workers after COVID‐19 vaccination
+  doi: https://doi.org/10.1111/jth.15352
+  ref 'Sørvoll_et_al_04_28_2021
+    head = 492 health care workers recently vaccinated with the first dose of AZD1222 were recruited from two hospitals in Norway. Study individuals were screened for thrombocytopenia and the presence of anti‐PF4/polyanion antibodies with a PF4/PVS IgG ELISA immunoassay.
+
+    > Background
+      The COVID‐19 Vaccine from AstraZeneca (AZD1222) is one of several vaccines introduced to provide immunity against SARS‐CoV‐2. Recently, more than 50 cases have been reported presenting a combination of thrombosis, thrombocytopenia and remarkably high levels of anti‐PF4/polyanion antibodies post‐AZD1222 vaccination. Now linked to the vaccine, the condition is referred to as vaccine‐induced thrombotic thrombocytopenia (VITT). The European Medicines Agency still recommends vaccination with AZD1222, but several European countries have temporally paused and/or restricted its use because of the perceived risk of this severe side effect. As there is no description of PF4/polyanion antibody testing in the clinical trials, knowledge about the prevalence of such antibodies in a vaccinated cohort is needed.
+
+    > Objectives
+      To investigate prevalence of thrombocytopenia and anti‐PF4/polyanion antibodies in a population recently vaccinated with AZD1222.
+
+    > Patients/Methods
+      492 health care workers recently vaccinated with the first dose of AZD1222 were recruited from two hospitals in Norway. Study individuals were screened for thrombocytopenia and the presence of anti‐PF4/polyanion antibodies with a PF4/PVS IgG ELISA immunoassay. Side effects after vaccination were registered.
+
+    > Results
+      The majority of study participants had normal platelet counts and negative immunoassay. Anti‐PF4/polyanion antibodies without platelet activating properties were only detected in 6 individuals (OD ≥ 0.4, range 0.58‐1.16), all with normal platelet counts. No subjects had severe thrombocytopenia.
+
+    > Conclusions
+      We found low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes among Norwegian health care workers after vaccination with AZD1222.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / April, 2021 - Journal of thrombosis and haemostasis
+    quote !a = We found low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes among Norwegian health care workers after vaccination with AZD1222.
+
+    / April, 2021 - Journal of thrombosis and haemostasis
+    quote !b = The majority of study participants had normal platelet counts and negative immunoassay.
+
+    / April, 2021 - Journal of thrombosis and haemostasis
+    quote !c = Anti‐PF4/polyanion antibodies without platelet activating properties were only detected in 6 individuals (OD ≥ 0.4, range 0.58‐1.16), all with normal platelet counts.
+
+    / April, 2021 - Journal of thrombosis and haemostasis
+    quote !d = No subjects had severe thrombocytopenia.
+
+    / April, 2021 - Journal of thrombosis and haemostasis
+    quote !e = More than 60% of the subjects reported side effects as fever, headache, fatigue, malaise and muscle/joint ache, out of which >40% reporting symptoms as moderate or severe.
+
+    / April, 2021 - Journal of thrombosis and haemostasis
+    quote !f = Our data indicates that inflammatory symptoms show low pretest probability for anti-PF4/PVS antibody detection and the development of VITT.
+
+
+
+
+  #
+  // Infection and vaccine-induced neutralizing antibody responses to the SARS-CoV-2 B.1.617.1 variant.
+  doi: https://doi.org/10.1101/2021.05.09.443299
+  ref 'Edara_et_al_07_30_2021
+    head = We used a Live virus Focus Reduction Neutralization Test (FRNT) to compare the neutralizing antibody response in serum from 24 convalescent COVID-19 individuals (31-91 days after symptom onset), 15 mRNA-1273 vaccinated individuals (35-51 days post-2nd dose), and 10 BNT162b2 vaccinated individuals (7-27 days post-2nd dose).
+
+    > Abstract
+      SARS-CoV-2 has caused a devastating global pandemic. The recent emergence of SARS-CoV-2 variants that are less sensitive to neutralization by convalescent sera or vaccine-induced neutralizing antibody responses has raised concerns. A second wave of SARS-CoV-2 infections in India is leading to the expansion of SARS-CoV-2 variants. The B.1.617.1 variant has rapidly spread throughout India and to several countries throughout the world. In this study, using a live virus assay, we describe the neutralizing antibody response to the B.1.617.1 variant in serum from infected and vaccinated individuals. We found that the B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. Despite this, a majority of the sera from convalescent individuals and all sera from vaccinated individuals were still able to neutralize the B.1.617.1 variant. This suggests that protective immunity by the mRNA vaccines tested here are likely retained against the B.1.617.1 variant. As the B.1.617.1 variant continues to evolve, it will be important to monitor how additional mutations within the spike impact antibody resistance, viral transmission and vaccine efficacy.
+
+    - quotes
+      !a
+
+    / May, 2021 - bioRxiv
+    quote !a = We found that the B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. Despite this, a majority of the sera from convalescent individuals and all sera from vaccinated individuals were still able to neutralize the B.1.617.1 variant. This suggests that protective immunity by the mRNA vaccines tested here are likely retained against the B.1.617.1 variant.
+
+
+
+
+  #
+  // Drugs that inhibit TMEM16 proteins block SARS-CoV-2 spike-induced syncytia
+  doi: https://doi.org/10.1038/s41586-021-03491-6
+  ref 'Braga_et_al_04_07_2021
+    head = We show that the lungs of patients with COVID-19 contain infected pneumocytes with abnormal morphology and frequent multinucleation. The generation of these syncytia results from activation of the SARS-CoV-2 spike protein at the cell plasma membrane level. On the basis of these observations, we performed two high-content microscopy-based screenings with more than 3,000 approved drugs to search for inhibitors of spike-driven syncytia.
+
+    > Abstract
+      COVID-19 is a disease with unique characteristics that include lung thrombosis1, frequent diarrhoea2, abnormal activation of the inflammatory response and rapid deterioration of lung function consistent with alveolar oedema4. The pathological substrate for these findings remains unknown. Here we show that the lungs of patients with COVID-19 contain infected pneumocytes with abnormal morphology and frequent multinucleation. The generation of these syncytia results from activation of the SARS-CoV-2 spike protein at the cell plasma membrane level. On the basis of these observations, we performed two high-content microscopy-based screenings with more than 3,000 approved drugs to search for inhibitors of spike-driven syncytia. We converged on the identification of 83 drugs that inhibited spike-mediated cell fusion, several of which belonged to defined pharmacological classes. We focused our attention on effective drugs that also protected against virus replication and associated cytopathicity. One of the most effective molecules was the antihelminthic drug niclosamide, which markedly blunted calcium oscillations and membrane conductance in spike-expressing cells by suppressing the activity of TMEM16F (also known as anoctamin 6), a calcium-activated ion channel and scramblase that is responsible for exposure of phosphatidylserine on the cell surface. These findings suggest a potential mechanism for COVID-19 disease pathogenesis and support the repurposing of niclosamide for therapy.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / April, 2021 - Nature
+    quote !a = We focused our attention on effective drugs that also protected against virus replication and associated cytopathicity. One of the most effective molecules was the antihelminthic drug niclosamide, which markedly blunted calcium oscillations and membrane conductance in spike-expressing cells by suppressing the activity of TMEM16F (also known as anoctamin 6), a calcium-activated ion channel and scramblase that is responsible for exposure of phosphatidylserine on the cell surface. These findings suggest a potential mechanism for COVID-19 disease pathogenesis and support the repurposing of niclosamide for therapy.
+
+    / April, 2021 - Nature
+    quote !b = We examined the organs of 41 consecutive patients who died from COVID-19 in the period from March to May 2020 at the University Hospital in Trieste, Italy. In addition to diffuse alveolar damage, frequent thrombosis and extensive fibrotic substitution, a peculiar finding was the presence—in almost 90% of these patients—of atypical cells with the characteristic of syncytia, showing a large cytoplasm containing a variable number of nuclei, ranging from 2 to more than 20.Most of these syncytial cells were bona fide pneumocytes, as they expressed two pneumocyte-specific markers (napsin and surfactant B), and were positive for viral RNA by in situ hybridization.
+
+    / April, 2021 - Nature
+    quote !c = To confirm the specific involvement of TMEM16F in syncytia formation, we knocked down ACE2, TMEM16A and TMEM16F in Vero, HEK293 or Calu-3 cells. The downregulation of TMEM16F blunted syncytia formation in spike-expressing cells, similar to an anti-ACE2 siRNA. An analogous inhibitory effect of TMEM16F knockdown was observed in Calu-3 cells . Of interest for future investigation, TMEM16F knockdown had no apparent effect on syncytia induced by the MERS-CoV spike protein
+
+    / April, 2021 - Nature
+    quote !d = By contrast, overexpression of TMEM16F, but not of TMEM16A, significantly stimulated SARS-CoV-2 spike-induced syncytia . Finally, we observed that Calu-3 cells in which TMEM16F was downregulated showed significantly impaired infectious SARS-CoV-2 replication (visualization of infected cells with anti-spike and anti-nucleocapsid antibodies
+
+  #
+  // Loss of furin cleavage site attenuates SARS-CoV-2 pathogenesis
+  doi: https://doi.org/10.1038/s41586-021-03237-4
+  ref 'Johnson_et_al_01_25_2021
+    head = To explore whether the furin cleavage site contributes to infection and pathogenesis in this virus, we generated a mutant SARS-CoV-2 that lacks the furin cleavage site (ΔPRRA).
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)—a new coronavirus that has led to a worldwide pandemic—has a furin cleavage site (PRRAR) in its spike protein that is absent in other group-2B coronaviruses. To explore whether the furin cleavage site contributes to infection and pathogenesis in this virus, we generated a mutant SARS-CoV-2 that lacks the furin cleavage site (ΔPRRA). Here we report that replicates of ΔPRRA SARS-CoV-2 had faster kinetics, improved fitness in Vero E6 cells and reduced spike protein processing, as compared to parental SARS-CoV-2. However, the ΔPRRA mutant had reduced replication in a human respiratory cell line and was attenuated in both hamster and K18-hACE2 transgenic mouse models of SARS-CoV-2 pathogenesis. Despite reduced disease, the ΔPRRA mutant conferred protection against rechallenge with the parental SARS-CoV-2. Importantly, the neutralization values of sera from patients with coronavirus disease 2019 (COVID-19) and monoclonal antibodies against the receptor-binding domain of SARS-CoV-2 were lower against the ΔPRRA mutant than against parental SARS-CoV-2, probably owing to an increased ratio of particles to plaque-forming units in infections with the former. Together, our results demonstrate a critical role for the furin cleavage site in infection with SARS-CoV-2 and highlight the importance of this site for evaluating the neutralization activities of antibodies.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / January, 2021 - Nature
+    quote !a = We report that replicates of ΔPRRA SARS-CoV-2 had faster kinetics, improved fitness in Vero E6 cells and reduced spike protein processing, as compared to parental SARS-CoV-2.
+
+    / January, 2021 - Nature
+    quote !b = The ΔPRRA mutant had reduced replication in a human respiratory cell line and was attenuated in both hamster and K18-hACE2 transgenic mouse models of SARS-CoV-2 pathogenesis. Despite reduced disease, the ΔPRRA mutant conferred protection against rechallenge with the parental SARS-CoV-2.
+
+    / January, 2021 - Nature
+    quote !c = The neutralization values of sera from patients with coronavirus disease 2019 (COVID-19) and monoclonal antibodies against the receptor-binding domain of SARS-CoV-2 were lower against the ΔPRRA mutant than against parental SARS-CoV-2, probably owing to an increased ratio of particles to plaque-forming units in infections with the former.
+
+
+
+  #
+  // SARS-CoV-2 B.1.617 emergence and sensitivity to vaccine-elicited antibodies
+  doi: https://doi.org/10.1101/2021.05.08.443253
+  ref 'Ferreira_et_al_05_09_2021
+    head = We delineate the phylogenetics of B.1.617 and spike mutation frequencies, in the context of others bearing L452R.
+
+    > Abstract
+      The B.1.617 variant emerged in the Indian state of Maharashtra in late 2020 and has spread throughout India and to at least 40 countries. There have been fears that two key mutations seen in the receptor binding domain L452R and E484Q would have additive effects on evasion of neutralising antibodies. Here we delineate the phylogenetics of B.1.617 and spike mutation frequencies, in the context of others bearing L452R. The defining mutations in B.1.617.1 spike are L452R and E484Q in the RBD that interacts with ACE2 and is the target of neutralising antibodies. All B.1.617 viruses have the P681R mutation in the polybasic cleavage site region in spike. We report that B.1.617.1 spike bearing L452R, E484Q and P681R mediates entry into cells with slightly reduced efficiency compared to Wuhan-1. This spike confers modestly reduced sensitivity to BNT162b2 mRNA vaccine-elicited antibodies that is similar in magnitude to the loss of sensitivity conferred by L452R or E484Q alone. Furthermore we show that the P681R mutation significantly augments syncytium formation upon the B.1.617.1 spike protein, potentially contributing to increased pathogenesis observed in hamsters and infection growth rates observed in humans.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+
+    / May, 2021 - bioRxiv
+    quote !a = We report that B.1.617.1 spike bearing L452R, E484Q and P681R mediates entry into cells with slightly reduced efficiency compared to Wuhan-1. This spike confers modestly reduced sensitivity to BNT162b2 mRNA vaccine-elicited antibodies that is similar in magnitude to the loss of sensitivity conferred by L452R or E484Q alone.
+
+    / May, 2021 - bioRxiv
+    quote !b = The defining mutations in B.1.617.1 spike are L452R and E484Q in the RBD that interacts with ACE2 and is the target of neutralising antibodies. All B.1.617 viruses have the P681R mutation in the polybasic cleavage site region in spike.
+
+    / May, 2021 - bioRxiv
+    quote !c = We show that the P681R mutation is associated with enhanced capacity to induce cell-cell fusion and syncytium formation upon the B.1.617.1 spike protein, potentially contributing to increased pathogenesis observed in hamsters and infection growth rates observed in humans. P681R alone confers this ability on the B.1.617.1 spike with RBD mutations L452R and E484Q.
+
+    / May, 2021 - bioRxiv
+    quote !d = We also show vaccine breakthrough in health care workers at a single tertiary hospital who were fully vaccinated with ChAdOx-1 vaccine (adenovirus vectored). These infections were predominantly B.1.617, with a mix of other lineages bearing D614G in spike. The dominance of B.1.617 could be explained by prevalence of this lineage in community infection or simply reflect transmission between HCWs. The data nonetheless raise the possibility of a transmission advantage of B.1.617 in vaccinated individuals.
+
+    / May, 2021 - bioRxiv
+    quote !e = In the absence of published data on transmissibility of B.1.617 we predict that this variant will have a transmission advantage relative to Wuhan-1 with D614G in individuals with pre-existing immunity from vaccines/natural infection as well as in settings where there is low vaccine coverage and low prior exposure.
+
+    / May, 2021 - bioRxiv
+    quote !f = Progression to severe disease and death was low in all studies. Therefore, at population scale, extensive vaccination will likely protect against moderate to severe disease and will reduce transmission of B.1.617 given the in vitro neutralisation data we and others have presented.
+
+
 
   #
   // Vaccination boosts naturally enhanced neutralizing breadth to SARS-CoV-2 one year after infection
