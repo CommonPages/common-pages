@@ -7,11 +7,12 @@ revision feed Revisions
   let *May_10 mean May_10
   let *May_5 mean May_5
   let *April_30 mean April_30
+  let *April_29 mean April_29
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_17, *May_10, *May_05, *April_30 and *April_29). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_17, *May_10, *May_5, *April_30 and *April_29). You can *contribute by sending corrections and responding to open questions.
 
 
   public: May-17-2021
@@ -28,6 +29,19 @@ revision feed Revisions
     -
       Vaccines.Approved.AZD1222.!Covishieldneutralizing
       Variants.B1617.!Severity
+
+    >
+      On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days).
+    -
+      Vaccines.Approved.Tozinameran
+
+
+    >
+      Convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules in comparison to homologous vaccine schedules. All reactogenicity symptoms were short lived, and there were no concerns from the limited haematology and biochemistry data available. One observational study demonstrated 36 couples resuming IVF after recieving mRNA SARS-CoV-2 vaccine (Israel) did not affect patients’ performance or ovarian reserve in their immediate subsequent IVF cycle.
+    -
+      Vaccines.Approved.Tozinameran.!HeterologousprimeboostChAdBNT
+      Vaccines.Approved.Tozinameran.!MemoryBcells
+      Vaccines.Approved.Tozinameran.!IVFcycle
 
     >
       The furin cleavage site mutation P681R, similar to P681H - are found in multiple variant lineages - B.1.1.7, B.1.1.318, and A.23.1. Both P681H and P681R have been shown to optimise spike cleavage by furin which may enhance virus transmissibility. One study showed that the P681R mutation is associated with enhanced capacity to induce cell-cell fusion and syncytium formation (associated with fatal disease) upon the B.1.617.1 spike protein, potentially contributing to increased pathogenesis observed in hamsters and infection growth rates observed in humans.
@@ -49,13 +63,6 @@ revision feed Revisions
       Several European countries have suspended the inoculation of the AstraZeneca vaccine out of suspicion that it causes deep vein thrombosis. In a letter, few scientists reasoned against the Interruption of the AstraZeneca Vaccine campaign (France and Italy), reporting the results of a risk–benefit analysis that showed excess deaths due to the interruption of the vaccination campaign injections largely overrun those due to thrombosis even in worst case scenarios of frequency and gravity of the vaccine side effects.
     -
       Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!Disputesuspension
-
-    >
-      Convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules in comparison to homologous vaccine schedules. All reactogenicity symptoms were short lived, and there were no concerns from the limited haematology and biochemistry data available. One observational study demonstrated 36 couples resuming IVF after recieving mRNA SARS-CoV-2 vaccine (Israel) did not affect patients’ performance or ovarian reserve in their immediate subsequent IVF cycle.
-    -
-      Vaccines.Approved.Tozinameran.!HeterologousprimeboostChAdBNT
-      Vaccines.Approved.Tozinameran.!MemoryBcells
-      Vaccines.Approved.Tozinameran.!IVFcycle
 
 
     >

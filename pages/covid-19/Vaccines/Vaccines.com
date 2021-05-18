@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Pfizer vaccine has shown to significantly reduce viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules in comparison to homologous vaccine schedules. All reactogenicity symptoms were short lived, and there were no concerns from the limited haematology and biochemistry data available. Convalescent individuals who receive mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants.
+      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days). 
 
 
       >
@@ -150,10 +150,15 @@ subject module Vaccines
       - Side Effects
         !Germinalcenters
       >
-        In Feb of 2021, Pfizer Inc. (NYSE: PFE) and BioNTech SE (Nasdaq: BNTX) {'BioNTech_et_al_02_19_2021 announced} the submission of new data to the U.S. Food and Drug Administration (FDA) demonstrating the stability of their COVID-19 vaccine when stored at -25°C to -15°C (-13°F to 5°F), temperatures more commonly found in pharmaceutical freezers and refrigerators.
+        In Feb of 2021, Pfizer Inc. and BioNTech SE {'BioNTech_et_al_02_19_2021 announced} the submission of new data to the U.S. Food and Drug Administration (FDA) demonstrating the stability of their COVID-19 vaccine when stored at -25°C to -15°C (-13°F to 5°F), temperatures more commonly found in pharmaceutical freezers and refrigerators.
 
       -
         ?Approvals
+
+      >
+        On 17 May, 2021, EMA’s human medicines committee (CHMP) has [recommended a change to the approved storage conditions of the Pfizer vaccine](https://www.ema.europa.eu/en/news/more-flexible-storage-conditions-biontechpfizers-covid-19-vaccine). This change extends the approved storage period of the unopened thawed vial at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) from five days to one month (31 days).
+
+
 
 
       claim !ClinicalTrials = A phase 1/2/3 clinical trial for the Pfizer vaccine was first posted in April of 2020. It will evaluate the safety, tolerability, immunogenicity, and efficacy of two vaccines—BNT162b1 and BNT162b2—against COVID-19. The expected completion date is January of 2023.
@@ -535,6 +540,8 @@ subject module Vaccines
             'Levi_et_al_02_06_2021.!b
             'Levi_et_al_02_06_2021.!c
 
+
+
       claim !SingleDoseHumoralPfizer = In one study, some infection-naive individuals generated both weak T-cell responses and low titres of neutralising antibodies, and might not persist for a 12-week delay until a second dose is administered. Authors also found median anti-S titres post-vaccination in the infection-cohort to be lower than those seen 2–8 weeks after natural infection alone, and this difference was particularly striking in those older than 50 years.
         -
           'Prendecki_et_al_02_25_2021
@@ -666,10 +673,7 @@ subject module Vaccines
           'Pfizer_et_al_03_11_2021.!a
           'Pfizer_et_al_03_11_2021.!c
 
-      claim !PreviouslyinfectedPfizer = One findings indicated that serum neutralizing antibody titers against the predominant circulating SARS-CoV-2 strain and recent variants (including those containing the E484K mutation) were substantially higher in the previously infected group.
-        -
-          'Ellebedy_et_al_03_09_2021
-          'Ellebedy_et_al_03_09_2021.!c
+
 
       claim !ChildrenPfizer = In a press release on March of 2021, pfizer reported that no symptomatic infections were found among children(12-15 years) who received the vaccine in a recent clinical trial.
         -
@@ -691,16 +695,7 @@ subject module Vaccines
           'Rossman_et_al_04_19_2021.!a
           'Rossman_et_al_04_19_2021.!b
 
-      claim !PriorinfectionSingledoseBcells = One study analysis of antibodies and cellular memory reveals distinct responses to SARS-CoV-2 mRNA vaccines based on prior history of infection. The addition of memory B cells in this analysis, both in terms of frequency and phenotype, provides complemenary data that strengthens current serology-based evidence for a single-dose vaccine schedule in COVID-19 recovered individuals.
 
-      -
-        'Goel_et_al_04_15_2021
-        'Goel_et_al_04_15_2021.!a
-        'Goel_et_al_04_15_2021.!b
-        'Goel_et_al_04_15_2021.!c
-        'Goel_et_al_04_15_2021.!d
-        'Goel_et_al_04_15_2021.!e
-        'Goel_et_al_04_15_2021.!f
 
 
       claim !Singledoseolderpeople = Single doses of either the BNT162b2 or ChAdOx1vaccine in older people thus induce humoral immunity in most donors and are markedly enhanced by previous infection. Cellular responses are weaker but show relative enhancement after the ChAdOx1 platform.
@@ -737,6 +732,23 @@ subject module Vaccines
           'Lustig_et_al_04_07_2021.!b
           'Lustig_et_al_04_07_2021.!c
           'Lustig_et_al_04_07_2021.!d
+
+      claim !PreviouslyinfectedPfizer = One findings indicated that serum neutralizing antibody titers against the predominant circulating SARS-CoV-2 strain and recent variants (including those containing the E484K mutation) were substantially higher in the previously infected group.
+        -
+          'Ellebedy_et_al_03_09_2021
+          'Ellebedy_et_al_03_09_2021.!c
+
+
+      claim !PriorinfectionSingledoseBcells = One study analysis of antibodies and cellular memory reveals distinct responses to SARS-CoV-2 mRNA vaccines based on prior history of infection. The addition of memory B cells in this analysis, both in terms of frequency and phenotype, provides complemenary data that strengthens current serology-based evidence for a single-dose vaccine schedule in COVID-19 recovered individuals.
+
+      -
+        'Goel_et_al_04_15_2021
+        'Goel_et_al_04_15_2021.!a
+        'Goel_et_al_04_15_2021.!b
+        'Goel_et_al_04_15_2021.!c
+        'Goel_et_al_04_15_2021.!d
+        'Goel_et_al_04_15_2021.!e
+        'Goel_et_al_04_15_2021.!f
 
       / Moderna and Pfizer Vaccine efficacy againt B.1.427/B.1.429 variant (CA)
       claim !NeutralizingtitersB1427B1429 = Plasma from vaccinated or convalescent individuals (two doses of Pfizer/BioNTech BNT162b2 or Moderna mRNA-1273) exhibited neutralizing titers, which were reduced 3-6 fold against the B.1.427/B.1.429 variant relative to wildtype pseudoviruses.
@@ -1322,7 +1334,7 @@ subject module Vaccines
 
         / Oxford–AstraZeneca
         subject ChAdOx1nCoV-19
-          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19.  Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Governments and regulatory authorities (EMA, NACI, JCVI) have reacted by restricting the use of the two vaccines in different subgroups of the population, based on a risk-benefit analysis. They all confirm overall benefit-risk remains positive. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes and reported the overall risk is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. In a letter, few scientists reasoned against the Interruption of the AstraZeneca Vaccine campaign (France and Italy), reporting the results of a risk–benefit analysis that showed excess deaths due to the interruption of the vaccination campaign injections largely overrun those due to thrombosis even in worst case scenarios of frequency and gravity of the vaccine side effects.
+          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19.  Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Governments and regulatory authorities (EMA, NACI, JCVI) have reacted by restricting the use of the two vaccines in different subgroups of the population, based on a risk-benefit analysis. They all confirm overall benefit-risk remains positive. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes.
 
 
           >
@@ -3189,6 +3201,7 @@ subject module Vaccines
       !KeyConcern4
       !KeyConcern5
 
+
     >
       While, some researchers have argued that delaying the second vaccine dose does not increase the rate at which Immune escape variants become prevalent, in fact it might actually help to slow their emergence.
     -
@@ -3197,10 +3210,12 @@ subject module Vaccines
     - Epidemiological Considerations
       !Epidemiologicalconsiderationeffectivedose
 
-    >
-      Lab study of response to variants (B.1.351B.1.1.7, P.1, B.1.429, and B.1.526) in subjects from Moderna's phase 1 trial found limited magnitude and breadth of neutralizing activity after a single dose at Day 29 underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants.
-    -
-      Vaccines.Approved.mRNA-1273.!2doseregimen
+
+
+    claim !Casereports = Lab study of response to variants (B.1.351B.1.1.7, P.1, B.1.429, and B.1.526) in subjects from Moderna's phase 1 trial found limited magnitude and breadth of neutralizing activity after a single dose at Day 29 underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants. In one study, some infection-naive individuals generated both weak T-cell responses and low titres of neutralising antibodies, and might not persist for a 12-week delay until a second dose (Pfizer) is administered.
+      -
+        Vaccines.Approved.mRNA-1273.!2doseregimen
+        Vaccines.Approved.Tozinameran.!SingleDoseHumoralPfizer
 
 
     / Delaying Second dose

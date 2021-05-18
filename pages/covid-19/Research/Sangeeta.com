@@ -44,17 +44,25 @@ feed Sangeeta
 
     / May, 2021 - JAMA Netw Open.
     quote !a =
+
+
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // More flexible storage conditions for BioNTech/Pfizer’s COVID-19 vaccine
+  doi: https://www.ema.europa.eu/en/news/more-flexible-storage-conditions-biontechpfizers-covid-19-vaccine
+  ref 'EMA_et_al_05_17_2021
+    head = EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of Comirnaty, the COVID-19 vaccine developed by BioNTech and Pfizer, that will facilitate the handling of the vaccine in vaccination centres across the European Union (EU). This change extends the approved storage period of the unopened thawed vial at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) from five days to one month (31 days).
 
     - quotes
       !a
+      !b
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
+    / May, 2021 - EMA
+    quote !a = Increased flexibility in the storage and handling of the vaccine is expected to have a significant impact on planning and logistics of vaccine roll-out in EU Member States.
+
+    / May, 2021 - EMA
+    quote !b = The changes described will be included in the publicly available information on Comirnaty and will be implemented by the marketing authorisation holder in updated product labelling. Users are reminded to always refer to the label and package leaflet of the supplied product for the correct storage information.
+
 
 
   #

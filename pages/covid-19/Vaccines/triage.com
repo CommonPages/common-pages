@@ -91,7 +91,14 @@
       'Chevallier_et_al_02_09_2021.!c
 
 
-#### 05/17/21 ####
+#### 05/18/21 ####
+
+
+
+  >
+    How many studies are needed before we accept that people with prior covid-19 have a robust immune Ab response to a single dose of mRNA vaccines, like the 2nd dose for those with no prior covid?
+    !SingleDoseHumoralPfizer
+
 # head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_17, *May_10, *May_05, *April_30 and *April_29). You can *contribute by sending corrections and responding to open questions.
 #
 #
