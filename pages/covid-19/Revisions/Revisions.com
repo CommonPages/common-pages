@@ -6,13 +6,11 @@ revision feed Revisions
   let *May_17 mean May_17
   let *May_10 mean May_10
   let *May_5 mean May_5
-  let *April_30 mean April_30
-  let *April_29 mean April_29
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_17, *May_10, *May_5, *April_30 and *April_29). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_17, *May_10 and *May_5). You can *contribute by sending corrections and responding to open questions.
 
 
   public: May-17-2021
@@ -107,7 +105,7 @@ revision feed Revisions
   public: May-10-2021
   / May 10, 2021
   revision May_10
-    head = We have updated the variant section on B.1.617 (Identified in India). VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021; it is at least as transmissible as B.1.1.7 (the Kent variant). There are insufficient data currently to assess the potential for immune escape. Almost half the cases in the UK (B.1.617.2) variant are related to travel or contact with a traveller. The other variants detected in India, VUI-21APR-01 and VUI-21APR-03 are not VOCs. B.1.617 evaded antibodies induced by infection or BNT162b2 vaccination, although with moderate efficiency.
+    head = We have updated the variant section on B.1.617 (identified in India). VOC-21APR-02 (B.1.617.2) was designated as a variant of concern on 6 May 2021; it is at least as transmissible as B.1.1.7 (the Kent variant). There are insufficient data currently to assess the potential for immune escape. Almost half the cases in the UK (B.1.617.2) variant are related to travel or contact with a traveller. The other variants detected in India, VUI-21APR-01 and VUI-21APR-03 are not VOCs. B.1.617 evaded antibodies induced by infection or BNT162b2 vaccination, although with moderate efficiency.
 
     -
       Variants.B1617.!B16172
