@@ -91,8 +91,50 @@
       'Chevallier_et_al_02_09_2021.!c
 
 
-#### 05/18/21 ####
+#### 05/19/21 ####
 
+
+  
+
+  claim !PF4polyanion = One study concluded that low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2.s These PF4/polyanion antibodies do not activate platelets and may have little relevance for the diagnosis of VITT.
+    -
+      'Thiele_et_al_05_14_2021
+      'Thiele_et_al_05_14_2021.!a
+
+
+
+  claim !Delayed2nddosepfizer = One study showed that delaying the second dose of the Pfizer–BioNTech mRNA vaccine increases the peak antibody response by 3.5-fold in older people.
+    -
+      'Parry_et_al_05_17_2021
+      'Parry_et_al_05_17_2021.!a
+      'Parry_et_al_05_17_2021.!b
+
+  >
+    once these SARS-CoV-2 vaccines have developed initial immunity, a substantial level of protection is afforded, albeit reduced to varying degrees.9 Whether this protection wanes beyond the tested boosting time-points examined in these clinical trials, however, is a large (and important) unknown.
+
+  claim !ConcernDelay2nddose = It is not a trivial decision to alter the evidence-based vaccination schedule, and although we may get away with it, there is a risk that partial protection may actually facilitate the SARS-CoV-2 virus to mutate in situ, escaping the weak immune responses and encourage vaccine-resistant virus variants, which could then spread.
+    -
+      'Humphreys_et_al_04_02_2021
+      'Humphreys_et_al_04_02_2021.!a
+      'Humphreys_et_al_04_02_2021.!b
+      'Humphreys_et_al_04_02_2021.!c
+      'Humphreys_et_al_04_02_2021.!d
+      'Humphreys_et_al_04_02_2021.!e
+      'Humphreys_et_al_04_02_2021.!f
+      'Humphreys_et_al_04_02_2021.!g
+      'Humphreys_et_al_04_02_2021.!h
+      'Humphreys_et_al_04_02_2021.!i
+
+  claim !Sputnikreply = The authors reply to Bucci et al, the Data discrepancies and substandard reporting of interim data of Sputnik V phase 3 trial
+    -
+      'Logunov_et_al_05_12_2021
+      'Logunov_et_al_05_12_2021.!a
+      'Logunov_et_al_05_12_2021.!b
+      'Logunov_et_al_05_12_2021.!c
+      'Logunov_et_al_05_12_2021.!d
+      'Logunov_et_al_05_12_2021.!e
+      'Logunov_et_al_05_12_2021.!f
+      'Logunov_et_al_05_12_2021.!g
 
 
   >

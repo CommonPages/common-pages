@@ -11,6 +11,21 @@ feed Sangeeta
     / May, 2021 - JAMA Netw Open.
     quote !a =
 
+
+  #
+
+  #
+
+  #
+
+  #
+
+  #
+
+  #
+
+  #
+
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -34,6 +49,7 @@ feed Sangeeta
     / May, 2021 - JAMA Netw Open.
     quote !a =
   #
+  #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
   ref 'Doremalen_et_al_07_30_2021
@@ -44,6 +60,149 @@ feed Sangeeta
 
     / May, 2021 - JAMA Netw Open.
     quote !a =
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Data discrepancies and substandard reporting of interim data of Sputnik V phase 3 trial – Authors' reply
+  doi: https://doi.org/10.1016/S0140-6736(21)00894-1
+  ref 'Logunov_et_al_05_12_2021
+    head = The authors reply to Bucci et al, the Data discrepancies and substandard reporting of interim data of Sputnik V phase 3 trial.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !g
+
+    / May, 2021 - The Lancet
+    quote !a = Clear and transparent regulatory standards exist for provision of clinical trial data, including data reported in clinical study reports that are considered sufficient for regulatory review and approvals. The reporting of the interim analysis in the phase 3 Sputnik V clinical trial fully complies with those standards. It is on this basis that Sputnik V has received registration in 51 countries, which confirms our full transparency and compliance with regulatory requirements.
+
+    / May, 2021 - The Lancet
+    quote !b = The registration scheme for COVID-19 cases is described in the Article (p 674). When COVID-19 was suspected, participants were assessed according to COVID-19 diagnostic protocols, including PCR testing at a central laboratory in Moscow, Russia. Severity of disease was established upon confirmation of the COVID-19 diagnosis by site investigators. A description of the assessment criteria for severity of COVID-19 is available in the appendix of the Article. Thus, we have described the clinical parameters to determine COVID-19. PCR testing was done in hospitals using test systems registered in Russia.1 It seems strange to ask about the number of amplification cycles when performing PCR on a registered test system.
+
+    / May, 2021 - The Lancet
+    quote !c = Enrico Bucci and colleagues correctly note that 21 977 individuals were included in the study, as of Nov 24, 2020, as shown in figure 1 of the Article. The ClinicalTrials.gov record states that as of Jan 20, 2021, the number of participants increased to 33 758. 13 986 individuals were indeed excluded; some of the volunteers were screened and had not yet been randomised at the time of the snapshot, and others were excluded according to the exclusion criteria or did not meet the inclusion criteria. Numerical inconsistencies were simple typing errors that were formally corrected.
+
+    / May, 2021 - The Lancet
+    quote !d = We provide data on the number of cases, sample sizes, efficiency values, confidence intervals, and significance level for each age group in the Article. According to the above formula for calculating the efficiency and the method for calculating the confidence interval, readers can calculate and confirm that the efficiency values are the same as shown in table. The homogeneity of the values only confirms the fact that, as described in the Article, the effectiveness of the vaccine does not differ between age groups. In this case, the main parameter by which one can judge the difference in effectiveness is the confidence interval, the differences in which are quite significant due to the different sample sizes and the number of COVID-19 cases at the time of analysis.
+
+    / May, 2021 - The Lancet
+    quote !e = With regard to the data on the upper limit of the confidence interval in the placebo group in table S3 of the appendix, we confirm the data shown are correct.
+
+    / May, 2021 - The Lancet
+    quote !f = It is important to note that the safety and immunogenicity of the Sputnik V vaccine has been confirmed by researchers in Argentina, where the vaccination with Sputnik V began.
+
+    / May, 2021 - The Lancet
+    quote !g = Preliminary data show the vaccine has an appropriate safety profile, and the most common adverse events were pain at the injection site, fever, and muscle pain. A study of immunogenicity showed 16 titres of neutralising antibodies to SARS-CoV-2 after the first dose and 64 titres after the second dose, which correlates with the published results from vaccine clinical trial phase 1/2 and phase 3 in Russia. Unfortunately, due to the use of different ELISA kits, it is not possible to compare the specific IgG concentrations in these studies. However, it should be noted that a specific humoral response was detected in all vaccinated participants. An important detail in the report from Argentina is the observation that vaccination of people with a history of COVID-19 leads to a quick and significant increase in antibodies after a single dose of vaccine.
+
+
+
+  #
+  // The potential risks of delaying the second vaccine dose during the SARS-CoV-2 pandemic
+  doi: https://doi.org/10.1093/qjmed/hcab046
+  ref 'Humphreys_et_al_04_02_2021
+    head = It is not a trivial decision to alter the evidence-based vaccination schedule, and although we may get away with it, there is a risk that it may increase the chance of virulent mutations of SARS-CoV-2 to emerge.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / March, 2021 - QJM: An International Journal of Medicine
+    quote !a = There are three types of risk to counterbalance: (i) not vaccinating high-risk subjects in a timely fashion, (ii) if one dose is ineffectual or suboptimal, it may leave the individual at risk until the booster given and (iii) partial protection may actually facilitate the SARS-CoV-2 virus to mutate in situ, escaping the weak immune responses and encourage vaccine-resistant virus variants, which could then spread.
+
+    / March, 2021 - QJM: An International Journal of Medicine
+    quote !b = Consider some details of the trials carried out so far. Phase III efficacy trials of the Pfizer RNA-based vaccine examined immunogenicity and efficacy of a prime-boost regime with a 21-day space between the two injections. Boosting the response led to a log-fold increase in IgG titers and dramatically increased antibody efficacy measured in an in vitro neutralization assay.
+
+    / March, 2021 - QJM: An International Journal of Medicine
+    quote !c = Similarly, analysis of T cell responses post-boost revealed induction of spike receptor binding domain (RBD)-specific TH1 and CD8+ T-cell responses in >95% and >75% of individuals, respectively. Weaker T cell induction was observed after a single dose vaccination.
+
+    / March, 2021 - QJM: An International Journal of Medicine
+    quote !d = The Moderna mRNA-1273 vaccine behaves in the same manner, inducing much higher neutralizing antibody titers after the second vaccination boost at day 28.
+
+    / March, 2021 - QJM: An International Journal of Medicine
+    quote !e = The Oxford/AstraZeneca adenovirus-based vaccine again exhibits increased antibody responses after boosting, albeit with a negligible impact on T cells.
+
+    / March, 2021 - QJM: An International Journal of Medicine
+    quote !f = In initial trials, a single dose of Pfizer vaccine afforded ∼50% and ∼90% protection from infection and severe disease, respectively. Real-World data derived from Israel (>500 000 individuals) also indicated ∼50% reduction in SARS-CoV-2 infection from 13 days post-single dose. Early reported efficacy (∼94%) of the Moderna mRNA-based vaccine was afforded as early as 14 days after the first dose.
+
+    / March, 2021 - QJM: An International Journal of Medicine
+    quote !g = The Oxford/AstraZeneca vaccine offered >64% efficacy after one dose as compared to 70.4–90% efficacy of two doses (depending on dosing regime).
+
+    / March, 2021 - QJM: An International Journal of Medicine
+    quote !h = The level of protection, at least in the short term, is reasonable, albeit not perfect, after the prime dose of these vaccines. However, a far more serious and insidious consequence may be the acceleration of vaccine redundancy. Immune pressure can promote virus evolution, and SARS-CoV-2-specific antibody drives the selection of viruses capable of avoiding spike RBD-specific immunity in vitro.
+
+    / March, 2021 - QJM: An International Journal of Medicine
+    quote !i = Notably, substitutions within the RBD of the spike glycoprotein reported in SARS-CoV-2 strains in the human population (e.g. K417N/T, E484K and N501Y) reduce protection conferred by plasma derived from convalescents or vaccines,11 demonstrating that the development of vaccine-resistant SARS-CoV-2 has commenced. The rapid emergence of a SARS-CoV-2 variant that is resistant to current vaccines would spell a new disaster.
+
+
+  #
+  // Extended interval BNT162b2 vaccination enhances peak antibody generation in older people
+  doi: https://doi.org/10.1101/2021.05.15.21257017
+  ref 'Parry_et_al_05_17_2021
+    head = Population based cohort study comparing immune responses 2 weeks after the second vaccine, with appropriate time-matched samples in participants who received standard or extended interval double vaccination.
+
+    > Objectives
+      To assess the relative immunogenicity of standard or extended interval BNT162b2 vaccination.
+
+    > Design
+      Population based cohort study comparing immune responses 2 weeks after the second vaccine, with appropriate time-matched samples in participants who received standard or extended interval double vaccination.
+
+    > Setting
+      Primary care networks, Birmingham, UK. December 2020 to April 2021. Participants: 175 people aged over 80 years of age. All donors received the BNT162b2 Pfizer/BioNTech vaccination and were vaccinated with either a standard 3 week interval between doses or an extended interval schedule.
+
+    > Main outcome measures
+      Peak quantitative spike-specific antibody and cellular immune responses.
+
+    > Results
+      In donors without evidence of previous infection the peak antibody response was 3.5-fold higher in donors who had undergone delayed interval vaccination. Cellular immune responses were 3.6-fold lower.
+
+    > Conclusion
+      Peak antibody responses after the second BNT162b2 vaccine are markedly enhanced in older people when this is delayed to 12 weeks although cellular responses are lower. Extended interval vaccination may therefore offer the potential to enhance and extend humoral immunity. Further follow up is now required to assess long term immunity and clinical protection.
+
+    - quotes
+      !a
+      !b
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a = Peak antibody responses after the second BNT162b2 vaccine are markedly enhanced in older people when this is delayed to 12 weeks although cellular responses are lower.
+
+    / May, 2021 - JAMA Netw Open.
+    quote !b = In donors without evidence of previous infection the peak antibody response was 3.5-fold higher in donors who had undergone delayed interval vaccination. Cellular immune responses were 3.6-fold lower.
+
+
+
+  #
+  // Frequency of positive anti-PF4/polyanion antibody tests after COVID-19 vaccination with ChAdOx1 nCoV-19 and BNT162b2
+  doi: https://doi.org/10.1182/blood.2021012217
+  ref 'Thiele_et_al_05_14_2021
+    head = We determined the frequency of anti-PF4/polyanion antibodies in healthy vaccinees and assessed whether PF4/polyanion EIA-positive sera exhibit platelet-activating properties after vaccination with ChAdOx1 nCoV-19 (n=138) or BNT162b2 (BioNTech/Pfizer; n=143).
+
+    - quotes
+      !a
+
+    / May, 2021 - American Society of Hematology
+    quote !a = Low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2. These PF4/polyanion antibodies do not activate platelets and may have little relevance for the diagnosis of VITT.
+
 
 
 

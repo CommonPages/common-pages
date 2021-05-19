@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days). 
+      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days).
 
 
       >
@@ -93,6 +93,8 @@ subject module Vaccines
         !PriorinfectionSingledoseBcells
         !PriorinfectionPfizerneutralizingactivity
         !UKPostvaccineantispikeIgG
+      - Delaying 2nd Dose
+        !Delayed2nddosepfizer
       - Heterologous Prime Booster
         !HeterologousprimeboostChAdBNT
       - Older People
@@ -142,6 +144,7 @@ subject module Vaccines
         AnaphylaxisPEG
         !BellsPalsy
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!RiskCVT
+        Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!ThromboticThrombocytopeniareports.!PF4polyanion
       - Real World Data: Adverse Effects
         !AdverseeffectsBNT162b2ChAdOx1
 
@@ -152,11 +155,14 @@ subject module Vaccines
       >
         In Feb of 2021, Pfizer Inc. and BioNTech SE {'BioNTech_et_al_02_19_2021 announced} the submission of new data to the U.S. Food and Drug Administration (FDA) demonstrating the stability of their COVID-19 vaccine when stored at -25°C to -15°C (-13°F to 5°F), temperatures more commonly found in pharmaceutical freezers and refrigerators.
 
+
+      >
+        On 17 May, 2021, EMA’s human medicines committee (CHMP) has {'EMA_et_al_05_17_2021 recommended a change to the approved storage conditions} of the Pfizer vaccine. This change extends the approved storage period of the unopened thawed vial at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) from five days to one month (31 days).
+
       -
         ?Approvals
 
-      >
-        On 17 May, 2021, EMA’s human medicines committee (CHMP) has [recommended a change to the approved storage conditions of the Pfizer vaccine](https://www.ema.europa.eu/en/news/more-flexible-storage-conditions-biontechpfizers-covid-19-vaccine). This change extends the approved storage period of the unopened thawed vial at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) from five days to one month (31 days).
+
 
 
 
@@ -836,6 +842,12 @@ subject module Vaccines
          'Tada_et_al_05_16_2021.!g
          'Tada_et_al_05_16_2021.!h
 
+      claim !Delayed2nddosepfizer = One study showed that delaying the second dose of the Pfizer–BioNTech mRNA vaccine increases the peak antibody response by 3.5-fold in older people.
+       -
+         'Parry_et_al_05_17_2021
+         'Parry_et_al_05_17_2021.!a
+         'Parry_et_al_05_17_2021.!b
+
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
     / Moderna
@@ -1334,7 +1346,7 @@ subject module Vaccines
 
         / Oxford–AstraZeneca
         subject ChAdOx1nCoV-19
-          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19.  Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Governments and regulatory authorities (EMA, NACI, JCVI) have reacted by restricting the use of the two vaccines in different subgroups of the population, based on a risk-benefit analysis. They all confirm overall benefit-risk remains positive. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes.
+          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19.  Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Governments and regulatory authorities (EMA, NACI, JCVI) have reacted by restricting the use of the two vaccines in different subgroups of the population, based on a risk-benefit analysis. They all confirm overall benefit-risk remains positive. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes. Low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2, however, they do not activate platelets and may have little relevance for the diagnosis of VITT.
 
 
           >
@@ -1576,7 +1588,7 @@ subject module Vaccines
               'Faranda_et_al_04_27_2021.!a
 
           / Thrombotic Thrombocytopenia Reports
-          claim !ThromboticThrombocytopeniareports = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes and reported the overall risk is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. A Journal review on 3 independent case reports also suggested our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established.
+          claim !ThromboticThrombocytopeniareports = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes A Journal review on 3 independent case reports also suggested our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established. Low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2, however, they do not activate platelets and may have little relevance for the diagnosis of VITT.
 
             -
               'Scully_et_al_04_16_2021
@@ -1665,10 +1677,19 @@ subject module Vaccines
                   'Douglas_et_al_04_16_2021
                   'Douglas_et_al_04_16_2021.!h
 
+            / PF4/polyanion antibodies - little relevance for the diagnosis of VITT
+            claim !PF4polyanion = One study concluded that low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2. These PF4/polyanion antibodies do not activate platelets and may have little relevance for the diagnosis of VITT.
+              -
+                'Thiele_et_al_05_14_2021
+                'Thiele_et_al_05_14_2021.!a
+
+
             claim !Dispute = A Journal highlighting 3 independent case reports stated that anti-PF4–polyanion antibodies are detected in 25 to 50% of patients after cardiovascular surgery — heparin-induced thrombocytopenia is not, and only in rare cases does cerebral venous sinus thrombosis or thrombi in abdominal vessels develop in patients with heparin-induced thrombocytopenia, suggesting that our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established.
             -
               'Douglas_et_al_04_16_2021
               'Douglas_et_al_04_16_2021.!j
+
+
 
         / Johnson & Johnson/Janssen
         subject Ad26COV2S
@@ -1759,7 +1780,7 @@ subject module Vaccines
           -
             'GOVUK_et_al_05_07_2021
             'GOVUK_et_al_05_07_2021.!e
-          -
+
 
 
         / Treatment Approach
@@ -2298,6 +2319,11 @@ subject module Vaccines
       -
         !Datadiscrepancies
 
+      >
+        Sputnik investigators replied to the experts Bucci et al that the reporting of the interim analysis in the phase 3 Sputnik V clinical trial fully complies with the clear and transparent regulatory standards. It is on this basis that Sputnik V has received registration in 51 countries and clarified with further details in their correspondence.
+      -
+        !Sputnikreply
+
 
       - Key Concerns
         Ad5-nCOV.!Concern
@@ -2375,6 +2401,18 @@ subject module Vaccines
           'Bucci_et_al_05_12_2021.!e
           'Bucci_et_al_05_12_2021.!f
           'Bucci_et_al_05_12_2021.!g
+
+
+      claim !Sputnikreply = The authors reply to Bucci et al, the Data discrepancies and substandard reporting of interim data of Sputnik V phase 3 trial
+        -
+          'Logunov_et_al_05_12_2021
+          'Logunov_et_al_05_12_2021.!a
+          'Logunov_et_al_05_12_2021.!b
+          'Logunov_et_al_05_12_2021.!c
+          'Logunov_et_al_05_12_2021.!d
+          'Logunov_et_al_05_12_2021.!e
+          'Logunov_et_al_05_12_2021.!f
+          'Logunov_et_al_05_12_2021.!g
 
     / Sinovac
     subject CoronaVac
@@ -2940,6 +2978,7 @@ subject module Vaccines
         Approved.Tozinameran.!Singledoseolderpeople
         Approved.Tozinameran.!GermanySingledoseincompleteprotection
         Approved.Tozinameran.!UKPostvaccineantispikeIgG
+        Approved.Tozinameran.!Delayed2nddosepfizer
 
       - Moderna
         Approved.mRNA-1273.!Olderpeople
@@ -3187,7 +3226,7 @@ subject module Vaccines
       !Nodifferenceefficacy
 
     >
-      A number of scientists have also supported the decision to delay the second dose of the mRNA vaccines in order to cover all priority groups.
+      A number of scientists have also supported the decision to delay the second dose of the mRNA vaccines in order to cover all priority groups. One study showed that {Approved.Tozinameran.!Delayed2nddosepfizer delaying the second dose of the Pfizer–BioNTech mRNA vaccine (11–12 weeks)} increases the peak antibody response by 3.5-fold in older people, although the cellular responses were lower.
     -
       !ArgumentEfficacy
 
@@ -3200,7 +3239,8 @@ subject module Vaccines
       !KeyConcern3
       !KeyConcern4
       !KeyConcern5
-
+    -
+      !ConcernDelay2nddose
 
     >
       While, some researchers have argued that delaying the second vaccine dose does not increase the rate at which Immune escape variants become prevalent, in fact it might actually help to slow their emergence.
@@ -3210,6 +3250,10 @@ subject module Vaccines
     - Epidemiological Considerations
       !Epidemiologicalconsiderationeffectivedose
 
+    >
+      In May of 2021, there have been concerns about the rise in cases of the {Variants.B1617 B.1.617.2 variant} in the UK and changing the strategy of delayed 2nd dose. Studies shows limited neutralizing activity against the circulating variants after a single dose underscoring the importance of full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants.
+    -
+      !Casereports
 
 
     claim !Casereports = Lab study of response to variants (B.1.351B.1.1.7, P.1, B.1.429, and B.1.526) in subjects from Moderna's phase 1 trial found limited magnitude and breadth of neutralizing activity after a single dose at Day 29 underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants. In one study, some infection-naive individuals generated both weak T-cell responses and low titres of neutralising antibodies, and might not persist for a 12-week delay until a second dose (Pfizer) is administered.
@@ -3330,6 +3374,18 @@ subject module Vaccines
         'Cobey_et_al_04_01_2021.!a
         'Cobey_et_al_04_01_2021.!b
 
+    claim !ConcernDelay2nddose = It is not a trivial decision to alter the evidence-based vaccination schedule, and although we may get away with it, there is a risk that partial protection may actually facilitate the SARS-CoV-2 virus to mutate in situ, escaping the weak immune responses and encourage vaccine-resistant virus variants, which could then spread.
+      -
+        'Humphreys_et_al_04_02_2021
+        'Humphreys_et_al_04_02_2021.!a
+        'Humphreys_et_al_04_02_2021.!b
+        'Humphreys_et_al_04_02_2021.!c
+        'Humphreys_et_al_04_02_2021.!d
+        'Humphreys_et_al_04_02_2021.!e
+        'Humphreys_et_al_04_02_2021.!f
+        'Humphreys_et_al_04_02_2021.!g
+        'Humphreys_et_al_04_02_2021.!h
+        'Humphreys_et_al_04_02_2021.!i
   —
   / Types of Vaccines
   subject Types

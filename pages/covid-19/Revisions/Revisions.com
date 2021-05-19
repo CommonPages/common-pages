@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *May_19 mean May_19
   let *May_17 mean May_17
   let *May_10 mean May_10
   let *May_5 mean May_5
@@ -10,7 +11,18 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_17, *May_10 and *May_5). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_19, *May_17, *May_10, *May_5, *April_30 and *April_29). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: May-19-2021
+  / May 19, 2021
+  revision May_19
+    head = We have updated the Effective Dosing and Vaccines section. Low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2, however, they do not activate platelets and may have little relevance for the diagnosis of VITT. Sputnik authors reply to Bucci et al, the Data discrepancies and substandard reporting of interim data of Sputnik V phase 3 trial. There have been concerns about the rise in cases of the B.1.617.2 variant in the UK and changing the strategy of delayed 2nd dose. Studies shows limited neutralizing activity against the circulating variants after a single dose underscoring the importance of full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants.
+    -
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!ThromboticThrombocytopeniareports.!PF4polyanion
+      Vaccines.Approved.Gam-COVID-Vac.!Sputnikreply
+      Vaccines.EffectiveDosing
+
 
 
   public: May-17-2021
