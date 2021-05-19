@@ -2416,7 +2416,7 @@ subject module Vaccines
 
     / Sinovac
     subject CoronaVac
-      head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. In Jan of 2021, Brazil announced that Sinovac has an efficacy rate just over 50 percent. Real world evidence showed that against P.1 variant, vaccine effiveness after at least one dose was 49.6% against symptomatic COVID-19. As of Feb of 2021, Sinovac is approved for emergency use in 15 Countries. Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals.
+      head = On-going phase 3 trials for Sinovac vaccines are being conducted in Turkey, Brazil, Chile and Indonesia. In phase 2 vaccine results were posted in November of 2020 showed immunogenicity eliciting 92% seroconversion at lower dose and 98% at higher dose after 14 days. In Jan of 2021, Brazil announced that Sinovac has an efficacy rate just over 50 percent. Real world evidence showed that against P.1 variant, vaccine effiveness after at least one dose was 49.6% against symptomatic COVID-19. Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals. Preliminary evidence from Chile, suggests that both, seropositive and naïve individuals, require two doses of CoronaVac to generate a robust induction of nAb titer.
 
       >
         CoronaVac is developed by the Chinese biopharmaceutical company [Sinovac](http://www.sinovac.com/).  The vaccine contains chemically-inactivated whole SARS-CoV-2 virus.
@@ -2448,6 +2448,8 @@ subject module Vaccines
       - Real World data
         !Brazilsingledose
         !BrazilPositiveImpactCoronavacAZ
+        !Chilepreliminarydata
+
 
       / On going clinical trials
       claim !OngoingTrials = Clinical trials for Sinovac started since April 2020. The estimated completion date for phase 3 trials is October of 2021. Trials are on-going to evaluate the safety, tolerability, immunogenicity, and efficacy of CoronaVac Against COVID-19.
@@ -2496,6 +2498,16 @@ subject module Vaccines
           'Victora_et_al_04_30_2021.!b
           'Victora_et_al_04_30_2021.!c
           'Victora_et_al_04_30_2021.!d
+
+      / Chile - Preliminary Evidence
+      claim !Chilepreliminarydata = A small cohort study results indicated that natural infection induces long-lasting nAb responses that can be significantly boosted through vaccination, and that immunization of naïve individuals with two doses of the CoronaVac vaccine or one dose of the BNT162b2 vaccine elicit similar levels of nAbs compared to seropositive individuals 4.2 to 13.3 months post-infection with SARS-CoV-2. Preliminary evidence suggests that both, seropositive and naïve individuals, require two doses of CoronaVac to generate a robust induction of nAb titers
+        -
+          'Muena_et_al_05_18_2021
+          'Muena_et_al_05_18_2021.!a
+          'Muena_et_al_05_18_2021.!b
+          'Muena_et_al_05_18_2021.!c
+          'Muena_et_al_05_18_2021.!d
+          'Muena_et_al_05_18_2021.!e
 
 
     / Sinopharm

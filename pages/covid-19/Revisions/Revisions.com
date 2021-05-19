@@ -7,6 +7,8 @@ revision feed Revisions
   let *May_17 mean May_17
   let *May_10 mean May_10
   let *May_5 mean May_5
+  let *April_30 mean April_30
+  let *April_29 mean April_29
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
@@ -22,6 +24,11 @@ revision feed Revisions
       Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!ThromboticThrombocytopeniareports.!PF4polyanion
       Vaccines.Approved.Gam-COVID-Vac.!Sputnikreply
       Vaccines.EffectiveDosing
+
+    >
+      Preliminary evidence from Chile, suggests that both, seropositive and naïve individuals, require two doses of CoronaVac to generate a robust induction of nAb titer.
+    -
+      Vaccines.Approved.CoronaVac
 
 
 

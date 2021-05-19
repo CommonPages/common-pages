@@ -60,17 +60,40 @@ feed Sangeeta
 
     / May, 2021 - JAMA Netw Open.
     quote !a =
+
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Long-lasting neutralizing antibody responses in SARS-CoV-2 seropositive individuals are robustly boosted by immunization with the CoronaVac and BNT162b2 vaccines
+  doi: https://doi.org/10.1101/2021.05.17.21257197
+  ref 'Muena_et_al_05_18_2021
+    head =  We show that outpatient and hospitalized SARS-CoV-2 seropositive individuals mount a robust neutralizing antibody (nAb) response that peaks at days 23 and 27 post-symptom onset, respectively.
+
+    > Abstract
+      The durability of circulating neutralizing antibody (nAb) responses to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and their boosting by vaccination remains to be defined. We show that outpatient and hospitalized SARS-CoV-2 seropositive individuals mount a robust neutralizing antibody (nAb) response that peaks at days 23 and 27 post-symptom onset, respectively. Although nAb titers remained higher in hospitalized patients, both study groups showed long-lasting nAb responses that can persist for up to 12 months after natural infection. These nAb responses in previously seropositive individuals can be significantly boosted through immunization with two doses of the CoronaVac (Sinovac) or one dose of the BNT162b2 (BioNTech/Pfizer) vaccines, suggesting a substantial induction of B cell memory responses. Noteworthy, three obese previously seropositive individuals failed to mount a booster response upon vaccination, warranting further studies in this population. Immunization of naive individuals with two doses of the CoronaVac vaccine or one dose of the BNT162b2 vaccine elicited similar levels of nAbs compared to seropositive individuals 4,2 to 13.3 months post-infection with SARS-CoV-2. Thus, this preliminary evidence suggests that both, seropositive and naive individuals, require two doses of CoronaVac to ensure the induction of robust nAb titers.
 
     - quotes
       !a
+      !b
+      !c
+      !d
+      !e
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
+    / May, 2021 - medRxiv
+    quote !a = We found long lasting nAb titers that persist for over 12 months after the onset of symptoms in both, outpatient and hospitalized individuals.
+
+    / May, 2021 - medRxiv
+    quote !b = Neutralizing activity in seropositive individuals was boosted significantly after two doses of the CoronaVac or one dose of the BNT162b2 vaccines, suggesting that infection induces a robust B-cell memory response.
+
+    / May, 2021 - medRxiv
+    quote !c = Our results indicate that natural infection induces long-lasting nAb responses that can be significantly boosted through vaccination, and that immunization of naïve individuals with two doses of the CoronaVac vaccine or one dose of the BNT162b2 vaccine elicit similar levels of nAbs compared to seropositive individuals 4.2 to 13.3 months post-infection with SARS-CoV-2.
+
+    / May, 2021 - medRxiv
+    quote !d = Our preliminary evidence suggests that both, seropositive and naïve individuals, require two doses of CoronaVac to generate a robust induction of nAb titer.
+
+    / May, 2021 - medRxiv
+    quote !e = Three obese previously seropositive individuals failed to mount a booster response upon vaccination.
+
+
 
 
   #

@@ -93,8 +93,27 @@
 
 #### 05/19/21 ####
 
+  >
+    this preliminary evidence suggests that both, seropositive and naive individuals, require two doses of CoronaVac to ensure the induction of robust nAb titers.
 
-  
+
+
+
+
+
+
+    >
+      current evidence of re-infections remains limited, and they appear to be infrequent, suggesting that natural infection provides significant protection against COVID-19 in most individuals
+
+
+
+
+
+
+
+
+
+
 
   claim !PF4polyanion = One study concluded that low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2.s These PF4/polyanion antibodies do not activate platelets and may have little relevance for the diagnosis of VITT.
     -
