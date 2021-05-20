@@ -1908,14 +1908,14 @@ subject module Vaccines
           'AstraZeneca_et_al_03_25_2021.!c
           'AstraZeneca_et_al_03_25_2021.!d
 
-      / Vaccine efficacy against the B.1.351 variant
+      / ChAdOx1 nCoV-19 vaccine Efficacy against B.1.351 variant
       claim !Vaccineefficacy = A study conducted on 2026 HIV-negative adults in South Africa found that two doses of the ChAdOx1 nCoV-19 vaccine had no efficacy against the B.1.351 variant in preventing mild-to-moderate Covid-19.
         -
-          'Madhi_et_al_03_16_2021
-          'Madhi_et_al_03_16_2021.!a
-          'Madhi_et_al_03_16_2021.!b
-          'Madhi_et_al_03_16_2021.!c
-          'Madhi_et_al_03_16_2021.!d
+          'Madhi_et_al_05_20_2021
+          'Madhi_et_al_05_20_2021.!a
+          'Madhi_et_al_05_20_2021.!b
+          'Madhi_et_al_05_20_2021.!c
+          'Madhi_et_al_05_20_2021.!d
 
 
 

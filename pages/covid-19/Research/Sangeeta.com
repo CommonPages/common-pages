@@ -13,19 +13,27 @@ feed Sangeeta
 
 
   #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
 
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
   #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
 
-  #
+    - quotes
+      !a
 
-  #
-
-  #
-
-  #
-
-  #
-
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -49,6 +57,16 @@ feed Sangeeta
     / May, 2021 - JAMA Netw Open.
     quote !a =
   #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -60,6 +78,60 @@ feed Sangeeta
 
     / May, 2021 - JAMA Netw Open.
     quote !a =
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
+  #
+  
+
+  #
+  // Reinfection by the SARS-CoV-2 P.1 variant in blood donors in Manaus, Brazil
+  doi: https://doi.org/10.1101/2021.05.10.21256644
+  ref 'Prete_et_al_05_12_2021
+    head = In order to estimate the reinfection rate during the resurgence of SARS-CoV-2 in Manaus, we tested serial samples from 238 unvaccinated repeat blood donors using a SARS-CoV-2 anti-N IgG chemiluminescence microparticle assay.
+
+    > Abstract
+      The city of Manaus, north Brazil, was stricken by a severe epidemic of SARS-Cov-2 in March 2020, reaching a seroprevalence of 76% by October 2020. Nevertheless, in late November an abrupt increase in hospitalizations and deaths hit Manaus, causing higher number of deaths compared to the first epidemic wave. It has been hypothesized that virus lineages circulating in the second wave, namely the P.1 variant of concern first detected in early December in Manaus, could be better at evading immunity generated in response to previous infection with other lineages.
+
+      In order to estimate the reinfection rate during the resurgence of SARS-CoV-2 in Manaus, we tested serial samples from 238 unvaccinated repeat blood donors using a SARS-CoV-2 anti-N IgG chemiluminescence microparticle assay. Blood donors were divided into six groups that reflected the inferred sequence of infection and reinfection with non-P.1 and P.1 variants. We assumed that reinfections induce a recrudescence (or “boosting”) of plasma anti-N IgG antibody levels, yielding a V-shaped time series of antibody reactivity levels.
+
+      We infer that 16.9% (95% CI [9.48%, 28.5%]) of all presumed P.1 infections that were observed in 2021 were reinfections. If we also include cases of probable or possible reinfections (defined by considering the time period when the antibody levels are expected to grow after recovery and the range of half-lives for antibody waning after seroconversion), these percentages increase respectively to 25.8% (95% CI [16.7%, 37.4%]), and 31.0% (95% CI [21.4%, 42.5%]). Our data suggest that reinfection due to P.1 is common and more frequent than what has been detected by traditional epidemiologic, molecular and genomic surveillance of clinical cases.
+
+    - quotes
+      !a
+      !b
+
+    / May, 2021 - medRxiv
+    quote !a = We infer that 16.9% of all presumed P.1 infections that were observed in 2021 were reinfections. If we also include cases of probable or possible reinfections (defined by considering the time period when the antibody levels are expected to grow after recovery and the range of half-lives for antibody waning after seroconversion), these percentages increase respectively to 25.8%, and 31.0%.
+
+    / May, 2021 - medRxiv
+    quote !b = Our data suggest that reinfection due to P.1 is common and more frequent than what has been detected by traditional epidemiologic, molecular and genomic surveillance of clinical cases.
+
+
+
+  #
+  // SARS-CoV-2 B.1.1.7 and B.1.351 spike variants bind human ACE2 with increased affinity
+  doi: https://doi.org/10.1016/S1473-3099(21)00262-0
+  ref 'Ramanathan_et_al_05_19_2021
+    head = To test whether the B.1.351 and B.1.1.7 variants bind ACE2 with increased affinity, binding of purified recombinant B.1.351 and B.1.1.7 RBD was compared with binding of the Hu-1 RBD, which was originally identified in Wuhan (SCoV2) using microscale thermophoresis.
+
+    - quotes
+      !a
+
+    / May, 2021 - The Lancet Infectious Diseases
+    quote !a = The B.1.1.7 RBD bound ACE2 with 1·98-times greater affinity than the Wuhan (SCoV2) RBD. The B.1.351 RBD bound ACE2 with 4·62-times greater affinity than the Wuhan (SCoV2) RBD.
+
+    # / May, 2021 - The Lancet Infectious Diseases
+    # quote !a = Characterisation of binding between variant spike proteins and cognate human receptor ACE2 on the basis of microscale thermophoresis represents a potential surveillance strategy for predicting enhanced transmissibility of emerging SARS-CoV-2 variants harbouring novel spike mutations.
+
 
 
   #
@@ -4671,7 +4743,7 @@ feed Sangeeta
   #
   // Efficacy of the ChAdOx1 nCoV-19 Covid-19 Vaccine against the B.1.351 Variant
   doi: https://doi.org/10.1056/NEJMoa2102214
-  ref 'Madhi_et_al_03_16_2021
+  ref 'Madhi_et_al_05_20_2021
     head = We conducted a multicenter, double-blind, randomized, controlled trial to assess the safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) in 2026 HIV-negative adults in South Africa. Between June 24 and November 9, 2020- participants 18 to less than 65 years of age were assigned in a 1:1 ratio to receive two doses of vaccine containing 5×1010 viral particles or placebo (0.9% sodium chloride solution) 21 to 35 days apart.
 
 
@@ -4694,13 +4766,13 @@ feed Sangeeta
       !d
 
     / March, 2021 - The New England Journal of Medicine
-    quote !a = In this trial, we found that two doses of the ChAdOx1 nCoV-19 vaccine had no efficacy against the B.1.351 variant in preventing mild-to-moderate Covid-19.
-
-    # / March, 2021 - The New England Journal of Medicine
-    # quote !b = There were no cases of hospitalization for severe Covid-19 observed in the study.
+    quote !a = We found that two doses of the ChAdOx1 nCoV-19 vaccine had no efficacy against the B.1.351 variant in preventing mild-to-moderate Covid-19.
 
     / March, 2021 - The New England Journal of Medicine
-    quote !b = Both the pseudovirus and the live-virus neutralization assays showed greater resistance to the B.1.351 variant in serum samples obtained from vaccine recipients than in samples from placebo recipients.
+    quote !b = There were no cases of hospitalization for severe Covid-19 observed in the study.
+
+    # / March, 2021 - The New England Journal of Medicine
+    # quote !b = Both the pseudovirus and the live-virus neutralization assays showed greater resistance to the B.1.351 variant in serum samples obtained from vaccine recipients than in samples from placebo recipients.
 
     / March, 2021 - The New England Journal of Medicine
     quote !c = In the primary end-point analysis, mild-to-moderate Covid-19 developed in 23 of 717 placebo recipients (3.2%) and in 19 of 750 vaccine recipients (2.5%), for an efficacy of 21.9%.

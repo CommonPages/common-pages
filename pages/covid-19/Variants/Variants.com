@@ -438,35 +438,39 @@ subject module Variants
         <td>501.Y.V1</td>
         </tr>
         <tr>
+        <th>Country identified</th>
+        <td>United Kingdom</td>
+        </tr>
+        <tr>
         <th>Mutations</th>
         <td>23</td>
         </tr>
         <tr>
-        <th>Spike mutation</th>
-        <td>8</td>
+        <th>Spike mutation,N</th>
+        <td>9</td>
         </tr>
         <tr>
-        <th>Key RBD, spike mutations beyond N501Y in all</th>
-        <td> E69/70 Deletion, P681H 144Y Deletion, A570D </td>
+        <th>Key mutations in spike (others are also important)</th>
+        <td> N501Y, E69/70 del, P681H 144Y del </td>
         </tr>
         <tr>
         <th>Other mutations (Including N-terminal)</th>
         <td>T7161, S982A, D1118H </td>
         <tr>
-        <th>Transmissibility</th>
-        <td> Increased-70% </td>
+        <th>Transmissibility (vs ancestral)</th>
+        <td> Increased ~50-70% </td>
         </tr>
         <tr>
-        <th>Lethality</th>
-        <td> Increased 60% </td>
+        <th>Lethality increase</th>
+        <td> Increased >30% </td>
         </tr>
         <tr>
         <th>Immune Evasion</th>
         <td> Minimal </td>
         </tr>
         <tr>
-        <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
-        <td> Minimal Reduction <10% point decline in 2 trials (Novavax and AZ)</td>
+        <th>{Vaccines.EfficacyVariants Vaccine Efficacy} clinical trial, effectiveness and lab studies</th>
+        <td> Minimal Reduction <10% point decline (Novavax, AZ,mRNAs)</td>
         </tr>
         <tr>
         <th>Countries reported (uptil April 1st, 2021)</th>
@@ -492,6 +496,8 @@ subject module Variants
       !TransmissibilityB117
     - Replication
       !ReplicationTransmissibility
+    - ACE2binding
+      !B117B1351ACE2affinity
     - Viral Load
       !Viralload
     - Severity
@@ -929,6 +935,11 @@ subject module Variants
         'Alpert_et_al_04_02_2021.!c
         'Alpert_et_al_04_02_2021.!d
 
+    / ACE2 Binding Affinity (B.1.1.7, B.1.351)
+    claim !B117B1351ACE2affinity = One study demonstrated that the binding of SARSCoV2 to the ACE2 receptor is increased for 2 variants. The B.1.1.7 RBD bound ACE2 with 1·98-times greater affinity than the Wuhan (SCoV2) RBD. The B.1.351 RBD bound ACE2 with 4·62-times greater affinity than the Wuhan (SCoV2) RBD.
+      -
+        'Ramanathan_et_al_05_19_2021
+        'Ramanathan_et_al_05_19_2021.!a
 
 
   / B.1.351 (Identified in South Africa)
@@ -944,35 +955,39 @@ subject module Variants
         <td>501.Y.V2</td>
         </tr>
         <tr>
+        <th>Country identified</th>
+        <td>South Africa</td>
+        </tr>
+        <tr>
         <th>Mutations</th>
         <td>21</td>
         </tr>
         <tr>
         <th>Spike mutations</th>
-        <td>9</td>
+        <td>5</td>
         </tr>
         <tr>
-        <th>Key RBD, spike mutations beyond N501Y in all</th>
-        <td> E484K, K417N, orf1b deletion </td>
+        <th>Key mutations in Spike (others are also important)</th>
+        <td> N501Y, E484K, K417N, P71L</td>
         </tr>
         <tr>
         <th>Other mutations (Including N-terminal)</th>
         <td>L18F, D80A, D215G, del 242-244, R264I, A701V </td>
         <tr>
-        <th>Transmissibility</th>
-        <td> Not established </td>
+        <th>Transmissibility (vs ancestral)</th>
+        <td> Minimal </td>
         </tr>
         <tr>
-        <th>Lethality</th>
-        <td> Not established</td>
+        <th>Lethality increase</th>
+        <td> Not evidence</td>
         </tr>
         <tr>
         <th>Immune Evasion</th>
         <td> Yes </td>
         </tr>
         <tr>
-        <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
-        <td> 60% efficacy Novavax, 64% efficacy J&J. No {Vaccines.Approved.AZD1222.!SAVariantEfficacy with Oxford Astra-Zeneca} efficacy vs mild/mod infections</td>
+        <th>{Vaccines.EfficacyVariants Vaccine Efficacy} clinical trial, effectivesness and lab studies</th>
+        <td> Efficacy Novavax, J&J, mRNAs. {Vaccines.Approved.AZD1222.!Vaccineefficacy No AZ effect} vs mild/mod infections </td>
         </tr>
         <tr>
         <th>Countries reported (uptil April 1st, 2021)</th>
@@ -991,6 +1006,8 @@ subject module Variants
     - Animal Transmission
       !TransmissionMice
       !MiceReplication
+    - ACE2binding
+      B117.!B117B1351ACE2affinity
     - Severity
       !Severity
     - Vaccine Related claims
@@ -1229,7 +1246,11 @@ subject module Variants
       <table>
         <tr>
         <th>Alternate Name</th>
-        <td>501.Y.V3</td>
+        <td>501Y.V3</td>
+        </tr>
+        <tr>
+        <th>Country identified</th>
+        <td>Brazil</td>
         </tr>
         <tr>
         <th>Mutation</th>
@@ -1237,30 +1258,30 @@ subject module Variants
         </tr>
         <tr>
         <th>Spike mutations</th>
-        <td>10</td>
+        <td>11</td>
         </tr>
         <tr>
-        <th>Key RBD, spike mutations beyond N501Y in all</th>
-        <td>E484K, K417N/T, orf1b deletion </td>
+        <th>Key mutations in spike (others are also important)</th>
+        <td> N501Y, E484K, K417N/T </td>
         </tr>
         <tr>
         <th>Other mutations (Including N-terminal)</th>
         <td>L18F, T20N, P26S, D138Y, R190S, H655Y, T10271 </td>
         <tr>
-        <th>{!Transmission Transmissibility}</th>
-        <td> 1.4 and 2.2 times more transmissible</td>
+        <th>{!Transmission Transmissibility} (vs ancestral)</th>
+        <td> Increased, % unresolved</td>
         </tr>
         <tr>
-        <th>Lethality</th>
-        <td> Not established</td>
+        <th>Lethality increase</th>
+        <td> Not evidence</td>
         </tr>
         <tr>
         <th>Immune Evasion</th>
         <td> {!AntibodyEscape Yes}, Less than B.1.351 </td>
         </tr>
         <tr>
-        <th>{Vaccines.EfficacyVariants Vaccine Efficacy} reduction (preserved vs severe infections)</th>
-        <td> No Clinical trials. Sera from vaccines for mRNA and AZ encouraging vs P.1 </td>
+        <th>{Vaccines.EfficacyVariants Vaccine Efficacy} clinical trial, effectiveness and lab studies</th>
+        <td> Lab studies show well preserved efficacy and Chile, Brazil effectiveness </td>
         </tr>
         <tr>
         <th>Countries reported (uptil April 1st, 2021)</th>
@@ -1278,16 +1299,18 @@ subject module Variants
       !OriginCause
     -
       !BeloHorizonte
-    -
+    - Transmission
       !Transmission
     - Replication
       Variants.B1351.!MiceReplication
-    -
+    - Antibody Escape
       !NeutralisingResitance
       !AntibodyEscape
       !Escape
       !LessEscape
       !EntryInhibitorsEscape
+    - Reinfection
+      !Brazilreinfection
     - Mutations
       !Mutation
       !BeloHorizonte
@@ -1397,6 +1420,13 @@ subject module Variants
       'Moreira_et_al_04_08_2021.!a
       'Moreira_et_al_04_08_2021.!b
       'Moreira_et_al_04_08_2021.!c
+
+    / Reinfections
+    claim !Brazilreinfection = One study inferred that 16.9% of all presumed P.1 infections that were observed in 2021 were reinfections.
+      -
+        'Prete_et_al_05_12_2021
+        'Prete_et_al_05_12_2021.!a
+        'Prete_et_al_05_12_2021.!b
 
   / B.1.427/B.1.429 (Identified in California)
   subject CAL20C
@@ -1699,31 +1729,35 @@ subject module Variants
       <table>
         <tr>
         <th>Alternate Name</th>
-        <td></td>
+        <td>21A/S</td>
+        </tr>
+        <tr>
+        <th>Country identified</th>
+        <td>India</td>
         </tr>
         <tr>
         <th>Spike mutations</th>
-        <td>5</td>
+        <td>7</td>
         </tr>
         <tr>
-        <th>Key Mutations in Spike (others are important)</th>
-        <td> L452R, E484Q, P681R </td>
+        <th>Key Mutations in Spike (others are also important)</th>
+        <td> L452R, del 157-158, P681R, D950N, (+)V382L, T478K </td>
         </tr>
         <tr>
         <th>Transmissibility (vs ancestral)</th>
-        <td> Not established </td>
+        <td> > B.1.1.17 </td>
         </tr>
         <tr>
-        <th>Lethality</th>
-        <td> Not established</td>
+        <th>Lethality increase</th>
+        <td> Not evidence </td>
         </tr>
         <tr>
         <th>Immune Evasion</th>
-        <td> Very likely </td>
+        <td> Yes,< B.1.351 </td>
         </tr>
         <tr>
-        <th>Vaccine efficacy Clinical Trials and Lab Studies</th>
-        <td> No data</td>
+        <th>{Vaccines.EfficacyVariants Vaccine efficacy} clinical trial, effectiveness and Lab Studies</th>
+        <td> Lab studis w/multiple vaccines support efficacy + outbreak in UK and Israel</td>
         </tr>
         <tr>
         <th>Countries reported (uptil April 18, 2021)</th>

@@ -97,6 +97,24 @@
     this preliminary evidence suggests that both, seropositive and naive individuals, require two doses of CoronaVac to ensure the induction of robust nAb titers.
 
 
+  / ChAdOx1 nCoV-19 vaccine Efficacy against B.1.351 variant
+  claim !ChAdOx1efficacyB1351 = We found that two doses of the ChAdOx1 nCoV-19 vaccine had no efficacy against the B.1.351 variant in preventing mild-to-moderate Covid-19. There were no cases of hospitalization for severe Covid-19.
+    -
+      'Madhi_et_al_05_20_2021
+      'Madhi_et_al_05_20_2021.!a
+
+
+  claim !B117B1351ACE2affinity = One study demonstrated that the binding of SARSCoV2 to the ACE2 receptor is increased for 2 variants. The B.1.1.7 RBD bound ACE2 with 1·98-times greater affinity than the Wuhan (SCoV2) RBD. The B.1.351 RBD bound ACE2 with 4·62-times greater affinity than the Wuhan (SCoV2) RBD.
+    -
+      'Ramanathan_et_al_05_19_2021
+      'Ramanathan_et_al_05_19_2021.!a
+
+  claim !Brazilreinfection = One study inferred that 16.9% of all presumed P.1 infections that were observed in 2021 were reinfections.
+    -
+      'Prete_et_al_05_12_2021
+      'Prete_et_al_05_12_2021.!a
+      'Prete_et_al_05_12_2021.!b
+
 
 
 
