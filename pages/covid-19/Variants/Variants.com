@@ -1035,8 +1035,6 @@ subject module Variants
       Vaccines.Approved.Tozinameran.!PreviouslyinfectedPfizer
       Vaccines.Approved.AZD1222.!Vaccineefficacy
       Vaccines.Approved.AZD1222.!Animalchallenge
-      Vaccines.Candidates.NVX-CoV2373.!VaccineefficacyV2
-      Vaccines.Candidates.NVX-CoV2373.!Vaccineefficacy2btrial
       !PlasmablastResponsemRNA
       B117.!NTDneutralizing
       Vaccines.Approved.Gam-COVID-Vac.!SputnikB1351
@@ -1044,6 +1042,9 @@ subject module Variants
       Vaccines.Approved.Sinopharm.!NoimmuneescapeB1351
       Vaccines.Approved.Ad26COV2S.!Phase3ENSEMBLEtrial
       Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
+      Vaccines.Candidates.NVX-CoV2373.!VaccineefficacyV2
+      Vaccines.Candidates.NVX-CoV2373.!Vaccineefficacy2btrial
+      Vaccines.Candidates.NVX-CoV2373.!NVX-CoV2373efficacyB1351
 
     - Pre Existing Immunity
       !PreexistingImmunity

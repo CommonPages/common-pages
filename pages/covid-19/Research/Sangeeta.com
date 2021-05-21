@@ -35,62 +35,136 @@ feed Sangeeta
     / May, 2021 - JAMA Netw Open.
     quote !a =
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Face masks effectively limit the probability of SARS-CoV-2 transmission
+  doi: https://doi.org/10.1126/science.abg6296
+  ref 'Cheng_et_al_05_20_2021
+    head = We show that variations in mask efficacy can be explained by different regimes of virus abundance and related to population-average infection probability and reproduction number.
+
+    > Abstract
+      Airborne transmission by droplets and aerosols is important for the spread of viruses. Face masks are a well-established preventive measure, but their effectiveness for mitigating SARS-CoV-2 transmission is still under debate. We show that variations in mask efficacy can be explained by different regimes of virus abundance and related to population-average infection probability and reproduction number. For SARS-CoV-2, the viral load of infectious individuals can vary by orders of magnitude. We find that most environments and contacts are under conditions of low virus abundance (virus-limited) where surgical masks are effective at preventing virus spread. More advanced masks and other protective equipment are required in potentially virus-rich indoor environments including medical centers and hospitals. Masks are particularly effective in combination with other preventive measures like ventilation and distancing.
+
 
     - quotes
       !a
+      !b
+      !c
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
+    / May, 2021 - Science
+    quote !a = For SARS-CoV-2, the viral load of infectious individuals can vary by orders of magnitude. We find that most environments and contacts are under conditions of low virus abundance (virus-limited) where surgical masks are effective at preventing virus spread. More advanced masks and other protective equipment are required in potentially virus-rich indoor environments including medical centers and hospitals.
+
+    / May, 2021 - Science
+    quote !b = Masks are particularly effective in combination with other preventive measures like ventilation and distancing.
+
+    / May, 2021 - Science
+    quote !c = High compliance and correct use of masks is important to ensure the effectiveness of universal masking in reducing the reproduction number.
+
+
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Incident SARS-CoV-2 Infection among mRNA-Vaccinated and Unvaccinated Nursing Home Residents
+  doi: https://doi.org/10.1056/NEJMc2104849
+  ref 'White_et_al_05_19_2021
+    head = Using electronic health record data from Genesis HealthCare, a large long-term care provider in the United States, we report the incidence of SARS-CoV-2 infection among vaccinated residents and unvaccinated residents of 280 nursing homes across 21 states.
 
     - quotes
       !a
+      !b
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
+    / May, 2021 - The New England Journal of Medicine
+    quote !a = Across all the study groups, most infections were asymptomatic, and the incidence of both asymptomatic and symptomatic infections decreased. Nursing homes that were located in counties with the highest incidence of SARS-CoV-2 infection had the most incident cases but still had large decreases.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !b = Our observation of a reduced incidence of infection among unvaccinated residents suggests that robust vaccine coverage among residents and staff, together with the continued use of face masks and other infection-control measures, is likely to afford protection for small numbers of unvaccinated residents in congregate settings. Still, the continued observation of incident cases after vaccination highlights the critical need for ongoing vaccination programs and surveillance testing in nursing homes to mitigate future outbreaks.
+
+
+
+
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // COVID-19 vaccine surveillance report Week 20
+  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988193/Vaccine_surveillance_report_-_week_20.pdf
+  ref 'PHE_et_al_05_20_2021
+    head = We outline the latest real-world evidence on vaccine effectiveness from studies in UK populations.
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / May, 2021 - PHE
+    quote !a = Effectiveness against symptomatic disease: vaccine effectiveness for 1 dose  for the Pfizer-BioNTech vaccine = 57%; and Oxford-AstraZeneca vaccine 58%. After 2 doses, effectiveness was 91% (95%CI 83-95%) for the PfizerBioNTech vaccine and 90% (95%CI 80-95%)(low confidence) for the Oxford-AstraZeneca vaccine. and
+
+    / May, 2021 - PHE
+    quote !b = With the Pfizer-BioNTech vaccine there is a small reduction in vaccine effectiveness from 10 weeks after the first dose. This may be explained by some waning of protection or by biases due to differences in the earliest groups who were vaccinated compared to later groups. There is no evidence of this waning effect with the Oxford-AstraZeneca vaccine.
+
+    / May, 2021 - PHE
+    quote !c = Effectiveness against hospitalisation: Several studies have estimated the effectiveness against hospitalisation in older adults, all of which indicate higher levels of protection against hospitalisation after a single dose than that seen against symptomatic disease, around 75 to 85% after 1 dose of the Pfizer-BioNTech or Oxford-AstraZeneca vaccine. Data on 2 doses is only currently available for the Pfizer-BioNTech vaccine and indicates effectiveness against hospitalisation of around 90 to 95%.
+
+    / May, 2021 - PHE
+    quote !d = Effectiveness against mortality: Data is also emerging which suggests high levels of protection against mortality. Studies linking community COVID-19 testing data, vaccination data and mortality data indicate that both the Pfizer-BioNTech and Oxford-AstraZeneca vaccines are around 75 to 80% effective at preventing death with COVID-19 after a single dose. Data on 2 doses is only currently available for the Pfizer-BioNTech vaccine and indicates effectiveness against dying with COVID-19 of around 95 to 99%.
+
+    / May, 2021 - PHE
+    quote !e = Effectiveness against infection: Although individuals may not develop symptoms of COVID-19 after vaccination, it is possible that they could still be infected with the virus and could transmit to others. With the Pfizer-BioNTech, estimates of effectiveness against infection range from around 55 to 70%, with the Oxford-AstraZeneca vaccine they range from around 60 to 70%. Estimates for 2 doses are currently only available for the Pfizer-BioNTech vaccine and indicate effectiveness against infection of 70 to 90%.
+
+
+
+  #
+  // PF4 Immunoassays in Vaccine-Induced Thrombotic Thrombocytopenia
+  doi: https://doi.org/10.1056/NEJMc2106383
+  ref 'Vayne_et_al_05_19_2021
+    head = Between March 19 and April 1, 2021, plasma samples from nine patients (median age, 44 years) with suspected VITT after vaccination with ChAdOx1 nCoV-19 were analyzed in our laboratory.
 
     - quotes
       !a
+      !b
+      !c
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
+    / May, 2021 - The New England Journal of Medicine
+    quote !a = Cerebral vein thrombosis (in six patients) and splanchnic vein thrombosis (in five patients) were the most common events. All the patients had severe thrombocytopenia (median platelet count nadir, 29,000 per cubic millimeter; range, 9 to 61,000) except for one woman with both cerebral vein thrombosis and splanchnic vein thrombosis.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !b = Our results provide further support to show that rapid immunoassays should be avoided in the detection of PF4-specific antibodies in patients with suspected VITT. Therefore, the use of a sensitive, quantitative, immunologic test is strongly recommended, because according to the recently proposed algorithm,1,5 nonheparin anticoagulants should be preferred when clinically significant levels of anti-PF4 antibodies are detected.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !c = Platelet activation was suppressed by IV.3, a monoclonal antibody that binds FcγRIIA receptors, but also by IdeS (IgG-degrading enzyme derived from Streptococcus pyogenes) (Figure 1C), a protease that also inactivates heparin-induced thrombocytopenia IgG antibodies. Intravenous immune globulins may be inappropriate for severe cerebral vein thrombosis with intracranial hypertension. IdeS (imlifidase) may be an effective treatment and needs to be evaluated.
+
+
+
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // Efficacy of NVX-CoV2373 Covid-19 Vaccine against the B.1.351 Variant
+  doi: https://doi.org/10.1056/NEJMoa2103055
+  ref 'Shinde_et_al_05_20_2021
+    head = In this phase 2a–b trial in South Africa, we randomly assigned human immunodeficiency virus (HIV)–negative adults between the ages of 18 and 84 years or medically stable HIV-positive participants between the ages of 18 and 64 years in a 1:1 ratio to receive two doses of either the NVX-CoV2373 vaccine (5 μg of recombinant spike protein with 50 μg of Matrix-M1 adjuvant) or placebo.
+
+    > Background
+      The emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants threatens progress toward control of the coronavirus disease 2019 (Covid-19) pandemic. In a phase 1–2 trial involving healthy adults, the NVX-CoV2373 nanoparticle vaccine had an acceptable safety profile and was associated with strong neutralizing-antibody and antigen-specific polyfunctional CD4+ T-cell responses. Evaluation of vaccine efficacy was needed in a setting of ongoing SARS-CoV-2 transmission.
+
+    > Methods
+      In this phase 2a–b trial in South Africa, we randomly assigned human immunodeficiency virus (HIV)–negative adults between the ages of 18 and 84 years or medically stable HIV-positive participants between the ages of 18 and 64 years in a 1:1 ratio to receive two doses of either the NVX-CoV2373 vaccine (5 μg of recombinant spike protein with 50 μg of Matrix-M1 adjuvant) or placebo. The primary end points were safety and vaccine efficacy against laboratory-confirmed symptomatic Covid-19 at 7 days or more after the second dose among participants without previous SARS-CoV-2 infection.
+
+    > Results
+      Of 6324 participants who underwent screening, 4387 received at least one injection of vaccine or placebo. Approximately 30% of the participants were seropositive for SARS-CoV-2 at baseline. Among 2684 baseline seronegative participants (94% HIV-negative and 6% HIV-positive), predominantly mild-to-moderate Covid-19 developed in 15 participants in the vaccine group and in 29 in the placebo group (vaccine efficacy, 49.4%; 95% confidence interval [CI], 6.1 to 72.8). Vaccine efficacy among HIV-negative participants was 60.1% (95% CI, 19.9 to 80.1). Of 41 sequenced isolates, 38 (92.7%) were the B.1.351 variant. Post hoc vaccine efficacy against B.1.351 was 51.0% (95% CI, −0.6 to 76.2) among the HIV-negative participants. Preliminary local and systemic reactogenicity events were more common in the vaccine group; serious adverse events were rare in both groups.
+
+    > Conclusions
+      The NVX-CoV2373 vaccine was efficacious in preventing Covid-19, with higher vaccine efficacy observed among HIV-negative participants. Most infections were caused by the B.1.351 variant. (Funded by Novavax and the Bill and Melinda Gates Foundation; ClinicalTrials.gov number, NCT04533399. opens in new tab.)
 
     - quotes
       !a
+      !b
+      !c
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
-  #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
 
-    - quotes
-      !a
+    / May, 2021 - The New England Journal of Medicine
+    quote !a = The vaccine fulfilled the primary objective by showing significant vaccine efficacy of 49.4% among participants who were seronegative for SARS-CoV-2 at baseline regardless of HIV serostatus.
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
-  #
-  
+    / May, 2021 - The New England Journal of Medicine
+    quote !b = Vaccine efficacy among HIV-negative participants was 60.1%. Of 41 sequenced isolates. Vaccine efficacy against B.1.351 was 51.0% among the HIV-negative participants.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !c = Preliminary local and systemic reactogenicity events were more common in the vaccine group; serious adverse events were rare in both groups.
+
+
 
   #
   // Reinfection by the SARS-CoV-2 P.1 variant in blood donors in Manaus, Brazil

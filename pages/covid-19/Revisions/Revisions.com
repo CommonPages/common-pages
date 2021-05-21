@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *May_21 mean May_21
   let *May_19 mean May_19
   let *May_17 mean May_17
   let *May_10 mean May_10
@@ -10,7 +11,24 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_19, *May_17 and *May_10). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_21, *May_19, *May_17, *May_10). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: May-21-2021
+  / May 21, 2021
+  revision May_21
+    head = Public Health England outlined the real-world evidence on vaccine effectiveness: Single dose of pfizer = 54% effectiveness against symptomatic disease, after 2 doses = 90%. Single dose Oxford AstraZeneca = 53% effectiveness against symptomatic disease, after 2 doses = 89% (low confidence). Preliminary evidence of the efficacy of a two-dose regimen of NVX-CoV2373 nanoparticle vaccine found higher vaccine efficacy (60.1%.) observed among HIV-negative participants. Vaccine efficacy against B.1.351 was 51.0% among the HIV-negative participants.
+
+    -
+      Vaccines.Approved.Tozinameran.!RealworldevidenceUK
+      Vaccines.Candidates.NVX-CoV2373.!NVX-CoV2373efficacyB1351
+
+    >
+      In a letter, scientists provided further evidence to show that rapid immunoassays should be avoided in the detection of PF4-specific antibodies in patients with suspected VITT. Findings of the impact of vaccination among over 18,000 US nursing home residents, 1 and 2 doses (mRNA vaccines)- show that most infections were asymptomatic, and the incidence of both asymptomatic and symptomatic infections decreased. A detailed study based on direct measurements of SARS-CoV-2 in air samples and population-level infection probabilities, found that the virus abundance in most environments is sufficiently low for masks to be effective at preventing virus spread.
+    -
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!Diagnosis.!Rapidimmunoassays
+      Vaccines.Approved.Tozinameran.!RealworldeffectivenessnursinghomeUS
+      Prevention.Masking.!Facemaskseffective
 
 
   public: May-19-2021
@@ -18,7 +36,7 @@ revision feed Revisions
   revision May_19
     head = We have updated the Effective Dosing and Vaccines sections. Low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2, however, they do not activate platelets and may have little relevance for the diagnosis of VITT. Sputnik authors reply to Bucci et al, the Data discrepancies and substandard reporting of interim data of Sputnik V phase 3 trial. There have been concerns about the rise in cases of the B.1.617.2 variant in the UK and changing the strategy of delayed 2nd dose. Studies show limited neutralizing activity against the circulating variants after a single dose underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants.
     -
-      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!ThromboticThrombocytopeniareports.!PF4polyanion
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!Diagnosis.!PF4polyanion
       Vaccines.Approved.Gam-COVID-Vac.!Sputnikreply
       Vaccines.EffectiveDosing
 

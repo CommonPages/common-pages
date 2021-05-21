@@ -72,6 +72,7 @@ subject module Vaccines
         !Realworldvaccinationresults
       -
         !TexasRealworld
+        !RealworldeffectivenessnursinghomeUS
       -
         !RealworldevidenceSpain
       -
@@ -81,6 +82,7 @@ subject module Vaccines
       -
         !UKPostvaccineantispikeIgG
         !AdverseeffectsBNT162b2ChAdOx1
+        !RealworldevidenceUK
 
       - Single Dose
         !Singledosemetastudy
@@ -144,7 +146,7 @@ subject module Vaccines
         AnaphylaxisPEG
         !BellsPalsy
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!RiskCVT
-        Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!ThromboticThrombocytopeniareports.!PF4polyanion
+        Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!Diagnosis.!PF4polyanion
       - Real World Data: Adverse Effects
         !AdverseeffectsBNT162b2ChAdOx1
 
@@ -848,6 +850,21 @@ subject module Vaccines
          'Parry_et_al_05_17_2021.!a
          'Parry_et_al_05_17_2021.!b
 
+      claim !RealworldevidenceUK = Public Health England outlined the real-world evidence on vaccine effectiveness from studies in UK populations. Single dose of pfizer = 54% effectiveness against symptomatic disease, after 2 doses = 90%. Single dose Oxford AstraZeneca = 53% effectiveness against symptomatic disease, after 2 doses = 89% (low confidence).
+         -
+           'PHE_et_al_05_20_2021
+           'PHE_et_al_05_20_2021.!a
+           'PHE_et_al_05_20_2021.!b
+           'PHE_et_al_05_20_2021.!c
+           'PHE_et_al_05_20_2021.!d
+           'PHE_et_al_05_20_2021.!e
+
+      claim !RealworldeffectivenessnursinghomeUS = Findings of the impact of vaccination among over 18,000 US nursing home residents, 1 and 2 doses (mRNA vaccines)- show that most infections were asymptomatic, and the incidence of both asymptomatic and symptomatic infections decreased.
+         -
+           'White_et_al_05_19_2021
+           'White_et_al_05_19_2021.!a
+           'White_et_al_05_19_2021.!b
+
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
     / Moderna
@@ -891,6 +908,7 @@ subject module Vaccines
         !Modernaboosterdose
       -
         Tozinameran.!TexasRealworld
+        Tozinameran.!RealworldeffectivenessnursinghomeUS
       - Single Dose
         Tozinameran.!Singledosemetastudy
       -
@@ -1106,6 +1124,9 @@ subject module Vaccines
           'Pegu_et_al_05_16_2021.!e
           'Pegu_et_al_05_16_2021.!f
 
+
+
+
     / Oxford–AstraZeneca
     subject AZD1222
       head = Phase 3 interim primary efficacy analysis, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial. Very rare cases of blood clots with low blood platelets occurring within 2 weeks of vaccination have been observed. One study confirms that the overall risk of vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. A single dose of the ChAdOx1 nCoV-19 vaccine in previously infected with SARS-CoV-2 serves as an efficacious immune booster up to at least 11 months post infection and demonstrated a robust serological response with broad neutralizing capacity against SARS-CoV-2 wild type, and B.1.1.7, B.1.351, and P.1. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals. Real world data shows that short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. The post-vaccine symptoms (both systemic and local) often last 1–2 days from the injection. It decreases the risk of SARS-CoV-2 infection after 12 days and substantial protection after 3 weeks.
@@ -1151,6 +1172,7 @@ subject module Vaccines
         Tozinameran.!UKPostvaccineantispikeIgG
         CoronaVac.!BrazilPositiveImpactCoronavacAZ
         Tozinameran.!AdverseeffectsBNT162b2ChAdOx1
+        Tozinameran.!RealworldevidenceUK
       -
         Tozinameran.!Realworldvaccinationresults
       - US Phase 3 Results
@@ -1588,7 +1610,7 @@ subject module Vaccines
               'Faranda_et_al_04_27_2021.!a
 
           / Thrombotic Thrombocytopenia Reports
-          claim !ThromboticThrombocytopeniareports = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes A Journal review on 3 independent case reports also suggested our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established. Low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2, however, they do not activate platelets and may have little relevance for the diagnosis of VITT.
+          claim !ThromboticThrombocytopeniareports = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes.
 
             -
               'Scully_et_al_04_16_2021
@@ -1677,17 +1699,6 @@ subject module Vaccines
                   'Douglas_et_al_04_16_2021
                   'Douglas_et_al_04_16_2021.!h
 
-            / PF4/polyanion antibodies - little relevance for the diagnosis of VITT
-            claim !PF4polyanion = One study concluded that low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2. These PF4/polyanion antibodies do not activate platelets and may have little relevance for the diagnosis of VITT.
-              -
-                'Thiele_et_al_05_14_2021
-                'Thiele_et_al_05_14_2021.!a
-
-
-            claim !Dispute = A Journal highlighting 3 independent case reports stated that anti-PF4–polyanion antibodies are detected in 25 to 50% of patients after cardiovascular surgery — heparin-induced thrombocytopenia is not, and only in rare cases does cerebral venous sinus thrombosis or thrombi in abdominal vessels develop in patients with heparin-induced thrombocytopenia, suggesting that our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established.
-            -
-              'Douglas_et_al_04_16_2021
-              'Douglas_et_al_04_16_2021.!j
 
 
 
@@ -1781,8 +1792,6 @@ subject module Vaccines
             'GOVUK_et_al_05_07_2021
             'GOVUK_et_al_05_07_2021.!e
 
-
-
         / Treatment Approach
         claim !Treatmentapproach = Case studies of Thrombotic Thrombocytopenia after ChAdOx1 nCov-19 and Ad26.COV2.S Vaccination found that inhibition of platelet activation by intravenous immune globulin paralleled its efficacy in the treatment of autoimmune heparin-induced thrombocytopenia. Administration of heparin may be dangerous. Non‐APTT‐adjusted therapies (danaparoid and fondaparinux), or even direct oral anticoagulants (rivaroxaban or apixaban) are suggested therapies. One study found that the serum from patients with VITT activates platelets via the FcγRIIA, which can be blocked in vitro by anti-platelet therapies. A possible role for prophylactic treatment with aspirin following vaccination. However, with the rarity of the syndrome, the risk of such widespread aspirin usage may cause harms. Aspirin or ticagrelor use is not currently recommended in patients with confirmed VITT.
 
@@ -1851,7 +1860,7 @@ subject module Vaccines
             'Smith_et_al_04_27_2021.!c
 
 
-        /  Predictive Biomarker Signatures
+        / Predictive Biomarker Signatures
         claim !Biomarkers = aHIT can persist for several weeks, serial fibrin, D‐dimer, and fibrinogen levels, rather than the platelet count, may be helpful for monitoring treatment response.
 
           -
@@ -1865,7 +1874,33 @@ subject module Vaccines
             'Muir_et_al_04_14_2021
             'Muir_et_al_04_14_2021.!d
 
+        / Diagnosis
+        claim !Diagnosis = An algorithm for the management of this syndrome was proposed on the basis of immunoassays detecting anti–PF4–heparin antibodies. However, emerging evidence show that our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established. Low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2 and they do not activate platelets and may have little relevance for the diagnosis of VITT. Another study provided evidence that rapid immunoassays should be avoided in the detection of PF4-specific antibodies in patients with suspected VITT.
+          -
+            !PF4polyanion
+            !Rapidimmunoassays
+            !Dispute
 
+
+          / PF4/polyanion antibodies - little relevance for the diagnosis of VITT
+          claim !PF4polyanion = One study concluded that low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2. These PF4/polyanion antibodies do not activate platelets and may have little relevance for the diagnosis of VITT.
+            -
+              'Thiele_et_al_05_14_2021
+              'Thiele_et_al_05_14_2021.!a
+
+          / Rapid Immunoassays detecting anti–PF4–heparin antibodies
+          claim !Rapidimmunoassays = In a letter, scientists provided further evidence to show that rapid immunoassays should be avoided in the detection of PF4-specific antibodies in patients with suspected VITT.
+            -
+              'Vayne_et_al_05_19_2021
+              'Vayne_et_al_05_19_2021.!a
+              'Vayne_et_al_05_19_2021.!b
+              'Vayne_et_al_05_19_2021.!c
+
+
+          claim !Dispute = A Journal highlighting 3 independent case reports stated that anti-PF4–polyanion antibodies are detected in 25 to 50% of patients after cardiovascular surgery — heparin-induced thrombocytopenia is not, and only in rare cases does cerebral venous sinus thrombosis or thrombi in abdominal vessels develop in patients with heparin-induced thrombocytopenia, suggesting that our understanding of the pathogenesis of VITT is incomplete, and the usefulness of measuring pathogenic anti-PF4–related antibodies in all vaccine recipients has not been established.
+          -
+            'Douglas_et_al_04_16_2021
+            'Douglas_et_al_04_16_2021.!j
 
         / Risk of cerebral venous thrombosis (CVT)
         claim !RiskCVT = One study reported that the risk of cerebral venous thrombosis (CVT) following COVID-19 infection is around 100 times greater than normal, 10 times greater compared to mRNA vaccines and 8 times greater compared to AZ-Oxford vaccines or following influenza.
@@ -2775,6 +2810,7 @@ subject module Vaccines
         !VaccineefficacyV1
         !VaccineefficacyV2
         !Vaccineefficacy2btrial
+        !NVX-CoV2373efficacyB1351
 
 
       / On-going trials
@@ -2851,6 +2887,14 @@ subject module Vaccines
         'Sheward_et_al_04_05_2021.!a
         'Sheward_et_al_04_05_2021.!b
         'Sheward_et_al_04_05_2021.!c
+
+      / Novavax Vaccine efficacy against the B.1.351 Variant
+      claim !NVX-CoV2373efficacyB1351 = Preliminary evidence of the efficacy of a two-dose regimen of NVX-CoV2373 nanoparticle vaccine during predominant transmission of the B.1.351 variant in South Africa found that the NVX-CoV2373 vaccine was efficacious in preventing Covid-19 (49.4%), with higher vaccine efficacy (60.1%.) observed among HIV-negative participants. Vaccine efficacy against B.1.351 was 51.0% among the HIV-negative participants. Safety data continued to indicate an acceptable safety and reactogenicity profile.
+        -
+          'Shinde_et_al_05_20_2021
+          'Shinde_et_al_05_20_2021.!a
+          'Shinde_et_al_05_20_2021.!b
+          'Shinde_et_al_05_20_2021.!c
 
 
   / Vaccine Efficacy Against Variants
@@ -2957,6 +3001,7 @@ subject module Vaccines
       Candidates.NVX-CoV2373.!VaccineefficacyV1
       Candidates.NVX-CoV2373.!VaccineefficacyV2
       Candidates.NVX-CoV2373.!Vaccineefficacy2btrial
+      Candidates.NVX-CoV2373.!NVX-CoV2373efficacyB1351
     - Johnson & Johnson
       Approved.Ad26COV2S.!SAVariant
       Approved.Ad26COV2S.!Phase3ENSEMBLEtrial

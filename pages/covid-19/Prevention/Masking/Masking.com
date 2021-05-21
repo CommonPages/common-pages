@@ -33,6 +33,7 @@ subject Masking
     !ClothTrial
     !SourceControl
     !ObservationalEvidence
+    !Facemaskseffective
 
   - Mechanical Evidence
     !Simulations
@@ -357,6 +358,13 @@ subject Masking
       'Leffler_et_al_08_05_2020.!c
       'Leffler_et_al_08_05_2020.!d
 
+
+  claim !Facemaskseffective = A detailed study found that the virus abundance in most environments and contacts is sufficiently low for masks to be effective at preventing virus spread. More advanced masks and other protective equipment are required in potentially virus-rich indoor environments including medical centers and hospitals. Masks are particularly effective in combination with other preventive measures like ventilation and distancing.
+    -
+      'Cheng_et_al_05_20_2021
+      'Cheng_et_al_05_20_2021.!a
+      'Cheng_et_al_05_20_2021.!b
+      'Cheng_et_al_05_20_2021.!c
 
   triage
     'Wang_et_al_05_28_2020

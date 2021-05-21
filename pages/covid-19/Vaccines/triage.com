@@ -91,10 +91,51 @@
       'Chevallier_et_al_02_09_2021.!c
 
 
-#### 05/19/21 ####
+#### 05/21/21 ####
 
   >
     this preliminary evidence suggests that both, seropositive and naive individuals, require two doses of CoronaVac to ensure the induction of robust nAb titers.
+
+  claim !RealworldeffectivenessnursinghomeUS = Findings of the impact of vaccination among over 18,000 US nursing home residents, 1 and 2 doses (mRNA vaccines)- show that most infections were asymptomatic, and the incidence of both asymptomatic and symptomatic infections decreased.
+    -
+      'White_et_al_05_19_2021
+      'White_et_al_05_19_2021.!a
+      'White_et_al_05_19_2021.!b
+
+
+  claim !RealworldevidenceUK = Public Health England outlined the real-world evidence on vaccine effectiveness from studies in UK populations. Single dose of pfizer = 54% effectiveness against symptomatic disease, after 2 doses = 90%. Single dose Oxford AstraZeneca = 53% effectiveness against symptomatic disease, after 2 doses = 89% (low confidence).
+    -
+      'PHE_et_al_05_20_2021
+      'PHE_et_al_05_20_2021.!a
+      'PHE_et_al_05_20_2021.!b
+      'PHE_et_al_05_20_2021.!c
+      'PHE_et_al_05_20_2021.!d
+      'PHE_et_al_05_20_2021.!e
+
+
+
+
+  >
+    an algorithm for the management of this syndrome was proposed on the basis of immunoassays detecting anti–PF4–heparin antibodies.
+
+  / Rapid Immunoassays detecting anti–PF4–heparin antibodies
+  claim !Rapidimmunoassays = In a letter, scientists provided further evidence to show that rapid immunoassays should be avoided in the detection of PF4-specific antibodies in patients with suspected VITT.
+    -
+      'Vayne_et_al_05_19_2021
+      'Vayne_et_al_05_19_2021.!a
+      'Vayne_et_al_05_19_2021.!b
+      'Vayne_et_al_05_19_2021.!c
+
+  / Novavax Vaccine efficacy against the B.1.351 Variant
+  claim !NVX-CoV2373efficacyB1351 = Preliminary evidence of the efficacy of a two-dose regimen of NVX-CoV2373 nanoparticle vaccine during predominant transmission of the B.1.351 variant in South Africa found that the NVX-CoV2373 vaccine was efficacious in preventing Covid-19 (49.4%), with higher vaccine efficacy (60.1%.) observed among HIV-negative participants. Vaccine efficacy against B.1.351 was 51.0% among the HIV-negative participants. Safety data continued to indicate an acceptable safety and reactogenicity profile.
+    -
+      'Shinde_et_al_05_20_2021
+      'Shinde_et_al_05_20_2021.!a
+      'Shinde_et_al_05_20_2021.!b
+      'Shinde_et_al_05_20_2021.!c
+
+
+
 
 
   / ChAdOx1 nCoV-19 vaccine Efficacy against B.1.351 variant
