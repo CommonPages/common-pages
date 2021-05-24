@@ -6,19 +6,17 @@ revision feed Revisions
   let *May_24 mean May_24
   let *May_21 mean May_21
   let *May_19 mean May_19
-  let *May_17 mean May_17
-  let *May_10 mean May_10
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_24, *May_21, *May_19, *May_17, *May_10). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_24, *May_21 and *May_19). You can *contribute by sending corrections and responding to open questions.
 
 
   public: May-24-2021
   / May 24, 2021
   revision May_24
-    head = PHE released an update on Effectiveness of COVID-19 vaccines against the B.1.617.2 variant- Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%. Vaccine effects after two doses of ChAdOx1 vaccine were smaller than for BNT162b2 against either variant. However, rollout of second doses of ChAdOx1 was later than BNT162b2 and the difference may be explained by the limited follow-up after two doses of ChAdOx1 if it takes more than two weeks to reach maximum effectiveness with this vaccine.
+    head = PHE released an update on the effectiveness of COVID-19 vaccines against the B.1.617.2 variant. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%. Vaccine effects after two doses of ChAdOx1 vaccine were smaller than for BNT162b2 against either variant. However, rollout of second doses of ChAdOx1 was later than BNT162b2 and the difference may be explained by the limited follow-up after two doses of ChAdOx1 if it takes more than two weeks to reach maximum effectiveness with this vaccine.
     -
       Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
 
@@ -35,7 +33,7 @@ revision feed Revisions
       Vaccines.Approved.Tozinameran.!Myocarditis
 
     >
-        One study findings provide evidence that after the administration of a single dose of vaccine (BNT162b2 (Pfizer–BioNTech), the humoral response against SARS-CoV-2 in persons with a history of SARS-CoV-2 infection is greater than the response in previously uninfected participants who have received a second dose. A modeling study showed that neutralization antibody level is highly predictive of immune protection.
+      Findings from one study provide evidence that after the administration of a single dose of vaccine (BNT162b2 (Pfizer–BioNTech), the humoral response against SARS-CoV-2 in persons with a history of SARS-CoV-2 infection is greater than the response in previously uninfected participants who have received a second dose. A modeling study showed that neutralization antibody level is highly predictive of immune protection.
     -
       Vaccines.Approved.Tozinameran.!Singledosepriorcovid
       Disease.Immunity.AcquiredImmunity.Antibodies.!Neutralizinglevelpredictor
