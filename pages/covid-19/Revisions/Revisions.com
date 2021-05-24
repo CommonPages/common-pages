@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *May_24 mean May_24
   let *May_21 mean May_21
   let *May_19 mean May_19
   let *May_17 mean May_17
@@ -11,7 +12,39 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_21, *May_19, *May_17, *May_10). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_24, *May_21, *May_19, *May_17, *May_10). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: May-24-2021
+  / May 24, 2021
+  revision May_24
+    head = PHE released an update on Effectiveness of COVID-19 vaccines against the B.1.617.2 variant- Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%. Vaccine effects after two doses of ChAdOx1 vaccine were smaller than for BNT162b2 against either variant. However, rollout of second doses of ChAdOx1 was later than BNT162b2 and the difference may be explained by the limited follow-up after two doses of ChAdOx1 if it takes more than two weeks to reach maximum effectiveness with this vaccine.
+    -
+      Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
+
+    >
+      UK phase 3 trial of a two-dose regimen of NVX-CoV2373 (Novavax), given 21 days apart, was found to be safe and 89.7% effective against symptomatic Covid-19 caused by both prototype and B1.1.7 variants.
+      A test-negative case-control study estimated effectiveness of CoronaVac was 42% against symptomatic COVID-19 in an elderly population during	a	period of widespread P.1 transmission (83% prevalent), but significant protection was not observed until completion of the two-dose regimen. The vaccine was effective	in this	population aged	70 years and above, although effectiveness declined with age.
+    -
+      Vaccines.Candidates.NVX-CoV2373.!UKphase3Novavax
+      Vaccines.Approved.CoronaVac.!CoronaVacrealworldBrazil
+
+    >
+      The Vaccine Safety Technical (VaST) session on May 17, 2021, included several presentations on myocarditis following mRNA vaccines. Few reports of myocarditis following mRNA vaccines predominantly in adolescents & young adults, more often in males than females, more often following dose 2 than dose 1, and typically within 4 days after vaccination. Most cases appear to be mild, and follow-up of cases is ongoing.
+    -
+      Vaccines.Approved.Tozinameran.!Myocarditis
+
+    >
+        One study findings provide evidence that after the administration of a single dose of vaccine (BNT162b2 (Pfizer–BioNTech), the humoral response against SARS-CoV-2 in persons with a history of SARS-CoV-2 infection is greater than the response in previously uninfected participants who have received a second dose. A modeling study showed that neutralization antibody level is highly predictive of immune protection.
+    -
+      Vaccines.Approved.Tozinameran.!Singledosepriorcovid
+      Disease.Immunity.AcquiredImmunity.Antibodies.!Neutralizinglevelpredictor
+
+    >
+      The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, can significantly reduce Covid-19-related hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants.
+
+    -
+      Disease.Immunity.REGEN-COV
 
 
   public: May-21-2021

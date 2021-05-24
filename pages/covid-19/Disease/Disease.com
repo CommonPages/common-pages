@@ -809,6 +809,7 @@ subject module Disease
           !Potency
           !Longevity
           !Stability
+          !Neutralizinglevelpredictor
           !Diversity
           !Prevalence
 
@@ -835,9 +836,18 @@ subject module Disease
             'Robbiani_et_al_05_22_2020.!a
             'Wu_et_al_2020b
 
-        claim !Longevity = There have been reports of SARS-CoV-2 antibodies waning. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Specific IgG antibodies was still present after 7 months. Concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. A study on Extreme aged individuals and centenarians antibodies found that humoral responses were still detectable after 60 days from initial diagnosis. Past studies on antibodies longevity of diifferent coronaviruses have shown to last for atleast a year.
+        / Neutralization antibody level predictive of immune protection
+        claim !Neutralizinglevelpredictor = A modeling study showed that neutralization antibody level is highly predictive of immune protection. The model also predicts that immune protection from infection may wane with time as neutralization levels decline, and that booster immunization may be required within a year. However, protection from severe infection should be largely retained.
+
+        -
+          'Khoury_et_al_05_17_2021
+          'Khoury_et_al_05_17_2021.!a
+          'Khoury_et_al_05_17_2021.!b
+
+        claim !Longevity = There have been reports of SARS-CoV-2 antibodies waning. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Specific IgG antibodies was still present after 7 months. Concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. A study on Extreme aged individuals and centenarians antibodies found that humoral responses were still detectable after 60 days from initial diagnosis. Past studies on antibodies longevity of diifferent coronaviruses have shown to last for atleast a year. A model study predicts that immune protection from infection may wane with time as neutralization levels decline, and that booster immunization may be required within a year. However, protection from severe infection should be largely retained.
           -
             !Cv2Waning
+            !Neutralizinglevelpredictor
           - IGG duration more than 7 months
             !Immunity6months
             !Stability.!Heterogeneousimmuneresponse
@@ -1029,6 +1039,26 @@ subject module Disease
         # Claim:? Infection with betacoronaviruses induces multi-specific and long-lasting T cell immunity against the structural N protein.
         # Counter? Cross Reactivity is common but it may not provide immunity or cross neutralizing antibody
         'Lv_et_al_06_02_2020
+
+
+    / MONOCLONAL ANTIBODY TREATMENT
+    subject REGEN-COV
+      head = Regeneron Pharmaceuticals announced positive results from a Phase 3 trial (2069A) showing suggesting that the subcutaneous administration of REGEN-COV™ (casirivimab with imdevimab)-1,200 mg, reduced the risk of developing symptomatic Covid-19 infection by 81% in people living with someone infected by the new coronavirus. Among individuals who developed symptomatic infections, REGEN-COV recipients cleared the virus faster and had much shorter symptom duration. The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, can significantly reduce Covid-19-related hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants.
+      -
+        'Regeneron_et_al_04_12_2021
+        'Regeneron_et_al_04_12_2021.!a
+        'Regeneron_et_al_04_12_2021.!b
+        'Regeneron_et_al_04_12_2021.!c
+        'Regeneron_et_al_04_12_2021.!d
+        'Regeneron_et_al_04_12_2021.!e
+      -
+        'Weinreich_et_al_05_21_2021
+        'Weinreich_et_al_05_21_2021.!a
+        'Weinreich_et_al_05_21_2021.!b
+        'Weinreich_et_al_05_21_2021.!c
+        'Weinreich_et_al_05_21_2021.!d
+        'Weinreich_et_al_05_21_2021.!e
+
 
     / Reinfection
     question ?Reinfection

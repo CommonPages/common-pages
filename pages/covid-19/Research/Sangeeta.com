@@ -11,6 +11,17 @@ feed Sangeeta
     / May, 2021 - JAMA Netw Open.
     quote !a =
 
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
@@ -23,6 +34,22 @@ feed Sangeeta
 
     / May, 2021 - JAMA Netw Open.
     quote !a =
+
+
+  #
+
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
+
+
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -34,6 +61,262 @@ feed Sangeeta
 
     / May, 2021 - JAMA Netw Open.
     quote !a =
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/10.1038/s41591-021-01377-8
+  ref 'Khoury_et_al_05_17_2021
+    head = We analyzed the relationship between in vitro neutralization levels and the observed protection from SARS-CoV-2 infection using data from seven current vaccines and from convalescent cohorts.
+
+    > Abstract
+      Predictive models of immune protection from COVID-19 are urgently needed to identify correlates of protection to assist in the future deployment of vaccines. To address this, we analyzed the relationship between in vitro neutralization levels and the observed protection from severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection using data from seven current vaccines and from convalescent cohorts. We estimated the neutralization level for 50% protection against detectable SARS-CoV-2 infection to be 20.2% of the mean convalescent level (95% confidence interval (CI) = 14.4–28.4%). The estimated neutralization level required for 50% protection from severe infection was significantly lower (3% of the mean convalescent level; 95% CI = 0.7–13%, P = 0.0004). Modeling of the decay of the neutralization titer over the first 250 d after immunization predicts that a significant loss in protection from SARS-CoV-2 infection will occur, although protection from severe disease should be largely retained. Neutralization titers against some SARS-CoV-2 variants of concern are reduced compared with the vaccine strain, and our model predicts the relationship between neutralization and efficacy against viral variants. Here, we show that neutralization level is highly predictive of immune protection, and provide an evidence-based model of SARS-CoV-2 immune protection that will assist in developing vaccine strategies to control the future trajectory of the pandemic.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / May, 2021 - Nature Medicine
+    quote !a = We show that neutralization level is highly predictive of immune protection, and provide an evidence-based model of SARS-CoV-2 immune protection that will assist in developing vaccine strategies to control the future trajectory of the pandemic.
+
+     / May, 2021 - Nature Medicine
+     quote !b = The model also predicts that immune protection from infection may wane with time as neutralization levels decline, and that booster immunization may be required within a year. However, protection from severe infection may be considerably more durable given that lower levels of response may be required or alternative responses (such as cellular immune responses) may play a more prominent role.
+
+     / May, 2021 - Nature Medicine
+     quote !c = We estimated the neutralization level for 50% protection against detectable SARS-CoV-2 infection to be 20.2% of the mean convalescent level. The estimated neutralization level required for 50% protection from severe infection was significantly lower (3% of the mean convalescent level).
+
+
+  #
+  // SARS-CoV-2 Antibody Response in Persons with Past Natural Infection
+  doi: https://doi.org/10.1056/NEJMc2103825
+  ref 'Anichini_et_al_04_14_2021
+    head = In an observational cohort study, we enrolled 100 health care workers, including 38 (9 men and 29 women - The mean age was 35.1) with a documented history of SARS-CoV-2 infection. Our study also included 62 participants (25 men and 37 women) who had not been previously infected- The mean age was 44.7 years. Both groups of participants received the messenger RNA vaccine BNT162b2 (Pfizer–BioNTech).
+
+    - quotes
+      !a
+      !b
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !a = The most remarkable finding of this study was the significantly lower neutralizing antibody titer after administration of a second dose of vaccine in previously uninfected patients than the titer after only a single dose of vaccine in previously infected participants.
+
+    / April, 2021 - The New England Journal of Medicine
+    quote !b = The differences among the three groups were more evident with respect to levels of neutralizing antibodies, with geometric mean titers ranging from 437 (95% CI, 231 to 643) in participants vaccinated 1 to 2 months after infection to 559 (95% CI, 389 to 730) in those vaccinated more than 2 months to 3 months after infection to 694 (95% CI, 565 to 823) in those vaccinated more than 3 months after infection. Although these findings indicate that the booster response was more efficacious when the vaccine was administered more than 3 months after infection, not enough information is available to draw a definitive conclusion.
+
+
+
+
+  #
+  // COVID-19 VaST Work Group Technical Report – May 17, 2021
+  doi: https://www.cdc.gov/vaccines/acip/work-groups-vast/technical-report-2021-05-17.html
+  ref 'CDC_et_al_05_17_2021
+    head = The VaST session on May 17, 2021, included several presentations on myocarditis following mRNA vaccines, from the Department of Defense (DoD), the Vaccine Adverse Event Reporting System (VAERS), and Vaccine Safety Datalink (VSD). There were also brief updates from the Veteran’s Administration (VA) and the Clinical Immunization Safety Assessment (CISA) groups about their plans for future investigation of myocarditis.
+
+    - quotes
+      !a
+
+    / May, 2021 - CDC
+    quote !a = VaST concluded that there are relatively few reports of myocarditis to date and that these cases  seem to occur: predominantly in adolescents and young adults, more often in males than females, more often following dose 2 than dose 1, and typically within 4 days after vaccination. Most cases appear to be mild, and follow-up of cases is ongoing.
+
+
+
+  #
+  // Effectiveness of COVID-19 vaccines against the B.1.617.2 variant
+  doi: https://khub.net/documents/135939561/430986542/Effectiveness+of+COVID-19+vaccines+against+the+B.1.617.2+variant.pdf/204c11a4-e02e-11f2-db19-b3664107ac42
+  ref 'Bernal_et_al_05_23_2021
+    head = A test negative case control design was used to estimate the effectiveness of vaccination against symptomatic disease with both variants over the period that B.1.617.2 began circulating with cases identified based on sequencing and S-gene target status. Data on all symptomatic sequenced cases of COVID-19 in England was used to estimate the proportion of cases with B.1.617.2 compared to the predominant strain (B.1.1.7) by vaccination status.
+
+    > Background
+      The B.1.617.2 COVID-19 variant has contributed to the surge in cases in India and has now been detected across the globe, including a notable increase in cases in the  UK. We estimate the effectiveness of the BNT162b2 and ChAdOx1 COVID-19  vaccines against this variant.
+
+    > Methods
+      A test negative case control design was used to estimate the effectiveness of vaccination against symptomatic disease with both variants over the period that B.1.617.2 began circulating with cases identified based on sequencing and S-gene  target status. Data on all symptomatic sequenced cases of COVID-19 in England was used to estimate the proportion of cases with B.1.617.2 compared to the predominant strain (B.1.1.7) by vaccination status.
+
+    > Results
+      Effectiveness was notably lower after 1 dose of vaccine with B.1.617.2 cases 33.5% (95%CI: 20.6 to 44.3) compared to B.1.1.7 cases 51.1% (95%CI: 47.3 to 54.7) with similar results for both vaccines. With BNT162b2 2 dose effectiveness reduced from  93.4% (95%CI: 90.4 to 95.5) with B.1.1.7 to 87.9% (95%CI: 78.2 to 93.2) with  B.1.617.2. With ChAdOx1 2 dose effectiveness reduced from 66.1% (95% CI: 54.0 to 75.0) with B.1.1.7 to 59.8% (95%CI: 28.9 to 77.3) with B.1.617.2. Sequenced  cases detected after 1 or 2 doses of vaccination had higher odds of infection with B.1.617.2 compared to unvaccinated cases (OR 1.40; 95%CI: 1.13-1.75).
+
+    > Conclusions
+      After 2 doses of either vaccine there were only modest differences in vaccine effectiveness with the B.1.617.2 variant. Absolute differences in vaccine effectiveness were more marked with dose 1. This would support maximising vaccine uptake with 2 doses among vulnerable groups.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+
+    / May, 2021 - Public Health England
+    quote !a = We found an absolute reduction of one dose vaccine effectiveness against symptomatic disease with the B.1.617.2 variant of approximately 20% when compared to the B.1.1.7 variant. However, reductions in vaccine effectiveness after two doses were very small. This was the case for both the BNT162b2 and ChAdOx1 vaccines.
+
+
+    / May, 2021 - Public Health England
+    quote !b = Using a TNCC analysis, estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%.
+
+    / May, 2021 - Public Health England
+    quote !c = Among sequenced samples that were originally tested using the TaqPath assay, there was a high correlation between S-gene target status and the two variants under investigation with 87.5% of S-gene positive cases identified as B.1.617.2 and 99.7% of S-gene target negative cases identified as B.1.1.7.
+
+    # / May, 2021 - JAMA Netw Open.
+    # quote !a = In the ‘any vaccine’ analysis, effectiveness was notably lower after 1 dose of vaccine with B.1.617.2 cases 33.5% compared to B.1.1.7 cases 51.1%. Results for dose 1 were similar for both vaccines. Following dose 2, the reduction in vaccine effectiveness was much smaller and non-significant: 86.8% with B.1.1.7 and 80.9 with B.1.617.2.
+
+    / May, 2021 - Public Health England
+    quote !d = With BNT162b2 there was a small reduction in effectiveness post dose 2 from 93.4%  with B.1.1.7 to 87.9% with B.1.617.2.
+
+    / May, 2021 - Public Health England
+    quote !e = Numbers vaccinated with 2 doses of ChAdOx1 were smaller and the overall 2 dose vaccine effectiveness was lower than with BNT162b2 however the difference in vaccine effectiveness between B.1.1.7 and B.1.617.2 was small and non-significant: 66.1% and 59.8% respectively.
+
+    / May, 2021 - Public Health England
+    quote !f = These findings suggest a modest reduction in vaccine effectiveness. Nevertheless, a clear effect of both vaccines was noted with high levels of effectiveness after two doses. Vaccine effects after two doses of ChAdOx1 vaccine were smaller than for BNT162b2 against either variant. This is consistent with reported clinical trial findings. However, rollout of second doses of ChAdOx1 was later than BNT162b2 and the difference may be explained by the limited follow-up after two doses of ChAdOx1 if it takes more than two weeks to reach maximum effectiveness with this vaccine. Consistent with this, 74% of those who had received 2 doses of ChAdOx1 had done so between 2 and 4 weeks prior to symptom onset compared to 46% with BNT162b2.
+
+
+    / May, 2021 - Public Health England
+    quote !a = We found high levels of vaccine effectiveness against symptomatic disease after two doses. These estimates were only modestly lower than vaccine effectiveness against the B.1.1.7 variant. It is likely that vaccine effectiveness against more severe disease outcomes will be greater. Our findings would support maximising vaccine uptake with two doses among vulnerable groups in the context of circulation of B.1.617.2.
+
+  #
+
+  // REGEN-COV Antibody Cocktail Clinical Outcomes Study in Covid-19 Outpatients
+  doi: https://doi.org/10.1101/2021.05.19.21257469
+  ref 'Weinreich_et_al_05_21_2021
+    head = The phase 3 portion of this adaptive, randomized, master protocol, included 4,057 Covid-19 outpatients with one or more risk factors for severe disease. Patients were randomized to a single treatment of intravenous placebo, or various doses of REGEN-COV, and followed for 28 days.
+
+    > Background
+      REGEN-COV antibody cocktail (casirivimab with imdevimab) rapidly reduced viral load and decreased medically-attended visits in the phase 1/2 portion of this trial; REGEN-COV, retains activity in vitro against emerging SARS-CoV-2 variants of concern.
+    > Methods
+      The phase 3 portion of this adaptive, randomized, master protocol, included 4,057 Covid-19 outpatients with one or more risk factors for severe disease. Patients were randomized to a single treatment of intravenous placebo, or various doses of REGEN-COV, and followed for 28 days. The prespecified hierarchical analysis first compared REGEN-COV 2400mg dose vs concurrent placebo, then compared the 1200mg dose vs concurrent placebo, for endpoints assessing risk of hospitalization or death, and time to symptom resolution. Safety was evaluated in all treated patients.
+
+    > Results
+      Both REGEN-COV 2400mg and 1200mg significantly reduced Covid-19-related hospitalization or all-cause death compared to placebo (71.3% reduction [1.3% vs 4.6%; p<0.0001] and 70.4% reduction [1.0% vs 3.2%; p=0.0024], respectively). The median time to resolution of Covid-19 symptoms was 4 days shorter in both dose arms vs placebo (10 vs 14 days; p<0.0001). Efficacy of REGEN-COV was consistent across subgroups, including patients who were SARS-CoV-2 serum antibody-positive at baseline. REGEN-COV more rapidly reduced viral load than placebo. Serious adverse events occurred more frequently in the placebo group (4.0%) than in the 1200mg (1.1%) and 2400mg (1.3%) groups and grade ≥2 infusion-related reactions were infrequent (<0.3% in all groups).
+
+    > Conclusions
+      Treatment with REGEN-COV was well-tolerated and significantly reduced Covid-19-related hospitalization or all-cause death, rapidly resolved symptoms, and reduced viral load.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / May, 2021 - medRxiv
+    quote !a = The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, can significantly reduce Covid-19-related hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants.
+
+    / May, 2021 - medRxiv
+    quote !b = Both 1200mg IV and 2400mg IV REGEN-COV led to a ≥70% reduction (vs placebo) in Covid-19 hospitalization or all-cause death over 28 days after treatment.
+
+    / May, 2021 - medRxiv
+    quote !c = In those who were hospitalized, REGEN-COV treatment led to shorter duration of hospitalization and a lower proportion of patients requiring intensive care unit (ICU)-level care.
+
+    / May, 2021 - medRxiv
+    quote !d = In addition, REGEN-COV, at both doses, resulted in more rapid resolution of Covid-19 symptoms by a median of 4 days.
+
+    / May, 2021 - medRxiv
+    quote !e = A single dose of REGEN-COV in outpatients with Covid-19 has the potential to improve patient outcomes and substantially reduce the health care burden experienced during this pandemic by reducing morbidity and mortality, including hospitalizations and ICU-level care.
+
+
+  #
+
+  // Effectiveness of the CoronaVac vaccine in the elderly population during a P.1 variant-associated epidemic of COVID-19 in Brazil: A test-negative case-control study
+  doi: https://doi.org/10.1101/2021.05.19.21257472
+  ref 'Ranzani_et_al_05_21_2021
+    head = We conducted a test-negative, case-control study of adults >=70 years of age from Sao Paulo State from January 17 to April 29, 2021, during which vaccination with a two-dose regimen of CoronaVac was implemented. We identified RT-PCR-confirmed COVID-19 cases and controls who had a symptomatic illness with a negative RT-PCR test from national surveillance and state vaccination databases.
+
+    > Background
+      Mass vaccination is being used in response to coronavirus disease (COVID-19) epidemics, including those driven by emerging variants of concern. We evaluated the effectiveness of the inactivated whole-virus vaccine, CoronaVac, against symptomatic COVID-19 in the elderly population of Sao Paulo State, Brazil during widespread circulation of the P.1 variant.
+
+    > Methods
+      We conducted a test-negative, case-control study of adults >=70 years of age from Sao Paulo State from January 17 to April 29, 2021, during which vaccination with a two-dose regimen of CoronaVac was implemented. We identified RT-PCR-confirmed COVID-19 cases and controls who had a symptomatic illness with a negative RT-PCR test from national surveillance and state vaccination databases. Controls were pair-matched to cases by age category, sex, race, municipality, prior COVID-19 status, and date of RT-PCR testing. We estimated vaccine effectiveness, adjusted for age and comorbidities, using conditional logistic regression.
+
+    > Findings
+      We selected 7,950 matched pairs with a mean age of 76 years from 26,433 COVID-19 cases and 17,622 test-negative controls. Adjusted vaccine effectiveness was 18.2% (95% CI, 0.0 to 33.2) and 41.6% (95% CI, 26.9 to 53.3) in the period 0-13 and >=14 days, respectively, after the 2nd dose. Administration of a single vaccine dose was not associated with reduced odds of COVID-19. Vaccine effectiveness >=14 days after the 2nd dose declined with increasing age and was 61.8% (95% CI 34.8 to 77.7), 48.9% (95% CI 23.3 to 66.0) and 28.0% (95% CI 0.6 to 47.9) among individuals 70-74, 75-79 and >=80 years of age, respectively (p-interaction = 0.05).
+
+    > Interpretation
+      CoronaVac was 42% effective in the real-world setting of extensive P.1 transmission, but significant protection was not observed until completion of the two-dose regimen. These findings underscore the need to maintain non-pharmaceutical interventions when mass vaccination with CoronaVac is used as part of an epidemic response
+
+    - quotes
+      !a
+      !b
+
+    / May, 2021 - medRxiv
+    quote !a = CoronaVac was 42% effective against symptomatic COVID-19 in an	elderly	population in the real-world setting of extensive P.1 transmission (83%	prevalent), but significant protection was not observed until completion of the two-dose regimen.
+
+    / May, 2021 - medRxiv
+    quote !b = The vaccine was effective in this	population aged	70 years and above, although effectiveness declined	with age; and vaccine effectiveness appeared to be	maintained among individuals with comorbidities	associated with	severe COVID-19	outcomes.
+
+
+
+  #
+
+  // Catch me if you can: Superspreading of SARS-CoV-2
+  doi: https://doi.org/10.1016/j.tim.2021.05.002
+  ref 'Lakdawala_et_al_05_11_2021
+    head = We discuss what is known and unknown about coronavirus superspreader transmission and explore whether characteristics of the virion, the donor, or the environment contribute to this phenomenon.
+
+    > Abstract
+      While significant insights have been gained around pathogenesis and progression of COVID-19, superspreading of coronaviruses remains a mystery. Cluster transmission of SARS-CoV-2 has been documented in many contact tracing studies, where the majority of new SARS-CoV-2 infections are linked to a relatively small portion of infected individuals. Interestingly, the genetic sequence of the virus, severity of disease, and underlying host parameters like age, sex, and health conditions are not correlated with superspreading events. In this commentary, we will discuss what is known and unknown about coronavirus superspreader transmission and explore whether characteristics of the virion, the donor, or the environment contribute to this phenomenon.
+
+    - quotes
+      !a
+
+    / May, 2021 - Trends in Microbiology
+    quote !a = Super spreading is the main driver of transmission for the majority of pandemic coronaviruses cases.
+
+    / May, 2021 - Trends in Microbiology
+    quote !a = The virus genetic sequence, severity of disease, and host conditions like age, sex, and co-morbidities are not linked to super spreading.
+
+    / May, 2021 - Trends in Microbiology
+    quote !a = The donor modification of the virion or the donor microbiome may play a potential role in super spreading.
+
+    / May, 2021 - Trends in Microbiology
+    quote !a = Physical constraints and environmental factors may also contribute to super spreading phenomena.
+
+
+    / May, 2021 - Trends in Microbiology
+    quote !a =
+
+
+    / May, 2021 - Trends in Microbiology
+    quote !a =
+
+    / May, 2021 - Trends in Microbiology
+    quote !a =
+
+  #
+
+  // Efficacy of the NVX-CoV2373 Covid-19 Vaccine Against the B.1.1.7 Variant
+  doi: https://doi.org/10.1101/2021.05.13.21256639
+  ref 'Heath_et_al_05_14_2021
+    head = A phase 3, randomized, observer-blinded, placebo-controlled trial was conducted in adults 18-84 years old who received two intramuscular 5-µg doses, 21 days apart, of NVX-CoV2373 or placebo (1:1) across 33 sites in the United Kingdom.
+
+    > Background
+      Covid-19 vaccines are urgently needed, especially against emerging variants. NVX-CoV2373 is a recombinant severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2 rS) nanoparticle vaccine containing trimeric full-length SARS-CoV-2 spike glycoprotein and Matrix-M adjuvant.
+
+    > Methods
+      A phase 3, randomized, observer-blinded, placebo-controlled trial was conducted in adults 18-84 years old who received two intramuscular 5-µg doses, 21 days apart, of NVX-CoV2373 or placebo (1:1) across 33 sites in the United Kingdom. The primary efficacy endpoint was virologically confirmed symptomatic Covid-19 with onset 7 days after second vaccination in serologically negative participants.
+
+    > Results
+      A total of 15,187 participants were randomized, of whom 7569 received NVX-CoV2373 and 7570 received placebo; 27.2% were 65 years or older, 44.7% had comorbidities and 4.2% had baseline serological evidence of SARS-CoV-2. There were 10 cases of Covid-19 among NVX-CoV2373 recipients and 96 cases among placebo recipients, with symptom onset at least 7 days after second vaccination; NVX-CoV2373 was 89.7% (95% confidence interval, 80.2 to 94.6) effective in preventing Covid-19, with no hospitalizations or deaths reported. There were five cases of severe Covid-19, all in the placebo group. Post hoc analysis revealed efficacies of 96.4% (73.8 to 99.5) and 86.3% (71.3 to 93.5) against the prototype strain and B.1.1.7 variant, respectively. Vaccine efficacy was similar across subgroups, including participants with comorbidities and those ≥65 years old. Reactogenicity was generally mild and transient. The incidence of serious adverse events was low and similar in the two groups.
+
+    > Conclusion
+      A two-dose regimen of NVX-CoV2373 conferred 89.7% protection against a blend of prototype and variant Covid-19, demonstrated high efficacy against the B.1.1.7 variant, and had a reassuring safety profile.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2021 - medRxiv
+    quote !a = A two-dose regimen of NVX-CoV2373, given 21 days apart, was found to be safe and 89.7% effective against symptomatic Covid-19 caused by both prototype and B1.1.7 variants.
+
+    / May, 2021 - medRxiv
+    quote !b = Vaccine efficacy against the prototype (original) strain is 96.4%. This is the first vaccine to demonstrate high vaccine efficacy (86.3%) against the B.1.1.7 variant in a phase 3 trial.
+
+    / May, 2021 - medRxiv
+    quote !c = Reactogenicity was generally mild or moderate, and reactions were less common and milder in older subjects and more common after the second dose. Injection site tenderness and pain, fatigue, headache, and muscle pain were the most commonly reported local and systemic adverse events. The incidence of serious adverse events was similar in the vaccine and placebo groups (0.5% in each) and no deaths were attributable to receipt of the vaccine.
+
+    / May, 2021 - medRxiv
+    quote !d = NVX-CoV2373 can be stored at standard refrigerator temperatures and has the potential to induce a broad epitope response to the spike protein antigen.
+
   #
   // Face masks effectively limit the probability of SARS-CoV-2 transmission
   doi: https://doi.org/10.1126/science.abg6296

@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days).
+      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days). Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose is approximately 33%, for two doses of BNT162b2 is approximately 88%.
 
 
       >
@@ -89,8 +89,10 @@ subject module Vaccines
         !SingleDoseHumoralPfizer
         !Singledoseolderpeople
         !GermanySingledoseincompleteprotection
+
       -
         !PriorInfectionSingleDose
+        !Singledosepriorcovid
         !PreviouslyinfectedPfizer
         !PriorinfectionSingledoseBcells
         !PriorinfectionPfizerneutralizingactivity
@@ -134,6 +136,7 @@ subject module Vaccines
         !VaccineefficacymRNAB16171
         !VaccineefficacyBNT162b2B16171
         !B1617B1618neutralizationPfizerModerna
+        Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
       - Immune Response
         !Tcellresponses
         !BCellresponse
@@ -147,6 +150,7 @@ subject module Vaccines
         !BellsPalsy
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!RiskCVT
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!Diagnosis.!PF4polyanion
+        !Myocarditis
       - Real World Data: Adverse Effects
         !AdverseeffectsBNT162b2ChAdOx1
 
@@ -758,6 +762,12 @@ subject module Vaccines
         'Goel_et_al_04_15_2021.!e
         'Goel_et_al_04_15_2021.!f
 
+      claim !Singledosepriorcovid = These findings provide evidence that after the administration of a single dose of vaccine (BNT162b2 (Pfizer–BioNTech), the humoral response against SARS-CoV-2 in persons with a history of SARS-CoV-2 infection is greater than the response in previously uninfected participants who have received a second dose.
+        -
+          'Anichini_et_al_04_14_2021
+          'Anichini_et_al_04_14_2021.!a
+          'Anichini_et_al_04_14_2021.!b
+
       / Moderna and Pfizer Vaccine efficacy againt B.1.427/B.1.429 variant (CA)
       claim !NeutralizingtitersB1427B1429 = Plasma from vaccinated or convalescent individuals (two doses of Pfizer/BioNTech BNT162b2 or Moderna mRNA-1273) exhibited neutralizing titers, which were reduced 3-6 fold against the B.1.427/B.1.429 variant relative to wildtype pseudoviruses.
         -
@@ -864,6 +874,11 @@ subject module Vaccines
            'White_et_al_05_19_2021
            'White_et_al_05_19_2021.!a
            'White_et_al_05_19_2021.!b
+
+       claim !Myocarditis = The Vaccine Safety Technical (VaST) session on May 17, 2021, included several presentations on myocarditis following mRNA vaccines. It concluded that there are relatively few reports of myocarditis to date and that these cases seem to occur: predominantly in adolescents and young adults, more often in males than females, more often following dose 2 than dose 1, and typically within 4 days after vaccination. Most cases appear to be mild, and follow-up of cases is ongoing.
+         -
+           'CDC_et_al_05_17_2021
+           'CDC_et_al_05_17_2021.!a
 
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
@@ -1129,7 +1144,7 @@ subject module Vaccines
 
     / Oxford–AstraZeneca
     subject AZD1222
-      head = Phase 3 interim primary efficacy analysis, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial. Very rare cases of blood clots with low blood platelets occurring within 2 weeks of vaccination have been observed. One study confirms that the overall risk of vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. A single dose of the ChAdOx1 nCoV-19 vaccine in previously infected with SARS-CoV-2 serves as an efficacious immune booster up to at least 11 months post infection and demonstrated a robust serological response with broad neutralizing capacity against SARS-CoV-2 wild type, and B.1.1.7, B.1.351, and P.1. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals. Real world data shows that short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. The post-vaccine symptoms (both systemic and local) often last 1–2 days from the injection. It decreases the risk of SARS-CoV-2 infection after 12 days and substantial protection after 3 weeks.
+      head = Phase 3 interim primary efficacy analysis, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial. Very rare cases of blood clots with low blood platelets occurring within 2 weeks of vaccination have been observed. One study confirms that the overall risk of vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. A single dose of the ChAdOx1 nCoV-19 vaccine in previously infected with SARS-CoV-2 serves as an efficacious immune booster up to at least 11 months post infection and demonstrated a robust serological response with broad neutralizing capacity against SARS-CoV-2 wild type, and B.1.1.7, B.1.351, and P.1. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals. Real world data shows that short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. It decreases the risk of SARS-CoV-2 infection after 12 days and substantial protection after 3 weeks. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of is approximately 33%, and for two doses of ChAdOx1 is approximately 60%.
 
 
       >
@@ -1204,6 +1219,8 @@ subject module Vaccines
         !PreviouslyinfectedChAdOx1
       - Vaccine efficacy against the B.1 and B.1.617.1
         !Covishieldneutralizing
+      - Vaccine efficacy against B.1.617.2
+        !PHEupdatevaccineeffectiveness
       - Immune Response
         Tozinameran.!UKPostvaccineantispikeIgG
       - Animal challenge
@@ -1979,6 +1996,18 @@ subject module Vaccines
           'Yadav_et_al_05_12_2021.!a
           'Yadav_et_al_05_12_2021.!b
 
+      / PHE update on COVID-19 vaccines effectiveness (Pfizer and Oxford) against the B.1.617.2
+      claim !PHEupdatevaccineeffectiveness = PHE released an update on Effectiveness of COVID-19 vaccines against the B.1.617.2 variant- findings demonstrated a modest reduction of one dose vaccine effectiveness against symptomatic disease with the B.1.617.2 variant of approximately 20% when compared to the B.1.1.7 variant. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%. Vaccine effects after two doses of ChAdOx1 vaccine were smaller than for BNT162b2 against either variant. However, rollout of second doses of ChAdOx1 was later than BNT162b2 and the difference may be explained by the limited follow-up after two doses of ChAdOx1 if it takes more than two weeks to reach maximum effectiveness with this vaccine.
+        -
+          'Bernal_et_al_05_23_2021
+          'Bernal_et_al_05_23_2021.!a
+          'Bernal_et_al_05_23_2021.!b
+          'Bernal_et_al_05_23_2021.!c
+          'Bernal_et_al_05_23_2021.!d
+          'Bernal_et_al_05_23_2021.!e
+          'Bernal_et_al_05_23_2021.!f
+
+
       claim !Casereports = The Journal highlights 3 independent descriptions of 39 persons with a newly described syndrome characterized by thrombosis and thrombocytopenia that developed 5 to 24 days after initial vaccination with ChAdOx1 nCoV-19 (AstraZeneca). Pathogeny of the syndrome are not yet clear but certain findings are consistent. Treatment management suggests that intravenous immune globulin and high-dose glucocorticoids, and nonheparin antithrombotic agents.
         - Reports
           'Douglas_et_al_04_16_2021
@@ -2484,6 +2513,7 @@ subject module Vaccines
         !Brazilsingledose
         !BrazilPositiveImpactCoronavacAZ
         !Chilepreliminarydata
+        !CoronaVacrealworldBrazil
 
 
       / On going clinical trials
@@ -2543,6 +2573,13 @@ subject module Vaccines
           'Muena_et_al_05_18_2021.!c
           'Muena_et_al_05_18_2021.!d
           'Muena_et_al_05_18_2021.!e
+
+      / Real World data (Brazil)- elderly population (P.1 transmission)
+      claim !CoronaVacrealworldBrazil = A test-negative case-control study estimated effectiveness of CoronaVac was 42% against symptomatic COVID-19 in an elderly population during a	period of widespread P.1 transmission (83% prevalent), but significant protection was not observed until completion of the two-dose regimen. The vaccine was effective	in this	population aged	70 years and above, although effectiveness declined with age.
+        -
+          'Ranzani_et_al_05_21_2021
+          'Ranzani_et_al_05_21_2021.!a
+          'Ranzani_et_al_05_21_2021.!b
 
 
     / Sinopharm
@@ -2772,7 +2809,7 @@ subject module Vaccines
 
     / Novavax
     subject NVX-CoV2373
-      head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in COVID-19 convalescent serum. Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and South African variants. Novavax announced final efficacy of 96.4% in phase 3 trial against mild, moderate and severe disease caused by the original COVID-19 strain. Efficacy of 55.4% has been observed against B.1.351 escape variants. The vaccine demonstrated 100% protection against severe disease, including all hospitalization and death.
+      head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in COVID-19 convalescent serum. Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and South African variants. Novavax announced final efficacy of 96.4% in phase 3 trial against mild, moderate and severe disease caused by the original COVID-19 strain. Efficacy of 55.4% has been observed against B.1.351 escape variants. The vaccine demonstrated 100% protection against severe disease, including all hospitalization and death. UK phase 3 trial of a two-dose regimen of Novavax was 89.7% effective against symptomatic Covid-19 caused by both prototype and B1.1.7 variants.
 
       >
         NVX-CoV2373 [Novavax](https://www.novavax.com/) is a protein subunit vaccine that contains the {Virus.Structure spike protein} of the SARS-CoV-2 molecule. NVX-CoV2373 is a SARS-CoV-2 recombinant spike protein nanoparticle with adjuvant.
@@ -2811,6 +2848,7 @@ subject module Vaccines
         !VaccineefficacyV2
         !Vaccineefficacy2btrial
         !NVX-CoV2373efficacyB1351
+        !UKphase3Novavax
 
 
       / On-going trials
@@ -2896,6 +2934,15 @@ subject module Vaccines
           'Shinde_et_al_05_20_2021.!b
           'Shinde_et_al_05_20_2021.!c
 
+      / Novavax Vaccine efficacy (UK phase 3 trial)against the  B1.1.7 Variants
+      claim !UKphase3Novavax = UK phase 3 trial of a two-dose regimen of NVX-CoV2373 (Novavax), given 21 days apart, was found to be safe and 89.7% effective against symptomatic Covid-19 caused by both prototype and B1.1.7 variants.
+        -
+          'Heath_et_al_05_14_2021
+          'Heath_et_al_05_14_2021.!a
+          'Heath_et_al_05_14_2021.!b
+          'Heath_et_al_05_14_2021.!c
+          'Heath_et_al_05_14_2021.!d
+
 
   / Vaccine Efficacy Against Variants
   subject EfficacyVariants
@@ -2971,6 +3018,7 @@ subject module Vaccines
       Approved.Tozinameran.!VaccineefficacymRNAB16171
       Approved.Tozinameran.!VaccineefficacyBNT162b2B16171
       Approved.Tozinameran.!B1617B1618neutralizationPfizerModerna
+      Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
 
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
@@ -2993,6 +3041,7 @@ subject module Vaccines
       Approved.Tozinameran.!NeutralizingtitersB1427B1429
       Approved.AZD1222.!PreviouslyinfectedChAdOx1
       Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
+      Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
     - Covaxin
       Approved.BBV152.!UKvariant
       Approved.BBV152.!2foldNeutralizingdropB1617
@@ -3002,9 +3051,14 @@ subject module Vaccines
       Candidates.NVX-CoV2373.!VaccineefficacyV2
       Candidates.NVX-CoV2373.!Vaccineefficacy2btrial
       Candidates.NVX-CoV2373.!NVX-CoV2373efficacyB1351
+      Candidates.NVX-CoV2373.!UKphase3Novavax
     - Johnson & Johnson
       Approved.Ad26COV2S.!SAVariant
       Approved.Ad26COV2S.!Phase3ENSEMBLEtrial
+    - CoronaVac (Sinovac)
+      Approved.CoronaVac.!CoronaVacrealworldBrazil
+      Approved.CoronaVac.!Brazilsingledose
+      Approved.CoronaVac.!BrazilPositiveImpactCoronavacAZ
     - Sinopharm
       Vaccines.Approved.Sinopharm.!NoimmuneescapeB1351
     - ZF2001
@@ -3048,6 +3102,7 @@ subject module Vaccines
         Approved.Ad5-nCOV.!Olderpeople
       - Sinovac
         Approved.CoronaVac.!Phase12OldPeople
+        Approved.CoronaVac.!CoronaVacrealworldBrazil
 
     / Children
     subject Children

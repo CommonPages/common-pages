@@ -527,6 +527,7 @@ subject module Variants
       Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
       Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
       Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
+      Vaccines.Candidates.NVX-CoV2373.!UKphase3Novavax
       !NTDneutralizing
     - Pre Existing Immunity
       !PreexistingImmunity
@@ -1335,6 +1336,7 @@ subject module Variants
       Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
       Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
       Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
+      Vaccines.Approved.CoronaVac.!CoronaVacrealworldBrazil
     - T Cell Response
       Vaccines.Approved.Tozinameran.!Tcellresponses
 
@@ -1724,7 +1726,7 @@ subject module Variants
 
   / B.1.617 (Identified in India)
   subject B1617
-    head = B.1.617.1 variant first detected in India was designated under investigation on 1 April 2021 as VUI-21APR-01. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.2,and B.1.617.3. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is at least as transmissible as B.1.1.7 (the Kent variant), there are insufficient data currently to assess the potential for immune escape. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The modest neutralization resistance of the variant spike proteins suggests that Pfizer and Moderna mRNA vaccines will remain protective against the B.1.617.1, B.1.617 and B.1.618 variants. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Progression to severe disease and death was low in all studies.
+    head = B.1.617.1 variant first detected in India was designated under investigation on 1 April 2021 as VUI-21APR-01. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.2,and B.1.617.3. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is at least as transmissible as B.1.1.7 (the Kent variant), there are insufficient data currently to assess the potential for immune escape. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The modest neutralization resistance of the variant spike proteins suggests that Pfizer and Moderna mRNA vaccines will remain protective against the B.1.617.1, B.1.617 and B.1.618 variants. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Progression to severe disease and death was low in all studies. PHE findings demonstrated a modest reduction of one dose vaccine effectiveness against symptomatic disease with the B.1.617.2 variant of approximately 20% when compared to the B.1.1.7 variant. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine (BNT162b2ChAdOx1) is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%.
 
     >
       <table>
@@ -1784,6 +1786,8 @@ subject module Variants
       Vaccines.Approved.Tozinameran.!VaccineefficacymRNAB16171
       Vaccines.Approved.Tozinameran.!VaccineefficacyBNT162b2B16171
       Vaccines.Approved.AZD1222.!Covishieldneutralizing
+    - Vaccine related claims (B.1.617.2)
+      Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
     -
       !Mutations
     >
@@ -1949,6 +1953,9 @@ subject module Variants
       -
         'Ferreira_et_al_05_09_2021
         'Ferreira_et_al_05_09_2021.!f
+
+
+
 
 
 

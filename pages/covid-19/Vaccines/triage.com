@@ -91,7 +91,67 @@
       'Chevallier_et_al_02_09_2021.!c
 
 
-#### 05/21/21 ####
+#### 05/24/21 ####
+
+
+
+  claim !Neutralizinglevelpredictor = A modeling study showed that neutralization antibody level is highly predictive of immune protection. The model also predicts that immune protection from infection may wane with time as neutralization levels decline, and that booster immunization may be required within a year. However, protection from severe infection should be largely retained.
+
+  -
+    'Khoury_et_al_05_17_2021
+    'Khoury_et_al_05_17_2021.!a
+    'Khoury_et_al_05_17_2021.!b
+
+
+
+  claim !singledosepriorcovid = These findings provide evidence that after the administration of a single dose of vaccine, the humoral response against SARS-CoV-2 in persons with a history of SARS-CoV-2 infection is greater than the response in previously uninfected participants who have received a second dose.
+    -
+      'Anichini_et_al_04_14_2021
+      'Anichini_et_al_04_14_2021.!a
+      'Anichini_et_al_04_14_2021.!b
+
+  claim !Myocarditis = The Vaccine Safety Technical (VaST) session on May 17, 2021, included several presentations on myocarditis following mRNA vaccines. It concluded that there are relatively few reports of myocarditis to date and that these cases seem to occur: predominantly in adolescents and young adults, more often in males than females, more often following dose 2 than dose 1, and typically within 4 days after vaccination. Most cases appear to be mild, and follow-up of cases is ongoing.
+  -
+    'CDC_et_al_05_17_2021
+    'CDC_et_al_05_17_2021.!a
+
+
+  claim !PHEupdatevaccineeffectiveness = PHE released an update  on Effectiveness of COVID-19 vaccines against the B.1.617.2 variant- findings demonstrated a modest reduction of one dose vaccine effectiveness against symptomatic disease with the B.1.617.2 variant of approximately 20% when compared to the B.1.1.7 variant. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%. Vaccine effects after two doses of ChAdOx1 vaccine were smaller than for BNT162b2 against either variant. However, rollout of second doses of ChAdOx1 was later than BNT162b2 and the difference may be explained by the limited follow-up after two doses of ChAdOx1 if it takes more than two weeks to reach maximum effectiveness with this vaccine.
+    -
+      'Bernal_et_al_05_23_2021
+      'Bernal_et_al_05_23_2021.!a
+      'Bernal_et_al_05_23_2021.!b
+      'Bernal_et_al_05_23_2021.!c
+      'Bernal_et_al_05_23_2021.!d
+      'Bernal_et_al_05_23_2021.!e
+      'Bernal_et_al_05_23_2021.!f
+
+
+  claim !REGENCOVphase3 = The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, can significantly reduce Covid-19-related hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants.
+    -
+      'Weinreich_et_al_05_21_2021
+      'Weinreich_et_al_05_21_2021.!a
+      'Weinreich_et_al_05_21_2021.!b
+      'Weinreich_et_al_05_21_2021.!c
+      'Weinreich_et_al_05_21_2021.!d
+      'Weinreich_et_al_05_21_2021.!e
+
+  claim !CoronaVacrealworldBrazil = A test-negative case-control study estimated effectiveness of CoronaVac was 42% against symptomatic COVID-19 in an elderly population during	a	period of widespread P.1 transmission (83% prevalent), but significant protection was not observed until completion of the two-dose regimen. The vaccine was effective	in this	population aged	70 years and above, although effectiveness declined with age
+    -
+      'Ranzani_et_al_05_21_2021
+      'Ranzani_et_al_05_21_2021.!a
+      'Ranzani_et_al_05_21_2021.!b
+
+
+  claim !UKphase3Novavax = UK phase 3 trial of a two-dose regimen of NVX-CoV2373 (Novavax), given 21 days apart, was found to be safe and 89.7% effective against symptomatic Covid-19 caused by both prototype and B1.1.7 variants.
+    -
+      'Heath_et_al_05_14_2021
+      'Heath_et_al_05_14_2021.!a
+      'Heath_et_al_05_14_2021.!b
+      'Heath_et_al_05_14_2021.!c
+      'Heath_et_al_05_14_2021.!d
+
+
 
   >
     this preliminary evidence suggests that both, seropositive and naive individuals, require two doses of CoronaVac to ensure the induction of robust nAb titers.
