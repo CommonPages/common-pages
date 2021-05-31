@@ -86,6 +86,12 @@ subject module Treatment
           'Fukushi_et_al_2005
           'Monteil_et_al_2020
 
+      / Ivermectin
+      claim !Ivermectin = A systematic review and meta-analysis of randomized controlled trials study demonstrated that In comparison to standard of care [SOC] or placebo, Ivermectin (IVM) did not reduce all-cause mortality, length of stay, respiratory viral clearance, adverse events and serious adverse events in RCTs of patients with mild to moderate COVID-19. IVM is not a viable option to treat COVID-19 patients.
+        -
+          'Roman_et_al_05_25_2021
+          'Roman_et_al_05_25_2021.!a
+
     / Additonal Host Targeting Compounds
     subject HostTargetingCompounds
       head = Host Targeting compounds might work to inhibit multiple viruses, as many viruses rely on on similar host factors and pathways. Compared to other drugs they may have a higher risk of cellular toxicity.
@@ -571,7 +577,7 @@ subject module Treatment
 
     / Severe Covid-19
     subject SevereCovid
-      head = According to NIH, Patients with COVID-19 are considered to have severe illness if they have SpO2 <94% on room air at sea level, respiratory rate >30, PaO2/FiO2 <300 mmHg, or lung infiltrates >50%. Given the high risk of complications from severe Covid-19, research recommends clinicans should establish timely, effective and safe supportive management goals of care. 
+      head = According to NIH, Patients with COVID-19 are considered to have severe illness if they have SpO2 <94% on room air at sea level, respiratory rate >30, PaO2/FiO2 <300 mmHg, or lung infiltrates >50%. Given the high risk of complications from severe Covid-19, research recommends clinicans should establish timely, effective and safe supportive management goals of care.
       -
         'Berlin_et_al_2020
         'Berlin_et_al_2020.!g

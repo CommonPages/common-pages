@@ -528,6 +528,7 @@ subject module Variants
       Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
       Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
       Vaccines.Candidates.NVX-CoV2373.!UKphase3Novavax
+      Vaccines.Approved.mRNA-1273.!Vaccineescape
       !NTDneutralizing
     - Pre Existing Immunity
       !PreexistingImmunity
@@ -1046,6 +1047,7 @@ subject module Variants
       Vaccines.Candidates.NVX-CoV2373.!VaccineefficacyV2
       Vaccines.Candidates.NVX-CoV2373.!Vaccineefficacy2btrial
       Vaccines.Candidates.NVX-CoV2373.!NVX-CoV2373efficacyB1351
+      Vaccines.Approved.mRNA-1273.!Vaccineescape
 
     - Pre Existing Immunity
       !PreexistingImmunity
@@ -1337,6 +1339,7 @@ subject module Variants
       Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
       Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
       Vaccines.Approved.CoronaVac.!CoronaVacrealworldBrazil
+      Vaccines.Approved.mRNA-1273.!Vaccineescape
     - T Cell Response
       Vaccines.Approved.Tozinameran.!Tcellresponses
 
@@ -1726,7 +1729,13 @@ subject module Variants
 
   / B.1.617 (Identified in India)
   subject B1617
-    head = B.1.617.1 variant first detected in India was designated under investigation on 1 April 2021 as VUI-21APR-01. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. B.1.617 contains 3 clades with different mutation profiles: B.1.617.1, B.1.617.2,and B.1.617.3. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is at least as transmissible as B.1.1.7 (the Kent variant), there are insufficient data currently to assess the potential for immune escape. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The modest neutralization resistance of the variant spike proteins suggests that Pfizer and Moderna mRNA vaccines will remain protective against the B.1.617.1, B.1.617 and B.1.618 variants. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Progression to severe disease and death was low in all studies. PHE findings demonstrated a modest reduction of one dose vaccine effectiveness against symptomatic disease with the B.1.617.2 variant of approximately 20% when compared to the B.1.1.7 variant. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine (BNT162b2ChAdOx1) is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%.
+    head = The SARS-CoV-2 B.1.617 lineage emerged in October 2020 in India. It has since then become dominant in some indian regions and further spread to many countries. The lineage includes three main subtypes (B1.617.1, B.1617.2 and B.1.617.3), which harbour diverse Spike mutations in the N-terminal domain (NTD) and the receptor binding domain (RBD) which may increase their immune evasion potential. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is believed to spread faster than the other versions- is at least as transmissible as B.1.1.7 (the Kent variant).
+
+    >
+      BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The modest neutralization resistance of the variant spike proteins suggests that Pfizer and Moderna mRNA vaccines will remain protective against the B.1.617.1, B.1.617 and B.1.618 variants. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Progression to severe disease and death was low in all studies. PHE findings demonstrated a modest reduction of one dose vaccine effectiveness against symptomatic disease with the B.1.617.2 variant of approximately 20% when compared to the B.1.1.7 variant. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine (BNT162b2 and ChAdOx1) is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%.
+
+      One study demonstrated that the novel emerging B.1.617.2 variant partially but significantly escapes neutralizing antibodies targeting the NTD and RBD, including Bamlanivimab, which were impaired in binding to the B.1.617.2 Spike. Sera from convalescent patients collected up to 12 months post symptoms and from Pfizer vaccine recipients were 3 to 6 fold less potent against B.1.617.2, relative to B.1.1.7. Sera from individuals having received one dose of AstraZeneca Vaxzevria barely inhibited B.1.617.2.
+
 
     >
       <table>
@@ -1788,6 +1797,7 @@ subject module Variants
       Vaccines.Approved.AZD1222.!Covishieldneutralizing
     - Vaccine related claims (B.1.617.2)
       Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
+      !B16172neutralizingantibodies
     -
       !Mutations
     >
@@ -1823,7 +1833,7 @@ subject module Variants
 
 
     / B.1.617.2 (VOC-21APR-02)
-    claim !B16172 = Following a rise in cases in the UK and evidence of community transmission, PHE has reclassified VUI-21APR-02 (B.1.617.2) as a Variant of Concern (VOC), now known as VOC-21APR-02 on 6 May 2021. This is based on evidence which suggests this variant, first detected in India, is at least as transmissible as B.1.1.7 (the Kent variant). There are insufficient data currently to assess the potential for immune escape. Almost half the cases in the UK are related to travel or contact with a traveller.
+    claim !B16172 = Following a rise in cases in the UK and evidence of community transmission, PHE has reclassified VUI-21APR-02 (B.1.617.2) as a Variant of Concern (VOC), now known as VOC-21APR-02 on 6 May 2021. It represents up to 80% of sequenced strains in the Maharashtra region of India. B.1.617.2 has also been detected in dozens of other countries and represented about 20% of sequenced viruses circulating in UK between May 12 and May 19, 2021. B.1.617.2 is at least as transmissible as B.1.1.7 (the Kent variant). Almost half the cases in the UK are related to travel or contact with a traveller.
       -
         'PHE_et_al_05_07_2021
         'PHE_et_al_05_07_2021.!a
@@ -1929,13 +1939,16 @@ subject module Variants
         'Johnson_et_al_01_25_2021.!c
 
     / Syncitia formation associated with fatal disease
-    claim !Syncitiaformation = One study indicates that giant cells/syncitia formation are associated with fatal disease.
+    claim !Syncitiaformation = One study indicates that giant cells/syncitia formation are associated with fatal disease. A preliminary experiment showed the presence of large syncytia in B.1.617.2 infected cells
       -
         'Braga_et_al_04_07_2021
         'Braga_et_al_04_07_2021.!b
         'Braga_et_al_04_07_2021.!a
         'Braga_et_al_04_07_2021.!c
         'Braga_et_al_04_07_2021.!d
+      -
+        'Planas_et_al_05_27_2021
+        'Planas_et_al_05_27_2021.!e
 
     claim !NTDmutationB1617 = One study reported VUI-21APR-01 (B.1.617.1) contains several N-terminal domain mutations.
       -
@@ -1955,7 +1968,15 @@ subject module Variants
         'Ferreira_et_al_05_09_2021.!f
 
 
-
+    claim !B16172neutralizingantibodies = One study demonstrated that B.1.617.2 variant partially but significantly escapes neutralizing antibodies targeting the NTD and RBD, including Bamlanivimab, which were impaired in binding to the B.1.617.2 Spike. Sera from convalescent patients collected up to 12 months post symptoms and from Pfizer Comirnaty vaccine recipients were 3 to 6 fold less potent against B.1.617.2, relative to B.1.1.7. Sera from individuals having received one dose of AstraZeneca Vaxzevria barely inhibited B.1.617.2.
+      -
+        'Planas_et_al_05_27_2021
+        'Planas_et_al_05_27_2021.!a
+        'Planas_et_al_05_27_2021.!b
+        'Planas_et_al_05_27_2021.!c
+        'Planas_et_al_05_27_2021.!d
+      - presence of large syncytia
+        'Planas_et_al_05_27_2021.!e
 
 
 

@@ -11,6 +11,19 @@ feed Sangeeta
     / May, 2021 - JAMA Netw Open.
     quote !a =
 
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / May, 2021 - JAMA Netw Open.
+    quote !a =
+
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -35,32 +48,584 @@ feed Sangeeta
     / May, 2021 - JAMA Netw Open.
     quote !a =
 
-
   #
-
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+  // SARS-CoV-2 Infection after Vaccination in Health Care Workers in California
+  doi: https://doi.org/10.1056/NEJMc2101927
+  ref 'Keehner_et_al_05_06_2021
+    head = Pooled data were obtained in deidentified format from an electronic employee health record system at UCSD and UCLA. From December 16, 2020, through February 9, 2021, a total of 36,659 health care workers received the first dose of vaccine, and 28,184 of these persons (77%) received the second dose.
 
     - quotes
       !a
+      !b
+      !c
+      !d
 
-    / May, 2021 - JAMA Netw Open.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !a = Among the vaccinated health care workers, 379 unique persons tested positive for SARS-CoV-2 at least 1 day after vaccination, and the majority (71%) of these persons tested positive within the first 2 weeks after the first dose.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !b = After receiving both vaccinations, 37 health care workers tested positive; of these workers, 22 had positive test results 1 to 7 days after the second dose. Only 8 health care workers tested positive 8 to 14 days after the second vaccination, and 7 tested positive 15 or more days after the second vaccination
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !c = As of February 9, a total of 5455 health care workers at UCSD and 9535 at UCLA had received the second dose 2 or more weeks previously; these findings correspond to a positivity rate of 0.05%.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !d = In our cohort, the absolute risk of testing positive for SARS-CoV-2 after vaccination was 1.19% among health care workers at UCSD and 0.97% among those at UCLA; these rates are higher than the risks reported in the trials of mRNA-1273 vaccine and BNT162b2 vaccine.
+
+
+  #
+  // Bharat Biotech’s Covaxin Shows 78 Percent Efficacy In Phase 3 Analysis
+  doi: https://in.news.yahoo.com/bharat-biotech-covaxin-sh
+  ref 'Majumder_et_al_05_29_2021
+    head = A report released in media said that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease.
+
+
+    / May, 2021 - Yahoo News
     quote !a =
 
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
-    head =
+
+  // The indirect effect of mRNA-based Covid-19 vaccination on unvaccinated household members
+  doi: https://doi.org/10.1101/2021.05.27.21257896
+  ref 'Salo_et_al_05_29_2021
+    head = We used national databases that record all polymerase chain reaction (PCR)-confirmed SARS-CoV-2 infections and mRNA-based (BNT162b2 by Pfizer-BioNTech or mRNA-1273 by Moderna) vaccine doses administered in Finland since the beginning of the epidemic.
+
+    > Abstract
+      This paper studies the direct and indirect effectiveness of Covid-19 vaccines among vaccinated healthcare workers and their unvaccinated adult household members in a mass vaccine program in Finland.
+
+    > Methods
+      We used national databases that record all polymerase chain reaction (PCR)-confirmed SARS-CoV-2 infections and mRNA-based (BNT162b2 by Pfizer-BioNTech or mRNA-1273 by Moderna) vaccine doses administered in Finland since the beginning of the epidemic. These data were merged with administrative full population datasets that include information on each person’s occupation and unique identifiers for spouses living in the same household. To estimate the direct and indirect effectiveness of mRNA-based vaccines in a household setting, we compared the cumulative incidence of PCR-confirmed SARS-CoV-2 infections between vaccinated and unvaccinated healthcare workers as well as between their unvaccinated spouses.
+
+    > Findings
+      Our estimates imply indirect effectiveness of 8.7% (95% CI: -28.9 to 35.4) two weeks and 42.9% (95% CI: 22.3 to 58.1) 10 weeks after the first dose. The effectiveness estimates for unvaccinated household members are substantial, but smaller than the direct effect and occur more gradually among unvaccinated household members than among vaccinated individuals.
+
+    > Interpretation
+      Our results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members. The results are consistent with the notion that mRNA-based vaccines affect susceptibility in vaccinated individuals and prevent transmission from vaccinated to unvaccinated individuals.
 
     - quotes
       !a
 
-    / May, 2021 - JAMA Netw Open.
-    quote !a =
+    / May, 2021 - medRxiv
+    quote !a = Our results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members.
+
+
+
+
+
+  #
+  // Ivermectin for the treatment of COVID-19: A systematic review and meta-analysis of randomized controlled trials
+  doi: https://doi.org/10.1101/2021.05.21.21257595
+  ref 'Roman_et_al_05_25_2021
+    head = Published and preprint randomized controlled trials (RCTs) assessing IVM effects on COVID-19 adult patients were searched until March 15, 2021 in five engines. Ten RCTs (n=1173) were included. Primary outcomes were all-cause mortality, length of stay (LOS), and adverse events (AE). Secondary outcomes included viral clearance and severe AEs. We systematically assessed benefits and harms of the use of ivermectin (IVM) in COVID-19 patients.
+
+    > Background
+      We systematically assessed benefits and harms of the use of ivermectin (IVM) in COVID-19 patients.
+
+    > Methods
+      Published and preprint randomized controlled trials (RCTs) assessing IVM effects on COVID-19 adult patients were searched until March 15, 2021 in five engines. Primary outcomes were all-cause mortality, length of stay (LOS), and adverse events (AE). Secondary outcomes included viral clearance and severe AEs. We evaluated risk of bias (RoB) using the Cochrane RoB 2·0 tool. Inverse variance random effect meta-analyses were performed with quality of evidence (QoE) evaluated using GRADE methodology. Subgroup analyses by severity of disease and RoB, and sensitivity analyses by time of follow-up were conducted.
+
+    > Results
+      Ten RCTs (n=1173) were included. Controls were standard of care [SOC] in five RCTs and placebo in five RCTs. RCTs sample size ranged from 24 to 398 patients, mean age from 26 to 56 years-old, and severity of COVID-19 disease was mild in 8 RCTs, moderate in one RCT, and mild and moderate in one RCT. IVM did not reduce all-cause mortality vs. controls (RR 1.11, 95%CI 0.16-7.65, very low QoE). IVM did not reduce LOS vs. controls (MD 0.72 days, 95%CI -0.86 to 2.29, very low QoE). AEs, severe AE and viral clearance were similar between IVM and controls (low QoE for these three outcomes). Subgroup analyses by severity of COVID-19 disease or RoB were consistent with main analyses. Sensitivity analyses excluding RCTs with follow up <21 days showed no difference in all-cause mortality but diminished heterogeneity (I2=0%).
+
+    > Conclusions
+      In comparison to standard of care [SOC] or placebo, IVM did not reduce all-cause mortality, length of stay or viral clearance in RCTs in COVID-19 patients with mostly mild disease. IVM did not have effect on AEs or SAEs. IVM is not a viable option to treat COVID-19 patients.
+
+    - quotes
+      !a
+
+    / May, 2021 - medRxiv
+    quote !a = In comparison to standard of care [SOC] or placebo, IVM did not reduce all-cause mortality, length of stay, respiratory viral clearance, adverse events and serious adverse events in RCTs of patients with mild to moderate COVID-19. IVM did not have effect on AEs or SAEs. We did not find data about IVM effects on clinical improvement and need for mechanical ventilation. IVM is not a viable option to treat COVID-19 patients.
+
+
+
+
+  #
+  // Prevalence of Clinical and Subclinical Myocarditis in Competitive Athletes With Recent SARS-CoV-2 Infection- Results From the Big Ten COVID-19 Cardiac Registry
+  doi: https://doi.org/10.1001/jamacardio.2021.2065
+  ref 'Daniels_et_al_05_27_2021
+    head = Big Ten COVID-19 Cardiac Registry principal investigators were surveyed for aggregate observational data from March 1, 2020, through December 15, 2020, on athletes with COVID-19. Representing 13 universities, cardiovascular testing was performed in 1597 athletes (964 men [60.4%])
+
+    > Importance
+      Myocarditis is a leading cause of sudden death in competitive athletes. Myocardial inflammation is known to occur with SARS-CoV-2. Different screening approaches for detection of myocarditis have been reported. The Big Ten Conference requires comprehensive cardiac testing including cardiac magnetic resonance (CMR) imaging for all athletes with COVID-19, allowing comparison of screening approaches.
+
+    > Objective
+      To determine the prevalence of myocarditis in athletes with COVID-19 and compare screening strategies for safe return to play.
+
+    > Design, Setting, and Participants
+      Big Ten COVID-19 Cardiac Registry principal investigators were surveyed for aggregate observational data from March 1, 2020, through December 15, 2020, on athletes with COVID-19. For athletes with myocarditis, presence of cardiac symptoms and details of cardiac testing were recorded. Myocarditis was categorized as clinical or subclinical based on the presence of cardiac symptoms and CMR findings. Subclinical myocarditis classified as probable or possible myocarditis based on other testing abnormalities. Myocarditis prevalence across universities was determined. The utility of different screening strategies was evaluated.
+
+    > Exposures
+      SARS-CoV-2 by polymerase chain reaction testing.
+
+    > Main Outcome and Measure
+      Myocarditis via cardiovascular diagnostic testing.
+
+    > Results
+      Representing 13 universities, cardiovascular testing was performed in 1597 athletes (964 men [60.4%]). Thirty-seven (including 27 men) were diagnosed with COVID-19 myocarditis (overall 2.3%; range per program, 0%-7.6%); 9 had clinical myocarditis and 28 had subclinical myocarditis. If cardiac testing was based on cardiac symptoms alone, only 5 athletes would have been detected (detected prevalence, 0.31%). Cardiac magnetic resonance imaging for all athletes yielded a 7.4-fold increase in detection of myocarditis (clinical and subclinical). Follow-up CMR imaging performed in 27 (73.0%) demonstrated resolution of T2 elevation in all (100%) and late gadolinium enhancement in 11 (40.7%).
+
+    > Conclusions and Relevance
+      In this cohort study of 1597 US competitive athletes with CMR screening after COVID-19 infection, 37 athletes (2.3%) were diagnosed with clinical and subclinical myocarditis. Variability was observed in prevalence across universities, and testing protocols were closely tied to the detection of myocarditis. Variable ascertainment and unknown implications of CMR findings underscore the need for standardized timing and interpretation of cardiac testing. These unique CMR imaging data provide a more complete understanding of the prevalence of clinical and subclinical myocarditis in college athletes after COVID-19 infection. The role of CMR in routine screening for athletes safe return to play should be explored further.
+
+    - quotes
+      !a
+      !b
+
+    / May, 2021 - JAMA Cardiology
+    quote !a = In this cohort study of 1597 US competitive collegiate athletes undergoing comprehensive cardiovascular testing, the prevalence of clinical myocarditis based on a symptom-based screening strategy was only 0.31%. Screening with cardiovascular magnetic resonance imaging increased the prevalence of clinical and subclinical myocarditis by a factor of 7.4 to 2.3%.
+
+    # / May, 2021 - JAMA Cardiology
+    # quote !b = In this cohort study of 1597 US competitive athletes with CMR screening after COVID-19 infection, 37 athletes (2.3%) were diagnosed with clinical and subclinical myocarditis.
+
+    / May, 2021 - JAMA Cardiology
+    quote !b = These cardiac magnetic resonance imaging findings provide important data on the prevalence of clinical and subclinical myocarditis in college athletes recovering from symptomatic and asymptomatic COVID-19 infections.
+
+
+
+
+
+  #
+  // Mucor in a Viral Land- A Tale of Two Pathogens
+  doi: https://doi.org/10.4103/ijo.IJO_3774_20
+  ref 'Sen_et_al_02_2021
+    head = We conducted a retrospective, interventional study on six consecutive patients with COVID-19 who developed rhino-orbital mucormycosis and were managed at two tertiary ophthalmic referral centers in India between August 1 and December 15, 2020.
+
+    > Purpose
+      COVID-19 infection, its treatment, resultant immunosuppression, and pre-existing comorbidities have made patients vulnerable to secondary infections including mucormycosis. It is important to understand the presentation, temporal sequence, risk factors, and outcomes to undertake measures for prevention and treatment.
+
+    > Methods
+      We conducted a retrospective, interventional study on six consecutive patients with COVID-19 who developed rhino-orbital mucormycosis and were managed at two tertiary ophthalmic referral centers in India between August 1 and December 15, 2020. Diagnosis of mucormycosis was based on clinical features, culture, and histopathology from sinus biopsy. Patients were treated with intravenous liposomal amphotericin B with addition of posaconazole and surgical debridement of necrotic tissue.
+
+    > Results
+      All patients were male, mean age 60.5 ± 12 (46.2–73.9) years, type 2 diabetics with mean blood glucose level of 222.5 ± 144.4 (86–404) mg/dL. Except for one patient who was diagnosed with mucormycosis concurrently with COVID-19, all patients received systemic corticosteroids for the treatment of COVID-19. The mean duration between diagnosis of COVID-19 and development of symptoms of mucor was 15.6 ± 9.6 (3–42) days. All patients underwent endoscopic sinus debridement, whereas two patients required orbital exenteration. At the last follow-up, all six patients were alive, on antifungal therapy.
+
+    > Conclusion
+      Mucormycosis is a life-threatening, opportunistic infection, and patients with moderate to severe COVID-19 are more susceptible to it. Uncontrolled diabetes mellitus and use of corticosteroids increase the risk of invasive fungal infection with mucormycosis which can develop during the course of the illness or as a sequelae. High index of suspicion, early diagnosis, and appropriate management can improve survival.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+
+    / February, 2021 - Indian Journal of Ophthalmology
+    quote !a = Mucormycosis is a life-threatening, opportunistic infection, and patients with moderate to severe COVID-19 are more susceptible to it. Uncontrolled diabetes mellitus and use of corticosteroids increase the risk of invasive fungal infection with mucormycosis which can develop during the course of the illness or as a sequelae. High index of suspicion, early diagnosis, and appropriate management can improve survival.
+
+    / February, 2021 - Indian Journal of Ophthalmology
+    quote !b = The mean duration between diagnosis of COVID-19 and development of symptoms of mucor was 15.6 ± 9.6 (3–42) days.
+
+    / February, 2021 - Indian Journal of Ophthalmology
+    quote !c = All patients were male, mean age 60.5 ± 12 (46.2–73.9) years, type 2 diabetics with mean blood glucose level of 222.5 ± 144.4 (86–404) mg/dL. Except for one patient who was diagnosed with mucormycosis concurrently with COVID-19, all patients received systemic corticosteroids for the treatment of COVID-19.
+
+
+    / February, 2021 - Indian Journal of Ophthalmology
+    quote !d = Our series is that symptoms of rhino-orbital mucormycosis developed as late as 30–42 days after the diagnosis of COVID-19.
+
+    # / February, 2021 - Indian Journal of Ophthalmology
+    # quote !a = In our series, all, except one (Case 1) patient presented after recovering from COVID-19 with documented RT-PCR negative reports. Cases 2-6 had received intravenous and/or oral steroids and all were diabetics. Uncontrolled diabetic status was evident by presence of diabetic retinopathy, history of diabetic ketoacidosis, and available blood sugar reports.
+
+    / February, 2021 - Indian Journal of Ophthalmology
+    quote !e = For successful management of mucormycosis, a high index of clinical suspicion, low threshold for diagnosis in patients with risk factors, neuroimaging, and specific diagnostic tests with a coordinated effort from a multidisciplinary team including ophthalmology, otorhinolaryngology, infectious diseases, neurosurgery, critical care, microbiology, and pathology department is crucial.
+
+    / February, 2021 - Indian Journal of Ophthalmology
+    quote !f = A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%.
+
+    / February, 2021 - Indian Journal of Ophthalmology
+    quote !g = Simple tests like vision, pupil, ocular motility, and sinus tenderness can be part of routine physical evaluation of a COVID-19 patient hospitalized with moderate to severe infection or diabetics with COVID-19 or those receiving systemic corticosteroids. Although tissue necrosis is a late sign, the palate can be examined for any eschar. A nasal swab for KOH mount and culture is a bedside procedure. Orbital exenteration for life-threatening infection is triaged as a Level A condition or an urgent condition requiring surgery within 4–72 hours as per the preferred practice pattern advised in our country during COVID-19.[22] Thus, appropriate surgery has to be undertaken with full personal protective equipment.
+
+    / February, 2021 - Indian Journal of Ophthalmology
+    quote !h = The incidence of rhino-orbito-cerebral mucormycosis is likely to rise, both as a co-infection and as a sequelae of COVID-19. Early diagnosis and management with appropriate and aggressive antifungals and surgical debridement can improve survival.
+
+
+
+
+
+  #
+  // COVID-19 triggering mucormycosis in a susceptible patient: a new phenomenon in the developing world?
+  doi: https://casereports.bmj.com/content/14/4/e241663
+  ref 'Revannavar_et_al_04_27_2021
+    head = This case is a rare presentation of mucormycosis associated with rapid progression to orbital apex syndrome with brain infarction in a patient with non-ketotic diabetes and COVID-19.
+    >
+      A middle-aged woman with diabetes presented with left-sided facial pain, complete ptosis and fever of short duration. On presentation, she had hyperglycaemia without ketosis. There was total ophthalmoplegia of the left eye with a visual acuity of 6/36. She incidentally tested positive for COVID-19. CT paranasal sinus and MRI brain revealed left-sided pansinusitis with acute infarct in the left parieto-occipital region without angioinvasion. An emergency functional endoscopic sinus procedure was done, which confirmed mucormycosis on histopathological examination. After 1 week of conventional amphotericin B and antibiotics, repeat CT brain showed improvement in mucosal thickening and sinusitis. This case is a rare presentation of mucormycosis associated with rapid progression to orbital apex syndrome with brain infarction in a patient with non-ketotic diabetes and COVID-19. Early diagnosis and treatment are essential to prevent further end-organ damage. It is also interesting that there was no angioinvasion and transient periarterial inflammation was attributed to brain infarction.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / April, 2021 - BMJ Case Reports
+    quote !a = She was initiated on conventional amphotericin B (given for 11 days) and aspirin for acute cerebral infarct. Post FESS, CT paranasal sinus imaging was done after 1 week of treatment with antifungal therapy and showed a reduction in the diffuse opacification of the left ethmoid, frontal and maxillary sinuses
+
+    / April, 2021 - BMJ Case Reports
+    quote !b = In a case described of severe COVID-19 associated with fungal coinfection, cell counts revealed that there was a progressive increase in white blood cell count and neutrophils while lymphocytes progressively decreased.  Mucorales-specific T-cells (CD4+ and CD8+) produce cytokines such as interleukin (IL) 4, IL-10, IL-17 and interferon-gamma (IFN-γ) that damage the fungal hyphae. Such specific T-cells were seen only in patients affected by invasive mucormycosis, and they concluded that they could be a useful surrogate diagnostic marker of an invasive fungal disease.
+
+    / April, 2021 - BMJ Case Reports
+    quote !c = It might be speculated that lymphopenia could increase the risk of developing invasive mucormycosis, while the recovery of lymphocyte count could improve the adaptive immune system and induce the production of Mucorales-specific T-cells, which might have a role in controlling the invasive infection.
+
+    / April, 2021 - BMJ Case Reports
+    quote !d = Control of hyperglycaemia, early treatment with liposomal amphotericin B and surgery are essential for the successful management of mucormycosis. Thus, the use of glucocorticoids in mild COVID-19 cases (without hypoxaemia) or the utilisation of higher doses of glucocorticoids should be avoided. Further, in the absence of a clear benefit, drugs targeting immune pathways such as tocilizumab should be discouraged.
+
+    / April, 2021 - BMJ Case Reports
+    quote !e = Simple tests like vision, pupil, ocular motility and sinus tenderness can be part of routine physical evaluation of a patient with COVID-19 hospitalised with moderate to severe infection or diabetics with COVID-19 or those receiving systemic corticosteroids. Visual prognosis, however, continues to remain poor.
+
+    / April, 2021 - BMJ Case Reports
+    quote !f = It is important to have a high index of suspicion for fungal coinfection in patients with COVID-19 presenting with comorbidities. Further, they should undergo immediate imaging studies with an emphasis on the requirement of surgical intervention. There is a need to stress on the judicious use of steroids to avoid flaring up of the fungal infection.
+
+
+
+  #
+  // Effectiveness of BNT162b2 and mRNA-1273 COVID-19 vaccines against symptomatic SARS-CoV-2 infection and severe COVID-19 outcomes in Ontario, Canada
+  doi: https://doi.org/10.1101/2021.05.24.21257744
+  ref 'Chung_et_al_05_28_2021
+    head = Using a test-negative design study and linked laboratory, vaccination, and health administrative databases, we estimated adjusted vaccine effectiveness (aVE) against symptomatic infection and severe outcomes (hospitalization or death) using multivariable logistic regression. Ontario, Canada between 14 December 2020 and 19 April 2021.
+
+    > Objectives
+      To estimate the effectiveness of one and two doses of mRNA COVID-19 vaccines against symptomatic infection and severe outcomes.
+
+    > Design
+      Using a test-negative design study and linked laboratory, vaccination, and health administrative databases, we estimated adjusted vaccine effectiveness (aVE) against symptomatic infection and severe outcomes (hospitalization or death) using multivariable logistic regression.
+
+    > Setting
+      Ontario, Canada between 14 December 2020 and 19 April 2021.
+
+    > Participants
+      Community-dwelling adults aged ≥16 years who were tested for SARS-CoV-2 and had COVID-19 symptoms.
+
+    > Interventions
+      Pfizer-BioNTech's BNT162b2 or Moderna's mRNA-1273 vaccine.
+
+    > Main outcome measures
+      Laboratory-confirmed SARS-CoV-2 identified by RT-PCR; hospitalization or death associated with SARS-CoV-2 infection.
+
+    > Results
+      Among 324,033 symptomatic individuals, 53,270 (16.4%) were positive for SARS-CoV-2 and 21,272 (6.6%) received 1 or more vaccine dose. Among test-positive cases, 2,479 (4.7%) had a severe outcome. aVE against symptomatic infection 14 days or more after receiving only 1 dose was 60% (95%CI, 57 to 64%), increasing from 48% (95%CI, 41 to 54%) at 14-20 days after the first dose to 71% (95%CI, 63 to 78%) at 35-41 days. aVE 7 days or more after receiving 2 doses was 91% (95%CI, 89 to 93%). Against severe outcomes, aVE 14 days or more after receiving 1 dose was 70% (95%CI, 60 to 77%), increasing from 62% (95%CI, 44 to 75%) at 14-20 days to 91% (95%CI, 73 to 97%) at 35 days or more, whereas aVE 7 days or more after receiving 2 doses was 98% (95%CI, 88 to 100%). For adults aged 70 years and older, aVE estimates were lower after receiving 1 dose, but were comparable to younger adults after 28 days. After 2 doses, we observed high aVE against E484K-positive variants.
+
+    > Conclusions
+      Two doses of BNT162b2 and mRNA-1273 vaccines are highly effective against both symptomatic infection and severe outcomes. Effectiveness is lower after only a single dose, particularly for older adults shortly after the first dose.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+
+    # / May, 2021 - medRxiv
+    # quote !a = Two doses of BNT162b2 and mRNA-1273 vaccines are highly effective (>90%) against both symptomatic infection and severe outcomes. Effectiveness is lower (~50-70%) after only a single dose, particularly for older adults shortly after the first dose.
+
+    / May, 2021 - medRxiv
+    quote !a = We estimated very high (>90%) vaccine effectiveness of mRNA vaccines BNT162b2 and mRNA-1273 against symptomatic SARS-CoV-2 infection with full vaccination (i.e., ≥7 days after receipt of a second dose), and moderate (~50-70%) VE with partial vaccination (i.e., ≥14 days after receipt of only a first dose).
+
+    / May, 2021 - medRxiv
+    quote !b = We observed lower VE against symptomatic infection after a first dose for recipients of BNT162b2, adults aged ≥70 years, and individuals with comorbidities.
+
+    / May, 2021 - medRxiv
+    quote !c = VE was consistently high across subgroups for fully vaccinated individuals, and also for older adults after longer intervals following receipt of a first dose.
+
+    / May, 2021 - medRxiv
+    quote !d = We also noted a slightly increased risk of symptomatic infection on days 7-13 after a first dose, compared to no vaccination.
+
+    / May, 2021 - medRxiv
+    quote !e = Our analysis identified an effectiveness against symptomatic infection of 63% ≥49 days after only the first dose, in keeping with several other studies reporting one-dose effectiveness.
+
+    / May, 2021 - medRxiv
+    quote !f = Our finding that receipt of 2 doses of mRNA vaccines was not associated with appreciable vaccine escape by lineage B.1.1.7 or E484K-positive variants (i.e., B.1.351 and P.1) is notable.
+
+    # / May, 2021 - medRxiv
+    # quote !a = The increased risk of infection 7-13 days after receiving the vaccine could be due to an increase in SARS-CoV-2 exposures shortly prior to, during, or after vaccination. Individuals may be incubating at the time of vaccination, they may be exposed due to inadequate infection prevention and control measures at (or when travelling to/from) vaccination clinics, or they may assume protection immediately following vaccination and engage in higher risk behaviours before a sufficient immune response has developed. Future studies should evaluate the effectiveness of infection prevention and control measures in vaccination clinics and examine the potential role of behavioural changes post first dose of COVID-19 vaccines.
+
+    / May, 2021 - medRxiv
+    quote !g = Our findings suggest that older individuals and those with comorbidities may benefit from risk based recommendations to minimize second-dose delays. However, rising protection against severe outcomes – arguably the more important outcome – with increasing time after a first dose provides support for delaying the second dose.
+
+
+
+  #
+  // Reduced sensitivity of infectious SARS-CoV-2 variant B.1.617.2 to monoclonal antibodies and sera from convalescent and vaccinated individuals
+  doi: https://doi.org/10.1101/2021.05.26.445838
+  ref 'Planas_et_al_05_27_2021
+    head = We isolated infectious B.1.617.2 from a traveller returning from India. We examined its sensitivity to monoclonal antibodies (mAbs) and to antibodies present in sera from COVID-19 convalescent individuals or vaccine recipients, in comparison to other viral lineages.
+
+    > Abstract
+      The SARS-CoV-2 B.1.617 lineage emerged in October 2020 in India. It has since then become dominant in some indian regions and further spread to many countries. The lineage includes three main subtypes (B1.617.1, B.1617.2 and B.1.617.3), which harbour diverse Spike mutations in the N-terminal domain (NTD) and the receptor binding domain (RBD) which may increase their immune evasion potential. B.1.617.2 is believed to spread faster than the other versions. Here, we isolated infectious B.1.617.2 from a traveller returning from India. We examined its sensitivity to monoclonal antibodies (mAbs) and to antibodies present in sera from COVID-19 convalescent individuals or vaccine recipients, in comparison to other viral lineages. B.1.617.2 was resistant to neutralization by some anti-NTD and anti-RBD mAbs, including Bamlanivimab, which were impaired in binding to the B.1.617.2 Spike. Sera from convalescent patients collected up to 12 months post symptoms and from Pfizer Comirnaty vaccine recipients were 3 to 6 fold less potent against B.1.617.2, relative to B.1.1.7. Sera from individuals having received one dose of AstraZeneca Vaxzevria barely inhibited B.1.617.2. Thus, B.1.617.2 spread is associated with an escape to antibodies targeting non-RBD and RBD Spike epitopes.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / May, 2021 - bioRxiv
+    quote !a = Our results demonstrate that the novel emerging B.1.617.2 variant partially but significantly escapes neutralizing antibodies targeting the NTD and RBD, and polyclonal antibodies elicited by previous SARS-CoV-2 infection or vaccination.
+
+    / May, 2021 - bioRxiv
+    quote !b = B.1.617.2 was resistant to neutralization by some anti-NTD and anti-RBD mAbs, including Bamlanivimab, which were impaired in binding to the B.1.617.2 Spike.
+
+    / May, 2021 - bioRxiv
+    quote !c = Sera from convalescent patients collected up to 12 months post symptoms and from Pfizer Comirnaty vaccine recipients were 3 to 6 fold less potent against B.1.617.2, relative to B.1.1.7.
+
+    / May, 2021 - bioRxiv
+    quote !d = Sera from individuals having received one dose of AstraZeneca Vaxzevria barely inhibited B.1.617.2.
+
+    / May, 2021 - bioRxiv
+    quote !e = Our preliminary experiment showed the presence of large syncytia in B.1.617.2 infected cells
+
+    # / May, 2021 - bioRxiv
+    # quote !f = B.1.617.2 spread is associated with an escape to antibodies targeting non-RBD and RBD Spike epitopes.
+
+
+
+
+  #
+  // Single-dose SARS-CoV-2 vaccine in a prospective cohort of COVID-19 patients
+  doi: https://doi.org/10.1101/2021.05.25.21257797
+  ref 'Gils_et_al_05_25_2021
+    head = We evaluated SARS-CoV-2 specific antibody responses following a single-dose of BNT162b2 (Pfizer-BioNTech) mRNA vaccine in 155 previously SARS-CoV-2-infected individuals participating in a population-based prospective cohort study of COVID-19 patients. Participants varied widely in age, comorbidities, COVID-19 severity and time since infection, ranging from 1 to 15 months.
+
+    > Background
+      The urgent need for, but limited availability of, SARS-CoV-2 vaccines worldwide has led to widespread consideration of dose sparing strategies, particularly single vaccine dosing of individuals with prior SARS-CoV-2 infection.
+
+    > Methods
+      We evaluated SARS-CoV-2 specific antibody responses following a single-dose of BNT162b2 (Pfizer-BioNTech) mRNA vaccine in 155 previously SARS-CoV-2-infected individuals participating in a population-based prospective cohort study of COVID-19 patients. Participants varied widely in age, comorbidities, COVID-19 severity and time since infection, ranging from 1 to 15 months. Serum antibody titers were determined at time of vaccination and one week after vaccination. Responses were compared to those in SARS-CoV-2-naive health care workers after two BNT162b2 mRNA vaccine doses.
+
+    > Results
+      Within one week of vaccination, IgG antibody levels to virus spike and RBD proteins increased 27 to 29-fold and neutralizing antibody titers increased 12-fold, exceeding titers of fully vaccinated SARS-CoV-2-naive controls (95% credible interval (CrI): 0.56 to 0.67 v. control 95% CrI: −0.16 to −0.02). Pre-vaccination neutralizing antibody titers had the largest positive mean effect size on titers following vaccination (95% CrI (0.16 to 0.45)). COVID-19 severity, the presence of comorbidities and the time interval between infection and vaccination had no discernible impact on vaccine response.
+
+    > Conclusion
+      A single dose of BNT162b2 mRNA vaccine up to 15 months after SARS-CoV-2 infection provides neutralizing titers exceeding two vaccine doses in previously uninfected individuals. These findings support wide implementation of a single-dose mRNA vaccine strategy after prior SARS-CoV-2 infection.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2021 - medRxiv.
+    quote !a = This study demonstrates that higher levels of neutralizing antibodies are achieved within a week after a single dose of a SARS-CoV-2 mRNA vaccine in previously infected individuals compared to those observed in fully vaccinated SARS-CoV-2 naive HCW, irrespective of time since infection. This implies that a single-dose in prior-infected individuals administered up to more than one year after SARS-CoV-2 infection provides neutralizing titers exceeding two vaccine doses in previously uninfected individuals.
+
+    / May, 2021 - medRxiv.
+    quote !b = Our prospective COVID-19 cohort allowed extension of these findings to a broader population at risk and showed that these responses were not affected by the presence of underlying comorbidities, COVID-19 disease severity or timing of vaccination since infection. Hence, our study supports wide implementation of single dosing strategies for previously infected individuals.
+
+    / May, 2021 - medRxiv.
+    quote !c = After single vaccination, we found sharp increases of IgG binding and neutralization levels for the three VOC. However, neutralization titers for the B.1.351 variant lagged behind those for wild type and other VOCs.
+
+    / May, 2021 - medRxiv.
+    quote !d = Overall, these results suggest that neutralization breadth was not improved after vaccination, most likely because neutralization after vaccination is overwhelmingly dominated by RBD responses, which are shown to be more sensitive to the mutations in the VOC. Nevertheless, a degree of cross-neutralization of these three VOCs was observed in all participants already after a single dose in previously infected individuals.
+
+
+
+
+
+  #
+  // Addressing anti-syncytin antibody levels, and fertility and breastfeeding concerns, following BNT162B2 COVID-19 mRNA vaccination.
+  doi: https://doi.org/10.1101/2021.05.23.21257686
+  ref 'Mattar_et_al_05_25_2021
+    head = In this observational cohort study of female front-line workers with no history of COVID-19 infection, we amplified BNT162B2 mRNA in plasma and breast milk and assayed anti-SARS-CoV-2 neutralising antibodies and anti-human syncytin-1 binding antibodies in plasma, at early (1-4 days) and late (4-7 weeks) time points following first-dose vaccination.
+
+    > Objective
+      To determine whether antibodies against the SARS-CoV-2 spike protein following BNT162B2 (Pfizer-BioNTech) COVID-19 mRNA vaccination cross-react with human syncytin-1 protein, and if BNT162B2 mRNA enters breast milk.
+
+    > Methods
+      In this observational cohort study of female front-line workers with no history of COVID-19 infection, we amplified BNT162B2 mRNA in plasma and breast milk and assayed anti-SARS-CoV-2 neutralising antibodies and anti-human syncytin-1 binding antibodies in plasma, at early (1-4 days) and late (4-7 weeks) time points following first-dose vaccination.
+
+    > Results
+      Fifteen consented participants (mean age 40.4 years, various ethnicities) who received at least one dose of BNT162B2, including five breast-feeding women and two women who were inadvertently vaccinated in early pregnancy, were recruited. BNT162B2 mRNA, detected by amplifying part of the spike-encoding region, was detected in plasma 1-4 days following the first dose (n=13), but not 4-5 weeks later (n=2), nor was the mRNA isolated from aqueous or lipid breast milk fractions collected 0-7 days post-vaccination (n=5). Vaccine recipients demonstrated strong SARS-CoV-2 neutralising activity by at least four weeks after the first dose (n=15), including the two pregnant women. None had placental anti-syncytin-1 binding antibodies at either time-point following vaccination.
+
+    > Conclusions
+      BNT162B2-vaccinated women did not transmit vaccine mRNA to breast milk, and did not produce a concurrent humoral response to syncytin-1, suggesting that cross-reactivity to syncytin-1 on the developing trophoblast, or other adverse effects in the breast-fed infant from vaccine mRNA ingestion, are unlikely.
+
+    - quotes
+      !a
+
+    / May, 2021 - medRxiv
+    quote !a = BNT162B2-vaccinated women did not transmit vaccine mRNA to breast milk, and did not produce a concurrent humoral response to syncytin-1, suggesting that cross-reactivity to syncytin-1 on the developing trophoblast, or other adverse effects in the breast-fed infant from vaccine mRNA ingestion, are unlikely.
+
+
+
+  #
+  // Ischaemic stroke as a presenting feature of ChAdOx1 nCoV-19 vaccine-induced immune thrombotic thrombocytopaenia
+  doi: http://dx.doi.org/10.1136/jnnp-2021-326984
+  ref 'Al-Mayhani_et_al_05_25_2021
+    head = We report three patients with VITT who presented with ischaemic strokei after receiving the ChAdOx1 nCoV-19 vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2021 - Journal of Neurology, Neurosurgery & Psychiatry
+    quote !a = Our observations suggest that, in addition to venous thrombosis, the neurological spectrum of VITT can include arterial occlusion. Young patients presenting with ischaemic stroke after receiving the ChAdOx1 nCoV-19 vaccine should urgently be evaluated for VITT with laboratory tests (including platelet count, D-dimers, fibrinogen and anti-PF4 antibodies) and assessment for co-existing venous thromboses; they should be managed by a multidisciplinary team (haematology, neurology, stroke, neurosurgery and neuroradiology) for rapid access to treatments including intravenous immune globulin, methylprednisolone, plasmapheresis and non-heparin anticoagulants, for example fondaparinux, argatroban, or direct oral anticoagulants. Endovascular therapy or decompressive hemicraniectomy may also be indicated in carefully selected patients.
+
+
+    / May, 2021 - Journal of Neurology, Neurosurgery & Psychiatry
+    quote !b = Patient 1, a 35-year-old Asian woman, developed episodic right temporal and periorbital headache 6 days after receiving the ChAdOx1 nCoV-19 vaccine. Five days later, she awoke with left face, arm and leg weakness, right gaze preference and drowsiness. Non-contrast CT and CT angiography (CTA) revealed occlusion of the right middle cerebral artery (MCA) distal M1 segment with extensive ischaemia and haemorrhagic transformation. Subsequent imaging revealed right portal vein thrombosis. The platelet count increased after intravenous immune globulin and plasmapheresis. She received anticoagulation with intermediate dose fondaparinux. Fourteen days after presentation, her conscious level suddenly dropped; CT head showed extensive haemorrhagic transformation of the left MCA infarct with mass effect and herniation of the brain through the decompressive hemicraniectomy. Brainstem death was subsequently confirmed.
+
+    / May, 2021 - Journal of Neurology, Neurosurgery & Psychiatry
+    quote !c = Patient 2, a 37-year-old White female, presented 12 days after receiving the ChAdOx1 nCoV-19 vaccine with diffuse headache, left visual field loss, confusion and left arm weakness. CTA showed occlusion of both internal carotid arteries and left transverse sinus thrombosis; diffusion-weighted MRI showed bilateral acute infarcts in a borderzone distribution. Subsequent imaging confirmed pulmonary embolism and thromboses of the left transverse and sigmoid sinuses, left jugular, right hepatic and both iliac veins. The platelet count was 9 x 109/L; D-dimer was raised at 34 000 µg/L; and the anti-PF4 antibody assay was positive (99.7%). The platelet count increased following treatment with intravenous immune globulin, two intravenous pulses of methylprednisolone and plasmapheresis; the patient then received fondaparinux and improved clinically.
+
+    / May, 2021 - Journal of Neurology, Neurosurgery & Psychiatry
+    quote !d = Patient 3, a 43-year-old Asian male, presented 21 days after the ChAdOx1 nCoV-19 vaccine with dysphasia. CT and magnetic resonance (MR) showed an acute left frontal and insular infarct corresponding to the anterior cortical territory of the left MCA, with a small volume of haemorrhagic transformation within the infarct. MR and CT venography showed no evidence of cerebral venous sinus thrombosis. The platelet count was 48 x 109/L; D-dimer was raised at 24 000 µg/L; and the anti-PF4 antibody assay was positive. He was treated with platelet transfusion, intravenous immune globulin and fondaparinux and remains clinically stable.
+
+
+
+  #
+  // “Vaccine-Induced Covid-19 Mimicry” Syndrome: Splice reactions within the SARS-CoV-2 Spike open reading frame result in Spike protein variants that may cause thromboembolic events in patients immunized with vector-based vaccines
+  doi: https://doi.org/10.21203/rs.3.rs-558954/v1
+  ref 'Kowarz_et_al_05_26_2021
+    head = We present data that may explain these severe side effects which have been attributed to adenoviral vaccines.
+
+    > Abstract
+      During the last months many countries have started the immunization of millions of people by using vector-based vaccines. Unfortunately, severe side effects became overt during these vaccination campaigns: cerebral venous sinus thromboses (CVST), absolutely rare under normal life conditions, were found as a severe side effect that occured 4-14 days after first vaccinations. Besides CVST, Splanchnic Vein Thrombosis (SVT) was also observed. This type of adverse event has not been observed in the clinical studies of AstraZeneca, and therefore led immediately to a halt in vaccinations in several european countries. These events were mostly associated with thrombocytopenia, and thus, similar to the well-known Heparin-induced thrombo­cytopenia (HIT). Meanwhile, scientists have proposed a mechanism to explain this vaccine-induced thrombocytopenia. However, they do not provide a satisfactory explanation for the late thromboembolic events. Here, we present data that may explain these severe side effects which have been attributed to adenoviral vaccines. According to our results, transcription of wildtype and codon-optimized Spike open reading frames enables alternative splice events that lead to C-terminal truncated, soluble Spike protein variants. These soluble Spike variants may initiate severe side effects when binding to ACE2-expressing endothelial cells in blood vessels. In analogy to the thromboembolic events caused by Spike protein encoded by the SARS-CoV-2 virus, we termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome).
+
+    - quotes
+      !a
+
+    / May, 2021 - Research Square
+    quote !a = According to our results, transcription of wildtype and codon-optimized Spike open reading frames enables alternative splice events that lead to C-terminal truncated, soluble Spike protein variants. These soluble Spike variants may initiate severe side effects when binding to ACE2-expressing endothelial cells in blood vessels. In analogy to the thromboembolic events caused by Spike protein encoded by the SARS-CoV-2 virus, we termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome).
+
+
+
+
+  #
+  // Association between ChAdOx1 nCoV-19 vaccination and bleeding episodes: large population-based cohort study
+  doi: https://doi.org/10.21203/rs.3.rs-484111/v1
+  ref 'Trogstad_et_al_2021
+    head = Large, population-based cohort study- More than 80 000 cohort participants responding to electronic questionnaires about covid-19 vaccination and potential side effects during weeks 11-13, 2021. Response rate 58% (81267/138924), 83% were female, 85% health care workers and 80% were aged 40-55 years.
+
+
+    > Objective
+      To compare prevalence of skin, nose and gingival bleedings after receipt of adeno-vectored or mRNA-vaccines against covid-19. The hypothesis is that milder symptoms indicating altered thrombocyte function may affect a larger proportion of vaccinated individuals than the recently reported severe cases with thrombosis and thrombocytopenia.
+
+    > Design
+      Large, population-based cohort study.
+
+    > Setting
+      Norway, nationwide.
+
+    > Participants
+      More than 80 000 cohort participants responding to electronic questionnaires about covid-19 vaccination and potential side effects during weeks 11-13, 2021. Response rate 58% (81267/138924), 83% were female, 85% health care workers and 80% were aged 40-55 years.
+
+    > Main outcome measures
+      Self-reported episodes of skin, nose and gingival bleedings. Variation in rates by registered vaccine type, age, sex, occupation, previous covid-19 infection and chronic disease.
+
+    > Results
+      Four of the 3416 subjects (0.2%) who were vaccinated with a single dose of mRNA vaccine reported skin bleeding as a side effect, as opposed to 163 of 5132 subjects (3.2%) vaccinated with a single dose of the adenovirus-vectored vaccine, OR (odds ratio)=16.0 (95% confidence interval (CI) 7.5-34.1). Corresponding ORs for nose and gingival bleeding were 8.0 (4.0-15.8) and 9.3 (4.3-20.0), respectively.
+
+    > Conclusions
+      These findings could potentially indicate that the adenovirus-vectored vaccine may lead to mild bleeding episodes in a larger proportion of vaccinated individuals, and not only in rare cases with documented thrombosis and thrombocytopenia. Studies are needed to understand the possible mechanisms behind these observations, and to establish or refute whether they share similarities with the severe thromboembolic bleeding complications.
+
+
+    - quotes
+      !a
+      !b
+
+    / May, 2021 - Research Square
+    quote !a = Four of the 3416 subjects (0.2%) who were vaccinated with a single dose of mRNA vaccine reported skin bleeding as a side effect, as opposed to 163 of 5132 subjects (3.2%) vaccinated with a single dose of the adenovirus-vectored vaccine, OR (odds ratio)=16.0. Corresponding ORs for nose and gingival bleeding were 8.0 and 9.3, respectively.
+
+    / May, 2021 - Research Square
+    quote !b = These findings could potentially indicate that the adenovirus-vectored vaccine may lead to mild bleeding episodes in a larger proportion of vaccinated individuals, and not only in rare cases with documented thrombosis and thrombocytopenia.
+
+
+
+  #
+  // BNT162b2 vaccine induces neutralizing antibodies and poly-specific T cells in humans
+  doi: https://doi.org/10.1038/s41586-021-03653-6
+  ref 'Sahin_et_al_05_27_2021
+    head = We extend our previous phase 1/2 trial report and present BNT162b2 prime/boost induced immune response data from a second phase 1/2 trial in healthy adults (18-55 years of age).
+
+    > Abstract
+      BNT162b2, a lipid nanoparticle (LNP) formulated nucleoside-modified messenger RNA (mRNA) that encodes the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) spike glycoprotein (S) stabilized in the prefusion conformation, has demonstrated 95% efficacy in preventing coronavirus disease-19 (COVID-19). Here we extend our previous phase 1/2 trial report and present BNT162b2 prime/boost induced immune response data from a second phase 1/2 trial in healthy adults (18-55 years of age). BNT162b2 elicited strong antibody responses, with SARS-CoV-2 serum 50% neutralizing geometric mean titers up to 3.3-fold above those observed in COVID-19 human convalescent samples (HCS) one week post-boost. BNT162b2-elicited sera neutralized 22 pseudoviruses bearing SARS-CoV-2 S variants. Most participants had a strong IFNγ- or IL-2-positive CD8+ and CD4+ T helper type 1 (TH1) T cell response, detectable throughout the full observation period of nine weeks following the boost. pMHC multimer technology identified several BNT162b2-induced epitopes that were presented by frequent MHC alleles and conserved in mutant strains. One week post-boost, epitope-specific CD8+ T cells of the early differentiated effector-memory phenotype comprised 0.02-2.92% of total circulating CD8+ T cells and were detectable (0.01-0.28%) eight weeks later. In summary, BNT162b2 elicits an adaptive humoral and poly-specific cellular immune response against epitopes conserved in a broad range of variants at well tolerated doses.
+
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+
+    / May, 2021 - Nature
+    quote !a = BNT162b2 elicits an adaptive humoral and poly-specific cellular immune response against epitopes conserved in a broad range of variants at well tolerated doses.
+
+    / May, 2021 - Nature
+    quote !b = BNT162b2 elicited strong antibody responses, with SARS-CoV-2 serum 50% neutralizing geometric mean titers up to 3.3-fold above those observed in COVID-19 human convalescent samples (HCS) one week post-boost.
+
+    / May, 2021 - Nature
+    quote !c = BNT162b2-elicited sera neutralized 22 pseudoviruses bearing SARS-CoV-2 S variants.
+
+    / May, 2021 - Nature
+    quote !d = Most participants had a strong IFNγ- or IL-2-positive CD8+ and CD4+ T helper type 1 (TH1) T cell response, detectable throughout the full observation period of nine weeks following the boost.
+
+    / May, 2021 - Nature
+    quote !e = pMHC multimer technology identified several BNT162b2-induced epitopes that were presented by frequent MHC alleles and conserved in mutant strains. One week post-boost, epitope-specific CD8+ T cells of the early differentiated effector-memory phenotype comprised 0.02-2.92% of total circulating CD8+ T cells and were detectable (0.01-0.28%) eight weeks later.
+
+
+
+  #
+
+  // Moderna Announces TeenCOVE Study of its COVID-19 Vaccine in Adolescents Meets Primary Endpoint and Plans to Submit Data to Regulators in Early June
+  doi: https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-teencove-study-its-covid-19-vaccine
+  ref 'Moderna_et_al_05_25_2021
+    head = In this Phase 2/3 study (TeenCOVE study), 3,732 adolescent participants ages 12 to less than 18 years in the U.S were enrolled and randomized 2:1 to two 100 µg doses of mRNA-1273 or placebo.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / May, 2021 - Moderna, Inc.
+    quote !a =  In the study, no cases of COVID-19 were observed in participants who had received two doses of the Moderna COVID-19 vaccine. In addition, a vaccine efficacy of 93% in seronegative participants was observed starting 14 days after the first dose using the secondary CDC case definition of COVID-19, which tested for milder disease.
+
+    / May, 2021 - Moderna, Inc.
+    quote !b = After two doses, no cases of COVID-19 were observed in the vaccine group using the case definition from the adult Phase 3 COVE study, compared to 4 cases in the placebo group, resulting in a vaccine efficacy of 100% starting 14 days after the second dose.
+
+    / May, 2021 - Moderna, Inc.
+    quote !c = mRNA-1273 was generally well tolerated with a safety and tolerability profile generally consistent with the Phase 3 COVE study in adults. No significant safety concerns have been identified to date. The majority of adverse events were mild or moderate in severity. The most common solicited local adverse event was injection site pain. The most common solicited systemic adverse events after the second dose of mRNA-1273 were headache, fatigue, myalgia and chills.
+
+
+
+  #
+  // Safety, Immunogenicity, and Efficacy of the BNT162b2 Covid-19 Vaccine in Adolescents
+  doi: https://doi.org/10.1056/NEJMoa2107456
+  ref 'Frenck_et_al_05_27_2021
+    head = In this ongoing multinational, placebo-controlled, observer-blinded trial, we randomly assigned participants in a 1:1 ratio to receive two injections (2260 adolescents 12 to 15 years of age received injections; 1131 received BNT162b2, and 1129 received placebo), 21 days apart, of 30 μg of BNT162b2 or placebo.
+
+    > Background
+      Until very recently, vaccines against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) had not been authorized for emergency use in persons younger than 16 years of age. Safe, effective vaccines are needed to protect this population, facilitate in-person learning and socialization, and contribute to herd immunity.
+
+    > Methods
+      In this ongoing multinational, placebo-controlled, observer-blinded trial, we randomly assigned participants in a 1:1 ratio to receive two injections, 21 days apart, of 30 μg of BNT162b2 or placebo. Noninferiority of the immune response to BNT162b2 in 12-to-15-year-old participants as compared with that in 16-to-25-year-old participants was an immunogenicity objective. Safety (reactogenicity and adverse events) and efficacy against confirmed coronavirus disease 2019 (Covid-19; onset, ≥7 days after dose 2) in the 12-to-15-year-old cohort were assessed.
+
+    > Results
+      Overall, 2260 adolescents 12 to 15 years of age received injections; 1131 received BNT162b2, and 1129 received placebo. As has been found in other age groups, BNT162b2 had a favorable safety and side-effect profile, with mainly transient mild-to-moderate reactogenicity (predominantly injection-site pain [in 79 to 86% of participants], fatigue [in 60 to 66%], and headache [in 55 to 65%]); there were no vaccine-related serious adverse events and few overall severe adverse events. The geometric mean ratio of SARS-CoV-2 50% neutralizing titers after dose 2 in 12-to-15-year-old participants relative to 16-to-25-year-old participants was 1.76 (95% confidence interval [CI], 1.47 to 2.10), which met the noninferiority criterion of a lower boundary of the two-sided 95% confidence interval greater than 0.67 and indicated a greater response in the 12-to-15-year-old cohort. Among participants without evidence of previous SARS-CoV-2 infection, no Covid-19 cases with an onset of 7 or more days after dose 2 were noted among BNT162b2 recipients, and 16 cases occurred among placebo recipients. The observed vaccine efficacy was 100% (95% CI, 75.3 to 100).
+
+    > Conclusions
+      The BNT162b2 vaccine in 12-to-15-year-old recipients had a favorable safety profile, produced a greater immune response than in young adults, and was highly effective against Covid-19. (Funded by BioNTech and Pfizer; C4591001 ClinicalTrials.gov number, NCT04368728. opens in new tab.)
+
+    - quotes
+      !a
+      !b
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !a = A two-dose regimen of 30 μg of BNT162b2 administered 21 days apart to adolescents 12 to 15 years of age was safe and immunogenic, produced a greater immune response than in young adults, and resulted in an observed vaccine efficacy of 100% against Covid-19 from 7 days after dose 2.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !b = BNT162b2 had a favorable safety and side-effect profile, with mainly transient mild-to-moderate reactogenicity (predominantly injection-site pain [in 79 to 86% of participants], fatigue [in 60 to 66%], and headache [in 55 to 65%]); there were no vaccine-related serious adverse events and few overall severe adverse events.
+
+
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID

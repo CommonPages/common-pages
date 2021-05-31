@@ -134,7 +134,7 @@ subject module Disease
           'Taquet_et_al_11_09_2020.!d
 
     / Severe Cases
-    claim !SevereCases = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others.
+    claim !SevereCases = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others. A case series in the Indian subcontinent reported cases of rhino-orbital–cerebral mucormycosis following COVID-19 infections. A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%.
       # A few recent studies report children developing paediatric multisystem inflammatory syndrome.
       -
         !Pneumonia
@@ -143,6 +143,7 @@ subject module Disease
         !CytokineStorms
         !EndothelialCellInfection
         !CNS
+        !Mucormycosis
 
       / Cytokine Storms
       claim !CytokineStorms = A cytokine storm is a physiological reaction in which the immune system triggers an excessive release of pro-inflammatory signaling molecules called cytokines. Cytokine storms have been observed in the later stages of severe COVID‑19.
@@ -203,6 +204,31 @@ subject module Disease
         -
           'Meinhardt_et_al_06_04_2020
 
+
+      / Mucormycosis
+      claim !Mucormycosis = Mucormycosis is a life-threatening, opportunistic infection, and patients with moderate to severe COVID-19 are more susceptible to it. Uncontrolled diabetes mellitus and use of corticosteroids increase the risk of invasive fungal infection with mucormycosis which can develop during the course of the illness or as a sequelae of COVID-19. A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%. Early diagnosis, control of hyperglycaemia, and management with appropriate and aggressive antifungals and surgical debridement can improve survival. The use of glucocorticoids (steroids) in mild COVID-19 cases (without hypoxaemia) or the utilisation of higher doses of glucocorticoids should be avoided. Further, in the absence of a clear benefit, drugs targeting immune pathways such as tocilizumab should be discouraged.
+
+      # A case series in the Indian subcontinent reported six cases of rhino-orbital–cerebral mucormycosis following COVID-19 infections.The mean duration between the diagnosis of COVID-19 and the development of symptoms of mucormycosis was 15.6±9.6 daysControl of hyperglycaemia, early treatment with liposomal amphotericin B and surgery are essential for the successful management of mucormycosis.
+
+        -
+          'Sen_et_al_02_2021
+          'Sen_et_al_02_2021.!a
+          'Sen_et_al_02_2021.!b
+          'Sen_et_al_02_2021.!c
+          'Sen_et_al_02_2021.!d
+          'Sen_et_al_02_2021.!e
+          'Sen_et_al_02_2021.!f
+          'Sen_et_al_02_2021.!g
+          'Sen_et_al_02_2021.!h
+        -
+          'Revannavar_et_al_04_27_2021
+          'Revannavar_et_al_04_27_2021.!a
+          'Revannavar_et_al_04_27_2021.!b
+          'Revannavar_et_al_04_27_2021.!c
+          'Revannavar_et_al_04_27_2021.!d
+          'Revannavar_et_al_04_27_2021.!e
+          'Revannavar_et_al_04_27_2021.!f
+
     / Long Covid
     claim !LongCovid = Long COVID was characterized by symptoms of fatigue, headache, dyspnea and anosmia and was more likely with increasing age and body mass index and female sex. Experiencing more than five symptoms during the first week of illness was associated with long COVID.
       -
@@ -237,6 +263,8 @@ subject module Disease
         !SymptomaticCases.!Psychiatricdiagnosis
       -
         !Lymphocytechanges
+      -
+        !Myocarditis
 
 
       / !Neurological Symptoms
@@ -257,7 +285,11 @@ subject module Disease
           'Shuwa_et_al_03_31_2021.!c
           'Shuwa_et_al_03_31_2021.!d
 
-
+      claim !Myocarditis = In a cohort study of 1597 US competitive athletes, cardiac magnetic resonance imaging (CMR) findings provide important data on the prevalence of clinical and subclinical myocarditis in college athletes recovering from symptomatic and asymptomatic COVID-19 infections.
+      -
+        'Daniels_et_al_05_27_2021
+        'Daniels_et_al_05_27_2021.!a
+        'Daniels_et_al_05_27_2021.!b
 
   / Severity
   // Susceptibility and Severity

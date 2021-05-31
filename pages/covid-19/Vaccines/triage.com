@@ -91,10 +91,211 @@
       'Chevallier_et_al_02_09_2021.!c
 
 
-#### 05/24/21 ####
+#### 05/27/21 ####
+
+  claim !Phase3media = A report released in media said that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease. Even though Bharat Biotech has not yet revealed any details about the final analysis, in April the company said that the safety and efficacy details will be available by June.
+    -
+      'Majumder_et_al_05_29_2021
+
+  >
+    The 1st interim analysis result (Covaxin) released in March 2021 showed vaccine efficacy of 80.6%. The 2nd interim analysis result, released in April, showed that the efficacy of the vaccine was 100% and a reduction of hospitalization numbers was also noted. A report released in media said that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease. Even though Bharat Biotech has not yet revealed any details about the final analysis, in April the company said that the safety and efficacy details will be available by June.
+
+  claim !Finland = A real-world setting study (Finland) results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members.
+    -
+      'Salo_et_al_05_29_2021
+      'Salo_et_al_05_29_2021.!a
+  >
+    The results are consistent with the notion that mRNA-based vaccines affect susceptibility in vaccinated individuals and prevent transmission from vaccinated to unvaccinated individuals.
+
+  claim !RealworldHCWUsa = In a Correspondence letter, scientists reported that only 7 out of 28,184 healthcare workers (University of California, San Diego (UCSD) and the University of California, Los Angeles (UCLA) who received both doses (mRNA vaccines) tested positive >2 weeks after 2nd dose (0.0046%), suggesting that the efficacy of these vaccines is maintained outside the trial setting.
+    -
+      'Keehner_et_al_05_06_2021
+      'Keehner_et_al_05_06_2021.!a
+      'Keehner_et_al_05_06_2021.!b
+      'Keehner_et_al_05_06_2021.!c
+      'Keehner_et_al_05_06_2021.!d
+
+  / Adolescents
+  claim !Adolescents = A two-dose regimen of 30 μg of BNT162b2 administered 21 days apart to adolescents 12 to 15 years of age was safe and immunogenic, produced a greater immune response than in young adults, and resulted in an observed vaccine efficacy of 100% against Covid-19 from 7 days after dose 2.
+    -
+      'Frenck_et_al_05_27_2021
+      'Frenck_et_al_05_27_2021.!a
+      'Frenck_et_al_05_27_2021.!b
+
+  / Phase 2/3 (TeenCOVE) study
+  claim !TeenCOVEstudy = Moderna, Inc. announced that the Phase 2/3 (TeenCOVE) study of its COVID-19 vaccine (mRNA-1273) in adolescents (12 to <18) has met its primary endpoint of non-inferior immunogenicity versus the Phase 3 study adult comparator group. No cases of COVID-19 observed after two doses of vaccine using the primary case definition, consistent with a vaccine efficacy of 100%. Safety and tolerability generally consistent with Phase 3 COVE study in adults; no significant safety concerns identified.
+    -
+      'Moderna_et_al_05_25_2021
+      'Moderna_et_al_05_25_2021.!a
+      'Moderna_et_al_05_25_2021.!b
+      'Moderna_et_al_05_25_2021.!c
+
+  >
+    Two-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) was safe and immunogenic, produced a greater immune response than in young adults, and resulted in a vaccine efficacy of 100% (7 days after dose 2). Moderna, Inc. announced that the Phase 2/3 (TeenCOVE) study in adolescents (12 to <18) has met its primary endpoint of non-inferior immunogenicity versus the Phase 3 study adult comparator group. No cases of COVID-19 observed after two doses of vaccine, consistent with a vaccine efficacy of 100%. No significant safety concerns identified.
+
+  / Adaptive humoral and poly-specific cellular immune response
+  claim !Humoralpolyspecificcellular = BNT162b2 elicits an adaptive humoral and poly-specific cellular immune response against epitopes conserved in a broad range of variants at well tolerated doses.
+    -
+      'Sahin_et_al_05_27_2021
+      'Sahin_et_al_05_27_2021.!a
+      'Sahin_et_al_05_27_2021.!b
+      'Sahin_et_al_05_27_2021.!c
+      'Sahin_et_al_05_27_2021.!d
+      'Sahin_et_al_05_27_2021.!e
+
+
+  # claim !Mildbleeding = A population-based study (Norway) reported a higher prevalence of milder bleeding episodes following vaccination with adeno-vectored compared to mRNA vaccines indicating that the adenovirus-vectored vaccine may lead to mild bleeding episodes in a larger proportion of vaccinated individuals, and not only in rare cases with documented thrombosis and thrombocytopenia.
+  #   -
+  #     'Trogstad_et_al_07_30_2021
+  #     'Trogstad_et_al_07_30_2021.!a
+  #     'Trogstad_et_al_07_30_2021.!b
+
+  >
+    During the last months many countries have started the immunization of millions of people by using vector-based vaccines. Unfortunately, severe side effects became overt during these vaccination campaigns: cerebral venous sinus thromboses (CVST), absolutely rare under normal life conditions, were found as a severe side effect that occured 4-14 days after first vaccinations. Besides CVST, Splanchnic Vein Thrombosis (SVT) was also observed. This type of adverse event has not been observed in the clinical studies of AstraZeneca, and therefore led immediately to a halt in vaccinations in several european countries. These events were mostly associated with thrombocytopenia, and thus, similar to the well-known Heparin-induced thrombo­cytopenia (HIT). Meanwhile, scientists have proposed a mechanism to explain this vaccine-induced thrombocytopenia. However, they do not provide a satisfactory explanation for the late thromboembolic events.
+
+    A syndrome of vaccine-induced immune thrombotic thrombocytopaenia (VITT) has recently been reported following the ChAdOx1 nCoV-19 (Oxford–AstraZeneca) recombinant adenoviral vector vaccine encoding the spike glycoprotein of SARS-CoV-2.1–4 Previously described patients developed thrombosis, mainly affecting cerebral venous sinuses, with thrombocytopaenia and antibodies to platelet factor 4 (PF4), but the characteristics of VITT with arterial thrombosis have not previously been described. Here, we report three patients with VITT who presented with ischaemic stroke.
+
+  / Vaccine-Induced Covid-19 Mimicry syndrome (VIC19M syndrome).
+  claim !VIC19Msyndrome = Lab studies from Germany presented data that may explain these severe side effects (thromboembolic events) which have been attributed to adenoviral vaccines (AZ & J&J vaccines). They termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). If right, vaccines could theoretically be modified to avoid it.
+
+  # According to their results, transcription of wildtype and codon-optimized Spike open reading frames enables alternative splice events that lead to C-terminal truncated, soluble Spike protein variants- which may initiate severe side effects when binding to ACE2-expressing endothelial cells in blood vessels. In analogy to the thromboembolic events caused by Spike protein encoded by the SARS-CoV-2 virus, They termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome).
+
+    -
+      'Kowarz_et_al_05_26_2021
+      'Kowarz_et_al_05_26_2021.!a
+
+  claim !Ischaemicstroke = One study reported three patients with VITT who presented with ischaemic stroke; their observations suggest that, in addition to venous thrombosis, the neurological spectrum of VITT can include arterial occlusion.
+    -
+      'Al-Mayhani_et_al_05_25_2021
+      'Al-Mayhani_et_al_05_25_2021.!a
+      'Al-Mayhani_et_al_05_25_2021.!b
+      'Al-Mayhani_et_al_05_25_2021.!c
+      'Al-Mayhani_et_al_05_25_2021.!d
+
+
+  claim !Fertilitybreastfeedingconcerns = One study directly addresses the fertility and breastfeeding concerns fuelling vaccine hesitancy among reproductive-age women, by suggesting that BNT162B2 vaccination is unlikely to cause adverse effects on the developing trophoblast, via cross-reacting anti-syncytin-1 antibodies, or to the breastfed neonate, via mRNA breast milk transmission.
+    -
+      'Mattar_et_al_05_25_2021
+      'Mattar_et_al_05_25_2021.!a
+
+  >
+    Our prospective COVID-19 cohort allowed extension of these findings to a broader population at risk and showed that these responses were not affected by the presence of underlying comorbidities, COVID-19 disease severity or timing of vaccination since infection. Hence, our study supports wide implementation of single dosing strategies for previously infected individuals.
+    the findings of this study support wide implementation of a single-dose mRNA vaccine strategy after prior SARS-CoV-2 infection to save vaccines and resources hence expediting vaccination uptake at community levels worldwide.
+    a degree of cross-neutralization of these three VOCs was observed in all participants already after a single dose in previously infected individuals.
+
+  claim !PriorinfectedBNT162b2 = A single-dose (BNT162b2 mRNA vaccine)in prior-infected individuals administered up to more than one year after SARS-CoV-2 infection provides neutralizing titers exceeding two vaccine doses in previously uninfected individuals. A degree of cross-neutralization of these the VOCs was observed in all participants already after a single dose in previously infected individuals.
+    -
+      'Gils_et_al_05_25_2021
+      'Gils_et_al_05_25_2021.!a
+      'Gils_et_al_05_25_2021.!b
+      'Gils_et_al_05_25_2021.!c
+      'Gils_et_al_05_25_2021.!d
+
+
+  >
+    “Sera from individuals having received one dose of AstraZeneca Vaxzevria barely inhibited B.1.617.2. Thus, B.1.617.2 spread is associated with an escape to antibodies targeting non-RBD and RBD Spike epitopes.
+
+  > # B.1.617 lineage
+    The SARS-CoV-2 B.1.617 lineage emerged in October 2020 in India. It has since then become dominant in some indian regions and further spread to many countries. The lineage includes three main subtypes (B1.617.1, B.1617.2 and B.1.617.3), which harbour diverse Spike mutations in the N-terminal domain (NTD) and the receptor binding domain (RBD) which may increase their immune evasion potential. B.1.617.2 is believed to spread faster than the other versions.
+
+  >
+    After one year of an intense circulation of SARS-CoV-2 worldwide, VOCs with enhanced transmissibility and resistance to antibodies were first identified in UK, South Africa, Brazil, USA (California) and spread to many other countries.
+
+  >
+    Since early 2021, India has also faced a surge of cases associated with the emergence of a new lineage termed B.1.617. It includes 3 main sublineages, B.1.617.1, B.1.617.2 and B.1.617.3. Very little is known about the epidemiological and biological characteristics of this lineage. B.1.617.2 seems to be particularly worrying, and has been deemed a VOC by multiple public health bodies including the WHO. It represents up to 80% of sequenced strains in the Maharashtra region of India. B.1.617.2 has also been detected in dozens of other countries and represented about 20% of sequenced viruses circulating in UK between May 12 and May 19, 2021 50. B.1.617.2 is characterized by the presence of 9 mutations in the Spike protein.
+
+  >
+    We show here that these mutations map to regions of the Spike that potentially modify virus binding to the receptor and allow escape from the humoral immune response.
+
+  >
+    We report that some therapeutic mAb, including Bamlavinimab, lost binding to the variant Spike and no longer neutralized B.1.617.2. It is thus of importance to identify the viral strain present in patients, before administration of therapeutic mAbs in individuals at-risk for severe forms of COVID-19.
+
+  claim !B16172neutralizingantibodies = One study demonstrated that the novel emerging B.1.617.2 variant partially but significantly escapes neutralizing antibodies targeting the NTD and RBD, including Bamlanivimab, which were impaired in binding to the B.1.617.2 Spike. Sera from convalescent patients collected up to 12 months post symptoms and from Pfizer Comirnaty vaccine recipients were 3 to 6 fold less potent against B.1.617.2, relative to B.1.1.7. Sera from individuals having received one dose of AstraZeneca Vaxzevria barely inhibited B.1.617.2.
+    -
+      'Planas_et_al_05_27_2021
+      'Planas_et_al_05_27_2021.!a
+      'Planas_et_al_05_27_2021.!b
+      'Planas_et_al_05_27_2021.!c
+      'Planas_et_al_05_27_2021.!d
+    - presence of large syncytia
+      'Planas_et_al_05_27_2021.!e
+
+  claim !CanadaVE = A real world study (Ontario, Canada) demonstrated that two doses of BNT162b2 and mRNA-1273 vaccines are highly effective (>90%) against both symptomatic infection and severe outcomes. Effectiveness is lower (~50-70%) after only a single dose, particularly for older adults shortly after the first dose.
+  -
+    'Chung_et_al_05_28_2021
+    'Chung_et_al_05_28_2021.!a
+    'Chung_et_al_05_28_2021.!b
+    'Chung_et_al_05_28_2021.!c
+    'Chung_et_al_05_28_2021.!d
+    'Chung_et_al_05_28_2021.!e
+    'Chung_et_al_05_28_2021.!f
+
+  claim !RealworldVEsingledose = A real world study (Ontario, Canada) results showed that VE was consistently high across subgroups for fully vaccinated individuals, and also for older adults after longer intervals following receipt of a first dose. The analysis identified an effectiveness against symptomatic infection of 63% ≥49 days after only the first dose, in keeping with several other studies reporting one-dose effectiveness.
+  # rising protection against severe outcomes – arguably the more important outcome – with increasing time after a first dose provides support for delaying the second dose.
+  -
+    'Chung_et_al_05_28_2021
+    'Chung_et_al_05_28_2021.!c
+    'Chung_et_al_05_28_2021.!e
+    'Chung_et_al_05_28_2021.!g
+
+  / mRNA Vaccines Efficacy againt B.1.1.7 or E484K-positive variants (i.e., B.1.351 and P.1)
+  claim !Vaccineescape = Our finding that receipt of 2 doses of mRNA vaccines was not associated with appreciable vaccine escape by lineage B.1.1.7 or E484K-positive variants (i.e., B.1.351 and P.1) is notable.
+  -
+    'Chung_et_al_05_28_2021
+    'Chung_et_al_05_28_2021.!f
+
+  / Mucormycosis
+  claim !Mucormycosis = Mucormycosis is a life-threatening, opportunistic infection, and patients with moderate to severe COVID-19 are more susceptible to it. Uncontrolled diabetes mellitus and use of corticosteroids increase the risk of invasive fungal infection with mucormycosis which can develop during the course of the illness or as a sequelae of COVID-19. A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%. Early diagnosis, control of hyperglycaemia, and management with appropriate and aggressive antifungals and surgical debridement can improve survival. The use of glucocorticoids (steroids) in mild COVID-19 cases (without hypoxaemia) or the utilisation of higher doses of glucocorticoids should be avoided. Further, in the absence of a clear benefit, drugs targeting immune pathways such as tocilizumab should be discouraged.
+
+  # A case series in the Indian subcontinent reported six cases of rhino-orbital–cerebral mucormycosis following COVID-19 infections.The mean duration between the diagnosis of COVID-19 and the development of symptoms of mucormycosis was 15.6±9.6 daysControl of hyperglycaemia, early treatment with liposomal amphotericin B and surgery are essential for the successful management of mucormycosis.
+
+    -
+      'Sen_et_al_02_2021
+      'Sen_et_al_02_2021.!a
+      'Sen_et_al_02_2021.!b
+      'Sen_et_al_02_2021.!c
+      'Sen_et_al_02_2021.!d
+      'Sen_et_al_02_2021.!e
+      'Sen_et_al_02_2021.!f
+      'Sen_et_al_02_2021.!g
+      'Sen_et_al_02_2021.!h
+    -
+      'Revannavar_et_al_04_27_2021
+      'Revannavar_et_al_04_27_2021.!a
+      'Revannavar_et_al_04_27_2021.!b
+      'Revannavar_et_al_04_27_2021.!c
+      'Revannavar_et_al_04_27_2021.!d
+      'Revannavar_et_al_04_27_2021.!e
+      'Revannavar_et_al_04_27_2021.!f
+
+  claim !Myocarditis = In a cohort study of 1597 US competitive athletes, cardiac magnetic resonance imaging (CMR) findings provide important data on the prevalence of clinical and subclinical myocarditis in college athletes recovering from symptomatic and asymptomatic COVID-19 infections.
+  -
+    'Daniels_et_al_05_27_2021
+    'Daniels_et_al_05_27_2021.!a
+    'Daniels_et_al_05_27_2021.!b
+
+  claim !Ivermectin = A systematic review and meta-analysis of randomized controlled trials study demonstrated that In comparison to standard of care [SOC] or placebo, Ivermectin (IVM) did not reduce all-cause mortality, length of stay, respiratory viral clearance, adverse events and serious adverse events in RCTs of patients with mild to moderate COVID-19. IVM did not have effect on AEs or SAEs. We did not find data about IVM effects on clinical improvement and need for mechanical ventilation. IVM is not a viable option to treat COVID-19 patients.
+
+    -
+      'Roman_et_al_05_25_2021
+      'Roman_et_al_05_25_2021.!a
+  >
+    Mucormycosis is an angioinvasive disease caused by fungi of the order Mucorales like Rhizopus, Mucor, Rhizomucor, Cunninghamella and Absidia. The prevalence of mucormycosis in India is approximately 0.14 cases per 1000 population, about 80 times the prevalence in developed countries.1 COVID-19 infection has been associated with fungal infections. Mucormycosis is more often seen in immunocompromised individuals, and complications of orbital and cerebral involvement are likely in diabetic ketoacidosis and with concomitant use of steroids. The most common risk factor associated with mucormycosis is diabetes mellitus in India.2 In the background of the COVID-19 pandemic, only a limited number of cases of mucormycosis have been reported, but there are no known documented cases of sudden-onset visual loss with incidental COVID-19 infection in a newly detected young non-ketotic diabetic.3
+
+    Mucormycosis of the orbit is a vision-threatening and potentially fatal infection resulting in angioinvasion, mycotic thrombosis, and ischemic necrosis of tissues. Mucor, Rhizopus, Rhizomucor, Abidia, Apophysomyces, Saksenaea, and Cunninghumella are the common organisms of the Mucorales order responsible for the infection.[67] The incidence varies from 0.005 to 1.7 per million population and the global case fatality rate is as high as 46%.[18] Depending on the site of infection it is classified as rhinocerebral/sino-orbital, pulmonary, cutaneous, gastrointestinal, and disseminated
+
+    Patients with COVID-19 are more vulnerable to fungal infection because of the compromised immune system with decreased CD4+ and CD8+ lymphocytes, associated comorbidities such as diabetes mellitus which potentiates both the conditions, decompensated pulmonary functions, and the use of immunosuppressive therapy for the management in moderate to severe cases.
+
+    Patients with COVID-19 are more vulnerable to fungal infection because of the compromised immune system with decreased CD4+ and CD8+ lymphocytes, associated comorbidities such as diabetes mellitus which potentiates both the conditions, decompensated pulmonary functions, and the use of immunosuppressive therapy for the management in moderate to severe cases.[2] The infections are also more likely in patients with severe COVID-19 disease and in those requiring intensive care unit admission or mechanical ventilation. The rate of secondary infection during hospital stay in patients with COVID-19 (bacterial and fungal) has been reported to be 8%.[210] In a review, Song et al. noted that the fungal infections are more likely to develop during the middle and later stages of COVID-19 infection.[11] The mortality rate is also higher (53% with vs 31% without invasive fungal infection) amongst the patients of COVID-19 with secondary fungal infection.[2]
+
+  >
+    A case series in the Indian subcontinent reported six cases of rhino-orbital–cerebral mucormycosis following COVID-19 infections.The mean duration between the diagnosis of COVID-19 and the development of symptoms of mucormycosis was 15.6±9.6 daysControl of hyperglycaemia, early treatment with liposomal amphotericin B and surgery are essential for the successful management of mucormycosis.
+
+    Thus, the use of glucocorticoids in mild COVID-19 cases (without hypoxaemia) or the utilisation of higher doses of glucocorticoids should be avoided. Further, in the absence of a clear benefit, drugs targeting immune pathways such as tocilizumab should be discouraged. For successful management of mucormycosis, a high index of clinical suspicion, low threshold for diagnosis in patients with risk factors, neuroimaging and specific diagnostic tests with a coordinated effort from a multidisciplinary team including ophthalmology, otorhinolaryngology, infectious diseases, neurosurgery, critical care, microbiology and pathology department are crucial. A delay of even 6 days in initiating treatment doubles the 30-day mortality from 35% to 66%
 
 
 
+  #####
   claim !Neutralizinglevelpredictor = A modeling study showed that neutralization antibody level is highly predictive of immune protection. The model also predicts that immune protection from infection may wane with time as neutralization levels decline, and that booster immunization may be required within a year. However, protection from severe infection should be largely retained.
 
   -

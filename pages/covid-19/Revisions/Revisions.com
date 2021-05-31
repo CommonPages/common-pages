@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *May_31 mean May_31
   let *May_24 mean May_24
   let *May_21 mean May_21
   let *May_19 mean May_19
@@ -10,7 +11,65 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_24, *May_21 and *May_19). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_31, *May_24, *May_21, *May_19, *May_17, *May_10). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: May-31-2021
+  / May 31, 2021
+  revision May_31
+    head = 2-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) resulted in a vaccine efficacy of 100% (7 days after dose 2), was safe and immunogenic, produced a greater immune response than in young adults. Moderna, Inc. announced that the Phase 2/3 (TeenCOVE) study in adolescents (12 to <18) has met its primary endpoint of non-inferior immunogenicity versus the Phase 3 study adult comparator group. No cases of COVID-19 observed after 2 doses, consistent with a vaccine efficacy of 100%. No significant safety concerns identified.
+    -
+      Vaccines.Approved.Tozinameran.!Adolescents
+      Vaccines.Approved.mRNA-1273.!TeenCOVEstudy
+
+
+    >
+      One study demonstrated that the novel emerging B.1.617.2 variant partially but significantly escapes neutralizing antibodies targeting the NTD and RBD, including Bamlanivimab, which were impaired in binding to the B.1.617.2 Spike. Sera from convalescent patients collected up to 12 months post symptoms and from Pfizer vaccine recipients were 3 to 6 fold less potent against B.1.617.2, relative to B.1.1.7. Sera from individuals having received one dose of AstraZeneca Vaxzevria barely inhibited B.1.617.2.
+
+    -
+      Variants.B1617.!B16172neutralizingantibodies
+
+    >
+      A report released in media noted that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease. Even though Bharat Biotech has not yet revealed any details about the final analysis, in April the company said that the safety and efficacy details will be available by June.
+    -
+      Vaccines.Approved.BBV152
+
+    >
+      A case series in the Indian subcontinent reported cases of mucormycosis following COVID-19 infections. The mean duration between the diagnosis of COVID-19 and the development of symptoms of mucormycosis was 15.6±9.6 days. A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%.
+    -
+      Disease.Course.!SevereCases.!Mucormycosis
+
+    >
+      A population-based study (Norway) reported a higher prevalence of milder bleeding episodes following vaccination with adeno-vectored compared to mRNA vaccines indicating that the adenovirus-vectored vaccine may lead to mild bleeding episodes in a larger proportion of vaccinated individuals, and not only in rare cases with documented thrombosis and thrombocytopenia. Lab studies from Germany presented data that may explain these severe side effects (thromboembolic events) which have been attributed to adenoviral vaccines (AZ & J&J vaccines)- terming it “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). A case report of 3 patients with VITT presented with ischaemic stroke; suggested that the neurological spectrum of VITT can include arterial occlusion.
+    -
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!Mildbleeding
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!VIC19Msyndrome
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!Ischaemicstroke
+
+
+    >
+      A single-dose (BNT162b2 mRNA vaccine) in prior-infected individuals administered up to more than one year after SARS-CoV-2 infection provides neutralizing titers exceeding two vaccine doses in previously uninfected individuals. A degree of cross-neutralization of these the VOCs was observed in all participants already after a single dose in previously infected individuals.
+    -
+      Vaccines.Approved.Tozinameran.!PriorinfectedBNT162b2
+
+    >
+      A real-world setting study (Finland) results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members. Real world data reported that only 7 out of 28,184 healthcare workers (UCSD and UCLA) who received both doses (mRNA vaccines) tested positive >2 weeks after 2nd dose.
+    -
+      Vaccines.Approved.Tozinameran.!Finland
+      Vaccines.Approved.Tozinameran.!RealworldHCWUsa
+
+
+    >
+      One study directly addresses the fertility and breastfeeding concerns by suggesting that BNT162B2 vaccination is unlikely to cause adverse effects on the developing trophoblast, via cross-reacting anti-syncytin-1 antibodies, or to the breastfed neonate, via mRNA breast milk transmission. A real world study (Ontario, Canada) demonstrated that 2 doses of BNT162b2 and mRNA-1273 vaccines are highly effective (>90%) against both symptomatic infection and severe outcomes. Effectiveness is lower (~50-70%) after only a single dose, particularly for older adults shortly after the 1st dose.
+    -
+      Vaccines.Approved.Tozinameran.!Fertilitybreastfeedingconcerns
+      Vaccines.Approved.Tozinameran.!CanadaVE
+
+
+    >
+      A systematic review and meta-analysis of randomized controlled trials study demonstrated that in comparison to standard of care [SOC] or placebo, Ivermectin (IVM) did not reduce all-cause mortality, length of stay, respiratory viral clearance, adverse events and serious adverse events in RCTs of patients with mild to moderate COVID-19. IVM is not a viable option to treat COVID-19 patients.
+    -
+      Treatment.Antivirals.EntryInhibitors.!Ivermectin
 
 
   public: May-24-2021

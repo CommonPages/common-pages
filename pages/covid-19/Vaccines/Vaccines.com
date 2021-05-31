@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days). Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose is approximately 33%, for two doses of BNT162b2 is approximately 88%.
+      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days). 2-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) resulted in a vaccine efficacy of 100% (7 days after dose 2), was safe and immunogenic. A real-world setting study (Finland) results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members. Real world data reported that only 7 out of 28,184 healthcare workers (UCSD and UCLA) who received both doses (mRNA vaccines) tested positive >2 weeks after 2nd dose suggesting that the efficacy of these vaccines is maintained outside the trial setting..
 
 
       >
@@ -56,6 +56,7 @@ subject module Vaccines
         !BNT162b1
         !BNT162b2
         !Phase3
+        !Adolescents
       - Real World Data
         !Israel
         !Israelday13
@@ -66,6 +67,7 @@ subject module Vaccines
         !IsraelvaccinationffectivnessCovid19outcomes
         !Israelbenefitvaccinationprogram
         !IVFcycle
+
       -
         !Scotland
       -
@@ -73,6 +75,7 @@ subject module Vaccines
       -
         !TexasRealworld
         !RealworldeffectivenessnursinghomeUS
+        !RealworldHCWUsa
       -
         !RealworldevidenceSpain
       -
@@ -83,6 +86,11 @@ subject module Vaccines
         !UKPostvaccineantispikeIgG
         !AdverseeffectsBNT162b2ChAdOx1
         !RealworldevidenceUK
+      -
+        !CanadaVE
+      -
+        !Finland
+
 
       - Single Dose
         !Singledosemetastudy
@@ -97,8 +105,10 @@ subject module Vaccines
         !PriorinfectionSingledoseBcells
         !PriorinfectionPfizerneutralizingactivity
         !UKPostvaccineantispikeIgG
+        !PriorinfectedBNT162b2
       - Delaying 2nd Dose
         !Delayed2nddosepfizer
+        !RealworldVEsingledose
       - Heterologous Prime Booster
         !HeterologousprimeboostChAdBNT
       - Older People
@@ -111,6 +121,7 @@ subject module Vaccines
         !Fertility
         !Pregnancynosafetysignals
         !IVFcycle
+        !Fertilitybreastfeedingconcerns
       - Children
         !ChildrenPfizer
       - Solid organ transplant recipients
@@ -137,11 +148,14 @@ subject module Vaccines
         !VaccineefficacyBNT162b2B16171
         !B1617B1618neutralizationPfizerModerna
         Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
+        Variants.B1617.!B16172neutralizingantibodies
+        mRNA-1273.!Vaccineescape
       - Immune Response
         !Tcellresponses
         !BCellresponse
         !MemoryBcells
         !UKPostvaccineantispikeIgG
+        !Humoralpolyspecificcellular
 
       - Cross Neutralizing
         Variants.B1351.!CrossNeutralizingactivity
@@ -768,6 +782,15 @@ subject module Vaccines
           'Anichini_et_al_04_14_2021.!a
           'Anichini_et_al_04_14_2021.!b
 
+
+      claim !PriorinfectedBNT162b2 = A single-dose (BNT162b2 mRNA vaccine) in prior-infected individuals administered up to more than one year after SARS-CoV-2 infection provides neutralizing titers exceeding two vaccine doses in previously uninfected individuals. A degree of cross-neutralization of three VOCs was observed in all participants already after a single dose in previously infected individuals.
+        -
+          'Gils_et_al_05_25_2021
+          'Gils_et_al_05_25_2021.!a
+          'Gils_et_al_05_25_2021.!b
+          'Gils_et_al_05_25_2021.!c
+          'Gils_et_al_05_25_2021.!d
+
       / Moderna and Pfizer Vaccine efficacy againt B.1.427/B.1.429 variant (CA)
       claim !NeutralizingtitersB1427B1429 = Plasma from vaccinated or convalescent individuals (two doses of Pfizer/BioNTech BNT162b2 or Moderna mRNA-1273) exhibited neutralizing titers, which were reduced 3-6 fold against the B.1.427/B.1.429 variant relative to wildtype pseudoviruses.
         -
@@ -880,11 +903,69 @@ subject module Vaccines
            'CDC_et_al_05_17_2021
            'CDC_et_al_05_17_2021.!a
 
+       / Adolescents
+       claim !Adolescents = A two-dose regimen of 30 μg of BNT162b2 administered 21 days apart to adolescents 12 to 15 years of age was safe and immunogenic, produced a greater immune response than in young adults, and resulted in an observed vaccine efficacy of 100% against Covid-19 from 7 days after dose 2.
+         -
+           'Frenck_et_al_05_27_2021
+           'Frenck_et_al_05_27_2021.!a
+           'Frenck_et_al_05_27_2021.!b
+
+
+       / Adaptive humoral and poly-specific cellular immune response
+       claim !Humoralpolyspecificcellular = BNT162b2 elicits an adaptive humoral and poly-specific cellular immune response against epitopes conserved in a broad range of variants at well tolerated doses.
+         -
+           'Sahin_et_al_05_27_2021
+           'Sahin_et_al_05_27_2021.!a
+           'Sahin_et_al_05_27_2021.!b
+           'Sahin_et_al_05_27_2021.!c
+           'Sahin_et_al_05_27_2021.!d
+           'Sahin_et_al_05_27_2021.!e
+
+
+       claim !Fertilitybreastfeedingconcerns = One study directly addresses the fertility and breastfeeding concerns fuelling vaccine hesitancy among reproductive-age women, by suggesting that BNT162B2 vaccination is unlikely to cause adverse effects on the developing trophoblast, via cross-reacting anti-syncytin-1 antibodies, or to the breastfed neonate, via mRNA breast milk transmission.
+         -
+           'Mattar_et_al_05_25_2021
+           'Mattar_et_al_05_25_2021.!a
+
+       claim !CanadaVE = A real world study (Ontario, Canada) demonstrated that two doses of BNT162b2 and mRNA-1273 vaccines are highly effective (>90%) against both symptomatic infection and severe outcomes. Effectiveness is lower (~50-70%) after only a single dose, particularly for older adults shortly after the first dose.
+         -
+           'Chung_et_al_05_28_2021
+           'Chung_et_al_05_28_2021.!a
+           'Chung_et_al_05_28_2021.!b
+           'Chung_et_al_05_28_2021.!c
+           'Chung_et_al_05_28_2021.!d
+           'Chung_et_al_05_28_2021.!e
+           'Chung_et_al_05_28_2021.!f
+
+
+       claim !RealworldVEsingledose = A real world study (Ontario, Canada) results showed that VE was consistently high across subgroups for fully vaccinated individuals, and also for older adults after longer intervals following receipt of a first dose. The analysis identified an effectiveness against symptomatic infection of 63% ≥49 days after only the first dose, in keeping with several other studies reporting one-dose effectiveness.
+         -
+           'Chung_et_al_05_28_2021
+           'Chung_et_al_05_28_2021.!c
+           'Chung_et_al_05_28_2021.!e
+           'Chung_et_al_05_28_2021.!g
+
+       claim !Finland = A real-world setting study (Finland) results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members.
+         -
+           'Salo_et_al_05_29_2021
+           'Salo_et_al_05_29_2021.!a
+
+       claim !RealworldHCWUsa = In a Correspondence letter, scientists reported that only 7 out of 28,184 healthcare workers (University of California, San Diego (UCSD) and the University of California, Los Angeles (UCLA) who received both doses (mRNA vaccines) tested positive >2 weeks after 2nd dose (0.0046%), suggesting that the efficacy of these vaccines is maintained outside the trial setting.
+         -
+           'Keehner_et_al_05_06_2021
+           'Keehner_et_al_05_06_2021.!a
+           'Keehner_et_al_05_06_2021.!b
+           'Keehner_et_al_05_06_2021.!c
+           'Keehner_et_al_05_06_2021.!d
+
+
+
+
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
     / Moderna
     subject mRNA-1273
-      head = Moderna first posted phase 3 interim results in November of 2020. The Phase 3 clinical trial will not complete until 2022, but has already reported favorable safety and 94% efficacy against symptomatic COVID-19. mRNA-1273-elicited neutralizing antibody activity against SARS-CoV-2 variants (B.1.351, B.1.1.7, P.1, B.1.429, and B.1.526) persisted six months after the second dose, albeit at reduced levels compared to Wuhan-Hu-1 (WA1) and D614G, with more than half of subjects maintaining neutralizing activity against B.1.351. Real world evidence has shown reduction in infection and asymptomatic infection. Single dose mount robust antibodies for previously infected individuals. Limited magnitude and breadth of neutralizing activity to the variants was found after a single dose at Day 29 underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants. Preliminary results from its Phase 2 study showed that a Single booster dose of 50 µg of mRNA-1273 or mRNA-1273.351 increased neutralizing titers against SARS-CoV-2 and two variants of concern (B.1.351, P.1) in previously vaccinated clinical trial participants. mRNA-1273.351 and mRNA-1273 booster doses were generally well tolerated.
+      head = Moderna first posted phase 3 interim results in November of 2020. The Phase 3 clinical trial will not complete until 2022, but has already reported favorable safety and 94% efficacy against symptomatic COVID-19. mRNA-1273-elicited neutralizing antibody activity against SARS-CoV-2 variants (B.1.351, B.1.1.7, P.1, B.1.429, and B.1.526) persisted six months after the second dose, albeit at reduced levels compared to Wuhan-Hu-1 (WA1) and D614G, with more than half of subjects maintaining neutralizing activity against B.1.351. Real world evidence has shown reduction in infection and asymptomatic infection. Single dose mount robust antibodies for previously infected individuals. Limited magnitude and breadth of neutralizing activity to the variants was found after a single dose at Day 29 underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants. Preliminary results from its Phase 2 study showed that a Single booster dose of 50 µg of mRNA-1273 or mRNA-1273.351 increased neutralizing titers against SARS-CoV-2 and two variants of concern (B.1.351, P.1) in previously vaccinated clinical trial participants. mRNA-1273.351 and mRNA-1273 booster doses were generally well tolerated. Moderna, Inc. announced that the Phase 2/3 (TeenCOVE) study in adolescents (12 to <18) has met its primary endpoint of non-inferior immunogenicity versus the Phase 3 study adult comparator group. No cases of COVID-19 observed after 2 doses, consistent with a vaccine efficacy of 100%. No significant safety concerns identified. A real-world setting study (Finland) results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members. Real world data reported that only 7 out of 28,184 healthcare workers (UCSD and UCLA) who received both doses (mRNA vaccines) tested positive >2 weeks after 2nd dose suggesting that the efficacy of these vaccines is maintained outside the trial setting.
 
 
 
@@ -921,9 +1002,13 @@ subject module Vaccines
         !Phase3COVEstudyupdate
         !Phase2
         !Modernaboosterdose
-      -
+        !TeenCOVEstudy
+      - Real World Data
         Tozinameran.!TexasRealworld
         Tozinameran.!RealworldeffectivenessnursinghomeUS
+        Tozinameran.!CanadaVE
+        Tozinameran.!Finland
+        Tozinameran.!RealworldHCWUsa
       - Single Dose
         Tozinameran.!Singledosemetastudy
       -
@@ -931,6 +1016,8 @@ subject module Vaccines
         Tozinameran.!PriorinfectionSingledoseBcells
       - Two-dose Regimen
         !2doseregimen
+      - Delaying 2nd Dose
+        Tozinameran.!RealworldVEsingledose
       - Old People
         !Olderpeople
         !Olderpeopledose
@@ -955,6 +1042,7 @@ subject module Vaccines
         Tozinameran.!VaccineefficacymRNAB16171
         !mRNA-1273Neutralizingantibody
         Tozinameran.!B1617B1618neutralizationPfizerModerna
+        !Vaccineescape
       - Immune Response
         Tozinameran.!Tcellresponses
         Tozinameran.!BCellresponse
@@ -1139,12 +1227,24 @@ subject module Vaccines
           'Pegu_et_al_05_16_2021.!e
           'Pegu_et_al_05_16_2021.!f
 
+      / Phase 2/3 (TeenCOVE) study
+      claim !TeenCOVEstudy = Moderna, Inc. announced that the Phase 2/3 (TeenCOVE) study of its COVID-19 vaccine (mRNA-1273) in adolescents (12 to <18) has met its primary endpoint of non-inferior immunogenicity versus the Phase 3 study adult comparator group. No cases of COVID-19 observed after two doses of vaccine using the primary case definition, consistent with a vaccine efficacy of 100%. Safety and tolerability generally consistent with Phase 3 COVE study in adults; no significant safety concerns identified.
+        -
+          'Moderna_et_al_05_25_2021
+          'Moderna_et_al_05_25_2021.!a
+          'Moderna_et_al_05_25_2021.!b
+          'Moderna_et_al_05_25_2021.!c
 
+      / mRNA Vaccines Efficacy againt B.1.1.7 or E484K-positive variants (i.e., B.1.351 and P.1)
+      claim !Vaccineescape = Our finding that receipt of 2 doses of mRNA vaccines was not associated with appreciable vaccine escape by lineage B.1.1.7 or E484K-positive variants (i.e., B.1.351 and P.1) is notable.
+      -
+        'Chung_et_al_05_28_2021
+        'Chung_et_al_05_28_2021.!f
 
 
     / Oxford–AstraZeneca
     subject AZD1222
-      head = Phase 3 interim primary efficacy analysis, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial. Very rare cases of blood clots with low blood platelets occurring within 2 weeks of vaccination have been observed. One study confirms that the overall risk of vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. A single dose of the ChAdOx1 nCoV-19 vaccine in previously infected with SARS-CoV-2 serves as an efficacious immune booster up to at least 11 months post infection and demonstrated a robust serological response with broad neutralizing capacity against SARS-CoV-2 wild type, and B.1.1.7, B.1.351, and P.1. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals. Real world data shows that short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. It decreases the risk of SARS-CoV-2 infection after 12 days and substantial protection after 3 weeks. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of is approximately 33%, and for two doses of ChAdOx1 is approximately 60%.
+      head = Phase 3 interim primary efficacy analysis, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial. Very rare cases of blood clots with low blood platelets occurring within 2 weeks of vaccination have been observed. One study confirms that the overall risk of vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. A single dose of the ChAdOx1 nCoV-19 vaccine in previously infected with SARS-CoV-2 serves as an efficacious immune booster up to at least 11 months post infection and demonstrated a robust serological response with broad neutralizing capacity against SARS-CoV-2 wild type, and B.1.1.7, B.1.351, and P.1. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals. Real world data shows that short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. It decreases the risk of SARS-CoV-2 infection after 12 days and substantial protection after 3 weeks. A population-based study (Norway) reported a higher prevalence of milder bleeding episodes following vaccination with adeno-vectored compared to mRNA vaccines indicating that the adenovirus-vectored vaccine may lead to mild bleeding episodes in a larger proportion of vaccinated individuals, and not only in rare cases with documented thrombosis and thrombocytopenia.
 
 
       >
@@ -1221,6 +1321,7 @@ subject module Vaccines
         !Covishieldneutralizing
       - Vaccine efficacy against B.1.617.2
         !PHEupdatevaccineeffectiveness
+        Variants.B1617.!B16172neutralizingantibodies
       - Immune Response
         Tozinameran.!UKPostvaccineantispikeIgG
       - Animal challenge
@@ -1380,12 +1481,11 @@ subject module Vaccines
           'Madhi_et_al_02_12_2021.!c
 
       / Thrombotic Thrombocytopenia (Blood Clots)
-      claim !ThromboticThrombocytopenia = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19 and Ad26.COV2.S vaccine (Johnson & Johnson/Janssen) suggesting a disorder that clinically resembles severe heparin-induced thrombocytopenia. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’ (VITT). Governments and regulatory authorities (EMA, NACI, JCVI) have reacted by restricting the use of the two vaccines in different subgroups of the population, based on a risk-benefit analysis. They all confirm overall benefit-risk remains positive.
-
+      claim !ThromboticThrombocytopenia = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19 and Ad26.COV2.S vaccine (Johnson & Johnson/Janssen) suggesting a disorder that clinically resembles severe heparin-induced thrombocytopenia. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’ (VITT). Governments and regulatory authorities (EMA, NACI, JCVI) have reacted by restricting the use of the two vaccines in different subgroups of the population, based on a risk-benefit analysis. They all confirm overall benefit-risk remains positive. A population-based study (Norway) reported a higher prevalence of milder bleeding episodes following vaccination with adeno-vectored compared to mRNA vaccines. Lab studies from Germany presented data that may explain these severe side effects- terming it “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). If right, vaccines could theoretically be modified to avoid it.
 
         / Oxford–AstraZeneca
         subject ChAdOx1nCoV-19
-          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19.  Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Governments and regulatory authorities (EMA, NACI, JCVI) have reacted by restricting the use of the two vaccines in different subgroups of the population, based on a risk-benefit analysis. They all confirm overall benefit-risk remains positive. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes. Low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2, however, they do not activate platelets and may have little relevance for the diagnosis of VITT.
+          head = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Governments and regulatory authorities (EMA, NACI, JCVI) have reacted by restricting the use of the two vaccines in different subgroups of the population, based on a risk-benefit analysis. They all confirm overall benefit-risk remains positive. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes. Low titer PF4/polyanion antibodies occur after vaccination with ChAdOx1 nCoV-19 and BNT162b2, however, they do not activate platelets and may have little relevance for the diagnosis of VITT. One study reported 3 patients with VITT who presented with ischaemic stroke.
 
 
           >
@@ -1443,9 +1543,14 @@ subject module Vaccines
             !JCVIMay7
 
           >
-            With several European countries having suspended the inoculation of the AstraZeneca vaccine out of suspicion that it causes deep vein thrombosis. In a letter, few scientists reasoned against the Interruption of the AstraZeneca Vaccine campaign (France and Italy), reporting the results of a risk–benefit analysis that showd excess deaths due to the interruption of the vaccination campaign injections largely overrun those due to thrombosis even in worst case scenarios of frequency and gravity of the vaccine side effects.
+            With several European countries having suspended the inoculation of the AstraZeneca vaccine out of suspicion that it causes deep vein thrombosis. In a letter, few scientists reasoned against the Interruption of the AstraZeneca Vaccine campaign (France and Italy), reporting the results of a risk–benefit analysis that showed excess deaths due to the interruption of the vaccination campaign injections largely overrun those due to thrombosis even in worst case scenarios of frequency and gravity of the vaccine side effects.
           -
             !Disputesuspension
+
+          >
+            One study reported three patients with VITT who presented with ischaemic strokei after receiving the ChAdOx1 nCoV-19 vaccine, suggesting in addition to venous thrombosis, the neurological spectrum of VITT can include arterial occlusion.
+          -
+            !Ischaemicstroke
 
 
           -
@@ -1629,6 +1734,7 @@ subject module Vaccines
           / Thrombotic Thrombocytopenia Reports
           claim !ThromboticThrombocytopeniareports = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes.
 
+
             -
               'Scully_et_al_04_16_2021
               'Scully_et_al_04_16_2021.!a
@@ -1716,6 +1822,14 @@ subject module Vaccines
                   'Douglas_et_al_04_16_2021
                   'Douglas_et_al_04_16_2021.!h
 
+          / Ischaemic stroke
+          claim !Ischaemicstroke = One study reported three patients with VITT who presented with ischaemic stroke after receiving the ChAdOx1 nCoV-19 vaccine; their observations suggest that, in addition to venous thrombosis, the neurological spectrum of VITT can include arterial occlusion.
+            -
+              'Al-Mayhani_et_al_05_25_2021
+              'Al-Mayhani_et_al_05_25_2021.!a
+              'Al-Mayhani_et_al_05_25_2021.!b
+              'Al-Mayhani_et_al_05_25_2021.!c
+              'Al-Mayhani_et_al_05_25_2021.!d
 
 
 
@@ -1790,6 +1904,8 @@ subject module Vaccines
               'EMA_et_al_04_20_2021.!d
               'EMA_et_al_04_20_2021.!e
               'EMA_et_al_04_20_2021.!f
+
+
 
         / Medical Evaluation for VITT
         claim !Medicalevaluation = As a precautionary measure, anyone who has the following symptoms from around 4 days to 4 weeks after vaccination is advised to seek prompt medical advice: symptoms of blood clots such as shortness of breath, chest pain, leg swelling, persistent abdominal pain, neurological symptoms such as severe and persistent headaches and blurred vision, problems speaking, weakness, drowsiness or seizures, tiny blood spots under the skin beyond the site of the injection.
@@ -1932,9 +2048,23 @@ subject module Vaccines
             'Taquet_et_al_04_15_2021.!d
             'Taquet_et_al_04_15_2021.!e
 
+        / Mild Bleeding
+        claim !Mildbleeding = A population-based study (Norway) reported a higher prevalence of milder bleeding episodes following vaccination with adeno-vectored compared to mRNA vaccines indicating that the adenovirus-vectored vaccine may lead to mild bleeding episodes in a larger proportion of vaccinated individuals, and not only in rare cases with documented thrombosis and thrombocytopenia.
+          -
+            'Trogstad_et_al_2021
+            'Trogstad_et_al_2021.!a
+            'Trogstad_et_al_2021.!b
 
+        >
+          Lab studies from Germany presented data that may explain these severe side effects (thromboembolic events) which have been attributed to adenoviral vaccines (AZ & J&J vaccines). They termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). If right, vaccines could theoretically be modified to avoid it.
+        -
+          !VIC19Msyndrome
 
-
+        / Vaccine-Induced Covid-19 Mimicry syndrome (VIC19M syndrome).
+        claim !VIC19Msyndrome = Lab studies from Germany presented data that may explain these severe side effects (thromboembolic events) which have been attributed to adenoviral vaccines (AZ & J&J vaccines). They termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). If right, vaccines could theoretically be modified to avoid it.
+          -
+            'Kowarz_et_al_05_26_2021
+            'Kowarz_et_al_05_26_2021.!a
 
 
         # / Anti-PF4 antibodies
@@ -2651,7 +2781,9 @@ subject module Vaccines
 
     / Bharat Biotech
     subject BBV152
-      head = Clinical trials for the Bharat Biotech vaccine started as early as July of 2020 and are currently going on in India. In Phase 1 & 2 trials, authors reported that the vaccine induced binding and neutralising antibody responses, showed tolerable safety outcomes and enhanced humoral and cell-mediated immune responses. In Phase 3 trial an interim vaccine efficacy of 81% has been reported. The vaccine has already been approved for use in India. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.
+      head = Clinical trials for the Bharat Biotech vaccine started as early as July of 2020 and are currently going on in India. In Phase 1 & 2 trials, authors reported that the vaccine induced binding and neutralising antibody responses, showed tolerable safety outcomes and enhanced humoral and cell-mediated immune responses. The 1st interim analysis result (Covaxin) released in March 2021 showed vaccine efficacy of 80.6%. The 2nd interim analysis result, released in April, showed that the efficacy of the vaccine was 100% and a reduction of hospitalization numbers was also noted. A report released in media said that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.
+
+      # In Phase 3 trial an interim vaccine efficacy of 81% has been reported. The vaccine has already been approved for use in India.
 
       >
         <table>
@@ -2677,13 +2809,13 @@ subject module Vaccines
         !AnimalStudies
         !Phase1
         !Phase2
+        !BharatBiotechPhase3
+        !Phase3media
+      -
+        !Intranasaltrial
       -  Vaccine Efficacy against Variants
         !UKvariant
         !2foldNeutralizingdropB1617
-      -
-        !Intranasaltrial
-      -
-        !BharatBiotechPhase3
 
       - See Also
         Ad5-nCOV.!IntranasalDelivery
@@ -2758,6 +2890,10 @@ subject module Vaccines
         'Yadav_et_al_04_23_2021
         'Yadav_et_al_04_23_2021.!a
         'Yadav_et_al_04_23_2021.!b
+
+      claim !Phase3media = A report released in media said that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease. Even though Bharat Biotech has not yet revealed any details about the final analysis, in April the company said that the safety and efficacy details will be available by June.
+      -
+        'Majumder_et_al_05_29_2021
 
     / ZF2001
     subject ZF2001
@@ -3019,6 +3155,8 @@ subject module Vaccines
       Approved.Tozinameran.!VaccineefficacyBNT162b2B16171
       Approved.Tozinameran.!B1617B1618neutralizationPfizerModerna
       Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
+      Variants.B1617.!B16172neutralizingantibodies
+      Approved.mRNA-1273.!Vaccineescape
 
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
@@ -3032,6 +3170,7 @@ subject module Vaccines
       Approved.Tozinameran.!VaccineefficacymRNAB16171
       Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
       Approved.Tozinameran.!B1617B1618neutralizationPfizerModerna
+      Approved.mRNA-1273.!Vaccineescape
     - Oxford
       Approved.AZD1222.!VariantEfficacy
       Approved.AZD1222.!SAVariant
@@ -3042,6 +3181,8 @@ subject module Vaccines
       Approved.AZD1222.!PreviouslyinfectedChAdOx1
       Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
       Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
+      Variants.B1617.!B16172neutralizingantibodies
+
     - Covaxin
       Approved.BBV152.!UKvariant
       Approved.BBV152.!2foldNeutralizingdropB1617
@@ -3106,9 +3247,11 @@ subject module Vaccines
 
     / Children
     subject Children
-      head = Pfizer reported that no symptomatic infections were found among children(12-15 years) who received the vaccine. Past studies have found no evidence of increase risk of autism or other neurodevelopmental disorders through vaccines in Children.
+      head = Pfizer reported that no symptomatic infections were found among children (12-15 years) who received the vaccine. A two-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) was safe and immunogenic, produced a greater immune response than in young adults, and resulted in a vaccine efficacy of 100% (7 days after dose 2). Moderna, Inc. announced that the Phase 2/3 (TeenCOVE) study in adolescents (12 to <18) has met its primary endpoint of non-inferior immunogenicity versus the Phase 3 study adult comparator group. No cases of COVID-19 observed after two doses of vaccine, consistent with a vaccine efficacy of 100%. No significant safety concerns identified. Past studies have found no evidence of increase risk of autism or other neurodevelopmental disorders through vaccines in Children.
       -
         Approved.Tozinameran.!ChildrenPfizer
+        Approved.Tozinameran.!Adolescents
+        Approved.mRNA-1273.!TeenCOVEstudy
       -
         !Autism
       claim !Autism = Studies have found no evidence of increase risk of autism or other neurodevelopmental disorders through MMR vaccines in Children.
@@ -3122,7 +3265,7 @@ subject module Vaccines
 
     / Pregnant Women
     subject PregnantWomen
-      head = Evidence have shown that vaccination does not harm fertility. In mRNA vaccines, robust and comparable IgG titers across pregnant, lactating, and non-pregnant controls, all of which were significantly higher than those observed in pregnant women with prior SARS-CoV-2-infection. Immune transfer to neonates occurred via placental and breastmilk.
+      head = Evidence have shown that vaccination does not harm fertility. In mRNA vaccines, robust and comparable IgG titers across pregnant, lactating, and non-pregnant controls, all of which were significantly higher than those observed in pregnant women with prior SARS-CoV-2-infection. Immune transfer to neonates occurred via placental and breastmilk. While one study directly addresses the fertility and breastfeeding concerns by suggesting that BNT162B2 vaccination is unlikely to cause adverse effects on the developing trophoblast, via cross-reacting anti-syncytin-1 antibodies, or to the breastfed neonate, via mRNA breast milk transmission.
 
       - Past Animal studies
         !ChAdOx1Pregnant
@@ -3133,6 +3276,7 @@ subject module Vaccines
         Approved.Tozinameran.!Fertility
         Approved.Tozinameran.!Pregnancynosafetysignals
         Approved.Tozinameran.!IVFcycle
+        Approved.Tozinameran.!Fertilitybreastfeedingconcerns
       - Moderna
         Approved.mRNA-1273.!PregnantWomen
         Approved.Tozinameran.!PregnantwomenIgG
@@ -3312,7 +3456,7 @@ subject module Vaccines
 
   / Effective Dosing Schedule
   dispute EffectiveDosing
-    head = As of January 2020, the United Kingdom has endorsed the delayed-second-dose approach, and the CDC has liberalized its guidance regarding the timing of the second dose for mRNA vaccines. JCVI and some scientists have proposed delaying the second dose in order to cover all priority groups, despite little data available. Others have strongly disagreed. Lab study of response to variants (B.1.351B.1.1.7, P.1, B.1.429, and B.1.526) in subjects from Moderna's phase 1 trial found limited magnitude and breadth of neutralizing activity after a single dose at Day 29 underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants.
+    head = As of January 2020, the United Kingdom has endorsed the delayed-second-dose approach, and the CDC has liberalized its guidance regarding the timing of the second dose for mRNA vaccines. JCVI and some scientists have proposed delaying the second dose in order to cover all priority groups, despite little data available. Others have strongly disagreed. Lab study of response to variants (B.1.351, B.1.1.7, P.1, B.1.429, and B.1.526) in subjects from Moderna's phase 1 trial found limited magnitude and breadth of neutralizing activity after a single dose at Day 29 underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants.
 
     >
       mRNA vaccines ({Approved.Tozinameran Pfizer} and {Approved.mRNA-1273 Moderna}) provide protection in clinical trials using a two-dose approach, separated by a three to four week gap- which is considered a standard approach for vaccination. Clinical trials for single-dose use of mRNA vaccines have not yet been conducted. The {Approved.AZD1222 Oxford AstraZeneca} vaccine has also been shown to provide protection using two-dose approach, separated by three months.
@@ -3320,9 +3464,13 @@ subject module Vaccines
       The limited availability of the two-dose mRNA vaccines has sparked an {!DelayedvsStandard ongoing debate} regarding delaying the second dose or following the standard regimen, to optimize the use of the currently available doses.
 
     > Single Dose Efficacy
-      Based on <strong>Pfizer</strong> vaccination data so far, a {Approved.Tozinameran.!Israelday13 single dose efficacy} 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However they mentioned that their study was not designed to assess the efficacy of a single-dose regimen. {Approved.Tozinameran.!Scotland National prospective cohort study in Scotland} comprising almost the entire Scottish population demonstrated vaccine efficacy of 85% for COVID-19 related hospitalisation. In a {Approved.Tozinameran.!UKPostvaccineantispikeIgG population-representative study (UK)} of individuals vaccinated (Pfizer-BioNTech or Oxford-AstraZeneca) - High rates of seroconversion and high quantitative antibody levels following one dose of vaccine after previous infection and in younger previously uninfected individuals potentially supports single dose or delayed second dose vaccination in these groups if vaccine supplies are limited.
+      Based on <strong>Pfizer</strong> vaccination data so far, a {Approved.Tozinameran.!Israelday13 single dose efficacy} 52% was observed, indicating early protection by the vaccine, starting as soon as 12 days after the first dose. However, they mentioned that their study was not designed to assess the efficacy of a single-dose regimen. {Approved.Tozinameran.!Scotland National prospective cohort study in Scotland} comprising almost the entire Scottish population demonstrated vaccine efficacy of 85% for COVID-19 related hospitalisation. In a {Approved.Tozinameran.!UKPostvaccineantispikeIgG population-representative study (UK)} of individuals vaccinated (Pfizer-BioNTech or Oxford-AstraZeneca) - High rates of seroconversion and high quantitative antibody levels following one dose of vaccine after previous infection and in younger previously uninfected individuals potentially supports single dose or delayed second dose vaccination in these groups if vaccine supplies are limited.
+
+      A single-dose (BNT162b2 mRNA vaccine) in {Approved.Tozinameran.!PriorinfectedBNT162b2 prior-infected individuals} administered up to more than one year after SARS-CoV-2 infection provides neutralizing titers exceeding two vaccine doses in previously uninfected individuals. A degree of cross-neutralization of these the VOCs was observed in all participants already after a single dose in previously infected individuals.
 
       Efficacy for <strong>Moderna</strong> [after one dose](https://www.fda.gov/media/144434/download) was reported to be 92.1% based on the documents submitted to FDA by Moderna Inc. However, these data do not provide sufficient information about longer term protection beyond 28 days after a single dose. One {Approved.Tozinameran.!Singledosemetastudy meta study} calculated that Pfizer dose 1 efficacy is likely to be near 82% and perhaps as high as 93% and Moderna vaccine dose 1 efficacy is likely to be between 88% and 94%. {Approved.Tozinameran.!PriorInfectionSingleDose In previously infected individuals}, Single dose mRNA vaccine mounted robust antibody and T-cell responses.
+
+      A {Approved.Tozinameran.!RealworldVEsingledose real world study (Ontario, Canada)} results showed that VE (BNT162b2 and mRNA-1273 vaccines) was consistently high across subgroups for fully vaccinated individuals, and also for older adults after longer intervals following receipt of a first dose. An effectiveness against symptomatic infection of 63% ≥49 days after only the first dose.
 
       Vaccine efficacy after a {Approved.AZD1222.!PooledAnalysis single standard dose} of the <strong>Oxford-AstraZeneca</strong> vaccine from day 22 to day 90 post vaccination was 76%. {Research.Feb2021.'Vasileiou_et_al_02_20_2020.!b National prospective cohort study in Scotland} showed Vaccine efficacy of 94% at 28-34 days post-vaccination. A single dose of ChAdOx1 nCoV-19 vaccine in {Approved.AZD1222.!PreviouslyinfectedChAdOx1 HCWs previously infected} with SARS-CoV-2 serves as an efficacious immune booster up to at least 11 months post infection.
 
@@ -3368,10 +3516,11 @@ subject module Vaccines
       !Casereports
 
 
-    claim !Casereports = Lab study of response to variants (B.1.351B.1.1.7, P.1, B.1.429, and B.1.526) in subjects from Moderna's phase 1 trial found limited magnitude and breadth of neutralizing activity after a single dose at Day 29 underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants. In one study, some infection-naive individuals generated both weak T-cell responses and low titres of neutralising antibodies, and might not persist for a 12-week delay until a second dose (Pfizer) is administered.
+    claim !Casereports = Lab study of response to variants (B.1.351, B.1.1.7, P.1, B.1.429, and B.1.526) in subjects from Moderna's phase 1 trial found limited magnitude and breadth of neutralizing activity after a single dose at Day 29 underscoring the importance of the full two-dose regimen of an mRNA vaccine for protection against SARS-CoV-2 variants. In one study, some infection-naive individuals generated both weak T-cell responses and low titres of neutralising antibodies, and might not persist for a 12-week delay until a second dose (Pfizer) is administered. A real world study (Ontario, Canada) demonstrated effectiveness is lower (~50-70%) after only a single dose, particularly for older adults shortly after the first dose.
       -
         Vaccines.Approved.mRNA-1273.!2doseregimen
         Vaccines.Approved.Tozinameran.!SingleDoseHumoralPfizer
+        Vaccines.Approved.Tozinameran.!CanadaVE
 
 
     / Delaying Second dose
