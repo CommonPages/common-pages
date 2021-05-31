@@ -11,13 +11,13 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_31, *May_24, *May_21, *May_19, *May_17, *May_10). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_31, *May_24 and *May_21). You can *contribute by sending corrections and responding to open questions.
 
 
   public: May-31-2021
   / May 31, 2021
   revision May_31
-    head = 2-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) resulted in a vaccine efficacy of 100% (7 days after dose 2), was safe and immunogenic, produced a greater immune response than in young adults. Moderna, Inc. announced that the Phase 2/3 (TeenCOVE) study in adolescents (12 to <18) has met its primary endpoint of non-inferior immunogenicity versus the Phase 3 study adult comparator group. No cases of COVID-19 observed after 2 doses, consistent with a vaccine efficacy of 100%. No significant safety concerns identified.
+    head = A 2-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) resulted in a vaccine efficacy of 100% (7 days after dose 2), was safe and immunogenic, and produced a greater immune response than in young adults. Moderna, Inc. announced that the Phase 2/3 (TeenCOVE) study in adolescents (12 to <18) has met its primary endpoint of non-inferior immunogenicity versus the Phase 3 study adult comparator group. No cases of COVID-19 observed after 2 doses, consistent with a vaccine efficacy of 100%. No significant safety concerns were identified.
     -
       Vaccines.Approved.Tozinameran.!Adolescents
       Vaccines.Approved.mRNA-1273.!TeenCOVEstudy
