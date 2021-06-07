@@ -60,12 +60,13 @@ subject module Virus
 
   / Entry and Replication
   subject Entry
-    head = SARS-CoV-2 enters the human body primarily through the nose and mouth. Entry to cells follows a pattern similar to SARS-CoV; the virus binds to the ACE2 receptor and the target cell's protease TMPRSS2 cuts open the virus' spike protein.
+    head = SARS-CoV-2 enters the human body primarily through the nose and mouth. Entry to cells follows a pattern similar to SARS-CoV; the virus binds to the ACE2 receptor and the target cell's protease TMPRSS2 cuts open the virus' spike protein. One study observations suggest that, once cells are infected with SARS-CoV-2, they can infect other cells in ways which are very difficult to inhibit with antibodies. Cell-to-cell spread of SARS-CoV-2 may prove to play a role in pathology and possibly persistence.
 
     -
       !RespiratoryTransmission
       !OcularTransmission
       !CellEntry
+      !Celltocellspread
       !Replication
       !OrganEntry
       !Temperature
@@ -102,6 +103,17 @@ subject module Virus
       -
         'Matsuyama_et_al_2020
         'Matsuyama_et_al_2020.!a
+
+
+    claim !Celltocellspread = One study observations suggest that, once cells are infected with SARS-CoV-2, they can infect other cells in ways which are very difficult to inhibit with antibodies. Cell-to-cell spread of SARS-CoV-2 may prove to play a role in pathology and possibly persistence.
+      -
+        'Jackson_et_al_06_01_2021
+        'Jackson_et_al_06_01_2021.!a
+        'Jackson_et_al_06_01_2021.!b
+        'Jackson_et_al_06_01_2021.!c
+        'Jackson_et_al_06_01_2021.!d
+        'Jackson_et_al_06_01_2021.!e
+        'Jackson_et_al_06_01_2021.!f
 
     claim !Replication = After the SARS-CoV-2 spike protein is cut, its virion releases RNA into the cell and forces the cell to produce and disseminate copies of the virus, which infect more cells.
       -

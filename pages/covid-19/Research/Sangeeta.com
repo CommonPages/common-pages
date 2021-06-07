@@ -11,42 +11,541 @@ feed Sangeeta
     / May, 2021 - JAMA Netw Open.
     quote !a =
 
-
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
+  ref 'Doremalen_et_al_06_03_2021
     head =
 
     - quotes
       !a
 
-    / May, 2021 - JAMA Netw Open.
+    / June, 2021 - JAMA Netw Open.
     quote !a =
 
   #
+
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
+  ref 'Doremalen_et_al_06_03_2021
     head =
 
     - quotes
       !a
 
-    / May, 2021 - JAMA Netw Open.
+    / June, 2021 - JAMA Netw Open.
     quote !a =
 
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
+  ref 'Doremalen_et_al_06_03_2021
     head =
 
     - quotes
       !a
 
-    / May, 2021 - JAMA Netw Open.
+    / June, 2021 - JAMA Netw Open.
     quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_06_03_2021
+    head =
+
+    - quotes
+      !a
+
+    / June, 2021 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+
+  // Evidence for lack of transmission by close contact and surface touch in a restaurant outbreak of COVID-19
+  doi: https://doi.org/10.1016/j.jinf.2021.05.030
+  ref 'Zhang_et_al_05_29_2021
+    head = We examined video data related to a restaurant associated COVID-19 outbreak in Guangzhou. We observed more than 40,000 surface touches and 13,000 episodes of close contacts in the restaurant during the entire lunch duration. These data allowed us to analyse infection risk via both the fomite and close contact routes.
+
+    > Background
+      Coronavirus disease 2019 (COVID-19) is primarily a respiratory disease that has become a global pandemic. Close contact plays an important role in infection spread, while fomite may also be a possible transmission route. Research during the COVID-19 pandemic has identified long-range airborne transmission as one of the important transmission routes although lack solid evidence.
+
+    > Methods
+      We examined video data related to a restaurant associated COVID-19 outbreak in Guangzhou. We observed more than 40,000 surface touches and 13,000 episodes of close contacts in the restaurant during the entire lunch duration. These data allowed us to analyse infection risk via both the fomite and close contact routes.
+
+    > Results
+      There is no significant correlation between the infection risk via both fomite and close contact routes among those who were not family members of the index case. We can thus rule out virus transmission via fomite contact and interpersonal close contact routes in the Guangzhou restaurant outbreak. The absence of a fomite route agrees with the COVID-19 literature.
+
+    > Conclusions
+      These results provide indirect evidence for the long-range airborne route dominating SARS-CoV-2 transmission in the restaurant. We note that the restaurant was poorly ventilated, allowing for increasing airborne SARS-CoV-2 concentration.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    # / May, 2021 - Journal of Infection
+    # quote !a = There is no significant correlation between the infection risk via both fomite and close contact routes among those who were not family members of the index case. We can thus rule out virus transmission via fomite contact and interpersonal close contact routes in the Guangzhou restaurant outbreak.
+
+    / May, 2021 - Journal of Infection
+    quote !a = There is no significant correlation between the infection risk via both fomite and close contact routes among those who were not family members of the index case. In addition, after the outbreak, staff from Guangdong CDC collected 6 samples from surface of T01 and outlets of the air conditioning, and found all samples to be negative. We deduce that five secondary infected diners at T02 and T03, that is, seated at tables that included no index cases, were infected via the long-range airborne route.
+
+    # / May, 2021 - Journal of Infection
+    # quote !a = These results provide indirect evidence for the long-range airborne route dominating SARS-CoV-2 transmission in the restaurant. We note that the restaurant was poorly ventilated, allowing for increasing airborne SARS-CoV-2 concentration.
+
+    / May, 2021 - Journal of Infection
+    quote !b = The results provide indirect evidence for the risk of indoor long-range airborne transmission of SARS-CoV-2 by ruling out other possible transmission routes, namely close contact (large droplets and short-range airborne) and fomites. Our evidence is based on video analysis of all activities during the time that one known index case and three possible index cases had lunch in a Guangzhou restaurant.
+
+    / May, 2021 - Journal of Infection
+    quote !c = In the present study, we had video images from surveillance cameras with which to analyze the close contact and surface touch behaviours of both diners and staff, second by second. With analysis of this information, we can rule out both close contact and fomite routes, thus strengthening the argument for the long-range airborne route of SARS-CoV-2 transmission.
+
+    / May, 2021 - Journal of Infection
+    quote !d = We note that the Guangzhou restaurant was poorly ventilated - the ventilation rate was only 0.75-1.04 L/s per person[16], which is much less than the Chinese (5 L/s per person) and ASHRAE (6-8 ACH per hour, 7.0-8.8 L/s per person in Guangzhou's restaurant) standard for restaurants. Low ventilation when there is an index patient results in the concentration of SARS-CoV-2 increasing over time. Thus, poor ventilation in the restaurant strengthens the case for the long-range airborne route dominating SARS-CoV-2 transmission in this restaurant.
+
+    # / May, 2021 - Journal of Infection
+    # quote !a = Our data shows that only 7 (out of 11,778) episodes of close contacts happened between diners from different tables. Therefore, cross infection risk via the close contact route between diners from different tables is very small. However, close contacts between diners and staff were frequent, and the infection risk for diners might have been greater if a staff person had been infected. Guangzhou had started the highest-emergency response to COVID-19 on 24 January, 2020, requiring staff in restaurants were required to wear a mask at all times indoors. However, the staff wore masks only 8.6% of the time.
+
+
+
+
+  #
+  // Complete protection by a single dose skin patch delivered SARS-CoV-2 spike vaccine
+  doi: https://doi.org/10.1101/2021.05.30.446357
+  ref 'McMillan_et_al_05_31_2021
+    head = We use the high-density microarray patch to deliver a SARS-CoV-2 spike subunit vaccine directly to the skin.
+
+
+    > Abstract
+      SARS-CoV-2 has infected over 160 million people and resulted in more than 3.3 million deaths, and we still face many challenges in the rollout of vaccines. Here, we use the high-density microarray patch to deliver a SARS-CoV-2 spike subunit vaccine directly to the skin. We show the vaccine, dry-coated on the patch is thermostable, and delivery of spike via HD-MAP induced greater cellular and antibody immune responses, with serum able to potently neutralize clinically relevant isolates including those from the B.1.1.7 and B.1.351 lineages. Finally, a single dose of HD-MAP-delivered spike provided complete protection from a lethal virus challenge, demonstrating that HD-MAP delivery of a SARS-CoV-2 vaccine is superior to traditional needle-and-syringe vaccination and has the potential to greatly impact the ongoing COVID-19 pandemic.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2021 - bioRxiv
+    quote !a = We show the vaccine, dry-coated on the patch is thermostable, and delivery of spike via HD-MAP induced greater cellular and antibody immune responses, with serum able to potently neutralize clinically relevant isolates including those from the B.1.1.7 and B.1.351 lineages.
+
+    / May, 2021 - bioRxiv
+    quote !b = A single dose of HD-MAP-delivered spike are stable, immunogenic,and provided complete protection from a lethal virus challenge, demonstrating that HD-MAP delivery of a SARS-CoV-2 vaccine is superior to traditional needle-and-syringe vaccination and has the potential to greatly impact the ongoing COVID-19 pandemic.
+
+    / May, 2021 - bioRxiv
+    quote !c = With the HD-MAP platform, dry-coated vaccine is delivered directly to the immune-rich epidermis and upper dermal layers of the skin, while simultaneously causing localized cell death and inflammation, both of which serve to enhance vaccine-induced immunity. This platform delivery system offers a number of other benefits, including ease of administration, and potentially self-administration or administration by individuals who are not trained health-care professionals, reduced cold chain dependence, no requirement for reconstitution and improved thermostability.
+
+    / May, 2021 - bioRxiv
+    quote !d = We showed that the dry-coated spike protein was thermostable (as measured by conformational epitope integrity), with stability observed for up to a month at 25 °C and a week at 40 °C. Should this measure of stability translate to biophysical stability, this represents a marked improvement over other SARS-CoV-2 vaccine candidates, where limited stability (2-24 hours) at room temperature is seen.
+
+
+
+  // SARS-CoV-2 cell-to-cell spread occurs rapidly and is insensitive to antibody neutralization
+  doi: https://doi.org/10.1101/2021.06.01.446516
+  ref 'Jackson_et_al_06_01_2021
+    head = We visualized infection using time-lapse microscopy of a human lung cell line and used live virus neutralization to determine the sensitivity of SARS-CoV-2 cell-to-cell spread to neutralizing antibodies.
+
+    > Abstract
+      Viruses increase the efficiency of close-range transmission between cells by manipulating cellular physiology and behavior, and SARS-CoV-2 uses cell fusion as one mechanism for cell-to-cell spread. Here we visualized infection using time-lapse microscopy of a human lung cell line and used live virus neutralization to determine the sensitivity of SARS-CoV-2 cell-to-cell spread to neutralizing antibodies. SARS-CoV-2 infection rapidly led to cell fusion, forming multinucleated cells with clustered nuclei which started to be detected at 6h post-infection. To compare sensitivity of cell-to-cell spread to neutralization, we infected either with cell-free virus or with single infected cells expressing on their surface the SARS-CoV-2 spike protein. We tested two variants of SARS-CoV-2: B.1.117 containing only the D614G substitution, and the escape variant B.1.351. We used the much smaller area of single infected cells relative to infection foci to exclude any input infected cells which did not lead to transmission. The monoclonal antibody and convalescent plasma we tested neutralized cell-free SARS-CoV-2, with the exception of B.1.351 virus, which was poorly neutralized with plasma from non-B.1.351 infections. In contrast, cell-to-cell spread of SARS-CoV-2 showed no sensitivity to monoclonal antibody or convalescent plasma neutralization. These observations suggest that, once cells are infected, SARS-CoV-2 may be more difficult to neutralize in cell types and anatomical compartments permissive for cell-to-cell spread.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / June, 2021 - bioRxiv
+    quote !a = The monoclonal antibody and convalescent plasma we tested neutralized cell-free SARS-CoV-2, with the exception of B.1.351 virus, which was poorly neutralized with plasma from non-B.1.351 infections. In contrast, cell-to-cell spread of SARS-CoV-2 showed no sensitivity to monoclonal antibody or convalescent plasma neutralization. These observations suggest that, once cells are infected, SARS-CoV-2 may be more difficult to neutralize in cell types and anatomical compartments permissive for cell-to-cell spread.
+
+    / June, 2021 - bioRxiv
+    quote !b = Given the rapid infection cycle of SARS-CoV-2, neutralization in natural infection very likely occurs after cells have been infected. If active infection is still present, neutralization may not be effective to the same degree in all infected cell types and anatomical compartments because of cell-to-cell spread of SARS-CoV-2.
+
+    / June, 2021 - bioRxiv
+    quote !c = Unlike natural infection, the antibodies elicited by a vaccine should be present before the exposure to the virus. A vaccine eliciting a strong neutralizing antibody response which lasts for months could potentially clear the cell-free infection before it infects cells or cells capable of cell-to-cell spread. If lower neutralization capacity is elicited by the vaccine, some cells could be infected, since any vaccine mediated T cell immunity would target infected cells, not the transmitted virus, and therefore some cellular infection would need to occur. Therefore, syncytia formation could potentially happen.
+
+    / June, 2021 - bioRxiv
+    quote !d = Both the earlier D614G variant and the B.1.351 variant showed similar insensitivity of cell-to-cell spread in D614G and B.1.351 elicited plasma, indicating that the insensitivity of cell-to-cell spread to neutralization is not specific to the infecting variant or the elicited neutralizing antibodies.
+
+    / June, 2021 - bioRxiv
+    quote !e = We have also verified previous observations about the drop in B.1.351 neutralization by non-B.1.351 elicited plasma in the H1299-ACE2 human lung cell system, as well as the cross-neutralization of D614G by B.1.351-elicited plasma. Interestingly, in these experiments, neutralization of B.1.351 by its matched plasma was weaker than neutralization of D614G by its matched plasma. Despite the overall weaker neutralization capacity, the B.1.351-elicited plasma could still effectively cross-neutralize, showing that cross-neutralization is not necessarily linked to absolute neutralization capacity.
+
+    / June, 2021 - bioRxiv
+    quote !f = Like with other viruses, cell-to-cell spread of SARS-CoV-2 may prove to play a role in pathology and possibly persistence. Future vaccine and therapeutic strategies should consider approaches to minimize this mode of transmission.
+
+
+
+  #
+  // Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Vaccination in Pregnancy
+  doi: https://doi.org/10.1097/AOG.0000000000004457
+  ref 'Shanes_et_al_05_11_2021
+    head = We report findings in 84 women who tested negative for SARS-CoV-2 infection who received a SARS-CoV-2 vaccine during pregnancy (delivering between January and April 2021) and 116 women in a control group (negative for SARS-CoV-2 infection, immunoglobulin G– and immunoglobulin M–negative, delivering between April 2020 and April 2021) who did not receive a vaccine from an ongoing coronavirus disease 2019 (COVID-19) cohort study.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / May, 2021 - Obstetrics & Gynecology
+    quote !a = In our cohort of vaccinated pregnant patients, there was no observed increase in the incidence of findings characteristic of SARS-CoV-2 infection in pregnancy and no evidence of vaccine-triggered breakdown in maternal immunologic tolerance of the fetus.
+
+    / May, 2021 - Obstetrics & Gynecology
+    quote !b = Women with vaccination were more likely to deliver vaginally. The first inoculation was 46±24 days before delivery for the 75 patients with known vaccination timing.
+
+    / May, 2021 - Obstetrics & Gynecology
+    quote !c = Vaccinated women showed robust antibody responses, whereas women in the control group were negative.
+
+    / May, 2021 - Obstetrics & Gynecology
+    quote !d = Placental examination in women with vaccination showed no increased incidence of decidual arteriopathy, fetal vascular malperfusion, low-grade chronic villitis, or chronic histiocytic intervillositis compared with women in the control group.
+
+    / May, 2021 - Obstetrics & Gynecology
+    quote !e = Incidence of high-grade chronic villitis was higher in the control group than in the vaccinated group.
+
+
+  #
+  // Safety, reactogenicity, and immunogenicity of homologous and heterologous prime-boost immunisation with ChAdOx1-nCoV19 and BNT162b2: a prospective cohort study
+  doi: https://doi.org/10.1101/2021.05.19.21257334
+  ref 'Hillus_et_al_06_02_2021
+    head = Unicenter study in a cohort of health care workers at a tertiary care center in Berlin, Germany. 340 health care workers immunised between 27 December 2020 and 21 May 2021 at Charité - Universitätsmedizin Berlin, Germany
+
+    > Objective
+      To assess reactogenicity and immunogenicity of heterologous prime-boost immunisations of ChAdOx1-nCoV19 (Vaxzevria, ChAdOx) followed by BNT162b2 (Comirnaty, BNT) compared to homologous BNT/BNT immunisation.
+
+    > Design
+      Prospective, observational cohort study.
+
+    > Setting
+      Unicenter study in a cohort of health care workers at a tertiary care center in Berlin, Germany.
+
+    > Participants
+      340 health care workers immunised between 27 December 2020 and 21 May 2021 at Charité - Universitätsmedizin Berlin, Germany
+
+    > Main outcome measures
+      The main outcomes were reactogenicity assessed on days one, three, five and seven post prime and boost vaccination, and immunogenicity measured by serum SARS-CoV-2 full spike-, spike S1-, and spike RBD-IgG, virus neutralisation capacity, anti-S1-IgG avidity, and T cell reactivity measured by Interferon gamma release assay at 3-4 weeks post prime and boost immunisation.
+
+    > Results
+      Heterologous ChAdOx/BNT booster vaccination was overall well-tolerated and reactogenicity was largely comparable to homologous BNT/BNT vaccination. Systemic reactions were most frequent after prime immunisation with ChAdOx (86%, 95CI: 79-91), and less frequent after homologous BNT/BNT (65%, 95CI: 56-72), or heterologous ChAdOx/BNT booster vaccination (48%, 95CI: 36-59). Serum antibody responses and T cell reactivity were strongly increased after both homologous and heterologous boost, and immunogenicity was overall robust, and comparable between both regimens in this cohort, with slightly increased S1-IgG avidity and T cell responses following heterologous booster immunisation.
+
+    > Conclusions
+      Evidence of rare thrombotic events associated with ChAdOx has led to recommendation of a heterologous booster with mRNA vaccines for certain age groups in several European countries, despite a lack of robust safety and immunogenicity data for this vaccine regimen. This interim analysis provides evidence that the currently recommended heterologous ChAdOx/BNT immunisation regimen with 10-12 week vaccine intervals is well tolerated and slightly more immunogenic compared to homologous BNT/BNT vaccination with three week vaccine intervals. Heterologous prime-boost immunisation for COVID-19 may be generally applicable to optimise logistics and improve immunogenicity and to mitigate potential intermittent supply shortages for individual vaccines.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - medRxiv
+    quote !a = This interim analysis provides evidence that the currently recommended heterologous ChAdOx/BNT immunisation regimen with 10-12 week vaccine intervals was overall well-tolerated and reactogenicity was largely comparable to homologous BNT/BNT vaccination.
+
+    / June, 2021 - medRxiv
+    quote !b = Systemic reactions were most frequent after prime immunisation with ChAdOx (86%), and less frequent after homologous BNT/BNT (65%), or heterologous ChAdOx/BNT booster vaccination (48%).
+
+    / June, 2021 - medRxiv
+    quote !c = Serum antibody responses and T cell reactivity were strongly increased after both homologous and heterologous boost, and immunogenicity was overall robust, and comparable between both regimens in this cohort, with slightly increased S1-IgG avidity and T cell responses following heterologous booster immunisation.
+
+
+
+  #
+  // Stopping the misinformation: BNT162b2 COVID-19 vaccine has no negative effect on women’s fertility
+  doi: https://doi.org/10.1101/2021.05.30.21258079
+  ref 'Safrai_et_al_06_01_2021
+    head = A retrospective single-center study examining  47 women’s IVF treatment parameters and pregnancies before and after their vaccination between February and May 2021.
+
+    > Objective
+      To investigate the possible impact of Pfizer-BioNTech’s mRNA BNT162b2 COVID19 vaccine on women’s fertility.
+
+    > Methods
+      A retrospective single-center study examining women’s IVF treatment parameters and pregnancies before and after their vaccination between February and May 2021. Each woman served as a self-control before and after vaccination. Additionally, in order to neutralize the effect of the sperm on fertilization, only Intracytoplasmic Sperm Injection (ICSI) patients who were currently being treated with an ICSI cycle and had an earlier ICSI cycle available were included in the study. The study outcomes compared between the PRE and POST vaccination groups and consisted of: the IVF cycle outcomes, including the number of oocytes retrieved; the number of matured oocytes; the fertilization rate; and the number and quality of embryos at day 3. Clinical pregnancy was based on the first hCG value reported if the data were available for both cycles.
+
+    > Results
+      A final total of 47 women were eligible for inclusion with a mean interval of 362 ±368 days between the two ovum pick ups. The characteristics of their ICSI cycles before and after the vaccination were similar for all the parameters. Additionally, the number and percentage of clinical pregnancies did not significantly differ between the PRE and POST vaccination groups (n=15).
+
+    > Conclusion
+      This study is the first to evaluate the impact of the BNT162b2 vaccine on women’s fertility. From our findings, the vaccine appears to have no impact on women’s fertility. This study is the first step in abolishing the misinformation derived from unreliable sources and reassuring patients in order to improve compliance and promote COVID-19 eradication.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / June, 2021 - medRxiv
+    quote !a = Our study is the first to assess the impact of the BNT162b2 COVID-19 vaccine on women’s fertility, and provides encouraging data showing that this vaccine likely does not impair women’s fertility.
+
+    / June, 2021 - medRxiv
+    quote !b = Specifically, no differences were found between the ICSI cycles that each patient underwent before and after vaccination. All the ICSI outcomes including: the number of oocytes retrieved, the number of matured oocytes and the percentage of fertilized oocytes were similar in the PRE and POST vaccination groups.
+
+    / June, 2021 - medRxiv
+    quote !c = We continued the follow up for a few more days and assessed the quantity and quality of cleavage embryos and found no changes.
+
+    / June, 2021 - medRxiv
+    quote !d = A subgroup from our sample showed that the pregnancy rate was also similar in the PRE and POST vaccination groups.
+
+    / June, 2021 - medRxiv
+    quote !e = These findings show that the BNT162b2 vaccine has no effect on IVF treatment parameters nor on the pregnancy rate.
+
+
+
+  #
+  // Genomic characterization and Epidemiology of an emerging SARS-CoV-2 variant in Delhi, India
+  doi: https://doi.org/10.1101/2021.06.02.21258076
+  ref 'Dhar_et_al_06_03_2021
+    head = We trace viral, host, and social factors contributing to the scale and exponent of the fourth wave, when compared to preceding waves, in an epidemiological context.
+
+    > Abstract
+      In April 2021, after successfully enduring three waves of the SARS-CoV2 pandemic in 2020, and having reached population seropositivity of about 50%, Delhi, the national capital of India was overwhelmed by the fourth wave. Here, we trace viral, host, and social factors contributing to the scale and exponent of the fourth wave, when compared to preceding waves, in an epidemiological context.  shows an early phase of the upsurge driven by the entry of the more transmissible B.1.1.7 variant of concern (VOC) into the region in January, with at least one B.1.1.7 super spreader event in February 2021, relatable to known mass gatherings over this period. This was followed by seeding of the B.1.617 VOC, which too is highly transmissible, with rapid expansion of B.1.617.2 sub-lineage outpacing all other lineages. This unprecedented growth of cases occurred in the background of high seropositivity, but with low median neutralizing antibody levels, in a serially sampled cohort. Vaccination breakthrough cases over this period were noted, disproportionately related to VOC in sequenced cases, but usually mild. We find that this surge of SARS-CoV2 infections in Delhi is best explained by the introduction of a new highly transmissible VOC, B.1.617.2, with likely immune-evasion properties; insufficient neutralizing immunity, despite high seropositivity; and social behavior that promoted transmission.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+
+
+    / June, 2021 - medRxiv
+    quote !a = We find that this surge of SARS-CoV2 infections in Delhi is best explained by the introduction of a new highly transmissible VOC, B.1.617.2, with likely immune-evasion properties; insufficient neutralizing immunity, despite high seropositivity; and social behavior that promoted transmission.
+
+    / June, 2021 - medRxiv
+    quote !b = Our data indicates B.1.617.2 shows high transmissibility and surges without any increase in CFR. We estimate the transmissibility to be as much as 50% greater than B.1.1.7.
+
+    / June, 2021 - medRxiv
+    quote !c = Viral load of B.1.617.2 appears to be higher than B.1.1.7 and based on data from India and UK, so does vaccination break-through rate.
+
+    / June, 2021 - medRxiv
+    quote !d = Vaccination breakthrough cases over this period were noted, disproportionately related to VOC in sequenced cases, but usually mild.
+
+    / June, 2021 - medRxiv
+    quote !e = While immune escape seems less for B.1.617.2 compared to B.1.351 or P.1.
+
+    / June, 2021 - medRxiv
+    quote !f = This unprecedented growth of cases occurred in the background of high seropositivity, but with low median neutralizing antibody levels, in a serially sampled cohort.
+
+    / June, 2021 - medRxiv
+    quote !g = We would re-emphasize that prior infections, high seropositivity and partial vaccination are insufficient impediments to its spread, as seen in Delhi, and strong public health response will be needed globally for its containment.
+
+    / June, 2021 - medRxiv
+    quote !h = Genomic surveillance data from Delhi and surrounding states shows an early phase of the upsurge driven by the entry of the more transmissible B.1.1.7 variant of concern (VOC) into the region in January, with at least one B.1.1.7 super spreader event in February 2021, relatable to known mass gatherings over this period. This was followed by seeding of the B.1.617 VOC, which too is highly transmissible, with rapid expansion of B.1.617.2 sub-lineage outpacing all other lineages.
+
+
+
+
+  #
+  // Failure to seroconvert after two doses of BNT162b2 SARS-CoV-2 vaccine in a patient with uncontrolled HIV
+  doi: https://doi.org/10.1016/S2352-3018(21)00099-0
+  ref 'Touizer_et_al_06_2021
+    head = We present a case of one individual with uncontrolled HIV replication who did not respond to two doses of the BNT162b2 SARS-CoV-2 vaccine. The index patient had no history of SARS-CoV-2 infection or AIDS-defining conditions and had already received two doses of BNT162b2 24 days apart.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - The Lancet HIV
+    quote !a = An individual with profound HIV-related immune dysfunction did not seroconvert to a SARS-CoV-2 vaccine.
+
+    / June, 2021 - The Lancet HIV
+    quote !b = Post-vaccine samples from the index patient showed no IgG reactivity against the S1 subunit of the spike protein. By contrast, an HIV-negative, SARS-CoV-2-naive participant had an S1-specific IgG titre of 43·4 μg/mL 44 days after the second dose of BNT162b2.
+
+    / June, 2021 - The Lancet HIV
+    quote !c = No SARS-CoV-2-specific neutralisation was observed at either timepoint for the index patient. By contrast, the HIV-negative, SARS-CoV-2-naive vaccine recipient had a neutralisation titre of 1/656 after the second dose.
+
+
+
+  #
+  // Nasal delivery of an IgM offers broad protection from SARS-CoV-2 variants
+  doi: https://doi.org/10.1038/s41586-021-03673-2
+  ref 'Ku_et_al_06_03_2021
+    head = We engineered an immunoglobulin M (IgM) neutralizing antibody (IgM-14) to overcome the resistance encountered by IgG-based therapeutics.
+
+    > Abstract
+      Resistance represents a major challenge for antibody-based therapy for coronavirus disease 2019 (COVID-19)1–4. Here we engineered an immunoglobulin M (IgM) neutralizing antibody (IgM-14) to overcome the resistance encountered by IgG-based therapeutics. IgM-14 is >230-fold more potent than its parental IgG-14 in neutralizing the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). IgM-14 potently neutralizes the resistant virus raised by its corresponding IgG-14, the newly emerged United Kingdom B.1.1.7, Brazilian P.1, and South African B.1.351 variants of concern (VOCs), and 21 other receptor-binding domain (RBD) mutants, many of which are resistant to the IgGs that have been authorized for emergency use. Although engineering IgG into IgM enhances antibody potency in general, selection of an optimal epitope is critical for identifying the most effective IgM that can overcome resistance. One single intranasal (IN) dose of 0.044 and 0.4 mg/kg IgM-14 confers prophylactic and therapeutic efficacy against SARS-CoV-2 in mice, respectively. IgM-14, but not IgG-14, also confers potent therapeutic protection against the P.1 and B.1.351 variants. IgM-14 exhibits desirable IN pharmacokinetics and safety in rodents. Our results demonstrate that IN administration of an engineered IgM can improve efficacy, reduce resistance, and simplify the prophylactic and therapeutic treatment of COVID-19.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / June, 2021 - Nature
+    quote !a = IgM-14 is >230-fold more potent than its parental IgG-14 in neutralizing SARS-CoV-2. IgM-14 potently neutralizes the resistant virus raised by its corresponding IgG-14, the newly emerged United Kingdom B.1.1.7, Brazilian P.1, and South African B.1.351 variants of concern (VOCs), and 21 other receptor-binding domain (RBD) mutants, many of which are resistant to the IgGs that have been authorized for emergency use.
+
+    / June, 2021 - Nature
+    quote !b = Although engineering IgG into IgM enhances antibody potency in general, selection of an optimal epitope is critical for identifying the most effective IgM that can overcome resistance. One single intranasal (IN) dose of 0.044 and 0.4 mg/kg IgM-14 confers prophylactic and therapeutic efficacy against SARS-CoV-2 in mice, respectively.
+
+    / June, 2021 - Nature
+    quote !c = IgM-14, but not IgG-14, also confers potent therapeutic protection against the P.1 and B.1.351 variants.
+
+    / June, 2021 - Nature
+    quote !d = IgM-14 exhibits desirable IN pharmacokinetics and safety in rodents.
+
+    / June, 2021 - Nature
+    quote !e = Our results demonstrate that IN administration of an engineered IgM can improve efficacy, reduce resistance, and simplify the prophylactic and therapeutic treatment of COVID-19.
+
+
+
+
+  #
+  // Neutralising antibody activity against SARS-CoV-2 VOCs B.1.617.2 and B.1.351 by BNT162b2 vaccination
+  doi: https://doi.org/10.1016/S0140-6736(21)01290-3
+  ref 'Wall_et_al_06_03_2021
+    head = Using a high-throughput live-virus SARS-CoV-2 neutralisation assay, we determined NAb titres (NAbTs) in 250 participants (median age 42 years) after either one dose or two doses of BNT162b2 (Pfizer–BioNTech) against five SARS-CoV-2 strains: Wild-type (original spike sequence); D614G; and VOCs B.1.617.2, B.1.351, and B.1.1.7.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / June, 2021 - The Lancet
+    quote !a = NAbTs were 5·8-fold reduced against B.1.617.2 relative to Wild-type, significantly more reduced than against B.1.1.7 (2·6-fold vs Wild-type), and on a similar order to the reduction observed against B.1.351 (4·9-fold vs Wild-type).
+
+    / June, 2021 - The Lancet
+    quote !b = We found that neutralisation of VOCs was markedly different after only one dose of BNT162b2: although 177 (95%) of 186 participants tested positive for anti-spike antibodies by ELISA and mounted a detectable NAb response against Wild-type and D614G, median NAbTs against all VOCs were below the quantitative limit of detection.
+
+    / June, 2021 - The Lancet
+    quote !c = In the case of single-dose recipients, our data show that NAbTs are significantly lower against B.1.617.2 and B.1.351 VOCs relative to B.1.1.7, implying that although a single dose might still afford considerably more protection than no vaccination, single-dose recipients are likely to be less protected against these SARS-CoV-2 variants. These data therefore suggest that the benefits of delaying the second dose, in terms of wider population coverage and increased individual NAbTs after the second dose, must now be weighed against decreased efficacy in the short-term, in the context of the spread of B.1.617.2.
+
+    / June, 2021 - The Lancet
+    quote !d = Across all variants, increased age significantly correlated with reduced NAbT, whereas no correlation was observed for sex or body-mass index.
+
+    # / June, 2021 - The Lancet
+    # quote !a = In the case of two BNT162b2 doses, our cohort of generally healthy, relatively young, recently vaccinated, and mostly single-ethnicity individuals presents a reasonable best-case scenario for NAb activity against SARS-CoV-2 variants. Indeed, regardless of the absolute vaccine efficacy requirements, peak NAbTs are significantly reduced against VOCs B.1.617.2 and B.1.351 compared with NAbTs against earlier variants, and consequently, vaccine efficacy on an individual or sub-population level will become more sensitive to reductions in NAbTs occurring as a result of factors aside from virus strain (appendix p 5), providing a basis to understand observed vaccine efficacy failure in other combinations of vaccine and target population.6
+
+    # / June, 2021 - The Lancet
+    # quote !e = Further booster immunisations of JCVI Priority Groups in the UK and similar groups in other counties, as well as others with lower vaccine-induced NAbTs than the cohort of BNT162b2 recipients studied here (ideally with modified vaccines that induce NAbs that broadly neutralise emerging VOCs) are more likely to be required to maintain the highest levels of NAbs in regions where B.1.617.2 or other equally NAb-resistant strains become prevalent.
+
+
+
+
+  #
+  // Antibody Response after Second-dose of ChAdOx1-nCOV (CovishieldTM) and BBV-152 (CovaxinTM) among Health Care Workers in India: Final Results of Cross-sectional Coronavirus Vaccine-induced Antibody Titre (COVAT) study
+  doi: https://doi.org/10.1101/2021.06.02.21258242
+  ref 'Singh_et_al_06_04_2021
+    head = A Pan-India, Cross-sectional, Coronavirus Vaccine-induced Antibody Titre (COVAT) study was conducted that measured SARS-CoV-2 anti-spike binding antibody quantitatively, 21 days or more after the first and second dose of two vaccines in both severe acute respiratory syndrome (SARS-CoV-2) naive and recovered HCW.
+
+    > Background
+      We assessed the humoral immune response after the completion of two doses of both ChAdOx1-nCOV (CovishieldTM) and BBV-152 (CovaxinTM) vaccines in Indian health care workers (HCW).
+
+    > Methods
+      A Pan-India, Cross-sectional, Coronavirus Vaccine-induced Antibody Titre (COVAT) study was conducted that measured SARS-CoV-2 anti-spike binding antibody quantitatively, 21 days or more after the first and second dose of two vaccines in both severe acute respiratory syndrome (SARS-CoV-2) naive and recovered HCW. Primary aim was to analyze antibody response (seropositivity rate and median [inter-quartile range, IQR] antibody titre) following each dose of both vaccines and its correlation to age, sex, blood group, body mass index (BMI) and comorbidities. Here we report the final results of anti-spike antibody response after the two completed doses.
+
+    > Results
+      Among the 515 HCW (305 Male, 210 Female), 95.0% showed seropositivity after two doses of both vaccines. Of the 425 Covishield and 90 Covaxin recipients, 98.1% and 80.0% respectively, showed seropositivity. However, both seropositivity rate and median (IQR) rise in anti-spike antibody was significantly higher in Covishield vs. Covaxin recipient (98.1 vs. 80.0%; 127.0 vs. 53 AU/mL; both p<0.001). This difference persisted in 457 SARS-CoV-2 naive cohorts and propensity-matched (age, sex and BMI) analysis of 116 cohorts. While no difference was observed in relation to sex, BMI, blood group and any comorbidities; people with age >60 years or those with type 2 diabetes had a significantly lower seropositivity rates. Both vaccine recipients had similar solicited mild to moderate adverse events and none had severe or unsolicited side effects. In SARS-CoV-2 naive cohorts, sex, presence of comorbidities, and vaccine type were independent predictors of antibody positivity rate in multiple logistic regression analysis.
+
+    > Conclusions
+      Both vaccines elicited good immune response after two doses, although seropositivity rates and median anti-spike antibody titre was significantly higher in Covishield compared to Covaxin arm.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    # / June, 2021 - medRxiv
+    # quote !a = Both vaccines elicited good immune response after two doses, although seropositivity rates and median anti-spike antibody titre was significantly higher in Covishield compared to Covaxin arm.
+
+    / June, 2021 - medRxiv
+    quote !a = Combined results of both vaccines showed 95% seropositivity to anti-spike antibody, 21-36 days after the second completed dose.
+
+    # / June, 2021 - medRxiv
+    # quote !a = Seropositivity rates were higher in Covishield recipients compared to Covaxin in the propensity-matched analysis of SARS-CoV-2 naïve cohorts.
+
+
+    / June, 2021 - medRxiv
+    quote !b = Seropositivity rates after two complete doses was 97.8% and 79.3% with Covishield and Covaxin, respectively in SARSCoV-2 naïve individuals; 100% of cohorts with a past history of SARS-CoV-2 were seropositive after the two doses of both vaccines.
+
+    / June, 2021 - medRxiv
+    quote !c = Covaxin gained a significant increase in both seropositivity and antibody titre only after the two completed doses.
+
+    / June, 2021 - medRxiv
+    quote !d = Covishield showed a good seropositivity rate and a 4-fold rise in median antibody titre even after a single dose
+
+    / June, 2021 - medRxiv
+    quote !e = One dose of either vaccine yielded a very high seropositivity and anti-spike antibody titre in SARS-CoV-2 recovered individuals.
+
+    / June, 2021 - medRxiv
+    quote !e = Any adverse side effects post-vaccination was similar in Covishield and Covaxin recipient and were mild to moderate in nature.
+
+
+
+  #
+  // The monoclonal antibody combination REGEN-COV protects against SARS-CoV-2 mutational escape in preclinical and human studies
+  doi: https://doi.org/10.1016/j.cell.2021.06.002
+  ref 'Copin_et_al_06_05_2021
+    head = We investigated the sequence diversity of the spike protein and monitored emergence of virus variants in SARS-COV-2 isolates found in COVID-19 patients treated with the two-antibody combination REGEN-COV, as well as in preclinical in vitro studies using single, dual, or triple antibody combinations, and in hamster in vivo studies using REGEN-COV or single monoclonal antibody treatments.
+
+    > Summary
+      Monoclonal antibodies against SARS-CoV-2 are a clinically validated therapeutic option against COVID-19. As rapidly emerging virus mutants are becoming the next major concern in the fight against the global pandemic, it is imperative that these therapeutic treatments provide coverage against circulating variants and do not contribute to development of treatment-induced emergent resistance. To this end, we investigated the sequence diversity of the spike protein and monitored emergence of virus variants in SARS-COV-2 isolates found in COVID-19 patients treated with the two-antibody combination REGEN-COV, as well as in preclinical in vitro studies using single, dual, or triple antibody combinations, and in hamster in vivo studies using REGEN-COV or single monoclonal antibody treatments. Our study demonstrates that the combination of non-competing antibodies in REGEN-COV provides protection against all current SARS-CoV-2 variants of concern/interest and also protects against emergence of new variants and their potential seeding into the population in a clinical setting.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / June, 2021 - Cell
+    quote !a = REGEN-COV retains neutralization potency against current variants of concern/interest.
+
+    / June, 2021 - Cell
+    quote !b = In vitro escape studies can predict emergence of viral variants in animals and humans.
+
+    / June, 2021 - Cell
+    quote !c = 3 noncompeting mAb in combination reduce variant risk compared to a combination of 2.
+
+    / June, 2021 - Cell
+    quote !d = Treatment with REGEN-COV in humans does not lead to emergence of viral variants.
+
+
+
+  #
+  // Thromboembolic Events in the South African Ad26.COV2.S Vaccine Study
+  doi: https://doi.org/10.1056/NEJMc2107920
+  ref 'Takuva_et_al_06_02_2021
+    head = We report interim safety data from the first 288,368 participants who were vaccinated with Ad26.COV2.S in the Sisonke study — an open label, single-group, phase 3b implementation study to monitor the effectiveness of the single-dose Ad26.COV2.S vaccine among 500,000 health care workers in South Africa.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !a = The rate of adverse events with vaccination is low, and thromboembolic events have occurred mainly in persons with risk factors for thromboembolism.
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !b = Enrollment in the study began on February 17, 2021, and as of April 12, 2021, a total of 288,368 health care workers had received the Ad26.COV2.S vaccine, among whom 5898 (2%) reported adverse events. The majority (81%) of adverse events reported were expected mild-to-moderate reactogenicity events.
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !c = Fifty health care workers had adverse events that met the criteria of being serious or of special interest
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !d = Among these 50 workers, 12 (24%) had coronavirus disease 2019 (Covid-19), which occurred within 28 days after vaccination; 12 (24%) had allergic reactions, of which one met the criteria for anaphylaxis; and 6 (12%) had neurologic conditions, including a 40-year-old man who received a diagnosis of Guillain–Barré syndrome and a 53-year-old woman with Bell’s palsy.
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !e = Five arterial, venous thrombotic, or embolic events were reported in 5 health care workers with known risk factors for thromboembolism (1.7 events per 100,000 participants). One case of pulmonary embolus occurred 23 days after vaccination;64-year-old woman who received a diagnosis of cor pulmonale 17 days after vaccination; this case had features consistent with chronic and recurrent pulmonary emboli. Two cerebrovascular accidents (infarcts on imaging) were reported. a diagnosis of retinal vein occlusion and macular hemorrhage.
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !f = To date, no case of vaccine-induced immune thrombotic thrombocytopenia has been documented.
+
+
+
+
 
   #
   // SARS-CoV-2 Infection after Vaccination in Health Care Workers in California
@@ -76,7 +575,7 @@ feed Sangeeta
 
   #
   // Bharat Biotech’s Covaxin Shows 78 Percent Efficacy In Phase 3 Analysis
-  doi: https://in.news.yahoo.com/bharat-biotech-covaxin-sh
+  doi: https://in.news.yahoo.com/bharat-biotech-covaxin-shows-78-120212279.html
   ref 'Majumder_et_al_05_29_2021
     head = A report released in media said that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease.
 
@@ -613,7 +1112,7 @@ feed Sangeeta
       Overall, 2260 adolescents 12 to 15 years of age received injections; 1131 received BNT162b2, and 1129 received placebo. As has been found in other age groups, BNT162b2 had a favorable safety and side-effect profile, with mainly transient mild-to-moderate reactogenicity (predominantly injection-site pain [in 79 to 86% of participants], fatigue [in 60 to 66%], and headache [in 55 to 65%]); there were no vaccine-related serious adverse events and few overall severe adverse events. The geometric mean ratio of SARS-CoV-2 50% neutralizing titers after dose 2 in 12-to-15-year-old participants relative to 16-to-25-year-old participants was 1.76 (95% confidence interval [CI], 1.47 to 2.10), which met the noninferiority criterion of a lower boundary of the two-sided 95% confidence interval greater than 0.67 and indicated a greater response in the 12-to-15-year-old cohort. Among participants without evidence of previous SARS-CoV-2 infection, no Covid-19 cases with an onset of 7 or more days after dose 2 were noted among BNT162b2 recipients, and 16 cases occurred among placebo recipients. The observed vaccine efficacy was 100% (95% CI, 75.3 to 100).
 
     > Conclusions
-      The BNT162b2 vaccine in 12-to-15-year-old recipients had a favorable safety profile, produced a greater immune response than in young adults, and was highly effective against Covid-19. (Funded by BioNTech and Pfizer; C4591001 ClinicalTrials.gov number, NCT04368728. opens in new tab.)
+      The BNT162b2 vaccine in 12-to-15-year-old recipients had a favorable safety profile, produced a greater immune response than in young adults, and was highly effective against Covid-19. (Funded by BioNTech and Pfizer; C4591001 ClinicalTrials.gov number, NCT04368728.
 
     - quotes
       !a
@@ -709,6 +1208,7 @@ feed Sangeeta
       !d
       !e
       !f
+      !g
 
 
     / May, 2021 - Public Health England
@@ -735,7 +1235,7 @@ feed Sangeeta
 
 
     / May, 2021 - Public Health England
-    quote !a = We found high levels of vaccine effectiveness against symptomatic disease after two doses. These estimates were only modestly lower than vaccine effectiveness against the B.1.1.7 variant. It is likely that vaccine effectiveness against more severe disease outcomes will be greater. Our findings would support maximising vaccine uptake with two doses among vulnerable groups in the context of circulation of B.1.617.2.
+    quote !g = We found high levels of vaccine effectiveness against symptomatic disease after two doses. These estimates were only modestly lower than vaccine effectiveness against the B.1.1.7 variant. It is likely that vaccine effectiveness against more severe disease outcomes will be greater. Our findings would support maximising vaccine uptake with two doses among vulnerable groups in the context of circulation of B.1.617.2.
 
   #
 
@@ -746,6 +1246,7 @@ feed Sangeeta
 
     > Background
       REGEN-COV antibody cocktail (casirivimab with imdevimab) rapidly reduced viral load and decreased medically-attended visits in the phase 1/2 portion of this trial; REGEN-COV, retains activity in vitro against emerging SARS-CoV-2 variants of concern.
+
     > Methods
       The phase 3 portion of this adaptive, randomized, master protocol, included 4,057 Covid-19 outpatients with one or more risk factors for severe disease. Patients were randomized to a single treatment of intravenous placebo, or various doses of REGEN-COV, and followed for 28 days. The prespecified hierarchical analysis first compared REGEN-COV 2400mg dose vs concurrent placebo, then compared the 1200mg dose vs concurrent placebo, for endpoints assessing risk of hospitalization or death, and time to symptom resolution. Safety was evaluated in all treated patients.
 
@@ -825,28 +1326,18 @@ feed Sangeeta
     / May, 2021 - Trends in Microbiology
     quote !a = Super spreading is the main driver of transmission for the majority of pandemic coronaviruses cases.
 
-    / May, 2021 - Trends in Microbiology
-    quote !a = The virus genetic sequence, severity of disease, and host conditions like age, sex, and co-morbidities are not linked to super spreading.
-
-    / May, 2021 - Trends in Microbiology
-    quote !a = The donor modification of the virion or the donor microbiome may play a potential role in super spreading.
-
-    / May, 2021 - Trends in Microbiology
-    quote !a = Physical constraints and environmental factors may also contribute to super spreading phenomena.
-
-
-    / May, 2021 - Trends in Microbiology
-    quote !a =
+    # / May, 2021 - Trends in Microbiology
+    # quote !a = The virus genetic sequence, severity of disease, and host conditions like age, sex, and co-morbidities are not linked to super spreading.
+    #
+    # / May, 2021 - Trends in Microbiology
+    # quote !a = The donor modification of the virion or the donor microbiome may play a potential role in super spreading.
+    #
+    # / May, 2021 - Trends in Microbiology
+    # quote !a = Physical constraints and environmental factors may also contribute to super spreading phenomena.
 
 
-    / May, 2021 - Trends in Microbiology
-    quote !a =
-
-    / May, 2021 - Trends in Microbiology
-    quote !a =
 
   #
-
   // Efficacy of the NVX-CoV2373 Covid-19 Vaccine Against the B.1.1.7 Variant
   doi: https://doi.org/10.1101/2021.05.13.21256639
   ref 'Heath_et_al_05_14_2021

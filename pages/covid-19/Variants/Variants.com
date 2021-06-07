@@ -1048,6 +1048,7 @@ subject module Variants
       Vaccines.Candidates.NVX-CoV2373.!Vaccineefficacy2btrial
       Vaccines.Candidates.NVX-CoV2373.!NVX-CoV2373efficacyB1351
       Vaccines.Approved.mRNA-1273.!Vaccineescape
+      Vaccines.Approved.Tozinameran.!PfizerdeltaNAbTs
 
     - Pre Existing Immunity
       !PreexistingImmunity
@@ -1059,6 +1060,7 @@ subject module Variants
 
     - Treatment
       !Treatment
+      Treatment.IgM14
     - Mutation
       !Mutation
       !E484K
@@ -1342,6 +1344,8 @@ subject module Variants
       Vaccines.Approved.mRNA-1273.!Vaccineescape
     - T Cell Response
       Vaccines.Approved.Tozinameran.!Tcellresponses
+    - Treatment
+      Treatment.IgM14
 
     / Mutations
     claim !Mutation = The new P.1 lineage carries 17 unique amino acid changes, 3 deletions, and 4 synonymous mutations, and one 4nt insertion. It also includes everal mutations of known biological importance such as E484K, K417T, and N501Y
@@ -1729,12 +1733,16 @@ subject module Variants
 
   / B.1.617 (Identified in India)
   subject B1617
-    head = The SARS-CoV-2 B.1.617 lineage emerged in October 2020 in India. It has since then become dominant in some indian regions and further spread to many countries. The lineage includes three main subtypes (B1.617.1, B.1617.2 and B.1.617.3), which harbour diverse Spike mutations in the N-terminal domain (NTD) and the receptor binding domain (RBD) which may increase their immune evasion potential. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is believed to spread faster than the other versions- is at least as transmissible as B.1.1.7 (the Kent variant).
+    head = The SARS-CoV-2 B.1.617 lineage emerged in October 2020 in India. It has since then become dominant in some indian regions and further spread to many countries. The lineage includes three main subtypes (B1.617.1, B.1617.2 and B.1.617.3), which harbour diverse Spike mutations in the N-terminal domain (NTD) and the receptor binding domain (RBD) which may increase their immune evasion potential. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is believed to spread faster than the other versions- is at least as transmissible as B.1.1.7 (the Kent variant). Genomic surveillance data (Delhi) showed that Delta (B.1.617.2) is more transmissible (50% greater) than Alpha (B.1.1.7), without any increase in CFR. Viral load of Delta (B.1.617.2) appears to be higher than Alpha (B.1.1.7). There seems to be greater immune escape and reinfection. Fully vaccinated breakthroughs were disproportionately due to Delta (B.1.617.2), but usually mild.
 
     >
       BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The modest neutralization resistance of the variant spike proteins suggests that Pfizer and Moderna mRNA vaccines will remain protective against the B.1.617.1, B.1.617 and B.1.618 variants. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Progression to severe disease and death was low in all studies. PHE findings demonstrated a modest reduction of one dose vaccine effectiveness against symptomatic disease with the B.1.617.2 variant of approximately 20% when compared to the B.1.1.7 variant. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine (BNT162b2 and ChAdOx1) is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%.
 
       One study demonstrated that the novel emerging B.1.617.2 variant partially but significantly escapes neutralizing antibodies targeting the NTD and RBD, including Bamlanivimab, which were impaired in binding to the B.1.617.2 Spike. Sera from convalescent patients collected up to 12 months post symptoms and from Pfizer vaccine recipients were 3 to 6 fold less potent against B.1.617.2, relative to B.1.1.7. Sera from individuals having received one dose of AstraZeneca Vaxzevria barely inhibited B.1.617.2.
+
+      Initial analysis of neutralising antibody (nAbs) activity (Pfizer vaccine) against B.1.617.2 (Delta) and B.1.351 (Beta) showed 5·8-fold reduction against B.1.617.2 (Delta) similar to the reduction observed against B.1.351 (4·9-fold). In the case of single-dose recipients, NAbTs were significantly lower against B.1.617.2 and B.1.351 relative to B.1.1.7. 2 doses of vaccine- high levels of nAbs.
+
+      A Pan-India cross-sectional COVAT study (Indian health-care workers) after the completion of two doses of both vaccines (Covishield and Covaxin) suggests that both vaccines showed 95% seropositivity to anti-spike antibody, 21-36 days after the 2nd completed dose. Seropositivity rates and median anti-spike antibody titre was significantly higher in Covishield (97.8%) compared to Covaxin arm (79.3%). Covishield showed a good seropositivity rate and a 4-fold rise in median antibody titre even after a single dose, while Covaxin gained a significant increase in both seropositivity and antibody titre only after the 2 doses. One dose of either vaccine yielded a very high seropositivity and anti-spike antibody titre in SARS-CoV-2 recovered individuals.
 
 
     >
@@ -1781,13 +1789,24 @@ subject module Variants
       !UK
       !3Clades
       !B16172
+    - Background
+      !DeltaDelhiorigin
     - Transmission
       !Transmission
       !Antibodyevasion
       !Fastspread
       !Transmissionadv
+      !DeltaDelhi
+    - Viral load
+      !DeltaDelhi
     - Severity
       !Severity
+    - Immunescape
+      !DeltaDelhi
+    - Vaccination breakthroughs
+      !DeltaDelhi
+    - Containment
+      !Deltacontainment
     - Vaccine related claims (B.1.617)
       Vaccines.Approved.BBV152.!2foldNeutralizingdropB1617
       Vaccines.Approved.Tozinameran.!B1617B1618neutralizationPfizerModerna
@@ -1798,6 +1817,7 @@ subject module Variants
     - Vaccine related claims (B.1.617.2)
       Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
       !B16172neutralizingantibodies
+      Vaccines.Approved.Tozinameran.!PfizerdeltaNAbTs
     -
       !Mutations
     >
@@ -1977,6 +1997,40 @@ subject module Variants
         'Planas_et_al_05_27_2021.!d
       - presence of large syncytia
         'Planas_et_al_05_27_2021.!e
+
+    claim !DeltaDelhi = Genomic surveillance data from Delhi and surrounding states show that Delta (B.1.617.2) is more transmissible (50% greater) than Alpha (B.1.1.7), without any increase in CFR. Viral load of Delta (B.1.617.2) appears to be higher than Alpha (B.1.1.7). There seems to be greater immune escape and reinfection. Fully vaccinated breakthroughs were disproportionately due to Delta (B.1.617.2), but usually mild.
+      -
+        'Dhar_et_al_06_03_2021
+        'Dhar_et_al_06_03_2021.!a
+        'Dhar_et_al_06_03_2021.!b
+        'Dhar_et_al_06_03_2021.!c
+        'Dhar_et_al_06_03_2021.!d
+        'Dhar_et_al_06_03_2021.!e
+        'Dhar_et_al_06_03_2021.!f
+        'Dhar_et_al_06_03_2021.!g
+        'Dhar_et_al_06_03_2021.!h
+
+
+
+    claim !Deltacontainment = Prior infections, high seropositivity and partial vaccination are insufficient impediments to Delta (B.1.617.2) spread, as seen in Delhi and strong public health response will be needed globally for its containment..
+      -
+        'Dhar_et_al_06_03_2021
+        'Dhar_et_al_06_03_2021.!a
+        'Dhar_et_al_06_03_2021.!d
+        'Dhar_et_al_06_03_2021.!e
+        'Dhar_et_al_06_03_2021.!f
+        'Dhar_et_al_06_03_2021.!g
+
+    / Genomic surveillance data - Delhi
+    claim !DeltaDelhiorigin = Genomic surveillance data from Delhi and surrounding states shows an early phase of the upsurge driven by the entry of the more transmissible B.1.1.7 variant of concern (VOC) into the region in January, with at least one B.1.1.7 super spreader event in February 2021, relatable to known mass gatherings over this period. This was followed by seeding of the B.1.617 VOC, which too is highly transmissible, with rapid expansion of B.1.617.2 sub-lineage outpacing all other lineages.
+      -
+        'Dhar_et_al_06_03_2021
+        'Dhar_et_al_06_03_2021.!h
+        'Dhar_et_al_06_03_2021.!a
+        'Dhar_et_al_06_03_2021.!d
+        'Dhar_et_al_06_03_2021.!f
+        'Dhar_et_al_06_03_2021.!g
+
 
 
 

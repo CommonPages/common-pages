@@ -1073,24 +1073,7 @@ subject module Disease
         'Lv_et_al_06_02_2020
 
 
-    / MONOCLONAL ANTIBODY TREATMENT
-    subject REGEN-COV
-      head = Regeneron Pharmaceuticals announced positive results from a Phase 3 trial (2069A) showing suggesting that the subcutaneous administration of REGEN-COV™ (casirivimab with imdevimab)-1,200 mg, reduced the risk of developing symptomatic Covid-19 infection by 81% in people living with someone infected by the new coronavirus. Among individuals who developed symptomatic infections, REGEN-COV recipients cleared the virus faster and had much shorter symptom duration. The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, can significantly reduce Covid-19-related hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants.
-      -
-        'Regeneron_et_al_04_12_2021
-        'Regeneron_et_al_04_12_2021.!a
-        'Regeneron_et_al_04_12_2021.!b
-        'Regeneron_et_al_04_12_2021.!c
-        'Regeneron_et_al_04_12_2021.!d
-        'Regeneron_et_al_04_12_2021.!e
-      -
-        'Weinreich_et_al_05_21_2021
-        'Weinreich_et_al_05_21_2021.!a
-        'Weinreich_et_al_05_21_2021.!b
-        'Weinreich_et_al_05_21_2021.!c
-        'Weinreich_et_al_05_21_2021.!d
-        'Weinreich_et_al_05_21_2021.!e
-
+    
 
     / Reinfection
     question ?Reinfection

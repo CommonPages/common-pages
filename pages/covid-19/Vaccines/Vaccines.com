@@ -23,7 +23,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days). 2-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) resulted in a vaccine efficacy of 100% (7 days after dose 2), was safe and immunogenic. A real-world setting study (Finland) results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members. Real world data reported that only 7 out of 28,184 healthcare workers (UCSD and UCLA) who received both doses (mRNA vaccines) tested positive >2 weeks after 2nd dose suggesting that the efficacy of these vaccines is maintained outside the trial setting..
+      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. The interim analysis of an observational cohort study (health care workers- Berlin, Germany) provides evidence that the heterologous ChAdOx/BNT immunisation regimen with 10-12 week vaccine intervals is well tolerated and slightly more immunogenic compared to homologous BNT/BNT vaccination with 3-week vaccine intervals. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days). 2-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) resulted in a vaccine efficacy of 100% (7 days after dose 2), was safe and immunogenic. A real-world setting study (Finland) results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members. Real world data reported that only 7 out of 28,184 healthcare workers (UCSD and UCLA) who received both doses (mRNA vaccines) tested positive >2 weeks after 2nd dose suggesting that the efficacy of these vaccines is maintained outside the trial setting.
 
 
       >
@@ -111,6 +111,7 @@ subject module Vaccines
         !RealworldVEsingledose
       - Heterologous Prime Booster
         !HeterologousprimeboostChAdBNT
+        !GermanyHeterologousChAdOxBNT
       - Older People
         !OldAge
         !Singledoseolderpeople
@@ -122,12 +123,15 @@ subject module Vaccines
         !Pregnancynosafetysignals
         !IVFcycle
         !Fertilitybreastfeedingconcerns
+        !Pfizerfertility
       - Children
         !ChildrenPfizer
       - Solid organ transplant recipients
         !Solidorgantransplantrecipients
       - Multiple Myeloma
         !MultiplemyelomaPfizerAstraZeneca
+      - HIV
+        !PfizerHIV
       - Viral Load
         !Viralload
       - Asymptomatic Transmission
@@ -150,6 +154,7 @@ subject module Vaccines
         Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
         Variants.B1617.!B16172neutralizingantibodies
         mRNA-1273.!Vaccineescape
+        !PfizerdeltaNAbTs
       - Immune Response
         !Tcellresponses
         !BCellresponse
@@ -958,7 +963,41 @@ subject module Vaccines
            'Keehner_et_al_05_06_2021.!c
            'Keehner_et_al_05_06_2021.!d
 
+       claim !PfizerHIV = A case of one individual with uncontrolled HIV replication who did not respond to two doses of the BNT162b2 SARS-CoV-2 vaccine. Post-vaccine samples showed no IgG reactivity against the S1 subunit of the spike protein. No SARS-CoV-2-specific neutralisation was observed.
+         -
+           'Touizer_et_al_06_2021
+           'Touizer_et_al_06_2021.!a
+           'Touizer_et_al_06_2021.!b
+           'Touizer_et_al_06_2021.!c
 
+
+
+       claim !Pfizerfertility = One study looked at 47 IVF patients (before and after 2 doses of BNT162b2 COVID-19 vaccine)- this vaccine likely does not impair women’s fertility - No difference in eggs retrieved, fertilisation rate, embryo quality, and clinical pregnancy rate
+         -
+           'Safrai_et_al_06_01_2021
+           'Safrai_et_al_06_01_2021.!a
+           'Safrai_et_al_06_01_2021.!b
+           'Safrai_et_al_06_01_2021.!c
+           'Safrai_et_al_06_01_2021.!d
+
+
+       / Pfizer NAbTs against B.1.617.2 (Delta)
+       claim !PfizerdeltaNAbTs = Correspondence reports initial analysis of neutralising antibody (nAbs) activity against SARS-CoV-2 variants of concern B.1.617.2 (Delta) and B.1.351 (Beta) elicited by partial or full vaccination with BNT162b2 (Pfizer-BioNTech) showed 5·8-fold reduced against B.1.617.2  similar to the reduction observed against B.1.351 (4·9-fold). In the case of single-dose recipients, NAbTs were significantly lower against B.1.617.2 and B.1.351 VOCs relative to B.1.1.7. 2 doses of vaccine- high levels of nAbs.
+         -
+           'Wall_et_al_06_03_2021
+           'Wall_et_al_06_03_2021.!a
+           'Wall_et_al_06_03_2021.!b
+           'Wall_et_al_06_03_2021.!c
+           'Wall_et_al_06_03_2021.!d
+
+
+       / Heterologous ChAdOx/BNT immunisation
+       claim !GermanyHeterologousChAdOxBNT = The interim analysis of an observational cohort study (health care workers- Berlin, Germany) provides evidence that the currently recommended heterologous ChAdOx/BNT immunisation regimen with 10-12 week vaccine intervals is well tolerated and slightly more immunogenic compared to homologous BNT/BNT vaccination with three week vaccine intervals.
+         -
+           'Hillus_et_al_06_02_2021
+           'Hillus_et_al_06_02_2021.!a
+           'Hillus_et_al_06_02_2021.!b
+           'Hillus_et_al_06_02_2021.!c
 
 
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
@@ -1244,7 +1283,7 @@ subject module Vaccines
 
     / Oxford–AstraZeneca
     subject AZD1222
-      head = Phase 3 interim primary efficacy analysis, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial. Very rare cases of blood clots with low blood platelets occurring within 2 weeks of vaccination have been observed. One study confirms that the overall risk of vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. A single dose of the ChAdOx1 nCoV-19 vaccine in previously infected with SARS-CoV-2 serves as an efficacious immune booster up to at least 11 months post infection and demonstrated a robust serological response with broad neutralizing capacity against SARS-CoV-2 wild type, and B.1.1.7, B.1.351, and P.1. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals. Real world data shows that short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. It decreases the risk of SARS-CoV-2 infection after 12 days and substantial protection after 3 weeks. A population-based study (Norway) reported a higher prevalence of milder bleeding episodes following vaccination with adeno-vectored compared to mRNA vaccines indicating that the adenovirus-vectored vaccine may lead to mild bleeding episodes in a larger proportion of vaccinated individuals, and not only in rare cases with documented thrombosis and thrombocytopenia.
+      head = Phase 3 interim primary efficacy analysis, authors reported vaccine efficacy of 70.4% after two doses and 64.1% after single dose, with no safety concerns. The vaccine has shown no efficacy against the B.1.351 variant (in South Africa) in preventing mild-to-moderate Covid-19. In US, 76% vaccine efficacy against symptomatic COVID-19 has been reported in phase 3 trial. Very rare cases of blood clots with low blood platelets occurring within 2 weeks of vaccination have been observed. One study confirms that the overall risk of vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. A single dose of the ChAdOx1 nCoV-19 vaccine in previously infected with SARS-CoV-2 serves as an efficacious immune booster up to at least 11 months post infection and demonstrated a robust serological response with broad neutralizing capacity against SARS-CoV-2 wild type, and B.1.1.7, B.1.351, and P.1. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Rapid scaling up of vaccination coverage (Coronavac and AstraZeneca) among elderly Brazilians was associated with an important decline in relative mortality compared to younger individuals. Real world data shows that short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. It decreases the risk of SARS-CoV-2 infection after 12 days and substantial protection after 3 weeks. A population-based study (Norway) reported a higher prevalence of milder bleeding episodes following vaccination with adeno-vectored compared to mRNA vaccines indicating that the adenovirus-vectored vaccine may lead to mild bleeding episodes in a larger proportion of vaccinated individuals, and not only in rare cases with documented thrombosis and thrombocytopenia. A Pan-India cross-sectional COVAT study (Indian health-care workers) after the completion of two doses of both vaccines (Covishield and Covaxin) suggests that both vaccines showed 95% seropositivity to anti-spike antibody, 21-36 days after the 2nd completed dose. Seropositivity rates and median anti-spike antibody titre was significantly higher in Covishield (97.8%) compared to Covaxin arm (79.3%). Covishield showed a good seropositivity rate and a 4-fold rise in median antibody titre even after a single dose. One dose of either vaccine yielded a very high seropositivity and anti-spike antibody titre in SARS-CoV-2 in cohorts with a past history of SARS-CoV-2. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. The interim analysis of an observational cohort study (health care workers- Berlin, Germany) provides evidence that the heterologous ChAdOx/BNT immunisation regimen with 10-12 week vaccine intervals is well tolerated and slightly more immunogenic compared to homologous BNT/BNT vaccination with 3-week vaccine intervals.
 
 
       >
@@ -1288,6 +1327,7 @@ subject module Vaccines
         CoronaVac.!BrazilPositiveImpactCoronavacAZ
         Tozinameran.!AdverseeffectsBNT162b2ChAdOx1
         Tozinameran.!RealworldevidenceUK
+        BBV152.!RealworldIndia2doses
       -
         Tozinameran.!Realworldvaccinationresults
       - US Phase 3 Results
@@ -1299,10 +1339,13 @@ subject module Vaccines
       - Single Dose
         Tozinameran.!Singledoseolderpeople
         Tozinameran.!UKPostvaccineantispikeIgG
-      -
+        BBV152.!Realworldindiasingledose
+      - Previously Infected Individuals
         !PreviouslyinfectedChAdOx1
+        BBV152.!Realworldindiapriorinfection
       - Heterologous Prime booster
         Tozinameran.!HeterologousprimeboostChAdBNT
+        Tozinameran.!GermanyHeterologousChAdOxBNT
       - Pregnant Women
         Tozinameran.!Fertility
       - Efficacy against UK Variant
@@ -1733,8 +1776,6 @@ subject module Vaccines
 
           / Thrombotic Thrombocytopenia Reports
           claim !ThromboticThrombocytopeniareports = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’(VITT). However, one study showed that the antibodies against SARS-CoV-2 spike protein do not cross-react with PF4 or PF4/heparin complexes making it very unlikely that the intended vaccine-induced immune response against SARS-CoV-2 spike protein would itself induce VITT. Real world studies demonstrate low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes.
-
-
             -
               'Scully_et_al_04_16_2021
               'Scully_et_al_04_16_2021.!a
@@ -1794,7 +1835,7 @@ subject module Vaccines
                 'Greinacher_et_al_04_20_2021.!c
 
             / Real World data - Low Pervalence
-            claim !Lowpervalence = One study confirms that vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is particularly rare. Overall risk is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. Another real world study among Norwegian health care workers after vaccination with AZD1222, found low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes
+            claim !Lowpervalence = One study confirms that vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is particularly rare. Overall risk is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000. Another real world study among Norwegian health care workers after vaccination with AZD1222, found low prevalence of both thrombocytopenia and antibodies to PF4/polyanion‐complexes. Interim safety data (Sisonke study, South Africa)- Ad26.COV2.S (single-dose)- The rate of adverse events with vaccination is low, and thromboembolic events have occurred mainly in persons with risk factors for thromboembolism. To date, no case of vaccine-induced immune thrombotic thrombocytopenia has been documented.
 
 
               claim !VITTChAdOx1 = One study confirms that vaccine-induced immune thrombotic thrombocytopenia (VITT) after the ChAdOx1 nCov-19 vaccine is particularly rare. Overall risk is 1 in 139,000, for age 65 and over, about 1 in 1,000,000; for age under 55, between 1 in 20,000 to 60,000
@@ -1821,6 +1862,18 @@ subject module Vaccines
                 -
                   'Douglas_et_al_04_16_2021
                   'Douglas_et_al_04_16_2021.!h
+
+
+              claim !realworldSouthafrica = In a correspondence letter, the authors reported the interim safety data (Sisonke study, South Africa)- Ad26.COV2.S (single-dose)- The rate of adverse events with vaccination is low, and thromboembolic events have occurred mainly in persons with risk factors for thromboembolism. To date, no case of vaccine-induced immune thrombotic thrombocytopenia has been documented.
+                -
+                  'Takuva_et_al_06_02_2021
+                  'Takuva_et_al_06_02_2021.!a
+                  'Takuva_et_al_06_02_2021.!b
+                  'Takuva_et_al_06_02_2021.!c
+                  'Takuva_et_al_06_02_2021.!d
+                  'Takuva_et_al_06_02_2021.!e
+                  'Takuva_et_al_06_02_2021.!f
+
 
           / Ischaemic stroke
           claim !Ischaemicstroke = One study reported three patients with VITT who presented with ischaemic stroke after receiving the ChAdOx1 nCoV-19 vaccine; their observations suggest that, in addition to venous thrombosis, the neurological spectrum of VITT can include arterial occlusion.
@@ -2136,6 +2189,8 @@ subject module Vaccines
           'Bernal_et_al_05_23_2021.!d
           'Bernal_et_al_05_23_2021.!e
           'Bernal_et_al_05_23_2021.!f
+          'Bernal_et_al_05_23_2021.!g
+
 
 
       claim !Casereports = The Journal highlights 3 independent descriptions of 39 persons with a newly described syndrome characterized by thrombosis and thrombocytopenia that developed 5 to 24 days after initial vaccination with ChAdOx1 nCoV-19 (AstraZeneca). Pathogeny of the syndrome are not yet clear but certain findings are consistent. Treatment management suggests that intravenous immune globulin and high-dose glucocorticoids, and nonheparin antithrombotic agents.
@@ -2781,7 +2836,7 @@ subject module Vaccines
 
     / Bharat Biotech
     subject BBV152
-      head = Clinical trials for the Bharat Biotech vaccine started as early as July of 2020 and are currently going on in India. In Phase 1 & 2 trials, authors reported that the vaccine induced binding and neutralising antibody responses, showed tolerable safety outcomes and enhanced humoral and cell-mediated immune responses. The 1st interim analysis result (Covaxin) released in March 2021 showed vaccine efficacy of 80.6%. The 2nd interim analysis result, released in April, showed that the efficacy of the vaccine was 100% and a reduction of hospitalization numbers was also noted. A report released in media said that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.
+      head = Clinical trials for the Bharat Biotech vaccine started as early as July of 2020 and are currently going on in India. In Phase 1 & 2 trials, authors reported that the vaccine induced binding and neutralising antibody responses, showed tolerable safety outcomes and enhanced humoral and cell-mediated immune responses. The 1st interim analysis result (Covaxin) released in March 2021 showed vaccine efficacy of 80.6%. The 2nd interim analysis result, released in April, showed that the efficacy of the vaccine was 100% and a reduction of hospitalization numbers was also noted. A report released in media said that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease. BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold.A Pan-India cross-sectional COVAT study (Indian health-care workers) after the completion of two doses of both vaccines (Covishield and Covaxin) suggests that both vaccines showed 95% seropositivity to anti-spike antibody, 21-36 days after the 2nd completed dose. Seropositivity rates and median anti-spike antibody titre was significantly higher in Covishield (97.8%) compared to Covaxin arm (79.3%). Covaxin gained a significant increase in both seropositivity and antibody titre only after the 2 doses. One dose of either vaccine yielded a very high seropositivity and anti-spike antibody titre in SARS-CoV-2 in cohorts with a past history of SARS-CoV-2.
 
       # In Phase 3 trial an interim vaccine efficacy of 81% has been reported. The vaccine has already been approved for use in India.
 
@@ -2813,7 +2868,13 @@ subject module Vaccines
         !Phase3media
       -
         !Intranasaltrial
-      -  Vaccine Efficacy against Variants
+      - Real World Data - 2 doses
+        !RealworldIndia2doses
+      - Single Dose
+        !Realworldindiasingledose
+      - Previously Infected Individuals
+        !Realworldindiapriorinfection
+      - Vaccine Efficacy against Variants
         !UKvariant
         !2foldNeutralizingdropB1617
 
@@ -2894,6 +2955,29 @@ subject module Vaccines
       claim !Phase3media = A report released in media said that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease. Even though Bharat Biotech has not yet revealed any details about the final analysis, in April the company said that the safety and efficacy details will be available by June.
       -
         'Majumder_et_al_05_29_2021
+
+
+      claim !RealworldIndia2doses = A Pan-India cross-sectional COVAT study (Indian health-care workers) after the completion of two doses of both vaccines (Covishield and Covaxin) suggests that both vaccines showed 95% seropositivity to anti-spike antibody, 21-36 days after the 2nd completed dose. Seropositivity rates and median anti-spike antibody titre was significantly higher in Covishield (97.8%) compared to Covaxin arm (79.3%).
+        -
+          'Singh_et_al_06_04_2021
+          'Singh_et_al_06_04_2021.!a
+          'Singh_et_al_06_04_2021.!b
+          'Singh_et_al_06_04_2021.!c
+          'Singh_et_al_06_04_2021.!d
+          'Singh_et_al_06_04_2021.!e
+
+      claim !Realworldindiasingledose = A Pan-India cross-sectional COVAT study (Indian health-care workers) showed that Covishield showed a good seropositivity rate and a 4-fold rise in median antibody titre even after a single dose, while Covaxin gained a significant increase in both seropositivity and antibody titre only after the two completed doses.
+        -
+          'Singh_et_al_06_04_2021
+          'Singh_et_al_06_04_2021.!c
+          'Singh_et_al_06_04_2021.!d
+
+      claim !Realworldindiapriorinfection = A Pan-India cross-sectional COVAT study (Indian health-care workers) showed that one dose of either vaccine yielded a very high seropositivity and anti-spike antibody titre in SARS-CoV-2 recovered individuals.
+        -
+          'Singh_et_al_06_04_2021
+          'Singh_et_al_06_04_2021.!e
+          'Singh_et_al_06_04_2021.!b
+
 
     / ZF2001
     subject ZF2001
@@ -3157,6 +3241,7 @@ subject module Vaccines
       Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
       Variants.B1617.!B16172neutralizingantibodies
       Approved.mRNA-1273.!Vaccineescape
+      Approved.Tozinameran.!PfizerdeltaNAbTs
 
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
@@ -3277,6 +3362,7 @@ subject module Vaccines
         Approved.Tozinameran.!Pregnancynosafetysignals
         Approved.Tozinameran.!IVFcycle
         Approved.Tozinameran.!Fertilitybreastfeedingconcerns
+        Approved.Tozinameran.!Pfizerfertility
       - Moderna
         Approved.mRNA-1273.!PregnantWomen
         Approved.Tozinameran.!PregnantwomenIgG
@@ -3285,6 +3371,8 @@ subject module Vaccines
         Approved.Tozinameran.!IVFcycle
       - Oxford
         Approved.Tozinameran.!Fertility
+      -
+        !Pregnantwomenplacenta
 
       # Study on other Vaccine
       claim !ChAdOx1Pregnant = When administered to pregnant sheep and goats, ChAdOx1 Rift Valley fever virus is safe, elicits high titre RVFV neutralizing antibody, and provides protection against viraemia and foetal loss.
@@ -3297,11 +3385,21 @@ subject module Vaccines
           'Hassan_et_al_09_03_2019
           'Hassan_et_al_09_03_2019.!a
 
+      / No increase in placental pathology
+      claim !Pregnantwomenplacenta = A study looked at the placentas of 84 pregnant women who received the vaccine, compared to 116 who did not, at delivery. No increase in placental pathology (decidual arteriopathy, fetal vascular malperfusion, low-grade chronic villitis, or chronic histiocytic intervillositis) following Covid-19 vaccination.
+        -
+          'Shanes_et_al_05_11_2021
+          'Shanes_et_al_05_11_2021.!a
+          'Shanes_et_al_05_11_2021.!b
+          'Shanes_et_al_05_11_2021.!c
+          'Shanes_et_al_05_11_2021.!d
+          'Shanes_et_al_05_11_2021.!e
+
     / Previously Infected Individuals
     subject PreviouslyInfected
       head = Several reports demonstrate robust serological responses to a single dose of mRNA vaccines in individuals previously infected with SARS-CoV-2. Vaccine recipients with preexisting immunity had systemic side effects at higher frequencies than those without preexisting immunity. A single dose of ChAdOx1 nCoV-19 vaccine in HCWs previously infected with SARS-CoV-2 serves as an efficacious immune booster up to at least 11 months post infection.
 
-      -
+      - Pfizer
         Approved.Tozinameran.!PriorInfectionSingleDose
         Approved.Tozinameran.!PriorinfectionSingledoseBcells
         Approved.Tozinameran.!Singledoseolderpeople
@@ -3314,8 +3412,11 @@ subject module Vaccines
         !PreviouslyinfectedmRNA
         !HCWmRNA
         !AntiRBDmemory
-      -
+      - Oxford
         Approved.AZD1222.!PreviouslyinfectedChAdOx1
+        Approved.BBV152.!Realworldindiapriorinfection
+      - Covaxin
+        Approved.BBV152.!Realworldindiapriorinfection
       -
         !Previouslyinfectedsideeffects
 

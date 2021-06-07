@@ -391,7 +391,7 @@ subject module Transmission
           'Beggs_et_al_05_26_2020.!a
           'Beggs_et_al_05_26_2020.!b
 
-      claim !Airbornetransmissionevidence = Ten streams of evidence collectively support the hypothesis that SARS-CoV-2 is transmitted primarily by the airborne route.
+      claim !Airbornetransmissionevidence = Ten streams of evidence collectively support the hypothesis that SARS-CoV-2 is transmitted primarily by the airborne route. An updated study on the outbreak at a Guangzhou restaurant in Jan 2020 provided indirect evidence for the risk of indoor long-range airborne transmission of SARS-CoV-2 by ruling out other possible transmission routes, namely close contact (large droplets and short-range airborne) and fomites in the Guangzhou restaurant outbreak.
         -
           'Greenhalgh_et_al_04_15_2021
           'Greenhalgh_et_al_04_15_2021.!a
@@ -411,7 +411,17 @@ subject module Transmission
           'Greenhalgh_et_al_04_15_2021.!o
           'Greenhalgh_et_al_04_15_2021.!p
           'Greenhalgh_et_al_04_15_2021.!q
+        -
+          !Indirectevidencairbornetransmission
 
+        claim !Indirectevidencairbornetransmission = An updated study on the outbreak at a Guangzhou restaurant in Jan 2020 provided indirect evidence for the risk of indoor long-range airborne transmission of SARS-CoV-2 by ruling out other possible transmission routes, namely close contact (large droplets and short-range airborne) and fomites in the Guangzhou restaurant outbreak. The restaurant was poorly ventilated, allowing for increasing airborne SARS-CoV-2 concentration. The evidence is based on video analysis of all activities during the time that one known index case and three possible index cases had lunch in a Guangzhou restaurant.
+
+          -
+            'Zhang_et_al_05_29_2021
+            'Zhang_et_al_05_29_2021.!a
+            'Zhang_et_al_05_29_2021.!b
+            'Zhang_et_al_05_29_2021.!c
+            'Zhang_et_al_05_29_2021.!d
 
 
     / Droplet Transmission

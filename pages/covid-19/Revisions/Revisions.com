@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *June_7 mean June_7
   let *May_31 mean May_31
   let *May_24 mean May_24
   let *May_21 mean May_21
@@ -11,7 +12,61 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *May_31, *May_24 and *May_21). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_7, *May_31, *May_24, *May_21, *May_19). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: June-7-2021
+  / June 7, 2021
+  revision June_7
+    head = Genomic surveillance data (Delhi) showed that Delta (B.1.617.2) is more transmissible (50% greater) than Alpha (B.1.1.7), without any increase in CFR. Viral load of Delta (B.1.617.2) appears to be higher than Alpha (B.1.1.7). There seems to be greater immune escape and reinfection. Fully vaccinated breakthroughs were disproportionately due to Delta (B.1.617.2), but usually mild. Initial analysis of neutralising antibody (nAbs) activity (Pfizer vaccine) against B.1.617.2 (Delta) and B.1.351 (Beta) showed 5·8-fold reduction against B.1.617.2 (Delta) similar to the reduction observed against B.1.351 (4·9-fold). Single-dose - NAbTs were significantly lower against B.1.617.2 and B.1.351 relative to B.1.1.7. Two doses of vaccine- high levels of nAbs.
+    -
+      Variants.B1617.!DeltaDelhi
+      Vaccines.Approved.Tozinameran.!PfizerdeltaNAbTs
+
+
+    >
+      A Pan-India cross-sectional COVAT study (Indian health-care workers) after the completion of two doses of both vaccines (Covishield and Covaxin) suggests that both vaccines showed 95% seropositivity to anti-spike antibody, 21-36 days after the 2nd completed dose. Seropositivity rates and median anti-spike antibody titre was significantly higher in Covishield (97.8%) compared to Covaxin arm (79.3%). Covishield showed a good seropositivity rate and a 4-fold rise in median antibody titre even after a single dose, while Covaxin gained a significant increase in both seropositivity and antibody titre only after the 2 doses. One dose of either vaccine yielded a very high seropositivity and anti-spike antibody titre in SARS-CoV-2 in cohorts with a past history of SARS-CoV-2.
+    -
+      Vaccines.Approved.BBV152.!RealworldIndia2doses
+      Vaccines.Approved.BBV152.!Realworldindiasingledose
+      Vaccines.Approved.BBV152.!Realworldindiapriorinfection
+
+
+    >
+      The interim analysis of an observational cohort study (health care workers- Berlin, Germany) provides evidence that the  heterologous ChAdOx/BNT immunisation regimen with 10-12 week vaccine intervals is well tolerated and slightly more immunogenic compared to homologous BNT/BNT vaccination with 3-week vaccine intervals. Interim safety data (Sisonke study, South Africa)- Ad26.COV2.S (single-dose)- The rate of adverse events with vaccination is low, and thromboembolic events have occurred mainly in persons with risk factors for thromboembolism. To date, no case of vaccine-induced immune thrombotic thrombocytopenia has been documented.
+    -
+      Vaccines.Approved.Tozinameran.!GermanyHeterologousChAdOxBNT
+      Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.ChAdOx1nCoV-19.!ThromboticThrombocytopeniareports.!Lowpervalence.!realworldSouthafrica
+
+    >
+      One study demonstrated that REGEN-COV retains neutralization potency against current variants of concern/interest. In vitro escape studies can predict emergence of viral variants in animals and humans. 3 noncompeting mAb in combination reduce variant risk compared to a combination of 2. Treatment with REGEN-COV in humans does not lead to emergence of viral variants.
+    -
+      Treatment.Antivirals.EntryInhibitors.MonoclonalAntibodies.REGEN-COV
+
+    >
+      One study looked at 47 IVF patients (before and after 2 doses of Pfizer vaccine)- No difference in eggs retrieved, fertilisation rate, embryo quality, and clinical pregnancy rate.Another study looked at the placentas of 84 pregnant women who received the vaccine, compared to 116 who did not, at delivery. No increase in placental pathology (decidual arteriopathy, fetal vascular malperfusion, low-grade chronic villitis, or chronic histiocytic intervillositis) following Covid-19 vaccination. A case of one individual with uncontrolled HIV replication did not respond to two doses of the BNT162b2 SARS-CoV-2 vaccine.
+    -
+      Vaccines.Approved.Tozinameran.!Pfizerfertility
+      Vaccines.Effects.PregnantWomen.!Pregnantwomenplacenta
+      Vaccines.Approved.Tozinameran.!PfizerHIV
+
+
+    >
+      An updated study on the outbreak at a Guangzhou restaurant in Jan 2020 provided indirect evidence for the risk of indoor long-range airborne transmission of SARS-CoV-2 by ruling out other possible transmission routes, namely close contact (large droplets and short-range airborne) and fomites in the Guangzhou restaurant outbreak. The restaurant was poorly ventilated, allowing for increasing airborne SARS-CoV-2 concentration.
+    -
+      Transmission.Routes.!AirborneTransmission.!Airbornetransmissionevidence.!Indirectevidencairbornetransmission
+
+
+    >
+      One study observations suggest that, once cells are infected with SARS-CoV-2, they can infect other cells in ways which are very difficult to inhibit with antibodies. Cell-to-cell spread of SARS-CoV-2 may prove to play a role in pathology and possibly persistence.
+    -
+      Virus.Entry.!Celltocellspread
+
+
+    >
+      One study demonstrated that a single intranasal (IN) dose of 0.044 and 0.4 mg/kg IgM-14 can improves efficacy, reduce resistance, and simplify the prophylactic and therapeutic treatment of COVID-19. IgM-14, but not IgG-14, confers potent therapeutic protection against the P.1 and B.1.351 variants.
+    -
+      Treatment.IgM14
 
 
   public: May-31-2021
@@ -30,12 +85,12 @@ revision feed Revisions
       Variants.B1617.!B16172neutralizingantibodies
 
     >
-      A report released in media noted that the final phase 3 analysis of Covaxin has shown the efficacy of 78 per cent in preventing symptomatic disease. Even though Bharat Biotech has not yet revealed any details about the final analysis, in April the company said that the safety and efficacy details will be available by June.
+      A report released in media noted that the final phase 3 analysis of Covaxin has shown the efficacy of 78% in preventing symptomatic disease. The results likely to be relased in June.
     -
       Vaccines.Approved.BBV152
 
     >
-      A case series in the Indian subcontinent reported cases of mucormycosis following COVID-19 infections. The mean duration between the diagnosis of COVID-19 and the development of symptoms of mucormycosis was 15.6±9.6 days. A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%.
+      A case series in the Indian subcontinent reported cases of mucormycosis following COVID-19 infections. The mean duration between the diagnosis of COVID-19 and the development of symptoms was 15.6±9.6 days. A delay of even 6 days in initiating treatment doubles the 30-day mortality from 35% to 66%.
     -
       Disease.Course.!SevereCases.!Mucormycosis
 
@@ -101,7 +156,7 @@ revision feed Revisions
       The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, can significantly reduce Covid-19-related hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants.
 
     -
-      Disease.Immunity.REGEN-COV
+      Treatment.Antivirals.EntryInhibitors.MonoclonalAntibodies.REGEN-COV
 
 
   public: May-21-2021

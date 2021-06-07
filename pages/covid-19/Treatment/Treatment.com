@@ -73,11 +73,41 @@ subject module Treatment
     / Entry Inhibitors
     subject EntryInhibitors
       head = Entry inhibitors interferes with the binding, fusion and entry to a human cell. By blocking this step in virus replication cycle, such agents could slow the progression of infection of SARS-CoV-2.
+
       / Monoclonal Antibodies
       subject MonoclonalAntibodies
-        head = Several studies have described the development of Monoclonal Antibodies that are able to potently inhibit SARS-CoV-2 in vitro.
+        head = Several studies have described the development of Monoclonal Antibodies that are able to potently inhibit SARS-CoV-2 in vitro. Regeneron Pharmaceuticals announced positive results from a Phase 3 trial (2069A) showing suggesting that the subcutaneous administration of REGEN-COV™ (casirivimab with imdevimab)-1200 mg, reduced the risk of developing symptomatic Covid-19 infection by 81% in people living with someone infected by the new coronavirus. The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, significantly reduce hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants. One study demonstrated that REGEN-COV retains neutralization potency against current variants of concern/interest. 3 noncompeting mAb in combination reduce variant risk compared to a combination of 2.
         -
           'Shi_et_al_05_26_2020
+
+        / MONOCLONAL ANTIBODY TREATMENT
+        subject REGEN-COV
+          head = Regeneron Pharmaceuticals announced positive results from a Phase 3 trial (2069A) showing suggesting that the subcutaneous administration of REGEN-COV™ (casirivimab with imdevimab)-1200 mg, reduced the risk of developing symptomatic Covid-19 infection by 81% in people living with someone infected by the new coronavirus. Among individuals who developed symptomatic infections, REGEN-COV recipients cleared the virus faster and had much shorter symptom duration. The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, can significantly reduce Covid-19-related hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants.
+          -
+            'Regeneron_et_al_04_12_2021
+            'Regeneron_et_al_04_12_2021.!a
+            'Regeneron_et_al_04_12_2021.!b
+            'Regeneron_et_al_04_12_2021.!c
+            'Regeneron_et_al_04_12_2021.!d
+            'Regeneron_et_al_04_12_2021.!e
+          -
+            'Weinreich_et_al_05_21_2021
+            'Weinreich_et_al_05_21_2021.!a
+            'Weinreich_et_al_05_21_2021.!b
+            'Weinreich_et_al_05_21_2021.!c
+            'Weinreich_et_al_05_21_2021.!d
+            'Weinreich_et_al_05_21_2021.!e
+
+
+          / REGEN-COV protects against mutational escape
+          claim !REGEN-COVprotection = One study demonstrated that REGEN-COV retains neutralization potency against current variants of concern/interest. In vitro escape studies can predict emergence of viral variants in animals and humans. 3 noncompeting mAb in combination reduce variant risk compared to a combination of 2. Treatment with REGEN-COV in humans does not lead to emergence of viral variants.
+            -
+              'Copin_et_al_06_05_2021
+              'Copin_et_al_06_05_2021.!a
+              'Copin_et_al_06_05_2021.!b
+              'Copin_et_al_06_05_2021.!c
+              'Copin_et_al_06_05_2021.!d
+
       / Soluble ACE2
       subject SolubleACE2
         head =  Soluble ACE2 (rhACE2) inhibits the binding of SARS-CoV-2 to ACE2 expressing cells. Studies have also shown that Soluble ACE2 (rhACE2) can protect lung from injury during ARDS.
@@ -481,6 +511,19 @@ subject module Treatment
       -
         'Llor_et_al_2013
         'Voiriot_et_al_2019
+
+  -
+  / Intranasal IgM-14
+  subject module IgM14
+    head = One study demonstrated that a single intranasal (IN) dose of 0.044 and 0.4 mg/kg IgM-14 can improves efficacy, reduce resistance, and simplify the prophylactic and therapeutic treatment of COVID-19. IgM-14, but not IgG-14, confers potent therapeutic protection against the P.1 and B.1.351 variants.
+    -
+      'Ku_et_al_06_03_2021
+      'Ku_et_al_06_03_2021.!a
+      'Ku_et_al_06_03_2021.!b
+      'Ku_et_al_06_03_2021.!c
+      'Ku_et_al_06_03_2021.!d
+      'Ku_et_al_06_03_2021.!e
+
 
   —
   / Frontiers
