@@ -6,13 +6,11 @@ revision feed Revisions
   let *June_7 mean June_7
   let *May_31 mean May_31
   let *May_24 mean May_24
-  let *May_21 mean May_21
-  let *May_19 mean May_19
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_7, *May_31, *May_24, *May_21, *May_19). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_7, *May_31 and *May_24). You can *contribute by sending corrections and responding to open questions.
 
 
   public: June-7-2021
