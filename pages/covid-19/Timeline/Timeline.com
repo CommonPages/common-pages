@@ -143,7 +143,7 @@ subject module Timeline
           'Pung_et_al_03_28_2020
 
     / Outbreak in North America
-    claim !NorthAmerica = The first known case of COVID-19 in North America was identified on January 19, 2020, in the state of Washington. The source of the patient's infection was unknown, but he had recently travelled to Wuhan, China. A major outbreak in New York soon followed.
+    claim !NorthAmerica = The first known case of COVID-19 in North America was identified on January 19, 2020, in the state of Washington. The source of the patient's infection was unknown, but he had recently travelled to Wuhan, China. A major outbreak in New York soon followed. One study provides evidence that SARS-CoV-2 infections were present in NYC >1 month prior to the detection of the first reported NYS case. 
       -
         'Holshue_et_al_2020
         'Scott_et_al_2020
@@ -151,6 +151,14 @@ subject module Timeline
         'Reiche_et_al_05_29_2020
         'Rosenberg_et_al_05_29_2020
         'Fauver_et_al_05_07_2020
+      -
+        !NYCorigin
+
+      claim !NYCorigin = One study provides evidence that SARS-CoV-2 infections were present in NYC >1 month prior to the detection of the first reported NYS case.
+      -
+        'Hernandez_et_al_06_03_2021
+        'Hernandez_et_al_06_03_2021.!a
+        'Hernandez_et_al_06_03_2021.!b
 
     / Outbreak in Europe
     claim !Europe = The earliest COVID-19 diagnosis in Europe took place on Jan 24, 2020. The patients were all of Chinese origin, and had travelled to France from China.

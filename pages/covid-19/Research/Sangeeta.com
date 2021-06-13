@@ -24,18 +24,6 @@ feed Sangeeta
     quote !a =
 
   #
-
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_06_03_2021
-    head =
-
-    - quotes
-      !a
-
-    / June, 2021 - JAMA Netw Open.
-    quote !a =
-
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -48,18 +36,314 @@ feed Sangeeta
     / June, 2021 - JAMA Netw Open.
     quote !a =
 
+  #
+  // A single BNT162b2 mRNA dose elicits antibodies with Fc-mediated effector functions and boost pre-existing humoral and T cell responses
+  doi: https://doi.org/10.1101/2021.03.18.435972
+  ref 'Tauzin_et_al_03_18_2021
+    head = We analyzed humoral and T cells responses three weeks after a single dose of this mRNA vaccine. We measured several serological and cellular SARS-CoV-2-specific responses in SARS-CoV-2 naïve or previously-infected individuals.
+
+    > Abstract
+      The standard dosing of the Pfizer/BioNTech BNT162b2 mRNA vaccine validated in clinical trials includes two doses administered three weeks apart. While the decision by some public health authorities to space the doses because of limiting supply has raised concerns about vaccine efficacy, data indicate that a single dose is up to 90% effective starting 14 days after its administration. We analyzed humoral and T cells responses three weeks after a single dose of this mRNA vaccine. Despite the proven efficacy of the vaccine at this time point, no neutralizing activity were elicited in SARS-CoV-2 naïve individuals. However, we detected strong anti-receptor binding domain (RBD) and Spike antibodies with Fc-mediated effector functions and cellular responses dominated by the CD4+ T cell component. A single dose of this mRNA vaccine to individuals previously infected by SARS-CoV-2 boosted all humoral and T cell responses measured, with strong correlations between T helper and antibody immunity. Neutralizing responses were increased in both potency and breadth, with distinctive capacity to neutralize emerging variant strains. Our results highlight the importance of vaccinating uninfected and previously-infected individuals and shed new light into the potential role of Fc-mediated effector functions and T cell responses in vaccine efficacy. They also provide support to spacing the doses of two-vaccine regimens to vaccinate a larger pool of the population in the context of vaccine scarcity against SARS-CoV-2.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / March, 2021 - bioRxiv
+    quote !a = We detected strong anti-receptor binding domain (RBD) and Spike antibodies with Fc-mediated effector functions and cellular responses dominated by the CD4+ T cell component.
+
+    / March, 2021 - bioRxiv
+    quote !b = A single dose of this mRNA vaccine to individuals previously infected by SARS-CoV-2 boosted all humoral and T cell responses measured, with strong correlations between T helper and antibody immunity. In contrast, naïve individuals showed significantly weaker Spike-specific CD4+ T cell responses and low to undetectable Spike-specific CD8+ T cell responses by AIM and ICS. Our data suggests, a single dose of mRNA vaccine may be sufficient to elicit robust protective T cell responses in previously infected individuals, naïve persons will likely most benefit from repeat immunization.
+
+    / March, 2021 - bioRxiv
+    quote !c = Neutralizing responses were increased in both potency and breadth, with distinctive capacity to neutralize emerging variant strains.
+
+    / March, 2021 - bioRxiv
+    quote !d = Our results highlight the importance of vaccinating uninfected and previously-infected individuals and shed new light into the potential role of Fc-mediated effector functions and T cell responses in vaccine efficacy. They also provide support to spacing the doses of two-vaccine regimens to vaccinate a larger pool of the population in the context of vaccine scarcity against SARS-CoV-2.
+
+    / March, 2021 - bioRxiv
+    quote !e = Despite the proven vaccine efficacy three weeks after vaccination, we observed no neutralizing activity in plasma from SARS-CoV-2 naïve vaccinated individuals. Neutralization is thought to play a central role in SARS-CoV-2 vaccine efficacy, however, recent observations suggest that they might not be predictive, on their own, of protection
+
+    # / March, 2021 - bioRxiv
+    # quote !a = Our results suggest that while the neutralization potency of vaccine-elicited antibodies is being developed, other antibody functions such as Fc-mediated effector functions could contribute to vaccine efficacy early on. Accordingly, three weeks after a single dose we observed strong ADCC but no neutralization activity. Strikingly, vaccination of previously-infected individuals induced a very significant increase of pre-existing humoral immunity including ADCC and neutralization. Neutralization potency was increased enabling neutralization of several variants including the B.1.1.7 variant, Spikes with the E484K mutation and even the phylogenetically more distant SARS-CoV-1.
+
+    # / March, 2021 - bioRxiv
+    # quote !a = Individuals who had already encountered SARS-CoV-2 developed strong Spike-specific memory CD4+ and CD8+ T cells, consistent with secondary memory responses to a recall antigen. In contrast, naïve individuals showed significantly weaker Spike-specific CD4+ T cell responses and low to undetectable Spike-specific CD8+ T cell responses by AIM and ICS. Our data suggests, a single dose of mRNA vaccine may be sufficient to elicit robust protective T cell responses in previously infected individuals, naïve persons will likely most benefit from repeat immunization.
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_06_03_2021
+  // Comparison of Symptoms and RNA Levels in Children and Adults With SARS-CoV-2 Infection in the Community Setting
+  doi: https://doi.org/10.1001/jamapediatrics.2021.2025
+  ref 'Chung_et_al_06_11_2021
+    head = This cross-sectional study used a respiratory virus surveillance platform in persons of all ages to detect community COVID-19 cases from March 23 to November 9, 2020.
+
+
+    > Importance
+      The association between COVID-19 symptoms and SARS-CoV-2 viral levels in children living in the community is not well understood.
+
+    > Objective
+      To characterize symptoms of pediatric COVID-19 in the community and analyze the association between symptoms and SARS-CoV-2 RNA levels, as approximated by cycle threshold (Ct) values, in children and adults.
+
+    > Design, Setting, and Participants
+      This cross-sectional study used a respiratory virus surveillance platform in persons of all ages to detect community COVID-19 cases from March 23 to November 9, 2020. A population-based convenience sample of children younger than 18 years and adults in King County, Washington, who enrolled online for home self-collection of upper respiratory samples for SARS-CoV-2 testing were included.
+
+    > Exposures
+      Detection of SARS-CoV-2 RNA by reverse transcription–polymerase chain reaction (RT-PCR) from participant-collected samples.
+
+    > Main Outcomes and Measures
+      RT-PCR–confirmed SARS-CoV-2 infection, with Ct values stratified by age and symptoms.
+
+    > Results
+      Among 555 SARS-CoV-2–positive participants (mean [SD] age, 33.7 [20.1] years; 320 were female [57.7%]), 47 of 123 children (38.2%) were asymptomatic compared with 31 of 432 adults (7.2%). When symptomatic, fewer symptoms were reported in children compared with adults (mean [SD], 1.6 [2.0] vs 4.5 [3.1]). Symptomatic individuals had lower Ct values (which corresponded to higher viral RNA levels) than asymptomatic individuals (adjusted estimate for children, −3.0; 95% CI, −5.5 to −0.6; P = .02; adjusted estimate for adults, −2.9; 95% CI, −5.2 to −0.6; P = .01). The difference in mean Ct values was neither statistically significant between symptomatic children and symptomatic adults (adjusted estimate, −0.7; 95% CI, −2.2 to 0.9; P = .41) nor between asymptomatic children and asymptomatic adults (adjusted estimate, −0.6; 95% CI, −4.0 to 2.8; P = .74).
+
+    > Conclusions and Relevance
+      In this community-based cross-sectional study, SARS-CoV-2 RNA levels, as determined by Ct values, were significantly higher in symptomatic individuals than in asymptomatic individuals and no significant age-related differences were found. Further research is needed to understand the role of SARS-CoV-2 RNA levels and viral transmission.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / June, 2021 - JAMA Pediatr.
+    quote !a = In this community-based cross-sectional study, SARS-CoV-2 RNA levels, as determined by RT-PCR Cts, were significantly higher in symptomatic individuals than in asymptomatic individuals. There were no significant differences in RNA levels in asymptomatic children vs asymptomatic adults or in symptomatic children vs symptomatic adults.
+
+    / June, 2021 - JAMA Pediatr.
+    quote !b = Fewer children were symptomatic compared with adults (76 of 123 children [61.8%] vs 401 of 432 adults [92.8%]. When symptomatic, fewer symptoms were reported in children compared with adults.
+
+    / June, 2021 - JAMA Pediatr.
+    quote !c = Symptomatic children reported a mean (SD) of 3.8 (3.8) days of symptoms compared with 4.9 (4.1) days in symptomatic adults.
+
+    / June, 2021 - JAMA Pediatr.
+    quote !d = The most common signs or symptoms reported in children were runny or stuffy nose, fever, headache, and cough, while adults most frequently reported headache, cough, and fatigue
+
+
+  #
+  // Protective Effect of COVID-19 Vaccine Among Health Care Workers During the Second Wave of the Pandemic in India
+  doi: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/pb/assets/raw/Health%20Advance/journals/jmcp/jmcp_ft96_6_2.pdf
+  ref 'Victor_et_al_06_03_2021
+    head = Christian Medical College, Vellore, a 2600-bed tertiary care hospital in India with 10600 employees, vaccinated 8991 staff (84.8%) between 21st January 2021 and 30th April 2021. A majority (93.4%) received Covishield™, the Oxford-AstraZeneca vaccine, and the remainder, Covaxin™. We report the incidence of symptomatic COVID-19 infection among HCWs between 21st February and 19th May 2021
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / June, 2021 - Mayo Clinic Proceedings
+    quote !a = Among fully vaccinated HCWs (n=7080), 679 (9.6%) developed infection 47 days  after the second dose. The risk of infection among fully vaccinated HCWs was significantly lower when compared with unvaccinated HCWs/
+
+    / June, 2021 - Mayo Clinic Proceedings
+    quote !b = Vaccination with two doses reduced hospitalization, need for oxygen therapy and ICU admission. The protective effect of vaccination in preventing infection, hospitalization, need for oxygen and ICU admission were 65%, 77%, 92% and 94% respectively.
+
+    / June, 2021 - Mayo Clinic Proceedings
+    quote !c = The only staff member who died since the beginning of the pandemic had multiple co-morbidities and had not taken the vaccine.
+
+    / June, 2021 - Mayo Clinic Proceedings
+    quote !d = Our study corroborates these studies that vaccination is protective, although we did not look at the variants responsible for the massive second wave.
+
+
+  #
+  // Delayed Large Local Reactions to mRNA Covid-19 Vaccines in Blacks, Indigenous Persons, and People of Color
+  doi: https://doi.org/10.1056/NEJMc2108620
+  ref 'Samarakoon_et_al_06_09_2021
+    head = We present a case series of delayed large local reactions to messenger RNA (mRNA) vaccines against SARS-CoV-2 in recipients who are Black, Indigenous, or People of Color (BIPOC).
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !a = Delayed large local reactions may be less commonly recognized or reported in BIPOC vaccine recipients than in White recipients.
+
+    # / June, 2021 - The New England Journal of Medicine
+    # quote !a = From February 10, 2021, through April 23, 2021, a total of 1422 reports of postvaccination reactions were submitted to a Covid-19 vaccine allergy case registry. Of these reactions, 510 (36%) were delayed large local reactions that were reported by patients (64%) and clinicians (36%). The mean (±SD) age of the patients with delayed large local reactions was 50±15 years (range, 21 to 91), and the majority were women (472 [93%]).
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !b = Delayed large local reactions were reported after the receipt of the mRNA-1273 vaccine in 459 patients (90%), after the receipt of the BNT162b2 vaccine in 35 (7%), and after the receipt of other or unknown Covid-19 vaccines in 16 (3%).
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !c = The reports of delayed large local reactions after the receipt of Covid-19 vaccines included 55 events (11%) in BIPOC patients. The reactions were reported in patients who were Asian (27 [5%]); of mixed race, which included American Indian–Alaska Native and Native Hawaiian–Pacific Islander (22 [4%]); and Black (6 [1%]). Six of these patients (11%) were Hispanic.
+
+    / June, 2021 - The New England Journal of Medicine
+    quote !d = A majority of these delayed large local reactions occurred after the receipt of the first vaccine dose (in 53 patients [96%]) and after the receipt of the mRNA-1273 vaccine (in 47 [85%]). The mean time from vaccination until the onset of the reaction was 8±2 days (range, 4 to 14). Eleven patients (20%) had cutaneous reactions other than at the injection site, such as diffuse itching, hives or other rash, or angioedema.
+
+
+
+
+
+  #
+  // BNT162b2-elicited neutralization of B.1.617 and other SARS-CoV-2 variants
+  doi: https://doi.org/10.1038/s41586-021-03693-y
+  ref 'Liu_et_al_06_10_2021
+    head = As part of ongoing diligence on coverage of variants by the BNT162b2 vaccine, we have engineered variant spike genes into the backbone of the USA-WA1/2020 isolate, and, using the gold standard PRNT50 assay, we have tested neutralization of the resulting viruses by a panel of BTN162b2-immunized human sera drawn 2 or 4 weeks after two doses of BNT162b2 given three weeks apart.
+
+    > Abstract
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) continues to evolve around the world, generating new variants that are of concern based on their potential for altered transmissibility, pathogenicity, and coverage by vaccines and therapeutics1–5. Here we report that 20 human sera, drawn 2 or 4 weeks after two doses of BNT162b2, neutralize engineered SARS-CoV-2 with a USA-WA1/2020 genetic background (a virus strain isolated in January 2020) and spike glycoproteins from the newly emerged B.1.617.1, B.1.617.2, B.1.618 (all first identified in India) or B.1.525 (first identified in Nigeria) lineages. Geometric mean plaque reduction neutralization titers against the variant viruses, particularly the B.1.617.1 variant, appear lower than the titer against USA-WA1/2020 virus, but all sera tested neutralize the variant viruses at titers of at least 40. The susceptibility of these newly emerged variants to BNT162b2 vaccine-elicited neutralization supports mass immunization as a central strategy to end the coronavirus disease 2019 (COVID-19) pandemic across geographies.
+
+
+
+    - quotes
+      !a
+      !b
+      !c
+
+
+    / June, 2021 - Nature
+    quote !a = We report that 20 human sera, drawn 2 or 4 weeks after two doses of BNT162b2, neutralize engineered SARS-CoV-2 with a USA-WA1/2020 genetic background (a virus strain isolated in January 2020) and spike glycoproteins from the newly emerged B.1.617.1, B.1.617.2, B.1.618 (all first identified in India) or B.1.525 (first identified in Nigeria) lineages
+
+    / June, 2021 - Nature
+    quote !b = Geometric mean plaque reduction neutralization titers against the variant viruses, particularly the B.1.617.1 variant, appear lower than the titer against USA-WA1/2020 virus, but all sera tested neutralize the variant viruses at titers of at least 40.
+
+    / June, 2021 - Nature
+    quote !c = Among all tested viruses, those with spike proteins from B.1.3514 and B.1.617.1 (this study) exhibited the greatest reduction in neutralization by the sera, with PRNT50’s 0.36 times and 0.31 times, respectively, that of USA-WA1/2020.
+
+
+
+
+
+  #
+  // Community-level evidence for SARS-CoV-2 vaccine protection of unvaccinated individuals
+  doi: https://doi.org/10.1038/s41591-021-01407-5
+  ref 'Milman_et_al_06_03_2021
+    head = We analyzed vaccination records and test results collected during the rapid vaccine rollout in a large population from 177 geographically defined communities.
+
+    > Abstract
+      Mass vaccination has the potential to curb the current COVID-19 pandemic by protecting individuals who have been vaccinated against the disease and possibly lowering the likelihood of transmission to individuals who have not been vaccinated. The high effectiveness of the widely administered BNT162b vaccine from Pfizer–BioNTech in preventing not only the disease but also infection with SARS-CoV-2 suggests a potential for a population-level effect, which is critical for disease eradication. However, this putative effect is difficult to observe, especially in light of highly fluctuating spatiotemporal epidemic dynamics. Here, by analyzing vaccination records and test results collected during the rapid vaccine rollout in a large population from 177 geographically defined communities, we find that the rates of vaccination in each community are associated with a substantial later decline in infections among a cohort of individuals aged under 16 years, who are unvaccinated. On average, for each 20 percentage points of individuals who are vaccinated in a given population, the positive test fraction for the unvaccinated population decreased approximately twofold. These results provide observational evidence that vaccination not only protects individuals who have been vaccinated but also provides cross-protection to unvaccinated individuals in the community.
+
+
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - Nature Medicine
+    quote !a = We find that the rates of vaccination in each community are associated with a substantial later decline in infections among a cohort of individuals aged under 16 years, who are unvaccinated.
+
+    / June, 2021 - Nature Medicine
+    quote !b = On average, for each 20 percentage points of individuals who are vaccinated in a given population, the positive test fraction for the unvaccinated population decreased approximately twofold.
+
+    / June, 2021 - Nature Medicine
+    quote !c = These results provide observational evidence that vaccination not only protects individuals who have been vaccinated but also provides cross-protection to unvaccinated individuals in the community.
+
+    # / June, 2021 - Nature Medicine
+    # quote !a =High vaccination rates were associated with lower infection rates at later time points among the unvaccinated cohort.
+
+  #
+  // Molecular evidence of SARS-CoV-2 in New York before the first pandemic wave
+  doi: https://doi.org/10.1038/s41467-021-23688-7
+  ref 'Hernandez_et_al_06_03_2021
+    head = We utilize a sample pooling strategy to screen for previously undetected SARS-CoV-2 in de-identified, respiratory pathogen-negative nasopharyngeal specimens from 3,040 patients across the Mount Sinai Health System in New York. The patients had been previously evaluated for respiratory symptoms or influenza-like illness during the first 10 weeks of 2020.
+
+    > Abstract
+      Numerous reports document the spread of SARS-CoV-2, but there is limited information on its introduction before the identification of a local case. This may lead to incorrect assumptions when modeling viral origins and transmission. Here, we utilize a sample pooling strategy to screen for previously undetected SARS-CoV-2 in de-identified, respiratory pathogen-negative nasopharyngeal specimens from 3,040 patients across the Mount Sinai Health System in New York. The patients had been previously evaluated for respiratory symptoms or influenza-like illness during the first 10 weeks of 2020. We identify SARS-CoV-2 RNA from specimens collected as early as 25 January 2020, and complete SARS-CoV-2 genome sequences from multiple pools of samples collected between late February and early March, documenting an increase prior to the later surge. Our results provide evidence of sporadic SARS-CoV-2 infections a full month before both the first officially documented case and emergence of New York as a COVID-19 epicenter in March 2020.
+
+    - quotes
+      !a
+      !b
+
+    / June, 2021 - Nature Communications
+    quote !a = We identify SARS-CoV-2 RNA from specimens collected as early as 25 January 2020, and complete SARS-CoV-2 genome sequences from multiple pools of samples collected between late February and early March, documenting an increase prior to the later surge.
+
+    / June, 2021 - Nature Communications
+    quote !b = Our results provide evidence of sporadic SARS-CoV-2 infections >1 month before both the first officially documented case and emergence of New York as a COVID-19 epicenter in March 2020.
+
+
+  #
+  // Identification of novel bat coronaviruses sheds light on the evolutionary origins of SARS-CoV-2 and related viruses
+  doi: https://doi.org/10.1016/j.cell.2021.06.008
+  ref 'Zhou_et_al_06_09_2021
     head =
 
     - quotes
       !a
 
-    / June, 2021 - JAMA Netw Open.
+    / June, 2021 - Cell
     quote !a =
+
+  // The ChAdOx1 vectored vaccine, AZD2816, induces strong immunogenicity against SARS-CoV-2 B.1.351 and other variants of concern in preclinical studies
+  doi: https://doi.org/10.1101/2021.06.08.447308
+  ref 'Spencer_et_al_06_09_2021
+    head = We generated AZD2816, a new ChAdOx1 nCoV-19 vaccine expressing B.1.351 spike protein and assessed the immunogenicity in mice. As priming of the immune response to the original wild-type spike protein may impact the ability to switch specificity of the response to B.1.351, we measured antibody and T cell responses after one or two doses of the original ChAdOx1 nCoV-19 vaccine (AZD1222) followed by a single dose of AZD2816.
+
+    > Abstract
+      There is an ongoing global effort, to design, manufacture, and clinically assess vaccines against SARS-CoV-2. Over the course of the ongoing pandemic a number of new SARS-CoV-2 virus isolates or variants of concern (VoC) have been identified containing mutations that negatively impact the role of neutralising antibodies. In this study we describe the generation and preclinical assessment of a ChAdOx1-vectored vaccine against the variant of concern B.1.351 (AZD2816). We demonstrate AZD2816 is immunogenic after a single dose and when used as a booster dose in animals primed with original vaccine AZD1222, we see no evidence of original antigenic sin but high titre antibodies against a number of variant spike proteins. In addition, neutralisation titres against B.1.351 (Beta), B.1.617.1 (Kappa) and B.1.617.2 (Delta), are induced in these boost regimens. These data support the ongoing clinical development and testing of this new variant vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    # / June, 2021 - BioRxiv
+    # quote !a = We demonstrate AZD2816 is immunogenic after a single dose and when used as a booster dose in animals primed with original vaccine AZD1222, we see no evidence of original antigenic sin but high titre antibodies against a number of variant spike proteins. In addition, neutralisation titres against B.1.351 (Beta), B.1.617.1 (Kappa) and B.1.617.2 (Delta), are induced in these boost regimens.
+
+    # / June, 2021 - BioRxiv
+    # quote !a = The data demonstrates that vaccination with ChAdOx1 nCoV-19 (AZD1222) induces high titre cross-reactive antibodies capable of neutralising a number of SARS-CoV-2 variants of concern, B.1.351, B.1.617.1 and B.1.617.2. Most importantly these responses can be further enhanced by a booster dose of vaccine expressing the spike protein from B.1.351.
+
+    / June, 2021 - BioRxiv
+    quote !a = While a single dose of either AZD1222 or AZD2816 induces rapid T cells and antibodies capable of binding and neutralising wild-type and B.1.351 spike protein, antibody responses can be increased with a booster dose of either AZD1222 or AZD2816. Importantly, we saw no evidence that priming of the immune system response was detrimental when mice received a booster dose of ChAdOx1 expressing B.1.351 expressing protein.
+
+    / June, 2021 - BioRxiv
+    quote !b = Equivalent high levels of T cells were observed, with equivalent cytokines produced and populations of effector and memory T cells.
+
+    / June, 2021 - BioRxiv
+    quote !c = Boosting mice with one dose of AZD2816 after a one or two doses of AZD1222 led to an increase in binding antibody titres in addition to neutralisation against B.1.351 and both B.1.617 variants. In addition, higher antibody titres against P.1, B.1.1.7. B.1.429 and D614G spike was also observed.
+
+
+
+  #
+  // Dynamics of the SARS-CoV-2 antibody response up to 10 months after infection
+  doi: https://doi.org/10.1038/s41423-021-00708-6
+  ref 'Wang_et_al_06_07_2021
+    head =  We repeatedly tested IgM, IgG, viral spike protein receptor-binding dom (anti-RBD) IgG, and NAb titers in COVID-19 patients during a follow-up period of up to 10 months and explored potential predisposing factors of antibody titers during follow-up.
+
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+      !i
+
+    / June, 2021 - Cellular & Molecular Immunology
+    quote !a = The positivity rates for IgM, IgG, anti-RBD IgG, and NAb fell to 20.4%, 97.9%, 97.4%, and 95.8%, respectively, during 9–10 months post symptom onset.
+
+    / June, 2021 - Cellular & Molecular Immunology
+    quote !b = A rapid decline in IgM titers was observed from 1 to 6 months post symptom onset, with median (IQR) optical density (OD) values at 1–2, 3–4, and 5–6 months post symptom onset of 0.65 (0.15–1.24), 0.18 (0.05–0.51), and 0.06 (0.02–0.21), respectively. IgM titers remained relatively stable for 6–10 months.
+
+    / June, 2021 - Cellular & Molecular Immunology
+    quote !c = Progressive declines in IgG and anti-RBD IgG were observed during 1–10 months after symptom onset, with median OD (IQR) values from 2.61 (2.20–3.00) and 3.11 (2.69–3.51) at 1–2 months to 2.08 (1.74–2.64) and 2.29 (1.95–2.67) at 9–10 months post symptom onset.
+
+    / June, 2021 - Cellular & Molecular Immunology
+    quote !d = Similarly, a significant decrease in NAbs was identified during the whole observation period. The median (IQR) NT50 was 1096 (430–3222) during 1–2 and decreased to 249 (105–501) during months 9–10.
+
+    / June, 2021 - Cellular & Molecular Immunology
+    quote !e = NAb titers during 1–2 months post symptom onset were significantly higher in elderly participants, severe cases, and patients without repositive RNA tests or with hypertension.
+
+    / June, 2021 - Cellular & Molecular Immunology
+    quote !f = Compared to the group with a long viral clearance duration, the group with a short viral clearance duration had a higher NAb titer during 1–2 months and a lower titer during 5–10 months post symptom onset.
+
+    / June, 2021 - Cellular & Molecular Immunology
+    quote !g = We found the NAb seropositive rate during the 10 months post onset to be 95.8%, which was much higher than that in another study conducted by He et al. in Wuhan with 9 months of observation (46.0%). One plausible explanation for the difference is that the intensity and duration of humoral immune responses might be inherently heterogeneous for patients with different degrees of severity.
+
+    / June, 2021 - Cellular & Molecular Immunology
+    quote !h = We found that participants with long viral clearance durations had lower NAb titers for 1–2 months but higher NAb titers for 5–10 months than those with short viral clearance durations. Strong antibody response in the early period may help to block virus entry and facilitate viral clearance; a long viral clearance duration may contribute to a persistently strong antibody response in the late convalescence phase.
+
+    / June, 2021 - Cellular & Molecular Immunology
+    quote !i = We observed that pre-existing hypertension was linked to higher NAb titers during 1–6 months of convalescence. Hypertension is one of the most common comorbidities of COVID-19 patients and is linked to increased mortality and morbidity in the pandemic. Our findings provide a clue regarding a link between hypertension and the immune response in COVID-19.
+
+
 
 
   #

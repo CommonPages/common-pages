@@ -89,7 +89,7 @@ subject module Disease
       # 'Graham_et_al_05_16_2020.!b
 
     / Symptomatic Cases
-    claim !SymptomaticCases = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash, Reactive Infectious Mucocutaneous Eruption and neurological manifestations, and psychiatric effects have also been reported.
+    claim !SymptomaticCases = Fever is the most common symptom of COVID-19. Other symptoms include cough, loss of appetite, fatigue, shortness of breath, sputum production, and myalgia. Additional symptoms such as loss of smell and taste, skin rash, Reactive Infectious Mucocutaneous Eruption and neurological manifestations, and psychiatric effects have also been reported. In a community-based study (King County, Washington), fewer children were symptomatic compared with adults. When symptomatic, fewer symptoms were reported in children- the most common symptoms reported were runny or stuffy nose, fever, headache, and cough.
       -
         'Chen_et_al_2020d
         'Ragona_et_al_2020
@@ -103,6 +103,8 @@ subject module Disease
         'Kluytmans_et_al_2020
         'Siddiqi_et_al_2020
         'Berlin_et_al_2020
+      -
+        !Realworldchildrensymptoms
       -
         !Psychiatricdiagnosis
       -
@@ -132,6 +134,14 @@ subject module Disease
           'Taquet_et_al_11_09_2020.!b
           'Taquet_et_al_11_09_2020.!c
           'Taquet_et_al_11_09_2020.!d
+
+      / Children
+      claim !Realworldchildrensymptoms = In a community-based cross-sectional study (King County, Washington), fewer children were symptomatic compared with adults. When symptomatic, fewer symptoms were reported in children compared with adults. The most common signs or symptoms reported in children were runny or stuffy nose, fever, headache, and cough.
+        -
+          'Chung_et_al_06_11_2021
+          'Chung_et_al_06_11_2021.!b
+          'Chung_et_al_06_11_2021.!c
+          'Chung_et_al_06_11_2021.!d
 
     / Severe Cases
     claim !SevereCases = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others. A case series in the Indian subcontinent reported cases of rhino-orbital–cerebral mucormycosis following COVID-19 infections. A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%.
@@ -876,7 +886,7 @@ subject module Disease
           'Khoury_et_al_05_17_2021.!a
           'Khoury_et_al_05_17_2021.!b
 
-        claim !Longevity = There have been reports of SARS-CoV-2 antibodies waning. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Specific IgG antibodies was still present after 7 months. Concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. A study on Extreme aged individuals and centenarians antibodies found that humoral responses were still detectable after 60 days from initial diagnosis. Past studies on antibodies longevity of diifferent coronaviruses have shown to last for atleast a year. A model study predicts that immune protection from infection may wane with time as neutralization levels decline, and that booster immunization may be required within a year. However, protection from severe infection should be largely retained.
+        claim !Longevity = There have been reports of SARS-CoV-2 antibodies waning. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Specific IgG antibodies was still present after 7 months.  Concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. A study on Extreme aged individuals and centenarians antibodies found that humoral responses were still detectable after 60 days from initial diagnosis. Past studies on antibodies longevity of diifferent coronaviruses have shown to last for atleast a year. One study depicts the positivity rates for IgM, IgG, anti-RBD IgG, and NAb fell to 20.4%, 97.9%, 97.4%, and 95.8%, respectively, during 9–10 months post symptom onset. A long viral clearance duration may contribute to a persistently strong antibody response in the late convalescence phase. Pre-existing hypertension was linked to higher NAb titers during 1–6 months of convalescence. A model study predicts that immune protection from infection may wane with time as neutralization levels decline, and that booster immunization may be required within a year. However, protection from severe infection should be largely retained.
           -
             !Cv2Waning
             !Neutralizinglevelpredictor
@@ -887,6 +897,7 @@ subject module Disease
             ?Reinfection.!7monthsprotection
             !Diversity.!Age.!Extremeagedindividualsandcentenarians
             Vaccines.Approved.Tozinameran.!MemoryBcells
+            !Antibodies10months
           - Past Studies
             !Mers
             !Sars
@@ -916,6 +927,21 @@ subject module Disease
             -
               'Lumley_et_al_11_19_2020
               'Lumley_et_al_11_19_2020.!a
+
+          claim !Antibodies10months = One study depicts the comprehensive dynamics of the four most relevant antibodies (IgM, IgG, anti-RBD IgG, and NAb) for SARS-CoV-2 for up to 10 months in 215 participants consisting of patients with both mild and severe disease. The positivity rates for IgM, IgG, anti-RBD IgG, and NAb fell to 20.4%, 97.9%, 97.4%, and 95.8%, respectively, during 9–10 months post symptom onset. A long viral clearance duration may contribute to a persistently strong antibody response in the late convalescence phase. Pre-existing hypertension was linked to higher NAb titers during 1–6 months of convalescence.
+
+            -
+              'Wang_et_al_06_07_2021
+              'Wang_et_al_06_07_2021.!a
+              'Wang_et_al_06_07_2021.!b
+              'Wang_et_al_06_07_2021.!c
+              'Wang_et_al_06_07_2021.!d
+              'Wang_et_al_06_07_2021.!e
+              'Wang_et_al_06_07_2021.!f
+              'Wang_et_al_06_07_2021.!g
+              'Wang_et_al_06_07_2021.!h
+              'Wang_et_al_06_07_2021.!i
+
 
 
           claim !Mers = MERS antibodies have been shown to last for 18 months
@@ -1073,7 +1099,7 @@ subject module Disease
         'Lv_et_al_06_02_2020
 
 
-    
+
 
     / Reinfection
     question ?Reinfection

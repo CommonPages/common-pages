@@ -9,6 +9,7 @@ subject module Vaccines
     EfficacyVariants
     Effects
     EffectiveDosing
+
   -
     Triage
   - Questions
@@ -106,9 +107,11 @@ subject module Vaccines
         !PriorinfectionPfizerneutralizingactivity
         !UKPostvaccineantispikeIgG
         !PriorinfectedBNT162b2
+        !Fcmediatedeffectorcellularresponse
       - Delaying 2nd Dose
         !Delayed2nddosepfizer
         !RealworldVEsingledose
+        !Fcmediatedeffectorcellularresponse
       - Heterologous Prime Booster
         !HeterologousprimeboostChAdBNT
         !GermanyHeterologousChAdOxBNT
@@ -160,8 +163,10 @@ subject module Vaccines
         !BCellresponse
         !MemoryBcells
         !UKPostvaccineantispikeIgG
+        !Pfizerantibodyneutralisation
+      - Spike-specific CD4+ and CD8+ T cells and non-neutralizing antibody-dependent cytotoxicity
         !Humoralpolyspecificcellular
-
+        !Fcmediatedeffectorcellularresponse
       - Cross Neutralizing
         Variants.B1351.!CrossNeutralizingactivity
       - Severe Reactions
@@ -170,6 +175,7 @@ subject module Vaccines
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!RiskCVT
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!Diagnosis.!PF4polyanion
         !Myocarditis
+        !DelayedlargelocalreactionBIPOC
       - Real World Data: Adverse Effects
         !AdverseeffectsBNT162b2ChAdOx1
 
@@ -999,6 +1005,29 @@ subject module Vaccines
            'Hillus_et_al_06_02_2021.!b
            'Hillus_et_al_06_02_2021.!c
 
+       claim !Pfizerantibodyneutralisation = One study reported two doses of Pfizer vaccine provided a strong neutralizing antibody response against engineered SARS-CoV-2 with a USA-WA1/2020 genetic background and spike glycoproteins from the newly emerged B.1.617.1 (Kappa), B.1.617.2 (Delta), B.1.618  or B.1.525 (first identified in Nigeria) lineages. Spike proteins from B.1.3514 and B.1.617.1 exhibited the greatest reduction in neutralization.
+         -
+           'Liu_et_al_06_10_2021
+           'Liu_et_al_06_10_2021.!a
+           'Liu_et_al_06_10_2021.!b
+           'Liu_et_al_06_10_2021.!c
+
+       claim !DelayedlargelocalreactionBIPOC = In a correspondenc letter, the authors reported delayed large local reactions to mRNA vaccination in Black, Indigenous or People of Color (BIPOC) and stated that it may be less commonly recognized or reported in BIPOC vaccine recipients than in White recipients. Majority of these delayed large local reactions occurred after the receipt of the first vaccine dose and after the receipt of the mRNA-1273 vaccine.
+         -
+           'Samarakoon_et_al_06_09_2021
+           'Samarakoon_et_al_06_09_2021.!a
+           'Samarakoon_et_al_06_09_2021.!b
+           'Samarakoon_et_al_06_09_2021.!c
+           'Samarakoon_et_al_06_09_2021.!d
+
+       claim !Fcmediatedeffectorcellularresponse = One study detected strong anti-receptor binding domain (RBD) and Spike antibodies with Fc-mediated effector functions and cellular responses dominated by the CD4+ T cell component. A single dose of this mRNA vaccine to individuals previously infected by SARS-CoV-2 boosted all humoral and T cell responses measured, with strong correlations between T helper and antibody immunity. Naïve persons will likely most benefit from repeat immunization. Neutralizing responses were increased in both potency and breadth, with distinctive capacity to neutralize emerging variant strains.
+         -
+           'Tauzin_et_al_03_18_2021
+           'Tauzin_et_al_03_18_2021.!a
+           'Tauzin_et_al_03_18_2021.!b
+           'Tauzin_et_al_03_18_2021.!c
+           'Tauzin_et_al_03_18_2021.!d
+           'Tauzin_et_al_03_18_2021.!e
 
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
@@ -1092,6 +1121,7 @@ subject module Vaccines
         Tozinameran.AnaphylaxisPEG
         Tozinameran.!BellsPalsy
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!RiskCVT
+        Tozinameran.!DelayedlargelocalreactionBIPOC
       >
         There have been many incidents where mRNA vaccine recipients have felt that their arm is on "fire". Scientists call it as germinal centers, where lymph nodes drain the arm after the mRNA vaccination in humans.
       - Side Effects
@@ -1312,6 +1342,7 @@ subject module Vaccines
       - Pre clinical trials
         !AnimalStudies
         !MiceDosing
+        !PreclinicalAZD2816
       - Phase 1 & 2
         !Phase12AstraZeneca
         !Phase12Dosing
@@ -1328,6 +1359,7 @@ subject module Vaccines
         Tozinameran.!AdverseeffectsBNT162b2ChAdOx1
         Tozinameran.!RealworldevidenceUK
         BBV152.!RealworldIndia2doses
+        !Indiacovishield
       -
         Tozinameran.!Realworldvaccinationresults
       - US Phase 3 Results
@@ -1362,9 +1394,11 @@ subject module Vaccines
         !PreviouslyinfectedChAdOx1
       - Vaccine efficacy against the B.1 and B.1.617.1
         !Covishieldneutralizing
+        !PreclinicalAZD2816
       - Vaccine efficacy against B.1.617.2
         !PHEupdatevaccineeffectiveness
         Variants.B1617.!B16172neutralizingantibodies
+        !PreclinicalAZD2816
       - Immune Response
         Tozinameran.!UKPostvaccineantispikeIgG
       - Animal challenge
@@ -1525,6 +1559,21 @@ subject module Vaccines
 
       / Thrombotic Thrombocytopenia (Blood Clots)
       claim !ThromboticThrombocytopenia = Several cases of moderate-to-severe thrombocytopenia and thrombotic complications at unusual sites beginning approximately 1 to 2 weeks have developed after vaccination against SARS-CoV-2 with ChAdOx1 nCov-19 and Ad26.COV2.S vaccine (Johnson & Johnson/Janssen) suggesting a disorder that clinically resembles severe heparin-induced thrombocytopenia. Emerging data suggest that the association reflects a ‘vaccine-induced thrombotic thrombocytopaenia’ (VITT). Governments and regulatory authorities (EMA, NACI, JCVI) have reacted by restricting the use of the two vaccines in different subgroups of the population, based on a risk-benefit analysis. They all confirm overall benefit-risk remains positive. A population-based study (Norway) reported a higher prevalence of milder bleeding episodes following vaccination with adeno-vectored compared to mRNA vaccines. Lab studies from Germany presented data that may explain these severe side effects- terming it “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). If right, vaccines could theoretically be modified to avoid it.
+
+        -
+          ChAdOx1nCoV-19
+          Ad26COV2S
+        -
+          !Medicalevaluation
+          !Treatmentapproach
+          !Biomarkers
+          !Diagnosis
+          !RiskCVT
+          !Mildbleeding
+        >
+          Lab studies from Germany presented data that may explain these severe side effects (thromboembolic events) which have been attributed to adenoviral vaccines (AZ & J&J vaccines). They termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). If right, vaccines could theoretically be modified to avoid it.
+        -
+          !VIC19Msyndrome
 
         / Oxford–AstraZeneca
         subject ChAdOx1nCoV-19
@@ -2108,10 +2157,7 @@ subject module Vaccines
             'Trogstad_et_al_2021.!a
             'Trogstad_et_al_2021.!b
 
-        >
-          Lab studies from Germany presented data that may explain these severe side effects (thromboembolic events) which have been attributed to adenoviral vaccines (AZ & J&J vaccines). They termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). If right, vaccines could theoretically be modified to avoid it.
-        -
-          !VIC19Msyndrome
+
 
         / Vaccine-Induced Covid-19 Mimicry syndrome (VIC19M syndrome).
         claim !VIC19Msyndrome = Lab studies from Germany presented data that may explain these severe side effects (thromboembolic events) which have been attributed to adenoviral vaccines (AZ & J&J vaccines). They termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). If right, vaccines could theoretically be modified to avoid it.
@@ -2192,6 +2238,20 @@ subject module Vaccines
           'Bernal_et_al_05_23_2021.!g
 
 
+      claim !PreclinicalAZD2816 = A preclinical study demonstrated that AZD2816 (a new ChAdOx1 nCoV-19 vaccine expressing B.1.351 spike protein) is immunogenic after a single dose and when used as a booster dose in animals primed with original vaccine AZD1222, there was no evidence of original antigenic sin but high titre antibodies against a number of variant spike proteins. In addition, neutralisation titres against B.1.351 (Beta), B.1.617.1 (Kappa) and B.1.617.2 (Delta), are induced in these boost regimens.
+        -
+          'Spencer_et_al_06_09_2021
+          'Spencer_et_al_06_09_2021.!a
+          'Spencer_et_al_06_09_2021.!b
+          'Spencer_et_al_06_09_2021.!c
+
+      claim !Indiacovishield = Study of 10,567 health care workers in India (Feb - May 2021) showed that 2 doses of COVISHIELD (Astra Zeneca) was 94% protective against need for ICU care. 77% protection from hospitalization. The protective effect of vaccination in preventing infection is 65%. No deaths were seen in vaccinated healthcare workers. One death in unvaccinated healthcare worker. This study corroborates prior studies that vaccination is protective, although it did not look at the variants responsible for the massive second wave.
+        -
+          'Victor_et_al_06_03_2021
+          'Victor_et_al_06_03_2021.!a
+          'Victor_et_al_06_03_2021.!b
+          'Victor_et_al_06_03_2021.!c
+          'Victor_et_al_06_03_2021.!d
 
       claim !Casereports = The Journal highlights 3 independent descriptions of 39 persons with a newly described syndrome characterized by thrombosis and thrombocytopenia that developed 5 to 24 days after initial vaccination with ChAdOx1 nCoV-19 (AstraZeneca). Pathogeny of the syndrome are not yet clear but certain findings are consistent. Treatment management suggests that intravenous immune globulin and high-dose glucocorticoids, and nonheparin antithrombotic agents.
         - Reports
@@ -3604,9 +3664,12 @@ subject module Vaccines
       !ConcernDelay2nddose
 
     >
-      While, some researchers have argued that delaying the second vaccine dose does not increase the rate at which Immune escape variants become prevalent, in fact it might actually help to slow their emergence.
+      While, some researchers have argued that delaying the second vaccine dose does not increase the rate at which Immune escape variants become prevalent, in fact it might actually help to slow their emergence. Few studies have shown that BNT162b2 elicits not only neutralizing antibodies, but also spike-specific CD4+ and CD8+ T cells and non-neutralizing antibody-dependent cytotoxicity, which can also serve as immune effectors. Recent observations suggest that  neutralization titers might not be predictive, on their own, of protection, so, they cannot substitute for studies of vaccine efficacy and real-world effectiveness of COVID-19 vaccines against variants.
     -
       !ImmuneEscapeVariants
+    -
+      Approved.Tozinameran.!Humoralpolyspecificcellular
+      Approved.Tozinameran.!Fcmediatedeffectorcellularresponse
 
     - Epidemiological Considerations
       !Epidemiologicalconsiderationeffectivedose
@@ -3912,6 +3975,68 @@ subject module Vaccines
   question ?AsymptomaticInfection = Are any of the approved or candidate vaccines expected to protect against asymptomatic infections?
 
   question ?ReducedTransmission = What direct evidence suggests that vaccination will reduce the rate of SARS-CoV-2 transmission?
+    -
+      !Vaccinationcrossprotection
+    - Pfizer and Moderna: Real World Data
+      Approved.Tozinameran.!Israel
+      Approved.Tozinameran.!Israelday13
+      Approved.Tozinameran.!IsraelHCW
+      Approved.Tozinameran.!IsraelMassVaccination
+      Approved.Tozinameran.!IsraelMassVaccination2
+      Approved.Tozinameran.!Mohpressrelease
+      Approved.Tozinameran.!IsraelvaccinationffectivnessCovid19outcomes
+      Approved.Tozinameran.!Israelbenefitvaccinationprogram
+      Approved.Tozinameran.!IVFcycle
+    -
+      Approved.Tozinameran.!Scotland
+    -
+      Approved.Tozinameran.!Realworldvaccinationresults
+    -
+      Approved.Tozinameran.!TexasRealworld
+      Approved.Tozinameran.!RealworldeffectivenessnursinghomeUS
+      Approved.Tozinameran.!RealworldHCWUsa
+    -
+      Approved.Tozinameran.!RealworldevidenceSpain
+    -
+      Approved.Tozinameran.!RealworldAnalysis
+    -
+      Approved.Tozinameran.!GermanySingledoseincompleteprotection
+    -
+      Approved.Tozinameran.!UKPostvaccineantispikeIgG
+      Approved.Tozinameran.!AdverseeffectsBNT162b2ChAdOx1
+      Approved.Tozinameran.!RealworldevidenceUK
+    -
+      Approved.Tozinameran.!CanadaVE
+    -
+      Approved.Tozinameran.!Finland
+
+    - Oxford AstraZeneca: Real World Data
+      Approved.Tozinameran.!Scotland
+      Approved.Tozinameran.!UKPostvaccineantispikeIgG
+      Approved.CoronaVac.!BrazilPositiveImpactCoronavacAZ
+      Approved.Tozinameran.!AdverseeffectsBNT162b2ChAdOx1
+      Approved.Tozinameran.!RealworldevidenceUK
+      Approved.BBV152.!RealworldIndia2doses
+      Approved.AZD1222.!Indiacovishield
+      Approved.Tozinameran.!Realworldvaccinationresults
+      Approved.AZD1222.!PRAstrazeneca
+    - Johnson & Johnson: Real World Data
+      Approved.Ad26COV2S.!RealworldevidenceUS
+    - Sinovac (CoronaVac): Real World Data
+      Approved.CoronaVac.!Brazilsingledose
+      Approved.CoronaVac.!BrazilPositiveImpactCoronavacAZ
+      Approved.CoronaVac.!Chilepreliminarydata
+      Approved.CoronaVac.!CoronaVacrealworldBrazil
+    - Bharat Biotech: Real World Data
+      Approved.BBV152.!RealworldIndia2doses
+
+    claim !Vaccinationcrossprotection = Study provides observational evidence that vaccination not only protects individuals who have been vaccinated but also provides cross-protection to unvaccinated individuals in the community.
+      -
+        'Milman_et_al_06_03_2021
+        'Milman_et_al_06_03_2021.!a
+        'Milman_et_al_06_03_2021.!b
+        'Milman_et_al_06_03_2021.!c
+
 
   question ?AntigenExposure = Are there any differences in safety or efficacy for individuals who have had a prior antigen exposure?
 

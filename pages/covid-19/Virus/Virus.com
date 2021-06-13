@@ -159,6 +159,7 @@ subject module Virus
       !Duration
       !Lower
       !Variation
+      !Realworldviralload
       !Nose
       !Severity
       !Infectiousness
@@ -314,6 +315,15 @@ subject module Virus
       -
         'Singanayagam_et_al_08_12_2020
         'Singanayagam_et_al_08_12_2020.!f
+
+    / Symptomatic Individuals
+    claim !Realworldviralload = In a community-based cross-sectional study (King County, Washington), SARS-CoV-2 RNA levels, as determined by RT-PCR Cts, were significantly higher in symptomatic individuals than in asymptomatic individuals. There were no significant differences in RNA levels in asymptomatic children vs asymptomatic adults or in symptomatic children vs symptomatic adults.
+      -
+        'Chung_et_al_06_11_2021
+        'Chung_et_al_06_11_2021.!a
+        'Chung_et_al_06_11_2021.!b
+        'Chung_et_al_06_11_2021.!c
+        'Chung_et_al_06_11_2021.!d
 
     claim !Others = Some studies have found SARS-CoV-2 in feces and semen, though the research on its infectiousness is still ongoing.
 

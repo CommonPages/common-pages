@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *June_13 mean June_13
   let *June_7 mean June_7
   let *May_31 mean May_31
   let *May_24 mean May_24
@@ -10,7 +11,40 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_7, *May_31 and *May_24). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_13, *June_7, *May_31, *May_24, *May_21, *May_19). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: June-13-2021
+  / June 13, 2021
+  revision June_13
+    head = One study reported two doses of Pfizer vaccine provided a strong neutralizing antibody response against engineered SARS-CoV-2 with a USA-WA1/2020 genetic background and spike glycoproteins from the newly emerged B.1.617.1 (Kappa), B.1.617.2 (Delta), B.1.618 or B.1.525 (first identified in Nigeria) lineages. Study of 10,567 health care workers in India (Feb - May 2021) showed that 2 doses of COVISHIELD (Astra Zeneca) was 94% protective against need for ICU care. 77% protection from hospitalization. The protective effect of vaccination in preventing infection is 65%. No deaths were seen in vaccinated healthcare workers. It did not look at the variants responsible for the massive second wave.
+
+    -
+      Vaccines.Approved.Tozinameran.!Pfizerantibodyneutralisation
+      Vaccines.Approved.AZD1222.!Indiacovishield
+
+    >
+      In a community-based study (King County, Washington), SARS-CoV-2 RNA levels were significantly higher in symptomatic individuals than in asymptomatic individuals. There were no significant differences in RNA levels in asymptomatic children vs asymptomatic adults or in symptomatic children vs symptomatic adults. Fewer children were symptomatic compared with adults. When symptomatic, fewer symptoms were reported in children compared with adults. The most common signs or symptoms reported in children were runny or stuffy nose, fever, headache, and cough.
+    -
+      Virus.Shedding.!Realworldviralload
+      Disease.Course.!SymptomaticCases.!Realworldchildrensymptoms
+
+    >
+      Observational evidence that vaccination not only protects individuals who have been vaccinated but also provides cross-protection to unvaccinated individuals in the community. The authors reported delayed large local reactions to mRNA vaccination in Black, Indigenous or People of Color (BIPOC) and stated that it may be less commonly recognized or reported in BIPOC vaccine recipients than in White recipients. Majority of these delayed large local reactions occurred after the receipt of the first vaccine dose and after the receipt of the mRNA-1273 vaccine.
+    -
+      Vaccines.?ReducedTransmission.!Vaccinationcrossprotection
+      Vaccines.Approved.Tozinameran.!DelayedlargelocalreactionBIPOC
+    >
+      One study depicts the comprehensive dynamics of the four most relevant antibodies- the positivity rates for IgM, IgG, anti-RBD IgG, and NAb fell to 20.4%, 97.9%, 97.4%, and 95.8%, respectively, during 9–10 months post symptom onset. A long viral clearance duration may contribute to a persistently strong antibody response in the late convalescence phase. Pre-existing hypertension was linked to higher NAb titers during 1–6 months of convalescence. One study provides evidence that SARS-CoV-2 infections were present in NYC >1 month prior to the detection of the first reported NYS case.
+    -
+      Disease.Immunity.AcquiredImmunity.Antibodies.!Longevity.!Antibodies10months
+      Timeline.Outbreak.!NorthAmerica.!NYCorigin
+
+    >
+      A preclinical study demonstrated that AZD2816 (a new ChAdOx1 nCoV-19 vaccine expressing B.1.351 spike protein) is immunogenic after a single dose and when used as a booster dose in animals primed with original vaccine AZD1222, there was evidence high titre antibodies against a number of variant spike proteins. In addition, neutralisation titres against B.1.351 (Beta), B.1.617.1 (Kappa) and B.1.617.2 (Delta), are induced in these boost regimens.
+    -
+      Vaccines.Approved.AZD1222.!PreclinicalAZD2816
+
 
 
   public: June-7-2021

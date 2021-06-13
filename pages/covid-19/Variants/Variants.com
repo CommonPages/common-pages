@@ -1814,10 +1814,14 @@ subject module Variants
       Vaccines.Approved.Tozinameran.!VaccineefficacymRNAB16171
       Vaccines.Approved.Tozinameran.!VaccineefficacyBNT162b2B16171
       Vaccines.Approved.AZD1222.!Covishieldneutralizing
+      Vaccines.Approved.Tozinameran.!Pfizerantibodyneutralisation
+      Vaccines.Approved.AZD1222.!PreclinicalAZD2816
     - Vaccine related claims (B.1.617.2)
       Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
       !B16172neutralizingantibodies
       Vaccines.Approved.Tozinameran.!PfizerdeltaNAbTs
+      Vaccines.Approved.Tozinameran.!Pfizerantibodyneutralisation
+      Vaccines.Approved.AZD1222.!PreclinicalAZD2816
     -
       !Mutations
     >

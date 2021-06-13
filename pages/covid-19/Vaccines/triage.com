@@ -93,170 +93,105 @@
 
 #### 06/05/21 ####
 
+  >  https://doi.org/10.1038/s41586-021-03693-y
+    a recent study found that BNT162b2-immune sera neutralized a clinical B.1.617.1 isolate with 0.14 times the neutralization titer of the sera against WT virus22.('Edara_et_al_07_30_2021) Other studies have found that BNT162b2-immune sera have 0.25 to 0.35 times the inhibitory titer against pseudovirus with a B.1.617.1 spike compared to that against WT spike pseudovirus23, and that BNT162b2 immune sera inhibit pseudovirus with a B.1.618 spike to 0.37 times the serum inhibition titer against WT spike pseudovirus20 ('Tada_et_al_05_16_2021
+
+    A recent real-world study in participants who had received two doses of BNT162b2 demonstrated an effectiveness of 75% against any documented infection and 100% against documented severe, critical, or fatal disease caused by the variant B.1.35125, which showed a similar reduction of neutralization titers as B.1.617.1
+    Consistent with the modest reduction in neutralization of the B.1.617.2 variants by BNT162b2-elicitedsera reported here, a test negative case control study conducted in the United Kingdom found that the real world effectiveness of two
+    doses of BNT162b2 against B.1.617.2 virus was only modestly reduced to 87.9%, compared to 93.4% effectiveness against B.1.1.7 lineage virus26 ('Bernal_et_al_05_23_2021).Thus, reductions in neutralization like those observed in this study have not been demonstrated to result in loss of vaccine efficacy against disease.
 
 
-  claim !DeltaDelhi = Genomic surveillance data from Delhi and surrounding states show that Delta (B.1.617.2) is more transmissible (50% greater) than Alpha (B.1.1.7), without any increase in CFR. Viral load of Delta (B.1.617.2) appears to be higher than Alpha (B.1.1.7). There seems to be greater immune escape and reinfection. Fully vaccinated breakthroughs were disproportionately due to Delta (B.1.617.2), but usually mild.
+    B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The modest neutralization resistance of the variant spike proteins suggests that Pfizer and Moderna mRNA vaccines will remain protective against the B.1.617.1, B.1.617 and B.1.618 variants.  PHE findings demonstrated Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine (BNT162b2 and ChAdOx1) is approximately 33%, for two doses of BNT162b2 is approximately 88%.
+
+    Consistent with the modest reduction in neutralization of the B.1.617.2 variants by BNT162b2-elicitedsera reported here, a test negative case control study conducted in the United Kingdom found that the real world effectiveness of two
+    doses of BNT162b2 against B.1.617.2 virus was only modestly reduced to 87.9%, compared to 93.4% effectiveness against B.1.1.7 lineage virus26 ('Bernal_et_al_05_23_2021)
+
+    BNT162b2 elicits not only neutralizing antibodies, but also spike-specific CD4+ and CD8+ T cells and non-neutralizing antibody-dependent cytotoxicity, which can also serve as immune effectors. Because neutralization titers do not measure all potentially protective vaccine responses, they cannot substitute for studies of vaccine efficacy and real-world effectiveness of COVID-19 vaccines against variants.
+
+
+    New variants will continue to emerge as the pandemic persists. To date, there is no evidence that virus variants have escaped
+    BNT162b2-mediated protection from COVID-19. Therefore, increasing the proportion of the population immunized with current safe and effective authorized vaccines remains a key strategy to minimize the emergence of new variants and end the COVID-19 pandemic
+
+  claim !Pfizerantibodyneutralisation = One study reported two doses of Pfizer vaccine provided a strong neutralizing antibody response against engineered SARS-CoV-2 with a USA-WA1/2020 genetic background and spike glycoproteins from the newly emerged B.1.617.1 (Kappa), B.1.617.2 (Delta), B.1.618 or B.1.525 (first identified in Nigeria) lineages. Spike proteins from B.1.3514 and B.1.617.1 exhibited the greatest reduction in neutralization.
     -
-      'Dhar_et_al_06_03_2021
-      'Dhar_et_al_06_03_2021.!a
-      'Dhar_et_al_06_03_2021.!b
-      'Dhar_et_al_06_03_2021.!c
-      'Dhar_et_al_06_03_2021.!d
-      'Dhar_et_al_06_03_2021.!e
-      'Dhar_et_al_06_03_2021.!f
-      'Dhar_et_al_06_03_2021.!g
-      'Dhar_et_al_06_03_2021.!h
+      'Liu_et_al_06_10_2021
+      'Liu_et_al_06_10_2021.!a
+      'Liu_et_al_06_10_2021.!b
+      'Liu_et_al_06_10_2021.!c
 
-
-
-  claim !Deltacontainment = Prior infections, high seropositivity and partial vaccination are insufficient impediments to Delta (B.1.617.2) spread, as seen in Delhi and strong public health response will be needed globally for its containment..
+  claim !Realworldviralload = In a community-based cross-sectional study (King County, Washington), SARS-CoV-2 RNA levels, as determined by RT-PCR Cts, were significantly higher in symptomatic individuals than in asymptomatic individuals. There were no significant differences in RNA levels in asymptomatic children vs asymptomatic adults or in symptomatic children vs symptomatic adults.
     -
-      'Dhar_et_al_06_03_2021
-      'Dhar_et_al_06_03_2021.!a
-      'Dhar_et_al_06_03_2021.!d
-      'Dhar_et_al_06_03_2021.!e
-      'Dhar_et_al_06_03_2021.!f
-      'Dhar_et_al_06_03_2021.!g
+      'Chung_et_al_06_11_2021
+      'Chung_et_al_06_11_2021.!a
+      'Chung_et_al_06_11_2021.!b
+      'Chung_et_al_06_11_2021.!c
+      'Chung_et_al_06_11_2021.!d
 
-  claim !DeltaDelhiorigin = Genomic surveillance data from Delhi and surrounding states shows an early phase of the upsurge driven by the entry of the more transmissible B.1.1.7 variant of concern (VOC) into the region in January, with at least one B.1.1.7 super spreader event in February 2021, relatable to known mass gatherings over this period. This was followed by seeding of the B.1.617 VOC, which too is highly transmissible, with rapid expansion of B.1.617.2 sub-lineage outpacing all other lineages.
+
+  claim !Realworldchildrensymptoms = In a community-based cross-sectional study (King County, Washington), fewer children were symptomatic compared with adults. When symptomatic, fewer symptoms were reported in children compared with adults. The most common signs or symptoms reported in children were runny or stuffy nose, fever, headache, and cough.
     -
-      'Dhar_et_al_06_03_2021
-      'Dhar_et_al_06_03_2021.!h
-      'Dhar_et_al_06_03_2021.!a
-      'Dhar_et_al_06_03_2021.!d
-      'Dhar_et_al_06_03_2021.!f
-      'Dhar_et_al_06_03_2021.!g
+      'Chung_et_al_06_11_2021
+      'Chung_et_al_06_11_2021.!b
+      'Chung_et_al_06_11_2021.!c
+      'Chung_et_al_06_11_2021.!d
 
-
-  claim !IgM14 = One study demonstrated that a single intranasal (IN) dose of 0.044 and 0.4 mg/kg IgM-14 can improves efficacy, reduce resistance, and simplify the prophylactic and therapeutic treatment of COVID-19. IgM-14, but not IgG-14, confers potent therapeutic protection against the P.1 and B.1.351 variants.
+  claim !Indiacovishield = Study of 10,567 health care workers in India (Feb - May 2021) showed that 2 doses of COVISHIELD (Astra Zeneca) was 94% protective against need for ICU care. 77% protection from hospitalization. The protective effect of vaccination in preventing infection is 65%. No deaths were seen in vaccinated healthcare workers. One death in unvaccinated healthcare worker. This study corroborates prior studies that vaccination is protective, although it did not look at the variants responsible for the massive second wave.
     -
-      'Ku_et_al_06_03_2021
-      'Ku_et_al_06_03_2021.!a
-      'Ku_et_al_06_03_2021.!b
-      'Ku_et_al_06_03_2021.!c
-      'Ku_et_al_06_03_2021.!d
-      'Ku_et_al_06_03_2021.!e
+      'Victor_et_al_06_03_2021
+      'Victor_et_al_06_03_2021.!a
+      'Victor_et_al_06_03_2021.!b
+      'Victor_et_al_06_03_2021.!c
+      'Victor_et_al_06_03_2021.!d
+  >
+    Single dose provided 95% protection from ICU admission. However, note that we don't know what proportion of cases were due to B.1.617.2 (delta variant) or B.1.617.1 variant or wild type. UK study showed 88% protection from symptomatic COVID against delta variant with 2 doses of Pfizer; 66% with Astra Zeneca vaccine. With 1 dose, protection was 33%. This study is specific to delta variant, & endpoint was symptomatic COVID. Not ICU care.
 
-
-  claim !PfizerHIV = A case of one individual with uncontrolled HIV replication who did not respond to two doses of the BNT162b2 SARS-CoV-2 vaccine. Post-vaccine samples showed no IgG reactivity against the S1 subunit of the spike protein. No SARS-CoV-2-specific neutralisation was observed.
+  claim !DelayedlargelocalreactionBIPOC = In a correspondenc letter, the authors reported delayed large local reactions to mRNA vaccination in Black, Indigenous or People of Color (BIPOC) and stated that it may be less commonly recognized or reported in BIPOC vaccine recipients than in White recipients. Majority of these delayed large local reactions occurred after the receipt of the first vaccine dose and after the receipt of the mRNA-1273 vaccine.
     -
-      'Touizer_et_al_06_2021
-      'Touizer_et_al_06_2021.!a
-      'Touizer_et_al_06_2021.!b
-      'Touizer_et_al_06_2021.!c
+      'Samarakoon_et_al_06_09_2021
+      'Samarakoon_et_al_06_09_2021.!a
+      'Samarakoon_et_al_06_09_2021.!b
+      'Samarakoon_et_al_06_09_2021.!c
+      'Samarakoon_et_al_06_09_2021.!d
 
-
-
-  claim !Pfizerfertility = One study looked at 47 IVF patients who attended for treatment both before and after 2 doses of BNT162b2 COVID-19 vaccine, and provides data showing that this vaccine likely does not impair women’s fertility - No difference in eggs retrieved, fertilisation rate,embryo quality, and clinical pregnancy rate
+  claim !Vaccinationcrossprotection = Study provides observational evidence that vaccination not only protects individuals who have been vaccinated but also provides cross-protection to unvaccinated individuals in the community.
     -
-      'Safrai_et_al_06_01_2021
-      'Safrai_et_al_06_01_2021.!a
-      'Safrai_et_al_06_01_2021.!b
-      'Safrai_et_al_06_01_2021.!c
-      'Safrai_et_al_06_01_2021.!d
+      'Milman_et_al_06_03_2021
+      'Milman_et_al_06_03_2021.!a
+      'Milman_et_al_06_03_2021.!b
+      'Milman_et_al_06_03_2021.!c
 
-  #
-  claim !Pregnantwomenplacenta = A study looked at the placentas of 84 pregnant women who received the vaccine, compared to 116 who did not, at delivery. No increase in placental pathology (decidual arteriopathy, fetal vascular malperfusion, low-grade chronic villitis, or chronic histiocytic intervillositis) following Covid-19 vaccination.
+  claim !Antibodies10months = One study depicts the comprehensive dynamics of the four most relevant antibodies (IgM, IgG, anti-RBD IgG, and NAb) for SARS-CoV-2 for up to 10 months in 215 participants consisting of patients with both mild and severe disease. The positivity rates for IgM, IgG, anti-RBD IgG, and NAb fell to 20.4%, 97.9%, 97.4%, and 95.8%, respectively, during 9–10 months post symptom onset. A long viral clearance duration may contribute to a persistently strong antibody response in the late convalescence phase. Pre-existing hypertension was linked to higher NAb titers during 1–6 months of convalescence.
+
+  # The more we look, the neutralizing antibody response to covid infections keeps getting better: new report ≥ 10 months, not significantly affected by age, severity of illness IgM titers remained relatively stable for 6–10 months. Progressive declines in IgG, anti-RBD, and NAbs were observed during 1–10 months after symptom onset. NAb titers during 1–2 months post symptom onset were significantly higher in elderly participants, severe cases, and patients without repositive RNA tests or with hypertension. Participants with short viral clearance duration had a higher NAb titer during 1–2 months and a lower titer during 5–10 months post symptom onset. Participants with long viral clearance durations had lower NAb titers for 1–2 months but higher NAb titers for 5–10 months than those with short viral clearance durations.
     -
-      'Shanes_et_al_05_11_2021
-      'Shanes_et_al_05_11_2021.!a
-      'Shanes_et_al_05_11_2021.!b
-      'Shanes_et_al_05_11_2021.!c
-      'Shanes_et_al_05_11_2021.!d
-      'Shanes_et_al_05_11_2021.!e
-
-
-  / Pfizer NAbTs against B.1.617.2 (delta variant)
-  claim !PfizerdeltaNAbTs = Correspondence reports initial analysis of neutralising antibody (nAbs) activity against SARS-CoV-2 variants of concern B.1.617.2 and B.1.351 elicited by partial or full vaccination with BNT162b2 (Pfizer-BioNTech) showed 5·8-fold reduced against B.1.617.2 (delta variant) similar to the reduction observed against B.1.351 (4·9-fold). In the case of single-dose recipients, NAbTs were significantly lower against B.1.617.2 and B.1.351 VOCs relative to B.1.1.7. 2 doses of vaccine- high levels of nAbs.
-    -
-      'Wall_et_al_06_03_2021
-      'Wall_et_al_06_03_2021.!a
-      'Wall_et_al_06_03_2021.!b
-      'Wall_et_al_06_03_2021.!c
-      'Wall_et_al_06_03_2021.!d
-
-
-  / prime-boost immunisation
-  claim !GermanyHeterologousChAdOxBNT = The interim analysis of an observational cohort study (health care workers- Berlin, Germany) provides evidence that the currently recommended heterologous ChAdOx/BNT immunisation regimen with 10-12 week vaccine intervals is well tolerated and slightly more immunogenic compared to homologous BNT/BNT vaccination with three week vaccine intervals.
-    -
-      'Hillus_et_al_06_02_2021
-      'Hillus_et_al_06_02_2021.!a
-      'Hillus_et_al_06_02_2021.!b
-      'Hillus_et_al_06_02_2021.!c
+      'Wang_et_al_06_07_2021
+      'Wang_et_al_06_07_2021.!a
+      'Wang_et_al_06_07_2021.!b
+      'Wang_et_al_06_07_2021.!c
+      'Wang_et_al_06_07_2021.!d
+      'Wang_et_al_06_07_2021.!e
+      'Wang_et_al_06_07_2021.!f
+      'Wang_et_al_06_07_2021.!g
+      'Wang_et_al_06_07_2021.!h
+      'Wang_et_al_06_07_2021.!i
 
   >
-    One study suggest that the benefits of delaying the second dose, in terms of wider population coverage and increased individual NAbTs after the second dose, must now be weighed against decreased efficacy in the short-term, in the context of the spread of B.1.617.2.
+    Ongoing surveillance has identified B.1.617.2 as a VoC that is spreading rapidly within the UK and elsewhere. Two dose vaccination with AZD1222 induces antibodies capable of neutralising B.1.617.1 and B.1.617.2 (Table 1), and early real-world evidence suggest that the effectiveness of this regimen against hospitalisation and death is maintained
 
-  >
-    The SARS-CoV-2 B.1.617.2 Variant of Concern (VOC), first detected in India, is now dominant in the UK, having rapidly1 displaced the B.1.1.7 strain2 that emerged in the UK with the second COVID-19 wave in late 2020.The efficacy of currently licensed COVID-19 vaccines against B.1.617.2 is unknown; although it possesses 12 mutations in its spike protein relative to the wildtype SARS-CoV-2 first detected in Wuhan, China, in December, 2019, B.1.617.2 lacks mutations at amino acid positions 501 or 484 in its ACE2 receptor-binding domain, commonly associated with VOCs (appendix p 2) or escape from neutralising antibodies (NAbs).
+  claim !PreclinicalAZD2816 = A preclinical study demonstrated that AZD2816 (a new ChAdOx1 nCoV-19 vaccine expressing B.1.351 spike protein) is immunogenic after a single dose and when used as a booster dose in animals primed with original vaccine AZD1222, there was no evidence of original antigenic sin but high titre antibodies against a number of variant spike proteins. In addition, neutralisation titres against B.1.351 (Beta), B.1.617.1 (Kappa) and B.1.617.2 (Delta), are induced in these boost regimens.
 
-  >
-    To maximise population coverage, the UK extended the interval between the two BNT162b2 doses. Although this might have had a limited impact of protection against parental SARS-CoV-2 strains or the B.1.1.7 variant, the potential impact on protection from other VOCs is poorly understood.
-
-
-
-
-  claim !RealworldIndia2doses = A Pan-India cross-sectional COVAT study (Indian health-care workers) after the completion of two doses of both vaccines (Covishield and Covaxin) suggests that both vaccines showed 95% seropositivity to anti-spike antibody, 21-36 days after the 2nd completed dose. Seropositivity rates and median anti-spike antibody titre was significantly higher in Covishield (97.8%) compared to Covaxin arm (79.3%).
+  # The ChAdOx1 vectored vaccine, AZD2816, induces strong immunogenicity against SARS-CoV-2 B.1.351 and other variants of concern in preclinical studies One study data demonstrates that vaccination with ChAdOx1 nCoV-19 (AZD1222) induces high titre cross-reactive antibodies capable of neutralising a number of SARS-CoV-2 variants of concern, B.1.351 (Beta), B.1.617.1 (Kappa) and B.1.617.2 (Delta). Most importantly these responses can be further enhanced by a booster dose of vaccine expressing the spike protein from B.1.351.
     -
-      'Singh_et_al_06_04_2021
-      'Singh_et_al_06_04_2021.!a
-      'Singh_et_al_06_04_2021.!b
-      'Singh_et_al_06_04_2021.!c
-      'Singh_et_al_06_04_2021.!d
-      'Singh_et_al_06_04_2021.!e
+      'Spencer_et_al_06_09_2021
+      'Spencer_et_al_06_09_2021.!a
+      'Spencer_et_al_06_09_2021.!b
+      'Spencer_et_al_06_09_2021.!c
 
-  claim !Realworldindiasingledose = A Pan-India cross-sectional COVAT study (Indian health-care workers) showed that Covishield showed a good seropositivity rate and a 4-fold rise in median antibody titre even after a single dose, while Covaxin gained a significant increase in both seropositivity and antibody titre only after the two completed doses.
-    -
-      'Singh_et_al_06_04_2021
-      'Singh_et_al_06_04_2021.!c
-      'Singh_et_al_06_04_2021.!d
-
-  claim !Realworldindiapriorinfection = A Pan-India cross-sectional COVAT study (Indian health-care workers) showed that 100% of cohorts with a past history of SARS-CoV-2 were seropositive after the two doses of both vaccines. One dose of either vaccine yielded a very high seropositivity and anti-spike antibody titre in SARS-CoV-2 recovered individuals.
-    -
-      'Singh_et_al_06_04_2021
-      'Singh_et_al_06_04_2021.!e
-      'Singh_et_al_06_04_2021.!b
-
-
-
-
-  claim !realworldSouthafrica = In a correspondence letter, the authors reported interim safety data from the first 288,368 participants who were vaccinated with Ad26.COV2.S (single-dose) in the Sisonke study (500,000 health care workers in South Africa). The rate of adverse events with vaccination is low, and thromboembolic events have occurred mainly in persons with risk factors for thromboembolism. To date, no case of vaccine-induced immune thrombotic thrombocytopenia has been documented.
-    -
-      'Takuva_et_al_06_02_2021
-      'Takuva_et_al_06_02_2021.!a
-      'Takuva_et_al_06_02_2021.!b
-      'Takuva_et_al_06_02_2021.!c
-      'Takuva_et_al_06_02_2021.!d
-      'Takuva_et_al_06_02_2021.!e
-      'Takuva_et_al_06_02_2021.!f
-
-  / REGEN-COV protects against mutational escape
-  claim !REGEN-COVprotection = One study demonstrated that REGEN-COV retains neutralization potency against current variants of concern/interest. In vitro escape studies can predict emergence of viral variants in animals and humans. 3 noncompeting mAb in combination reduce variant risk compared to a combination of 2. Treatment with REGEN-COV in humans does not lead to emergence of viral variants.
-    -
-      'Copin_et_al_06_05_2021
-      'Copin_et_al_06_05_2021.!a
-      'Copin_et_al_06_05_2021.!b
-      'Copin_et_al_06_05_2021.!c
-      'Copin_et_al_06_05_2021.!d
-
-
-
-
-  >
-    Evidence of rare thrombotic events associated with ChAdOx has led to recommendation of a heterologous booster with mRNA vaccines for certain age groups in several European countries, despite a lack of robust safety and immunogenicity data for this vaccine regimen.
-
-
-
-  claim !Celltocellspread = One study observations suggest that, once cells are infected with SARS-CoV-2, they can infect other cells in ways which are very difficult to inhibit with antibodies. Cell-to-cell spread of SARS-CoV-2 may prove to play a role in pathology and possibly persistence.
-    -
-      'Jackson_et_al_06_01_2021
-      'Jackson_et_al_06_01_2021.!a
-      'Jackson_et_al_06_01_2021.!b
-      'Jackson_et_al_06_01_2021.!c
-      'Jackson_et_al_06_01_2021.!d
-      'Jackson_et_al_06_01_2021.!e
-      'Jackson_et_al_06_01_2021.!f
-  # SARS-CoV-2 may be more difficult to neutralize in cell types and anatomical compartments permissive for cell-to-cell spread. Like with other viruses,
+  claim !NYCorigin = One study provides evidence that SARS-CoV-2 infections were present in NYC >1 month prior to the detection of the first reported NYS case.
+  -
+    'Hernandez_et_al_06_03_2021
+    'Hernandez_et_al_06_03_2021.!a
+    'Hernandez_et_al_06_03_2021.!b
 
 
   claim !Microarraypatch = One study demonstrated  SARS-CoV-2 spike vaccination via a microarray patch - they showed the vaccine, dry-coated on the patch is thermostable, and delivery of spike via HD-MAP induced greater cellular and antibody immune responses, with serum able to potently neutralize clinically relevant isolates including those from the B.1.1.7 and B.1.351 lineages. A single dose of HD-MAP-delivered spike are stable, immunogenic, and provided complete protection from a lethal virus challenge.
@@ -269,18 +204,24 @@
       'McMillan_et_al_05_31_2021.!d
 
 
-  claim !Indirectevidencairbornetransmission = An updated study on the outbreak at a Guangzhou restaurant in Jan 2020 provided indirect evidence for the risk of indoor long-range airborne transmission of SARS-CoV-2 by ruling out other possible transmission routes, namely close contact (large droplets and short-range airborne) and fomites in the Guangzhou restaurant outbreak. The restaurant was poorly ventilated, allowing for increasing airborne SARS-CoV-2 concentration. The evidence is based on video analysis of all activities during the time that one known index case and three possible index cases had lunch in a Guangzhou restaurant.
-
-
-    -
-      'Zhang_et_al_05_29_2021
-      'Zhang_et_al_05_29_2021.!a
-      'Zhang_et_al_05_29_2021.!b
-      'Zhang_et_al_05_29_2021.!c
-      'Zhang_et_al_05_29_2021.!d
 
 
 ############### Document text ##########
+
+
+  >
+    One study suggest that the benefits of delaying the second dose, in terms of wider population coverage and increased individual NAbTs after the second dose, must now be weighed against decreased efficacy in the short-term, in the context of the spread of B.1.617.2.
+
+  >
+    The SARS-CoV-2 B.1.617.2 Variant of Concern (VOC), first detected in India, is now dominant in the UK, having rapidly1 displaced the B.1.1.7 strain2 that emerged in the UK with the second COVID-19 wave in late 2020.The efficacy of currently licensed COVID-19 vaccines against B.1.617.2 is unknown; although it possesses 12 mutations in its spike protein relative to the wildtype SARS-CoV-2 first detected in Wuhan, China, in December, 2019, B.1.617.2 lacks mutations at amino acid positions 501 or 484 in its ACE2 receptor-binding domain, commonly associated with VOCs (appendix p 2) or escape from neutralising antibodies (NAbs).
+
+  >
+    To maximise population coverage, the UK extended the interval between the two BNT162b2 doses. Although this might have had a limited impact of protection against parental SARS-CoV-2 strains or the B.1.1.7 variant, the potential impact on protection from other VOCs is poorly understood.
+
+  >
+    Evidence of rare thrombotic events associated with ChAdOx has led to recommendation of a heterologous booster with mRNA vaccines for certain age groups in several European countries, despite a lack of robust safety and immunogenicity data for this vaccine regimen.
+
+
 
   >
     During the last months many countries have started the immunization of millions of people by using vector-based vaccines. Unfortunately, severe side effects became overt during these vaccination campaigns: cerebral venous sinus thromboses (CVST), absolutely rare under normal life conditions, were found as a severe side effect that occured 4-14 days after first vaccinations. Besides CVST, Splanchnic Vein Thrombosis (SVT) was also observed. This type of adverse event has not been observed in the clinical studies of AstraZeneca, and therefore led immediately to a halt in vaccinations in several european countries. These events were mostly associated with thrombocytopenia, and thus, similar to the well-known Heparin-induced thrombo­cytopenia (HIT). Meanwhile, scientists have proposed a mechanism to explain this vaccine-induced thrombocytopenia. However, they do not provide a satisfactory explanation for the late thromboembolic events.
