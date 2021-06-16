@@ -530,6 +530,7 @@ subject module Variants
       Vaccines.Candidates.NVX-CoV2373.!UKphase3Novavax
       Vaccines.Approved.mRNA-1273.!Vaccineescape
       !NTDneutralizing
+      Vaccines.Approved.Tozinameran.!PfizerQatar
     - Pre Existing Immunity
       !PreexistingImmunity
       !RetainedImmunity
@@ -1049,6 +1050,7 @@ subject module Variants
       Vaccines.Candidates.NVX-CoV2373.!NVX-CoV2373efficacyB1351
       Vaccines.Approved.mRNA-1273.!Vaccineescape
       Vaccines.Approved.Tozinameran.!PfizerdeltaNAbTs
+      Vaccines.Approved.Tozinameran.!PfizerQatar
 
     - Pre Existing Immunity
       !PreexistingImmunity
@@ -1733,7 +1735,7 @@ subject module Variants
 
   / B.1.617 (Identified in India)
   subject B1617
-    head = The SARS-CoV-2 B.1.617 lineage emerged in October 2020 in India. It has since then become dominant in some indian regions and further spread to many countries. The lineage includes three main subtypes (B1.617.1, B.1617.2 and B.1.617.3), which harbour diverse Spike mutations in the N-terminal domain (NTD) and the receptor binding domain (RBD) which may increase their immune evasion potential. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is believed to spread faster than the other versions- is at least as transmissible as B.1.1.7 (the Kent variant). Genomic surveillance data (Delhi) showed that Delta (B.1.617.2) is more transmissible (50% greater) than Alpha (B.1.1.7), without any increase in CFR. Viral load of Delta (B.1.617.2) appears to be higher than Alpha (B.1.1.7). There seems to be greater immune escape and reinfection. Fully vaccinated breakthroughs were disproportionately due to Delta (B.1.617.2), but usually mild.
+    head = The SARS-CoV-2 B.1.617 lineage emerged in October 2020 in India. It has since then become dominant in some indian regions and further spread to many countries. The lineage includes three main subtypes (B1.617.1, B.1617.2 and B.1.617.3), which harbour diverse Spike mutations in the N-terminal domain (NTD) and the receptor binding domain (RBD) which may increase their immune evasion potential. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is believed to spread faster than the other versions- is at least as transmissible as B.1.1.7 (the Kent variant). Genomic surveillance data (Delhi) showed that Delta (B.1.617.2) is more transmissible (50% greater) than Alpha (B.1.1.7), without any increase in CFR. Viral load of Delta (B.1.617.2) appears to be higher than Alpha (B.1.1.7). There seems to be greater immune escape and reinfection. Fully vaccinated breakthroughs were disproportionately due to Delta (B.1.617.2), but usually mild. Study from Scotland showed that the Delta VOC was found mainly in younger, more affluent groups. Risk of COVID-19 hospital admission was approximately doubled in those with the Delta VOC when compared to the Alpha VOC.
 
     >
       BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The modest neutralization resistance of the variant spike proteins suggests that Pfizer and Moderna mRNA vaccines will remain protective against the B.1.617.1, B.1.617 and B.1.618 variants. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Progression to severe disease and death was low in all studies. PHE findings demonstrated a modest reduction of one dose vaccine effectiveness against symptomatic disease with the B.1.617.2 variant of approximately 20% when compared to the B.1.1.7 variant. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine (BNT162b2 and ChAdOx1) is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%.
@@ -1743,6 +1745,8 @@ subject module Variants
       Initial analysis of neutralising antibody (nAbs) activity (Pfizer vaccine) against B.1.617.2 (Delta) and B.1.351 (Beta) showed 5·8-fold reduction against B.1.617.2 (Delta) similar to the reduction observed against B.1.351 (4·9-fold). In the case of single-dose recipients, NAbTs were significantly lower against B.1.617.2 and B.1.351 relative to B.1.1.7. 2 doses of vaccine- high levels of nAbs.
 
       A Pan-India cross-sectional COVAT study (Indian health-care workers) after the completion of two doses of both vaccines (Covishield and Covaxin) suggests that both vaccines showed 95% seropositivity to anti-spike antibody, 21-36 days after the 2nd completed dose. Seropositivity rates and median anti-spike antibody titre was significantly higher in Covishield (97.8%) compared to Covaxin arm (79.3%). Covishield showed a good seropositivity rate and a 4-fold rise in median antibody titre even after a single dose, while Covaxin gained a significant increase in both seropositivity and antibody titre only after the 2 doses. One dose of either vaccine yielded a very high seropositivity and anti-spike antibody titre in SARS-CoV-2 recovered individuals.
+
+      Study from Scotland demonstrated effectiveness of 2 doses of AstraZeneca vaccine against symptomatic infection was 81% for Alpha (B.1.1.7), but only 61% for Delta (B.1.617.2). In contrast, effectiveness for Pfizer-BNT was 92% for B.1.1.7 and 83% for B.1.617.2. Public Health England (PHE) reported that 2 doses of COVID-19 vaccines (Pfizer or Oxford-AZ) are highly effective against hospitalisation from the Delta (B.1.617.2) variant- it was similar to that seen with Alpha: 94% after 1 dose and 96% after 2 doses of Pfizer vaccine; 71%  after 1 dose and 92% after 2 doses of Oxford-AZ.
 
 
     >
@@ -1789,6 +1793,7 @@ subject module Variants
       !UK
       !3Clades
       !B16172
+      !ScotlandDelta
     - Background
       !DeltaDelhiorigin
     - Transmission
@@ -1822,6 +1827,8 @@ subject module Variants
       Vaccines.Approved.Tozinameran.!PfizerdeltaNAbTs
       Vaccines.Approved.Tozinameran.!Pfizerantibodyneutralisation
       Vaccines.Approved.AZD1222.!PreclinicalAZD2816
+      !PHEukDeltahospitalisation
+      !ScotlandDelta
     -
       !Mutations
     >
@@ -2035,6 +2042,24 @@ subject module Variants
         'Dhar_et_al_06_03_2021.!f
         'Dhar_et_al_06_03_2021.!g
 
+    / Public Health England (PHE) Report (Pfizer or Oxford-AZ)
+    claim !PHEukDeltahospitalisation = Public Health England (PHE) reported that 2 doses of COVID-19 vaccines (Pfizer or Oxford-AZ) are highly effective against hospitalisation from the Delta (B.1.617.2) variant. Vaccine effectiveness (VE) against hospitalisation with Delta was similar to that seen with Alpha: 94% after 1 dose and 96% after 2 doses of Pfizer vaccine; 71% after 1 dose and 92% after 2 doses of Oxford-AZ.
+      -
+        'Stowe_et_al_06_14_2021
+        'Stowe_et_al_06_14_2021.!a
+        'Stowe_et_al_06_14_2021.!b
+        'Stowe_et_al_06_14_2021.!c
+
+    / Scotland
+    claim !ScotlandDelta = Study from Scotland showed that the Delta VOC was found mainly in younger, more affluent groups. Risk of COVID-19 hospital admission was approximately doubled in those with the Delta VOC when compared to the Alpha VOC - particularly increased in those with five or more relevant comorbidities. Effectiveness of 2 doses of AstraZeneca vaccine against symptomatic infection was 81% for Alpha (B.1.1.7), but only 61% for Delta (B.1.617.2). In contrast, effectiveness for Pfizer-BNT was 92% for B.1.1.7 and 83% for B.1.617.2.
+      -
+        'Sheikh_et_al_06_14_2021
+        'Sheikh_et_al_06_14_2021.!a
+        'Sheikh_et_al_06_14_2021.!b
+        'Sheikh_et_al_06_14_2021.!c
+        'Sheikh_et_al_06_14_2021.!d
+        'Sheikh_et_al_06_14_2021.!e
+        'Sheikh_et_al_06_14_2021.!f
 
 
 

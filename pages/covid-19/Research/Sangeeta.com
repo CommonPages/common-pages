@@ -2,19 +2,18 @@ feed Sangeeta
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_07_30_2021
+  ref 'Doremalen_et_al_06_30_2021
     head =
 
     - quotes
       !a
 
-    / May, 2021 - JAMA Netw Open.
+    / June, 2021 - JAMA Netw Open.
     quote !a =
-
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_06_03_2021
+  ref 'Doremalen_et_al_06_30_2021
     head =
 
     - quotes
@@ -23,11 +22,11 @@ feed Sangeeta
     / June, 2021 - JAMA Netw Open.
     quote !a =
 
-  #
+
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_06_03_2021
+  ref 'Doremalen_et_al_06_30_2021
     head =
 
     - quotes
@@ -35,6 +34,343 @@ feed Sangeeta
 
     / June, 2021 - JAMA Netw Open.
     quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_06_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / June, 2021 - JAMA Netw Open.
+    quote !a =
+
+
+  #
+  // Monoclonal antibodies cut risk of dying from COVID-19—but only in some patients
+  doi: https://doi.org/10.1126/science.abk0053
+  ref 'Kupferschmidt_et_al_06_16_2021
+    head = The RECOVERY trial started evaluating Regeneron’s cocktail in mid-September. By late May, 9785 patients had been randomly allocated to receive either the usual care in the United Kingdom or the usual care plus a one-time infusion of the two antibodies, a procedure that takes roughly an hour. About one third of the patients were seronegative when they entered the trial, meaning they did not produce antibodies themselves.
+
+    - quotes
+      !a
+      !b
+
+    / June, 2021 - Science
+    quote !a = A combination of antibodies called casirivimab and imdevimab, produced by Regeneron, did not lower mortality when all patients in the study were taken together, but it reduced deaths by a fifth among those who did not produce antibodies themselves.
+
+    / June, 2021 - Science
+    quote !b = 30% of patients given standard care died, versus 24% of those who received the antibody cocktail. That translates to six lives saved for every 100 such patients treated with the drug.
+
+
+
+
+  #
+  // Immunogenicity of BNT162b2 mRNA COVID-19 vaccine and SARS-CoV-2 infection in lung transplant recipients
+  doi: https://doi.org/10.1016/j.healun.2021.05.004
+  ref 'Havlin_et_al_05_20_2021
+    head = We compared the antibody response after the first and second doses of the BNT162b2 mRNA COVID-19 vaccine (Pfizer-BioNTech) with the response after natural SARS-CoV-2 infection in lung transplant recipients.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2021 - The Journal Heart and Lung Transplantaion
+    quote !a = None of the vaccinees tested after two doses of the mRNA BNT162b2 vaccine developed anti-SARS-CoV-2 IgG, while 85% patients presented an antibody response after SARS-CoV-2 infection.
+
+    / May, 2021 - The Journal Heart and Lung Transplantaion
+    quote !b = We detected SARS-CoV-2 specific T-cells in 4 out of 12 tested patients. Some patients therefore might have clinical benefit from the vaccine despite an absent antibody response.
+
+
+    / May, 2021 - The Journal Heart and Lung Transplantaion
+    quote !c = Only a mild course of the COVID disease was observed in all three fully vaccinated patients infected post-vaccination.
+
+    / May, 2021 - The Journal Heart and Lung Transplantaion
+    quote !d = The detection of specific CD4+ and CD8+ T cells might suggest that the inclusion of cellular response testing in the evaluation of post-vaccine immune responses might be beneficial in immunocompromised patients and additional boosting may be required for the development of post-vaccination antibody response in LTRs.
+
+  #
+  // High-affinity, neutralizing antibodies to SARS-CoV-2 can be made in the absence of T follicular helper cells
+  doi: https://doi.org/10.1101/2021.06.10.447982
+  ref 'Chen_et_al_06_11_2021
+    head = While protective antibodies are usually generated through Tfh/GC-dependent pathways, it is unclear what happens to the antibody response when these structures are disrupted by virus-induced inflammation.
+
+    > Abstract
+      T follicular helper (Tfh) cells are the conventional drivers of protective, germinal center (GC)-based antiviral antibody responses. However, loss of Tfh cells and GCs has been observed in patients with severe COVID-19. As T cell-B cell interactions and immunoglobulin class switching still occur in these patients, non-canonical pathways of antibody production may be operative during SARS-CoV-2 infection. We found that both Tfh-dependent and -independent antibodies were induced against SARS-CoV-2 as well as influenza A virus. Tfh-independent responses were mediated by a population we call lymph node (LN)-Th1 cells, which remain in the LN and interact with B cells outside of GCs to promote high-affinity but broad-spectrum antibodies. Strikingly, antibodies generated in the presence and absence of Tfh cells displayed similar neutralization potency against homologous SARS-CoV-2 as well as the B.1.351 variant of concern. These data support a new paradigm for the induction of B cell responses during viral infection that enables effective, neutralizing antibody production to complement traditional GCs and even compensate for GCs damaged by viral inflammation.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - bioRxiv
+    quote !a = We found that both Tfh-dependent and -independent antibodies were induced against SARS-CoV-2 as well as influenza A virus. Tfh-independent responses were mediated by a population we call lymph node (LN)-Th1 cells, which remain in the LN and interact with B cells outside of GCs to promote high-affinity but broad-spectrum antibodies.
+
+    / June, 2021 - bioRxiv
+    quote !b = Antibodies generated in the presence and absence of Tfh cells displayed similar neutralization potency against homologous SARS-CoV-2 as well as the B.1.351 variant of concern.
+
+    / June, 2021 - bioRxiv
+    quote !c = These data support a new paradigm for the induction of B cell responses during viral infection that enables effective, neutralizing antibody production to complement traditional GCs and even compensate for GCs damaged by viral inflammation.
+
+  #
+  // Senolytics reduce coronavirus-related mortality in old mice
+  doi: https://doi.org/10.1126/science.abe4832
+  ref 'Camell_et_al_06_08_2021
+    head = We demonstrate that senescent cells (SnC) become hyper-inflammatory in response to pathogen-associated molecular patterns (PAMPs), including SARS-CoV-2 Spike protein-1, increasing expression of viral entry proteins and reducing anti-viral gene expression in non-SnCs through a paracrine mechanism.
+
+    > Abstract
+      The COVID-19 pandemic has revealed the pronounced vulnerability of the elderly and chronically-ill to SARS-CoV-2-induced morbidity and mortality. Cellular senescence contributes to inflammation, multiple chronic diseases, and age-related dysfunction, but effects on responses to viral infection are unclear. Here, we demonstrate that senescent cells (SnC) become hyper-inflammatory in response to pathogen-associated molecular patterns (PAMPs), including SARS-CoV-2 Spike protein-1, increasing expression of viral entry proteins and reducing anti-viral gene expression in non-SnCs through a paracrine mechanism. Old mice acutely infected with pathogens that included a SARS-CoV-2-related mouse β-coronavirus experienced increased senescence and inflammation with nearly 100% mortality. Targeting SnCs using senolytic drugs before or after pathogen exposure significantly reduced mortality, cellular senescence, and inflammatory markers and increased anti-viral antibodies. Thus, reducing the SnC burden in diseased or aged individuals should enhance resilience and reduce mortality following viral infection, including SARS-CoV-2.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+
+
+    / June, 2021 - Science
+    quote !a = We demonstrate that the SnC burden in old mice confers, at least in part, the reduced resilience, increased inflammation, impaired immune response, and mortality observed in old male and female mice exposed to new viral pathogens.
+
+    / June, 2021 - Science
+    quote !b = Both the pharmacological (e.g., senolytics Fisetin or D+Q) and genetic (INK-ATTAC) clearance of SnC yielded significant delay, or in the case of the former reduction in mortality in both old male and female mice.
+
+    / June, 2021 - Science
+    quote !c = Adverse outcomes were attenuated when the senolytic, Fisetin, was administered either prior to (a preventative measure) or after (a therapeutic intervention) NME exposure. The senolytics Fisetin and D+Q were more effective at delaying mortality than genetic ablation of SnC in the INK-ATTAC mice, consistent with the fact that the latter only removes SnC expressing high levels of p16Ink4a, not p16-low or -negative SnC.
+
+
+    / June, 2021 - Science
+    quote !d = SnC burden is increased in old and young mice exposed to NME and, if it persists, could lead to additional co-morbidities. However, the magnitude of senescence in young animals appears not to reach a threshold that compromises survival. Thus, it is possible that senolytic treatment could be beneficial to COVID-19 survivors for improving long-term outcomes and suggests that monitoring expression of senescence markers in this patient population would be advantageous.
+
+    / June, 2021 - Science
+    quote !e = It is notable that it was not necessary to reduce senescence markers to the level of young individuals to dramatically improve survival. This supports the possibility that there is a threshold beyond which senescent cell burden is deleterious and illustrates that, unlike for cancer cells, not every SnC needs to be eliminated to have a beneficial effect.
+
+    / June, 2021 - Science
+    quote !f = A high SnC burden in the elderly or those with chronic diseases such as diabetes, obesity, hypertension, or chronic lung disease likely can interfere with the ability of the immune system to induce a strong B and T cell response to novel antigens. We found that intermittent senolytic treatment improved the development of an anti-MHV antibody response. This could be because the old mice survive long enough to mount a healthy response analogous to younger mice, or because dampening the SASP/inflammation improved immune cell function, or both. However, our preclinical data suggest that senolytics could improve the response of the elderly to vaccines for SARS-CoV-2 and others.
+
+
+    / June, 2021 - Science
+    quote !g = The immediate implication of these studies is that senolytics could have clinical application for attenuating mortality and other adverse outcomes in the elderly and those with comorbidities who become infected with SARS-CoV-2. Furthermore, based upon our findings in LPS-treated SnCs and aged mice, senolytics may be of potential therapeutic use for elderly persons stricken by bacterial infections. In addition, our data support the view that targeting pillars of aging and, in particular, cellular senescence, can improve resilience of the elderly in the face of viral pathogens.
+
+    / June, 2021 - Science
+    quote !h = For the COVID-19 pandemic as well as future pandemics, rapalogs, glucocorticoids, and metformin, all of which inhibit the SASP, might lessen SARS-CoV-2 cytokine storm and improve outcomes. However, unlike senolytics, some of these drugs may need to be administered continuously or at least more frequently, adding to off-target and side effects, especially in elderly patients with co-morbidities and polypharmacy.
+
+
+
+  #
+  // Novavax COVID-19 Vaccine Demonstrates 90% Overall Efficacy and 100% Protection Against Moderate and Severe Disease in PREVENT-19 Phase 3 Trial
+  doi: https://ir.novavax.com/news-releases/news-release-details/novavax-covid-19-vaccine-demonstrates-90-overall-efficacy-and?sf145777146=1
+  ref 'Novavax_et_al_06_14_2021
+    head = The study enrolled 29,960 participants across 119 sites in the U.S. and Mexico to evaluate efficacy, safety and immunogenicity, with an emphasis on recruiting a representative population of communities and demographic groups most impacted by the disease.
+
+    - quotes
+      !a
+      !b
+
+    / June, 2021 - Novavax
+    quote !a = Novavax, Inc. announced that NVX-CoV2373, its recombinant nanoparticle protein-based COVID-19 vaccine, demonstrated 100% protection against moderate and severe disease, 90.4% efficacy overall, and met the primary endpoint in its PREVENT-19 pivotal Phase 3 trial.
+
+    / June, 2021 - Novavax
+    quote !b = 93% efficacy against predominantly circulating Variants of Concern and Variants of Interest; 91% efficacy in high-risk populations; 100% efficacy against variants "not considered Variants of Concern/Interest"; all COVID-19 hospitalizations/death occurred in the placebo group.
+
+
+  #
+  // Safety, Immunogenicity, and Efficacy of a COVID-19 Vaccine (NVX-CoV2373) Co-administered With Seasonal Influenza Vaccines
+  doi: https://doi.org/10.1101/2021.06.09.21258556
+  ref 'Heath_et_al_06_03_2021
+    head = A sub-study on influenza vaccine co-administration was conducted as part of the phase 3 randomized trial of the safety and efficacy of NVX-CoV2373. Sub-study participants were younger, more racially diverse, and had fewer comorbid conditions than main study participants.
+
+    > Background
+      The safety and immunogenicity profile of COVID-19 vaccines when administered concomitantly with seasonal influenza vaccines has not yet been reported.
+
+    > Methods
+      A sub-study on influenza vaccine co-administration was conducted as part of the phase 3 randomized trial of the safety and efficacy of NVX-CoV2373. The first ∼400 participants meeting main study entry criteria and with no contraindications to influenza vaccination were invited to join the sub-study. After randomization in a 1:1 ratio to receive NVX-CoV2373 (n=217) or placebo (n=214), sub-study participants received an age-appropriate, licensed, open-label influenza vaccine with dose 1 of NVX-CoV2373. Reactogenicity was evaluated via electronic diary for 7 days post-vaccination in addition to monitoring for unsolicited adverse events (AEs), medically-attended AEs (MAAEs), and serious AEs (SAEs). Influenza haemagglutination inhibition and SARS-CoV-2 anti-spike IgG assays were performed. Vaccine efficacy against PCR-confirmed, symptomatic COVID-19 was assessed. Comparisons were made between sub-study and main study participants.
+
+    > Findings
+      Sub-study participants were younger, more racially diverse, and had fewer comorbid conditions than main study participants. Reactogenicity events more common in the co-administration group included tenderness (70.1% vs 57.6%) or pain (39.7% vs 29.3%) at injection site, fatigue (27.7% vs 19.4%), and muscle pain (28.3% vs 21.4%). Rates of unsolicited AEs, MAAEs, and SAEs were low and balanced between the two groups. Co-administration resulted in no change to influenza vaccine immune response, while a reduction in antibody responses to the NVX-CoV2373 vaccine was noted. Vaccine efficacy in the sub-study was 87.5% (95% CI: -0.2, 98.4) while efficacy in the main study was 89.8% (95% CI: 79.7, 95.5).
+
+    > Interpretation
+      This is the first study to demonstrate the safety, immunogenicity, and efficacy profile of a COVID-19 vaccine when co-administered with seasonal influenza vaccines. The results suggest concomitant vaccination may be a viable immunisation strategy.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / June, 2021 - MedRxiv
+    quote !a = Reactogenicity events more common in the co-administration group included tenderness (70.1% vs 57.6%) or pain (39.7% vs 29.3%) at injection site, fatigue (27.7% vs 19.4%), and muscle pain (28.3% vs 21.4%).
+
+    / June, 2021 - MedRxiv
+    quote !b = Rates of unsolicited AEs, MAAEs, and SAEs were low and balanced between the two groups.
+
+    / June, 2021 - MedRxiv
+    quote !c = Co-administration resulted in no change to influenza vaccine immune response, while a reduction in antibody responses to the NVX-CoV2373 vaccine was noted.
+
+    / June, 2021 - MedRxiv
+    quote !d = Vaccine efficacy in the sub-study was 87.5% while efficacy in the main study was 89.8%.
+
+    / June, 2021 - MedRxiv
+    quote !e = The results suggest concomitant vaccination may be a viable immunisation strategy.
+
+  #
+  // Effectiveness of the BNT162b2 Covid-19 Vaccine against the B.1.1.7 and B.1.351 Variants
+  doi: https://doi.org/10.1056/NEJMc2104974
+  ref 'Abu-Raddad_et_al_05_05_2021
+    head = In a corresspondence letter, the authors report the effectiveness of the BNT162b2 Covid-19 Vaccine against the B.1.1.7 and B.1.351 Variants in Qatar. Data on vaccinations, polymerase-chain-reaction testing, and clinical characteristics were extracted from the national, federated Covid-19 databases that have captured all SARS-CoV-2–related data since the start of the epidemic
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !a = Viral genome sequencing conducted from February 23 through March 18 indicated that 50.0% of cases of Covid-19 in Qatar were caused by B.1.351 and 44.5% were caused by B.1.1.7. Nearly all cases in which virus was sequenced after March 7 were caused by either B.1.351 or B.1.1.7.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !b = The BNT162b2 vaccine was effective against infection and disease in the population of Qatar, despite the B.1.1.7 and B.1.351 variants being predominant within the country; however, vaccine effectiveness against the B.1.351 variant was approximately 20 percentage points lower than the effectiveness (>90%) reported in the clinical trial and in real-world conditions in Israel and the United States.
+
+    # / May, 2021 - The New England Journal of Medicine
+    # quote !a = Effectiveness was estimated to be 87.0% against the B.1.1.7 variant and 72.1% against the B.1.351 variant,
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !c = The estimated effectiveness of the vaccine against any documented infection with the B.1.1.7 variant was 89.5% at 14 or more days after the second dose. The effectiveness against any documented infection with the B.1.351 variant was 75.0%. Vaccine effectiveness against severe, critical, or fatal disease due to infection with any SARS-CoV-2 (with the B.1.1.7 and B.1.351 variants being predominant within Qatar) was very high, at 97.4%.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !d = In Qatar, as of March 31, breakthrough infections have been recorded in 6689 persons who had received one dose of the vaccine and in 1616 persons who had received two doses.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !e = Seven deaths from Covid-19 have been also recorded among vaccinated persons: five after the first dose and two after the second dose.
+
+    / May, 2021 - The New England Journal of Medicine
+    quote !f = Nevertheless, the reduced protection against infection with the B.1.351 variant did not seem to translate into poor protection against the most severe forms of infection (i.e., those resulting in hospitalization or death), which was robust, at greater than 90%.
+
+  #
+  // Effectiveness of COVID-19 vaccines against hospital admission with the Delta (B.1.617.2) variant
+  doi: https://khub.net/web/phe-national/public-library/-/document_library/v2WsRK3ZlEig/view_file/479607329?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_v2WsRK3ZlEig_redirect=https%3A%2F%2Fkhub.net%3A443%2Fweb%2Fphe-national%2Fpublic-library%2F-%2Fdocument_library%2Fv2WsRK3ZlEig%2Fview%2F479607266
+  ref 'Stowe_et_al_06_14_2021
+    head = We estimate effectiveness of the BNT162b2 and ChAdOx1 vaccines against Delta as compared to Alpha. We linked all symptomatic cases between 12th April and 4th June 2021 to the Emergency Care Dataset (ECDS) which records all hospital admission via emergency departments in England. We included any hospitalisations (excluding injuries) within 14 days of a positive test.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - Public Health England
+    quote !a = There were 14,019 symptomatic cases with Delta included in the analysis, 166 of whom were hospitalised. Overall hazard ratios for hospitalisation among cases with Delta in vaccinated compared to unvaccinated individuals were 0.37 (0.22-0.63) after 1 dose and 0.29 (0.11-0.72) after 2 doses of any vaccine. This compared to 0.44 (0.28-0.70) and 0.64 (0.24-1.72) with Alpha.
+
+    / June, 2021 - Public Health England
+    quote !b = VE against hospitalisation with Delta was similar to that seen with Alpha: 94% after 1 dose and 96% after 2 doses of BNT162b2; 71%  after 1 dose and 92% after 2 doses of ChAdOx1. These findings indicate very high levels of protection against hospitalisation with the Delta variant with 1 or 2 doses of either vaccine.
+
+    / June, 2021 - Public Health England
+    quote !c = VE against hospitalisation with Alpa: 83% after 1 dose and 95% after 2 doses of BNT162b2; 76%  after 1 dose and 86% after 2 doses of ChAdOx1.
+
+
+
+
+
+  #
+  // Probable aerosol transmission of SARS-CoV-2 in a poorly ventilated courtroom
+  doi: https://doi.org/10.1111/ina.12866
+  ref 'Vernez_et_al_06_11_2021
+    head = This study examines a case of clustering that occurred in a courtroom, in which 5 of the 10 participants were tested positive within days of the hearing. This case study contributes to the growing body evidence highlighting possible SARS-CoV-2 transmission through aerosol.
+
+    > Abstract
+      There is increasing evidence of SARS-CoV-2 transmission via aerosol; the number of cases of transmission via this route reported in the literature remains however limited. This study examines a case of clustering that occurred in a courtroom, in which 5 of the 10 participants were tested positive within days of the hearing. Ventilation loss rates and dispersion of fine aerosols were measured through CO2 injections and lactose aerosol generation. Emission rate and influencing parameters were then computed using a well-mixed dispersion model. The emission rate from the index case was estimated at 130 quanta h−1 (interquartile (97–155 quanta h−1). Measured lactose concentrations in the room were found relatively homogenous (n = 8, mean 336 µg m−3, SD = 39 µg m−3). Air renewal was found to play an important role for event durations greater than 0.5 h and loss rate below 2–3 h−1. The estimated emission rate suggests a high viral load in the index case and/or a high SARS-CoV-2 infection coefficient. High probabilities of infection in similar indoor situations are related to unfavorable conditions of ventilation, emission rate, and event durations. Source emission control appears essential to reduce aerosolized infection in events lasting longer than 0.5 h.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - Wiley Online Library
+    quote !a = The emission rate from the index case was estimated at 130 quanta h−1 (interquartile (97–155 quanta h−1). Measured lactose concentrations in the room were found relatively homogenous (n = 8, mean 336 µg m−3, SD = 39 µg m−3). Air renewal was found to play an important role for event durations greater than 0.5 h and loss rate below 2–3 h−1.
+
+    / June, 2021 - Wiley Online Library
+    quote !b = The estimated emission rate suggests a high viral load in the index case and/or a high SARS-CoV-2 infection coefficient.
+
+    / June, 2021 - Wiley Online Library
+    quote !c = High probabilities of infection in similar indoor situations are related to unfavorable conditions of ventilation, emission rate, and event durations. Source emission control appears essential to reduce aerosolized infection in events lasting longer than 0.5 h.
+
+
+  #
+  // Naturally enhanced neutralizing breadth against SARS-CoV-2 one year after infection
+  doi: https://doi.org/10.1038/s41586-021-03696-9
+  ref 'Wang_et_al_06_14_2021
+    head = We report on a cohort of 63 COVID-19-convalescent individuals assessed at 1.3, 6.2 and 12 months after infection, 41% of whom also received mRNA vaccines.
+
+
+    > Abstract
+      Over one year after its inception, the coronavirus disease-2019 (COVID-19) pandemic caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) remains difficult to control despite the availability of several excellent vaccines. Progress in controlling the pandemic is slowed by the emergence of variants that appear to be more transmissible and more resistant to antibodies1. Here we report on a cohort of 63 COVID-19-convalescent individuals assessed at 1.3, 6.2 and 12 months after infection, 41% of whom also received mRNA vaccines. In the absence of vaccination antibody reactivity to the receptor binding domain (RBD) of SARS-CoV-2, neutralizing activity and the number of RBD-specific memory B cells remain relatively stable from 6 to 12 months. Vaccination increases all components of the humoral response, and as expected, results in serum neutralizing activities against variants of concern that are comparable to or greater than neutralizing activity against the original Wuhan Hu-1 achieved by vaccination of naive individuals. The mechanism underlying these broad-based responses involves ongoing antibody somatic mutation, memory B cell clonal turnover, and development of monoclonal antibodies that are exceptionally resistant to SARS-CoV-2 RBD mutations, including those found in variants of concern. In addition, B cell clones expressing broad and potent antibodies are selectively retained in the repertoire over time and expand dramatically after vaccination. The data suggest that immunity in convalescent individuals will be very long lasting and that convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / June, 2021 - Nature
+    quote !a = In the absence of vaccination antibody reactivity to the receptor binding domain (RBD) of SARS-CoV-2, neutralizing activity and the number of RBD-specific memory B cells remain relatively stable from 6 to 12 months.
+
+    / June, 2021 - Nature
+    quote !b = Vaccination increases all components of the humoral response, and as expected, results in serum neutralizing activities against variants of concern that are comparable to or greater than neutralizing activity against the original Wuhan Hu-1 achieved by vaccination of naive individual.
+
+    / June, 2021 - Nature
+    quote !c = The mechanism underlying these broad-based responses involves ongoing antibody somatic mutation, memory B cell clonal turnover, and development of monoclonal antibodies that are exceptionally resistant to SARS-CoV-2 RBD mutations, including those found in variants of concern.
+
+    / June, 2021 - Nature
+    quote !d = B cell clones expressing broad and potent antibodies are selectively retained in the repertoire over time and expand dramatically after vaccination.
+
+    / June, 2021 - Nature
+    quote !e = The data suggest that immunity in convalescent individuals will be very long lasting and that convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants.
+
+
+  #
+  // SARS-CoV-2 Delta VOC in Scotland: demographics, risk of hospital admission, and vaccine effectiveness
+  doi: https://doi.org/10.1016/S0140-6736(21)01358-1
+  ref 'Sheikh_et_al_06_14_2021
+    head = We used the EAVE II (Scotland-wide COVID-19 surveillance platform) platform to undertake a cohort analysis to describe the demographic profile of COVID-19 patients, investigate the risk of hospital admission for COVID-19, and estimate vaccine effectiveness in preventing COVID-19 hospital admissions in S gene-positive cases. We also employed a test-negative design to estimate vaccine effectiveness against risk of SARS-CoV-2 infection.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / June, 2021 - The Lancet
+    quote !a = Sequencing data from Scotland has found that for April 1 to May 28, 2021, the latest date until which data were available, 97% of S gene positive cases sequenced in Scotland were the Delta variant and that 99% of Delta variants were S gene positive.
+
+
+    / June, 2021 - The Lancet
+    quote !b = We show that the Delta VOC in Scotland was found mainly in younger, more affluent groups. Risk of COVID-19 hospital admission was approximately doubled in those with the Delta VOC when compared to the Alpha VOC, with risk of admission particularly increased in those with five or more relevant comorbidities.
+
+    / June, 2021 - The Lancet
+    quote !c = There were 19 543 confirmed SARS-CoV-2 infections over the period of interest, of whom 377 were admitted to hospital for COVID-19; 7723 (39·5%) of these cases and 134 (35·5%) hospital admissions were in those who were S gene-positive.
+
+    / June, 2021 - The Lancet
+    quote !d = S gene-positive cases occurred in all ages, with a greater proportion of those S gene-positive aged 5–9 years compared to S gene-negative cases. There was a slight inverse deprivation gradient with S gene-positive cases disproportionally seen in the most socioeconomically affluent quintile. Most cases (70%) had no underlying relevant comorbidities. 70% of S gene-positive cases had not had any COVID-19 vaccination doses, compared to 75% of S gene-negative cases.
+
+    / June, 2021 - The Lancet
+    quote !e = At least 14 days after the second dose, BNT162b2 (Pfizer–BioNTech vaccine) offered very good protection: 92% S gene-negative (Alpha variant), 79% S gene-positive (Delta variant). Protection associated with ChAdOx1 nCoV-19 (Oxford–AstraZeneca vaccine) was, however, substantial but reduced: 73% for S gene-negative cases versus 60% for those S gene-positive
+
+    / June, 2021 - The Lancet
+    quote !f = The Oxford–AstraZeneca vaccine appeared less effective than the Pfizer–BioNTech vaccine in preventing SARS-CoV-2 infection in those with the Delta VOC.
 
   #
   // A single BNT162b2 mRNA dose elicits antibodies with Fc-mediated effector functions and boost pre-existing humoral and T cell responses

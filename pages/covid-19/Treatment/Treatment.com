@@ -76,13 +76,13 @@ subject module Treatment
 
       / Monoclonal Antibodies
       subject MonoclonalAntibodies
-        head = Several studies have described the development of Monoclonal Antibodies that are able to potently inhibit SARS-CoV-2 in vitro. Regeneron Pharmaceuticals announced positive results from a Phase 3 trial (2069A) showing suggesting that the subcutaneous administration of REGEN-COV™ (casirivimab with imdevimab)-1200 mg, reduced the risk of developing symptomatic Covid-19 infection by 81% in people living with someone infected by the new coronavirus. The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, significantly reduce hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants. One study demonstrated that REGEN-COV retains neutralization potency against current variants of concern/interest. 3 noncompeting mAb in combination reduce variant risk compared to a combination of 2.
+        head = Several studies have described the development of Monoclonal Antibodies that are able to potently inhibit SARS-CoV-2 in vitro. Regeneron Pharmaceuticals announced positive results from a Phase 3 trial (2069A) showing suggesting that the subcutaneous administration of REGEN-COV™ (casirivimab with imdevimab)-1200 mg, reduced the risk of developing symptomatic Covid-19 infection by 81% in people living with someone infected by the new coronavirus. The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, significantly reduce hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants. One study demonstrated that REGEN-COV retains neutralization potency against current variants of concern/interest. 3 noncompeting mAb in combination reduce variant risk compared to a combination of 2. Investigators of the United Kingdom’s Regeneron RECOVERY trial announced the results - A combination of antibodies called casirivimab and imdevimab reduced deaths by a fifth among those hospitalized covid-19 patients who did not produce antibodies themselves.
         -
           'Shi_et_al_05_26_2020
 
         / MONOCLONAL ANTIBODY TREATMENT
         subject REGEN-COV
-          head = Regeneron Pharmaceuticals announced positive results from a Phase 3 trial (2069A) showing suggesting that the subcutaneous administration of REGEN-COV™ (casirivimab with imdevimab)-1200 mg, reduced the risk of developing symptomatic Covid-19 infection by 81% in people living with someone infected by the new coronavirus. Among individuals who developed symptomatic infections, REGEN-COV recipients cleared the virus faster and had much shorter symptom duration. The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, can significantly reduce Covid-19-related hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants.
+          head = Regeneron Pharmaceuticals announced positive results from a Phase 3 trial (2069A) showing suggesting that the subcutaneous administration of REGEN-COV™ (casirivimab with imdevimab)-1200 mg, reduced the risk of developing symptomatic Covid-19 infection by 81% in people living with someone infected by the new coronavirus. Among individuals who developed symptomatic infections, REGEN-COV recipients cleared the virus faster and had much shorter symptom duration. The phase 3 clinical outcomes data indicates that, similar to the 2400mg dose, 1200mg REGEN-COV is well-tolerated, can significantly reduce Covid-19-related hospitalizations or all-cause death, can speed time to recovery, rapidly resolved symptoms, reduced viral load, and is unlikely to promote the emergence of treatment-resistant SARS-CoV-2 variants. United Kingdom’s Regeneron RECOVERY trial announced the results - A combination of antibodies called casirivimab and imdevimab reduced deaths by a fifth among those hospitalized covid-19 patients who did not produce antibodies themselves. One study demonstrated that REGEN-COV retains neutralization potency against current variants of concern/interest.
           -
             'Regeneron_et_al_04_12_2021
             'Regeneron_et_al_04_12_2021.!a
@@ -107,6 +107,13 @@ subject module Treatment
               'Copin_et_al_06_05_2021.!b
               'Copin_et_al_06_05_2021.!c
               'Copin_et_al_06_05_2021.!d
+
+          / Regeneron antibody cocktail reduced deaths among those hospitalized covid-19 patients who did not produce antibodies themselves.
+          claim !Regeneronrecoverytrial = Investigators of the United Kingdom’s Regeneron RECOVERY trial announced the results - A combination of antibodies called casirivimab and imdevimab reduced deaths by a fifth among those hospitalized covid-19 patients who did not produce antibodies themselves.
+            -
+              'Kupferschmidt_et_al_06_16_2021
+              'Kupferschmidt_et_al_06_16_2021.!a
+              'Kupferschmidt_et_al_06_16_2021.!b
 
       / Soluble ACE2
       subject SolubleACE2
@@ -524,8 +531,6 @@ subject module Treatment
       'Ku_et_al_06_03_2021.!d
       'Ku_et_al_06_03_2021.!e
 
-
-  —
   / Frontiers
   subject Frontiers
     head = Knowledge of these studies is important to understand the development of therapeutics.
@@ -612,8 +617,25 @@ subject module Treatment
     ## Use of Plants as Medicine for Infectious Diseases
     -
       'Weng_et_al_05_19_2020
+    - Senolytic drugs (Fisetin)
+      !Senolytics
 
-  —
+
+    / Senolytic drugs (Fisetin)
+    claim !Senolytics = Old mice acutely infected with pathogens that included a SARS-CoV-2-related mouse β-coronavirus experienced increased senescence and inflammation with nearly 100% mortality. Targeting aged cells (SnCs) using senolytic drugs (Fisetin) before or after pathogen exposure significantly reduced mortality, cellular senescence, and inflammatory markers and increased anti-viral antibodies. Thus, reducing the SnC burden in diseased or aged individuals should enhance resilience and reduce mortality following viral infection, including SARS-CoV-2.
+
+      -
+        'Camell_et_al_06_08_2021
+        'Camell_et_al_06_08_2021.!a
+        'Camell_et_al_06_08_2021.!b
+        'Camell_et_al_06_08_2021.!c
+        'Camell_et_al_06_08_2021.!d
+        'Camell_et_al_06_08_2021.!e
+        'Camell_et_al_06_08_2021.!f
+        'Camell_et_al_06_08_2021.!g
+        'Camell_et_al_06_08_2021.!h
+
+
   / Clinical Management
   subject module ClinicalRecommendation
     head = Studies and research recommending management of patients with COVID-19 are extrapolated from experience. Guidelines are intended to meet the needs of frontline clinicians and it promotes a multi-disciplinary approach for caring of COVID-19 patients, including those with mild, moderate, severe, and critical disease. Intension is not to replace specialist consultation or clinical protocols but rather to strengthen clinical management of patients.

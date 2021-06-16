@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *June_16 mean June_16
   let *June_13 mean June_13
   let *June_7 mean June_7
   let *May_31 mean May_31
@@ -10,8 +11,50 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_13, *June_7 and *May_31). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_16, *June_13, *June_7, *May_31, *May_24). You can *contribute by sending corrections and responding to open questions.
 
+
+  public: June-16-2021
+  / June 16, 2021
+  revision June_16
+    head = Study from Scotland showed that the Delta VOC in Scotland was found mainly in younger, more affluent groups. Risk of COVID-19 hospital admission was approximately doubled in those with the Delta VOC when compared to the Alpha VOC. Effectiveness of 2 doses of AstraZeneca vaccine against symptomatic infection was 81% for Alpha (B.1.1.7), but only 61% for Delta (B.1.617.2); effectiveness for Pfizer-BNT was 92% for B.1.1.7 and 83% for B.1.617.2. Public Health England (PHE) reported that 2 doses of COVID-19 vaccines (Pfizer or Oxford-AZ) are highly effective against hospitalisation from the Delta (B.1.617.2) variant- it was similar to that seen with Alpha: 94% after 1 dose and 96% after 2 doses of Pfizer vaccine; 71%  after 1 dose and 92% after 2 doses of Oxford-AZ.
+    -
+      Variants.B1617.!ScotlandDelta
+      Variants.B1617.!PHEukDeltahospitalisation
+
+    >
+      In PREVENT-19 Phase 3 Trial, Novavax COVID-19 Vaccine candidate demonstrated 100% protection against moderate and severe disease; 90.4% efficacy overall; 93% efficacy against predominantly circulating Variants of Concern and Variants of Interest; 91% efficacy in high-risk populations; 100% efficacy against variants "not considered Variants of Concern/Interest". Novavax Covid19 Vaccine Phase 3 Trial - Safety, Immunogenicity, & Efficacy co-administered with seasonal influenza vaccine results demonstrated that concomitant vaccination may be a viable immunisation strategy.
+    -
+      Vaccines.Candidates.NVX-CoV2373.!NovavaxPhase3PreventTrial
+      Vaccines.Candidates.NVX-CoV2373.!Concomitantvaccination
+
+    >
+      Investigators of the United Kingdom’s Regeneron RECOVERY trial announced the results - A combination of antibodies called casirivimab and imdevimab reduced deaths by a fifth among those hospitalized covid-19 patients who did not produce antibodies themselves. One study suggest that prior covid induces long-lasting and continuously evolving humoral immunity for at least 1 year. Convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants.
+    -
+      Treatment.Antivirals.EntryInhibitors.MonoclonalAntibodies.REGEN-COV.!Regeneronrecoverytrial
+      Disease.Immunity.AcquiredImmunity.Antibodies.!Longevity.!Neutralizingantibody1yr
+
+
+    >
+      The authors report that The BNT162b2 vaccine was effective against infection and disease in the population of Qatar, despite the B.1.1.7 and B.1.351 variants being predominant within the country; vaccine effectiveness (2 doses) against B.1.1.7 variant was 89.5%; against B.1.351 variant was 75.0%; against severe, critical, or fatal disease was 97.4%. None of the lung transplant recipients (LTRs) developed anti-SARS-CoV-2 antibodies after two doses of the Pfizer vaccine, while 85% presented an antibody response after SARS-CoV-2 infection. SARS-CoV-2 specific T-cells were detected in 4 out of 12 tested patients. Thus, some patients might have a clinical benefit from the vaccine despite having no antibody response.
+    -
+      Vaccines.Approved.Tozinameran.!PfizerQatar
+      Vaccines.Approved.Tozinameran.!LTRsPfizer
+
+    >
+      A case of clustering that occurred in a courtroom, in which 5 of the 10 participants were tested positive within days of the hearing- This case study contributes to the growing body evidence highlighting possible SARS-CoV-2 transmission through aerosol. People were distanced and unmasked, broken ventilation system, 3 hours.
+    -
+      Transmission.Routes.!AirborneTransmission.!Airbornetransmissionevidence.!Courtroomtransmission
+
+    >
+      While protective antibodies are usually generated through Tfh/GC-dependent pathways, it is unclear what happens to the antibody response when these structures are disrupted by virus-induced inflammation. One study demonstrated a new paradigm for the induction of B cell responses during viral infection that enables effective, neutralizing antibody production to complement traditional GCs and even compensate for GCs damaged by viral inflammation.
+    -
+      Disease.Immunity.AcquiredImmunity.BCellImmunity.!Complementarypathways
+
+    >
+      Old mice acutely infected with pathogens that included a SARS-CoV-2-related mouse β-coronavirus experienced increased senescence and inflammation with nearly 100% mortality. Targeting aged cells (SnCs) using senolytic drugs (Fisetin) before or after pathogen exposure significantly reduced mortality, cellular senescence, and inflammatory markers and increased anti-viral antibodies. Thus, reducing the SnC burden in diseased or aged individuals should enhance resilience and reduce mortality following viral infection, including SARS-CoV-2.
+    -
+      Treatment.Frontiers.!Senolytics
 
   public: June-13-2021
   / June 13, 2021

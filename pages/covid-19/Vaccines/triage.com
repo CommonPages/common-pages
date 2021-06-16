@@ -91,7 +91,185 @@
       'Chevallier_et_al_02_09_2021.!c
 
 
-#### 06/05/21 ####
+#### 06/15/21 ####
+
+head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_16, *June_13, *June_7, *May_31, *May_24). You can *contribute by sending corrections and responding to open questions.
+
+
+public: June-16-2021
+/ June 16, 2021
+revision June_16
+  head = Study from Scotland showed that the Delta VOC in Scotland was found mainly in younger, more affluent groups. Risk of COVID-19 hospital admission was approximately doubled in those with the Delta VOC when compared to the Alpha VOC. Effectiveness of 2 doses of AstraZeneca vaccine against symptomatic infection was 81% for Alpha (B.1.1.7), but only 61% for Delta (B.1.617.2); effectiveness for Pfizer-BNT was 92% for B.1.1.7 and 83% for B.1.617.2. Public Health England (PHE) reported that 2 doses of COVID-19 vaccines (Pfizer or Oxford-AZ) are highly effective against hospitalisation from the Delta (B.1.617.2) variant- it was similar to that seen with Alpha: 94% after 1 dose and 96% after 2 doses of Pfizer vaccine; 71%  after 1 dose and 92% after 2 doses of Oxford-AZ.
+  -
+    Variants.B1617.!ScotlandDelta
+    Variants.B1617.!PHEukDeltahospitalisation
+
+  >
+    In PREVENT-19 Phase 3 Trial, Novavax COVID-19 Vaccine candidate demonstrated 100% protection against moderate and severe disease; 90.4% efficacy overall; 93% efficacy against predominantly circulating Variants of Concern and Variants of Interest; 91% efficacy in high-risk populations; 100% efficacy against variants "not considered Variants of Concern/Interest". Novavax Covid19 Vaccine Phase 3 Trial - Safety, Immunogenicity, & Efficacy co-administered with seasonal influenza vaccine results demonstrated that concomitant vaccination may be a viable immunisation strategy.
+  -
+    Vaccines.Candidates.NVX-CoV2373.!NovavaxPhase3PreventTrial
+    Vaccines.Candidates.NVX-CoV2373.!Concomitantvaccination
+
+  >
+    Investigators of the United Kingdom’s Regeneron RECOVERY trial announced the results - A combination of antibodies called casirivimab and imdevimab reduced deaths by a fifth among those hospitalized covid-19 patients who did not produce antibodies themselves. One study suggest that prior covid induces long-lasting and continuously evolving humoral immunity for at least 1 year. Convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants.
+  -
+    Treatment.Antivirals.EntryInhibitors.MonoclonalAntibodies.REGEN-COV.!Regeneronrecoverytrial
+    Disease.Immunity.AcquiredImmunity.Antibodies.!Longevity.!Neutralizingantibody1yr
+
+
+  >
+    The authors report that The BNT162b2 vaccine was effective against infection and disease in the population of Qatar, despite the B.1.1.7 and B.1.351 variants being predominant within the country; vaccine effectiveness (2 doses) against B.1.1.7 variant was 89.5%; against B.1.351 variant was 75.0%; against severe, critical, or fatal disease was 97.4%. None of the lung transplant recipients (LTRs) developed anti-SARS-CoV-2 antibodies after two doses of the Pfizer vaccine, while 85% presented an antibody response after SARS-CoV-2 infection. SARS-CoV-2 specific T-cells were detected in 4 out of 12 tested patients. Thus, some patients might have a clinical benefit from the vaccine despite having no antibody response.
+  -
+    Vaccines.Approved.Tozinameran.!PfizerQatar
+    Vaccines.Approved.Tozinameran.!LTRsPfizer
+
+  >
+    A case of clustering that occurred in a courtroom, in which 5 of the 10 participants were tested positive within days of the hearing- This case study contributes to the growing body evidence highlighting possible SARS-CoV-2 transmission through aerosol. People were distanced and unmasked, broken ventilation system, 3 hours.
+  -
+    Transmission.Routes.!AirborneTransmission.!Airbornetransmissionevidence.!Courtroomtransmission
+
+  >
+    While protective antibodies are usually generated through Tfh/GC-dependent pathways, it is unclear what happens to the antibody response when these structures are disrupted by virus-induced inflammation. One study demonstrated a new paradigm for the induction of B cell responses during viral infection that enables effective, neutralizing antibody production to complement traditional GCs and even compensate for GCs damaged by viral inflammation.
+  -
+    Disease.Immunity.AcquiredImmunity.BCellImmunity.!Complementarypathways
+
+  >
+    Old mice acutely infected with pathogens that included a SARS-CoV-2-related mouse β-coronavirus experienced increased senescence and inflammation with nearly 100% mortality. Targeting aged cells (SnCs) using senolytic drugs (Fisetin) before or after pathogen exposure significantly reduced mortality, cellular senescence, and inflammatory markers and increased anti-viral antibodies. Thus, reducing the SnC burden in diseased or aged individuals should enhance resilience and reduce mortality following viral infection, including SARS-CoV-2.
+  -
+    Treatment.Frontiers.!Senolytics
+
+
+
+
+
+  claim !Regeneronrecoverytrial = Investigators of the United Kingdom’s Regeneron RECOVERY trial announced the results - A combination of antibodies called casirivimab and imdevimab reduced deaths by a fifth among those hospitalized covid-19 patients who did not produce antibodies themselves.
+    -
+      'Kupferschmidt_et_al_06_16_2021
+      'Kupferschmidt_et_al_06_16_2021.!a
+      'Kupferschmidt_et_al_06_16_2021.!b
+
+  >
+    These results contrast with the excellent antibody response in immunocompetent individuals observed in mRNA BNT162b2 trials and indicate an urgent need to identify the best vaccine type and scheme for immunocompromised transplanted patients. The complete lack of antibody response in LTRs after the second mRNA BNT162b2 vaccine dose contrasts with a very good response in 85% of LTRs after COVID-19. None of the lung transplant recipients (LTRs) developed anti-SARS-CoV-2 antibodies after two doses of the mRNA BNT162b2 vaccine (Pfizer-BioNTech), while 85% presented an antibody response after SARS-CoV-2 infection. SARS-CoV-2 specific T-cells were detected in 4 out of 12 tested patients. Thus, some patients might have a clinical benefit from the vaccine despite having no antibody response.
+
+
+
+
+
+
+  claim !Neutralizingantibody1yr = One study suggest that prior covid induces long-lasting humoral immunity for at least 1 year/long lasting and continuously evolving antibody immunity one year after SARS-CoV-2 infection/ antibodies produced in response to SARS-CoV-2 infection continue to evolve over a 6-to-12-month period and are boosted by vaccination. Convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants.
+    -
+      'Wang_et_al_06_14_2021
+      'Wang_et_al_06_14_2021.!a
+      'Wang_et_al_06_14_2021.!b
+      'Wang_et_al_06_14_2021.!c
+      'Wang_et_al_06_14_2021.!d
+      'Wang_et_al_06_14_2021.!e
+
+  claim !NovavaxPhase3Trial = In PREVENT-19 Phase 3 Trial, Novavax COVID-19 Vaccine candidate demonstrated 100% protection against moderate and severe disease; 90.4% efficacy overall; 93% efficacy against predominantly circulating Variants of Concern and Variants of Interest; 91% efficacy in high-risk populations; 100% efficacy against variants "not considered Variants of Concern/Interest".
+    -
+      'Novavax_et_al_06_14_2021
+      'Novavax_et_al_06_14_2021.!a
+      'Novavax_et_al_06_14_2021.!b
+
+  >
+    We recently reported vaccine effectiveness (VE) estimates against symptomatic disease with the Delta (B.1.617.2) variant.(1) After a full course, VE reached 88% with the Pfizer/BioNTech BNT162b2 vaccine and 67% with the AstraZeneca ChAdOx1 AZD1222 vaccine. This provided important evidence that despite modest reductions in protection, vaccines remain effective against Delta. However, the very recent emergence of the variant and the relatively low case numbers meant that it was not possible to estimate VE against severe disease.
+    Public Health England (PHE) has previously published analysis showing that one dose is 17% less effective at preventing symptomatic illness from the Delta variant, compared to Alpha, but there is only a small difference after 2 doses.
+
+
+  claim !ScotlandDelta = Study from Scotland showed that the Delta VOC in Scotland was found mainly in younger, more affluent groups. Risk of COVID-19 hospital admission was approximately doubled in those with the Delta VOC when compared to the Alpha VOC - particularly increased in those with five or more relevant comorbidities. Effectiveness of 2 doses of AstraZeneca vaccine against symptomatic infection was 81% for Alpha (B.1.1.7), but only 61% for Delta (B.1.617.2). In contrast, effectiveness for Pfizer-BNT was 92% for B.1.1.7 and 83% for B.1.617.2.
+    -
+      'Sheikh_et_al_06_14_2021
+      'Sheikh_et_al_06_14_2021.!a
+      'Sheikh_et_al_06_14_2021.!b
+      'Sheikh_et_al_06_14_2021.!c
+      'Sheikh_et_al_06_14_2021.!d
+      'Sheikh_et_al_06_14_2021.!e
+      'Sheikh_et_al_06_14_2021.!f
+
+  claim !PHEukDeltahospitalisation = Public Health England (PHE) reported that 2 doses of COVID-19 vaccines (Pfizer or Oxford-AZ) are highly effective against hospitalisation from the Delta (B.1.617.2) variant. Vaccine effectiveness (VE) against hospitalisation with Delta was similar to that seen with Alpha: 94% after 1 dose and 96% after 2 doses of Pfizer vaccine; 71%  after 1 dose and 92% after 2 doses of Oxford-AZ.
+    -
+      'Stowe_et_al_06_14_2021
+      'Stowe_et_al_06_14_2021.!a
+      'Stowe_et_al_06_14_2021.!b
+      'Stowe_et_al_06_14_2021.!c
+
+
+  claim !PfizerQatar = The authors report that The BNT162b2 vaccine was effective against infection and disease in the population of Qatar, despite the B.1.1.7 and B.1.351 variants being predominant within the country; vaccine effectiveness (2 doses) against B.1.1.7 variant was 89.5%; against B.1.351 variant was 75.0%; against severe, critical, or fatal disease was 97.4%. Vaccine effectiveness against the B.1.351 variant was approximately 20 % points lower than the effectiveness (>90%) reported in the clinical trial and in real-world conditions in Israel and the United States.
+
+    -
+      'Abu-Raddad_et_al_05_05_2021
+      'Abu-Raddad_et_al_05_05_2021.!a
+      'Abu-Raddad_et_al_05_05_2021.!b
+      'Abu-Raddad_et_al_05_05_2021.!c
+      'Abu-Raddad_et_al_05_05_2021.!d
+      'Abu-Raddad_et_al_05_05_2021.!e
+      'Abu-Raddad_et_al_05_05_2021.!f
+
+  claim !LTRsPfizer = None of the lung transplant recipients (LTRs) developed anti-SARS-CoV-2 antibodies after two doses of the mRNA BNT162b2 vaccine (Pfizer-BioNTech), while 85% presented an antibody response after SARS-CoV-2 infection. SARS-CoV-2 specific T-cells were detected in 4 out of 12 tested patients. Thus, some patients might have a clinical benefit from the vaccine despite having no antibody response.
+
+    -
+      'Havlin_et_al_05_20_2021
+      'Havlin_et_al_05_20_2021.!a
+      'Havlin_et_al_05_20_2021.!b
+      'Havlin_et_al_05_20_2021.!c
+      'Havlin_et_al_05_20_2021.!d
+
+
+  claim !Concomitantvaccination = Novavax Covid19 Vaccine Phase 3 Trial - Safety, Immunogenicity, & Efficacy co-administered with seasonal influenza vaccine results demonstrated that concomitant vaccination may be a viable immunisation strategy.
+    -
+      'Heath_et_al_06_03_2021
+      'Heath_et_al_06_03_2021.!a
+      'Heath_et_al_06_03_2021.!b
+      'Heath_et_al_06_03_2021.!c
+      'Heath_et_al_06_03_2021.!d
+      'Heath_et_al_06_03_2021.!e
+
+  claim !Complementarypathways = While protective antibodies are usually generated through Tfh/GC-dependent pathways, it is unclear what happens to the antibody response when these structures are disrupted by virus-induced inflammation. One study demonstrated a new paradigm for the induction of B cell responses during viral infection that enables effective, neutralizing antibody production to complement traditional GCs and even compensate for GCs damaged by viral inflammation.
+    -
+      'Chen_et_al_06_11_2021
+      'Chen_et_al_06_11_2021.!a
+      'Chen_et_al_06_11_2021.!b
+      'Chen_et_al_06_11_2021.!c
+
+
+  claim !Senolytics = Old mice acutely infected with pathogens that included a SARS-CoV-2-related mouse β-coronavirus experienced increased senescence and inflammation with nearly 100% mortality. Targeting aged cells (SnCs) using senolytic drugs (Fisetin) before or after pathogen exposure significantly reduced mortality, cellular senescence, and inflammatory markers and increased anti-viral antibodies. Thus, reducing the SnC burden in diseased or aged individuals should enhance resilience and reduce mortality following viral infection, including SARS-CoV-2.
+
+    -
+      'Camell_et_al_06_08_2021
+      'Camell_et_al_06_08_2021.!a
+      'Camell_et_al_06_08_2021.!b
+      'Camell_et_al_06_08_2021.!c
+      'Camell_et_al_06_08_2021.!d
+      'Camell_et_al_06_08_2021.!e
+      'Camell_et_al_06_08_2021.!f
+      'Camell_et_al_06_08_2021.!g
+      'Camell_et_al_06_08_2021.!h
+
+  claim !Courtroomtransmission = A case of clustering that occurred in a courtroom, in which 5 of the 10 participants were tested positive within days of the hearing- This case study contributes to the growing body evidence highlighting possible SARS-CoV-2 transmission through aerosol. People were distanced and unmasked, broken ventilation system, 3 hours.
+    -
+      'Vernez_et_al_06_11_2021
+      'Vernez_et_al_06_11_2021.!a
+      'Vernez_et_al_06_11_2021.!b
+      'Vernez_et_al_06_11_2021.!c
+
+
+
+
+
+
+  claim !Microarraypatch = One study demonstrated  SARS-CoV-2 spike vaccination via a microarray patch - they showed the vaccine, dry-coated on the patch is thermostable, and delivery of spike via HD-MAP induced greater cellular and antibody immune responses, with serum able to potently neutralize clinically relevant isolates including those from the B.1.1.7 and B.1.351 lineages. A single dose of HD-MAP-delivered spike are stable, immunogenic, and provided complete protection from a lethal virus challenge.
+
+    -
+      'McMillan_et_al_05_31_2021
+      'McMillan_et_al_05_31_2021.!a
+      'McMillan_et_al_05_31_2021.!b
+      'McMillan_et_al_05_31_2021.!c
+      'McMillan_et_al_05_31_2021.!d
+
+
+
+
+############### Document text ##########
 
   >  https://doi.org/10.1038/s41586-021-03693-y
     a recent study found that BNT162b2-immune sera neutralized a clinical B.1.617.1 isolate with 0.14 times the neutralization titer of the sera against WT virus22.('Edara_et_al_07_30_2021) Other studies have found that BNT162b2-immune sera have 0.25 to 0.35 times the inhibitory titer against pseudovirus with a B.1.617.1 spike compared to that against WT spike pseudovirus23, and that BNT162b2 immune sera inhibit pseudovirus with a B.1.618 spike to 0.37 times the serum inhibition titer against WT spike pseudovirus20 ('Tada_et_al_05_16_2021
@@ -111,104 +289,6 @@
 
     New variants will continue to emerge as the pandemic persists. To date, there is no evidence that virus variants have escaped
     BNT162b2-mediated protection from COVID-19. Therefore, increasing the proportion of the population immunized with current safe and effective authorized vaccines remains a key strategy to minimize the emergence of new variants and end the COVID-19 pandemic
-
-  claim !Pfizerantibodyneutralisation = One study reported two doses of Pfizer vaccine provided a strong neutralizing antibody response against engineered SARS-CoV-2 with a USA-WA1/2020 genetic background and spike glycoproteins from the newly emerged B.1.617.1 (Kappa), B.1.617.2 (Delta), B.1.618 or B.1.525 (first identified in Nigeria) lineages. Spike proteins from B.1.3514 and B.1.617.1 exhibited the greatest reduction in neutralization.
-    -
-      'Liu_et_al_06_10_2021
-      'Liu_et_al_06_10_2021.!a
-      'Liu_et_al_06_10_2021.!b
-      'Liu_et_al_06_10_2021.!c
-
-  claim !Realworldviralload = In a community-based cross-sectional study (King County, Washington), SARS-CoV-2 RNA levels, as determined by RT-PCR Cts, were significantly higher in symptomatic individuals than in asymptomatic individuals. There were no significant differences in RNA levels in asymptomatic children vs asymptomatic adults or in symptomatic children vs symptomatic adults.
-    -
-      'Chung_et_al_06_11_2021
-      'Chung_et_al_06_11_2021.!a
-      'Chung_et_al_06_11_2021.!b
-      'Chung_et_al_06_11_2021.!c
-      'Chung_et_al_06_11_2021.!d
-
-
-  claim !Realworldchildrensymptoms = In a community-based cross-sectional study (King County, Washington), fewer children were symptomatic compared with adults. When symptomatic, fewer symptoms were reported in children compared with adults. The most common signs or symptoms reported in children were runny or stuffy nose, fever, headache, and cough.
-    -
-      'Chung_et_al_06_11_2021
-      'Chung_et_al_06_11_2021.!b
-      'Chung_et_al_06_11_2021.!c
-      'Chung_et_al_06_11_2021.!d
-
-  claim !Indiacovishield = Study of 10,567 health care workers in India (Feb - May 2021) showed that 2 doses of COVISHIELD (Astra Zeneca) was 94% protective against need for ICU care. 77% protection from hospitalization. The protective effect of vaccination in preventing infection is 65%. No deaths were seen in vaccinated healthcare workers. One death in unvaccinated healthcare worker. This study corroborates prior studies that vaccination is protective, although it did not look at the variants responsible for the massive second wave.
-    -
-      'Victor_et_al_06_03_2021
-      'Victor_et_al_06_03_2021.!a
-      'Victor_et_al_06_03_2021.!b
-      'Victor_et_al_06_03_2021.!c
-      'Victor_et_al_06_03_2021.!d
-  >
-    Single dose provided 95% protection from ICU admission. However, note that we don't know what proportion of cases were due to B.1.617.2 (delta variant) or B.1.617.1 variant or wild type. UK study showed 88% protection from symptomatic COVID against delta variant with 2 doses of Pfizer; 66% with Astra Zeneca vaccine. With 1 dose, protection was 33%. This study is specific to delta variant, & endpoint was symptomatic COVID. Not ICU care.
-
-  claim !DelayedlargelocalreactionBIPOC = In a correspondenc letter, the authors reported delayed large local reactions to mRNA vaccination in Black, Indigenous or People of Color (BIPOC) and stated that it may be less commonly recognized or reported in BIPOC vaccine recipients than in White recipients. Majority of these delayed large local reactions occurred after the receipt of the first vaccine dose and after the receipt of the mRNA-1273 vaccine.
-    -
-      'Samarakoon_et_al_06_09_2021
-      'Samarakoon_et_al_06_09_2021.!a
-      'Samarakoon_et_al_06_09_2021.!b
-      'Samarakoon_et_al_06_09_2021.!c
-      'Samarakoon_et_al_06_09_2021.!d
-
-  claim !Vaccinationcrossprotection = Study provides observational evidence that vaccination not only protects individuals who have been vaccinated but also provides cross-protection to unvaccinated individuals in the community.
-    -
-      'Milman_et_al_06_03_2021
-      'Milman_et_al_06_03_2021.!a
-      'Milman_et_al_06_03_2021.!b
-      'Milman_et_al_06_03_2021.!c
-
-  claim !Antibodies10months = One study depicts the comprehensive dynamics of the four most relevant antibodies (IgM, IgG, anti-RBD IgG, and NAb) for SARS-CoV-2 for up to 10 months in 215 participants consisting of patients with both mild and severe disease. The positivity rates for IgM, IgG, anti-RBD IgG, and NAb fell to 20.4%, 97.9%, 97.4%, and 95.8%, respectively, during 9–10 months post symptom onset. A long viral clearance duration may contribute to a persistently strong antibody response in the late convalescence phase. Pre-existing hypertension was linked to higher NAb titers during 1–6 months of convalescence.
-
-  # The more we look, the neutralizing antibody response to covid infections keeps getting better: new report ≥ 10 months, not significantly affected by age, severity of illness IgM titers remained relatively stable for 6–10 months. Progressive declines in IgG, anti-RBD, and NAbs were observed during 1–10 months after symptom onset. NAb titers during 1–2 months post symptom onset were significantly higher in elderly participants, severe cases, and patients without repositive RNA tests or with hypertension. Participants with short viral clearance duration had a higher NAb titer during 1–2 months and a lower titer during 5–10 months post symptom onset. Participants with long viral clearance durations had lower NAb titers for 1–2 months but higher NAb titers for 5–10 months than those with short viral clearance durations.
-    -
-      'Wang_et_al_06_07_2021
-      'Wang_et_al_06_07_2021.!a
-      'Wang_et_al_06_07_2021.!b
-      'Wang_et_al_06_07_2021.!c
-      'Wang_et_al_06_07_2021.!d
-      'Wang_et_al_06_07_2021.!e
-      'Wang_et_al_06_07_2021.!f
-      'Wang_et_al_06_07_2021.!g
-      'Wang_et_al_06_07_2021.!h
-      'Wang_et_al_06_07_2021.!i
-
-  >
-    Ongoing surveillance has identified B.1.617.2 as a VoC that is spreading rapidly within the UK and elsewhere. Two dose vaccination with AZD1222 induces antibodies capable of neutralising B.1.617.1 and B.1.617.2 (Table 1), and early real-world evidence suggest that the effectiveness of this regimen against hospitalisation and death is maintained
-
-  claim !PreclinicalAZD2816 = A preclinical study demonstrated that AZD2816 (a new ChAdOx1 nCoV-19 vaccine expressing B.1.351 spike protein) is immunogenic after a single dose and when used as a booster dose in animals primed with original vaccine AZD1222, there was no evidence of original antigenic sin but high titre antibodies against a number of variant spike proteins. In addition, neutralisation titres against B.1.351 (Beta), B.1.617.1 (Kappa) and B.1.617.2 (Delta), are induced in these boost regimens.
-
-  # The ChAdOx1 vectored vaccine, AZD2816, induces strong immunogenicity against SARS-CoV-2 B.1.351 and other variants of concern in preclinical studies One study data demonstrates that vaccination with ChAdOx1 nCoV-19 (AZD1222) induces high titre cross-reactive antibodies capable of neutralising a number of SARS-CoV-2 variants of concern, B.1.351 (Beta), B.1.617.1 (Kappa) and B.1.617.2 (Delta). Most importantly these responses can be further enhanced by a booster dose of vaccine expressing the spike protein from B.1.351.
-    -
-      'Spencer_et_al_06_09_2021
-      'Spencer_et_al_06_09_2021.!a
-      'Spencer_et_al_06_09_2021.!b
-      'Spencer_et_al_06_09_2021.!c
-
-  claim !NYCorigin = One study provides evidence that SARS-CoV-2 infections were present in NYC >1 month prior to the detection of the first reported NYS case.
-  -
-    'Hernandez_et_al_06_03_2021
-    'Hernandez_et_al_06_03_2021.!a
-    'Hernandez_et_al_06_03_2021.!b
-
-
-  claim !Microarraypatch = One study demonstrated  SARS-CoV-2 spike vaccination via a microarray patch - they showed the vaccine, dry-coated on the patch is thermostable, and delivery of spike via HD-MAP induced greater cellular and antibody immune responses, with serum able to potently neutralize clinically relevant isolates including those from the B.1.1.7 and B.1.351 lineages. A single dose of HD-MAP-delivered spike are stable, immunogenic, and provided complete protection from a lethal virus challenge.
-
-    -
-      'McMillan_et_al_05_31_2021
-      'McMillan_et_al_05_31_2021.!a
-      'McMillan_et_al_05_31_2021.!b
-      'McMillan_et_al_05_31_2021.!c
-      'McMillan_et_al_05_31_2021.!d
-
-
-
-
-############### Document text ##########
-
-
   >
     One study suggest that the benefits of delaying the second dose, in terms of wider population coverage and increased individual NAbTs after the second dose, must now be weighed against decreased efficacy in the short-term, in the context of the spread of B.1.617.2.
 

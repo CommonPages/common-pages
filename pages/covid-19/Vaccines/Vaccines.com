@@ -87,10 +87,16 @@ subject module Vaccines
         !UKPostvaccineantispikeIgG
         !AdverseeffectsBNT162b2ChAdOx1
         !RealworldevidenceUK
+        Variants.B1617.!PHEukDeltahospitalisation
       -
         !CanadaVE
       -
         !Finland
+      -
+        !PfizerQatar
+      -
+        Variants.B1617.!ScotlandDelta
+
 
 
       - Single Dose
@@ -131,6 +137,7 @@ subject module Vaccines
         !ChildrenPfizer
       - Solid organ transplant recipients
         !Solidorgantransplantrecipients
+        !LTRsPfizer
       - Multiple Myeloma
         !MultiplemyelomaPfizerAstraZeneca
       - HIV
@@ -158,12 +165,16 @@ subject module Vaccines
         Variants.B1617.!B16172neutralizingantibodies
         mRNA-1273.!Vaccineescape
         !PfizerdeltaNAbTs
+        Variants.B1617.!PHEukDeltahospitalisation
+        Variants.B1617.!ScotlandDelta
       - Immune Response
         !Tcellresponses
         !BCellresponse
         !MemoryBcells
         !UKPostvaccineantispikeIgG
         !Pfizerantibodyneutralisation
+        Disease.Immunity.AcquiredImmunity.Antibodies.!Longevity.!Neutralizingantibody1yr
+
       - Spike-specific CD4+ and CD8+ T cells and non-neutralizing antibody-dependent cytotoxicity
         !Humoralpolyspecificcellular
         !Fcmediatedeffectorcellularresponse
@@ -1029,6 +1040,27 @@ subject module Vaccines
            'Tauzin_et_al_03_18_2021.!d
            'Tauzin_et_al_03_18_2021.!e
 
+       / Pfizer vaccine effectives against B.1.1.7 and B.1.351 variants (Qatar)
+       claim !PfizerQatar = The authors report that The BNT162b2 vaccine was effective against infection and disease in the population of Qatar, despite the B.1.1.7 and B.1.351 variants being predominant within the country; vaccine effectiveness (2 doses) against B.1.1.7 variant was 89.5%; against B.1.351 variant was 75.0%; against severe, critical, or fatal disease was 97.4%. Vaccine effectiveness against the B.1.351 variant was approximately 20 % points lower than the effectiveness (>90%) reported in the clinical trial and in real-world conditions in Israel and the United States.
+
+         -
+           'Abu-Raddad_et_al_05_05_2021
+           'Abu-Raddad_et_al_05_05_2021.!a
+           'Abu-Raddad_et_al_05_05_2021.!b
+           'Abu-Raddad_et_al_05_05_2021.!c
+           'Abu-Raddad_et_al_05_05_2021.!d
+           'Abu-Raddad_et_al_05_05_2021.!e
+           'Abu-Raddad_et_al_05_05_2021.!f
+
+       claim !LTRsPfizer = None of the lung transplant recipients (LTRs) developed anti-SARS-CoV-2 antibodies after two doses of the mRNA BNT162b2 vaccine (Pfizer-BioNTech), while 85% presented an antibody response after SARS-CoV-2 infection. SARS-CoV-2 specific T-cells were detected in 4 out of 12 tested patients. Thus, some patients might have a clinical benefit from the vaccine despite having no antibody response.
+
+         -
+           'Havlin_et_al_05_20_2021
+           'Havlin_et_al_05_20_2021.!a
+           'Havlin_et_al_05_20_2021.!b
+           'Havlin_et_al_05_20_2021.!c
+           'Havlin_et_al_05_20_2021.!d
+
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
     / Moderna
@@ -1115,6 +1147,7 @@ subject module Vaccines
         Tozinameran.!Tcellresponses
         Tozinameran.!BCellresponse
         Tozinameran.!MemoryBcells
+        Disease.Immunity.AcquiredImmunity.Antibodies.!Longevity.!Neutralizingantibody1yr
       - Cross Neutralizing
         Variants.B1351.!CrossNeutralizingactivity
       - Severe Reaction
@@ -1360,6 +1393,8 @@ subject module Vaccines
         Tozinameran.!RealworldevidenceUK
         BBV152.!RealworldIndia2doses
         !Indiacovishield
+        Variants.B1617.!PHEukDeltahospitalisation
+        Variants.B1617.!ScotlandDelta
       -
         Tozinameran.!Realworldvaccinationresults
       - US Phase 3 Results
@@ -1383,6 +1418,7 @@ subject module Vaccines
       - Efficacy against UK Variant
         !VariantEfficacy
         !PreviouslyinfectedChAdOx1
+        Variants.B1617.!ScotlandDelta
       - Efficacy against SA Variant
         !SAVariant
         !SAVariantEfficacy
@@ -1399,6 +1435,8 @@ subject module Vaccines
         !PHEupdatevaccineeffectiveness
         Variants.B1617.!B16172neutralizingantibodies
         !PreclinicalAZD2816
+        Variants.B1617.!PHEukDeltahospitalisation
+        Variants.B1617.!ScotlandDelta
       - Immune Response
         Tozinameran.!UKPostvaccineantispikeIgG
       - Animal challenge
@@ -3089,7 +3127,7 @@ subject module Vaccines
 
     / Novavax
     subject NVX-CoV2373
-      head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in COVID-19 convalescent serum. Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and South African variants. Novavax announced final efficacy of 96.4% in phase 3 trial against mild, moderate and severe disease caused by the original COVID-19 strain. Efficacy of 55.4% has been observed against B.1.351 escape variants. The vaccine demonstrated 100% protection against severe disease, including all hospitalization and death. UK phase 3 trial of a two-dose regimen of Novavax was 89.7% effective against symptomatic Covid-19 caused by both prototype and B1.1.7 variants.
+      head = In Phase 1 & 2 trials authors reported that at 35 days, NVX-CoV2373 appeared to be safe, and it elicited immune responses that exceeded levels in COVID-19 convalescent serum. Novavax reported that NVX-CoV2373 demonstrated clinical efficacy against both the UK and South African variants. Novavax announced final efficacy of 96.4% in phase 3 trial against mild, moderate and severe disease caused by the original COVID-19 strain. Efficacy of 55.4% has been observed against B.1.351 escape variants. The vaccine demonstrated 100% protection against severe disease, including all hospitalization and death. UK phase 3 trial of a two-dose regimen of Novavax was 89.7% effective against symptomatic Covid-19 caused by both prototype and B1.1.7 variants. In PREVENT-19 Phase 3 Trial, Novavax COVID-19 Vaccine candidate demonstrated 100% protection against moderate and severe disease; 90.4% efficacy overall; 93% efficacy against predominantly circulating VOC and VOI; 91% efficacy in high-risk populations; 100% efficacy against variants "not considered VOC/VOI". Novavax Covid19 Vaccine Phase 3 Trial - Safety, Immunogenicity, & Efficacy co-administered with seasonal influenza vaccine results demonstrated that concomitant vaccination may be a viable immunisation strategy.
 
       >
         NVX-CoV2373 [Novavax](https://www.novavax.com/) is a protein subunit vaccine that contains the {Virus.Structure spike protein} of the SARS-CoV-2 molecule. NVX-CoV2373 is a SARS-CoV-2 recombinant spike protein nanoparticle with adjuvant.
@@ -3120,6 +3158,9 @@ subject module Vaccines
         !Phase2
       -
         !Phase3Novavax
+        !UKphase3Novavax
+        !NovavaxPhase3PreventTrial
+        !Concomitantvaccination
       - Pre clinical study
         !Animalstudy
       - UK and SA Variant
@@ -3214,7 +3255,7 @@ subject module Vaccines
           'Shinde_et_al_05_20_2021.!b
           'Shinde_et_al_05_20_2021.!c
 
-      / Novavax Vaccine efficacy (UK phase 3 trial)against the  B1.1.7 Variants
+      / Novavax Vaccine efficacy (UK phase 3 trial) against the  B1.1.7 Variants
       claim !UKphase3Novavax = UK phase 3 trial of a two-dose regimen of NVX-CoV2373 (Novavax), given 21 days apart, was found to be safe and 89.7% effective against symptomatic Covid-19 caused by both prototype and B1.1.7 variants.
         -
           'Heath_et_al_05_14_2021
@@ -3222,6 +3263,25 @@ subject module Vaccines
           'Heath_et_al_05_14_2021.!b
           'Heath_et_al_05_14_2021.!c
           'Heath_et_al_05_14_2021.!d
+
+
+      / PREVENT-19 Phase 3 Trial
+      claim !NovavaxPhase3PreventTrial = In PREVENT-19 Phase 3 Trial, Novavax COVID-19 Vaccine candidate demonstrated 100% protection against moderate and severe disease; 90.4% efficacy overall; 93% efficacy against predominantly circulating Variants of Concern and Variants of Interest; 91% efficacy in high-risk populations; 100% efficacy against variants "not considered Variants of Concern/Interest".
+        -
+          'Novavax_et_al_06_14_2021
+          'Novavax_et_al_06_14_2021.!a
+          'Novavax_et_al_06_14_2021.!b
+
+      / Phase 3 Trial: co-administered with seasonal influenza vaccine
+      claim !Concomitantvaccination = Novavax Covid19 Vaccine Phase 3 Trial - Safety, Immunogenicity, & Efficacy co-administered with seasonal influenza vaccine results demonstrated that concomitant vaccination may be a viable immunisation strategy.
+        -
+          'Heath_et_al_06_03_2021
+          'Heath_et_al_06_03_2021.!a
+          'Heath_et_al_06_03_2021.!b
+          'Heath_et_al_06_03_2021.!c
+          'Heath_et_al_06_03_2021.!d
+          'Heath_et_al_06_03_2021.!e
+
 
 
   / Vaccine Efficacy Against Variants
@@ -3302,6 +3362,9 @@ subject module Vaccines
       Variants.B1617.!B16172neutralizingantibodies
       Approved.mRNA-1273.!Vaccineescape
       Approved.Tozinameran.!PfizerdeltaNAbTs
+      Vaccines.Approved.Tozinameran.!PfizerQatar
+      Variants.B1617.!PHEukDeltahospitalisation
+      Variants.B1617.!ScotlandDelta
 
     - Moderna
       Approved.mRNA-1273.!Variantefficacy
@@ -3316,6 +3379,7 @@ subject module Vaccines
       Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
       Approved.Tozinameran.!B1617B1618neutralizationPfizerModerna
       Approved.mRNA-1273.!Vaccineescape
+
     - Oxford
       Approved.AZD1222.!VariantEfficacy
       Approved.AZD1222.!SAVariant
@@ -3327,6 +3391,8 @@ subject module Vaccines
       Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
       Vaccines.Approved.AZD1222.!PHEupdatevaccineeffectiveness
       Variants.B1617.!B16172neutralizingantibodies
+      Variants.B1617.!PHEukDeltahospitalisation
+      Variants.B1617.!ScotlandDelta
 
     - Covaxin
       Approved.BBV152.!UKvariant

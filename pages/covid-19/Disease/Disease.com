@@ -886,7 +886,7 @@ subject module Disease
           'Khoury_et_al_05_17_2021.!a
           'Khoury_et_al_05_17_2021.!b
 
-        claim !Longevity = There have been reports of SARS-CoV-2 antibodies waning. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Specific IgG antibodies was still present after 7 months.  Concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. A study on Extreme aged individuals and centenarians antibodies found that humoral responses were still detectable after 60 days from initial diagnosis. Past studies on antibodies longevity of diifferent coronaviruses have shown to last for atleast a year. One study depicts the positivity rates for IgM, IgG, anti-RBD IgG, and NAb fell to 20.4%, 97.9%, 97.4%, and 95.8%, respectively, during 9–10 months post symptom onset. A long viral clearance duration may contribute to a persistently strong antibody response in the late convalescence phase. Pre-existing hypertension was linked to higher NAb titers during 1–6 months of convalescence. A model study predicts that immune protection from infection may wane with time as neutralization levels decline, and that booster immunization may be required within a year. However, protection from severe infection should be largely retained.
+        claim !Longevity = There have been reports of SARS-CoV-2 antibodies waning. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Specific IgG antibodies was still present after 7 months.  Concentrations sustained better in symptomatic compared to asymptomatic persons or those with mild upper respiratory complaints only. A study on Extreme aged individuals and centenarians antibodies found that humoral responses were still detectable after 60 days from initial diagnosis. Past studies on antibodies longevity of diifferent coronaviruses have shown to last for atleast a year. One study depicts the positivity rates for IgM, IgG, anti-RBD IgG, and NAb fell to 20.4%, 97.9%, 97.4%, and 95.8%, respectively, during 9–10 months post symptom onset. A long viral clearance duration may contribute to a persistently strong antibody response in the late convalescence phase. Pre-existing hypertension was linked to higher NAb titers during 1–6 months of convalescence. A model study predicts that immune protection from infection may wane with time as neutralization levels decline, and that booster immunization may be required within a year. However, protection from severe infection should be largely retained. One study suggest that prior covid induces long-lasting and continuously evolving humoral immunity for at least 1 year.
           -
             !Cv2Waning
             !Neutralizinglevelpredictor
@@ -898,6 +898,7 @@ subject module Disease
             !Diversity.!Age.!Extremeagedindividualsandcentenarians
             Vaccines.Approved.Tozinameran.!MemoryBcells
             !Antibodies10months
+            !Neutralizingantibody1yr
           - Past Studies
             !Mers
             !Sars
@@ -941,6 +942,16 @@ subject module Disease
               'Wang_et_al_06_07_2021.!g
               'Wang_et_al_06_07_2021.!h
               'Wang_et_al_06_07_2021.!i
+
+          claim !Neutralizingantibody1yr = One study suggest that prior covid induces long-lasting and continuously evolving humoral immunity for at least 1 year. Convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants.
+            -
+              'Wang_et_al_06_14_2021
+              'Wang_et_al_06_14_2021.!a
+              'Wang_et_al_06_14_2021.!b
+              'Wang_et_al_06_14_2021.!c
+              'Wang_et_al_06_14_2021.!d
+              'Wang_et_al_06_14_2021.!e
+
 
 
 
@@ -1052,10 +1063,20 @@ subject module Disease
 
       / B-cell Immunity
       subject BCellImmunity
-        head = One study has asserted that the B-cell response may be protective over long time frames.
+        head = One study has asserted that the B-cell response may be protective over long time frames. One study demonstrated a new paradigm for the induction of B cell responses during viral infection that enables effective, neutralizing antibody production to complement traditional GCs and even compensate for GCs damaged by viral inflammation.
 
         -
           'Gaebler_et_al_11_05_2020
+          !Complementarypathways
+
+        claim !Complementarypathways = While protective antibodies are usually generated through Tfh/GC-dependent pathways, it is unclear what happens to the antibody response when these structures are disrupted by virus-induced inflammation. One study demonstrated a new paradigm for the induction of B cell responses during viral infection that enables effective, neutralizing antibody production to complement traditional GCs and even compensate for GCs damaged by viral inflammation.
+          -
+            'Chen_et_al_06_11_2021
+            'Chen_et_al_06_11_2021.!a
+            'Chen_et_al_06_11_2021.!b
+            'Chen_et_al_06_11_2021.!c
+
+
 
     / Cross Immunity
     subject CrossImmunity

@@ -413,6 +413,7 @@ subject module Transmission
           'Greenhalgh_et_al_04_15_2021.!q
         -
           !Indirectevidencairbornetransmission
+          !Courtroomtransmission
 
         claim !Indirectevidencairbornetransmission = An updated study on the outbreak at a Guangzhou restaurant in Jan 2020 provided indirect evidence for the risk of indoor long-range airborne transmission of SARS-CoV-2 by ruling out other possible transmission routes, namely close contact (large droplets and short-range airborne) and fomites in the Guangzhou restaurant outbreak. The restaurant was poorly ventilated, allowing for increasing airborne SARS-CoV-2 concentration. The evidence is based on video analysis of all activities during the time that one known index case and three possible index cases had lunch in a Guangzhou restaurant.
 
@@ -422,6 +423,13 @@ subject module Transmission
             'Zhang_et_al_05_29_2021.!b
             'Zhang_et_al_05_29_2021.!c
             'Zhang_et_al_05_29_2021.!d
+
+        claim !Courtroomtransmission = A case of clustering that occurred in a courtroom, in which 5 of the 10 participants were tested positive within days of the hearing- This case study contributes to the growing body evidence highlighting possible SARS-CoV-2 transmission through aerosol. People were distanced and unmasked, broken ventilation system, 3 hours.
+          -
+            'Vernez_et_al_06_11_2021
+            'Vernez_et_al_06_11_2021.!a
+            'Vernez_et_al_06_11_2021.!b
+            'Vernez_et_al_06_11_2021.!c
 
 
     / Droplet Transmission
