@@ -10,6 +10,23 @@ feed Sangeeta
 
     / June, 2021 - JAMA Netw Open.
     quote !a =
+
+  #
+
+
+  #
+
+
+
+  #
+
+
+  #
+
+
+  #
+
+  #
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -22,7 +39,6 @@ feed Sangeeta
     / June, 2021 - JAMA Netw Open.
     quote !a =
 
-
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
@@ -34,19 +50,431 @@ feed Sangeeta
 
     / June, 2021 - JAMA Netw Open.
     quote !a =
+  #
+  // The Risk of SARS-CoV-2 Transmission from Patients with Undiagnosed Covid-19 to Roommates in a Large Academic Medical Center
+  doi: https://doi.org/10.1093/cid/ciab564
+  ref 'Karan_et_al_06_18_2021
+    head = We assessed SARS-CoV-2 transmission between patients in shared rooms in an academic hospital between September 2020-April 2021.
+
+    > Abstract
+      We assessed SARS-CoV-2 transmission between patients in shared rooms in an academic hospital between September 2020-April 2021. 11,290 patients were admitted to shared rooms, of whom 25 tested positive. Among 31 exposed roommates, 12 (39%) tested positive within 14 days. Transmission was associated with PCR cycle thresholds ≤21.
+
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - Clinical Infectious Diseases
+    quote !a = 11,290 patients were admitted to shared rooms, of whom 25 tested positive. Among 31 exposed roommates, 12 (39%) tested positive within 14 days. Transmission was associated with PCR cycle thresholds ≤21.
+
+    / June, 2021 - Clinical Infectious Diseases
+    quote !b = High risk of transmission for patients in shared hospital rooms if their roommate is acutely infected. Enhanced infection prevention measures may be needed to reduce transmissionn risk between roommates during periods of high disease incidence
+
+    / June, 2021 - Clinical Infectious Diseases
+    quote !c = Our study underscores the importance of isolating and testing all patients exposed to roommates with SARS-CoV-2, including those who have been discharged. The majority of exposed roommates tested positive after discharge, hence in the absence of active follow-up of exposed patients many nosocomial transmission events will be missed
+
 
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
-  doi: https://doi.org/xyz
-  ref 'Doremalen_et_al_06_30_2021
+  // Increased transmissibility and global spread of SARS-CoV-2 variants of concern as at June 2021
+  doi: https://doi.org/10.2807/1560-7917.ES.2021.26.24.2100509
+  ref 'Campbell_et_al_06_16_2021
+    head = We present an analysis of the effective reproduction number and global spread of SARS-CoV-2 variants with data available by 3 June 2021.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+
+    / June, 2021 - Euro Surveill.
+    quote !a = Given our estimates and all other factors remaining constant, B.1.617.2 is expected to rapidly outcompete other variants and become the dominant circulating lineage over the coming months.
+
+    / June, 2021 - Euro Surveill.
+    quote !b = Despite differences between countries, our analysis showed a statistically significant increase in the pooled mean effective reproduction number relative to non-VOC/VOI of B.1.1.7 at 29%, B.1.351 at 25%, P.1 at 38% and B.1.617.2 at 97%.
+
+    / June, 2021 - Euro Surveill.
+    quote !c = Of the six variants currently designated as VOI, five were considered in our analysis and among these, only B.1.617.1 and B.1.525 demonstrated a statistically significant increase in the effective reproduction number of 48%  and 29%, respectively.
+
+    / June, 2021 - Euro Surveill.
+    quote !d = Our results showed rapid replacement of previously circulating variants by VOC/VOI in nearly all countries; of the 64 countries considered in this analysis, we estimate VOC/VOI to be the most frequently circulating lineage on the last day of available data in 52 countries, the most common variants being B.1.1.7 (40 countries) and B.1.617.2 (India, Singapore, United Kingdom and Australia).
+
+    / June, 2021 - Euro Surveill.
+    quote !e = In contrast, the rapid observed growth of B.1.617.2 suggests a clear competitive advantage compared with B.1.1.7, B.1.351 and P.1, with estimated increases in the effective reproduction number of 55%, 60%  and 34% respectively.
+
+    / June, 2021 - Euro Surveill.
+    quote !f = Rapid replacement means that epidemiological assessment of new VOI must be conducted quickly and regularly if PHSM are to continue to reduce the spread of SARS-CoV-2. Given limitations and inherent delays in detecting emerging variants and investigating their phenotypic impacts, the use and adjustment of PHSM should continue to be informed by traditional epidemiological surveillance. Critically, the capacity to detect and respond to new variants requires continued efforts to enhance surveillance and sequencing capacity globally. Enhanced efforts are needed to ensure better geographical representativeness of available SARS-CoV-2 sequences and the rapid sharing of sequences and metadata for analysis and to inform public health decision making.
+
+
+
+  #
+  // A stem-loop RNA RIG-I agonist confers prophylactic and therapeutic protection against acute and chronic SARS-CoV-2 infection in mice
+  doi: https://doi.org/10.1101/2021.06.16.448754
+  ref 'Mao_et_al_06_17_2021
     head =
 
     - quotes
       !a
 
-    / June, 2021 - JAMA Netw Open.
+    / June, 2021 - Euro Surveill.
     quote !a =
+
+
+
+
+  #
+  // Telmisartan for treatment of Covid-19 patients: An open multicenter randomized clinical trial
+  doi: https://doi.org/10.1016/j.eclinm.2021.100962
+  ref 'Duarte_et_al_06_18_2021
+    head = This is a parallel-group, randomized, two-arm, open-label, adaptive, multicenter superiority trial with 1:1 allocation ratio. A total of 162 patients were randomized.
+
+    > Background
+      Angiotensin receptor blockers (ARBs), such as telmisartan, have been postulated to treat Covid-19-induced lung inflammation.
+
+    > Methods
+      This is a parallel-group, randomized, two-arm, open-label, adaptive, multicenter superiority trial with 1:1 allocation ratio. Participants included patients from 18 years of age hospitalized with Covid-19 with 4 or fewer days since symptom onset enrolled at a university and a community hospital in Buenos Aires, Argentina. Exclusion criteria included prior intensive care unit (ICU) admission and use of ARBs/angiotensin converting enzyme inhibitors at randomization. Control arm received standard care alone and treatment arm telmisartan 80 mg twice daily for 14 days. Primary outcomes were C-reactive protein (CRP) plasma levels at day 5 and 8 after randomization. Secondary outcomes included time to discharge within 15 days, admission to ICU and death at 15- and 30-days. NCT04355936 (Completed).
+
+    > Findings
+      A pragmatic decision to end the study before the third interim analysis was made on Oct. 30th due to sharp reduction in recruitment. A total of 162 patients were randomized. 158 patients enrolled between May 14 and October 30 2020, were included in the analysis, 80 in the standard care and 78 in the telmisartan added to standard care group. Baseline absolute CRP serum levels were 5.53 ± 6.19 mg/dL (95% CI 6.91 to 4.15, n = 80) and 9.04 ± 7.69 (95% CI 9.04 to 10.82, n = 74) in the standard care and telmisartan added to standard care groups, respectively. Day 5 control-group CRP levels were 6.06 ± 6.95 mg/dL (95% CI 7.79–4.35, n = 66) while telmisartan group were 3.83 ± 5.08 mg/dL (95% CI 5.08–2.59, n = 66, p = 0.038). Day 8 CRP levels were 6.30 ± 8.19 mg/dL (95% CI 8.79–3.81, n = 44) and 2.37 ± 3.47 mg/dL (95% CI 3.44–1.30, n = 43, p = 0.0098) in the control and telmisartan groups, respectively (all values expressed as mean ± SD). Kaplan-Meier analysis showed that telmisartan-treated patients had a lower median time-to-discharge (control=15 days; telmisartan=9 days). Death by day 30 was reduced in the telmisartan-treated group (control 22.54%, 16/71; telmisartan 4.29%, 3/70 participants; p = 0.0023). Composite ICU, mechanical ventilation or death was reduced by telmisartan treatment at days 15 and 30. No adverse events were reported.
+
+    > Interpretation
+      Our study suggests that the ARB telmisartan, a widely used antihypertensive drug, is safe and could reduce morbidity and mortality in hospitalized patients infected with SARS -CoV-2 by anti-inflammatory effects. Further studies employing telmisartan are needed for confirmation of our results and to define its true therapeutic value as a tool against Covid-19.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+
+    / June, 2021 - EClinical Medicine
+    quote !a = Our study suggests that the ARB telmisartan, a widely used antihypertensive drug, is safe and could reduce morbidity and mortality in hospitalized patients infected with SARS -CoV-2 by anti-inflammatory effects.
+
+    / June, 2021 - EClinical Medicine
+    quote !b = Telmisartan-treated patients had a lower median time-to-discharge (9 days vs 14 in control). Death by day 30 was reduced in the telmisartan-treated group (16/71 vs 3/70, p=0.0023). Composite ICU, mechanical ventilation or death was reduced by telmisartan treatment at days 15 and 30. No adverse events were reported.
+
+    / June, 2021 - EClinical Medicine
+    quote !c = Patients in the telmisartan group (80 mg twice daily) had a lower absolute CRP serum level than patients in the control group at both days 5 and 8.
+
+    / June, 2021 - EClinical Medicine
+    quote !d = The proportion of inpatients not needing supplementary O2 at day 15 was higher in the telmisartan group than in the control group.
+
+
+
+  #
+  // Brain imaging before and after COVID-19 in UK Biobank
+  doi: https://doi.org/10.1101/2021.06.11.21258690
+  ref 'Douaud_et_al_06_15_2021
+    head = We studied the effects of the disease in the brain using multimodal data from 782 participants from the UK Biobank COVID-19 re-imaging study, with 394 participants having tested positive for SARS-CoV-2 infection between their two scans.
+
+    > Abstract
+      There is strong evidence for brain-related pathologies in COVID-19, some of which could be a consequence of viral neurotropism. The vast majority of brain imaging studies so far have focused on qualitative, gross pathology of moderate to severe cases, often carried out on hospitalised patients. It remains unknown however whether the impact of COVID-19 can be detected in milder cases, in a quantitative and automated manner, and whether this can reveal a possible mechanism for the spread of the disease. UK Biobank scanned over 40,000 participants before the start of the COVID-19 pandemic, making it possible to invite back in 2021 hundreds of previously-imaged participants for a second imaging visit. Here, we studied the effects of the disease in the brain using multimodal data from 782 participants from the UK Biobank COVID-19 re-imaging study, with 394 participants having tested positive for SARS-CoV-2 infection between their two scans. We used structural and functional brain scans from before and after infection, to compare longitudinal brain changes between these 394 COVID-19 patients and 388 controls who were matched for age, sex, ethnicity and interval between scans. We identified significant effects of COVID-19 in the brain with a loss of grey matter in the left parahippocampal gyrus, the left lateral orbitofrontal cortex and the left insula. When looking over the entire cortical surface, these results extended to the anterior cingulate cortex, supramarginal gyrus and temporal pole. We further compared COVID-19 patients who had been hospitalised (n=15) with those who had not (n=379), and while results were not significant, we found comparatively similar findings to the COVID-19 vs control group comparison, with, in addition, a greater loss of grey matter in the cingulate cortex, central nucleus of the amygdala and hippocampal cornu ammonis (all |Z|>3). Our findings thus consistently relate to loss of grey matter in limbic cortical areas directly linked to the primary olfactory and gustatory system. Unlike in post hoc disease studies, the availability of pre-infection imaging data helps avoid the danger of pre-existing risk factors or clinical conditions being mis-interpreted as disease effects. Since a possible entry point of the virus to the central nervous system might be via the olfactory mucosa and the olfactory bulb, these brain imaging results might be the in vivo hallmark of the spread of the disease (or the virus itself) via olfactory and gustatory pathways.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    # / June, 2021 - medRxiv
+    # quote !a = By using automated, objective and quantitative methods, we were able to uncover a consistent spatial pattern of loss of grey matter in limbic brain regions forming an olfactory and gustatory network.
+
+    / June, 2021 - medRxiv
+    quote !a = We identified significant effects of COVID-19 in the brain with a loss of grey matter in the left parahippocampal gyrus, the left lateral orbitofrontal cortex and the left insula. When looking over the entire cortical surface, these results extended to the anterior cingulate cortex, supramarginal gyrus and temporal pole. Our findings thus consistently relate to loss of grey matter in limbic cortical areas directly linked to the primary olfactory and gustatory system.
+
+    / June, 2021 - medRxiv
+    quote !b = We further compared COVID-19 patients who had been hospitalised (n=15) with those who had not (n=379), and while results were not significant, we found comparatively similar findings to the COVID-19 vs control group comparison, with, in addition, a greater loss of grey matter in the cingulate cortex, central nucleus of the amygdala and hippocampal cornu ammonis.
+
+    / June, 2021 - medRxiv
+    quote !c = Since a possible entry point of the virus to the central nervous system might be via the olfactory mucosa and the olfactory bulb, these brain imaging results might be the in vivo hallmark of the spread of the disease (or the virus itself) via olfactory and gustatory pathways.
+
+
+
+  #
+  // SARS-CoV-2 spike P681R mutation enhances and accelerates viral fusion
+  doi: https://doi.org/10.1101/2021.06.17.448820
+  ref 'Saito_et_al_06_17_2021
+    head = We demonstrated that the B.1.617 lineage has acquired a unique strategy to facilitate infection and evade antiviral immunity. We show that the B.1.617 variants are highly fusogenic and form prominent syncytia.
+
+
+
+    > Abstract
+      During the current SARS-CoV-2 pandemic, a variety of mutations have been accumulated in the viral genome, and at least five variants of concerns (VOCs) have been considered as the hazardous SARS-CoV-2 variants to the human society. The newly emerging VOC, the B.1.617.2 lineage (delta variant), closely associates with a huge COVID-19 surge in India in Spring 2021. However, its virological property remains unclear. Here, we show that the B.1.617 variants are highly fusogenic and form prominent syncytia. Bioinformatic analyses reveal that the P681R mutation in the spike protein is highly conserved in this lineage. Although the P681R mutation decreases viral infectivity, this mutation confers the neutralizing antibody resistance. Notably, we demonstrate that the P681R mutation facilitates the furin-mediated spike cleavage and enhances and accelerates cell-cell fusion. Our data suggest that the P681R mutation is a hallmark characterizing the virological phenotype of this newest VOC, which may associate with viral pathogenicity.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+
+    / June, 2021 - bioRxiv
+    quote !a = Our data suggest that the P681R mutation is a hallmark characterizing the virological phenotype of this newest VOC, which may associate with viral pathogenicity.
+
+    / June, 2021 - bioRxiv
+    quote !b = Bioinformatic analyses reveal that the P681R mutation in the spike protein is highly conserved in B.1.617 lineage. Although the P681R mutation decreases viral infectivity, this mutation confers the neutralizing antibody resistance. Notably, we demonstrate that the P681R mutation facilitates the furin-mediated spike cleavage and enhances and accelerates cell-cell fusion.
+
+    / June, 2021 - bioRxiv
+    quote !c = The P681R-mediated rapid kinetics of viral fusion may attribute to not only immune evasion but also possibly feasible the infection to exposed individuals.
+
+    / June, 2021 - bioRxiv
+    quote !d = Although the P681R mutant is highly fusogenic, the virus harboring the P681R mutation did not necessarily show higher growth compared to the parental virus.
+
+
+
+
+
+  #
+  // Role of meteorological factors in the transmission of SARS-CoV-2 in the United States
+  doi: https://doi.org/10.1038/s41467-021-23866-7
+  ref 'Ma_et_al_06_14_2021
+    head = We estimate the relationship between air temperature, specific humidity, and ultraviolet radiation and SARS-CoV-2 transmission in 2669 U.S. counties with abundant reported cases from March 15 to December 31, 2020. Specifically, we quantify the associations of daily mean temperature, specific humidity, and ultraviolet radiation with daily estimates of the SARS-CoV-2 reproduction number (Rt) and calculate the fraction of Rt attributable to these meteorological conditions.
+
+
+    > Abstract
+      Improved understanding of the effects of meteorological conditions on the transmission of SARS-CoV-2, the causative agent for COVID-19 disease, is needed. Here, we estimate the relationship between air temperature, specific humidity, and ultraviolet radiation and SARS-CoV-2 transmission in 2669 U.S. counties with abundant reported cases from March 15 to December 31, 2020. Specifically, we quantify the associations of daily mean temperature, specific humidity, and ultraviolet radiation with daily estimates of the SARS-CoV-2 reproduction number (Rt) and calculate the fraction of Rt attributable to these meteorological conditions. Lower air temperature (within the 20–40 °C range), lower specific humidity, and lower ultraviolet radiation were significantly associated with increased Rt. The fraction of Rt attributable to temperature, specific humidity, and ultraviolet radiation were 3.73% (95% empirical confidence interval [eCI]: 3.66–3.76%), 9.35% (95% eCI: 9.27–9.39%), and 4.44% (95% eCI: 4.38–4.47%), respectively. In total, 17.5% of Rt was attributable to meteorological factors. The fractions attributable to meteorological factors generally were higher in northern counties than in southern counties. Our findings indicate that cold and dry weather and low levels of ultraviolet radiation are moderately associated with increased SARS-CoV-2 transmissibility, with humidity playing the largest role.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+
+    / June, 2021 - Nature Communications
+    quote !a = Our findings indicate that cold and dry weather and low levels of ultraviolet radiation are moderately associated with increased SARS-CoV-2 transmissibility, with humidity playing the largest role.
+
+    / June, 2021 - Nature Communications
+    quote !b = Lower air temperature (within the 20–40 °C range), lower specific humidity, and lower ultraviolet radiation were significantly associated with increased Rt.
+
+    / June, 2021 - Nature Communications
+    quote !c = The fraction of Rt attributable to temperature, specific humidity, and ultraviolet radiation were 3.73%, 9.35%, and 4.44%, respectively. In total, 17.5% of Rt was attributable to meteorological factors.
+
+    / June, 2021 - Nature Communications
+    quote !d = The fractions attributable to meteorological factors generally were higher in northern counties than in southern counties.
+
+
+  #
+  // Casirivimab and imdevimab in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial
+  doi: https://doi.org/10.1101/2021.06.15.21258542
+  ref 'Horby_et_al_06_16_2021
+    head = In this randomised, controlled, open-label platform trial (between 18 September 2020 and 22 May 2021), 9785 patients were randomly allocated to receive usual care plus REGEN-COV or usual care alone, including 3153 seronegative patients, 5272 seropositive patients and 1360 patients with unknown baseline antibody status.
+
+
+
+    > Background
+      REGEN-COV is a combination of 2 monoclonal antibodies (casirivimab and imdevimab) that bind to two different sites on the receptor binding domain of the SARS-CoV-2 spike protein. We aimed to evaluate the efficacy and safety of REGEN-COV in patients admitted to hospital with COVID-19.
+
+    > Methods
+      In this randomised, controlled, open-label platform trial, several possible treatments were compared with usual care in patients hospitalised with COVID-19. Eligible and consenting patients were randomly allocated (1:1) to either usual standard of care alone (usual care group) or usual care plus a single dose of REGEN-COV 8g (casirivimab 4g and imdevimab 4g) by intravenous infusion (REGEN-COV group). The primary outcome was 28-day mortality assessed first among patients without detectable antibodies to SARS-CoV-2 at randomisation (seronegative) and then in the overall population.
+
+    > Findings
+      Between 18 September 2020 and 22 May 2021, 9785 patients were randomly allocated to receive usual care plus REGEN-COV or usual care alone, including 3153 (32%) seronegative patients, 5272 (54%) seropositive patients and 1360 (14%) patients with unknown baseline antibody status. In the primary efficacy population of seronegative patients, 396 (24%) of 1633 patients allocated to REGEN-COV and 451 (30%) of 1520 patients allocated to usual care died within 28 days (rate ratio 0.80; 95% CI 0.70-0.91; p=0.0010). In an analysis involving all randomised patients (regardless of baseline antibody status), 944 (20%) of 4839 patients allocated to REGEN-COV and 1026 (21%) of 4946 patients allocated to usual care died within 28 days (rate ratio 0.94; 95% CI 0.86-1.03; p=0.17). The proportional effect of REGEN-COV on mortality differed significantly between seropositive and seronegative patients (p value for heterogeneity = 0.001).
+
+    > Interpretation
+      In patients hospitalised with COVID-19, the monoclonal antibody combination of casirivimab and imdevimab (REGEN-COV) reduced 28-day mortality among patients who were seronegative at baseline.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - medRxiv
+    quote !a = In patients hospitalised with COVID-19, the monoclonal antibody combination of casirivimab and imdevimab (REGEN-COV) reduced 28-day mortality by about one-fifth among patients who were seronegative at baseline. An absolute benefit of 6 fewer deaths per 100 patients allocated REGEN-COV.
+
+    / June, 2021 - medRxiv
+    quote !b = Allocation to REGEN-COV was associated with an increased rate of discharge alive from hospital within the first 28 days and a reduced rate of progression to invasive mechanical ventilation or death in these patients. By contrast, no such benefits were seen for patients who were anti-SARS-CoV-2 antibody positive at randomisation.
+
+    / June, 2021 - medRxiv
+    quote !c = Any therapeutic use of REGEN-COV in the hospital setting may be best restricted to seronegative patients.
+
+
+  #
+  // Hydroxychloroquine and mortality in COVID-19 patients: a systematic review and a meta-analysis of observational studies and randomized controlled trials
+  doi: https://doi.org/10.1080/20477724.2021.1936818
+  ref 'Castelnuovo_et_al_06_15_2021
+    head = We reviewed published literature for evidence of an association between HCQ (with or without azithromycin (AZM)) and total mortality in COVID-19 patients. A total of 25 cohort studies (N=41,339 patients) and 11 randomized clinical trials (RCTs; N=8,709) were found.
+
+
+    > Background
+      Hydroxychloroquine (HCQ) was proposed as potential treatment for COVID-19, but its association with mortality is unclear. We reviewed published literature for evidence of an association between HCQ (with or without azithromycin (AZM)) and total mortality in COVID-19 patients.
+
+    > Methods
+      Articles were retrieved until April 29th, 2021 by searching in seven databases. Data were combined using the general-variance-based method.
+
+    > Results
+      A total of 25 cohort studies (N=41,339 patients) and 11 randomized clinical trials (RCTs; N=8,709) were found. The use of HCQ was not associated with mortality in meta-analysis of RCTs (pooled risk ratio (PRR): 1.08, 95%CI: 0.97-1.20; I2=0%), but it was associated with 20% lower mortality risk (PRR=0.80, 95%CI: 0.69-0.93; I2=80%) in pooling of cohort studies. The negative association with mortality was mainly apparent by pooling cohort studies that used lower doses of HCQ (≤400 mg/day; PRR=0.69, 95%CI: 0.57-0.87). Use of HCQ+AZM (11 studies) was associated with 25% non-statistically significant lower mortality risk (PPR=0.75; 0.51-1.10; P=0.15). Use of HCQ was not associated with severe adverse events (PRR=1.12, 95%CI: 0.88-1.44; I2=0%).
+
+    > Conclusions
+      HCQ use was not associated with mortality in COVID-19 patients in pooling results from RCTs (high level of certainty of evidence), but it was associated with 20% mortality reduction when findings from observational studies were combined (low level of certainty of evidence). The reduction of mortality was mainly apparent in observational studies where lower doses of HCQ were used. These findings might help disentangling the debate on HCQ use in COVID-19.
+
+    - quotes
+      !a
+      !b
+      !c
+
+
+    / June, 2021 - Pathogens and Global Health
+    quote !a = HCQ use was not associated with mortality in COVID-19 patients in pooling results from RCTs (high level of certainty of evidence), but it was associated with 20% mortality reduction when findings from observational studies were combined (low level of certainty of evidence). The reduction of mortality was mainly apparent in observational studies where lower doses of HCQ were used.
+
+    # / June, 2021 - Pathogens and Global Health
+    # quote !a = The reduction of mortality was mainly apparent in observational studies where lower doses of HCQ were used.
+
+    # / June, 2021 - Pathogens and Global Health
+    # quote !a =  The use of HCQ was not associated with mortality in meta-analysis of RCTs (pooled risk ratio (PRR): 1.08, 95%CI: 0.97-1.20; I2=0%), but it was associated with 20% lower mortality risk (PRR=0.80, 95%CI: 0.69-0.93; I2=80%) in pooling of cohort studies.
+
+    / June, 2021 - Pathogens and Global Health
+    quote !b = Use of HCQ+AZM (11 studies) was associated with 25% non-statistically significant lower mortality risk.
+
+    / June, 2021 - Pathogens and Global Health
+    quote !c = Use of HCQ was not associated with severe adverse events.
+
+
+  #
+  // Predicted domination of variant Delta of SARS-CoV-2 before Tokyo Olympic games, Japan
+  doi: https://doi.org/10.1101/2021.06.12.21258835
+  ref 'Ito_et_al_06_15_2021
+    head = Using nucleotide sequences of SARS-CoV-2 strains collected in Japan, the relative instantaneous reproduction numbers of the R.1, Alpha, and Delta variants with respect to other strains circulation in Japan were estimated at 1.256, 1.449, and 1.776, respectively.
+
+    > Abstract
+      Using nucleotide sequences of SARS-CoV-2 strains collected in Japan, the relative instantaneous reproduction numbers of the R.1, Alpha, and Delta variants with respect to other strains circulation in Japan were estimated at 1.256, 1.449, and 1.776, respectively. The numbers can range 1.198–1.335 for R.1, 1.342–1.596 for Alpha, and 1.557–2.00 for Delta depending on the assumed serial interval distributions. The frequency of the Delta is expected to take over the Alpha in Japan around July 12, 2021.
+
+    - quotes
+      !a
+      !b
+
+    / June, 2021 - medRxiv
+    quote !a = We have shown that the Delta variant possesses evidently greater transmissibility than the Alpha variant. The relative instantaneous reproduction number of the Alpha with respect to the strains circulating before December 1 in Japan was estimated at 1.449 and those of the Delta was estimated at 1.776. This means that the Delta possesses 1.226 times higher transmissibility than the Alpha.
+
+    / June, 2021 - medRxiv
+    quote !b = The frequency of the Delta is expected to take over the Alpha in Japan around July 12, 2021. Unfortunately, the replacement is likely to happen mostly before the Tokyo Olympic games from July 23, 2021.
+
+
+
+  #
+  // CureVac Provides Update on Phase 2b/3 Trial of First-Generation COVID-19 Vaccine Candidate, CVnCoV
+  doi: https://www.curevac.com/en/2021/06/16/curevac-provides-update-on-phase-2b-3-trial-of-first-generation-covid-19-vaccine-candidate-cvncov/
+  ref 'CureVac_et_al_06_16_2021
+    head = CureVac N.V. announced results of the second interim analysis of its international pivotal Phase 2b/3 study in approximatively 40,000 subjects (the HERALD study) of CureVac’s first-generation COVID-19 vaccine candidate, CVnCoV (mRNA). The study is continuing to the final analysis and the totality of the data will be assessed for the most appropriate regulatory pathway.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - CureVac
+    quote !a = In the unprecedented context of at least 13 variants circulating within the study population subset assessed at this interim analysis, CVnCoV demonstrated an interim vaccine efficacy of 47% against COVID-19 disease of any severity and did not meet prespecified statistical success criteria.
+
+    / June, 2021 - CureVac
+    quote !b = Initial analyses suggest age and strain dependent efficacy.
+
+    / June, 2021 - CureVac
+    quote !c = The Data Safety Monitoring Board (DSMB) confirmed a favorable safety profile for CVnCoV.
+
+
+  #
+  // Distinct SARS-CoV-2 Antibody Responses Elicited by Natural Infection and mRNA Vaccination
+  doi: https://doi.org/10.1101/2021.04.15.440089
+  ref 'Assis_et_al_05_19_2021
+    head = We compared antibody responses induced afterSARS-CoV-2 natural exposure with the responses induced by the mRNA vaccines. We analyzed data from two ongoing COVID-19 longitudinal serological surveys in Orange County, CA., between April 2020 and March 2021.
+
+
+    > Abstract
+      We analyzed data from two ongoing COVID-19 longitudinal serological surveys in Orange County, CA., between April 2020 and March 2021. A total of 8,476 finger stick blood specimens were collected before and after an aggressive mRNA vaccination campaign. IgG levels were determined using a multiplex antigen microarray containing 10 SARS-CoV-2 antigens, 4 SARS, 3 MERS, 12 Common CoV, and 8 Influenza antigens. Twenty-six percent of 3,347 specimens from unvaccinated Orange County residents in December 2020 were SARS-CoV-2 seropositive. The Ab response was predominantly against nucleocapsid (NP), full length spike and the spike S2 domain. Anti-receptor binding domain (RBD) reactivity was low and there was no cross-reactivity against SARS S1 or SARS RBD. An aggressive mRNA vaccination campaign at the UCI Medical Center started on December 16, 2020 and 6,724 healthcare workers were vaccinated within 3 weeks. Seroprevalence increased from 13% in December to 79% in January, 93% in February and 99% in March. mRNA vaccination induced much higher Ab levels especially against the RBD domain and significant cross-reactivity against SARS RBD and S1 was also observed. Nucleocapsid protein Abs can be used to distinguish individuals in a population of vaccinees to classify those who have been previously infected and those who have not, because nucleocapsid is not in the vaccine. Previously infected individuals developed higher Ab titers to the vaccine than those who have not been previously exposed. These results indicate that mRNA vaccination rapidly induces a much stronger and broader Ab response than SARS-CoV-2 infection.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / May, 2021 - bioRxiv
+    quote !a = Results indicate that mRNA vaccination rapidly induces a much stronger and broader Ab response than natural exposure to SARS-CoV-2 infection.
+
+    / May, 2021 - bioRxiv
+    quote !b = mRNA vaccination induced much higher Ab levels especially against the RBD domain and significant cross-reactivity against SARS RBD and S1 was also observed.
+
+    / May, 2021 - bioRxiv
+    quote !c = The mRNA vaccine produces a protein conformation that better exposes the RBD epitope to the immune system.
+
+    / May, 2021 - bioRxiv
+    quote !d = Our data also suggests that people who have had a prior exposure to the virus mount a stronger immune response to the vaccine than those whose immune response has not yet been primed by a previous exposure or vaccination. This could also indicate that immunity from naturally acquired infections is not as strong as that acquired from vaccination, with potential relevance for reaching and maintaining herd immunity. We should not assume that previously infected individuals are immune or that they cannot transmit the virus.
+
+
+
+
+
+  // Sperm Parameters Before and After COVID-19 mRNA Vaccination
+  doi: https://doi.org/10.1001/jama.2021.9976
+  ref 'Gonzalez_et_al_06_17_2021
+    head = We assessed sperm parameters before and after mRNA vaccine administration. This single-center prospective study at the University of Miami recruited healthy volunteers aged 18 to 50 years scheduled for mRNA COVID-19 vaccine.
+
+    - quotes
+      !a
+      !b
+
+    / June, 2021 - JAMA
+    quote !a = In this study of sperm parameters before and after 2 doses of a COVID-19 mRNA vaccine, there were no significant decreases in any sperm parameter among this small cohort of healthy men.
+
+    / June, 2021 - JAMA
+    quote !b = Men with oligospermia did not experience further decline.
+
+
+
+  #
+  // Causation or confounding: why controls are critical for characterizing long COVID
+  doi: https://doi.org/10.1038/s41591-021-01402-w
+  ref 'Doremalen_et_al_06_17_2021
+    head =
+
+    - quotes
+      !a
+
+    / June, 2021 - Nature Medicine
+    quote !a =
+
+
+  #
+  // Australia must act to prevent airborne transmission of SARS-CoV-2
+  doi: https://doi.org/10.5694/mja2.51131
+  ref 'Hyde_et_al_06_15_2021
+    head =
+
+    - quotes
+      !a
+
+    / June, 2021 - The Medical Journal of Australia
+    quote !a =
+
+
+  #
+  // Reduced neutralization of SARS-CoV-2 B.1.617 by vaccine and convalescent serum
+  doi: https://doi.org/10.1016/j.cell.2021.06.020
+  ref 'Liu_et_al_06_16_2021
+    head = We study the ability of monoclonal antibodies, convalescent and vaccine sera to neutralize B.1.617.1 and B.1.617.2 and complement this with structural analyses of Fab/RBD complexes and map the antigenic space of current variants.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / June, 2021 - Cell
+    quote !a = Neutralization of both viruses is reduced when compared with ancestral Wuhan related strains but there is no evidence of widespread antibody escape as seen with B.1.351.
+
+    / June, 2021 - Cell
+    quote !b = B.1.351 (Beta) and P.1 (Gama) sera showed markedly more reduction in neutralization of B.1.617.2 suggesting that individuals previously infected by these variants may be more susceptible to reinfection by B.1.617.2.
+
+    / June, 2021 - Cell
+    quote !c = B.1.351, P.1 and B.1.617.2 are antigenically divergent.
+
+    / June, 2021 - Cell
+    quote !d = Vaccines based on B.1.1.7 may broadly protect against current variants
+
+
 
 
   #

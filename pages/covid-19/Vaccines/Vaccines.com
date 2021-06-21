@@ -114,6 +114,7 @@ subject module Vaccines
         !UKPostvaccineantispikeIgG
         !PriorinfectedBNT162b2
         !Fcmediatedeffectorcellularresponse
+        mRNA-1273.!mRNAstrongAbresponse
       - Delaying 2nd Dose
         !Delayed2nddosepfizer
         !RealworldVEsingledose
@@ -135,6 +136,8 @@ subject module Vaccines
         !Pfizerfertility
       - Children
         !ChildrenPfizer
+      - Men
+        mRNA-1273.!SpermRNA
       - Solid organ transplant recipients
         !Solidorgantransplantrecipients
         !LTRsPfizer
@@ -174,6 +177,7 @@ subject module Vaccines
         !UKPostvaccineantispikeIgG
         !Pfizerantibodyneutralisation
         Disease.Immunity.AcquiredImmunity.Antibodies.!Longevity.!Neutralizingantibody1yr
+        mRNA-1273.!mRNAstrongAbresponse
 
       - Spike-specific CD4+ and CD8+ T cells and non-neutralizing antibody-dependent cytotoxicity
         !Humoralpolyspecificcellular
@@ -1127,6 +1131,10 @@ subject module Vaccines
         Tozinameran.!Fertility
         Tozinameran.!Pregnancynosafetysignals
         Tozinameran.!IVFcycle
+      - Men
+        !SpermRNA
+      - Prior Infected individuals
+        !mRNAstrongAbresponse
       - Solid organ transplant recipients
         Tozinameran.!Solidorgantransplantrecipients
       - Asymptomatic Transmission
@@ -1148,6 +1156,7 @@ subject module Vaccines
         Tozinameran.!BCellresponse
         Tozinameran.!MemoryBcells
         Disease.Immunity.AcquiredImmunity.Antibodies.!Longevity.!Neutralizingantibody1yr
+        !mRNAstrongAbresponse
       - Cross Neutralizing
         Variants.B1351.!CrossNeutralizingactivity
       - Severe Reaction
@@ -1342,6 +1351,23 @@ subject module Vaccines
       -
         'Chung_et_al_05_28_2021
         'Chung_et_al_05_28_2021.!f
+
+
+      claim !mRNAstrongAbresponse = Study suggests mRNA vaccination offers stronger, broader protection than natural exposure to SARS-CoV-2 infection. Data also suggests that people who have had a prior exposure to the virus mount a stronger immune response to the vaccine than those whose immune response has not yet been primed by a previous exposure or vaccination.
+        -
+          'Assis_et_al_05_19_2021
+          'Assis_et_al_05_19_2021.!a
+          'Assis_et_al_05_19_2021.!b
+          'Assis_et_al_05_19_2021.!c
+          'Assis_et_al_05_19_2021.!d
+
+
+
+      claim !SpermRNA = A study of sperm parameters before and after 2 doses of a COVID-19 mRNA vaccine demonstrated no significant decreases in any sperm parameter among a small cohort of healthy men.
+        -
+          'Gonzalez_et_al_06_17_2021
+          'Gonzalez_et_al_06_17_2021.!a
+          'Gonzalez_et_al_06_17_2021.!b
 
 
     / Oxford–AstraZeneca
@@ -3282,7 +3308,14 @@ subject module Vaccines
           'Heath_et_al_06_03_2021.!d
           'Heath_et_al_06_03_2021.!e
 
-
+    / CureVac
+    subject CureVac
+      head = CureVac N.V. announced results of the 2nd interim analysis of its international pivotal Phase 2b/3 study in approximatively 40,000 subjects (the HERALD study) of CureVac’s first-generation COVID-19 vaccine candidate, CVnCoV (mRNA)- interim vaccine efficacy of 47% against COVID-19 disease of any severity. Favorable safety profile.
+      -
+        'CureVac_et_al_06_16_2021
+        'CureVac_et_al_06_16_2021.!a
+        'CureVac_et_al_06_16_2021.!b
+        'CureVac_et_al_06_16_2021.!c
 
   / Vaccine Efficacy Against Variants
   subject EfficacyVariants

@@ -120,11 +120,11 @@ subject module Disease
 
       / Neuroinvasion
       claim !Neuroinvasion = One study results provide evidence for the neuroinvasive capacity of SARS-CoV-2 and an unexpected consequence of direct infection of neurons by SARS-CoV-2 and demonstrate that neuronal infection can be prevented by blocking ACE2 with antibodies or by administering cerebrospinal fluid from a COVID-19 patient.
-      -
-        'Song_et_al_01_12_2021
-        'Song_et_al_01_12_2021.!a
-        'Song_et_al_01_12_2021.!b
-        'Song_et_al_01_12_2021.!c
+        -
+          'Song_et_al_01_12_2021
+          'Song_et_al_01_12_2021.!a
+          'Song_et_al_01_12_2021.!b
+          'Song_et_al_01_12_2021.!c
 
       / Psychiatric diagnosis
       claim !Psychiatricdiagnosis = A diagnosis of COVID-19 was associated with increased incidence of a first psychiatric diagnosis in the following 14 to 90 days. The hazard ratios was greatest for anxiety disorders, insomnia, and dementia. A psychiatric diagnosis in the previous year was associated with a higher incidence of COVID-19 diagnosis. Survivors of COVID-19 appear to be at increased risk of psychiatric sequelae, and a psychiatric diagnosis might be an independent risk factor for COVID-19.
@@ -142,6 +142,8 @@ subject module Disease
           'Chung_et_al_06_11_2021.!b
           'Chung_et_al_06_11_2021.!c
           'Chung_et_al_06_11_2021.!d
+
+
 
     / Severe Cases
     claim !SevereCases = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others. A case series in the Indian subcontinent reported cases of rhino-orbital–cerebral mucormycosis following COVID-19 infections. A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%.
@@ -268,7 +270,7 @@ subject module Disease
         'Pilotto_et_al_01_02_2021.!c
       -
         !Neurologicalsymptoms
-
+        !Lossgreymatter
       - Psychiatric Sequelae
         !SymptomaticCases.!Psychiatricdiagnosis
       -
@@ -300,6 +302,15 @@ subject module Disease
         'Daniels_et_al_05_27_2021
         'Daniels_et_al_05_27_2021.!a
         'Daniels_et_al_05_27_2021.!b
+
+
+      / Loss of grey matter in Limbic Brain Regions
+      claim !Lossgreymatter = A longitudinal COVID-19 brain imaging study findings showed a consistent spatial pattern of loss of grey matter in limbic brain regions (left parahippocampal gyrus, the left lateral orbitofrontal cortex and the left insula) forming an olfactory and gustatory network.
+        -
+          'Douaud_et_al_06_15_2021
+          'Douaud_et_al_06_15_2021.!a
+          'Douaud_et_al_06_15_2021.!b
+          'Douaud_et_al_06_15_2021.!c
 
   / Severity
   // Susceptibility and Severity

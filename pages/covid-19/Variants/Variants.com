@@ -534,6 +534,8 @@ subject module Variants
     - Pre Existing Immunity
       !PreexistingImmunity
       !RetainedImmunity
+    - Cross Neutralization with other strains
+      Variants.B1617.!Deltaneutralization
     >
       [Coronavirus outbreaks](https://cphpost.dk/?p=122479) occured in two schools and and eight daycare in Feb of 2020. At the last count the two schools had a total of 69 infections among staff and students, while up to 20 have been infected at the daycare institutions. Researchers have raised concern about infection of B.1.1.7 among children which have not seen with the old variants.
     - Children
@@ -1059,7 +1061,7 @@ subject module Variants
       !CrossNeutralizingactivity
       Vaccines.Candidates.NVX-CoV2373.!Animalstudy
       !NeutralizingantibodiesCrossreact
-
+      Variants.B1617.!Deltaneutralization
     - Treatment
       !Treatment
       Treatment.IgM14
@@ -1319,6 +1321,22 @@ subject module Variants
       !EntryInhibitorsEscape
     - Reinfection
       !Brazilreinfection
+    - Vaccine related claims
+      Vaccines.Approved.Tozinameran.!PreviouslyinfectedPfizer
+      Variants.B1351.!PlasmablastResponsemRNA
+      Variants.B117.!NTDneutralizing
+      Vaccines.Approved.CoronaVac.!Brazilsingledose
+      Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
+      Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
+      Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
+      Vaccines.Approved.CoronaVac.!CoronaVacrealworldBrazil
+      Vaccines.Approved.mRNA-1273.!Vaccineescape
+    - Cross Neutralization with other strains
+      Variants.B1617.!Deltaneutralization
+    - T Cell Response
+      Vaccines.Approved.Tozinameran.!Tcellresponses
+    - Treatment
+      Treatment.IgM14
     - Mutations
       !Mutation
       !BeloHorizonte
@@ -1334,20 +1352,7 @@ subject module Variants
       Variants.B1351.!E484
       Variants.B1351.!AntibodiesE484k
       Variants.B1351.!CrossNeutralizingactivity
-    - Vaccine related claims
-      Vaccines.Approved.Tozinameran.!PreviouslyinfectedPfizer
-      Variants.B1351.!PlasmablastResponsemRNA
-      Variants.B117.!NTDneutralizing
-      Vaccines.Approved.CoronaVac.!Brazilsingledose
-      Vaccines.Approved.Tozinameran.!PriorinfectionPfizerneutralizingactivity
-      Vaccines.Approved.AZD1222.!PreviouslyinfectedChAdOx1
-      Vaccines.Approved.mRNA-1273.!mRNA-1273Neutralizingantibody
-      Vaccines.Approved.CoronaVac.!CoronaVacrealworldBrazil
-      Vaccines.Approved.mRNA-1273.!Vaccineescape
-    - T Cell Response
-      Vaccines.Approved.Tozinameran.!Tcellresponses
-    - Treatment
-      Treatment.IgM14
+
 
     / Mutations
     claim !Mutation = The new P.1 lineage carries 17 unique amino acid changes, 3 deletions, and 4 synonymous mutations, and one 4nt insertion. It also includes everal mutations of known biological importance such as E484K, K417T, and N501Y
@@ -1794,6 +1799,7 @@ subject module Variants
       !3Clades
       !B16172
       !ScotlandDelta
+      !Tokyodelta
     - Background
       !DeltaDelhiorigin
     - Transmission
@@ -1802,6 +1808,8 @@ subject module Variants
       !Fastspread
       !Transmissionadv
       !DeltaDelhi
+      !Tokyodelta
+      !Deltaestimate
     - Viral load
       !DeltaDelhi
     - Severity
@@ -1829,6 +1837,7 @@ subject module Variants
       Vaccines.Approved.AZD1222.!PreclinicalAZD2816
       !PHEukDeltahospitalisation
       !ScotlandDelta
+      !Deltaneutralization
     -
       !Mutations
     >
@@ -1849,6 +1858,7 @@ subject module Variants
       !P681Rmutation
       !Pathogenicitytransmissibility
       !Syncitiaformation
+      !DeltaP681Rmutation
     - Potential significance of N-Terminal Domain Mutations
       !NTDmutationB1617
       CAL20C.!Selectivepressure
@@ -2060,6 +2070,45 @@ subject module Variants
         'Sheikh_et_al_06_14_2021.!d
         'Sheikh_et_al_06_14_2021.!e
         'Sheikh_et_al_06_14_2021.!f
+
+    claim !Deltaneutralization = Vaccine/convalescent sera show reduced neutralization of B.1.617.1 and B.1.617.2; B.1.351, P.1 and B.1.617.2 are antigenically divergent; B.1.351 (Beta) and P.1 (Gama) sera showed markedly more reduction in neutralization of B.1.617.2 - suggesting that individuals previously infected by these variants may be more susceptible to reinfection by B.1.617.2. Vaccines based on B.1.1.7 may broadly protect against current variants
+
+      -
+        'Liu_et_al_06_16_2021
+        'Liu_et_al_06_16_2021.!a
+        'Liu_et_al_06_16_2021.!b
+        'Liu_et_al_06_16_2021.!c
+        'Liu_et_al_06_16_2021.!d
+
+
+
+    claim !Tokyodelta = Study reported that the frequency of the Delta is expected to take over the Alpha in Japan around July 12, 2021. Unfortunately, the replacement is likely to happen mostly before the Tokyo Olympic games from July 23, 2021.
+      -
+        'Ito_et_al_06_15_2021
+        'Ito_et_al_06_15_2021.!a
+        'Ito_et_al_06_15_2021.!b
+
+
+    # The delta variant is expected to be peak in Japan coinciding with the Olympics
+
+    claim !DeltaP681Rmutation = One study revealed that the SARS-CoV-2 delta variant (B.1.617.2 lineage) is highly fusogenic, form prominent syncytia and P681R mutation, a hallmark in the B.1.617 lineage, is its determinant. P681R mutation accelerates cell-cell fusion and provides resistance to neutralizing antibodies.
+      -
+        'Saito_et_al_06_17_2021
+        'Saito_et_al_06_17_2021.!a
+        'Saito_et_al_06_17_2021.!b
+        'Saito_et_al_06_17_2021.!c
+        'Saito_et_al_06_17_2021.!d
+
+
+    claim !Deltaestimate = An analysis of the effective reproduction number and global spread of SARS-CoV-2 variants from pooled genomic data estimated that B.1.617.2 is expected to rapidly outcompete other variants and become the dominant circulating lineage over the coming months. Estimated Effective reproduction number estimate increases of alpha 29%, beta 25%, gamma 38%  & delta 97%.
+
+      -
+        'Campbell_et_al_06_16_2021
+        'Campbell_et_al_06_16_2021.!a
+        'Campbell_et_al_06_16_2021.!b
+        'Campbell_et_al_06_16_2021.!c
+        'Campbell_et_al_06_16_2021.!d
+        'Campbell_et_al_06_16_2021.!e
 
 
 

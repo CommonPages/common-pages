@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *June_21 mean June_21
   let *June_16 mean June_16
   let *June_13 mean June_13
   let *June_7 mean June_7
@@ -10,8 +11,52 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_16, *June_13 and *June_7). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_21, *June_16, *June_13, *June_7). You can *contribute by sending corrections and responding to open questions.
 
+
+  public: June-21-2021
+  / June 21, 2021
+  revision June_21
+    head = An analysis of the increased transmission rates of VoC/VoIs from pooled genomic data estimated that B.1.617.2 is expected to rapidly outcompete other variants and become the dominant circulating lineage over the coming months. Estimated Effective reproduction number estimate increases of alpha- 29%, beta-25%, gamma-38%  & delta- 97%. Study reported that the frequency of the Delta is expected to take over the Alpha in Japan around July 12, 2021 - mostly before the Tokyo Olympic games from July 23, 2021.
+    -
+      Variants.B1617.!Deltaestimate
+      Variants.B1617.!Tokyodelta
+
+
+    >
+      Vaccine/convalescent sera show reduced neutralization of B.1.617.1 and B.1.617.2. B.1.351 (Beta) and P.1 (Gama) sera showed markedly more reduction in neutralization of B.1.617.2 - suggesting that individuals previously infected by these variants may be more susceptible to reinfection by B.1.617.2. Vaccines based on B.1.1.7 may broadly protect against current variants. One study revealed that the delta variant (B.1.617.2 lineage) is highly fusogenic, form prominent syncytia and P681R mutation, a hallmark in the B.1.617 lineage, is its determinant. P681R mutation accelerates cell-cell fusion and provides resistance to neutralizing antibodies.
+    -
+      Variants.B1617.!Deltaneutralization
+      Variants.B1617.!DeltaP681Rmutation
+
+
+    >
+      Study suggests mRNA vaccination offers stronger, broader protection than natural exposure to SARS-CoV-2 infection. People who have had a prior exposure to the virus mount a stronger immune response to the vaccine than those whose immune response has not yet been primed by a previous exposure or vaccination. A study of sperm parameters before and after 2 doses of a COVID-19 mRNA vaccine demonstrated no significant decreases in any sperm parameter.
+    -
+      Vaccines.Approved.mRNA-1273.!mRNAstrongAbresponse
+      Vaccines.Approved.mRNA-1273.!SpermRNA
+
+    >
+      Study showed almost 40 % of patients that shared a hospital room with someone with occult SARS-CoV-2 infection became infected (despite >6' spacing with curtains, minimal close contact). One study determined that 17.5% of the virus reproductive number was attributable to meteorological factors: Specifically, they found that temperature accounted for 3.73%, humidity accounted for 9.35%, and UV radiation for 4.44%.
+    -
+      Transmission.Risks.!ProlongedInteractions.!Nonsocomialspread
+      Transmission.Climate.!TemperatureCovid.!Effect.!RTseasonal
+
+    >
+      Study suggests that the ARB telmisartan (inexpensive safe antihypertensive drug), administered in high doses, could reduce morbidity and mortality in hospitalized SARS -CoV-2 infected patients by anti-inflammatory effects. Telmisartan-treated patients had lower CRP, discharge time of 9 days vs 14 in control. No adverse events were reported. HCQ use was not associated with mortality in COVID-19 patients (RCTs), but it was associated with 20% mortality reduction when findings from observational studies were combined. The reduction of mortality was mainly apparent in observational studies where lower doses of HCQ were used.
+    -
+      Treatment.AntiInflammatories.ACEInhibitors.!Telmisartan
+      Treatment.Antivirals.HostTargetingCompounds.EndosomalTraffickingInhibitors.Chloroquine.HydroxychloroquineasTreatment.HcqEfficacy.!HCQdebate
+
+    >
+      CureVac announced results of the 2nd interim analysis (Phase 2b/3 study) COVID-19 vaccine candidate, CVnCoV (mRNA)- interim vaccine efficacy of 47% against COVID-19 disease of any severity. Favorable safety profile.
+    -
+      Vaccines.Candidates.CureVac
+
+    >
+      A longitudinal COVID-19 brain imaging study findings showed a consistent spatial pattern of loss of grey matter in limbic brain regions forming an olfactory and gustatory network.
+    -
+      Disease.Course.!LongTermConsequences.!Lossgreymatter
 
   public: June-16-2021
   / June 16, 2021
@@ -197,7 +242,7 @@ revision feed Revisions
     >
       A systematic review and meta-analysis of randomized controlled trials study demonstrated that in comparison to standard of care [SOC] or placebo, Ivermectin (IVM) did not reduce all-cause mortality, length of stay, respiratory viral clearance, adverse events and serious adverse events in RCTs of patients with mild to moderate COVID-19. IVM is not a viable option to treat COVID-19 patients.
     -
-      Treatment.Antivirals.EntryInhibitors.!Ivermectin
+      Treatment.Antivirals.Hostdirectedbroadspectrumantiviralagent.Ivermectin
 
 
   public: May-24-2021

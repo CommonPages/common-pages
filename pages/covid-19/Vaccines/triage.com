@@ -136,7 +136,21 @@
       Treatment.Frontiers.!Senolytics
 
 
+  claim !RTseasonal = One study determined that 17.5% of the virus reproductive number was attributable to meteorological factors: Specifically, they found that temperature accounted for 3.73%, humidity accounted for 9.35%, and UV radiation for 4.44%.
+    -
+      'Ma_et_al_06_14_2021
+      'Ma_et_al_06_14_2021.!a
+      'Ma_et_al_06_14_2021.!b
+      'Ma_et_al_06_14_2021.!c
+      'Ma_et_al_06_14_2021.!d
 
+  >
+    Cold and dry weather and low levels of ultraviolet radiation are moderately associated with increased SARS-CoV-2 transmissibility, with humidity playing the largest role. - add in weather
+  >
+    During the current SARS-CoV-2 pandemic, a variety of mutations have been accumulated in the viral genome, and at least five variants of concerns (VOCs) have been considered as the hazardous SARS-CoV-2 variants to the human society. The newly emerging VOC, the B.1.617.2 lineage (delta variant), closely associates with a huge COVID-19 surge in India in Spring 2021.
+
+  >
+    Although the association between the COVID-19 severity and/or unusual symptoms caused by SARS-CoV-2 infection and the P681R mutation remains unclear, an early report from the PRE suggests the B.1.617.2 variant, which bears the P681R mutation, may be more pathogenic than the B.1.1.7 lineage (PHE, 2021). Switching viral infection mode by the P681R mutation may relate to the severity and/or unusual outcome of viral infection, therefore, the epidemic of the SARS-CoV-2 variants harboring the P681R mutation should be surveyed in depth.
 
 
     claim !Regeneronrecoverytrial = Investigators of the United Kingdom’s Regeneron RECOVERY trial announced the results - A combination of antibodies called casirivimab and imdevimab reduced deaths by a fifth among those hospitalized covid-19 patients who did not produce antibodies themselves.
@@ -150,6 +164,7 @@
 
 
 
+ # the protective immunity induced by this vaccine. indicate that immunity from naturally acquired infections is not as strong as that acquired from vaccination, with potential relevance for reaching and maintaining herd immunity. We should not assume that previously infected individuals are immune or that they cannot transmit the virus.
 
 
 
@@ -249,10 +264,26 @@
         'Vernez_et_al_06_11_2021.!b
         'Vernez_et_al_06_11_2021.!c
 
+  # The delta variant is expected to be peak in Japan coinciding with the Olympics
+
+  claim !DeltaP681Rmutation = One study revealed that the SARS-CoV-2 delta variant (B.1.617.2 lineage) is highly fusogenic, form prominent syncytia and P681R mutation, a hallmark in the B.1.617 lineage, is its determinant. P681R mutation accelerates cell-cell fusion and provides resistance to neutralizing antibodies
+    -
+      'Saito_et_al_06_17_2021
+      'Saito_et_al_06_17_2021.!a
+      'Saito_et_al_06_17_2021.!b
+      'Saito_et_al_06_17_2021.!c
+      'Saito_et_al_06_17_2021.!d
 
 
+  claim !Deltaestimate = An analysis of the effective reproduction number and global spread of SARS-CoV-2 variants from pooled genomic data estimated that B.1.617.2 is expected to rapidly outcompete other variants and become the dominant circulating lineage over the coming months. Estimated Effective reproduction number estimate increases of alpha 29%, beta 25%, gamma 38%  & delta 97%.
 
-
+    -
+      'Campbell_et_al_06_16_2021
+      'Campbell_et_al_06_16_2021.!a
+      'Campbell_et_al_06_16_2021.!b
+      'Campbell_et_al_06_16_2021.!c
+      'Campbell_et_al_06_16_2021.!d
+      'Campbell_et_al_06_16_2021.!e
 
     claim !Microarraypatch = One study demonstrated  SARS-CoV-2 spike vaccination via a microarray patch - they showed the vaccine, dry-coated on the patch is thermostable, and delivery of spike via HD-MAP induced greater cellular and antibody immune responses, with serum able to potently neutralize clinically relevant isolates including those from the B.1.1.7 and B.1.351 lineages. A single dose of HD-MAP-delivered spike are stable, immunogenic, and provided complete protection from a lethal virus challenge.
 

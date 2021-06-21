@@ -414,6 +414,7 @@ subject module Transmission
         -
           !Indirectevidencairbornetransmission
           !Courtroomtransmission
+          Risks.!ProlongedInteractions.!Nonsocomialspread
 
         claim !Indirectevidencairbornetransmission = An updated study on the outbreak at a Guangzhou restaurant in Jan 2020 provided indirect evidence for the risk of indoor long-range airborne transmission of SARS-CoV-2 by ruling out other possible transmission routes, namely close contact (large droplets and short-range airborne) and fomites in the Guangzhou restaurant outbreak. The restaurant was poorly ventilated, allowing for increasing airborne SARS-CoV-2 concentration. The evidence is based on video analysis of all activities during the time that one known index case and three possible index cases had lunch in a Guangzhou restaurant.
 
@@ -614,6 +615,16 @@ subject module Transmission
       -
         'Xu_et_al_04_14_2020
         'Xu_et_al_04_14_2020.!a
+      -
+        !Nonsocomialspread
+
+      claim !Nonsocomialspread = Study showed almost 40 % of patients that shared a hospital room with someone with occult SARS-CoV-2 infection became infected (despite >6' spacing with curtains, minimal close contact). The risk was highest for patients sharing rooms with individuals with very low Ct counts (index cases).
+
+        -
+          'Karan_et_al_06_18_2021
+          'Karan_et_al_06_18_2021.!a
+          'Karan_et_al_06_18_2021.!b
+          'Karan_et_al_06_18_2021.!c
 
     / Confined Spaces
     claim !ConfinedSpaces = Many case reports suggest that COVID-19 is largely transmitted when contact occurs over a prolonged period and in close congregation. Superspreading events have also been documented in confined spaces with large crowds.
@@ -673,7 +684,7 @@ subject module Transmission
 
     dispute !TemperatureCovid = A number of studies have revealed the effect of temperature and humidity on respiratory virus stability and transmission rates of SARS-CoV-2; while others have argued that there is no evidence that the rate of transmission is impacted by changes in temperature and weather.
 
-      claim !Effect = Several studies have emphasized the effect of temperature and humidity on transmission of SARS-CoV-2. They claim that higher temperatures appear to reduce the risk of COVID-19 transmission.
+      claim !Effect = Several studies have emphasized the effect of temperature and humidity on transmission of SARS-CoV-2. They claim that higher temperatures appear to reduce the risk of COVID-19 transmission. One study determined that 17.5% of the virus reproductive number was attributable to meteorological factors: Specifically, they found that temperature accounted for 3.73%, humidity accounted for 9.35%, and UV radiation for 4.44%.
         -
           'Ficetola_et_al_04_20_2020
           'Ficetola_et_al_04_20_2020.!c
@@ -699,6 +710,16 @@ subject module Transmission
           'Moriyama_et_al_2020
           'Moriyama_et_al_2020.!m
           'Moriyama_et_al_2020.!g
+        -
+          !RTseasonal
+
+        claim !RTseasonal = One study determined that 17.5% of the virus reproductive number was attributable to meteorological factors: Specifically, they found that temperature accounted for 3.73%, humidity accounted for 9.35%, and UV radiation for 4.44%.
+          -
+            'Ma_et_al_06_14_2021
+            'Ma_et_al_06_14_2021.!a
+            'Ma_et_al_06_14_2021.!b
+            'Ma_et_al_06_14_2021.!c
+            'Ma_et_al_06_14_2021.!d
 
       claim !NoEffect = Some studies have argued that changes in weather alone (increase of temperature) will not necessarily lead to declines in COVID-19 case counts.
         -

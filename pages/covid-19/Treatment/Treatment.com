@@ -108,7 +108,18 @@ subject module Treatment
               'Copin_et_al_06_05_2021.!c
               'Copin_et_al_06_05_2021.!d
 
-          / Regeneron antibody cocktail reduced deaths among those hospitalized covid-19 patients who did not produce antibodies themselves.
+
+          / (REGEN-COV) reduced 28-day mortality among seronegative patients
+          claim !REGEN-COVseronegative = A large, randomised trial provides evidence that a monoclonal antibody combination of casirivimab and imdevimab (REGEN-COV) reduced 28-day mortality by about one-fifth among patients who were seronegative at baseline. It was also associated with an increased rate of discharge alive from hospital within the first 28 days and a reduced rate of progression to invasive mechanical ventilation or death in these patients. Any therapeutic use of REGEN-COV in the hospital setting may be best restricted to seronegative patients.
+            -
+              'Horby_et_al_06_16_2021
+              'Horby_et_al_06_16_2021.!a
+              'Horby_et_al_06_16_2021.!b
+              'Horby_et_al_06_16_2021.!c
+            -
+              !Regeneronrecoverytrial
+
+
           claim !Regeneronrecoverytrial = Investigators of the United Kingdom’s Regeneron RECOVERY trial announced the results - A combination of antibodies called casirivimab and imdevimab reduced deaths by a fifth among those hospitalized covid-19 patients who did not produce antibodies themselves.
             -
               'Kupferschmidt_et_al_06_16_2021
@@ -117,17 +128,13 @@ subject module Treatment
 
       / Soluble ACE2
       subject SolubleACE2
-        head =  Soluble ACE2 (rhACE2) inhibits the binding of SARS-CoV-2 to ACE2 expressing cells. Studies have also shown that Soluble ACE2 (rhACE2) can protect lung from injury during ARDS.
+        head = Soluble ACE2 (rhACE2) inhibits the binding of SARS-CoV-2 to ACE2 expressing cells. Studies have also shown that Soluble ACE2 (rhACE2) can protect lung from injury during ARDS.
         -
           'Batlle_et_al_2020
           'Fukushi_et_al_2005
           'Monteil_et_al_2020
 
-      / Ivermectin
-      claim !Ivermectin = A systematic review and meta-analysis of randomized controlled trials study demonstrated that In comparison to standard of care [SOC] or placebo, Ivermectin (IVM) did not reduce all-cause mortality, length of stay, respiratory viral clearance, adverse events and serious adverse events in RCTs of patients with mild to moderate COVID-19. IVM is not a viable option to treat COVID-19 patients.
-        -
-          'Roman_et_al_05_25_2021
-          'Roman_et_al_05_25_2021.!a
+
 
     / Additonal Host Targeting Compounds
     subject HostTargetingCompounds
@@ -245,10 +252,17 @@ subject module Treatment
               - Systematic Review showcasing reduction in viral load but also increase in mortality
                 'Yang_et_al_06_14_2020
 
+              claim !HCQdebate = HCQ use was not associated with mortality in COVID-19 patients in pooling results from RCTs, but it was associated with 20% mortality reduction when findings from observational studies were combined. The reduction of mortality was mainly apparent in observational studies where lower doses of HCQ were used.
+                -
+                  'Castelnuovo_et_al_06_15_2021
+                  'Castelnuovo_et_al_06_15_2021.!a
+                  'Castelnuovo_et_al_06_15_2021.!b
+                  'Castelnuovo_et_al_06_15_2021.!c
+
 
             / Observational Studies which shows no efficacy
             subject HcqnoEfficacy
-              head = Increased Mortality or increased risk of death was identified in patients treated with Hydroxychloroquine alone. No benefit of viral clearance was also observed.
+              head = Increased Mortality or increased risk of death was identified in patients treated with Hydroxychloroquine alone. No benefit of viral clearance was also observed. One study showed it was associated with 20% mortality reduction - where lower doses of HCQ were used.
               -
                 'Geleris_et_al_05_27_2020
                 'Magagnoli_et_al_04_23_2020
@@ -257,6 +271,9 @@ subject module Treatment
                 'Taramasso_et_al_07_23_2020
               - Meta Analysis of Studies
                 'Singh_et_al_05_12_2020
+
+
+
 
             / Randomized Controlled Trials
             subject Hcqtrials
@@ -354,6 +371,8 @@ subject module Treatment
             'Xu_et_al_2020
             'Li_et_al_2020
 
+
+
       —
       # subject HostProteaseInhibitors
       / Miscellaneous Additonal Host Targets
@@ -363,6 +382,17 @@ subject module Treatment
           'Rossignol_et_al_2014
           'Wu_et_al_2004
           'Li_et_al_2020
+
+    / Host-directed broad-spectrum antiviral agent
+    subject Hostdirectedbroadspectrumantiviralagent
+      head = Host-directed antivirals aims to interfere with host cell factors that are required by a pathogen for replication or persistence, to enhance protective immune responses against a pathogen, to reduce exacerbated inflammation and to balance immune reactivity at sites of pathology. Host-directed antivirals are also likely to offer a higher barrier to the development and selection of drug resistant mutations.
+
+       / Ivermectin
+      subject Ivermectin
+        head = A systematic review and meta-analysis of randomized controlled trials study demonstrated that In comparison to standard of care [SOC] or placebo, Ivermectin (IVM) did not reduce all-cause mortality, length of stay, respiratory viral clearance, adverse events and serious adverse events in RCTs of patients with mild to moderate COVID-19. IVM is not a viable option to treat COVID-19 patients.
+        -
+          'Roman_et_al_05_25_2021
+          'Roman_et_al_05_25_2021.!a
 
   —
   / Immune-Based Therapy
@@ -471,7 +501,7 @@ subject module Treatment
         'Shaabani_et_al_2020.!h
         'Shaabani_et_al_2020.!i
 
-  —
+
   / Anti-Inflammatories
   subject module AntiInflammatories
     head = Anti-Inflammatories drugs reduces inflammation or swelling. There has been heavy debate on the use of anti-inflammatory drugs in the treatment of SARS-CoV-2 infection.
@@ -482,10 +512,22 @@ subject module Treatment
         'Zhang_et_all_2020b
         'Zhang_et_al_2020f
         'Hanson_et_al_06_16_2020
+      -
+        !Telmisartan
       # viral host interaction as potential therapeutic targets
       - ARB
         'Liu_et_al_2020d
         'Zhang_et_al_2020f
+        
+      / Telmisartan
+      claim !Telmisartan = Study suggests that the ARB telmisartan, a well-known inexpensive safe antihypertensive drug, administered in high doses, could reduce morbidity and mortality in hospitalized patients infected with SARS -CoV-2 by anti-inflammatory effects. Telmisartan-treated patients had lower CRP, discharge time of 9 days vs 14 in control. No adverse events were reported.
+        -
+          'Duarte_et_al_06_18_2021
+          'Duarte_et_al_06_18_2021.!a
+          'Duarte_et_al_06_18_2021.!b
+          'Duarte_et_al_06_18_2021.!c
+          'Duarte_et_al_06_18_2021.!d
+
     / Corticosteroids
     subject Corticosteroids
       head = Potent anti-inflammatory effects of corticosteroids are proposed to have a potential therapeutic role in suppressing cytokine-related lung injury. Data of its usage in COVID-19 are limited and caution should be exercised, usage should be considered on a case-by-case basis.
