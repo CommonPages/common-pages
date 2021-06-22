@@ -6,18 +6,18 @@ revision feed Revisions
   let *June_21 mean June_21
   let *June_16 mean June_16
   let *June_13 mean June_13
-  let *June_7 mean June_7
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_21, *June_16, *June_13, *June_7). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_21, *June_16 and *June_13). You can *contribute by sending corrections and responding to open questions.
 
 
   public: June-21-2021
   / June 21, 2021
   revision June_21
-    head = An analysis of the increased transmission rates of VoC/VoIs from pooled genomic data estimated that B.1.617.2 is expected to rapidly outcompete other variants and become the dominant circulating lineage over the coming months. Estimated Effective reproduction number estimate increases of alpha- 29%, beta-25%, gamma-38%  & delta- 97%. Study reported that the frequency of the Delta is expected to take over the Alpha in Japan around July 12, 2021 - mostly before the Tokyo Olympic games from July 23, 2021.
+    head = An analysis of the increased transmission rates of VoC/VoIs from pooled genomic data estimated that B.1.617.2 is expected to rapidly outcompete other variants and become the dominant circulating lineage over the coming months. The authors estimate effective reproduction increases of Alpha (29%), Beta (25%), Gamma (38%) and Delta (97%). A study reported that the frequency of Delta is expected to take over Alpha in Japan around July 12, 2021, before the Tokyo Olympic games.
+    
     -
       Variants.B1617.!Deltaestimate
       Variants.B1617.!Tokyodelta
