@@ -2,10 +2,10 @@
 page #health
   = Experimental project where health related studies are compiled
 
+  -
+    Nutrients
   - Claims
     !ChildObesity
-
-
 
   claim !ChildObesity = Damage to specific parts of the hypothalamus cause severe obesity in children
     -
