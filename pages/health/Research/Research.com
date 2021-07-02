@@ -7,8 +7,9 @@ feed Research
     'Bereket_et_al_05_11_2012
 
 
+
   // Hypothalamic obesity in children
-  doi: https://doi.org/xyz
+  doi: https://doi.org/10.1159/000368102
   ref 'Bereket_et_al_05_11_2012
     head = Weight gain results from damage to the ventromedial hypothalamus, which leads, variously, to hyperphagia, a low-resting metabolic rate; autonomic imbalance; growth hormone-, gonadotropins and thyroid-stimulating hormone deficiency; hypomobility; and insomnia. This paper summarizes the highlights of symposium held in Turkey (May 2011) to address Hypothalamic obesity.
 
