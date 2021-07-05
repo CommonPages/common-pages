@@ -72,6 +72,7 @@ subject module Disease
       !SymptomaticCases
       !SevereCases
       !LongCovid
+      !LongcovidchildrenSwiss
       !LongTermConsequences
 
     / Asymptomatic Cases
@@ -142,8 +143,6 @@ subject module Disease
           'Chung_et_al_06_11_2021.!b
           'Chung_et_al_06_11_2021.!c
           'Chung_et_al_06_11_2021.!d
-
-
 
     / Severe Cases
     claim !SevereCases = Severe cases of COVID-19 may develop complications including pneumonia, acute respiratory distress syndrome (ARDS), multi-organ failure, coagulopathy, cytokine storms, septic shock, neurologic manifestations, endothelitis, and others. A case series in the Indian subcontinent reported cases of rhino-orbital–cerebral mucormycosis following COVID-19 infections. A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%.
@@ -219,9 +218,6 @@ subject module Disease
 
       / Mucormycosis
       claim !Mucormycosis = Mucormycosis is a life-threatening, opportunistic infection, and patients with moderate to severe COVID-19 are more susceptible to it. Uncontrolled diabetes mellitus and use of corticosteroids increase the risk of invasive fungal infection with mucormycosis which can develop during the course of the illness or as a sequelae of COVID-19. A delay of even six days in initiating treatment doubles the 30-day mortality from 35% to 66%. Early diagnosis, control of hyperglycaemia, and management with appropriate and aggressive antifungals and surgical debridement can improve survival. The use of glucocorticoids (steroids) in mild COVID-19 cases (without hypoxaemia) or the utilisation of higher doses of glucocorticoids should be avoided. Further, in the absence of a clear benefit, drugs targeting immune pathways such as tocilizumab should be discouraged.
-
-      # A case series in the Indian subcontinent reported six cases of rhino-orbital–cerebral mucormycosis following COVID-19 infections.The mean duration between the diagnosis of COVID-19 and the development of symptoms of mucormycosis was 15.6±9.6 daysControl of hyperglycaemia, early treatment with liposomal amphotericin B and surgery are essential for the successful management of mucormycosis.
-
         -
           'Sen_et_al_02_2021
           'Sen_et_al_02_2021.!a
@@ -240,6 +236,7 @@ subject module Disease
           'Revannavar_et_al_04_27_2021.!d
           'Revannavar_et_al_04_27_2021.!e
           'Revannavar_et_al_04_27_2021.!f
+      # A case series in the Indian subcontinent reported six cases of rhino-orbital–cerebral mucormycosis following COVID-19 infections.The mean duration between the diagnosis of COVID-19 and the development of symptoms of mucormycosis was 15.6±9.6 daysControl of hyperglycaemia, early treatment with liposomal amphotericin B and surgery are essential for the successful management of mucormycosis.
 
     / Long Covid
     claim !LongCovid = Long COVID was characterized by symptoms of fatigue, headache, dyspnea and anosmia and was more likely with increasing age and body mass index and female sex. Experiencing more than five symptoms during the first week of illness was associated with long COVID.
@@ -255,6 +252,14 @@ subject module Disease
         'Sudre_et_al_03_10_2021.!a
         'Sudre_et_al_03_10_2021.!b
         'Sudre_et_al_03_10_2021.!c
+
+    / Long Covid in Children
+    claim !LongcovidchildrenSwiss = A study in randomly selected Swiss children (6-16) with mild infection suggests a very low prevalence of long Covid in a randomly selected population-based cohort of children followed over 6 months after serological testing. Seropositive children did not report long COVID more frequently than seronegative children.
+      -
+        'Radtke_et_al_05_18_2021
+        'Radtke_et_al_05_18_2021.!a
+        'Radtke_et_al_05_18_2021.!b
+        'Radtke_et_al_05_18_2021.!c
 
     / Long Term Consequences
     claim !LongTermConsequences = There have been reports of persistent fatigue, memory/attention, and sleep disorders and a possible increased disposition for Parkinson's disease. One study reported that Long term neurological manifestations after hospitalization due to COVID-19 infection affects one third of survivors. Multiple neurological abnormalities including mild cognitive impairment are associated with severity of SARS-CoV-2 infection. One study identified lymphocyte changes in previously hospitalized COVID-19 patients up to 6 months following hospital discharge, proposing that this could affect longer-term immunity and contribute to some persistent symptoms observed in convalescent COVID-19 patients.
@@ -277,6 +282,8 @@ subject module Disease
         !Lymphocytechanges
       -
         !Myocarditis
+      -
+        !IndiaROCM  
 
 
       / !Neurological Symptoms
@@ -298,10 +305,10 @@ subject module Disease
           'Shuwa_et_al_03_31_2021.!d
 
       claim !Myocarditis = In a cohort study of 1597 US competitive athletes, cardiac magnetic resonance imaging (CMR) findings provide important data on the prevalence of clinical and subclinical myocarditis in college athletes recovering from symptomatic and asymptomatic COVID-19 infections.
-      -
-        'Daniels_et_al_05_27_2021
-        'Daniels_et_al_05_27_2021.!a
-        'Daniels_et_al_05_27_2021.!b
+        -
+          'Daniels_et_al_05_27_2021
+          'Daniels_et_al_05_27_2021.!a
+          'Daniels_et_al_05_27_2021.!b
 
 
       / Loss of grey matter in Limbic Brain Regions
@@ -311,6 +318,20 @@ subject module Disease
           'Douaud_et_al_06_15_2021.!a
           'Douaud_et_al_06_15_2021.!b
           'Douaud_et_al_06_15_2021.!c
+
+      / Rhino-orbital-cerebral mucormycosis (ROCM): India
+      claim !IndiaROCM = An observational study (India) showed that of the 2826 patients, the states of Gujarat (22%) and Maharashtra (21%) reported the highest number of rhino-orbital-cerebral mucormycosis (ROCM). Corticosteroids and Diabetes mellitus (DM) are the most important predisposing factors in the development of COVID-19-associated ROCM. ROCM predominantly affects middle-aged and older males with majority of the patients developing onset of ROCM symptoms between day 10 and day 15 from the diagnosis of COVID-19. Delayed presentation can occur up to three months. Periorbital and facial pain and edema, nasal discharge, ptosis, and loss of vision are the common symptoms and signs. A majority of patients are diagnosed at stage 3, when the orbit is already involved. Early initiation of treatment with amphotericin B, aggressive surgical debridement of the PNS, and orbital exenteration, where indicated, are essential for successful outcome.
+        -
+          'Sen_et_al_06_30_2021
+          'Sen_et_al_06_30_2021.!a
+          'Sen_et_al_06_30_2021.!b
+          'Sen_et_al_06_30_2021.!c
+          'Sen_et_al_06_30_2021.!d
+          'Sen_et_al_06_30_2021.!e
+          'Sen_et_al_06_30_2021.!f
+          'Sen_et_al_06_30_2021.!g
+          'Sen_et_al_06_30_2021.!h
+          'Sen_et_al_06_30_2021.!i
 
   / Severity
   // Susceptibility and Severity

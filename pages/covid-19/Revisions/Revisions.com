@@ -13,11 +13,75 @@ revision feed Revisions
   head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *June_21, *June_16 and *June_13). You can *contribute by sending corrections and responding to open questions.
 
 
+  public: July-04-2021
+  / July 4, 2021
+  revision July_04
+    head =
+
+    # neutralizing activity in J&J vaccine is more strongly reduced against the Beta and Gamma variants than against the rapidly spreading Delta variant. Vaccine induced cross-reactive humoral and cellular immune responses and provided robust protection against the heterologous SARS-CoV-2 variant B.1.351 in rhesus macaques.
+    -
+      Vaccines.Approved.Ad26COV2S.!JJneutralizing
+      Vaccines.Approved.Ad26COV2S.!JJhumoralcellularresponse
+    # Swiss study suggest a very low prevalence of long Covid in children
+    -
+      Disease.Course.!LongcovidchildrenSwiss
+    # Human Ad 5 vector expressing the SARS-CoV-2 nucleocapsid (N) protein can establish protective immunity in both Syrian hamsters and K18-hACE2 mice.
+    -
+      Vaccines.Triage.!Nprotienvaccine
+    # Mice and hamsters vaccinated with NDV-HXP-S developed strong antibody responses even against VOC. The vaccine is now in trials in Thailand, Vietnam and Mexico.
+    -
+      Vaccines.Triage.!NDVHXPSinactivatedvaccine
+
+    # An observational study (India) a large number of rhino-orbital-cerebral mucormycosis (ROCM). Corticosteroids and Diabetes mellitus (DM) are the most important predisposing factors. ROCM predominantly affects middle-aged and older males. Delayed presentation can occur up to three months. Periorbital and facial pain and edema, nasal discharge, ptosis, and loss of vision are the common symptoms and signs.
+    -
+      Disease.Course.!LongTermConsequences.!IndiaROCM
+
+    # A cross-sectional study (2.9 million households) found that events that lead to small and informal social gatherings, such as birthdays, and in particular, children’s birthdays, led to a relative increase of county-level prevalence of SARS-CoV-2
+    -
+      Transmission.Triage.!BirthdaysTransmission
+
+    # A systematic review and meta-analysis of RCT found Ivermectin (IVM) did not reduce all-cause mortality, length of stay or viral clearance, adverse events or severe adverse events in RCTs of patients with mild to moderate COVID-19 disease.
+    -
+      Treatment.Triage.!Ivermectinsystematicreview
+
+    # Cohort study involving 3975 health care personnel found that mRNA vaccines were highly effective among working-age adults in preventing SARS-CoV-2 infection when administered in real-world conditions, and the vaccines attenuated the viral RNA load, risk of febrile symptoms, and duration of illness among those who had breakthrough infection despite vaccination
+    -
+      Vaccines.Approved.Tozinameran.!RealworldmRNAvaccines
+
+    # In a phase 3 trial, two doses of Novavax showed more than 86% efficacy against VOC.
+    -
+      Vaccines.Candidates.NVX-CoV2373.!Novavaxphase3trial
+    # Myocarditis in US occurred against the backdrop of 2.8 million doses of mRNA COVID-19 vaccines administered and seems to be a rare event.
+    -
+      Vaccines.Approved.Tozinameran.!MyocarditisUSA
+
+    # One study, estimated the Delta variant can escape adaptive immunity induced by prior wildtype infection roughly half of the time and is around 60% more infectious than wildtype SARS-CoV-2.
+    -
+      Variants.B1617.!DeltaIndiaJune
+    # Anti-COVID antibodies make it into breast milk after vaccination.
+    -
+      Vaccines.Approved.Tozinameran.!BNT162b2Lactatingmothers
+
+    # Delta variant (B.1.617.2) is associated with significantly reduced neutralisation against pfizer and Astrazeneca vaccine
+    -
+      Variants.B1617.!B16172BNT162b2ChAdOx1
+
+    # Spanish study showed that Pfizer given as a second dose in individuals prime vaccinated with ChAdOx1-S induced a robust immune response
+    -
+      Vaccines.Approved.Tozinameran.!AZPfizerSpain
+
+    # CoronaVac vaccine is well tolerated in Children
+    -
+      Vaccines.Approved.CoronaVac.!CoronaVacchildren
+
+
+
+
   public: June-21-2021
   / June 21, 2021
   revision June_21
     head = An analysis of the increased transmission rates of VoC/VoIs from pooled genomic data estimated that B.1.617.2 is expected to rapidly outcompete other variants and become the dominant circulating lineage over the coming months. The authors estimate effective reproduction increases of Alpha (29%), Beta (25%), Gamma (38%) and Delta (97%). A study reported that the frequency of Delta is expected to take over Alpha in Japan around July 12, 2021, before the Tokyo Olympic games.
-    
+
     -
       Variants.B1617.!Deltaestimate
       Variants.B1617.!Tokyodelta

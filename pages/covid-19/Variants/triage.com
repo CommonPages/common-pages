@@ -1,6 +1,9 @@
 index: hide
 . Triage
 
+
+  
+
   # ANIMALS- VARIANTS
   >
     Domestic pets can contract SARS-CoV-2 infection but, based on the limited information available to date, it is unknown whether the new British B.1.1.7 variant can more easily infect certain animal species or increase the possibility of human-to-animal transmission.
@@ -110,6 +113,7 @@ index: hide
       'Ferreira_et_al_05_09_2021.!c
     -
       Variants.B117.!P681HFurin
+
     claim ! = In one study of a mutant SARS-CoV-2 that lacks the furin cleavage site (ΔPRRA), the results showed that the ΔPRRA mutant had reduced replication in a human respiratory cell line and was attenuated in both hamster and K18-hACE2 transgenic mouse models of SARS-CoV-2 pathogenesis.
     'Johnson_et_al_01_25_2021
     'Johnson_et_al_01_25_2021.!a
@@ -148,7 +152,7 @@ index: hide
     Lower protection against B.1.351, the variant with least sensitivity to neutralising antibodies, has been demonstrated for at least three vaccines.
 
 
-  
+
 
   ##### 4/27/21 UPDATE CLAIMS
 

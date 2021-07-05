@@ -68,7 +68,7 @@ subject module Vaccines
         !IsraelvaccinationffectivnessCovid19outcomes
         !Israelbenefitvaccinationprogram
         !IVFcycle
-
+        !RealworldmRNAvaccines
       -
         !Scotland
       -
@@ -96,9 +96,6 @@ subject module Vaccines
         !PfizerQatar
       -
         Variants.B1617.!ScotlandDelta
-
-
-
       - Single Dose
         !Singledosemetastudy
         !SingleDoseHumoralPfizer
@@ -122,6 +119,7 @@ subject module Vaccines
       - Heterologous Prime Booster
         !HeterologousprimeboostChAdBNT
         !GermanyHeterologousChAdOxBNT
+        !AZPfizerSpain
       - Older People
         !OldAge
         !Singledoseolderpeople
@@ -134,6 +132,7 @@ subject module Vaccines
         !IVFcycle
         !Fertilitybreastfeedingconcerns
         !Pfizerfertility
+        !BNT162b2Lactatingmothers
       - Children
         !ChildrenPfizer
       - Men
@@ -178,6 +177,7 @@ subject module Vaccines
         !Pfizerantibodyneutralisation
         Disease.Immunity.AcquiredImmunity.Antibodies.!Longevity.!Neutralizingantibody1yr
         mRNA-1273.!mRNAstrongAbresponse
+        !GCBcellresponsemRNA
 
       - Spike-specific CD4+ and CD8+ T cells and non-neutralizing antibody-dependent cytotoxicity
         !Humoralpolyspecificcellular
@@ -190,7 +190,9 @@ subject module Vaccines
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!RiskCVT
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!Diagnosis.!PF4polyanion
         !Myocarditis
+        !MyocarditisUSA
         !DelayedlargelocalreactionBIPOC
+
       - Real World Data: Adverse Effects
         !AdverseeffectsBNT162b2ChAdOx1
 
@@ -207,10 +209,6 @@ subject module Vaccines
 
       -
         ?Approvals
-
-
-
-
 
 
       claim !ClinicalTrials = A phase 1/2/3 clinical trial for the Pfizer vaccine was first posted in April of 2020. It will evaluate the safety, tolerability, immunogenicity, and efficacy of two vaccines—BNT162b1 and BNT162b2—against COVID-19. The expected completion date is January of 2023.
@@ -641,9 +639,9 @@ subject module Vaccines
           'Shimabukuro_et_al_04_21_2021.!d
 
       claim !IVFcycle = One observational study demonstrated 36 couples resuming IVF after recieving mRNA SARS-CoV-2 vaccine (Israel) did not affect patients’ performance or ovarian reserve in their immediate subsequent IVF cycle.
-      -
-        'Orvieto_et_al_05_13_2021
-        'Orvieto_et_al_05_13_2021.!a
+        -
+          'Orvieto_et_al_05_13_2021
+          'Orvieto_et_al_05_13_2021.!a
 
       claim !Asymptomatic = COVID-19 vaccination with an mRNA-based vaccine showed a significant association with a reduced risk of asymptomatic SARS-CoV-2 infection as measured during pre-procedural molecular screening.
         -
@@ -751,12 +749,12 @@ subject module Vaccines
 
 
       claim !Singledoseolderpeople = Single doses of either the BNT162b2 or ChAdOx1vaccine in older people thus induce humoral immunity in most donors and are markedly enhanced by previous infection. Cellular responses are weaker but show relative enhancement after the ChAdOx1 platform.
-      -
-        'Parry_et_al_04_13_2021
-        'Parry_et_al_04_13_2021.!a
-        'Parry_et_al_04_13_2021.!b
-        'Parry_et_al_04_13_2021.!c
-        'Parry_et_al_04_13_2021.!d
+        -
+          'Parry_et_al_04_13_2021
+          'Parry_et_al_04_13_2021.!a
+          'Parry_et_al_04_13_2021.!b
+          'Parry_et_al_04_13_2021.!c
+          'Parry_et_al_04_13_2021.!d
 
 
       claim !MultiplemyelomaPfizerAstraZeneca = One study on 93 patients with multiple myeloma found anti-SARS-CoV-2 IgG in 56% of patients after their first vaccination, which rises to 70% when measuring Total antibody. There was no difference between the Pfizer and AstraZeneca vaccines, supporting the current advice for patients with multiple myeloma to receive whichever is available.
@@ -770,7 +768,6 @@ subject module Vaccines
           'Bird_et_al_04_19_2021.!f
 
       claim !GermanySingledoseincompleteprotection = Evidence from one real-world setting (an elderly care home in North-Rhine Westfalia, Germany) reported that a single dose of BNT162b2 did not prevent symptomatic and fatal outcomes of SARS-CoV-2 infections in this high-risk population up to 23 days after the initial vaccination indicating an incomplete protection against severe Covid-19 for that period.
-
         -
           'Westhölter_et_al_04_07_2021
           'Westhölter_et_al_04_07_2021.!a
@@ -793,14 +790,14 @@ subject module Vaccines
 
       claim !PriorinfectionSingledoseBcells = One study analysis of antibodies and cellular memory reveals distinct responses to SARS-CoV-2 mRNA vaccines based on prior history of infection. The addition of memory B cells in this analysis, both in terms of frequency and phenotype, provides complemenary data that strengthens current serology-based evidence for a single-dose vaccine schedule in COVID-19 recovered individuals.
 
-      -
-        'Goel_et_al_04_15_2021
-        'Goel_et_al_04_15_2021.!a
-        'Goel_et_al_04_15_2021.!b
-        'Goel_et_al_04_15_2021.!c
-        'Goel_et_al_04_15_2021.!d
-        'Goel_et_al_04_15_2021.!e
-        'Goel_et_al_04_15_2021.!f
+        -
+          'Goel_et_al_04_15_2021
+          'Goel_et_al_04_15_2021.!a
+          'Goel_et_al_04_15_2021.!b
+          'Goel_et_al_04_15_2021.!c
+          'Goel_et_al_04_15_2021.!d
+          'Goel_et_al_04_15_2021.!e
+          'Goel_et_al_04_15_2021.!f
 
       claim !Singledosepriorcovid = These findings provide evidence that after the administration of a single dose of vaccine (BNT162b2 (Pfizer–BioNTech), the humoral response against SARS-CoV-2 in persons with a history of SARS-CoV-2 infection is greater than the response in previously uninfected participants who have received a second dose.
         -
@@ -873,41 +870,41 @@ subject module Vaccines
 
       / Memory B Cells
       claim !MemoryBcells = The data suggest that immunity in convalescent individuals will be very long lasting (anti-RBD IgG, IgM titers between 6 and 12 months) and that convalescent individuals who receive available mRNA vaccines will produce antibodies and memory B cells that should be protective against circulating SARS-CoV-2 variants. Should memory responses evolve in a similar manner in vaccinated individuals, additional appropriately timed boosting with available vaccines could cover most circulating variants of concern.
-      -
-        'Wang_et_al_05_09_2021
-        'Wang_et_al_05_09_2021.!a
-        'Wang_et_al_05_09_2021.!b
-        'Wang_et_al_05_09_2021.!c
-        'Wang_et_al_05_09_2021.!d
-        'Wang_et_al_05_09_2021.!e
-        'Wang_et_al_05_09_2021.!f
-        'Wang_et_al_05_09_2021.!g
-        'Wang_et_al_05_09_2021.!h
-        'Wang_et_al_05_09_2021.!i
-        'Wang_et_al_05_09_2021.!j
-        'Wang_et_al_05_09_2021.!k
-        'Wang_et_al_05_09_2021.!l
-        'Wang_et_al_05_09_2021.!a
-        'Wang_et_al_05_09_2021.!m
+        -
+          'Wang_et_al_05_09_2021
+          'Wang_et_al_05_09_2021.!a
+          'Wang_et_al_05_09_2021.!b
+          'Wang_et_al_05_09_2021.!c
+          'Wang_et_al_05_09_2021.!d
+          'Wang_et_al_05_09_2021.!e
+          'Wang_et_al_05_09_2021.!f
+          'Wang_et_al_05_09_2021.!g
+          'Wang_et_al_05_09_2021.!h
+          'Wang_et_al_05_09_2021.!i
+          'Wang_et_al_05_09_2021.!j
+          'Wang_et_al_05_09_2021.!k
+          'Wang_et_al_05_09_2021.!l
+          'Wang_et_al_05_09_2021.!a
+          'Wang_et_al_05_09_2021.!m
 
       / Pfizer and Moderna Vaccine efficacy against B.1.617 and B.1.618
       claim !B1617B1618neutralizationPfizerModerna = One study demostrated that viruses with the B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The neutralization resistance was mediated by the L452R, E484Q and E484K mutations. The modest neutralization resistance of the variant spike proteins to vaccine elicited antibody suggests that current vaccines will remain protective against the B.1.617 and B.1.618 variants.
-       -
-         'Tada_et_al_05_16_2021
-         'Tada_et_al_05_16_2021.!a
-         'Tada_et_al_05_16_2021.!b
-         'Tada_et_al_05_16_2021.!c
-         'Tada_et_al_05_16_2021.!d
-         'Tada_et_al_05_16_2021.!e
-         'Tada_et_al_05_16_2021.!f
-         'Tada_et_al_05_16_2021.!g
-         'Tada_et_al_05_16_2021.!h
+        -
+          'Tada_et_al_05_16_2021
+          'Tada_et_al_05_16_2021.!a
+          'Tada_et_al_05_16_2021.!b
+          'Tada_et_al_05_16_2021.!c
+          'Tada_et_al_05_16_2021.!d
+          'Tada_et_al_05_16_2021.!e
+          'Tada_et_al_05_16_2021.!f
+          'Tada_et_al_05_16_2021.!g
+          'Tada_et_al_05_16_2021.!h
 
       claim !Delayed2nddosepfizer = One study showed that delaying the second dose of the Pfizer–BioNTech mRNA vaccine increases the peak antibody response by 3.5-fold in older people.
-       -
-         'Parry_et_al_05_17_2021
-         'Parry_et_al_05_17_2021.!a
-         'Parry_et_al_05_17_2021.!b
+        -
+          'Parry_et_al_05_17_2021
+          'Parry_et_al_05_17_2021.!a
+          'Parry_et_al_05_17_2021.!b
 
       claim !RealworldevidenceUK = Public Health England outlined the real-world evidence on vaccine effectiveness from studies in UK populations. Single dose of pfizer = 54% effectiveness against symptomatic disease, after 2 doses = 90%. Single dose Oxford AstraZeneca = 53% effectiveness against symptomatic disease, after 2 doses = 89% (low confidence).
          -
@@ -1065,6 +1062,54 @@ subject module Vaccines
            'Havlin_et_al_05_20_2021.!c
            'Havlin_et_al_05_20_2021.!d
 
+      claim !RealworldmRNAvaccines = In a prospective cohort study involving 3975 health care personnel, first responders, and other essential and frontline workers, the effectiveness of the mRNA vaccines BNT162b2 and mRNA-1273 in preventing symptomatic and asymptomatic SARS-CoV-2 infection was 91% with full vaccination and 81% with partial vaccination. The vaccines attenuated the viral RNA load (40% lower), risk of febrile symptoms (58% lower risk), and duration of illness (2.3 fewer days) among those who had breakthrough infection despite vaccination.
+        -
+          'Thompson_et_al_06_30_2021
+          'Thompson_et_al_06_30_2021.!a
+          'Thompson_et_al_06_30_2021.!b
+          'Thompson_et_al_06_30_2021.!c
+          'Thompson_et_al_06_30_2021.!d
+
+
+      claim !MyocarditisUSA = Reports of myocarditis after mRNA vaccination documenting its rare occurrence in USA.
+        -
+          !Myocarditismilitary
+          !MyocarditisNorthCarolina
+
+        claim !Myocarditismilitary = Myocarditis occurred in previously healthy military patients (23 males) with similar clinical presentations (acute onset of marked chest pain within 4 days) following receipt of an mRNA COVID-19 vaccine. These episodes occurred against the backdrop of 2.8 million doses of mRNA COVID-19 vaccines administered.
+          -
+            'Montgomery_et_al_06_29_2021
+            'Montgomery_et_al_06_29_2021.!a
+            'Montgomery_et_al_06_29_2021.!b
+
+        claim !MyocarditisNorthCarolina = Magnetic resonance imaging findings were found to be consistent with acute myocarditis in 7 patients (in North Carolina); 4 of whom had preceding COVID-19 vaccination. Three were younger male individuals (age, 23-36 years) and 1 was a 70-year-old female individual.
+          -
+            'Kim_et_al_06_29_2021
+            'Kim_et_al_06_29_2021.!a
+
+      / Lactating mothers following BNT162b2 vaccination
+      claim !BNT162b2Lactatingmothers = In a cohort of ten lactating mothers following BNT162b2 vaccination, nine (90%) produced SARS-CoV-2 IgA, and ten (100%) produced IgG in human milk with minimal amounts of vaccine mRNA. The sharpest rise in antibody production was 3 -7 days after dose two of the BNT162b2. Vaccine mRNA was detected only on rare occasions, at a maximum concentration of 2 ng/mL.
+        -
+          'Wang_et_al_04_29_2021
+          'Wang_et_al_04_29_2021.!a
+          'Wang_et_al_04_29_2021.!b
+
+      claim !AZPfizerSpain = The Spanish CombivacS trial results (663 people) showed that BNT162b2 given as a second dose in individuals prime vaccinated with ChAdOx1-S induced a robust immune response, with an acceptable and manageable reactogenicity profile.
+        -
+          'Borobia_et_al_06_25_2021
+          'Borobia_et_al_06_25_2021.!a
+
+
+      / Germinal centre (GC) B cell response (mRNA-based vaccines)
+      claim !GCBcellresponsemRNA = One study demonstrated that SARS-CoV-2 mRNA-based vaccination of humans induces a persistent germinal centre (GC) B cell response, enabling the generation of robust humoral immunity.
+
+        -
+          'Turner_et_al_06_28_2021
+          'Turner_et_al_06_28_2021.!a
+          'Turner_et_al_06_28_2021.!b
+          'Turner_et_al_06_28_2021.!c
+
+
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
     / Moderna
@@ -1113,6 +1158,7 @@ subject module Vaccines
         Tozinameran.!CanadaVE
         Tozinameran.!Finland
         Tozinameran.!RealworldHCWUsa
+        Tozinameran.!RealworldmRNAvaccines
       - Single Dose
         Tozinameran.!Singledosemetastudy
       -
@@ -1164,6 +1210,8 @@ subject module Vaccines
         Tozinameran.!BellsPalsy
         Vaccines.Approved.AZD1222.!ThromboticThrombocytopenia.!RiskCVT
         Tozinameran.!DelayedlargelocalreactionBIPOC
+        Tozinameran.!MyocarditisUSA
+        !ModernaVITT
       >
         There have been many incidents where mRNA vaccine recipients have felt that their arm is on "fire". Scientists call it as germinal centers, where lymph nodes drain the arm after the mRNA vaccination in humans.
       - Side Effects
@@ -1361,13 +1409,17 @@ subject module Vaccines
           'Assis_et_al_05_19_2021.!c
           'Assis_et_al_05_19_2021.!d
 
-
-
       claim !SpermRNA = A study of sperm parameters before and after 2 doses of a COVID-19 mRNA vaccine demonstrated no significant decreases in any sperm parameter among a small cohort of healthy men.
         -
           'Gonzalez_et_al_06_17_2021
           'Gonzalez_et_al_06_17_2021.!a
           'Gonzalez_et_al_06_17_2021.!b
+
+      claim !ModernaVITT = A case report of VITT 10 days after 2nd Moderna vaccination. Severe thrombocytopenia, cerebral vein thrombosis, PE, bilateral DVT, high D-Dimer, anti-PF4 of 2.9.
+        -
+          'Sangli_et_al_06_29_2021
+          'Sangli_et_al_06_29_2021.!a
+          'Sangli_et_al_06_29_2021.!b
 
 
     / Oxford–AstraZeneca
@@ -1634,6 +1686,7 @@ subject module Vaccines
           !Diagnosis
           !RiskCVT
           !Mildbleeding
+          !ChAdOx1TTS
         >
           Lab studies from Germany presented data that may explain these severe side effects (thromboembolic events) which have been attributed to adenoviral vaccines (AZ & J&J vaccines). They termed the underlying disease mechanism the “Vaccine-Induced Covid-19 Mimicry” syndrome (VIC19M syndrome). If right, vaccines could theoretically be modified to avoid it.
         -
@@ -1997,8 +2050,6 @@ subject module Vaccines
               'Al-Mayhani_et_al_05_25_2021.!c
               'Al-Mayhani_et_al_05_25_2021.!d
 
-
-
         / Johnson & Johnson/Janssen
         subject Ad26COV2S
           head = One case study of extensive thrombosis associated with severe thrombocytopenia and disseminated intravascular coagulation that resembled autoimmune heparin-induced thrombocytopenia in a patient who had received the Ad26.COV2.S vaccine (Johnson & Johnson/Janssen). The case suggests that the rare occurrence of vaccine-induced immune thrombotic thrombocytopenia (VITT) could be related to adenoviral vector vaccines. However, the manufacturers of Ad26.COV2.S vaccine hav argued that that the vectors and spike (S) protein inserts used in the ChAdOx1 nCoV-19 vaccine and the Ad26.COV2.S vaccine are substantially different. As of 20 April 2021, European Medicines Agency's (EMA) safety committee (PRAC) concluded that a warning about unusual blood clots with low blood platelets should be listed as very rare side effects of COVID-19 Vaccine Janssen. EMA confirms overall benefit-risk remains positive.
@@ -2070,8 +2121,6 @@ subject module Vaccines
               'EMA_et_al_04_20_2021.!d
               'EMA_et_al_04_20_2021.!e
               'EMA_et_al_04_20_2021.!f
-
-
 
         / Medical Evaluation for VITT
         claim !Medicalevaluation = As a precautionary measure, anyone who has the following symptoms from around 4 days to 4 weeks after vaccination is advised to seek prompt medical advice: symptoms of blood clots such as shortness of breath, chest pain, leg swelling, persistent abdominal pain, neurological symptoms such as severe and persistent headaches and blurred vision, problems speaking, weakness, drowsiness or seizures, tiny blood spots under the skin beyond the site of the injection.
@@ -2230,6 +2279,14 @@ subject module Vaccines
             'Kowarz_et_al_05_26_2021.!a
 
 
+        / Potential sequence of events that could lead to TTS in some patients
+        claim !ChAdOx1TTS = One study contributes to the understanding of thrombosis with thrombocytopenia syndrome (TTS) and highlights accidental intravenous injection as potential mechanism for post-vaccination TTS. Hence, safe intramuscular injection, with aspiration prior to injection, could be a potential preventive measure when administering adenovirus-based vaccines.
+          -
+            'Nicolai_et_al_06_29_2021
+            'Nicolai_et_al_06_29_2021.!a
+            'Nicolai_et_al_06_29_2021.!b
+
+
         # / Anti-PF4 antibodies
         # question ?Anti-PF4antibodies = How the development of pathologic platelet-activating anti-PF4 antibodies, unrelated to the use of heparin therapy, could be associated with vaccination against SARS-CoV-2?
 
@@ -2378,6 +2435,9 @@ subject module Vaccines
         !RealworldevidenceUS
       - SA Variant
         !SAVariant
+      -
+        !JJneutralizing
+        !JJhumoralcellularresponse
       - Adverse Effect
         Approved.AZD1222.!ThromboticThrombocytopenia
 
@@ -2463,6 +2523,20 @@ subject module Vaccines
           'Corchado-Garcia_et_al_05_10_2021
           'Corchado-Garcia_et_al_05_10_2021.!a
           'Corchado-Garcia_et_al_05_10_2021.!b
+
+      / J&J vaccine efficacy against Beta (B.1.351), Gamma (P.1) and Delta (B.1.617.2)
+      claim !JJneutralizing = Study showed that neutralizing activity in J&J vaccine is more strongly reduced against the Beta (B.1.351; 3.6-fold) and Gamma (P.1; 3.4-fold) variants than against the rapidly spreading Delta (B.1.617.2; 1.6-fold) variant.
+        -
+          'Jongeneelen_et_al_07_01_2021
+          'Jongeneelen_et_al_07_01_2021.!a
+
+      claim !JJhumoralcellularresponse = Study demonstrated that Ad26.COV2.S induced cross-reactive humoral and cellular immune responses and provided robust protection against the heterologous SARS-CoV-2 variant B.1.351 in rhesus macaques.
+        -
+          'Yu_et_al_06_23_2021
+          'Yu_et_al_06_23_2021.!a
+          'Yu_et_al_06_23_2021.!b
+          'Yu_et_al_06_23_2021.!c
+          'Yu_et_al_06_23_2021.!d
 
     / CanSino Bio
     subject Ad5-nCOV
@@ -2823,6 +2897,7 @@ subject module Vaccines
         !BrazilPositiveImpactCoronavacAZ
         !Chilepreliminarydata
         !CoronaVacrealworldBrazil
+        !CoronaVacchildren
 
 
       / On going clinical trials
@@ -2889,6 +2964,13 @@ subject module Vaccines
           'Ranzani_et_al_05_21_2021
           'Ranzani_et_al_05_21_2021.!a
           'Ranzani_et_al_05_21_2021.!b
+
+      / CoronaVac vaccine in children and adolescents
+      claim !CoronaVacchildren = The CoronaVac vaccine in children and adolescents, age 3-17 (Sinovac) Phase 1/2 trial, was well tolerated and safe and induced high titres of neutralising antibodies. The 3 μg dose induced higher titres of neutralising antibodies than the 1·5 μg dose, whereas it showed no significant difference in side-effects between the two doses. The results support the use of 3·0 μg dose with a two-immunisation schedule for further studies in children and adolescents.
+        -
+          'Han_et_al_06_28_2021
+          'Han_et_al_06_28_2021.!a
+          'Han_et_al_06_28_2021.!b
 
 
     / Sinopharm
@@ -3196,6 +3278,8 @@ subject module Vaccines
         !Vaccineefficacy2btrial
         !NVX-CoV2373efficacyB1351
         !UKphase3Novavax
+      -
+        !Novavaxphase3trial
 
 
       / On-going trials
@@ -3307,6 +3391,14 @@ subject module Vaccines
           'Heath_et_al_06_03_2021.!c
           'Heath_et_al_06_03_2021.!d
           'Heath_et_al_06_03_2021.!e
+
+      claim !Novavaxphase3trial = In a phase 3 trial involving more than 15,000 participants, two doses of NVX-CoV2373 administered 21 days apart had a vaccine efficacy of 89.7%. Reactogenicity was generally mild and transient, and adverse events were infrequent and of low grade. It also showed efficacy of 86.3% against the B.1.1.7 (or alpha) variant and 96.4%  against non-B.1.1.7 variants.
+        -
+          'Heath_et_al_06_30_2021
+          'Heath_et_al_06_30_2021.!a
+          'Heath_et_al_06_30_2021.!b
+          'Heath_et_al_06_30_2021.!c
+
 
     / CureVac
     subject CureVac

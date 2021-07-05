@@ -5,7 +5,7 @@ index: hide
     'Chen_et_al_07_30_2020
 
 
-  >  discuss with ayush
+  >
     A study described 3 cases of SARS-CoV-2 transmission with homologous whole genome sequencing that occurred despite the use of medical masks and eye protection; including transmission despite the source person being masked, transmission despite the exposed person being masked, and transmission despite both parties being masked.
   -
     'Klompas_et_al_03_11_2021
@@ -18,3 +18,9 @@ index: hide
       'Cheng_et_al_05_20_2021.!a
       'Cheng_et_al_05_20_2021.!b
       'Cheng_et_al_05_20_2021.!c
+      
+  claim !Massmaskwearing = Study found that if an entire population wearing masks in public then Covid-19 transmission could be reduced by 25%. Moreover, It did not find evidence that mandating mask-wearing reduces transmission. It establishes the effectiveness of mass mask-wearing, and highlight that wearing data, not mandate data, are necessary to infer this effect.
+    -
+      'Leech_et_al_06_18_2021
+      'Leech_et_al_06_18_2021.!a
+      'Leech_et_al_06_18_2021.!b
