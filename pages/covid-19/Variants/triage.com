@@ -1,8 +1,11 @@
 index: hide
 . Triage
 
+  claim !CD4CD8Tcell = A study found that the SARS-CoV-2 variants (B.1.1.7, B.1.351, P.1, and CAL.20C lineages) do not majorly disrupt the total SARS-CoV-2 T cell reactivity - total of 7% and 3% of previously identified CD4+ and CD8+ T cell epitopes, respectively, are impacted by mutations in the various VOCs and in recipients of the Moderna (mRNA-1273) or Pfizer/BioNTech (BNT162b2) COVID-19 vaccines. 93% and 97% of CD4 and CD8 epitopes are 100% conserved across variants.
+    -
+      'Tarke_et_al_07_01_2021
+      'Tarke_et_al_07_01_2021.!a
 
-  
 
   # ANIMALS- VARIANTS
   >

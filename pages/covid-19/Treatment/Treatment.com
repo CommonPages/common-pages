@@ -518,7 +518,7 @@ subject module Treatment
       - ARB
         'Liu_et_al_2020d
         'Zhang_et_al_2020f
-        
+
       / Telmisartan
       claim !Telmisartan = Study suggests that the ARB telmisartan, a well-known inexpensive safe antihypertensive drug, administered in high doses, could reduce morbidity and mortality in hospitalized patients infected with SARS -CoV-2 by anti-inflammatory effects. Telmisartan-treated patients had lower CRP, discharge time of 9 days vs 14 in control. No adverse events were reported.
         -

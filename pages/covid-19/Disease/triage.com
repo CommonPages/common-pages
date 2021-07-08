@@ -1,4 +1,3 @@
-index: hide
 . Triage
 
   ##### Neutralising Antibody
@@ -10,6 +9,15 @@ index: hide
       'Rogers_et_al_06_11_2020
       'Rogers_et_al_06_11_2020.!b
 
+
+  / Mortality India (2nd Wave)
+  claim !Indiamortality2ndwave = One study analysis shows that existing population samples allow for an alternative estimation of deaths due to Covid19 in India - a death toll of about 2.2 million persons by late May 2021. This is the largest number of Covid-19 deaths in the world. Once standardized for its age and sex structure, India’s Covid-19 mortality rate is above that of Brazil or the USA. Only one out 7 Covid-19 deaths appear to be registered in India. India’s Covid-19 death toll is likely to continue rising till the end of the second wave.
+    -
+      'Guilmoto_et_al_07_02_2021
+      'Guilmoto_et_al_07_02_2021.!a
+      'Guilmoto_et_al_07_02_2021.!b
+      'Guilmoto_et_al_07_02_2021.!c
+      'Guilmoto_et_al_07_02_2021.!d
 
   # Genetically distinct virus led to reinfection in few SARS-CoV-2 cases. Responses among few patients with Reinfection have been heterogenous. Several studies show that previous SARS-CoV-2 infection protects most individuals against reinfection in the short to medium term (average of 7 months). Previously infected older (65 years and above) and immunocompromised people are more at risk of reinfection.
 

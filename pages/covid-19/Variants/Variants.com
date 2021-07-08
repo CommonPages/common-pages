@@ -2139,6 +2139,11 @@ subject module Variants
         'Bolze_et_al_06_21_2021.!b
         'Bolze_et_al_06_21_2021.!c
 
+    claim !Weddingdelta = Transmission event occurred at events surrounding a wedding outside of Houston, TX. Two patients from India, likely transmitted the Delta variant to other guests. Viral sequencing revealed 6 vaccinated patients were infected with the Delta SARS31 CoV-2 variant. With no histories of vaccine breakthrough, this suggests Delta variant may possess immune evasion in patients that received the Pfizer BNT162b2, Moderna mRNA-1273, and Covaxin BBV152. Antibodies elicited in patients receiving Pfizer BNT162b2, Moderna mRNA, Covaxin BBV152 may provide decreased immunity to the Delta variant.
+    -
+      'Farinholt_et_al_07_04_2021
+      'Farinholt_et_al_07_04_2021.!a
+      'Farinholt_et_al_07_04_2021.!b    
 
 
   question ?Antibodies = Whether these mutations render preexisting antibodies ineffective has become a public concern, as it could result in reinfection or loss of vaccine efficacy. To what extent a person infected by one strain is protected against infection of another strain? What evidence exists as to the efficacy of vaccines against each variant?
