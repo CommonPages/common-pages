@@ -3,26 +3,20 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
-  let *July_09 mean July_09
-  let *July_07 mean July_07
-  let *July_06 mean July_06
-  let *July_05 mean July_05
-  let *July_03 mean July_03
-  let *July_01 mean July_01
-  let *June_21 mean June_21
-  let *June_16 mean June_16
-  let *June_13 mean June_13
+  let *July_9 mean July_09
+  let *July_7 mean July_07
+  let *July_6 mean July_06
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *July_09, *July_07, *July_06, *July_05, *July_03, *July_01, *June_21, *June_16 and *June_13). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *July_9, *July_7 and *July_6). You can *contribute by sending corrections and responding to open questions.
 
 
   public: July-09-2021
   / July 9, 2021
   revision July_09
-    head = Neutralising activity of J&J vaccine is more stronly reduced against  Beta and Gamma variants than against the Delta variant. Two doses of Novavax showed more than 86% efficacy against VOC. CoronaVac vaccine is well tolerated in Children. In animal study, Human Ad 5 vector expressing the SARS-CoV-2 nucleocapsid (N) protein can establish protective immunity and NDV-HXP-S (inactivated vaccine) developed strong antibody responses even against VOC.
+    head = Neutralising activity of the J&J vaccine is more stronly reduced against Beta and Gamma variants than against the Delta variant. Two doses of Novavax showed more than 86% efficacy against VOC. CoronaVac vaccine is well tolerated in children. In an animal study, Human Ad 5 vector expressing the SARS-CoV-2 nucleocapsid (N) protein established protective immunity and NDV-HXP-S (inactivated vaccine) developed strong antibody responses even against VOC.
 
     # Vaccines
 
@@ -49,9 +43,9 @@ revision feed Revisions
 
 
   public: July-07-2021
-  / July 07, 2021
+  / July 7, 2021
   revision July_07
-    head = An observational study (India) a large number of rhino-orbital-cerebral mucormycosis (ROCM). Corticosteroids and Diabetes mellitus (DM) are the most important predisposing factors. ROCM predominantly affects middle-aged and older males. India’s Covid-19 mortality rate is above that of Brazil or the USA. Only one out 7 Covid-19 deaths appear to be registered in India.
+    head = An observational study in India showed a large number of rhino-orbital-cerebral mucormycosis (ROCM). Corticosteroids and Diabetes mellitus (DM) are the most important predisposing factors. ROCM predominantly affects middle-aged and older males. India’s Covid-19 mortality rate is above that of Brazil or the USA. Only one out 7 Covid-19 deaths appear to be registered in India.
 
     # An observational study (India) a large number of rhino-orbital-cerebral mucormycosis (ROCM). Corticosteroids and Diabetes mellitus (DM) are the most important predisposing factors. ROCM predominantly affects middle-aged and older males. Delayed presentation can occur up to three months. Periorbital and facial pain and edema, nasal discharge, ptosis, and loss of vision are the common symptoms and signs.
     -
@@ -62,9 +56,9 @@ revision feed Revisions
       Disease.Triage.!Indiamortality2ndwave
 
   public: July-06-2021
-  / July 06, 2021
+  / July 6, 2021
   revision July_06
-    head = Delta variant can escape adaptive immunity induced by prior wildtype infection roughly half of the time and is around 60% more infectious than wildtype SARS-CoV-2. This variant is associated with reduced neutralisation against several vaccines. SARS-CoV-2 variants (B.1.1.7, B.1.351, P.1, and CAL.20C lineages) do not majorly disrupt the total SARS-CoV-2 T cell reactivity
+    head = The Delta variant can escape adaptive immunity induced by prior wildtype infection roughly half of the time and is around 60% more infectious than wildtype SARS-CoV-2. This variant is associated with reduced neutralisation against several vaccines. SARS-CoV-2 variants (B.1.1.7, B.1.351, P.1, and CAL.20C lineages) do not majorly disrupt the total SARS-CoV-2 T cell reactivity.
 
     #  Delta
     # One study, estimated the Delta variant can escape adaptive immunity induced by prior wildtype infection roughly half of the time and is around 60% more infectious than wildtype SARS-CoV-2.
@@ -84,9 +78,9 @@ revision feed Revisions
       Variants.Triage.!CD4CD8Tcell
 
   public: July-05-2021
-  / July 05, 2021
+  / July 5, 2021
   revision July_05
-    head =  A cross-sectional study (2.9 million households) found that events that lead to small and informal social gatherings, such as birthdays, and in particular, children’s birthdays, led to a relative increase of county-level prevalence of SARS-CoV-2. One Swiss study suggest a very low prevalence of long Covid in children.
+    head =  A cross-sectional study (2.9 million households) found that events that lead to small and informal social gatherings, such as birthdays, and in particular, children’s birthdays, led to a relative increase of county-level prevalence of SARS-CoV-2. One Swiss study suggested a very low prevalence of long Covid in children.
 
     # Swiss study suggest a very low prevalence of long Covid in children
     -
@@ -97,7 +91,7 @@ revision feed Revisions
       Transmission.Triage.!BirthdaysTransmission
 
   public: July-03-2021
-  / July 03, 2021
+  / July 3, 2021
   revision July_03
     head = A systemic review found that Ivermectin did not reduce all-cause mortality, length of stay or viral clearance, adverse events or severe adverse events. Patients with severe COVID-19 receiving organ support, tocilizumab and sarilumab are similarly effective at improving survival and reducing duration of organ support.
 
@@ -110,9 +104,9 @@ revision feed Revisions
       Treatment.Triage.!TocilizumabSarilumabAnakinra
 
   public: July-01-2021
-  / July 01, 2021
+  / July 1, 2021
   revision July_01
-    head = Pfizer vaccine appears to be highly effective in preventing SARS-Cov-2 infection. Myocarditis in US occurred against the backdrop of 2.8 million doses of mRNA COVID-19 vaccines and seems to be rare event. Anti-COVID antibodies make it into breast milk after vaccination. Pfizer given as a second dose in individuals prime vaccinated with Oxford AstraZeneca induced a robust immune response
+    head = The Pfizer vaccine appears to be highly effective in preventing SARS-Cov-2 infection. Myocarditis in the US occurred against the backdrop of 2.8 million doses of mRNA COVID-19 vaccines and seems to be rare event. Anti-COVID antibodies make it into breast milk after vaccination. Pfizer given as a second dose in individuals prime vaccinated with Oxford AstraZeneca induced a robust immune response.
 
     # Cohort study involving 3975 health care personnel found that mRNA vaccines were highly effective among working-age adults in preventing SARS-CoV-2 infection when administered in real-world conditions, and the vaccines attenuated the viral RNA load, risk of febrile symptoms, and duration of illness among those who had breakthrough infection despite vaccination
     -
