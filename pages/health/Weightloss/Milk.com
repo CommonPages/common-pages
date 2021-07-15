@@ -1,6 +1,6 @@
 / Role of Milk in Weight loss
 subject Milk
-  head = Role of Sugar in Weight loss
+  head = Role of Milk in Weight loss
 
 
   - Milk associated with lower blood pressure.

@@ -29,6 +29,322 @@ feed Research
   - 1997
     'Pan_et_al_04_20_1997
 
+  // Cutoff Values for Normal Anthropometric Variables in Asian Indian Adults
+  doi: https://doi.org/10.2337/diacare.26.5.1380
+  ref 'Snehalatha_et_al_05_23_2006
+    head = Asian Indians have a high risk of developing glucose intolerance with small increments in their BMI. They generally have high upper-body adiposity, despite having a lean BMI. Therefore, this analysis was performed to find out the normal cutoff values for BMI and upper-body adiposity (waist circumference [WC] or waist-to-hip ratio [WHR]) by computing their risk associations with diabetes.
+
+    > OBJECTIVE
+      Asian Indians have a high risk of developing glucose intolerance with small increments in their BMI. They generally have high upper-body adiposity, despite having a lean BMI. Therefore, this analysis was performed to find out the normal cutoff values for BMI and upper-body adiposity (waist circumference [WC] or waist-to-hip ratio [WHR]) by computing their risk associations with diabetes.
+
+    > RESEARCH DESIGN AND METHODS
+      The risk of diabetes with stratified BMI, WC, or WHR was computed in 10,025 adults aged ≥20 years without a history of diabetes, and they were tested by oral glucose tolerance tests, using World Health Organization criteria. The calculations were performed separately in men and women using diabetes as the dependent variable versus normoglycemia (normal glucose tolerance) in multiple logistic regression analyses. Age-adjusted and stratified BMI, WC, or WHR were used as the independent variables, using the first stratum as the reference category. The upper limit of the stratum above which the risk association became statistically significant (P < 0.05) was considered to be the cutoff for normal values.
+
+    > RESULTS
+      Normal cutoff values for BMI was 23 kg/m2 for both sexes. Cutoff values for WC were 85 and 80 cm for men and women, respectively; the corresponding WHRs were 0.88 and 0.81, respectively. Optimum sensitivity and specificity obtained from the receiver operator characteristic curve corresponded to these cutoff values.
+
+    > CONCLUSIONS
+      The cutoff value for normal BMI for men and women was 23 kg/m2. The cutoff values for WC and WHR were lower in women than in men. The values were significantly lower compared with the corresponding values in white populations.
+
+    - quotes
+      !a
+
+    / May, 2003 - Diabetes Care
+    quote !a =   Normal cutoff values for BMI was 23 kg/m2 for both sexes. Cutoff values for WC were 85 and 80 cm for men and women, respectively; the corresponding WHRs were 0.88 and 0.81, respectively. Optimum sensitivity and specificity obtained from the receiver operator characteristic curve corresponded to these cutoff values.
+
+  // Genetic Evidence for a Normal-Weight “Metabolically Obese” Phenotype Linking Insulin Resistance, Hypertension, Coronary Artery Disease, and Type 2 Diabetes
+  doi: https://doi.org/10.2337/db14-0318
+  ref 'Yaghootkar_et_al_12_2014
+    head = The mechanisms that predispose to hypertension, coronary artery disease (CAD), and type 2 diabetes (T2D) in individuals of normal weight are poorly understood. In contrast, in monogenic primary lipodystrophy—a reduction in subcutaneous adipose tissue—it is clear that it is adipose dysfunction that causes severe insulin resistance (IR), hypertension, CAD, and T2D. We aimed to test the hypothesis that common alleles associated with IR also influence the wider clinical and biochemical profile of monogenic IR.
+
+    > Abstract
+      The mechanisms that predispose to hypertension, coronary artery disease (CAD), and type 2 diabetes (T2D) in individuals of normal weight are poorly understood. In contrast, in monogenic primary lipodystrophy—a reduction in subcutaneous adipose tissue—it is clear that it is adipose dysfunction that causes severe insulin resistance (IR), hypertension, CAD, and T2D. We aimed to test the hypothesis that common alleles associated with IR also influence the wider clinical and biochemical profile of monogenic IR. We selected 19 common genetic variants associated with fasting insulin–based measures of IR. We used hierarchical clustering and results from genome-wide association studies of eight nondisease outcomes of monogenic IR to group these variants. We analyzed genetic risk scores against disease outcomes, including 12,171 T2D cases, 40,365 CAD cases, and 69,828 individuals with blood pressure measurements. Hierarchical clustering identified 11 variants associated with a metabolic profile consistent with a common, subtle form of lipodystrophy. A genetic risk score consisting of these 11 IR risk alleles was associated with higher triglycerides (β = 0.018; P = 4 × 10−29), lower HDL cholesterol (β = −0.020; P = 7 × 10−37), greater hepatic steatosis (β = 0.021; P = 3 × 10−4), higher alanine transaminase (β = 0.002; P = 3 × 10−5), lower sex-hormone-binding globulin (β = −0.010; P = 9 × 10−13), and lower adiponectin (β = −0.015; P = 2 × 10−26). The same risk alleles were associated with lower BMI (per-allele β = −0.008; P = 7 × 10−8) and increased visceral-to-subcutaneous adipose tissue ratio (β = −0.015; P = 6 × 10−7). Individuals carrying ≥17 fasting insulin–raising alleles (5.5% population) were slimmer (0.30 kg/m2) but at increased risk of T2D (odds ratio [OR] 1.46; per-allele P = 5 × 10−13), CAD (OR 1.12; per-allele P = 1 × 10−5), and increased blood pressure (systolic and diastolic blood pressure of 1.21 mmHg [per-allele P = 2 × 10−5] and 0.67 mmHg [per-allele P = 2 × 10−4], respectively) compared with individuals carrying ≤9 risk alleles (5.5% population). Our results provide genetic evidence for a link between the three diseases of the “metabolic syndrome” and point to reduced subcutaneous adiposity as a central mechanism.
+
+    - quotes
+      !a
+
+    / December, 2014 - Diabetes
+    quote !a = Our results provide genetic evidence for a link between the three diseases of the “metabolic syndrome” and point to reduced subcutaneous adiposity as a central mechanism.
+
+  // Integrative genomic analysis implicates limited peripheral adipose storage capacity in the pathogenesis of human insulin resistance
+  doi: https://dx.doi.org/10.1038%2Fng.3714
+  ref 'Lotta_et_al_11_14_2016
+    head = Insulin resistance is a key mediator of obesity-related cardiometabolic disease, yet the mechanisms underlying this link remain obscure. Using an integrative genomic approach, we identify 53 genomic regions associated with insulin resistance phenotypes (higher fasting insulin adjusted for BMI, lower HDL cholesterol and higher triglycerides) and provide evidence that their link with higher cardiometabolic risk is underpinned by an association with lower adipose mass in peripheral compartments.
+
+    > Abstract
+      Insulin resistance is a key mediator of obesity-related cardiometabolic disease, yet the mechanisms underlying this link remain obscure. Using an integrative genomic approach, we identify 53 genomic regions associated with insulin resistance phenotypes (higher fasting insulin adjusted for BMI, lower HDL cholesterol and higher triglycerides) and provide evidence that their link with higher cardiometabolic risk is underpinned by an association with lower adipose mass in peripheral compartments. Using these 53 loci, we show a polygenic contribution to familial partial lipodystrophy-type 1, a severe form of insulin resistance, and highlight shared molecular mechanisms between common/mild and rare/severe insulin resistance. Population-level genetic analyses combined with experiments in cellular models implicate CCDC92, DNAH10 and L3MBTL3 as previously unrecognised molecules influencing adipocyte differentiation. Our findings support the notion that limited storage capacity of peripheral adipose tissue is an important aetiological component in insulin-resistant cardiometabolic disease and highlight genes and mechanisms underpinning this link.
+
+    - quotes
+      !a
+
+    / Nov, 2016 - Nat Genet.
+    quote !a = Limited storage capacity of peripheral adipose tissue is an important aetiological component in insulin-resistant cardiometabolic disease and highlight genes and mechanisms underpinning this link.
+
+  // A satiety index of common foods
+  doi: https://doi.org/xyz
+  ref 'Holt_et_al_09_1995
+    head = The aim of this study was to produce a validated satiety index of common foods. Isoenergetic 1000 kJ (240 kcal) servings of 38 foods separated into six food categories (fruits, bakery products, snack foods, carbohydrate-rich foods, protein-rich foods, breakfast cereals) were fed to groups of 11-13 subjects. Satiety ratings were obtained every 15 min over 120 min after which subjects were free to eat ad libitum from a standard range of foods and drinks.
+
+    > Objective:
+      The aim of this study was to produce a validated satiety index of common foods.
+
+    > Design and subjects:
+      Isoenergetic 1000 kJ (240 kcal) servings of 38 foods separated into six food categories (fruits, bakery products, snack foods, carbohydrate-rich foods, protein-rich foods, breakfast cereals) were fed to groups of 11-13 subjects. Satiety ratings were obtained every 15 min over 120 min after which subjects were free to eat ad libitum from a standard range of foods and drinks. A satiety index (SI) score was calculated by dividing the area under the satiety response curve (AUC) for the test food by the group mean satiety AUC for white bread and multiplying by 100. Thus, white bread had an SI score of 100% and the SI scores of the other foods were expressed as a percentage of white bread.
+
+    > Results:
+      There were significant differences in satiety both within and between the six food categories. The highest SI score was produced by boiled potatoes (323 +/- 51%) which was seven-fold higher than the lowest SI score of the croissant (47 +/- 17%). Most foods (76%) had an SI score greater than or equal to white bread. The amount of energy eaten immediately after 120 min correlated negatively with the mean satiety AUC responses (r = -0.37, P < 0.05, n = 43) thereby supporting the subjective satiety ratings. SI scores correlated positively with the serving weight of the foods (r = 0.66, P < 0.001, n = 38) and negatively with palatability ratings (r = -0.64, P < 0.001, n = 38). Protein, fibre, and water contents of the test foods correlated positively with SI scores (r = 0.37, P < 0.05, n = 38; r = 0.46, P < 0.01; and r = 0.64, P < 0.001; respectively) whereas fat content was negatively associated (r = -0.43, P < 0.01).
+
+    > Conclusion:
+      The results show that isoenergetic servings of different foods differ greatly in their satiating capacities. This is relevant to the treatment and prevention of overweight and obesity.
+
+    - quotes
+      !a
+
+    / September, 1995 - Eur J Clin Nutr.
+    quote !a = The results show that isoenergetic servings of different foods differ greatly in their satiating capacities. This is relevant to the treatment and prevention of overweight and obesity.
+
+  // Interrelationships among postprandial satiety, glucose and insulin responses and changes in subsequent food intake
+  doi: https://pubmed.ncbi.nlm.nih.gov/8968699/
+  ref 'Holt_et_al_12_1996
+    head = The aim of this study was to investigate whether postprandial glucose and insulin responses were related to concurrent changes in satiety. Thirty-eight common foods, grouped into six food categories, were tested in total. Each food category was fed to a separate group of subjects. A within-subjects repeated-measures design was used such that within each food category each subject consumed all of the test foods in random order.
+
+    > Objective:
+      The aim of this study was to investigate whether postprandial glucose and insulin responses were related to concurrent changes in satiety.
+
+    > Design:
+      Thirty-eight common foods, grouped into six food categories, were tested in total. Each food category was fed to a separate group of subjects. A within-subjects repeated-measures design was used such that within each food category each subject consumed all of the test foods in random order.
+
+    > Setting:
+      The study was conducted at the Human Nutrition Research Unit, Sydney University.
+
+    > Subjects:
+      Separate groups of 11-13 healthy young subjects, who were unrestrained eaters, were recruited for each of the six food categories.
+
+    > Interventions:
+      Isoenergetic 1000 kJ (240 kcal) portions of the test foods were fed to fasting subjects. Fingerprick blood samples and satiety ratings were obtained every 15 min over 120 min after which a standard meal was presented and ad libitum food intake was recorded. A glycaemic score, insulin index and satiety index score was calculated for each food by dividing the area under the 120 min response curve (AUC) for the test food by the AUC for white bread and multiplying by 100. Expressing the results of the test foods relative to those for white bread minimised the confounding influence of inherent differences between the subjects.
+
+    >  Results:
+      Among the 38 test foods, there were no significant relationships between satiety and plasma glucose or insulin responses. However, a negative correlation was found between insulin AUC responses and ad libitum food intake at 120 min which suggests that test foods producing a higher insulin response within 120 min were associated with less food intake and thus indirectly greater satiety. This result is consistent with previous findings that carbohydrate-rich foods are more satiating than fat-rich foods. Thus, total carbohydrate content appears to have been a stronger determinant of short-term satiety, in conjunction with the foods structural characteristics, than the foods glycaemic impact.
+
+    > Conclusions:
+      The total amount of carbohydrate consumed at a meal and subsequent insulinaemia may partly determine the degree of hunger arising within the next 2 h.
+
+    - quotes
+      !a
+      !b
+
+    / Dec, 1996 - Eur J Clin Nutr
+    quote !a = Among the 38 test foods, there were no significant relationships between satiety and plasma glucose or insulin responses. However, a negative correlation was found between insulin AUC responses and ad libitum food intake at 120 min which suggests that test foods producing a higher insulin response within 120 min were associated with less food intake and thus indirectly greater satiety.
+
+    / Dec, 1996 - Eur J Clin Nutr
+    quote !b = This result is consistent with previous findings that carbohydrate-rich foods are more satiating than fat-rich foods. Thus, total carbohydrate content appears to have been a stronger determinant of short-term satiety, in conjunction with the foods structural characteristics, than the foods glycaemic impact.
+
+  // Normal weight individuals who develop Type 2 diabetes: the personal fat threshold
+  doi: https://doi.org/10.1042/CS20140553
+  ref 'Taylor_et_al_12_09_2014
+    head = We hypothesize that each individual has a personal fat threshold (PFT) which, if exceeded, makes likely the development of T2DM. Subsequent weight loss to take the individual below their level of susceptibility should allow return to normal glucose control. Crucially, the hypothesized PFT is independent of BMI.
+
+    > Abstract
+      Type 2 diabetes (T2DM) is frequently regarded as a disease of obesity and its occurrence in individuals of normal body mass index (BMI) is often regarded as indicating a non-obesity-related subtype. However, the evidence for such a distinct, common subtype is lacking. The United Kingdom Prospective Diabetes Study (UKPDS) cohort of people diagnosed with T2DM in the 1970s and 1980s had a median BMI of only 28 kg/m2. UKPDS data form the basis of current understanding of the condition even though one in three of those studied had a BMI of less than 25 kg/m2. BMI, though, is a population measure and not a rigid personal guide. Weight loss is considered de rigueur for treating obese diabetic individuals, but it is not usually considered for those deemed to have a normal BMI. Given the new evidence that early T2DM can be reversed to normal glucose tolerance by substantial weight loss, it is important to explain why non-overweight people respond to this intervention as well as obese individuals. We hypothesize that each individual has a personal fat threshold (PFT) which, if exceeded, makes likely the development of T2DM. Subsequent weight loss to take the individual below their level of susceptibility should allow return to normal glucose control. Crucially, the hypothesized PFT is independent of BMI. It allows both understanding of development of T2DM in the non-obese and remission of diabetes after substantial weight loss in people who remain obese by definition. To illustrate this concept, we present the distribution curve of BMI at diagnosis for the UKPDS cohort, together with a diagram explaining individual behaviour within the population. The concept of PFT is of practical benefit in explaining the onset of diabetes and its logical management to the non-obese majority of people with T2DM.
+
+    - quotes
+      !a
+
+    / December, 2009 - Hypothesis
+    quote !a =
+
+  // Downregulation of Adipose Tissue Fatty Acid Trafficking in Obesity
+  doi: https://doi.org/10.2337/db10-0867
+  ref 'McQuaid_et_al_01_2011
+    head = To investigate this we used a whole-body integrative physiological approach with multiple and simultaneous stable-isotope fatty acid tracers to assess delivery and transport of endogenous and exogenous fatty acid in adipose tissue over a diurnal cycle in lean (n = 9) and abdominally obese men (n = 10).
+
+    > OBJECTIVE
+      Lipotoxicity and ectopic fat deposition reduce insulin signaling. It is not clear whether excess fat deposition in nonadipose tissue arises from excessive fatty acid delivery from adipose tissue or from impaired adipose tissue storage of ingested fat.
+
+    > RESEARCH DESIGN AND METHODS
+      To investigate this we used a whole-body integrative physiological approach with multiple and simultaneous stable-isotope fatty acid tracers to assess delivery and transport of endogenous and exogenous fatty acid in adipose tissue over a diurnal cycle in lean (n = 9) and abdominally obese men (n = 10).
+
+    > RESULTS
+      Abdominally obese men had substantially (2.5-fold) greater adipose tissue mass than lean control subjects, but the rates of delivery of nonesterified fatty acids (NEFA) were downregulated, resulting in normal systemic NEFA concentrations over a 24-h period. However, adipose tissue fat storage after meals was substantially depressed in the obese men. This was especially so for chylomicron-derived fatty acids, representing the direct storage pathway for dietary fat. Adipose tissue from the obese men showed a transcriptional signature consistent with this impaired fat storage function.
+
+    > CONCLUSIONS
+      Enlargement of adipose tissue mass leads to an appropriate downregulation of systemic NEFA delivery with maintained plasma NEFA concentrations. However the implicit reduction in adipose tissue fatty acid uptake goes beyond this and shows a maladaptive response with a severely impaired pathway for direct dietary fat storage. This adipose tissue response to obesity may provide the pathophysiological basis for ectopic fat deposition and lipotoxicity.
+
+    - quotes
+      !a
+
+    / Jan, 2011 - Diabetes
+    quote !a = Enlargement of adipose tissue mass leads to an appropriate downregulation of systemic NEFA delivery with maintained plasma NEFA concentrations. However the implicit reduction in adipose tissue fatty acid uptake goes beyond this and shows a maladaptive response with a severely impaired pathway for direct dietary fat storage. This adipose tissue response to obesity may provide the pathophysiological basis for ectopic fat deposition and lipotoxicity.
+
+  // Impaired postprandial clearance of triacylglycerol-rich lipoproteins in adipose tissue in obese subjects
+  doi: https://doi.org/10.1152/ajpendo.1995.268.4.E588
+  ref 'Potts_et_al_04_01_1995
+    head = Adipose tissue is an important site of clearance of circulating triacylglycerol (TAG), especially in the postprandial period. Postprandial lipemia is usually increased in obesity. We studied the extraction of TAG from plasma and TAG-rich lipoproteins (TRLs) in subcutaneous adipose tissue in 11 control and 8 obese subjects before and after a mixed meal.
+
+    > Abstract
+      Adipose tissue is an important site of clearance of circulating triacylglycerol (TAG), especially in the postprandial period. Postprandial lipemia is usually increased in obesity. We studied the extraction of TAG from plasma and TAG-rich lipoproteins (TRLs) in subcutaneous adipose tissue in 11 control and 8 obese subjects before and after a mixed meal. Clearance of plasma TAG and very low-density lipoprotein (VLDL)-TAG was decreased in the obese subjects after an overnight fast. After the meal, chylomicron-TAG extraction increased in the control group whereas VLDL-TAG clearance decreased; these changes were not seen in the obese group, in whom the VLDL particles appeared to be better able to compete with the chylomicrons for clearance by lipoprotein lipase. In the control subjects, removal of TAG from the TRL in the postprandial period was accompanied by a shift toward addition of cholesterol to the high-density lipoprotein (HDL) fraction; this was not observed in the obese subjects. We conclude that disturbed TRL-TAG clearance in adipose tissue is related both to the elevated plasma TAG concentrations and the depressed HDL-cholesterol concentrations typical of obesity.
+
+    - quotes
+      !a
+
+    / April, 1995 - Endocrinology and Metabolism
+    quote !a = Disturbed TRL(TAG-rich lipoprotein)-TAG(triacylglycerol) clearance in adipose tissue is related both to the elevated plasma TAG concentrations and the depressed HDL(high-density lipoprotein)-cholesterol concentrations typical of obesity.
+
+  // Mechanisms of hyperglycemia-induced insulin resistance in whole body and skeletal muscle of type I diabetic patients
+  doi: https://doi.org/10.2337/diab.41.5.571
+  ref 'Vuorinen-Markkola_et_al_05_1992
+    head = To examine the mechanisms of hyperglycemia-induced insulin resistance, eight insulin-dependent (type I) diabetic men were studied twice, after 24 h of hyperglycemia (mean blood glucose 20.0 +/- 0.3 mM, i.v. glucose) and after 24 h of normoglycemia (7.1 +/- 0.4 mM, saline) while receiving identical diets and insulin doses.
+
+    > Abstract
+      To examine the mechanisms of hyperglycemia-induced insulin resistance, eight insulin-dependent (type I) diabetic men were studied twice, after 24 h of hyperglycemia (mean blood glucose 20.0 +/- 0.3 mM, i.v. glucose) and after 24 h of normoglycemia (7.1 +/- 0.4 mM, saline) while receiving identical diets and insulin doses. Whole-body and forearm glucose uptake were determined during a 300-min insulin infusion (serum free insulin 359 +/- 22 and 373 +/- 29 pM, after hyper- and normoglycemia, respectively). Muscle biopsies were taken before and at the end of the 300-min insulin infusion. Plasma glucose levels were maintained constant during the 300-min period by keeping glucose for 150 min at 16.7 +/- 0.1 mM after 24-h hyperglycemia and increasing it to 16.5 +/- 0.1 mM after normoglycemia and by allowing it thereafter to decrease in both studies to normoglycemia. During the normoglycemic period (240-300 min), total glucose uptake (25.0 +/- 2.8 vs. 33.8 +/- 3.9 mumol.kg-1 body wt.min-1, P less than 0.05) was 26% lower, forearm glucose uptake (11 +/- 4 vs. 18 +/- 3 mumol.kg-1 forearm.min-1, P less than 0.05) was 35% lower, and nonoxidative glucose disposal (8.9 +/- 2.2 vs. 19.4 +/- 3.3 mumol.kg-1 body wt-1min-1, P less than 0.01) was 54% lower after 24 h of hyper- and normoglycemia, respectively. Glucose oxidation rates were similar. Basal muscle glycogen content was similar after 24 h of hyperglycemia (234 +/- 23 mmol/kg dry muscle) and normoglycemia (238 +/- 22 mmol/kg dry muscle). Insulin increased muscle glycogen to 273 +/- 22 mmol/kg dry muscle after 24 h of hyperglycemia and to 296 +/- 33 mmol/kg dry muscle after normoglycemia (P less than 0.05 vs. 0 min for both). Muscle ATP, free glucose, glucose-6-phosphate, and fructose-6-phosphate concentrations were similar after both 24-h treatment periods and did not change in response to insulin. We conclude that a marked decrease in whole-body, muscle, and nonoxidative glucose disposal can be induced by hyperglycemia alone.
+
+    - quotes
+      !a
+
+    / May, 1992 - Diabetes
+    quote !a = Insulin increased muscle glycogen to 273 +/- 22 mmol/kg dry muscle after 24 h of hyperglycemia and to 296 +/- 33 mmol/kg dry muscle after normoglycemia (P less than 0.05 vs. 0 min for both). Muscle ATP, free glucose, glucose-6-phosphate, and fructose-6-phosphate concentrations were similar after both 24-h treatment periods and did not change in response to insulin.
+
+  // Mechanism of free fatty acid-induced insulin resistance in humans
+  doi: https://www.jci.org/articles/view/118742
+  ref 'Roden_et_al_06_15_1996
+    head = To examine the mechanism by which lipids cause insulin resistance in humans, skeletal muscle glycogen and glucose-6-phosphate concentrations were measured every 15 min by simultaneous 13C and 31P nuclear magnetic resonance spectroscopy in nine healthy subjects in the presence of low (0.18 +/- 0.02 mM [mean +/- SEM]; control) or high (1.93 +/- 0.04 mM; lipid infusion) plasma free fatty acid levels under euglycemic (approximately 5.2 mM) hyperinsulinemic (approximately 400 pM) clamp conditions for 6 h.
+
+    > Abstract
+      To examine the mechanism by which lipids cause insulin resistance in humans, skeletal muscle glycogen and glucose-6-phosphate concentrations were measured every 15 min by simultaneous 13C and 31P nuclear magnetic resonance spectroscopy in nine healthy subjects in the presence of low (0.18 +/- 0.02 mM [mean +/- SEM]; control) or high (1.93 +/- 0.04 mM; lipid infusion) plasma free fatty acid levels under euglycemic (approximately 5.2 mM) hyperinsulinemic (approximately 400 pM) clamp conditions for 6 h. During the initial 3.5 h of the clamp the rate of whole-body glucose uptake was not affected by lipid infusion, but it then decreased continuously to be approximately 46% of control values after 6 h (P < 0.00001). Augmented lipid oxidation was accompanied by a approximately 40% reduction of oxidative glucose metabolism starting during the third hour of lipid infusion (P < 0.05). Rates of muscle glycogen synthesis were similar during the first 3 h of lipid and control infusion, but thereafter decreased to approximately 50% of control values (4.0 +/- 1.0 vs. 9.3 +/- 1.6 mumol/[kg.min], P < 0.05). Reduction of muscle glycogen synthesis by elevated plasma free fatty acids was preceded by a fall of muscle glucose-6-phosphate concentrations starting at approximately 1.5 h (195 +/- 25 vs. control: 237 +/- 26 mM; P < 0.01). Therefore in contrast to the originally postulated mechanism in which free fatty acids were thought to inhibit insulin-stimulated glucose uptake in muscle through initial inhibition of pyruvate dehydrogenase these results demonstrate that free fatty acids induce insulin resistance in humans by initial inhibition of glucose transport/phosphorylation which is then followed by an approximately 50% reduction in both the rate of muscle glycogen synthesis and glucose oxidation.
+
+    - quotes
+      !a
+
+    / June, 1996 - The Journal of clinical investigation
+    quote !a = Free fatty acids induce insulin resistance in humans by initial inhibition of glucose transport/phosphorylation which is then followed by an approximately 50% reduction in both the rate of muscle glycogen synthesis and glucose oxidation.
+
+  // Mitochondrial Overload and Incomplete Fatty Acid Oxidation Contribute to Skeletal Muscle Insulin Resistance
+  doi: https://doi.org/10.1016/j.cmet.2007.10.013
+  ref 'Koves_et_al_01_01_2008
+    head = Previous studies have suggested that insulin resistance develops secondary to diminished fat oxidation and resultant accumulation of cytosolic lipid molecules that impair insulin signaling. Contrary to this model, the present study used targeted metabolomics to find that obesity-related insulin resistance in skeletal muscle is characterized by excessive β-oxidation, impaired switching to carbohydrate substrate during the fasted-to-fed transition, and coincident depletion of organic acid intermediates of the tricarboxylic acid cycle.
+
+    > Abstract
+      Previous studies have suggested that insulin resistance develops secondary to diminished fat oxidation and resultant accumulation of cytosolic lipid molecules that impair insulin signaling. Contrary to this model, the present study used targeted metabolomics to find that obesity-related insulin resistance in skeletal muscle is characterized by excessive β-oxidation, impaired switching to carbohydrate substrate during the fasted-to-fed transition, and coincident depletion of organic acid intermediates of the tricarboxylic acid cycle. In cultured myotubes, lipid-induced insulin resistance was prevented by manipulations that restrict fatty acid uptake into mitochondria. These results were recapitulated in mice lacking malonyl-CoA decarboxylase (MCD), an enzyme that promotes mitochondrial β-oxidation by relieving malonyl-CoA-mediated inhibition of carnitine palmitoyltransferase 1. Thus, mcd−/− mice exhibit reduced rates of fat catabolism and resist diet-induced glucose intolerance despite high intramuscular levels of long-chain acyl-CoAs. These findings reveal a strong connection between skeletal muscle insulin resistance and lipid-induced mitochondrial stress.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / January, 2001 - Cell Metabolism
+    quote !a = In cultured myotubes, lipid-induced insulin resistance was prevented by manipulations that restrict fatty acid uptake into mitochondria.
+
+    / January, 2001 - Cell Metabolism
+    quote !b = These results were recapitulated in mice lacking malonyl-CoA decarboxylase (MCD), an enzyme that promotes mitochondrial β-oxidation by relieving malonyl-CoA-mediated inhibition of carnitine palmitoyltransferase 1. Thus, mcd−/− mice exhibit reduced rates of fat catabolism and resist diet-induced glucose intolerance despite high intramuscular levels of long-chain acyl-CoAs.
+
+    / January, 2001 - Cell Metabolism
+    quote !c = These findings reveal a strong connection between skeletal muscle insulin resistance and lipid-induced mitochondrial stress.
+
+  // Mechanism of amino acid-induced skeletal muscle insulin resistance in humans
+  doi: https://doi.org/xyz
+  ref 'Krebs_et_al_03_2002
+    head = This study examined effects of short-term plasma amino acid (AA) elevation on whole-body glucose disposal and cellular insulin action in skeletal muscle.
+
+    > Abstract
+      Plasma concentrations of amino acids are frequently elevated in insulin-resistant states, and a protein-enriched diet can impair glucose metabolism. This study examined effects of short-term plasma amino acid (AA) elevation on whole-body glucose disposal and cellular insulin action in skeletal muscle. Seven healthy men were studied for 5.5 h during euglycemic (5.5 mmol/l), hyperinsulinemic (430 pmol/l), fasting glucagon (65 ng/l), and growth hormone (0.4 microg/l) somatostatin clamp tests in the presence of low (approximately 1.6 mmol/l) and increased (approximately 4.6 mmol/l) plasma AA concentrations. Glucose turnover was measured with D-[6,6-(2)H(2)]glucose. Intramuscular concentrations of glycogen and glucose-6-phosphate (G6P) were monitored using (13)C and (31)P nuclear magnetic resonance spectroscopy, respectively. A approximately 2.1-fold elevation of plasma AAs reduced whole-body glucose disposal by 25% (P < 0.01). Rates of muscle glycogen synthesis decreased by 64% (180--315 min, 24 plus minus 3; control, 67 plus minus 10 micromol center dot l(-1) center dot min(-1); P < 0.01), which was accompanied by a reduction in G6P starting at 130 min (DeltaG6P(260--300 min), 18 plus minus 19; control, 103 plus minus 33 micromol/l; P < 0.05). In conclusion, plasma amino acid elevation induces skeletal muscle insulin resistance in humans by inhibition of glucose transport/phosphorylation, resulting in marked reduction of glycogen synthesis.
+
+    - quotes
+      !a
+
+    / March, 2002 - Diabetes
+    quote !a = Plasma amino acid elevation induces skeletal muscle insulin resistance in humans by inhibition of glucose transport/phosphorylation, resulting in marked reduction of glycogen synthesis.
+
+  // Free fatty acids in obesity and type 2 diabetes: defining their role in the development of insulin resistance and β-cell dysfunction
+  doi: https://doi.org/10.1046/j.1365-2362.32.s3.3.x
+  ref 'Boden_et_al_05_16_2002
+    head = Evidence is discussed that FFA (free fatty acids) represent a crucial link between insulin resistance and β-cell dysfunction and, as such, a reduction in elevated plasma FFA should be an important therapeutic target in obesity and type 2 diabetes.
+
+    > Abstract
+      Plasma free fatty acids (FFA) play important physiological roles in skeletal muscle, heart, liver and pancreas. However, chronically elevated plasma FFA appear to have pathophysiological consequences. Elevated FFA concentrations are linked with the onset of peripheral and hepatic insulin resistance and, while the precise action in the liver remains unclear, a model to explain the role of raised FFA in the development of skeletal muscle insulin resistance has recently been put forward. Over 30 years ago, Randle proposed that FFA compete with glucose as the major energy substrate in cardiac muscle, leading to decreased glucose oxidation when FFA are elevated. Recent data indicate that high plasma FFA also have a significant role in contributing to insulin resistance. Elevated FFA and intracellular lipid appear to inhibit insulin signalling, leading to a reduction in insulin-stimulated muscle glucose transport that may be mediated by a decrease in GLUT-4 translocation. The resulting suppression of muscle glucose transport leads to reduced muscle glycogen synthesis and glycolysis. In the liver, elevated FFA may contribute to hyperglycaemia by antagonizing the effects of insulin on endogenous glucose production. FFA also affect insulin secretion, although the nature of this relationship remains a subject for debate. Finally, evidence is discussed that FFA represent a crucial link between insulin resistance and β-cell dysfunction and, as such, a reduction in elevated plasma FFA should be an important therapeutic target in obesity and type 2 diabetes.
+
+    - quotes
+      !a
+
+    / May, 2002 - European Journal of Clinical Investigations
+    quote !a = High plasma FFA also have a significant role in contributing to insulin resistance.
+
+  // Glucose-induced insulin resistance of skeletal-muscle glucose transport and uptake
+  doi: https://doi.org/10.1042/bj2520733
+  ref 'Richter_et_al_06_15_1988
+    head = The ability of glucose and insulin to modify insulin-stimulated glucose transport and uptake was investigated in perfused skeletal muscle. Here we report that perfusion of isolated rat hindlimbs for 5 h with 12 mM-glucose and 20,000 microunits of insulin/ml leads to marked, rapidly developing, impairment of insulin action on muscle glucose transport and uptake.
+
+    > Abstract
+      The ability of glucose and insulin to modify insulin-stimulated glucose transport and uptake was investigated in perfused skeletal muscle. Here we report that perfusion of isolated rat hindlimbs for 5 h with 12 mM-glucose and 20,000 microunits of insulin/ml leads to marked, rapidly developing, impairment of insulin action on muscle glucose transport and uptake. Thus maximal insulin-stimulated glucose uptake at 12 mM-glucose decreased from 34.8 +/- 1.9 to 11.5 +/- 1.1 mumol/h per g (mean +/- S.E.M., n = 10) during 5 h perfusion. This decrease in glucose uptake was accompanied by a similar change in muscle glucose transport as measured by uptake of 3-O-[14C]-methylglucose. Simultaneously, muscle glycogen stores increased to 2-3.5 times initial values, depending on fibre type. Perfusion for 5 h in the presence of glucose but in the absence of insulin decreased subsequent insulin action on glucose uptake by 80% of the effect of glucose with insulin, but without an increase in muscle glycogen concentration. Perfusion for 5 h with insulin but without glucose, and with subsequent addition of glucose back to the perfusate, revealed glucose uptake and transport similar to initial values obtained in the presence of glucose and insulin. The data indicate that exposure to a moderately increased glucose concentration (12 mM) leads to rapidly developing resistance of skeletal-muscle glucose transport and uptake to maximal insulin stimulation. The effect of glucose is enhanced by simultaneous insulin exposure, whereas exposure for 5 h to insulin itself does not cause measurable resistance to maximal insulin stimulation.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 1988 - Biochem J
+    quote !a = Perfusion for 5 h in the presence of glucose but in the absence of insulin decreased subsequent insulin action on glucose uptake by 80% of the effect of glucose with insulin, but without an increase in muscle glycogen concentration.
+
+    / June, 1988 - Biochem J
+    quote !b = Perfusion for 5 h with insulin but without glucose, and with subsequent addition of glucose back to the perfusate, revealed glucose uptake and transport similar to initial values obtained in the presence of glucose and insulin.
+
+    / June, 1988 - Biochem J
+    quote !c = The data indicate that exposure to a moderately increased glucose concentration (12 mM) leads to rapidly developing resistance of skeletal-muscle glucose transport and uptake to maximal insulin stimulation. The effect of glucose is enhanced by simultaneous insulin exposure, whereas exposure for 5 h to insulin itself does not cause measurable resistance to maximal insulin stimulation.
+
+  // Insulin resistance is a cellular antioxidant defense mechanism
+  doi: https://doi.org/10.1073/pnas.0902380106
+  ref 'Hoehn_et_al_10_20_2009
+    head = We provide evidence that mitochondrial superoxide production is a common feature of many different models of insulin resistance in adipocytes, myotubes, and mice. In particular, insulin resistance was rapidly reversible upon exposure to agents that act as mitochondrial uncouplers, ETC inhibitors, or mitochondrial superoxide dismutase (MnSOD) mimetics.
+
+    > Abstract
+      We know a great deal about the cellular response to starvation via AMPK, but less is known about the reaction to nutrient excess. Insulin resistance may be an appropriate response to nutrient excess, but the cellular sensors that link these parameters remain poorly defined. In the present study we provide evidence that mitochondrial superoxide production is a common feature of many different models of insulin resistance in adipocytes, myotubes, and mice. In particular, insulin resistance was rapidly reversible upon exposure to agents that act as mitochondrial uncouplers, ETC inhibitors, or mitochondrial superoxide dismutase (MnSOD) mimetics. Similar effects were observed with overexpression of mitochondrial MnSOD. Furthermore, acute induction of mitochondrial superoxide production using the complex III antagonist antimycin A caused rapid attenuation of insulin action independently of changes in the canonical PI3K/Akt pathway. These results were validated in vivo in that MnSOD transgenic mice were partially protected against HFD induced insulin resistance and MnSOD+/− mice were glucose intolerant on a standard chow diet. These data place mitochondrial superoxide at the nexus between intracellular metabolism and the control of insulin action potentially defining this as a metabolic sensor of energy excess.
+
+    - quotes
+      !a
+
+    / October, 2009 - PNAS
+    quote !a = In summary, the fact that mitochondrial O2•− is upstream of IR is of major significance suggesting that IR may be part of the antioxidant defense mechanism to protect cells from further oxidative damage. Thus, IR may be viewed as an appropriate response to increased nutrient accumulation, representing part of the cells attempt to return to an energy neutral situation.
+
+  // Comparison of Effects of High and Low Carbohydrate Diets on Plasma Lipoproteins and Insulin Sensitivity in Patients With Mild NIDDM
+  doi: https://doi.org/10.2337/diab.41.10.1278
+  ref 'Garg_et_al_10_1992
+    head =  This study compares responses to an isocaloric high-carbohydrate diet (60% of total energy from carbohydrates) and a low-carbohydrate diet (35% of total energy from carbohydrates) in 8 men with mild NIDDM (Non-insulin-dependent diabetes mellitus). Both diets were low in saturated fatty acids, whereas the low-carbohydrate diet was rich in monounsaturated fatty acids. The two diets were matched for dietary fiber content (25 g/day). All patients were randomly assigned to receive first one and then the other diet, each for a period of 21 days, in a metabolic ward.
+
+    > Abstract
+      Previous studies indicate that diets rich in digestible carbohydrates improve glucose tolerance in nondiabetic individuals, but may worsen glycemic control in NIDDM patients with moderately severe hyperglycemia. The effects of such high-carbohydrate diets on glucose metabolism in patients with mild NIDDM have not been studied adequately. This study compares responses to an isocaloric high-carbohydrate diet (60% of total energy from carbohydrates) and a low-carbohydrate diet (35% of total energy from carbohydrates) in 8 men with mild NIDDM. Both diets were low in saturated fatty acids, whereas the low-carbohydrate diet was rich in monounsaturated fatty acids. The two diets were matched for dietary fiber content (25 g/day). All patients were randomly assigned to receive first one and then the other diet, each for a period of 21 days, in a metabolic ward. Compared with the low-carbohydrate diet, the high-carbohydrate diet caused a 27.5% increase in plasma triglycerides and a similar increase in VLDL-cholesterol levels; it also reduced levels of HDL cholesterol by 11%. Plasma glucose and insulin responses to identical standard breakfast meals were studied on days 4 and 21 of each period, and these did not differ significantly between the two diets. At the end of each period, a euglycemic hyperinsulinemic glucose clamp study with simultaneous infusion of [3-3H]glucose revealed no significant changes in hepatic insulin sensitivity; and peripheral insulin-mediated glucose disposal remained unchanged (14.7 ± 1.4 vs. 16.5 ± 2.3 μM · kg−1 · min−1 on the high-carbohydrate and low-carbohydrate diets, respectively). We conclude that in patients with mild NIDDM, high-carbohydrate diets do not improve glycemic control nor insulin sensitivity, and they raise plasma triglyceride and VLDL-cholesterol concentrations and reduce HDL-cholesterol levels, which may not be desirable.
+
+    - quotes
+      !a
+
+    / October, 1992 - American Diabetes Association
+    quote !a = Patients with mild NIDDM, high-carbohydrate diets do not improve glycemic control nor insulin sensitivity, and they raise plasma triglyceride and VLDL-cholesterol concentrations and reduce HDL-cholesterol levels, which may not be desirable.
+
+  // Low-Fat Versus Low-Carbohydrate Weight Reduction Diets
+  doi: https://doi.org/10.2337/db09-0098
+  ref 'Bradley_et_al_12_2009
+    head = We investigated a low-fat (20% fat, 60% carbohydrate) versus a low-carbohydrate (60% fat, 20% carbohydrate) weight reduction diet in 24 overweight/obese subjects in an 8-week randomized controlled trial. All food was weighed and distributed, and intake was calculated to produce a 500 kcal/day energy deficit. Insulin action was assessed by the euglycemic clamp and insulin secretion by meal tolerance test. Body composition, adipokine levels, and vascular compliance by pulse-wave analysis were also measured.
+
+    > OBJECTIVE
+      Low-fat hypocaloric diets reduce insulin resistance and prevent type 2 diabetes in those at risk. Low-carbohydrate, high-fat diets are advocated as an alternative, but reciprocal increases in dietary fat may have detrimental effects on insulin resistance and offset the benefits of weight reduction.
+
+    > RESEARCH DESIGN AND METHODS
+      We investigated a low-fat (20% fat, 60% carbohydrate) versus a low-carbohydrate (60% fat, 20% carbohydrate) weight reduction diet in 24 overweight/obese subjects ([mean ± SD] BMI 33.6 ± 3.7 kg/m2, aged 39 ± 10 years) in an 8-week randomized controlled trial. All food was weighed and distributed, and intake was calculated to produce a 500 kcal/day energy deficit. Insulin action was assessed by the euglycemic clamp and insulin secretion by meal tolerance test. Body composition, adipokine levels, and vascular compliance by pulse-wave analysis were also measured.
+
+    > RESULTS
+      Significant weight loss occurred in both groups (P < 0.01), with no difference between groups (P = 0.40). Peripheral glucose uptake increased, but there was no difference between groups (P = 0.28), and suppression of endogenous glucose production was also similar between groups. Meal tolerance–related insulin secretion decreased with weight loss with no difference between groups (P = 0.71). The change in overall systemic arterial stiffness was, however, significantly different between diets (P = 0.04); this reflected a significant decrease in augmentation index following the low-fat diet, compared with a nonsignificant increase within the low-carbohydrate group.
+
+    > CONCLUSIONS
+      This study demonstrates comparable effects on insulin resistance of low-fat and low-carbohydrate diets independent of macronutrient content. The difference in augmentation index may imply a negative effect of low-carbohydrate diets on vascular risk.
+
+    - quotes
+      !a
+      !b
+
+    / Dec, 2009 - Diabetes
+    quote !a = Significant weight loss occurred in both groups, with no difference between groups. Peripheral glucose uptake increased, but there was no difference between groups, and suppression of endogenous glucose production was also similar between groups.
+
+    / Dec, 2009 - Diabetes
+    quote !b = Meal tolerance–related insulin secretion decreased with weight loss with no difference between groups. The change in overall systemic arterial stiffness was, however, significantly different between diets; this reflected a significant decrease in augmentation index following the low-fat diet, compared with a nonsignificant increase within the low-carbohydrate group.
+
   // The entero-insular axis and adipose tissue-related factors in the prediction of weight gain in humans
   doi: https://doi.org/10.1038/sj.ijo.0803500
   ref 'Hivert_et_al_11_28_2006

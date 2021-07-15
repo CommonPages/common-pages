@@ -20,9 +20,13 @@ subject Diabetes
 
   -
     !ExerciseRCT
+    !ExerciseRCT2
 
   >
     Weight loss via a temporary very-low-calorie diet durably puts type 2 (common) diabetes into remission
+
+  -
+    !Remission
 
 
 
