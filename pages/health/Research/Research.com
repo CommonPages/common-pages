@@ -29,6 +29,183 @@ feed Research
   - 1997
     'Pan_et_al_04_20_1997
 
+
+  // Carbs versus fat: does it really matter for maintaining lost weight?
+  doi: https://doi.org/10.1101/476655
+  ref 'Hall_et_al_01_24_2019
+    head = Analyzing the data according to the original pre-registered statistical plan resulted in no statistically significant effects of diet composition on energy expenditure.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / January, 2019 - bioRxiv
+    quote !a = The latest battle in the perpetual diet wars claimed that low carbohydrate diets offer a metabolic advantage to burn more calories and thereby help patients maintain lost weight. However, analyzing the data according to the original pre-registered statistical plan resulted in no statistically significant effects of diet composition on energy expenditure.
+
+    / January, 2019 - bioRxiv
+    quote !b = The large reported diet effect on expenditure calculated using the revised analysis plan depended on data from subjects with excessive amounts of unaccounted energy. Adjusting the data to be commensurate with energy conservation resulted in a diet effect that was less than half the value reported in the BMJ paper.
+
+    / January, 2019 - bioRxiv
+    quote !c = The measured daily average CO2 production rates were not significantly different between the diets and the reported expenditure differences were due to inaccurate calculations based on false assumptions about diet adherence.
+
+  // Effects of a low carbohydrate diet on energy expenditure during weight loss maintenance: randomized trial
+  doi: https://doi.org/10.1136/bmj.k4583
+  ref 'Ebbeling_et_al_11_14_2018
+    head = The primary outcome was total energy expenditure, measured with doubly labeled water, by intention-to-treat analysis. Per protocol analysis included participants who maintained target weight loss, potentially providing a more precise effect estimate. Secondary outcomes were resting energy expenditure, measures of physical activity, and levels of the metabolic hormones leptin and ghrelin.
+
+    > Objective
+      To determine the effects of diets varying in carbohydrate to fat ratio on total energy expenditure.
+
+    > Setting
+      Multicenter collaboration at US two sites, August 2014 to May 2017.
+
+    > Participants
+      164 adults aged 18-65 years with a body mass index of 25 or more.
+
+    > Interventions
+      After 12% (within 2%) weight loss on a run-in diet, participants were randomly assigned to one of three test diets according to carbohydrate content (high, 60%, n=54; moderate, 40%, n=53; or low, 20%, n=57) for 20 weeks. Test diets were controlled for protein and were energy adjusted to maintain weight loss within 2 kg. To test for effect modification predicted by the carbohydrate-insulin model, the sample was divided into thirds of pre-weight loss insulin secretion (insulin concentration 30 minutes after oral glucose).
+
+    > Main outcome measures
+      The primary outcome was total energy expenditure, measured with doubly labeled water, by intention-to-treat analysis. Per protocol analysis included participants who maintained target weight loss, potentially providing a more precise effect estimate. Secondary outcomes were resting energy expenditure, measures of physical activity, and levels of the metabolic hormones leptin and ghrelin.
+
+    > Results
+      Total energy expenditure differed by diet in the intention-to-treat analysis (n=162, P=0.002), with a linear trend of 52 kcal/d (95% confidence interval 23 to 82) for every 10% decrease in the contribution of carbohydrate to total energy intake (1 kcal=4.18 kJ=0.00418 MJ). Change in total energy expenditure was 91 kcal/d (95% confidence interval −29 to 210) greater in participants assigned to the moderate carbohydrate diet and 209 kcal/d (91 to 326) greater in those assigned to the low carbohydrate diet compared with the high carbohydrate diet. In the per protocol analysis (n=120, P<0.001), the respective differences were 131 kcal/d (−6 to 267) and 278 kcal/d (144 to 411). Among participants in the highest third of pre-weight loss insulin secretion, the difference between the low and high carbohydrate diet was 308 kcal/d in the intention-to-treat analysis and 478 kcal/d in the per protocol analysis (P<0.004). Ghrelin was significantly lower in participants assigned to the low carbohydrate diet compared with those assigned to the high carbohydrate diet (both analyses). Leptin was also significantly lower in participants assigned to the low carbohydrate diet (per protocol).
+
+    > Conclusions
+      Consistent with the carbohydrate-insulin model, lowering dietary carbohydrate increased energy expenditure during weight loss maintenance. This metabolic effect may improve the success of obesity treatment, especially among those with high insulin secretion.
+
+    - quotes
+      !a
+
+    / Nov, 2018 - BMJ
+    quote !a = Consistent with the carbohydrate-insulin model, lowering dietary carbohydrate increased energy expenditure during weight loss maintenance. This metabolic effect may improve the success of obesity treatment, especially among those with high insulin secretion.
+
+  // Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion - The DIETFITS Randomized Clinical Trial
+  doi: https://doi.org/10.1001/jama.2018.0245
+  ref 'Gardner_et_al_02_20_2018
+    head = To determine the effect of a healthy low-fat (HLF) diet vs a healthy low-carbohydrate (HLC) diet on weight change and if genotype pattern or insulin secretion are related to the dietary effects on weight loss.
+
+    > Importance
+      Dietary modification remains key to successful weight loss. Yet, no one dietary strategy is consistently superior to others for the general population. Previous research suggests genotype or insulin-glucose dynamics may modify the effects of diets.
+
+    > Objective
+      To determine the effect of a healthy low-fat (HLF) diet vs a healthy low-carbohydrate (HLC) diet on weight change and if genotype pattern or insulin secretion are related to the dietary effects on weight loss.
+
+    > Design, Setting, and Participants
+      The Diet Intervention Examining The Factors Interacting with Treatment Success (DIETFITS) randomized clinical trial included 609 adults aged 18 to 50 years without diabetes with a body mass index between 28 and 40. The trial enrollment was from January 29, 2013, through April 14, 2015; the date of final follow-up was May 16, 2016. Participants were randomized to the 12-month HLF or HLC diet. The study also tested whether 3 single-nucleotide polymorphism multilocus genotype responsiveness patterns or insulin secretion (INS-30; blood concentration of insulin 30 minutes after a glucose challenge) were associated with weight loss.
+
+    > Interventions
+      Health educators delivered the behavior modification intervention to HLF (n = 305) and HLC (n = 304) participants via 22 diet-specific small group sessions administered over 12 months. The sessions focused on ways to achieve the lowest fat or carbohydrate intake that could be maintained long-term and emphasized diet quality.
+
+    > Main Outcomes and Measures
+      Primary outcome was 12-month weight change and determination of whether there were significant interactions among diet type and genotype pattern, diet and insulin secretion, and diet and weight loss.
+
+    >  Results
+      Among 609 participants randomized (mean age, 40 [SD, 7] years; 57% women; mean body mass index, 33 [SD, 3]; 244 [40%] had a low-fat genotype; 180 [30%] had a low-carbohydrate genotype; mean baseline INS-30, 93 μIU/mL), 481 (79%) completed the trial. In the HLF vs HLC diets, respectively, the mean 12-month macronutrient distributions were 48% vs 30% for carbohydrates, 29% vs 45% for fat, and 21% vs 23% for protein. Weight change at 12 months was −5.3 kg for the HLF diet vs −6.0 kg for the HLC diet (mean between-group difference, 0.7 kg [95% CI, −0.2 to 1.6 kg]). There was no significant diet-genotype pattern interaction (P = .20) or diet-insulin secretion (INS-30) interaction (P = .47) with 12-month weight loss. There were 18 adverse events or serious adverse events that were evenly distributed across the 2 diet groups.
+
+    > Conclusions and Relevance
+      In this 12-month weight loss diet study, there was no significant difference in weight change between a healthy low-fat diet vs a healthy low-carbohydrate diet, and neither genotype pattern nor baseline insulin secretion was associated with the dietary effects on weight loss. In the context of these 2 common weight loss diet approaches, neither of the 2 hypothesized predisposing factors was helpful in identifying which diet was better for whom.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2018 - JAMA
+    quote !a = Among 609 participants randomized, 481 (79%) completed the trial. In the HLF vs HLC diets, respectively, the mean 12-month macronutrient distributions were 48% vs 30% for carbohydrates, 29% vs 45% for fat, and 21% vs 23% for protein. Weight change at 12 months was −5.3 kg for the HLF diet vs −6.0 kg for the HLC diet.
+
+    / February, 2018 - JAMA
+    quote !b = There was no significant diet-genotype pattern interaction (P = .20) or diet-insulin secretion (INS-30) interaction (P = .47) with 12-month weight loss.
+
+  // Energy expenditure and body composition changes after an isocaloric ketogenic diet in overweight and obese men
+  doi: https://doi.org/10.3945/ajcn.116.133561
+  ref 'Hall_et_al_07_06_2016
+    head = We investigated whether an isocaloric low-carbohydrate ketogenic diet (KD) is associated with changes in EE, respiratory quotient (RQ), and body composition.
+
+    > Background:
+      The carbohydrate–insulin model of obesity posits that habitual consumption of a high-carbohydrate diet sequesters fat within adipose tissue because of hyperinsulinemia and results in adaptive suppression of energy expenditure (EE). Therefore, isocaloric exchange of dietary carbohydrate for fat is predicted to result in increased EE, increased fat oxidation, and loss of body fat. In contrast, a more conventional view that “a calorie is a calorie” predicts that isocaloric variations in dietary carbohydrate and fat will have no physiologically important effects on EE or body fat.
+
+    > Objective:
+      We investigated whether an isocaloric low-carbohydrate ketogenic diet (KD) is associated with changes in EE, respiratory quotient (RQ), and body composition.
+
+    > Design:
+      Seventeen overweight or obese men were admitted to metabolic wards, where they consumed a high-carbohydrate baseline diet (BD) for 4 wk followed by 4 wk of an isocaloric KD with clamped protein. Subjects spent 2 consecutive days each week residing in metabolic chambers to measure changes in EE (EEchamber), sleeping EE (SEE), and RQ. Body composition changes were measured by dual-energy X-ray absorptiometry. Average EE during the final 2 wk of the BD and KD periods was measured by doubly labeled water (EEDLW).
+
+    > Results:
+      Subjects lost weight and body fat throughout the study corresponding to an overall negative energy balance of ~300 kcal/d. Compared with BD, the KD coincided with increased EEchamber (57 ± 13 kcal/d, P = 0.0004) and SEE (89 ± 14 kcal/d, P < 0.0001) and decreased RQ (−0.111 ± 0.003, P < 0.0001). EEDLW increased by 151 ± 63 kcal/d (P = 0.03). Body fat loss slowed during the KD and coincided with increased protein utilization and loss of fat-free mass.
+
+    > Conclusion:
+      The isocaloric KD was not accompanied by increased body fat loss but was associated with relatively small increases in EE that were near the limits of detection with the use of state-of-the-art technology.
+
+    - quotes
+      !a
+      !b
+
+    / July, 2016 - The American Journal of Clinical Nutrition
+    quote !a = Subjects lost weight and body fat throughout the study corresponding to an overall negative energy balance of ~300 kcal/d. Compared with BD (Baseline Diet), the KD coincided with increased EEchamber and SEE (Sleeping EE) and decreased RQ. EEDLW increased by 151 ± 63 kcal/d (P = 0.03). Body fat loss slowed during the KD and coincided with increased protein utilization and loss of fat-free mass.
+
+    / July, 2016 - The American Journal of Clinical Nutrition
+    quote !b = The isocaloric KD was not accompanied by increased body fat loss but was associated with relatively small increases in EE that were near the limits of detection with the use of state-of-the-art technology.
+
+  // Genetic Evidence That Carbohydrate-Stimulated Insulin Secretion Leads to Obesity
+  doi: https://doi.org/10.1373/clinchem.2017.280727
+  ref 'Astley_et_al_01_01_2018
+    head = Genetic instruments of variation of insulin secretion [assessed as insulin concentration 30 min after oral glucose (insulin-30)] were used to estimate the causal relationship between increased insulin secretion and body mass index (BMI).
+
+    > BACKGROUND
+      A fundamental precept of the carbohydrate–insulin model of obesity is that insulin secretion drives weight gain. However, fasting hyperinsulinemia can also be driven by obesity-induced insulin resistance. We used genetic variation to isolate and estimate the potentially causal effect of insulin secretion on body weight.
+
+    > METHODS
+      Genetic instruments of variation of insulin secretion [assessed as insulin concentration 30 min after oral glucose (insulin-30)] were used to estimate the causal relationship between increased insulin secretion and body mass index (BMI), using bidirectional Mendelian randomization analysis of genome-wide association studies. Data sources included summary results from the largest published metaanalyses of predominantly European ancestry for insulin secretion (n = 26037) and BMI (n = 322154), as well as individual-level data from the UK Biobank (n = 138541). Data from the Cardiology and Metabolic Patient Cohort study at Massachusetts General Hospital (n = 1675) were used to validate genetic associations with insulin secretion and to test the observational association of insulin secretion and BMI.
+
+    > RESULTS
+      Higher genetically determined insulin-30 was strongly associated with higher BMI (β = 0.098, P = 2.2 × 10−21), consistent with a causal role in obesity. Similar positive associations were noted in sensitivity analyses using other genetic variants as instrumental variables. By contrast, higher genetically determined BMI was not associated with insulin-30.
+
+    > CONCLUSIONS
+      Mendelian randomization analyses provide evidence for a causal relationship of glucose-stimulated insulin secretion on body weight, consistent with the carbohydrate–insulin model of obesity.
+
+    - quotes
+      !a
+      !b
+
+    / January, 2018 - Clinical Chemistry
+    quote !a = Higher genetically determined insulin-30 was strongly associated with higher BMI (β = 0.098, P = 2.2 × 10−21), consistent with a causal role in obesity. Similar positive associations were noted in sensitivity analyses using other genetic variants as instrumental variables. By contrast, higher genetically determined BMI was not associated with insulin-30.
+
+    / January, 2018 - Clinical Chemistry
+    quote !b = Mendelian randomization analyses provide evidence for a causal relationship of glucose-stimulated insulin secretion on body weight, consistent with the carbohydrate–insulin model of obesity.
+
+  // Investigating the role of insulin in increased adiposity: Bi-directional Mendelian randomization study
+  doi: https://doi.org/10.1101/155739
+  ref 'Richmond_et_al_06_28_2017
+    head = We assessed the causal relationship between fasting insulin and adiposity using publicly-available results from two large-scale genome-wide association studies for body mass index and fasting insulin levels in a two-sample, bidirectional Mendelian Randomized approach.
+
+    > Abstract
+      Insulin may serve as a key causal agent which regulates fat accumulation in the body. Here we assessed the causal relationship between fasting insulin and adiposity using publicly-available results from two large-scale genome-wide association studies for body mass index and fasting insulin levels in a two-sample, bidirectional Mendelian Randomized approach. This approach is only valid on the condition that the two instruments are independent of one another. In analysis excluding overlapping loci, there was an increase of 0.20 (0.17, 0.23) log pmol/L fasting insulin per SD increase in BMI (P= 2.80 x 10−36), while there was a null effect of fasting insulin on BMI, with a 0.01 (−0.39, 0.38) SD decrease in BMI per log pmol/L increase in fasting insulin (P= 0.98). Furthermore, a high degree of heterogeneity in the causal estimates was obtained from the insulin-related variants, which may be attributed to varying mechanisms of action of the insulin-associated variants. Results were largely consistent when an Egger regression technique and weighted median and mode estimators were applied. Findings suggest that the positive correlation between adiposity and fasting insulin levels are at least in part explained by the causal effect of adiposity on increasing insulin, rather than vice versa.
+
+    - quotes
+      !a
+      !b
+
+    / June, 2017 - bioRxiv
+    quote !a = In analysis excluding overlapping loci, there was an increase of 0.20 (0.17, 0.23) log pmol/L fasting insulin per SD increase in BMI (P= 2.80 x 10−36), while there was a null effect of fasting insulin on BMI, with a 0.01 (−0.39, 0.38) SD decrease in BMI per log pmol/L increase in fasting insulin (P= 0.98).
+
+    / June, 2017 - bioRxiv
+    quote !b = The positive correlation between adiposity and fasting insulin levels are at least in part explained by the causal effect of adiposity on increasing insulin, rather than vice versa.
+
+  // Common genetic variants highlight the role of insulin resistance and body fat distribution in type 2 diabetes, independently of obesity
+  doi: https://dx.doi.org/10.2337%2Fdb14-0319
+  ref 'Scott_et_al_06_19_2014
+    head = We aimed to validate genetic variants as instruments for insulin resistance and secretion, to characterise their association with intermediate phenotypes, and to investigate their role in T2D risk among normal-weight, overweight and obese individuals.We investigated the association of genetic scores with euglycaemic-hyperinsulinaemic clamp- and OGTT-based measures of insulin resistance and secretion, and a range of metabolic measures in up to 18,565 individuals. We also studied their association with T2D risk among normal-weight, overweight and obese individuals in up to 8,124 incident T2D cases.
+
+    > Abstract
+      We aimed to validate genetic variants as instruments for insulin resistance and secretion, to characterise their association with intermediate phenotypes, and to investigate their role in T2D risk among normal-weight, overweight and obese individuals.We investigated the association of genetic scores with euglycaemic-hyperinsulinaemic clamp- and OGTT-based measures of insulin resistance and secretion, and a range of metabolic measures in up to 18,565 individuals. We also studied their association with T2D risk among normal-weight, overweight and obese individuals in up to 8,124 incident T2D cases. The insulin resistance score was associated with lower insulin sensitivity measured by M/I value (β in SDs-per-allele [95%CI]:−0.03[−0.04,−0.01];p=0.004). This score was associated with lower BMI (−0.01[−0.01,−0.0;p=0.02) and gluteofemoral fat-mass (−0.03[−0.05,−0.02;p=1.4×10−6), and with higher ALT (0.02[0.01,0.03];p=0.002) and gamma-GT (0.02[0.01,0.03];p=0.001). While the secretion score had a stronger association with T2D in leaner individuals (pinteraction=0.001), we saw no difference in the association of the insulin resistance score with T2D among BMI- or waist-strata(pinteraction>0.31). While insulin resistance is often considered secondary to obesity, the association of the insulin resistance score with lower BMI and adiposity and with incident T2D even among individuals of normal weight highlights the role of insulin resistance and ectopic fat distribution in T2D, independently of body size.
+
+    - quotes
+      !a
+
+    / June, 2014 - Diabetes
+    quote !a = While the secretion score had a stronger association with T2D in leaner individuals, we saw no difference in the association of the insulin resistance score with T2D among BMI- or waist-strata).
+
   // Cutoff Values for Normal Anthropometric Variables in Asian Indian Adults
   doi: https://doi.org/10.2337/diacare.26.5.1380
   ref 'Snehalatha_et_al_05_23_2006

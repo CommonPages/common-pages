@@ -45,6 +45,25 @@ subject Insulin
   -
     !CutoffIndian
 
+  >
+    Several studies have used {Concepts.MendelianRandomization Mendelian randomization} to examine the relationship between insulin secretion and body fatness. Studies to date suggest that the impact of insulin on body fatness is either small or nonexistent.
+  - No Effect
+    !InsulinSecretion
+    !FastingInsulin
+  - Small Effect (1-10% of between person difference in body fatness)
+    !InsulinSecretion2
+
+  >
+    Studies have refuted the carbohydrate-insulin hypothesis.
+  -
+    !MetabolicRate
+    !CarbsvsFat
+  >
+    One study eported that a very-low-carbohydrate diet led to higher calorie expenditure than a low-fat diet in people maintaining weight loss. However, a reanalysis of the raw data suggests that the effect may be an artifact of faulty data.
+  -
+    !CarbsInsulin
+    ContradictoryCarbsInsulin
+
   claim !InsulinResistance = One study measured insulin sensitivity in 147 lean and overweight middle-aged people and waited 6 years to see who got sick, who died, and who didn’t. In the third of the group that was the most insulin resistant, 36 percent developed a health condition or died over the next 6 years, while in the third of the group with the least insulin resistance, none developed a health condition or died. The health conditions that occurred in the insulin-resistant group included high blood pressure, coronary heart disease, stroke, cancer, type 2 diabetes, and death.
     -
       'Facchini_et_al_08_01_2001
@@ -120,3 +139,46 @@ subject Insulin
     -
       'Snehalatha_et_al_05_23_2006
       'Snehalatha_et_al_05_23_2006.!a
+
+  claim !InsulinSecretion = While insulin resistance is often considered secondary to obesity, the association of the insulin resistance score with lower BMI and adiposity and with incident T2D even among individuals of normal weight highlights the role of insulin resistance and ectopic fat distribution in T2D, independently of body size.
+    -
+      'Scott_et_al_06_19_2014
+      'Scott_et_al_06_19_2014.!a
+
+  claim !FastingInsulin = The positive correlation between adiposity and fasting insulin levels are at least in part explained by the causal effect of adiposity on increasing insulin, rather than vice versa.
+    -
+      'Richmond_et_al_06_28_2017
+      'Richmond_et_al_06_28_2017.!a
+      'Richmond_et_al_06_28_2017.!b
+
+  claim !InsulinSecretion2 = Mendelian randomization analyses provide evidence for a causal relationship of glucose-stimulated insulin secretion on body weight, consistent with the carbohydrate–insulin model of obesity.
+    -
+      'Astley_et_al_01_01_2018
+      'Astley_et_al_01_01_2018.!a
+      'Astley_et_al_01_01_2018.!b
+
+  # See claim again - Technical
+  claim !MetabolicRate = One study reported that metabolic rate slightly and transiently increased, but fat loss actually slowed, on a very-low-carbohydrate ketogenic diet (2% sugar), compared with a high-sugar (25%) higher-carbohydrate diet of equal calories. Study also reported that the very-low-carbohydrate diet did not increase total energy levels in the bloodstream.
+    -
+      'Hall_et_al_07_06_2016
+      'Hall_et_al_07_06_2016.!a
+      'Hall_et_al_07_06_2016.!b
+
+  claim !CarbsvsFat = One Randomized trial (12-month weight loss diet study) concluded that there was no significant difference in weight change between a healthy low-fat diet vs a healthy low-carbohydrate diet, and neither genotype pattern nor baseline insulin secretion was associated with the dietary effects on weight loss.
+    -
+      'Gardner_et_al_02_20_2018
+      'Gardner_et_al_02_20_2018.!a
+      'Gardner_et_al_02_20_2018.!b
+
+  claim !CarbsInsulin = One study concluded that consistent with the carbohydrate-insulin model, lowering dietary carbohydrate increased energy expenditure during weight loss maintenance. This metabolic effect may improve the success of obesity treatment, especially among those with high insulin secretion.
+    -
+      'Ebbeling_et_al_11_14_2018
+      'Ebbeling_et_al_11_14_2018.!a
+
+  dispute ContradictoryCarbsInsulin
+    head = Analyzing the data according to the original pre-registered statistical plan resulted in no statistically significant effects of diet composition on energy expenditure.
+    -
+      'Hall_et_al_01_24_2019
+      'Hall_et_al_01_24_2019.!a
+      'Hall_et_al_01_24_2019.!b
+      'Hall_et_al_01_24_2019.!c
