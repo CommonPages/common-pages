@@ -9,7 +9,9 @@ subject module Weightloss
   -
     Diabetes
   -
-    Insulin  
+    Insulin
+  -
+    Exercise  
 
   - Claims on weight gain
     !ChildObesity

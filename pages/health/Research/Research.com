@@ -29,6 +29,216 @@ feed Research
   - 1997
     'Pan_et_al_04_20_1997
 
+  // A 2-wk reduction of ambulatory activity attenuates peripheral insulin sensitivity
+  doi: https://doi.org/10.1152/japplphysiol.00977.2009
+  ref 'Krogh-Madsen_et_al_05_01_2010
+    head = We aimed to explore if healthy, nonexercising subjects who went from a normal to a low level of ambulatory activity for 2 wk would display metabolic alterations including reduced peripheral insulin sensitivity.
+
+    > Abstract
+      US adults take between ∼2,000 and ∼12,000 steps per day, a wide range of ambulatory activity that at the low range could increase risk for developing chronic metabolic diseases. Dramatic reductions in physical activity induce insulin resistance; however, it is uncertain if and how low ambulatory activity would influence peripheral insulin sensitivity. We aimed to explore if healthy, nonexercising subjects who went from a normal to a low level of ambulatory activity for 2 wk would display metabolic alterations including reduced peripheral insulin sensitivity. To do this, ten healthy young men decreased their daily activity level from a mean of 10,501 ± 808 to 1,344 ± 33 steps/day for 2 wk. Hyperinsulinemic-euglycemic clamps with stable isotopes and muscle biopsies, maximal oxygen consumption (V̇o2 max) tests, and blood samples were performed pre- and postintervention. A reduced number of daily steps induced a significant reduction of 17% in the glucose infusion rate (GIR) during the clamp. This reduction was due to a decline in peripheral insulin sensitivity with no effect on hepatic endogenous glucose production. The insulin-stimulated ratio of pAktthr308/total Akt decreased after step reduction, with a post hoc analysis revealing the most pronounced effect after 4 h of insulin infusion. In addition, the 2-wk period induced a 7% decline in V̇o2 max (ml/min; cardiovascular fitness). Lean mass of legs, but not arms and trunk, decreased concurrently. Taken together, one possible biological cause for the public health problem of Type 2 diabetes has been identified. Reduced ambulatory activity for 2 wk in healthy, nonexercising young men significantly reduced peripheral insulin sensitivity, cardiovascular fitness, and lean leg mass.
+
+    - quotes
+      !a
+
+    / May, 2010 - Journal of applied physiology
+    quote !a = Reduced ambulatory activity for 2 wk in healthy, nonexercising young men significantly reduced peripheral insulin sensitivity, cardiovascular fitness, and lean leg mass.
+
+  // Physical Inactivity Rapidly Induces Insulin Resistance and Microvascular Dysfunction in Healthy Volunteers
+  doi: https://doi.org/10.1161/ATVBAHA.107.153288
+  ref 'Hamburg_et_al_10_11_2007
+    head = We measured insulin sensitivity by glucose tolerance test and vascular function by ultrasound and venous occlusion plethysmography in 20 healthy subjects (14 men, 6 women) at baseline and during 5 days of bed rest.
+
+    > Objectives—
+      Sedentary lifestyle increases the risk of cardiovascular disease and diabetes. Vascular dysfunction contributes to atherogenesis and has been linked to insulin resistance.
+
+    > Methods and Results—
+      We measured insulin sensitivity by glucose tolerance test and vascular function by ultrasound and venous occlusion plethysmography in 20 healthy subjects (14 men, 6 women) at baseline and during 5 days of bed rest. Bed rest led to a 67% increase in the insulin response to glucose loading (P<0.001) suggesting increased insulin resistance and produced increases in total cholesterol and triglycerides. Bed rest led to decreased reactive hyperemia in the forearm (1317±404 to 1112±260 mL/min, P=0.01) and the calf (28.5±7.0 to 22.2±8.7 mL/min/dL, P=0.003) indicating impaired microvascular function. Bed rest decreased brachial artery diameter and increased systolic blood pressure suggesting increased basal arterial tone. There were no changes in circulating inflammatory markers arguing against systemic inflammation as a mechanism for vascular dysfunction in this setting.
+
+    > Conclusions—
+      Physical inactivity was associated with the development of insulin resistance, dyslipidemia, increased blood pressure, and impaired microvascular function in healthy volunteers. Our findings may provide insight into the pathogenesis of vascular disease in sedentary individuals and emphasize that even short-term physical inactivity may have adverse metabolic and vascular consequences.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / October, 2007 - Arteriosclerosis, Thrombosis, and Vascular Biology
+    quote !a = Bed rest led to a 67% increase in the insulin response to glucose loading (P<0.001) suggesting increased insulin resistance and produced increases in total cholesterol and triglycerides.
+
+    / October, 2007 - Arteriosclerosis, Thrombosis, and Vascular Biology
+    quote !b = Bed rest led to decreased reactive hyperemia in the forearm (1317±404 to 1112±260 mL/min, P=0.01) and the calf (28.5±7.0 to 22.2±8.7 mL/min/dL, P=0.003) indicating impaired microvascular function.
+
+    / October, 2007 - Arteriosclerosis, Thrombosis, and Vascular Biology
+    quote !c = Bed rest decreased brachial artery diameter and increased systolic blood pressure suggesting increased basal arterial tone. There were no changes in circulating inflammatory markers arguing against systemic inflammation as a mechanism for vascular dysfunction in this setting.
+
+  // Effects of exercise and lack of exercise on glucose tolerance and insulin sensitivity
+  doi: https://doi.org/10.1152/jappl.1983.55.2.512
+  ref 'Heath_et_al_08_1983
+    head = Physically trained individuals have a markedly blunted insulin response to a glucose load and yet have normal glucose tolerance. This phenomenon has generally been ascribed to long-term adaptations to training which correlate with maximal oxygen uptake (VO2max) and reduced adiposity. Our study was undertaken to test the hypothesis that residual effects of the last bouts of exercise play an important role in this phenomenon.
+
+    > Abstract
+      Physically trained individuals have a markedly blunted insulin response to a glucose load and yet have normal glucose tolerance. This phenomenon has generally been ascribed to long-term adaptations to training which correlate with maximal oxygen uptake (VO2max) and reduced adiposity. Our study was undertaken to test the hypothesis that residual effects of the last bouts of exercise play an important role in this phenomenon. Eight well-trained subjects stopped training for 10 days. There were no significant changes in VO2max (58.6 +/- 2.2 vs. 57.6 +/- 2.1 ml/kg), estimated percent body fat (12.5 +/- 0.7 vs. 12.5 +/- 0.8%), or body weight. The maximum rise in plasma insulin concentration in response to a 100-g oral glucose load was 100% higher after 10 days without exercise than when the subjects were exercising regularly. Despite the increased insulin levels, blood glucose concentrations were higher after 10 days without exercise. Insulin binding to monocytes also decreased with physical inactivity. One bout of exercise after 11 days without exercise returned insulin binding and the insulin and glucose responses to an oral 100-g glucose load almost to the initial "trained" value. These results support our hypothesis.
+
+    - quotes
+      !a
+      !b
+
+    / August, 1983 - J Appl Physiol Respir Environ Exerc Physiol
+    quote !a = Eight well-trained subjects stopped training for 10 days. There were no significant changes in VO2max, estimated percent body fat, or body weight. The maximum rise in plasma insulin concentration in response to a 100-g oral glucose load was 100% higher after 10 days without exercise than when the subjects were exercising regularly.
+
+    / August, 1983 - J Appl Physiol Respir Environ Exerc Physiol
+    quote !b = Despite the increased insulin levels, blood glucose concentrations were higher after 10 days without exercise. Insulin binding to monocytes also decreased with physical inactivity
+
+  // Changes in insulin sensitivity in response to different modalities of exercise: a review of the evidence
+  doi: https://doi.org/10.1002/dmrr.2488
+  ref 'Mann_et_al_10_15_2013
+    head = We review the evidence from 34 published studies addressing the effects on glycaemic control and insulin sensitivity of aerobic exercise, resistance training and both combined. Effect sizes and confidence intervals are reported for each intervention and meta-analysis presented.
+
+    > Abstract
+      Type 2 diabetes is an increasingly prevalent condition with complications including blindness and kidney failure. Evidence suggests that type 2 diabetes is associated with a sedentary lifestyle, with physical activity demonstrated to increase glucose uptake and improve glycaemic control. Proposed mechanisms for these effects include the maintenance and improvement of insulin sensitivity via increased glucose transporter type four production. The optimal mode, frequency, intensity and duration of exercise for the improvement of insulin sensitivity are however yet to be identified. We review the evidence from 34 published studies addressing the effects on glycaemic control and insulin sensitivity of aerobic exercise, resistance training and both combined. Effect sizes and confidence intervals are reported for each intervention and meta-analysis presented.
+
+    - quotes
+      !a
+      !b
+
+    / October, 2013 - Diabetes Metabolism Research and Reviews
+    quote !a =  PA(Physical activity) is beneficial in improving metabolic control in general and in improving insulin sensitivity specifically.
+
+    / October, 2013 - Diabetes Metabolism Research and Reviews
+    quote !b = Aerobic exercise appears effective in improving insulin sensitivity even though there is no present evidence to suggest that those benefits transcend those of lifestyle PA unless high intensities are implemented. Interval training has been shown to be particularly effective at both moderate and high intensities
+
+  // Exercise and Insulin Sensitivity: A Review
+  doi: https://doi.org/10.1055/s-2000-8847
+  ref 'Borghouts_et_al_01_21_2000
+    head = Physical activity has a beneficial effect on insulin sensitivity in normal as well as insulin resistant populations. A distinction should be made between the acute effects of exercise and genuine training effects.
+
+    > Abstract
+      Physical activity has a beneficial effect on insulin sensitivity in normal as well as insulin resistant populations. A distinction should be made between the acute effects of exercise and genuine training effects. Up to two hours after exercise, glucose uptake is in part elevated due to insulin independent mechanisms, probably involving a contraction-induced increase in the amount of GLUT4 associated with the plasma membrane and T-tubules. However, a single bout of exercise can increase insulin sensitivity for at least 16 h post exercise in healthy as well as NIDDM subjects. Recent studies have accordingly shown that acute exercise also enhances insulin stimulated GLUT4 translocation. Increases in muscle GLUT4 protein content contribute to this effect, and in adddition it has been hypothesized that the depletion of muscle glycogen stores with exercise plays a role herein. Physical training potentiates the effect of exercise on insulin sensitivity through multiple adaptations in glucose transport and metabolism. In addition, training may elicit favourable changes in lipid metabolism and can bring about improvements in the regulation of hepatic glucose output, which is especially relevant to NIDDM. It is concluded that physical training can be considered to play an important, if not essential role in the treatment and prevention of insulin insensitivity.
+
+    - quotes
+      !a
+
+    / January, 2000 - Int J Sports Med
+    quote !a = Physical training can be considered an important, if not essential part of the treatment and prevention of insulin insensitivity.
+
+  // Effects of the Amount of Exercise on Body Weight, Body Composition, and Measures of Central Obesity
+  doi: https://doi.org/10.1001/archinte.164.1.3
+  ref 'Slentz_et_al_01_12_2004
+    head = Eight-month exercise program with 3 groups: (1) high amount/vigorous intensity (2) low amount/vigorous intensity  and (3) low amount/moderate intensity. Subjects were counseled not to change their diet and were encouraged to maintain body weight.
+
+    > Background
+      Obesity is a major health problem due, in part, to physical inactivity. The amount of activity needed to prevent weight gain is unknown.
+
+    > Objective
+      To determine the effects of different amounts and intensities of exercise training.
+
+    > Design
+      Randomized controlled trial (February 1999–July 2002).
+
+    > Setting and Participants
+      Sedentary, overweight men and women (aged 40-65 years) with mild to moderate dyslipidemia were recruited from Durham, NC, and surrounding communities.
+
+    > Interventions
+      Eight-month exercise program with 3 groups: (1) high amount/vigorous intensity (calorically equivalent to approximately 20 miles [32.0 km] of jogging per week at 65%-80% peak oxygen consumption); (2) low amount/vigorous intensity (equivalent to approximately 12 miles [19.2 km] of jogging per week at 65%-80%), and (3) low amount/moderate intensity (equivalent to approximately 12 miles [19.2 km] of walking per week at 40%-55%). Subjects were counseled not to change their diet and were encouraged to maintain body weight.
+
+    > Main Outcome Measures
+      Body weight, body composition (via skinfolds), and waist circumference.
+
+    > Results
+      Of 302 subjects screened, 182 met criteria and were randomized and 120 completed the study. There was a significant (P<.05) dose-response relationship between amount of exercise and amount of weight loss and fat mass loss. The high-amount/vigorous-intensity group lost significantly more body mass (in mean [SD] kilograms) and fat mass (in mean [SD] kilograms) (−2.9 [2.8] and −4.8 [3.0], respectively) than the low-amount/moderate-intensity group (−0.9 [1.8] and −2.0 [2.6], respectively), the low-amount/vigorous-intensity group (−0.6 [2.0] and −2.5 [3.4], respectively), and the controls (+1.0 [2.1] and +0.4 [3.0], respectively). Both low-amount groups had significantly greater improvements than controls but were not different from each other. Compared with controls, all exercise groups significantly decreased abdominal, minimal waist, and hip circumference measurements. There were no significant changes in dietary intake for any group.
+
+    > Conclusions
+      In nondieting, overweight subjects, the controls gained weight, both low-amount exercise groups lost weight and fat, and the high-amount group lost more of each in a dose-response manner. These findings strongly suggest that, absent changes in diet, a higher amount of activity is necessary for weight maintenance and that the positive caloric imbalance observed in the overweight controls is small and can be reversed by a modest amount of exercise. Most individuals can accomplish this by walking 30 minutes every day.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / January, 2004 - Arch Intern Med
+    quote !a = Of 302 subjects screened, 182 met criteria and were randomized and 120 completed the study. There was a significant (P<.05) dose-response relationship between amount of exercise and amount of weight loss and fat mass loss.
+
+    / January, 2004 - Arch Intern Med
+    quote !b = The high-amount/vigorous-intensity group lost significantly more body mass and fat mass than the low-amount/moderate-intensity group, the low-amount/vigorous-intensity group, and the controls.
+
+    / January, 2004 - Arch Intern Med
+    quote !c = Both low-amount groups had significantly greater improvements than controls but were not different from each other. Compared with controls, all exercise groups significantly decreased abdominal, minimal waist, and hip circumference measurements. There were no significant changes in dietary intake for any group.
+
+  // Is interval training the magic bullet for fat loss? A systematic review and meta-analysis comparing moderate-intensity continuous training with high-intensity interval training (HIIT)
+  doi: http://dx.doi.org/10.1136/bjsports-2018-099928
+  ref 'Viana_et_al_06_27_2019
+    head = To compare the effects of interval training and moderate-intensity continuous training (MOD) on body adiposity in humans, and to perform subgroup analyses that consider the type and duration of interval training in different groups. Design Systematic review and meta-analysis.
+
+    > Objectives
+      To compare the effects of interval training and moderate-intensity continuous training (MOD) on body adiposity in humans, and to perform subgroup analyses that consider the type and duration of interval training in different groups. Design Systematic review and meta-analysis.
+    > Data sources
+      English-language, Spanish-language and Portuguese-language searches of the electronic databases PubMed and Scopus were conducted from inception to 11 December 2017.
+    > Eligibility criteria for selecting studies
+      Studies that met the following criteria were included: (1) original articles, (2) human trials, (3) minimum exercise training duration of 4 weeks, and (4) directly or indirectly compared interval training with MOD as the primary or secondary aim.
+    >  Results
+      Of the 786 studies found, 41 and 36 were  included in the qualitative analysis and meta-analysis, respectively. Within-group analyses showed significant reductions in total body fat percentage (%) (interval training: −1.50 [95% CI −2.14 to −0.86, p<0.00001] and MOD: −1.44 [95% CI −2.00 to −0.89, p<0.00001]) and in total absolute fat mass (kg) (interval training: −1.58 [95% CI −2.74 to −0.43, p=0.007] and MOD: −1.13 [95% CI −2.18 to −0.08, p=0.04]), with no significant differences between interval training and MOD for total body fat percentage reduction (−0.23 [95% CI −1.43 to 0.97], p=0.705). However, there was a significant difference between the groups in total absolute fat mass (kg) reduction (−2.28 [95% CI −4.00 to −0.56], p=0.0094). Subgroup analyses comparing sprint interval training (SIT) with MOD protocols favour SIT for loss of total absolute fat mass (kg) (−3.22 [95% CI −5.71 to −0.73], p=0.01). Supervised training, walking/running/jogging, age (<30 years), study quality and intervention duration (<12 weeks) favourably influence the decreases in total absolute fat mass (kg) observed from interval training programmes; however, no significant effect was found on total body fat percentage (%). No effect of sex or body mass index was observed on total absolute fat mass (kg) or total body fat percentage (%).
+    > Conclusion
+      Interval training and MOD both reduce body fat percentage (%). Interval training provided 28.5% greater reductions in total absolute fat mass (kg) than MOD
+
+    - quotes
+      !a
+
+    / June, 2019 - BMJ
+    quote !a =
+
+  // Long-term effectiveness of diet-plus-exercise interventions vs. diet-only interventions for weight loss: a meta-analysis
+  doi: https://doi.org/10.1111/j.1467-789X.2008.00547.x
+  ref 'Wu_et_al_04_24_2009
+    head =  The objective of this study was to systemically review the effect of diet-plus-exercise interventions vs. diet-only interventions on both long-term and short-term weight loss.
+
+    > Abstract
+      Diet and exercise are two of the commonest strategies to reduce weight. Whether a diet-plus-exercise intervention is more effective for weight loss than a diet-only intervention in the long-term has not been conclusively established. The objective of this study was to systemically review the effect of diet-plus-exercise interventions vs. diet-only interventions on both long-term and short-term weight loss. Studies were retrieved by searching MEDLINE and Cochrane Library (1966 – June 2008). Studies were included if they were randomized controlled trials comparing the effect of diet-plus-exercise interventions vs. diet-only interventions on weight loss for a minimum of 6 months among obese or overweight adults. Eighteen studies met our inclusion criteria. Data were independently extracted by two investigators using a standardized protocol. We found that the overall standardized mean differences between diet-plus-exercise interventions and diet-only interventions at the end of follow-up were −0.25 (95% confidence interval [CI]−0.36 to −0.14), with a P-value for heterogeneity of 0.4. Because there were two outcome measurements, weight (kg) and body mass index (kg m−2), we also stratified the results by weight and body mass index outcome. The pooled weight loss was 1.14 kg (95% CI 0.21 to 2.07) or 0.50 kg m−2 (95% CI 0.21 to 0.79) greater for the diet-plus-exercise group than the diet-only group. We did not detect significant heterogeneity in either stratum. Even in studies lasting 2 years or longer, diet-plus-exercise interventions provided significantly greater weight loss than diet-only interventions. In summary, a combined diet-plus-exercise programme provided greater long-term weight loss than a diet-only programme. However, both diet-only and diet-plus-exercise programmes are associated with partial weight regain, and future studies should explore better strategies to limit weight regain and achieve greater long-term weight loss.
+
+    - quotes
+      !a
+      !b
+
+    / April, 2009 - Obesity Reviews
+    quote !a = We found that the overall standardized mean differences between diet-plus-exercise interventions and diet-only interventions at the end of follow-up were −0.25, with a P-value for heterogeneity of 0.4. Because there were two outcome measurements, weight (kg) and body mass index (kg m−2), we also stratified the results by weight and body mass index outcome. The pooled weight loss was 1.14 kg or 0.50 kg m−2 greater for the diet-plus-exercise group than the diet-only group. We did not detect significant heterogeneity in either stratum.
+
+    / April, 2009 - Obesity Reviews
+    quote !b =  Even in studies lasting 2 years or longer, diet-plus-exercise interventions provided significantly greater weight loss than diet-only interventions.
+
+  // A meta-analysis of the past 25 years of weight loss research using diet, exercise or diet plus exercise intervention
+  doi: https://doi.org/10.1038/sj.ijo.0800499
+  ref 'Miller_et_al_10_02_1997
+    head = All human research reported in English, published in peer-reviewed scientific journals within the past 25 y was reviewed.
+
+    > Objective:
+      The therapeutic effectiveness of diet, exercise, and diet plus exercise for weight loss in obesity was determined.
+
+    > Data sources:
+      All human research reported in English, published in peer-reviewed scientific journals within the past 25 y was reviewed.
+
+    > Study selection:
+      Acceptance criteria (n = 493 from > 700 studies) were that a therapeutic intervention of diet, exercise or diet plus exercise was employed, specifically for weight reduction in obese adult humans and that weight change was reported numerically. Only aerobic exercise studies were included, while drug, hormone and surgical treatments were excluded.
+
+    > Data extraction:
+      All data were extracted by the same investigator from the original research report. Except for gender and program type, all extracted data were numerical.
+
+    > Data synthesis:
+      ANOVA, with a Newman-Keuls post hoc test, was used to determine differences among programs (P < 0.05). One analysis was performed on the group mean data and one based on effect sizes. Analyses were repeated using initial body weight, initial percent body fat and program length, as covariates.
+
+    > Results:
+      Primarily, subjects aged 40 y have been studied (39.5 +/- 0.4 y, mean +/- s.e.m.) who are only moderately obese (92.7 +/- 0.9 kg, 33.2 +/- 0.5 body mass index (BMI), 33.4 +/- 0.7% body fat); for short durations (15.6 +/- 0.6 weeks). Exercise studies were of a shorter duration, used younger subjects who weighed less, had lower BMI and percentage body fat values, than diet or diet plus exercise studies. Despite these differences, weight lost through diet, exercise and diet plus exercise was 10.7 +/- 0.5, 2.9 +/- 0.4* and 11.0 +/- 0.6 kg, respectively. However, at one-year follow-up, diet plus exercise tended to be the superior program. Effect size and covariate analyses revealed similar program differences.
+
+    > Conclusion:
+      Weight loss research over the past 25 y has been very narrowly focused on a middle age population that is only moderately obese, while the interventions lasted for only short periods of time. The data shows, however, that a 15-week diet or diet plus exercise program, produces a weight loss of about 11 kg, with a 6.6 +/- 0.5 and 8.6 +/- 0.8 kg maintained loss after one year, respectively.
+
+    - quotes
+      !a
+      !b
+
+    / October, 1997 - Int J Obes Relat Metab Disord
+    quote !a = Primarily, subjects aged 40 y have been studied (39.5 +/- 0.4 y, mean +/- s.e.m.) who are only moderately obese (92.7 +/- 0.9 kg, 33.2 +/- 0.5 body mass index (BMI), 33.4 +/- 0.7% body fat); for short durations (15.6 +/- 0.6 weeks). Exercise studies were of a shorter duration, used younger subjects who weighed less, had lower BMI and percentage body fat values, than diet or diet plus exercise studies.
+
+    / October, 1997 - Int J Obes Relat Metab Disord
+    quote !b = Despite these differences, weight lost through diet, exercise and diet plus exercise was 10.7 +/- 0.5, 2.9 +/- 0.4* and 11.0 +/- 0.6 kg, respectively. However, at one-year follow-up, diet plus exercise tended to be the superior program. Effect size and covariate analyses revealed similar program differences.
 
   // Carbs versus fat: does it really matter for maintaining lost weight?
   doi: https://doi.org/10.1101/476655

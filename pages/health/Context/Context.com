@@ -3,7 +3,6 @@
 model module Concepts
   head =
 
-
   link: https://en.wikipedia.org/wiki/Vitamin_C
   / Vitamin C
   model VitaminC
@@ -45,7 +44,6 @@ model module Concepts
     head = Autophagy is the natural, conserved degradation lysosome dependent regulated mechanism of the cell that removes unnecessary or dysfunctional components.It allows the orderly degradation and recycling of cellular components. Autophagy also plays a major role in the homeostasis of non-starved cells. Defects in autophagy have been linked to various human diseases, including neurodegeneration and cancer, and interest in modulating autophagy as a potential treatment for these diseases has grown rapidly.
 
     # Add claims
-
 
     >
       In the extreme case of starvation, the breakdown of cellular components promotes cellular survival by maintaining cellular energy levels.
@@ -89,6 +87,7 @@ model module Concepts
     >
       In these tissues the absorbed glucose is converted into either glycogen via glycogenesis or fats (triglycerides) via lipogenesis, or, in the case of the liver, into both. Glucose production and secretion by the liver is strongly inhibited by high concentrations of insulin in the blood. Circulating insulin also affects the synthesis of proteins in a wide variety of tissues. It is therefore an anabolic hormone, promoting the conversion of small molecules in the blood into large molecules inside the cells. Low insulin levels in the blood have the opposite effect by promoting widespread catabolism, especially of reserve body fat.
 
+  link: https://en.wikipedia.org/wiki/Mendelian_randomization    
   / Mendelian Randomization
   model MendelianRandomization
     head = Mendelian randomization is a method of using measured variation in genes of known function to examine the causal effect of a modifiable exposure on disease in observational studies. It can help understand the relationship between risk factors and health conditions.
