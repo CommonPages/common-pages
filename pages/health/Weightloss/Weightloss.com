@@ -11,7 +11,9 @@ subject module Weightloss
   -
     Insulin
   -
-    Exercise  
+    Exercise
+  -
+    Foodreward    
 
   - Claims on weight gain
     !ChildObesity

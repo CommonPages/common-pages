@@ -29,6 +29,215 @@ feed Research
   - 1997
     'Pan_et_al_04_20_1997
 
+  // Individual differences in the use of pleasantness and palatability ratings
+  doi: https://doi.org/10.1006/appe.1999.0224
+  ref 'Yeomans_et_al_06_1999
+    head = Previously we have suggested that individual subjects interpret the phrase "palatable food" in different ways. To test the consistency of the use of this term, 50 male volunteers consumed a simple lunch on two occasions, once with a more palatable food and once with a more bland version.
+
+    > Abstract
+      Previously we have suggested that individual subjects interpret the phrase "palatable food" in different ways. To test the consistency of the use of this term, 50 male volunteers consumed a simple lunch on two occasions, once with a more palatable food and once with a more bland version. Ratings of hunger, fullness, pleasantness and palatability were completed at the start and end of each meal. Overall, subjects ate slightly more of the palatable food. The difference in intake between conditions correlated with differences in pleasantness and palatability but not hunger at the start of eating. Rated pleasantness of the food declined between the start and end of the meal in most subjects, but changes in palatability were more variable, with a significant minority showing no change across the meal. Detailed analysis confirmed the existence of two populations of responses, one where pleasantness and palatability were synonymous, and one where palatability was rated as a constant property of a food. The existence of two interpretations of the term palatability in common English usage cautions against the use of this term as a reliable means of evaluating hedonic responses to foods in appetite studies.
+
+    - quotes
+      !a
+
+    / June, 1999 - Appetite
+    quote !a = Rated pleasantness of the food declined between the start and end of the meal in most subjects, but changes in palatability were more variable, with a significant minority showing no change across the meal.
+
+  // Palatability affects satiation but not satiety
+  doi: https://doi.org/10.1016/s0031-9384(98)00335-7
+  ref 'Graaf_et_al_06_1999
+    head = The present study was designed to investigate the effect of the pleasantness of a food on satiation (meal termination) and satiety. It was also studied whether or not the subsequent availability of other attractive foods affected the effect of palatability on intake.
+
+    > Abstract
+      The present study was designed to investigate the effect of the pleasantness of a food on satiation (meal termination) and satiety. It was also studied whether or not the subsequent availability of other attractive foods affected the effect of palatability on intake. In a within-subjects repeated-measures design, 35 (26 female and 9 male) young healthy nonrestrained subjects consumed at lunchtime a preload consisting of tomato soup, and a buffet/test meal consisting of many attractive food items. Three factors were manipulated. The palatability of the preload was manipulated by varying the citric acid concentration of the soup at three levels: 0 (pleasant), 7.5 (less pleasant), and 15 (unpleasant) g citric acid/kg soup. Intake of the soup was either ad lib (for investigation of satiation), or standardized (350 g for women, and 500 g for men; for investigation of satiety). The third factor was the availability of other foods, manipulated by the amount of time between start of preload and start of the test meal (intermeal interval = IMI), which was set at two levels: 15 and 90 min. Subjects rated hunger and satiety feelings, before the preload, and in between preload and test meal. The results showed that the ad lib intakes of the less pleasant and unpleasant soups were about 65 and 40% of the intake of the pleasant soup. Subjects ingested about 20% more soup when the subjects had to wait for the test meal about 90 min, compared to the 15 min IMI condition. The availability of other foods had no effect on the effect of pleasantness on ad lib intake. There was also no effect of the pleasantness on subsequent satiety: hunger ratings and test meal intake were similar after the three standardized soups. One conclusion is that pleasantness of foods has an effect on satiation but not on subsequent satiety. A second conclusion is that people eat more of a food when they know that they have no access to other foods for a particular amount of time.
+
+    - quotes
+      !a
+
+    / June, 1999 - Physiol Behav.
+    quote !a = One conclusion is that pleasantness of foods has an effect on satiation but not on subsequent satiety. A second conclusion is that people eat more of a food when they know that they have no access to other foods for a particular amount of time.
+
+  // Palatability and the micro-structure of feeding in humans: the appetizer effect
+  doi: https://doi.org/10.1006/appe.1996.0040
+  ref 'Yeomans_et_al_10_1997
+    head = The effects of manipulated palatability on eating were assessed in 54 human volunteers eating pasta with a tomato sauce, with palatability adjusted by the addition of three levels of oregano.
+
+    > Abstract
+      The effects of manipulated palatability on eating were assessed in 54 human volunteers eating pasta with a tomato sauce, with palatability adjusted by the addition of three levels of oregano. Meals were divided into 2 min eating episodes separated by brief pauses during which subjects rated aspects of appetite. Both intake and eating rate were greatest in the most palatable condition (0.27% oregano), whereas the addition of 0.54% reduced intake and eating rate. Hunger ratings increased during the initial stages of the meal with 0.27% oregano, but fell throughout the meal in the other conditions, whereas fullness ratings increased similarly in all three conditions. Rated food attractiveness was greatest with 0.27% oregano, and least with 0.54% oregano, but declined similarly through the meal with all three foods. Initial ratings of palatability were similar to those for food attractiveness, but changes in palatability across meals varied between subjects. Male subjects consistently ate more and faster than females, but similar effects of manipulated palatability on intake and subjective appetite were seen in both sexes. These data are consistent with the idea that palatability increases intake through a positive-feedback reward mechanism, and offers a novel method for measuring these effects.
+
+    - quotes
+      !a
+
+    / October, 1997 - Appetite
+    quote !a = Palatability increases intake through a positive-feedback reward mechanism, and offers a novel method for measuring these effects.
+
+  // Which Foods May Be Addictive? The Roles of Processing, Fat Content, and Glycemic Load
+  doi: https://doi.org/10.1371/journal.pone.0117959
+  ref 'Schulte_et_al_02_18_2015
+    head = We propose that highly processed foods share pharmacokinetic properties (e.g. concentrated dose, rapid rate of absorption) with drugs of abuse, due to the addition of fat and/or refined carbohydrates and the rapid rate the refined carbohydrates are absorbed into the system, indicated by glycemic load (GL). The current study provides preliminary evidence for the foods and food attributes implicated in addictive-like eating.
+
+    > Objectives
+      We propose that highly processed foods share pharmacokinetic properties (e.g. concentrated dose, rapid rate of absorption) with drugs of abuse, due to the addition of fat and/or refined carbohydrates and the rapid rate the refined carbohydrates are absorbed into the system, indicated by glycemic load (GL). The current study provides preliminary evidence for the foods and food attributes implicated in addictive-like eating.
+
+    > Participants
+      120 undergraduates participated in Study One and 384 participants recruited through Amazon MTurk participated in Study Two.
+
+    > Measurements
+      In Study One, participants (n = 120) completed the Yale Food Addiction Scale (YFAS) followed by a forced-choice task to indicate which foods, out of 35 foods varying in nutritional composition, were most associated with addictive-like eating behaviors. Using the same 35 foods, Study Two utilized hierarchical linear modeling to investigate which food attributes (e.g., fat grams) were related to addictive-like eating behavior (at level one) and explored the influence of individual differences for this association (at level two).
+
+    > Results
+      In Study One, processed foods, higher in fat and GL, were most frequently associated with addictive-like eating behaviors. In Study Two, processing was a large, positive predictor for whether a food was associated with problematic, addictive-like eating behaviors. BMI and YFAS symptom count were small-to-moderate, positive predictors for this association. In a separate model, fat and GL were large, positive predictors of problematic food ratings. YFAS symptom count was a small, positive predictor of the relationship between GL and food ratings.
+
+    > Conclusion
+      The current study provides preliminary evidence that not all foods are equally implicated in addictive-like eating behavior, and highly processed foods, which may share characteristics with drugs of abuse (e.g. high dose, rapid rate of absorption) appear to be particularly associated with “food addiction.”
+
+
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / February, 2015 - Plos One
+    quote !a = In Study One, processed foods, higher in fat and GL, were most frequently associated with addictive-like eating behaviors.
+
+    / February, 2015 - Plos One
+    quote !b = In Study Two, processing was a large, positive predictor for whether a food was associated with problematic, addictive-like eating behaviors. BMI and YFAS symptom count were small-to-moderate, positive predictors for this association.
+
+    / February, 2015 - Plos One
+    quote !c = In a separate model, fat and GL were large, positive predictors of problematic food ratings. YFAS symptom count was a small, positive predictor of the relationship between GL and food ratings.
+
+  // Eating dependence and weight gain; no human evidence for a ‘sugar-addiction’ model of overweight
+  doi: https://doi.org/10.1016/j.appet.2017.03.024
+  ref 'Markus_et_al_07_01_2017
+    head = In a cross-sectional study, n = 1495 university students from a variety of faculties were assessed for DSM-related signs of food addiction for particular food categories (YFAS), and, also BMI and negative affectivity.
+
+    > Background and aims
+      There is an increasing societal concern that consumption of specific foods such as sugar might become ‘addictive’ and, hence, promote weight gain. Claims about the addictiveness of sugar however are based largely on findings from few animal studies, whereas there is a lack of direct human evidence for symptoms of sugar-related substance dependence. The current study examined in a large sample of human participants whether foods mainly containing sugar in particular might cause ‘addiction-like’ problems that meet clinical DSM criteria for substance dependence, and, also whether in turn this relates to body weight and negative affectivity (depressed mood).
+
+    > Methods
+      In a cross-sectional study, n = 1495 university students from a variety of faculties were assessed for DSM-related signs of food addiction for particular food categories (YFAS), and, also BMI and negative affectivity.
+
+    > Results
+      Results revealed that from the total sample, 95% experienced at least one symptom of food dependence and 12.6% met the YFAS classification for ‘food addiction’ as related to DSM-IV criteria. The majority of respondents experienced these problems for combined high-fat savoury (30%) and high-fat sweet (25%) foods, whereas only a minority experienced such problems for low-fat/savoury (2%) and mainly sugar-containing foods (5%). Overweight correlated only with addictive-like problems for high-fat savoury and high-fat sweet foods (P < 0.0001), while this was not found for foods mainly containing sugar.
+
+    > Conclusion
+      The current findings indicate that sugary foods contribute minimally to ‘food dependence’ and increased risk of weight gain. Instead, they are consistent with the current scientific notion that food energy density, and the unique individual experience of eating, plays an important role in determining the reward value of food and promoting excessive energy intake.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / July, 2017 - Appetite
+    quote !a = Results revealed that from the total sample, 95% experienced at least one symptom of food dependence and 12.6% met the YFAS classification for ‘food addiction’ as related to DSM-IV criteria.
+
+    / July, 2017 - Appetite
+    quote !b = The majority of respondents experienced these problems for combined high-fat savoury (30%) and high-fat sweet (25%) foods, whereas only a minority experienced such problems for low-fat/savoury (2%) and mainly sugar-containing foods (5%).
+
+    / July, 2017 - Appetite
+    quote !c = Overweight correlated only with addictive-like problems for high-fat savoury and high-fat sweet foods (P < 0.0001), while this was not found for foods mainly containing sugar.
+
+  // Food cravings in relation to body mass index, restraint and estradiol levels: A repeated measures study in healthy women
+  doi: https://doi.org/10.1016/0195-6663(91)90020-S
+  ref 'Rodin_et_al_12_1991
+    head = The study considered the nature and extent of cravings in 108 healthy women between the ages of 20 and 37 who were tested at four time points over a 2-year period.
+
+    > Abstract
+      The study considered the nature and extent of cravings in 108 healthy women between the ages of 20 and 37 who were tested at four time points over a 2-year period. There was substantial consistency over the four widely separated time points (3 months-1 year) in the types of foods craved, with chocolate and ice cream highest on the list, followed by fatty and spicy foods, and sweets. Women with a higher body mass index reported more consistent cravings for salty foods, especially those with high flavor intensity. There were no significant relationships between dietary restraint and the number, frequency or types of cravings. There were also no strong relationships between estradiol levels and the number, frequency or types of cravings women reported in the whole sample. The data suggest that women have a stable core of foods for which they experience cravings, relatively independent of estradiol levels, BMI or degree of dietary restraint.
+
+    - quotes
+      !a
+
+    / December, 1991 - Appetite
+    quote !a = Women have a stable core of foods for which they experience cravings, relatively independent of estradiol levels, BMI or degree of dietary restraint.
+
+  // Food cravings in a college population
+  doi: https://doi.org/10.1016/0195-6663(91)90019-O
+  ref 'Weingarten_et_al_12_1991
+    head = A questionnaire was administered to over 1000 male and female college undergraduates to collect self-reports regarding food cravings (defined as an intense desire to eat a specific food).
+
+    > Abstract
+      A questionnaire was administered to over 1000 male and female college undergraduates to collect self-reports regarding food cravings (defined as an intense desire to eat a specific food). Ninety-seven per cent of women and 68 per cent of men reported expeŕiencing food cravings. Chocolate was the most frequently reported food craved, especially among women. The majority of subjects reported that they indulged their food cravings at least half the time. Females tended to respond with more negative affect to indulging their cravings than men. Only 32 per cent of women perceived that their cravings were linked to menstrual cycles. There was no tendency for an increase in food cravings with dietary restraint. The data provided a detailed description of perceptions regarding food cravings among college-age adults, but also underscored some of the limitations of self-report measures of food craving. In spite of these limitations, however, the results challenge several assumptions regarding food craving and highlight some promising avenues for future investigation.
+
+    - quotes
+      !a
+
+    / December, 1991 - Appetite
+    quote !a = Food cravings are normative experiences and, apparently, as common as the experiences of hunger and satiety. A strong link exists between cravings and eating even in non-clinical populations.
+
+  // Supra-Additive Effects of Combining Fat and Carbohydrate on Food Reward
+  doi: https://doi.org/10.1016/j.cmet.2018.05.018
+  ref 'DiFeliceantonio_et_al_06_14_2018
+    head = Here, using an auction task concomitant to fMRI scanning, we demonstrate that participants are willing to pay more for fat + carbohydrate compared with equally familiar, liked, and caloric fat or carbohydrate foods and that this potentiated reward is associated with response in areas critical for reward valuation, including the dorsal striatum and mediodorsal thalamus.
+
+    > Abstract
+      Post-ingestive signals conveying information about the nutritive properties of food are critical for regulating ingestive behavior. Here, using an auction task concomitant to fMRI scanning, we demonstrate that participants are willing to pay more for fat + carbohydrate compared with equally familiar, liked, and caloric fat or carbohydrate foods and that this potentiated reward is associated with response in areas critical for reward valuation, including the dorsal striatum and mediodorsal thalamus. We also show that individuals are better able to estimate the energy density of fat compared with carbohydrate and fat + carbohydrate foods, an effect associated with functional connectivity between visual (fusiform gyrus) and valuation (ventromedial prefrontal cortex) areas. These results provide the first demonstration that foods high in fat and carbohydrate are, calorie for calorie, valued more than foods containing only fat or carbohydrate and that this effect is associated with greater recruitment of central reward circuits.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / June, 2018 - CLINICAL AND TRANSLATIONAL REPORT
+    quote !a = Fat and carbohydrate interact to potentiate reward independently of liking.
+
+    / June, 2018 - CLINICAL AND TRANSLATIONAL REPORT
+    quote !b = This is reflected in supra-additive responses in the striatum during food valuation
+
+    / June, 2018 - CLINICAL AND TRANSLATIONAL REPORT
+    quote !c = Participants are able to estimate energy density from fat, but not carbohydrate
+
+    / June, 2018 - CLINICAL AND TRANSLATIONAL REPORT
+    quote !d = Accurate estimation of energy density recruits a prefrontal-fusiform gyrus circuit
+
+  // Conditioned flavor preferences in young children
+  doi: https://doi.org/10.1016/0031-9384(90)90116-L
+  ref 'Birch_et_al_03_1990
+    head = In this experiment 11 children participated in a series of 8 pairs of conditioning trials in order to investigate the hypothesis that children could form conditioned flavor preferences based on caloric density.
+
+    > Abstract
+      In this experiment 11 children participated in a series of 8 pairs of conditioning trials in order to investigate the hypothesis that children could form conditioned flavor preferences based on caloric density. Unfamiliar drink flavors were used in these trials, and the drinks were either high in caloric density (155 kcal/150 ml) or low (<5 kcal/150 ml). Caloric density was altered by the addition of low glucose maltodextrin. Each child always had the same caloric density/flavor pairing throughout the conditioning trials. Each trial pair included one high and one low density preload, followed by ad lib consumption. These conditioning trials substituted for the children's regularly scheduled morning snack four days per week, one trial per day. Conditioning trials were given as a series of two-part snacks, consisting of fixed volumes of initially unfamiliar drinks, followed by the opportunity to eat a variety of foods ad lib. Two measures, obtained before and after conditioning, provided evidence for the formation of conditioned flavor preferences: 1) preference assessments, and 2) two-flavor choice tests. In addition, the ad lib consumption data indicated that the children were responsive to the caloric density manipulation, by consistently eating more following the low than the high density drink. The potential contribution of such acquired flavor preferences to the reduction of neophobia is discussed.
+
+    - quotes
+      !a
+
+    / March, 1990 - Physiology & Behavior
+    quote !a = The results of the present study provide the initial evidence that for young children, acquired preferences for flavors can be conditioned based on the physiological consequences of ingested calories. Because the research was done using novel flavors, the pattern of results also suggests that positive postingestive consequences that arise from carbohydrate calories, in addition to learned safety, can contribute to the reduction of neophobia.
+
+  // Conditioned preferences: Young children prefer flavors associated with high dietary fat
+  doi: https://doi.org/10.1016/0031-9384(91)90590-K
+  ref 'Johnson_et_al_12_1991
+    head = In two experiments, 20 2–5-year-old children participated in a series of 8 conditioning trials to investigate whether they acquired conditioned preferences based on the fat content of a food. On different days, each child consumed fixed quantities of novelly flavored yogurts that were high or low in fat and energy density (220 or 110 kcal/serving).
+
+    > Abstract
+      In two experiments, 20 2–5-year-old children participated in a series of 8 conditioning trials to investigate whether they acquired conditioned preferences based on the fat content of a food. On different days, each child consumed fixed quantities of novelly flavored yogurts that were high or low in fat and energy density (220 or 110 kcal/serving). After conditioning, patterns of ad lib consumption data provided evidence of caloric compensation in response to the energy density differences in the preloads. Children consumed more following the low- than the high-fat preloads. Preference assessments, performed pre- and postconditioning, revealed conditioned flavor preferences based on fat content: children increased their preference for the high-density paired flavor, but no change in preference was noted for the low-density paired flavor. These data suggest that such conditioned flavor preferences based on energy density may be contributing to children's preferences for foods high in dietary fat.
+
+    - quotes
+      !a
+      !b
+
+    / December, 1991 - Physiology & Behavior
+    quote !a = Children consumed more following the low- than the high-fat preloads. Preference assessments, performed pre- and postconditioning, revealed conditioned flavor preferences based on fat content: children increased their preference for the high-density paired flavor, but no change in preference was noted for the low-density paired flavor.
+
+    / December, 1991 - Physiology & Behavior
+    quote !b =  Conditioned flavor preferences based on energy density may be contributing to children's preferences for foods high in dietary fat.
+
+  // The Gut-Brain Dopamine Axis: A Regulatory System for Caloric Intake
+  doi: https://dx.doi.org/10.1016%2Fj.physbeh.2012.02.026
+  ref 'Arajuo_et_al_06_06_2012
+    head = We will review recent evidence supporting the concept that direct stimulation of the gastrointestinal tract with nutrients induces release of the catecholamine neurotransmitter dopamine.
+
+    > Abstract
+      Post-ingestive factors are known to strongly modulate feeding behavior by providing feedback signals to the central nervous system on the current physiological state of the organism. Of particular interest is the identification of the physiological pathways that permit the brain to sense post-ingestive signals. We will review recent evidence supporting the concept that direct stimulation of the gastrointestinal tract with nutrients induces release of the catecholamine neurotransmitter dopamine. In addition, changes in dopamine efflux produced by direct stimulation of the gastrointestinal tract were found to reflect the caloric load of the infusates, suggesting that dopamine signaling may function as a central caloric sensor that mediates adjustments in intake according to the caloric density of a meal. Consistent with the above, blockade of dopamine signaling disrupts flavor-nutrient associations and impair the regulatory capacity to maintain constant caloric intake during intra-gastric feeding. Future research must determine the exact pathways linking gut nutrient administration to dopamine efflux. Current evidence points to parallel contributions by pre- and post-absorptive pathways, indicating that dopamine systems constitute a site of convergence through which distinct physiological signals can exert control over ingestive behaviors.
+
+    - quotes
+      !a
+
+    / June, 2012 - Physiol Behav.
+    quote !a = Both pre- and post-absorptive post-oral cues converge onto dopaminergic circuits, depicting dopamine circuits as a major site of convergence where metabolic/hormonal and visceral sensory cues interact to regulate ingestive behavior
+
   // A 2-wk reduction of ambulatory activity attenuates peripheral insulin sensitivity
   doi: https://doi.org/10.1152/japplphysiol.00977.2009
   ref 'Krogh-Madsen_et_al_05_01_2010
