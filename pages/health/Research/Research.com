@@ -29,6 +29,390 @@ feed Research
   - 1997
     'Pan_et_al_04_20_1997
 
+  // The effects of four hypocaloric diets containing different levels of sucrose or high fructose corn syrup on weight loss and related parameters
+  doi: https://dx.doi.org/10.1186%2F1475-2891-11-55
+  ref 'Lowndes_et_al_08_06_2012
+    head = This was a randomized, prospective, double blind trial, with overweight/obese participants measured for body composition and blood chemistry before and after the completion of 12 weeks following a hypocaloric diet. The average caloric deficit achieved on the hypocaloric diets was 309 kcal.
+
+    > Background
+      The replacement of sucrose with HFCS in food products has been suggested as playing a role in the development of obesity as a public health issue. The objective of this study was to examine the effects of four equally hypocaloric diets containing different levels of sucrose or high fructose corn syrup (HFCS).
+
+    > Methods
+      This was a randomized, prospective, double blind trial, with overweight/obese participants measured for body composition and blood chemistry before and after the completion of 12 weeks following a hypocaloric diet. The average caloric deficit achieved on the hypocaloric diets was 309 kcal.
+
+    > Results
+      Reductions were observed in all measures of adiposity including body mass, BMI,% body fat, waist circumference and fat mass for all four hypocaloric groups, as well as reductions in the exercise only group for body mass, BMI and waist circumference.
+
+    > Conclusions
+      Similar decreases in weight and indices of adiposity are observed when overweight or obese individuals are fed hypocaloric diets containing levels of sucrose or high fructose corn syrup typically consumed by adults in the United States.
+
+    - quotes
+      !a
+
+    / August, 2012 - Nutrition Journal
+    quote !a = Similar decreases in weight and indices of adiposity are observed when overweight or obese individuals are fed hypocaloric diets containing levels of sucrose or high fructose corn syrup typically consumed by adults in the United States.
+
+  // Weight loss in overweight subjects following low-sucrose or sucrose-containing diets
+  doi: https://doi.org/10.1038/sj.ijo.0801652
+  ref 'West_et_al_08_2001
+    head = Two energy-reduced diets were designed as a weight-reducing programme. A low-sugar diet (LSD) providing 5% of its energy from sucrose and a sugar-containing diet (SCD) providing 10% of its energy from sucrose incorporated as sweet foods were devised. Both diets were constructed to contain about 33% of the energy from fat.
+
+    > Objectives:
+      To compare the response by overweight individuals, counselled in a work environment, to energy-reduced diets in which the amount of sucrose-containing foods is varied.
+
+    > Design:
+      Two energy-reduced diets were designed as a weight-reducing programme. A low-sugar diet (LSD) providing 5% of its energy from sucrose and a sugar-containing diet (SCD) providing 10% of its energy from sucrose incorporated as sweet foods were devised. Both diets were constructed to contain about 33% of the energy from fat. The diets, designed to provide a deficit of 2.51 MJ/day (600 kcal/day) per individual, were randomly allocated to subjects in an 8 week parallel design study.
+
+    > Subjects:
+      Ninety-five subjects were recruited from a large service industry if they were more than 7 kg (1 stone) in weight above body mass index (BMI) 25 kg/m(2). Sixty-eight subjects completed the programme.
+
+    > Measurements:
+      Fortnightly body weight measurements were taken using calibrated scales; BMI at baseline and week 8; and nutrient intake using 2 day food record diaries at baseline and weeks 2, 4 and 8.
+
+    > Results:
+      Weight loss over the 8 weeks was 2.2 kg (LSD) and 3.0 kg (SCD). BMI changed from 29.2 on the LSD and 30.1 kg/m(2) SCD at baseline to 28.2 and 28.8 kg/m(2) at week 8 respectively. The actual prescribed commercially added sucrose intakes were 5% energy (LSD) or 10% energy (SCD). Reported percentage energy from fat was significantly lower on the SCD (and would seem to support the theory of an inverse relationship between fat and sugar) than on the LSD, where there was seen to be no significant reduction. There was no evidence of micronutrient dilution that could be directly attributed to the sucrose content of the diets.
+
+    > Conclusion:
+      These results provide no justification for the exclusion of added sucrose in weight-reducing diets.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / August, 2001 - Int J Obes Relat Metab Disord.
+    quote !a = Weight loss over the 8 weeks was 2.2 kg (LSD) and 3.0 kg (SCD). BMI changed from 29.2 on the LSD and 30.1 kg/m(2) SCD at baseline to 28.2 and 28.8 kg/m(2) at week 8 respectively.
+
+    / August, 2001 - Int J Obes Relat Metab Disord.
+    quote !b = The actual prescribed commercially added sucrose intakes were 5% energy (LSD) or 10% energy (SCD).
+
+    / August, 2001 - Int J Obes Relat Metab Disord.
+    quote !c = Reported percentage energy from fat was significantly lower on the SCD (and would seem to support the theory of an inverse relationship between fat and sugar) than on the LSD, where there was seen to be no significant reduction.
+
+    / August, 2001 - Int J Obes Relat Metab Disord.
+    quote !d = There was no evidence of micronutrient dilution that could be directly attributed to the sucrose content of the diets.
+
+
+  // Metabolic and behavioral effects of a high-sucrose diet during weight loss
+  doi: https://doi.org/10.1093/ajcn/65.4.908
+  ref 'Surwit_et_al_04_1997
+    head = We studied the comparative effects of high- and low-sucrose, low-fat, hypoenergetic diets on a variety of metabolic and behavioral indexes in a 6-wk weight-loss program. Both diets contained approximately 4606 kJ energy/d with 11% of energy as fat, 19% as protein, and 71% as carbohydrate.
+
+    > Abstract
+      In response to evidence linking obesity and high amounts of dietary fat, the food industry has developed numerous reduced-fat and nonfat food items. These items frequently derive a relatively large percentage of their energy from sugars and the effect of these sugars on weight regulation is not well known. We studied the comparative effects of high- and low-sucrose, low-fat, hypoenergetic diets on a variety of metabolic and behavioral indexes in a 6-wk weight-loss program. Both diets contained approximately 4606 kJ energy/d with 11% of energy as fat, 19% as protein, and 71% as carbohydrate. The high-sucrose diet contained 43% of the total daily energy intake as sucrose; the low-sucrose diet contained 4% of the total daily energy intake as sucrose. Twenty women aged 40.6 +/- 8.2 y (mean +/- SD) with a body mass index (in kg/m2) of 35.93 +/- 4.8 consumed the high-sucrose diet; 22 women aged 40.3 +/- 7.3 y with a body mass index of 34.93 +/- 4.4 consumed the low-sucrose diet. Mixed-design analysis of variance showed a main effect of time (P < 0.01), with both diet groups showing decreases in weight, blood pressure, resting energy expenditure, percentage body fat, free triiodothyronine (FT3), urinary norepinephrine, and plasma lipids. Small but significant interactions were found between group and time in total cholesterol (P = 0.009) and low-density lipoprotein (LDL) (P = 0.01). Both groups showed decreases in depression, hunger, and negative mood, and increases in vigilance and positive mood with time (P < 0.01). Results showed that a high sucrose content in a hypoenergetic, low-fat diet did not adversely affect weight loss, metabolism, plasma lipids, or emotional affect.
+
+    - quotes
+      !a
+
+    / April, 1997 - Am J clin nutr.
+    quote !a = A high sucrose content in a hypoenergetic, low-fat diet did not adversely affect weight loss, metabolism, plasma lipids, or emotional affect.
+
+  // Long-Term Effects of a Novel Continuous Remote Care Intervention Including Nutritional Ketosis for the Management of Type 2 Diabetes: A 2-Year Non-randomized Clinical Trial
+  doi: https://doi.org/10.3389/fendo.2019.00348
+  ref 'Athinarayanan_et_al_06_05_2019
+    head = An open label, non-randomized, controlled study with 262 and 87 participants with T2D were enrolled in the CCI and usual care (UC) groups, respectively. Primary outcomes were retention, glycemic control, and weight changes at 2 years. Secondary outcomes included changes in body composition, liver, cardiovascular, kidney, thyroid and inflammatory markers, diabetes medication use and disease status.
+
+    > Purpose:
+      Studies on long-term sustainability of low-carbohydrate approaches to treat diabetes are limited. We previously reported the effectiveness of a novel digitally-monitored continuous care intervention (CCI) including nutritional ketosis in improving weight, glycemic outcomes, lipid, and liver marker changes at 1 year. Here, we assess the effects of the CCI at 2 years.
+
+    > Materials and methods:
+      An open label, non-randomized, controlled study with 262 and 87 participants with T2D were enrolled in the CCI and usual care (UC) groups, respectively. Primary outcomes were retention, glycemic control, and weight changes at 2 years. Secondary outcomes included changes in body composition, liver, cardiovascular, kidney, thyroid and inflammatory markers, diabetes medication use and disease status.
+
+    > Results:
+      Reductions from baseline to 2 years in the CCI group resulting from intent-to-treat analyses included: HbA1c, fasting glucose, fasting insulin, weight, systolic blood pressure, diastolic blood pressure, triglycerides, and liver alanine transaminase, and HDL-C increased. Spine bone mineral density in the CCI group was unchanged. Use of any glycemic control medication (excluding metformin) among CCI participants declined (from 55.7 to 26.8%) including insulin (-62%) and sulfonylureas (-100%). The UC group had no changes in these parameters (except uric acid and anion gap) or diabetes medication use. There was also resolution of diabetes (reversal, 53.5%; remission, 17.6%) in the CCI group but not in UC. All the reported improvements had p < 0.00012.
+
+    > Conclusion:
+      The CCI group sustained long-term beneficial effects on multiple clinical markers of diabetes and cardiometabolic health at 2 years while utilizing less medication. The intervention was also effective in the resolution of diabetes and visceral obesity with no adverse effect on bone health.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2019 - Frontiers in Endocrinology
+    quote !a = Reductions from baseline to 2 years in the CCI group resulting from intent-to-treat analyses included: HbA1c, fasting glucose, fasting insulin, weight, systolic blood pressure, diastolic blood pressure, triglycerides, and liver alanine transaminase, and HDL-C increased.
+
+    / June, 2019 - Frontiers in Endocrinology
+    quote !b = Spine bone mineral density in the CCI group was unchanged. Use of any glycemic control medication (excluding metformin) among CCI participants declined including insulin and sulfonylureas.
+
+    / June, 2019 - Frontiers in Endocrinology
+    quote !c = The UC group had no changes in these parameters (except uric acid and anion gap) or diabetes medication use. There was also resolution of diabetes in the CCI group but not in UC. All the reported improvements had p < 0.00012.
+
+  // Effectiveness and Safety of a Novel Care Model for the Management of Type 2 Diabetes at One Year: an Open Label, Non-Randomized, Controlled Study
+  doi: https://doi.org/10.1007/s13300-018-0373-9
+  ref 'Hallberg_et_al_02_27_2018
+    head = We conducted an open-label, non-randomized, controlled, before-and-after 1-year study of this continuous care intervention (CCI) and usual care (UC). Primary outcomes were glycosylated hemoglobin (HbA1c), weight, and medication use. Secondary outcomes included fasting serum glucose and insulin, HOMA-IR, blood lipids and lipoproteins, liver and kidney function markers, and high-sensitivity C-reactive protein (hsCRP). 349 adults with T2D enrolled. 218 participants (83%) remained enrolled in the CCI at 1 year.
+
+    > Introduction
+      Carbohydrate restriction markedly improves glycemic control in patients with type 2 diabetes (T2D) but necessitates prompt medication changes. Therefore, we assessed the effectiveness and safety of a novel care model providing continuous remote care with medication management based on biometric feedback combined with the metabolic approach of nutritional ketosis for T2D management.
+
+    > Methods
+      We conducted an open-label, non-randomized, controlled, before-and-after 1-year study of this continuous care intervention (CCI) and usual care (UC). Primary outcomes were glycosylated hemoglobin (HbA1c), weight, and medication use. Secondary outcomes included fasting serum glucose and insulin, HOMA-IR, blood lipids and lipoproteins, liver and kidney function markers, and high-sensitivity C-reactive protein (hsCRP).
+
+    > Results
+      349 adults with T2D enrolled: CCI: n = 262 [mean (SD); 54 (8) years, 116.5 (25.9) kg, 40.4 (8.8) kg m2, 92% obese, 88% prescribed T2D medication]; UC: n = 87 (52 (10) years, 105.6 (22.15) kg, 36.72 (7.26) kg m2, 82% obese, 87% prescribed T2D medication]. 218 participants (83%) remained enrolled in the CCI at 1 year. Intention-to-treat analysis of the CCI (mean ± SE) revealed HbA1c declined from 59.6 ± 1.0 to 45.2 ± 0.8 mmol mol−1 (7.6 ± 0.09% to 6.3 ± 0.07%, P < 1.0 × 10−16), weight declined 13.8 ± 0.71 kg (P < 1.0 × 10−16), and T2D medication prescription other than metformin declined from 56.9 ± 3.1% to 29.7 ± 3.0% (P < 1.0 × 10−16). Insulin therapy was reduced or eliminated in 94% of users; sulfonylureas were entirely eliminated in the CCI. No adverse events were attributed to the CCI. Additional CCI 1-year effects were HOMA-IR − 55% (P = 3.2 × 10−5), hsCRP − 39% (P < 1.0 × 10−16), triglycerides − 24% (P < 1.0 × 10−16), HDL-cholesterol + 18% (P < 1.0 × 10−16), and LDL-cholesterol + 10% (P = 5.1 × 10−5); serum creatinine and liver enzymes (ALT, AST, and ALP) declined (P ≤ 0.0001), and apolipoprotein B was unchanged (P = 0.37). UC participants had no significant changes in biomarkers or T2D medication prescription at 1 year.
+
+    > Conclusions
+      These results demonstrate that a novel metabolic and continuous remote care model can support adults with T2D to safely improve HbA1c, weight, and other biomarkers while reducing diabetes medication use.
+
+    - quotes
+      !a
+
+    / February, 2018 - Diabetes Therapy
+    quote !a = These results demonstrate that a novel metabolic and continuous remote care model can support adults with T2D to safely improve HbA1c, weight, and other biomarkers while reducing diabetes medication use.
+
+  // Adhering to the Ketogenic Diet – Is it Easy or Hard? (Research Review)
+  doi: https://sci-fit.net/adhere-ketogenic-diet/
+  ref 'Tzur_et_al_11_27_2018
+    head = Our goal is to determine if people can stick to the ketogenic diet in the long-term.
+
+    - quotes
+      !a
+
+    / November, 2018 - Sci-Fit
+    quote !a = People who are left to their own devices generally do not adhere well to the diet. They typically start strong, but have a hard time adhering to the diet after 1-3 months. Carb intake increases and ketone levels drop. In particular, overweight people and diabetics struggle with adherence.
+
+  // Very-low-carbohydrate ketogenic diet v. low-fat diet for long-term weight loss: a meta-analysis of randomised controlled trials
+  doi: https://doi.org/10.1017/S0007114513000548
+  ref 'Bueno_et_al_05_07_2013
+    head = The present meta-analysis aimed to investigate whether individuals assigned to a VLCKD ( very-low-carbohydrate ketogenic diets ) (i.e. a diet with no more than 50 g carbohydrates/d) achieve better long-term body weight and cardiovascular risk factor management when compared with individuals assigned to a conventional low-fat diet (LFD; i.e. a restricted-energy diet with less than 30 % of energy from fat).
+
+    > Abstract
+      The role of very-low-carbohydrate ketogenic diets (VLCKD) in the long-term management of obesity is not well established. The present meta-analysis aimed to investigate whether individuals assigned to a VLCKD (i.e. a diet with no more than 50 g carbohydrates/d) achieve better long-term body weight and cardiovascular risk factor management when compared with individuals assigned to a conventional low-fat diet (LFD; i.e. a restricted-energy diet with less than 30 % of energy from fat). Through August 2012, MEDLINE, CENTRAL, ScienceDirect, Scopus, LILACS, SciELO, ClinicalTrials.gov and grey literature databases were searched, using no date or language restrictions, for randomised controlled trials that assigned adults to a VLCKD or a LFD, with 12 months or more of follow-up. The primary outcome was body weight. The secondary outcomes were TAG, HDL-cholesterol (HDL-C), LDL-cholesterol (LDL-C), systolic and diastolic blood pressure, glucose, insulin, HbA1c and C-reactive protein levels. A total of thirteen studies met the inclusion/exclusion criteria. In the overall analysis, five outcomes revealed significant results. Individuals assigned to a VLCKD showed decreased body weight (weighted mean difference − 0·91 (95 % CI − 1·65, − 0·17) kg, 1415 patients), TAG (weighted mean difference − 0·18 (95 % CI − 0·27, − 0·08) mmol/l, 1258 patients) and diastolic blood pressure (weighted mean difference − 1·43 (95 % CI − 2·49, − 0·37) mmHg, 1298 patients) while increased HDL-C (weighted mean difference 0·09 (95 % CI 0·06, 0·12) mmol/l, 1257 patients) and LDL-C (weighted mean difference 0·12 (95 % CI 0·04, 0·2) mmol/l, 1255 patients). Individuals assigned to a VLCKD achieve a greater weight loss than those assigned to a LFD in the long term; hence, a VLCKD may be an alternative tool against obesity.
+
+    - quotes
+      !a
+
+    / May, 2013 - British Journal of Nutrition
+    quote !a = Individuals assigned to a VLCKD achieve a greater weight loss than those assigned to a LFD in the long term; hence, a VLCKD may be an alternative tool against obesity.
+
+  // Effects of Low-Carbohydrate vs Low-Fat Diets on Weight Loss and Cardiovascular Risk Factors
+  doi: https://doi.org/10.1001/archinte.166.3.285
+  ref 'Nordmann_et_al_02_13_2006
+    head = We used the Cochrane Collaboration search strategy to identify trials comparing the effects of low-carbohydrate diets without restriction of energy intake vs low-fat diets in individuals with a body mass index of at least 25. Included trials had to report changes in body weight in intention-to-treat analysis and to have a follow-up of at least 6 months. Five trials including a total of 447 individuals fulfilled our inclusion criteria.
+
+    > Background
+      Low-carbohydrate diets have become increasingly popular for weight loss. However, evidence from individual trials about benefits and risks of these diets to achieve weight loss and modify cardiovascular risk factors is preliminary.
+
+    > Methods
+      We used the Cochrane Collaboration search strategy to identify trials comparing the effects of low-carbohydrate diets without restriction of energy intake vs low-fat diets in individuals with a body mass index (calculated as weight in kilograms divided by the square of height in meters) of at least 25. Included trials had to report changes in body weight in intention-to-treat analysis and to have a follow-up of at least 6 months. Two reviewers independently assessed trial eligibility and quality of randomized controlled trials.
+
+    > Results
+      Five trials including a total of 447 individuals fulfilled our inclusion criteria. After 6 months, individuals assigned to low-carbohydrate diets had lost more weight than individuals randomized to low-fat diets (weighted mean difference, –3.3 kg; 95% confidence interval [CI], −5.3 to −1.4 kg). This difference was no longer obvious after 12 months (weighted mean difference, −1.0 kg; 95% CI, −3.5 to 1.5 kg). There were no differences in blood pressure. Triglyceride and high-density lipoprotein cholesterol values changed more favorably in individuals assigned to low-carbohydrate diets (after 6 months, for triglycerides, weighted mean difference, −22.1 mg/dL [−0.25 mmol/L]; 95% CI, −38.1 to −5.3 mg/dL [−0.43 to −0.06 mmol/L]; and for high-density lipoprotein cholesterol, weighted mean difference, 4.6 mg/dL [0.12 mmol/L]; 95% CI, 1.5-8.1 mg/dL [0.04-0.21 mmol/L]), but total cholesterol and low-density lipoprotein cholesterol values changed more favorably in individuals assigned to low-fat diets (weighted mean difference in low-density lipoprotein cholesterol after 6 months, 5.4 mg/dL [0.14 mmol/L]; 95% CI, 1.2-10.1 mg/dL [0.03-0.26 mmol/L]).
+
+    > Conclusions
+      Low-carbohydrate, non–energy-restricted diets appear to be at least as effective as low-fat, energy-restricted diets in inducing weight loss for up to 1 year. However, potential favorable changes in triglyceride and high-density lipoprotein cholesterol values should be weighed against potential unfavorable changes in low-density lipoprotein cholesterol values when low-carbohydrate diets to induce weight loss are considered.
+
+    - quotes
+      !a
+      !b
+
+    / February, 2006 - Arch Intern Med.
+    quote !a = After 6 months, individuals assigned to low-carbohydrate diets had lost more weight than individuals randomized to low-fat diets. This difference was no longer obvious after 12 months.
+
+    / February, 2006 - Arch Intern Med.
+    quote !b = There were no differences in blood pressure. Triglyceride and high-density lipoprotein cholesterol values changed more favorably in individuals assigned to low-carbohydrate diets, but total cholesterol and low-density lipoprotein cholesterol values changed more favorably in individuals assigned to low-fat diets
+
+  // Effect of low-fat diet interventions versus other diet interventions on long-term weight change in adults: a systematic review and meta-analysis
+  doi: https://doi.org/10.1016/S2213-8587(15)00367-8
+  ref 'Tobias_et_al_10_29_2015
+    head = We did a systematic review and random effects meta-analysis of RCTs comparing the long-term effect (≥1 year) of low-fat and higher-fat dietary interventions on weight loss. 3517 citations were identified by the search and 53 studies met our inclusion criteria, including 68 128 participants (69 comparisons).
+
+    > Background
+      The effectiveness of low-fat diets for long-term weight loss has been debated for decades, with many randomised controlled trials (RCTs) and recent reviews giving mixed results. We aimed to summarise the large body of evidence from RCTs to determine whether low-fat diets contribute to greater weight loss than participants' usual diet, low-carbohydrate diets, and other higher-fat dietary interventions.
+
+    > Methods
+      We did a systematic review and random effects meta-analysis of RCTs comparing the long-term effect (≥1 year) of low-fat and higher-fat dietary interventions on weight loss by searching MEDLINE, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), and Cochrane Database of Systematic Reviews to identify eligible trials published from database inception up until July 31, 2014. We excluded trials if one intervention group included a non-dietary weight loss component but the other did not, and trials of dietary supplements or meal replacement drink interventions. Data including the main outcome measure of mean difference in weight change between interventions, and whether interventions were intended to lead to weight loss, weight maintenance, or neither, were extracted from published reports. We estimated the pooled weighted mean difference (WMD) with a DerSimonian and Laird random effects method.
+
+    > Findings
+      3517 citations were identified by the search and 53 studies met our inclusion criteria, including 68 128 participants (69 comparisons). In weight loss trials, low-carbohydrate interventions led to significantly greater weight loss than did low-fat interventions (18 comparisons; WMD 1·15 kg [95% CI 0·52 to 1·79]; I2=10%). Low-fat interventions did not lead to differences in weight change compared with other higher-fat weight loss interventions (19 comparisons; WMD 0·36 kg [−0·66 to 1·37; I2=82%), and led to a greater weight decrease only when compared with a usual diet (eight comparisons; −5·41 kg [−7·29 to −3·54]; I2=68%). Similarly, results of non-weight-loss trials and weight maintenance trials, for which no low-carbohydrate comparisons were made, showed that low-fat versus higher-fat interventions have a similar effect on weight loss, and that low-fat interventions led to greater weight loss only when compared with usual diet. In weight loss trials, higher-fat weight loss interventions led to significantly greater weight loss than low-fat interventions when groups differed by more than 5% of calories obtained from fat at follow-up (18 comparisons; WMD 1·04 kg [95% CI 0·06 to 2·03]; I2=78%), and when the difference in serum triglycerides between the two interventions at follow-up was at least 0·06 mmol/L (17 comparisons; 1·38 kg [0·50 to 2·25]; I2=62%).
+
+    > Interpretation
+      These findings suggest that the long-term effect of low-fat diet intervention on bodyweight depends on the intensity of the intervention in the comparison group. When compared with dietary interventions of similar intensity, evidence from RCTs does not support low-fat diets over other dietary interventions for long-term weight loss.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / October, 2015 - The Lancet
+    quote !a = In weight loss trials, low-carbohydrate interventions led to significantly greater weight loss than did low-fat interventions. Low-fat interventions did not lead to differences in weight change compared with other higher-fat weight loss interventions.
+
+    / October, 2015 - The Lancet
+    quote !b = Similarly, results of non-weight-loss trials and weight maintenance trials, for which no low-carbohydrate comparisons were made, showed that low-fat versus higher-fat interventions have a similar effect on weight loss, and that low-fat interventions led to greater weight loss only when compared with usual diet.
+
+    / October, 2015 - The Lancet
+    quote !c = In weight loss trials, higher-fat weight loss interventions led to significantly greater weight loss than low-fat interventions when groups differed by more than 5% of calories obtained from fat at follow-up, and when the difference in serum triglycerides between the two interventions at follow-up was at least 0·06 mmol/L.
+
+  // Comparison of Weight Loss Among Named Diet Programs in Overweight and Obese Adults
+  doi: https://doi.org/10.1001/jama.2014.10397
+  ref 'Johnston_et_al_11_03_2014
+    head = To determine weight loss outcomes for popular diets based on diet class (macronutrient composition) and named diet.
+
+    > Importance
+      Many claims have been made regarding the superiority of one diet or another for inducing weight loss. Which diet is best remains unclear.
+
+    > Objective
+      To determine weight loss outcomes for popular diets based on diet class (macronutrient composition) and named diet.
+
+    > Data Sources
+      Search of 6 electronic databases: AMED, CDSR, CENTRAL, CINAHL, EMBASE, and MEDLINE from inception of each database to April 2014.
+
+    > Study Selection
+      Overweight or obese adults (body mass index ≥25) randomized to a popular self-administered named diet and reporting weight or body mass index data at 3-month follow-up or longer.
+
+    > Data Extraction and Synthesis
+      Two reviewers independently extracted data on populations, interventions, outcomes, risk of bias, and quality of evidence. A Bayesian framework was used to perform a series of random-effects network meta-analyses with meta-regression to estimate the relative effectiveness of diet classes and programs for change in weight and body mass index from baseline. Our analyses adjusted for behavioral support and exercise.
+
+    > Main Outcomes and Measures
+      Weight loss and body mass index at 6- and 12-month follow-up (±3 months for both periods).
+
+    > Results
+      Among 59 eligible articles reporting 48 unique randomized trials (including 7286 individuals) and compared with no diet, the largest weight loss was associated with low-carbohydrate diets (8.73 kg [95% credible interval (CI), 7.27 to 10.20 kg] at 6-month follow-up and 7.25 kg [95% CI, 5.33 to 9.25 kg] at 12-month follow-up) and low-fat diets (7.99 kg [95% CI, 6.01 to 9.92 kg] at 6-month follow-up and 7.27 kg [95% CI, 5.26 to 9.34 kg] at 12-month follow-up). Weight loss differences between individual diets were minimal. For example, the Atkins diet resulted in a 1.71 kg greater weight loss than the Zone diet at 6-month follow-up. Between 6- and 12-month follow-up, the influence of behavioral support (3.23 kg [95% CI, 2.23 to 4.23 kg] at 6-month follow-up vs 1.08 kg [95% CI, −1.82 to 3.96 kg] at 12-month follow-up) and exercise (0.64 kg [95% CI, −0.35 to 1.66 kg] vs 2.13 kg [95% CI, 0.43 to 3.85 kg], respectively) on weight loss differed.
+
+    > Conclusions and Relevance
+      Significant weight loss was observed with any low-carbohydrate or low-fat diet. Weight loss differences between individual named diets were small. This supports the practice of recommending any diet that a patient will adhere to in order to lose weight.
+
+    - quotes
+      !a
+      !b
+
+    / September, 2014 - Jama
+    quote !a = Among 59 eligible articles reporting 48 unique randomized trials (including 7286 individuals) and compared with no diet, the largest weight loss was associated with low-carbohydrate diets (8.73 kg at 6-month follow-up and 7.25 kg at 12-month follow-up) and low-fat diets (7.99 kg at 6-month follow-up and 7.27 kg at 12-month follow-up). Weight loss differences between individual diets were minimal.
+
+    / September, 2014 - Jama
+    quote !b = The Atkins diet resulted in a 1.71 kg greater weight loss than the Zone diet at 6-month follow-up. Between 6- and 12-month follow-up, the influence of behavioral support (3.23 kg at 6-month follow-up vs 1.08 kg at 12-month follow-up) and exercise (0.64 kg vs 2.13 kg, respectively) on weight loss differed.
+
+  // Effect of Fructose on Body Weight in Controlled Feeding Trials
+  doi: https://doi.org/10.7326/0003-4819-156-4-201202210-00007
+  ref 'Sievenpiper_et_al_02_21_2012
+    head = At least 3 reviewers identified controlled feeding trials lasting 7 or more days that compared the effect on body weight of free fructose and nonfructose carbohydrate in diets providing similar calories (isocaloric trials) or of diets supplemented with free fructose to provide excess energy and usual or control diets (hypercaloric trials). Trials evaluating high-fructose corn syrup (42% to 55% free fructose) were excluded.
+
+    > Background:
+      The contribution of fructose consumption in Western diets to overweight and obesity in populations remains uncertain.
+
+    > Purpose:
+      To review the effects of fructose on body weight in controlled feeding trials.
+
+    > Data Sources:
+      MEDLINE, EMBASE, CINAHL, and the Cochrane Library (through 18 November 2011).
+
+    > Study Selection:
+      At least 3 reviewers identified controlled feeding trials lasting 7 or more days that compared the effect on body weight of free fructose and nonfructose carbohydrate in diets providing similar calories (isocaloric trials) or of diets supplemented with free fructose to provide excess energy and usual or control diets (hypercaloric trials). Trials evaluating high-fructose corn syrup (42% to 55% free fructose) were excluded.
+
+    > Data Extraction:
+      The reviewers independently reviewed and extracted relevant data; disagreements were reconciled by consensus. The Heyland Methodological Quality Score was used to assess study quality.
+
+    > Data Synthesis:
+      Thirty-one isocaloric trials (637 participants) and 10 hypercaloric trials (119 participants) were included; studies tended to be small (<15 participants), short (<12 weeks), and of low quality. Fructose had no overall effect on body weight in isocaloric trials (mean difference, −0.14 kg [95% CI, −0.37 to 0.10 kg] for fructose compared with nonfructose carbohydrate). High doses of fructose in hypercaloric trials (+104 to 250 g/d, +18% to 97% of total daily energy intake) lead to significant increases in weight (mean difference, 0.53 kg [CI, 0.26 to 0.79 kg] with fructose).
+
+    > Limitations:
+      Most trials had methodological limitations and were of poor quality. The weight-increasing effect of fructose in hypercaloric trials may have been attributable to excess energy rather than fructose itself.
+
+    > Conclusion:
+      Fructose does not seem to cause weight gain when it is substituted for other carbohydrates in diets providing similar calories. Free fructose at high doses that provided excess calories modestly increased body weight, an effect that may be due to the extra calories rather than the fructose.
+
+    - quotes
+      !a
+
+    / February, 2012 - Annals of Internal Medicine
+    quote !a = Fructose does not seem to cause weight gain when it is substituted for other carbohydrates in diets providing similar calories. Free fructose at high doses that provided excess calories modestly increased body weight, an effect that may be due to the extra calories rather than the fructose.
+
+  // Dietary sugars and body weight: systematic review and meta-analyses of randomised controlled trials and cohort studies
+  doi: https://doi.org/10.1136/bmj.e7492
+  ref 'Morenga_et_al_10_28_2012
+    head = Systematic review and meta-analysis of randomised controlled trials and prospective cohort studies.
+
+    > Objective
+      To summarise evidence on the association between intake of dietary sugars and body weight in adults and children.
+
+    > Design
+      Systematic review and meta-analysis of randomised controlled trials and prospective cohort studies.
+
+    > Data sources
+      OVID Medline, Embase, PubMed, Cumulative Index to Nursing and Allied Health Literature, Scopus, and Web of Science (up to December 2011).
+
+    > Review methods
+      Eligible studies reported the intake of total sugars, intake of a component of total sugars, or intake of sugar containing foods or beverages; and at least one measure of body fatness. Minimum duration was two weeks for trials and one year for cohort studies. Trials of weight loss or confounded by additional medical or lifestyle interventions were excluded. Study selection, assessment, validity, data extraction, and analysis were undertaken as specified by the Cochrane Collaboration and the GRADE working group. For trials, we pooled data for weight change using inverse variance models with random effects. We pooled cohort study data where possible to estimate effect sizes, expressed as odds ratios for risk of obesity or β coefficients for change in adiposity per unit of intake.
+
+    > Results
+      30 of 7895 trials and 38 of 9445 cohort studies were eligible. In trials of adults with ad libitum diets (that is, with no strict control of food intake), reduced intake of dietary sugars was associated with a decrease in body weight (0.80 kg, 95% confidence interval 0.39 to 1.21; P<0.001); increased sugars intake was associated with a comparable weight increase (0.75 kg, 0.30 to 1.19; P=0.001). Isoenergetic exchange of dietary sugars with other carbohydrates showed no change in body weight (0.04 kg, −0.04 to 0.13). Trials in children, which involved recommendations to reduce intake of sugar sweetened foods and beverages, had low participant compliance to dietary advice; these trials showed no overall change in body weight. However, in relation to intakes of sugar sweetened beverages after one year follow-up in prospective studies, the odds ratio for being overweight or obese increased was 1.55 (1.32 to 1.82) among groups with the highest intake compared with those with the lowest intake. Despite significant heterogeneity in one meta-analysis and potential bias in some trials, sensitivity analyses showed that the trends were consistent and associations remained after these studies were excluded.
+
+    > Conclusions
+      Among free living people involving ad libitum diets, intake of free sugars or sugar sweetened beverages is a determinant of body weight. The change in body fatness that occurs with modifying intakes seems to be mediated via changes in energy intakes, since isoenergetic exchange of sugars with other carbohydrates was not associated with weight change.
+
+    - quotes
+      !a
+
+    / October, 2012 - The Bmj
+    quote !a = Among free living people involving ad libitum diets, intake of free sugars or sugar sweetened beverages is a determinant of body weight. The change in body fatness that occurs with modifying intakes seems to be mediated via changes in energy intakes, since isoenergetic exchange of sugars with other carbohydrates was not associated with weight change.
+
+  // The Rise of Obesity and How to Make It Stop
+  doi: https://doi.org/xyz
+  ref 'Cian_et_al_01_06_2019
+    head = Cross-country comparisons show that nations with carbohydrate-focused diets tend to have the lowest obesity rates, while nations that eat a similar amount of carbohydrate and fat have the highest obesity rates
+
+    # - quotes
+    #   !a
+
+    / January, 2019 - DEFoW
+    quote !a =
+
+  // Body fat and obesity in Japanese Americans
+  doi: https://doi.org/10.1093/ajcn/53.6.1552s
+  ref 'Curb_et_al_06_1991
+    head = In 1965 a prospective study of greater than 12,000 Japanese men 45-69 y old and living in Japan, Hawaii, and California was initiated. Among the factors measured were height, weight, skinfold thicknesses, and 24-h dietary recall.
+
+    > Abstract
+      In 1965 a prospective study of greater than 12,000 Japanese men 45-69 y old and living in Japan, Hawaii, and California was initiated. Among the factors measured were height, weight, skinfold thicknesses, and 24-h dietary recall. The mean body mass index (BMI) was substantially lower for Japanese men in Japan than for Japanese men in California or Hawaii for each 5-y age group. Mean BMIs in Hawaii and California were similar. Values for subscapular skinfold thickness were also lower in Japan than in Hawaii or California in all age groups. Although total caloric intake was not greatly different between Japan and Hawaii, the percent caloric intake as fat was two times greater in Hawaii. Thus, these largely first- and second-generation immigrants exhibit increases in body weight that could be expected to significantly affect cardiovascular risk factor levels and endpoints.
+
+    - quotes
+      !a
+      !b
+
+    / June, 1991 - Am J Clin Nutr
+    quote !a = The mean body mass index (BMI) was substantially lower for Japanese men in Japan than for Japanese men in California or Hawaii for each 5-y age group. Mean BMIs in Hawaii and California were similar.
+
+    / June, 1991 - Am J Clin Nutr
+    quote !b = Values for subscapular skinfold thickness were also lower in Japan than in Hawaii or California in all age groups. Although total caloric intake was not greatly different between Japan and Hawaii, the percent caloric intake as fat was two times greater in Hawaii.
+
+  // Differences in cardiovascular disease risk factors between Japanese in Japan and Japanese-Americans in Hawaii: the INTERLIPID study
+  doi: https://doi.org/10.1038/sj.jhh.1001606
+  ref 'Ueshima_et_al_09_2003
+    head = Despite increase in serum total cholesterol, high smoking rate, and frequency of adverse blood pressure levels in Japan, coronary heart disease (CHD) incidence and mortality apparently remain substantially lower at all ages in Japan than in the US and other Western societies. To better understand these differences, we compared CHD biomedical risk factors and dietary variables in Japanese living in Japan and 3rd and 4th generation Japanese emigrants living a primarily Western lifestyle in Hawaii, in an ancillary study of the INTERMAP.
+
+    > Abstract
+      Despite increase in serum total cholesterol, high smoking rate, and frequency of adverse blood pressure levels in Japan, coronary heart disease (CHD) incidence and mortality apparently remain substantially lower at all ages in Japan than in the US and other Western societies. To better understand these differences, we compared CHD biomedical risk factors and dietary variables in Japanese living in Japan and 3rd and 4th generation Japanese emigrants living a primarily Western lifestyle in Hawaii, in an ancillary study of the INTERMAP. Men and women aged 40-59 years were examined by common standardized methods-four samples in Japan (574 men, 571 women) and a Japanese-American sample in Hawaii (136 men, 131 women). Average systolic (SBP) and diastolic (DBP) blood pressures were significantly higher in men in Japan than in Hawaii; there were no significant differences in women. The treatment rate of hypertension was much lower in Japan than Hawaii. Smoking prevalence was higher, markedly so for men, in Japan than Hawaii. Body mass index, serum total and low-density lipoprotein cholesterol, HbA1c, and fibrinogen were significantly lower in Japan than in Hawaii; high-density lipoprotein cholesterol was higher in Japan. Total fat, saturated fatty acid intake, and Keys dietary lipid score were lower in Japan than in Hawaii. Polyunsaturated/saturated fatty acid ratio and omega-3 fatty acid intake were higher in Japan than in Hawaii. In conclusion, levels of several, especially lipid, CHD risk factors were generally lower in Japanese in Japan than in Japanese in Hawaii. These differences were smaller for women than men between Japan and Hawaii. They may partly explain lower CHD incidence and mortality in Japan than Western industrialized countries.
+
+    - quotes
+      !a
+
+    / September, 2003 - J Hum Hypertens
+    quote !a = Levels of several, especially lipid, CHD risk factors were generally lower in Japanese in Japan than in Japanese in Hawaii. These differences were smaller for women than men between Japan and Hawaii. They may partly explain lower CHD incidence and mortality in Japan than Western industrialized countries.
+
+  // Age relations of cardiovascular risk factors in a traditional Melanesian society: the Kitava Study
+  doi: https://doi.org/10.1093/ajcn/66.4.845
+  ref 'Lindeberg_et_al_10_1997
+    head = This study examined cross-sectional age relations of blood pressure, anthropometric indexes, serum lipids, and hemostatic variables in 203 subsistence horticulturists aged 20-86 y in Kitava, Trobriand Islands, Papua New Guinea. The population is characterized by extreme leanness (despite food abundance), low blood pressure, low plasma plasminogen activator inhibitor 1 activity, and rarity of cardiovascular disease.
+
+    > Abstract
+      This study examined cross-sectional age relations of blood pressure, anthropometric indexes, serum lipids, and hemostatic variables in 203 subsistence horticulturists aged 20-86 y in Kitava, Trobriand Islands, Papua New Guinea. The population is characterized by extreme leanness (despite food abundance), low blood pressure, low plasma plasminogen activator inhibitor 1 activity, and rarity of cardiovascular disease. Tubers, fruit, fish, and coconut are dietary staples whereas dairy products, refined fat and sugar, cereals, and alcohol are absent and salt intake is low. Although diastolic blood pressure was not associated with age in Kitavans, systolic blood pressure increased linearly after 50 y of age in both sexes. Body mass index decreased with age in both sexes. Serum total cholesterol, triacylglycerol, low-density-lipoprotein cholesterol, and apolipoprotein B increased in males between 20 and 50 y of age, whereas high-density-lipoprotein cholesterol and apolipoprotein A-I decreased. There were no significant differences in these indexes with age in the few females studied. A slight linear age-related increase of lipoprotein(a) was present in males. Plasma fibrinogen, factor VII clotting activity, factor VIII clotting activity, and von Willebrand factor antigen increased with age in both sexes but plasminogen activator inhibitor 1 activity did not. The modest or absent relations between the indexes measured and age are apparently important explanations of the virtual nonexistence of stroke and ischemic heart disease in Kitava.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / October, 1997 - Am J Clin Nutr
+    quote !a = Although diastolic blood pressure was not associated with age in Kitavans, systolic blood pressure increased linearly after 50 y of age in both sexes. Body mass index decreased with age in both sexes. Serum total cholesterol, triacylglycerol, low-density-lipoprotein cholesterol, and apolipoprotein B increased in males between 20 and 50 y of age, whereas high-density-lipoprotein cholesterol and apolipoprotein A-I decreased.
+
+    / October, 1997 - Am J Clin Nutr
+    quote !b = There were no significant differences in these indexes with age in the few females studied. A slight linear age-related increase of lipoprotein(a) was present in males.
+
+    / October, 1997 - Am J Clin Nutr
+    quote !c = The modest or absent relations between the indexes measured and age are apparently important explanations of the virtual nonexistence of stroke and ischemic heart disease in Kitava.
+
   // Individual differences in the use of pleasantness and palatability ratings
   doi: https://doi.org/10.1006/appe.1999.0224
   ref 'Yeomans_et_al_06_1999

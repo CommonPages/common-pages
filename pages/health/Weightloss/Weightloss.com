@@ -13,10 +13,13 @@ subject module Weightloss
   -
     Exercise
   -
-    Foodreward    
+    Foodreward
+  -
+    Fats
 
   - Claims on weight gain
     !ChildObesity
+    
   claim !ChildObesity = Damage to specific parts of the hypothalamus cause severe obesity in children
     -
       'Bereket_et_al_05_11_2012

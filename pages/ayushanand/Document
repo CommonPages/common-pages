@@ -1,0 +1,7 @@
+id: "#ayushanand"
+name: "Ayush Anand"
+network: "common.page"
+use:
+  - "#covid-19"
+  - "#health"
+  - "#ayushanand"
