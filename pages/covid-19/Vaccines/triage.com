@@ -102,6 +102,29 @@
 
   #### 07/02/21 ####
 
+
+  claim !Indiamortality2ndwave = One study analysis shows that existing population samples allow for an alternative estimation of deaths due to Covid19 in India - a death toll of about 2.2 million persons by late May 2021. This is the largest number of Covid-19 deaths in the world. Once standardized for its age and sex structure, India’s Covid-19 mortality rate is above that of Brazil or the USA. Only one out 7 Covid-19 deaths appear to be registered in India. India’s Covid-19 death toll is likely to continue rising till the end of the second wave.
+
+  # An alternative estimation of India's Covid-19 mortality burden
+    -
+      'Guilmoto_et_al_07_02_2021
+      'Guilmoto_et_al_07_02_2021.!a
+      'Guilmoto_et_al_07_02_2021.!b
+      'Guilmoto_et_al_07_02_2021.!c
+      'Guilmoto_et_al_07_02_2021.!d
+
+    claim !Weddingdelta = Transmission event occurred at events surrounding a wedding outside of Houston, TX. Two patients from India, likely transmitted the Delta variant to other guests. Viral sequencing revealed 6 vaccinated patients were infected with the Delta SARS31 CoV-2 variant. With no histories of vaccine breakthrough, this suggests Delta variant may possess immune evasion in patients that received the Pfizer BNT162b2, Moderna mRNA-1273, and Covaxin BBV152. Antibodies elicited in patients receiving Pfizer BNT162b2, Moderna mRNA, Covaxin BBV152 may provide decreased immunity to the Delta variant.
+      -
+        'Farinholt_et_al_07_04_2021
+        'Farinholt_et_al_07_04_2021.!a
+        'Farinholt_et_al_07_04_2021.!b
+
+    claim !CD4CD8Tcell = A study found that the SARS-CoV-2 variants (B.1.1.7, B.1.351, P.1, and CAL.20C lineages) do not majorly disrupt the total SARS-CoV-2 T cell reactivity - total of 7% and 3% of previously identified CD4+ and CD8+ T cell epitopes, respectively, are impacted by mutations in the various VOCs and in recipients of the Moderna (mRNA-1273) or Pfizer/BioNTech (BNT162b2) COVID-19 vaccines. 93% and 97% of CD4 and CD8 epitopes are 100% conserved across variants.
+      -
+        'Tarke_et_al_07_01_2021
+        'Tarke_et_al_07_01_2021.!a
+
+########
   / J&J vaccine efficacy against Beta (B.1.351), Gamma (P.1) and Delta (B.1.617.2)
   claim !JJneutralizing = Study showed that neutralizing activity in J&J vaccine is more strongly reduced against the Beta (B.1.351; 3.6-fold) and Gamma (P.1; 3.4-fold) variants than against the rapidly spreading Delta (B.1.617.2; 1.6-fold) variant.
     -
