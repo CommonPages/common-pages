@@ -8,11 +8,6 @@ feed Sangeeta
 
 
 
-  // Hypothalamic obesity in children
-  doi: https://doi.org/10.1159/000368102
-  ref 'Bereket_et_al_05_11_2012
-    head =
-
   #
   // Prospective mapping of viral mutations that escape antibodies used to treat COVID
   doi: https://doi.org/xyz
