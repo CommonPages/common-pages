@@ -1,5 +1,7 @@
+—
 / Longevity
 subject Longevity
+  head = Aging is defined when two criteria are met. First, the probability of death at any point in time increases with the age of the organism. This statistical definition applies from yeast to mammals and reflects the progressive nature of aging. Second, characteristic changes in phenotype occur in all individuals over time due to the limiting processes.
 
   >
     The life span of an organism, is the sum of deleterious changes and counteracting repair and maintenance mechanisms that respond to the damage

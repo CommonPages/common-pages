@@ -113,15 +113,31 @@ feed Sangeetasugardebate
 
 
   #
-  // Genetic identification of a neural circuit that suppresses appetite
-  doi: https://doi.org/10.1038/nature12596
-  ref 'Carter_et_al_10_13_2013
-    head =
+  // Central nervous system control of food intake and body weight
+  doi: https://doi.org/10.1038/nature05026
+  ref 'Morton_et_al_09_21_2006
+    head = The physiological importance of this homeostatic control system is highlighted by the severe obesity that results from dysfunction of any of several of its key components. This new information provides a biological context within which to consider the global obesity epidemic and identifies numerous potential avenues for therapeutic intervention and future research.
+
+    > Abstract
+      The capacity to adjust food intake in response to changing energy requirements is essential for survival. Recent progress has provided an insight into the molecular, cellular and behavioural mechanisms that link changes of body fat stores to adaptive adjustments of feeding behaviour. The physiological importance of this homeostatic control system is highlighted by the severe obesity that results from dysfunction of any of several of its key components. This new information provides a biological context within which to consider the global obesity epidemic and identifies numerous potential avenues for therapeutic intervention and future research.
+
     - quotes
       !a
+      !b
+      !c
+      !d 
 
-    / October, 2013 - Nature
-    quote !a =
+    / September, 2006 - Nature
+    quote !a =  Obesity involves the defence of an elevated body weight, rather than the absence of regulation, and that deleterious interactions between obesity-promoting environmental factors and homeostatic control systems contribute to common forms of obesity and, hence, the global obesity pandemic.
+
+    / September, 2006 - Nature
+    quote !b = In response to afferent input from leptin, homeostatic circuits in the hypothalamus elicit compensatory reductions of food intake by enhancing the response to meal-related satiety signals. Brain areas beyond the ARC (arcuate nucleus) also probably contribute to leptin’s enhancement of the response to satiety signals, because leptin receptors are present in many brain areas involved in food intake control, including the NTS(nucleus tractus solitarius) itself and because leptin administration directly into the NTS reduces food intake.
+
+    / September, 2006 - Nature
+    quote !c = Findings support a view of the lateral hypothalamic area as an integrative node for homeostatic, satiety and reward-related inputs that collectively govern motor programs that activate feeding behaviour.
+
+    / September, 2006 - Nature
+    quote !d = By decreasing neuronal input from adiposity signals, energy restriction increases responses to rewarding stimuli as an adaptive mechanism motivating animals threatened by caloric insufficiency to seek and obtain palatable foods.
 
   #
   // The nutrition transition in Cuba in the nineties: an overview

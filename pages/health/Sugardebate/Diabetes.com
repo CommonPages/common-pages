@@ -17,7 +17,6 @@ subject Diabetes
 
   >
     Exercise substantially reduces the risk of developing type 2 (common) diabetes.
-
   -
     !ExerciseRCT
     !ExerciseRCT2

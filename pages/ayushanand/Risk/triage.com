@@ -11,3 +11,10 @@ index: hide
 
   # society Generator function - https://medium.com/predict/solving-the-generator-functions-part-1-fea3cb8170db
   # https://futurethinkers.org/daniel-schmachtenberger-generator-functions/
+
+
+  # Claims and UN documents around - Nuclear Disarmament agreement while nucear arms races b/w countries at the same time.
+  # Every type of tech has created an arms race.
+
+
+  # Why are the patters of human behavior as we increase our total tech capacity, why are they increasing catastrophic risks - Generator function of risk or our Inability to solve them  

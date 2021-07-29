@@ -1,6 +1,6 @@
-/ Role of Milk in Weight loss
-subject Carbohydrate
-  head = Role of Sugar in Weight loss
+/ Carbs
+subject Carbs
+  head =
 
 
   claim !LowfatHcwtlossnorestict = Low-fat, high-carbohydrate diets cause weight loss, even without deliberate portion control.
@@ -33,7 +33,6 @@ subject Carbohydrate
 
 
     claim !Leptinghrelin = A study demostrated  that consumption of a low fat, high carbohydrate diet led to significant reductions in food intake and body weight without an increase in AUC-leptin. A later increase in amplitude of the 24-h leptin signal may contribute to ongoing weight loss. Fat restriction avoids the increase in ghrelin levels caused by dietary energy restriction.
-
       -
         'Weigle_et_al_04_01_2003
         'Weigle_et_al_04_01_2003.!a
@@ -46,8 +45,6 @@ subject Carbohydrate
         'Astrup_et_al_12_04_2000.!a
         'Astrup_et_al_12_04_2000.!b
         'Astrup_et_al_12_04_2000.!c
-
-
 
   claim !Lowcalorierfinedcarbswtloss = A low-calorie diet composed almost entirely of refined carbohydrate, including sugar, causes substantial weight loss
 
@@ -81,7 +78,6 @@ subject Carbohydrate
         'Kempner_et_al_04_18_2016.!d
         'Kempner_et_al_04_18_2016.!e
 
-
   claim !DietaryfatAnimalstudies = Dietary fat can be fattening in a variety of nonhuman species
 
     # >
@@ -113,7 +109,6 @@ subject Carbohydrate
       -
         'Kennedy_et_al_06_01_2007
         'Kennedy_et_al_06_01_2007.!a
-
 
   / Counter argument: High Fat infact leads to more weight loss
   claim !LowCarbdiet = A number of studies have shown that dieting subjects eating a high-fat, low-carbohydrate diet tend to lose more weight more rapidly than subjects eating a low-fat, high-carbohydrate diet. Various studies have convincingly shown the beneficial effect of ketogenic diet in reducing weight in obese subjects and obese subjects with a high total cholesterol level.
@@ -147,10 +142,6 @@ subject Carbohydrate
         'YancyJr_et_al_05_18_2004
         'YancyJr_et_al_05_18_2004.!a
         'YancyJr_et_al_05_18_2004.!b
-
-
-
-
 
   claim !DietaryFatHumanstudies = Dietary fat can be fattening in humans.
 
@@ -267,7 +258,6 @@ subject Carbohydrate
         'Menke_et_al_09_08_2015.!b
         'Menke_et_al_09_08_2015.!c
         'Menke_et_al_09_08_2015.!d
-
 
   claim !USCarbfatprotienintake = Carbohydrate, fat, and protein intake in the US over the last century.
     # >
