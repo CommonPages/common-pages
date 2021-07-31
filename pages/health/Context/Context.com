@@ -133,3 +133,26 @@ model module Concepts
   / Reward System
   model RewardSystem
     head = The reward system (the mesocorticolimbic circuit) is a group of neural structures responsible for incentive salience (i.e., motivation and "wanting"; desire or craving for a reward), associative learning (primarily positive reinforcement and classical conditioning), and positively-valenced emotions, particularly ones involving pleasure as a core component (e.g., joy, euphoria and ecstasy). he reward system motivates animals to approach stimuli or engage in behaviour that increases fitness (sex, energy-dense foods, etc.).
+
+  link: https://en.wikipedia.org/wiki/Liraglutide
+  / Liraglutide
+  model Liraglutide
+    head = Liraglutide, sold under the brand name Victoza among others, is an anti-diabetic medication used to treat type 2 diabetes, obesity, and chronic weight management. In diabetes it is a less preferred agent compared to metformin. Its effects on long-term health outcomes like heart disease and life expectancy are unclear. It is given by injection under the skin.
+
+    >
+      Liraglutide is an acylated glucagon-like peptide-1 (GLP-1) agonist, derived from human GLP-1-(7-37), a less common form of endogenous GLP-1. It reduces meal-related hyperglycemia (for 24 hours after administration) by increasing insulin secretion (only) when required by increasing glucose levels, delaying gastric emptying, and suppressing prandial glucagon secretion
+
+  link: https://en.wikipedia.org/wiki/Orlistat
+  / Orlistat
+  model Orlistat
+    head = Orlistat is a drug designed to treat obesity. Its primary function is preventing the absorption of fats from the human diet by acting as a lipase inhibitor, thereby reducing caloric intake. It is intended for use in conjunction with a healthcare provider-supervised reduced-calorie diet
+
+  link: https://en.wikipedia.org/wiki/Appetite
+  / Appetite
+  model Appetite
+    head = Appetite is the desire to eat food, sometimes due to hunger. Appealing foods can stimulate appetite even when hunger is absent, although appetite can be greatly reduced by satiety. Appetite exists in all higher life-forms, and serves to regulate adequate energy intake to maintain metabolic needs. It is regulated by a close interplay between the digestive tract, adipose tissue and the brain. Appetite has a relationship with every individual's behavior.
+
+  link: https://en.wikipedia.org/wiki/Glycemic_load
+  / Glycemic Load
+  model GlycemicLoad
+    head = The glycemic load (GL) of food is a number that estimates how much the food will raise a person's blood glucose level after eating it. One unit of glycemic load approximates the effect of eating one gram of glucose. Glycemic load accounts for how much carbohydrate is in the food and how much each gram of carbohydrate in the food raises blood glucose levels. Glycemic load is based on the glycemic index (GI), and is calculated by multiplying the grams of available carbohydrate in the food by the food's glycemic index, and then dividing by 100.

@@ -2,146 +2,89 @@
 subject Carbs
   head =
 
+  >
+    Low-fat, high-carbohydrate diets cause weight loss, even without deliberate portion control.
+    In one study, the low-fat diet supplied about twice as much carbohydrate, and 1.5 times as much sugar, as the low-carbohydrate diet, although neither diet was high in sugar. It also had about twice the {Concepts.GlycemicLoad glycemic load}. In another weight loss study, participants were transitioned to low-fat diet and told to eat as much as they wanted. Despite increase in total carbohydrate intake increased, participants steadily lost weight and body fat over a 12-week period. Meta analysis of 16 low fat diet study also reported low-fat diets without deliberate portion control cause weight loss.
+  -
+    !NodiffbwHLFHLFdiets
+    !Leptinghrelin
+  - Meta Analysis
+    !MetastudyLFdiet
 
-  claim !LowfatHcwtlossnorestict = Low-fat, high-carbohydrate diets cause weight loss, even without deliberate portion control.
+  >
+    A low-calorie diet composed almost entirely of refined carbohydrate, including sugar, causes substantial weight loss. One study have demonstrated that refined carbohydrate does not override the impact of calorie intake and physical activity on body fatness. Result of another study showed that the rice diet was also effective for treating diabetes, whether or not it was calorie-restricted.
+  -
+    !Ricereduction
+    !Ricedietdiabetes
 
-    # >
-    #   The most rigorous study on this is the DIETFITS randomized controlled trial, which was partially funded by Gary Taubes’s organization NuSI.  In 609 people, a whole-food low-fat diet resulted in 12 pounds (5.3 kg) of weight loss at one year, not significantly different from the 13 pounds (6.0 kg) of weight lost on a whole-food low-carbohydrate diet. Neither diet included advice to restrict calorie intake.  The low-fat diet supplied about twice as much carbohydrate, and 1.5 times as much sugar, as the low-carbohydrate diet, although neither diet was high in sugar. It also had about twice the glycemic load.
+  >
+    Dietary fat can be fattening in a variety of nonhuman species. A review paper on this topic states that “With few exceptions, obesity is induced by high-fat diets in monkeys, dogs, pigs, hamsters, squirrels, rats, and mice.” There are hundreds of studies demonstrating this, but the most conclusive one was published in 2018 by John Speakman’s lab. They fed five different strains of mice diets varying in fat, carbohydrate, and protein content and showed that body fatness was primarily linked to the amount of fat the mice were eating. Body fatness increased as dietary fat increased up to 60% of calories, and then body fatness declined as dietary fat increased further (this is consistent with other research showing that the very-high-fat, very-low-carb ketogenic diet promotes leanness in mice, as it does in humans). Diets high in sugar and refined starch were not particularly fattening. The takeaway is that the most fattening diet contains abundant fat and carbohydrate together, while diets at the extremes (very-low-fat and very-low-carb) are more slimming.
+  -
+    !ReviewDietfat
+    !Micestudy
+    !Ketogenicdietanimalstudy
 
+
+  # Counter in MonogenicObesity - Low Carb Diet
+
+  claim !NodiffbwHLFHLFdiets = In a randomized clinical trial among 609 overweight adults, there was no significant difference in 12-month weight loss between the HLF and HLF diets, and neither genotype pattern nor baseline insulin secretion was associated with the dietary effects on weight loss.
     -
-      !NodiffbwHLFHLFdiets
+      'Gardner_et_al_02_20_2018
+      'Gardner_et_al_02_20_2018.!a
+      'Gardner_et_al_02_20_2018.!b
 
-    # >
-    #   Another study conducted at the University of Washington tested the effect of dietary fat restriction on calorie intake and body weight in 16 overweight people using very careful measurements. When they were transitioned to a low-fat diet (15%) and told to eat as much as they wanted, their daily calorie intake dropped by 291 calories and they steadily lost weight and body fat over a 12-week period, losing 8 lbs (3.8 kg) total. Importantly, their total carbohydrate intake increased from 253 grams per day to 318 grams per day.
-
+  claim !Leptinghrelin = A study demostrated  that consumption of a low fat, high carbohydrate diet led to significant reductions in food intake and body weight without an increase in AUC-leptin. A later increase in amplitude of the 24-h leptin signal may contribute to ongoing weight loss. Fat restriction avoids the increase in ghrelin levels caused by dietary energy restriction.
     -
-      !Leptinghrelin
+      'Weigle_et_al_04_01_2003
+      'Weigle_et_al_04_01_2003.!a
+      'Weigle_et_al_04_01_2003.!b
+      'Weigle_et_al_04_01_2003.!c
 
-    # >
-    #   A meta-analysis (study of studies) representing 16 low-fat diet studies also reported that low-fat diets without deliberate portion control cause weight loss.
+  claim !MetastudyLFdiet = A meta-analysis, based on 19 controlled, ad libitum, low-fat, 2–12 month intervention studies involving 1910 individuals of both genders, showed that ad libitum, low-fat diets cause weight loss which is more pronounced in subjects with a higher initial body weight. The meta-analysis revealed a 3.2 kg greater weight loss as a result of consuming a low-fat ad libitum diet. Having a body weight 10 kg higher than the average pre-treatment body weight was associated with a 2.0–2.6 kg greater difference in weight loss.
     -
-      !MetastudyLFdiet
+      'Astrup_et_al_12_04_2000
+      'Astrup_et_al_12_04_2000.!a
+      'Astrup_et_al_12_04_2000.!b
+      'Astrup_et_al_12_04_2000.!c
 
-    claim !NodiffbwHLFHLFdiets = In a randomized clinical trial among 609 overweight adults, there was no significant difference in 12-month weight loss between the HLF and HLF diets, and neither genotype pattern nor baseline insulin secretion was associated with the dietary effects on weight loss.
-      -
-        'Gardner_et_al_02_20_2018
-        'Gardner_et_al_02_20_2018.!a
-        'Gardner_et_al_02_20_2018.!b
-
-
-        # Glycemic load - MODEL https://en.wikipedia.org/wiki/Glycemic_load
-
-
-    claim !Leptinghrelin = A study demostrated  that consumption of a low fat, high carbohydrate diet led to significant reductions in food intake and body weight without an increase in AUC-leptin. A later increase in amplitude of the 24-h leptin signal may contribute to ongoing weight loss. Fat restriction avoids the increase in ghrelin levels caused by dietary energy restriction.
-      -
-        'Weigle_et_al_04_01_2003
-        'Weigle_et_al_04_01_2003.!a
-        'Weigle_et_al_04_01_2003.!b
-        'Weigle_et_al_04_01_2003.!c
-
-    claim !MetastudyLFdiet = A meta-analysis, based on 19 controlled, ad libitum, low-fat, 2–12 month intervention studies involving 1910 individuals of both genders, showed that ad libitum, low-fat diets cause weight loss which is more pronounced in subjects with a higher initial body weight. The meta-analysis revealed a 3.2 kg greater weight loss as a result of consuming a low-fat ad libitum diet. Having a body weight 10 kg higher than the average pre-treatment body weight was associated with a 2.0–2.6 kg greater difference in weight loss.
-      -
-        'Astrup_et_al_12_04_2000
-        'Astrup_et_al_12_04_2000.!a
-        'Astrup_et_al_12_04_2000.!b
-        'Astrup_et_al_12_04_2000.!c
-
-  claim !Lowcalorierfinedcarbswtloss = A low-calorie diet composed almost entirely of refined carbohydrate, including sugar, causes substantial weight loss
-
-    # >
-    #   One paper discusses 106 patients who lost an average of 140 pounds (64 kg) and improved their blood sugar control eating the “rice diet”, a diet composed almost entirely of white rice, fruit, juice, and white sugar. The weight loss version of the rice diet was low in calories, supplied over 200 grams of mostly refined carbohydrate per day, and patients also increased physical activity.  This demonstrates that refined carbohydrate does not override the impact of calorie intake and physical activity on body fatness.
+  claim !Ricereduction = Study on 106 massively obese patients with rice/reduction diet program demonstrated that massively obese persons can achieve marked weight reduction (least a 45-kg), even normalization of weight, without hospitalization, surgery, or pharmacologic intervention. Accompanying cardiovascular risk factors show great decrements concomitant with weight loss. Men lost weight at a greater rate than women.
     -
-      !Ricereduction
-    # >
-    #   The rice diet was also effective for treating diabetes, whether or not it was calorie-restricted.
+      'Kempner_et_al_1975
+      'Kempner_et_al_1975.!a
+      'Kempner_et_al_1975.!b
+      'Kempner_et_al_1975.!c
+      'Kempner_et_al_1975.!d
+
+  claim !Ricedietdiabetes = A report on lOO patients with diabetes mellitus associated with vascular disease including diabetic retinopathy who were treated with the rice diet showed that the course of the disease can be favorably changed by intensive treatment with the rice diet. Manifestations of cardiovascular and renal diseases improved significantly in the majority of cases. Hypercholesteremia, present in 80 of the lOO cases, decreased in 85 per cent.
     -
-      !Ricedietdiabetes
+      'Kempner_et_al_04_18_2016
+      'Kempner_et_al_04_18_2016.!a
+      'Kempner_et_al_04_18_2016.!b
+      'Kempner_et_al_04_18_2016.!c
+      'Kempner_et_al_04_18_2016.!d
+      'Kempner_et_al_04_18_2016.!e
 
-    claim !Ricereduction = Study on 106 massively obese patients with rice/reduction diet program demonstrated that massively obese persons can achieve marked weight reduction (least a 45-kg), even normalization of weight, without hospitalization, surgery, or pharmacologic intervention. Accompanying cardiovascular risk factors show great decrements concomitant with weight loss. Men lost weight at a greater rate than women.
-      -
-        'Kempner_et_al_1975
-        'Kempner_et_al_1975.!a
-        'Kempner_et_al_1975.!b
-        'Kempner_et_al_1975.!c
-        'Kempner_et_al_1975.!d
-
-
-    # Manifestations of cardiovascular and renal disease such as hypertension, enlargement of the heart, electrocardiographic abnormalities, azotemia and proteinuria improved significantly in the majority of cases. Hypercholesteremia, present in 80 of the lOO cases, decreased in 85 per cent.
-
-    claim !Ricedietdiabetes = A report on lOO patients with diabetes mellitus associated with vascular disease including diabetic retinopathy who were treated with the rice diet showed that the course of the disease can be favorably changed by intensive treatment with the rice diet.
-
-      -
-        'Kempner_et_al_04_18_2016
-        'Kempner_et_al_04_18_2016.!a
-        'Kempner_et_al_04_18_2016.!b
-        'Kempner_et_al_04_18_2016.!c
-        'Kempner_et_al_04_18_2016.!d
-        'Kempner_et_al_04_18_2016.!e
-
-  claim !DietaryfatAnimalstudies = Dietary fat can be fattening in a variety of nonhuman species
-
-    # >
-    #   A review paper on this topic states that “With few exceptions, obesity is induced by high-fat diets in monkeys, dogs, pigs, hamsters, squirrels, rats, and mice.” There are hundreds of studies demonstrating this, but the most conclusive one was published in 2018 by John Speakman’s lab. They fed five different strains of mice diets varying in fat, carbohydrate, and protein content and showed that body fatness was primarily linked to the amount of fat the mice were eating. Body fatness increased as dietary fat increased up to 60% of calories, and then body fatness declined as dietary fat increased further (this is consistent with other research showing that the very-high-fat, very-low-carb ketogenic diet promotes leanness in mice, as it does in humans). Diets high in sugar and refined starch were not particularly fattening. The takeaway is that the most fattening diet contains abundant fat and carbohydrate together, while diets at the extremes (very-low-fat and very-low-carb) are more slimming.
+  claim !ReviewDietfat = Review focusing on animal studies point to dietary fat as one potentially important component in the etiology of human obesity. Several studies in various rodent models showed that increased body fat content still results when the hyperphagia is prevented suggesting that some metabolic effects of high-fat diets, independent of hyperphagia, may also be contributing to the obesity induced by high-fat diets. It is also clear from animal studies that genetic factors significantly modulate the body’s response to diets high in fat-derived energy. In contrast with the animal studies, studies in humans that have examined the relation between dietary fat content and body fat are inconclusive.
     -
-      !ReviewDietfat
-      !Micestudy
-      !Ketogenicdietanimalstudy
+      'West_et_al_03_01_1998
+      'West_et_al_03_01_1998.!a
+      'West_et_al_03_01_1998.!b
+      'West_et_al_03_01_1998.!c
+      'West_et_al_03_01_1998.!d
+      'West_et_al_03_01_1998.!e
+      'West_et_al_03_01_1998.!f
 
-
-    claim !ReviewDietfat = Review focusing on animal studies point to dietary fat as one potentially important component in the etiology of human obesity. Several studies in various rodent models showed that increased body fat content still results when the hyperphagia is prevented suggesting that some metabolic effects of high-fat diets, independent of hyperphagia, may also be contributing to the obesity induced by high-fat diets. It is also clear from animal studies that genetic factors significantly modulate the body’s response to diets high in fat-derived energy. In contrast with the animal studies, studies in humans that have examined the relation between dietary fat content and body fat are inconclusive.
-      -
-        'West_et_al_03_01_1998
-        'West_et_al_03_01_1998.!a
-        'West_et_al_03_01_1998.!b
-        'West_et_al_03_01_1998.!c
-        'West_et_al_03_01_1998.!d
-        'West_et_al_03_01_1998.!e
-        'West_et_al_03_01_1998.!f
-
-    claim !Micestudy = Study on mice showed that energy intake and adiposity was linked only to dietary fat levels and not protein or carbohydrate. Dopamine, opioid, and serotonin pathways were all stimulated by fat intake.
-      -
-        'Hu_et_al_07_12_2018
-        'Hu_et_al_07_12_2018.!a
-        'Hu_et_al_07_12_2018.!b
-        'Hu_et_al_07_12_2018.!c
-
-    claim !Ketogenicdietanimalstudy = Animal study showed that feeding of a ketogenic diet with a high content of fat and very low carbohydrate leads to weight loss by increasing energy expenditure. It also to distinct changes in metabolism and gene expression that appear consistent with the increased metabolism and lean phenotype seen. congruous with weight loss.
-      -
-        'Kennedy_et_al_06_01_2007
-        'Kennedy_et_al_06_01_2007.!a
-
-  / Counter argument: High Fat infact leads to more weight loss
-  claim !LowCarbdiet = A number of studies have shown that dieting subjects eating a high-fat, low-carbohydrate diet tend to lose more weight more rapidly than subjects eating a low-fat, high-carbohydrate diet. Various studies have convincingly shown the beneficial effect of ketogenic diet in reducing weight in obese subjects and obese subjects with a high total cholesterol level.
+  claim !Micestudy = Study on mice showed that energy intake and adiposity was linked only to dietary fat levels and not protein or carbohydrate. Dopamine, opioid, and serotonin pathways were all stimulated by fat intake.
     -
-      !ObeseHCL
-      !Obese
-      !Obesepatients
-      !Obesehyperlipidemic
+      'Hu_et_al_07_12_2018
+      'Hu_et_al_07_12_2018.!a
+      'Hu_et_al_07_12_2018.!b
+      'Hu_et_al_07_12_2018.!c
 
-    claim !ObeseHCL = Study on 66 healthy obese subjects with high cholesterol level showed the beneficial effects of ketogenic diet following its long term administration - body weight and body mass index decreased significantly. The level of total cholesterol, LDL cholesterol, triglycerides and blood glucose level decreased significantly and the level of HDL cholesterol increased. It demonstrated that low carbohydrate diet is safe to use for a longer period of time and favorably modifies the risk factors of heart disease in obese subjects with a high total cholesterol level
-      -
-        'Dashti_et_al_04_21_2006
-        'Dashti_et_al_04_21_2006.!a
-        'Dashti_et_al_04_21_2006.!b
-
-
-    claim !Obese = A prospective study (Kuwait) in 102 (42 male and 60 female) obese subjects showed that a ketogenic diet, in addition to acting as a natural therapy for weight reduction in obese patients, significantly decreases the level of triacylglycerols, total cholesterol, LDL cholesterol, and glucose and increases the level of HDL. The results indicate that the administration of a ketogenic diet for a relatively long period is safe and favorably modifies the risk factors of heart disease in obese patients.
-      -
-        'Dashti_et_al_11_10_2003
-        'Dashti_et_al_11_10_2003.!a
-
-
-    claim !Obesepatients = Study 83 obese patients (24-week ketogenic diet) showed the beneficial effects of a long-term ketogenic diet. It significantly reduced the body weight and body mass index of the patients. Furthermore, it decreased the level of triglycerides, LDL cholesterol and blood glucose, and increased the level of HDL cholesterol. Administering a ketogenic diet for a relatively longer period of time did not produce any significant side effects in the patients, confirming that it is safe to use a ketogenic diet for a longer period of time.
-      -
-        'Dashti_et_al_2004
-        'Dashti_et_al_2004.!a
-        'Dashti_et_al_2004.!b
-
-    claim !Obesehyperlipidemic = Study on 120 Community-dwelling overweight hyperlipidemic persons showed that over 24 weeks, a low-carbohydrate diet program led to greater weight loss, reduction in serum triglyceride level, and increase in HDL cholesterol level compared with a low-fat diet
-      -
-        'YancyJr_et_al_05_18_2004
-        'YancyJr_et_al_05_18_2004.!a
-        'YancyJr_et_al_05_18_2004.!b
+  claim !Ketogenicdietanimalstudy = Animal study showed that feeding of a ketogenic diet with a high content of fat and very low carbohydrate leads to weight loss by increasing energy expenditure. It also to distinct changes in metabolism and gene expression that appear consistent with the increased metabolism and lean phenotype seen. congruous with weight loss.
+    -
+      'Kennedy_et_al_06_01_2007
+      'Kennedy_et_al_06_01_2007.!a
 
   claim !DietaryFatHumanstudies = Dietary fat can be fattening in humans.
 

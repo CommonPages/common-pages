@@ -125,7 +125,7 @@ feed Sangeetasugardebate
       !a
       !b
       !c
-      !d 
+      !d
 
     / September, 2006 - Nature
     quote !a =  Obesity involves the defence of an elevated body weight, rather than the absence of regulation, and that deleterious interactions between obesity-promoting environmental factors and homeostatic control systems contribute to common forms of obesity and, hence, the global obesity pandemic.
@@ -1562,7 +1562,6 @@ feed Sangeetasugardebate
     quote !e = We found a greater fall in VO2 during sleep in obese individuals than in controls when the resting metabolic rates (RMR)  was used as a baseline. The reasons for this greater fall in metabolism are unknown.
 
 
-
   #
   // High energy expenditure masks low physical activity in obesity
   doi: https://doi.org/10.1038/ijo.2012.172
@@ -1967,7 +1966,7 @@ feed Sangeetasugardebate
     quote !b = These (GWA) studies are unbiased because they examine the whole genome without preconceived notions about which genes or biological pathways might be important.
 
   #
-  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  // Variability in the heritability of body mass index: a systematic review and meta-regression
   doi: https://doi.org/10.3389/fendo.2012.00029
   ref 'Elks_et_al_28_02_2012
     head = We performed a systematic review that identified 88 independent estimates of BMI heritability from twin studies (total 140,525 twins) and 27 estimates from family studies (42,968 family members).
@@ -1988,8 +1987,6 @@ feed Sangeetasugardebate
 
     # / February, 2012 - Front. Endocrinol.
     # quote !a = Although the observed differences in heritability according to aspects of study design are relatively small, together, the above factors explained 47% of the heterogeneity in estimates of BMI heritability from twin studies.
-
-
 
 
 

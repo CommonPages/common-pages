@@ -2,6 +2,31 @@
 subject Fats
   head =
 
+  # From Calorie section
+
+  
+  -
+    !CounterReviewCarb
+
+  / Carbohydrate restriction enhances body fat loss
+  claim !CounterReviewCarb = The carbohydrate–insulin model of obesity posits that habitual consumption of a high-carbohydrate diet sequesters fat within adipose tissue because of hyperinsulinemia and results in adaptive suppression of energy expenditure (EE). There are several studies that claim about a metabolic advantage of carbohydrate restriction for enhancing body fat loss.
+
+    -
+      !Reviewcarbrestriction
+
+    claim !Reviewcarbrestriction = A review on studies show that, under conditions of carbohydrate restriction, fuel sources shift from glucose and fatty acids to fatty acids and ketones, and that ad libitum–fed carbohydrate-restricted diets lead to appetite reduction, weight loss, and improvement in surrogate markers of cardiovascular disease.
+      -
+        'Westman_et_al_08_01_2007
+        'Westman_et_al_08_01_2007.!a
+        'Westman_et_al_08_01_2007.!b
+        'Westman_et_al_08_01_2007.!c
+        'Westman_et_al_08_01_2007.!d
+        'Westman_et_al_08_01_2007.!e
+
+
+  ##
+
+
   >
     Cultures with very high intakes of carbohydrate tend to be lean, even if the carbohydrate is white rice
 
