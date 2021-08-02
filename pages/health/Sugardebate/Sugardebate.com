@@ -7,9 +7,7 @@ subject module Sugardebate
   -
     Calories
   -
-    Carbs  
-  -
-    Fats
+    CarbsFat  
   -
     Diabetes
   -

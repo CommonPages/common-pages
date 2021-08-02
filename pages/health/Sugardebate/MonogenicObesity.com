@@ -64,6 +64,7 @@ subject MonogenicCauses
 
 
 
+  # Counter to Dietary Fat claims 15,16
   / Counter argument: High Fat infact leads to more weight loss
   claim !LowCarbdiet = A number of studies have shown that dieting subjects eating a high-fat, low-carbohydrate diet tend to lose more weight more rapidly than subjects eating a low-fat, high-carbohydrate diet. Various studies have convincingly shown the beneficial effect of ketogenic diet in reducing weight in obese subjects and obese subjects with a high total cholesterol level.
     -
@@ -95,4 +96,25 @@ subject MonogenicCauses
       -
         'YancyJr_et_al_05_18_2004
         'YancyJr_et_al_05_18_2004.!a
-        'YancyJr_et_al_05_18_2004.!b  
+        'YancyJr_et_al_05_18_2004.!b
+
+
+  # From Calorie section
+
+  -
+    !CounterReviewCarb
+
+  / Carbohydrate restriction enhances body fat loss
+  claim !CounterReviewCarb = The carbohydrate–insulin model of obesity posits that habitual consumption of a high-carbohydrate diet sequesters fat within adipose tissue because of hyperinsulinemia and results in adaptive suppression of energy expenditure (EE). There are several studies that claim about a metabolic advantage of carbohydrate restriction for enhancing body fat loss.
+
+    -
+      !Reviewcarbrestriction
+
+    claim !Reviewcarbrestriction = A review on studies show that, under conditions of carbohydrate restriction, fuel sources shift from glucose and fatty acids to fatty acids and ketones, and that ad libitum–fed carbohydrate-restricted diets lead to appetite reduction, weight loss, and improvement in surrogate markers of cardiovascular disease.
+      -
+        'Westman_et_al_08_01_2007
+        'Westman_et_al_08_01_2007.!a
+        'Westman_et_al_08_01_2007.!b
+        'Westman_et_al_08_01_2007.!c
+        'Westman_et_al_08_01_2007.!d
+        'Westman_et_al_08_01_2007.!e

@@ -7,7 +7,6 @@ subject Foodreward
 
   - Studies on Animals
     !DopamineAnimal
-
   - Studies on Humans
     !ChildrenFat
     !ChildrenCarbs
@@ -15,10 +14,8 @@ subject Foodreward
     The combination of carbohydrate and fat causes greater activity in dopamine-responsive brain regions, and greater eating drive, than either alone. The most commonly/intensely craved foods combine carbohydrate and fat together, while foods that are high in sugar or fat alone are less commonly craved
   -
     !FatsCarbs
-
   >
     Foods combining carbohydrate and fat are the most likely to trigger cravings and addiction-like behaviors, including savory foods that contain no sugar.  The most commonly craved food is chocolate. Foods that are only high in sugar or fat can also trigger cravings, but it’s less common.
-
   -
     !CravingEatingDisorder
     !CravingWomen

@@ -142,7 +142,7 @@ feed Sangeetasugardebate
   #
   // The nutrition transition in Cuba in the nineties: an overview
   doi: https://doi.org/10.1038/nature12596
-  ref 'Rodríguez-Ojea_et_al_12_06_2006
+  ref 'Rodriguez_et_al_12_06_2006
     head = To describe and analyse the changes in diet, physical activity and body composition of the Cuban population during the 1990s and the health implications of these changes- Data on national food balance and physical activity are from government agencies and the Ministry of Public Health; nation-wide and local representative surveys were used to analyse body composition and leisure activities.
 
     > Objective
@@ -170,8 +170,6 @@ feed Sangeetasugardebate
 
     / December, 2006 - Cambridge Core
     quote !c = The nutrition transition characteristics following the economic recovery in 1995–1996 resembled those of the 1980s because of the increased food availability, decreased physical activity and increased obesity prevalence.
-
-
 
 
 

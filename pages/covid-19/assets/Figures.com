@@ -1,6 +1,3 @@
-# 1 possible bug/redundancy -- what is the difference between the name and caption of the figure? By default it is taking the "Figure + identifier" at the top of the figure even when caption is at the bottom. We should have only one of them. A caption at the bottom should be used. The numbering of the figures should be automatic, or unnumbered.
-# 2 specifying only the width/height only should also work, this will make adding images easier. Now one has to calculate/scale the dimensions so that the image aspect ration is not skewed
-
 space Figures
 
   url: http://static.common.page/projects/covid-19/Process.png
