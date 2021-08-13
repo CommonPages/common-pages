@@ -156,3 +156,16 @@ model module Concepts
   / Glycemic Load
   model GlycemicLoad
     head = The glycemic load (GL) of food is a number that estimates how much the food will raise a person's blood glucose level after eating it. One unit of glycemic load approximates the effect of eating one gram of glucose. Glycemic load accounts for how much carbohydrate is in the food and how much each gram of carbohydrate in the food raises blood glucose levels. Glycemic load is based on the glycemic index (GI), and is calculated by multiplying the grams of available carbohydrate in the food by the food's glycemic index, and then dividing by 100.
+
+  link: https://en.wikipedia.org/wiki/Thermogenesis
+  / Thermogenesis
+  model Thermogenesis
+    head = Thermogenesis is the process of heat production in organisms. In humans, Depending on whether or not they are initiated through locomotion and intentional movement of the muscles, thermogenic processes can be classified as: Exercise-associated thermogenesis (EAT),  Non-exercise activity thermogenesis (NEAT)(energy expended for everything that is not sleeping, eating or sports-like exercise) & Diet-induced thermogenesis (DIT).
+
+    >
+      Non-shivering thermogenesis is regulated mainly by thyroid hormone and the sympathetic nervous system. Some hormones, such as norepinephrine and leptin, may stimulate thermogenesis by activating the sympathetic nervous system. Rising insulin levels after eating may be responsible for diet-induced thermogenesis (thermic effect of food). Progesterone also increases body temperature.
+
+  link: https://en.wikipedia.org/wiki/Resting_metabolic_rate
+  / Resting Metabolic Rate
+  model RestingMetabolicRate
+    head = Resting metabolic rate (RMR) is whole-body mammal (and other vertebrate) metabolism during a time period of strict and steady resting conditions that are defined by a combination of assumptions of physiological homeostasis and biological equilibrium.

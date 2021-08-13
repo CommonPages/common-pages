@@ -1,0 +1,5 @@
+id: "#climate"
+name: "Climate"
+network: "common.page"
+use:
+  - "#os-life"

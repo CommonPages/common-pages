@@ -10,3 +10,5 @@ page #health
     Weightloss
   -
     Nutrients
+  -
+    EnergyExpenditure  

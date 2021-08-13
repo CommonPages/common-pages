@@ -65,3 +65,11 @@ index: hide
 
   > https://dx.doi.org/10.1002%2Foby.21327
     These findings are important as there continues to be uncertainty about the benefit of NNS for weight management based largely on observational studies showing associations between NNS consumption, obesity and weight gain 1, 2, 8. In addition, it has been suggested, based on some animal studies, that NNS promote obesity by interfering with normal mechanisms of energy balance through dissociating the link between sweet taste and metabolizable energy 3, 24. Results of the present trial are not consistent with the findings from observational studies in humans or studies in animals.
+
+
+  > Top level Tree
+    Body composition
+    Weight loss - Energy Balance, Sugar Debate
+    Nutrition - Agitants, Irritants, Properties 
+    Disease Prevention -  Cancer Prevention, Diabetes, Obesity
+    Longevity - Energy Balance - Nutrition

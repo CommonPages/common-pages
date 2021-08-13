@@ -10,6 +10,7 @@ model module Foundations
     Immunology
     Epidemiology
     PublicHealth
+    Concepts
     # CoV2
 
   / Virology
