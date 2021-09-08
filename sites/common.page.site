@@ -4,6 +4,7 @@ name: common.page
 hosts:
   - common.page
   - common.test
+  - common.test:8080
   - www.claimspace.org
   - commonpage.dev
   - claimspace.org
@@ -18,4 +19,5 @@ pages:
   - "#aerosol"
   - "#health"
   - "#ayushanand"
-  - "#climate"  
+  - "#climate"
+  - "#cancer"
