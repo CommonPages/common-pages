@@ -169,3 +169,16 @@ model module Concepts
   / Resting Metabolic Rate
   model RestingMetabolicRate
     head = Resting metabolic rate (RMR) is whole-body mammal (and other vertebrate) metabolism during a time period of strict and steady resting conditions that are defined by a combination of assumptions of physiological homeostasis and biological equilibrium.
+
+  link: https://en.wikipedia.org/wiki/Excess_post-exercise_oxygen_consumption
+  / Excess post-exercise oxygen consumption
+  model EPOC
+    head = Excess post-exercise oxygen consumption (EPOC, informally called afterburn) is a measurably increased rate of oxygen intake following strenuous activity. In recovery, oxygen (EPOC) is used in the processes that restore the body to a resting state and adapt it to the exercise just performed. These include: hormone balancing, replenishment of fuel stores, cellular repair, innervation and anabolism. Another use of EPOC is to fuel the body’s increased metabolism from the increase in body temperature which occurs during exercise.
+
+    >
+      Post-exercise oxygen consumption replenishes the phosphagen system. New ATP is synthesized and some of this ATP donates phosphate groups to creatine until ATP and creatine levels are back to resting state levels again.
+
+  link: https://www.nature.com/articles/ijo2012124
+  / Adaptive Thermogenesis
+  model AT
+    head = Adaptive thermogenesis has been defined as the change in energy expenditure following acute and/or long-term overfeeding and underfeeding.
