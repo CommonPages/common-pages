@@ -1,6 +1,52 @@
 / Research Feed
 feed LongevityResearch
 
+  // Plant-predominant eating patterns – how effective are they for treating obesity and related cardiometabolic health outcomes? – a systematic review
+  doi: https://doi.org/10.1093/nutrit/nuab060
+  ref 'Remde_et_al_09_09_2021
+    head = To assess the efficacy of plant-predominant (vegan, vegetarian, plant-based whole foods [PBWFs]) diets in treating obesity and its main cardiometabolic sequelae: hyperlipidemia (HLD); indices of insulin resistance, glycemic control, and diabetes mellitus type 2 (DM2); and cardiovascular disease (CVD), including hypertension (HTN).
+
+    > Context
+      The obesity epidemic is a main driver of the chronic disease epidemic; however, present treatment approaches have suboptimal efficacy.
+
+    > Objectives
+      To assess the efficacy of plant-predominant (vegan, vegetarian, plant-based whole foods [PBWFs]) diets in treating obesity and its main cardiometabolic sequelae: hyperlipidemia (HLD); indices of insulin resistance, glycemic control, and diabetes mellitus type 2 (DM2); and cardiovascular disease (CVD), including hypertension (HTN).
+
+    > Data Sources
+      A systematic search of multiple databases was conducted for articles published between November 2019 and February 2020; databases searched included: PubMed, Medline (Ovid), Cochrane, CENTRAL, and CINAHL.
+
+    > Data Extraction and Analysis
+      All interventional trials (randomized controlled trials [RCTs] and trials of non-randomized experimental design) that met the inclusion criteria (English language, duration of at least 4 weeks, primary end point congruent with above objectives, no major flaws in research design that would prevent interpretation) were included in the review. A total of 3135 articles were scanned and 84 were selected. The articles were collated and summarized in 2 evidence tables. Risk of bias for RCTs was assessed using the Cochrane Risk-of-Bias tool 2 as a guide. For non-randomized trials, higher risk of bias was assumed, and the JBI Critical Appraisal tool was used as a guide to determine inclusion.
+
+    > Results
+      Plant-based diets, in general, demonstrated improved weight control and cardiometabolic outcomes related to lipids, cardiovascular end points, blood pressure, insulin sensitivity, A1C, and fasting glucose, and a lower risk of diabetes compared with usual diets and in some cases standard health-oriented diets such as the American Heart Association (AHA), American Diabetic Association (ADA), and Mediterranean diets. Preliminary studies suggest plant-predominant diets practiced as part of healthy lifestyle interventions may stabilize or even reverse DM 2 and CVD. The acceptability and sustainability of plant-predominant diets where measured were generally similar to other health-oriented diets.
+
+    > Conclusion
+      Plant-predominant diets can play a major role in reversing the obesity and chronic disease epidemics. In the setting of sustained lifestyle intervention programs, they may arrest or even reverse DM2 and CVD. Further higher-level RCTs are needed to confirm and expand on these findings.
+
+    - quotes
+      !a
+
+    / September, 2021 - Nutrition Reviews
+    quote !a = Plant-predominant diets can play a major role in reversing the obesity and chronic disease epidemics. In the setting of sustained lifestyle intervention programs, they may arrest or even reverse DM2 and CVD. 
+
+  // Donation of Blood Is Associated with Reduced Risk of Myocardial Infarction: The Kuopio Ischaemic Heart Disease Risk Factor Study
+  doi: https://doi.org/10.1093/oxfordjournals.aje.a009669
+  ref 'Salonen_et_al_11_01_1998
+    head = The authors tested the hypothesis that voluntary blood donation is associated with reduced risk of acute myocardial infarction in a prospective epidemiologic follow-up study in men from eastern Finland. A cohort of 2,862 men aged 42–60 years were followed for an average of almost 9 years.
+
+    > Abstract
+      Because high body iron stores have been suggested as a risk factor for acute myocardial infarction, donation of blood could theoretically reduce the risk by lowering body iron stores. For this reason, the authors tested the hypothesis that voluntary blood donation is associated with reduced risk of acute myocardial infarction in a prospective epidemiologic follow-up study in men from eastern Finland. The subjects are all participants of the Kuopio Ischaemic Heart Disease Risk Factor Study. A cohort of 2, 862 men aged 42–60 years were followed for an average of almost 9 years. One man (0.7%) out of 153 men who had donated blood in 24 months preceding the baseline examination experienced an acute myocardial infarction during 1984 to 1995, whereas 316 men (12.5%) of 2,529 non-blood donors had an acute myocardial infarction (p < 0.0001 for difference between proportions). In a Cox proportional hazards model adjusting for age, examination years and all other predictive coronary disease risk factors, blood donors had a 88% reduced risk (relative hazard = 0.12, 95% confidence interval 0.02–0.86, p = 0.035) of acute myocardial infarction, compared with non-blood donors. These findings suggest that frequent blood loss through voluntary blood donations may be associated with a reduced risk of acute myocardial infarction in middle-aged men.
+
+    - quotes
+      !a
+      !b
+
+    / Sept, 1998 - American Journal of Epidemiology
+    quote !a = One man out of 153 men who had donated blood in 24 months preceding the baseline examination experienced an acute myocardial infarction during 1984 to 1995, whereas 316 men of 2,529 non-blood donors had an acute myocardial infarction.
+
+    / Sept, 1998 - American Journal of Epidemiology
+    quote !b = Frequent blood loss through voluntary blood donations may be associated with a reduced risk of acute myocardial infarction in middle-aged men.
 
   // Cardiovascular disease in aging and the role of oxidative stress
   doi: https://doi.org/10.1016/B978-0-12-818698-5.00003-1
@@ -158,7 +204,7 @@ feed LongevityResearch
     quote !a =
 
 
-  # Stopped at page 19. 19 onwards is interconnectedness of these factors (to be re-done later)  
+  # Stopped at page 19. 19 onwards is interconnectedness of these factors (to be re-done later)
   // Translational models, methods and concepts in studies of aging and longevity
   doi: https://doi.org/10.1533/9781908818652.75
   ref 'Montano_et_al_01_09_2015

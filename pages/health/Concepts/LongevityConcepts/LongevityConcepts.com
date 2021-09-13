@@ -6,7 +6,7 @@ model module LongevityConcepts
   link: https://pubmed.ncbi.nlm.nih.gov/9988222/
   / Life Span
   model LifeSpan
-   head = The life span of an organism, is the sum of deleterious changes and counteracting repair and maintenance mechanisms that respond to the damage
+    head = The life span of an organism, is the sum of deleterious changes and counteracting repair and maintenance mechanisms that respond to the damage
 
   link: https://pubmed.ncbi.nlm.nih.gov/9988222/
   / Ageing
@@ -143,4 +143,4 @@ model module LongevityConcepts
   link: https://en.wikipedia.org/wiki/Stem_cell
   / Stem Cell
   model StemCell
-    head = In multicellular organisms, stem cells are undifferentiated or partially differentiated cells that can differentiate into various types of cells and proliferate indefinitely to produce more of the same stem cell. They are the earliest type of cell in a cell lineage. They are found in both embryonic and adult organisms, but they have slightly different properties in each. They are usually distinguished from progenitor cells, which cannot divide indefinitely, and precursor or blast cells, which are usually committed to differentiating into one cell type. 
+    head = In multicellular organisms, stem cells are undifferentiated or partially differentiated cells that can differentiate into various types of cells and proliferate indefinitely to produce more of the same stem cell. They are the earliest type of cell in a cell lineage. They are found in both embryonic and adult organisms, but they have slightly different properties in each. They are usually distinguished from progenitor cells, which cannot divide indefinitely, and precursor or blast cells, which are usually committed to differentiating into one cell type.
