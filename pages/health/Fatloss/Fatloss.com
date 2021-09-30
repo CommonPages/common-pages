@@ -3,7 +3,7 @@ subject Fatloss
   head =
 
   -
-    CICO
+    Cico
     Setpoint
 
 

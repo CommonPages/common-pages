@@ -1,5 +1,5 @@
 / CICO
-subject CICO
+subject Cico
   head =
 
   >
