@@ -10,5 +10,5 @@ fi
 JAVA_HOME=$(pwd)/app/java ./app/versions/current/bin/common-dev \
   -app.environment=author \
   -http.port=:$port \
-  -J-Xmx3072m \
-  -J-Xms3072m \
+  -J-Xmx4084m \
+  -J-Xms4084m \
