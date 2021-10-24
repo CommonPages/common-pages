@@ -17,8 +17,7 @@ subject Environment
 
     >
       When US Army and Air Force service members are assigned to different geographic areas, they are more at risk of developing obesity in low-altitude areas than in high-altitude ones.
-      -
-        https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493
+      https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493
 
 
     >
@@ -27,41 +26,33 @@ subject Environment
     >
       We know that oxygen and carbon dioxide vary with elevation, so you might expect that this is attributable to these differences. But the evidence is pretty thin.
 
-      Combined with a low-calorie diet, exercise in a low-oxygen environment does seem to reduce weight more than exercise in normal atmospheric conditions, but not by much.
-      -
-        https://pubmed.ncbi.nlm.nih.gov/24318688/
+      Combined with a low-calorie diet, exercise in a low-oxygen environment does seem to reduce weight more than exercise in normal atmospheric conditions, but not by much.  https://pubmed.ncbi.nlm.nih.gov/24318688/
 
-      Submarines have CO2 levels about 10 times higher than usual, but a US Navy study didn’t find evidence of consistent weight gain. The atmosphere itself can’t explain this.
-      -
-        https://apps.dtic.mil/dtic/tr/fulltext/u2/a171020.pdf
+      Submarines have CO2 levels about 10 times higher than usual, but a US Navy study didn’t find evidence of consistent weight gain. The atmosphere itself can’t explain this.   https://apps.dtic.mil/dtic/tr/fulltext/u2/a171020.pdf
 
     >
-      One paper, Hypobaric Hypoxia Causes Body Weight Reduction in Obese Subjects from Lippl et al. (2012), claims to show a reduction in weight at high altitude and suggests that this weight loss is attributable to differences in oxygen levels.
-
-      -
-        Hypobaric hypoxia causes body weight reduction in obese subjects
+      One paper, Hypobaric Hypoxia Causes Body Weight Reduction in Obese Subjects from Lippl et al. (2012), claims to show a reduction in weight at high altitude and suggests that this weight loss is attributable to differences in oxygen levels   Hypobaric hypoxia causes body weight reduction in obese subjects
 
 
     > Counter to above  altitude paper
       However, there are a number of problems with this paper and its conclusions. To begin with, there isn’t a control group, so this isn’t an experiment. Without an appropriate control, it’s hard to infer a causal relationship. What they actually show is that people brought to 2,650 meters lost a small amount of weight and had lower blood oxygen saturation, but this is unsurprising. Obviously if you bring people to 2,650 meters they will have lower blood oxygen, and there’s no evidence linking that to the reported weight loss. They don’t even report a correlation between blood oxygen saturation and weight loss, even though that would be the relevant test given the data they have. Presumably they don’t report it because it’s not significant. In addition there are major issues with multiple comparisons, which make their few significant findings hard to interpret (for more detail, see our full analysis of the paper).
-      -
-        https://slimemoldtimemold.com/2021/02/04/investigation-hypobaric-hypoxia-causes-body-weight-reduction-by-lippl-et-al-2010/
+      https://slimemoldtimemold.com/2021/02/04/investigation-hypobaric-hypoxia-causes-body-weight-reduction-by-lippl-et-al-2010/
 
     > Altitude anorexia
       there is a condition called “altitude anorexia” where individuals who move to a high-altitude location sometimes lose a lot of weight all at once (see also here, here, and weight loss results here). This effect also seems to apply to lab rats who are moved to labs at higher altitudes.
-      -
-        https://www.wired.com/2010/02/high-altitude-weight-loss/
-        https://www.liebertpub.com/doi/abs/10.1089/152702904322963753?journalCode=ham
-        https://academic.oup.com/icb/article/46/1/25/661337
+
+      https://www.wired.com/2010/02/high-altitude-weight-loss/
+      https://www.liebertpub.com/doi/abs/10.1089/152702904322963753?journalCode=ham
+      https://academic.oup.com/icb/article/46/1/25/661337
 
       This effect also seems to apply to lab rats who are moved to labs at higher altitudes.
-      -
-        https://academic.oup.com/jn/article/101/6/787/4779070?login=true
+
+      https://academic.oup.com/jn/article/101/6/787/4779070?login=true
 
     > Diabetes
       In addition, there is some evidence for a similar relationship between altitude and the rate of diabetes, with people living at a higher elevation having lower rates of diabetes than those living near sea level, even when statistically adjusting for variables like age, BMI, and physical activity.
-      -
-        https://onlinelibrary.wiley.com/doi/full/10.1002/oby.20800
+
+      https://onlinelibrary.wiley.com/doi/full/10.1002/oby.20800
 
 
   subject EnvironmentalFactors
@@ -94,6 +85,45 @@ subject Environment
       Unsurprisingly from the lipostat perspective, you’ll notice that all of these are psychiatric medications. Presumably, they affect the brain. Weight gain is a side effect of many drugs, but it’s especially famous in the antipsychotics- - FIND PAPERS
 
       Weight gain in many of these drugs is associated with enhanced leptin levels. - FIND PAPERS
+
+
+
+      Proopiomelanocortin gene
+      POMC is used as a target for a medication used to treat obesity in humans. The combination of bupropion and naltrexone acts via hypothalamic POMC neurons to decrease appetite
+
+    # -
+    #   Naltrexone/bupropion for obesity: An investigational combination pharmacotherapy for weight loss.  https://doi.org/10.1016%2Fj.phrs.2014.04.004
+
+    # >
+    #   Two humans with POMC deficiency have been treated with setmelanotide, a melanocortin-4 receptor agonist.[18]
+    # -
+    #    Proopiomelanocortin Deficiency Treated with a Melanocortin-4 Receptor Agonist
+
+    # >
+    #   MC4R agonists reduce feeding in rodents, with antagonists having the opposite effect [107, 108].
+    #
+    # -
+    #   Role of melanocortinergic neurons in feeding and the agouti obesity syndrome
+    #   A novel selective melanocortin-4 receptor agonist reduces food intake in rats and mice without producing aversive consequences
+    #
+    # >
+    #   MC4R agonists administered intranasally decrease bodyweight in humans [109].
+    # -
+    #   The melanocortin melanocyte-stimulating hormone/adrenocorticotropin 4–10 decreases body fat in humans
+
+    # Also simple behavioural change, such as scheduling meal times, can significantly reduce the anorexic effect of MC3R/MC4R agonists in rats [110]
+    # -
+    #  Learned meal initiation attenuates the anorexic effects of the melanocortin agonist MTII
+
+
+
+    > Neuropeptide Y (NPY)
+      In these studies, exogenous NPY,[23] an NPY agonist such as dexamethasone[24] or N-acetyl [Leu 28, Leu31] NPY (24-36)[25] are injected into the third ventricle[23] or at the level of the hypothalamus with a cannula. Furthermore, these studies unanimously demonstrate that the stimulation of NPYergic activity via the administration of certain NPY agonists increases food intake compared to baseline data in rats. The effects of NPYergic activity on food intake is also demonstrated by the blockade of certain NPY receptors (Y1 and Y5 receptors), which, as was expected, inhibited NPYergic activity; thus, decreases food intake.
+    # -
+    #   Neuropeptide Y (NPY) may integrate responses of hypothalamic feeding systems and the hypothalamo-pituitary-adrenal axis - https://doi.org/10.1111%2Fj.1365-2826.1995.tb00757.x
+    #   Type II corticosteroid receptor stimulation increases NPY gene expression in basomedial hypothalamus of rats
+    #   Regulation of neuropeptide Y release by neuropeptide Y receptor ligands and calcium channel antagonists in hypothalamic slices
+    #   Interaction of the hypothalamic paraventricular nucleus and central nucleus of the amygdala in naloxone blockade of neuropeptide Y-induced feeding revealed by c-fos expression
 
     >
       3.2    Mysteries
@@ -136,23 +166,24 @@ subject Environment
       Different groups of hunter-gatherers remain lean while eating very different diets because the human body can thrive on many kinds of food. Some of the diets are extremely high-fat. Some of them are extremely high-starch. Some of them are extremely high-sugar. Some eat an extremely varied diet, while others get almost half of their calories from a single food source. But they don’t become obese, because they’re eating fat right off the gemsbok or yams straight out of the ground, and living in grass huts.
 
       When hunter-gatherers adopt an industrialized lifestyle, however, they become obese just like anyone else. You’ll recall that, in 1990, a team led by Staffan Lindeberg traveled to the island of Kitava and found that none of the Kitavans were obese, despite the fact that they had plenty of foods and ate a very starchy diet.
-      -
-        https://books.google.co.in/books/about/Food_and_Western_Disease.html?id=zLH4bVkhWLAC&redir_esc=y
-        Food and Western Disease: Health and Nutrition from an Evolutionary Perspective
+
+      https://books.google.co.in/books/about/Food_and_Western_Disease.html?id=zLH4bVkhWLAC&redir_esc=y
+      Food and Western Disease: Health and Nutrition from an Evolutionary Perspective
 
       It’s true that none of the Kitavans living on the island were at all overweight. But there were actually two overweight Kitavans — both men who had grown up in Kitava, had since moved away for many years, and who happened to be visiting at the time of the study. Lindeberg managed to examine one of them, a 44-year-old businessman named Yutala, who had left the island fifteen years earlier to become a businessman in Papua New Guinea. At the time of the study, Yutala was almost fifty pounds heavier than the average Kitavan man of his height, twelve pounds heavier than the next heaviest man, and had the highest blood pressure of any Kitavan Lindeberg examined.
 
       When he moved away from the island, Yutala was exposed to a modern way of living. More importantly, he was exposed to the contaminants of an industrialized society. As a result, he became overweight.
 
       Yutala isn’t an isolated case. In fact, this happens with some regularity. Lindeberg notes, “an epidemic of obesity and weight gain has occurred in former traditional populations that transitioned to a Western lifestyle,” and cites a total of 17 sources to support this claim, including examples from Sudanese communities, Native Americans, Pacific Islanders, South Australian Aborigines, and the people of Vanuatu. “When humans switch from an ancient to a Western lifestyle,” he says, “they experience increased waistlines, reduced insulin sensitivity, higher blood pressure and a host of related disorders and diseases.“- FIND PAPERS
-      -
-        Blood pressure in a multiracial urban Sudanese community.- https://europepmc.org/article/med/2096202
-        Heart Disease in Native Americans  https://www.karger.com/Article/Abstract/174759
-        Prevalence of obesity in Pacific and Indian Ocean populations  https://www.diabetesresearchclinicalpractice.com/article/0168-8227(90)90136-H/pdf
 
-        Blood Pressures and Electrocardiographic Findings in the South Australian Aborigines  https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1445-5994.1976.tb03654.x
+      ref:
+      Blood pressure in a multiracial urban Sudanese community.- https://europepmc.org/article/med/2096202
+      Heart Disease in Native Americans  https://www.karger.com/Article/Abstract/174759
+      Prevalence of obesity in Pacific and Indian Ocean populations  https://www.diabetesresearchclinicalpractice.com/article/0168-8227(90)90136-H/pdf
 
-        Diabetes, obesity and hypertension in Vanuatu. https://europepmc.org/article/med/3259054
+      Blood Pressures and Electrocardiographic Findings in the South Australian Aborigines  https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1445-5994.1976.tb03654.x
+
+      Diabetes, obesity and hypertension in Vanuatu. https://europepmc.org/article/med/3259054
 
 
 
@@ -170,7 +201,7 @@ subject Environment
 
       Another example are these results from the FDA, as reported by the AP. In terms of explaining why the cafeteria diet is so fattening, it’s especially illustrative that grocery store chocolate cake was an extreme outlier, with concentrations of PFPeA more than 100 times higher than chocolate milk.- FIND PAPERS
 
-      Doesn’t this mean that avoiding packaged and processed food should reverse obesity? We think the answer is “maybe”. - QUESTION
+      Doesn’t this mean that avoiding packaged and processed food should reverse obesity? We think the answer is “maybe”. -QUES
 
       There’s not a lot of research on “whole foods” diets, but the evidence that we do have is quite promising.People seem to lose a reasonable amount of weight and keep it off for up to 12 months when they’re eating largely unprocessed plant-based foods. But we should be skeptical of these results until there are more studies.  - PAPERS
 
@@ -215,7 +246,7 @@ subject Environment
 
       GERMANY : Also: I tried to replicate your river-based theory out of sample in Germany. I used a map [1] of the river basins, a map of the states [2] and the state-by-state obesity data [3]. The data in [3] suggests that the most obese states are Hessen, Rhineland-Palatinate/Saarland and Lower-Saxony in that order, with the least obese being Schleswig-Holstein. While it is true that Lower-Saxony is at the mouth of the Weser as you would predict, Schleswig-Holstein is right at the mouth of the Elbe, and Hesse is close to the source of the Main — neither of which seem to fit the pattern. North Rhine-Westphalia is towards the middle of the pack of states despite being drained into by the whole Rhine river system.
 
-      -
+
       https://www.researchgate.net/figure/The-main-river-basins-in-Germany-and-the-location-of-the-selected-discharge-gauges_fig1_257046991
       https://annamap.com/germany/germany-states-map.html
       https://www.sciencedirect.com/science/article/pii/S1570677X06000244
@@ -249,35 +280,30 @@ subject Environment
       3.3    Contamination
       We aren’t the first researchers who are concerned about environmental contaminants and the role they might play in rising obesity rates. But the scope of this inquiry has traditionally been limited to how contaminants might contribute to the obesity epidemic.
 
-      One review focuses on food additives, both intentional (e.g. artificial sweeteners) and unintentional (pesticides), suggesting that “environmental contaminants are contributing to the global epidemic of obesity”, and suggests that the review will be “helpful in elucidating their role in the obesity epidemic”. - PAPERS
-      -
-        What Are We Putting in Our Food That Is Making Us Fat? Food Additives, Contaminants, and Other Putative Contributors to Obesity    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4101898/
+      One review focuses on food additives, both intentional (e.g. artificial sweeteners) and unintentional (pesticides), suggesting that “environmental contaminants are contributing to the global epidemic of obesity”, and suggests that the review will be “helpful in elucidating their role in the obesity epidemic”. - PAPERS    REF: What Are We Putting in Our Food That Is Making Us Fat? Food Additives, Contaminants, and Other Putative Contributors to Obesity    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4101898/
 
 
       Another review focused on endocrine disrupting chemicals, but closes by saying, “public health oﬃcials should think of the obesity epidemic as a function of a multifactorial complex of events, including environmental-endocrine disruptors.
-      -
-        Putative Environmental-Endocrine Disruptors and Obesity: A Review   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2566897/
-
-      ” Yet another mentions “nutrient quality, stress, fetal environment and pharmaceutical or chemical exposure as relevant contributing influences.”
-      -
-        Endocrine disrupters as obesogens   https://www.sciencedirect.com/science/article/abs/pii/S0303720709001488
 
 
-      Canaries in the Coal Mine documents the rise in obesity in wild and captive animals and suggests that “the aetiology of increasing body weight may involve several as-of-yet unidentified and/or poorly understood factors.”
-      -
-        Canaries in the coal mine: a cross-species analysis of the plurality of obesity epidemics
-        https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2010.1890
+      https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2566897/
+
+      ” Yet another mentions “nutrient quality, stress, fetal environment and pharmaceutical or chemical exposure as relevant contributing influences.”     Endocrine disrupters as obesogens   https://www.sciencedirect.com/science/article/abs/pii/S0303720709001488
+
+
+      Canaries in the Coal Mine documents the rise in obesity in wild and captive animals and suggests that “the aetiology of increasing body weight may involve several as-of-yet unidentified and/or poorly understood factors.”  REF: Canaries in the coal mine: a cross-species analysis of the plurality of obesity epidemics
+      https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2010.1890
 
       What factors could these be? They list a couple: viral pathogens, epigenetic factors, and at the very end of the paper, “the collection of endocrine-disrupting chemicals (endocrine-disruptors), widely present in the environment.”\
 
 
       A statement from the 2nd International Workshop on Obesity and Environmental Contaminants in Uppsala, Sweden concluded that “the findings from numerous animal and epidemiological studies are consistent with the hypothesis that environmental contaminants could contribute to the global obesity epidemic.”
-      -
-        Uppsala Consensus Statement on Environmental Contaminants and the Global Obesity Epidemic
-        https://ehp.niehs.nih.gov/doi/10.1289/ehp.1511115
+
+      Uppsala Consensus Statement on Environmental Contaminants and the Global Obesity Epidemic
+      https://ehp.niehs.nih.gov/doi/10.1289/ehp.1511115
 
       A National Toxicology Program workshop from 2012 suggests that “exposures to environmental chemicals may be contributing factors to the epidemics of diabetes and obesity.” They suggest that there is a link between some forms of contamination and type 2 diabetes, but overall, they say that there is still not enough research to draw firm conclusions.
-      -
+
       Role of Environmental Chemicals in Diabetes and Obesity: A National Toxicology Program Workshop Review
       https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.1104597
 
@@ -298,20 +324,18 @@ subject Environment
     >
       3.4    Further Evidence in Favor of Contaminants
 
-      The difference in obesity rates between countries, as well as the differences between states or provinces within a country, is also the result of differences in contamination. Some of it will be genetic, but some of it is because some places are more contaminated than others
-      -
-        https://ourworldindata.org/obesity
+      The difference in obesity rates between countries, as well as the differences between states or provinces within a country, is also the result of differences in contamination. Some of it will be genetic, but some of it is because some places are more contaminated than others       https://ourworldindata.org/obesity
 
       Some of the strongest evidence for this comes from immigration. When they arrive in a new country, immigrants usually have lower obesity rates than their native counterparts do, but over time they become about as obese as the natives are.  Looking at the trends, it appears that much of the effect of the contaminants occurs in the first year of exposure, though it takes 10-15 years before immigrants have obesity rates similar to the rates in the host country.
-      -
-        Consequences of the obesity epidemic for immigrants  https://wol.iza.org/articles/consequences-of-obesity-epidemic-for-immigrants/long
+
+      Consequences of the obesity epidemic for immigrants  https://wol.iza.org/articles/consequences-of-obesity-epidemic-for-immigrants/long
 
 
       During the Cuban economic crisis known as the “Special Period”, obesity rates plummeted, from 14% obese to 7% obese. Normally this is attributed to the decrease in calorie consumption and the increase in exercise, as oil shortages led people to drive less and walk or bike more. But we know already that reducing consumption and increasing exercise have very modest effects on weight loss. The average Cuban lost about 20 pounds in just a couple of years — even though in 1993, two years into the crisis, the average Cuban was still eating a very reasonable 2,099 calories per day. Food was restricted, but very few people were starving. While obesity dropped from 14% to 7%, the number of people listed as “underweight” only went from 8% to 10.3% (see above). And it’s not like they were eating all that healthy — “the primary sources of energy during the crisis were sugar cane and rice.”
 
       HYPOTHESIS: Rarely mentioned but particularly notable is that food imports virtually ceased during this period. If we assume that Cuban obesity was partially a result of contaminants in their food imports, this explains the data perfectly. Alternately, we can note that fertilizer and pesticide use sharply declined in this period as well, as both were normally derived from oil, which the island was now seriously lacking. These are also potential contaminants.
 
-      QUESTON : One surprising fact is that the most obese countries in the world by BMI are all tiny island nations in the south or central Pacific — Nauru, Tonga, Samoa, Tuvalu, Palau, the Cook Islands, and others. Depending on the year and the source, the 10 most obese nations in the world are usually small Pacific islands. Obesity rates in these countries are not merely high, they are clear outliers. The most obese mainland nations are around 35-40% obese, but these small Pacific islands have obesity rates in the range of 45-60%. Certainly this requires some sort of explanation.- QUESTION
+      QUESTON : One surprising fact is that the most obese countries in the world by BMI are all tiny island nations in the south or central Pacific — Nauru, Tonga, Samoa, Tuvalu, Palau, the Cook Islands, and others. Depending on the year and the source, the 10 most obese nations in the world are usually small Pacific islands. Obesity rates in these countries are not merely high, they are clear outliers. The most obese mainland nations are around 35-40% obese, but these small Pacific islands have obesity rates in the range of 45-60%. Certainly this requires some sort of explanation.- QUES
 
       To begin with, there are some reasons to suspect that this is largely an artefact. These islands all have very small populations and are genetically homogeneous, so it’s possible that much of the difference is genetic. Polynesians also appear to be slightly stouter and more muscular than other groups, which may mean that BMI is an especially bad measure for this group and leads us to slightly overestimate how obese they are. With a better measure of obesity, their obesity rates might be more similar to the rates of other very obese countries, like Kuwait and the United States.
 
@@ -329,24 +353,24 @@ subject Environment
 
 
 
-      How do you explain the dramatically lower incidence of obesity in Japan and Korea, two highly industrialized societies, and ones that have significant levels of environmental contamination? Both countries use very high levels of pesticide use per ha (as high, if not higher than the US/EU), and the market for organic foods is small relative to the US/EU. Additionally, while both of these countries have significant topographic variation, most of the population is concentrated in low elevation coastal regions. Do you believe genetics drives the dramatic gap seen between Japan/Korea and the rest of the industrialized world, or are there clues in the nature of the environmental contamination that exists in these countries vs. the US/EU that can explain the lower rates? - QUESTION
+      How do you explain the dramatically lower incidence of obesity in Japan and Korea, two highly industrialized societies, and ones that have significant levels of environmental contamination? Both countries use very high levels of pesticide use per ha (as high, if not higher than the US/EU), and the market for organic foods is small relative to the US/EU. Additionally, while both of these countries have significant topographic variation, most of the population is concentrated in low elevation coastal regions. Do you believe genetics drives the dramatic gap seen between Japan/Korea and the rest of the industrialized world, or are there clues in the nature of the environmental contamination that exists in these countries vs. the US/EU that can explain the lower rates? - QUES
 
       ANSWER - Genetics is certainly a large part of it, as shown by immigrant obesity rates in the US. Even though the population mostly lives on the coasts, these countries have shorter river systems than countries like the US, so the groundwater has less time to pick up contaminants on its way to the ocean. These countries may also not use the relevant contaminants to the same degree as the rest of the world — as you mention, this is some evidence that pesticides (or at least the ones used in Japan and Korea) aren’t responsible for obesity. They may also eat less meat?
 
       About Japan, take a look at this:
-      -
-        https://data.worldobesity.org/country/japan-105/#data_trends
+
+      https://data.worldobesity.org/country/japan-105/#data_trends
       Maybe the baseline is to be taken in account. From 1975 to now, the rate of overweight has passed from 0.5 to 3.5, that is, x7. If you start from 3%, x7 gives you 21%. And 20% is much more visible than 3.5%. So it’s premature to say that Japan is miraculously immune to obesity. Wait another 20 years.
 
 
       They did a controlled study and showed that people ate more (when fed ad lib) on an “ultraprocessed” diet, and gained about 1 pound over the 2 week study.
-      -
-        https://www.cell.com/cell-metabolism/fulltext/S1550-4131(19)30248-7?
+
+      https://www.cell.com/cell-metabolism/fulltext/S1550-4131(19)30248-7?
 
 
-      , have you controlled for education when looking at the elevation data? Some of the outliers where the elevation thesis or the drainage thesis don’t seem to fit well look like they could be associated with educational status or economic indicators. Also, the lower elevation areas shouldn’t just have higher rates of obesity, they should have changed significantly more since 1980 than the surrounding areas, right? Finally, I would like to see some of the ways in which the highest obesity areas differed from less obese areas before our 1980 start point of the obesity epidemic. None of this would necessarily debunk the toxin theory, but I think it’s part of the story.- QUESTION
+      have you controlled for education when looking at the elevation data? Some of the outliers where the elevation thesis or the drainage thesis don’t seem to fit well look like they could be associated with educational status or economic indicators. Also, the lower elevation areas shouldn’t just have higher rates of obesity, they should have changed significantly more since 1980 than the surrounding areas, right? Finally, I would like to see some of the ways in which the highest obesity areas differed from less obese areas before our 1980 start point of the obesity epidemic. None of this would necessarily debunk the toxin theory, but I think it’s part of the story.- QUES
 
-      Why do I know people who have gone from long-term overweight to skinny?- QUESTION
-      Doesn’t obesity correlate with socioeconomic stuff? - QUESTION
+      Why do I know people who have gone from long-term overweight to skinny?- QUES
+      Doesn’t obesity correlate with socioeconomic stuff? - QUES
       POSSIBLE ANSWERS - We suspect that cases where people have lost a lot of weight (which are very rare) are cases where people have seriously reduced the amount of contaminants they are exposed to. In most cases, we would expect these people to have changed careers, moved to a new living situation, or made some other major life change about 1-3 years before they lost the weight. If a 300 lbs auto mechanic in Louisiana moved to Thailand and got a job as a writer, they would probably lose a lot of weight — less extreme changes can make similar things happen in some cases.
       Possibly, but a lot of this is probably 1) related to what professions poor people have 2) because poor neighborhoods tend to be more likely to be contaminated than rich neighborhoods, and 3) in the US at least, because poverty is confounded with race.

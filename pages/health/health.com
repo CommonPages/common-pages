@@ -8,7 +8,7 @@ page #health
     Longevity
   -
     Weightloss
+  # -
+  #   Nutrients
   -
-    Nutrients
-  -
-    EnergyExpenditure  
+    EnergyExpenditure

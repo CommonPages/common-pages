@@ -1,13 +1,12 @@
 / Palatable Food
-subject PalatableFood
+subject Palatablefood
   head =
 
   >
     Mystery 6: Palatable Human Food
     Lab rats gain some weight on high-fat diets, but they gain much more weight on a “cafeteria diet” of human foods like Froot Loops [sic] and salami (see also here).
-    -
-      Cafeteria Diet Is a Robust Model of Human Metabolic Syndrome With Liver and Adipose Inflammation: Comparison to High-Fat Diet
-      Dietary obesity in adult rats: Similarities to hypothalamic and human obesity syndromes
+    REF: Cafeteria Diet Is a Robust Model of Human Metabolic Syndrome With Liver and Adipose Inflammation: Comparison to High-Fat Diet
+    REF: Dietary obesity in adult rats: Similarities to hypothalamic and human obesity syndromes
 
     It used to be that if researchers needed obese rats for a study, they would just add fat to normal rodent chow. But it turns out that it takes a long time for rats to become obese on this diet.
 

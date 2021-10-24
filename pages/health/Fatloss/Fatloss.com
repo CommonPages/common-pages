@@ -2,10 +2,6 @@
 subject Fatloss
   head =
 
-  -
-    Cico
-    Setpoint
-
 
   > PART 2
     Current theories of the obesity epidemic are inadequate.

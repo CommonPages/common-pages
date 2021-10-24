@@ -3,15 +3,13 @@ subject Epidemic
   head =
 
   > Mystery 1: The Obesity Epidemic
-    A century ago, the average man in the US weighed around 155 lbs. Today, he weighs about 195 lbs. About 1% of the population was obese back then. Now it’s about 36%.
-    -
-      https://www.econstor.eu/bitstream/10419/80491/1/cesifo_wp4366.pdf
+    A century ago, the average man in the US weighed around 155 lbs. Today, he weighs about 195 lbs. About 1% of the population was obese back then. Now it’s about 36%. https://www.econstor.eu/bitstream/10419/80491/1/cesifo_wp4366.pdf
 
 
     Back in the 1890s, the federal government had a board of surgeons examine several thousand Union Army veterans who fought in the Civil War.
-    -
-      Changes in the distribution of body mass index of white US men, 1890–2000
-      https://www.tandfonline.com/doi/abs/10.1080/03014460410001663434?journalCode=iahb20
+
+    Changes in the distribution of body mass index of white US men, 1890–2000
+    https://www.tandfonline.com/doi/abs/10.1080/03014460410001663434?journalCode=iahb20
 
     This was several decades after the end of the war, so by this point the veterans were all in their 40’s or older. This gives us a snapshot of what middle-aged white men looked like in the 1890s. When we look at their data, we find that they had an average BMI of about 23 (overweight is a BMI of 25 and obese is a BMI of 30 or more). Only about 3% of them were obese. In comparison, middle-aged white men in the year 2000 had an average BMI of around 28. About 24% were obese in early middle age, increasing to 41% by the time the men were in their 60s.
 

@@ -218,7 +218,7 @@ subject Brain
       'Leibel_et_al_03_09_1995.!a
       'Leibel_et_al_03_09_1995.!b
       'Leibel_et_al_03_09_1995.!c
-    'Leibel_et_al_03_09_1995.!d
+      'Leibel_et_al_03_09_1995.!d
 
   claim !Leptindeficiency = Leptin concentrations resulting from loss of fat mass account for some aspects of the endocrine/metabolic phenotype associated with the weight-reduced state. Studies results are consistent with the hypothesis that the absence of leptin signaling after weight loss may blunt the expression of feeding inhibition in humans.
     -
