@@ -140,7 +140,7 @@ feed FatlossResearch
       !b
       !c
 
-      
+
 
     / December, 2011 - Appetite
     quote !a = Lean rats receiving saline gained 14±3 g over the 14 days, whereas lean rats receiving insulin lost 12±4 g over the same interval. The average total food intake of the insulin-infused group was decreased by 14% as compared with that of the saline-infused group.
@@ -661,49 +661,49 @@ feed FatlossResearch
     / August, 1997 - Proc Natl Acad Sci U S A.
     quote !f = Direct measurement of energy balance indicated that leptin treatment did not increase total energy expenditure but prevented the decrease that follows reduced food intake. Diet-induced obese mice lost weight in response to peripheral leptin but were less sensitive than lean mice. NZO mice were unresponsive to peripheral leptin but were responsive to i.c.v. leptin. Ay mice did not respond to subcutaneous leptin and were 1/100 as sensitive to i.c.v. leptin.
 
-   / August, 1997 - Proc Natl Acad Sci U S A.
-   quote !g = The decreased response to leptin in diet-induced obese, NZO, and Ay mice suggests that obesity in these strains is the result of leptin resistance. In NZO mice, leptin resistance may be the result of decreased transport of leptin into the cerebrospinal fluid, whereas in Ay mice, leptin resistance probably results from defects downstream of the leptin receptor in the hypothalamus
+    / August, 1997 - Proc Natl Acad Sci U S A.
+    quote !g = The decreased response to leptin in diet-induced obese, NZO, and Ay mice suggests that obesity in these strains is the result of leptin resistance. In NZO mice, leptin resistance may be the result of decreased transport of leptin into the cerebrospinal fluid, whereas in Ay mice, leptin resistance probably results from defects downstream of the leptin receptor in the hypothalamus
 
 
 
 
 
-    #
-    // Appetite and the regulation of body composition
-    doi: https://doi.org/10.1096/fasebj.8.3.8143936
-    ref 'Leibel_et_al_03_09_1994
-      head = The bulk of evidence suggests that the plasma level of one or more currently unidentified stable circulating molecules increases in proportion to total body fat content and augments the effect of meal-related satiety signals in the central nervous system. The implications of this adipose tissue-related satiety factor for the pathogenesis of obesity, and the possible nature of the factor are discussed.
+  #
+  // Appetite and the regulation of body composition
+  doi: https://doi.org/10.1096/fasebj.8.3.8143936
+  ref 'Leibel_et_al_03_09_1994
+    head = The bulk of evidence suggests that the plasma level of one or more currently unidentified stable circulating molecules increases in proportion to total body fat content and augments the effect of meal-related satiety signals in the central nervous system. The implications of this adipose tissue-related satiety factor for the pathogenesis of obesity, and the possible nature of the factor are discussed.
 
-      > Abstract
-        Stability of body composition requires that energy intake equals energy expenditure when integrated over prolonged periods. As recent human studies have failed to demonstrate active changes in energy expenditure with changes in body composition, it is likely that energy intake is continually adjusted to preserve a constant total adipose tissue mass. If adipose tissue mass is regulated directly, then there must be some input reflecting this quantity to the central nervous system for the purpose of making corrective changes in appetite when total body fat content fluctuates. The nature of this input has been examined in a variety of animal experiments involving induced weight change, lipectomy, plasma transfer from obese or satiated animals to hungry animals, and parabiosis between obese and lean animals. The bulk of evidence suggests that the plasma level of one or more currently unidentified stable circulating molecules increases in proportion to total body fat content and augments the effect of meal-related satiety signals in the central nervous system. The implications of this adipose tissue-related satiety factor for the pathogenesis of obesity, and the possible nature of the factor are discussed
+    > Abstract
+      Stability of body composition requires that energy intake equals energy expenditure when integrated over prolonged periods. As recent human studies have failed to demonstrate active changes in energy expenditure with changes in body composition, it is likely that energy intake is continually adjusted to preserve a constant total adipose tissue mass. If adipose tissue mass is regulated directly, then there must be some input reflecting this quantity to the central nervous system for the purpose of making corrective changes in appetite when total body fat content fluctuates. The nature of this input has been examined in a variety of animal experiments involving induced weight change, lipectomy, plasma transfer from obese or satiated animals to hungry animals, and parabiosis between obese and lean animals. The bulk of evidence suggests that the plasma level of one or more currently unidentified stable circulating molecules increases in proportion to total body fat content and augments the effect of meal-related satiety signals in the central nervous system. The implications of this adipose tissue-related satiety factor for the pathogenesis of obesity, and the possible nature of the factor are discussed
 
-      - quotes
-
-
-      / March, 1994 - N Engl J Med.
-      quote !a =
+    - quotes
 
 
+    / March, 1994 - N Engl J Med.
+    quote !a =
 
-    #
-    // The effects of lesions in the hypothalamus in parabiotic rats
-    doi: https://dx.doi.org/10.1113%2Fjphysiol.1959.sp006145
-    ref 'Hervey_et_al_03_03_1959
-      head = In the present study a series of parabiotic rats have been subjected to hypothalamic lesions of the type which causes obesity.
 
-      - quotes
-        !a
-        !b
-        !c
 
-      / March, 1959 - J. Physiol.
-      quote !a = The rate of growth was reduced after parabiosis.
+  #
+  // The effects of lesions in the hypothalamus in parabiotic rats
+  doi: https://dx.doi.org/10.1113%2Fjphysiol.1959.sp006145
+  ref 'Hervey_et_al_03_03_1959
+    head = In the present study a series of parabiotic rats have been subjected to hypothalamic lesions of the type which causes obesity.
 
-      / March, 1959 - J. Physiol.
-      quote !b = After hypothalamic lesions had been made, the total gains of weight and increases of food intake were as great in pairs as in single animals, although both quantities were initially at lower levels in pairs, and although both were apparently diminished in the member of the pair not subjected to lesions.
+    - quotes
+      !a
+      !b
+      !c
 
-      / March, 1959 - J. Physiol.
-      quote !c = The incidence of post-operative choking suggests that voracity when the hypothalamic inhibition was removed may have been greater in parabiotic than in single animals. (Smaller capacity of the stomachs may, however, be sufficient to explain this.
+    / March, 1959 - J. Physiol.
+    quote !a = The rate of growth was reduced after parabiosis.
+
+    / March, 1959 - J. Physiol.
+    quote !b = After hypothalamic lesions had been made, the total gains of weight and increases of food intake were as great in pairs as in single animals, although both quantities were initially at lower levels in pairs, and although both were apparently diminished in the member of the pair not subjected to lesions.
+
+    / March, 1959 - J. Physiol.
+    quote !c = The incidence of post-operative choking suggests that voracity when the hypothalamic inhibition was removed may have been greater in parabiotic than in single animals. (Smaller capacity of the stomachs may, however, be sufficient to explain this.
 
 
 
@@ -1020,11 +1020,11 @@ feed FatlossResearch
     / November, 2004 - Genomics
     quote !a = The homologs of markers that flank ob map to human chromosome 7q, suggesting that if there is a human homologue of ob, it maps to 7q31.
 
-    These data have suggested that the development of diabetes in these animals is a consequence of unlinked polygenes.
+    # These data have suggested that the development of diabetes in these animals is a consequence of unlinked polygenes.
 
-    There was also evidence that unlinked Mus spretus alleles can diminish the obesity of mice.
+    # There was also evidence that unlinked Mus spretus alleles can diminish the obesity of mice.
 
-    From these data we have mapped several markers on chromosome 6 with the following order: cen-Cola-2-Met-ob-Cpa-Tcrb. The homologs of markers that flank ob map to human chromosome 7q, suggesting that if there is a human homologue of ob, it maps to 7q31.
+    # From these data we have mapped several markers on chromosome 6 with the following order: cen-Cola-2-Met-ob-Cpa-Tcrb. The homologs of markers that flank ob map to human chromosome 7q, suggesting that if there is a human homologue of ob, it maps to 7q31.
 
 
   #
@@ -1059,65 +1059,6 @@ feed FatlossResearch
 
     / September, 1995 - Nature Medicine
     quote !a = Our work shows that expression of the human ob gene is markedly higher in adipose tissue of massively obese subjetcs than in non-obese controls.
-
-
-
-  #
-  // Leptin resistance exacerbates diet-induced obesity and is associated with diminished maximal leptin signalling capacity in rats
-  doi: https://doi.org/10.1007/s00125-005-1763-x
-  ref 'Scarpace_et_al_04_30_2005
-    head = This study postulated that leptin resistance is associated with diminished hypothalamic leptin signalling capacity and that leptin resistance is causal to obesity.
-
-    > Aims/hypothesis
-      Leptin resistance is generally considered a consequence of obesity. We postulated that leptin resistance is associated with diminished hypothalamic leptin signalling capacity and that leptin resistance is causal to obesity. We assessed maximal leptin-mediated binding of the transcription factor signal transducer and activator of transcription 3 (STAT3), and the response to high-fat feeding in lean leptin-resistant rats.
-
-    > Materials and methods
-      Recombinant adeno-associated virus encoding rat leptin cDNA (rAAV-leptin) or control vector were administered by intracerebroventricular injection to lean F344×BN rats for up to 150 days, and food consumption, body weight, serum leptin and glucose tolerance were measured. Leptin-mediated hypothalamic transcription factor binding was assessed at day 150 following an intracerebroventricular injection of 2 μg leptin. Rats pretreated with either control or rAAV-leptin vector for 94 days were given a high-fat diet, and energy intake, body weight gain and adiposity were examined.
-
-    > Results
-      The rAAV-leptin-treated rats initially responded to leptin gene delivery then became leptin-resistant. They displayed persistent submaximal hypothalamic leptin signalling and enhanced insulin sensitivity, yet maximal hypothalamic signalling capacity was decreased by more than 50%. On a high-fat diet, the leptin resistant rats consumed more energy, gained more weight and accumulated greater visceral fat mass than controls.
-
-    > Conclusions/interpretation
-      The maximal hypothalamic leptin signalling capacity was diminished in leptin-resistant rats receiving central rAAV-leptin gene therapy. Moreover, this leptin-invoked leptin resistance perturbs the regulation of energy homeostasis in response to high fat exposure, producing augmented energy consumption. This, coupled with potential hypersensitivity to insulin, creates a milieu favouring fat deposition. Our data suggest that leptin resistance is both a consequence and cause of obesity.
-
-    - quotes
-      !a
-
-    / April, 2005 - Diabetologia
-    quote !a = Only some of the leptin-resistance models (leptin antagonist blockade and aged obese rats) exhibit heightened weight and adiposity gain on a chow diet, while all models discussed demonstrate obesity in the presence of an HF diet. Thus, the leptin resistance appears to be reinforcing “reward eating” beyond caloric energy requirements.
-
-    the present study indicates that elevated
-central leptin reduces maximal leptin signalling capacity
-and precipitates weight gain and adiposity following highfat feeding. The leptin-induced leptin resistance impairs the
-normal energy homeostasis following a high-fat diet, resulting in a persistent elevation in energy consumption. This
-creates a milieu that favours fat deposition and excess
-1082
-weight gain. We contend that leptin resistance is not only a
-consequence of obesity, but also one cause of obesity.
-
-Our data indicate that leptin-induced leptin resistance predisposes the animals to diet-induced obesity. It is our contention that leptin resistance is
-both a consequence and one cause of obesity. An increase in
-obesity promotes leptin resistance, which in turn exacerbates the obesity, leading to an escalating cycle of increasing obesity. Moreover, our data suggest that one factor
-contributing to the exacerbated weight gain of the rAAVleptin-treated rats on high-fat feeding is impaired central
-regulation of energy homeostasis. Typically, high-fat feeding is characterised by an initial increase in energy consumption. A homeostatic response is then initiated that
-restores energy intake to pretreatment or nearly pretreatment levels [18]. Our lean, leptin-induced leptin-resistant
-rats apparently lack this homeostatic response, and as a
-result, following high-fat feeding, the energy consumption
-is maintained at an elevated level above that of the control
-high-fat-fed animals. This inability to downregulate energy
-consumption is probably a major contributor to the greater
-weight gain and adiposity in the lean, leptin-resistant rats
-fed the high-fat diet.
-
-Glucose tolerance assessed 69 days after rAAV-leptin
-gene delivery revealed enhanced insulin sensitivity in rAAVleptin compared with control rats. Despite similar food intake
-in the two groups, the rAAV-leptin rats weighed less and
-had lower mean serum leptin and insulin levels, implying
-that these animals had less fat mass relative to the control
-animals. The insulin hypersensitivity may be a direct result
-of this reduction in adiposity. Any insulin hypersensitivity
-would favour fat deposition when excess substrate is available, hence contributing to the augmented adiposity following high-fat feeding in lean, leptin-resistant rats.
-
 
 
   #
@@ -1192,7 +1133,6 @@ would favour fat deposition when excess substrate is available, hence contributi
   doi: https://doi.org/10.1126/science.7624776
   ref 'Pelleymounter_et_al_07_28_1995
     head = This study test the hypothesis that the recently cloned obese gene is involved in the regulation of adiposity by administering the OB protein to ob/ob mice.
-
 
     > Abstract
       C57BL/6J mice with a mutation in the obese (ob)gene are obese, diabetic, and exhibit reduced activity, metabolism, and body temperature. Daily intraperitoneal injection of these mice with recombinant OB protein lowered their body weight, percent body fat, food intake, and serum concentrations of glucose and insulin. In addition, metabolic rate, body temperature, and activity levels were increased by this treatment. None of these parameters was altered beyond the level observed in lean controls, suggesting that the OB protein normalized the metabolic status of the ob/ob mice. Lean animals injected with OB protein maintained a smaller weight loss throughout the 28-day study and showed no changes in any of the metabolic parameters. These data suggest that the OB protein regulates body weight and fat deposition through effects on metabolism and appetite.

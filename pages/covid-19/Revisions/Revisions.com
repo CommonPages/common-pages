@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *October_12 mean October_12
   let *July_9 mean July_09
   let *July_7 mean July_07
   let *July_6 mean July_06
@@ -10,7 +11,18 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *July_9, *July_7 and *July_6). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *October_12, *July_9, *July_7 and *July_6). You can *contribute by sending corrections and responding to open questions.
+
+
+
+  public: October-12-2021
+  / October 12, 2021
+  revision October_12
+    head = The UK Health Security Agency technical briefings reports that, as of 11 October 2021, Delta remains the predominant variant accounting for approximately 99.8% of sequenced cases in England. A Delta sublineage newly designated as AY.4.2 is noted to be expanding in England. It is now a signal in monitoring. There are also small numbers of new cases of Delta with E484K and Delta with E484Q. Discrepancies between SARS-COV-2 lineages in the population and mutations detected in wastewater have been identified and exploratory analyses have been initiated.
+    -
+      Variants.B1617.!UKHSAtechnicalbriefing25
+      Variants.B1617.!UKHSAtechnicalbreifingE484KQ
+
 
 
   public: July-09-2021

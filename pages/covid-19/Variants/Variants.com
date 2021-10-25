@@ -1740,7 +1740,7 @@ subject module Variants
 
   / B.1.617 (Identified in India)
   subject B1617
-    head = The SARS-CoV-2 B.1.617 lineage emerged in October 2020 in India. It has since then become dominant in some indian regions and further spread to many countries. The lineage includes three main subtypes (B1.617.1, B.1617.2 and B.1.617.3), which harbour diverse Spike mutations in the N-terminal domain (NTD) and the receptor binding domain (RBD) which may increase their immune evasion potential. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is believed to spread faster than the other versions- is at least as transmissible as B.1.1.7 (the Kent variant). Genomic surveillance data (Delhi) showed that Delta (B.1.617.2) is more transmissible (50% greater) than Alpha (B.1.1.7), without any increase in CFR. Viral load of Delta (B.1.617.2) appears to be higher than Alpha (B.1.1.7). There seems to be greater immune escape and reinfection. Fully vaccinated breakthroughs were disproportionately due to Delta (B.1.617.2), but usually mild. Study from Scotland showed that the Delta VOC was found mainly in younger, more affluent groups. Risk of COVID-19 hospital admission was approximately doubled in those with the Delta VOC when compared to the Alpha VOC.
+    head = The SARS-CoV-2 B.1.617 lineage emerged in October 2020 in India. It has since then become dominant in some indian regions and further spread to many countries. The lineage includes three main subtypes (B1.617.1, B.1617.2 and B.1.617.3), which harbour diverse Spike mutations in the N-terminal domain (NTD) and the receptor binding domain (RBD) which may increase their immune evasion potential. The continuous increase could be attributed to signature spike protein mutations and co-occurring triple mutations (L452R, E484Q, P681R)- which is also an indication of convergent evolution. VOC-21APR-02 (B.1.617.2) was designated as variant of concern on 6 May 2021. B.1.617.2 is believed to spread faster than the other versions- is at least as transmissible as B.1.1.7 (the Kent variant). Genomic surveillance data (Delhi) showed that Delta (B.1.617.2) is more transmissible (50% greater) than Alpha (B.1.1.7), without any increase in CFR. Viral load of Delta (B.1.617.2) appears to be higher than Alpha (B.1.1.7). There seems to be greater immune escape and reinfection. Fully vaccinated breakthroughs were disproportionately due to Delta (B.1.617.2), but usually mild. Risk of COVID-19 hospital admission was approximately doubled in those with the Delta VOC when compared to the Alpha VOC. As of October 11, A Delta sublineage newly designated as AY.4.2 is noted to be expanding in England.
 
     # >
     #   BBV152 (Covaxin) Vaccine was able to neutralize VUI B.1.617- the reduction of neutralizing capability against the B.1.617 variant was limited to 2-fold. B.1.617.1 variant is 6.8-fold more resistant to neutralization by sera from COVID-19 convalescent and Moderna and Pfizer vaccinated individuals. B.1.617 and B.1.618 spike were partially resistant to neutralization, with an average 3.9-fold and 2.7-fold decrease in IC50 for convalescent sera and antibodies elicited by Pfizer and Moderna mRNA vaccines, respectively. The modest neutralization resistance of the variant spike proteins suggests that Pfizer and Moderna mRNA vaccines will remain protective against the B.1.617.1, B.1.617 and B.1.618 variants. Covishield vaccine-induced antibodies (inspite of reduction in the neutralizing titer) are likely to be protective to limit the severity and mortality of the disease in the vaccinated individuals. Progression to severe disease and death was low in all studies. PHE findings demonstrated a modest reduction of one dose vaccine effectiveness against symptomatic disease with the B.1.617.2 variant of approximately 20% when compared to the B.1.1.7 variant. Estimated vaccine effectiveness against symptomatic disease with B.1.617.2 for a single dose of either vaccine (BNT162b2 and ChAdOx1) is approximately 33%, for two doses of BNT162b2 is approximately 88% and for two doses of ChAdOx1 is approximately 60%.
@@ -1801,6 +1801,8 @@ subject module Variants
       !ScotlandDelta
       !Tokyodelta
       !USDeltagrowth
+    - A Delta sublineage: AY.4.2
+      !UKHSAtechnicalbriefing25
     - Background
       !DeltaDelhiorigin
     - Transmission
@@ -1811,6 +1813,9 @@ subject module Variants
       !DeltaDelhi
       !Tokyodelta
       !Deltaestimate
+      !UKHSAtechnicalbriefing25
+    -  Delta with E484K and Delta with E484Q
+      !UKHSAtechnicalbreifingE484KQ
     - Viral load
       !DeltaDelhi
     - Severity
@@ -1867,6 +1872,28 @@ subject module Variants
       !NTDmutationB1617
       CAL20C.!Selectivepressure
       CAL20C.!NTDmutationB1427B1429
+
+
+
+    / A Delta sublineage: AY.4.2
+    claim !UKHSAtechnicalbriefing25 = The UK Health Security Agency technical briefings reports that, as of 11 October 2021, Delta remains the predominant variant accounting for approximately 99.8% of sequenced cases in England. A Delta sublineage newly designated as AY.4.2 is noted to be expanding in England. It is now a signal in monitoring. Discrepancies between SARS-COV-2 lineages in the population and mutations detected in wastewater have been identified and exploratory analyses have been initiated.
+
+      -
+        'UKHSA_et_al_10_15_2021
+        'UKHSA_et_al_10_15_2021.!a
+        'UKHSA_et_al_10_15_2021.!b
+        'UKHSA_et_al_10_15_2021.!c
+        'UKHSA_et_al_10_15_2021.!d
+
+
+    / Delta with E484K and Delta with E484Q
+    claim !UKHSAtechnicalbreifingE484KQ = The UK Health Security Agency technical briefings reports that, as of 11 October 2021, Delta remains the predominant variant accounting for approximately 99.8% of sequenced cases in England. There are also small numbers of new cases of Delta with E484K and Delta with E484Q.
+      -
+        'UKHSA_et_al_10_15_2021
+        'UKHSA_et_al_10_15_2021.!e
+        'UKHSA_et_al_10_15_2021.!f
+        'UKHSA_et_al_10_15_2021.!g
+        'UKHSA_et_al_10_15_2021.!h
 
 
     / UK
@@ -2143,7 +2170,7 @@ subject module Variants
     -
       'Farinholt_et_al_07_04_2021
       'Farinholt_et_al_07_04_2021.!a
-      'Farinholt_et_al_07_04_2021.!b    
+      'Farinholt_et_al_07_04_2021.!b
 
 
   question ?Antibodies = Whether these mutations render preexisting antibodies ineffective has become a public concern, as it could result in reinfection or loss of vaccine efficacy. To what extent a person infected by one strain is protected against infection of another strain? What evidence exists as to the efficacy of vaccines against each variant?

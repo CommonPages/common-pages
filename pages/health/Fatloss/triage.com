@@ -46,7 +46,7 @@ index: hide
     680 hypertrophy, etc.
 
     > Leptin resistance, obesity and neoplasmia
-  Leptin resistance may be involved in the development of various 705 types of cancer, such as colorectal cancer and endometrial cancer, 706 whichhasbeentestifiedinrecentyears.Firstly,ahighconsistencyofel- 707 evated circulating leptin level with these types of cancer has been re- 708 ported in numerous studies
+    Leptin resistance may be involved in the development of various 705 types of cancer, such as colorectal cancer and endometrial cancer, 706 whichhasbeentestifiedinrecentyears.Firstly,ahighconsistencyofel- 707 evated circulating leptin level with these types of cancer has been re- 708 ported in numerous studies
 
 
 
@@ -311,3 +311,33 @@ index: hide
 
 
     Noticeably, the reduced abilities of peripheral leptin and central 330 ObRb to collaborate in the suppression of appetite and the promotion 331 of energy expenditure can be taken for the crucial risk factors for the de- 332 velopment of obesity.Therefore, elevated peripheral leptin level is likely 333 to control or reverse obesity.
+
+
+
+  // Leptin resistance exacerbates diet-induced obesity and is associated with diminished maximal leptin signalling capacity in rats
+  doi: https://doi.org/10.1007/s00125-005-1763-x
+  ref 'Scarpace_et_al_04_30_2005
+    head = This study postulated that leptin resistance is associated with diminished hypothalamic leptin signalling capacity and that leptin resistance is causal to obesity.
+
+    > Aims/hypothesis
+      Leptin resistance is generally considered a consequence of obesity. We postulated that leptin resistance is associated with diminished hypothalamic leptin signalling capacity and that leptin resistance is causal to obesity. We assessed maximal leptin-mediated binding of the transcription factor signal transducer and activator of transcription 3 (STAT3), and the response to high-fat feeding in lean leptin-resistant rats.
+
+    > Materials and methods
+      Recombinant adeno-associated virus encoding rat leptin cDNA (rAAV-leptin) or control vector were administered by intracerebroventricular injection to lean F344×BN rats for up to 150 days, and food consumption, body weight, serum leptin and glucose tolerance were measured. Leptin-mediated hypothalamic transcription factor binding was assessed at day 150 following an intracerebroventricular injection of 2 μg leptin. Rats pretreated with either control or rAAV-leptin vector for 94 days were given a high-fat diet, and energy intake, body weight gain and adiposity were examined.
+
+    > Results
+      The rAAV-leptin-treated rats initially responded to leptin gene delivery then became leptin-resistant. They displayed persistent submaximal hypothalamic leptin signalling and enhanced insulin sensitivity, yet maximal hypothalamic signalling capacity was decreased by more than 50%. On a high-fat diet, the leptin resistant rats consumed more energy, gained more weight and accumulated greater visceral fat mass than controls.
+
+    > Conclusions/interpretation
+      The maximal hypothalamic leptin signalling capacity was diminished in leptin-resistant rats receiving central rAAV-leptin gene therapy. Moreover, this leptin-invoked leptin resistance perturbs the regulation of energy homeostasis in response to high fat exposure, producing augmented energy consumption. This, coupled with potential hypersensitivity to insulin, creates a milieu favouring fat deposition. Our data suggest that leptin resistance is both a consequence and cause of obesity.
+
+
+
+    / April, 2005 - Diabetologia
+    quote !a = Only some of the leptin-resistance models (leptin antagonist blockade and aged obese rats) exhibit heightened weight and adiposity gain on a chow diet, while all models discussed demonstrate obesity in the presence of an HF diet. Thus, the leptin resistance appears to be reinforcing “reward eating” beyond caloric energy requirements.
+
+    # the present study indicates that elevated central leptin reduces maximal leptin signalling capacity and precipitates weight gain and adiposity following highfat feeding. The leptin-induced leptin resistance impairs the normal energy homeostasis following a high-fat diet, resulting in a persistent elevation in energy consumption. This creates a milieu that favours fat deposition and excess weight gain. We contend that leptin resistance is not only a consequence of obesity, but also one cause of obesity.
+
+    # Our data indicate that leptin-induced leptin resistance predisposes the animals to diet-induced obesity. It is our contention that leptin resistance is both a consequence and one cause of obesity. An increase in obesity promotes leptin resistance, which in turn exacerbates the obesity, leading to an escalating cycle of increasing obesity. Moreover, our data suggest that one factor contributing to the exacerbated weight gain of the rAAVleptin-treated rats on high-fat feeding is impaired central regulation of energy homeostasis. Typically, high-fat feeding is characterised by an initial increase in energy consumption. A homeostatic response is then initiated that restores energy intake to pretreatment or nearly pretreatment levels [18]. Our lean, leptin-induced leptin-resistant rats apparently lack this homeostatic response, and as a result, following high-fat feeding, the energy consumption is maintained at an elevated level above that of the control high-fat-fed animals. This inability to downregulate energy consumption is probably a major contributor to th greater weight gain and adiposity in the lean, leptin-resistant rats fed the high-fat diet.
+
+    # Glucose tolerance assessed 69 days after rAAV-leptin gene delivery revealed enhanced insulin sensitivity in rAAVleptin compared with control rats. Despite similar food intake in the two groups, the rAAV-leptin rats weighed less and had lower mean serum leptin and insulin levels, implying that these animals had less fat mass relative to the control animals. The insulin hypersensitivity may be a direct result of this reduction in adiposity. Any insulin hypersensitivity would favour fat deposition when excess substrate is available, hence contributing to the augmented adiposity following high-fat feeding in lean, leptin-resistant rats.
