@@ -41,3 +41,10 @@ space Figures
   height: 550
   caption: US Sugar Consumption
   image 'AddedSugar
+
+  name: Figure: Resveratrol
+  url: https://pbs.twimg.com/media/E_qKpxKWYAAvwo0?format=jpg&name=medium
+  width: 825
+  height: 550
+  caption: Suggested Adult Daily doses of Resveratrol
+  image 'Resveratrol

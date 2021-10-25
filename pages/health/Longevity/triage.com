@@ -34,4 +34,8 @@ index: hide
   # Free Radical injury
   # https://en.wikipedia.org/wiki/Sirtuin
 
-  # https://academic.oup.com/aje/article/148/5/445/76921 - Donating blood - longer life 
+
+  # Omega 3 Fatty acids
+  # https://pubmed.ncbi.nlm.nih.gov/20228612/
+  # https://www.sciencedirect.com/science/article/pii/B9780124105270000016 - https://sci-hub.st/10.1016/B978-0-12-410527-0.00001-6
+  # https://www.eurekalert.org/news-releases/511669
