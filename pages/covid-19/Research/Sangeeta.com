@@ -9,9 +9,56 @@ feed Sangeeta
       !a
 
     / July, 2021 - JAMA Netw Open.
-    quote !a =
+    quote !a
+
+
+
 
   #
+
+  // SARS-CoV-2 variants of concern and variants under investigation in England - Technical briefing 25
+  doi: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1025827/Technical_Briefing_25.pdf
+  ref 'UKHSA_et_al_10_15_2021
+    head = This report has been published to continue to share the detailed variant surveillance analyses which contribute to the variant risk assessments and designation of new VOCs and VUIs. The specialist technical briefings contain early data and analysis on emerging variants and findings have a high level of uncertainty.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+      !f
+      !g
+      !h
+
+    / October, 2021 - UK Health Security Agency
+    quote !a = Delta remains the predominant variant accounting for approximately 99.8% of sequenced cases in England as of 11 October 2021
+
+    / October, 2021 - UK Health Security Agency
+    quote !b = Data on diversity within Delta is included – a Delta sublineage newly designated as AY.4.2 is noted to be expanding in England. It includes spike mutations A222V and Y145H. In the week beginning 27 September 2021 (the last week with complete sequencing data), this sublineage accounted for approximately 6% of all sequences generated, on an increasing trajectoryIt is now a signal in monitoring and assessment has commenced;
+
+    / October, 2021 - UK Health Security Agency
+    quote !c = There are also small numbers of new cases of Delta with E484K and Delta with E484Q.
+
+    / October, 2021 - UK Health Security Agency
+    quote !d = Environmental monitoring of wastewater samples for the presence of SARS-CoV-2 variants is being undertaken across England and is in early stages of validation as a surveillance system. Analysis shows the presence of additional novel SNPs not associated with the SARS-CoV-2 variants known to be circulating in humans, including some at biologically significant sites in the viral genome. This has also been noted in at least one international report from wastewater in another country. An investigation is being undertaken to understand whether there may be technical artefacts contributing to this finding, or whether it may reflect mutations in human or animal SARS-COV-2 infections.
+
+    / October, 2021 - UK Health Security Agency
+    quote !e = Delta with E484Q was first identified through horizon scanning on the 3 August 2021 after being detected in 6 Scottish samples between 22 and 28 July 2021. As of 11 October 2021, 257 sequences have been identified, 231 from England, 18 from Scotland, and 8 from Wales. This is an increase of 62 since the briefing of 1 October 2021. Cases have been detected across all 9 English regions, with most cases in the London (47, 24.5%), 78 of the 192 cases have history of travel.
+
+
+    / October, 2021 - UK Health Security Agency
+    quote !f = International epidemiology: As of 11 October 2021, 1,981 GISAID sequences have been assigned to the B.1.617.2 and AY sub-lineages with the additional E484Q mutation, of those 1,900 sequences had appropriate date information. Sequences have been uploaded from USA (1072), India (133), Germany (81), Sweden (76), France (58), Nigeria (35), Netherlands (17), Denmark (16), South Africa (15), Belgium (14), Switzerland (14), Ireland (12) and 36 other countries with 10 or fewer samples. The distribution of cases per country over time, based on GISAID data, indicates an increase in observations of Delta with E484Q from July through to October 2021.
+
+
+    / October, 2021 - UK Health Security Agency
+    quote !g = Delta with E484K was first detected on 22 July 2021 in UK sequences. 56 sequences have been identified as of the 11 October, with 54 from England and 2 from Scotland, an increase of 23 since the briefing of 1 October 2021. Cases have been detected across 9 English regions, with most cases in the North West (19, 44.2%). Three of the 43 cases have history of travel.
+
+    / October, 2021 - UK Health Security Agency
+    quote !h = International epidemiology: As of 11 October 2021, 454 sequences on GISAID have been assigned to the B.1.617.2 and AY sublineages with the additional E484K mutation, of those 429 had appropriate date information. Sequences have been uploaded from Turkey (109), USA (73), Denmark (33), Germany (34), France (30), India (25), Russia (20), Mexico (13), Italy (11), Spain (9), South Africa (6), Japan (5), Belgium (3), Nigeria (3), Indonesia (3), Switzerland (3), Kenya (2), Netherlands (2), Poland (2), Sri Lanka (2), Australia (1), Brazil (1), Botswana (1), Canada (1), Ecuador (1), Lebanon (1), Lithuania (1), Luxembourg (1), Malta (1), Mozambique (1), Pakistan (1), Paraguay (1), Portugal (1), Ukraine (1). The distribution of cases per country over time, based on GISAID data, indicates an increase in observations of Delta with E484K in August and September 2021, which are continuing into October 2021.
+
+
+
   #
   // Impact of SARS-CoV-2 variants on the total CD4+ and CD8+ T cell reactivity in infected or vaccinated individuals
   doi: https://doi.org/10.1016/j.xcrm.2021.100355
