@@ -3,15 +3,48 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *October_28 mean October_28
+  let *October_25 mean October_25
   let *October_12 mean October_12
+  let *October_07 mean October_07
   let *July_9 mean July_09
-  let *July_7 mean July_07
-  let *July_6 mean July_06
   let *masking mean Prevention.Masking
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *October_12, *July_9, *July_7 and *July_6). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *October_28, *October_25, *October_12, *October_07 and *July_9). You can *contribute by sending corrections and responding to open questions.
+
+
+  public: October-31-2021
+  / October 31, 2021
+  revision October_31
+    head = On October 31st, the FDA informed Moderna that the agency requires additional time to evaluate recent international analyses of the risk of myocarditis after vaccination. The FDA notified Moderna that this review may not be completed before January 2022.
+    >
+      An increased risk of myocarditis has been described for COVID-19 vaccines, including the [Moderna](https://investors.modernatx.com/news-releases/news-release-details/moderna-provides-update-timing-us-emergency-use-authorization) COVID-19 vaccine, particularly in young men and following the second dose. The U.S. Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) have stated that myocarditis following vaccination with mRNA vaccines has been rare and generally mild.
+
+
+  public: October-28-2021
+  / October 28, 2021
+  revision October_28
+    head = Merck and Ridgeback Biotherapeutics announced that molnupiravir, an investigational oral antiviral medicine, significantly reduced the risk of hospitalization or death by approximately 50% (Phase 3 MOVe-OUT trial) in at risk, non-hospitalized adult patients with mild-to-moderate COVID-19. Merck Plans to Seek Emergency Use Authorization in the U.S. Data analysis on confirmed infection and severe disease collected from an Israeli national database for all Israeli residents who had been fully vaccinated (BNT162b2 vaccine) before June 2021 indicated that immunity against the delta variant of SARS-CoV-2 waned in all age groups a few months after receipt of the second dose of vaccine.
+    -
+      Treatment.Antivirals.PolymeraseInhibitors.Molnupiravir.!Molnupiravir
+    -
+      Vaccines.Approved.Tozinameran.!Israeldeltawaning
+
+
+  public: October-25-2021
+  / October 25, 2021
+  revision October_25
+    head = Oregon Health Authority weekly breakthrough case report - October 21, 2021 showed that during the week of October 10–October 16, there were 8,423 cases of COVID-19. 6,446 were unvaccinated and 1,977 were vaccine breakthrough cases. The median age of breakthrough cases was 48 years. 35 breakthrough cases were residents of care facilities, senior living communities or other congregate living settings. 439 cases were 65 or older. 88 cases aged 12-17. The Pfizer, Moderna and Johnson & Johnson COVID-19 vaccines are all highly effective at preventing severe COVID-19 illness and death.
+    -
+      Vaccines.Approved.Ad26COV2S.!OHAweeklybreakthroughreport
+    >
+      A case series of 3 pediatric patients with COVID-19 and prominent subacute neuropsychiatric symptom found that they have intrathecal anti–SARS-CoV-2 and intrathecal antineural antibodies in their Cerebrospinal fluid (CSF) s
+    -
+      Disease.Immunity.AcquiredImmunity.Antibodies.!Diversity.!Age.!Pediatricneuropsychiatric
+
+
 
 
 
@@ -22,6 +55,13 @@ revision feed Revisions
     -
       Variants.B1617.!UKHSAtechnicalbriefing25
       Variants.B1617.!UKHSAtechnicalbreifingE484KQ
+
+  public: October-07-2021
+  / October 07, 2021
+  revision October_07
+    head = On OCT 7 2021, Nordic countries restricted the use of Moderna’s Covid vaccine centering around concerns it could be linked to cases of myocarditis. Both health authorities cited an unpublished Nordic study which had been sent to the European Medicines Agency for assessment.
+    -
+      Vaccines.Approved.mRNA-1273.Myocarditis.!Nordiccountriesmyocarditis
 
 
 

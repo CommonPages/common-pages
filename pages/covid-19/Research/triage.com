@@ -1,6 +1,12 @@
 index: hide
 . Triage
 
+
+
+
+
+
+
   // Immune responses and immunity to SARS-CoV-2
   doi: https://www.ecdc.europa.eu/en/covid-19/latest-evidence/immune-responses#:~:text=The%20detection%20of%20antibodies%20to,and%20day%2021%20after%20infection.
   ref 'European_Centre_for_Disease_Prevention_and_Control_2020

@@ -35,6 +35,19 @@ subject module Treatment
         -
           'Sheahan_et_al_2020
 
+      subject Molnupiravir
+        head = Molnupiravir (MK-4482/EIDD-2801) is an investigational, orally administered form of a potent ribonucleoside analog that inhibits the replication of SARS-CoV-2. Molnupiravir has been shown to be active in several preclinical models of SARS-CoV-2, including for prophylaxis, treatment, and prevention of transmission. Additionally, pre-clinical and clinical data have shown molnupiravir to be active against the most common SARS-CoV-2 variants. Merck and Ridgeback Biotherapeutics announced that molnupiravir (MK-4482, EIDD-2801) significantly reduced the risk of hospitalization or death by approximately 50%, Phase 3 MOVe-OUT trial in at risk, non-hospitalized adult patients with mild-to-moderate COVID-19. Merck Plans to Seek Emergency Use Authorization in the U.S.
+        -
+          !Molnupiravir
+
+        claim !Molnupiravir = Merck and Ridgeback Biotherapeutics announced that molnupiravir (MK-4482, EIDD-2801), an investigational oral antiviral medicine, significantly reduced the risk of hospitalization or death by approximately 50% compared to Placebo at a planned interim analysis of the Phase 3 MOVe-OUT trial in at risk, non-hospitalized adult patients with mild-to-moderate COVID-19. Merck Plans to Seek Emergency Use Authorization in the U.S.
+          -
+            'Merck_et_al_10_01_2021
+            'Merck_et_al_10_01_2021.!a
+            'Merck_et_al_10_01_2021.!b
+            'Merck_et_al_10_01_2021.!c
+            'Merck_et_al_10_01_2021.!d
+
     —
     / Protease Inhibitors
     subject ProteaseInhibitor

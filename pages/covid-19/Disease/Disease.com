@@ -1035,6 +1035,8 @@ subject module Disease
               'Tosif_et_al_11_11_2020
             -
               !Extremeagedindividualsandcentenarians
+            -
+              !Pediatricneuropsychiatric
 
             / Immunity robustness in Extreme old people
             claim !Extremeagedindividualsandcentenarians = A study on Extreme aged individuals and centenarians who were infected with or exposed to SARS-CoV-2 found that they were able to elicit robust IgG and IgA antibodies directed toward SARS-CoV-2 spike protein. The antibodies were able to neutralize the virus. Humoral responses were still detectable after 60 days from initial diagnosis. Recovered participants who are of extreme old age would be protected if re-exposed to the same SARS-CoV-2 viral variant.
@@ -1042,6 +1044,12 @@ subject module Disease
                 'Foley_et_al_03_08_2021
                 'Foley_et_al_03_08_2021.!a
                 'Foley_et_al_03_08_2021.!b
+
+            claim !Pediatricneuropsychiatric = A case series of 3 pediatric patients with COVID-19 and prominent subacute neuropsychiatric symptom found that they have intrathecal anti–SARS-CoV-2 and intrathecal antineural antibodies in their Cerebrospinal fluid (CSF) and may respond to immunotherapy.
+              -
+                'Bartley_et_al_10_25_2021
+                'Bartley_et_al_10_25_2021.!a
+                'Bartley_et_al_10_25_2021.!b
 
           claim !WeakResponse = There has been some speculation that mild cases may result in a weaker immune response, and in turn weaker antibody protection.
             # This paper reports waning antibodies and suggest that Asymtomatic may have weaker immune response
@@ -1072,6 +1080,9 @@ subject module Disease
           claim !TargetingC = One study noted antibody responses to SARS-CoV-2, especially to protein N, S1 but not S2.
             -
               'Jiang_et_al_2020
+
+
+      
 
         claim !Prevalence = As of September 2020, one study indicated that fewer than 10% of the US adult population formed antibodies against SARS-CoV-2, and fewer than 10% of those with antibodies had been diagnosed.
           -

@@ -9,7 +9,487 @@ feed Sangeeta
       !a
 
     / July, 2021 - JAMA Netw Open.
-    quote !a
+    quote !a =
+
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / July, 2021 - JAMA Netw Open.
+    quote !a =
+
+  #
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / July, 2021 - JAMA Netw Open.
+    quote !a =
+  #
+
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / July, 2021 - JAMA Netw Open.
+    quote !a =
+
+  // Prospective mapping of viral mutations that escape antibodies used to treat COVID
+  doi: https://doi.org/xyz
+  ref 'Doremalen_et_al_07_30_2021
+    head =
+
+    - quotes
+      !a
+
+    / July, 2021 - JAMA Netw Open.
+    quote !a =
+  #
+
+  // Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 5-8 July 202
+  doi: https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-5-8-july-2021
+  ref 'PRAC_et_al_07_09_2021
+    head = The PRAC has concluded that myocarditis and pericarditis can occur in very rare cases following vaccination with Comirnaty and Spikevax (previously COVID-19 Vaccine Moderna)
+
+    - quotes
+      !a
+      !b
+
+    / July, 2021 - EMA
+    quote !a = The Committee is therefore recommending listing myocarditis and pericarditis as new side effects in the product information for these vaccines, together with a warning to raise awareness among healthcare professionals and people taking these vaccines.
+
+    / July, 2021 - EMA
+    quote !b = This included an in-depth review of 145 cases of myocarditis in the European Economic Area (EEA) among people who received Comirnaty and 19 cases among people who received Spikevax. PRAC also reviewed reports of 138 cases of pericarditis following the use of Comirnaty and 19 cases following the use of Spikevax. As of 31 May 2021, around 177 million doses of Comirnaty and 20 million doses of Spikevax had been given in the EEA. In addition, the PRAC also looked into cases received worldwide.
+
+  #
+  // Covid-19: Sweden, Norway, and Finland suspend use of Moderna vaccine in young people “as a precaution”
+  doi: https://doi.org/10.1136/bmj.n2477
+  ref 'Paterlini_et_al_10_11_2021
+    head = Sweden, Norway, and Finland suspended the use of Moderna’s covid-19 vaccine on 7 October after reports of possible rare side effects.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / October, 2021 - BMJ
+    quote !a = The pause “for precautionary reasons” in Sweden and Finland concerns anyone born 1991 or later. In Finland, under 30s will now be offered the Pfizer vaccine as their second dose. Swedish officials are still discussing the second dose for the 81 000 under 30s who received a first dose of Moderna.
+
+    / October, 2021 - BMJ
+    quote !b = In Norway officials have suspended the use of Moderna’s vaccine in those under 18, advising that they are offered the Pfizer vaccine instead.
+
+    / October, 2021 - BMJ
+    quote !c = Myocarditis is a rare side effect of all mRNA vaccines, especially in boys and young men and mainly after the second dose. Data indicate that this occurs more often after the Moderna vaccine than Pfizer’s. This seems to apply regardless of which vaccine was given as the first dose.
+
+    # / October, 2021 - BMJ
+    # quote !d = The Nordic registry study looking at the incidence of myocarditis and pericarditis has not been completed—and therefore hasn’t been published and final conclusions cannot be drawn.
+
+    / October, 2021 - BMJ
+    quote !d = Nordic authorities emphasised that the risk of being affected by myocarditis or pericarditis is very small and that covid-19 is far more dangerous.
+
+
+  #
+  // COVID-19 mRNA vaccines in adolescents and young adults: Benefit-risk discussion
+  doi: https://www.cdc.gov/vaccines/acip/meetings/downloads/slides-2021-06/05-COVID-Wallace-508.pdf
+  ref 'Wallace_et_al_06_23_2021
+    head = This document discusses the Benefit-risk of COVID-19 mRNA vaccines in adolescents and young adults.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / June, 2021 - CDC
+    quote !a = Myocarditis after mRNA vaccines noted with highest frequency in males aged 12–29 years following 2nd dose. Early outcomes have been encouraging, but no long-term data available yet. Many cases hospitalized, usually for short duration.
+
+    / June, 2021 - CDC
+    quote !b = 133 million vaccine 2nd doses administered and 636 reported myocarditis cases as of June 11, 2021.
+
+    / June, 2021 - CDC
+    quote !c = The benefits still clearly outweigh the risks for COVID-19 vaccination in adolescents and young adults.
+
+
+  #
+  //Myocarditis Temporally Associated With COVID-19 Vaccination
+  doi: https://doi.org/10.1161/CIRCULATIONAHA.121.055891
+  ref 'Rosner_et_al_06_16_2021
+    head = We present a case series of 7 patients hospitalized for acute myocarditis-like illness after COVID-19 vaccination, from 2 US medical centers in Falls Church, VA, and Dallas, TX. All were men <40 years of age and of White or Hispanic race/ethnicity
+
+    - quotes
+      !a
+      !b
+
+    / June, 2021 - Circulation
+    quote !a = The clinical course of vaccine-associated myocarditis-like illness appears favorable, with resolution of symptoms in all patients. Given the potential morbidity of COVID-19 infection even in younger adults, the risk–benefit decision for vaccination remains highly favorable.
+
+    / June, 2021 - Circulation
+    quote !b = Treatment varied and included β-blocker and anti-inflammatory medication. Hospital length of stay was 3±1 days, and all patients’ symptoms resolved by hospital discharge
+
+
+
+
+
+  # https://www.medpagetoday.com/infectiousdisease/covid19vaccine/94892
+  // Myocarditis after BNT162b2 mRNA Vaccine against Covid-19 in Israel
+  doi: https://doi.org/10.1056/NEJMoa2109730
+  ref 'Mevorach_et_al_10_06_2021
+    head = We retrospectively reviewed data obtained from December 20, 2020, to May 31, 2021, regarding all cases of myocarditis and categorized the information using the Brighton Collaboration definition.
+
+    > Background
+      Approximately 5.1 million Israelis had been fully immunized against coronavirus disease 2019 (Covid-19) after receiving two doses of the BNT162b2 messenger RNA vaccine (Pfizer–BioNTech) by May 31, 2021. After early reports of myocarditis during adverse events monitoring, the Israeli Ministry of Health initiated active surveillance.
+
+    > Methods
+      We retrospectively reviewed data obtained from December 20, 2020, to May 31, 2021, regarding all cases of myocarditis and categorized the information using the Brighton Collaboration definition. We analyzed the occurrence of myocarditis by computing the risk difference for the comparison of the incidence after the first and second vaccine doses (21 days apart); by calculating the standardized incidence ratio of the observed-to-expected incidence within 21 days after the first dose and 30 days after the second dose, independent of certainty of diagnosis; and by calculating the rate ratio 30 days after the second dose as compared with unvaccinated persons.
+
+    > Results
+      Among 304 persons with symptoms of myocarditis, 21 had received an alternative diagnosis. Of the remaining 283 cases, 142 occurred after receipt of the BNT162b2 vaccine; of these cases, 136 diagnoses were definitive or probable. The clinical presentation was judged to be mild in 129 recipients (95%); one fulminant case was fatal. The overall risk difference between the first and second doses was 1.76 per 100,000 persons (95% confidence interval [CI], 1.33 to 2.19), with the largest difference among male recipients between the ages of 16 and 19 years (difference, 13.73 per 100,000 persons; 95% CI, 8.11 to 19.46). As compared with the expected incidence based on historical data, the standardized incidence ratio was 5.34 (95% CI, 4.48 to 6.40) and was highest after the second dose in male recipients between the ages of 16 and 19 years (13.60; 95% CI, 9.30 to 19.20). The rate ratio 30 days after the second vaccine dose in fully vaccinated recipients, as compared with unvaccinated persons, was 2.35 (95% CI, 1.10 to 5.02); the rate ratio was again highest in male recipients between the ages of 16 and 19 years (8.96; 95% CI, 4.50 to 17.83), with a ratio of 1 in 6637.
+
+
+    > Conclusions
+      The incidence of myocarditis, although low, increased after the receipt of the BNT162b2 vaccine, particularly after the second dose among young male recipients. The clinical presentation of myocarditis after vaccination was usually mild.
+
+    - quotes
+      !a
+      !b
+
+    / October, 2021 - New England Journal of Medicine
+    quote !a = The incidence of myocarditis, although low, increased after the receipt of the BNT162b2 vaccine, particularly after the second dose among young male recipients. The clinical presentation of myocarditis after vaccination was usually mild.
+
+    / October, 2021 - New England Journal of Medicine
+    quote !b = Among 304 persons with symptoms of myocarditis, 21 had received an alternative diagnosis. Of the remaining 283 cases, 142 occurred after receipt of the BNT162b2 vaccine; of these cases, 136 diagnoses were definitive or probable. The clinical presentation was judged to be mild in 129 recipients (95%); one fulminant case was fatal.
+
+
+  #
+
+  // Myocarditis after Covid-19 Vaccination in a Large Health Care Organization
+  doi: https://doi.org/10.1056/NEJMoa2110737
+  ref 'Witberg_et_al_10_06_2021
+    head = We searched the database of Clalit Health Services, the largest health care organization (HCO) in Israel, for diagnoses of myocarditis in patients who had received at least one dose of the BNT162b2 mRNA vaccine (Pfizer–BioNTech).
+
+    > Background
+      Reports have suggested an association between the development of myocarditis and the receipt of messenger RNA (mRNA) vaccines against coronavirus disease 2019 (Covid-19), but the frequency and severity of myocarditis after vaccination have not been extensively explored.
+
+    > Methods
+      We searched the database of Clalit Health Services, the largest health care organization (HCO) in Israel, for diagnoses of myocarditis in patients who had received at least one dose of the BNT162b2 mRNA vaccine (Pfizer–BioNTech). The diagnosis of myocarditis was adjudicated by cardiologists using the case definition used by the Centers for Disease Control and Prevention. We abstracted the presentation, clinical course, and outcome from the patient’s electronic health record. We performed a Kaplan–Meier analysis of the incidence of myocarditis up to 42 days after the first vaccine dose.
+
+    > Results
+      Among more than 2.5 million vaccinated HCO members who were 16 years of age or older, 54 cases met the criteria for myocarditis. The estimated incidence per 100,000 persons who had received at least one dose of vaccine was 2.13 cases (95% confidence interval [CI], 1.56 to 2.70). The highest incidence of myocarditis (10.69 cases per 100,000 persons; 95% CI, 6.93 to 14.46) was reported in male patients between the ages of 16 and 29 years. A total of 76% of cases of myocarditis were described as mild and 22% as intermediate; 1 case was associated with cardiogenic shock. After a median follow-up of 83 days after the onset of myocarditis, 1 patient had been readmitted to the hospital, and 1 had died of an unknown cause after discharge. Of 14 patients who had left ventricular dysfunction on echocardiography during admission, 10 still had such dysfunction at the time of hospital discharge. Of these patients, 5 underwent subsequent testing that revealed normal heart function.
+
+    > Conclusions
+      Among patients in a large Israeli health care system who had received at least one dose of the BNT162b2 mRNA vaccine, the estimated incidence of myocarditis was 2.13 cases per 100,000 persons; the highest incidence was among male patients between the ages of 16 and 29 years. Most cases of myocarditis were mild or moderate in severity. (Funded by the Ivan and Francesca Berkowitz Family Living Laboratory Collaboration at Harvard Medical School and Clalit Research Institute.)
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / October, 2021 - New England Journal of Medicine
+    quote !a = Among patients in a large Israeli health care system who had received at least one dose of the BNT162b2 mRNA vaccine, the estimated incidence of myocarditis was 2.13 cases per 100,000 persons; the highest incidence was among male patients (10.69 cases per 100,000 persons) between the ages of 16 and 29 years.
+
+    / October, 2021 - New England Journal of Medicine
+    quote !b = Most cases of myocarditis were mild or moderate in severity.
+
+    / October, 2021 - New England Journal of Medicine
+    quote !c = Among more than 2.5 million vaccinated HCO members who were 16 years of age or older, 54 cases met the criteria for myocarditis.
+
+
+
+
+  #
+  // Myocarditis and Pericarditis After Vaccination for COVID-19
+  doi: https://doi.org/10.1001/jama.2021.13443
+  ref 'Diaz_et_al_08_04_2021
+    head = We reviewed the clinical records of vaccine recipients to identify cases of postvaccination myocarditis or pericarditis. Forty hospitals in Washington, Oregon, Montana, and Los Angeles County, California, that were part of the Providence health care system and used the same electronic medical record (EMR) were included.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / August, 2021 - JAMA Network
+    quote !a = Two distinct self-limited syndromes, myocarditis and pericarditis, were observed after COVID-19 vaccination. Myocarditis developed rapidly in younger patients, mostly after the second vaccination. Pericarditis affected older patients later, after either the first or second dose.
+
+    / August, 2021 - JAMA Network
+    quote !b = Twenty individuals had vaccine-related myocarditis (1.0 [95% CI, 0.61-1.54] per 100 000) and 37 had pericarditis (1.8 [95% CI, 1.30-2.55] per 100 000).
+
+    / August, 2021 - JAMA Network
+    quote !c = The mean monthly number of cases of myocarditis or myopericarditis during the prevaccine period was 16.9  vs 27. during the vaccine period. The mean numbers of pericarditis cases during the same periods were 49.1 and 78.8, respectively.
+
+    / August, 2021 - JAMA Network
+    quote !d = There were no deaths.
+
+
+
+  #
+  // Myocarditis Following Immunization With mRNA COVID-19 Vaccines in Members of the US Military
+  doi: https://doi.org/10.1001/jamacardio.2021.2833
+  ref 'Montgomery_et_al_07_29_2021
+    head = This retrospective case series studied patients within the US Military Health System who experienced myocarditis after COVID-19 vaccination between January and April 2021.
+
+    > Importance
+      Myocarditis has been reported with COVID-19 but is not clearly recognized as a possible adverse event following COVID-19 vaccination.
+
+    > Objective
+      To describe myocarditis presenting after COVID-19 vaccination within the Military Health System.
+
+    > Design, Setting, and Participants
+      This retrospective case series studied patients within the US Military Health System who experienced myocarditis after COVID-19 vaccination between January and April 2021. Patients who sought care for chest pain following COVID-19 vaccination and were subsequently diagnosed with clinical myocarditis were included.
+
+    > Exposure
+      Receipt of a messenger RNA (mRNA) COVID-19 vaccine between January 1 and April 30, 2021.
+
+    > Main Outcomes and Measures
+      Clinical diagnosis of myocarditis after COVID-19 vaccination in the absence of other identified causes.
+
+    > Results
+      A total of 23 male patients (22 currently serving in the military and 1 retiree; median [range] age, 25 [20-51] years) presented with acute onset of marked chest pain within 4 days after receipt of an mRNA COVID-19 vaccine. All military members were previously healthy with a high level of fitness. Seven received the BNT162b2-mRNA vaccine and 16 received the mRNA-1273 vaccine. A total of 20 patients had symptom onset following the second dose of an appropriately spaced 2-dose series. All patients had significantly elevated cardiac troponin levels. Among 8 patients who underwent cardiac magnetic resonance imaging within the acute phase of illness, all had findings consistent with the clinical diagnosis of myocarditis. Additional testing did not identify other etiologies for myocarditis, including acute COVID-19 and other infections, ischemic injury, or underlying autoimmune conditions. All patients received brief supportive care and were recovered or recovering at the time of this report. The military administered more than 2.8 million doses of mRNA COVID-19 vaccine in this period. While the observed number of myocarditis cases was small, the number was higher than expected among male military members after a second vaccine dose.
+
+    > Conclusions and Relevance
+      In this case series, myocarditis occurred in previously healthy military patients with similar clinical presentations following receipt of an mRNA COVID-19 vaccine. Further surveillance and evaluation of this adverse event following immunization is warranted. Potential for rare vaccine-related adverse events must be considered in the context of the well-established risk of morbidity, including cardiac injury, following COVID-19 infection.
+
+    - quotes
+      !a
+      !b
+
+    / July, 2021 - JAMA Cardiol.
+    quote !a = In this case series, we describe 23 patients, including 22 previously healthy military members, with clinical evidence of myocarditis following mRNA COVID-19 vaccination (within 4 days of receipt) and meeting the CDC case definition for probable myocarditis.
+
+    / July, 2021 - JAMA Cardiol.
+    quote !b = Vigilance for rare adverse events, including myocarditis, after COVID-19 vaccination is warranted but should not diminish overall confidence in vaccination during the current pandemic.
+  #
+
+  // Patients With Acute Myocarditis Following mRNA COVID-19 Vaccination
+  doi: https://doi.org/10.1001/jamacardio.2021.2828
+  ref 'Kim_et_al_07_29_2021
+    head = In this study of 7 patients with acute myocarditis, 4 occurred within 5 days of COVID-19 vaccination between February 1 and April 30, 2021.
+
+    >
+      Importance
+      Vaccine-associated myocarditis is an unusual entity that has been described for the smallpox vaccine, but only anecdotal case reports have been described for other vaccines. Whether COVID-19 vaccination may be linked to the occurrence of myocarditis is unknown.
+
+    > Objective
+      To describe a group of 7 patients with acute myocarditis over 3 months, 4 of whom had recent messenger RNA (mRNA) COVID-19 vaccination.
+
+    > Design, Setting, and Participants
+      All patients referred for cardiovascular magnetic resonance imaging at Duke University Medical Center were asked to participate in a prospective outcomes registry. Two searches of the registry database were performed: first, to identify patients with acute myocarditis for the 3-month period between February 1 and April 30 for 2017 through 2021, and second, to identify all patients with possible vaccine-associated myocarditis for the past 20 years. Once patients with possible vaccine-associated myocarditis were identified, data available in the registry were supplemented by additional data collection from the electronic health record and a telephone interview.
+
+    > Exposures
+      mRNA COVID-19 vaccine.
+
+    > Main Outcomes and Measures
+      Occurrence of acute myocarditis by cardiovascular magnetic resonance imaging.
+
+    > Results
+      In the 3-month period between February 1 and April 30, 2021, 7 patients with acute myocarditis were identified, of which 4 occurred within 5 days of COVID-19 vaccination. Three were younger male individuals (age, 23-36 years) and 1 was a 70-year-old female individual. All 4 had received the second dose of an mRNA vaccine (2 received mRNA-1273 [Moderna], and 2 received BNT162b2 [Pfizer]). All presented with severe chest pain, had biomarker evidence of myocardial injury, and were hospitalized. Coincident testing for COVID-19 and respiratory viruses provided no alternative explanation. Cardiac magnetic resonance imaging findings were typical for myocarditis, including regional dysfunction, late gadolinium enhancement, and elevated native T1 and T2.
+
+    > Conclusions and Relevance
+      In this study, magnetic resonance imaging findings were found to be consistent with acute myocarditis in 7 patients; 4 of whom had preceding COVID-19 vaccination. Further investigation is needed to determine associations of COVID-19 vaccination and myocarditis.
+
+
+
+    - quotes
+      !a
+      !b
+      !c
+
+    # / July, 2021 - JAMA Cardiol.
+    # quote !a = We identified at our institution 4 patients with acute myocarditis occurring within days of mRNA COVID-19 vaccination. Although a causal relationship cannot be established, we note that none had a viral prodrome or had coincident testing (including COVID-19 polymerase chain reaction and respiratory virus polymerase chain reaction) that revealed an alternative explanation.
+
+    / July, 2021 - JAMA Cardiol.
+    quote !a = We identified at our institution 4 patients with acute myocarditis occurring within days of mRNA COVID-19 vaccination. All 4 patients had received the second dose of a messenger RNA (mRNA) vaccine, presented with severe chest pain, had biomarker evidence of myocardial injury, were hospitalized, and had cardiac magnetic resonance imaging findings typical of myocarditis.
+
+    / July, 2021 - JAMA Cardiol.
+    quote !b = The presenting symptom was acute onset of severe chest pain, and myocardial injury was detected by elevated troponin levels in all patients.
+
+    / July, 2021 - JAMA Cardiol.
+    quote !c = Tt is possible that these 4 cases of acute myocarditis represent a rare, potential adverse event linked to mRNA COVID-19 vaccination.
+
+
+
+
+
+  #
+  // Acute Myocarditis Following COVID-19 mRNA Vaccination in Adults Aged 18 Years or Older
+  doi: https://doi.org/10.1001/jamainternmed.2021.5511
+  ref 'Simone_et_al_10_04_2021
+    head = We evaluated acute myocarditis incidence and clinical outcomes among adults following mRNA vaccination in an integrated health care system (2,392,924 individuals) in the US.
+
+    - quotes
+      !a
+      !b
+      !c
+
+    / October, 2021 - JAMA Internal Medicine
+    quote !a = In this population-based cohort study of 2 392 924 individuals who received at least 1 dose of COVID-19 mRNA vaccines, acute myocarditis was rare, at an incidence of 0.8 cases per 1 million first doses and 5.8 cases per 1 million individuals after the second dose (1 case per 172 414 fully vaccinated individuals).
+
+    / October, 2021 - JAMA Internal Medicine
+    quote !b = Of the patients with myocarditis postvaccination, none had prior cardiac disease (Table 2). Eight patients received BNT162b2 and 7 received mRNA-1273. All were hospitalized and tested negative for SARS-CoV-2 by polymerase chain reaction on admission. Fourteen (93%) reported chest pain between 1 to 5 days after vaccination. Symptoms resolved with conservative management in all cases; no patients required intensive care unit admission or readmission after discharge.
+
+    / October, 2021 - JAMA Internal Medicine
+    quote !c = There were 15 cases of confirmed myocarditis in the vaccinated group (2 after the first dose and 13 after the second).
+
+
+
+
+
+
+
+  #
+  // Merck and Ridgeback’s Investigational Oral Antiviral Molnupiravir Reduced the Risk of Hospitalization or Death by Approximately 50 Percent Compared to Placebo for Patients with Mild or Moderate COVID-19 in Positive Interim Analysis of Phase 3 Study
+  doi: https://www.merck.com/news/merck-and-ridgebacks-investigational-oral-antiviral-molnupiravir-reduced-the-risk-of-hospitalization-or-death-by-approximately-50-percent-compared-to-placebo-for-patients-with-mild-or-moderat/
+  ref 'Merck_et_al_10_01_2021
+    head = The MOVe-OUT trial (MK-4482-002) (NCT04575597) was a global Phase 3, randomized, placebo-controlled, double-blind, multi-site study of non-hospitalized adult patients (775) with laboratory-confirmed mild to moderate COVID-19, at least one risk factor associated with poor disease outcomes, and symptom onset within five days prior to randomization. Merck Plans to Seek Emergency Use Authorization in the U.S.
+
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+
+    / October, 2021 - Merck
+    quote !a =  At the interim analysis, molnupiravir reduced the risk of hospitalization or death by approximately 50%.
+
+
+    / October, 2021 - Merck
+    quote !b =  7.3% of patients who received molnupiravir were either hospitalized or died through Day 29 following randomization, compared with 14.1% of placebo-treated patients
+
+    / October, 2021 - Merck
+    quote !c = Through Day 29, no deaths were reported in patients who received molnupiravir, as compared to 8 deaths in patients who received placebo
+
+    quote !d = The incidence of any adverse event was comparable in the molnupiravir and placebo groups (35% and 40%, respectively). Similarly, the incidence of drug-related adverse events was also comparable (12% and 11%, respectively).
+
+
+
+
+
+
+  #
+  // Anti–SARS-CoV-2 and Autoantibody Profiles in the Cerebrospinal Fluid of 3 Teenaged Patients With COVID-19 and Subacute Neuropsychiatric Symptoms
+  doi: https://doi.org/10.1001/jamaneurol.2021.3821
+  ref 'Bartley_et_al_10_25_2021
+    head = We profiled intrathecal antibodies in 3 teenaged patients with subacute neuropsychiatric symptoms after SARS-CoV-2 infection, none of whom met criteria for multisystem inflammatory syndrome in children
+
+    > Importance
+      Neuropsychiatric manifestations of COVID-19 have been reported in the pediatric population.
+
+    > Objective
+      To determine whether anti–SARS-CoV-2 and autoreactive antibodies are present in the cerebrospinal fluid (CSF) of pediatric patients with COVID-19 and subacute neuropsychiatric dysfunction.
+
+    > Design, Setting, and Participants
+      This case series includes 3 patients with recent SARS-CoV-2 infection as confirmed by reverse transcriptase–polymerase chain reaction or IgG serology with recent exposure history who were hospitalized at the University of California, San Francisco Benioff Children’s Hospital and for whom a neurology consultation was requested over a 5-month period in 2020. During this period, 18 total children were hospitalized and tested positive for acute SARS-CoV-2 infection by reverse transcriptase–polymerase chain reaction or rapid antigen test.
+
+    > Main Outcomes and Measures
+      Detection and characterization of CSF anti–SARS-CoV-2 IgG and antineural antibodies.
+
+    > Results
+      Of 3 included teenaged patients, 2 patients had intrathecal anti–SARS-CoV-2 antibodies. CSF IgG from these 2 patients also indicated antineural autoantibodies on anatomic immunostaining. Autoantibodies targeting transcription factor 4 (TCF4) in 1 patient who appeared to have a robust response to immunotherapy were also validated.
+
+    > Conclusions and Relevance
+      Pediatric patients with COVID-19 and prominent subacute neuropsychiatric symptoms, ranging from severe anxiety to delusional psychosis, may have anti–SARS-CoV-2 and antineural antibodies in their CSF and may respond to immunotherapy.
+
+    - quotes
+      !a
+      !b
+
+
+    / October, 2021 - JAMA Neurology
+    quote !a = A subset of pediatric patients with COVID-19 and subacute neuropsychiatric symptoms ranging from severe anxiety to delusional psychosis, have intrathecal anti–SARS-CoV-2 and intrathecal antineural antibodies in their Cerebrospinal fluid (CSF) and may respond to immunotherapy.
+
+    / October, 2021 - JAMA Neurology
+    quote !b = In this case series of 3 pediatric patients with subacute neuropsychiatric impairment, 2 had intrathecal anti–SARS-CoV-2 antibodies as well as intrathecal antineural antibodies. Anti–transcription factor 4 (TCF4) autoantibodies in one patient who responded to immunotherapy were validated.
+
+
+
+
+  #
+  // COVID-19 Breakthrough Report, October 21, 2021- Oregon’s Weekly Surveillance Summary
+  doi: https://www.oregon.gov/oha/covid19/Documents/DataReports/Breakthrough-Case-Report.pdf
+  ref 'OHA_et_al_10_21_2021
+    head = This report includes only those vaccine breakthrough cases which are reported to public health following a positive test result.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / Octobe, 2021 - Oregon Health Authority
+    quote !a = During the week of October 10–October 16, there were 8,423 cases of COVID-19. 6,446 were unvaccinated and 1,977  were vaccine breakthrough cases. The median age of breakthrough cases was 48 years. 35 breakthrough cases were residents of care facilities, senior living communities or other congregate living settings. 439 cases were 65 or older. There were 88 cases aged 12-17.
+
+    / Octobe, 2021 - Oregon Health Authority
+    quote !b = Cases of COVID-19 are much more common in unvaccinated individuals than in vaccinated individuals. The rate of COVID-19 cases among unvaccinated individuals in the most recent week was more than 4 times the rate of COVID-19 cases among those who are fully vaccinated. Community spread remains elevated throughout the state and is particularly high in areas with lower vaccination rates.
+
+    / Octobe, 2021 - Oregon Health Authority
+    quote !c = The Pfizer, Moderna and Johnson & Johnson COVID-19 vaccines are all highly effective at preventing severe COVID-19 illness and death. Relatively few breakthrough cases have been hospitalized, and even fewer have died.
+
+    / Octobe, 2021 - Oregon Health Authority
+    quote !d = To date, 4.4% of all known breakthrough cases have been hospitalized, and only 1% have died (n=325).7 The median age of the people who have died is 80.
+
+    / Octobe, 2021 - Oregon Health Authority
+    quote !e = Overall, approximately 6.5% of positive specimens in Oregon have been sequenced. Delta is currently the dominant variant circulating in Oregon. At this time, vaccine breakthrough cases appear to reflect the variants circulating in the community.
+
+
+
+
+  #
+  // Waning Immunity after the BNT162b2 Vaccine in Israel
+  doi: https://doi.org/10.1056/NEJMoa2114228
+  ref 'Goldberg_et_al_10_27_2021
+    head = We used data on confirmed infection and severe disease collected from an Israeli national database for the period of July 11 to 31, 2021, for all Israeli residents who had been fully vaccinated (BNT162b2 vaccine) sbefore June 2021.
+
+    > BACKGROUND
+      In December 2020, Israel began a mass vaccination campaign against coronavirus disease 2019 (Covid-19) by administering the BNT162b2 vaccine, which led to a sharp curtailing of the outbreak. After a period with almost no cases of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, a resurgent Covid-19 outbreak began in mid-June 2021. Possible reasons for the resurgence were reduced vaccine effectiveness against the delta (B.1.617.2) variant and waning immunity. The extent of waning immunity of the vaccine against the delta variant in Israel is unclear.
+
+    > METHODS
+      We used data on confirmed infection and severe disease collected from an Israeli national database for the period of July 11 to 31, 2021, for all Israeli residents who had been fully vaccinated before June 2021. We used a Poisson regression model to compare rates of confirmed SARS-CoV-2 infection and severe Covid-19 among persons vaccinated during different time periods, with stratification according to age group and with adjustment for possible confounding factors.
+
+    > RESULTS
+      Among persons 60 years of age or older, the rate of infection in the July 11–31 period was higher among persons who became fully vaccinated in January 2021 (when they were first eligible) than among those fully vaccinated 2 months later, in March (rate ratio, 1.6; 95% confidence interval [CI], 1.3 to 2.0). Among persons 40 to 59 years of age, the rate ratio for infection among those fully vaccinated in February (when they were first eligible), as compared with 2 months later, in April, was 1.7 (95% CI, 1.4 to 2.1). Among persons 16 to 39 years of age, the rate ratio for infection among those fully vaccinated in March (when they were first eligible), as compared with 2 months later, in May, was 1.6 (95% CI, 1.3 to 2.0). The rate ratio for severe disease among persons fully vaccinated in the month when they were first eligible, as compared with those fully vaccinated in March, was 1.8 (95% CI, 1.1 to 2.9) among persons 60 years of age or older and 2.2 (95% CI, 0.6 to 7.7) among those 40 to 59 years of age; owing to small numbers, the rate ratio could not be calculated among persons 16 to 39 years of age.
+
+    > CONCLUSIONS
+      These findings indicate that immunity against the delta variant of SARS-CoV-2 waned in all age groups a few months after receipt of the second dose of vaccine.
+
+    - quotes
+      !a
+      !b
+      !c
+      !d
+      !e
+
+    / October, 2021 - The New England Journal of Medicine
+    quote !a = The findings indicate that immunity against the delta variant of SARS-CoV-2 waned in all age groups a few months after receipt of the second dose of vaccine.
+
+    / October, 2021 - The New England Journal of Medicine
+    quote !b = Among persons 60 years of age or older, the rate of infection in the July 11–31 period was higher among persons who became fully vaccinated in January 2021 (when they were first eligible) than among those fully vaccinated 2 months later, in March.
+
+    / October, 2021 - The New England Journal of Medicine
+    quote !c = Among persons 40 to 59 years of age, the rate ratio for infection among those fully vaccinated in February (when they were first eligible), as compared with 2 months later, in April, was 1.7.
+
+    / October, 2021 - The New England Journal of Medicine
+    quote !d = Among persons 16 to 39 years of age, the rate ratio for infection among those fully vaccinated in March (when they were first eligible), as compared with 2 months later, in May, was 1.6.
+
+    / October, 2021 - The New England Journal of Medicine
+    quote !e = The rate ratio for severe disease among persons fully vaccinated in the month when they were first eligible, as compared with those fully vaccinated in March, was 1.8  among persons 60 years of age or older and 2.2  among those 40 to 59 years of age; owing to small numbers, the rate ratio could not be calculated among persons 16 to 39 years of age.
+
+
 
 
 

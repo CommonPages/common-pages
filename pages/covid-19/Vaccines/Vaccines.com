@@ -24,7 +24,7 @@ subject module Vaccines
 
     / Pfizer
     subject Tozinameran
-      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. The interim analysis of an observational cohort study (health care workers- Berlin, Germany) provides evidence that the heterologous ChAdOx/BNT immunisation regimen with 10-12 week vaccine intervals is well tolerated and slightly more immunogenic compared to homologous BNT/BNT vaccination with 3-week vaccine intervals. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days). 2-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) resulted in a vaccine efficacy of 100% (7 days after dose 2), was safe and immunogenic. A real-world setting study (Finland) results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members. Real world data reported that only 7 out of 28,184 healthcare workers (UCSD and UCLA) who received both doses (mRNA vaccines) tested positive >2 weeks after 2nd dose suggesting that the efficacy of these vaccines is maintained outside the trial setting.
+      head = Interim trial reports and real world data have shown favorable safety and efficacy (95%). Short-term adverse effects are moderate in frequency, mild in severity, and short-lived- more frequently reported in younger individuals, women, and among those who previously had COVID-19. Significantly reduces viral loads, thereby affecting viral shedding and contagiousness as well as severity of the disease. High effectiveness of the vaccine only starts after 3 weeks. Severe allergic reaction has been observed but appears to be a rare event. An efficacy drop off is observed against new strains, more so for B.1.351. Real world evidence has shown reduction in infection and also asymptomatic infection. Preliminary results from COM-COV trial (alternating ChAd and BNT vaccines & dosing interval) found an increase in systemic reactogenicity (fever, headaches & muscle pains) after the boost dose in heterologous vaccine schedules- all reactogenicity symptoms were short lived. The interim analysis of an observational cohort study (health care workers- Berlin, Germany) provides evidence that the heterologous ChAdOx/BNT immunisation regimen with 10-12 week vaccine intervals is well tolerated and slightly more immunogenic compared to homologous BNT/BNT vaccination with 3-week vaccine intervals. On 17 May, 2021, EMA’s human medicines committee (CHMP) has recommended a change to the approved storage conditions of the Pfizer vaccine- instead of five days, the unopened thawed vial can now be stored at 2-8°C (i.e. in a normal fridge after taking out of deep-freeze conditions) for one month (31 days). 2-dose regimen of BNT162b2 administered to adolescents (12 to 15 years) resulted in a vaccine efficacy of 100% (7 days after dose 2), was safe and immunogenic. A real-world setting study (Finland) results suggest that mRNA-based vaccines do not only prevent SARS-CoV-2 infections among vaccinated individuals but lead to a substantial reduction in infections among unvaccinated household members. Data analysis for all Israeli residents who had been fully vaccinated (BNT162b2 vaccine) before June 2021 indicated that immunity against the delta variant of SARS-CoV-2 waned in all age groups a few months after receipt of the second dose of vaccine.
 
 
       >
@@ -69,6 +69,7 @@ subject module Vaccines
         !Israelbenefitvaccinationprogram
         !IVFcycle
         !RealworldmRNAvaccines
+
       -
         !Scotland
       -
@@ -116,6 +117,10 @@ subject module Vaccines
         !Delayed2nddosepfizer
         !RealworldVEsingledose
         !Fcmediatedeffectorcellularresponse
+      - Waning immunity against Delta variant after 2nd dose
+        !Israeldeltawaning
+      - Breakthrough Cases
+        Ad26COV2S.!OHAweeklybreakthroughreport
       - Heterologous Prime Booster
         !HeterologousprimeboostChAdBNT
         !GermanyHeterologousChAdOxBNT
@@ -192,6 +197,7 @@ subject module Vaccines
         !Myocarditis
         !MyocarditisUSA
         !DelayedlargelocalreactionBIPOC
+        mRNA-1273.Myocarditis
 
       - Real World Data: Adverse Effects
         !AdverseeffectsBNT162b2ChAdOx1
@@ -1110,6 +1116,17 @@ subject module Vaccines
           'Turner_et_al_06_28_2021.!c
 
 
+
+      claim !Israeldeltawaning = Data analysis on confirmed infection and severe disease collected from an Israeli national database for the period of July 11 to 31, 2021, for all Israeli residents who had been fully vaccinated (BNT162b2 vaccine) before June 2021 indicated that immunity against the delta variant of SARS-CoV-2 waned in all age groups a few months after receipt of the second dose of vaccine.
+        -
+          'Goldberg_et_al_10_27_2021
+          'Goldberg_et_al_10_27_2021.!a
+          'Goldberg_et_al_10_27_2021.!b
+          'Goldberg_et_al_10_27_2021.!c
+          'Goldberg_et_al_10_27_2021.!d
+          'Goldberg_et_al_10_27_2021.!e
+
+
       question ?Approvals = What reports exist which detail the approval processes for the Pfizer vaccine? Are any countries withholding approval on substantive grounds?
 
     / Moderna
@@ -1168,6 +1185,8 @@ subject module Vaccines
         !2doseregimen
       - Delaying 2nd Dose
         Tozinameran.!RealworldVEsingledose
+      - Breakthrough Cases
+        Ad26COV2S.!OHAweeklybreakthroughreport
       - Old People
         !Olderpeople
         !Olderpeopledose
@@ -1212,6 +1231,7 @@ subject module Vaccines
         Tozinameran.!DelayedlargelocalreactionBIPOC
         Tozinameran.!MyocarditisUSA
         !ModernaVITT
+        Myocarditis
       >
         There have been many incidents where mRNA vaccine recipients have felt that their arm is on "fire". Scientists call it as germinal centers, where lymph nodes drain the arm after the mRNA vaccination in humans.
       - Side Effects
@@ -1421,6 +1441,116 @@ subject module Vaccines
           'Sangli_et_al_06_29_2021.!a
           'Sangli_et_al_06_29_2021.!b
 
+      / Myocarditis and pericarditis
+      subject Myocarditis
+        head = Myocarditis, a condition where the heart muscle becomes inflamed. Myocarditis and pericarditis are inflammatory conditions of the heart. Symptoms can vary but often include breathlessness, a forceful heartbeat that may be irregular (palpitations), and chest pain. There have been reports of acute myocarditis following COVID-19 mRNA vaccine administration. Data from the US and Israel show that the rare complication was clustered in young males, tended to occur after the second dose, and usually followed a benign clinical course, with most affected patients recovering after a short hospital stay. In most cases, people with myocarditis recover without any complications, but in some rare and more severe cases, there can be damage to the heart. Myocarditis was most likely to develop in younger men and boys after receiving their second dose of the Moderna vaccine. On OCT 7 2021, some European countries have paused the use of Moderna’s Covid vaccine use in people 30 and younger, citing concerns about myocarditis.
+        -
+          !MyocarditisIsraelUS
+
+        >
+          In June 2021, The Centers for Disease Control and Prevention reported a possible association between COVID-19 mRNA vaccines and myocarditis, primarily in younger male individuals within a few days after the second vaccination, at an incidence of about 4.8 cases per 1 million. The benefits still clearly outweigh the risks for COVID-19 vaccination in adolescents and young adults.
+        -
+          !CDCmyocarditis
+
+        >
+          The PRAC reviewed cases of myocarditis and pericarditis spontaneously reported in the European Economic Area (EEA). The review concluded in July 2021 with a recommendation to list both conditions as side effects in the product information for these vaccines, together with a warning to raise awareness among healthcare professionals and people getting these vaccines.
+        -
+          !PRACmyocarditis
+
+
+        >
+          On OCT 7 2021, Nordic countries restricted the use of Moderna’s Covid vaccine centering around concerns it could be linked to cases of myocarditis. Both health authorities cited an unpublished Nordic study which had been sent to the European Medicines Agency for assessment.
+        -
+          !Nordiccountriesmyocarditis
+
+
+
+
+        claim !CDCmyocarditis = CDC reported myocarditis after mRNA vaccines noted with highest frequency in males aged 12–29 years following 2nd dose. 133 million vaccine 2nd doses administered and 636 reported myocarditis cases as of June 11, 2021. Many cases hospitalized, usually for short duration. The benefits still clearly outweigh the risks for COVID-19 vaccination in adolescents and young adults.
+          -
+            'Wallace_et_al_06_23_2021
+            'Wallace_et_al_06_23_2021.!a
+            'Wallace_et_al_06_23_2021.!b
+            'Wallace_et_al_06_23_2021.!c
+
+        claim !Nordiccountriesmyocarditis = Sweden, Norway, and Finland suspended the use of Moderna’s covid-19 vaccine on 7 October after reports of possible rare side effects. Myocarditis is a rare side effect of all mRNA vaccines, especially in boys and young men and mainly after the second dose. Data indicate that this occurs more often after the Moderna vaccine than Pfizer’s. Nordic authorities emphasised that the risk of being affected by myocarditis or pericarditis is very small and that covid-19 is far more dangerous.
+
+          -
+            'Paterlini_et_al_10_11_2021
+            'Paterlini_et_al_10_11_2021.!a
+            'Paterlini_et_al_10_11_2021.!b
+            'Paterlini_et_al_10_11_2021.!c
+            'Paterlini_et_al_10_11_2021.!d
+
+        claim !PRACmyocarditis = PRAC has concluded that myocarditis and pericarditis can occur in very rare cases following vaccination with Comirnaty and Spikevax (previously COVID-19 Vaccine Moderna). The Committee is therefore recommending listing myocarditis and pericarditis as new side effects in the product information for these vaccines, together with a warning to raise awareness among healthcare professionals and people taking these vaccines.
+          -
+            'PRAC_et_al_07_09_2021
+            'PRAC_et_al_07_09_2021.!a
+            'PRAC_et_al_07_09_2021.!b
+
+
+
+        claim !MyocarditisIsraelUS = There have been reports of acute myocarditis following COVID-19 mRNA vaccine administration. Data from the US and Israel show that cases were clustered in young men, tended to occur after the second dose, and usually followed a benign clinical course, with most affected patients recovering after a short hospital stay.
+          - USA
+            !KPSC
+            !NorthCarolina
+            !FortyhospitalsUS
+            !USmilitary
+            !USmedicalcenters
+
+          - Israel
+            !IsraelClalitHealthServices
+            !Israelsurveillance
+
+          claim !KPSC = In this population-based cohort study of 2 392 924 individuals who received at least 1 dose of COVID-19 mRNA vaccines, acute myocarditis was rare, at an incidence of 0.8 cases per 1 million first doses and 5.8 cases per 1 million individuals after the second dose (1 case per 172 414 fully vaccinated individuals).
+            -
+              'Simone_et_al_10_04_2021
+              'Simone_et_al_10_04_2021.!a
+              'Simone_et_al_10_04_2021.!b
+              'Simone_et_al_10_04_2021.!c
+
+          claim !NorthCarolina = In a study of 7 patients (North Carolina) with acute myocarditis, 4 occurred within 5 days of COVID-19 vaccination (mRNA vaccines) raising the possibility of an association between mRNA COVID-19 vaccination and acute myocarditis.
+            -
+              'Kim_et_al_07_29_2021
+              'Kim_et_al_07_29_2021.!a
+              'Kim_et_al_07_29_2021.!b
+              'Kim_et_al_07_29_2021.!c
+
+          claim !FortyhospitalsUS = A review of the clinical records of vaccine recipients from forty hospitals in Washington, Oregon, Montana, and Los Angeles County, California showed myocarditis and pericarditis, were observed after COVID-19 vaccination. Myocarditis developed rapidly in younger patients, mostly after the second vaccination. Pericarditis affected older patients later, after either the first or second dose. No deaths.
+            -
+              'Diaz_et_al_08_04_2021
+              'Diaz_et_al_08_04_2021.!a
+              'Diaz_et_al_08_04_2021.!b
+              'Diaz_et_al_08_04_2021.!c
+
+          claim !USmilitary = In this case series of 23 male patients, including 22 previously healthy US military members, myocarditis was identified within 4 days of receipt of a COVID-19 vaccine. Vigilance for rare adverse events, including myocarditis, after COVID-19 vaccination is warranted but should not diminish overall confidence in vaccination during the current pandemic.
+            -
+              'Montgomery_et_al_07_29_2021
+              'Montgomery_et_al_07_29_2021.!a
+              'Montgomery_et_al_07_29_2021.!b
+
+          claim !USmedicalcenters = A case series of 7 patients hospitalized for acute myocarditis-like illness after COVID-19 vaccination, from 2 US medical centers in Falls Church, VA, and Dallas, TX. All were men <40 years of age and of White or Hispanic race/ethnicity. The clinical course appears favorable, with resolution of symptoms in all patients. Given the potential morbidity of COVID-19 infection even in younger adults, the risk–benefit decision for vaccination remains highly favorable.
+            -
+              'Rosner_et_al_06_16_2021
+              'Rosner_et_al_06_16_2021.!a
+              'Rosner_et_al_06_16_2021.!b
+
+
+
+          claim !IsraelClalitHealthServices = Among patients in a large Israeli health care system, Clalit Health Services, who had received at least one dose of the BNT162b2 mRNA vaccine, the estimated incidence of myocarditis was 2.13 cases per 100,000 persons; the highest incidence was among male patients between the ages of 16 and 29 years, reaching as high as 10.69 cases per 100,000. Most cases of myocarditis were mild or moderate in severity.
+
+            -
+              'Witberg_et_al_10_06_2021
+              'Witberg_et_al_10_06_2021.!a
+              'Witberg_et_al_10_06_2021.!b
+              'Witberg_et_al_10_06_2021.!c
+
+
+          claim !Israelsurveillance = In this study using a longer follow-up period, the Israeli government reported 136 definitive or probable cases of myocarditis across the country within 21 days after the first Pfizer dose and 30 days after the second dose. It supported the higher risk in young men.
+            -
+              'Mevorach_et_al_10_06_2021
+              'Mevorach_et_al_10_06_2021.!a
+              'Mevorach_et_al_10_06_2021.!b
 
     / Oxford–AstraZeneca
     subject AZD1222
@@ -2433,6 +2563,8 @@ subject module Vaccines
         !Phase3ENSEMBLEtrial
       - Real World Data
         !RealworldevidenceUS
+      - Breakthrough Cases
+        !OHAweeklybreakthroughreport
       - SA Variant
         !SAVariant
       -
@@ -2537,6 +2669,16 @@ subject module Vaccines
           'Yu_et_al_06_23_2021.!b
           'Yu_et_al_06_23_2021.!c
           'Yu_et_al_06_23_2021.!d
+
+
+      claim !OHAweeklybreakthroughreport = Data from the weekly breakthrough case report - October 21, 2021 showed that during the week of October 10–October 16, there were 8,423 cases of COVID-19. 6,446 were unvaccinated and 1,977 were vaccine breakthrough cases. The median age of breakthrough cases was 48 years. 35 breakthrough cases were residents of care facilities, senior living communities or other congregate living settings. 439 cases were 65 or older. 88 cases aged 12-17. The Pfizer, Moderna and Johnson & Johnson COVID-19 vaccines are all highly effective at preventing severe COVID-19 illness and death.
+        -
+          'OHA_et_al_10_21_2021
+          'OHA_et_al_10_21_2021.!a
+          'OHA_et_al_10_21_2021.!b
+          'OHA_et_al_10_21_2021.!c
+          'OHA_et_al_10_21_2021.!d
+          'OHA_et_al_10_21_2021.!e
 
     / CanSino Bio
     subject Ad5-nCOV
