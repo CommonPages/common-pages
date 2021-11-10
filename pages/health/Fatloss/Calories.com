@@ -1,3 +1,4 @@
+—
 / Good Calories Bad Calories
 subject Calories
   head =
@@ -79,10 +80,6 @@ subject Calories
 
     Tightly-controlled metabolic ward studies also show that the sugar content of a diet doesn’t matter much.
     One study of 17 men compared a 25 percent sugar, high-carbohydrate diet to a 2 percent sugar, very-low-carbohydrate (ketogenic) diet of equal calories. After four weeks, they found that the high-carbohydrate diet caused slightly more body fat loss than the very-low-carbohydrate (ketogenic) diet, despite the fact that the two diets diﬀered more than tenfold in sugar content.    https://pubmed.ncbi.nlm.nih.gov/27385608/
-
-
-
-
 
     ANIMAL STUDIES
     We see similar results in mice and in rats: “Animals fed a low-fat, high-sucrose (LH) diet were actually leaner than animals fed a high-complex-carbohydrate diet.”     https://pubmed.ncbi.nlm.nih.gov/7752914/

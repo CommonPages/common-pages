@@ -1,8 +1,9 @@
+—
 / Diets
 subject Diets
-  head =
+  head = There’s a lot of disagreement about which diet is best for weight loss.
 
-  > Mystery 8: Diets Don’t Work
+  > 
     There’s a lot of disagreement about which diet is best for weight loss.
     people have come to blows over whether you lose more weight on keto or on the Mediterranean diet, but meta-analysis consistently finds that there is little difference between different diets. Some people do lose weight on diets. Some of them even lose a lot of weight. But the best research finds that diets just don’t work very well in general, and that no one diet seems to be better than any other. For example, a 2013 review of 4 meta-analyses said:
     Numerous randomized trials comparing diets differing in macronutrient compositions (eg, low-carbohydrate, low-fat, Mediterranean) have demonstrated differences in weight loss and metabolic risk factors that are small (ie, a mean difference of <1 kg) and inconsistent.

@@ -1,6 +1,7 @@
+—
 / Setpoint
 subject Setpoint
-  head =
+  head = The set point idea basically says that the body will attempt to defend some body weight (or body fat) level (or perhaps range) by adjusting things such as metabolic rate, activity, hunger, etc. in response to changes in weight or fat. It’s most likely body fat levels that are being regulated, more than absolute body weight per se.
 
   # Set points, Settling points and Bodyweight Regulation
   > https://bodyrecomposition.com/fat-loss/set-points-and-settling-points

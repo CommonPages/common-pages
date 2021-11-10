@@ -1,6 +1,9 @@
+—
 / Genes regulating food intake and energy homeostasis.
 subject Gene
-  head = The Agouti-related protein (AgRP), neuropeptide Y (NPY), proopiomelanocortin (POMC), cocaine and amphetamine-regulated transcript (CART), Orexin, melanin concentrating hormone (MCH), leptin, and its hypothalamic receptor (LR) are key regulators of food intake and energy homeostasis.  REF: Circadian expression of genes regulating food intake - https://pubmed.ncbi.nlm.nih.gov/17372310/
+  head = The Agouti-related protein (AgRP), neuropeptide Y (NPY), proopiomelanocortin (POMC), cocaine and amphetamine-regulated transcript (CART), Orexin, melanin concentrating hormone (MCH), leptin, and its hypothalamic receptor (LR) are key regulators of food intake and energy homeostasis.
+
+  # REF: Circadian expression of genes regulating food intake - https://pubmed.ncbi.nlm.nih.gov/17372310/
 
   >
     Neurons that express pro-opiomelanocortin (POMC) and cocaine- and amphetamine-regulated transcript (CART) in the arcuate nucleus of the hypothalamus suppress feeding and increase energy expenditure in response to circulating adiposity signals such as leptin. Alterations in gene expression may lead to long term modification of this circuit and alterations in body weight.

@@ -3,6 +3,7 @@
 revision feed Revisions
   let *living_document mean assets.Community
   let *contribute mean assets.Contribute
+  let *October_31 mean October_31
   let *October_28 mean October_28
   let *October_25 mean October_25
   let *October_12 mean October_12
@@ -12,7 +13,7 @@ revision feed Revisions
   let *Transmission mean Transmission
   let *Disease mean Disease
 
-  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *October_28, *October_25, *October_12, *October_07 and *July_9). You can *contribute by sending corrections and responding to open questions.
+  head = Common COVID-19 is a *living_document which represents the work of many authors. It is continuously revised to reflect the developing research landscape (most recently on *October_31, *October_28, *October_25, *October_12, *October_07 and *July_9). You can *contribute by sending corrections and responding to open questions.
 
 
   public: October-31-2021

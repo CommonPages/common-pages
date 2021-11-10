@@ -1,9 +1,10 @@
+—
 / AnimalStudies
 subject Animalstudies
-  head =
+  head = Humans aren’t the only ones who are growing more obese — lab animals and even wild animals are becoming more obese as well.
 
-  > Mystery 5: Lab Animals and Wild Animals
-    Humans aren’t the only ones who are growing more obese — lab animals and even wild animals are becoming more obese as well.
+  > Lab Animals and Wild Animals
+
     https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2010.1890
 
     Primates and rodents living in research colonies, feral rodents living in our cities, and domestic pets like dogs and cats are all steadily getting fatter and fatter. This can’t be attributed to changes in what they eat, because lab animals live in contained environments with highly controlled diets. They’re being fed the same foods as always, but for some reason, they’re getting fatter.

@@ -2,61 +2,62 @@
 subject Leptin
   head =
 
-  > SUMMARIZING - QUESTIONS - FIND PAPERS
-    Human bodyweight appears to be biologically regulated, that is it makes some attempt (that can be overcome by environment, of course) to maintain body fat within some range or level.
+  # > SUMMARIZING - QUESTIONS - FIND PAPERS
+  #   Human bodyweight appears to be biologically regulated, that is it makes some attempt (that can be overcome by environment, of course) to maintain body fat within some range or level.
+  #
+  #   The system regulating body fat is assymetrical, for most people it defends against fat loss much more strongly than against weight gain.
+  #
+  #   For proper regulation, the body needs a way of ‘knowing’ two things: how much fat you’re carrying and how much you’re eating; a variety of hormones play a role here.
+  #
+  #   At least in terms of indicating the amount of body fat is present, the hormones leptin and insulin appear to play a major role. Leptin scales with subcutaneous body fat levels (higher in women), insulin scales with visceral fat levels (usually higher in men); there is some indication of a gender difference in response to the different hormones.
+  #
+  #
+  #   Leptin and insulin also both change with changing food intake; leptin levels can drop significantly within a few days of dieting even with no change in body fat levels. Insulin changes meal to meal.
+  #
+  #
+  #   When people reduce calories and lose fat, leptin levels drop, and this appears to be a major part of the overall adaptations to dieting in terms of metabolic rate, hunger, etc.
+  #
+  #   While leptin certainly isn’t the only hormone involved it appears to be one of the major ones not only having direct effects but also impacting how well or how poorly other hormones (such as CCK) work in the brain.
+  #
+  #   While studies have found that raising leptin in overweight individuals typically does little (for reasons related to either leptin resistance or insufficiency in the brain), preventing leptin from dropping during a diet (or raising it) appears to reverse many of adaptations that occur.
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  # # Bodyweight Regulation: Leptin and More https://bodyrecomposition.com/fat-loss/bodyweight-regulation-leptin-and-more
+  # >
+  #   For decades there has been a lot of debate over the idea that bodyweight is regulated.   Decades of research suggests that there is a biological setpoint although others feel that a bodyweight settling point is a more accurate description of the system.  Likely both play a role. - FIND PAPERS
+  #
+  #
+  #   An additional question is whether it is bodyweight or body fat that is being regulated.  Likely both play some sort of a role.  However, inasmuch as body fat levels tend to be the most impacted by a diet, it makes sense that a primary signal to the brain of what was going on would reside in the body fat.  The question then became what it was or even might be.
+  #
+  #   It would be decades later that the answer, or at least a partial answer would become apparent.  That answer was leptin.
+  #
+  #
+  # >
+  #   The Eventual Discovery of Leptin
+  #
+  #   In 1994, the gene for a hormone that would eventually be called leptin (from the Greek “leptos” for thin) was discovered in the OB (OB stands for obesity) mouse. The OB mouse had been studied for decades and was spontaneously overweight with a low resting metabolic rate, low levels of activity, etc. It ate a lot, put on fat easily, etc.  Superficially, the OB mouse appeared to be similar to obese humans (except furrier).It turns out that the OB/OB mouse doesn’t produce leptin at all, it has a gene defect and makes zero leptin.
+  #
+  #   The discovery of leptin in 1994 has opened a new field in obesity research.
+  #
+  #   The existence of mice (ob/ob mice) with a genetic defect causing obesity and type II diabetes has been known since 1950.
+  #
+  #   The gene product of the ob locus is important in the regulation of body weight. The ob product was shown to be present as a 16-kilodalton protein in mouse and human plasma but was undetectable in plasma from C57BL/6J ob/ob mice.
+  #
+  #   Genetic studies in mice have identified the ob gene product as a potential signaling factor regulating body weight homeostasis and energy balance. It is suggested that modulation of ob gene expression results in changes in body weight and food intake.
+  #   Mutation of the obese gene results in marked obesity and type II diabetes as part of a syndrome that resembles morbid obesity in huma
+  #   Genetic disruption of ob gene causes massive obesity
+  #
+  #   Observations that ob mice, which do not produce leptin, are massively obese and that both they and wild-type mice lose weight when given leptin support the hypothesis.
+  #
+  #   The extreme obesity of the obese (ob/ob) mouse is attributable to mutations in the gene encoding leptin1, an adipocyte-specific secreted protein which has profound effects on appetite and energy expenditure
 
-    The system regulating body fat is assymetrical, for most people it defends against fat loss much more strongly than against weight gain.
-
-    For proper regulation, the body needs a way of ‘knowing’ two things: how much fat you’re carrying and how much you’re eating; a variety of hormones play a role here.
-
-    At least in terms of indicating the amount of body fat is present, the hormones leptin and insulin appear to play a major role. Leptin scales with subcutaneous body fat levels (higher in women), insulin scales with visceral fat levels (usually higher in men); there is some indication of a gender difference in response to the different hormones.
-
-
-    Leptin and insulin also both change with changing food intake; leptin levels can drop significantly within a few days of dieting even with no change in body fat levels. Insulin changes meal to meal.
-
-
-    When people reduce calories and lose fat, leptin levels drop, and this appears to be a major part of the overall adaptations to dieting in terms of metabolic rate, hunger, etc.
-
-    While leptin certainly isn’t the only hormone involved it appears to be one of the major ones not only having direct effects but also impacting how well or how poorly other hormones (such as CCK) work in the brain.
-
-    While studies have found that raising leptin in overweight individuals typically does little (for reasons related to either leptin resistance or insufficiency in the brain), preventing leptin from dropping during a diet (or raising it) appears to reverse many of adaptations that occur.
-
-
-
-
-
-
-
-
-  # Bodyweight Regulation: Leptin and More https://bodyrecomposition.com/fat-loss/bodyweight-regulation-leptin-and-more
-  >
-    For decades there has been a lot of debate over the idea that bodyweight is regulated.   Decades of research suggests that there is a biological setpoint although others feel that a bodyweight settling point is a more accurate description of the system.  Likely both play a role. - FIND PAPERS
-
-
-    An additional question is whether it is bodyweight or body fat that is being regulated.  Likely both play some sort of a role.  However, inasmuch as body fat levels tend to be the most impacted by a diet, it makes sense that a primary signal to the brain of what was going on would reside in the body fat.  The question then became what it was or even might be.
-
-    It would be decades later that the answer, or at least a partial answer would become apparent.  That answer was leptin.
-
-
-  >
-    The Eventual Discovery of Leptin
-
-    In 1994, the gene for a hormone that would eventually be called leptin (from the Greek “leptos” for thin) was discovered in the OB (OB stands for obesity) mouse. The OB mouse had been studied for decades and was spontaneously overweight with a low resting metabolic rate, low levels of activity, etc. It ate a lot, put on fat easily, etc.  Superficially, the OB mouse appeared to be similar to obese humans (except furrier).It turns out that the OB/OB mouse doesn’t produce leptin at all, it has a gene defect and makes zero leptin.
-
-    The discovery of leptin in 1994 has opened a new field in obesity research.
-
-    The existence of mice (ob/ob mice) with a genetic defect causing obesity and type II diabetes has been known since 1950.
-
-    The gene product of the ob locus is important in the regulation of body weight. The ob product was shown to be present as a 16-kilodalton protein in mouse and human plasma but was undetectable in plasma from C57BL/6J ob/ob mice.
-
-    Genetic studies in mice have identified the ob gene product as a potential signaling factor regulating body weight homeostasis and energy balance. It is suggested that modulation of ob gene expression results in changes in body weight and food intake.
-    Mutation of the obese gene results in marked obesity and type II diabetes as part of a syndrome that resembles morbid obesity in huma
-    Genetic disruption of ob gene causes massive obesity
-
-    Observations that ob mice, which do not produce leptin, are massively obese and that both they and wild-type mice lose weight when given leptin support the hypothesis.
-
-    The extreme obesity of the obese (ob/ob) mouse is attributable to mutations in the gene encoding leptin1, an adipocyte-specific secreted protein which has profound effects on appetite and energy expenditure
-
+  > 
     Studies in rodents have shown that leptin acts in the central nervous system to modulate food intake and energy metabolism.
   -
     !Mutatedobgene

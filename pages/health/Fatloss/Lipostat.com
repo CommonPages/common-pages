@@ -1,11 +1,10 @@
+—
 / Lipostat
 subject Lipostat
-  head =
+  head = There is one theory of obesity which is almost entirely satisfying, based around the body’s ability to regulate its adiposity.
 
 
-  >
-    2.5    Lipostat
-
+  > Lipostat
     There is one theory of obesity which is almost entirely satisfying, based around the body’s ability to regulate its adiposity.
     A house has a thermostat. The owner of the house sets the temperature to 72 degrees F. The thermostat detects the temperature of the house and takes action to drive the temperature to the set point of 72°F. If the house is too cold, the thermostat will turn on the furnace. If the house is too warm, the thermostat will turn on the air conditioning.- The human body has a lipostat (from the Greek lipos, meaning fat). Evolution and environmental factors set body fatness to some range — perhaps a BMI of around 23. The lipostat detects how much fat is stored and takes action to drive body fatness to the set point of a BMI of 23. If your body is too thin, the lipostat will drive you to eat more, exercise less, sleep more, and store more of what you eat as fat. If your body is too fat, the lipostat will turn on the air conditioning. Just kidding, the lipostat will drive you to eat less, move and fidget more, and store less of the food you eat as fat.
 

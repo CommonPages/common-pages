@@ -1,6 +1,7 @@
+—
 / Environment
 subject Environment
-  head =
+  head = One of the mysterious aspects of obesity is that it is correlated with altitude. People who live at higher altitudes have lower rates of obesity. People tend to be leaner at high altitudes and fatter near sea level. The obesity epidemic is caused by one or more environmental contaminants, compounds in our water, food, air, at our jobs and in our homes, that change how our bodies regulate weight. These contaminants are the only cause of the obesity epidemic, and the worldwide increase in obesity rates since 1980 is entirely attributable to their effects
 
 
 
@@ -57,7 +58,6 @@ subject Environment
 
   subject EnvironmentalFactors
     head =
-
     > Part III
       A Chemical Hunger – Part III: Environmental Contaminants
 

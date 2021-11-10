@@ -1,10 +1,10 @@
+—
 / Palatable Food
 subject Palatablefood
-  head =
+  head =  Lab rats gain some weight on high-fat diets, but they gain much more weight on a “cafeteria diet” of human foods like Froot Loops [sic] and salami. We see a similar pattern of results in humans. With access to lots of calorie-dense, tasty foods, people reliably overeat and rapidly gain weight. But again, it’s not just the contents. For some reason, eating more fat or sugar by itself isn’t as fattening as the cafeteria diet.
 
-  >
-    Mystery 6: Palatable Human Food
-    Lab rats gain some weight on high-fat diets, but they gain much more weight on a “cafeteria diet” of human foods like Froot Loops [sic] and salami (see also here).
+  > Palatable Human Food
+    Lab rats gain some weight on high-fat diets, but they gain much more weight on a “cafeteria diet” of human foods like Froot Loops [sic] and salami .
     REF: Cafeteria Diet Is a Robust Model of Human Metabolic Syndrome With Liver and Adipose Inflammation: Comparison to High-Fat Diet
     REF: Dietary obesity in adult rats: Similarities to hypothalamic and human obesity syndromes
 

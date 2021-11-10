@@ -1,6 +1,7 @@
+—
 / CICO
 subject Cico
-  head =
+  head = A popular theory of obesity is that it’s simply a question of calories in versus calories out (CICO). You eat a certain number of calories every day, and you expend some number of calories based on your metabolic needs and physical activity. If you eat more calories than you expend, you store the excess as fat and gain weight, and if you expend more than you eat, you burn fat and lose weight.
 
   >
     2.1    Calories In, Calories Out

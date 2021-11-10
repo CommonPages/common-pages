@@ -1,6 +1,7 @@
+—
 / Hunter Gatherers
 subject Huntergatherers
-  head =
+  head = A common assumption is that humans evolved eating a highly varied diet of wild plants and animals, that our bodies still crave variety, and that we would be better off with a more varied diet. But when we look at modern hunter-gatherers, we see this isn’t true.
 
   > Mystery 4: Hunter-Gatherers
 
